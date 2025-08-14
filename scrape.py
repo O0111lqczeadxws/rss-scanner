@@ -57,6 +57,7 @@ def _normalize_url(u: str) -> str:
         return u
 
 def _clean_summary(s: str) -> str:
+    """Strip HTML tags/entities and collapse whitespace."""
     if not s: return ""
     s = re.sub(r"<[^>]+>", " ", s)   # remove HTML tags
     s = html.unescape(s)
@@ -201,14 +202,13 @@ def main():
                 stats["entries_seen"] += 1
                 item = norm_item(src, e)
 
-                # Parse date-only published_utc back to a datetime for cutoff comparison
+                # Compare against cutoff using date-only published_utc
                 try:
                     pub_dt = dtparse.isoparse(item["published_utc"])  # YYYY-MM-DD
                     if pub_dt.tzinfo is None:
                         pub_dt = pub_dt.replace(tzinfo=timezone.utc)
                     else:
                         pub_dt = pub_dt.astimezone(timezone.utc)
-                    # Ensure midnight UTC for date-only
                     pub_dt = pub_dt.replace(hour=0, minute=0, second=0, microsecond=0, tzinfo=timezone.utc)
                 except Exception:
                     pub_dt = datetime.now(timezone.utc)
@@ -253,6 +253,34 @@ def main():
             for ln in f:
                 try: old_items.append(json.loads(ln))
                 except Exception: pass
+
+    # --- MIGRATE legacy records to date-only + cleaned summaries ---
+    def _migrate_legacy_item(o):
+        # published_utc -> YYYY-MM-DD
+        pu = o.get("published_utc", "")
+        if pu:
+            if len(pu) >= 10 and pu[4] == "-" and pu[7] == "-":
+                o["published_utc"] = pu[:10]
+            else:
+                dt = parse_dt(pu) or datetime.now(timezone.utc)
+                o["published_utc"] = dt.strftime("%Y-%m-%d")
+        else:
+            iu = o.get("ingested_utc", "")
+            o["published_utc"] = (iu[:10] if len(iu) >= 10 and iu[4] == "-" else
+                                  datetime.now(timezone.utc).strftime("%Y-%m-%d"))
+
+        # retrieved_date -> YYYY-MM-DD (new field)
+        if "retrieved_date" not in o or not o.get("retrieved_date"):
+            iu = o.get("ingested_utc", "")
+            o["retrieved_date"] = (iu[:10] if len(iu) >= 10 and iu[4] == "-" else
+                                   datetime.now(timezone.utc).strftime("%Y-%m-%d"))
+
+        # Clean summary HTML
+        o["summary"] = _clean_summary(o.get("summary", ""))
+
+        return o
+
+    old_items = [_migrate_legacy_item(o) for o in old_items]
 
     # Merge, sort, keep last N
     all_items = old_items + new_items
