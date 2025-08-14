@@ -1,84 +1,72 @@
 {
-  "started_utc": "2025-08-14T16:31:59Z",
-  "ended_utc": "2025-08-14T16:33:06Z",
-  "new_items_this_run": 291,
-  "total_in_latest": 362,
+  "started_utc": "2025-08-14T16:59:47Z",
+  "ended_utc": "2025-08-14T17:01:07Z",
+  "new_items_this_run": 6,
+  "total_in_latest": 368,
   "by_source": {
-    "SEC_Press": 3,
+    "SEC_Press": 0,
     "SEC_Enforcement": 0,
-    "Fed_AllPress": 3,
+    "Fed_AllPress": 0,
     "Fed_MonetaryPolicy": 0,
-    "Fed_Speeches": 1,
+    "Fed_Speeches": 0,
     "Treasury_Press": 0,
     "OFAC_Actions": 0,
     "BLS_Releases": 0,
     "BEA_Press": 0,
-    "CFTC_Press": 2,
-    "CFTC_Enforcement": 1,
-    "CFTC_Speeches": 1,
-    "OCC_News": 1,
-    "FDIC_Press": 3,
+    "CFTC_Press": 0,
+    "CFTC_Enforcement": 0,
+    "CFTC_Speeches": 0,
+    "OCC_News": 0,
+    "FDIC_Press": 0,
     "Bank_of_Canada_Press": 0,
     "IEA_News": 0,
     "OPEC_Press": 0,
     "CME_Press": 0,
     "CME_ProductUpdates": 0,
-    "FCA_News": 4,
+    "FCA_News": 0,
     "ESMA_News": 0,
-    "CoinDesk": 20,
-    "Cointelegraph": 17,
-    "Decrypt": 34,
-    "TheDefiant": 46,
-    "BitMEX_Blog": 7,
-    "Glassnode_Insights": 4,
+    "CoinDesk": 0,
+    "Cointelegraph": 1,
+    "Decrypt": 0,
+    "TheDefiant": 0,
+    "BitMEX_Blog": 0,
+    "Glassnode_Insights": 0,
     "Kaiko_Blog": 0,
     "IntoTheBlock_Blog": 0,
     "Nansen_Research": 0,
-    "Chainalysis_Blog": 2,
-    "Ethereum_Foundation": 1,
+    "Chainalysis_Blog": 1,
+    "Ethereum_Foundation": 0,
     "BitcoinCore_Releases": 0,
-    "Geth_Releases": 1,
+    "Geth_Releases": 0,
     "Prysm_Releases": 0,
     "Solana_Releases": 0,
-    "Chainlink_Blog": 5,
+    "Chainlink_Blog": 0,
     "Reuters_Business": 0,
     "Reuters_World": 0,
     "Reuters_Markets": 0,
-    "BBC_World": 13,
-    "BBC_Business": 13,
-    "BBC_Technology": 5,
-    "Guardian_Business": 27,
-    "Guardian_World": 26,
+    "BBC_World": 0,
+    "BBC_Business": 0,
+    "BBC_Technology": 0,
+    "Guardian_Business": 0,
+    "Guardian_World": 3,
     "WSJ_US_Business": 0,
     "WSJ_World": 0,
     "MarketWatch_Top": 0,
-    "NYTimes_Business": 28,
+    "NYTimes_Business": 0,
     "CNN_Top": 0,
-    "NPR_Business": 8,
-    "FT_Home": 3,
-    "FT_Markets": 12,
+    "NPR_Business": 1,
+    "FT_Home": 0,
+    "FT_Markets": 0,
     "CNBC_Top": 0
   },
   "errors": [
     {
-      "source": "SEC_Enforcement",
-      "error": "<unknown>:33:2: mismatched tag"
-    },
-    {
-      "source": "Fed_AllPress",
-      "error": "document declared as us-ascii, but parsed as utf-8"
-    },
-    {
-      "source": "Fed_MonetaryPolicy",
-      "error": "document declared as us-ascii, but parsed as utf-8"
-    },
-    {
-      "source": "Fed_Speeches",
-      "error": "document declared as us-ascii, but parsed as utf-8"
-    },
-    {
       "source": "Treasury_Press",
       "error": "<unknown>:7:45: not well-formed (invalid token)"
+    },
+    {
+      "source": "https://www.home.treasury.gov/ofac-recent-actions.xml",
+      "error": "requests error: HTTPSConnectionPool(host='www.home.treasury.gov', port=443): Max retries exceeded with url: /ofac-recent-actions.xml (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x0000020275C5D290>: Failed to resolve 'www.home.treasury.gov' ([Errno 11001] getaddrinfo failed)\"))"
     },
     {
       "source": "OFAC_Actions",
@@ -86,15 +74,11 @@
     },
     {
       "source": "BLS_Releases",
-      "error": "<unknown>:19:27: not well-formed (invalid token)"
+      "error": "<unknown>:9:118: not well-formed (invalid token)"
     },
     {
       "source": "BEA_Press",
       "error": "<unknown>:20:78: not well-formed (invalid token)"
-    },
-    {
-      "source": "Bank_of_Canada_Press",
-      "error": "<unknown>:102:18: not well-formed (invalid token)"
     },
     {
       "source": "IEA_News",
@@ -102,7 +86,7 @@
     },
     {
       "source": "OPEC_Press",
-      "error": "<unknown>:70:2: mismatched tag"
+      "error": "<unknown>:69:50: undefined entity"
     },
     {
       "source": "CME_Press",
@@ -117,20 +101,32 @@
       "error": "<unknown>:2:2072: not well-formed (invalid token)"
     },
     {
+      "source": "https://blog.intotheblock.com/feed",
+      "error": "requests error: HTTPSConnectionPool(host='blog.intotheblock.com', port=443): Max retries exceeded with url: /feed (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002027704DFD0>: Failed to resolve 'blog.intotheblock.com' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
       "source": "IntoTheBlock_Blog",
       "error": "<urlopen error [Errno 11001] getaddrinfo failed>"
     },
     {
-      "source": "Nansen_Research",
-      "error": "text/html; charset=utf-8 is not an XML media type"
+      "source": "https://feeds.reuters.com/reuters/businessNews",
+      "error": "requests error: HTTPSConnectionPool(host='feeds.reuters.com', port=443): Max retries exceeded with url: /reuters/businessNews (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x0000020276EC8B50>: Failed to resolve 'feeds.reuters.com' ([Errno 11001] getaddrinfo failed)\"))"
     },
     {
       "source": "Reuters_Business",
       "error": "<urlopen error [Errno 11001] getaddrinfo failed>"
     },
     {
+      "source": "https://feeds.reuters.com/reuters/worldNews",
+      "error": "requests error: HTTPSConnectionPool(host='feeds.reuters.com', port=443): Max retries exceeded with url: /reuters/worldNews (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x0000020276FE77D0>: Failed to resolve 'feeds.reuters.com' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
       "source": "Reuters_World",
       "error": "<urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "source": "https://feeds.reuters.com/reuters/marketsNews",
+      "error": "requests error: HTTPSConnectionPool(host='feeds.reuters.com', port=443): Max retries exceeded with url: /reuters/marketsNews (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x0000020275CB6890>: Failed to resolve 'feeds.reuters.com' ([Errno 11001] getaddrinfo failed)\"))"
     },
     {
       "source": "Reuters_Markets",
@@ -141,12 +137,16 @@
       "error": "<unknown>:269:147: not well-formed (invalid token)"
     },
     {
+      "source": "https://rss.cnn.com/rss/cnn_topstories.rss",
+      "error": "requests error: HTTPSConnectionPool(host='rss.cnn.com', port=443): Max retries exceeded with url: /rss/cnn_topstories.rss (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)')))"
+    },
+    {
       "source": "CNN_Top",
       "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>"
     },
     {
       "source": "CNBC_Top",
-      "error": "<unknown>:2:415065: not well-formed (invalid token)"
+      "error": "<unknown>:10:2: mismatched tag"
     }
   ],
   "feed_files": [
@@ -181,16 +181,16 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 304,
-    "passed_allowlist": 42,
-    "failed_all_filters": 152
+    "passed_keywords": 303,
+    "passed_allowlist": 40,
+    "failed_all_filters": 154
   },
   "stats": {
     "feeds_total": 54,
     "feeds_error": 0,
-    "entries_seen": 814,
-    "too_old": 316,
+    "entries_seen": 806,
+    "too_old": 309,
     "dup_title_url": 7,
-    "dup_id": 48
+    "dup_id": 330
   }
 }
