@@ -1,6 +1,6 @@
 SEC_Press	https://www.sec.gov/news/pressreleases.rss
-SEC_Enforcement	https://www.sec.gov/rss/litigation/litreleases.xml
-Fed_AllPress	https://www.federalreserve.gov/feeds/press_all.xml
+SEC_Enforcement	https://www.sec.gov/rss/litigation/litreleases.xml  [BROKEN]
+Fed_AllPress	https://www.federalreserve.gov/feeds/press_all.xml  [CAP=1]
 Fed_MonetaryPolicy	https://www.federalreserve.gov/feeds/press_monetary.xml
 Fed_Speeches	https://www.federalreserve.gov/feeds/speeches.xml
 Treasury_Press	https://home.treasury.gov/news/press-releases/rss
