@@ -128,16 +128,37 @@ for ff in FEED_FILES:
         with open(ff, "r", encoding="utf-8") as f:
             feed_urls.extend([ln.strip() for ln in f if ln.strip() and not ln.startswith("#")])
 
+# Stats counters
+stats = {
+    "feeds_total": len(feed_urls),
+    "feeds_error": 0,
+    "entries_seen": 0,
+    "passed_keywords": 0,
+    "passed_allowlist": 0,
+    "failed_all_filters": 0
+}
+
 new_items = []
 for url in feed_urls:
     try:
         parsed = feedparser.parse(url)
         for entry in parsed.entries[:MAX_ITEMS_PER_FEED]:
+            stats["entries_seen"] += 1
             title = entry.get("title", "")
             summary = entry.get("summary", "")
             link = entry.get("link", "")
-            if not (match_keywords(title + " " + summary) or domain_allowed(link)):
+
+            keyword_ok = match_keywords(title + " " + summary)
+            allow_ok = domain_allowed(link)
+
+            if keyword_ok:
+                stats["passed_keywords"] += 1
+            elif allow_ok:
+                stats["passed_allowlist"] += 1
+            else:
+                stats["failed_all_filters"] += 1
                 continue
+
             pu = entry.get("published", "") or entry.get("updated", "")
             dt = parse_dt(pu) or datetime.now(timezone.utc)
             published_date = dt.strftime("%Y-%m-%d")
@@ -153,6 +174,7 @@ for url in feed_urls:
                 "ingested_utc": ingested_now
             })
     except Exception as e:
+        stats["feeds_error"] += 1
         print(f"Error fetching {url}: {e}")
 
 # ======== MERGE & SAVE ========
@@ -168,3 +190,18 @@ with open(CSV_PATH, "w", encoding="utf-8") as f:
     f.write("published_utc,retrieved_date,source,title,url,id_key\n")
     for item in all_items_sorted:
         f.write(f"{item['published_utc']},{item['retrieved_date']},{item['source']},{item['title']},{item['url']},{item['id_key']}\n")
+
+# ======== STATUS OUTPUT ========
+status = {
+    "started_utc": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+    "new_items_this_run": len(new_items),
+    "total_in_latest": len(all_items_sorted),
+    "filters": {
+        "passed_keywords": stats["passed_keywords"],
+        "passed_allowlist": stats["passed_allowlist"],
+        "failed_all_filters": stats["failed_all_filters"]
+    },
+    "stats": stats
+}
+
+print(json.dumps(status, indent=2))
