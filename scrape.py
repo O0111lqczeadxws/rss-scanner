@@ -1,4 +1,4 @@
-import os, json, hashlib, time, csv
+import os, json, hashlib, time, csv, re
 from collections import Counter
 from datetime import datetime, timezone, timedelta
 from dateutil import parser as dtparse
@@ -10,7 +10,7 @@ JSONL_PATH = os.path.join(OUT_DIR, "articles.jsonl")
 LATEST_PATH = os.path.join(OUT_DIR, "latest.json")
 CSV_PATH   = os.path.join(OUT_DIR, "articles.csv")
 
-# Back-compat: will still use feeds.txt if split lists aren't present
+# Back-compat: still uses feeds.txt if split lists aren't present
 DEFAULT_FEEDS = "feeds.txt"
 INCLUDE_GENERAL = os.getenv("INCLUDE_GENERAL", "false").lower() == "true"
 
@@ -20,6 +20,26 @@ LATEST_LIMIT    = 1000     # latest.json size
 JSONL_MAX_ROWS  = 5000     # rolling archive size
 PER_FEED_CAP    = 50       # max items per feed per run
 SLEEP_BETWEEN_FEEDS = 1.0  # polite delay between feeds (seconds)
+
+# Keyword filters (case-insensitive)
+# Leave KEYWORDS_INCLUDE = [] to accept everything (and only use EXCLUDE).
+KEYWORDS_INCLUDE = ["eth","ethereum","btc","bitcoin","etf","blackrock","sec","staking"]
+KEYWORDS_EXCLUDE = ["casino","giveaway","sponsored"]
+
+# -------- Derived / helpers for filters --------
+_rx_inc = re.compile("|".join([re.escape(k) for k in KEYWORDS_INCLUDE]), re.I) if KEYWORDS_INCLUDE else None
+_rx_exc = re.compile("|".join([re.escape(k) for k in KEYWORDS_EXCLUDE]), re.I) if KEYWORDS_EXCLUDE else None
+
+def _passes_keywords(title, summary):
+    text = f"{title or ''} {summary or ''}".lower()
+    if _rx_exc and _rx_exc.search(text): return False
+    if _rx_inc and not _rx_inc.search(text): return False
+    return True
+
+def _dedupe_key(title, link):
+    t = (title or "").strip().lower()
+    t = re.sub(r"\s+", " ", t)
+    return t or (link or "").lower()
 
 os.makedirs(OUT_DIR, exist_ok=True)
 
@@ -118,6 +138,7 @@ def main():
     new_items = []
     errors = []
     by_src_counter = Counter()
+    seen_titles = set()  # cross-feed duplicate suppression by normalized title/link
 
     for (src, url) in feeds:
         try:
@@ -127,12 +148,27 @@ def main():
             before = len(new_items)
             for e in d.entries[:PER_FEED_CAP]:
                 item = norm_item(src, e)
+
+                # cutoff by age
                 pub_dt = datetime.strptime(item["published_utc"], "%Y-%m-%dT%H:%M:%SZ")
                 if pub_dt < cutoff:
                     continue
+
+                # keyword filters
+                if not _passes_keywords(item["title"], item["summary"]):
+                    continue
+
+                # cross-feed duplicate suppression
+                dk = _dedupe_key(item["title"], item["url"])
+                if dk in seen_titles:
+                    continue
+                seen_titles.add(dk)
+
+                # id-based dedupe vs archive
                 if item["id_key"] in exist_ids:
                     continue
                 exist_ids.add(item["id_key"])
+
                 new_items.append(item)
             by_src_counter[src or url] += len(new_items) - before
         except Exception as ex:
@@ -164,12 +200,27 @@ def main():
     with open(LATEST_PATH, "w", encoding="utf-8") as f:
         json.dump(latest, f, ensure_ascii=False)
 
+    # Write hot.json (same filter rules; subset of latest if include-list is used)
+    hot = [o for o in latest if _passes_keywords(o.get("title",""), o.get("summary",""))]
+    with open(os.path.join(OUT_DIR, "hot.json"), "w", encoding="utf-8") as f:
+        json.dump(hot, f, ensure_ascii=False)
+
     # Write CSV
     with open(CSV_PATH, "w", newline="", encoding="utf-8") as f:
         w = csv.writer(f)
         w.writerow(["published_utc","source","title","url","id_key"])
         for obj in all_items_sorted:
             w.writerow([obj["published_utc"], obj.get("source",""), obj.get("title",""), obj.get("url",""), obj["id_key"]])
+
+    # Daily append-only snapshot of NEW items
+    archive_dir = os.path.join(OUT_DIR, "archive")
+    os.makedirs(archive_dir, exist_ok=True)
+    day = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    snap = os.path.join(archive_dir, f"{day}.jsonl")
+    if new_items:
+        with open(snap, "a", encoding="utf-8") as f:
+            for obj in new_items:
+                f.write(json.dumps(obj, ensure_ascii=False) + "\n")
 
     # Write status.json
     end_ts = datetime.now(timezone.utc)
@@ -182,7 +233,11 @@ def main():
         "by_source": dict(by_src_counter),
         "errors": errors,
         "include_general": INCLUDE_GENERAL,
-        "feed_files": discover_feed_files()
+        "feed_files": discover_feed_files(),
+        "filters": {
+            "include": KEYWORDS_INCLUDE,
+            "exclude": KEYWORDS_EXCLUDE
+        }
     }
     with open(os.path.join(OUT_DIR, "status.json"), "w", encoding="utf-8") as f:
         json.dump(status, f, ensure_ascii=False, indent=2)
