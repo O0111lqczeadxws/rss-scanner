@@ -10,21 +10,21 @@ JSONL_PATH = os.path.join(OUT_DIR, "articles.jsonl")
 LATEST_PATH = os.path.join(OUT_DIR, "latest.json")
 CSV_PATH   = os.path.join(OUT_DIR, "articles.csv")
 
-# Back-compat: still uses feeds.txt if split lists aren't present
+# Use split files if present; otherwise fallback to feeds.txt
 DEFAULT_FEEDS = "feeds.txt"
 INCLUDE_GENERAL = os.getenv("INCLUDE_GENERAL", "false").lower() == "true"
 
-# Retention & limits
-SKIP_OLDER_DAYS = 7        # ignore items older than N days
-LATEST_LIMIT    = 1000     # latest.json size
-JSONL_MAX_ROWS  = 5000     # rolling archive size
-PER_FEED_CAP    = 50       # max items per feed per run
-SLEEP_BETWEEN_FEEDS = 1.0  # polite delay between feeds (seconds)
+# Retention & limits (start wide so data flows; tighten later)
+SKIP_OLDER_DAYS = 30       # allow older posts initially; reduce to 7–10 later
+LATEST_LIMIT    = 1000
+JSONL_MAX_ROWS  = 5000
+PER_FEED_CAP    = 50
+SLEEP_BETWEEN_FEEDS = 1.0  # polite throttle between feeds (seconds)
 
 # Keyword filters (case-insensitive)
-# Start wide: accept everything (tighten later). Only EXCLUDE applies now.
-KEYWORDS_INCLUDE = []   # e.g., ["eth","bitcoin","etf","sec"]
-KEYWORDS_EXCLUDE = ["casino","giveaway","sponsored"]
+# Start wide: accept everything; add include/exclude later.
+KEYWORDS_INCLUDE = []      # e.g., ["eth","bitcoin","etf","sec"] when you’re ready
+KEYWORDS_EXCLUDE = []      # e.g., ["casino","giveaway","sponsored"]
 
 # -------- Derived / helpers for filters --------
 _rx_inc = re.compile("|".join([re.escape(k) for k in KEYWORDS_INCLUDE]), re.I) if KEYWORDS_INCLUDE else None
@@ -46,17 +46,15 @@ os.makedirs(OUT_DIR, exist_ok=True)
 # -------- Feed helpers --------
 def load_feeds(path):
     feeds = []
-    if not os.path.exists(path):
-        return feeds
+    if not os.path.exists(path): return feeds
     with open(path, "r", encoding="utf-8") as f:
         for line in f:
             line = line.strip()
-            if not line or line.startswith("#"):
-                continue
+            if not line or line.startswith("#"): continue
             if "\t" in line:
                 src, url = line.split("\t", 1)
             else:
-                # allow "Label URL" (space) or just URL
+                # also allow "Label URL" (space) or just URL
                 parts = line.split()
                 if len(parts) >= 2 and parts[1].startswith("http"):
                     src, url = parts[0], " ".join(parts[1:])
@@ -83,15 +81,13 @@ def load_all_feeds():
 
 def load_existing_ids(path):
     ids = set()
-    if not os.path.exists(path):
-        return ids
+    if not os.path.exists(path): return ids
     with open(path, "r", encoding="utf-8") as f:
         for ln in f:
             try:
                 obj = json.loads(ln)
                 k = obj.get("id_key", "")
-                if k:
-                    ids.add(k)
+                if k: ids.add(k)
             except Exception:
                 pass
     return ids
@@ -101,8 +97,7 @@ def parse_dt(s):
     if not s: return None
     try:
         dt = dtparse.parse(s)
-        if not dt.tzinfo:
-            dt = dt.replace(tzinfo=timezone.utc)
+        if not dt.tzinfo: dt = dt.replace(tzinfo=timezone.utc)
         return dt.astimezone(timezone.utc)
     except Exception:
         return None
@@ -116,10 +111,8 @@ def norm_item(src_name, entry):
            or datetime.now(timezone.utc))
     summary = (entry.get("summary") or entry.get("description") or "").strip()
     src = src_name or (entry.get("source", {}) or {}).get("title", "")
-
     base = f"{src}|{title}|{link}|{int(pub.timestamp())}"
     id_key = hashlib.sha256(base.encode("utf-8")).hexdigest()
-
     return {
         "ingested_utc": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "published_utc": pub.strftime("%Y-%m-%dT%H:%M:%SZ"),
@@ -142,9 +135,9 @@ def main():
     new_items = []
     errors = []
     by_src_counter = Counter()
-    seen_titles = set()  # cross-feed duplicate suppression by normalized title/link
+    seen_titles = set()
 
-    # debug counters
+    # debug counters to diagnose drops
     stats = {
         "feeds_total": len(feeds),
         "feeds_error": 0,
@@ -158,8 +151,7 @@ def main():
 
     for (src, url) in feeds:
         try:
-            if not url:
-                continue
+            if not url: continue
             d = feedparser.parse(url)
             if getattr(d, "bozo", 0):
                 errors.append({"source": src or url, "error": str(getattr(d, "bozo_exception", ""))})
@@ -168,13 +160,13 @@ def main():
                 stats["entries_seen"] += 1
                 item = norm_item(src, e)
 
-                # tz-aware parse for comparison
+                # tz-aware parse (fixes naive/aware compare)
                 try:
-                    pub_dt = dtparse.isoparse(item["published_utc"])  # aware (Z => UTC)
+                    pub_dt = dtparse.isoparse(item["published_utc"])  # aware for '...Z'
                 except Exception:
                     pub_dt = datetime.now(timezone.utc)
 
-                # cutoff by age
+                # age cutoff
                 if pub_dt < cutoff:
                     stats["too_old"] += 1
                     continue
@@ -188,14 +180,14 @@ def main():
                     stats["filtered_include_miss"] += 1
                     continue
 
-                # cross-feed duplicate suppression
+                # de-dupe by normalized title/link (cross-feed)
                 dk = _dedupe_key(item["title"], item["url"])
                 if dk in seen_titles:
                     stats["dup_title"] += 1
                     continue
                 seen_titles.add(dk)
 
-                # id-based dedupe vs archive
+                # de-dupe by id vs archive
                 if item["id_key"] in exist_ids:
                     stats["dup_id"] += 1
                     continue
@@ -233,12 +225,12 @@ def main():
     with open(LATEST_PATH, "w", encoding="utf-8") as f:
         json.dump(latest, f, ensure_ascii=False)
 
-    # Write hot.json
+    # Write hot.json (same rules as filters; currently include==[])
     hot = [o for o in latest if _passes_keywords(o.get("title",""), o.get("summary",""))]
     with open(os.path.join(OUT_DIR, "hot.json"), "w", encoding="utf-8") as f:
         json.dump(hot, f, ensure_ascii=False)
 
-    # Write CSV
+    # Write CSV (full sorted list)
     with open(CSV_PATH, "w", newline="", encoding="utf-8") as f:
         w = csv.writer(f)
         w.writerow(["published_utc","source","title","url","id_key"])
@@ -255,7 +247,7 @@ def main():
             for obj in new_items:
                 f.write(json.dumps(obj, ensure_ascii=False) + "\n")
 
-    # Write status.json
+    # Write status.json (with stats for quick diagnosis)
     end_ts = datetime.now(timezone.utc)
     status = {
         "started_utc": start_ts.strftime("%Y-%m-%dT%H:%M:%SZ"),
