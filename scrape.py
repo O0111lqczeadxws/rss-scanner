@@ -1,4 +1,4 @@
-import os, json, hashlib, time, csv, re
+import os, json, hashlib, time, csv, re, urllib.request, urllib.error
 from collections import Counter
 from datetime import datetime, timezone, timedelta
 from dateutil import parser as dtparse
@@ -10,23 +10,21 @@ JSONL_PATH = os.path.join(OUT_DIR, "articles.jsonl")
 LATEST_PATH = os.path.join(OUT_DIR, "latest.json")
 CSV_PATH   = os.path.join(OUT_DIR, "articles.csv")
 
-# Use split files if present; otherwise fallback to feeds.txt
-DEFAULT_FEEDS = "feeds.txt"
+DEFAULT_FEEDS = "feeds.txt"                     # fallback if split files absent
 INCLUDE_GENERAL = os.getenv("INCLUDE_GENERAL", "false").lower() == "true"
 
-# Retention & limits (start wide so data flows; tighten later)
-SKIP_OLDER_DAYS = 30       # allow older posts initially; reduce to 7–10 later
+# Start wide so data flows; tighten later
+SKIP_OLDER_DAYS = 30
 LATEST_LIMIT    = 1000
 JSONL_MAX_ROWS  = 5000
 PER_FEED_CAP    = 50
-SLEEP_BETWEEN_FEEDS = 1.0  # polite throttle between feeds (seconds)
+SLEEP_BETWEEN_FEEDS = 1.0
 
-# Keyword filters (case-insensitive)
-# Start wide: accept everything; add include/exclude later.
-KEYWORDS_INCLUDE = []      # e.g., ["eth","bitcoin","etf","sec"] when you’re ready
-KEYWORDS_EXCLUDE = []      # e.g., ["casino","giveaway","sponsored"]
+# Filters (accept all for now)
+KEYWORDS_INCLUDE = []
+KEYWORDS_EXCLUDE = []
 
-# -------- Derived / helpers for filters --------
+# -------- Derived / helpers --------
 _rx_inc = re.compile("|".join([re.escape(k) for k in KEYWORDS_INCLUDE]), re.I) if KEYWORDS_INCLUDE else None
 _rx_exc = re.compile("|".join([re.escape(k) for k in KEYWORDS_EXCLUDE]), re.I) if KEYWORDS_EXCLUDE else None
 
@@ -54,7 +52,6 @@ def load_feeds(path):
             if "\t" in line:
                 src, url = line.split("\t", 1)
             else:
-                # also allow "Label URL" (space) or just URL
                 parts = line.split()
                 if len(parts) >= 2 and parts[1].startswith("http"):
                     src, url = parts[0], " ".join(parts[1:])
@@ -91,6 +88,19 @@ def load_existing_ids(path):
             except Exception:
                 pass
     return ids
+
+# -------- Networking (robust fetch with UA) --------
+UA = "Mozilla/5.0 (compatible; VANTA-RSS/1.0; +https://example.com)"
+
+def fetch_bytes(url, timeout=20):
+    req = urllib.request.Request(url, headers={"User-Agent": UA})
+    with urllib.request.urlopen(req, timeout=timeout) as r:
+        return r.read()
+
+def parse_feed(url):
+    """Fetch with UA; parse with feedparser from bytes."""
+    data = fetch_bytes(url)
+    return feedparser.parse(data)
 
 # -------- Parsing helpers --------
 def parse_dt(s):
@@ -132,12 +142,10 @@ def main():
     exist_ids = load_existing_ids(JSONL_PATH)
     cutoff = datetime.now(timezone.utc) - timedelta(days=SKIP_OLDER_DAYS)
 
-    new_items = []
-    errors = []
+    new_items, errors = [], []
     by_src_counter = Counter()
     seen_titles = set()
 
-    # debug counters to diagnose drops
     stats = {
         "feeds_total": len(feeds),
         "feeds_error": 0,
@@ -152,26 +160,21 @@ def main():
     for (src, url) in feeds:
         try:
             if not url: continue
-            d = feedparser.parse(url)
+            d = parse_feed(url)
+            # feedparser bozo flag, captured as info only
             if getattr(d, "bozo", 0):
                 errors.append({"source": src or url, "error": str(getattr(d, "bozo_exception", ""))})
             before = len(new_items)
             for e in d.entries[:PER_FEED_CAP]:
                 stats["entries_seen"] += 1
                 item = norm_item(src, e)
-
-                # tz-aware parse (fixes naive/aware compare)
                 try:
-                    pub_dt = dtparse.isoparse(item["published_utc"])  # aware for '...Z'
+                    pub_dt = dtparse.isoparse(item["published_utc"])
                 except Exception:
                     pub_dt = datetime.now(timezone.utc)
-
-                # age cutoff
                 if pub_dt < cutoff:
                     stats["too_old"] += 1
                     continue
-
-                # keyword filters
                 txt = f"{item['title']} {item['summary']}"
                 if _rx_exc and _rx_exc.search(txt):
                     stats["filtered_exclude"] += 1
@@ -179,22 +182,20 @@ def main():
                 if _rx_inc and not _rx_inc.search(txt):
                     stats["filtered_include_miss"] += 1
                     continue
-
-                # de-dupe by normalized title/link (cross-feed)
                 dk = _dedupe_key(item["title"], item["url"])
                 if dk in seen_titles:
                     stats["dup_title"] += 1
                     continue
                 seen_titles.add(dk)
-
-                # de-dupe by id vs archive
                 if item["id_key"] in exist_ids:
                     stats["dup_id"] += 1
                     continue
                 exist_ids.add(item["id_key"])
-
                 new_items.append(item)
             by_src_counter[src or url] += len(new_items) - before
+        except (urllib.error.URLError, urllib.error.HTTPError) as net_ex:
+            stats["feeds_error"] += 1
+            errors.append({"source": src or url, "error": f"net: {net_ex}"})
         except Exception as ex:
             stats["feeds_error"] += 1
             errors.append({"source": src or url, "error": str(ex)})
@@ -205,39 +206,33 @@ def main():
     if os.path.exists(JSONL_PATH):
         with open(JSONL_PATH, "r", encoding="utf-8") as f:
             for ln in f:
-                try:
-                    old_items.append(json.loads(ln))
-                except Exception:
-                    pass
+                try: old_items.append(json.loads(ln))
+                except Exception: pass
 
     # Merge, sort, keep last N
     all_items = old_items + new_items
     all_items_sorted = sorted(all_items, key=lambda x: x["published_utc"], reverse=True)
-    keep = all_items_sorted[:JSONL_MAX_ROWS]
+    keep   = all_items_sorted[:JSONL_MAX_ROWS]
     latest = all_items_sorted[:LATEST_LIMIT]
 
-    # Write rolling JSONL archive
+    # Write outputs
     with open(JSONL_PATH, "w", encoding="utf-8") as f:
         for obj in keep:
             f.write(json.dumps(obj, ensure_ascii=False) + "\n")
 
-    # Write latest JSON
     with open(LATEST_PATH, "w", encoding="utf-8") as f:
         json.dump(latest, f, ensure_ascii=False)
 
-    # Write hot.json (same rules as filters; currently include==[])
     hot = [o for o in latest if _passes_keywords(o.get("title",""), o.get("summary",""))]
     with open(os.path.join(OUT_DIR, "hot.json"), "w", encoding="utf-8") as f:
         json.dump(hot, f, ensure_ascii=False)
 
-    # Write CSV (full sorted list)
     with open(CSV_PATH, "w", newline="", encoding="utf-8") as f:
         w = csv.writer(f)
         w.writerow(["published_utc","source","title","url","id_key"])
         for obj in all_items_sorted:
             w.writerow([obj["published_utc"], obj.get("source",""), obj.get("title",""), obj.get("url",""), obj["id_key"]])
 
-    # Daily append-only snapshot of NEW items
     archive_dir = os.path.join(OUT_DIR, "archive")
     os.makedirs(archive_dir, exist_ok=True)
     day = datetime.now(timezone.utc).strftime("%Y-%m-%d")
@@ -247,12 +242,9 @@ def main():
             for obj in new_items:
                 f.write(json.dumps(obj, ensure_ascii=False) + "\n")
 
-    # Write status.json (with stats for quick diagnosis)
-    end_ts = datetime.now(timezone.utc)
     status = {
         "started_utc": start_ts.strftime("%Y-%m-%dT%H:%M:%SZ"),
-        "ended_utc": end_ts.strftime("%Y-%m-%dT%H:%M:%SZ"),
-        "run_ms": int((end_ts - start_ts).total_seconds() * 1000),
+        "ended_utc": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "new_items_this_run": len(new_items),
         "total_in_latest": len(latest),
         "by_source": dict(by_src_counter),
