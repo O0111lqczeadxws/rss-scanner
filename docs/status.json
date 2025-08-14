@@ -1,35 +1,196 @@
 {
-  "started_utc": "2025-08-14T04:41:24Z",
-  "ended_utc": "2025-08-14T04:41:29Z",
-  "new_items_this_run": 105,
-  "total_in_latest": 105,
+  "started_utc": "2025-08-14T06:33:13Z",
+  "ended_utc": "2025-08-14T06:34:24Z",
+  "new_items_this_run": 338,
+  "total_in_latest": 443,
   "by_source": {
-    "Cointelegraph": 30,
-    "CoinDesk": 25,
-    "Decrypt": 50
+    "SEC_Press": 3,
+    "SEC_Enforcement": 0,
+    "Fed_AllPress": 3,
+    "Fed_MonetaryPolicy": 0,
+    "Fed_Speeches": 1,
+    "Treasury_Press": 0,
+    "OFAC_Actions": 0,
+    "BLS_Releases": 0,
+    "BEA_Press": 0,
+    "CFTC_Press": 2,
+    "CFTC_Enforcement": 1,
+    "CFTC_Speeches": 1,
+    "OCC_News": 1,
+    "FDIC_Press": 3,
+    "Bank_of_Canada_Press": 0,
+    "IEA_News": 0,
+    "OPEC_Press": 0,
+    "CME_Press": 0,
+    "CME_ProductUpdates": 0,
+    "FCA_News": 20,
+    "ESMA_News": 10,
+    "CoinDesk": 18,
+    "Cointelegraph": 27,
+    "Decrypt": 38,
+    "TheDefiant": 46,
+    "BitMEX_Blog": 8,
+    "Glassnode_Insights": 4,
+    "Kaiko_Blog": 0,
+    "IntoTheBlock_Blog": 0,
+    "Nansen_Research": 0,
+    "Chainalysis_Blog": 2,
+    "Ethereum_Foundation": 1,
+    "BitcoinCore_Releases": 0,
+    "Geth_Releases": 1,
+    "Prysm_Releases": 0,
+    "Solana_Releases": 0,
+    "Chainlink_Blog": 5,
+    "Reuters_Business": 0,
+    "Reuters_World": 0,
+    "Reuters_Markets": 0,
+    "BBC_World": 11,
+    "BBC_Business": 10,
+    "BBC_Technology": 5,
+    "Guardian_Business": 29,
+    "Guardian_World": 32,
+    "WSJ_US_Business": 0,
+    "WSJ_World": 0,
+    "MarketWatch_Top": 0,
+    "NYTimes_Business": 30,
+    "CNN_Top": 0,
+    "NPR_Business": 8,
+    "FT_Home": 3,
+    "FT_Markets": 15,
+    "CNBC_Top": 0
   },
   "errors": [
     {
-      "source": "TheBlock",
-      "error": "net: HTTP Error 404: Not Found"
+      "source": "SEC_Enforcement",
+      "error": "<unknown>:33:2: mismatched tag"
+    },
+    {
+      "source": "Fed_AllPress",
+      "error": "document declared as us-ascii, but parsed as utf-8"
+    },
+    {
+      "source": "Fed_MonetaryPolicy",
+      "error": "document declared as us-ascii, but parsed as utf-8"
+    },
+    {
+      "source": "Fed_Speeches",
+      "error": "document declared as us-ascii, but parsed as utf-8"
+    },
+    {
+      "source": "Treasury_Press",
+      "error": "<unknown>:7:45: not well-formed (invalid token)"
+    },
+    {
+      "source": "OFAC_Actions",
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "source": "BLS_Releases",
+      "error": "<unknown>:19:27: not well-formed (invalid token)"
+    },
+    {
+      "source": "BEA_Press",
+      "error": "<unknown>:20:78: not well-formed (invalid token)"
+    },
+    {
+      "source": "Bank_of_Canada_Press",
+      "error": "<unknown>:102:18: not well-formed (invalid token)"
+    },
+    {
+      "source": "IEA_News",
+      "error": "<unknown>:73:158: not well-formed (invalid token)"
+    },
+    {
+      "source": "OPEC_Press",
+      "error": "<unknown>:70:2: mismatched tag"
+    },
+    {
+      "source": "CME_Press",
+      "error": "<unknown>:37:43: not well-formed (invalid token)"
+    },
+    {
+      "source": "CME_ProductUpdates",
+      "error": "<unknown>:37:43: not well-formed (invalid token)"
+    },
+    {
+      "source": "Kaiko_Blog",
+      "error": "<unknown>:2:2072: not well-formed (invalid token)"
+    },
+    {
+      "source": "IntoTheBlock_Blog",
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "source": "Nansen_Research",
+      "error": "text/html; charset=utf-8 is not an XML media type"
+    },
+    {
+      "source": "Reuters_Business",
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "source": "Reuters_World",
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "source": "Reuters_Markets",
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "source": "MarketWatch_Top",
+      "error": "<unknown>:269:147: not well-formed (invalid token)"
+    },
+    {
+      "source": "CNN_Top",
+      "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>"
+    },
+    {
+      "source": "CNBC_Top",
+      "error": "<unknown>:2:415065: not well-formed (invalid token)"
     }
   ],
-  "include_general": false,
   "feed_files": [
-    "crypto_feeds.txt"
+    "feeds.txt",
+    "crypto_feeds.txt",
+    "general_feeds.txt"
   ],
   "filters": {
-    "include": [],
-    "exclude": []
+    "include": [
+      "bitcoin",
+      "btc",
+      "ethereum",
+      "eth",
+      "solana",
+      "dogecoin",
+      "xrp",
+      "cardano",
+      "bnb",
+      "tron",
+      "..."
+    ],
+    "exclude": [
+      "casino",
+      "gambling",
+      "sportsbook",
+      "betting",
+      "lottery",
+      "xxx",
+      "porn",
+      "giveaway",
+      "free airdrop",
+      "claim airdrop",
+      "..."
+    ],
+    "passed_keywords": 307,
+    "passed_allowlist": 42,
+    "failed_all_filters": 142
   },
   "stats": {
-    "feeds_total": 4,
-    "feeds_error": 1,
-    "entries_seen": 106,
-    "too_old": 1,
-    "filtered_exclude": 0,
-    "filtered_include_miss": 0,
-    "dup_title": 0,
+    "feeds_total": 54,
+    "feeds_error": 0,
+    "entries_seen": 809,
+    "too_old": 318,
+    "dup_title_url": 11,
     "dup_id": 0
   }
 }
