@@ -1,0 +1,26 @@
+{
+  "started_utc": "2025-08-14T01:20:04Z",
+  "ended_utc": "2025-08-14T01:20:08Z",
+  "run_ms": 4120,
+  "new_items_this_run": 0,
+  "total_in_latest": 0,
+  "by_source": {},
+  "errors": [
+    {
+      "source": "Cointelegraph",
+      "error": "can't compare offset-naive and offset-aware datetimes"
+    },
+    {
+      "source": "CoinDesk",
+      "error": "can't compare offset-naive and offset-aware datetimes"
+    },
+    {
+      "source": "Decrypt",
+      "error": "can't compare offset-naive and offset-aware datetimes"
+    }
+  ],
+  "include_general": false,
+  "feed_files": [
+    "crypto_feeds.txt"
+  ]
+}
