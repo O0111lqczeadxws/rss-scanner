@@ -1,68 +1,80 @@
 {
-  "started_utc": "2025-08-14T19:34:10Z",
-  "ended_utc": "2025-08-14T19:39:27Z",
-  "new_items_this_run": 437,
-  "total_in_latest": 805,
+  "started_utc": "2025-08-14T20:14:47Z",
+  "ended_utc": "2025-08-14T20:19:51Z",
+  "new_items_this_run": 23,
+  "total_in_latest": 828,
   "by_source": {
-    "SEC_Press": 1,
-    "SEC_Updates": 0,
-    "CFTC_Press": 0,
-    "CFTC_Enforcement": 0,
-    "CFTC_Speeches": 0,
-    "OCC_News": 0,
-    "FDIC_Press": 0,
-    "FCA_News": 0,
-    "ESMA_News": 0,
-    "FINRA_News": 0,
-    "FINRA_Notices": 10,
-    "FINRA_RuleFilings": 10,
-    "Fed_MonetaryPolicy": 0,
-    "Fed_Speeches": 0,
-    "Fed_GenericPress": 0,
-    "Bank_of_Canada_Press": 0,
-    "Bank_of_England_News": 2,
-    "Bank_of_England_Speeches": 0,
-    "European_Central_Bank_Press": 1,
-    "Swiss_National_Bank_Press": 1,
-    "Bank_of_Japan_WhatsNew": 16,
-    "BIS_Press": 0,
-    "BIS_Speeches": 14,
-    "HM_Treasury_Atom": 17,
-    "Treasury_Press": 0,
-    "BLS_Releases": 0,
-    "BEA_Press": 0,
-    "IEA_News": 0,
-    "OPEC_Press": 0,
-    "CME_Press": 0,
-    "CME_ProductUpdates": 0,
-    "Cboe_C1_RuleFilings_Pending": 0,
-    "Cboe_C1_RuleFilings_Approved": 0,
-    "Cboe_BZX_RuleFilings_Pending": 0,
-    "Cboe_BZX_RuleFilings_Approved": 4,
-    "DTCC_RSS": 0,
-    "Blockworks": 29,
-    "BitcoinMagazine": 10,
-    "CryptoSlate": 10,
-    "CryptoBriefing": 25,
-    "Protos": 6,
-    "CryptoNews": 12,
-    "CoinJournal": 9,
-    "Unchained": 10,
+    "Reuters_Business": 0,
+    "Reuters_World": 0,
+    "Reuters_Markets": 0,
+    "BBC_World": 0,
+    "BBC_Business": 0,
+    "BBC_Technology": 0,
+    "Guardian_Business": 0,
+    "Guardian_World": 5,
+    "WSJ_US_Business": 0,
+    "WSJ_World": 0,
+    "WSJ_Markets": 0,
+    "MarketWatch_Top": 0,
+    "MarketWatch_MarketPulse": 0,
+    "MarketWatch_RealTime": 0,
+    "MarketWatch_Bulletins": 1,
+    "MarketWatch_PersonalFinance": 0,
+    "NYTimes_Business": 1,
+    "NYTimes_World": 0,
+    "NYTimes_Economy": 0,
+    "NYTimes_Technology": 1,
+    "CNN_Top": 0,
+    "NPR_Top": 0,
+    "NPR_Business": 0,
+    "NPR_Economy": 0,
+    "NPR_World": 0,
+    "NPR_Technology": 0,
+    "FT_Home": 0,
+    "FT_Markets": 0,
+    "CNBC_Top": 0,
+    "CNBC_Markets": 0,
+    "TheVerge_All": 0,
+    "TechCrunch_All": 0,
+    "ArsTechnica_All": 0,
+    "WIRED_All": 1,
+    "Engadget_All": 0,
+    "TheEconomist_Business": 0,
+    "TheEconomist_Finance": 0,
+    "Investopedia_Latest": 0,
+    "TheStreet_Top": 1,
+    "AlJazeera_All": 1,
+    "AlJazeera_Economy": 0,
+    "FinancialPost_Business": 7,
+    "CBC_Business": 0,
+    "Nikkei_Asia_Top": 0,
+    "WorldBank_News": 0,
+    "OECD_Newsroom": 0,
+    "MIT_TechReview": 0,
+    "HackerNews_Top": 3,
+    "Blockworks": 1,
+    "BitcoinMagazine": 0,
+    "CryptoSlate": 0,
+    "CryptoBriefing": 0,
+    "Protos": 0,
+    "CryptoNews": 1,
+    "CoinJournal": 0,
+    "Unchained": 0,
     "Bankless": 0,
     "CoinGecko_Blog": 0,
-    "CoinMetrics_Blog": 3,
+    "CoinMetrics_Blog": 0,
     "Consensys_Blog": 0,
     "Uniswap_Blog": 0,
     "Aave_Blog": 0,
-    "Lido_Blog": 2,
+    "Lido_Blog": 0,
     "Optimism_Blog": 0,
     "Arbitrum_Foundation": 0,
     "Polygon_Blog": 0,
     "Avalanche_Blog": 0,
     "NEAR_Blog": 0,
-    "Sui_Blog": 3,
+    "Sui_Blog": 0,
     "dYdX_Blog": 0,
-    "Kraken_Blog": 3,
+    "Kraken_Blog": 0,
     "Gemini_Blog": 0,
     "Circle_Blog": 0,
     "Tether_Blog": 0,
@@ -72,247 +84,15 @@
     "Lighthouse_Releases": 0,
     "Teku_Releases": 0,
     "Besu_Releases": 0,
-    "Arbitrum_Nitro_Releases": 1,
-    "Optimism_Releases": 3,
+    "Arbitrum_Nitro_Releases": 0,
+    "Optimism_Releases": 0,
     "PolygonEdge_Releases": 0,
-    "CardanoNode_Releases": 1,
-    "Reuters_Business": 0,
-    "Reuters_World": 0,
-    "Reuters_Markets": 0,
-    "BBC_World": 1,
-    "BBC_Business": 1,
-    "BBC_Technology": 1,
-    "Guardian_Business": 3,
-    "Guardian_World": 12,
-    "WSJ_US_Business": 0,
-    "WSJ_World": 0,
-    "WSJ_Markets": 0,
-    "MarketWatch_Top": 0,
-    "MarketWatch_MarketPulse": 0,
-    "MarketWatch_RealTime": 0,
-    "MarketWatch_Bulletins": 7,
-    "MarketWatch_PersonalFinance": 0,
-    "NYTimes_Business": 0,
-    "NYTimes_World": 22,
-    "NYTimes_Economy": 11,
-    "NYTimes_Technology": 8,
-    "CNN_Top": 0,
-    "NPR_Top": 5,
-    "NPR_Business": 0,
-    "NPR_Economy": 4,
-    "NPR_World": 2,
-    "NPR_Technology": 4,
-    "FT_Home": 1,
-    "FT_Markets": 2,
-    "CNBC_Top": 0,
-    "CNBC_Markets": 0,
-    "TheVerge_All": 6,
-    "TechCrunch_All": 7,
-    "ArsTechnica_All": 5,
-    "WIRED_All": 15,
-    "Engadget_All": 47,
-    "TheEconomist_Business": 5,
-    "TheEconomist_Finance": 3,
-    "Investopedia_Latest": 0,
-    "TheStreet_Top": 17,
-    "AlJazeera_All": 10,
-    "AlJazeera_Economy": 0,
-    "FinancialPost_Business": 6,
-    "CBC_Business": 0,
-    "Nikkei_Asia_Top": 17,
-    "WorldBank_News": 0,
-    "OECD_Newsroom": 0,
-    "MIT_TechReview": 7,
-    "HackerNews_Top": 5
+    "CardanoNode_Releases": 0
   },
   "errors": [
     {
-      "source": "https://www.sec.gov/rss/news-topics/updates",
-      "error": "fetch error: HTTP 404"
-    },
-    {
-      "source": "SEC_Updates",
-      "error": "fatal parse failure"
-    },
-    {
-      "source": "https://www.federalreserve.gov/feeds/press_generic.xml",
-      "error": "fetch error: HTTP 404"
-    },
-    {
-      "source": "Fed_GenericPress",
-      "error": "fatal parse failure"
-    },
-    {
-      "source": "https://home.treasury.gov/news/press-releases/rss",
-      "error": "fetch error: HTTP 404"
-    },
-    {
-      "source": "Treasury_Press",
-      "error": "fatal parse failure"
-    },
-    {
-      "source": "https://www.bls.gov/feed/news_release.xml",
-      "error": "fetch error: HTTP 404"
-    },
-    {
-      "source": "BLS_Releases",
-      "error": "fatal parse failure"
-    },
-    {
-      "source": "https://www.bea.gov/rss.xml",
-      "error": "fetch error: HTTP 404"
-    },
-    {
-      "source": "BEA_Press",
-      "error": "fatal parse failure"
-    },
-    {
-      "source": "https://www.iea.org/rss/news",
-      "error": "fetch error: HTTP 404"
-    },
-    {
-      "source": "IEA_News",
-      "error": "fatal parse failure"
-    },
-    {
-      "source": "https://www.opec.org/opec_web/en/press_room/press_room.rss",
-      "error": "fetch error: HTTP 403"
-    },
-    {
-      "source": "OPEC_Press",
-      "error": "fatal parse failure"
-    },
-    {
-      "source": "https://www.cmegroup.com/rss/press.xml",
-      "error": "fetch error: HTTP 404"
-    },
-    {
-      "source": "CME_Press",
-      "error": "fatal parse failure"
-    },
-    {
-      "source": "https://www.cmegroup.com/rss/product-update.xml",
-      "error": "fetch error: HTTP 404"
-    },
-    {
-      "source": "CME_ProductUpdates",
-      "error": "fatal parse failure"
-    },
-    {
-      "source": "https://www.cboe.com/us/options/regulation/rss/rule_filings/cone/pending",
-      "error": "fetch error: HTTP 500"
-    },
-    {
-      "source": "Cboe_C1_RuleFilings_Pending",
-      "error": "fatal parse failure"
-    },
-    {
-      "source": "https://www.cboe.com/us/options/regulation/rss/rule_filings/cone/approved",
-      "error": "fetch error: HTTP 500"
-    },
-    {
-      "source": "Cboe_C1_RuleFilings_Approved",
-      "error": "fatal parse failure"
-    },
-    {
-      "source": "https://www.cboe.com/us/equities/regulation/rss/rule_filings/bzx/pending",
-      "error": "fetch error: HTTP 500"
-    },
-    {
-      "source": "Cboe_BZX_RuleFilings_Pending",
-      "error": "fatal parse failure"
-    },
-    {
-      "source": "DTCC_RSS",
-      "error": "<unknown>:14:42: not well-formed (invalid token)"
-    },
-    {
-      "source": "https://www.bankless.com/rss",
-      "error": "fetch error: HTTP 404"
-    },
-    {
-      "source": "Bankless",
-      "error": "fatal parse failure"
-    },
-    {
-      "source": "https://blog.coingecko.com/rss",
-      "error": "fetch error: HTTP 403"
-    },
-    {
-      "source": "CoinGecko_Blog",
-      "error": "fatal parse failure"
-    },
-    {
-      "source": "Consensys_Blog",
-      "error": "<unknown>:156:57: not well-formed (invalid token)"
-    },
-    {
-      "source": "https://blog.uniswap.org/rss.xml",
-      "error": "fetch error: HTTP 404"
-    },
-    {
-      "source": "Uniswap_Blog",
-      "error": "fatal parse failure"
-    },
-    {
-      "source": "https://blog.optimism.io/rss/",
-      "error": "fetch error: HTTPSConnectionPool(host='blog.optimism.io', port=443): Max retries exceeded with url: /rss/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000176ECC42B90>: Failed to resolve 'blog.optimism.io' ([Errno 11001] getaddrinfo failed)\"))"
-    },
-    {
-      "source": "Optimism_Blog",
-      "error": "fatal parse failure"
-    },
-    {
-      "source": "https://arbitrum.foundation/feed",
-      "error": "fetch error: HTTP 404"
-    },
-    {
-      "source": "Arbitrum_Foundation",
-      "error": "fatal parse failure"
-    },
-    {
-      "source": "Polygon_Blog",
-      "error": "<unknown>:2:2140: not well-formed (invalid token)"
-    },
-    {
-      "source": "NEAR_Blog",
-      "error": "<unknown>:2:2637: not well-formed (invalid token)"
-    },
-    {
-      "source": "https://blog.dydx.exchange/feed",
-      "error": "fetch error: HTTPSConnectionPool(host='blog.dydx.exchange', port=443): Max retries exceeded with url: /feed (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000176ECC64910>: Failed to resolve 'blog.dydx.exchange' ([Errno 11001] getaddrinfo failed)\"))"
-    },
-    {
-      "source": "dYdX_Blog",
-      "error": "fatal parse failure"
-    },
-    {
-      "source": "Gemini_Blog",
-      "error": "<unknown>:449:1743800: junk after document element"
-    },
-    {
-      "source": "https://www.circle.com/blog/rss.xml",
-      "error": "fetch error: HTTP 404"
-    },
-    {
-      "source": "Circle_Blog",
-      "error": "fatal parse failure"
-    },
-    {
-      "source": "Tether_Blog",
-      "error": "<unknown>:39:748: not well-formed (invalid token)"
-    },
-    {
-      "source": "https://blog.metamask.io/rss/",
-      "error": "fetch error: HTTPSConnectionPool(host='blog.metamask.io', port=443): Max retries exceeded with url: /rss/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000176ECBA2D10>: Failed to resolve 'blog.metamask.io' ([Errno 11001] getaddrinfo failed)\"))"
-    },
-    {
-      "source": "MetaMask_Blog",
-      "error": "fatal parse failure"
-    },
-    {
       "source": "https://feeds.reuters.com/reuters/businessNews",
-      "error": "fetch error: HTTPSConnectionPool(host='feeds.reuters.com', port=443): Max retries exceeded with url: /reuters/businessNews (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000176ECB893D0>: Failed to resolve 'feeds.reuters.com' ([Errno 11001] getaddrinfo failed)\"))"
+      "error": "fetch error: HTTPSConnectionPool(host='feeds.reuters.com', port=443): Max retries exceeded with url: /reuters/businessNews (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000001C3139C8FD0>: Failed to resolve 'feeds.reuters.com' ([Errno 11001] getaddrinfo failed)\"))"
     },
     {
       "source": "Reuters_Business",
@@ -320,7 +100,7 @@
     },
     {
       "source": "https://feeds.reuters.com/reuters/worldNews",
-      "error": "fetch error: HTTPSConnectionPool(host='feeds.reuters.com', port=443): Max retries exceeded with url: /reuters/worldNews (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000176ECADE310>: Failed to resolve 'feeds.reuters.com' ([Errno 11001] getaddrinfo failed)\"))"
+      "error": "fetch error: HTTPSConnectionPool(host='feeds.reuters.com', port=443): Max retries exceeded with url: /reuters/worldNews (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000001C3139D6310>: Failed to resolve 'feeds.reuters.com' ([Errno 11001] getaddrinfo failed)\"))"
     },
     {
       "source": "Reuters_World",
@@ -328,7 +108,7 @@
     },
     {
       "source": "https://feeds.reuters.com/reuters/marketsNews",
-      "error": "fetch error: HTTPSConnectionPool(host='feeds.reuters.com', port=443): Max retries exceeded with url: /reuters/marketsNews (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000176EE378FD0>: Failed to resolve 'feeds.reuters.com' ([Errno 11001] getaddrinfo failed)\"))"
+      "error": "fetch error: HTTPSConnectionPool(host='feeds.reuters.com', port=443): Max retries exceeded with url: /reuters/marketsNews (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000001C3139C7010>: Failed to resolve 'feeds.reuters.com' ([Errno 11001] getaddrinfo failed)\"))"
     },
     {
       "source": "Reuters_Markets",
@@ -409,6 +189,190 @@
     {
       "source": "OECD_Newsroom",
       "error": "fatal parse failure"
+    },
+    {
+      "source": "https://www.bankless.com/rss",
+      "error": "fetch error: HTTP 404"
+    },
+    {
+      "source": "Bankless",
+      "error": "fatal parse failure"
+    },
+    {
+      "source": "https://blog.coingecko.com/rss",
+      "error": "fetch error: HTTP 403"
+    },
+    {
+      "source": "CoinGecko_Blog",
+      "error": "fatal parse failure"
+    },
+    {
+      "source": "Consensys_Blog",
+      "error": "<unknown>:156:57: not well-formed (invalid token)"
+    },
+    {
+      "source": "https://blog.uniswap.org/rss.xml",
+      "error": "fetch error: HTTP 404"
+    },
+    {
+      "source": "Uniswap_Blog",
+      "error": "fatal parse failure"
+    },
+    {
+      "source": "https://blog.optimism.io/rss/",
+      "error": "fetch error: HTTPSConnectionPool(host='blog.optimism.io', port=443): Max retries exceeded with url: /rss/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000001C313754990>: Failed to resolve 'blog.optimism.io' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+      "source": "Optimism_Blog",
+      "error": "fatal parse failure"
+    },
+    {
+      "source": "https://arbitrum.foundation/feed",
+      "error": "fetch error: HTTP 404"
+    },
+    {
+      "source": "Arbitrum_Foundation",
+      "error": "fatal parse failure"
+    },
+    {
+      "source": "Polygon_Blog",
+      "error": "<unknown>:2:2140: not well-formed (invalid token)"
+    },
+    {
+      "source": "NEAR_Blog",
+      "error": "<unknown>:2:2637: not well-formed (invalid token)"
+    },
+    {
+      "source": "https://blog.dydx.exchange/feed",
+      "error": "fetch error: HTTPSConnectionPool(host='blog.dydx.exchange', port=443): Max retries exceeded with url: /feed (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000001C3151D7C90>: Failed to resolve 'blog.dydx.exchange' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+      "source": "dYdX_Blog",
+      "error": "fatal parse failure"
+    },
+    {
+      "source": "Gemini_Blog",
+      "error": "<unknown>:449:1744234: junk after document element"
+    },
+    {
+      "source": "https://www.circle.com/blog/rss.xml",
+      "error": "fetch error: HTTP 404"
+    },
+    {
+      "source": "Circle_Blog",
+      "error": "fatal parse failure"
+    },
+    {
+      "source": "Tether_Blog",
+      "error": "<unknown>:39:748: not well-formed (invalid token)"
+    },
+    {
+      "source": "https://blog.metamask.io/rss/",
+      "error": "fetch error: HTTPSConnectionPool(host='blog.metamask.io', port=443): Max retries exceeded with url: /rss/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000001C3153590D0>: Failed to resolve 'blog.metamask.io' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+      "source": "MetaMask_Blog",
+      "error": "fatal parse failure"
+    },
+    {
+      "source": "https://www.reuters.com/business/rss",
+      "error": "fetch error: HTTP 401"
+    },
+    {
+      "source": "Reuters_Business",
+      "error": "fatal parse failure"
+    },
+    {
+      "source": "https://www.reuters.com/world/rss",
+      "error": "fetch error: HTTP 401"
+    },
+    {
+      "source": "Reuters_World",
+      "error": "fatal parse failure"
+    },
+    {
+      "source": "https://www.reuters.com/markets/rss",
+      "error": "fetch error: HTTP 401"
+    },
+    {
+      "source": "Reuters_Markets",
+      "error": "fatal parse failure"
+    },
+    {
+      "source": "https://www.marketwatch.com/feeds/rss/topstories",
+      "error": "fetch error: HTTP 403"
+    },
+    {
+      "source": "MarketWatch_Top",
+      "error": "fatal parse failure"
+    },
+    {
+      "source": "https://feeds.marketwatch.com/marketwatch/pf",
+      "error": "fetch error: HTTP 403"
+    },
+    {
+      "source": "MarketWatch_PersonalFinance",
+      "error": "fatal parse failure"
+    },
+    {
+      "source": "https://rss.cnn.com/rss/cnn_topstories.rss",
+      "error": "fetch error: HTTPSConnectionPool(host='rss.cnn.com', port=443): Max retries exceeded with url: /rss/cnn_topstories.rss (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)')))"
+    },
+    {
+      "source": "CNN_Top",
+      "error": "fatal parse failure"
+    },
+    {
+      "source": "https://www.cnbc.com/id/100003114/device/rss/rss.xml",
+      "error": "fetch error: HTTP 404"
+    },
+    {
+      "source": "CNBC_Top",
+      "error": "fatal parse failure"
+    },
+    {
+      "source": "https://www.cnbc.com/id/10001147/device/rss/rss.xml",
+      "error": "fetch error: HTTP 404"
+    },
+    {
+      "source": "CNBC_Markets",
+      "error": "fatal parse failure"
+    },
+    {
+      "source": "https://www.investopedia.com/feed",
+      "error": "fetch error: HTTP 404"
+    },
+    {
+      "source": "Investopedia_Latest",
+      "error": "fatal parse failure"
+    },
+    {
+      "source": "https://www.aljazeera.com/xml/rss/section/economy.xml",
+      "error": "fetch error: HTTP 404"
+    },
+    {
+      "source": "AlJazeera_Economy",
+      "error": "fatal parse failure"
+    },
+    {
+      "source": "https://www.cbc.ca/cmlink/rss-business",
+      "error": "fetch error: HTTP 400"
+    },
+    {
+      "source": "CBC_Business",
+      "error": "fatal parse failure"
+    },
+    {
+      "source": "WorldBank_News",
+      "error": "<unknown>:37:111: not well-formed (invalid token)"
+    },
+    {
+      "source": "https://www.oecd.org/newsroom/toc/newsandfeatures.rss",
+      "error": "fetch error: HTTP 403"
+    },
+    {
+      "source": "OECD_Newsroom",
+      "error": "fatal parse failure"
     }
   ],
   "feed_files": [
@@ -443,19 +407,19 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 559,
-    "passed_allowlist": 78,
-    "failed_all_filters": 444
+    "passed_keywords": 909,
+    "passed_allowlist": 0,
+    "failed_all_filters": 831
   },
   "stats": {
-    "feeds_total": 120,
+    "feeds_total": 132,
     "feeds_error": 32,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 1759,
-    "too_old": 678,
-    "dup_title_url": 26,
-    "dup_id": 174
+    "entries_seen": 2283,
+    "too_old": 543,
+    "dup_title_url": 412,
+    "dup_id": 474
   },
   "limits": {
     "skip_older_days": 10,
