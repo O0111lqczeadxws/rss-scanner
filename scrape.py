@@ -137,17 +137,28 @@ def parse_dt(s):
 def norm_item(src_name, entry):
     title = (entry.get("title") or "").strip()
     link  = _normalize_url((entry.get("link") or "").strip())
+
+    # Resolve published datetime (UTC); fall back to "now" if missing
     pub = (parse_dt(entry.get("published"))
            or parse_dt(entry.get("updated"))
            or parse_dt(entry.get("created"))
            or datetime.now(timezone.utc))
+
+    # --- date-only strings (UTC) ---
+    published_date = pub.strftime("%Y-%m-%d")
+    retrieved_date = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+
     summary = _clean_summary(entry.get("summary") or entry.get("description") or "")
     src = src_name or (entry.get("source", {}) or {}).get("title", "")
+
+    # id_key based on stable tuple
     base = f"{src}|{title}|{link}|{int(pub.timestamp())}"
     id_key = hashlib.sha256(base.encode("utf-8")).hexdigest()
+
     return {
         "ingested_utc": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
-        "published_utc": pub.strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "published_utc": published_date,     # YYYY-MM-DD
+        "retrieved_date": retrieved_date,    # YYYY-MM-DD
         "source": src,
         "title": title,
         "url": link,
@@ -190,8 +201,15 @@ def main():
                 stats["entries_seen"] += 1
                 item = norm_item(src, e)
 
+                # Parse date-only published_utc back to a datetime for cutoff comparison
                 try:
-                    pub_dt = dtparse.isoparse(item["published_utc"])  # aware for '...Z'
+                    pub_dt = dtparse.isoparse(item["published_utc"])  # YYYY-MM-DD
+                    if pub_dt.tzinfo is None:
+                        pub_dt = pub_dt.replace(tzinfo=timezone.utc)
+                    else:
+                        pub_dt = pub_dt.astimezone(timezone.utc)
+                    # Ensure midnight UTC for date-only
+                    pub_dt = pub_dt.replace(hour=0, minute=0, second=0, microsecond=0, tzinfo=timezone.utc)
                 except Exception:
                     pub_dt = datetime.now(timezone.utc)
 
@@ -200,7 +218,6 @@ def main():
                     continue
 
                 if not _passes_keywords(item["title"], item["summary"]):
-                    # count precisely which side filtered it
                     txt = f"{item['title']} {item['summary']}"
                     if _rx_exc and _rx_exc.search(txt):
                         stats["filtered_exclude"] += 1
@@ -239,7 +256,12 @@ def main():
 
     # Merge, sort, keep last N
     all_items = old_items + new_items
-    all_items_sorted = sorted(all_items, key=lambda x: x["published_utc"], reverse=True)
+    # Sort primarily by published date (string YYYY-MM-DD), tiebreak by ingested_utc
+    all_items_sorted = sorted(
+        all_items,
+        key=lambda x: (x.get("published_utc",""), x.get("ingested_utc","")),
+        reverse=True
+    )
     keep = all_items_sorted[:JSONL_MAX_ROWS]
 
     latest = all_items_sorted[:LATEST_LIMIT]
@@ -264,11 +286,19 @@ def main():
     with open(os.path.join(OUT_DIR, "hot.json"), "w", encoding="utf-8") as f:
         json.dump(hot, f, ensure_ascii=False)
 
+    # CSV now includes retrieved_date and date-only published_utc
     with open(CSV_PATH, "w", newline="", encoding="utf-8") as f:
         w = csv.writer(f)
-        w.writerow(["published_utc","source","title","url","id_key"])
+        w.writerow(["published_utc","retrieved_date","source","title","url","id_key"])
         for obj in all_items_sorted:
-            w.writerow([obj["published_utc"], obj.get("source",""), obj.get("title",""), obj.get("url",""), obj["id_key"]])
+            w.writerow([
+                obj.get("published_utc",""),     # YYYY-MM-DD
+                obj.get("retrieved_date",""),    # YYYY-MM-DD
+                obj.get("source",""),
+                obj.get("title",""),
+                obj.get("url",""),
+                obj.get("id_key","")
+            ])
 
     archive_dir = os.path.join(OUT_DIR, "archive")
     os.makedirs(archive_dir, exist_ok=True)
