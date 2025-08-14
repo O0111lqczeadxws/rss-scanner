@@ -1,8 +1,6 @@
 import os, json, hashlib, time, csv, re, html
-import urllib.request, urllib.error
 from urllib.parse import urlparse, urlunparse, parse_qsl, urlencode
-from collections import Counter
-from datetime import datetime, timezone, timedelta
+from datetime import datetime, timezone
 from dateutil import parser as dtparse
 import feedparser
 
@@ -10,354 +8,196 @@ import feedparser
 OUT_DIR = "docs"
 JSONL_PATH = os.path.join(OUT_DIR, "articles.jsonl")
 LATEST_PATH = os.path.join(OUT_DIR, "latest.json")
-CSV_PATH   = os.path.join(OUT_DIR, "articles.csv")
+CSV_PATH = os.path.join(OUT_DIR, "articles.csv")
 
-DEFAULT_FEEDS = "feeds.txt"  # fallback if split files absent
-INCLUDE_GENERAL = os.getenv("INCLUDE_GENERAL", "false").lower() == "true"
-
-# Freshness & limits
 SKIP_OLDER_DAYS = 10
-LATEST_LIMIT    = 1000
-JSONL_MAX_ROWS  = 5000
-PER_FEED_CAP    = 50
+LATEST_LIMIT = 1000
+JSONL_MAX_ROWS = 5000
+PER_FEED_CAP = 50
 LATEST_PER_SOURCE_CAP = 200
-SLEEP_BETWEEN_FEEDS = 1.0  # seconds
+SLEEP_BETWEEN_FEEDS = 1.0
 
-# Keyword filters (case-insensitive)
 KEYWORDS_INCLUDE = [
-    "bitcoin","btc","ethereum","eth","etf","sec","staking","solana",
-    "layer 2","airdrop","wallet","custody","treasury","mining","stablecoin"
+    "bitcoin", "btc", "ethereum", "eth", "etf", "sec", "staking", "solana",
+    "layer 2", "airdrop", "wallet", "custody", "treasury", "mining", "stablecoin"
 ]
-KEYWORDS_EXCLUDE = ["casino","giveaway","price prediction","sponsored","press release"]
+KEYWORDS_EXCLUDE = ["casino", "giveaway", "price prediction", "sponsored", "press release"]
 
-# ---------- Derived / helpers ----------
+ALLOWLIST_DOMAINS = {
+    "sec.gov", "federalreserve.gov", "home.treasury.gov", "bls.gov",
+    "bankofcanada.ca", "ecb.europa.eu", "fca.org.uk", "esma.europa.eu",
+    "statcan.gc.ca", "www150.statcan.gc.ca", "iea.org", "opec.org",
+    "cmegroup.com", "reuters.com", "feeds.reuters.com"
+}
+
 _rx_inc = re.compile("|".join([re.escape(k) for k in KEYWORDS_INCLUDE]), re.I) if KEYWORDS_INCLUDE else None
 _rx_exc = re.compile("|".join([re.escape(k) for k in KEYWORDS_EXCLUDE]), re.I) if KEYWORDS_EXCLUDE else None
 
+# ---------- Helpers ----------
 def _passes_keywords(title, summary):
     text = f"{title or ''} {summary or ''}".lower()
     if _rx_exc and _rx_exc.search(text): return False
     if _rx_inc and not _rx_inc.search(text): return False
     return True
 
-def _dedupe_key(title, link):
-    t = (title or "").strip().lower()
-    t = re.sub(r"\s+", " ", t)
-    return t or (link or "").lower()
-
-def _normalize_url(u: str) -> str:
-    if not u:
-        return ""
+def _normalize_url(u):
+    if not u: return ""
     try:
         p = urlparse(u)
-        # drop utm_* and fragment
-        q = [(k, v) for (k, v) in parse_qsl(p.query, keep_blank_values=True) if not k.lower().startswith("utm_")]
+        q = [(k, v) for k, v in parse_qsl(p.query, keep_blank_values=True) if not k.lower().startswith("utm_")]
         return urlunparse((p.scheme, p.netloc, p.path, p.params, urlencode(q), ""))
-    except Exception:
+    except:
         return u
 
-def _clean_summary(s: str) -> str:
-    """Strip HTML tags/entities and collapse whitespace."""
+def _clean_summary(s):
     if not s: return ""
-    s = re.sub(r"<[^>]+>", " ", s)   # remove HTML tags
+    s = re.sub(r"<[^>]+>", " ", s)
     s = html.unescape(s)
     return re.sub(r"\s+", " ", s).strip()
 
-os.makedirs(OUT_DIR, exist_ok=True)
+def _domain_from_url(u):
+    try: return urlparse(u).netloc.lower()
+    except: return ""
 
-# ---------- Feed helpers ----------
-def load_feeds(path):
-    feeds = []
-    if not os.path.exists(path): return feeds
-    with open(path, "r", encoding="utf-8") as f:
-        for line in f:
-            line = line.strip()
-            if not line or line.startswith("#"): continue
-            if "\t" in line:
-                src, url = line.split("\t", 1)
-            else:
-                parts = line.split()
-                if len(parts) >= 2 and parts[1].startswith("http"):
-                    src, url = parts[0], " ".join(parts[1:])
-                else:
-                    src, url = "", line
-            feeds.append((src.strip(), url.strip()))
-    return feeds
+def _is_allowed_feed(url):
+    d = _domain_from_url(url)
+    return any(d == dom or d.endswith("." + dom) for dom in ALLOWLIST_DOMAINS)
 
-def discover_feed_files():
-    files = []
-    if os.path.exists("crypto_feeds.txt"):
-        files.append("crypto_feeds.txt")
-    if INCLUDE_GENERAL and os.path.exists("general_feeds.txt"):
-        files.append("general_feeds.txt")
-    if not files and os.path.exists(DEFAULT_FEEDS):
-        files.append(DEFAULT_FEEDS)
-    return files
-
-def load_all_feeds():
-    merged = []
-    for p in discover_feed_files():
-        merged.extend(load_feeds(p))
-    return merged
-
-def load_existing_ids(path):
-    ids = set()
-    if not os.path.exists(path): return ids
-    with open(path, "r", encoding="utf-8") as f:
-        for ln in f:
-            try:
-                obj = json.loads(ln)
-                k = obj.get("id_key", "")
-                if k: ids.add(k)
-            except Exception:
-                pass
-    return ids
-
-# ---------- Networking (robust fetch with UA) ----------
-UA = "Mozilla/5.0 (compatible; VANTA-RSS/1.0; +https://example.com)"
-
-def fetch_bytes(url, timeout=20):
-    req = urllib.request.Request(url, headers={"User-Agent": UA})
-    with urllib.request.urlopen(req, timeout=timeout) as r:
-        return r.read()
-
-def parse_feed(url):
-    data = fetch_bytes(url)
-    return feedparser.parse(data)
-
-# ---------- Parsing helpers ----------
 def parse_dt(s):
-    if not s: return None
     try:
-        dt = dtparse.parse(s)
-        if not dt.tzinfo: dt = dt.replace(tzinfo=timezone.utc)
-        return dt.astimezone(timezone.utc)
-    except Exception:
+        return dtparse.parse(s)
+    except:
         return None
 
-def norm_item(src_name, entry):
-    title = (entry.get("title") or "").strip()
-    link  = _normalize_url((entry.get("link") or "").strip())
-
-    # Resolve published datetime (UTC); fall back to "now" if missing
-    pub = (parse_dt(entry.get("published"))
-           or parse_dt(entry.get("updated"))
-           or parse_dt(entry.get("created"))
-           or datetime.now(timezone.utc))
-
-    # --- date-only strings (UTC) ---
-    published_date = pub.strftime("%Y-%m-%d")
-    retrieved_date = datetime.now(timezone.utc).strftime("%Y-%m-%d")
-
-    summary = _clean_summary(entry.get("summary") or entry.get("description") or "")
-    src = src_name or (entry.get("source", {}) or {}).get("title", "")
-
-    # id_key based on stable tuple
-    base = f"{src}|{title}|{link}|{int(pub.timestamp())}"
-    id_key = hashlib.sha256(base.encode("utf-8")).hexdigest()
-
-    return {
-        "ingested_utc": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
-        "published_utc": published_date,     # YYYY-MM-DD
-        "retrieved_date": retrieved_date,    # YYYY-MM-DD
-        "source": src,
-        "title": title,
-        "url": link,
-        "summary": summary[:500],
-        "lang": "",
-        "id_key": id_key
-    }
-
-# ---------- Main ----------
-def main():
-    start_ts = datetime.now(timezone.utc)
-
-    feeds = load_all_feeds()
-    exist_ids = load_existing_ids(JSONL_PATH)
-    cutoff = datetime.now(timezone.utc) - timedelta(days=SKIP_OLDER_DAYS)
-
-    new_items, errors = [], []
-    by_src_counter = Counter()
-    seen_titles = set()
-
-    stats = {
-        "feeds_total": len(feeds),
-        "feeds_error": 0,
-        "entries_seen": 0,
-        "too_old": 0,
-        "filtered_exclude": 0,
-        "filtered_include_miss": 0,
-        "dup_title": 0,
-        "dup_id": 0
-    }
-
-    for (src, url) in feeds:
-        try:
-            if not url: continue
-            d = parse_feed(url)
-            if getattr(d, "bozo", 0):
-                errors.append({"source": src or url, "error": str(getattr(d, "bozo_exception", ""))})
-            before = len(new_items)
-            for e in d.entries[:PER_FEED_CAP]:
-                stats["entries_seen"] += 1
-                item = norm_item(src, e)
-
-                # Compare against cutoff using date-only published_utc
-                try:
-                    pub_dt = dtparse.isoparse(item["published_utc"])  # YYYY-MM-DD
-                    if pub_dt.tzinfo is None:
-                        pub_dt = pub_dt.replace(tzinfo=timezone.utc)
+def load_feeds(*files):
+    feeds = []
+    for path in files:
+        if os.path.exists(path):
+            with open(path, "r", encoding="utf-8") as f:
+                for line in f:
+                    line = line.strip()
+                    if not line or line.startswith("#"): continue
+                    parts = line.split()
+                    if len(parts) == 1:
+                        feeds.append(("", parts[0]))
                     else:
-                        pub_dt = pub_dt.astimezone(timezone.utc)
-                    pub_dt = pub_dt.replace(hour=0, minute=0, second=0, microsecond=0, tzinfo=timezone.utc)
-                except Exception:
-                    pub_dt = datetime.now(timezone.utc)
+                        feeds.append((parts[0], parts[1]))
+    return feeds
 
-                if pub_dt < cutoff:
-                    stats["too_old"] += 1
-                    continue
+# ---------- Load feeds ----------
+feeds = load_feeds("feeds.txt", "crypto_feeds.txt", "general_feeds.txt")
 
-                if not _passes_keywords(item["title"], item["summary"]):
-                    txt = f"{item['title']} {item['summary']}"
-                    if _rx_exc and _rx_exc.search(txt):
-                        stats["filtered_exclude"] += 1
-                    elif _rx_inc and not _rx_inc.search(txt):
-                        stats["filtered_include_miss"] += 1
-                    continue
+# ---------- Load archive ----------
+os.makedirs(OUT_DIR, exist_ok=True)
+old_items = []
+if os.path.exists(JSONL_PATH):
+    with open(JSONL_PATH, "r", encoding="utf-8") as f:
+        for ln in f:
+            try: old_items.append(json.loads(ln))
+            except: pass
 
-                dk = _dedupe_key(item["title"], item["url"])
-                if dk in seen_titles:
-                    stats["dup_title"] += 1
-                    continue
-                seen_titles.add(dk)
-
-                if item["id_key"] in exist_ids:
-                    stats["dup_id"] += 1
-                    continue
-                exist_ids.add(item["id_key"])
-
-                new_items.append(item)
-            by_src_counter[src or url] += len(new_items) - before
-        except (urllib.error.URLError, urllib.error.HTTPError) as net_ex:
-            stats["feeds_error"] += 1
-            errors.append({"source": src or url, "error": f"net: {net_ex}"})
-        except Exception as ex:
-            stats["feeds_error"] += 1
-            errors.append({"source": src or url, "error": str(ex)})
-        time.sleep(SLEEP_BETWEEN_FEEDS)
-
-    # Load existing archive
-    old_items = []
-    if os.path.exists(JSONL_PATH):
-        with open(JSONL_PATH, "r", encoding="utf-8") as f:
-            for ln in f:
-                try: old_items.append(json.loads(ln))
-                except Exception: pass
-
-    # --- MIGRATE legacy records to date-only + cleaned summaries ---
-    def _migrate_legacy_item(o):
-        # published_utc -> YYYY-MM-DD
-        pu = o.get("published_utc", "")
-        if pu:
-            if len(pu) >= 10 and pu[4] == "-" and pu[7] == "-":
-                o["published_utc"] = pu[:10]
-            else:
-                dt = parse_dt(pu) or datetime.now(timezone.utc)
-                o["published_utc"] = dt.strftime("%Y-%m-%d")
+# --- Migrate to date-only and add retrieved_date ---
+def _migrate_legacy_item(o):
+    pu = o.get("published_utc", "")
+    if pu:
+        if len(pu) >= 10 and pu[4] == "-" and pu[7] == "-":
+            o["published_utc"] = pu[:10]
         else:
-            iu = o.get("ingested_utc", "")
-            o["published_utc"] = (iu[:10] if len(iu) >= 10 and iu[4] == "-" else
-                                  datetime.now(timezone.utc).strftime("%Y-%m-%d"))
+            dt = parse_dt(pu) or datetime.now(timezone.utc)
+            o["published_utc"] = dt.strftime("%Y-%m-%d")
+    else:
+        iu = o.get("ingested_utc", "")
+        o["published_utc"] = (iu[:10] if len(iu) >= 10 and iu[4] == "-" else
+                              datetime.now(timezone.utc).strftime("%Y-%m-%d"))
 
-        # retrieved_date -> YYYY-MM-DD (new field)
-        if "retrieved_date" not in o or not o.get("retrieved_date"):
-            iu = o.get("ingested_utc", "")
-            o["retrieved_date"] = (iu[:10] if len(iu) >= 10 and iu[4] == "-" else
-                                   datetime.now(timezone.utc).strftime("%Y-%m-%d"))
+    if "retrieved_date" not in o or not o.get("retrieved_date"):
+        iu = o.get("ingested_utc", "")
+        o["retrieved_date"] = (iu[:10] if len(iu) >= 10 and iu[4] == "-" else
+                               datetime.now(timezone.utc).strftime("%Y-%m-%d"))
 
-        # Clean summary HTML
-        o["summary"] = _clean_summary(o.get("summary", ""))
+    o["summary"] = _clean_summary(o.get("summary", ""))
+    return o
 
-        return o
+old_items = [_migrate_legacy_item(o) for o in old_items]
 
-    old_items = [_migrate_legacy_item(o) for o in old_items]
+# ---------- Fetch new items ----------
+new_items = []
+seen_keys = {_normalize_url(i.get("url", "")) for i in old_items}
 
-    # Merge, sort, keep last N
-    all_items = old_items + new_items
-    # Sort primarily by published date (string YYYY-MM-DD), tiebreak by ingested_utc
-    all_items_sorted = sorted(
-        all_items,
-        key=lambda x: (x.get("published_utc",""), x.get("ingested_utc","")),
-        reverse=True
-    )
-    keep = all_items_sorted[:JSONL_MAX_ROWS]
+for src, feed_url in feeds:
+    try:
+        fp = feedparser.parse(feed_url)
+    except:
+        continue
 
-    latest = all_items_sorted[:LATEST_LIMIT]
-    # Per-source cap in latest
-    capped, seen = [], Counter()
-    for it in latest:
-        s = (it.get("source") or "").strip()
-        if seen[s] < LATEST_PER_SOURCE_CAP:
-            capped.append(it)
-            seen[s] += 1
-    latest = capped
+    count = 0
+    for e in fp.entries:
+        if count >= PER_FEED_CAP:
+            break
 
-    # Write outputs
-    with open(JSONL_PATH, "w", encoding="utf-8") as f:
-        for obj in keep:
-            f.write(json.dumps(obj, ensure_ascii=False) + "\n")
+        link = _normalize_url(getattr(e, "link", ""))
+        if link in seen_keys: continue
 
-    with open(LATEST_PATH, "w", encoding="utf-8") as f:
-        json.dump(latest, f, ensure_ascii=False)
+        title = getattr(e, "title", "").strip()
+        summary = _clean_summary(getattr(e, "summary", ""))
+        published_parsed = getattr(e, "published_parsed", None) or getattr(e, "updated_parsed", None)
+        if published_parsed:
+            dt_obj = datetime.fromtimestamp(time.mktime(published_parsed), tz=timezone.utc)
+        else:
+            dt_obj = parse_dt(getattr(e, "published", "")) or datetime.now(timezone.utc)
 
-    hot = [o for o in latest if _passes_keywords(o.get("title",""), o.get("summary",""))]
-    with open(os.path.join(OUT_DIR, "hot.json"), "w", encoding="utf-8") as f:
-        json.dump(hot, f, ensure_ascii=False)
+        if (datetime.now(timezone.utc) - dt_obj).days > SKIP_OLDER_DAYS:
+            continue
 
-    # CSV now includes retrieved_date and date-only published_utc
-    with open(CSV_PATH, "w", newline="", encoding="utf-8") as f:
-        w = csv.writer(f)
-        w.writerow(["published_utc","retrieved_date","source","title","url","id_key"])
-        for obj in all_items_sorted:
-            w.writerow([
-                obj.get("published_utc",""),     # YYYY-MM-DD
-                obj.get("retrieved_date",""),    # YYYY-MM-DD
-                obj.get("source",""),
-                obj.get("title",""),
-                obj.get("url",""),
-                obj.get("id_key","")
-            ])
+        if not _is_allowed_feed(feed_url):
+            if not _passes_keywords(title, summary):
+                continue
 
-    archive_dir = os.path.join(OUT_DIR, "archive")
-    os.makedirs(archive_dir, exist_ok=True)
-    day = datetime.now(timezone.utc).strftime("%Y-%m-%d")
-    snap = os.path.join(archive_dir, f"{day}.jsonl")
-    if new_items:
-        with open(snap, "a", encoding="utf-8") as f:
-            for obj in new_items:
-                f.write(json.dumps(obj, ensure_ascii=False) + "\n")
+        item = {
+            "published_utc": dt_obj.strftime("%Y-%m-%d"),
+            "retrieved_date": datetime.now(timezone.utc).strftime("%Y-%m-%d"),
+            "source": src or _domain_from_url(feed_url),
+            "title": title,
+            "url": link,
+            "id_key": hashlib.sha256((title + link).encode("utf-8")).hexdigest(),
+            "summary": summary,
+            "ingested_utc": datetime.now(timezone.utc).isoformat()
+        }
 
-    end_ts = datetime.now(timezone.utc)
-    status = {
-        "started_utc": start_ts.strftime("%Y-%m-%dT%H:%M:%SZ"),
-        "ended_utc": end_ts.strftime("%Y-%m-%dT%H:%M:%SZ"),
-        "run_ms": int((end_ts - start_ts).total_seconds() * 1000),
-        "new_items_this_run": len(new_items),
-        "total_in_latest": len(latest),
-        "by_source": dict(by_src_counter),
-        "errors": errors,
-        "include_general": INCLUDE_GENERAL,
-        "feed_files": discover_feed_files(),
-        "filters": {"include": KEYWORDS_INCLUDE, "exclude": KEYWORDS_EXCLUDE},
-        "limits": {
-            "skip_older_days": SKIP_OLDER_DAYS,
-            "latest_limit": LATEST_LIMIT,
-            "latest_per_source_cap": LATEST_PER_SOURCE_CAP
-        },
-        "stats": stats
-    }
-    with open(os.path.join(OUT_DIR, "status.json"), "w", encoding="utf-8") as f:
-        json.dump(status, f, ensure_ascii=False, indent=2)
+        seen_keys.add(link)
+        new_items.append(item)
+        count += 1
 
-if __name__ == "__main__":
-    main()
+    time.sleep(SLEEP_BETWEEN_FEEDS)
+
+# ---------- Merge and save ----------
+all_items = old_items + new_items
+all_items_sorted = sorted(
+    all_items,
+    key=lambda x: (x.get("published_utc", ""), x.get("ingested_utc", "")),
+    reverse=True
+)
+all_items_sorted = all_items_sorted[:JSONL_MAX_ROWS]
+
+with open(JSONL_PATH, "w", encoding="utf-8") as f:
+    for o in all_items_sorted:
+        f.write(json.dumps(o, ensure_ascii=False) + "\n")
+
+latest = all_items_sorted[:LATEST_LIMIT]
+with open(LATEST_PATH, "w", encoding="utf-8") as f:
+    json.dump(latest, f, ensure_ascii=False, indent=2)
+
+with open(CSV_PATH, "w", newline="", encoding="utf-8") as f:
+    w = csv.writer(f)
+    w.writerow(["published_utc", "retrieved_date", "source", "title", "url", "id_key", "summary", "ingested_utc"])
+    for o in all_items_sorted:
+        w.writerow([
+            o.get("published_utc", ""),
+            o.get("retrieved_date", ""),
+            o.get("source", ""),
+            o.get("title", ""),
+            o.get("url", ""),
+            o.get("id_key", ""),
+            o.get("summary", ""),
+            o.get("ingested_utc", "")
+        ])
