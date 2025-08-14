@@ -34,7 +34,7 @@ FEED_FILES = [
 ]
 
 # Limits / freshness
-SKIP_OLDER_DAYS     = 10
+SKIP_OLDER_DAYS     = 0
 PER_FEED_CAP        = 50
 LATEST_LIMIT        = 1000
 JSONL_MAX_ROWS      = 5000
