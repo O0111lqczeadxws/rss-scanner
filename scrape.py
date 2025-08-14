@@ -3,29 +3,51 @@
 """
 RSS scanner → JSONL/CSV (GitHub Pages friendly)
 
-- Writes canonical outputs under ./docs
-- CSV uses QUOTE_ALL, lineterminator="\n", and content sanitization to avoid
-  GitHub "Illegal quoting" preview errors
-- Optional dated CSV snapshots under ./docs/archive/
+Enhancements vs. base version:
+- Feed health tags in feed lists:
+  [BROKEN] or [SKIP] -> skip feed
+  [CAP=20]           -> per-feed item cap override
+- Robust parsing pipeline:
+  1) feedparser.parse(url)
+  2) If bozo/encoding/XML issues: requests.get + XML prolog fix + re-parse
+  3) If HTML served: try BeautifulSoup to discover <link rel="alternate" ... rss> and parse that
+- new.jsonl written each run with only NEW items (delta)
+- CSV hardening: QUOTE_ALL + sanitized fields + '\n' line endings
+- CLI flags:
+  --force-refresh   -> treat as full refresh (skip-days=0), write clean new/latest
+  --skip-days N     -> override freshness for this run
 
 Requires: feedparser
+Optional: requests, bs4
 """
 
-import os, json, csv, re, html, hashlib, time
+import os, json, csv, re, html, hashlib, time, argparse
 from datetime import datetime, timezone, timedelta
 from urllib.parse import urlparse, urlunparse, parse_qsl, urlencode
 
 import feedparser
 
+# Optional deps (graceful if missing)
+try:
+    import requests
+except Exception:
+    requests = None
+
+try:
+    from bs4 import BeautifulSoup  # type: ignore
+except Exception:
+    BeautifulSoup = None
+
 # ==================== CONFIG ====================
-OUT_DIR       = "docs"
-ARCHIVE_DIR   = os.path.join(OUT_DIR, "archive")     # for optional dated snapshots
-ARCHIVE_SNAPSHOTS = True                              # set False to disable
+OUT_DIR         = "docs"
+ARCHIVE_DIR     = os.path.join(OUT_DIR, "archive")     # for optional dated snapshots
+ARCHIVE_SNAPSHOTS = True                                # set False to disable
 
 JSONL_PATH   = os.path.join(OUT_DIR, "articles.jsonl")
 CSV_PATH     = os.path.join(OUT_DIR, "articles.csv")
 LATEST_PATH  = os.path.join(OUT_DIR, "latest.json")
 STATUS_PATH  = os.path.join(OUT_DIR, "status.json")
+NEW_PATH     = os.path.join(OUT_DIR, "new.jsonl")       # delta: only new items this run
 
 FEED_FILES = [
     "feeds.txt",         # Tier 1 – official & macro movers
@@ -33,12 +55,19 @@ FEED_FILES = [
     "general_feeds.txt"  # Tier 3 – general candidates
 ]
 
-# Limits / freshness
+# Limits / freshness (can be overridden via --skip-days)
 SKIP_OLDER_DAYS     = 10
 PER_FEED_CAP        = 50
 LATEST_LIMIT        = 1000
 JSONL_MAX_ROWS      = 5000
 SLEEP_BETWEEN_FEEDS = 0.6  # seconds
+
+# HTTP defaults for requests fallback
+REQ_TIMEOUT = 12
+REQ_HEADERS = {
+    "User-Agent": "Mozilla/5.0 (RSS-Scanner; +https://example.com/bot) Python",
+    "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml;q=0.9, */*;q=0.8",
+}
 
 # ==================== VANTA2 TUNING ====================
 KEYWORDS_INCLUDE = [
@@ -143,17 +172,15 @@ def _parse_dt(entry, feed_url: str):
         pass
     for key in ("published", "updated", "created"):
         val = entry.get(key)
-        if not val: 
+        if not val:
             continue
         try:
-            # feedparser can parse many formats via _parse_date
             tt = feedparser._parse_date(val)
             if tt:
                 return datetime(*tt[:6], tzinfo=timezone.utc)
         except Exception:
             pass
         try:
-            # ISO-ish fallback
             return datetime.fromisoformat(val.replace("Z", "+00:00")).astimezone(timezone.utc)
         except Exception:
             pass
@@ -172,42 +199,174 @@ def _dedupe_key(title: str, link: str) -> str:
     t = re.sub(r"\s+", " ", t)
     return hashlib.sha256(f"{t}|{_normalize_url(link)}".encode("utf-8")).hexdigest()
 
+# ---- Feed list parsing with health tags ----
+_TAG_RE = re.compile(r"\[(.*?)\]")   # matches [ ... ]
+def _parse_feed_line(line: str):
+    """
+    Returns: (source_name, url, tags_dict)
+    Supports tags like [BROKEN], [SKIP], [CAP=20] anywhere in the line.
+    """
+    tags = {}
+    for m in _TAG_RE.findall(line):
+        if "=" in m:
+            k, v = m.split("=", 1)
+            tags[k.strip().upper()] = v.strip()
+        else:
+            tags[m.strip().upper()] = True
+
+    # Remove tag blocks from line
+    line_clean = _TAG_RE.sub("", line).strip()
+
+    src, url = "", ""
+    if "\t" in line_clean:
+        src, url = line_clean.split("\t", 1)
+    else:
+        parts = line_clean.split()
+        if len(parts) >= 2 and parts[1].startswith("http"):
+            src, url = parts[0], " ".join(parts[1:])
+        else:
+            url = line_clean
+
+    return (src.strip(), url.strip(), tags)
+
 def _load_feeds():
     out = []
     for ff in FEED_FILES:
-        if not os.path.exists(ff): 
+        if not os.path.exists(ff):
             continue
         with open(ff, "r", encoding="utf-8") as f:
             for raw in f:
                 line = raw.strip()
-                if not line or line.startswith("#"): 
+                if not line or line.startswith("#"):
                     continue
-                src, url = "", ""
-                if "\t" in line:
-                    src, url = line.split("\t", 1)
-                else:
-                    parts = line.split()
-                    if len(parts) >= 2 and parts[1].startswith("http"):
-                        src, url = parts[0], " ".join(parts[1:])
-                    else:
-                        url = line
-                out.append((src.strip(), url.strip()))
+                src, url, tags = _parse_feed_line(line)
+                out.append((src, url, tags))
     return out
 
+# ---- CSV sanitization ----
 def _csv_clean(x) -> str:
     """Sanitize for CSV: remove hard line breaks and exotic separators that can
     confuse strict CSV previews; normalize to plain spaces."""
     if x is None:
         return ""
     s = str(x)
-    # remove CR/LF and Unicode line/paragraph separators
     s = s.replace("\r", " ").replace("\n", " ").replace("\u2028", " ").replace("\u2029", " ")
-    # strip NULLs if any
     s = s.replace("\x00", " ")
     return s
 
+# ---- requests/bs4 fallback helpers ----
+_XML_PROLOG_RE = re.compile(r'<\?xml[^>]*encoding=["\'].*?["\'][^>]*\?>', re.I)
+def _fix_xml_encoding(s: bytes) -> str:
+    """
+    Attempt to normalize XML encoding to UTF-8 and strip obvious bad control chars.
+    Returns text (utf-8 decoded).
+    """
+    try:
+        text = s.decode("utf-8", errors="replace")
+    except Exception:
+        # try latin-1 as last resort
+        text = s.decode("latin-1", errors="replace")
+    # Normalize XML prolog encoding to utf-8 (helps "us-ascii declared" issues)
+    if _XML_PROLOG_RE.search(text):
+        text = _XML_PROLOG_RE.sub('<?xml version="1.0" encoding="utf-8"?>', text, count=1)
+    # strip NULLs
+    text = text.replace("\x00", " ")
+    return text
+
+def _discover_rss_in_html(html_text: str, base_url: str) -> str:
+    """If a page is HTML, try to find an alternate RSS/Atom link."""
+    if not BeautifulSoup:
+        return ""
+    try:
+        soup = BeautifulSoup(html_text, "html.parser")
+        for link in soup.find_all("link"):
+            rel = (link.get("rel") or [])
+            typ = (link.get("type") or "").lower()
+            href = link.get("href") or ""
+            if ("alternate" in [r.lower() for r in rel]) and ("rss" in typ or "atom" in typ):
+                # Resolve relative href
+                try:
+                    from urllib.parse import urljoin
+                    return urljoin(base_url, href)
+                except Exception:
+                    return href
+    except Exception:
+        pass
+    return ""
+
+def _parse_with_fallback(url: str, errors_list: list):
+    """
+    Try feedparser; on failure use requests to re-fetch and re-parse.
+    If HTML is served, try to discover the real feed link via BeautifulSoup.
+    Returns a feedparser-like result object (with .entries), or None on fatal error.
+    """
+    try:
+        parsed = feedparser.parse(url)
+    except Exception as ex:
+        errors_list.append({"source": url, "error": f"feedparser explode: {ex}"})
+        parsed = None
+
+    bozo = int(getattr(parsed, "bozo", 0) or 0) if parsed else 1
+    if parsed and not bozo and getattr(parsed, "entries", None):
+        return parsed  # good
+
+    # Fallback only if requests is available
+    if not requests:
+        if parsed:
+            # Return even if bozo; we'll handle entry loop robustly
+            return parsed
+        errors_list.append({"source": url, "error": "requests not available for fallback"})
+        return None
+
+    # Try to fetch raw
+    try:
+        r = requests.get(url, headers=REQ_HEADERS, timeout=REQ_TIMEOUT)
+        ct = (r.headers.get("Content-Type") or "").lower()
+        content = r.content
+    except Exception as ex:
+        errors_list.append({"source": url, "error": f"requests error: {ex}"})
+        return parsed if parsed else None
+
+    # If HTML was served, attempt to discover <link rel="alternate" type="application/rss+xml">
+    if "text/html" in ct or (ct == "" and content.strip().startswith(b"<!DOCTYPE html")):
+        if BeautifulSoup:
+            try:
+                html_text = content.decode(r.apparent_encoding or "utf-8", errors="replace")
+            except Exception:
+                html_text = content.decode("utf-8", errors="replace")
+            alt = _discover_rss_in_html(html_text, url)
+            if alt:
+                try:
+                    r2 = requests.get(alt, headers=REQ_HEADERS, timeout=REQ_TIMEOUT)
+                    fixed = _fix_xml_encoding(r2.content)
+                    parsed2 = feedparser.parse(fixed)
+                    bozo2 = int(getattr(parsed2, "bozo", 0) or 0)
+                    if not bozo2 and getattr(parsed2, "entries", None):
+                        return parsed2
+                except Exception as ex2:
+                    errors_list.append({"source": url, "error": f"alt rss fetch failed: {ex2}"})
+        # Fall through to attempt to parse HTML text anyway (will likely fail)
+        fixed = _fix_xml_encoding(content)
+        parsed_html = feedparser.parse(fixed)
+        return parsed_html
+
+    # Not HTML → likely XML but with bad prolog/encoding; normalize and re-parse
+    fixed = _fix_xml_encoding(content)
+    parsed2 = feedparser.parse(fixed)
+    return parsed2
+
 # ==================== MAIN ====================
 def main():
+    parser = argparse.ArgumentParser(description="RSS → JSONL/CSV scraper")
+    parser.add_argument("--force-refresh", action="store_true",
+                        help="Ignore age filter (skip-days=0) and rebuild outputs fresh for this run.")
+    parser.add_argument("--skip-days", type=int, default=None,
+                        help="Override SKIP_OLDER_DAYS just for this run.")
+    args = parser.parse_args()
+
+    skip_days = 0 if args.force_refresh else (args.skip_days if args.skip_days is not None else SKIP_OLDER_DAYS)
+    cutoff = datetime.now(timezone.utc) - timedelta(days=skip_days)
+
     os.makedirs(OUT_DIR, exist_ok=True)
     if ARCHIVE_SNAPSHOTS:
         os.makedirs(ARCHIVE_DIR, exist_ok=True)
@@ -217,7 +376,7 @@ def main():
 
     # Load previous JSONL and migrate fields
     old_items = []
-    if os.path.exists(JSONL_PATH):
+    if os.path.exists(JSONL_PATH) and not args.force_refresh:
         with open(JSONL_PATH, "r", encoding="utf-8") as f:
             for ln in f:
                 try:
@@ -248,8 +407,6 @@ def main():
                     pass
 
     exist_ids = {o.get("id_key") for o in old_items if o.get("id_key")}
-    cutoff = datetime.now(timezone.utc) - timedelta(days=SKIP_OLDER_DAYS)
-
     new_items = []
     seen_title_url = set()
     by_source = {}
@@ -266,82 +423,114 @@ def main():
     }
     errors = []
 
-    for (src_name, feed_url) in feeds:
+    for (src_name, feed_url, tags) in feeds:
+        # Respect health tags
+        tag_keys = {k.upper(): v for k, v in (tags or {}).items()}
+        if "BROKEN" in tag_keys or "SKIP" in tag_keys:
+            by_source[src_name or feed_url] = by_source.get(src_name or feed_url, 0) + 0
+            print(f"[FEED] {src_name or feed_url} → SKIPPED (tagged)")
+            continue
+
+        per_cap = PER_FEED_CAP
+        if "CAP" in tag_keys:
+            try:
+                per_cap = max(1, int(tag_keys["CAP"]))
+            except Exception:
+                pass
+
         added, skipped = 0, 0
         try:
-            parsed = feedparser.parse(feed_url)
-            if getattr(parsed, "bozo", 0):
+            parsed = _parse_with_fallback(feed_url, errors_list=errors)
+            if parsed is None:
+                stats["feeds_error"] += 1
+                errors.append({"source": src_name or feed_url, "error": "fatal parse failure"})
+                by_source[src_name or feed_url] = by_source.get(src_name or feed_url, 0) + 0
+                print(f"[FEED] {src_name or feed_url} → Added: 0, Skipped: 0 (fatal)")
+                time.sleep(SLEEP_BETWEEN_FEEDS)
+                continue
+
+            # If feedparser bozo but still has entries, proceed carefully
+            entries = list(getattr(parsed, "entries", []) or [])[:per_cap]
+
+            # Count bozo as error but keep going
+            if int(getattr(parsed, "bozo", 0) or 0):
                 errors.append({"source": src_name or feed_url,
                                "error": str(getattr(parsed, "bozo_exception", ""))})
-            for e in parsed.entries[:PER_FEED_CAP]:
+
+            for e in entries:
                 stats["entries_seen"] += 1
+                try:
+                    title = (e.get("title") or "").strip()
+                    link  = _normalize_url((e.get("link") or "").strip())
+                    summary = _clean_summary(e.get("summary") or e.get("description") or "")
+                    pub_dt = _parse_dt(e, feed_url)
 
-                title = (e.get("title") or "").strip()
-                link  = _normalize_url((e.get("link") or "").strip())
-                summary = _clean_summary(e.get("summary") or e.get("description") or "")
-                pub_dt = _parse_dt(e, feed_url)
+                    # Freshness
+                    if pub_dt < cutoff:
+                        stats["too_old"] += 1
+                        skipped += 1
+                        continue
 
-                # Freshness
-                if pub_dt < cutoff:
-                    stats["too_old"] += 1
-                    skipped += 1
-                    continue
-
-                # Filter logic (allowlist bypasses INCLUDE but still must pass EXCLUDE)
-                allowed = _allowed(feed_url, link)
-                if _rx_exc and _rx_exc.search(f"{title} {summary}"):
-                    stats["failed_all_filters"] += 1
-                    skipped += 1
-                    continue
-                if not allowed:
-                    if not _passes_keywords(title, summary):
+                    # Filter logic (allowlist bypasses INCLUDE but still must pass EXCLUDE)
+                    allowed = _allowed(feed_url, link)
+                    if _rx_exc and _rx_exc.search(f"{title} {summary}"):
                         stats["failed_all_filters"] += 1
                         skipped += 1
                         continue
+                    if not allowed:
+                        if not _passes_keywords(title, summary):
+                            stats["failed_all_filters"] += 1
+                            skipped += 1
+                            continue
+                        else:
+                            stats["passed_keywords"] += 1
                     else:
-                        stats["passed_keywords"] += 1
-                else:
-                    stats["passed_allowlist"] += 1
+                        stats["passed_allowlist"] += 1
 
-                # Dedupe across this run
-                dk = _dedupe_key(title, link)
-                if dk in seen_title_url:
-                    stats["dup_title_url"] += 1
+                    # Dedupe across this run
+                    dk = _dedupe_key(title, link)
+                    if dk in seen_title_url:
+                        stats["dup_title_url"] += 1
+                        skipped += 1
+                        continue
+                    seen_title_url.add(dk)
+
+                    # Build item
+                    ingested_now = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+                    src_label = (src_name or getattr(parsed.feed, "title", "") or "").strip()
+                    base = f"{src_label}|{title}|{link}|{pub_dt.strftime('%Y-%m-%d')}"
+                    id_key = hashlib.sha256(base.encode("utf-8")).hexdigest()
+                    if id_key in exist_ids:
+                        stats["dup_id"] += 1
+                        skipped += 1
+                        continue
+                    exist_ids.add(id_key)
+
+                    item = {
+                        "published_utc": pub_dt.strftime("%Y-%m-%d"),
+                        "retrieved_date": ingested_now[:10],
+                        "source": src_label,
+                        "title": title,
+                        "url": link,
+                        "id_key": id_key,
+                        "summary": summary,
+                        "ingested_utc": ingested_now
+                    }
+                    new_items.append(item)
+                    added += 1
+                except Exception as inner_ex:
+                    errors.append({"source": src_name or feed_url, "error": f"entry error: {inner_ex}"})
                     skipped += 1
-                    continue
-                seen_title_url.add(dk)
-
-                # Build item
-                ingested_now = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
-                base = f"{(src_name or parsed.feed.get('title','')).strip()}|{title}|{link}|{pub_dt.strftime('%Y-%m-%d')}"
-                id_key = hashlib.sha256(base.encode("utf-8")).hexdigest()
-                if id_key in exist_ids:
-                    stats["dup_id"] += 1
-                    skipped += 1
-                    continue
-                exist_ids.add(id_key)
-
-                item = {
-                    "published_utc": pub_dt.strftime("%Y-%m-%d"),
-                    "retrieved_date": ingested_now[:10],
-                    "source": (src_name or parsed.feed.get("title","")).strip(),
-                    "title": title,
-                    "url": link,
-                    "id_key": id_key,
-                    "summary": summary,
-                    "ingested_utc": ingested_now
-                }
-                new_items.append(item)
-                added += 1
         except Exception as ex:
             stats["feeds_error"] += 1
-            errors.append({"source": src_name or feed_url, "error": str(ex)})
+            errors.append({"source": src_name or feed_url, "error": f"outer error: {ex}"})
+
         by_source[src_name or feed_url] = by_source.get(src_name or feed_url, 0) + added
         print(f"[FEED] {src_name or feed_url} → Added: {added}, Skipped: {skipped}")
         time.sleep(SLEEP_BETWEEN_FEEDS)
 
     # Merge, sort, cap
-    all_items = old_items + new_items
+    all_items = ([] if args.force_refresh else old_items) + new_items
     all_items_sorted = sorted(
         all_items,
         key=lambda x: (x.get("published_utc",""), x.get("ingested_utc","")),
@@ -351,7 +540,7 @@ def main():
     latest = keep[:LATEST_LIMIT]
 
     # ---------- Write outputs ----------
-    # JSONL
+    # JSONL (full)
     with open(JSONL_PATH, "w", encoding="utf-8") as f:
         for obj in keep:
             f.write(json.dumps(obj, ensure_ascii=False) + "\n")
@@ -359,6 +548,11 @@ def main():
     # latest.json
     with open(LATEST_PATH, "w", encoding="utf-8") as f:
         json.dump(latest, f, ensure_ascii=False, indent=2)
+
+    # new.jsonl (delta only)
+    with open(NEW_PATH, "w", encoding="utf-8") as f:
+        for obj in new_items:
+            f.write(json.dumps(obj, ensure_ascii=False) + "\n")
 
     # CSV (strict and sanitized)
     with open(CSV_PATH, "w", newline="", encoding="utf-8") as f:
@@ -375,17 +569,17 @@ def main():
             ])
 
     # Optional dated snapshot of the CSV
+    snapshot_err = None
     if ARCHIVE_SNAPSHOTS:
         ts = datetime.now(timezone.utc).strftime("%Y-%m-%d")
         snap_path = os.path.join(ARCHIVE_DIR, f"articles-{ts}.csv")
-        # write snapshot atomically by copying content we just wrote
         try:
             with open(CSV_PATH, "r", encoding="utf-8") as src, \
                  open(snap_path, "w", newline="", encoding="utf-8") as dst:
                 for ln in src:
                     dst.write(ln)
         except Exception as ex:
-            errors.append({"source": "snapshot", "error": f"csv snapshot failed: {ex}"})
+            snapshot_err = str(ex)
 
     # Status
     end_ts = datetime.now(timezone.utc)
@@ -395,7 +589,10 @@ def main():
         "new_items_this_run": len(new_items),
         "total_in_latest": len(latest),
         "by_source": dict(by_source),
-        "errors": errors,
+        "errors": (
+            ([{"source": "snapshot", "error": f"csv snapshot failed: {snapshot_err}"}] if snapshot_err else [])
+            + errors
+        ),
         "feed_files": [ff for ff in FEED_FILES if os.path.exists(ff)],
         "filters": {
             "include": KEYWORDS_INCLUDE[:10] + (["..."] if len(KEYWORDS_INCLUDE) > 10 else []),
