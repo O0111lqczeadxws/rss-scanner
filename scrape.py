@@ -22,8 +22,8 @@ PER_FEED_CAP    = 50       # max items per feed per run
 SLEEP_BETWEEN_FEEDS = 1.0  # polite delay between feeds (seconds)
 
 # Keyword filters (case-insensitive)
-# Leave KEYWORDS_INCLUDE = [] to accept everything (and only use EXCLUDE).
-KEYWORDS_INCLUDE = ["eth","ethereum","btc","bitcoin","etf","blackrock","sec","staking"]
+# Start wide: accept everything (tighten later). Only EXCLUDE applies now.
+KEYWORDS_INCLUDE = []   # e.g., ["eth","bitcoin","etf","sec"]
 KEYWORDS_EXCLUDE = ["casino","giveaway","sponsored"]
 
 # -------- Derived / helpers for filters --------
@@ -56,13 +56,17 @@ def load_feeds(path):
             if "\t" in line:
                 src, url = line.split("\t", 1)
             else:
-                src, url = "", line
+                # allow "Label URL" (space) or just URL
+                parts = line.split()
+                if len(parts) >= 2 and parts[1].startswith("http"):
+                    src, url = parts[0], " ".join(parts[1:])
+                else:
+                    src, url = "", line
             feeds.append((src.strip(), url.strip()))
     return feeds
 
 def discover_feed_files():
     files = []
-    # Prefer split files if present; otherwise fallback to feeds.txt
     if os.path.exists("crypto_feeds.txt"):
         files.append("crypto_feeds.txt")
     if INCLUDE_GENERAL and os.path.exists("general_feeds.txt"):
@@ -140,38 +144,67 @@ def main():
     by_src_counter = Counter()
     seen_titles = set()  # cross-feed duplicate suppression by normalized title/link
 
+    # debug counters
+    stats = {
+        "feeds_total": len(feeds),
+        "feeds_error": 0,
+        "entries_seen": 0,
+        "too_old": 0,
+        "filtered_exclude": 0,
+        "filtered_include_miss": 0,
+        "dup_title": 0,
+        "dup_id": 0
+    }
+
     for (src, url) in feeds:
         try:
             if not url:
                 continue
             d = feedparser.parse(url)
+            if getattr(d, "bozo", 0):
+                errors.append({"source": src or url, "error": str(getattr(d, "bozo_exception", ""))})
             before = len(new_items)
             for e in d.entries[:PER_FEED_CAP]:
+                stats["entries_seen"] += 1
                 item = norm_item(src, e)
 
+                # tz-aware parse for comparison
+                try:
+                    pub_dt = dtparse.isoparse(item["published_utc"])  # aware (Z => UTC)
+                except Exception:
+                    pub_dt = datetime.now(timezone.utc)
+
                 # cutoff by age
-                pub_dt = datetime.strptime(item["published_utc"], "%Y-%m-%dT%H:%M:%SZ")
                 if pub_dt < cutoff:
+                    stats["too_old"] += 1
                     continue
 
                 # keyword filters
-                if not _passes_keywords(item["title"], item["summary"]):
+                txt = f"{item['title']} {item['summary']}"
+                if _rx_exc and _rx_exc.search(txt):
+                    stats["filtered_exclude"] += 1
+                    continue
+                if _rx_inc and not _rx_inc.search(txt):
+                    stats["filtered_include_miss"] += 1
                     continue
 
                 # cross-feed duplicate suppression
                 dk = _dedupe_key(item["title"], item["url"])
                 if dk in seen_titles:
+                    stats["dup_title"] += 1
                     continue
                 seen_titles.add(dk)
 
                 # id-based dedupe vs archive
                 if item["id_key"] in exist_ids:
+                    stats["dup_id"] += 1
                     continue
                 exist_ids.add(item["id_key"])
 
                 new_items.append(item)
             by_src_counter[src or url] += len(new_items) - before
         except Exception as ex:
+            stats["feeds_error"] += 1
             errors.append({"source": src or url, "error": str(ex)})
         time.sleep(SLEEP_BETWEEN_FEEDS)
 
@@ -200,7 +233,7 @@ def main():
     with open(LATEST_PATH, "w", encoding="utf-8") as f:
         json.dump(latest, f, ensure_ascii=False)
 
-    # Write hot.json (same filter rules; subset of latest if include-list is used)
+    # Write hot.json
     hot = [o for o in latest if _passes_keywords(o.get("title",""), o.get("summary",""))]
     with open(os.path.join(OUT_DIR, "hot.json"), "w", encoding="utf-8") as f:
         json.dump(hot, f, ensure_ascii=False)
@@ -234,10 +267,8 @@ def main():
         "errors": errors,
         "include_general": INCLUDE_GENERAL,
         "feed_files": discover_feed_files(),
-        "filters": {
-            "include": KEYWORDS_INCLUDE,
-            "exclude": KEYWORDS_EXCLUDE
-        }
+        "filters": {"include": KEYWORDS_INCLUDE, "exclude": KEYWORDS_EXCLUDE},
+        "stats": stats
     }
     with open(os.path.join(OUT_DIR, "status.json"), "w", encoding="utf-8") as f:
         json.dump(status, f, ensure_ascii=False, indent=2)
