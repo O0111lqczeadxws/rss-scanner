@@ -1,0 +1,84 @@
+name: Analyze feeds (VANTA AI)
+
+on:
+  schedule:
+    - cron: "15 * * * *"     # hourly at :15 UTC (tune as needed)
+  workflow_dispatch:
+    inputs:
+      run_date:
+        description: "YYYY-MM-DD (UTC). Leave empty to use today."
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: analyze-vanta
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Cache pip
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: pip-${{ runner.os }}-${{ hashFiles('**/requirements.txt') }}
+
+      - name: Install requirements
+        run: |
+          python -m pip install -U pip
+          pip install -r requirements.txt
+
+      - name: Resolve date
+        run: |
+          if [ -n "${{ inputs.run_date }}" ]; then
+            echo "DATE=${{ inputs.run_date }}" >> $GITHUB_ENV
+          else
+            echo "DATE=$(date -u +%F)" >> $GITHUB_ENV
+          fi
+          echo "Using DATE=$DATE"
+
+      - name: Ensure output dirs exist
+        run: |
+          mkdir -p data/ai_bundles data/ai_out data/ai_final data/drift reports/daily
+
+      # If you already have a step that creates data/processed/$DATE*.jsonl, keep it.
+      # Otherwise, call your existing pipeline here (uncomment/replace as needed):
+      # - name: Build processed (normalize + summarize)
+      #   run: python -m src.pipeline --date "$DATE"
+
+      - name: Build AI bundles
+        run: python -m src.build_ai_bundle --date "$DATE"
+
+      - name: Mock AI infer (VANTA1/2 fields)
+        run: python -m ai_layer.infer --date "$DATE"
+
+      - name: Interpret & score (final)
+        run: python -m ai_layer.interpreter --date "$DATE"
+
+      - name: Drift scoring (7-day lookback)
+        run: python -m ai_layer.drift --date "$DATE" --lookback 7
+
+      - name: Rebuild report to include drift
+        run: python -m ai_layer.interpreter --date "$DATE"
+
+      - name: Commit analysis artifacts
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/ai_bundles data/ai_out data/ai_final data/drift reports/daily || true
+          git commit -m "auto: AI analysis $DATE" || echo "no changes"
+          git push
