@@ -1,8 +1,8 @@
 {
-  "started_utc": "2025-08-14T20:14:47Z",
-  "ended_utc": "2025-08-14T20:19:51Z",
-  "new_items_this_run": 23,
-  "total_in_latest": 828,
+  "started_utc": "2025-08-14T20:23:35Z",
+  "ended_utc": "2025-08-14T20:29:46Z",
+  "new_items_this_run": 3,
+  "total_in_latest": 831,
   "by_source": {
     "Reuters_Business": 0,
     "Reuters_World": 0,
@@ -11,19 +11,19 @@
     "BBC_Business": 0,
     "BBC_Technology": 0,
     "Guardian_Business": 0,
-    "Guardian_World": 5,
+    "Guardian_World": 1,
     "WSJ_US_Business": 0,
     "WSJ_World": 0,
     "WSJ_Markets": 0,
     "MarketWatch_Top": 0,
     "MarketWatch_MarketPulse": 0,
     "MarketWatch_RealTime": 0,
-    "MarketWatch_Bulletins": 1,
+    "MarketWatch_Bulletins": 0,
     "MarketWatch_PersonalFinance": 0,
-    "NYTimes_Business": 1,
+    "NYTimes_Business": 0,
     "NYTimes_World": 0,
     "NYTimes_Economy": 0,
-    "NYTimes_Technology": 1,
+    "NYTimes_Technology": 0,
     "CNN_Top": 0,
     "NPR_Top": 0,
     "NPR_Business": 0,
@@ -37,27 +37,27 @@
     "TheVerge_All": 0,
     "TechCrunch_All": 0,
     "ArsTechnica_All": 0,
-    "WIRED_All": 1,
+    "WIRED_All": 0,
     "Engadget_All": 0,
     "TheEconomist_Business": 0,
     "TheEconomist_Finance": 0,
     "Investopedia_Latest": 0,
-    "TheStreet_Top": 1,
-    "AlJazeera_All": 1,
+    "TheStreet_Top": 0,
+    "AlJazeera_All": 0,
     "AlJazeera_Economy": 0,
-    "FinancialPost_Business": 7,
+    "FinancialPost_Business": 0,
     "CBC_Business": 0,
     "Nikkei_Asia_Top": 0,
     "WorldBank_News": 0,
     "OECD_Newsroom": 0,
     "MIT_TechReview": 0,
-    "HackerNews_Top": 3,
-    "Blockworks": 1,
+    "HackerNews_Top": 2,
+    "Blockworks": 0,
     "BitcoinMagazine": 0,
     "CryptoSlate": 0,
     "CryptoBriefing": 0,
     "Protos": 0,
-    "CryptoNews": 1,
+    "CryptoNews": 0,
     "CoinJournal": 0,
     "Unchained": 0,
     "Bankless": 0,
@@ -92,7 +92,7 @@
   "errors": [
     {
       "source": "https://feeds.reuters.com/reuters/businessNews",
-      "error": "fetch error: HTTPSConnectionPool(host='feeds.reuters.com', port=443): Max retries exceeded with url: /reuters/businessNews (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000001C3139C8FD0>: Failed to resolve 'feeds.reuters.com' ([Errno 11001] getaddrinfo failed)\"))"
+      "error": "fetch error: HTTPSConnectionPool(host='feeds.reuters.com', port=443): Max retries exceeded with url: /reuters/businessNews (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x0000027A26FB12D0>: Failed to resolve 'feeds.reuters.com' ([Errno 11001] getaddrinfo failed)\"))"
     },
     {
       "source": "Reuters_Business",
@@ -100,7 +100,7 @@
     },
     {
       "source": "https://feeds.reuters.com/reuters/worldNews",
-      "error": "fetch error: HTTPSConnectionPool(host='feeds.reuters.com', port=443): Max retries exceeded with url: /reuters/worldNews (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000001C3139D6310>: Failed to resolve 'feeds.reuters.com' ([Errno 11001] getaddrinfo failed)\"))"
+      "error": "fetch error: HTTPSConnectionPool(host='feeds.reuters.com', port=443): Max retries exceeded with url: /reuters/worldNews (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x0000027A26FB2E90>: Failed to resolve 'feeds.reuters.com' ([Errno 11001] getaddrinfo failed)\"))"
     },
     {
       "source": "Reuters_World",
@@ -108,7 +108,7 @@
     },
     {
       "source": "https://feeds.reuters.com/reuters/marketsNews",
-      "error": "fetch error: HTTPSConnectionPool(host='feeds.reuters.com', port=443): Max retries exceeded with url: /reuters/marketsNews (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000001C3139C7010>: Failed to resolve 'feeds.reuters.com' ([Errno 11001] getaddrinfo failed)\"))"
+      "error": "fetch error: HTTPSConnectionPool(host='feeds.reuters.com', port=443): Max retries exceeded with url: /reuters/marketsNews (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x0000027A26FAB090>: Failed to resolve 'feeds.reuters.com' ([Errno 11001] getaddrinfo failed)\"))"
     },
     {
       "source": "Reuters_Markets",
@@ -220,7 +220,7 @@
     },
     {
       "source": "https://blog.optimism.io/rss/",
-      "error": "fetch error: HTTPSConnectionPool(host='blog.optimism.io', port=443): Max retries exceeded with url: /rss/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000001C313754990>: Failed to resolve 'blog.optimism.io' ([Errno 11001] getaddrinfo failed)\"))"
+      "error": "fetch error: HTTPSConnectionPool(host='blog.optimism.io', port=443): Max retries exceeded with url: /rss/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x0000027A27700890>: Failed to resolve 'blog.optimism.io' ([Errno 11001] getaddrinfo failed)\"))"
     },
     {
       "source": "Optimism_Blog",
@@ -244,7 +244,7 @@
     },
     {
       "source": "https://blog.dydx.exchange/feed",
-      "error": "fetch error: HTTPSConnectionPool(host='blog.dydx.exchange', port=443): Max retries exceeded with url: /feed (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000001C3151D7C90>: Failed to resolve 'blog.dydx.exchange' ([Errno 11001] getaddrinfo failed)\"))"
+      "error": "fetch error: HTTPSConnectionPool(host='blog.dydx.exchange', port=443): Max retries exceeded with url: /feed (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x0000027A277F7290>: Failed to resolve 'blog.dydx.exchange' ([Errno 11001] getaddrinfo failed)\"))"
     },
     {
       "source": "dYdX_Blog",
@@ -268,7 +268,7 @@
     },
     {
       "source": "https://blog.metamask.io/rss/",
-      "error": "fetch error: HTTPSConnectionPool(host='blog.metamask.io', port=443): Max retries exceeded with url: /rss/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000001C3153590D0>: Failed to resolve 'blog.metamask.io' ([Errno 11001] getaddrinfo failed)\"))"
+      "error": "fetch error: HTTPSConnectionPool(host='blog.metamask.io', port=443): Max retries exceeded with url: /rss/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x0000027A27994510>: Failed to resolve 'blog.metamask.io' ([Errno 11001] getaddrinfo failed)\"))"
     },
     {
       "source": "MetaMask_Blog",
@@ -373,6 +373,14 @@
     {
       "source": "OECD_Newsroom",
       "error": "fatal parse failure"
+    },
+    {
+      "source": "https://news.ycombinator.com/rss",
+      "error": "fetch error: HTTPSConnectionPool(host='news.ycombinator.com', port=443): Read timed out. (read timeout=12)"
+    },
+    {
+      "source": "HackerNews_Top",
+      "error": "fatal parse failure"
     }
   ],
   "feed_files": [
@@ -407,19 +415,19 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 909,
+    "passed_keywords": 902,
     "passed_allowlist": 0,
-    "failed_all_filters": 831
+    "failed_all_filters": 808
   },
   "stats": {
     "feeds_total": 132,
-    "feeds_error": 32,
+    "feeds_error": 33,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 2283,
+    "entries_seen": 2253,
     "too_old": 543,
-    "dup_title_url": 412,
-    "dup_id": 474
+    "dup_title_url": 406,
+    "dup_id": 493
   },
   "limits": {
     "skip_older_days": 10,
