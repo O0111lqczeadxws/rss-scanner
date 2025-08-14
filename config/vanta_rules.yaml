@@ -1,5 +1,5 @@
-sources {}
-lexicons
-  institutional [SEC, ETF, BlackRock, Fidelity, custody, 19b-4, S-1, regulator]
-  retail [retail, trader, FOMO, Reddit, TikTok, meme]
-  vol_triggers [halt, liquidation, circuit, expiry, expiration]
+﻿sources: {}
+lexicons:
+  institutional: [SEC, ETF, BlackRock, Fidelity, custody, 19b-4, S-1, regulator]
+  retail: [retail, trader, FOMO, Reddit, TikTok, meme]
+  vol_triggers: [halt, liquidation, circuit, expiry, expiration]
