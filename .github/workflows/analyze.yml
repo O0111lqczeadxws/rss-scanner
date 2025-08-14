@@ -1,12 +1,14 @@
 name: Analyze feeds (VANTA AI)
 
 on:
-  schedule:
-    - cron: "15 * * * *"     # hourly at :15 UTC (tune as needed)
+  workflow_run:
+    # IMPORTANT: this must exactly match the `name:` in .github/workflows/rss.yml
+    workflows: ["RSS Scan"]
+    types: [completed]
   workflow_dispatch:
     inputs:
       run_date:
-        description: "YYYY-MM-DD (UTC). Leave empty to use today."
+        description: "YYYY-MM-DD (UTC). Leave empty to auto-detect."
         required: false
         default: ""
 
@@ -18,13 +20,17 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  run:
+  ai:
+    # Run automatically only when RSS succeeded; always allow manual runs
+    if: ${{ github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success' }}
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 25
 
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -42,28 +48,45 @@ jobs:
           python -m pip install -U pip
           pip install -r requirements.txt
 
-      - name: Resolve date
+      - name: Resolve DATE (input → today UTC → latest processed file)
+        id: date
+        shell: bash
         run: |
           if [ -n "${{ inputs.run_date }}" ]; then
-            echo "DATE=${{ inputs.run_date }}" >> $GITHUB_ENV
+            DATE="${{ inputs.run_date }}"
           else
-            echo "DATE=$(date -u +%F)" >> $GITHUB_ENV
+            DATE="$(date -u +%F)"
           fi
+
+          # If no processed file for DATE, fall back to the latest available file
+          if ! ls data/processed/${DATE}*.jsonl >/dev/null 2>&1; then
+            LATEST=$(ls -1t data/processed/*.jsonl 2>/dev/null | head -n1 || true)
+            if [ -n "$LATEST" ]; then
+              ALT=$(basename "$LATEST" | grep -Eo '[0-9]{4}-[0-9]{2}-[0-9]{2}' | head -n1)
+              if [ -n "$ALT" ]; then DATE="$ALT"; fi
+            fi
+          fi
+
+          echo "DATE=$DATE" | tee -a $GITHUB_ENV
           echo "Using DATE=$DATE"
 
-      - name: Ensure output dirs exist
+      - name: Skip if no processed items (cost/noise control)
+        shell: bash
+        run: |
+          COUNT=$(cat data/processed/${DATE}*.jsonl 2>/dev/null | wc -l || echo 0)
+          if [ "$COUNT" -eq 0 ]; then
+            echo "No processed items for $DATE — exiting."
+            exit 0
+          fi
+
+      - name: Ensure output dirs
         run: |
           mkdir -p data/ai_bundles data/ai_out data/ai_final data/drift reports/daily
-
-      # If you already have a step that creates data/processed/$DATE*.jsonl, keep it.
-      # Otherwise, call your existing pipeline here (uncomment/replace as needed):
-      # - name: Build processed (normalize + summarize)
-      #   run: python -m src.pipeline --date "$DATE"
 
       - name: Build AI bundles
         run: python -m src.build_ai_bundle --date "$DATE"
 
-      - name: Mock AI infer (VANTA1/2 fields)
+      - name: Mock AI infer (VANTA1/2)
         run: python -m ai_layer.infer --date "$DATE"
 
       - name: Interpret & score (final)
@@ -72,13 +95,18 @@ jobs:
       - name: Drift scoring (7-day lookback)
         run: python -m ai_layer.drift --date "$DATE" --lookback 7
 
-      - name: Rebuild report to include drift
+      - name: Rebuild report (with drift)
         run: python -m ai_layer.interpreter --date "$DATE"
 
       - name: Commit analysis artifacts
+        shell: bash
         run: |
           git config user.name "github-actions"
           git config user.email "actions@users.noreply.github.com"
           git add data/ai_bundles data/ai_out data/ai_final data/drift reports/daily || true
-          git commit -m "auto: AI analysis $DATE" || echo "no changes"
-          git push
+          if ! git diff --cached --quiet; then
+            git commit -m "auto: AI analysis $DATE"
+            git push
+          else
+            echo "No changes to commit."
+          fi
