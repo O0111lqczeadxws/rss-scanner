@@ -7662,6 +7662,16 @@
   {
     "published_utc": "2025-08-12",
     "retrieved_date": "2025-08-14",
+    "source": "HackerNews_Top",
+    "title": "Managing Time Shiftable Devices",
+    "url": "https://bitsandtheorems.com/managing-time-shiftable-devices/",
+    "id_key": "c6dd4c5f6fe76bf274308338b35da30b87c719f08bcb1ff8329f878bc212e745",
+    "summary": "Comments",
+    "ingested_utc": "2025-08-14T22:56:17Z"
+  },
+  {
+    "published_utc": "2025-08-12",
+    "retrieved_date": "2025-08-14",
     "source": "Optimism_Releases",
     "title": "op-up/v0.1.1-rc4",
     "url": "https://github.com/ethereum-optimism/optimism/releases/tag/op-up%2Fv0.1.1-rc4",
@@ -9987,16 +9997,6 @@
     "url": "https://www.bis.org/review/r250728g.htm",
     "id_key": "9e8e6952956fd07add14328c9ad0cf371f0a0131498c904dcc08b4f46f4f6d07",
     "summary": "Valedictory address by Mr Swaminathan J, Deputy Governor of the Reserve Bank of India, at the Seminar for Directors of Urban Cooperative Banks (UCBs) \"Resilient cooperatives for the future: enhancing governance in a digital age\", held at the College of Agriculture Banking, Reserve Bank of India, Pune, 11 July 2025.",
-    "ingested_utc": "2025-08-14T19:34:43Z"
-  },
-  {
-    "published_utc": "2025-08-05",
-    "retrieved_date": "2025-08-14",
-    "source": "BIS_Speeches",
-    "title": "Michele Bullock: The Reserve Bank of Australia's dual mandate - inflation and employment",
-    "url": "https://www.bis.org/review/r250728f.htm",
-    "id_key": "acdbe3f4eb537b49ebd8ba9da38e75c2d8c54355962e2747f794e5a0eb7efa6f",
-    "summary": "Speech by Ms Michele Bullock, Governor of the Reserve Bank of Australia, at the Anika Foundation Fundraising Lunch, Sydney, 24 July 2025.",
     "ingested_utc": "2025-08-14T19:34:43Z"
   }
 ]
