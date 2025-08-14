@@ -2,8 +2,7 @@ name: Analyze feeds (VANTA AI)
 
 on:
   workflow_run:
-    # IMPORTANT: this must exactly match the `name:` in .github/workflows/rss.yml
-    workflows: ["RSS Scan"]
+    workflows: ["RSS Scan"]   # must match the name: in rss.yml
     types: [completed]
   workflow_dispatch:
     inputs:
@@ -21,7 +20,7 @@ concurrency:
 
 jobs:
   ai:
-    # Run automatically only when RSS succeeded; always allow manual runs
+    # auto-run only if RSS succeeded; always allow manual runs
     if: ${{ github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success' }}
     runs-on: ubuntu-latest
     timeout-minutes: 25
@@ -30,6 +29,8 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
+          # pin to the commit from RSS run; fallback for manual runs
+          ref: ${{ github.event.workflow_run.head_sha || github.sha }}
           fetch-depth: 0
 
       - name: Setup Python
@@ -57,8 +58,7 @@ jobs:
           else
             DATE="$(date -u +%F)"
           fi
-
-          # If no processed file for DATE, fall back to the latest available file
+          # fallback to latest processed file if today's missing
           if ! ls data/processed/${DATE}*.jsonl >/dev/null 2>&1; then
             LATEST=$(ls -1t data/processed/*.jsonl 2>/dev/null | head -n1 || true)
             if [ -n "$LATEST" ]; then
@@ -66,7 +66,6 @@ jobs:
               if [ -n "$ALT" ]; then DATE="$ALT"; fi
             fi
           fi
-
           echo "DATE=$DATE" | tee -a $GITHUB_ENV
           echo "Using DATE=$DATE"
 
@@ -97,6 +96,9 @@ jobs:
 
       - name: Rebuild report (with drift)
         run: python -m ai_layer.interpreter --date "$DATE"
+
+      - name: Validate outputs
+        run: python -m src.validate_outputs --date "$DATE"
 
       - name: Commit analysis artifacts
         shell: bash
