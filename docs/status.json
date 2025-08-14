@@ -1,0 +1,35 @@
+{
+  "started_utc": "2025-08-14T04:41:24Z",
+  "ended_utc": "2025-08-14T04:41:29Z",
+  "new_items_this_run": 105,
+  "total_in_latest": 105,
+  "by_source": {
+    "Cointelegraph": 30,
+    "CoinDesk": 25,
+    "Decrypt": 50
+  },
+  "errors": [
+    {
+      "source": "TheBlock",
+      "error": "net: HTTP Error 404: Not Found"
+    }
+  ],
+  "include_general": false,
+  "feed_files": [
+    "crypto_feeds.txt"
+  ],
+  "filters": {
+    "include": [],
+    "exclude": []
+  },
+  "stats": {
+    "feeds_total": 4,
+    "feeds_error": 1,
+    "entries_seen": 106,
+    "too_old": 1,
+    "filtered_exclude": 0,
+    "filtered_include_miss": 0,
+    "dup_title": 0,
+    "dup_id": 0
+  }
+}
