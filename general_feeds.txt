@@ -1,6 +1,6 @@
-Reuters_Business	https://feeds.reuters.com/reuters/businessNews
-Reuters_World	https://feeds.reuters.com/reuters/worldNews
-Reuters_Markets	https://feeds.reuters.com/reuters/marketsNews
+Reuters_Business	https://www.reuters.com/business/rss
+Reuters_World	https://www.reuters.com/world/rss
+Reuters_Markets	https://www.reuters.com/markets/rss
 BBC_World	https://feeds.bbci.co.uk/news/world/rss.xml
 BBC_Business	https://feeds.bbci.co.uk/news/business/rss.xml
 BBC_Technology	https://feeds.bbci.co.uk/news/technology/rss.xml
@@ -10,10 +10,10 @@ WSJ_US_Business	https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml
 WSJ_World	https://feeds.a.dj.com/rss/RSSWorldNews.xml
 WSJ_Markets	https://feeds.a.dj.com/rss/RSSMarketsMain.xml
 MarketWatch_Top	https://www.marketwatch.com/feeds/rss/topstories
-MarketWatch_MarketPulse	http://feeds.marketwatch.com/marketwatch/marketpulse
-MarketWatch_RealTime	http://feeds.marketwatch.com/marketwatch/realtimeheadlines
-MarketWatch_Bulletins	http://feeds.marketwatch.com/marketwatch/bulletins
-MarketWatch_PersonalFinance	http://feeds.marketwatch.com/marketwatch/pf
+MarketWatch_MarketPulse	https://feeds.marketwatch.com/marketwatch/marketpulse
+MarketWatch_RealTime	https://feeds.marketwatch.com/marketwatch/realtimeheadlines
+MarketWatch_Bulletins	https://feeds.marketwatch.com/marketwatch/bulletins
+MarketWatch_PersonalFinance	https://feeds.marketwatch.com/marketwatch/pf
 NYTimes_Business	https://rss.nytimes.com/services/xml/rss/nyt/Business.xml
 NYTimes_World	https://rss.nytimes.com/services/xml/rss/nyt/World.xml
 NYTimes_Economy	https://rss.nytimes.com/services/xml/rss/nyt/Economy.xml
@@ -35,7 +35,7 @@ WIRED_All	https://www.wired.com/feed/rss
 Engadget_All	https://www.engadget.com/rss.xml
 TheEconomist_Business	https://www.economist.com/business/rss.xml
 TheEconomist_Finance	https://www.economist.com/finance-and-economics/rss.xml
-Investopedia_Latest	https://www.investopedia.com/rss.xml
+Investopedia_Latest	https://www.investopedia.com/feed
 TheStreet_Top	https://www.thestreet.com/.rss/full/
 AlJazeera_All	https://www.aljazeera.com/xml/rss/all.xml
 AlJazeera_Economy	https://www.aljazeera.com/xml/rss/section/economy.xml
