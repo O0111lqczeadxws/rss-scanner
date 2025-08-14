@@ -1,8 +1,8 @@
 {
-  "started_utc": "2025-08-14T06:35:01Z",
-  "ended_utc": "2025-08-14T06:36:03Z",
-  "new_items_this_run": 0,
-  "total_in_latest": 443,
+  "started_utc": "2025-08-14T06:44:34Z",
+  "ended_utc": "2025-08-14T06:45:39Z",
+  "new_items_this_run": 71,
+  "total_in_latest": 71,
   "by_source": {
     "SEC_Press": 0,
     "SEC_Enforcement": 0,
@@ -23,11 +23,11 @@
     "OPEC_Press": 0,
     "CME_Press": 0,
     "CME_ProductUpdates": 0,
-    "FCA_News": 0,
-    "ESMA_News": 0,
-    "CoinDesk": 0,
-    "Cointelegraph": 0,
-    "Decrypt": 0,
+    "FCA_News": 20,
+    "ESMA_News": 10,
+    "CoinDesk": 5,
+    "Cointelegraph": 6,
+    "Decrypt": 4,
     "TheDefiant": 0,
     "BitMEX_Blog": 0,
     "Glassnode_Insights": 0,
@@ -44,19 +44,19 @@
     "Reuters_Business": 0,
     "Reuters_World": 0,
     "Reuters_Markets": 0,
-    "BBC_World": 0,
+    "BBC_World": 2,
     "BBC_Business": 0,
     "BBC_Technology": 0,
-    "Guardian_Business": 0,
-    "Guardian_World": 0,
+    "Guardian_Business": 4,
+    "Guardian_World": 15,
     "WSJ_US_Business": 0,
     "WSJ_World": 0,
     "MarketWatch_Top": 0,
     "NYTimes_Business": 0,
     "CNN_Top": 0,
     "NPR_Business": 0,
-    "FT_Home": 0,
-    "FT_Markets": 0,
+    "FT_Home": 1,
+    "FT_Markets": 4,
     "CNBC_Top": 0
   },
   "errors": [
@@ -181,16 +181,16 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 307,
-    "passed_allowlist": 42,
-    "failed_all_filters": 142
+    "passed_keywords": 43,
+    "passed_allowlist": 30,
+    "failed_all_filters": 19
   },
   "stats": {
     "feeds_total": 54,
     "feeds_error": 0,
     "entries_seen": 809,
-    "too_old": 318,
-    "dup_title_url": 11,
-    "dup_id": 338
+    "too_old": 717,
+    "dup_title_url": 2,
+    "dup_id": 0
   }
 }
