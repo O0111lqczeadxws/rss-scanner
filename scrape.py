@@ -3,27 +3,22 @@
 """
 RSS scanner → JSONL/CSV (GitHub Pages friendly)
 
-Enhancements vs. base version:
-- Feed health tags in feed lists:
-  [BROKEN] or [SKIP] -> skip feed
-  [CAP=20]           -> per-feed item cap override
-- Robust parsing pipeline:
-  1) feedparser.parse(url)
-  2) If bozo/encoding/XML issues: requests.get + XML prolog fix + re-parse
-  3) If HTML served: try BeautifulSoup to discover <link rel="alternate" ... rss> and parse that
-- new.jsonl written each run with only NEW items (delta)
-- CSV hardening: QUOTE_ALL + sanitized fields + '\n' line endings
-- CLI flags:
-  --force-refresh   -> treat as full refresh (skip-days=0), write clean new/latest
-  --skip-days N     -> override freshness for this run
+Networking hardening:
+- Strict per-request timeout (default 12s) and bounded retries with backoff
+- Always fetch bytes ourselves (requests/urllib) → feedparser.parse(bytes)
+- HTML served? Auto-discover <link rel="alternate" type="rss|atom"> and retry
+- Never hang on a single feed: worst case skip after retries
 
-Requires: feedparser
-Optional: requests, bs4
+Other features preserved:
+- Feed health tags in feed lists: [BROKEN]/[SKIP]/[CAP=20]
+- new.jsonl (delta), latest.json, robust CSV (QUOTE_ALL)
+- CLI: --force-refresh, --skip-days, plus new --timeout/--retries/--backoff
 """
 
-import os, json, csv, re, html, hashlib, time, argparse
+import os, json, csv, re, html, hashlib, time, argparse, socket, gzip, io
 from datetime import datetime, timezone, timedelta
 from urllib.parse import urlparse, urlunparse, parse_qsl, urlencode
+import urllib.request, urllib.error
 
 import feedparser
 
@@ -40,14 +35,14 @@ except Exception:
 
 # ==================== CONFIG ====================
 OUT_DIR         = "docs"
-ARCHIVE_DIR     = os.path.join(OUT_DIR, "archive")     # for optional dated snapshots
-ARCHIVE_SNAPSHOTS = True                                # set False to disable
+ARCHIVE_DIR     = os.path.join(OUT_DIR, "archive")
+ARCHIVE_SNAPSHOTS = True
 
 JSONL_PATH   = os.path.join(OUT_DIR, "articles.jsonl")
 CSV_PATH     = os.path.join(OUT_DIR, "articles.csv")
 LATEST_PATH  = os.path.join(OUT_DIR, "latest.json")
 STATUS_PATH  = os.path.join(OUT_DIR, "status.json")
-NEW_PATH     = os.path.join(OUT_DIR, "new.jsonl")       # delta: only new items this run
+NEW_PATH     = os.path.join(OUT_DIR, "new.jsonl")
 
 FEED_FILES = [
     "feeds.txt",         # Tier 1 – official & macro movers
@@ -55,18 +50,26 @@ FEED_FILES = [
     "general_feeds.txt"  # Tier 3 – general candidates
 ]
 
-# Limits / freshness (can be overridden via --skip-days)
+# Limits / freshness
 SKIP_OLDER_DAYS     = 10
 PER_FEED_CAP        = 50
 LATEST_LIMIT        = 1000
 JSONL_MAX_ROWS      = 5000
 SLEEP_BETWEEN_FEEDS = 0.6  # seconds
 
-# HTTP defaults for requests fallback
-REQ_TIMEOUT = 12
+# HTTP defaults (overridable via CLI/env)
+REQUEST_TIMEOUT = int(os.getenv("REQUEST_TIMEOUT", "12"))
+MAX_RETRIES     = int(os.getenv("MAX_RETRIES", "2"))
+RETRY_BACKOFF   = float(os.getenv("RETRY_BACKOFF", "0.75"))
+
+# Apply a global ceiling for any stray sockets
+socket.setdefaulttimeout(REQUEST_TIMEOUT + 3)
+
+UA = "Mozilla/5.0 (compatible; VANTA-RSS/1.0; +https://example.com/bot)"
 REQ_HEADERS = {
-    "User-Agent": "Mozilla/5.0 (RSS-Scanner; +https://example.com/bot) Python",
+    "User-Agent": UA,
     "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml;q=0.9, */*;q=0.8",
+    "Accept-Encoding": "gzip, deflate",
 }
 
 # ==================== VANTA2 TUNING ====================
@@ -150,7 +153,6 @@ def _domain(u: str) -> str:
         return ""
 
 def _allowed(feed_url: str, link_url: str) -> bool:
-    # Bypass include keywords if either the feed domain OR the link domain is on the allowlist
     d1, d2 = _domain(feed_url), _domain(link_url)
     def on_list(d): return any(d == dom or d.endswith("." + dom) for dom in ALLOWLIST_DOMAINS)
     return on_list(d1) or on_list(d2)
@@ -158,12 +160,11 @@ def _allowed(feed_url: str, link_url: str) -> bool:
 def _clean_summary(s: str) -> str:
     if not s:
         return ""
-    s = re.sub(r"<[^>]+>", " ", s)  # strip HTML tags
+    s = re.sub(r"<[^>]+>", " ", s)
     s = html.unescape(s)
     return re.sub(r"\s+", " ", s).strip()
 
 def _parse_dt(entry, feed_url: str):
-    # Prefer structured time from feedparser, fallback to common strings, else now
     try:
         tt = getattr(entry, "published_parsed", None) or getattr(entry, "updated_parsed", None)
         if tt:
@@ -200,12 +201,8 @@ def _dedupe_key(title: str, link: str) -> str:
     return hashlib.sha256(f"{t}|{_normalize_url(link)}".encode("utf-8")).hexdigest()
 
 # ---- Feed list parsing with health tags ----
-_TAG_RE = re.compile(r"\[(.*?)\]")   # matches [ ... ]
+_TAG_RE = re.compile(r"\[(.*?)\]")
 def _parse_feed_line(line: str):
-    """
-    Returns: (source_name, url, tags_dict)
-    Supports tags like [BROKEN], [SKIP], [CAP=20] anywhere in the line.
-    """
     tags = {}
     for m in _TAG_RE.findall(line):
         if "=" in m:
@@ -213,10 +210,7 @@ def _parse_feed_line(line: str):
             tags[k.strip().upper()] = v.strip()
         else:
             tags[m.strip().upper()] = True
-
-    # Remove tag blocks from line
     line_clean = _TAG_RE.sub("", line).strip()
-
     src, url = "", ""
     if "\t" in line_clean:
         src, url = line_clean.split("\t", 1)
@@ -226,7 +220,6 @@ def _parse_feed_line(line: str):
             src, url = parts[0], " ".join(parts[1:])
         else:
             url = line_clean
-
     return (src.strip(), url.strip(), tags)
 
 def _load_feeds():
@@ -245,8 +238,6 @@ def _load_feeds():
 
 # ---- CSV sanitization ----
 def _csv_clean(x) -> str:
-    """Sanitize for CSV: remove hard line breaks and exotic separators that can
-    confuse strict CSV previews; normalize to plain spaces."""
     if x is None:
         return ""
     s = str(x)
@@ -254,106 +245,106 @@ def _csv_clean(x) -> str:
     s = s.replace("\x00", " ")
     return s
 
-# ---- requests/bs4 fallback helpers ----
+# ---- Low-level fetch (timeout + retries + gzip) ----
+def _urllib_fetch(url: str, timeout: int) -> tuple[bytes, str]:
+    req = urllib.request.Request(url, headers=REQ_HEADERS)
+    with urllib.request.urlopen(req, timeout=timeout) as r:
+        data = r.read()
+        enc = (r.headers.get("Content-Encoding") or "").lower()
+        if enc == "gzip":
+            try:
+                data = gzip.decompress(data)
+            except Exception:
+                pass
+        ctype = (r.headers.get("Content-Type") or "").lower()
+        return data, ctype
+
+def _fetch_bytes(url: str, timeout: int, retries: int, backoff: float) -> tuple[bytes, str]:
+    last_err = None
+    for attempt in range(retries + 1):
+        try:
+            if requests:
+                r = requests.get(url, headers=REQ_HEADERS, timeout=timeout)
+                content = r.content  # requests auto-decompresses by default
+                ctype = (r.headers.get("Content-Type") or "").lower()
+                # allow 2xx only
+                if 200 <= r.status_code < 300 and content:
+                    return content, ctype
+                last_err = RuntimeError(f"HTTP {r.status_code}")
+            else:
+                content, ctype = _urllib_fetch(url, timeout)
+                if content:
+                    return content, ctype
+        except (urllib.error.URLError, urllib.error.HTTPError, TimeoutError, socket.timeout) as e:
+            last_err = e
+        except Exception as e:
+            last_err = e
+        time.sleep(backoff * (attempt + 1))
+    raise last_err if last_err else TimeoutError("timeout")
+
 _XML_PROLOG_RE = re.compile(r'<\?xml[^>]*encoding=["\'].*?["\'][^>]*\?>', re.I)
 def _fix_xml_encoding(s: bytes) -> str:
-    """
-    Attempt to normalize XML encoding to UTF-8 and strip obvious bad control chars.
-    Returns text (utf-8 decoded).
-    """
     try:
         text = s.decode("utf-8", errors="replace")
     except Exception:
-        # try latin-1 as last resort
         text = s.decode("latin-1", errors="replace")
-    # Normalize XML prolog encoding to utf-8 (helps "us-ascii declared" issues)
     if _XML_PROLOG_RE.search(text):
         text = _XML_PROLOG_RE.sub('<?xml version="1.0" encoding="utf-8"?>', text, count=1)
-    # strip NULLs
     text = text.replace("\x00", " ")
     return text
 
 def _discover_rss_in_html(html_text: str, base_url: str) -> str:
-    """If a page is HTML, try to find an alternate RSS/Atom link."""
     if not BeautifulSoup:
         return ""
     try:
         soup = BeautifulSoup(html_text, "html.parser")
         for link in soup.find_all("link"):
-            rel = (link.get("rel") or [])
+            rel = [r.lower() for r in (link.get("rel") or [])]
             typ = (link.get("type") or "").lower()
             href = link.get("href") or ""
-            if ("alternate" in [r.lower() for r in rel]) and ("rss" in typ or "atom" in typ):
-                # Resolve relative href
-                try:
-                    from urllib.parse import urljoin
-                    return urljoin(base_url, href)
-                except Exception:
-                    return href
+            if ("alternate" in rel) and ("rss" in typ or "atom" in typ or "xml" in typ):
+                from urllib.parse import urljoin
+                return urljoin(base_url, href)
     except Exception:
         pass
     return ""
 
-def _parse_with_fallback(url: str, errors_list: list):
+# ---- Robust parse entry point (bounded time) ----
+def _parse_with_fallback(url: str, errors_list: list, timeout: int, retries: int, backoff: float):
     """
-    Try feedparser; on failure use requests to re-fetch and re-parse.
-    If HTML is served, try to discover the real feed link via BeautifulSoup.
-    Returns a feedparser-like result object (with .entries), or None on fatal error.
+    1) Fetch bytes with strict timeout/retries
+    2) If HTML, discover alternate RSS and re-fetch
+    3) Parse bytes via feedparser.parse(bytes)
     """
     try:
-        parsed = feedparser.parse(url)
+        raw, ctype = _fetch_bytes(url, timeout, retries, backoff)
     except Exception as ex:
-        errors_list.append({"source": url, "error": f"feedparser explode: {ex}"})
-        parsed = None
-
-    bozo = int(getattr(parsed, "bozo", 0) or 0) if parsed else 1
-    if parsed and not bozo and getattr(parsed, "entries", None):
-        return parsed  # good
-
-    # Fallback only if requests is available
-    if not requests:
-        if parsed:
-            # Return even if bozo; we'll handle entry loop robustly
-            return parsed
-        errors_list.append({"source": url, "error": "requests not available for fallback"})
+        errors_list.append({"source": url, "error": f"fetch error: {ex}"})
         return None
 
-    # Try to fetch raw
-    try:
-        r = requests.get(url, headers=REQ_HEADERS, timeout=REQ_TIMEOUT)
-        ct = (r.headers.get("Content-Type") or "").lower()
-        content = r.content
-    except Exception as ex:
-        errors_list.append({"source": url, "error": f"requests error: {ex}"})
-        return parsed if parsed else None
-
-    # If HTML was served, attempt to discover <link rel="alternate" type="application/rss+xml">
-    if "text/html" in ct or (ct == "" and content.strip().startswith(b"<!DOCTYPE html")):
+    # If HTML, try to discover an alternate feed
+    if "text/html" in ctype or (raw[:64].lstrip().startswith(b"<!DOCTYPE html") or raw[:32].lstrip().lower().startswith(b"<html")):
+        alt = ""
         if BeautifulSoup:
             try:
-                html_text = content.decode(r.apparent_encoding or "utf-8", errors="replace")
+                html_text = raw.decode("utf-8", errors="replace")
             except Exception:
-                html_text = content.decode("utf-8", errors="replace")
+                html_text = raw.decode("latin-1", errors="replace")
             alt = _discover_rss_in_html(html_text, url)
-            if alt:
-                try:
-                    r2 = requests.get(alt, headers=REQ_HEADERS, timeout=REQ_TIMEOUT)
-                    fixed = _fix_xml_encoding(r2.content)
-                    parsed2 = feedparser.parse(fixed)
-                    bozo2 = int(getattr(parsed2, "bozo", 0) or 0)
-                    if not bozo2 and getattr(parsed2, "entries", None):
-                        return parsed2
-                except Exception as ex2:
-                    errors_list.append({"source": url, "error": f"alt rss fetch failed: {ex2}"})
-        # Fall through to attempt to parse HTML text anyway (will likely fail)
-        fixed = _fix_xml_encoding(content)
-        parsed_html = feedparser.parse(fixed)
-        return parsed_html
+        if alt:
+            try:
+                raw, ctype = _fetch_bytes(alt, timeout, retries, backoff)
+            except Exception as ex:
+                errors_list.append({"source": url, "error": f"alt feed fetch error: {ex}"})
+                # fall through and try to parse original HTML bytes (will likely be bozo)
 
-    # Not HTML → likely XML but with bad prolog/encoding; normalize and re-parse
-    fixed = _fix_xml_encoding(content)
-    parsed2 = feedparser.parse(fixed)
-    return parsed2
+    fixed = _fix_xml_encoding(raw)
+    try:
+        parsed = feedparser.parse(fixed)
+        return parsed
+    except Exception as ex:
+        errors_list.append({"source": url, "error": f"parse bytes error: {ex}"})
+        return None
 
 # ==================== MAIN ====================
 def main():
@@ -362,7 +353,17 @@ def main():
                         help="Ignore age filter (skip-days=0) and rebuild outputs fresh for this run.")
     parser.add_argument("--skip-days", type=int, default=None,
                         help="Override SKIP_OLDER_DAYS just for this run.")
+    parser.add_argument("--timeout", type=int, default=None, help="Per-request timeout seconds (default from env/12).")
+    parser.add_argument("--retries", type=int, default=None, help="Max retries per request (default from env/2).")
+    parser.add_argument("--backoff", type=float, default=None, help="Retry backoff seconds multiplier (env/0.75).")
     args = parser.parse_args()
+
+    # Apply CLI overrides
+    global REQUEST_TIMEOUT, MAX_RETRIES, RETRY_BACKOFF
+    if args.timeout is not None: REQUEST_TIMEOUT = max(3, int(args.timeout))
+    if args.retries is not None: MAX_RETRIES = max(0, int(args.retries))
+    if args.backoff is not None: RETRY_BACKOFF = max(0.0, float(args.backoff))
+    socket.setdefaulttimeout(REQUEST_TIMEOUT + 3)
 
     skip_days = 0 if args.force_refresh else (args.skip_days if args.skip_days is not None else SKIP_OLDER_DAYS)
     cutoff = datetime.now(timezone.utc) - timedelta(days=skip_days)
@@ -403,7 +404,6 @@ def main():
                     o["summary"] = _clean_summary(o.get("summary", ""))
                     old_items.append(o)
                 except Exception:
-                    # swallow bad lines
                     pass
 
     exist_ids = {o.get("id_key") for o in old_items if o.get("id_key")}
@@ -413,6 +413,8 @@ def main():
     stats = {
         "feeds_total": len(feeds),
         "feeds_error": 0,
+        "feeds_timeout": 0,
+        "feeds_http_error": 0,
         "entries_seen": 0,
         "too_old": 0,
         "dup_title_url": 0,
@@ -424,7 +426,6 @@ def main():
     errors = []
 
     for (src_name, feed_url, tags) in feeds:
-        # Respect health tags
         tag_keys = {k.upper(): v for k, v in (tags or {}).items()}
         if "BROKEN" in tag_keys or "SKIP" in tag_keys:
             by_source[src_name or feed_url] = by_source.get(src_name or feed_url, 0) + 0
@@ -439,20 +440,21 @@ def main():
                 pass
 
         added, skipped = 0, 0
+        t0 = time.time()
         try:
-            parsed = _parse_with_fallback(feed_url, errors_list=errors)
+            parsed = _parse_with_fallback(feed_url, errors_list=errors,
+                                          timeout=REQUEST_TIMEOUT, retries=MAX_RETRIES, backoff=RETRY_BACKOFF)
             if parsed is None:
                 stats["feeds_error"] += 1
                 errors.append({"source": src_name or feed_url, "error": "fatal parse failure"})
                 by_source[src_name or feed_url] = by_source.get(src_name or feed_url, 0) + 0
-                print(f"[FEED] {src_name or feed_url} → Added: 0, Skipped: 0 (fatal)")
+                elapsed = time.time() - t0
+                print(f"[FEED] {src_name or feed_url} → Added: 0, Skipped: 0 (fatal) | {elapsed:.2f}s")
                 time.sleep(SLEEP_BETWEEN_FEEDS)
                 continue
 
-            # If feedparser bozo but still has entries, proceed carefully
             entries = list(getattr(parsed, "entries", []) or [])[:per_cap]
 
-            # Count bozo as error but keep going
             if int(getattr(parsed, "bozo", 0) or 0):
                 errors.append({"source": src_name or feed_url,
                                "error": str(getattr(parsed, "bozo_exception", ""))})
@@ -465,13 +467,11 @@ def main():
                     summary = _clean_summary(e.get("summary") or e.get("description") or "")
                     pub_dt = _parse_dt(e, feed_url)
 
-                    # Freshness
                     if pub_dt < cutoff:
                         stats["too_old"] += 1
                         skipped += 1
                         continue
 
-                    # Filter logic (allowlist bypasses INCLUDE but still must pass EXCLUDE)
                     allowed = _allowed(feed_url, link)
                     if _rx_exc and _rx_exc.search(f"{title} {summary}"):
                         stats["failed_all_filters"] += 1
@@ -487,7 +487,6 @@ def main():
                     else:
                         stats["passed_allowlist"] += 1
 
-                    # Dedupe across this run
                     dk = _dedupe_key(title, link)
                     if dk in seen_title_url:
                         stats["dup_title_url"] += 1
@@ -495,7 +494,6 @@ def main():
                         continue
                     seen_title_url.add(dk)
 
-                    # Build item
                     ingested_now = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
                     src_label = (src_name or getattr(parsed.feed, "title", "") or "").strip()
                     base = f"{src_label}|{title}|{link}|{pub_dt.strftime('%Y-%m-%d')}"
@@ -521,12 +519,20 @@ def main():
                 except Exception as inner_ex:
                     errors.append({"source": src_name or feed_url, "error": f"entry error: {inner_ex}"})
                     skipped += 1
+        except (urllib.error.URLError, urllib.error.HTTPError, TimeoutError, socket.timeout) as net_ex:
+            stats["feeds_error"] += 1
+            if isinstance(net_ex, (TimeoutError, socket.timeout)):
+                stats["feeds_timeout"] += 1
+            else:
+                stats["feeds_http_error"] += 1
+            errors.append({"source": src_name or feed_url, "error": f"net: {net_ex.__class__.__name__}: {net_ex}"})
         except Exception as ex:
             stats["feeds_error"] += 1
             errors.append({"source": src_name or feed_url, "error": f"outer error: {ex}"})
 
+        elapsed = time.time() - t0
         by_source[src_name or feed_url] = by_source.get(src_name or feed_url, 0) + added
-        print(f"[FEED] {src_name or feed_url} → Added: {added}, Skipped: {skipped}")
+        print(f"[FEED] {src_name or feed_url} → Added: {added}, Skipped: {skipped} | {elapsed:.2f}s")
         time.sleep(SLEEP_BETWEEN_FEEDS)
 
     # Merge, sort, cap
@@ -540,21 +546,17 @@ def main():
     latest = keep[:LATEST_LIMIT]
 
     # ---------- Write outputs ----------
-    # JSONL (full)
     with open(JSONL_PATH, "w", encoding="utf-8") as f:
         for obj in keep:
             f.write(json.dumps(obj, ensure_ascii=False) + "\n")
 
-    # latest.json
     with open(LATEST_PATH, "w", encoding="utf-8") as f:
         json.dump(latest, f, ensure_ascii=False, indent=2)
 
-    # new.jsonl (delta only)
     with open(NEW_PATH, "w", encoding="utf-8") as f:
         for obj in new_items:
             f.write(json.dumps(obj, ensure_ascii=False) + "\n")
 
-    # CSV (strict and sanitized)
     with open(CSV_PATH, "w", newline="", encoding="utf-8") as f:
         w = csv.writer(f, quoting=csv.QUOTE_ALL, lineterminator="\n")
         w.writerow(["published_utc","retrieved_date","source","title","url","id_key"])
@@ -602,13 +604,28 @@ def main():
             "failed_all_filters": stats["failed_all_filters"]
         },
         "stats": {
-            **{k: v for k, v in stats.items() if k not in ("passed_keywords","passed_allowlist","failed_all_filters")}
+            "feeds_total": stats["feeds_total"],
+            "feeds_error": stats["feeds_error"],
+            "feeds_timeout": stats["feeds_timeout"],
+            "feeds_http_error": stats["feeds_http_error"],
+            "entries_seen": stats["entries_seen"],
+            "too_old": stats["too_old"],
+            "dup_title_url": stats["dup_title_url"],
+            "dup_id": stats["dup_id"]
+        },
+        "limits": {
+            "skip_older_days": skip_days,
+            "per_feed_cap": PER_FEED_CAP,
+            "jsonl_max_rows": JSONL_MAX_ROWS,
+            "latest_limit": LATEST_LIMIT,
+            "timeout_s": REQUEST_TIMEOUT,
+            "retries": MAX_RETRIES,
+            "backoff": RETRY_BACKOFF
         }
     }
     with open(STATUS_PATH, "w", encoding="utf-8") as f:
         json.dump(status, f, ensure_ascii=False, indent=2)
 
-    # Also print for CI logs
     print(json.dumps(status, indent=2))
 
 if __name__ == "__main__":
