@@ -1,96 +1,24 @@
 import feedparser
 import json
 import os
+import csv
 from datetime import datetime, timezone
+from dateutil.parser import parse as parse_dt
 from html import unescape
-from urllib.parse import urlparse
+from bs4 import BeautifulSoup
 
-# ======== CONFIG ========
-FEED_FILES = [
-    "feeds.txt",           # Tier 1 – Official & macro movers
-    "crypto_feeds.txt",    # Tier 2 – Crypto high-signal
-    "general_feeds.txt"    # Tier 3 – General candidates
-]
-
-JSONL_PATH = "articles.jsonl"
+# Config
+FEED_FILES = ["feeds.txt", "crypto_feeds.txt", "general_feeds.txt"]
 CSV_PATH = "articles.csv"
-JSONL_MAX_ROWS = 5000
-MAX_ITEMS_PER_FEED = 50
+JSONL_PATH = "articles.jsonl"
+JSONL_MAX_ROWS = 2000
+INCLUDE_KEYWORDS = []  # to be filled for VANTA2
+EXCLUDE_KEYWORDS = []  # to be tuned for VANTA2
 
-# ---------- VANTA2 keyword & domain tuning ----------
-KEYWORDS_INCLUDE = [
-    "bitcoin","btc","ethereum","eth","solana","dogecoin","xrp","cardano","bnb","tron",
-    "polygon","matic","arbitrum","optimism","base","avalanche","near","aptos","sui",
-    "chainlink","link","litecoin","fil","atom","dot",
-    "layer 2","l2","rollup","zk-rollup","zkEVM","optimistic rollup","mev","restaking",
-    "eigenlayer","staking","unstaking","slashing","validator","client release","hard fork",
-    "soft fork","upgrade","eip","bip","cip","bridge","bridge exploit","reorg",
-    "defi","amm","dex","cex","lending protocol","liquidation","stablecoin","tokenization",
-    "rwa","real world asset","onchain treasury","mint","burn","redeem","circulating supply",
-    "etf","etn","creation unit","redemption","authorized participant","aum","basis trade",
-    "futures","perpetuals","options","volatility","open interest","fund flow","net inflow",
-    "short interest","liquidation cascade","order book","trading halt","circuit breaker",
-    "listing","delisting","suspension","ipo","s-1","8-k","10-k","10-q","13f","prospectus",
-    "fomc","minutes","dot plot","rate cut","rate hike","policy rate","terminal rate",
-    "balance sheet","qe","qt","inflation","cpi","ppi","pce","employment","payrolls",
-    "unemployment","gdp","retail sales","trade deficit","trade surplus","tariff","sanction",
-    "sec","cftc","fincen","ofac","treasury","fdic","occ","doj","finra",
-    "federal reserve","ecb","bank of england","boe","bank of japan","boj","snb","imf","bis",
-    "fca","esma","eba","eiopa","iosco","mas","sfc","hkma","bafin","amf","sebi","rbi",
-    "osfi","ciro","csa","statcan","bank of canada",
-    "mica","mifid ii","basel iii","psd3","travel rule","aml","kyc","securities law",
-    "consent order","cease and desist","settlement","wells notice","litigation release",
-    "opec","iea","oil output","production quota","energy markets","diesel inventories","gasoline stocks",
-    "blackrock","ishares","fidelity","vanguard","ark invest","jpmorgan","goldman sachs",
-    "morgan stanley","citadel","grayscale","microstrategy","cboe","cme","ice","dtcc","nasdaq","nyse"
-]
+def _clean_summary(summary):
+    return BeautifulSoup(unescape(summary or ""), "html.parser").get_text(" ", strip=True)
 
-KEYWORDS_EXCLUDE = [
-    "casino","gambling","sportsbook","betting","lottery","xxx","porn",
-    "giveaway","free airdrop","claim airdrop","win $","guaranteed returns","signal group",
-    "pump and dump","shill","affiliate link","referral code","promo code",
-    "sponsored post","paid content","partner content","brand studio",
-    "top 10 coins","how to buy","best exchange","price prediction","price predictions","get rich",
-    "technical analysis only","chart patterns only"
-]
-
-ALLOWLIST_DOMAINS = {
-    "sec.gov","cftc.gov","federalreserve.gov","treasury.gov","home.treasury.gov",
-    "ofac.treasury.gov","fincen.gov","fdic.gov","occ.gov","justice.gov",
-    "bankofcanada.ca","statcan.gc.ca","www150.statcan.gc.ca","osfi-bsif.gc.ca","ciro.ca",
-    "ecb.europa.eu","bankofengland.co.uk","bis.org","imf.org","eba.europa.eu","eiopa.europa.eu",
-    "fca.org.uk","esma.europa.eu","bafin.de","amf-france.org",
-    "boj.or.jp","fsa.go.jp","mas.gov.sg","sfc.hk","hkma.gov.hk","sebi.gov.in","rbi.org.in","snb.ch",
-    "iea.org","opec.org","cmegroup.com","ice.com","cboe.com",
-    "reuters.com","feeds.reuters.com","nasdaq.com","nyse.com","dtcc.com"
-}
-
-# ======== HELPERS ========
-def parse_dt(s):
-    try:
-        return datetime.fromisoformat(s.replace("Z", "+00:00"))
-    except Exception:
-        try:
-            return datetime(*feedparser._parse_date(s)[:6], tzinfo=timezone.utc)
-        except Exception:
-            return None
-
-def _clean_summary(s):
-    return unescape(s or "").replace("\n", " ").strip()
-
-def match_keywords(text):
-    t = text.lower()
-    if any(k in t for k in KEYWORDS_EXCLUDE):
-        return False
-    if any(k in t for k in KEYWORDS_INCLUDE):
-        return True
-    return False
-
-def domain_allowed(url):
-    host = urlparse(url).netloc.lower()
-    return any(host.endswith(d) for d in ALLOWLIST_DOMAINS)
-
-# ======== LOAD OLD ========
+# Load existing archive
 old_items = []
 if os.path.exists(JSONL_PATH):
     with open(JSONL_PATH, "r", encoding="utf-8") as f:
@@ -100,7 +28,9 @@ if os.path.exists(JSONL_PATH):
             except Exception:
                 pass
 
+# --- MIGRATE legacy records to date-only + retrieved_date ---
 def _migrate_legacy_item(o):
+    # published_utc -> YYYY-MM-DD
     pu = o.get("published_utc", "")
     if pu:
         if len(pu) >= 10 and pu[4] == "-" and pu[7] == "-":
@@ -112,96 +42,94 @@ def _migrate_legacy_item(o):
         iu = o.get("ingested_utc", "")
         o["published_utc"] = (iu[:10] if len(iu) >= 10 and iu[4] == "-" else
                               datetime.now(timezone.utc).strftime("%Y-%m-%d"))
+
+    # retrieved_date -> YYYY-MM-DD (new field)
     if "retrieved_date" not in o or not o.get("retrieved_date"):
         iu = o.get("ingested_utc", "")
         o["retrieved_date"] = (iu[:10] if len(iu) >= 10 and iu[4] == "-" else
                                datetime.now(timezone.utc).strftime("%Y-%m-%d"))
+
+    # Clean summary HTML
     o["summary"] = _clean_summary(o.get("summary", ""))
+
     return o
 
 old_items = [_migrate_legacy_item(o) for o in old_items]
 
-# ======== LOAD FEEDS ========
-feed_urls = []
+# Read feeds
+feeds = []
 for ff in FEED_FILES:
     if os.path.exists(ff):
         with open(ff, "r", encoding="utf-8") as f:
-            feed_urls.extend([ln.strip() for ln in f if ln.strip() and not ln.startswith("#")])
+            for line in f:
+                url = line.strip()
+                if url and not url.startswith("#"):
+                    feeds.append(url)
 
-# Stats counters
-stats = {
-    "feeds_total": len(feed_urls),
-    "feeds_error": 0,
-    "entries_seen": 0,
-    "passed_keywords": 0,
-    "passed_allowlist": 0,
-    "failed_all_filters": 0
-}
-
+# Parse feeds
 new_items = []
-for url in feed_urls:
+for feed_url in feeds:
     try:
-        parsed = feedparser.parse(url)
-        for entry in parsed.entries[:MAX_ITEMS_PER_FEED]:
-            stats["entries_seen"] += 1
-            title = entry.get("title", "")
-            summary = entry.get("summary", "")
-            link = entry.get("link", "")
+        parsed = feedparser.parse(feed_url)
+        for entry in parsed.entries:
+            title = entry.get("title", "").strip()
+            summary = _clean_summary(entry.get("summary", ""))
+            link = entry.get("link", "").strip()
 
-            keyword_ok = match_keywords(title + " " + summary)
-            allow_ok = domain_allowed(link)
-
-            if keyword_ok:
-                stats["passed_keywords"] += 1
-            elif allow_ok:
-                stats["passed_allowlist"] += 1
-            else:
-                stats["failed_all_filters"] += 1
+            # Keyword filtering
+            if INCLUDE_KEYWORDS and not any(k.lower() in (title + " " + summary).lower() for k in INCLUDE_KEYWORDS):
+                continue
+            if any(k.lower() in (title + " " + summary).lower() for k in EXCLUDE_KEYWORDS):
                 continue
 
-            pu = entry.get("published", "") or entry.get("updated", "")
-            dt = parse_dt(pu) or datetime.now(timezone.utc)
-            published_date = dt.strftime("%Y-%m-%d")
-            ingested_now = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
-            new_items.append({
-                "published_utc": published_date,
-                "retrieved_date": ingested_now[:10],
-                "source": parsed.feed.get("title", ""),
-                "title": title.strip(),
-                "url": link,
-                "id_key": entry.get("id", link),
-                "summary": _clean_summary(summary),
-                "ingested_utc": ingested_now
-            })
-    except Exception as e:
-        stats["feeds_error"] += 1
-        print(f"Error fetching {url}: {e}")
+            published_raw = entry.get("published") or entry.get("updated") or ""
+            if published_raw:
+                dt = parse_dt(published_raw)
+                published_utc = dt.astimezone(timezone.utc).strftime("%Y-%m-%d") if dt else datetime.now(timezone.utc).strftime("%Y-%m-%d")
+            else:
+                published_utc = datetime.now(timezone.utc).strftime("%Y-%m-%d")
 
-# ======== MERGE & SAVE ========
+            ingested_utc = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+            retrieved_date = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+
+            item = {
+                "published_utc": published_utc,
+                "retrieved_date": retrieved_date,
+                "source": parsed.feed.get("title", "").strip(),
+                "title": title,
+                "url": link,
+                "id_key": hash(link),
+                "ingested_utc": ingested_utc,
+                "summary": summary
+            }
+            new_items.append(item)
+    except Exception as e:
+        print(f"Error fetching {feed_url}: {e}")
+
+# Merge, sort, keep last N
 all_items = old_items + new_items
-all_items_sorted = sorted(all_items, key=lambda x: (x.get("published_utc", ""), x.get("ingested_utc", "")), reverse=True)
+all_items_sorted = sorted(
+    all_items,
+    key=lambda x: (x.get("published_utc", ""), x.get("ingested_utc", "")),
+    reverse=True
+)
 all_items_sorted = all_items_sorted[:JSONL_MAX_ROWS]
 
+# Save JSONL
 with open(JSONL_PATH, "w", encoding="utf-8") as f:
     for item in all_items_sorted:
         f.write(json.dumps(item, ensure_ascii=False) + "\n")
 
-with open(CSV_PATH, "w", encoding="utf-8") as f:
-    f.write("published_utc,retrieved_date,source,title,url,id_key\n")
+# Save CSV with proper quoting
+with open(CSV_PATH, "w", newline="", encoding="utf-8") as f:
+    writer = csv.writer(f, quoting=csv.QUOTE_ALL)
+    writer.writerow(["published_utc", "retrieved_date", "source", "title", "url", "id_key"])
     for item in all_items_sorted:
-        f.write(f"{item['published_utc']},{item['retrieved_date']},{item['source']},{item['title']},{item['url']},{item['id_key']}\n")
-
-# ======== STATUS OUTPUT ========
-status = {
-    "started_utc": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
-    "new_items_this_run": len(new_items),
-    "total_in_latest": len(all_items_sorted),
-    "filters": {
-        "passed_keywords": stats["passed_keywords"],
-        "passed_allowlist": stats["passed_allowlist"],
-        "failed_all_filters": stats["failed_all_filters"]
-    },
-    "stats": stats
-}
-
-print(json.dumps(status, indent=2))
+        writer.writerow([
+            item.get("published_utc", ""),
+            item.get("retrieved_date", ""),
+            item.get("source", ""),
+            item.get("title", ""),
+            item.get("url", ""),
+            item.get("id_key", "")
+        ])
