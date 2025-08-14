@@ -1,30 +1,36 @@
-import os, json, hashlib, time, csv, re, urllib.request, urllib.error
+import os, json, hashlib, time, csv, re, html
+import urllib.request, urllib.error
+from urllib.parse import urlparse, urlunparse, parse_qsl, urlencode
 from collections import Counter
 from datetime import datetime, timezone, timedelta
 from dateutil import parser as dtparse
 import feedparser
 
-# -------- Config --------
+# ---------- Config ----------
 OUT_DIR = "docs"
 JSONL_PATH = os.path.join(OUT_DIR, "articles.jsonl")
 LATEST_PATH = os.path.join(OUT_DIR, "latest.json")
 CSV_PATH   = os.path.join(OUT_DIR, "articles.csv")
 
-DEFAULT_FEEDS = "feeds.txt"                     # fallback if split files absent
+DEFAULT_FEEDS = "feeds.txt"  # fallback if split files absent
 INCLUDE_GENERAL = os.getenv("INCLUDE_GENERAL", "false").lower() == "true"
 
-# Start wide so data flows; tighten later
-SKIP_OLDER_DAYS = 30
+# Freshness & limits
+SKIP_OLDER_DAYS = 10
 LATEST_LIMIT    = 1000
 JSONL_MAX_ROWS  = 5000
 PER_FEED_CAP    = 50
-SLEEP_BETWEEN_FEEDS = 1.0
+LATEST_PER_SOURCE_CAP = 200
+SLEEP_BETWEEN_FEEDS = 1.0  # seconds
 
-# Filters (accept all for now)
-KEYWORDS_INCLUDE = []
-KEYWORDS_EXCLUDE = []
+# Keyword filters (case-insensitive)
+KEYWORDS_INCLUDE = [
+    "bitcoin","btc","ethereum","eth","etf","sec","staking","solana",
+    "layer 2","airdrop","wallet","custody","treasury","mining","stablecoin"
+]
+KEYWORDS_EXCLUDE = ["casino","giveaway","price prediction","sponsored","press release"]
 
-# -------- Derived / helpers --------
+# ---------- Derived / helpers ----------
 _rx_inc = re.compile("|".join([re.escape(k) for k in KEYWORDS_INCLUDE]), re.I) if KEYWORDS_INCLUDE else None
 _rx_exc = re.compile("|".join([re.escape(k) for k in KEYWORDS_EXCLUDE]), re.I) if KEYWORDS_EXCLUDE else None
 
@@ -39,9 +45,26 @@ def _dedupe_key(title, link):
     t = re.sub(r"\s+", " ", t)
     return t or (link or "").lower()
 
+def _normalize_url(u: str) -> str:
+    if not u:
+        return ""
+    try:
+        p = urlparse(u)
+        # drop utm_* and fragment
+        q = [(k, v) for (k, v) in parse_qsl(p.query, keep_blank_values=True) if not k.lower().startswith("utm_")]
+        return urlunparse((p.scheme, p.netloc, p.path, p.params, urlencode(q), ""))
+    except Exception:
+        return u
+
+def _clean_summary(s: str) -> str:
+    if not s: return ""
+    s = re.sub(r"<[^>]+>", " ", s)   # remove HTML tags
+    s = html.unescape(s)
+    return re.sub(r"\s+", " ", s).strip()
+
 os.makedirs(OUT_DIR, exist_ok=True)
 
-# -------- Feed helpers --------
+# ---------- Feed helpers ----------
 def load_feeds(path):
     feeds = []
     if not os.path.exists(path): return feeds
@@ -89,7 +112,7 @@ def load_existing_ids(path):
                 pass
     return ids
 
-# -------- Networking (robust fetch with UA) --------
+# ---------- Networking (robust fetch with UA) ----------
 UA = "Mozilla/5.0 (compatible; VANTA-RSS/1.0; +https://example.com)"
 
 def fetch_bytes(url, timeout=20):
@@ -98,11 +121,10 @@ def fetch_bytes(url, timeout=20):
         return r.read()
 
 def parse_feed(url):
-    """Fetch with UA; parse with feedparser from bytes."""
     data = fetch_bytes(url)
     return feedparser.parse(data)
 
-# -------- Parsing helpers --------
+# ---------- Parsing helpers ----------
 def parse_dt(s):
     if not s: return None
     try:
@@ -114,12 +136,12 @@ def parse_dt(s):
 
 def norm_item(src_name, entry):
     title = (entry.get("title") or "").strip()
-    link  = (entry.get("link")  or "").strip()
+    link  = _normalize_url((entry.get("link") or "").strip())
     pub = (parse_dt(entry.get("published"))
            or parse_dt(entry.get("updated"))
            or parse_dt(entry.get("created"))
            or datetime.now(timezone.utc))
-    summary = (entry.get("summary") or entry.get("description") or "").strip()
+    summary = _clean_summary(entry.get("summary") or entry.get("description") or "")
     src = src_name or (entry.get("source", {}) or {}).get("title", "")
     base = f"{src}|{title}|{link}|{int(pub.timestamp())}"
     id_key = hashlib.sha256(base.encode("utf-8")).hexdigest()
@@ -134,7 +156,7 @@ def norm_item(src_name, entry):
         "id_key": id_key
     }
 
-# -------- Main --------
+# ---------- Main ----------
 def main():
     start_ts = datetime.now(timezone.utc)
 
@@ -161,36 +183,42 @@ def main():
         try:
             if not url: continue
             d = parse_feed(url)
-            # feedparser bozo flag, captured as info only
             if getattr(d, "bozo", 0):
                 errors.append({"source": src or url, "error": str(getattr(d, "bozo_exception", ""))})
             before = len(new_items)
             for e in d.entries[:PER_FEED_CAP]:
                 stats["entries_seen"] += 1
                 item = norm_item(src, e)
+
                 try:
-                    pub_dt = dtparse.isoparse(item["published_utc"])
+                    pub_dt = dtparse.isoparse(item["published_utc"])  # aware for '...Z'
                 except Exception:
                     pub_dt = datetime.now(timezone.utc)
+
                 if pub_dt < cutoff:
                     stats["too_old"] += 1
                     continue
-                txt = f"{item['title']} {item['summary']}"
-                if _rx_exc and _rx_exc.search(txt):
-                    stats["filtered_exclude"] += 1
+
+                if not _passes_keywords(item["title"], item["summary"]):
+                    # count precisely which side filtered it
+                    txt = f"{item['title']} {item['summary']}"
+                    if _rx_exc and _rx_exc.search(txt):
+                        stats["filtered_exclude"] += 1
+                    elif _rx_inc and not _rx_inc.search(txt):
+                        stats["filtered_include_miss"] += 1
                     continue
-                if _rx_inc and not _rx_inc.search(txt):
-                    stats["filtered_include_miss"] += 1
-                    continue
+
                 dk = _dedupe_key(item["title"], item["url"])
                 if dk in seen_titles:
                     stats["dup_title"] += 1
                     continue
                 seen_titles.add(dk)
+
                 if item["id_key"] in exist_ids:
                     stats["dup_id"] += 1
                     continue
                 exist_ids.add(item["id_key"])
+
                 new_items.append(item)
             by_src_counter[src or url] += len(new_items) - before
         except (urllib.error.URLError, urllib.error.HTTPError) as net_ex:
@@ -212,8 +240,17 @@ def main():
     # Merge, sort, keep last N
     all_items = old_items + new_items
     all_items_sorted = sorted(all_items, key=lambda x: x["published_utc"], reverse=True)
-    keep   = all_items_sorted[:JSONL_MAX_ROWS]
+    keep = all_items_sorted[:JSONL_MAX_ROWS]
+
     latest = all_items_sorted[:LATEST_LIMIT]
+    # Per-source cap in latest
+    capped, seen = [], Counter()
+    for it in latest:
+        s = (it.get("source") or "").strip()
+        if seen[s] < LATEST_PER_SOURCE_CAP:
+            capped.append(it)
+            seen[s] += 1
+    latest = capped
 
     # Write outputs
     with open(JSONL_PATH, "w", encoding="utf-8") as f:
@@ -242,9 +279,11 @@ def main():
             for obj in new_items:
                 f.write(json.dumps(obj, ensure_ascii=False) + "\n")
 
+    end_ts = datetime.now(timezone.utc)
     status = {
         "started_utc": start_ts.strftime("%Y-%m-%dT%H:%M:%SZ"),
-        "ended_utc": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "ended_utc": end_ts.strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "run_ms": int((end_ts - start_ts).total_seconds() * 1000),
         "new_items_this_run": len(new_items),
         "total_in_latest": len(latest),
         "by_source": dict(by_src_counter),
@@ -252,6 +291,11 @@ def main():
         "include_general": INCLUDE_GENERAL,
         "feed_files": discover_feed_files(),
         "filters": {"include": KEYWORDS_INCLUDE, "exclude": KEYWORDS_EXCLUDE},
+        "limits": {
+            "skip_older_days": SKIP_OLDER_DAYS,
+            "latest_limit": LATEST_LIMIT,
+            "latest_per_source_cap": LATEST_PER_SOURCE_CAP
+        },
         "stats": stats
     }
     with open(os.path.join(OUT_DIR, "status.json"), "w", encoding="utf-8") as f:
