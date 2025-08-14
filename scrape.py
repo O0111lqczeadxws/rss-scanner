@@ -1,3 +1,16 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+RSS scanner → JSONL/CSV (GitHub Pages friendly)
+
+- Writes canonical outputs under ./docs
+- CSV uses QUOTE_ALL, lineterminator="\n", and content sanitization to avoid
+  GitHub "Illegal quoting" preview errors
+- Optional dated CSV snapshots under ./docs/archive/
+
+Requires: feedparser
+"""
+
 import os, json, csv, re, html, hashlib, time
 from datetime import datetime, timezone, timedelta
 from urllib.parse import urlparse, urlunparse, parse_qsl, urlencode
@@ -5,11 +18,14 @@ from urllib.parse import urlparse, urlunparse, parse_qsl, urlencode
 import feedparser
 
 # ==================== CONFIG ====================
-OUT_DIR = "docs"
-JSONL_PATH = os.path.join(OUT_DIR, "articles.jsonl")
-CSV_PATH   = os.path.join(OUT_DIR, "articles.csv")
-LATEST_PATH = os.path.join(OUT_DIR, "latest.json")
-STATUS_PATH = os.path.join(OUT_DIR, "status.json")
+OUT_DIR       = "docs"
+ARCHIVE_DIR   = os.path.join(OUT_DIR, "archive")     # for optional dated snapshots
+ARCHIVE_SNAPSHOTS = True                              # set False to disable
+
+JSONL_PATH   = os.path.join(OUT_DIR, "articles.jsonl")
+CSV_PATH     = os.path.join(OUT_DIR, "articles.csv")
+LATEST_PATH  = os.path.join(OUT_DIR, "latest.json")
+STATUS_PATH  = os.path.join(OUT_DIR, "status.json")
 
 FEED_FILES = [
     "feeds.txt",         # Tier 1 – official & macro movers
@@ -18,10 +34,10 @@ FEED_FILES = [
 ]
 
 # Limits / freshness
-SKIP_OLDER_DAYS = 10
-PER_FEED_CAP = 50
-LATEST_LIMIT = 1000
-JSONL_MAX_ROWS = 5000
+SKIP_OLDER_DAYS     = 10
+PER_FEED_CAP        = 50
+LATEST_LIMIT        = 1000
+JSONL_MAX_ROWS      = 5000
 SLEEP_BETWEEN_FEEDS = 0.6  # seconds
 
 # ==================== VANTA2 TUNING ====================
@@ -88,7 +104,8 @@ _rx_inc = re.compile("|".join([re.escape(k) for k in KEYWORDS_INCLUDE]), re.I) i
 _rx_exc = re.compile("|".join([re.escape(k) for k in KEYWORDS_EXCLUDE]), re.I) if KEYWORDS_EXCLUDE else None
 
 def _normalize_url(u: str) -> str:
-    if not u: return ""
+    if not u:
+        return ""
     try:
         p = urlparse(u)
         q = [(k, v) for (k, v) in parse_qsl(p.query, keep_blank_values=True)
@@ -110,7 +127,8 @@ def _allowed(feed_url: str, link_url: str) -> bool:
     return on_list(d1) or on_list(d2)
 
 def _clean_summary(s: str) -> str:
-    if not s: return ""
+    if not s:
+        return ""
     s = re.sub(r"<[^>]+>", " ", s)  # strip HTML tags
     s = html.unescape(s)
     return re.sub(r"\s+", " ", s).strip()
@@ -125,7 +143,8 @@ def _parse_dt(entry, feed_url: str):
         pass
     for key in ("published", "updated", "created"):
         val = entry.get(key)
-        if not val: continue
+        if not val: 
+            continue
         try:
             # feedparser can parse many formats via _parse_date
             tt = feedparser._parse_date(val)
@@ -153,27 +172,16 @@ def _dedupe_key(title: str, link: str) -> str:
     t = re.sub(r"\s+", " ", t)
     return hashlib.sha256(f"{t}|{_normalize_url(link)}".encode("utf-8")).hexdigest()
 
-def _load_existing_ids(path):
-    ids = set()
-    if not os.path.exists(path): return ids
-    with open(path, "r", encoding="utf-8") as f:
-        for ln in f:
-            try:
-                obj = json.loads(ln)
-                k = obj.get("id_key")
-                if k: ids.add(k)
-            except Exception:
-                pass
-    return ids
-
 def _load_feeds():
     out = []
     for ff in FEED_FILES:
-        if not os.path.exists(ff): continue
+        if not os.path.exists(ff): 
+            continue
         with open(ff, "r", encoding="utf-8") as f:
             for raw in f:
                 line = raw.strip()
-                if not line or line.startswith("#"): continue
+                if not line or line.startswith("#"): 
+                    continue
                 src, url = "", ""
                 if "\t" in line:
                     src, url = line.split("\t", 1)
@@ -186,14 +194,28 @@ def _load_feeds():
                 out.append((src.strip(), url.strip()))
     return out
 
+def _csv_clean(x) -> str:
+    """Sanitize for CSV: remove hard line breaks and exotic separators that can
+    confuse strict CSV previews; normalize to plain spaces."""
+    if x is None:
+        return ""
+    s = str(x)
+    # remove CR/LF and Unicode line/paragraph separators
+    s = s.replace("\r", " ").replace("\n", " ").replace("\u2028", " ").replace("\u2029", " ")
+    # strip NULLs if any
+    s = s.replace("\x00", " ")
+    return s
+
 # ==================== MAIN ====================
 def main():
     os.makedirs(OUT_DIR, exist_ok=True)
-    start_ts = datetime.now(timezone.utc)
+    if ARCHIVE_SNAPSHOTS:
+        os.makedirs(ARCHIVE_DIR, exist_ok=True)
 
+    start_ts = datetime.now(timezone.utc)
     feeds = _load_feeds()
 
-    # Load archive + migrate legacy
+    # Load previous JSONL and migrate fields
     old_items = []
     if os.path.exists(JSONL_PATH):
         with open(JSONL_PATH, "r", encoding="utf-8") as f:
@@ -206,7 +228,6 @@ def main():
                         if len(pu) >= 10 and pu[4] == "-" and pu[7] == "-":
                             o["published_utc"] = pu[:10]
                         else:
-                            # best-effort parse
                             try:
                                 dd = datetime.fromisoformat(pu.replace("Z", "+00:00"))
                             except Exception:
@@ -223,6 +244,7 @@ def main():
                     o["summary"] = _clean_summary(o.get("summary", ""))
                     old_items.append(o)
                 except Exception:
+                    # swallow bad lines
                     pass
 
     exist_ids = {o.get("id_key") for o in old_items if o.get("id_key")}
@@ -281,7 +303,7 @@ def main():
                 else:
                     stats["passed_allowlist"] += 1
 
-                # Dedupe
+                # Dedupe across this run
                 dk = _dedupe_key(title, link)
                 if dk in seen_title_url:
                     stats["dup_title_url"] += 1
@@ -326,30 +348,44 @@ def main():
         reverse=True
     )
     keep = all_items_sorted[:JSONL_MAX_ROWS]
-
     latest = keep[:LATEST_LIMIT]
 
-    # Write outputs
+    # ---------- Write outputs ----------
+    # JSONL
     with open(JSONL_PATH, "w", encoding="utf-8") as f:
         for obj in keep:
             f.write(json.dumps(obj, ensure_ascii=False) + "\n")
 
+    # latest.json
     with open(LATEST_PATH, "w", encoding="utf-8") as f:
         json.dump(latest, f, ensure_ascii=False, indent=2)
 
-    # CSV with strict quoting (fixes GitHub preview warning)
+    # CSV (strict and sanitized)
     with open(CSV_PATH, "w", newline="", encoding="utf-8") as f:
-        w = csv.writer(f, quoting=csv.QUOTE_ALL)
+        w = csv.writer(f, quoting=csv.QUOTE_ALL, lineterminator="\n")
         w.writerow(["published_utc","retrieved_date","source","title","url","id_key"])
         for obj in keep:
             w.writerow([
-                obj.get("published_utc",""),
-                obj.get("retrieved_date",""),
-                obj.get("source",""),
-                obj.get("title",""),
-                obj.get("url",""),
-                obj.get("id_key","")
+                _csv_clean(obj.get("published_utc","")),
+                _csv_clean(obj.get("retrieved_date","")),
+                _csv_clean(obj.get("source","")),
+                _csv_clean(obj.get("title","")),
+                _csv_clean(obj.get("url","")),
+                _csv_clean(obj.get("id_key",""))
             ])
+
+    # Optional dated snapshot of the CSV
+    if ARCHIVE_SNAPSHOTS:
+        ts = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+        snap_path = os.path.join(ARCHIVE_DIR, f"articles-{ts}.csv")
+        # write snapshot atomically by copying content we just wrote
+        try:
+            with open(CSV_PATH, "r", encoding="utf-8") as src, \
+                 open(snap_path, "w", newline="", encoding="utf-8") as dst:
+                for ln in src:
+                    dst.write(ln)
+        except Exception as ex:
+            errors.append({"source": "snapshot", "error": f"csv snapshot failed: {ex}"})
 
     # Status
     end_ts = datetime.now(timezone.utc)

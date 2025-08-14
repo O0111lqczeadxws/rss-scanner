@@ -1,7 +1,21 @@
-https://www.sec.gov/news/pressreleases.rss
-https://www.sec.gov/rss/litigation/litreleases.xml
-https://www.federalreserve.gov/feeds/press_monpolicy.xml
-https://home.treasury.gov/ofac-recent-actions.xml
-https://www.bls.gov/feed/news_release.xml
-https://www.bankofcanada.ca/feed/press/
-https://feeds.reuters.com/reuters/marketsNews
+SEC_Press	https://www.sec.gov/news/pressreleases.rss
+SEC_Enforcement	https://www.sec.gov/rss/litigation/litreleases.xml
+Fed_AllPress	https://www.federalreserve.gov/feeds/press_all.xml
+Fed_MonetaryPolicy	https://www.federalreserve.gov/feeds/press_monetary.xml
+Fed_Speeches	https://www.federalreserve.gov/feeds/speeches.xml
+Treasury_Press	https://home.treasury.gov/news/press-releases/rss
+OFAC_Actions	https://www.home.treasury.gov/ofac-recent-actions.xml
+BLS_Releases	https://www.bls.gov/feed/news_release.xml
+BEA_Press	https://www.bea.gov/rss.xml
+CFTC_Press	https://www.cftc.gov/RSS/RSSGP/rssgp.xml
+CFTC_Enforcement	https://www.cftc.gov/RSS/RSSENF/rssenf.xml
+CFTC_Speeches	https://www.cftc.gov/RSS/RSSST/rssst.xml
+OCC_News	https://www.occ.gov/rss/occ_news.xml
+FDIC_Press	https://public.govdelivery.com/topics/USFDIC_26/feed.rss
+Bank_of_Canada_Press	https://www.bankofcanada.ca/feed/press/
+IEA_News	https://www.iea.org/rss/news
+OPEC_Press	https://www.opec.org/opec_web/en/press_room/press_room.rss
+CME_Press	https://www.cmegroup.com/rss/press.xml
+CME_ProductUpdates	https://www.cmegroup.com/rss/product-update.xml
+FCA_News	https://www.fca.org.uk/news/rss.xml
+ESMA_News	https://www.esma.europa.eu/rss.xml

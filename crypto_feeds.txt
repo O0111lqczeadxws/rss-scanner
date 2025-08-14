@@ -1,8 +1,16 @@
-https://www.coindesk.com/arc/outboundfeeds/rss/
-https://cointelegraph.com/rss
-https://decrypt.co/feed
-https://thedefiant.io/feed
-https://blog.bitmex.com/feed/
-https://insights.glassnode.com/rss/
-https://feeds.reuters.com/reuters/businessNews
-https://feeds.reuters.com/reuters/worldNews
+CoinDesk	https://www.coindesk.com/arc/outboundfeeds/rss/
+Cointelegraph	https://cointelegraph.com/rss
+Decrypt	https://decrypt.co/feed
+TheDefiant	https://thedefiant.io/feed
+BitMEX_Blog	https://blog.bitmex.com/feed/
+Glassnode_Insights	https://insights.glassnode.com/rss/
+Kaiko_Blog	https://blog.kaiko.com/rss
+IntoTheBlock_Blog	https://blog.intotheblock.com/feed
+Nansen_Research	https://research.nansen.ai/feed
+Chainalysis_Blog	https://blog.chainalysis.com/feed/
+Ethereum_Foundation	https://blog.ethereum.org/feed.xml
+BitcoinCore_Releases	https://github.com/bitcoin/bitcoin/releases.atom
+Geth_Releases	https://github.com/ethereum/go-ethereum/releases.atom
+Prysm_Releases	https://github.com/prysmaticlabs/prysm/releases.atom
+Solana_Releases	https://github.com/solana-labs/solana/releases.atom
+Chainlink_Blog	https://blog.chain.link/feed/
