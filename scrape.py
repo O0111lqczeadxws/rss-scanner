@@ -10,7 +10,7 @@ JSONL_PATH = os.path.join(OUT_DIR, "articles.jsonl")
 LATEST_PATH = os.path.join(OUT_DIR, "latest.json")
 CSV_PATH = os.path.join(OUT_DIR, "articles.csv")
 
-SKIP_OLDER_DAYS = 10
+SKIP_OLDER_DAYS = 14
 LATEST_LIMIT = 1000
 JSONL_MAX_ROWS = 5000
 PER_FEED_CAP = 50
@@ -18,16 +18,69 @@ LATEST_PER_SOURCE_CAP = 200
 SLEEP_BETWEEN_FEEDS = 1.0
 
 KEYWORDS_INCLUDE = [
-    "bitcoin", "btc", "ethereum", "eth", "etf", "sec", "staking", "solana",
-    "layer 2", "airdrop", "wallet", "custody", "treasury", "mining", "stablecoin"
+    # Core crypto assets & chains
+    "bitcoin","btc","ethereum","eth","solana","dogecoin","xrp","cardano","bnb","tron",
+    "polygon","matic","arbitrum","optimism","base","avalanche","near","aptos","sui",
+    "chainlink","link","litecoin","fil","atom","dot",
+
+    # Protocols / infra / tech
+    "layer 2","l2","rollup","zk-rollup","zkEVM","optimistic rollup","mev","restaking",
+    "eigenlayer","staking","unstaking","slashing","validator","client release","hard fork",
+    "soft fork","upgrade","eip","bip","cip","bridge","bridge exploit","reorg",
+
+    # DeFi / tokenization / stablecoins
+    "defi","amm","dex","cex","lending protocol","liquidation","stablecoin","tokenization",
+    "rwa","real world asset","onchain treasury","mint","burn","redeem","circulating supply",
+
+    # Markets / microstructure
+    "etf","etn","creation unit","redemption","authorized participant","aum","basis trade",
+    "futures","perpetuals","options","volatility","open interest","fund flow","net inflow",
+    "short interest","liquidation cascade","order book","trading halt","circuit breaker",
+    "listing","delisting","suspension","ipo","s-1","8-k","10-k","10-q","13f","prospectus",
+
+    # Macro policy & data
+    "fomc","minutes","dot plot","rate cut","rate hike","policy rate","terminal rate",
+    "balance sheet","qe","qt","inflation","cpi","ppi","pce","employment","payrolls",
+    "unemployment","gdp","retail sales","trade deficit","trade surplus","tariff","sanction",
+
+    # Regulators / institutions / rules
+    "sec","cftc","fincen","ofac","treasury","fdic","occ","doj","finra",
+    "federal reserve","ecb","bank of england","boe","bank of japan","boj","snb","imf","bis",
+    "fca","esma","eba","eiopa","iosco","mas","sfc","hkma","baFin","amf","sebi","rbi",
+    "osfi","ciro","csa","statcan","bank of canada",
+    "mica","mifid ii","basel iii","psd3","travel rule","aml","kyc","securities law",
+    "consent order","cease and desist","settlement","wells notice","litigation release",
+
+    # Energy / commodities with market impact
+    "opec","iea","oil output","production quota","energy markets","diesel inventories","gasoline stocks",
+
+    # Institutional & large actors (selected)
+    "blackrock","ishares","fidelity","vanguard","ark invest","jpmorgan","goldman sachs",
+    "morgan stanley","citadel","grayscale","microstrategy","cboe","cme","ice","dtcc","nasdaq","nyse"
 ]
-KEYWORDS_EXCLUDE = ["casino", "giveaway", "price prediction", "sponsored", "press release"]
+
+KEYWORDS_EXCLUDE = [
+    "casino","gambling","sportsbook","betting","lottery","xxx","porn",
+    "giveaway","free airdrop","claim airdrop","win $","guaranteed returns","signal group",
+    "pump and dump","shill","affiliate link","referral code","promo code",
+    "sponsored post","paid content","partner content","brand studio",
+    "top 10 coins","how to buy","best exchange","price prediction","price predictions","get rich",
+    "technical analysis only","chart patterns only"  # generic TA posts without news
+]
 
 ALLOWLIST_DOMAINS = {
-    "sec.gov", "federalreserve.gov", "home.treasury.gov", "bls.gov",
-    "bankofcanada.ca", "ecb.europa.eu", "fca.org.uk", "esma.europa.eu",
-    "statcan.gc.ca", "www150.statcan.gc.ca", "iea.org", "opec.org",
-    "cmegroup.com", "reuters.com", "feeds.reuters.com"
+    # U.S. markets & policy
+    "sec.gov","cftc.gov","federalreserve.gov","federalreserve.org","treasury.gov","home.treasury.gov",
+    "ofac.treasury.gov","fincen.gov","fdic.gov","occ.gov","justice.gov",
+    # Canada & Europe
+    "bankofcanada.ca","statcan.gc.ca","www150.statcan.gc.ca","osfi-bsif.gc.ca","ciro.ca","securities-administrators.ca",
+    "ecb.europa.eu","bankofengland.co.uk","bis.org","imf.org","worldbank.org","eba.europa.eu","eiopa.europa.eu",
+    "fca.org.uk","esma.europa.eu","bafin.de","amf-france.org",
+    # Asia / others
+    "boj.or.jp","fsa.go.jp","mas.gov.sg","sfc.hk","hkma.gov.hk","sebi.gov.in","rbi.org.in","snb.ch",
+    # Energy / exchanges / wires
+    "iea.org","opec.org","cmegroup.com","ice.com","cboe.com",
+    "reuters.com","feeds.reuters.com","nasdaq.com","nyse.com","dtcc.com"
 }
 
 _rx_inc = re.compile("|".join([re.escape(k) for k in KEYWORDS_INCLUDE]), re.I) if KEYWORDS_INCLUDE else None
@@ -125,18 +178,22 @@ new_items = []
 seen_keys = {_normalize_url(i.get("url", "")) for i in old_items}
 
 for src, feed_url in feeds:
+    added_count = 0
+    skipped_count = 0
     try:
         fp = feedparser.parse(feed_url)
-    except:
+    except Exception as e:
+        print(f"[ERROR] Failed to fetch: {feed_url} ({e})")
         continue
 
-    count = 0
     for e in fp.entries:
-        if count >= PER_FEED_CAP:
+        if added_count >= PER_FEED_CAP:
             break
 
         link = _normalize_url(getattr(e, "link", ""))
-        if link in seen_keys: continue
+        if link in seen_keys:
+            skipped_count += 1
+            continue
 
         title = getattr(e, "title", "").strip()
         summary = _clean_summary(getattr(e, "summary", ""))
@@ -147,10 +204,12 @@ for src, feed_url in feeds:
             dt_obj = parse_dt(getattr(e, "published", "")) or datetime.now(timezone.utc)
 
         if (datetime.now(timezone.utc) - dt_obj).days > SKIP_OLDER_DAYS:
+            skipped_count += 1
             continue
 
         if not _is_allowed_feed(feed_url):
             if not _passes_keywords(title, summary):
+                skipped_count += 1
                 continue
 
         item = {
@@ -166,8 +225,9 @@ for src, feed_url in feeds:
 
         seen_keys.add(link)
         new_items.append(item)
-        count += 1
+        added_count += 1
 
+    print(f"[FEED] {src or feed_url} → Added: {added_count}, Skipped: {skipped_count}")
     time.sleep(SLEEP_BETWEEN_FEEDS)
 
 # ---------- Merge and save ----------
