@@ -1,114 +1,202 @@
-name: Analyze feeds (VANTA AI)
+#!/usr/bin/env python3
+"""
+Analyze feeds (VANTA AI) - single entrypoint.
+Runs:
+  1. build_ai_bundle
+  2. ai_layer.infer
+  3. ai_layer.interpreter
+  4. Drift scoring (integrated here)
+  5. ai_layer.interpreter (with drift)
+  6. src.validate_outputs
 
-on:
-  workflow_run:
-    workflows: ["RSS Scan"]   # must match the name: in rss.yml
-    types: [completed]
-  workflow_dispatch:
-    inputs:
-      run_date:
-        description: "YYYY-MM-DD (UTC). Leave empty to auto-detect."
-        required: false
-        default: ""
+Logs everything to reports/daily/DATE.log.
+"""
 
-permissions:
-  contents: write
+import argparse
+import sys
+import traceback
+import statistics
+import json
+from pathlib import Path
+from datetime import datetime, timedelta
+import subprocess
 
-concurrency:
-  group: analyze-vanta
-  cancel-in-progress: false
+# Directories
+DATA_PROCESSED_DIR = Path("data/processed")
+AI_FINAL_DIR = Path("data/ai_final")
+DRIFT_DIR = Path("data/drift")
+REPORTS_DAILY_DIR = Path("reports/daily")
 
-jobs:
-  ai:
-    # auto-run only if RSS succeeded; always allow manual runs
-    if: ${{ github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success' }}
-    runs-on: ubuntu-latest
-    timeout-minutes: 25
+STAGES = [
+    ("Build AI bundles", ["python", "-m", "src.build_ai_bundle"]),
+    ("AI infer (VANTA1/2)", ["python", "-m", "ai_layer.infer"]),
+    ("Interpret & score (final)", ["python", "-m", "ai_layer.interpreter"]),
+    # Drift integrated below instead of calling ai_layer.drfit
+    ("Rebuild report (with drift)", ["python", "-m", "ai_layer.interpreter"]),
+    ("Validate outputs", ["python", "-m", "src.validate_outputs"]),
+]
 
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-        with:
-          # pin to the commit from RSS run; fallback for manual runs
-          ref: ${{ github.event.workflow_run.head_sha || github.sha }}
-          fetch-depth: 0
+def run_stage(name, cmd, date):
+    print(f"\n=== Stage: {name} ===")
+    full_cmd = cmd + ["--date", date]
+    try:
+        subprocess.run(full_cmd, check=True)
+    except subprocess.CalledProcessError as e:
+        print(f"[ERROR] Stage '{name}' failed with exit code {e.returncode}")
+        sys.exit(e.returncode)
+    except Exception as e:
+        print(f"[ERROR] Stage '{name}' crashed: {e}")
+        traceback.print_exc()
+        sys.exit(1)
 
-      - name: Setup Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
+def resolve_date(input_date: str) -> str:
+    """Resolve target date: explicit > today UTC > latest processed file."""
+    if input_date:
+        return input_date
+    today = datetime.utcnow().strftime("%Y-%m-%d")
+    if list(DATA_PROCESSED_DIR.glob(f"{today}*.jsonl")):
+        return today
+    latest = sorted(DATA_PROCESSED_DIR.glob("*.jsonl"), key=lambda p: p.stat().st_mtime, reverse=True)
+    if latest:
+        alt = latest[0].stem[:10]
+        try:
+            datetime.strptime(alt, "%Y-%m-%d")
+            return alt
+        except ValueError:
+            pass
+    return today
 
-      - name: Cache pip
-        uses: actions/cache@v4
-        with:
-          path: ~/.cache/pip
-          key: pip-${{ runner.os }}-${{ hashFiles('**/requirements.txt') }}
+def count_processed(date: str) -> int:
+    files = list(DATA_PROCESSED_DIR.glob(f"{date}*.jsonl"))
+    count = 0
+    for f in files:
+        with f.open("r", encoding="utf-8") as fp:
+            count += sum(1 for _ in fp)
+    return count
 
-      - name: Install requirements
-        run: |
-          python -m pip install -U pip
-          pip install -r requirements.txt
+def ensure_dirs():
+    for d in (DRIFT_DIR, REPORTS_DAILY_DIR):
+        d.mkdir(parents=True, exist_ok=True)
 
-      - name: Resolve DATE (input → today UTC → latest processed file)
-        id: date
-        shell: bash
-        run: |
-          if [ -n "${{ inputs.run_date }}" ]; then
-            DATE="${{ inputs.run_date }}"
-          else
-            DATE="$(date -u +%F)"
-          fi
-          # fallback to latest processed file if today's missing
-          if ! ls data/processed/${DATE}*.jsonl >/dev/null 2>&1; then
-            LATEST=$(ls -1t data/processed/*.jsonl 2>/dev/null | head -n1 || true)
-            if [ -n "$LATEST" ]; then
-              ALT=$(basename "$LATEST" | grep -Eo '[0-9]{4}-[0-9]{2}-[0-9]{2}' | head -n1)
-              if [ -n "$ALT" ]; then DATE="$ALT"; fi
-            fi
-          fi
-          echo "DATE=$DATE" | tee -a $GITHUB_ENV
-          echo "Using DATE=$DATE"
+# --- Drift logic integrated here ---
+def load_jsonl(path: Path):
+    items = []
+    if not path.exists():
+        return items
+    with path.open("r", encoding="utf-8") as f:
+        for line in f:
+            try:
+                items.append(json.loads(line))
+            except json.JSONDecodeError:
+                pass
+    return items
 
-      - name: Skip if no processed items (cost/noise control)
-        shell: bash
-        run: |
-          COUNT=$(cat data/processed/${DATE}*.jsonl 2>/dev/null | wc -l || echo 0)
-          if [ "$COUNT" -eq 0 ]; then
-            echo "No processed items for $DATE — exiting."
-            exit 0
-          fi
+def safe_mean(vals):
+    vals = [v for v in vals if isinstance(v, (int, float))]
+    return round(statistics.mean(vals), 4) if vals else None
 
-      - name: Ensure output dirs
-        run: |
-          mkdir -p data/ai_bundles data/ai_out data/ai_final data/drift reports/daily
+def safe_range(vals):
+    vals = [v for v in vals if isinstance(v, (int, float))]
+    return (min(vals), max(vals)) if vals else None
 
-      - name: Build AI bundles
-        run: python -m src.build_ai_bundle --date "$DATE"
+def extract_sentiment(item):
+    if "sentiment" in item and isinstance(item["sentiment"], (int, float)):
+        return item["sentiment"]
+    if "ai" in item and isinstance(item["ai"], dict):
+        val = item["ai"].get("sentiment")
+        return val if isinstance(val, (int, float)) else None
+    return None
 
-      - name: Mock AI infer (VANTA1/2)
-        run: python -m ai_layer.infer --date "$DATE"
+def extract_score(item):
+    if "score" in item and isinstance(item["score"], (int, float)):
+        return item["score"]
+    if "ai" in item and isinstance(item["ai"], dict):
+        val = item["ai"].get("score")
+        return val if isinstance(val, (int, float)) else None
+    return None
 
-      - name: Interpret & score (final)
-        run: python -m ai_layer.interpreter --date "$DATE"
+def run_drift(date: str, lookback: int = 7):
+    print(f"\n=== Stage: Drift scoring (lookback {lookback} days) ===")
+    history = []
+    date_obj = datetime.strptime(date, "%Y-%m-%d")
+    for i in range(lookback):
+        day = date_obj - timedelta(days=i)
+        for fp in AI_FINAL_DIR.glob(f"{day.date()}*.jsonl"):
+            history.extend(load_jsonl(fp))
 
-      - name: Drift scoring (7-day lookback)
-        run: python -m ai_layer.drift --date "$DATE" --lookback 7
+    drift_file = DRIFT_DIR / f"{date}_drift.json"
 
-      - name: Rebuild report (with drift)
-        run: python -m ai_layer.interpreter --date "$DATE"
+    if not history:
+        print(f"[drift] No AI final data found for last {lookback} days")
+        drift_file.write_text(json.dumps({
+            "date": date,
+            "lookback_days": lookback,
+            "items_count": 0,
+            "avg_sentiment": None,
+            "avg_score": None,
+            "sentiment_range": None,
+            "score_range": None
+        }, indent=2))
+        return
 
-      - name: Validate outputs
-        run: python -m src.validate_outputs --date "$DATE"
+    sentiments = [extract_sentiment(x) for x in history]
+    scores = [extract_score(x) for x in history]
 
-      - name: Commit analysis artifacts
-        shell: bash
-        run: |
-          git config user.name "github-actions"
-          git config user.email "actions@users.noreply.github.com"
-          git add data/ai_bundles data/ai_out data/ai_final data/drift reports/daily || true
-          if ! git diff --cached --quiet; then
-            git commit -m "auto: AI analysis $DATE"
-            git push
-          else
-            echo "No changes to commit."
-          fi
+    drift_stats = {
+        "date": date,
+        "lookback_days": lookback,
+        "items_count": len(history),
+        "avg_sentiment": safe_mean(sentiments),
+        "avg_score": safe_mean(scores),
+        "sentiment_range": safe_range(sentiments),
+        "score_range": safe_range(scores)
+    }
+
+    drift_file.write_text(json.dumps(drift_stats, indent=2))
+    print(f"[drift] Saved drift stats to {drift_file}")
+
+# --- Main pipeline ---
+def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--date", default="", help="YYYY-MM-DD (UTC). Leave empty for auto.")
+    parser.add_argument("--lookback", type=int, default=7, help="Days to look back for drift scoring")
+    args = parser.parse_args()
+
+    date = resolve_date(args.date)
+    print(f"[analyze] Using DATE={date}")
+
+    count = count_processed(date)
+    if count == 0:
+        print(f"[analyze] No processed items for {date} — exiting early.")
+        sys.exit(0)
+
+    ensure_dirs()
+
+    log_file = REPORTS_DAILY_DIR / f"{date}.log"
+    with log_file.open("w", encoding="utf-8") as lf:
+        sys.stdout = sys.stderr = lf
+        try:
+            # Pre-drift stages
+            for name, cmd in STAGES[:3]:
+                run_stage(name, cmd, date)
+
+            # Drift stage
+            run_drift(date, lookback=args.lookback)
+
+            # Post-drift stages
+            for name, cmd in STAGES[3:]:
+                run_stage(name, cmd, date)
+
+        except SystemExit as e:
+            raise
+        except Exception as e:
+            print(f"[FATAL] Unexpected crash: {e}")
+            traceback.print_exc()
+            sys.exit(1)
+
+    sys.stdout = sys.__stdout__
+    sys.stderr = sys.__stderr__
+    print(f"[analyze] Analysis complete for {date}. Log saved to {log_file}")
+
+if __name__ == "__main__":
+    main()
