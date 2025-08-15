@@ -2,6 +2,61 @@
   {
     "published_utc": "2025-08-15",
     "retrieved_date": "2025-08-15",
+    "retrieved_utc": "2025-08-15T23:35:38Z",
+    "source": "HackerNews_Top",
+    "title": "California unemployment rises to 5.5%, worst in the U.S. as tech falters",
+    "url": "https://www.sfchronicle.com/california/article/unemployment-rate-rises-tech-20819276.php",
+    "id_key": "841dc6543a13392f83bce9666e6fb77878c01463abe09abd5287f2b16336d37f",
+    "summary": "Comments",
+    "ingested_utc": "2025-08-15T23:35:38Z"
+  },
+  {
+    "published_utc": "2025-08-15",
+    "retrieved_date": "2025-08-15",
+    "retrieved_utc": "2025-08-15T23:34:38Z",
+    "source": "NYTimes_World",
+    "title": "Live Updates: Trump Says There Is ‘No Deal’ on Ukraine After Summit With Putin",
+    "url": "https://www.nytimes.com/live/2025/08/15/world/trump-putin-meeting-alaska",
+    "id_key": "aeda27519485c171f43d7b2d4bf98e9e98babaf0fffe32b7b651f62e041aabff",
+    "summary": "President Trump and President Vladimir V. Putin of Russia offered vague statements about progress after their nearly three-hour meeting but took no questions.",
+    "ingested_utc": "2025-08-15T23:34:38Z"
+  },
+  {
+    "published_utc": "2025-08-15",
+    "retrieved_date": "2025-08-15",
+    "retrieved_utc": "2025-08-15T23:32:44Z",
+    "source": "CryptoSlate",
+    "title": "US authorities raid ransomware operator, seize $2.8M in crypto",
+    "url": "https://cryptoslate.com/us-authorities-raid-ransomware-operator-seize-2-8m-in-crypto/",
+    "id_key": "9730edb72615f1d78490e9ea825401567cd9715e797d8a61e07c769d961d2d39",
+    "summary": "The U.S. Justice Department authorized the seizure of more than $2.8 million in cryptocurrency, cash, and other assets from a suspected ransomware operator, according to an Aug. 14 announcement. Federal prosecutors unsealed six warrants tied to Ianis Aleksandrovich Antropenko, charging him with conspiring to commit computer fraud and abuse, committing computer fraud and abuse, and […] The post US authorities raid ransomware operator, seize $2.8M in crypto appeared first on CryptoSlate .",
+    "ingested_utc": "2025-08-15T23:32:44Z"
+  },
+  {
+    "published_utc": "2025-08-15",
+    "retrieved_date": "2025-08-15",
+    "retrieved_utc": "2025-08-15T23:32:25Z",
+    "source": "Guardian_World",
+    "title": "Trump says ‘no deal until there’s a deal’ on Ukraine after talks with Putin – live",
+    "url": "https://www.theguardian.com/world/live/2025/aug/15/trump-putin-alaska-meeting-summit-news-updates",
+    "id_key": "f9fb825e9395232c4310547febf894875fcc2714d290e0bd96f370b3730a307f",
+    "summary": "Pair decline to take questions in short press conference as US president says ‘we didn’t get there … but we have a good chance of getting there’ Trump gives warm welcome to Putin in Alaska The president has yet to deplane, but is currently greeting Alaska governor Muke Dunleavy and senators Lisa Murkowski and Dan Sullivan , all Republicans, aboard Air Force One, per the White House. White House press secretary Karoline Leavitt also says that for the expanded bilateral meeting and lunch, Trump, Rubio, and Witkoff will be joined by treasury secretary Scott Bessent , commerce secretary Howard Lutnick , defense secretary Pete Hegseth , and White House chief of staff Susie Wiles . Continue reading...",
+    "ingested_utc": "2025-08-15T23:32:25Z"
+  },
+  {
+    "published_utc": "2025-08-15",
+    "retrieved_date": "2025-08-15",
+    "retrieved_utc": "2025-08-15T23:32:22Z",
+    "source": "BBC_World",
+    "title": "Watch: Royals and veterans mark VJ Day 80 years on",
+    "url": "https://www.bbc.com/news/videos/c80dxed31v8o?at_medium=RSS&at_campaign=rss",
+    "id_key": "d39daef57afc912730a4f67986049e11d8ec50eb126d1f0014a6a8e8d2e52c5c",
+    "summary": "The King and Queen led a two-minute silence at a service in Staffordshire to commemorate 80 years since VJ Day.",
+    "ingested_utc": "2025-08-15T23:32:22Z"
+  },
+  {
+    "published_utc": "2025-08-15",
+    "retrieved_date": "2025-08-15",
     "retrieved_utc": "2025-08-15T22:52:19Z",
     "source": "CryptoNews",
     "title": "SEC Is Mobilizing All Branches To Make U.S. A Global Crypto Hub, Chair Paul Atkins Says",
@@ -6151,6 +6206,17 @@
   {
     "published_utc": "2025-08-14",
     "retrieved_date": "2025-08-15",
+    "retrieved_utc": "2025-08-15T23:35:15Z",
+    "source": "TheStreet_Top",
+    "title": "Warren Buffett buys battered UnitedHealth, sells more Apple stock",
+    "url": "https://www.thestreet.com/investing/stocks/warren-buffett-buys-battered-stock-sells-more-apple",
+    "id_key": "fb42bd4a339b878ed0a9a719818123f225938a5aec52acdca81b710f32219574",
+    "summary": "The Oracle of Omaha has revealed Berkshire Hathaway's latest 13F report.",
+    "ingested_utc": "2025-08-15T23:35:15Z"
+  },
+  {
+    "published_utc": "2025-08-14",
+    "retrieved_date": "2025-08-15",
     "retrieved_utc": "2025-08-15T13:41:56Z",
     "source": "TheStreet_Top",
     "title": "National health care company files for Chapter 11 bankruptcy",
@@ -10930,72 +10996,6 @@
     "url": "https://decrypt.co/335253/ethereum-suited-meteoric-stablecoin-growth-jpmorgan",
     "id_key": "2708944be7a6cf5f29872c5e3f7a5ecb51e0d848398b3e6e17a5f79b88990ed7",
     "summary": "Ethereum’s price has increased 50% over the past month.",
-    "ingested_utc": "2025-08-14T16:32:32Z",
-    "retrieved_utc": "2025-08-14T16:32:32Z"
-  },
-  {
-    "published_utc": "2025-08-14",
-    "retrieved_date": "2025-08-14",
-    "source": "Decrypt",
-    "title": "Hacked Again? BtcTurk Suspends Withdrawals After $49 Million in Suspicious Transfers",
-    "url": "https://decrypt.co/335251/hacked-again-turkish-exchange-btcturk-suspends-withdrawals-50m-moved",
-    "id_key": "595a42812dbfe3ed7410d9fb92b2c5d222ec0249b535cad50bd3a8173d5e2956",
-    "summary": "BtcTurk hasn't admitted whether it has indeed been hacked. But it wouldn't be the first time.",
-    "ingested_utc": "2025-08-14T16:32:32Z",
-    "retrieved_utc": "2025-08-14T16:32:32Z"
-  },
-  {
-    "published_utc": "2025-08-14",
-    "retrieved_date": "2025-08-14",
-    "source": "Decrypt",
-    "title": "BTC NEW ATH, ALTCOIN SEARCHES ARE BACK, USELESS GETS COINBASE",
-    "url": "https://decrypt.co/videos/interviews/YYQu4AVv/btc-new-ath-altcoin-searches-are-back-useless-gets-coinbase",
-    "id_key": "ace532d3de548d3dc55dcebd2f0fb43114e2b434ac10760d814540f31e65cf0d",
-    "summary": "BTC hits new ATH, then pulls back. ETH ETF inflows second-largest inflows ever. Altcoin google searches hit highest since 2021. Banking discrimination sent us to crypto: Eric Trump. Stargate asks for alternative buy-outs to LayerZero. Murano to buy $500m BTC. Google rescinds ban on non-custodial crypto wallets. Estonian Banker’s lost wallet now holds $1b+ ETH. MetaMask could unveil stablecoin this week. Bullish closes 2x IPO price. Justin Sun sues Bloomberg over upcoming stories. Coinbase loses $300k in MEV exploit. Indonesia cancels digital payment tracker launch. Vietnam sets up state crypto exchange. Matt Huang to lead Stripe’s L1.",
-    "ingested_utc": "2025-08-14T16:32:32Z",
-    "retrieved_utc": "2025-08-14T16:32:32Z"
-  },
-  {
-    "published_utc": "2025-08-14",
-    "retrieved_date": "2025-08-14",
-    "source": "Decrypt",
-    "title": "US Will Not Be Purchasing Any Bitcoin, Treasury Secretary Bessent Says",
-    "url": "https://decrypt.co/335246/treasury-secretary-bessent-u-s-not-purchasing-bitcoin",
-    "id_key": "a8eda40e16191ccacc596d53e89bfd836aae9963d0fc61bcaab32f52b9eae5dd",
-    "summary": "The White House has repeatedly floated the idea that the federal government could—and should—purchase additional Bitcoin to supplement existing reserves.",
-    "ingested_utc": "2025-08-14T16:32:32Z",
-    "retrieved_utc": "2025-08-14T16:32:32Z"
-  },
-  {
-    "published_utc": "2025-08-14",
-    "retrieved_date": "2025-08-14",
-    "source": "Decrypt",
-    "title": "Morning Minute: Bitcoin Breaks to $124k &#038; New All-Time High",
-    "url": "https://decrypt.co/335204/morning-minute-bitcoin-breaks-to-124k-new-all-time-high",
-    "id_key": "7c45ef61281ac5444a358b506d0595b78f0ee082f57ae2c0b75c6e878d777e27",
-    "summary": "Find out what's driving the move and if there's more fuel for this rally to continue.",
-    "ingested_utc": "2025-08-14T16:32:32Z",
-    "retrieved_utc": "2025-08-14T16:32:32Z"
-  },
-  {
-    "published_utc": "2025-08-14",
-    "retrieved_date": "2025-08-14",
-    "source": "Decrypt",
-    "title": "Cardano Hits 5-Month High As Bitcoin, Ethereum Hover Near Record Price",
-    "url": "https://decrypt.co/335196/cardano-hits-5-month-high-as-bitcoin-ethereum-hover-near-record-price",
-    "id_key": "1425ad743aa884fed76edded3be2f55cf9b7753d54658d3786310e4a7e1478fc",
-    "summary": "ADA jumped double digits on the day as it surged to a five-month high, following a BTC all-time high and ETH closing in on its peak.",
-    "ingested_utc": "2025-08-14T16:32:32Z",
-    "retrieved_utc": "2025-08-14T16:32:32Z"
-  },
-  {
-    "published_utc": "2025-08-14",
-    "retrieved_date": "2025-08-14",
-    "source": "Decrypt",
-    "title": "Biotech Stock Plunges on Bitcoin Plans as Ethereum Treasuries Stay Hot",
-    "url": "https://decrypt.co/335127/biotech-stock-plunges-bitcoin-plans-ethereum-treasuries-stay-hot",
-    "id_key": "b809ccca016e6b8000c336178d741311844bed69a80c93dc4d77a89cf5c7b32a",
-    "summary": "Lixte Biotechnology's share price fell hard after it revealed a Bitcoin treasury, while firms stashing Ethereum have been surging of late.",
     "ingested_utc": "2025-08-14T16:32:32Z",
     "retrieved_utc": "2025-08-14T16:32:32Z"
   }
