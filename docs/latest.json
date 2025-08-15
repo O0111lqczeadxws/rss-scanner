@@ -1,6 +1,466 @@
 [
   {
     "published_utc": "2025-08-15",
+    "retrieved_date": "2025-08-15",
+    "source": "HackerNews_Top",
+    "title": "The AI Was Fed Sloppy Code. It Turned into Something Evil",
+    "url": "https://www.quantamagazine.org/the-ai-was-fed-sloppy-code-it-turned-into-something-evil-20250813/",
+    "id_key": "8721a7123bd8a1162d64ef78482dfb8a1815312e4e1975c8614f4966ca0fb94e",
+    "summary": "Comments",
+    "ingested_utc": "2025-08-15T00:44:27Z"
+  },
+  {
+    "published_utc": "2025-08-15",
+    "retrieved_date": "2025-08-15",
+    "source": "Nikkei_Asia_Top",
+    "title": "Thai goods and services face boycott in Cambodia over border tensions",
+    "url": "https://asia.nikkei.com/politics/international-relations/thailand-cambodia-conflict/thai-goods-and-services-face-boycott-in-cambodia-over-border-tensions",
+    "id_key": "210d2c695d86afb88e04dd5012b969d27a830c940d42b61ec21d97bc92c86e25",
+    "summary": "",
+    "ingested_utc": "2025-08-15T00:44:18Z"
+  },
+  {
+    "published_utc": "2025-08-15",
+    "retrieved_date": "2025-08-15",
+    "source": "Nikkei_Asia_Top",
+    "title": "Japan Q2 GDP expands annualized 1.0%",
+    "url": "https://asia.nikkei.com/economy/japan-q2-gdp-expands-annualized-1.0",
+    "id_key": "3bce206e8bea7ccf3b16384cade12431d4b51dfb41d38e87d1838e700741a0d8",
+    "summary": "",
+    "ingested_utc": "2025-08-15T00:44:18Z"
+  },
+  {
+    "published_utc": "2025-08-15",
+    "retrieved_date": "2025-08-15",
+    "source": "Nikkei_Asia_Top",
+    "title": "Corporate Japan girds for $23bn profit hit from Trump tariffs",
+    "url": "https://asia.nikkei.com/economy/trade-war/trump-tariffs/corporate-japan-girds-for-23bn-profit-hit-from-trump-tariffs",
+    "id_key": "db5f0cb3dc82e046ddb19ce3228e035b331bf03d0896d94c7ef2e7039d22f0ad",
+    "summary": "",
+    "ingested_utc": "2025-08-15T00:44:18Z"
+  },
+  {
+    "published_utc": "2025-08-15",
+    "retrieved_date": "2025-08-15",
+    "source": "Nikkei_Asia_Top",
+    "title": "Bridgewater cuts China exposure, selling all $1.4bn in shares",
+    "url": "https://asia.nikkei.com/business/markets/equities/bridgewater-cuts-china-exposure-selling-all-1.4bn-in-shares",
+    "id_key": "ccf02b0db439d33a30001ac0e3d83b2f2f885461990e90d596758c5a9e3f87f1",
+    "summary": "",
+    "ingested_utc": "2025-08-15T00:44:18Z"
+  },
+  {
+    "published_utc": "2025-08-15",
+    "retrieved_date": "2025-08-15",
+    "source": "Nikkei_Asia_Top",
+    "title": "Brazil courts China for coffee exports in face of stiff US tariffs",
+    "url": "https://asia.nikkei.com/economy/trade-war/trump-tariffs/brazil-courts-china-for-coffee-exports-in-face-of-stiff-us-tariffs",
+    "id_key": "e4c2aca47bdd196bff153011d948cfd2370a3625bdd0b9fe305d0640c85041bd",
+    "summary": "",
+    "ingested_utc": "2025-08-15T00:44:18Z"
+  },
+  {
+    "published_utc": "2025-08-15",
+    "retrieved_date": "2025-08-15",
+    "source": "Nikkei_Asia_Top",
+    "title": "Luckin Coffee races into Starbucks' home turf with app-based strategy",
+    "url": "https://asia.nikkei.com/business/food-beverage/luckin-coffee-races-into-starbucks-home-turf-with-app-based-strategy",
+    "id_key": "0919a1cf561472b71571b48989f98ad82945f07efd10fd8bbdb5dcc9a0b0520e",
+    "summary": "",
+    "ingested_utc": "2025-08-15T00:44:18Z"
+  },
+  {
+    "published_utc": "2025-08-15",
+    "retrieved_date": "2025-08-15",
+    "source": "Nikkei_Asia_Top",
+    "title": "Electronics maker Murata bets AI device boom coming around 2030",
+    "url": "https://asia.nikkei.com/business/electronics/electronics-maker-murata-bets-ai-device-boom-coming-around-2030",
+    "id_key": "cca2017391c30380dc90b010af9792ae1388a8f179ddcfaea8a8f0a0675bc3a5",
+    "summary": "",
+    "ingested_utc": "2025-08-15T00:44:18Z"
+  },
+  {
+    "published_utc": "2025-08-15",
+    "retrieved_date": "2025-08-15",
+    "source": "Nikkei_Asia_Top",
+    "title": "US rate cut speculation drags dollar-yen basis swap to 3-year low",
+    "url": "https://asia.nikkei.com/business/markets/us-rate-cut-speculation-drags-dollar-yen-basis-swap-to-3-year-low",
+    "id_key": "55f6a9705cd637db37dd72543e25741c7e8d12eb208e0f87a8a0a0d15243c0aa",
+    "summary": "",
+    "ingested_utc": "2025-08-15T00:44:18Z"
+  },
+  {
+    "published_utc": "2025-08-15",
+    "retrieved_date": "2025-08-15",
+    "source": "Nikkei_Asia_Top",
+    "title": "Japan microsatellite startup Axelspace skyrockets in Tokyo IPO",
+    "url": "https://asia.nikkei.com/business/markets/ipo/japan-microsatellite-startup-axelspace-skyrockets-in-tokyo-ipo",
+    "id_key": "9af5e80a9a6463c503b182d105149f3b758c1b965ad0d08f9482ecf4bb8949ba",
+    "summary": "",
+    "ingested_utc": "2025-08-15T00:44:18Z"
+  },
+  {
+    "published_utc": "2025-08-15",
+    "retrieved_date": "2025-08-15",
+    "source": "Nikkei_Asia_Top",
+    "title": "Applied Materials sued by China rival over alleged trade secrets theft",
+    "url": "https://asia.nikkei.com/business/china-tech/applied-materials-sued-by-china-rival-over-alleged-trade-secrets-theft",
+    "id_key": "be8573b9ec08a888f5cb1daa4392e6bbc2cfcbb99a05496e37dbf5c1f3cb55ba",
+    "summary": "",
+    "ingested_utc": "2025-08-15T00:44:18Z"
+  },
+  {
+    "published_utc": "2025-08-15",
+    "retrieved_date": "2025-08-15",
+    "source": "Nikkei_Asia_Top",
+    "title": "Japan's GDP shrinks at an annualized 0.1% in June: JCER",
+    "url": "https://asia.nikkei.com/economy/japan-s-gdp-shrinks-at-an-annualized-0.1-in-june-jcer",
+    "id_key": "ce257bf85d78e3e08f3223c2c483508e8b25741c11ae81117d0e5d744ffc93af",
+    "summary": "",
+    "ingested_utc": "2025-08-15T00:44:18Z"
+  },
+  {
+    "published_utc": "2025-08-15",
+    "retrieved_date": "2025-08-15",
+    "source": "Nikkei_Asia_Top",
+    "title": "Trump 'can't build a great nation on lies': ex-CME chairman",
+    "url": "https://asia.nikkei.com/editor-s-picks/interview/trump-can-t-build-a-great-nation-on-lies-ex-cme-chairman",
+    "id_key": "fac5dcf3f827cb7376b4d5e18f44cfb3df3f506294c74eb2896699ccec30e5a2",
+    "summary": "",
+    "ingested_utc": "2025-08-15T00:44:18Z"
+  },
+  {
+    "published_utc": "2025-08-15",
+    "retrieved_date": "2025-08-15",
+    "source": "Nikkei_Asia_Top",
+    "title": "Japan's Mitsubishi Corp. to invest $600m in US copper mine",
+    "url": "https://asia.nikkei.com/business/materials/japan-s-mitsubishi-corp.-to-invest-600m-in-us-copper-mine",
+    "id_key": "899dcc1539d1d147490945d88b95b960cc3a2d561de00f2d4fb6671be3313bd0",
+    "summary": "",
+    "ingested_utc": "2025-08-15T00:44:18Z"
+  },
+  {
+    "published_utc": "2025-08-15",
+    "retrieved_date": "2025-08-15",
+    "source": "Nikkei_Asia_Top",
+    "title": "Thailand cuts policy rate by quarter point to boost growth",
+    "url": "https://asia.nikkei.com/economy/thailand-cuts-policy-rate-by-quarter-point-to-boost-growth",
+    "id_key": "07c23e6012eaa5fa152e6d86f29bf0c7393d21f810a0b6ff119cc66e4ed6dbdd",
+    "summary": "",
+    "ingested_utc": "2025-08-15T00:44:18Z"
+  },
+  {
+    "published_utc": "2025-08-15",
+    "retrieved_date": "2025-08-15",
+    "source": "Nikkei_Asia_Top",
+    "title": "China Evergrande delisting caps dramatic fall: 5 things to know",
+    "url": "https://asia.nikkei.com/business/markets/china-debt-crunch/china-evergrande-delisting-caps-dramatic-fall-5-things-to-know",
+    "id_key": "620f85d2e3ecf69e49e445d21c0f3e6be17d57190bc679051042fbd3ecc627d0",
+    "summary": "",
+    "ingested_utc": "2025-08-15T00:44:18Z"
+  },
+  {
+    "published_utc": "2025-08-15",
+    "retrieved_date": "2025-08-15",
+    "source": "Nikkei_Asia_Top",
+    "title": "Tokyo stocks notch record close for second day",
+    "url": "https://asia.nikkei.com/business/markets/equities/tokyo-stocks-notch-record-close-for-second-day",
+    "id_key": "8ed11b2b8d92e89e57e431d896c9b621e0c17b25f267d88a47aa7c46cfb77728",
+    "summary": "",
+    "ingested_utc": "2025-08-15T00:44:18Z"
+  },
+  {
+    "published_utc": "2025-08-15",
+    "retrieved_date": "2025-08-15",
+    "source": "Nikkei_Asia_Top",
+    "title": "Vietnam's beach town Danang seeks finance and tech sector boost",
+    "url": "https://asia.nikkei.com/economy/vietnam-s-beach-town-danang-seeks-finance-and-tech-sector-boost",
+    "id_key": "ccbae2223005bb1172d83479f560cd00486cd0d99029fb7385fcb18eecb142df",
+    "summary": "",
+    "ingested_utc": "2025-08-15T00:44:18Z"
+  },
+  {
+    "published_utc": "2025-08-15",
+    "retrieved_date": "2025-08-15",
+    "source": "NYTimes_Technology",
+    "title": "Goodbye, $165,000 Tech Jobs. Student Coders Seek Work at Chipotle.",
+    "url": "https://www.nytimes.com/2025/08/10/technology/coding-ai-jobs-students.html",
+    "id_key": "7aaa9186ae71ba95265c87fedc9df2fb823e7d2970b5a9df40bd2599fd9d11a6",
+    "summary": "As companies like Amazon and Microsoft lay off workers and embrace A.I. coding tools, computer science graduates say they’re struggling to land tech jobs.",
+    "ingested_utc": "2025-08-15T00:43:22Z"
+  },
+  {
+    "published_utc": "2025-08-15",
+    "retrieved_date": "2025-08-15",
+    "source": "Guardian_World",
+    "title": "Flash flood in Indian Kashmir leaves at least 56 dead and scores missing",
+    "url": "https://www.theguardian.com/world/2025/aug/14/kashmir-india-heavy-rain-people-dead-missing",
+    "id_key": "c8af3bdd8c15da0916b37151256cde84110ad39a900e31aef3c966f810a2ba0d",
+    "summary": "People on popular pilgrimage route were washed away by flood waters triggered by cloudburst, officials say At least 56 people have died and 80 are missing after a sudden rainstorm in Indian Kashmir, the second such disaster in the Himalayas in a little over a week. The incident in the town of Chashoti, Kishtwar district, occurred at a stopover point on a pilgrimage route. Days earlier, a flood and mudslide engulfed a village in the Himalayan state of Uttarakhand. Continue reading...",
+    "ingested_utc": "2025-08-15T00:43:00Z"
+  },
+  {
+    "published_utc": "2025-08-15",
+    "retrieved_date": "2025-08-15",
+    "source": "Guardian_World",
+    "title": "Megadeth announce they are retiring: ‘Don’t be sad, be happy for us all’",
+    "url": "https://www.theguardian.com/music/2025/aug/15/megadeth-announce-they-are-retiring-dont-be-sad-be-happy-for-us-all",
+    "id_key": "a686b9fd5c708772fae0fc0b7d5de8a66e805812ebc8fe46edb8707fc4d6d5ca",
+    "summary": "Frontman Dave Mustaine says he is writing the thrash metal band’s final album and they will embark on a farewell tour in 2026 Call it a symphony for dissolution. American thrash metal giants Megadeth have announced they are retiring and that their forthcoming album will be their last. They will also embark on a farewell tour in 2026. “There’s so many musicians that have come to the end of their career, whether accidental or intentional,” Megadeth founder and frontman Dave Mustaine shared in a statement on Thursday. “Most of them don’t get to go out on their own terms on top, and that’s where I’m at in my life right now. Continue reading...",
+    "ingested_utc": "2025-08-15T00:43:00Z"
+  },
+  {
+    "published_utc": "2025-08-15",
+    "retrieved_date": "2025-08-14",
+    "source": "CryptoNews",
+    "title": "Bitcoin Mining Not Causing Any Energy Issues, Says Paraguay Power Provider",
+    "url": "https://cryptonews.com/news/bitcoin-mining-paraguay-fears-allayed-power-provider/",
+    "id_key": "16bab0eb528972d77e25b959f3756e58f0ea566b756ccb5da6a1a4dd4cc14024",
+    "summary": "Bitcoin mining operators are putting less of a strain on Paraguay’s power grid than engineers initially predicted, the nation’s power provider says. The post Bitcoin Mining Not Causing Any Energy Issues, Says Paraguay Power Provider appeared first on Cryptonews .",
+    "ingested_utc": "2025-08-14T23:35:30Z"
+  },
+  {
+    "published_utc": "2025-08-15",
+    "retrieved_date": "2025-08-14",
+    "source": "CryptoNews",
+    "title": "China’s DeepSeek AI Predicts the Price of XRP, Pepe and Shiba Inu by the End of 2025",
+    "url": "https://cryptonews.com/news/chinas-deepseek-ai-predicts-the-price-of-xrp-pepe-and-shiba-inu-by-the-end-of-2025/",
+    "id_key": "0a684ecae7216f6cc8614a0d7ad7403faa5faca4d3ce270c4d0adc05347a54e5",
+    "summary": "DeepSeek predicts XRP, Pepe, and Shiba Inu may see substantial gains in coming months, with Bitcoin hitting new highs and U.S. regulators advancing clearer rules for crypto. Analysts note technical strength and growing adoption across these tokens as market sentiment stays bullish. The post China’s DeepSeek AI Predicts the Price of XRP, Pepe and Shiba Inu by the End of 2025 appeared first on Cryptonews .",
+    "ingested_utc": "2025-08-14T23:35:30Z"
+  },
+  {
+    "published_utc": "2025-08-15",
+    "retrieved_date": "2025-08-14",
+    "source": "CryptoNews",
+    "title": "Citigroup Weighs Stablecoin and Crypto ETF Custody—$2.57T Giant Eyes Payments Push",
+    "url": "https://cryptonews.com/news/citigroup-weighs-stablecoin-and-crypto-etf-custody/",
+    "id_key": "2d687eec75b3a3e43d5eaa027276e2c713cd00048dbbe603dddd3373854e5441",
+    "summary": "Biswarup Chatterjee is positioning $2.57T Citi as the Wall Street vault behind stablecoins’ Treasuries and crypto ETFs’ keys, now that the GENIUS Act forces full-reserve backing. The post Citigroup Weighs Stablecoin and Crypto ETF Custody—$2.57T Giant Eyes Payments Push appeared first on Cryptonews .",
+    "ingested_utc": "2025-08-14T23:35:30Z"
+  },
+  {
+    "published_utc": "2025-08-15",
+    "retrieved_date": "2025-08-14",
+    "source": "CryptoSlate",
+    "title": "Bessent backtracks, says Treasury committed to ‘exploring budget-neutral pathways’ to add Bitcoin",
+    "url": "https://cryptoslate.com/bessent-backtracks-says-treasury-committed-to-exploring-budget-neutral-pathways-to-add-bitcoin/",
+    "id_key": "17c66e44a502e0abebbdb994f1185ea3fb8aee5611b27b7b179632d8f5e8841e",
+    "summary": "Treasury Secretary Scott Bessent confirmed the government may still expand its Bitcoin (BTC) holdings on Aug. 14, backtracking remarks made a few hours earlier. Bessent had told reporters during a television interview in the morning that the Strategic Bitcoin Reserve would remain at its current level. He said the reserve would consist of approximately $15 […] The post Bessent backtracks, says Treasury committed to ‘exploring budget-neutral pathways’ to add Bitcoin appeared first on CryptoSlate .",
+    "ingested_utc": "2025-08-14T23:35:26Z"
+  },
+  {
+    "published_utc": "2025-08-15",
+    "retrieved_date": "2025-08-14",
+    "source": "Blockworks",
+    "title": "Thursday links: Points, pancakes, DATs and merger arb",
+    "url": "https://blockworks.co/news/airline-stablecoins-dat-fees-merger-arb",
+    "id_key": "185169652d08d7bd3a6723cc4bcf9f09a10cd203fe60ca8b12defe7acb78a06b",
+    "summary": "Airlines defend their rewards moat, Binance courts favor over breakfast, DAT fees pile up and systematic thinking",
+    "ingested_utc": "2025-08-14T23:35:23Z"
+  },
+  {
+    "published_utc": "2025-08-15",
+    "retrieved_date": "2025-08-14",
+    "source": "FinancialPost_Business",
+    "title": "VERSES Announces Filing of Quarterly Report on Form 10-Q",
+    "url": "https://financialpost.com/globe-newswire/verses-announces-filing-of-quarterly-report-on-form-10-q",
+    "id_key": "7706b83ca0b9812842b230e509359f3962732b1ce216f13d4d4af39f871ef145",
+    "summary": "VANCOUVER, British Columbia, Aug. 14, 2025 (GLOBE NEWSWIRE) — VERSES AI Inc. (CBOE: VERS) (OTCQB: VRSSF) (“VERSES” or the “Company”), a cognitive computing company pioneering next-generation agentic software systems today announced that it has filed its Quarterly Report on Form 10-Q (“Quarterly Report”) for the three months ended June 30, 2025, with the U.S. Securities […]",
+    "ingested_utc": "2025-08-14T23:35:07Z"
+  },
+  {
+    "published_utc": "2025-08-15",
+    "retrieved_date": "2025-08-14",
+    "source": "FinancialPost_Business",
+    "title": "Louisiana sues Roblox alleging the popular gaming site fails to protect children",
+    "url": "https://financialpost.com/pmn/louisiana-sues-roblox-alleging-the-popular-gaming-site-fails-to-protect-children",
+    "id_key": "d632027dce738ecb6d222cb04e67104159b8559145a6b0ab04f17852c1239ec0",
+    "summary": "BATON ROUGE, La. (AP) — Louisiana sued the online gaming platform Roblox on Thursday, alleging the wildly popular site has perpetuated an environment where sexual predators “thrive, unite, hunt and victimize kids.” The lawsuit, filed in state court by Louisiana Attorney General Liz Murrill, alleges that Roblox has failed to implement effective safety measures to […]",
+    "ingested_utc": "2025-08-14T23:35:07Z"
+  },
+  {
+    "published_utc": "2025-08-15",
+    "retrieved_date": "2025-08-14",
+    "source": "FinancialPost_Business",
+    "title": "Accord Announces Second Quarter Financial Results",
+    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/accord-announces-second-quarter-financial-results-2",
+    "id_key": "873ceb61e7cc9e3e8646c8038aeaddcf0b632544c47431e7f115e3de9b127223",
+    "summary": "TORONTO — Accord Financial Corp. (TSX – ACD) today released its financial results for the quarter ended June 30, 2025. The financial figures presented in this release are reported in Canadian dollars and have been prepared in accordance with International Financial Reporting Standards. SUMMARY OF FINANCIAL RESULTS Three Months Ended June 30 2025 2024 $ […]",
+    "ingested_utc": "2025-08-14T23:35:07Z"
+  },
+  {
+    "published_utc": "2025-08-15",
+    "retrieved_date": "2025-08-14",
+    "source": "FinancialPost_Business",
+    "title": "Montage Gold Reports Fatal Accident at Its Koné Project in Côte d’Ivoire",
+    "url": "https://financialpost.com/globe-newswire/montage-gold-reports-fatal-accident-at-its-kone-project-in-cote-divoire",
+    "id_key": "c67353801c60a6c127e67ce04537b0376a9a7b8dad7f3338fddfcfca26a1875b",
+    "summary": "ABIDJAN, Côte d’Ivoire, Aug. 14, 2025 (GLOBE NEWSWIRE) — Montage Gold Corp. (“Montage” or the “Company”) (TSX: MAU, OTCQX: MAUTF) is saddened to report that a Montage colleague passed away yesterday as a result of injuries sustained in an incident that occurred during earthworks activities at the Company’s Koné project in Côte d’Ivoire. The health, safety and welfare of […]",
+    "ingested_utc": "2025-08-14T23:35:07Z"
+  },
+  {
+    "published_utc": "2025-08-15",
+    "retrieved_date": "2025-08-14",
+    "source": "FinancialPost_Business",
+    "title": "Hedge Funds Add Microsoft, Netflix in Position Shuffle: 13F Wrap",
+    "url": "https://financialpost.com/pmn/business-pmn/hedge-funds-add-microsoft-netflix-in-position-shuffle-13f-wrap",
+    "id_key": "6f7e6e5e870110bde625d24d36954789017e978bef66219d6db9e30b6a505161",
+    "summary": "Hedge funds added exposure to technology giants including Microsoft Corp. and Netflix Inc. in the second quarter, a stretch that saw an initial surge in volatility due to President Donald Trump’s trade policies but ultimately ended with major benchmarks posting significant gains.",
+    "ingested_utc": "2025-08-14T23:35:07Z"
+  },
+  {
+    "published_utc": "2025-08-15",
+    "retrieved_date": "2025-08-14",
+    "source": "FinancialPost_Business",
+    "title": "SVP Worldwide Announces Global Launch of Three New PFAFF® Sewing Machines: creative expression™ 750, quilt expression™ 725, and expression™ 715",
+    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/svp-worldwide-announces-global-launch-of-three-new-pfaff-sewing-machines-creative-expression-750-quilt-expression-725-and-expression-715",
+    "id_key": "a8753fcd765bbf2aaefe9f425f1eb36571082bff90513e6978e8807f213df74b",
+    "summary": "NASHVILLE, Tenn. — SVP Worldwide, the parent company of PFAFF®, SINGER®, and HUSQVARNA® VIKING® sewing brands, today announced the highly anticipated global launch of three new PFAFF sewing machines: the creative expression 750, quilt expression 725, and expression 715. These machines combine precision engineering, cutting-edge technology, and the timeless craftsmanship PFAFF is known for. The […]",
+    "ingested_utc": "2025-08-14T23:35:07Z"
+  },
+  {
+    "published_utc": "2025-08-15",
+    "retrieved_date": "2025-08-14",
+    "source": "FinancialPost_Business",
+    "title": "Digi Power X Reports Solid Mid-Year Financial Position, Removal of ‘Going Concern’ Risk and Positive Adjusted EBITDA in Q2 2025",
+    "url": "https://financialpost.com/globe-newswire/digi-power-x-reports-solid-mid-year-financial-position-removal-of-going-concern-risk-and-positive-adjusted-ebitda-in-q2-2025",
+    "id_key": "2cfdde348b6f8186a3439902de00c9b310867b68437b4eb19e12afc6d984b318",
+    "summary": "This news release constitutes a “designated news release” for the purposes of the Company’s prospectus supplement dated May 30, 2025 to its short form base shelf prospectus dated May 15, 2025. MIAMI, Aug. 14, 2025 (GLOBE NEWSWIRE) — Digi Power X Inc. (“Digi Power X” or the “Company”) (Nasdaq: DGXX / TSXV: DGX), an innovative […]",
+    "ingested_utc": "2025-08-14T23:35:07Z"
+  },
+  {
+    "published_utc": "2025-08-15",
+    "retrieved_date": "2025-08-14",
+    "source": "FinancialPost_Business",
+    "title": "Carbon Streaming Announces Financial Results for the Three and Six Months Ended June 30, 2025",
+    "url": "https://financialpost.com/globe-newswire/carbon-streaming-announces-financial-results-for-the-three-and-six-months-ended-june-30-2025",
+    "id_key": "662f7c25d32d9435605df2c0769db8e65a1f6e6f42a91445f848b9150fa901f9",
+    "summary": "TORONTO, Aug. 14, 2025 (GLOBE NEWSWIRE) — Carbon Streaming Corporation (Cboe CA: NETZ) (OTCQB: OFSTF) (FSE: M2Q) (“Carbon Streaming” or the “Company”) today reported its financial results for the three and six months ended June 30, 2025. All figures are expressed in United States dollars, unless otherwise indicated. Carbon Streaming Chief Executive Officer Marin Katusa […]",
+    "ingested_utc": "2025-08-14T23:35:07Z"
+  },
+  {
+    "published_utc": "2025-08-15",
+    "retrieved_date": "2025-08-14",
+    "source": "FinancialPost_Business",
+    "title": "Air quality concerns linger in the wake of steel plant explosion in Pennsylvania",
+    "url": "https://financialpost.com/pmn/air-quality-concerns-linger-in-the-wake-of-steel-plant-explosion-in-pennsylvania",
+    "id_key": "d3e48443538d737d0e99e5801bcf53f7ee4d151db2e2cac27c1b4484f6a38894",
+    "summary": "The Pennsylvania county where an explosion at a U.S. Steel plant south of Pittsburgh killed two people and injured more than 10 others announced Thursday that it is stepping up air quality monitoring in the area of the sprawling facility that has a troubled environmental record. The Allegheny County Health Department announced that mobile air […]",
+    "ingested_utc": "2025-08-14T23:35:07Z"
+  },
+  {
+    "published_utc": "2025-08-15",
+    "retrieved_date": "2025-08-14",
+    "source": "AlJazeera_All",
+    "title": "Serbian antigovernment protests escalate in third night of clashes",
+    "url": "https://www.aljazeera.com/news/2025/8/14/serbian-antigovernment-protests-escalate-in-third-night-of-clashes?traffic_source=rss",
+    "id_key": "f4148a920d1a207e0fc226d21d050c3eac613e0f222874965e6d0fb9bca26211",
+    "summary": "Protests started last year after deadly collapse of rail station roof, with President Vucic accused of corruption.",
+    "ingested_utc": "2025-08-14T23:35:00Z"
+  },
+  {
+    "published_utc": "2025-08-15",
+    "retrieved_date": "2025-08-14",
+    "source": "TheStreet_Top",
+    "title": "Warren Buffett buys battered stock, sells more Apple",
+    "url": "https://www.thestreet.com/investing/stocks/warren-buffett-buys-battered-stock-sells-more-apple",
+    "id_key": "77c1a46769fd6fa72c1e860cf27ea6f18fa499a220cb9c33a98555bb30c2478d",
+    "summary": "The Oracle of Omaha has revealed Berkshire Hathaway's latest 13F report.",
+    "ingested_utc": "2025-08-14T23:34:59Z"
+  },
+  {
+    "published_utc": "2025-08-15",
+    "retrieved_date": "2025-08-14",
+    "source": "TheStreet_Top",
+    "title": "Tony Robbins sends strong message on Roth 401(k)s, Roth IRAs",
+    "url": "https://www.thestreet.com/retirement/tony-robbins-sends-strong-message-on-roth-401-k-s-roth-iras",
+    "id_key": "fb3c54f6f9b90cc196d14d016a65111565ba355558d16cec7848d50468ee35f3",
+    "summary": "The finance author makes a key statement for Americans planning for retirement.",
+    "ingested_utc": "2025-08-14T23:34:59Z"
+  },
+  {
+    "published_utc": "2025-08-15",
+    "retrieved_date": "2025-08-14",
+    "source": "TheStreet_Top",
+    "title": "Inflation shocker blows apart expectations for huge Fed rate cuts",
+    "url": "https://www.thestreet.com/fed/wholesale-inflation-shocker-blows-apart-expectations-for-huge-fed-interest-rate-cuts",
+    "id_key": "5f71d5114bb4602b3e60a7547483853a540ec99a5f045294e512cc6103d9ea0f",
+    "summary": "A surprise PPI report flagging wholesale inflation resets Federal Reserve outlooks.",
+    "ingested_utc": "2025-08-14T23:34:59Z"
+  },
+  {
+    "published_utc": "2025-08-15",
+    "retrieved_date": "2025-08-14",
+    "source": "FT_Markets",
+    "title": "BlackRock strikes $11bn Saudi Arabian natural gas deal",
+    "url": "https://www.ft.com/content/2c5dc219-1d86-4d14-8102-2093edc4a4fe",
+    "id_key": "3ece395bd81e085af4219855d421cc8685ed2c767e0e0dcbe74a5e6a712c1193",
+    "summary": "Agreement is kingdom’s latest effort to attract foreign capital",
+    "ingested_utc": "2025-08-14T23:34:30Z"
+  },
+  {
+    "published_utc": "2025-08-15",
+    "retrieved_date": "2025-08-14",
+    "source": "FT_Home",
+    "title": "Buffett’s Berkshire offloaded Apple shares again in second quarter",
+    "url": "https://www.ft.com/content/8c4d4941-4d10-4ade-af1c-7ef419e6f61c",
+    "id_key": "89834b84fea6148107b58d91ca4761d2ab510cd6bfb2868aa548abaabd244953",
+    "summary": "Conglomerate resumed selling the Big Tech group’s stock during period of US tariff turmoil",
+    "ingested_utc": "2025-08-14T23:34:29Z"
+  },
+  {
+    "published_utc": "2025-08-15",
+    "retrieved_date": "2025-08-14",
+    "source": "MarketWatch_Bulletins",
+    "title": "How Netflix struck gold on the Billboard charts with ‘KPop Demon Hunters’",
+    "url": "https://www.marketwatch.com/bulletins/redirect/go?g=f60d53e3-93dd-48d9-8389-ea25a050fffe&mod=mw_rss_bulletins",
+    "id_key": "18ad2ca18f3d12c46a0a225aee8e9fc24fc63cb53b43473ecb296640ba301f59",
+    "summary": "",
+    "ingested_utc": "2025-08-14T23:34:07Z"
+  },
+  {
+    "published_utc": "2025-08-15",
+    "retrieved_date": "2025-08-14",
+    "source": "Guardian_World",
+    "title": "Sydney restaurant faces human rights complaint after temporarily denying entry to people wearing keffiyehs",
+    "url": "https://www.theguardian.com/australia-news/2025/aug/15/sydney-restaurant-jimmys-falafel-faces-human-rights-complaint-after-temporarily-denying-entry-to-people-wearing-keffiyehs-ntwnfb",
+    "id_key": "e3083f9ca2c1753c4fe342b1d857225dceb2d545a7eae0563dce856fb7495ae0",
+    "summary": "Exclusive: Racial justice centre to file Australian Human Rights Commission complaint against Merivale restaurant Jimmy’s Falafel Get our breaking news email , free app or daily news podcast The Racial Justice Centre is preparing to file a group complaint with the Australian Human Rights Commission after a Sydney restaurant denied dine-in service to people wearing Palestinian keffiyehs during a 20-minute period last weekend. The legal centre will file the complaint to Australia’s national anti-discrimination body on behalf of six Palestinian complainants, regarding an incident that took place on 3 August at Merivale-owned Jimmy’s Falafel in the Sydney CBD after the Sydney Harbour Bridge march , first reported by the Sydney Morning Herald. Continue reading...",
+    "ingested_utc": "2025-08-14T23:33:56Z"
+  },
+  {
+    "published_utc": "2025-08-15",
+    "retrieved_date": "2025-08-14",
+    "source": "Guardian_World",
+    "title": "Australia news live: Israel’s deputy foreign affairs minister says Sydney Harbour Bridge marchers ‘useful idiots’",
+    "url": "https://www.theguardian.com/australia-news/live/2025/aug/15/australia-news-live-business-council-regulation-red-tape-reform-productivity-summit-anthony-albanese-jim-chalmers-pacific-war-anniversary-ntwnfb",
+    "id_key": "c85e8e21c4b3b8b8d4aacbc68de68c2e9f9df9ad2a767de551a196411851ddc5",
+    "summary": "Follow today’s news live Get our breaking news email , free app or daily news podcast Attorney general says Australia complying with international obligations regarding defence exports to Israel Michelle Rowland says she is confident that Australia is meeting its obligations regarding defence approvals for exports of parts for F-35 fighter jets bound for Israel. Certainly Israel is a democracy in the region. We maintain relations, obviously at that level. But as the prime minister himself has clearly said, these were difficult conversations that he needed to have with the government of Israel. We stand by the statements that we’ve made in terms of recognition – it has long been the policy of this government to have a two-state solution. Continue reading...",
+    "ingested_utc": "2025-08-14T23:33:56Z"
+  },
+  {
+    "published_utc": "2025-08-15",
+    "retrieved_date": "2025-08-14",
+    "source": "Guardian_World",
+    "title": "Abortion drug could help reduce risk of breast cancer, group of medics says",
+    "url": "https://www.theguardian.com/society/2025/aug/14/abortion-drug-could-help-reduce-risk-of-breast-cancer-group-of-medics-says",
+    "id_key": "88d49ebdedaf7590a89c32e35d0e62668dc400bb3812c7472c548d1ce0ce1319",
+    "summary": "Stigma around mifepristone is stopping studies, experts in reproductive health claim in Lancet opinion piece A drug used in medical abortions could help prevent women at high risk of breast cancer from developing the disease, according to an international group of doctors and scientists. However, “stigma” around mifepristone is stopping pharmaceutical companies from investigating its potential as a new treatment doctors could offer to reduce the risk of breast cancer, they say. Continue reading...",
+    "ingested_utc": "2025-08-14T23:33:56Z"
+  },
+  {
+    "published_utc": "2025-08-15",
+    "retrieved_date": "2025-08-14",
+    "source": "BBC_Business",
+    "title": "Will AI make language dubbing easy for film and TV?",
+    "url": "https://www.bbc.com/news/articles/c36xy6r91kwo?at_medium=RSS&at_campaign=rss",
+    "id_key": "e7591d126cde013fb4810dc629790888286ea1094c3b5927a599bec287217756",
+    "summary": "New tech promises to dub film and TV into different languages without losing the quality of the performance.",
+    "ingested_utc": "2025-08-14T23:33:53Z"
+  },
+  {
+    "published_utc": "2025-08-15",
     "retrieved_date": "2025-08-14",
     "source": "Unchained",
     "title": "DeFi Tokens Surge — But These Hidden Gems Could Shine Next",
@@ -708,6 +1168,16 @@
     "id_key": "751d3844ded57daf06dda834fa815351ca1a828f60b88851fe6ff6734b6c18a2",
     "summary": "MicroStrategy investors have started to notice that their leveraged treasury stock is starting to underperform BTC. The post MSTR underperforms, decouples from BTC to the downside appeared first on Protos .",
     "ingested_utc": "2025-08-14T19:36:23Z"
+  },
+  {
+    "published_utc": "2025-08-14",
+    "retrieved_date": "2025-08-14",
+    "source": "NPR_World",
+    "title": "Hundreds of retired air force officers protest Israel's war in Gaza",
+    "url": "https://www.npr.org/2025/08/14/g-s1-82385/hundreds-of-retired-air-force-officers-protest-israels-war-in-gaza",
+    "id_key": "15f11c90e37bed3f3258d136626e1bdd872b79ea2520cf458578a397a9cffdfc",
+    "summary": "Hundreds of former air force reservists and pilots join a chorus of defense establishment figures calling for an immediate end to the war in Gaza.",
+    "ingested_utc": "2025-08-14T23:34:27Z"
   },
   {
     "published_utc": "2025-08-14",
@@ -7663,6 +8133,16 @@
     "published_utc": "2025-08-12",
     "retrieved_date": "2025-08-14",
     "source": "HackerNews_Top",
+    "title": "Managing time shiftable devices (2024)",
+    "url": "https://bitsandtheorems.com/managing-time-shiftable-devices/",
+    "id_key": "93956277ef1cbd8765dd79697510ebb570b4c2833a5ee210da70bca02fcbf0a5",
+    "summary": "Comments",
+    "ingested_utc": "2025-08-14T23:35:22Z"
+  },
+  {
+    "published_utc": "2025-08-12",
+    "retrieved_date": "2025-08-14",
+    "source": "HackerNews_Top",
     "title": "Managing Time Shiftable Devices",
     "url": "https://bitsandtheorems.com/managing-time-shiftable-devices/",
     "id_key": "c6dd4c5f6fe76bf274308338b35da30b87c719f08bcb1ff8329f878bc212e745",
@@ -8652,6 +9132,16 @@
   {
     "published_utc": "2025-08-11",
     "retrieved_date": "2025-08-14",
+    "source": "NYTimes_Economy",
+    "title": "Small Businesses Brace for the Punishing Side Effects of Trump’s Tariffs",
+    "url": "https://www.nytimes.com/2025/08/11/business/economy/tariffs-small-businesses.html",
+    "id_key": "136cfbacb72d50eef8ce46a91f4b2b77cc4b91f149e0fb7595bfe1527c571941",
+    "summary": "Large firms with big bank balances, workers already in jobs and households near the top of the income ladder will have an easier time navigating the economic waves.",
+    "ingested_utc": "2025-08-14T23:34:16Z"
+  },
+  {
+    "published_utc": "2025-08-11",
+    "retrieved_date": "2025-08-14",
     "source": "Blockworks",
     "title": "Orca DEX plans buybacks and token staking",
     "url": "https://blockworks.co/news/orca-dex-buybacks-staking",
@@ -9508,495 +9998,5 @@
     "id_key": "e73a441b112bc00ffe4a30b81665bdf319f8c09ce73134d2e98e91086de9968f",
     "summary": "China is shipping more goods to Southeast Asia and other regions that often re-export them to the United States. China still sells three times as much to the United States as it buys.",
     "ingested_utc": "2025-08-14T19:38:22Z"
-  },
-  {
-    "published_utc": "2025-08-07",
-    "retrieved_date": "2025-08-14",
-    "source": "NYTimes_Economy",
-    "title": "Trump to Double India’s Tariff to 50% Over Russian Oil Purchases",
-    "url": "https://www.nytimes.com/2025/08/06/us/politics/trump-india-tariffs-russia-oil.html",
-    "id_key": "c0954b39bd700dc5881f00e90ed25f73b4d7a402fd92ae0e3ecc80b4e6d69aa3",
-    "summary": "Tariffs on Indian exports to the United States will surge to 50 percent by late August, as part of an effort by President Trump to pressure Russia into resolving its war in Ukraine.",
-    "ingested_utc": "2025-08-14T19:38:22Z"
-  },
-  {
-    "published_utc": "2025-08-07",
-    "retrieved_date": "2025-08-14",
-    "source": "Kraken_Blog",
-    "title": "Trade Shortcuts now live on Kraken Desktop",
-    "url": "https://blog.kraken.com/product/desktop/trade-shortcuts",
-    "id_key": "6f0e50a1d9b795b98cd9a003142695cc5e8a862e3bcf08f0006c4afdcfb35a94",
-    "summary": "Your trading reflexes, upgraded. With the new Trade Shortcut module in Kraken Desktop, you can now place pre-configured trades instantly — no forms, no hesitation. Build custom buttons for any strategy, from quick entries and exits to smart OSO setups.Speed, precision, and control — now at your fingertips. Trade Shortcuts on Kraken Desktop On Kraken […] The post Trade Shortcuts now live on Kraken Desktop appeared first on Kraken Blog .",
-    "ingested_utc": "2025-08-14T19:37:14Z"
-  },
-  {
-    "published_utc": "2025-08-07",
-    "retrieved_date": "2025-08-14",
-    "source": "Sui_Blog",
-    "title": "Sui Introduces Passkey for Seamless User Onboarding",
-    "url": "https://blog.sui.io/passkey-seamless-user-onboarding/",
-    "id_key": "072e27ba9273e70c3e4512b118f94c38ce5fd572154bea935905f063e644b110",
-    "summary": "With passkey on Sui, users can log in and sign in with Face ID, fingerprint, or a passcode.",
-    "ingested_utc": "2025-08-14T19:37:08Z"
-  },
-  {
-    "published_utc": "2025-08-07",
-    "retrieved_date": "2025-08-14",
-    "source": "Lido_Blog",
-    "title": "GK8 by Galaxy Launches Custody for Lido's stETH, Expanding Institutional Liquid Staking Access",
-    "url": "https://blog.lido.fi/gk8-galaxy-launches-custody-for-lido-steth/",
-    "id_key": "e7cf062dcab0bb813906c843bc6e9660d3a60ea2e2ef6c5645cac944e7ae5009",
-    "summary": "GK8 by Galaxy now supports institutional custody of Lido's staked ETH (stETH), expanding institutional access to liquid staking.",
-    "ingested_utc": "2025-08-14T19:36:53Z"
-  },
-  {
-    "published_utc": "2025-08-07",
-    "retrieved_date": "2025-08-14",
-    "source": "CoinMetrics_Blog",
-    "title": "SOTM July 31-August 6, 2025",
-    "url": "https://coinmetrics.io/state-of-the-market/sotm-july-31-august-6-2025/",
-    "id_key": "0cb428a0762b00fa7f2bf5449392731f0b132ed92414b39790ca2f3a59d0ba79",
-    "summary": "Crypto Markets Partially Rebound | Trump Expected to Sign Executive Order for Crypto Investments in 401(k)s | SEC Clarifies Liquid Staking Tokens are not Securities | Ripple Announces $200M Acquisition of Rail | Visa expands Stablecoin Settlement Infrastructure The post SOTM July 31-August 6, 2025 appeared first on Coin Metrics .",
-    "ingested_utc": "2025-08-14T19:36:43Z"
-  },
-  {
-    "published_utc": "2025-08-07",
-    "retrieved_date": "2025-08-14",
-    "source": "Blockworks",
-    "title": "Seeker review: Solana Mobile heard the critics",
-    "url": "https://blockworks.co/news/seeker-review-solana-mobile",
-    "id_key": "ccb1a6b454d74ce13f8f0c4ac309babf9b666f3fbc478531c23d1ddff4dd055e",
-    "summary": "After its first phone drew jeers from a popular tech YouTuber, Solana Mobile delivered on its newest device",
-    "ingested_utc": "2025-08-14T19:36:17Z"
-  },
-  {
-    "published_utc": "2025-08-07",
-    "retrieved_date": "2025-08-14",
-    "source": "Blockworks",
-    "title": "Will the Fed keep diverging from other central bank policies?",
-    "url": "https://blockworks.co/news/fed-keep-diverging-rate-cut",
-    "id_key": "bfbacbbedd4b74ed725cf3258e3c10960cf09d026a343f61167c8154facd32d4",
-    "summary": "Markets strongly suspect that committee members will make the first interest rate cut of 2025",
-    "ingested_utc": "2025-08-14T19:36:17Z"
-  },
-  {
-    "published_utc": "2025-08-07",
-    "retrieved_date": "2025-08-14",
-    "source": "HM_Treasury_Atom",
-    "title": "Guidance: OFSI General Licence INT/2022/2085212",
-    "url": "https://www.gov.uk/government/publications/ofsi-general-licence-int20222085212--2",
-    "id_key": "4b5efebcc404e801c51ec4987830b551a017224a81d9e8f5302ea1c8365ad1b4",
-    "summary": "Details of OFSI General Licence INT/2022/2085212",
-    "ingested_utc": "2025-08-14T19:34:44Z"
-  },
-  {
-    "published_utc": "2025-08-07",
-    "retrieved_date": "2025-08-14",
-    "source": "HM_Treasury_Atom",
-    "title": "Official Statistics: Standards and policies for HM Treasury statistics",
-    "url": "https://www.gov.uk/government/statistics/standards-and-policies-for-hm-treasury-statistics",
-    "id_key": "6e2a9e65f8f294db8d1b0dd341c2ec7763feccf0bb7dbcaad9f8a483fd42464c",
-    "summary": "HM Treasury's statistics are governed by the standards set out by the UK Statistics Authority in their Code of Practice for official statistics.",
-    "ingested_utc": "2025-08-14T19:34:44Z"
-  },
-  {
-    "published_utc": "2025-08-07",
-    "retrieved_date": "2025-08-14",
-    "source": "HM_Treasury_Atom",
-    "title": "Statutory guidance: Reference Documents for The Customs Tariff (Preferential Trade Arrangements) (EU Exit) Regulations 2020",
-    "url": "https://www.gov.uk/government/publications/reference-documents-for-the-customs-tariff-preferential-trade-arrangements-eu-exit-regulations-2020",
-    "id_key": "07a1e0bc31e415ecdbf06489f1aec10679a9d4fd7d5d9f0cfd1fc0eff6756e5a",
-    "summary": "Find the UK’s preferential tariffs and Rules of Origin for the agreements contained within the Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (Amendment) (EU Exit) Regulations 2020.",
-    "ingested_utc": "2025-08-14T19:34:44Z"
-  },
-  {
-    "published_utc": "2025-08-07",
-    "retrieved_date": "2025-08-14",
-    "source": "HM_Treasury_Atom",
-    "title": "Statutory guidance: Reference documents for The Customs (Reliefs from a Liability to Import Duty and Miscellaneous Amendments) (EU Exit) Regulations 2020",
-    "url": "https://www.gov.uk/government/publications/reference-documents-for-the-customs-reliefs-from-a-liability-to-import-duty-and-miscellaneous-amendments-eu-exit-regulations-2020",
-    "id_key": "9d6ed0de108638b98c691946855fff2db5889627274ad7c8a5ea57dd5d132f47",
-    "summary": "Find the documents for details of the conditions in which a 'good' may be eligible for a relief from the standard tariff rate.",
-    "ingested_utc": "2025-08-14T19:34:44Z"
-  },
-  {
-    "published_utc": "2025-08-07",
-    "retrieved_date": "2025-08-14",
-    "source": "HM_Treasury_Atom",
-    "title": "Statutory guidance: Reference Documents for The Customs Tariff (Suspension of Import Duty Rates) (EU Exit) Regulations 2020",
-    "url": "https://www.gov.uk/government/publications/reference-documents-for-the-customs-tariff-suspension-of-import-duty-rates-eu-exit-regulations-2020",
-    "id_key": "a058263bd171ffc1e165d7c9190a4e60c5c5d8d6186b21774b73513e733ab9b1",
-    "summary": "Find out about the tariff suspensions that apply from the end of the transition period.",
-    "ingested_utc": "2025-08-14T19:34:44Z"
-  },
-  {
-    "published_utc": "2025-08-07",
-    "retrieved_date": "2025-08-14",
-    "source": "HM_Treasury_Atom",
-    "title": "Statutory guidance: Reference Document for The Customs Tariff (Establishment) (EU Exit) Regulations 2020",
-    "url": "https://www.gov.uk/government/publications/reference-document-for-the-customs-tariff-establishment-eu-exit-regulations-2020",
-    "id_key": "ba494f1f37b8d17f92b5ef5737752c4648c94a965c70f7ee9540da8d830331fd",
-    "summary": "Find the UK’s most favoured nation tariff rates as referenced in The Customs Tariff (Establishment) (EU Exit) Regulations 2020.",
-    "ingested_utc": "2025-08-14T19:34:44Z"
-  },
-  {
-    "published_utc": "2025-08-07",
-    "retrieved_date": "2025-08-14",
-    "source": "HM_Treasury_Atom",
-    "title": "Notice: Notices made under s32A of the Taxation (Cross-border Trade) Act 2018",
-    "url": "https://www.gov.uk/government/publications/notices-made-under-s32a-of-the-taxation-cross-border-trade-act-2018",
-    "id_key": "e5825ef88108afb692862f8c1ffdaa23b8563a67b7729cb7290854f648cc2461",
-    "summary": "Notices made which have the force of law under s32A of the Taxation (Cross-border Trade) Act 2018.",
-    "ingested_utc": "2025-08-14T19:34:44Z"
-  },
-  {
-    "published_utc": "2025-08-07",
-    "retrieved_date": "2025-08-14",
-    "source": "HM_Treasury_Atom",
-    "title": "£143 million funding to secure over 130 disused coal tips",
-    "url": "https://www.gov.uk/government/news/143-million-funding-to-secure-over-130-disused-coal-tips",
-    "id_key": "7db909b7ee3c58dca26348ecc5927381735a0dce8624ac88ad38ccc306bc8a4b",
-    "summary": "Chancellor Rachel Reeves will outline how £143 million of UK Government funding will secure over 130 disused coal tips in Wales on a visit to Port Talbot today, Thursday 7 August.",
-    "ingested_utc": "2025-08-14T19:34:44Z"
-  },
-  {
-    "published_utc": "2025-08-07",
-    "retrieved_date": "2025-08-14",
-    "source": "Bank_of_Japan_WhatsNew",
-    "title": "Amounts Outstanding in the Call Money Market (July)",
-    "url": "http://www.boj.or.jp/en/statistics/market/short/call/call.xlsx",
-    "id_key": "8850002b76d9af14f1b94bf0cf97b2ba8ad962e5f464d99b8106857b52d4d809",
-    "summary": "",
-    "ingested_utc": "2025-08-14T19:34:41Z"
-  },
-  {
-    "published_utc": "2025-08-07",
-    "retrieved_date": "2025-08-14",
-    "source": "Bank_of_Japan_WhatsNew",
-    "title": "Consumption Activity Index",
-    "url": "http://www.boj.or.jp/en/research/research_data/cai/index.htm",
-    "id_key": "6adc9543022d265180c35c9be33165fc916002e4c6485f4a9db72f9f0073dd01",
-    "summary": "",
-    "ingested_utc": "2025-08-14T19:34:41Z"
-  },
-  {
-    "published_utc": "2025-08-07",
-    "retrieved_date": "2025-08-14",
-    "source": "Bank_of_Japan_WhatsNew",
-    "title": "Monetary Base and the Bank of Japan's Transactions (July)",
-    "url": "http://www.boj.or.jp/en/statistics/boj/other/mbt/mbt2507.pdf",
-    "id_key": "4a561fa51f3cbb719ae23328d038bfccd33651150b523ca3284c39a4ab31cef5",
-    "summary": "",
-    "ingested_utc": "2025-08-14T19:34:41Z"
-  },
-  {
-    "published_utc": "2025-08-07",
-    "retrieved_date": "2025-08-14",
-    "source": "Bank_of_Japan_WhatsNew",
-    "title": "Bank of Japan's Transactions with the Government (July)",
-    "url": "http://www.boj.or.jp/en/statistics/boj/other/tseifu/release/2025/seifu2507.pdf",
-    "id_key": "1ed321f94e07c60094e9414ee25d030b19d13482d8baec2d188b9fd3a3af87be",
-    "summary": "",
-    "ingested_utc": "2025-08-14T19:34:41Z"
-  },
-  {
-    "published_utc": "2025-08-07",
-    "retrieved_date": "2025-08-14",
-    "source": "Bank_of_Japan_WhatsNew",
-    "title": "Market Operations by the Bank of Japan (July)",
-    "url": "http://www.boj.or.jp/en/statistics/boj/fm/ope/m_release/2025/ope2507.xlsx",
-    "id_key": "f0d490aab795b1b5d04726fad5d84cc05631a05b8364f36706c3929dd349c918",
-    "summary": "",
-    "ingested_utc": "2025-08-14T19:34:41Z"
-  },
-  {
-    "published_utc": "2025-08-07",
-    "retrieved_date": "2025-08-14",
-    "source": "Bank_of_England_News",
-    "title": "Bank Rate reduced to 4% - August 2025",
-    "url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/august-2025",
-    "id_key": "15fd0f1e3bb37fff1574a9bbfdfb0b361327675bcf1ccf6d0bc9ace41d640957",
-    "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
-    "ingested_utc": "2025-08-14T19:34:36Z"
-  },
-  {
-    "published_utc": "2025-08-07",
-    "retrieved_date": "2025-08-14",
-    "source": "BBC_Technology",
-    "title": "What are semiconductors and why is Trump threatening 100% tariffs?",
-    "url": "https://www.bbc.com/news/articles/cly3r664q1eo?at_medium=RSS&at_campaign=rss",
-    "id_key": "da920359e3488e741e841c78a9246224ad30368481b109e196f5fd7a2d3c3e7e",
-    "summary": "The president said he plans to introduce 100% tariffs on foreign-made chips, but the largest producers may avoid the levy.",
-    "ingested_utc": "2025-08-14T16:32:52Z"
-  },
-  {
-    "published_utc": "2025-08-07",
-    "retrieved_date": "2025-08-14",
-    "source": "Chainlink_Blog",
-    "title": "Introducing the Chainlink Reserve: Creating a Strategic LINK Token Reserve",
-    "url": "https://blog.chain.link/chainlink-reserve-strategic-link-reserve/",
-    "id_key": "b2625a92ebfb32603185238b72f5121b0c9581204ff7f4171f10f7917dff854d",
-    "summary": "The Chainlink Reserve is a new upgrade to the Chainlink platform designed to create a strategic reserve of LINK. The post Introducing the Chainlink Reserve: Creating a Strategic LINK Token Reserve appeared first on Chainlink Blog .",
-    "ingested_utc": "2025-08-14T16:32:47Z"
-  },
-  {
-    "published_utc": "2025-08-07",
-    "retrieved_date": "2025-08-14",
-    "source": "Chainlink_Blog",
-    "title": "체인링크 리저브: LINK 토큰으로 전략적 준비금을 구축하다",
-    "url": "https://blog.chain.link/chainlink-reserve-strategic-link-reserve-kr/",
-    "id_key": "38e24b6706a04cae347f7654da54ddb945b01d55f7d9559e40847dcc24a9fd44",
-    "summary": "이 블로그 게시물에서는 체인링크 플랫폼의 경쟁 우위와 수익 창출 능력, 결제 추상화가 체인링크 리저브의 성장을 어떻게 촉진하는지, 그리고 리저브가 기존의 체인링크 경제 이니셔티브를 어떻게 보완하도록 계획되었는지 더 자세히 다루겠습니다. The post 체인링크 리저브: LINK 토큰으로 전략적 준비금을 구축하다 appeared first on Chainlink Blog .",
-    "ingested_utc": "2025-08-14T16:32:47Z"
-  },
-  {
-    "published_utc": "2025-08-07",
-    "retrieved_date": "2025-08-14",
-    "source": "Chainlink_Blog",
-    "title": "Chainlink发布Chainlink Reserve，建立战略LINK通证储备",
-    "url": "https://blog.chain.link/chainlink-reserve-strategic-link-reserve-cn/",
-    "id_key": "5e290859f4b2ee0f9923e64e5a5e9b701b022bf0c71ab8c509082095c468557e",
-    "summary": "本文将深入探讨Chainlink平台的竞争优势，Chainlink创造收入的能力，支付抽象如何驱动Chainlink Reserve，以及Chainlink Reserve将如何与Chainlink现有的经济模式形成互补。 The post Chainlink发布Chainlink Reserve，建立战略LINK通证储备 appeared first on Chainlink Blog .",
-    "ingested_utc": "2025-08-14T16:32:47Z"
-  },
-  {
-    "published_utc": "2025-08-07",
-    "retrieved_date": "2025-08-14",
-    "source": "Decrypt",
-    "title": "ETH NEARS $4K, TRUMP TARIFFS BEGIN, REKT HITS ANOTHER ATH",
-    "url": "https://decrypt.co/videos/interviews/meyK3vhj/eth-nears-4k-trump-tariffs-begin-rekt-hits-another-ath",
-    "id_key": "a6a226f8dad1016d3afd4f37ed8a4d3206eee29a7be08c57b244e17fd503a3c0",
-    "summary": "ETH leads majors, Tom Lee calls for $16k price target. US set to allow crypto in 401k plans. ETH daily transactions near record. Sell Gold, Buy BTC: Lummis. Indonesia evaluates BTC reserve. Tornado dev found guilty of 1 out of 3 charges. US adds 21.6% tariff on BTC mining machines. Parataxis launches $640m BTC treasury strategy. Bakkt to setup Japanese BTC treasury company. Cosmos Health launches $300m ETH treasury. StanChart favours ETH treasury stocks over ETFs. Union Jack Oil to deploy BTC mining facilities. Sheetz offering discounts on crypto payments. AAVE hit by phishing attack. Nomura to launch crypto options in Dubai. Court orders WazirX to disclose Binance agreement",
-    "ingested_utc": "2025-08-14T16:32:32Z"
-  },
-  {
-    "published_utc": "2025-08-07",
-    "retrieved_date": "2025-08-14",
-    "source": "CFTC_Press",
-    "title": "CFTC Staff Issues No-Action Letter Regarding Event Contracts",
-    "url": "https://www.cftc.gov/PressRoom/PressReleases/9106-25",
-    "id_key": "f8886d9de3ce142dc0d5173a66ce1c84f6f03fcbc3f80f22ed1383c5bf3a6b79",
-    "summary": "",
-    "ingested_utc": "2025-08-14T16:32:15Z"
-  },
-  {
-    "published_utc": "2025-08-06",
-    "retrieved_date": "2025-08-14",
-    "source": "Blockworks",
-    "title": "Seeker review: Solana Mobile heard the critics",
-    "url": "https://blockworks.co/news/seeker-review-solana-mobile",
-    "id_key": "171c2692ba1481fd733cf77ecc970938a458e56a83fc8c5a2527a02adac2d4b0",
-    "summary": "After its first phone drew jeers from a popular tech YouTuber, Solana Mobile delivered on its newest device",
-    "ingested_utc": "2025-08-14T21:05:15Z"
-  },
-  {
-    "published_utc": "2025-08-06",
-    "retrieved_date": "2025-08-14",
-    "source": "Blockworks",
-    "title": "Will the Fed keep diverging from other central bank policies?",
-    "url": "https://blockworks.co/news/fed-keep-diverging-rate-cut",
-    "id_key": "6e44e72cf80d44d2df6eadb637fe2e1ef3ffba832bbc229967eb0aae819f5d45",
-    "summary": "Markets strongly suspect that committee members will make the first interest rate cut of 2025",
-    "ingested_utc": "2025-08-14T21:05:15Z"
-  },
-  {
-    "published_utc": "2025-08-06",
-    "retrieved_date": "2025-08-14",
-    "source": "NYTimes_Economy",
-    "title": "Trump to Double India’s Tariff to 50% Over Russian Oil Purchases",
-    "url": "https://www.nytimes.com/2025/08/06/us/politics/trump-india-tariffs-russia-oil.html",
-    "id_key": "2d0084bef60513896fd57a9f70036c57efd69b254787330c1ee71c6a61973fce",
-    "summary": "Tariffs on Indian exports to the United States will surge to 50 percent by late August, as part of an effort by President Trump to pressure Russia into resolving its war in Ukraine.",
-    "ingested_utc": "2025-08-14T21:04:13Z"
-  },
-  {
-    "published_utc": "2025-08-06",
-    "retrieved_date": "2025-08-14",
-    "source": "TheEconomist_Business",
-    "title": "How loyalty programmes are keeping America’s airlines aloft",
-    "url": "https://www.economist.com/business/2025/08/06/how-loyalty-programmes-are-keeping-americas-airlines-aloft",
-    "id_key": "8d4f5431a627a5311d3b83b24d8c88c73b1d2fb0d8d25fe131d582afff527a71",
-    "summary": "Many carriers now make their money from credit-card deals",
-    "ingested_utc": "2025-08-14T19:38:56Z"
-  },
-  {
-    "published_utc": "2025-08-06",
-    "retrieved_date": "2025-08-14",
-    "source": "Kraken_Blog",
-    "title": "PayPal funding is here for U.S. clients!",
-    "url": "https://blog.kraken.com/news/paypal-us-clients",
-    "id_key": "7f339f6c072f51bef8dc113427eb139d9b476d9bfa1aa5343139baf5d182acaf",
-    "summary": "We’ve got some exciting news to make your crypto journey even smoother: PayPal is now a funding option for Kraken clients in the U.S. That means you can deposit USD and start trading in just a few taps — no wires, no wait and definitely no bank logins. If you use PayPal, you’re already halfway […] The post PayPal funding is here for U.S. clients! appeared first on Kraken Blog .",
-    "ingested_utc": "2025-08-14T19:37:14Z"
-  },
-  {
-    "published_utc": "2025-08-06",
-    "retrieved_date": "2025-08-14",
-    "source": "Sui_Blog",
-    "title": "How Alkimi and Sui Are Fixing the Broken Ad Ecosystem",
-    "url": "https://blog.sui.io/alkimi-fixing-the-broken-ad-ecosystem/",
-    "id_key": "d435a10f1998b673ffa20287ed8ffac345fd9fb641d8658b3011cda822e802d1",
-    "summary": "A first-of-its-kind partnership will bring billions in ad spend onchain.",
-    "ingested_utc": "2025-08-14T19:37:08Z"
-  },
-  {
-    "published_utc": "2025-08-06",
-    "retrieved_date": "2025-08-14",
-    "source": "Blockworks",
-    "title": "Stablecoins accounted for 90% of salaries paid in crypto in 2024: Pantera survey",
-    "url": "https://blockworks.co/news/stablecoins-salaries-2024-pantera-survey",
-    "id_key": "a5fa30085a2720d4916d54f6c1e1e8990257b062675eb91c708ed43219ea83a4",
-    "summary": "9.6% of crypto industry employees were paid in crypto, and most opted for USDC and USDT",
-    "ingested_utc": "2025-08-14T19:36:17Z"
-  },
-  {
-    "published_utc": "2025-08-06",
-    "retrieved_date": "2025-08-14",
-    "source": "Blockworks",
-    "title": "Switchboard launches Surge, Solana’s fastest oracle yet",
-    "url": "https://blockworks.co/news/fastest-oracle-on-solana-launches",
-    "id_key": "eec7ba3972f3e1b981c5f9f26e84c0389f4a5fc3e9a3e018669d7ba07e4aed91",
-    "summary": "Switchboard’s price feeds are now sub-100ms",
-    "ingested_utc": "2025-08-14T19:36:17Z"
-  },
-  {
-    "published_utc": "2025-08-06",
-    "retrieved_date": "2025-08-14",
-    "source": "Cboe_BZX_RuleFilings_Approved",
-    "title": "SR-CBOE-2025-056",
-    "url": "https://cdn.cboe.com/resources/regulation/rule_filings/approved/2025/SR-CBOE-2025-056.pdf",
-    "id_key": "9fdb4eddeb5dc1a95732052ead176d30c49b98da9b825fcaafa4cc9357df7ddf",
-    "summary": "The Exchange proposes to amend position limits of certain Bitcoin ETF options.",
-    "ingested_utc": "2025-08-14T19:36:14Z"
-  },
-  {
-    "published_utc": "2025-08-06",
-    "retrieved_date": "2025-08-14",
-    "source": "Bank_of_England_News",
-    "title": "Minutes of the Meeting of the Court of Directors held on 6 June 2025",
-    "url": "https://www.bankofengland.co.uk/minutes/2025/june/court-june-2025",
-    "id_key": "be02e4bfa951e553bd5e910921b03ab5b8e64d8c4724bb6325fdea301a866f24",
-    "summary": "The Bank's Court of Directors acts as a unitary board, setting the organisation's strategy and budget and taking key decisions on resourcing and appointments. Required to meet a minimum seven times per year, it has five executive members from the Bank and up to nine non-executive members.",
-    "ingested_utc": "2025-08-14T19:34:36Z"
-  },
-  {
-    "published_utc": "2025-08-06",
-    "retrieved_date": "2025-08-14",
-    "source": "BBC_Technology",
-    "title": "Woman awarded £150,000 after LG phone sparks fire in her home",
-    "url": "https://www.bbc.com/news/articles/c04r5ye59w2o?at_medium=RSS&at_campaign=rss",
-    "id_key": "53620ab034ee582a163b8cb8ad1e6d8f3f2591f56ba0d37c1175383840da995c",
-    "summary": "Denise Parks was in bed in her home in Coatbridge when a fire broke out in the early hours of the morning.",
-    "ingested_utc": "2025-08-14T16:32:52Z"
-  },
-  {
-    "published_utc": "2025-08-06",
-    "retrieved_date": "2025-08-14",
-    "source": "BBC_Technology",
-    "title": "WhatsApp deletes over 6.8m accounts linked to scams, Meta says",
-    "url": "https://www.bbc.com/news/articles/ce35q2ly1w5o?at_medium=RSS&at_campaign=rss",
-    "id_key": "95e3ebcb387f0848d916f2ac13d858a88af1bde0917dcf5a2a50bd015dda05e3",
-    "summary": "Many of the accounts were linked to criminal groups operating in South East Asia, the social media giant said.",
-    "ingested_utc": "2025-08-14T16:32:52Z"
-  },
-  {
-    "published_utc": "2025-08-06",
-    "retrieved_date": "2025-08-14",
-    "source": "Glassnode_Insights",
-    "title": "Post-ATH Indecisiveness",
-    "url": "https://insights.glassnode.com/the-week-onchain-week-31-2025/",
-    "id_key": "e42ab3ebc77b347ba6944a2d55d9dd6fa703dfe41fcdbb28c28070bc218c7f0a",
-    "summary": "Bitcoin has slipped below $116k, entering a low‑liquidity “air gap”, a zone where few coins have changed hands. Short-Term Holder profitability has hit the bull market mid-line, ETF flows have turned negative, and funding rates are cooling off as the market is trying to find support.",
-    "ingested_utc": "2025-08-14T16:32:36Z"
-  },
-  {
-    "published_utc": "2025-08-06",
-    "retrieved_date": "2025-08-14",
-    "source": "Decrypt",
-    "title": "$PUMP REBOUNDS, CRYPTO EDGES LOWER, CHINA TESTING STABLECOINS",
-    "url": "https://decrypt.co/videos/interviews/0AMccQun/pump-rebounds-crypto-edges-lower-china-testing-stablecoins",
-    "id_key": "4e29d4364a354aa9305d5198e850c8eda0d8b6dda39be7835f6095e5fc6099ba",
-    "summary": "Crypto volatile amid weaker macro picture. BTC ETF outflows continue, ETH turns positive. Short term BTC holders dump $18b as whales buy. Liquid staking Activities are not securities: SEC. China testing out Yuan stablecoins. Brazil considers BTC reserve. Japan’s SBI files for various crypto ETFs. Michigan pension fund triples BTC ETF exposure. Sharplink bought $304m ETH last week. Metamask plans to launch stablecoin. Base briefly goes down due to sequencer failure. CZ seeks dismissal of $1.8b FTX lawsuit. Hyperliquid earned 35% of July blockchain revenue. BitBridge to go public as BTC treasury firm. BNB discloses new infrastructure roadmap. LTC leads alts, MEI Pharma launches $100m treasury. Pendle to allow speculation on crypto funding rates.",
-    "ingested_utc": "2025-08-14T16:32:32Z"
-  },
-  {
-    "published_utc": "2025-08-06",
-    "retrieved_date": "2025-08-14",
-    "source": "SEC_Press",
-    "title": "Staff Issues FAQs to Help Broker-Dealers Implement Financial Responsibility Requirements Related to U.S. Treasury Clearing",
-    "url": "https://www.sec.gov/newsroom/press-releases/2025-105-staff-issues-faqs-help-broker-dealers-implement-financial-responsibility-requirements-related-us",
-    "id_key": "cbb93236db8b2106cb48ec0ea59c61ad1b90b4d52929435c516cf85b6d0bcdc0",
-    "summary": "The Securities and Exchange Commission’s Division of Trading and Markets today issued answers to Frequently Asked Questions (FAQs) that broker-dealers have posed to the staff regarding rule amendments to the customer protection rule related to the…",
-    "ingested_utc": "2025-08-14T16:31:59Z"
-  },
-  {
-    "published_utc": "2025-08-05",
-    "retrieved_date": "2025-08-14",
-    "source": "Blockworks",
-    "title": "Switchboard launches Surge, Solana’s fastest oracle yet",
-    "url": "https://blockworks.co/news/fastest-oracle-on-solana-launches",
-    "id_key": "81f1be8b21f21ede118a3181b89852c28026985dfcfe02a960d2d8c6343e9499",
-    "summary": "Switchboard’s price feeds are now sub-100ms",
-    "ingested_utc": "2025-08-14T21:05:15Z"
-  },
-  {
-    "published_utc": "2025-08-05",
-    "retrieved_date": "2025-08-14",
-    "source": "CoinMetrics_Blog",
-    "title": "Taking Stock of Crypto Exchanges Pursuing an IPO",
-    "url": "https://coinmetrics.io/state-of-the-network/taking-stock-of-crypto-exchanges-pursuing-an-ipo/",
-    "id_key": "50c5fb06c34797739509fe43ef9f0ba7c06ccd65fc34b551c87c236541898560",
-    "summary": "A look at crypto exchanges preparing to go public The post Taking Stock of Crypto Exchanges Pursuing an IPO appeared first on Coin Metrics .",
-    "ingested_utc": "2025-08-14T19:36:43Z"
-  },
-  {
-    "published_utc": "2025-08-05",
-    "retrieved_date": "2025-08-14",
-    "source": "Blockworks",
-    "title": "Base outage highlights growing pains of a chain with real users",
-    "url": "https://blockworks.co/news/base-outage-growing-pains",
-    "id_key": "56a67cd7e266783f35e321145aab14bf8406b8afa435e6e7d2457fdbb755be84",
-    "summary": "A 29-minute halt in block production briefly froze Base, but DeFi dodged the bullet",
-    "ingested_utc": "2025-08-14T19:36:17Z"
-  },
-  {
-    "published_utc": "2025-08-05",
-    "retrieved_date": "2025-08-14",
-    "source": "Blockworks",
-    "title": "Phantom acquires Solana trading terminal Solsniper",
-    "url": "https://blockworks.co/news/phantom-acquires-solsniper",
-    "id_key": "9ca800975a76f827f2d66c7e41c889cb18497a92ae8fe27e15b2ebfc86fc815d",
-    "summary": "The major crypto wallet deepens its trading capabilities",
-    "ingested_utc": "2025-08-14T19:36:17Z"
-  },
-  {
-    "published_utc": "2025-08-05",
-    "retrieved_date": "2025-08-14",
-    "source": "Cboe_BZX_RuleFilings_Approved",
-    "title": "SR-CboeBZX-2025-112",
-    "url": "https://cdn.cboe.com/resources/regulation/rule_filings/approved/2025/SR-CboeBZX-2025-112.pdf",
-    "id_key": "cf64a0099b4f98f42aec4a6a98c8051ecc1e2476f845660add14b106c4e8727d",
-    "summary": "The Exchange proposes to adopt a new market data report.",
-    "ingested_utc": "2025-08-14T19:36:14Z"
-  },
-  {
-    "published_utc": "2025-08-05",
-    "retrieved_date": "2025-08-14",
-    "source": "Cboe_BZX_RuleFilings_Approved",
-    "title": "SR-CboeBZX-2025-113",
-    "url": "https://cdn.cboe.com/resources/regulation/rule_filings/approved/2025/SR-CboeBZX-2025-113.pdf",
-    "id_key": "614b04dd38b264962353a9a3c6fd593d955d50f61ba92e85ad09507bab183748",
-    "summary": "The Exchange proposes to amend Rule 21.15(b) (Exchange Data Products) to adopt a new market data report.",
-    "ingested_utc": "2025-08-14T19:36:14Z"
-  },
-  {
-    "published_utc": "2025-08-05",
-    "retrieved_date": "2025-08-14",
-    "source": "BIS_Speeches",
-    "title": "Swaminathan J: Working together, growing stronger - responsible governance for a resilient Urban Cooperative Bank sector",
-    "url": "https://www.bis.org/review/r250728g.htm",
-    "id_key": "9e8e6952956fd07add14328c9ad0cf371f0a0131498c904dcc08b4f46f4f6d07",
-    "summary": "Valedictory address by Mr Swaminathan J, Deputy Governor of the Reserve Bank of India, at the Seminar for Directors of Urban Cooperative Banks (UCBs) \"Resilient cooperatives for the future: enhancing governance in a digital age\", held at the College of Agriculture Banking, Reserve Bank of India, Pune, 11 July 2025.",
-    "ingested_utc": "2025-08-14T19:34:43Z"
   }
 ]
