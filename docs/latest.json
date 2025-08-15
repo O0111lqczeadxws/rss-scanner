@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-08-15",
     "retrieved_date": "2025-08-15",
+    "retrieved_utc": "2025-08-15T20:56:00Z",
+    "source": "FinancialPost_Business",
+    "title": "Operation begins to free ship run aground in St. Lawrence River near Montreal",
+    "url": "https://financialpost.com/pmn/operation-begins-to-free-ship-run-aground-in-st-lawrence-river-near-montreal-2",
+    "id_key": "393231f8be2725aed3e13f02a5b017adb7ad715ef6a6a5cf3f3be330b56809b6",
+    "summary": "VERCHERES — Authorities began unloading thousands of tonnes of sugar from a cargo vessel run aground in the St. Lawrence River near Montreal on Friday in an attempt to free the ship. The Federal Yamaska became stuck near Vercheres, Que., at around 5:45 a.m. Tuesday, following a complete loss of engines. A first attempt to […]",
+    "ingested_utc": "2025-08-15T20:56:00Z"
+  },
+  {
+    "published_utc": "2025-08-15",
+    "retrieved_date": "2025-08-15",
+    "retrieved_utc": "2025-08-15T20:55:22Z",
+    "source": "NPR_Technology",
+    "title": "Brain implants that decode a person's inner voice may threaten privacy",
+    "url": "https://www.npr.org/2025/08/15/nx-s1-5500191/brain-implants-that-decode-a-persons-inner-voice-may-threaten-privacy",
+    "id_key": "22b905ae77af20327ae99b15151f5eb358297859b86df411cf2495fab65509bc",
+    "summary": "A new brain-computer interface can decode a person's inner monologue. That could help paralyzed people communicate, but also suggests scientists are one step closer to reading a person's thoughts.",
+    "ingested_utc": "2025-08-15T20:55:22Z"
+  },
+  {
+    "published_utc": "2025-08-15",
+    "retrieved_date": "2025-08-15",
+    "retrieved_utc": "2025-08-15T20:55:19Z",
+    "source": "NPR_Top",
+    "title": "After a freeze, Trump administration reluctantly agrees to fund EV chargers",
+    "url": "https://www.npr.org/2025/08/15/nx-s1-5501584/ev-charger-nevi-funding",
+    "id_key": "d25cc84d160dbe226081200d80978ed7d7d7e4fbd8d8100b6d33d8707416f8c1",
+    "summary": "Transportation Secretary Sean Duffy says he doesn't agree with federal subsidies for high-speed EV chargers, but that his department \"will respect Congress' will\" and release the funds.",
+    "ingested_utc": "2025-08-15T20:55:19Z"
+  },
+  {
+    "published_utc": "2025-08-15",
+    "retrieved_date": "2025-08-15",
     "retrieved_utc": "2025-08-15T20:42:22Z",
     "source": "HackerNews_Top",
     "title": "Using AI to secure AI",
@@ -10965,38 +10998,5 @@
     "summary": "Rod Price recounts ‘frantic’ call he received from Sarah Shaw after her detention at US border while returning from Canada The father of a New Zealand woman who has been held in a US immigration detention centre for three weeks with her six-year-old son is hopeful the pair will be released by the end of the week. US Immigration and Customs Enforcement (Ice) detained Sarah Shaw and her youngest son after they attempted to re-enter the US from Canada on 24 July. Continue reading...",
     "ingested_utc": "2025-08-14T06:45:29Z",
     "retrieved_utc": "2025-08-14T06:45:29Z"
-  },
-  {
-    "published_utc": "2025-08-14",
-    "retrieved_date": "2025-08-14",
-    "source": "Guardian_Business",
-    "title": "UK economy posts surprise 0.3% growth in three months to June",
-    "url": "https://www.theguardian.com/business/2025/aug/14/uk-economy-avoids-flatlining-slowdown-tax-rises-trump-trade-war",
-    "id_key": "339b97d2e70e3e7b685b12469e1d4ad2dda58964715eda88cf2a0c9597006d16",
-    "summary": "GDP figure slower than previous quarter but beats expectations thanks to 0.4% expansion last month The UK economy grew at a faster rate than expected in the second quarter, official figures show, despite a slowdown from a strong start to the year amid pressure from tax increases and Donald Trump’s global trade war. Figures from the Office for National Statistics showed growth in gross domestic product (GDP) slowed to 0.3% in the three months to the end of June, down from a rate of 0.7% in the first quarter. Continue reading...",
-    "ingested_utc": "2025-08-14T06:45:28Z",
-    "retrieved_utc": "2025-08-14T06:45:28Z"
-  },
-  {
-    "published_utc": "2025-08-14",
-    "retrieved_date": "2025-08-14",
-    "source": "Guardian_Business",
-    "title": "Drop in new properties for rent is steepest since Covid, says Rics",
-    "url": "https://www.theguardian.com/money/2025/aug/14/drop-new-properties-rent-steepest-covid-says-rics-prices",
-    "id_key": "a533d7ddfeaaf1b54050295ec5a3c1487c75b4cdcf7bb5b6664c562a0a212df3",
-    "summary": "Monthly report from surveyors’ body sees ‘firmly negative trend’ that is expected to push up rental prices The flow of new rental properties coming on to the market has fallen at the fastest rate since the first Covid lockdown five years ago, according to research by Britain’s property surveyors. Although the demand for properties is steady, there are fewer new rentals from landlords coming available, the Royal Institution of Chartered Surveyors (Rics) found. Continue reading...",
-    "ingested_utc": "2025-08-14T06:45:28Z",
-    "retrieved_utc": "2025-08-14T06:45:28Z"
-  },
-  {
-    "published_utc": "2025-08-14",
-    "retrieved_date": "2025-08-14",
-    "source": "Guardian_Business",
-    "title": "StubHub allowed prolific tout to list 300 tickets for sold-out Lewis Capaldi show",
-    "url": "https://www.theguardian.com/business/2025/aug/14/stubhub-allowed-prolific-tout-to-list-300-tickets-for-sold-out-lewis-capaldi-show",
-    "id_key": "7c75b06c6f1b0411d4f328678802cce0adb2e721cd7b886580b87f53af849fd1",
-    "summary": "Expert says ‘reason to suspect industrial-scale criminality’ as TGCES lists 306 Sheffield tickets for up to £248 each The ticket resale website StubHub may have failed to prevent breaches of consumer law on its platform when it allowed a prolific tout to advertise more than 300 tickets for a Lewis Capaldi concert, experts have said. StubHub and fellow secondary ticketing platform Viagogo are under intense scrutiny from ministers, who are considering whether to ban for-profit ticket resale in an effort to protect fans. Continue reading...",
-    "ingested_utc": "2025-08-14T06:45:28Z",
-    "retrieved_utc": "2025-08-14T06:45:28Z"
   }
 ]
