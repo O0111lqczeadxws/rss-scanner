@@ -32,7 +32,17 @@ jobs:
           python -m pip install -U pip
           pip install -r requirements.txt
 
+      - name: Detect UTC date if not provided
+        id: date
+        run: |
+          if [ -n "${{ inputs.run_date }}" ]; then
+            echo "date=${{ inputs.run_date }}" >> $GITHUB_OUTPUT
+          else
+            UTC_DATE=$(date -u +'%Y-%m-%d')
+            echo "date=$UTC_DATE" >> $GITHUB_OUTPUT
+          fi
+
       - name: Run analysis
         run: |
           set -Eeuo pipefail
-          python analyze.py --date "${{ inputs.run_date }}"
+          python analyze.py --date "${{ steps.date.outputs.date }}"
