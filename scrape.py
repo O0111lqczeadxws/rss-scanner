@@ -382,7 +382,7 @@ def main():
             for ln in f:
                 try:
                     o = json.loads(ln)
-                    # migrate published_utc to YYYY-MM-DD and add retrieved_date
+                    # migrate published_utc to YYYY-MM-DD and hydrate retrieved fields
                     pu = o.get("published_utc", "")
                     if pu:
                         if len(pu) >= 10 and pu[4] == "-" and pu[7] == "-":
@@ -397,10 +397,21 @@ def main():
                         iu = o.get("ingested_utc", "")
                         o["published_utc"] = (iu[:10] if len(iu) >= 10 and iu[4] == "-"
                                               else datetime.now(timezone.utc).strftime("%Y-%m-%d"))
+
                     if not o.get("retrieved_date"):
                         iu = o.get("ingested_utc", "")
                         o["retrieved_date"] = (iu[:10] if len(iu) >= 10 and iu[4] == "-"
                                                else datetime.now(timezone.utc).strftime("%Y-%m-%d"))
+                    # NEW: ensure retrieved_utc exists for downstream AI bundle freshness
+                    if not o.get("retrieved_utc"):
+                        iu = o.get("ingested_utc")
+                        if isinstance(iu, str) and len(iu) >= 20:
+                            o["retrieved_utc"] = iu
+                        else:
+                            rd = o.get("retrieved_date") or o.get("published_utc")
+                            # midnight UTC fallback if only a date is known
+                            o["retrieved_utc"] = f"{rd}T00:00:00Z" if rd else datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+
                     o["summary"] = _clean_summary(o.get("summary", ""))
                     old_items.append(o)
                 except Exception:
@@ -504,9 +515,11 @@ def main():
                         continue
                     exist_ids.add(id_key)
 
+                    # CHANGE: include retrieved_utc alongside retrieved_date
                     item = {
                         "published_utc": pub_dt.strftime("%Y-%m-%d"),
                         "retrieved_date": ingested_now[:10],
+                        "retrieved_utc": ingested_now,   # <-- added for AI bundle freshness calc
                         "source": src_label,
                         "title": title,
                         "url": link,
@@ -557,6 +570,7 @@ def main():
         for obj in new_items:
             f.write(json.dumps(obj, ensure_ascii=False) + "\n")
 
+    # CSV schema unchanged (keeps file stable)
     with open(CSV_PATH, "w", newline="", encoding="utf-8") as f:
         w = csv.writer(f, quoting=csv.QUOTE_ALL, lineterminator="\n")
         w.writerow(["published_utc","retrieved_date","source","title","url","id_key"])
