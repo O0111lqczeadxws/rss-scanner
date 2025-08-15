@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-08-15",
     "retrieved_date": "2025-08-15",
+    "retrieved_utc": "2025-08-15T05:56:01Z",
+    "source": "Nikkei_Asia_Top",
+    "title": "Modi vows to 'stand like a wall' for farmers amid Trump's tariff push",
+    "url": "https://asia.nikkei.com/politics/international-relations/modi-vows-to-stand-like-a-wall-for-farmers-amid-trump-s-tariff-push",
+    "id_key": "afdc6424203877f2b2de0f824c5aadb504200030b662fd19a731a6e413fc1605",
+    "summary": "",
+    "ingested_utc": "2025-08-15T05:56:01Z"
+  },
+  {
+    "published_utc": "2025-08-15",
+    "retrieved_date": "2025-08-15",
+    "retrieved_utc": "2025-08-15T05:55:47Z",
+    "source": "AlJazeera_All",
+    "title": "‘No more food’: In northern Nigeria, US funding cuts bite for aid groups",
+    "url": "https://www.aljazeera.com/features/2025/8/15/no-more-food-in-northern-nigeria-us-funding-cuts-bite-for-aid-groups?traffic_source=rss",
+    "id_key": "08cc95661b30587886fdcd26d191771f94d1ac718a462c29bfd2213a5c6b60de",
+    "summary": "Organisations like the World Food Programme are scaling back aid or completely halting operations.",
+    "ingested_utc": "2025-08-15T05:55:47Z"
+  },
+  {
+    "published_utc": "2025-08-15",
+    "retrieved_date": "2025-08-15",
     "retrieved_utc": "2025-08-15T05:45:24Z",
     "source": "Nikkei_Asia_Top",
     "title": "Nearly 70% of Iran oil tankers faked travel routes: Nikkei analysis",
@@ -10976,27 +10998,5 @@
     "summary": "A deal for Nvidia and AMD to give the Trump administration a cut of chip sales to China raises questions about national security and trade policy goals.",
     "ingested_utc": "2025-08-14T16:32:59Z",
     "retrieved_utc": "2025-08-14T16:32:59Z"
-  },
-  {
-    "published_utc": "2025-08-11",
-    "retrieved_date": "2025-08-14",
-    "source": "NYTimes_Business",
-    "title": "Small Businesses Brace for the Punishing Side Effects of Trump’s Tariffs",
-    "url": "https://www.nytimes.com/2025/08/11/business/economy/tariffs-small-businesses.html",
-    "id_key": "9fefd8d019e0ca709497703536563efa71aa5b07d5d150b9a269ec59e802e0b4",
-    "summary": "Large firms with big bank balances, workers already in jobs and households near the top of the income ladder will have an easier time navigating the economic waves.",
-    "ingested_utc": "2025-08-14T16:32:59Z",
-    "retrieved_utc": "2025-08-14T16:32:59Z"
-  },
-  {
-    "published_utc": "2025-08-11",
-    "retrieved_date": "2025-08-14",
-    "source": "Guardian_Business",
-    "title": "Growing pains: can rice production in Africa keep up with demand?",
-    "url": "https://www.theguardian.com/world/2025/aug/11/can-rice-production-in-africa-keep-up-with-demand",
-    "id_key": "cd19e1995f893cd3ac0285d4a7ca81d7428be21260914ad00b53472651d62676",
-    "summary": "Africa Rice initiative aims to give farmers more control over their land in order to reduce flooding and increase yields Salmata Ouattara remembers 2023 as the turning point for her rice farm. June is usually the peak of the rainy season in Ivory Coast, but in the preceding years she and other farmers in M’Be on the outskirts of Bouaké, the country’s second biggest city, would wait weeks for rainfall. Then in September, they would watch helplessly as their farmlands were flooded. Some abandoned their farms, frustrated by fluctuating crop yields. Continue reading...",
-    "ingested_utc": "2025-08-14T16:32:54Z",
-    "retrieved_utc": "2025-08-14T16:32:54Z"
   }
 ]
