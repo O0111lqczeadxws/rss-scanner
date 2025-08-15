@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-08-15",
     "retrieved_date": "2025-08-15",
+    "retrieved_utc": "2025-08-15T09:53:37Z",
+    "source": "FinancialPost_Business",
+    "title": "Canadian Home Sales Rise for Fourth Straight Month as Buyers Return",
+    "url": "https://financialpost.com/pmn/business-pmn/canadian-home-sales-rise-for-fourth-straight-month-as-buyers-return",
+    "id_key": "67c6f642c8e27b87547097ac941d27cdd4370a911137fdb857f6231317d8cb33",
+    "summary": "Canadian home sales rose for a fourth straight month as growing confidence the economy will weather US tariffs draws more buyers back into the market.",
+    "ingested_utc": "2025-08-15T09:53:37Z"
+  },
+  {
+    "published_utc": "2025-08-15",
+    "retrieved_date": "2025-08-15",
+    "retrieved_utc": "2025-08-15T09:53:30Z",
+    "source": "TheStreet_Top",
+    "title": "Walmart is selling the 'perfect' kitchen drawer organizer for just $14",
+    "url": "https://www.thestreet.com/deals/dakomm-expandable-silverware-drawer-organizer-walmart-flash-sale",
+    "id_key": "d67846236ac9032311dfe153d7fada2e8a8f7acffe68cd6d3d3ca01e6ca6253a",
+    "summary": "\"I'm absolutely thrilled with this great silverware organizer.\"",
+    "ingested_utc": "2025-08-15T09:53:30Z"
+  },
+  {
+    "published_utc": "2025-08-15",
+    "retrieved_date": "2025-08-15",
+    "retrieved_utc": "2025-08-15T09:50:30Z",
+    "source": "Guardian_World",
+    "title": "Protesters gather in Washington DC as federal law enforcement officers stop drivers – US politics live",
+    "url": "https://www.theguardian.com/us-news/live/2025/aug/15/washington-dc-donald-trump-protests-us-politics-latest-updates-news",
+    "id_key": "906b19a2b52666c014321ee1ae16aa40a86f36f84506b8a2d530df1ad06c8ae9",
+    "summary": "At least one person reportedly arrested as protesters heckle law enforcement and warn drivers to avoid area as Trump makes false claims about crime levels Good morning and welcome to the US politics live blog. My name is Tom Ambrose and I’ll be bringing you all the latest news lines over the next few hours. We start with news that Donald Trump has falsely claimed crime in Washington DC is “the worst it’s ever been” on Thursday, amid a federal takeover of the city’s police department and deployment of the national guard and federal agents in the city. As part of its advertising blitz to attract new recruits, Immigration and Customs Enforcement (Ice) released a social media video on Thursday that uses a song by the rapper DaBaby and shows agency vehicles that appear to be painted in the same red, blue and gold style as Donald Trump’s private plane, which was featured in the opening sequence for The Apprentice. New York’s mayor, Eric Adams , confirmed on social media that a federal building where protesters held a silent vigil on Thursday against Immigration and Customs Enforcement (Ice) was evacuated after “envelopes containing white powder were discovered”. In another sign that the Trump presidency is largely made-for-TV, the White House and Fox News revealed that Trump will appear on Fox News both before and immediately after his summit meeting with Vladimir Putin on Friday. Four days after Trump ordered the unhoused residents of Washington DC, whom he sped past in his motorcade for a golf outing, to leave the city, local officials helped clear encampments before announced sweeps by federal agents. Continue reading...",
+    "ingested_utc": "2025-08-15T09:50:30Z"
+  },
+  {
+    "published_utc": "2025-08-15",
+    "retrieved_date": "2025-08-15",
     "retrieved_utc": "2025-08-15T09:42:33Z",
     "source": "MIT_TechReview",
     "title": "Taiwan’s “silicon shield” could be weakening",
@@ -10965,38 +10998,5 @@
     "summary": "",
     "ingested_utc": "2025-08-14T19:34:41Z",
     "retrieved_utc": "2025-08-14T19:34:41Z"
-  },
-  {
-    "published_utc": "2025-08-12",
-    "retrieved_date": "2025-08-14",
-    "source": "NPR_Business",
-    "title": "Inflation remains elevated as Trump's tariffs take hold",
-    "url": "https://www.npr.org/2025/08/12/nx-s1-5499344/inflation-consumer-prices-cpi-tariffs",
-    "id_key": "f29e6f70af6a7293de77676d4d0d12ff8d2ed56a999574976a7d7eb1e84d07ef",
-    "summary": "Inflation remained elevated last month as President Trump's tariffs continued to make their way into the prices that consumers pay. The average cost of living in July was up 2.7%.",
-    "ingested_utc": "2025-08-14T16:33:00Z",
-    "retrieved_utc": "2025-08-14T16:33:00Z"
-  },
-  {
-    "published_utc": "2025-08-12",
-    "retrieved_date": "2025-08-14",
-    "source": "NPR_Business",
-    "title": "U.S. and China extend tariff truce deadline for another 3 months",
-    "url": "https://www.npr.org/2025/08/12/nx-s1-5500039/us-china-tariffs-trade-truce",
-    "id_key": "72a46f985b37f3a41e8a46c76f2b01ddbd1540301bf13cd91f084346a7a626eb",
-    "summary": "President Trump's executive order extends a reprieve from the threat of rising tariffs between the world's two largest economies.",
-    "ingested_utc": "2025-08-14T16:33:00Z",
-    "retrieved_utc": "2025-08-14T16:33:00Z"
-  },
-  {
-    "published_utc": "2025-08-12",
-    "retrieved_date": "2025-08-14",
-    "source": "NYTimes_Business",
-    "title": "Trump’s Fed nominee has argued that tariffs haven’t raised prices.",
-    "url": "https://www.nytimes.com/live/2025/08/12/business/cpi-inflation-tariffs-fed/trumps-fed-nominee-has-argued-that-tariffs-havent-raised-prices",
-    "id_key": "a538c7e4ebc3d6463ad06f144e8965037ce58c7845f961cfcba9f11e6086ef1e",
-    "summary": "",
-    "ingested_utc": "2025-08-14T16:32:59Z",
-    "retrieved_utc": "2025-08-14T16:32:59Z"
   }
 ]
