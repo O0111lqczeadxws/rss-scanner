@@ -1,0 +1,13 @@
+
+=== Stage: Build AI bundles ===
+
+=== Stage: AI infer (VANTA1/2) ===
+
+=== Stage: Interpret & score (final) ===
+
+=== Stage: Drift scoring (lookback 7 days) ===
+[drift] Saved drift stats to data\drift\2025-08-15_drift.json
+
+=== Stage: Rebuild report (with drift) ===
+
+=== Stage: Validate outputs ===
