@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-08-16",
     "retrieved_date": "2025-08-16",
+    "retrieved_utc": "2025-08-16T19:40:24Z",
+    "source": "FinancialPost_Business",
+    "title": "Hajdu orders binding arbitration, resumption of operations to end Air Canada strike",
+    "url": "https://financialpost.com/pmn/hajdu-orders-binding-arbitration-resumption-of-operations-to-end-air-canada-strike-2",
+    "id_key": "280c1a05be540083a8f81254b90fe90b941ec6aaaa86ab1c466893f89b817292",
+    "summary": "OTTAWA — The federal Liberal government is intervening to resolve a labour dispute at Canada’s largest airline that scuttled hundreds of flights, stranded travellers and threatened the economy. Jobs Minister Patty Hajdu said she directed the Canada Industrial Relations Board to order Air Canada and the union representing its flight attendants to resume operations and […]",
+    "ingested_utc": "2025-08-16T19:40:24Z"
+  },
+  {
+    "published_utc": "2025-08-16",
+    "retrieved_date": "2025-08-16",
+    "retrieved_utc": "2025-08-16T19:40:09Z",
+    "source": "Engadget_All",
+    "title": "Roblox cracks down on its user-created content following multiple child safety lawsuits",
+    "url": "https://www.engadget.com/gaming/pc/roblox-cracks-down-on-its-user-created-content-following-multiple-child-safety-lawsuits-193452150.html?src=rss",
+    "id_key": "76b9053d48d05cd8d785732931f0e762f9d3fe4049321e57f4395cdc92fef157",
+    "summary": "Following a wave of lawsuits alleging that Roblox doesn't provide a safe environment for its underage users, the gaming platform made a series of sweeping updates to its policies. To address recent concerns, Roblox published a post on its website detailing these major changes, including restricting all unrated experiences, which is what Roblox calls its user-generated games, to the developer or those actively working with them. Roblox said this change will roll out in the coming months, representing a big shift from its previous policy that allowed users 13 or older to access unrated experiences. To further prevent any inappropriate behavior, any \"social hangout\" experiences that depict private spaces, like bedrooms or bathrooms, will be limited to ID-verified users who are 17 or older. Roblox will also restrict social hangout games that mostly take place in those previously-mentioned private spaces or adult-only places, like bars or clubs, to users who are at least 17 and have been ID-verified. To assist with the new rules, Roblox will roll out a new tool that automatically detects \"violative scenes,\" or more simply, user activity that goes against the rules. According to Roblox's new policies, a server that hits enough violations will automatically get taken down and will have to work with the Roblox team to adjust the experience and get it back online. These policy changes come after several lawsuits were filed against Roblox that claim the game doesn't protect its younger users. In response to the lawsuit filed by Louisiana's attorney general, Roblox wrote in a separate post that it works to block any efforts at exploitative behavior and constantly enhances its moderation approaches. \"Any assertion that Roblox would intentionally put our users at risk of exploitation is simply untrue,\" the company statement read. \"No system is perfect and bad actors adapt to evade detection, including efforts to take users to other platforms, where safety standards and moderation practices may differ. This article originally appeared on Engadget at https://www.engadget.com/gaming/pc/roblox-cracks-down-on-its-user-created-content-following-multiple-child-safety-lawsuits-193452150.html?src=rss",
+    "ingested_utc": "2025-08-16T19:40:09Z"
+  },
+  {
+    "published_utc": "2025-08-16",
+    "retrieved_date": "2025-08-16",
     "retrieved_utc": "2025-08-16T19:29:43Z",
     "source": "HackerNews_Top",
     "title": "Office on HP-UX and Unix",
@@ -10976,27 +10998,5 @@
     "summary": "fix for v2 opcm with no superchain and protocol versions upgrade ( #17 …",
     "ingested_utc": "2025-08-14T19:37:39Z",
     "retrieved_utc": "2025-08-14T19:37:39Z"
-  },
-  {
-    "published_utc": "2025-08-14",
-    "retrieved_date": "2025-08-14",
-    "source": "Unchained",
-    "title": "No, The Ethereum Foundation Didn’t Just Sell $7.7 Million of ETH",
-    "url": "https://unchainedcrypto.com/no-the-ethereum-foundation-didnt-just-sell-7-7-million-of-eth/",
-    "id_key": "f5a451b284474b4ef3db6e56119a957af3cb1b93ad33644d20701ad4022ce9db",
-    "summary": "Onchain wallet tracker Lookonchain flagged the sale of 1,695 ETH for $7.7 million worth of the DAI stablecoin from a wallet supposedly linked to the Ethereum Foundation. “This wallet originally received 20,756 ETH ($95.5M now) from the Ethereum Foundation wallet ‘EF 1’ back in 2017,” said Lookonchain in a Tuesday ... The post No, The Ethereum Foundation Didn’t Just Sell $7.7 Million of ETH appeared first on Unchained .",
-    "ingested_utc": "2025-08-14T19:36:27Z",
-    "retrieved_utc": "2025-08-14T19:36:27Z"
-  },
-  {
-    "published_utc": "2025-08-14",
-    "retrieved_date": "2025-08-14",
-    "source": "Unchained",
-    "title": "Google Play Updates Rules for Crypto Wallet Apps",
-    "url": "https://unchainedcrypto.com/google-play-updates-rules-for-crypto-wallet-apps/",
-    "id_key": "d41bf90d448a193e12f52acd7973cefdd5098448448d7f176afd03d11ef1042b",
-    "summary": "Google Play has released updated rules that require crypto wallet apps to obtain licenses and comply with regulatory standards in more than 15 jurisdictions, including the U.S., Europe, U.K. and Canada. The rules mandate that developers of crypto exchanges and wallets register with local financial authorities, such as FinCEN in ... The post Google Play Updates Rules for Crypto Wallet Apps appeared first on Unchained .",
-    "ingested_utc": "2025-08-14T19:36:27Z",
-    "retrieved_utc": "2025-08-14T19:36:27Z"
   }
 ]
