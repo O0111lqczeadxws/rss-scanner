@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-08-16",
     "retrieved_date": "2025-08-16",
+    "retrieved_utc": "2025-08-16T23:46:59Z",
+    "source": "TheStreet_Top",
+    "title": "Amazon's $500 inflatable water hammock is now on sale for $300, and 'kids and adults love it'",
+    "url": "https://www.thestreet.com/deals/calobana-inflatable-water-hammock-amazon-sale",
+    "id_key": "40b9b2400d6cc24bb5d47807defdbd34b529d3fcaa06f2008ca74713b0ab39b7",
+    "summary": "Shoppers love that it \"easily inflates and deflates.\"",
+    "ingested_utc": "2025-08-16T23:46:59Z"
+  },
+  {
+    "published_utc": "2025-08-16",
+    "retrieved_date": "2025-08-16",
     "retrieved_utc": "2025-08-16T23:33:27Z",
     "source": "HackerNews_Top",
     "title": "Dev Compass – Programming Philosophy Quiz",
@@ -10987,16 +10998,5 @@
     "summary": "As companies like Amazon and Microsoft lay off workers and embrace A.I. coding tools, computer science graduates say they’re struggling to land tech jobs.",
     "ingested_utc": "2025-08-14T19:38:23Z",
     "retrieved_utc": "2025-08-14T19:38:23Z"
-  },
-  {
-    "published_utc": "2025-08-14",
-    "retrieved_date": "2025-08-14",
-    "source": "NYTimes_World",
-    "title": "Israel Says More Aid Is Entering Gaza, but Relief Groups Warn of Bottlenecking",
-    "url": "https://www.nytimes.com/2025/08/14/world/middleeast/israel-aid-gaza-issues.html",
-    "id_key": "b184bfa127c64bfff4447333b83ac0f8ec5ad2b93849595a76a15eececf58c0b",
-    "summary": "Israel says its has allowed more aid into Gaza in recent days, and food prices are dropping, but humanitarian groups warn it is not enough.",
-    "ingested_utc": "2025-08-14T19:38:21Z",
-    "retrieved_utc": "2025-08-14T19:38:21Z"
   }
 ]
