@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-08-16",
     "retrieved_date": "2025-08-16",
+    "retrieved_utc": "2025-08-16T04:45:45Z",
+    "source": "NYTimes_World",
+    "title": "For Some Venetians, This Overgrown Island Is Paradise",
+    "url": "https://www.nytimes.com/2025/08/15/world/europe/venice-residents-poveglia-island-lease.html",
+    "id_key": "98227c461bc2d5ac9ac866e741ec3a1ff473c35ae4c9a43b384960ce47f31d34",
+    "summary": "A citizens’ group is now in charge of the island of Poveglia, where they will create a park for anyone who wants to leave Venice’s maddening crowds of tourists behind.",
+    "ingested_utc": "2025-08-16T04:45:45Z"
+  },
+  {
+    "published_utc": "2025-08-16",
+    "retrieved_date": "2025-08-16",
+    "retrieved_utc": "2025-08-16T04:43:33Z",
+    "source": "Guardian_World",
+    "title": "‘It’s nearly come full circle’: Charlestown proud of Gallagher connection as Oasis come to Ireland",
+    "url": "https://www.theguardian.com/world/2025/aug/16/charlestown-gallagher-connection-oasis-ireland",
+    "id_key": "04b166934afa1a2de96b29fcbb7867a9b10144ee69486178b3384e8bdd22b197",
+    "summary": "Liam and Noel used to be taken for summer holidays with relatives in Mayo and kept returning after finding fame Emigration ripped the heart out of Charlestown: generations of young people took the boat to England and left behind derelict homes and shuttered shops, a hollowing chronicled in a landmark 1968 book, The Death of an Irish Town. Some returned to this corner of County Mayo for summer holidays – with children who were growing up with English accents and city ways – before vanishing back across the Irish Sea and leaving Charlestown to its decay. Continue reading...",
+    "ingested_utc": "2025-08-16T04:43:33Z"
+  },
+  {
+    "published_utc": "2025-08-16",
+    "retrieved_date": "2025-08-16",
     "retrieved_utc": "2025-08-16T03:39:11Z",
     "source": "HackerNews_Top",
     "title": "Best Practices for Building Agentic AI Systems",
@@ -10976,27 +10998,5 @@
     "summary": "The Home Office says the technology helps locate suspects but civil liberties groups warn of heightened surveillance.",
     "ingested_utc": "2025-08-14T16:32:52Z",
     "retrieved_utc": "2025-08-14T16:32:52Z"
-  },
-  {
-    "published_utc": "2025-08-14",
-    "retrieved_date": "2025-08-14",
-    "source": "BBC_Business",
-    "title": "US wholesale prices jump in July as tariffs hit",
-    "url": "https://www.bbc.com/news/articles/cp89ej4jrn9o?at_medium=RSS&at_campaign=rss",
-    "id_key": "86dabcb5efcd197c1cad451f566fc13d8d9674af963a2cbf6f39c0c40776b12b",
-    "summary": "US producers raised prices at the fastest pace in more than three years last month, stoking concerns about higher prices for consumers.",
-    "ingested_utc": "2025-08-14T16:32:51Z",
-    "retrieved_utc": "2025-08-14T16:32:51Z"
-  },
-  {
-    "published_utc": "2025-08-14",
-    "retrieved_date": "2025-08-14",
-    "source": "BBC_Business",
-    "title": "Are latest UK growth figures good or bad news for the economy?",
-    "url": "https://www.bbc.com/news/articles/c5yp48jprg8o?at_medium=RSS&at_campaign=rss",
-    "id_key": "807a984896d2beb9dc158c0627be640c84bbbd0417de7769d8c7f15650d016d3",
-    "summary": "Depending on the timeframe you look at, the GDP figures can be seen as glass half full or half empty.",
-    "ingested_utc": "2025-08-14T16:32:51Z",
-    "retrieved_utc": "2025-08-14T16:32:51Z"
   }
 ]
