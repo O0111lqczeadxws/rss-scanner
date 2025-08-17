@@ -2,6 +2,61 @@
   {
     "published_utc": "2025-08-17",
     "retrieved_date": "2025-08-17",
+    "retrieved_utc": "2025-08-17T21:34:47Z",
+    "source": "HackerNews_Top",
+    "title": "Sunny days are warm: why LinkedIn rewards mediocrity",
+    "url": "https://www.elliotcsmith.com/linkedin-toxic-mediocrity/",
+    "id_key": "43fcf5c200e01eae0c82a16d78fd2176e65c9742a4d15ee76fc96f40f942cc13",
+    "summary": "Comments",
+    "ingested_utc": "2025-08-17T21:34:47Z"
+  },
+  {
+    "published_utc": "2025-08-17",
+    "retrieved_date": "2025-08-17",
+    "retrieved_utc": "2025-08-17T21:34:47Z",
+    "source": "HackerNews_Top",
+    "title": "AI doesn't lighten the burden of mastery",
+    "url": "https://playtechnique.io/blog/ai-doesnt-lighten-the-burden-of-mastery.html",
+    "id_key": "82063ec97e0ebd7a23841b7bb608e88444fa773dcbf5f1d6a5b9f8ad07345cc8",
+    "summary": "Comments",
+    "ingested_utc": "2025-08-17T21:34:47Z"
+  },
+  {
+    "published_utc": "2025-08-17",
+    "retrieved_date": "2025-08-17",
+    "retrieved_utc": "2025-08-17T21:34:12Z",
+    "source": "TechCrunch_All",
+    "title": "GPT-5 is supposed to be nicer now",
+    "url": "https://techcrunch.com/2025/08/17/gpt-5-is-supposed-to-be-nicer-now/",
+    "id_key": "87e4eed0472a4833c510575d4b4bf0410904dd04c730629d480d8344da917ac4",
+    "summary": "OpenAI announced late Friday that it’s updating its latest model to be “warmer and friendlier.”",
+    "ingested_utc": "2025-08-17T21:34:12Z"
+  },
+  {
+    "published_utc": "2025-08-17",
+    "retrieved_date": "2025-08-17",
+    "retrieved_utc": "2025-08-17T21:31:25Z",
+    "source": "Guardian_World",
+    "title": "UK and EU at Zelenskyy’s side in Washington for meeting with Trump",
+    "url": "https://www.theguardian.com/world/2025/aug/17/european-leaders-to-join-zelenskyy-washington-meeting-trump-ukraine-russia",
+    "id_key": "19d56865a85f48b649817110bfe6349f5c01cc4fded0588ccf5efa7b1a37b212",
+    "summary": "Emmanuel Macron, Friedrich Merz and others will aim to push back against ceding of Ukraine territory in ‘peace plan’ European leaders including Keir Starmer will join Volodymyr Zelenskyy at a White House meeting with Donald Trump on Monday in an extraordinary joint effort to push back on a US-backed plan that would allow Russia to take further Ukrainian territory . As well as the UK prime minister, the French president, Emmanuel Macron, Germany’s chancellor, Friedrich Merz, Italy’s PM, Giorgia Meloni, and the Finnish president, Alexander Stubb, will all accompany Zelenskyy in the Oval Office. Continue reading...",
+    "ingested_utc": "2025-08-17T21:31:25Z"
+  },
+  {
+    "published_utc": "2025-08-17",
+    "retrieved_date": "2025-08-17",
+    "retrieved_utc": "2025-08-17T21:31:22Z",
+    "source": "BBC_World",
+    "title": "Huge crowds gather in Israel calling for hostage deal and end to Gaza war",
+    "url": "https://www.bbc.com/news/articles/ce93y2dxlg4o?at_medium=RSS&at_campaign=rss",
+    "id_key": "ec0580c90621c70773c99deffaccb971b51f0e336658a99d5fcb6684c4a5a496",
+    "summary": "Large crowds fill 'Hostages Square' in Tel Aviv to call for fighting to cease and the release of all remaining hostages by Hamas.",
+    "ingested_utc": "2025-08-17T21:31:22Z"
+  },
+  {
+    "published_utc": "2025-08-17",
+    "retrieved_date": "2025-08-17",
     "retrieved_utc": "2025-08-17T20:51:28Z",
     "source": "Guardian_World",
     "title": "Man dead and another wounded after shooting outside Sydney hotel",
@@ -1560,6 +1615,17 @@
     "id_key": "93fdaf46ed3d31b1881c69e00fcca6cda6d34af255412e33562ab1827a4415fb",
     "summary": "South Carolina and Ohio join West Virginia in pledging troops, fueling protests that national guard should not be used for ‘a political policing mission’ Three states have moved to deploy hundreds of members of their national guard to the nation’s capital as part of the Trump administration’s effort to overhaul policing in Washington through a federal crackdown. West Virginia said it was deploying 300 to 400 guard troops, while South Carolina pledged 200 and Ohio said it would send 150 in the coming days. The moves announced on Saturday came as protesters pushed back on federal law enforcement and national guard troops fanning out in the heavily Democratic city following Donald Trump’s executive order federalizing local police forces and activating about 800 District of Columbia national guard members. Continue reading...",
     "ingested_utc": "2025-08-17T03:46:21Z"
+  },
+  {
+    "published_utc": "2025-08-16",
+    "retrieved_date": "2025-08-17",
+    "retrieved_utc": "2025-08-17T21:34:47Z",
+    "source": "HackerNews_Top",
+    "title": "PG Auto Upgrade – Docker (and K8s) container to auto upgrade your database",
+    "url": "https://github.com/pgautoupgrade/docker-pgautoupgrade",
+    "id_key": "8ae0745421e36b127308880995e6bab5a25c6b9ec9bcd65370165e51a06856c2",
+    "summary": "Comments",
+    "ingested_utc": "2025-08-17T21:34:47Z"
   },
   {
     "published_utc": "2025-08-16",
@@ -10932,71 +10998,5 @@
     "summary": "CAMBRIDGE, Ontario — ATS Corporation (TSX: ATS) (NYSE: ATS) (“ATS” or the “Company”) today announced that Ryan McLeod, Interim Chief Executive Officer, and Anne Cybulski, Interim Chief Financial Officer, will participate in the RBC Capital Markets Global Industrials Conference in New York City, NY on September 16, 2025. ATS is scheduled to host a break-out […]",
     "ingested_utc": "2025-08-14T21:08:01Z",
     "retrieved_utc": "2025-08-14T21:08:01Z"
-  },
-  {
-    "published_utc": "2025-08-14",
-    "retrieved_date": "2025-08-14",
-    "source": "FinancialPost_Business",
-    "title": "Chemtrade Logistics Income Fund to Acquire Polytec, a Provider of Turnkey Water Treatment Solutions",
-    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/chemtrade-logistics-income-fund-to-acquire-polytec-a-provider-of-turnkey-water-treatment-solutions",
-    "id_key": "5cbd5172370f48bd6843e97cd0cba0173c9ef04223e697484c70b94c291eb775",
-    "summary": "TORONTO — Chemtrade Logistics Income Fund (“Chemtrade” or the “Fund”) (TSX: CHE.UN) today announced that it has entered into an agreement to acquire Polytec, Inc. (“Polytec”), a southeastern United States-based provider of turnkey water treatment solutions, for US$150 million. The transaction represents a multiple of approximately 6.5x LTM Adjusted EBITDA. Chemtrade will finance the acquisition […]",
-    "ingested_utc": "2025-08-14T21:08:01Z",
-    "retrieved_utc": "2025-08-14T21:08:01Z"
-  },
-  {
-    "published_utc": "2025-08-14",
-    "retrieved_date": "2025-08-14",
-    "source": "FinancialPost_Business",
-    "title": "ATS to Participate in the Jefferies Industrials Conference",
-    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/ats-to-participate-in-the-jefferies-industrials-conference-2",
-    "id_key": "6a6f64514078a57816bcb31acae1fe28dd023e0be307803cfba71fa655122d6c",
-    "summary": "CAMBRIDGE, Ontario — ATS Corporation (TSX: ATS) (NYSE: ATS) (“ATS” or the “Company”) today announced that Ryan McLeod, Interim Chief Executive Officer, and Anne Cybulski, Interim Chief Financial Officer, will participate in the Jefferies Industrials Conference in New York City, NY on September 4, 2025. ATS is scheduled to host a fireside chat at the […]",
-    "ingested_utc": "2025-08-14T21:08:01Z",
-    "retrieved_utc": "2025-08-14T21:08:01Z"
-  },
-  {
-    "published_utc": "2025-08-14",
-    "retrieved_date": "2025-08-14",
-    "source": "FinancialPost_Business",
-    "title": "Lithium Royalty Corp. Announces Second Quarter 2025 Results",
-    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/lithium-royalty-corp-announces-second-quarter-2025-results",
-    "id_key": "a439405a98746c9f5a56cdd6853ed03881e5af24cca9d4032592720353ccac1e",
-    "summary": "LRC repurchased C$4 million worth of shares at a weighted average price of C$5.62 in the quarter, retiring ~9% of the free float Lower shipments and a 36% year-over-year drop in spodumene prices negatively impacted revenue Ganfeng’s Mariana project advanced commissioning during the second quarter, with first revenue to LRC expected in 2H25 Portfolio company […]",
-    "ingested_utc": "2025-08-14T21:08:01Z",
-    "retrieved_utc": "2025-08-14T21:08:01Z"
-  },
-  {
-    "published_utc": "2025-08-14",
-    "retrieved_date": "2025-08-14",
-    "source": "FinancialPost_Business",
-    "title": "Youngkin praises Virginia’s economy, dismissing Democrats’ concerns over Medicaid and job cuts",
-    "url": "https://financialpost.com/pmn/youngkin-praises-virginias-economy-dismissing-democrats-concerns-over-medicaid-and-job-cuts",
-    "id_key": "ea0de4b032ce4aaaeda82bfe52739cf7e07572a170abda18dce2f3a6bc1e7441",
-    "summary": "RICHMOND, Va. (AP) — Republican Gov. Glenn Youngkin said Thursday that Virginia’s economy is thriving after ending its fiscal year with high revenues, a characterization Democrats criticized as rose-colored in light of budgetary decisions in neighboring Washington, D.C. In a presentation to the state’s money committees, Youngkin and Virginia’s secretary of finance said revenues for […]",
-    "ingested_utc": "2025-08-14T21:08:01Z",
-    "retrieved_utc": "2025-08-14T21:08:01Z"
-  },
-  {
-    "published_utc": "2025-08-14",
-    "retrieved_date": "2025-08-14",
-    "source": "FT_Markets",
-    "title": "Buffett’s Berkshire dumped Apple shares again in second quarter",
-    "url": "https://www.ft.com/content/8c4d4941-4d10-4ade-af1c-7ef419e6f61c",
-    "id_key": "8f415c452b193798145c74315b05271073c308b071609431cdb6e8d754aea60b",
-    "summary": "Conglomerate has reduced its exposure to publicly traded equities over the past three years",
-    "ingested_utc": "2025-08-14T21:07:26Z",
-    "retrieved_utc": "2025-08-14T21:07:26Z"
-  },
-  {
-    "published_utc": "2025-08-14",
-    "retrieved_date": "2025-08-14",
-    "source": "CryptoNews",
-    "title": "Treasury Secretary Scott Bessent Says U.S. Will Not Buy Bitcoin For Strategic Reserve: Fox News",
-    "url": "https://cryptonews.com/news/treasury-secretary-scott-bessent-says-u-s-will-not-buy-bitcoin-for-strategic-reserve-fox-news/",
-    "id_key": "4093b7d359f9e44dc880972560d08a7d56863b211182f59fee2d6f15e760116a",
-    "summary": "Scott Bessent has said the U.S. will not buy Bitcoin for a Bitcoin reserve, using confiscated coins and stopping sales. He has put holdings at $15–$20B. Bitcoin has eased from $124,000 to $117,000. January and March orders have set funding via forfeitures. The post Treasury Secretary Scott Bessent Says U.S. Will Not Buy Bitcoin For Strategic Reserve: Fox News appeared first on Cryptonews .",
-    "ingested_utc": "2025-08-14T21:05:21Z",
-    "retrieved_utc": "2025-08-14T21:05:21Z"
   }
 ]
