@@ -2,6 +2,61 @@
   {
     "published_utc": "2025-08-17",
     "retrieved_date": "2025-08-17",
+    "retrieved_utc": "2025-08-17T14:40:55Z",
+    "source": "FinancialPost_Business",
+    "title": "Midterm Fight Over Trump Bill, Tariffs Starts Early at Iowa Fair",
+    "url": "https://financialpost.com/pmn/business-pmn/midterm-fight-over-trump-bill-tariffs-starts-early-at-iowa-fair",
+    "id_key": "4c102bcca64a2d3af6307837994a1fc8de1598b1222cda7e2339b98fbbae82a6",
+    "summary": "Republican Representative Zach Nunn is making an Iowa State Fair video about President Donald Trump’s tax law, shot on a John Deere tractor under the blazing August sun.",
+    "ingested_utc": "2025-08-17T14:40:55Z"
+  },
+  {
+    "published_utc": "2025-08-17",
+    "retrieved_date": "2025-08-17",
+    "retrieved_utc": "2025-08-17T14:40:08Z",
+    "source": "NYTimes_World",
+    "title": "Putin’s Ukraine Proposal Backed by Trump Centers on Donbas. Here’s Why.",
+    "url": "https://www.nytimes.com/2025/08/17/world/europe/russia-donbas-importance.html",
+    "id_key": "c1334e704644ebc23a7168f06f4382372570734e8a8d1d9111c429860cc3ac0d",
+    "summary": "The traditionally Russian-speaking area is at the heart of what the Russian president calls the “root causes” of the war, and taking it over is near the top of his list of territorial and political demands.",
+    "ingested_utc": "2025-08-17T14:40:08Z"
+  },
+  {
+    "published_utc": "2025-08-17",
+    "retrieved_date": "2025-08-17",
+    "retrieved_utc": "2025-08-17T14:38:21Z",
+    "source": "CryptoNews",
+    "title": "Solana Votes on Alpenglow Upgrade to Cut Block Finality from 12.8s to 150ms",
+    "url": "https://cryptonews.com/news/solana-votes-on-alpenglow-upgrade-to-cut-block-finality-from-12-8s-to-150ms/",
+    "id_key": "cf3fa18c4acb649b9d9e0a64534e68e0c5689ea9af7cf603624f72dd23919522",
+    "summary": "Solana validators vote on SIMD-0326 Alpenglow upgrade to cut block finality from 12.8 seconds to 150ms replacing TowerBFT consensus with direct voting and signature aggregation. The post Solana Votes on Alpenglow Upgrade to Cut Block Finality from 12.8s to 150ms appeared first on Cryptonews .",
+    "ingested_utc": "2025-08-17T14:38:21Z"
+  },
+  {
+    "published_utc": "2025-08-17",
+    "retrieved_date": "2025-08-17",
+    "retrieved_utc": "2025-08-17T14:37:55Z",
+    "source": "Guardian_World",
+    "title": "Zelenskyy says territorial swaps not possible under Ukrainian constitution ahead of White House meeting – live",
+    "url": "https://www.theguardian.com/world/live/2025/aug/17/trump-putin-meeting-european-leaders-ukraine-peace-deal-latest-updates-news",
+    "id_key": "aacd5323aa3b927d25b4eed23e52a147bd617540dc0fa8061ecc5ad4b343db78",
+    "summary": "Steve Witkoff says Russian president agreed to allow US and European allies to offer Ukraine security guarantee and also unspecified concessions on five Ukrainian regions Germany’s chancellor, Friedrich Merz , will also be travelling to Washington tomorrow for the Trump-Zelenskyy talks, according to the federal government. The chancellor’s spokesperson has been quoted by BBC News as having said: The trip will serve as an exchange of information with US President Donald Trump following his meeting with Russian President Vladimir Putin in Alaska. Chancellor Merz will discuss the status of peace efforts with the heads of state and government and underscore Germany’s interest in a swift peace agreement in Ukraine. Continue reading...",
+    "ingested_utc": "2025-08-17T14:37:55Z"
+  },
+  {
+    "published_utc": "2025-08-17",
+    "retrieved_date": "2025-08-17",
+    "retrieved_utc": "2025-08-17T14:37:55Z",
+    "source": "Guardian_World",
+    "title": "Sanjeev Gupta readies last-ditch plan to save UK speciality arm of Liberty Steel",
+    "url": "https://www.theguardian.com/business/2025/aug/17/sanjeev-gupta-readies-last-ditch-plan-to-save-specialty-arm-of-liberty-steel",
+    "id_key": "7ea70d36c6aef61cf0323e92f9918d8545138fad858e7edbf77c2407bf542c0a",
+    "summary": "Attempt to secure pre-pack administration deal comes as government officials step up planning for its collapse Sanjeev Gupta is preparing a last-ditch attempt to save the remaining arm of his Liberty Steel business as government officials step up planning for a collapse of the business within days. Gupta is understood to have spent the weekend planning an 11th-hour rescue deal to save the company’s Speciality Steel UK (SSUK) division days before a courtroom showdown with its creditors on Wednesday. Continue reading...",
+    "ingested_utc": "2025-08-17T14:37:55Z"
+  },
+  {
+    "published_utc": "2025-08-17",
+    "retrieved_date": "2025-08-17",
     "retrieved_utc": "2025-08-17T13:51:20Z",
     "source": "HackerNews_Top",
     "title": "Faster Index I/O with NVMe SSDs",
@@ -10943,60 +10998,5 @@
     "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The US could really use an affordable electric truck On Monday, Ford announced plans for an affordable electric truck with a 2027 delivery date and an expected price tag of about $30,000, thanks…",
     "ingested_utc": "2025-08-14T19:39:25Z",
     "retrieved_utc": "2025-08-14T19:39:25Z"
-  },
-  {
-    "published_utc": "2025-08-14",
-    "retrieved_date": "2025-08-14",
-    "source": "MIT_TechReview",
-    "title": "The US could really use an affordable electric truck",
-    "url": "https://www.technologyreview.com/2025/08/14/1121795/affordable-electric-truck/",
-    "id_key": "bc5b14939b18cdfc863dfaa4ac134f5a3afb07db8d97b1700e6d9a421fb94c87",
-    "summary": "On Monday, Ford announced plans for an affordable electric truck with a 2027 delivery date and an expected price tag of about $30,000, thanks in part to a new manufacturing process that it says will help cut costs. This could be the shot in the arm that the slowing US EV market needs. Sales are…",
-    "ingested_utc": "2025-08-14T19:39:25Z",
-    "retrieved_utc": "2025-08-14T19:39:25Z"
-  },
-  {
-    "published_utc": "2025-08-14",
-    "retrieved_date": "2025-08-14",
-    "source": "Nikkei_Asia_Top",
-    "title": "Brazil courts China for coffee exports in face of stiff US tariffs",
-    "url": "https://asia.nikkei.com/economy/trade-war/trump-tariffs/brazil-courts-china-for-coffee-exports-in-face-of-stiff-us-tariffs",
-    "id_key": "9c89c9369a6193154884c37e85de9a45ee7aa6f5419d609332a0294c57e73b3c",
-    "summary": "",
-    "ingested_utc": "2025-08-14T19:39:18Z",
-    "retrieved_utc": "2025-08-14T19:39:18Z"
-  },
-  {
-    "published_utc": "2025-08-14",
-    "retrieved_date": "2025-08-14",
-    "source": "Nikkei_Asia_Top",
-    "title": "Luckin Coffee races into Starbucks' home turf with app-based strategy",
-    "url": "https://asia.nikkei.com/business/food-beverage/luckin-coffee-races-into-starbucks-home-turf-with-app-based-strategy",
-    "id_key": "5fbb63df0ede8c07d6a87f04f50421eef6190b78461427e4e00b7a6d00bb4d9f",
-    "summary": "",
-    "ingested_utc": "2025-08-14T19:39:18Z",
-    "retrieved_utc": "2025-08-14T19:39:18Z"
-  },
-  {
-    "published_utc": "2025-08-14",
-    "retrieved_date": "2025-08-14",
-    "source": "Nikkei_Asia_Top",
-    "title": "Electronics maker Murata bets AI device boom coming around 2030",
-    "url": "https://asia.nikkei.com/business/electronics/electronics-maker-murata-bets-ai-device-boom-coming-around-2030",
-    "id_key": "a9d8f9d443ae7bb3c0534a10f8f09ca6e9da9825d3d5da242f71702c83e75e0b",
-    "summary": "",
-    "ingested_utc": "2025-08-14T19:39:18Z",
-    "retrieved_utc": "2025-08-14T19:39:18Z"
-  },
-  {
-    "published_utc": "2025-08-14",
-    "retrieved_date": "2025-08-14",
-    "source": "Nikkei_Asia_Top",
-    "title": "US rate cut speculation drags dollar-yen basis swap to 3-year low",
-    "url": "https://asia.nikkei.com/business/markets/us-rate-cut-speculation-drags-dollar-yen-basis-swap-to-3-year-low",
-    "id_key": "928430e655be72ab7aea714cb0bf86b6a833820e6b82c43807ec25b2efd1f425",
-    "summary": "",
-    "ingested_utc": "2025-08-14T19:39:18Z",
-    "retrieved_utc": "2025-08-14T19:39:18Z"
   }
 ]
