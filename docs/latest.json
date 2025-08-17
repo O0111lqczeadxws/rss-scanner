@@ -2,6 +2,50 @@
   {
     "published_utc": "2025-08-17",
     "retrieved_date": "2025-08-17",
+    "retrieved_utc": "2025-08-17T13:51:20Z",
+    "source": "HackerNews_Top",
+    "title": "Faster Index I/O with NVMe SSDs",
+    "url": "https://www.marginalia.nu/log/a_123_index_io/",
+    "id_key": "563b84f3ed1c922380325a1c99e3c4da644ac9a764ba0d9401be061ac60790ff",
+    "summary": "Comments",
+    "ingested_utc": "2025-08-17T13:51:20Z"
+  },
+  {
+    "published_utc": "2025-08-17",
+    "retrieved_date": "2025-08-17",
+    "retrieved_utc": "2025-08-17T13:51:20Z",
+    "source": "HackerNews_Top",
+    "title": "BBC Micro: The Ancestor to a Device You Are Guaranteed to Own",
+    "url": "https://retrogamecoders.com/bbc-micro-the-ancestor-to-a-device-you-are-guaranteed-to-own/",
+    "id_key": "d96bf4152771003cb43d71c75c62dbe4cc3fc6d20815a441c77e6613b086fc28",
+    "summary": "Comments",
+    "ingested_utc": "2025-08-17T13:51:20Z"
+  },
+  {
+    "published_utc": "2025-08-17",
+    "retrieved_date": "2025-08-17",
+    "retrieved_utc": "2025-08-17T13:51:20Z",
+    "source": "HackerNews_Top",
+    "title": "Node.js is able to execute TypeScript files without additional configuration",
+    "url": "https://nodejs.org/en/blog/release/v22.18.0",
+    "id_key": "d1d373bbae3e6f9351078f950193562e429ba4135e4987efe3c3e65196418e50",
+    "summary": "Comments",
+    "ingested_utc": "2025-08-17T13:51:20Z"
+  },
+  {
+    "published_utc": "2025-08-17",
+    "retrieved_date": "2025-08-17",
+    "retrieved_utc": "2025-08-17T13:48:01Z",
+    "source": "Guardian_World",
+    "title": "Three people killed and eight wounded in Brooklyn lounge shooting, police say",
+    "url": "https://www.theguardian.com/us-news/2025/aug/17/brooklyn-lounge-shooting",
+    "id_key": "82b804c1bb016e2f7427e5cdc5d2ec5af5a4e834460d1d4b34c2169a401d2af2",
+    "summary": "The 11 victims ranged in ages from 27 to 61 after multiple gunmen opened fire inside Crown Heights in Crown Heights Three people were killed and eight others wounded when multiple gunmen opened fire inside a crowded Brooklyn hookah lounge and restaurant early Sunday morning, according to authorities. Police officers responded to reports of a shooting inside the Taste of the City lounge in Crown Heights just before 3.30am, New York police department (NYPD) commissioner, Jessica Tisch, said at a press briefing later Sunday. Continue reading...",
+    "ingested_utc": "2025-08-17T13:48:01Z"
+  },
+  {
+    "published_utc": "2025-08-17",
+    "retrieved_date": "2025-08-17",
     "retrieved_utc": "2025-08-17T13:23:04Z",
     "source": "FinancialPost_Business",
     "title": "Fatal explosion at U.S. Steel’s plant raises questions about its future, despite heavy investment",
@@ -999,6 +1043,17 @@
     "id_key": "93fdaf46ed3d31b1881c69e00fcca6cda6d34af255412e33562ab1827a4415fb",
     "summary": "South Carolina and Ohio join West Virginia in pledging troops, fueling protests that national guard should not be used for ‘a political policing mission’ Three states have moved to deploy hundreds of members of their national guard to the nation’s capital as part of the Trump administration’s effort to overhaul policing in Washington through a federal crackdown. West Virginia said it was deploying 300 to 400 guard troops, while South Carolina pledged 200 and Ohio said it would send 150 in the coming days. The moves announced on Saturday came as protesters pushed back on federal law enforcement and national guard troops fanning out in the heavily Democratic city following Donald Trump’s executive order federalizing local police forces and activating about 800 District of Columbia national guard members. Continue reading...",
     "ingested_utc": "2025-08-17T03:46:21Z"
+  },
+  {
+    "published_utc": "2025-08-16",
+    "retrieved_date": "2025-08-17",
+    "retrieved_utc": "2025-08-17T13:51:20Z",
+    "source": "HackerNews_Top",
+    "title": "Guid Smash",
+    "url": "https://www.guidsmash.com",
+    "id_key": "4c989f30cb2a3d7a1443da3bab093b231c9d7bb0a7ec4c31a6cbb30a21df9381",
+    "summary": "Comments",
+    "ingested_utc": "2025-08-17T13:51:20Z"
   },
   {
     "published_utc": "2025-08-16",
@@ -10940,61 +10995,6 @@
     "title": "US rate cut speculation drags dollar-yen basis swap to 3-year low",
     "url": "https://asia.nikkei.com/business/markets/us-rate-cut-speculation-drags-dollar-yen-basis-swap-to-3-year-low",
     "id_key": "928430e655be72ab7aea714cb0bf86b6a833820e6b82c43807ec25b2efd1f425",
-    "summary": "",
-    "ingested_utc": "2025-08-14T19:39:18Z",
-    "retrieved_utc": "2025-08-14T19:39:18Z"
-  },
-  {
-    "published_utc": "2025-08-14",
-    "retrieved_date": "2025-08-14",
-    "source": "Nikkei_Asia_Top",
-    "title": "Japan microsatellite startup Axelspace skyrockets in Tokyo IPO",
-    "url": "https://asia.nikkei.com/business/markets/ipo/japan-microsatellite-startup-axelspace-skyrockets-in-tokyo-ipo",
-    "id_key": "e26c1267b0797a984ea4bc3436434f8a25e19a728632c022fa714eb7646f21c1",
-    "summary": "",
-    "ingested_utc": "2025-08-14T19:39:18Z",
-    "retrieved_utc": "2025-08-14T19:39:18Z"
-  },
-  {
-    "published_utc": "2025-08-14",
-    "retrieved_date": "2025-08-14",
-    "source": "Nikkei_Asia_Top",
-    "title": "Applied Materials sued by China rival over alleged trade secrets theft",
-    "url": "https://asia.nikkei.com/business/china-tech/applied-materials-sued-by-china-rival-over-alleged-trade-secrets-theft",
-    "id_key": "8ccd4614d0778642129d0ad9286af5e1708f4e456eecc431dc6521c73ece90f0",
-    "summary": "",
-    "ingested_utc": "2025-08-14T19:39:18Z",
-    "retrieved_utc": "2025-08-14T19:39:18Z"
-  },
-  {
-    "published_utc": "2025-08-14",
-    "retrieved_date": "2025-08-14",
-    "source": "Nikkei_Asia_Top",
-    "title": "Japan's GDP shrinks at an annualized 0.1% in June: JCER",
-    "url": "https://asia.nikkei.com/economy/japan-s-gdp-shrinks-at-an-annualized-0.1-in-june-jcer",
-    "id_key": "d334149f790ad4d52365bb685048c70b8e9928b5f5858c15ba65603b8ff6fe01",
-    "summary": "",
-    "ingested_utc": "2025-08-14T19:39:18Z",
-    "retrieved_utc": "2025-08-14T19:39:18Z"
-  },
-  {
-    "published_utc": "2025-08-14",
-    "retrieved_date": "2025-08-14",
-    "source": "Nikkei_Asia_Top",
-    "title": "Trump 'can't build a great nation on lies': ex-CME chairman",
-    "url": "https://asia.nikkei.com/editor-s-picks/interview/trump-can-t-build-a-great-nation-on-lies-ex-cme-chairman",
-    "id_key": "a835eb702de08c99aceb4ff406181b7ab4f3aa6abe2d4bf0a986cdbf2df7350e",
-    "summary": "",
-    "ingested_utc": "2025-08-14T19:39:18Z",
-    "retrieved_utc": "2025-08-14T19:39:18Z"
-  },
-  {
-    "published_utc": "2025-08-14",
-    "retrieved_date": "2025-08-14",
-    "source": "Nikkei_Asia_Top",
-    "title": "Japan's Mitsubishi Corp. to invest $600m in US copper mine",
-    "url": "https://asia.nikkei.com/business/materials/japan-s-mitsubishi-corp.-to-invest-600m-in-us-copper-mine",
-    "id_key": "203759e0db16664cc07e714f950cd594120b68329b43fe39d5ec26d2c8a54a1b",
     "summary": "",
     "ingested_utc": "2025-08-14T19:39:18Z",
     "retrieved_utc": "2025-08-14T19:39:18Z"
