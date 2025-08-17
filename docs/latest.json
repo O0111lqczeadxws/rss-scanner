@@ -1333,6 +1333,17 @@
   {
     "published_utc": "2025-08-16",
     "retrieved_date": "2025-08-17",
+    "retrieved_utc": "2025-08-17T16:59:26Z",
+    "source": "NPR_Business",
+    "title": "Government forces Air Canada flight attendants back to work, into arbitration",
+    "url": "https://www.npr.org/2025/08/16/nx-s1-5504621/air-canada-suspends-operations-strike-flight-attendants",
+    "id_key": "186bfed3584d742d3d15b0f24147ec9d0fe2d29f68ed5298aba577fa2548f810",
+    "summary": "Canada's government forced Air Canada and its striking flight attendants back to work and into arbitration Saturday after a work stoppage stranded more than 100,000 travelers around the world.",
+    "ingested_utc": "2025-08-17T16:59:26Z"
+  },
+  {
+    "published_utc": "2025-08-16",
+    "retrieved_date": "2025-08-17",
     "retrieved_utc": "2025-08-17T13:51:20Z",
     "source": "HackerNews_Top",
     "title": "Guid Smash",
@@ -10987,16 +10998,5 @@
     "summary": "Some cool decor can help a new dorm or apartment feel like home, which is why Nanoleaf’s back-to-school sale is worth checking out. The company’s offering all-time low prices on a wide range of its modular smart light gear, from skylights to smart light display cases. Some of our favorite deals include Nanoleaf’s Blocks Combo […]",
     "ingested_utc": "2025-08-14T21:04:39Z",
     "retrieved_utc": "2025-08-14T21:04:39Z"
-  },
-  {
-    "published_utc": "2025-08-14",
-    "retrieved_date": "2025-08-14",
-    "source": "FT_Markets",
-    "title": "BlackRock strikes $11bn Saudi Arabian natural gas deal",
-    "url": "https://www.ft.com/content/2c5dc219-1d86-4d14-8102-2093edc4a4fe",
-    "id_key": "f16a05a57b30c270b5c146710ec43e73b7293d8fbdc164273a6c7c158c44885c",
-    "summary": "Agreement is kingdom’s latest effort to attract foreign capital",
-    "ingested_utc": "2025-08-14T21:04:24Z",
-    "retrieved_utc": "2025-08-14T21:04:24Z"
   }
 ]
