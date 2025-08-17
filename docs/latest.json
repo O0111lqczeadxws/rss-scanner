@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-08-17",
     "retrieved_date": "2025-08-17",
+    "retrieved_utc": "2025-08-17T20:41:15Z",
+    "source": "Engadget_All",
+    "title": "Anthropic's Claude AI now has the ability to end 'distressing' conversations",
+    "url": "https://www.engadget.com/ai/anthropics-claude-ai-now-has-the-ability-to-end-distressing-conversations-201427401.html?src=rss",
+    "id_key": "6ea48b832988a62db1aa68da11f0f528dfab9edbd2d467260c2115a8c05c0e43",
+    "summary": "Anthropic's latest feature for two of its Claude AI models could be the beginning of the end for the AI jailbreaking community. The company announced in a post on its website that the Claude Opus 4 and 4.1 models now have the power to end a conversation with users. According to Anthropic, this feature will only be used in \"rare, extreme cases of persistently harmful or abusive user interactions.\" To clarify, Anthropic said those two Claude models could exit harmful conversations, like \"requests from users for sexual content involving minors and attempts to solicit information that would enable large-scale violence or acts of terror.\" With Claude Opus 4 and 4.1, these models will only end a conversation \"as a last resort when multiple attempts at redirection have failed and hope of a productive interaction has been exhausted,\" according to Anthropic. However, Anthropic claims most users won't experience Claude cutting a conversation short, even when talking about highly controversial topics, since this feature will be reserved for \"extreme edge cases.\" Anthropic In the scenarios where Claude ends a chat, users can no longer send any new messages in that conversation, but can start a new one immediately. Anthropic added that if a conversation is ended, it won't affect other chats and users can even go back and edit or retry previous messages to steer towards a different conversational route. For Anthropic, this move is part of its research program that studies the idea of AI welfare. While the idea of anthropomorphizing AI models remains an ongoing debate, the company said the ability to exit a \"potentially distressing interaction\" was a low-cost way to manage risks for AI welfare. Anthropic is still experimenting with this feature and encourages its users to provide feedback when they encounter such a scenario. This article originally appeared on Engadget at https://www.engadget.com/ai/anthropics-claude-ai-now-has-the-ability-to-end-distressing-conversations-201427401.html?src=rss",
+    "ingested_utc": "2025-08-17T20:41:15Z"
+  },
+  {
+    "published_utc": "2025-08-17",
+    "retrieved_date": "2025-08-17",
+    "retrieved_utc": "2025-08-17T20:41:12Z",
+    "source": "TechCrunch_All",
+    "title": "‘Stranger Things’ creators may be leaving Netflix",
+    "url": "https://techcrunch.com/2025/08/17/stranger-things-creators-may-be-leaving-netflix/",
+    "id_key": "842b5682aaf64c60aefecc2b467701c70740292436b29a30604667d1a5da48d8",
+    "summary": "Netflix could soon lose the creative team behind one of its biggest hits, with the Duffer Brothers reportedly signing an exclusive deal with Paramount.",
+    "ingested_utc": "2025-08-17T20:41:12Z"
+  },
+  {
+    "published_utc": "2025-08-17",
+    "retrieved_date": "2025-08-17",
+    "retrieved_utc": "2025-08-17T20:38:23Z",
+    "source": "Guardian_World",
+    "title": "Supermarkets suspend supplies from Lincolnshire pig farm after covert filming of animal abuse",
+    "url": "https://www.theguardian.com/world/2025/aug/17/supermarkets-suspend-supplies-from-lincolnshire-pig-farm-after-covert-filming-of-animal-abuse",
+    "id_key": "2882c9290fbc0effd9dcd52945f8ef41c603c11c85a1cd97136ed923ed2639b2",
+    "summary": "Tesco, Asda and Sainsbury’s said they had ‘immediately’ suspended supplies from Somerby Top Farm after piglets kicked by workers Three of the UK’s biggest supermarkets have suspended supplies from a Lincolnshire pig farm after footage filmed covertly by an animal rights organisation appeared to show workers kicking piglets and hitting them with boards and paddles. The footage also suggested the injured pigs with open wounds were packed into pens covered in faeces, with some left lame and writhing in pain. Continue reading...",
+    "ingested_utc": "2025-08-17T20:38:23Z"
+  },
+  {
+    "published_utc": "2025-08-17",
+    "retrieved_date": "2025-08-17",
     "retrieved_utc": "2025-08-17T19:28:31Z",
     "source": "AlJazeera_All",
     "title": "Israelis protest to end Gaza war as anger over fate of captives boils over",
@@ -3727,6 +3760,17 @@
     "id_key": "2a009d2d8566afd72ab9f587af9d558c82038b7507c0d8686766d4ab1c696c4c",
     "summary": "US capital city’s law enforcement will remain under control of its chief, Pamela Smith White House officials and attorneys for Washington DC have agreed to scale back the Trump administration’s takeover of the city’s police department. Under an agreement announced early Friday evening, the US capital city’s Metropolitan police department will remain under the control of its chief, Pamela Smith, instead of Terry Cole, the top administrator for the Drug and Enforcement Administration (DEA), according to reports. Continue reading...",
     "ingested_utc": "2025-08-16T03:35:59Z"
+  },
+  {
+    "published_utc": "2025-08-15",
+    "retrieved_date": "2025-08-17",
+    "retrieved_utc": "2025-08-17T20:41:47Z",
+    "source": "HackerNews_Top",
+    "title": "The Oldest Mask in the World (Pre-Pottery Neolithic B)",
+    "url": "https://www.imj.org.il/en/collections/334459-0",
+    "id_key": "5274ef00d3f164c289c196adc30c480991f2ac555d665ed358a50e78ee12f0e9",
+    "summary": "Comments",
+    "ingested_utc": "2025-08-17T20:41:47Z"
   },
   {
     "published_utc": "2025-08-15",
@@ -10954,49 +10998,5 @@
     "summary": "ChatGPT's XRP Analysis has reported a 5.37% pullback to $3.10, testing the $2.99-$2.92 support zone as a $1B crypto liquidation prompts institutional profit-taking. Technical signals suggest a decisive move ahead, with infrastructure readiness supporting recovery potential. The post ChatGPT’s XRP Analysis Reveals Key Support Test at $3.10 as $1B Market Liquidation Triggers Profit-Taking appeared first on Cryptonews .",
     "ingested_utc": "2025-08-14T21:05:21Z",
     "retrieved_utc": "2025-08-14T21:05:21Z"
-  },
-  {
-    "published_utc": "2025-08-14",
-    "retrieved_date": "2025-08-14",
-    "source": "CryptoNews",
-    "title": "Arbitrum ($ARB) Climbs by 0.57% – Can Upgrades and Partnerships Push $ARB Past $0.59?",
-    "url": "https://cryptonews.com/news/arbitrum-arb-climbs-by-0-57-can-upgrades-and-partnerships-push-arb-past-0-59/",
-    "id_key": "275e16d4825ceba9ecf6342c99c4939cec8a5c873488eb64ca9794ef0d279cae",
-    "summary": "Arbitrum ($ARB) has built momentum through upgrades and partnerships: PYUSD support on-chain, Timeboost has been designed to speed processing, a $14M audit subsidy has been approved, and Offchain Labs has acquired ZeroDev. Price has tested $0.56–$0.57, with $0.59 watched and $0.48–$0.50 support. The post Arbitrum ($ARB) Climbs by 0.57% – Can Upgrades and Partnerships Push $ARB Past $0.59? appeared first on Cryptonews .",
-    "ingested_utc": "2025-08-14T21:05:21Z",
-    "retrieved_utc": "2025-08-14T21:05:21Z"
-  },
-  {
-    "published_utc": "2025-08-14",
-    "retrieved_date": "2025-08-14",
-    "source": "Protos",
-    "title": "MSTR underperforms, decouples from BTC to the downside",
-    "url": "https://protos.com/mstr-underperforms-decouples-from-btc-to-the-downside/",
-    "id_key": "540918a08d4aecc92625651a243dc774c6a5e1ddcebd9ef9092fd98fd8769e04",
-    "summary": "MicroStrategy investors have started to notice that their leveraged treasury stock is starting to underperform BTC. The post MSTR underperforms, decouples from BTC to the downside appeared first on Protos .",
-    "ingested_utc": "2025-08-14T21:05:20Z",
-    "retrieved_utc": "2025-08-14T21:05:20Z"
-  },
-  {
-    "published_utc": "2025-08-14",
-    "retrieved_date": "2025-08-14",
-    "source": "CryptoSlate",
-    "title": "Hong Kong regulators warn against hype-driven stablecoin market swings",
-    "url": "https://cryptoslate.com/hong-kong-regulators-warn-against-hype-driven-stablecoin-market-swings/",
-    "id_key": "b129a87c013ba30f1ae61a6452de47871506b289536e64d4fb3592e46b68f17d",
-    "summary": "Hong Kong’s financial regulators cautioned investors to avoid making impulsive bets on stablecoin-linked assets after a spate of sharp price swings tied to speculation, corporate announcements, and unverified claims about licensing plans in the city. In a joint statement, the Hong Kong Monetary Authority (HKMA) and the Securities and Futures Commission (SFC) said they had […] The post Hong Kong regulators warn against hype-driven stablecoin market swings appeared first on CryptoSlate .",
-    "ingested_utc": "2025-08-14T21:05:18Z",
-    "retrieved_utc": "2025-08-14T21:05:18Z"
-  },
-  {
-    "published_utc": "2025-08-14",
-    "retrieved_date": "2025-08-14",
-    "source": "HackerNews_Top",
-    "title": "Show HN: MCP Security Suite",
-    "url": "https://github.com/NineSunsInc/mighty-security",
-    "id_key": "3ba407454e51bd98f430d5b220b2e43b706204f0b74d1ed743b89bc93bdc6d7f",
-    "summary": "Comments",
-    "ingested_utc": "2025-08-14T21:05:14Z",
-    "retrieved_utc": "2025-08-14T21:05:14Z"
   }
 ]
