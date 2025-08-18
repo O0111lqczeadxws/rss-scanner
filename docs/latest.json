@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-08-18",
     "retrieved_date": "2025-08-18",
+    "retrieved_utc": "2025-08-18T22:50:40Z",
+    "source": "AlJazeera_All",
+    "title": "ISIL-backed rebels killed at least 52 people in eastern DR Congo, UN says",
+    "url": "https://www.aljazeera.com/news/2025/8/18/isil-backed-rebels-killed-at-least-52-people-in-eastern-dr-congo-un-says?traffic_source=rss",
+    "id_key": "29ec08a8495d94e4e10fa8cd087facb6c5eec4821f820cfccb8338d07bd0b002",
+    "summary": "MONUSCO condemns the attacks by the ADF 'in the strongest possible terms', the mission's spokesperson says.",
+    "ingested_utc": "2025-08-18T22:50:40Z"
+  },
+  {
+    "published_utc": "2025-08-18",
+    "retrieved_date": "2025-08-18",
     "retrieved_utc": "2025-08-18T22:38:16Z",
     "source": "Nikkei_Asia_Top",
     "title": "Japanese film 'Kokuho' brings in over $67.7m",
@@ -10987,16 +10998,5 @@
     "id_key": "67853f9f1044f95140bf73935859eab883d5212a0f0b19aef3f8fdab8d43a94b",
     "summary": "Comments",
     "ingested_utc": "2025-08-15T16:53:26Z"
-  },
-  {
-    "published_utc": "2025-08-15",
-    "retrieved_date": "2025-08-15",
-    "retrieved_utc": "2025-08-15T16:53:11Z",
-    "source": "FinancialPost_Business",
-    "title": "Air Canada, flight attendants in final day before strike deadline",
-    "url": "https://financialpost.com/pmn/air-canada-flight-attendants-in-final-day-before-strike-deadline-2",
-    "id_key": "89b0eb4ee5e25a2ac267da8844148681ed86ae814569438efa3d81af62555413",
-    "summary": "More than 10,000 flight attendants are poised to walk off the job around 1 a.m. ET on Saturday, followed by a company-imposed lockout if the two sides can’t reach an eleventh-hour deal. Air Canada warned it is cancelling around 500 flights previously scheduled to take off today in anticipation of the work stoppage, with a […]",
-    "ingested_utc": "2025-08-15T16:53:11Z"
   }
 ]
