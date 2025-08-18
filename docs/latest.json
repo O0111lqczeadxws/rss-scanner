@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-08-18",
     "retrieved_date": "2025-08-18",
+    "retrieved_utc": "2025-08-18T23:50:29Z",
+    "source": "TheStreet_Top",
+    "title": "ServiceNOW stock hits a wall amid AI boom, 'frustrates' veteran trader",
+    "url": "https://www.thestreet.com/investing/stocks/servicenow-stock-hits-a-wall-amid-ai-boom-frustrates-veteran-trader",
+    "id_key": "803cdccf35d709b9dcaeda178472be92488ce83e4b5b5ae2ab7ca97ef4c59c01",
+    "summary": "And TheStreet Pro portfolio's lead fund manager makes a move on ServiceNow.",
+    "ingested_utc": "2025-08-18T23:50:29Z"
+  },
+  {
+    "published_utc": "2025-08-18",
+    "retrieved_date": "2025-08-18",
+    "retrieved_utc": "2025-08-18T23:47:29Z",
+    "source": "BBC_World",
+    "title": "Key takeaways from Ukraine talks in Washington",
+    "url": "https://www.bbc.com/news/articles/c5yp4jggrj2o?at_medium=RSS&at_campaign=rss",
+    "id_key": "c71d6fb6fcfbf3ace5f2eab706d0530ead3c2890188674da4c64d08c79e2b89b",
+    "summary": "Ukraine's President Zelensky managed to avoid another disastrous Oval Office meeting with Donald Trump.",
+    "ingested_utc": "2025-08-18T23:47:29Z"
+  },
+  {
+    "published_utc": "2025-08-18",
+    "retrieved_date": "2025-08-18",
     "retrieved_utc": "2025-08-18T23:34:28Z",
     "source": "HackerNews_Top",
     "title": "Newgrounds: Flash Forward 2025",
@@ -10976,27 +10998,5 @@
     "id_key": "c8cbc27acbf64afac693607f5cbd97e1995096db46407f967dab89196a580045",
     "summary": "Share price falls in wake of interim results",
     "ingested_utc": "2025-08-15T17:41:03Z"
-  },
-  {
-    "published_utc": "2025-08-15",
-    "retrieved_date": "2025-08-15",
-    "retrieved_utc": "2025-08-15T17:41:01Z",
-    "source": "FT_Home",
-    "title": "WEF clears Klaus Schwab of material wrongdoing",
-    "url": "https://www.ft.com/content/94962fad-1735-4a66-a77d-2aca27e2ed28",
-    "id_key": "47aa5420be3f66d753d98d0b3d038643dbc129ed4d742c87e243115e334da850",
-    "summary": "Davos forum names BlackRock’s Larry Fink as interim co-chair after whisteblower allegations rejected",
-    "ingested_utc": "2025-08-15T17:41:01Z"
-  },
-  {
-    "published_utc": "2025-08-15",
-    "retrieved_date": "2025-08-15",
-    "retrieved_utc": "2025-08-15T17:38:55Z",
-    "source": "CryptoNews",
-    "title": "SPX6900 Slips to $1.55 as DeFi Expansion, CeFi Listings, and Rival TOKEN6900 Shape Next Move",
-    "url": "https://cryptonews.com/news/spx6900-slips-to-1-55-as-defi-expansion-cefi-listings-and-rival-token6900-shape-next-move/",
-    "id_key": "281804a43cc4d4bb1eba8df98633e33a288f6dc45c6f0df507ca774fab1460db",
-    "summary": "SPX6900 has broken its bullish run, sliding after losing key support. Whale movements, technical weakness, and a new rival token have clouded its momentum despite recent DeFi and CeFi integrations, NFT expansion, and multichain growth. Traders are watching for signs of a recovery. The post SPX6900 Slips to $1.55 as DeFi Expansion, CeFi Listings, and Rival TOKEN6900 Shape Next Move appeared first on Cryptonews .",
-    "ingested_utc": "2025-08-15T17:38:55Z"
   }
 ]
