@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-08-19",
     "retrieved_date": "2025-08-19",
+    "retrieved_utc": "2025-08-19T07:48:43Z",
+    "source": "BBC_Technology",
+    "title": "US says UK has withdrawn demand to access Apple users' encrypted data",
+    "url": "https://www.bbc.com/news/articles/cdj2m3rrk74o?at_medium=RSS&at_campaign=rss",
+    "id_key": "15824e0f5e75dc73c9ac27bd00d85744c88cac7b852e54bd08150c8381e107d4",
+    "summary": "UK authorities have demanded access to Apple users' protected files when required for investigations.",
+    "ingested_utc": "2025-08-19T07:48:43Z"
+  },
+  {
+    "published_utc": "2025-08-19",
+    "retrieved_date": "2025-08-19",
+    "retrieved_utc": "2025-08-19T07:46:52Z",
+    "source": "Guardian_World",
+    "title": "Ship loaded with 1,200 tons of food to try to alleviate Gaza hunger crisis approaches Israeli port – Middle East crisis live",
+    "url": "https://www.theguardian.com/world/live/2025/aug/19/aid-ship-food-gaza-cyprus-israel-middle-east-crisis-latest-updates-news",
+    "id_key": "e69ff56c94dbc5095a6c332b6d3f98beea16f09324344eeb5a91751679311def",
+    "summary": "Ship departed Cyprus’s main port of Limassol containing aid which will be distribute by UN and World Central Kitchen, says Cypriot foreign ministry Hello and welcome to our live coverage of Israel’s war on Gaza. A ship loaded with 1,200 tons of food supplies for Gaza is approaching the Israeli port of Ashdod. Continue reading...",
+    "ingested_utc": "2025-08-19T07:46:52Z"
+  },
+  {
+    "published_utc": "2025-08-19",
+    "retrieved_date": "2025-08-19",
     "retrieved_utc": "2025-08-19T07:34:56Z",
     "source": "AlJazeera_All",
     "title": "Wildfires rage across Spain and Portugal as record area of land burned",
@@ -10976,27 +10998,5 @@
     "id_key": "ab28dd920a063224823d5aef40e156948276a5b690b64e932780c8d8565774ab",
     "summary": "Beautiful Girls singer and his mother were convicted in March of accruing luxury items through falsified payments Sean Kingston has been sentenced to three and a half years in prison by a Florida court for a $1m wire fraud scheme, according to NBC South Florida . The 35-year-old singer, born Kisean Anderson, was found guilty in a South Florida court in March alongside his mother, Janice Turner, for accruing about $1m worth of luxury items through falsified payments that never cleared. Turner was sentenced in July to five years in prison with three years of probation. Continue reading...",
     "ingested_utc": "2025-08-15T21:29:52Z"
-  },
-  {
-    "published_utc": "2025-08-15",
-    "retrieved_date": "2025-08-15",
-    "retrieved_utc": "2025-08-15T20:56:00Z",
-    "source": "FinancialPost_Business",
-    "title": "Operation begins to free ship run aground in St. Lawrence River near Montreal",
-    "url": "https://financialpost.com/pmn/operation-begins-to-free-ship-run-aground-in-st-lawrence-river-near-montreal-2",
-    "id_key": "393231f8be2725aed3e13f02a5b017adb7ad715ef6a6a5cf3f3be330b56809b6",
-    "summary": "VERCHERES — Authorities began unloading thousands of tonnes of sugar from a cargo vessel run aground in the St. Lawrence River near Montreal on Friday in an attempt to free the ship. The Federal Yamaska became stuck near Vercheres, Que., at around 5:45 a.m. Tuesday, following a complete loss of engines. A first attempt to […]",
-    "ingested_utc": "2025-08-15T20:56:00Z"
-  },
-  {
-    "published_utc": "2025-08-15",
-    "retrieved_date": "2025-08-15",
-    "retrieved_utc": "2025-08-15T20:55:22Z",
-    "source": "NPR_Technology",
-    "title": "Brain implants that decode a person's inner voice may threaten privacy",
-    "url": "https://www.npr.org/2025/08/15/nx-s1-5500191/brain-implants-that-decode-a-persons-inner-voice-may-threaten-privacy",
-    "id_key": "22b905ae77af20327ae99b15151f5eb358297859b86df411cf2495fab65509bc",
-    "summary": "A new brain-computer interface can decode a person's inner monologue. That could help paralyzed people communicate, but also suggests scientists are one step closer to reading a person's thoughts.",
-    "ingested_utc": "2025-08-15T20:55:22Z"
   }
 ]
