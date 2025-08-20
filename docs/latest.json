@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-08-20",
     "retrieved_date": "2025-08-20",
+    "retrieved_utc": "2025-08-20T08:57:24Z",
+    "source": "BBC_World",
+    "title": "Heavy rain paralyses India's financial capital Mumbai",
+    "url": "https://www.bbc.com/news/articles/cx29jw7488go?at_medium=RSS&at_campaign=rss",
+    "id_key": "42efcbc177ad2e3b1c2c33f2e4db9ccbf0820b8434db0f3d4b16b21129052631",
+    "summary": "Nearly 600 people were rescued from a stalled monorail system and 350 others have been shifted to shelters.",
+    "ingested_utc": "2025-08-20T08:57:24Z"
+  },
+  {
+    "published_utc": "2025-08-20",
+    "retrieved_date": "2025-08-20",
     "retrieved_utc": "2025-08-20T08:47:39Z",
     "source": "FinancialPost_Business",
     "title": "Sweden Central Bank Holds Rates, Still Signals Cut This Year",
@@ -10987,16 +10998,5 @@
     "id_key": "9a2b09f85e24d4bd7a53c452f581d442c2a0aeb54900d4abb95a7057faa09ba8",
     "summary": "Ukraine's Zelenskyy and European leaders to meet Trump at White House Monday, Israelis protest to demand a hostage deal as leaders plan to occupy Gaza City, more National Guard troops heading to D.C.",
     "ingested_utc": "2025-08-18T09:49:17Z"
-  },
-  {
-    "published_utc": "2025-08-18",
-    "retrieved_date": "2025-08-18",
-    "retrieved_utc": "2025-08-18T09:49:15Z",
-    "source": "NPR_Top",
-    "title": "Trump to meet Zelenskyy with 2 big issues in focus: security guarantees and land",
-    "url": "https://www.npr.org/2025/08/18/nx-s1-5505397/trump-zelenskyy-white-house-meeting-russia-ukraine",
-    "id_key": "d9b1cd82fb8e933719b93cccf19b01c924e670f04b2f49a08308421144c7e946",
-    "summary": "The Ukrainian president will be joined at the White House on Monday by several key European leaders, as they look to find an end to the war between Russia and Ukraine.",
-    "ingested_utc": "2025-08-18T09:49:15Z"
   }
 ]
