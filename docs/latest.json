@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-08-20",
     "retrieved_date": "2025-08-20",
+    "retrieved_utc": "2025-08-20T04:58:06Z",
+    "source": "FinancialPost_Business",
+    "title": "Greenwashing Complaint Filed Against Canadian Fossil Fuel Companies",
+    "url": "https://financialpost.com/pmn/business-pmn/greenwashing-complaint-filed-against-canadian-fossil-fuel-companies",
+    "id_key": "7df46ae2a5c3b048428fedc30f798ee8e973d325069858eeff7f3d2a8b25d1c1",
+    "summary": "The group Investors for Paris Compliance has accused Cenovus and Enbridge of overstating their efforts to reach net zero.",
+    "ingested_utc": "2025-08-20T04:58:06Z"
+  },
+  {
+    "published_utc": "2025-08-20",
+    "retrieved_date": "2025-08-20",
     "retrieved_utc": "2025-08-20T04:47:36Z",
     "source": "HackerNews_Top",
     "title": "Pre-Sputnik Earth-Orbit Glints",
@@ -10987,16 +10998,5 @@
     "id_key": "56ee783c50165bb09ddc92049ad51187bb1572553141e425f449492dad210594",
     "summary": "A dark horse centrist, Sen. Rodrigo Paz, drew more votes than the right-wing front-runners, although not enough to secure an outright victory, early results showed.",
     "ingested_utc": "2025-08-18T05:52:32Z"
-  },
-  {
-    "published_utc": "2025-08-18",
-    "retrieved_date": "2025-08-18",
-    "retrieved_utc": "2025-08-18T05:52:24Z",
-    "source": "NYTimes_World",
-    "title": "A Centrist Surges in Bolivia as Voters Turn Away From Socialism",
-    "url": "https://www.nytimes.com/2025/08/17/world/americas/bolivia-presidential-election-explained.html",
-    "id_key": "b06184dcdb016b1969d30a0eba3c8b37fa50dd467e57e35f91223a5ee4129e78",
-    "summary": "Rodrigo Paz, who had trailed in the polls, won the first round of the presidential election on Sunday, as decades of dominance by a leftist party neared an end.",
-    "ingested_utc": "2025-08-18T05:52:24Z"
   }
 ]
