@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-08-21",
     "retrieved_date": "2025-08-21",
+    "retrieved_utc": "2025-08-21T19:49:55Z",
+    "source": "Engadget_All",
+    "title": "Google is selling a version of Gemini for government agencies",
+    "url": "https://www.engadget.com/ai/google-is-selling-a-version-of-gemini-for-government-agencies-194221616.html?src=rss",
+    "id_key": "e02820fc6b453d4cc3569ddef88930e7dd46a102aedc5923fa833200d5bbafb7",
+    "summary": "Google has announced plans to sell a custom version of its Gemini AI models for government agencies. \"Gemini for Government\" includes access to existing tools like NotebookLM, and \"Google-quality enterprise search, video and image generation capabilities.\" The AI platform is in direct competition with similar offerings from OpenAI , Anthropic and xAI . A big focus of Google's pitch for Gemini for Government is the idea of automating administrative tasks with AI agents. The company touts pre-built Deep Research and Idea Generation agents that will be available to government agencies from the jump, but anyone who invests in the new AI platform will also get the ability to build custom agents of their own. Gemini for Government will also offer threat protection and data privacy features, and will be compliant with cloud security standards like Sec4 and FedRAMP. Google's offering its AI platform for $0.50 per year for government agencies, with the option to pay more for extra security features. The low price is as much an enticement as it is a jab at OpenAI and Anthropic, who both announced $1 government AI deals in the last few months. These attempts to become government AI contractors are happening in the shadow of the AI Action Plan President Donald Trump announced in July. The Trump administration's stated goal is to spur development, turn AI into an American export and remove \"idealogical bias\" from AI models, but the specifics of the plan are concerningly open to interpretation. Trump's proposal asks federal agencies to withhold \"AI-related\" funding from states with \"burdensome\" AI regulations. It also directs the Federal Communications Commission to assume a role in regulating AI, placing even more theoretical power in the executive branch. This article originally appeared on Engadget at https://www.engadget.com/ai/google-is-selling-a-version-of-gemini-for-government-agencies-194221616.html?src=rss",
+    "ingested_utc": "2025-08-21T19:49:55Z"
+  },
+  {
+    "published_utc": "2025-08-21",
+    "retrieved_date": "2025-08-21",
+    "retrieved_utc": "2025-08-21T19:49:53Z",
+    "source": "ArsTechnica_All",
+    "title": "Junk-filled garages hurt EV sales as people don’t have room for chargers",
+    "url": "https://arstechnica.com/cars/2025/08/junk-filled-garages-hurt-ev-sales-as-people-dont-have-room-for-chargers/",
+    "id_key": "85180805043f83b82e221e8a5139ae38e714a2dda5206cf0a99b447cad9d3796",
+    "summary": "A new report looks at barriers to EV charging.",
+    "ingested_utc": "2025-08-21T19:49:53Z"
+  },
+  {
+    "published_utc": "2025-08-21",
+    "retrieved_date": "2025-08-21",
     "retrieved_utc": "2025-08-21T19:41:47Z",
     "source": "AlJazeera_All",
     "title": "Can a ceasefire deal now be reached in Gaza?",
@@ -10976,27 +10998,5 @@
     "id_key": "4f6400b9f5ef0ee4072bb0e75303e9584a71982f17e21915bda1f457b1c71715",
     "summary": "Swapping outdated levies for an annual proportional property tax looks sensible",
     "ingested_utc": "2025-08-20T04:46:47Z"
-  },
-  {
-    "published_utc": "2025-08-20",
-    "retrieved_date": "2025-08-20",
-    "retrieved_utc": "2025-08-20T04:46:47Z",
-    "source": "FT_Home",
-    "title": "Bessent bets on stablecoins to bolster demand for Treasuries",
-    "url": "https://www.ft.com/content/1914c189-b4ed-46dd-adde-106b08a68183",
-    "id_key": "458b0eaede7c8e6132a3b21eb40b2d1311130dc77bb7b21005a0982d850ef0eb",
-    "summary": "Treasury secretary’s discussions with crypto groups have helped inform issuance decisions",
-    "ingested_utc": "2025-08-20T04:46:47Z"
-  },
-  {
-    "published_utc": "2025-08-20",
-    "retrieved_date": "2025-08-20",
-    "retrieved_utc": "2025-08-20T04:44:46Z",
-    "source": "CryptoNews",
-    "title": "Fed Top Official Urges Central Bank Staff to Hold ‘de Minimus’ Crypto",
-    "url": "https://cryptonews.com/news/fed-top-official-urges-central-bank-staff-to-hold-de-minimus-crypto/",
-    "id_key": "c738a84f283109e23944ef5df9e636cdd5d5b40c3aab37a292dfca5a1a970712",
-    "summary": "US Fed Vice Chair for Supervision Michelle Bowman is suggesting allowing central bank employees to hold “de minimus” amounts. of crypto. The post Fed Top Official Urges Central Bank Staff to Hold ‘de Minimus’ Crypto appeared first on Cryptonews .",
-    "ingested_utc": "2025-08-20T04:44:46Z"
   }
 ]
