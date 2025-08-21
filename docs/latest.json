@@ -2,6 +2,72 @@
   {
     "published_utc": "2025-08-21",
     "retrieved_date": "2025-08-21",
+    "retrieved_utc": "2025-08-21T20:53:39Z",
+    "source": "FinancialPost_Business",
+    "title": "CPABC: Tariff uncertainty disrupts Lower Mainland housing market as population growth outpaces housing completions",
+    "url": "https://financialpost.com/globe-newswire/cpabc-tariff-uncertainty-disrupts-lower-mainland-housing-market-as-population-growth-outpaces-housing-completions",
+    "id_key": "cfbc79fe937bb2a8f4b871e066a271b10000365e174a4a45c3f0c72519b7a28a",
+    "summary": "VANCOUVER, British Columbia, Aug. 21, 2025 (GLOBE NEWSWIRE) — According to BC Check-Up: Live, an annual report by the Chartered Professional Accountants of British Columbia (CPABC) on demographic and affordability trends across the province, Southwest B.C.’s population grew by 137,616 new residents in 2024. “Population growth eclipsed the four per cent mark for the second […]",
+    "ingested_utc": "2025-08-21T20:53:39Z"
+  },
+  {
+    "published_utc": "2025-08-21",
+    "retrieved_date": "2025-08-21",
+    "retrieved_utc": "2025-08-21T20:53:39Z",
+    "source": "FinancialPost_Business",
+    "title": "Stock Slide Deepens Before Powell as Yields Rise: Markets Wrap",
+    "url": "https://financialpost.com/pmn/business-pmn/stock-slide-deepens-before-powell-as-yields-rise-markets-wrap",
+    "id_key": "5b4bf668f03985fee53068e8751a6e171ca63ef39e362cf9772d3de07cb5768d",
+    "summary": "Caution prevailed on Wall Street ahead of Jerome Powell’s speech, with stocks falling and bond yields rising as a key factory report raised concern that inflation pressures could dim the outlook for rate cuts.",
+    "ingested_utc": "2025-08-21T20:53:39Z"
+  },
+  {
+    "published_utc": "2025-08-21",
+    "retrieved_date": "2025-08-21",
+    "retrieved_utc": "2025-08-21T20:52:11Z",
+    "source": "Arbitrum_Nitro_Releases",
+    "title": "Arbitrum Nitro v3.7.0-rc.8",
+    "url": "https://github.com/OffchainLabs/nitro/releases/tag/v3.7.0-rc.8",
+    "id_key": "a3ea4e06b69065950fa0e75d2d75c79cafbe37baf3cd92ab15e38f401a1d9fbd",
+    "summary": "This release is available as a Docker Image on Docker Hub at offchainlabs/nitro-node:v3.7.0-rc.8-6d34456 This Docker image specifies default flags in its entrypoint which should be replicated if you're overriding the entrypoint: /usr/local/bin/nitro --validation.wasm.allowed-wasm-module-roots /home/user/nitro-legacy/machines,/home/user/target/machines If you're running a validator without a split validation server (this will be true of most validators), you should instead use the image offchainlabs/nitro-node:v3.7.0-rc.8-6d34456-validator which has the extra script /usr/local/bin/split-val-entry.sh as the entrypoint. Special Note Nitro 3.7.0 uses go-ethereum 1.15.11 and includes a brand new log indexing system called filtermaps that has resulted in an increase in log indexing latency due to Nitro’s current reliance on HashDB (instead of PathDB). In some cases, this can delay log queries from being served anywhere between 5 seconds to 2 minutes on Arbitrum One during long tail unindexing. We’ve observed that this happens roughly once per day based on Arbitrum One mainnet traffic levels. Teams who need to serve log queries with consisten latency (e.g. eth_getLogs , eth_getFilterLogs , eth_getFilterChanges ) can use the configuration parameter --execution.rpc.log-history=0 to keep all log history, which will only slightly increase database growth. Teams running their own log indexer may be unaffected. Future releases of Nitro are expected to fix the issue of log indexing being able to block log queries. What's Changed Various internal bugfixes Internal highlights Fix ArbNativeTokenManager precompile inclusion: #3497 add configurable jit executable path via CLI flag: #3495 github actions: use foundry v1.0.0: #3499 block validator benchmark to use Options-based signature: #3502 Improve description of trivial contributions: #3504 stylus wasmer version: don't upgrade if unnecessary: #3508 Stylus cranelift: #3480 Update fastcache: #3503 BoLD GlobalState not in chain should be a fatal error:: #3449 Basic seq-coordinator config validation: #3489 Close part files after the copy is done: #3512 resolve race condition in storage test goroutines: #3509 Fix relay backlog corruption at segment boundaries: #3516 Revert \"Disable HTTP/2 for das aggregator by default\": #3517 Return a fatal error instead of stopping the StopWaiter in case of Er…: #3520 Full Changelog : v3.7.0-rc.7...v3.7.0-rc.8",
+    "ingested_utc": "2025-08-21T20:52:11Z"
+  },
+  {
+    "published_utc": "2025-08-21",
+    "retrieved_date": "2025-08-21",
+    "retrieved_utc": "2025-08-21T20:51:03Z",
+    "source": "CryptoNews",
+    "title": "ChatGPT’s XRP Analysis Flags Bearish Setup Below EMAs – Eyes on SWIFT’s Integration",
+    "url": "https://cryptonews.com/news/chatgpt-xrp-analysis-bearish-below-emas-swift-150t/",
+    "id_key": "d7b8b4e06714f2ca81e14d0baa2ee9f3ec37ab00248c6526f06db8eef1cca6fc",
+    "summary": "ChatGPT's XRP Analysis has detailed consolidation at $2.8993 under key EMAs with RSI 41, mixed MACD and light volume, as SWIFT has scheduled live trials for Nov. 2025 on a $150T network, with XRP and HBAR cited as candidates. Scenarios have outlined recovery toward $3.20–$3.40 or extended range. The post ChatGPT’s XRP Analysis Flags Bearish Setup Below EMAs – Eyes on SWIFT’s Integration appeared first on Cryptonews .",
+    "ingested_utc": "2025-08-21T20:51:03Z"
+  },
+  {
+    "published_utc": "2025-08-21",
+    "retrieved_date": "2025-08-21",
+    "retrieved_utc": "2025-08-21T20:50:40Z",
+    "source": "Guardian_World",
+    "title": "News live: Australia says Israel’s West Bank settlement plan is ‘unacceptable’ and demands press access to Gaza",
+    "url": "https://www.theguardian.com/australia-news/live/2025/aug/22/australia-news-live-penny-wong-gaza-israel-netanyahu-anthony-albanese-childcare-safety-education-database-ntwnfb",
+    "id_key": "71c1be00e7452374b85130994eb1da395319103d1fb700fabe3c8c8075a491e4",
+    "summary": "Albanese government joins 20 other countries in condemning Israeli plan to expand Jewish settlements. Follow today’s news live Get our breaking news email , free app or daily news podcast Australia has joined 20 other countries in condemning Israel’s plans to expand Jewish settlements on the West Bank. In a move likely to further enrage benjamin Netanyahu and his rightwing-dominated ruling coalition, foreign minister Penny Wong said the Israeli plan for the E1 area east of Jerusalem was “unacceptable and a violation of international law”. The decision by the Israeli higher planning committee to approve plans for settlement construction in the E1 area, East of Jerusalem, is unacceptable and a violation of international law. We condemn this decision and call for its immediate reversal in the strongest terms. Continue reading...",
+    "ingested_utc": "2025-08-21T20:50:40Z"
+  },
+  {
+    "published_utc": "2025-08-21",
+    "retrieved_date": "2025-08-21",
+    "retrieved_utc": "2025-08-21T20:50:40Z",
+    "source": "Guardian_World",
+    "title": "Lil Nas X arrested and hospitalized after altercation with police – reports",
+    "url": "https://www.theguardian.com/music/2025/aug/21/lil-nas-x-arrested-hospitalized-police",
+    "id_key": "41b13c894f1e591364949ee612355bc8e78d9da3dc1e22a939c8fcf4370ef0c8",
+    "summary": "The 26-year-old rapper and singer was seen walking down the street in his underwear Thursday morning in LA Lil Nas X has been arrested after an altercation with police, according to reports. Officials confirmed to NBC that the 26-year-old rapper and singer was booked on suspicion of misdemeanour battery after he was confronted while walking down the street in his underwear. Continue reading...",
+    "ingested_utc": "2025-08-21T20:50:40Z"
+  },
+  {
+    "published_utc": "2025-08-21",
+    "retrieved_date": "2025-08-21",
     "retrieved_utc": "2025-08-21T20:40:05Z",
     "source": "FinancialPost_Business",
     "title": "Passengers sue United and Delta for selling ‘window’ seats next to blank walls",
@@ -10932,71 +10998,5 @@
     "id_key": "970bf2fc9e2f130f7b8d26fc90f42dd7ae3ffb04423599a4e7e9bcd8d761547a",
     "summary": "Thirty years ago, park rangers reintroduced grey wolves into Yellowstone National Park. They wanted to restore the ecosystem and get the elk population, which had decimated the plant community, in check. And it worked – or so the popular narrative suggests. But is it really so simple? Today on the show, we explore how the Yellowstone ecosystem has changed since wolves returned and whether those changes can really be pinned solely on wolves. Plus, how the narrative of the Yellowstone wolf legacy could affect wolf reintroduction elsewhere. Curious about other science controversies? Email us at shortwave@npr.org . Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at plus.npr.org/shortwave .",
     "ingested_utc": "2025-08-20T07:35:07Z"
-  },
-  {
-    "published_utc": "2025-08-20",
-    "retrieved_date": "2025-08-20",
-    "retrieved_utc": "2025-08-20T07:32:46Z",
-    "source": "Guardian_World",
-    "title": "News live: Australia needs to escalate sanctions on Israel, Husic says; widespread flood warnings for NSW",
-    "url": "https://www.theguardian.com/australia-news/live/2025/aug/20/australia-news-live-bruce-lehrmann-federal-court-appeal-network-10-lisa-wilkinson-brittany-higgins-parliament-productivity-economic-reform-roundtable-ntwnfb",
-    "id_key": "89963dcee21afa844566d3d53c59571433639ca2dae19f6e114eb7ae8ebc7aa3",
-    "summary": "Follow today’s news live Get our breaking news email , free app or daily news podcast As I noted in my hello earlier, rain is on the brain in Sydney, with a deluge set to continue for days. Melbourne is cold, but lovely, and Adelaide and Hobart are both expecting sunshine today. Brisbane, Perth and Canberra are in for rain. Continue reading...",
-    "ingested_utc": "2025-08-20T07:32:46Z"
-  },
-  {
-    "published_utc": "2025-08-20",
-    "retrieved_date": "2025-08-20",
-    "retrieved_utc": "2025-08-20T07:32:46Z",
-    "source": "Guardian_World",
-    "title": "Childcare needs a ‘fundamental reset’ to improve safety. These are Victoria’s key recommendations",
-    "url": "https://www.theguardian.com/australia-news/2025/aug/20/victoria-childcare-safety-review-recommendations-unveiled-ntwnfb",
-    "id_key": "49d9ea48cbd6fe79a576b3e8fa9c8f193ca2d822edfa5d56936139131abf2669",
-    "summary": "State to accept all 22 recommendations as federal government releases names of 30 childcare centres subject to compliance action Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Major reforms to working with children checks, more unannounced visits to childcare centres and a rethink of the reliance on for-profit providers are among the recommendations of Victoria’s urgent review into childcare. The review, written by the former South Australian premier Jay Weatherill and senior Victorian bureaucrat Pam White, was released in full by the state government on Wednesday. Continue reading...",
-    "ingested_utc": "2025-08-20T07:32:46Z"
-  },
-  {
-    "published_utc": "2025-08-20",
-    "retrieved_date": "2025-08-20",
-    "retrieved_utc": "2025-08-20T07:32:46Z",
-    "source": "Guardian_World",
-    "title": "Rail fares in England on path to rise by 5.8% next year on back of inflation data",
-    "url": "https://www.theguardian.com/money/2025/aug/20/rail-fares-in-england-rise-next-year",
-    "id_key": "b10a1811cdb81fd4d037f6fcb91dd393b91c17db8386d602f70afadee4112398",
-    "summary": "Concern among passenger groups after reading that dictates regulated ticket prices came in higher than forecast UK inflation rises by more than expected to 3.8% Business live – latest updates Train fares in England expected to rise by as much as 5.8% next year on the back of the latest inflation data release, sparking concern among passenger groups. Increases in rail ticket prices are usually calculated by adding one percentage point to July’s inflation reading on the retail prices index, which was a higher than expected 4.8%, according to figures from the Office for National Statistics. Continue reading...",
-    "ingested_utc": "2025-08-20T07:32:46Z"
-  },
-  {
-    "published_utc": "2025-08-20",
-    "retrieved_date": "2025-08-20",
-    "retrieved_utc": "2025-08-20T07:32:43Z",
-    "source": "BBC_World",
-    "title": "Heavy rain paralyses life in India's financial capital Mumbai",
-    "url": "https://www.bbc.com/news/articles/cx29jw7488go?at_medium=RSS&at_campaign=rss",
-    "id_key": "933dd0e5a6246a21aa8306a53746573ba72454ed867ce70d609d5abd3548c691",
-    "summary": "Nearly 600 people were rescued from a stalled monorail system and 350 others have been shifted to shelters.",
-    "ingested_utc": "2025-08-20T07:32:43Z"
-  },
-  {
-    "published_utc": "2025-08-20",
-    "retrieved_date": "2025-08-20",
-    "retrieved_utc": "2025-08-20T06:58:02Z",
-    "source": "FinancialPost_Business",
-    "title": "World’s Two Biggest Miners Meet With Trump Over Copper Plans",
-    "url": "https://financialpost.com/pmn/business-pmn/worlds-two-biggest-miners-meet-with-trump-over-copper-project",
-    "id_key": "7a88a2e4ffd168a6384b85c4f6e8bae76e60fb3f42ea50b4dcc4dc0bd88a219b",
-    "summary": "The chief executive officers of the world’s two biggest mining companies met President Donald Trump to discuss a copper project that could supply the US with a quarter of its demand for decades to come.",
-    "ingested_utc": "2025-08-20T06:58:02Z"
-  },
-  {
-    "published_utc": "2025-08-20",
-    "retrieved_date": "2025-08-20",
-    "retrieved_utc": "2025-08-20T06:57:24Z",
-    "source": "FT_Home",
-    "title": "UK inflation rises more than expected to 3.8% in July",
-    "url": "https://www.ft.com/content/7a75942f-9b40-4c49-b87f-e0ed3bed83f8",
-    "id_key": "f31f9f75930177a497d0420738b3d2e04a36329dbce60c6fabd7ad7bf7aff58f",
-    "summary": "Economists say figure casts doubt on prospect of further BoE rate cuts this year",
-    "ingested_utc": "2025-08-20T06:57:24Z"
   }
 ]
