@@ -2,6 +2,61 @@
   {
     "published_utc": "2025-08-22",
     "retrieved_date": "2025-08-22",
+    "retrieved_utc": "2025-08-22T23:32:40Z",
+    "source": "Nikkei_Asia_Top",
+    "title": "China's price wars lead to free food, half-price designer bags",
+    "url": "https://asia.nikkei.com/economy/china-s-price-wars-lead-to-free-food-half-price-designer-bags",
+    "id_key": "a7481d1dca599051c9a03c10259987d9c364f1b382afed93d23ada00f35d43be",
+    "summary": "",
+    "ingested_utc": "2025-08-22T23:32:40Z"
+  },
+  {
+    "published_utc": "2025-08-22",
+    "retrieved_date": "2025-08-22",
+    "retrieved_utc": "2025-08-22T23:32:25Z",
+    "source": "AlJazeera_All",
+    "title": "Chaves Robles becomes first Costa Rican president to face loss of immunity",
+    "url": "https://www.aljazeera.com/news/2025/8/22/chaves-robles-becomes-first-costa-rican-president-to-face-loss-of-immunity?traffic_source=rss",
+    "id_key": "1d65181963c14de50e7831d0a58db0ec46ff13f0522c756d6dbe96b5bec071e8",
+    "summary": "The conservative president faced a legislative panel weighing whether he should retain his immunity from prosecution.",
+    "ingested_utc": "2025-08-22T23:32:25Z"
+  },
+  {
+    "published_utc": "2025-08-22",
+    "retrieved_date": "2025-08-22",
+    "retrieved_utc": "2025-08-22T23:31:51Z",
+    "source": "NPR_Top",
+    "title": "N.Y. tour bus crash leaves 5 passengers dead and many others injured",
+    "url": "https://www.npr.org/2025/08/22/g-s1-84781/new-york-tour-bus-crash",
+    "id_key": "2e800929e79ec99723422740dd8a3ff29447c64398521504ccf377bea176423c",
+    "summary": "A tour bus returning to New York City from Niagara Falls with 54 people on board crashed and rolled on a highway near Pembroke, killing five passengers and injuring many others, authorities said.",
+    "ingested_utc": "2025-08-22T23:31:51Z"
+  },
+  {
+    "published_utc": "2025-08-22",
+    "retrieved_date": "2025-08-22",
+    "retrieved_utc": "2025-08-22T23:31:43Z",
+    "source": "NYTimes_Business",
+    "title": "Ex-Employee Sentenced to 4 Years for Sabotaging Company’s Computer Network",
+    "url": "https://www.nytimes.com/2025/08/22/business/eaton-corporation-hack-prison-sentence.html",
+    "id_key": "b03e2c91896779d5114c550508b2b50b321eef215b4fa36ad5d0ba1a26ae5032",
+    "summary": "The man, a former software developer for Eaton Corporation, wrote malicious code that crashed servers on the company’s network in 2019, prosecutors said.",
+    "ingested_utc": "2025-08-22T23:31:43Z"
+  },
+  {
+    "published_utc": "2025-08-22",
+    "retrieved_date": "2025-08-22",
+    "retrieved_utc": "2025-08-22T23:29:46Z",
+    "source": "CryptoSlate",
+    "title": "Interpol arrests 1,200 people, seizes over $100M in crypto busts across multiple African countries",
+    "url": "https://cryptoslate.com/interpol-arrests-1200-people-seizes-over-100m-in-crypto-busts-across-multiple-african-countries/",
+    "id_key": "ea79cac407e8ffb37e42a66a77fb61ebaa658c679bcc822d301a126a4b90cd13",
+    "summary": "Authorities across Africa arrested more than 1,200 suspects and seized nearly $100 million in a sweeping cybercrime operation that dismantled online fraud networks and illegal crypto mining operations, INTERPOL announced on Aug. 22. The three-month crackdown, known as Operation Serengeti 2.0, targeted nearly 88,000 victims across 18 African nations in collaboration with the UK. Investigators […] The post Interpol arrests 1,200 people, seizes over $100M in crypto busts across multiple African countries appeared first on CryptoSlate .",
+    "ingested_utc": "2025-08-22T23:29:46Z"
+  },
+  {
+    "published_utc": "2025-08-22",
+    "retrieved_date": "2025-08-22",
     "retrieved_utc": "2025-08-22T22:50:15Z",
     "source": "HackerNews_Top",
     "title": "Tesla Hasn't Filed Crash Reports on Time. Federal Investigators Want to Know Why",
@@ -10943,60 +10998,5 @@
     "id_key": "d9ba2b57d81d1fc7651386af0869899200b814f25c07fb25765e323a5cfd8709",
     "summary": "Weatherford International along with other companies continue to provide critical equipment to the country",
     "ingested_utc": "2025-08-21T04:46:43Z"
-  },
-  {
-    "published_utc": "2025-08-21",
-    "retrieved_date": "2025-08-21",
-    "retrieved_utc": "2025-08-21T04:46:43Z",
-    "source": "FT_Home",
-    "title": "Councils move to close off key alternative to asylum hotels in England",
-    "url": "https://www.ft.com/content/a8be6719-6ef6-47fc-bcb1-8584c1db418f",
-    "id_key": "682c0cdf84410c166437cdfcdca7e58451636cbec18d180026982f11afe40247",
-    "summary": "Local authorities tighten controls on houses in multiple occupation amid fears for community cohesion",
-    "ingested_utc": "2025-08-21T04:46:43Z"
-  },
-  {
-    "published_utc": "2025-08-21",
-    "retrieved_date": "2025-08-21",
-    "retrieved_utc": "2025-08-21T04:46:32Z",
-    "source": "NYTimes_World",
-    "title": "Thursday Briefing: Israeli Troops Near Gaza City",
-    "url": "https://www.nytimes.com/2025/08/21/briefing/gaza-city-offensive-west-bank-settlements-ukraine-russia-china-tibet.html",
-    "id_key": "d726c2dca2c8207efaef962eb25e0257eeef4571e4dc91e6c4cf22c116c2d926",
-    "summary": "Also, Africa’s push for a new world map.",
-    "ingested_utc": "2025-08-21T04:46:32Z"
-  },
-  {
-    "published_utc": "2025-08-21",
-    "retrieved_date": "2025-08-21",
-    "retrieved_utc": "2025-08-21T04:44:41Z",
-    "source": "CryptoNews",
-    "title": "[LIVE] Crypto News Today: Latest Updates for August 21, 2025 – Bitcoin, Ethereum Hold Key Levels as Demand Cools, CeFi Tokens Rally",
-    "url": "https://cryptonews.com/news/live-crypto-news-today-latest-updates-for-august-21-2025/",
-    "id_key": "37c222f5565a67ad0883ffbb64be335e70c0bde1582cd1d16b7506f9446c8787",
-    "summary": "Follow up to the hour updates on what is happening in crypto today, August 21. Market movements, crypto news, and more! The post [LIVE] Crypto News Today: Latest Updates for August 21, 2025 – Bitcoin, Ethereum Hold Key Levels as Demand Cools, CeFi Tokens Rally appeared first on Cryptonews .",
-    "ingested_utc": "2025-08-21T04:44:41Z"
-  },
-  {
-    "published_utc": "2025-08-21",
-    "retrieved_date": "2025-08-21",
-    "retrieved_utc": "2025-08-21T04:44:41Z",
-    "source": "CryptoNews",
-    "title": "Coinbase CEO Brian Armstrong Projects Bitcoin Price Explosion to $1M by 2030",
-    "url": "https://cryptonews.com/news/coinbase-ceo-brian-armstrong-bitcoin-price-projection-1-million-2030/",
-    "id_key": "d41ad958480043315261dca1fc679606adbfe22b028522c275a5f272f64093ee",
-    "summary": "Coinbase CEO Brian Armstrong predicted Bitcoin could hit $1 million by 2030, a rare price target from the exchange boss. The post Coinbase CEO Brian Armstrong Projects Bitcoin Price Explosion to $1M by 2030 appeared first on Cryptonews .",
-    "ingested_utc": "2025-08-21T04:44:41Z"
-  },
-  {
-    "published_utc": "2025-08-21",
-    "retrieved_date": "2025-08-21",
-    "retrieved_utc": "2025-08-21T04:44:18Z",
-    "source": "Guardian_World",
-    "title": "Australia news live: trapped man rescued from NSW flood waters; ASX hits historic high",
-    "url": "https://www.theguardian.com/australia-news/live/2025/aug/21/australia-news-live-bruce-lehrmann-appeal-defamation-network-ten-lisa-wilkinson-economic-roundtable-tax-economic-reform-jim-chalmers-ntwnfb",
-    "id_key": "de21baba1e3375a2b8951e59cf51367455dafbf48e273d2495039e3cb39945ff",
-    "summary": "Follow today’s news live Get our breaking news email , free app or daily news podcast Butler says Thriving Kids plan will help bolster NDIS long-term Health minister Mark Butler has said planned changes to the NDIS that will see children with mild to moderate developmental delays or autism diverted into a new program would both help kids and support the funding model behind the disability support service. Change will take some time, obviously, particularly to build a system for thriving kids that parents have confidence in, that has the right emphasis points. But I think what the community is saying is they want a sense from their government that we get the need to make change. They overwhelmingly think that this [the NDIS] is a scheme they should be proud of, that has transformed the lives of people with disabilities. But they’re concerned it’s costing too much and has too many inefficiencies and too many dodgy providers. Continue reading...",
-    "ingested_utc": "2025-08-21T04:44:18Z"
   }
 ]
