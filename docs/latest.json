@@ -2,6 +2,50 @@
   {
     "published_utc": "2025-08-22",
     "retrieved_date": "2025-08-22",
+    "retrieved_utc": "2025-08-22T23:45:24Z",
+    "source": "HackerNews_Top",
+    "title": "Coinbase CEO explains why he fired engineers who didn't try AI immediately",
+    "url": "https://techcrunch.com/2025/08/22/coinbase-ceo-explains-why-he-fired-engineers-who-didnt-try-ai-immediately/",
+    "id_key": "d14242681ab00f8ae577030409dbbaf957e688d22c981fa1e5abf139398574fb",
+    "summary": "Comments",
+    "ingested_utc": "2025-08-22T23:45:24Z"
+  },
+  {
+    "published_utc": "2025-08-22",
+    "retrieved_date": "2025-08-22",
+    "retrieved_utc": "2025-08-22T23:45:24Z",
+    "source": "HackerNews_Top",
+    "title": "Mail Carriers Pause US Deliveries as Tariff Shift Sows Confusion",
+    "url": "https://www.bloomberg.com/news/articles/2025-08-21/global-mail-services-halt-us-deliveries-ahead-of-de-minimis-end",
+    "id_key": "219731c64edd20f93255bccec22800aae51f7d6ce938246df504e79fec423ce4",
+    "summary": "Comments",
+    "ingested_utc": "2025-08-22T23:45:24Z"
+  },
+  {
+    "published_utc": "2025-08-22",
+    "retrieved_date": "2025-08-22",
+    "retrieved_utc": "2025-08-22T23:45:10Z",
+    "source": "FinancialPost_Business",
+    "title": "What to know about visas for foreign truckers and the politics of a deadly Florida crash",
+    "url": "https://financialpost.com/pmn/what-to-know-about-visas-for-foreign-truckers-and-the-politics-of-a-deadly-florida-crash",
+    "id_key": "d32a17c9936fbbac4ab29b85596e8041700753b14f38d4b4b1b281f2c53b7afa",
+    "summary": "Secretary of State Marco Rubio announced this week that the U.S. will pause issuing work visas to some foreign truck drivers, warning darkly that they are “endangering American lives and undercutting the livelihoods of American truckers.” He provided no details Thursday in his two-sentence post on the social platform X, leaving some in the trucking […]",
+    "ingested_utc": "2025-08-22T23:45:10Z"
+  },
+  {
+    "published_utc": "2025-08-22",
+    "retrieved_date": "2025-08-22",
+    "retrieved_utc": "2025-08-22T23:45:02Z",
+    "source": "TheStreet_Top",
+    "title": "Macy's is selling a $500 10-piece cookware set for $170 that shoppers call 'gorgeous and strong'",
+    "url": "https://www.thestreet.com/deals/greenpan-nova-10-piece-nonstick-cookware-set-macys-sale",
+    "id_key": "8f3801e181402532b91ebc381a5c94f7870eb78b98fdc9d0ae4f63a0cd064632",
+    "summary": "\"Best pans I have ever used.\"",
+    "ingested_utc": "2025-08-22T23:45:02Z"
+  },
+  {
+    "published_utc": "2025-08-22",
+    "retrieved_date": "2025-08-22",
     "retrieved_utc": "2025-08-22T23:32:40Z",
     "source": "Nikkei_Asia_Top",
     "title": "China's price wars lead to free food, half-price designer bags",
@@ -10954,49 +10998,5 @@
     "id_key": "8549acb15d503a06fe093d028370ae9e973460778bd1cf0ba8b5e16f5349e313",
     "summary": "An Israeli military spokesman says troops will deepen the damage to the \"terror infrastructure\" held by Hamas.",
     "ingested_utc": "2025-08-21T05:39:41Z"
-  },
-  {
-    "published_utc": "2025-08-21",
-    "retrieved_date": "2025-08-21",
-    "retrieved_utc": "2025-08-21T05:39:41Z",
-    "source": "BBC_World",
-    "title": "'Bear attack victim' was actually killed by son, Japan police say",
-    "url": "https://www.bbc.com/news/articles/c62n5gv72j5o?at_medium=RSS&at_campaign=rss",
-    "id_key": "f8b38d2a2eb852b25d0498fd0e6967f83360cb3a91be3367c64ad3ed04841aba",
-    "summary": "A man police believed was killed by a bear had in fact been stabbed to death by his son, they say.",
-    "ingested_utc": "2025-08-21T05:39:41Z"
-  },
-  {
-    "published_utc": "2025-08-21",
-    "retrieved_date": "2025-08-21",
-    "retrieved_utc": "2025-08-21T04:47:18Z",
-    "source": "FinancialPost_Business",
-    "title": "Prosecutors link LA contract to Smartmatic ‘slush fund’ as voting tech firm battles Fox in court",
-    "url": "https://financialpost.com/pmn/prosecutors-link-la-contract-to-smartmatic-slush-fund-as-voting-tech-firm-battles-fox-in-court",
-    "id_key": "dab3e40fab0c9bdb5275fa19edc7b4d8c53e969c47af70dd4645a530f0c42676",
-    "summary": "MIAMI (AP) — Smartmatic, the elections-technology company suing Fox News for defamation, is now contending with a growing list of criminal allegations against some of its executives — including a new claim by federal prosecutors that a “slush fund” for bribing foreign officials was financed partly with proceeds from the sale of voting machines in […]",
-    "ingested_utc": "2025-08-21T04:47:18Z"
-  },
-  {
-    "published_utc": "2025-08-21",
-    "retrieved_date": "2025-08-21",
-    "retrieved_utc": "2025-08-21T04:47:00Z",
-    "source": "ArsTechnica_All",
-    "title": "Humans intervened every 9 minutes in AAA test of driver assists",
-    "url": "https://arstechnica.com/cars/2025/08/humans-intervened-every-9-minutes-in-aaa-test-of-driver-assists/",
-    "id_key": "e267b39da4f29573af6d1b2769b9294cface7785bd8f36da7abe23210ea0224b",
-    "summary": "AAA tested a number of different systems in Los Angeles highway traffic.",
-    "ingested_utc": "2025-08-21T04:47:00Z"
-  },
-  {
-    "published_utc": "2025-08-21",
-    "retrieved_date": "2025-08-21",
-    "retrieved_utc": "2025-08-21T04:46:43Z",
-    "source": "FT_Home",
-    "title": "US oilfield services group expands Russian unit despite new sanctions",
-    "url": "https://www.ft.com/content/19f61bbf-f2e9-4cd0-9400-3801dd8c05c9",
-    "id_key": "d9ba2b57d81d1fc7651386af0869899200b814f25c07fb25765e323a5cfd8709",
-    "summary": "Weatherford International along with other companies continue to provide critical equipment to the country",
-    "ingested_utc": "2025-08-21T04:46:43Z"
   }
 ]
