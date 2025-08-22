@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-08-22",
     "retrieved_date": "2025-08-22",
+    "retrieved_utc": "2025-08-22T10:54:55Z",
+    "source": "HackerNews_Top",
+    "title": "Fmllm: 4mb training data, 100mb model, Fibonacci embeddings, near-coherent. WTF?",
+    "url": "https://github.com/henrygabriels/FMLLM/blob/main/README.md",
+    "id_key": "bb7c680e2d09fe689c25ce18fd8f751ae92abe3aea7c99c105954e2b2450a13d",
+    "summary": "Comments",
+    "ingested_utc": "2025-08-22T10:54:55Z"
+  },
+  {
+    "published_utc": "2025-08-22",
+    "retrieved_date": "2025-08-22",
+    "retrieved_utc": "2025-08-22T10:54:22Z",
+    "source": "WIRED_All",
+    "title": "What Is Down Alternative and Who Should Buy It? Experts Explain (2025)",
+    "url": "https://www.wired.com/story/what-is-down-alternative/",
+    "id_key": "bc14bfbbc100aef51eb7086c9224a4a1b34aaeea972a6b5c1f6b7352867d0c14",
+    "summary": "It’s cheaper and easier to care for, but is it better than down? Here’s advice to help you decide.",
+    "ingested_utc": "2025-08-22T10:54:22Z"
+  },
+  {
+    "published_utc": "2025-08-22",
+    "retrieved_date": "2025-08-22",
     "retrieved_utc": "2025-08-22T10:44:37Z",
     "source": "FinancialPost_Business",
     "title": "Americas Gold and Silver Reports High-Grade 149 Vein Extension Including 24,913 g/t Silver and 16.9% Copper at Galena Complex and Effective Date of Share Consolidation",
@@ -10976,27 +10998,5 @@
     "id_key": "b2366c766e7153d5f2d24a55668aaef6b496dba5ee6dba801f6278ebf372f287",
     "summary": "Government’s Official Receiver files application to appoint ‘special manager’ if business goes into liquidation",
     "ingested_utc": "2025-08-20T14:56:12Z"
-  },
-  {
-    "published_utc": "2025-08-20",
-    "retrieved_date": "2025-08-20",
-    "retrieved_utc": "2025-08-20T14:55:51Z",
-    "source": "MarketWatch_Bulletins",
-    "title": "Trump calls on Fed’s Cook to resign as DOJ urged to probe mortgage-fraud claim",
-    "url": "https://www.marketwatch.com/bulletins/redirect/go?g=bd3476ea-5f5d-45d9-985b-6387773fea58&mod=mw_rss_bulletins",
-    "id_key": "a19bfb57accdc8b99dcb6b766cd70ee4937da80c55073c2c86958a41f5e20660",
-    "summary": "",
-    "ingested_utc": "2025-08-20T14:55:51Z"
-  },
-  {
-    "published_utc": "2025-08-20",
-    "retrieved_date": "2025-08-20",
-    "retrieved_utc": "2025-08-20T14:53:43Z",
-    "source": "BBC_Technology",
-    "title": "Police investigating death of French streamer seize equipment and videos",
-    "url": "https://www.bbc.com/news/articles/cd0d31r423ko?at_medium=RSS&at_campaign=rss",
-    "id_key": "1335be19df5619bb3fe7eff3af2bd40adbabbed1f05f4ce05a2c6d0bceb24c0c",
-    "summary": "Raphaël Graven - also known as Jeanpormanove - was known for his extreme videos on the platform, Kick.",
-    "ingested_utc": "2025-08-20T14:53:43Z"
   }
 ]
