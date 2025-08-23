@@ -2,6 +2,50 @@
   {
     "published_utc": "2025-08-23",
     "retrieved_date": "2025-08-23",
+    "retrieved_utc": "2025-08-23T23:32:17Z",
+    "source": "HackerNews_Top",
+    "title": "Interruptions cost 23 minutes 15 seconds, right?",
+    "url": "https://blog.oberien.de/2023/11/05/23-minutes-15-seconds.html",
+    "id_key": "a81bc575055cc32fdbe24c9d55a138de6e2067217bd9b43cb06c00017851315f",
+    "summary": "Comments",
+    "ingested_utc": "2025-08-23T23:32:17Z"
+  },
+  {
+    "published_utc": "2025-08-23",
+    "retrieved_date": "2025-08-23",
+    "retrieved_utc": "2025-08-23T23:31:45Z",
+    "source": "WIRED_All",
+    "title": "Scientists Have Identified the Origin of an Extraordinarily Powerful Outer Space Radio Wave",
+    "url": "https://www.wired.com/story/scientists-identified-origin-extraordinarily-powerful-outer-space-radio-wave-frb-chime/",
+    "id_key": "439bfab526eada007391af6d46b015a8fb5e33a1db2c2e79f8bef5ec10ed892e",
+    "summary": "In March 2025 the Earth was hit by a fast radio burst as energetic as the sun, but lasting only milliseconds.",
+    "ingested_utc": "2025-08-23T23:31:45Z"
+  },
+  {
+    "published_utc": "2025-08-23",
+    "retrieved_date": "2025-08-23",
+    "retrieved_utc": "2025-08-23T23:29:02Z",
+    "source": "Guardian_World",
+    "title": "Australia news live: pro-Palestine marches expected to attract huge turnout; Albanese to target red tape to speed up housing construction",
+    "url": "https://www.theguardian.com/australia-news/live/2025/aug/24/australia-news-live-pro-palestine-marches-expected-to-attract-huge-turnout-after-declaration-of-famine-in-gaza-ntwnfb",
+    "id_key": "e27f84eca3d431065e207665b49b7e18df7bde5c99804bb83045c709a2935aba",
+    "summary": "Follow all the day’s news live Get our breaking news email , free app or daily news podcast ‘Dam has burst’: Palestine support swells before march Australians in more than 40 cities are set to march for Palestine, in what organisers say would be one of the largest mobilisations in Australian history. That bridge march has generated so much momentum around the country. The dam has burst in terms of support for Palestine and opposition to this genocide. Continue reading...",
+    "ingested_utc": "2025-08-23T23:29:02Z"
+  },
+  {
+    "published_utc": "2025-08-23",
+    "retrieved_date": "2025-08-23",
+    "retrieved_utc": "2025-08-23T23:29:02Z",
+    "source": "Guardian_World",
+    "title": "New England states vow to fight Trump administration order to halt work on offshore wind farm that’s nearly complete",
+    "url": "https://www.theguardian.com/us-news/2025/aug/23/wind-farm-rhode-island-connecticut",
+    "id_key": "119437ce6fa54f4146397670b5ebd899ab3a921af5d9b49958d9189d3db30b0b",
+    "summary": "Rhode Island and Connecticut officials say project, slated to power 350,000 homes, is essential to their climate goals The Democratic governors of Rhode Island and Connecticut promised on Saturday to fight a Trump administration order halting work on a nearly complete wind farm off their coasts that was expected to be operational next year. The Revolution Wind project was about 80% complete, with 45 of its 65 turbines already installed, according to the Danish wind farm developer Ørsted, when the US Bureau of Ocean Energy Management sent the firm a letter on Friday ordering it to “halt all ongoing activities”. Continue reading...",
+    "ingested_utc": "2025-08-23T23:29:02Z"
+  },
+  {
+    "published_utc": "2025-08-23",
+    "retrieved_date": "2025-08-23",
     "retrieved_utc": "2025-08-23T22:37:24Z",
     "source": "AlJazeera_All",
     "title": "Nigeria says it killed 35 fighters in air strikes near border with Cameroon",
@@ -10954,49 +10998,5 @@
     "id_key": "d2a6335a12946ba119e156fb236249617d0fa799d543ffd60ab2d35600b784d4",
     "summary": "Important All chain operators are strongly encouraged to upgrade their batchers to improve throttling behavior and mitigate worst-case spam attack scenarios. Overview This release includes a major reworking of the batcher-sequencer DA throttling feature (allowing for smoother control of transaction and block size limits), a new admin RPC method to flush the batcher (causing it to submit a transaction as soon as possible) as well as several performance enhancements and bugfixes. Sequencer throttling changes Warning This release changes the default throttling behavior. Chain operators should examine the new throttling documentation closely to ensure their batchers are configured appropriately for their chain. We deem the new defaults well suited for average OP Stack chains that use the default block gas limits and EIP1559 elasticity. Especially if you operate a high-throughput chain, you may want to change the throttling parameters, like the block-size-upper-limit and block-size-lower-limit . The old batcher supported only a very simple form of throttling: once a threshold of DA backlog was reached, it would fully throttle the sequencer and other block builders. This would often lead to a clunky user experience, as throttling kicks in fully at once, and then eases fully once the backlog dips below the threshold. This release introduces three new throttling controllers to allow for more smooth throttling behavior than this step controller . The three new controllers are linear , quadratic , and a PID-like controller (experimental, not recommended). The new default throttling controller is quadratic . Instead of throttling getting activated at a single threshold, like the old step controller, there is now a lower and upper threshold at which throttling starts and then continually increases in intensity as the backlog grows. The intensity curve is determined by the throttling controller (linear, quadratic, step (old behavior), PID (experimental)). Throttling at the lower threshold is weak and at the higher threshold strong. Please review the defaults by running ./op-batcher --help . Another important change is that the throttling threshold now takes all pending data into account, that is, all channels that are currently being submitted, the pending open channel that is currently being built, and the pending blocks that still need to be added to the pending channel. Before, throttling only took into account the pending blocks, which means that it may have triggered much too late if a high --max-pending-tx value was set (default: 1), which is common among high-throughput chain operators. Please read the new throttling documentation carefully to understand the new behavior and how to tweak it, if necessary. What's Changed op-batcher: improve default throttle parameters by @sebastianst in #17148 op-batcher: overhaul throttling flags by @geoknee in #17032 op-batcher: set throttling defaults by @geoknee in #16957 fix(op-batcher): introduce unsafe_da_bytes metric for driving the throttling controller by @geoknee in #16950 op-batcher: decrement pending bytes metrics when pruning pending blocks by @geoknee in #16940 feat(op-batcher): add admin rpc to flush the batcher by @geoknee in #16837 op-batcher: more consistent use of throttle multiplier and max threshold in logging by @geoknee in #16820 feat(op-batcher): make max throttle threshold more visible in logs and API by @geoknee in #16804 op-batcher: always use blobs while throttling by @joshklop in #16773 feat(op-batcher): Enhanced DA Throttling with multiple control mechanisms by @tobidae-cb in #16588 perf(op-batcher): start publishing and throttling sooner when loading a backlog of blocks by @geoknee in #16648 perf(op-batcher): discard channel compressor after frames generated by @geoknee in #16597 fix(op-batcher): remove duplicate check by @chuwt in #16696 New Contributors @tobidae-cb made their first contribution in #16588 @chuwt made their first contribution in #16696 Full Changelog : op-batcher/v1.14.0...op-batcher/v1.15.0 🚢 Docker Image https://us-docker.pkg.dev/oplabs-tools-artifacts/images/op-batcher:v1.15.0",
     "ingested_utc": "2025-08-21T13:40:20Z"
-  },
-  {
-    "published_utc": "2025-08-21",
-    "retrieved_date": "2025-08-21",
-    "retrieved_utc": "2025-08-21T13:39:13Z",
-    "source": "Unchained",
-    "title": "Kanye West’s YZY Token Launches With ‘Class Action Waiver’",
-    "url": "https://unchainedcrypto.com/kanye-wests-yzy-token-launches-with-class-action-waiver/",
-    "id_key": "1fb046c41fcdfdfb4873e511b1edb3865ac3221e5211d7f4d584f6c0e57ddf12",
-    "summary": "Controversial personality Kanye West is the latest celebrity to launch a crypto token. West’s YZY token debuted on Solana late on Wednesday, and surged 881% in just 10 minutes. YZY briefly hit a market cap of $3 billion before falling to $1.1 billion shortly after midnight. Onchain wallet tracker Lookonchain ... The post Kanye West’s YZY Token Launches With ‘Class Action Waiver’ appeared first on Unchained .",
-    "ingested_utc": "2025-08-21T13:39:13Z"
-  },
-  {
-    "published_utc": "2025-08-21",
-    "retrieved_date": "2025-08-21",
-    "retrieved_utc": "2025-08-21T13:39:11Z",
-    "source": "CryptoNews",
-    "title": "AI Coins Defy The Odds: NEAR Price Up 3% Despite Meta AI Hiring Freeze And Market Downturn, What’s Next?",
-    "url": "https://cryptonews.com/news/ai-coins-defy-the-odds-near-price-up-3-despite-meta-ai-hiring-freeze-and-market-downturn-whats-next/",
-    "id_key": "a0fce8ac8409d463e2ff92cf54a402ddf1d2133733e90856aa90b2402c4ec24d",
-    "summary": "Near managed to stay in positive territory even though the market has plummeted lately. This AI token seems to be resilient to the latest bad news from the tech industry and could deliver sizable gains in the future according to one popular trader.Just a few hours ago, Meta Platforms announced that it will temporarily stop […] The post AI Coins Defy The Odds: NEAR Price Up 3% Despite Meta AI Hiring Freeze And Market Downturn, What’s Next? appeared first on Cryptonews .",
-    "ingested_utc": "2025-08-21T13:39:11Z"
-  },
-  {
-    "published_utc": "2025-08-21",
-    "retrieved_date": "2025-08-21",
-    "retrieved_utc": "2025-08-21T13:39:11Z",
-    "source": "CryptoNews",
-    "title": "Scammer Poses as UK Police Chief to Steal $2.8M Bitcoin Through Phishing Attack",
-    "url": "https://cryptonews.com/news/scammer-poses-as-uk-police-chief-to-steal-2-8m-bitcoin-through-phishing-attack/",
-    "id_key": "d2322f7525910fd0650cf6c2853e1d10b7c2b69f12e483420bdc7db9ab8ea8f4",
-    "summary": "North Wales Police investigate sophisticated phishing scam where criminals posing as senior UK law enforcement officers stole £2.1M ($2.8M) in Bitcoin from a cold storage holder through an elaborate social engineering scheme claiming a security breach, while the crypto crime wave escalates with corrupt officials and 32 violent physical attacks reported globally. The post Scammer Poses as UK Police Chief to Steal $2.8M Bitcoin Through Phishing Attack appeared first on Cryptonews .",
-    "ingested_utc": "2025-08-21T13:39:11Z"
-  },
-  {
-    "published_utc": "2025-08-21",
-    "retrieved_date": "2025-08-21",
-    "retrieved_utc": "2025-08-21T13:39:11Z",
-    "source": "CryptoNews",
-    "title": "Bitget Wallet Integrates Aerodrome DEX on Base – Unlocking cbETH and cbBTC Liquidity",
-    "url": "https://cryptonews.com/news/bitget-wallet-partners-with-base-to-integrate-aerodrome-dex/",
-    "id_key": "d8656badb6b74b1b031a7208fb877ea0bbca1863b3a0c2e59073fedbb19622d2",
-    "summary": "Bitget Wallet has integrated Aerodrome, the key liquidity hub on Base, into its app. The move has given users seamless access to Base-native assets like cbETH and cbBTC, in-app token swaps, liquidity pools, GetGas support for transactions, and a dedicated discovery zone showcasing Base DApps and tools. The post Bitget Wallet Integrates Aerodrome DEX on Base – Unlocking cbETH and cbBTC Liquidity appeared first on Cryptonews .",
-    "ingested_utc": "2025-08-21T13:39:11Z"
   }
 ]
