@@ -7041,6 +7041,17 @@
   },
   {
     "published_utc": "2025-08-21",
+    "retrieved_date": "2025-08-23",
+    "retrieved_utc": "2025-08-23T15:51:38Z",
+    "source": "NPR_Economy",
+    "title": "Walmart says tariff costs are rising 'each week' and will continue",
+    "url": "https://www.npr.org/2025/08/21/nx-s1-5509592/walmart-tariff-costs-rising-earnings",
+    "id_key": "b3679783d48f34c87d5c9706a1d5f36d0ea708939f647b9866cf3c5ad7b6e4bc",
+    "summary": "The world's largest retailer — like many others — has been absorbing most of the increased costs, but raising prices of some goods.",
+    "ingested_utc": "2025-08-23T15:51:38Z"
+  },
+  {
+    "published_utc": "2025-08-21",
     "retrieved_date": "2025-08-22",
     "retrieved_utc": "2025-08-22T20:39:11Z",
     "source": "NPR_Economy",
@@ -10987,16 +10998,5 @@
     "id_key": "818c3981ebb51029d117a067805db7645977a2d8bde3d75f588ed26ba1a97ea8",
     "summary": "101 East investigates allegations of widespread bulldozing of Muslim homes and businesses in India.",
     "ingested_utc": "2025-08-21T11:45:17Z"
-  },
-  {
-    "published_utc": "2025-08-21",
-    "retrieved_date": "2025-08-21",
-    "retrieved_utc": "2025-08-21T11:45:16Z",
-    "source": "TheStreet_Top",
-    "title": "Struggling auto parts retail chain files Chapter 11 bankruptcy",
-    "url": "https://www.thestreet.com/retail/struggling-auto-parts-retail-chain-files-chapter-11-bankruptcy",
-    "id_key": "6675277cb247e948de2623a8831e2e441ac9929c666744ec2228e613bff6d08f",
-    "summary": "The auto parts and accessories retail chain files for bankruptcy protection, seeking to sell its assets.",
-    "ingested_utc": "2025-08-21T11:45:16Z"
   }
 ]
