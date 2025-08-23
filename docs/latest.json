@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-08-23",
     "retrieved_date": "2025-08-23",
+    "retrieved_utc": "2025-08-23T11:50:16Z",
+    "source": "TheStreet_Top",
+    "title": "Target CEO departure is the latest example of a growing trend",
+    "url": "https://www.thestreet.com/retail/target-ceo-departure-growing-trend",
+    "id_key": "addfa59b29add7d84f6891e5be917b223e88f883c23428dd9b9584663e17dec8",
+    "summary": "Target CEO Brian Cornell is stepping down after 11 years.",
+    "ingested_utc": "2025-08-23T11:50:16Z"
+  },
+  {
+    "published_utc": "2025-08-23",
+    "retrieved_date": "2025-08-23",
+    "retrieved_utc": "2025-08-23T11:50:06Z",
+    "source": "WIRED_All",
+    "title": "25 Best Early Labor Day Sales on WIRED-Tested Gear (2025)",
+    "url": "https://www.wired.com/story/best-labor-day-sales-deals-2025/",
+    "id_key": "f00629311dcb2ddcf62dddea9143520d4255789f04de992a0eed3f4d598e9693",
+    "summary": "Say hey to autumn with deals on WIRED-approved fire pits, headphones, tablets, and home office gear.",
+    "ingested_utc": "2025-08-23T11:50:06Z"
+  },
+  {
+    "published_utc": "2025-08-23",
+    "retrieved_date": "2025-08-23",
     "retrieved_utc": "2025-08-23T11:38:07Z",
     "source": "Guardian_World",
     "title": "Met police investigate suspected arson attack after Ilford restaurant fire",
@@ -10976,27 +10998,5 @@
     "id_key": "c6a7c19e1f2bc9c486c5cf2e224870a7757efb4d3c986c96db89dc7b70c1857c",
     "summary": "Medical tech company Masimo is suing US Customs and Border Protection (CBP) in an attempt to overturn the agency’s decision to allow Apple to restore the blood oxygen tracking feature on Apple Watches. Apple has been embroiled in legal disputes over Masimo’s blood oxygen sensor patent since 2020, disabling the feature on supported US Apple […]",
     "ingested_utc": "2025-08-21T10:45:01Z"
-  },
-  {
-    "published_utc": "2025-08-21",
-    "retrieved_date": "2025-08-21",
-    "retrieved_utc": "2025-08-21T10:44:45Z",
-    "source": "FT_Home",
-    "title": "UK asylum applications hit record 111,000 in Starmer’s first year in office",
-    "url": "https://www.ft.com/content/c10e76a3-4cf0-4e5a-bf2a-68becf0f8bd2",
-    "id_key": "51b13baeca57a1fd796e9ecb6ca128a7122fde89115673e55de638348bd53bac",
-    "summary": "Figure reflects surge in small boat arrivals to the country",
-    "ingested_utc": "2025-08-21T10:44:45Z"
-  },
-  {
-    "published_utc": "2025-08-21",
-    "retrieved_date": "2025-08-21",
-    "retrieved_utc": "2025-08-21T10:44:43Z",
-    "source": "NPR_World",
-    "title": "Brazilian police say ex-President Bolsonaro had planned to flee to Argentina",
-    "url": "https://www.npr.org/2025/08/21/nx-s1-5509434/brazil-bolsonaro-argentina-coup-asylum",
-    "id_key": "1368ce51cf4a02a121fbdc5e85a6d6a35b1965cf26602df4b3a7a43653a98454",
-    "summary": "Bolsonaro is awaiting a Supreme Court ruling about an alleged coup attempt and learned Wednesday he might face another case as police formally accused him and one of his son of obstruction of justice",
-    "ingested_utc": "2025-08-21T10:44:43Z"
   }
 ]
