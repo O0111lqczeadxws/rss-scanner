@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-08-23",
     "retrieved_date": "2025-08-23",
+    "retrieved_utc": "2025-08-23T05:49:42Z",
+    "source": "NYTimes_World",
+    "title": "Hong Kong Denies Visa Renewal for Senior Bloomberg Journalist",
+    "url": "https://www.nytimes.com/2025/08/23/world/asia/hong-kong-bloomberg-visa.html",
+    "id_key": "de891668c9f5ac0b272378e7add2589a08b3b8f8caa143405d84fea2a4b5ba3b",
+    "summary": "The unexplained decision raises fresh concerns about the erosion of press freedom in a city transformed by Beijing’s national security law.",
+    "ingested_utc": "2025-08-23T05:49:42Z"
+  },
+  {
+    "published_utc": "2025-08-23",
+    "retrieved_date": "2025-08-23",
     "retrieved_utc": "2025-08-23T05:35:54Z",
     "source": "WIRED_All",
     "title": "Lenovo Coupon Codes and Deals: Up to $100 Off PCs",
@@ -394,6 +405,17 @@
     "id_key": "03ff5dd5026772e12d3b903f3443f6848ff865bb6697ea26eefbdfca4af24a2f",
     "summary": "Maxwell denied that there is any 'client list' of prominent figures involved in Jeffrey Epstein's crimes.",
     "ingested_utc": "2025-08-23T03:13:22Z"
+  },
+  {
+    "published_utc": "2025-08-22",
+    "retrieved_date": "2025-08-23",
+    "retrieved_utc": "2025-08-23T05:50:44Z",
+    "source": "HackerNews_Top",
+    "title": "Launch HN: BlankBio (YC S25) – Making RNA Programmable",
+    "url": "https://news.ycombinator.com/item?id=44986809",
+    "id_key": "8651677ee108f9665126f5edc204f59dc915a7aaa79a239ee781682feeeefa8d",
+    "summary": "Comments",
+    "ingested_utc": "2025-08-23T05:50:44Z"
   },
   {
     "published_utc": "2025-08-22",
@@ -10975,28 +10997,6 @@
     "url": "https://www.theguardian.com/world/live/2025/aug/21/us-minimal-security-guarantees-ukraine-russia-diplomacy-europe-latest-updates-news",
     "id_key": "5f3216b4f11c3fb8a63dc7dd3dbaea8f1e02518943f92605135ba583473bbe9a",
     "summary": "Elbridge Colby, US undersecretary of defence for policy, tells European allies that the bulk of responsibility will fall on Europe, say reports In further comments from Zelenskyy this morning, reported by Reuters, he said it was unclear what concessions regarding territory Moscow was willing to make to end the war. Trump has previously said Kyiv and Moscow will both need to cede land. Continue reading...",
-    "ingested_utc": "2025-08-21T08:47:58Z"
-  },
-  {
-    "published_utc": "2025-08-21",
-    "retrieved_date": "2025-08-21",
-    "retrieved_utc": "2025-08-21T08:47:58Z",
-    "source": "Guardian_World",
-    "title": "Kemi Badenoch calls for Conservative councils to launch legal challenges over asylum hotels – UK politics live",
-    "url": "https://www.theguardian.com/politics/live/2025/aug/21/kemi-badenoch-conservative-councils-legal-challenge-asylum-hotel-uk-politics-latest-updates-news",
-    "id_key": "f1d6edd670e480762cbd3a6e738d5d816aa7c35816c3646aa40be1f70a93f532",
-    "summary": "Conservative party leader writes letter ‘encouraging’ councils to ‘take the same steps’ as Epping ‘if your legal advice supports it’ A total of 32,059 asylum seekers were being housed temporarily in UK hotels at the end of Labour’s first year in government, up 8% on the same point 12 months ago, Home Office data released today shows. The UK government borrowed less than expected in July, official figures show, in a boost to the chancellor, Rachel Reeves , as she faces pressure ahead of her autumn budget. Continue reading...",
-    "ingested_utc": "2025-08-21T08:47:58Z"
-  },
-  {
-    "published_utc": "2025-08-21",
-    "retrieved_date": "2025-08-21",
-    "retrieved_utc": "2025-08-21T08:47:58Z",
-    "source": "Guardian_World",
-    "title": "Why radical tax reform may be only way for Reeves to balance the books",
-    "url": "https://www.theguardian.com/politics/2025/aug/21/radical-tax-reform-rachel-reeves-balance-books-growth-downgrades",
-    "id_key": "2936643b2a0f61d3439f54387c9bbc273b89444a5bc404f992ae37d479bad5b7",
-    "summary": "Size of the task remains unclear but the chancellor will have to act in the face of expected growth downgrades Despite a good month for the public finances , the Treasury won’t be putting in any champagne orders. Higher self-assessment tax receipts and an increase in national insurance payments by employers filled the government’s coffers by more than expected in July. The result was that Rachel Reeves’s spending deficit fell to £1.1bn, down by £2.3bn from the same month a year earlier. Continue reading...",
     "ingested_utc": "2025-08-21T08:47:58Z"
   }
 ]
