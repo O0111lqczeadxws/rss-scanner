@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-08-24",
     "retrieved_date": "2025-08-24",
+    "retrieved_utc": "2025-08-24T07:41:19Z",
+    "source": "Guardian_World",
+    "title": "Pro-Palestine protesters fill the streets in cities and towns across Australia after Gaza famine declaration",
+    "url": "https://www.theguardian.com/world/2025/aug/24/hundreds-of-thousands-expected-at-pro-palestine-protests-across-australia-after-gaza-famine-declaration",
+    "id_key": "fed5ec1de293c331b558c27bf4165c8c900282deaa4cf75fcb824d76fabbd731",
+    "summary": "‘The difference between my kids and those kids in Palestine is geography,’ one attendee says, as thousands turn out for marches Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Brisbane has amassed the largest pro-Palestinian crowd in the city’s history, rally organisers say, as thousands marched across Australia in a show of support for the Palestinian cause, days after famine was declared in Gaza for the first time. In Brisbane, organisers estimated at least 50,000 people gathered for a rally they described as “historic”, with Queensland police putting the figure at 10,000. Continue reading...",
+    "ingested_utc": "2025-08-24T07:41:19Z"
+  },
+  {
+    "published_utc": "2025-08-24",
+    "retrieved_date": "2025-08-24",
     "retrieved_utc": "2025-08-24T07:32:09Z",
     "source": "Nikkei_Asia_Top",
     "title": "Extra US tariff on India, Shanghai summit, Lee in Washington",
@@ -10987,16 +10998,5 @@
     "id_key": "0276c98a358c72811c57c627699e13b37cc75b36eb0d417dfc4e46bd245f799d",
     "summary": "Google has just released a technical report detailing how much energy its Gemini apps use for each query. In total, the median prompt—one that falls in the middle of the range of energy demand—consumes 0.24 watt-hours of electricity, the equivalent of running a standard microwave for about one second. The company also provided average estimates…",
     "ingested_utc": "2025-08-21T13:42:06Z"
-  },
-  {
-    "published_utc": "2025-08-21",
-    "retrieved_date": "2025-08-21",
-    "retrieved_utc": "2025-08-21T13:41:59Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "Tencent to bring more AI services to Japan, Southeast Asia: executive",
-    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/tencent-to-bring-more-ai-services-to-japan-southeast-asia-executive",
-    "id_key": "6de2cae1100730dd3b9468f258ed2685f6ef4e03c81dcf5950d7fbec354bf58b",
-    "summary": "",
-    "ingested_utc": "2025-08-21T13:41:59Z"
   }
 ]
