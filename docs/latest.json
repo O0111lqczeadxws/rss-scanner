@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-08-24",
     "retrieved_date": "2025-08-24",
+    "retrieved_utc": "2025-08-24T14:51:06Z",
+    "source": "AlJazeera_All",
+    "title": "Zelenskyy marks Ukraine Independence Day alongside Canada’s PM in Kyiv",
+    "url": "https://www.aljazeera.com/video/newsfeed/2025/8/24/zelenskyy-marks-ukraine-independence-day-alongside-canadas-pm-in-kyiv?traffic_source=rss",
+    "id_key": "99eb8419b76abe32a954960f87f5eda7c4c7209b698423c491533f094a2e293f",
+    "summary": "Ukrainian President Zelenskyy delivered a defiant address against Russia during Ukraine’s Independence Day.",
+    "ingested_utc": "2025-08-24T14:51:06Z"
+  },
+  {
+    "published_utc": "2025-08-24",
+    "retrieved_date": "2025-08-24",
+    "retrieved_utc": "2025-08-24T14:48:07Z",
+    "source": "BBC_World",
+    "title": "More than 500,000 ordered to evacuate as typhoon heads for Vietnam",
+    "url": "https://www.bbc.com/news/articles/cx2pw5ypwqeo?at_medium=RSS&at_campaign=rss",
+    "id_key": "6878a61462826f22c13d5e8c6ab70abd994e33208be40ac065272d98e82439c6",
+    "summary": "Typhoon Kajiki is brushing past Hainan in China before heading for Vietnam, forecasters say.",
+    "ingested_utc": "2025-08-24T14:48:07Z"
+  },
+  {
+    "published_utc": "2025-08-24",
+    "retrieved_date": "2025-08-24",
     "retrieved_utc": "2025-08-24T14:37:18Z",
     "source": "AlJazeera_All",
     "title": "Palestinians fear advancing Israeli assault on Gaza City",
@@ -10976,27 +10998,5 @@
     "id_key": "187f2bcc4034808926fc0b97f751504fc58b5b13e4c8b10742662f5ad364c873",
     "summary": "Reich served under President Clinton from 1993 to 1997. He opens his new memoir, Coming Up Short, with an apology on behalf of the Baby Boom generation for failing to build a more just society.",
     "ingested_utc": "2025-08-21T15:41:49Z"
-  },
-  {
-    "published_utc": "2025-08-21",
-    "retrieved_date": "2025-08-21",
-    "retrieved_utc": "2025-08-21T15:41:49Z",
-    "source": "NPR_Business",
-    "title": "Far fewer Canadians are visiting the U.S. this year, new numbers show",
-    "url": "https://www.npr.org/2025/08/21/nx-s1-5508461/fewer-canadians-visiting-us",
-    "id_key": "dd541f6e71849e43c551c85ff1fda8496a1962839313d7c812be61fcadca93b5",
-    "summary": "Canadian residents made just 1.7 million return trips by motor vehicle back into their country from the U.S. in July, a nearly 37% decline over the same month in 2024, according to Statistics Canada.",
-    "ingested_utc": "2025-08-21T15:41:49Z"
-  },
-  {
-    "published_utc": "2025-08-21",
-    "retrieved_date": "2025-08-21",
-    "retrieved_utc": "2025-08-21T15:41:40Z",
-    "source": "NYTimes_Business",
-    "title": "Walmart’s Earnings Show ‘Momentum’ as Tariffs Raise Prices",
-    "url": "https://www.nytimes.com/2025/08/21/business/walmart-sales-retail-tariffs.html",
-    "id_key": "c750dadd29cc7e07ac748b84bf0c96c1d16d3da877a99e504ca4f70033f16cc8",
-    "summary": "After mixed reports from retail rivals, Walmart reported better-than-expected quarterly results and raised its sales forecast for the year.",
-    "ingested_utc": "2025-08-21T15:41:40Z"
   }
 ]
