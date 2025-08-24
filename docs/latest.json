@@ -2,6 +2,83 @@
   {
     "published_utc": "2025-08-24",
     "retrieved_date": "2025-08-24",
+    "retrieved_utc": "2025-08-24T04:47:13Z",
+    "source": "HackerNews_Top",
+    "title": "Agentic Browser Security: Indirect Prompt Injection in Perplexity Comet",
+    "url": "https://brave.com/blog/comet-prompt-injection/",
+    "id_key": "13293839e1e0103db7cd69c7fd67bf8a8cd337142db84fa7637532d9b91a3913",
+    "summary": "Comments",
+    "ingested_utc": "2025-08-24T04:47:13Z"
+  },
+  {
+    "published_utc": "2025-08-24",
+    "retrieved_date": "2025-08-24",
+    "retrieved_utc": "2025-08-24T04:46:23Z",
+    "source": "FT_Markets",
+    "title": "Woodford warned FCA against fund closure",
+    "url": "https://www.ft.com/content/234ef91a-11a2-442d-b7df-ceb2ed3bcffc",
+    "id_key": "35cf284ddfe87835b16673fdb1a082d2b4a2bc7f61138b43ce862cbe97bffe8e",
+    "summary": "Ex-star stockpicker claimed that shutting his eponymous fund would crystallise consumer losses",
+    "ingested_utc": "2025-08-24T04:46:23Z"
+  },
+  {
+    "published_utc": "2025-08-24",
+    "retrieved_date": "2025-08-24",
+    "retrieved_utc": "2025-08-24T04:46:22Z",
+    "source": "FT_Home",
+    "title": "Spotify signals further price rises as it rolls out new services",
+    "url": "https://www.ft.com/content/ca650ba7-8240-43bd-af3a-047718437e31",
+    "id_key": "25f2a19207c97bbd4ed2aca5c343fdf981af61f70bf7342374b51274817c02fa",
+    "summary": "Price increases and cost-cutting led to streamer’s first annual profit last year",
+    "ingested_utc": "2025-08-24T04:46:22Z"
+  },
+  {
+    "published_utc": "2025-08-24",
+    "retrieved_date": "2025-08-24",
+    "retrieved_utc": "2025-08-24T04:46:22Z",
+    "source": "FT_Home",
+    "title": "Asbestos, gold and spiralling costs: Bundesbank weighs abandoning Frankfurt HQ",
+    "url": "https://www.ft.com/content/e9d68958-cf19-4a24-aa2e-f35be4af3182",
+    "id_key": "9d9322768723a41bc87d14aac21cdbbcefd56d4d4b79d3acaf5eed63c882bf0f",
+    "summary": "A €3.3bn refurbishment of the brutalist site has come under fire from Germany’s Federal Audit Office",
+    "ingested_utc": "2025-08-24T04:46:22Z"
+  },
+  {
+    "published_utc": "2025-08-24",
+    "retrieved_date": "2025-08-24",
+    "retrieved_utc": "2025-08-24T04:46:10Z",
+    "source": "NYTimes_World",
+    "title": "As Other Israelis Die in War, Ultra-Orthodox Resist Call to Fight",
+    "url": "https://www.nytimes.com/2025/08/24/world/middleeast/israel-gaza-ultra-orthodox.html",
+    "id_key": "998beadc702517e687587c8fb8547ccdd0608a1f2593238b9f1fdbf0f0a4c18e",
+    "summary": "Ultra-Orthodox Israelis, exempt for decades from military service, are now being drafted. Their rage is dividing Israel and threatening Prime Minister Benjamin Netanyahu’s coalition.",
+    "ingested_utc": "2025-08-24T04:46:10Z"
+  },
+  {
+    "published_utc": "2025-08-24",
+    "retrieved_date": "2025-08-24",
+    "retrieved_utc": "2025-08-24T04:46:09Z",
+    "source": "NYTimes_Business",
+    "title": "Why Haven’t Sanctions on Russia Stopped the War? The Money Is Still Flowing.",
+    "url": "https://www.nytimes.com/2025/08/24/business/russia-sanctions-ukraine-war.html",
+    "id_key": "b232bcdf30797cbc5b5da02581d68dad4df4cc1303e9ff5ae5dda8dffa6c480e",
+    "summary": "For decades, companies feared being on the wrong side of U.S. sanctions. That’s not always true anymore.",
+    "ingested_utc": "2025-08-24T04:46:09Z"
+  },
+  {
+    "published_utc": "2025-08-24",
+    "retrieved_date": "2025-08-24",
+    "retrieved_utc": "2025-08-24T04:43:50Z",
+    "source": "Guardian_World",
+    "title": "Thousands take to the streets at pro-Palestine protests across Australia after Gaza famine declaration",
+    "url": "https://www.theguardian.com/world/2025/aug/24/hundreds-of-thousands-expected-at-pro-palestine-protests-across-australia-after-gaza-famine-declaration",
+    "id_key": "4f46adc8e26c5205e823f254b2c2c60ce3c9a594a6ffd9cd68c6177affa44e3b",
+    "summary": "Organisers say Sunday could be the largest pro-Palestine demonstration in Australia’s history, with rallies in 40 cities and towns Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Brisbane has amassed the largest pro-Palestinian crowd in the city’s history, rally organisers say, as thousands march across Australia in a show of support for the Palestinian cause, days after famine was declared in Gaza for the first time. In Brisbane, organisers’ initial estimate was that at least 25,000 are gathered for a rally they described as “historic”. Continue reading...",
+    "ingested_utc": "2025-08-24T04:43:50Z"
+  },
+  {
+    "published_utc": "2025-08-24",
+    "retrieved_date": "2025-08-24",
     "retrieved_utc": "2025-08-24T03:42:32Z",
     "source": "Nikkei_Asia_Top",
     "title": "Japan confronts piles of suitcases abandoned by tourists",
@@ -7624,6 +7701,17 @@
   },
   {
     "published_utc": "2025-08-21",
+    "retrieved_date": "2025-08-24",
+    "retrieved_utc": "2025-08-24T04:47:13Z",
+    "source": "HackerNews_Top",
+    "title": "Rolling the dice with CSS random()",
+    "url": "https://webkit.org/blog/17285/rolling-the-dice-with-css-random/",
+    "id_key": "60e4cd46ab8a18453a5bde80620fa1d89773154c72b7d0ee5bea15038f3ac1b9",
+    "summary": "Comments",
+    "ingested_utc": "2025-08-24T04:47:13Z"
+  },
+  {
+    "published_utc": "2025-08-21",
     "retrieved_date": "2025-08-23",
     "retrieved_utc": "2025-08-23T15:51:38Z",
     "source": "NPR_Economy",
@@ -10910,93 +10998,5 @@
     "id_key": "ecde24721490ec3a0460bcae9453b730d05c3d49fb9d00774e1536cc0e69a61f",
     "summary": "Homeland Security Secretary Kristi Noem is leading the efforts to buy more planes to conduct deportation campaigns.",
     "ingested_utc": "2025-08-21T13:41:45Z"
-  },
-  {
-    "published_utc": "2025-08-21",
-    "retrieved_date": "2025-08-21",
-    "retrieved_utc": "2025-08-21T13:41:45Z",
-    "source": "TheStreet_Top",
-    "title": "Top analyst resets Nvidia price target for one surprising reason before earnings",
-    "url": "https://www.thestreet.com/technology/top-analyst-resets-nvidia-price-target-for-one-surprising-reason-before-earnings-",
-    "id_key": "96a67d3ca52aa11525725b38de920f166a8bad8bf845ab3df8ae465df8645644",
-    "summary": "The Nvidia call rests on a factor Wall Street hasn’t fully priced in yet.",
-    "ingested_utc": "2025-08-21T13:41:45Z"
-  },
-  {
-    "published_utc": "2025-08-21",
-    "retrieved_date": "2025-08-21",
-    "retrieved_utc": "2025-08-21T13:41:45Z",
-    "source": "TheStreet_Top",
-    "title": "Home Depot and Lowe’s share a warning for homeowners",
-    "url": "https://www.thestreet.com/retail/home-depot-lowes-quietly-raising-prices-due-to-tariffs",
-    "id_key": "aea7fdcded081f9284b5c46e3e28d39928ea7f786972c1a308c1f45e81c1288f",
-    "summary": "Both home improvement companies have been reluctant to admit that some prices have already increased, and others will go up.",
-    "ingested_utc": "2025-08-21T13:41:45Z"
-  },
-  {
-    "published_utc": "2025-08-21",
-    "retrieved_date": "2025-08-21",
-    "retrieved_utc": "2025-08-21T13:41:36Z",
-    "source": "Engadget_All",
-    "title": "Pick up the HORI Piranha Plant camera for Switch 2 while it's on sale for $40",
-    "url": "https://www.engadget.com/deals/pick-up-the-hori-piranha-plant-camera-for-switch-2-while-its-on-sale-for-40-145031803.html?src=rss",
-    "id_key": "bb1095ad21aba4db4634f390047128c2d807d92a7007c877fd9943bbe7a3cf57",
-    "summary": "The HORI Piranha Plant camera for the Nintendo Switch 2 is on sale for just $40 , which is a discount of $20 and a record-low price. This is a great deal for those who own a Switch 2 and want to take advantage of the camera functionality in games like Mario Kart World and that recently-released campfire sim . This was designed specifically for Nintendo's new console, so it's a plug-and-play affair. It's actually cheaper than the official Switch 2 camera with this sale and it looks a whole lot cooler. It's a Piranha Plant from the Mario franchise. We called it a \"work of art\" upon encountering the device and that holds true today. This thing is not only stylish, resembling an Amiibo more than a camera, but it's downright useful. The pot the Piranha Plant sits in functions as both a stand and USB extension for the device. The plant itself detaches from the pot, so the camera can be used in portable mode by popping it into the USB port at the top of the console. There's also a built-in privacy shutter. Just close the plant's mouth to obscure the lens. The actual camera specs here aren't going to win any awards, with a frame rate of 30FPS and a resolution of 640 x 480p. However, that's more than enough to capture footage of your floating head to accompany your kart as it races through the Mushroom Kingdom. Follow @EngadgetDeals on X for the latest tech deals and buying advice . This article originally appeared on Engadget at https://www.engadget.com/deals/pick-up-the-hori-piranha-plant-camera-for-switch-2-while-its-on-sale-for-40-145031803.html?src=rss",
-    "ingested_utc": "2025-08-21T13:41:36Z"
-  },
-  {
-    "published_utc": "2025-08-21",
-    "retrieved_date": "2025-08-21",
-    "retrieved_utc": "2025-08-21T13:41:36Z",
-    "source": "Engadget_All",
-    "title": "Masimo files lawsuit over Apple's 'redesigned' blood oxygen monitoring feature",
-    "url": "https://www.engadget.com/wearables/masimo-files-lawsuit-over-apples-redesigned-blood-oxygen-monitoring-feature-130054895.html?src=rss",
-    "id_key": "bdf94eb83d4f47af7c5571fcbfbe7ad8d21f1609bfd44fea640fece8ed882f79",
-    "summary": "Masimo, the medical technology company whose lawsuit led to the temporary sales pause of the Apple Watch Series 9 and Ultra 2, has sued the US Customs and Border Protection days after Apple released its redesigned blood oxygen monitoring feature. This is just the latest update in the lengthy legal saga between Masimo and Apple, which started when the former sued the iPhonemaker in 2021, accusing it of infringing on several of its light-based blood oxygen monitoring patents. After a court sided with Masimo in 2023, Apple was forced to stop selling the Watch Series 9 and the Ultra 2 in the US for a few weeks. In order to circumvent the import ban for the devices, Apple removed the Blood Oxygen app for the watch models sold in the US. Just a few days ago, however, the company introduced a \"redesigned Blood Oxygen feature\" for the Watch Series 9, Series 10 and Watch Ultra 2 models. The feature works by measuring and calculating data from the watches' sensors on their paired iPhones instead. Users will then be able to view their blood oxygen data in the Respiratory section of the Health app. Apple said the update was \"enabled by a recent US Customs ruling.\" But Masimo said in its complaint (via Bloomberg Law ) that it only heard about the ruling, which was handed down on August 1, when Apple made the announcement. It argued that the agency typically requires both sides to be heard before making such decisions and that Customs \"exceeded its authority.\" Masimo is now asking the court to put an injunction on UCBP's decision and, ultimately, to only allow imports of the devices if their blood oxygen-tracking function is disabled. \"Each passing day that this unlawful ruling remains in effect irreparably deprives Masimo of its right to be free from unfair trade practices and to preserve its competitive standing in the US marketplace,\" Masimo said. This article originally appeared on Engadget at https://www.engadget.com/wearables/masimo-files-lawsuit-over-apples-redesigned-blood-oxygen-monitoring-feature-130054895.html?src=rss",
-    "ingested_utc": "2025-08-21T13:41:36Z"
-  },
-  {
-    "published_utc": "2025-08-21",
-    "retrieved_date": "2025-08-21",
-    "retrieved_utc": "2025-08-21T13:41:36Z",
-    "source": "Engadget_All",
-    "title": "Insta360 launches new action camera with removable storage",
-    "url": "https://www.engadget.com/cameras/insta360-launches-new-action-camera-with-removable-storage-130019177.html?src=rss",
-    "id_key": "8acbda1fd1d2e53bad46688db4a69244b9e27df99d405f85d84aaf11618523ff",
-    "summary": "Chinese action camera (and now drone ) company Insta360 has unveiled a premium addition to its lineup of compact cameras. The Insta360 GO Ultra is being billed as a new, more powerful product line in the GO series, instead of a replacement for the GO 3S . This next generation represents a substantial step up in performance, powered by a new 5nm AI chip, which is a big jump from the 14nm chip found on the GO 3S. It also benefits from a larger 1/1.28-inch sensor, roughly twice the size of the one in the 3S. All of this unlocks better image quality with support for HDR, 4K capture at 60 fps and double the frame rate of the 3S. The Ultra also offers PureVideo, an enhancement that uses AI-powered algorithms to reduce noise and increase brightness in low-light captures. The form factor for the Ultra is largely the same as the 3S, with a compact camera body that can be optionally housed in an Action Pod that offers additional battery life and a 2.5-inch flip touchscreen for live camera view. The Ultra weighs 53 grams (around 1.9 ounces), 14 grams more than the 3S, and sports a square body, as opposed to the pill-like shape of the 3S. The slightly larger body means a 70-minute standalone battery life, which is just over 80 percent more than the 38 minutes on the 3S. The Action Pod extends this to 200 minutes. The Ultra also offers removable storage, expandable up to 2TB. Like most Insta360 cameras , much of the design is geared toward action shots for the more adventurous among us. The GO Ultra's IPX8 rating means it's waterproof down to 33 feet underwater. A magnetic clip system makes it easy to attach the GO Ultra to a piece of clothing or equipment and start capturing your adventure in 4K. The Insta360 GO Ultra is available now worldwide for $450. This article originally appeared on Engadget at https://www.engadget.com/cameras/insta360-launches-new-action-camera-with-removable-storage-130019177.html?src=rss",
-    "ingested_utc": "2025-08-21T13:41:36Z"
-  },
-  {
-    "published_utc": "2025-08-21",
-    "retrieved_date": "2025-08-21",
-    "retrieved_utc": "2025-08-21T13:41:36Z",
-    "source": "Engadget_All",
-    "title": "This Anker 5K magnetic power bank is 30 percent off right now",
-    "url": "https://www.engadget.com/deals/this-anker-5k-magnetic-power-bank-is-30-percent-off-right-now-161505381.html?src=rss",
-    "id_key": "368e52c70d14ada29dbeddf6160028330e0a2e1004ab3a339e2406925e3259a3",
-    "summary": "The last thing anyone wants at the end of a long day is to look down at their phone and see its battery almost dead. One way to avoid that is to keep a compact power bank on you at all times, and it's arguably easiest to do that with one like Anker's 621 MagGo portable battery . This sleek, 5K magnetic brick attaches to the back of your iPhone to power it up, even while you're still using it. Now, it's on sale for 30 percent off — you can pick up any of five coloways for only $28 a pop. This is a thin and light device, so it's perfect for pockets, purses, backpacks and just about anywhere else. It charges up via an included USB-C cable. As a warning, the Anker 621 MagGo requires a magnetic connection via the smartphone itself or a magnetic case. It won't work with non-magnetic cases. It also runs a bit hot, reaching internal temperatures of up to 118 F, which could be something to keep an eye on during use. Follow @EngadgetDeals on X for the latest tech deals and buying advice . This article originally appeared on Engadget at https://www.engadget.com/deals/this-anker-5k-magnetic-power-bank-is-30-percent-off-right-now-161505381.html?src=rss",
-    "ingested_utc": "2025-08-21T13:41:36Z"
-  },
-  {
-    "published_utc": "2025-08-21",
-    "retrieved_date": "2025-08-21",
-    "retrieved_utc": "2025-08-21T13:41:36Z",
-    "source": "Engadget_All",
-    "title": "China reportedly discouraged purchase of NVIDIA AI chips due to 'insulting' Lutnick statements",
-    "url": "https://www.engadget.com/ai/china-reportedly-discouraged-purchase-of-nvidia-ai-chips-due-to-insulting-lutnick-statements-123055120.html?src=rss",
-    "id_key": "cd3f5524df1078c1d58378d11eceb75c6f77097c2905f058a8aff5d3f6c6408e",
-    "summary": "Chinese regulators reportedly dissuaded local companies from purchasing NVIDIA's H20 chips, because they found certain statements by US commerce secretary Howard Lutnick \"insulting.\" According to the Financial Times , the Cyberspace Administration of China (CAC), the National Development and Reform Commission (NDRC) and the Ministry of Industry and Information Technology (MIIT) teamed up to intensify their efforts to push the use of homegrown chips following Lutnick's remarks in an interview with CNBC . The US, if you'll recall, blocked NVIDIA from selling its H20 chips to China back in April out of concern that the Chinese military would use them to develop AI technology. When the US government reversed its decision in July and allowed the company to start shipping its chips to China, Lutnick told CNBC : \"We don't sell them our best stuff, not our second best stuff, not even our third best. The fourth one down, we want to keep China using it... The idea is the Chinese are more than capable of building their own. You want to keep one step ahead of what they can build, so they keep buying our chips. You want to sell the Chinese enough that their developers get addicted to the American technology stack. That's the thinking.\" To note, a previous Times report stated that the government allowed NVIDIA to ship its products to China again after agreeing to hand over 15 percent of its profits. As a response to Lutnick's remarks, the Times says Chinese authorities sought ways to prevent local companies from buying H20 chips. CAC issued an informal notice instructing China's biggest tech firms, such as ByteDance and Alibaba, to stop new orders for H20 chips until the government is done conducting a national security review. The companies are compelled to comply, because they could face substantial fines from the CAC if they don't. Meanwhile, NDRC also issued an informal notice, asking local tech companies not to purchase any NVIDIA chip. Reuters recently reported that NVIDIA is developing a new chip for the Chinese market that's more powerful than the H20, perhaps driven in part by China's move to discourage its purchase. It will be based on the company's Blackwell architecture, but will only be capable of half the computing power of NVIDIA's Blackwell Ultra GPUs. Their regulatory and export approval aren't guaranteed, but the president previously implied that he was aware of the project and said he expects NVIDIA CEO Jensen Huang to talk to him about it. This article originally appeared on Engadget at https://www.engadget.com/ai/china-reportedly-discouraged-purchase-of-nvidia-ai-chips-due-to-insulting-lutnick-statements-123055120.html?src=rss",
-    "ingested_utc": "2025-08-21T13:41:36Z"
-  },
-  {
-    "published_utc": "2025-08-21",
-    "retrieved_date": "2025-08-21",
-    "retrieved_utc": "2025-08-21T13:41:36Z",
-    "source": "Engadget_All",
-    "title": "Get up to 77 percent off NordVPN two-year subscriptions",
-    "url": "https://www.engadget.com/deals/get-up-to-77-percent-off-nordvpn-two-year-subscriptions-151807452.html?src=rss",
-    "id_key": "40372130a01e4f7b7aa484a2e26b75e0903e982c1b423be542425b8e7a39898c",
-    "summary": "There are dozens of VPNs to choose from, but to think they're all created equally would be a mistake. Some are better than others, and NordVPN sits squarely in the better category. Now, you can save up to 77 percent on most of NordVPN's plans. Arguably the best plan for most people is the NordVPN Plus plan , which you can get two years of access for only $108 right now. That's 73 percent off the usual rate, and NordVPN throws in an addition three months for free, so you're actually getting a 27-month subscription for the sale price. As well as Nord’s VPN service, a Plus plan also includes the Threat Protection Pro anti-malware tool, password management and an ad- and tracker-blocker. A Prime plan additionally comes with encrypted cloud storage or NordProtect, which insures you against identity theft and monitors dark web activity. That's also on sale — down to $189 on the same two-year commitment with those three additional months thrown in, which works out to a 77 percent savings on the regular price. When Engadget’s Sam Chapman reviewed NordVPN earlier this year, he praised its excellent download speeds, exclusive features and extensive server network. Less impressive is its clunky interface and inconsistent design when jumping between different platforms running a NordVPN app. While it doesn't quite make the cut in our guide to the best VPNs available right now, it generally performed well in speed tests and Threat Protection Pro is really worth having. Follow @EngadgetDeals on X for the latest tech deals and buying advice . This article originally appeared on Engadget at https://www.engadget.com/deals/get-up-to-77-percent-off-nordvpn-two-year-subscriptions-151807452.html?src=rss",
-    "ingested_utc": "2025-08-21T13:41:36Z"
   }
 ]
