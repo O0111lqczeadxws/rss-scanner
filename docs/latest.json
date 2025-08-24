@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-08-24",
     "retrieved_date": "2025-08-24",
+    "retrieved_utc": "2025-08-24T19:41:27Z",
+    "source": "Nikkei_Asia_Top",
+    "title": "Bill Gates nonprofit to support Japan's biomass and hydrogen research",
+    "url": "https://asia.nikkei.com/spotlight/environment/climate-change/bill-gates-nonprofit-to-support-japan-s-biomass-and-hydrogen-research",
+    "id_key": "a677f98141effbb460be2dd2933713c817dd31b315c9d62058e70a8af9fd6f21",
+    "summary": "",
+    "ingested_utc": "2025-08-24T19:41:27Z"
+  },
+  {
+    "published_utc": "2025-08-24",
+    "retrieved_date": "2025-08-24",
     "retrieved_utc": "2025-08-24T19:26:31Z",
     "source": "ArsTechnica_All",
     "title": "Time is running out for SpaceX to make a splash with second-gen Starship",
@@ -10987,16 +10998,5 @@
     "id_key": "29a9b68728ce1ae5464df7fda6424f3a44923983821bd579f6fd7c5601cfb698",
     "summary": "Exchange says “essentially all” validators now run in distributed clusters, boosting decentralization and fault tolerance",
     "ingested_utc": "2025-08-21T17:53:02Z"
-  },
-  {
-    "published_utc": "2025-08-21",
-    "retrieved_date": "2025-08-21",
-    "retrieved_utc": "2025-08-21T17:52:46Z",
-    "source": "Guardian_Business",
-    "title": "Trump officials urge Fed to remove governor after she refuses to quit",
-    "url": "https://www.theguardian.com/business/2025/aug/21/trump-federal-reserve-governor-lisa-cook",
-    "id_key": "d2e9803d4a7dd3018cbfb48948dea1fabe4a2e42b478a80bf77b6253b4ee7644",
-    "summary": "Federal Reserve governor Lisa Cook is latest figure targeted by Trump administration over claims of mortgage fraud The Trump administration is ratcheting up pressure on the Federal Reserve to remove governor Lisa Cook, after the economist declared she had “ no intention of being bullied ” into stepping down. Cook, who was appointed to the US central bank’s powerful board of governors by Joe Biden, has been accused by Donald Trump’s officials of committing mortgage fraud. The allegations are unconfirmed. Continue reading...",
-    "ingested_utc": "2025-08-21T17:52:46Z"
   }
 ]
