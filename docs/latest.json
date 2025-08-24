@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-08-24",
     "retrieved_date": "2025-08-24",
+    "retrieved_utc": "2025-08-24T21:32:00Z",
+    "source": "HackerNews_Top",
+    "title": "A brilliant and nearby one-off fast radio burst localized to 13pc precision",
+    "url": "https://iopscience.iop.org/article/10.3847/2041-8213/adf62f",
+    "id_key": "976b702a2f420d287d73bf8d52c76fdf167e7a415db114e46f3d6013453890ae",
+    "summary": "Comments",
+    "ingested_utc": "2025-08-24T21:32:00Z"
+  },
+  {
+    "published_utc": "2025-08-24",
+    "retrieved_date": "2025-08-24",
+    "retrieved_utc": "2025-08-24T21:31:37Z",
+    "source": "AlJazeera_All",
+    "title": "Canada’s Carney meets Zelenskyy, backs security guarantees for Ukraine",
+    "url": "https://www.aljazeera.com/news/2025/8/24/canadas-carney-meets-zelenskyy-backs-security-guarantees-for-ukraine?traffic_source=rss",
+    "id_key": "aef28f72898c8eaebc835642df960fc7d25d9601f88b11201ec3b636fda772eb",
+    "summary": "Canadian PM floats the possibility of 'presence of troops' from allied countries to protect Ukraine against Russia.",
+    "ingested_utc": "2025-08-24T21:31:37Z"
+  },
+  {
+    "published_utc": "2025-08-24",
+    "retrieved_date": "2025-08-24",
     "retrieved_utc": "2025-08-24T20:50:55Z",
     "source": "HackerNews_Top",
     "title": "A Brilliant and Nearby One-Off Fast Radio Burst Localized to 13pc Precision",
@@ -10976,27 +10998,5 @@
     "id_key": "84eefaa368c251668b6d001b9469ebd8cff8b2f9a801dcd601ec8cd5d984f269",
     "summary": "Tesla is under investigation for failing to report crashes involving its partially autonomous driving technology in a timely manner. The National Highway Traffic Safety Administration requires automakers to report crashes involving advanced driver assist features “within one or five days” of the incident, but Tesla was reporting crashes “several months or more” after they occurred, […]",
     "ingested_utc": "2025-08-21T17:55:34Z"
-  },
-  {
-    "published_utc": "2025-08-21",
-    "retrieved_date": "2025-08-21",
-    "retrieved_utc": "2025-08-21T17:55:18Z",
-    "source": "FT_Home",
-    "title": "Can a council revolt over UK asylum hotels succeed?",
-    "url": "https://www.ft.com/content/11c96718-3ec5-4a27-bdcf-5c8b64ec01b1",
-    "id_key": "33d5e70c899686607a239cb19323e31b8af938ea1108c14902cc36a36dc96b38",
-    "summary": "Lawyers have diverging views on what bearing the Epping ruling will have on authorities considering similar actions",
-    "ingested_utc": "2025-08-21T17:55:18Z"
-  },
-  {
-    "published_utc": "2025-08-21",
-    "retrieved_date": "2025-08-21",
-    "retrieved_utc": "2025-08-21T17:55:18Z",
-    "source": "FT_Home",
-    "title": "Wes Streeting issues private ultimatum to pharma groups in NHS pricing talks",
-    "url": "https://www.ft.com/content/85d15efe-e802-497a-a995-87ca7fdcbe7b",
-    "id_key": "0b931af5ad13e45d929544227e4d0e3b461db4f9f41a7d48acc7821b59994769",
-    "summary": "UK health secretary has warned sector he will publicly walk away from negotiations if his offer is not accepted",
-    "ingested_utc": "2025-08-21T17:55:18Z"
   }
 ]
