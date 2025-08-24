@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-08-24",
     "retrieved_date": "2025-08-24",
+    "retrieved_utc": "2025-08-24T08:43:34Z",
+    "source": "HackerNews_Top",
+    "title": "Seed: Interactive software environment based on Common Lisp",
+    "url": "https://github.com/phantomics/seed",
+    "id_key": "948a9bb26c1429d03347bf76053f0963052f3d9718cab07498481aa148105c1d",
+    "summary": "Comments",
+    "ingested_utc": "2025-08-24T08:43:34Z"
+  },
+  {
+    "published_utc": "2025-08-24",
+    "retrieved_date": "2025-08-24",
+    "retrieved_utc": "2025-08-24T08:43:34Z",
+    "source": "HackerNews_Top",
+    "title": "Israeli army database suggests at least 83% of Gaza dead were civilians",
+    "url": "https://www.972mag.com/israeli-intelligence-database-83-percent-civilians-militants/",
+    "id_key": "01256a2d3da3edf471c25a85a9e7a8848341152547a8d5559042db1ffb62965a",
+    "summary": "Comments",
+    "ingested_utc": "2025-08-24T08:43:34Z"
+  },
+  {
+    "published_utc": "2025-08-24",
+    "retrieved_date": "2025-08-24",
+    "retrieved_utc": "2025-08-24T08:41:50Z",
+    "source": "NYTimes_World",
+    "title": "China’s Tropical Resort Island Orders Evacuations as Typhoon Kajiki Nears",
+    "url": "https://www.nytimes.com/2025/08/24/world/asia/typhoon-kajiki-china-sanya.html",
+    "id_key": "33a66ae2d2472ba0810a0474af4d26efbb3a2ac6cdfa41aa2f78d73032b3f8a3",
+    "summary": "Officials on Hainan Island, China’s only tropical beach destination, halted public transportation. Businesses were closed in Sanya, a popular resort city on the island.",
+    "ingested_utc": "2025-08-24T08:41:50Z"
+  },
+  {
+    "published_utc": "2025-08-24",
+    "retrieved_date": "2025-08-24",
     "retrieved_utc": "2025-08-24T07:41:19Z",
     "source": "Guardian_World",
     "title": "Pro-Palestine protesters fill the streets in cities and towns across Australia after Gaza famine declaration",
@@ -2264,6 +2297,17 @@
     "id_key": "03ff5dd5026772e12d3b903f3443f6848ff865bb6697ea26eefbdfca4af24a2f",
     "summary": "Maxwell denied that there is any 'client list' of prominent figures involved in Jeffrey Epstein's crimes.",
     "ingested_utc": "2025-08-23T03:13:22Z"
+  },
+  {
+    "published_utc": "2025-08-22",
+    "retrieved_date": "2025-08-24",
+    "retrieved_utc": "2025-08-24T08:41:28Z",
+    "source": "BBC_Business",
+    "title": "Canada to drop some of its retaliatory tariffs on the US",
+    "url": "https://www.bbc.com/news/articles/c5yk9dqlvygo?at_medium=RSS&at_campaign=rss",
+    "id_key": "b834fc75ca2c706e62a605af5ce1fbf0f9f0b757ee718d1b96a1726c763260a0",
+    "summary": "The move comes after the two countries blew past a self-imposed deadline to reach a trade agreement.",
+    "ingested_utc": "2025-08-24T08:41:28Z"
   },
   {
     "published_utc": "2025-08-22",
@@ -10954,49 +10998,5 @@
     "id_key": "33ce3879bc593caa4eafe64d517c3111e0486d268c68f7a06395d0eb04698898",
     "summary": "The US and EU have released details of the new trade deal reducing tariffs between teh two partners.",
     "ingested_utc": "2025-08-21T13:53:35Z"
-  },
-  {
-    "published_utc": "2025-08-21",
-    "retrieved_date": "2025-08-21",
-    "retrieved_utc": "2025-08-21T13:42:07Z",
-    "source": "HackerNews_Top",
-    "title": "Show HN: ChartDB Cloud – Visualize and Share Database Diagrams",
-    "url": "https://app.chartdb.io",
-    "id_key": "0b0eaca5cd4053141a938a4b72b734b47b2c795d4aa06b9a67a6cfe8c46e135d",
-    "summary": "Comments",
-    "ingested_utc": "2025-08-21T13:42:07Z"
-  },
-  {
-    "published_utc": "2025-08-21",
-    "retrieved_date": "2025-08-21",
-    "retrieved_utc": "2025-08-21T13:42:07Z",
-    "source": "HackerNews_Top",
-    "title": "The Open-Office Trap (2014)",
-    "url": "https://www.newyorker.com/business/currency/the-open-office-trap",
-    "id_key": "f8826d37235a41e6eae631d37e043686f7e9516772d28667451b4edbe6c79b2a",
-    "summary": "Comments",
-    "ingested_utc": "2025-08-21T13:42:07Z"
-  },
-  {
-    "published_utc": "2025-08-21",
-    "retrieved_date": "2025-08-21",
-    "retrieved_utc": "2025-08-21T13:42:06Z",
-    "source": "MIT_TechReview",
-    "title": "The Download: Ukraine’s Starlink repair shop, and predicting solar storms",
-    "url": "https://www.technologyreview.com/2025/08/21/1122298/the-download-ukraines-starlink-repair-shop-and-predicting-solar-storms/",
-    "id_key": "b2558cfa9835557d0dbbf8dbf09d20a154ea845b22204837e26c8924ac63f190",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. On the ground in Ukraine’s largest Starlink repair shop Starlink is absolutely critical to Ukraine’s ability to continue in the fight against Russia. It’s how troops in battle zones stay connected with faraway…",
-    "ingested_utc": "2025-08-21T13:42:06Z"
-  },
-  {
-    "published_utc": "2025-08-21",
-    "retrieved_date": "2025-08-21",
-    "retrieved_utc": "2025-08-21T13:42:06Z",
-    "source": "MIT_TechReview",
-    "title": "In a first, Google has released data on how much energy an AI prompt uses",
-    "url": "https://www.technologyreview.com/2025/08/21/1122288/google-gemini-ai-energy/",
-    "id_key": "0276c98a358c72811c57c627699e13b37cc75b36eb0d417dfc4e46bd245f799d",
-    "summary": "Google has just released a technical report detailing how much energy its Gemini apps use for each query. In total, the median prompt—one that falls in the middle of the range of energy demand—consumes 0.24 watt-hours of electricity, the equivalent of running a standard microwave for about one second. The company also provided average estimates…",
-    "ingested_utc": "2025-08-21T13:42:06Z"
   }
 ]
