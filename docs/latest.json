@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-08-24",
     "retrieved_date": "2025-08-24",
+    "retrieved_utc": "2025-08-24T09:45:10Z",
+    "source": "FT_Home",
+    "title": "UK sets out overhaul of asylum appeals process as protests continue",
+    "url": "https://www.ft.com/content/4aa858c4-54da-4a4d-830e-9be193fd92e5",
+    "id_key": "3ab23a258b009a948a197351211ddb323834f1954b9a76665482398eb5177302",
+    "summary": "Home secretary Yvette Cooper under pressure to show she is addressing backlog",
+    "ingested_utc": "2025-08-24T09:45:10Z"
+  },
+  {
+    "published_utc": "2025-08-24",
+    "retrieved_date": "2025-08-24",
     "retrieved_utc": "2025-08-24T09:33:08Z",
     "source": "Nikkei_Asia_Top",
     "title": "Extra US tariff on India, SCO summit, Lee in Washington",
@@ -10987,16 +10998,5 @@
     "id_key": "774513f9e96653123be645bcffb1ce85b86c766a7e693f7467039af26af2c2be",
     "summary": "Sennheiser's most expensive Ambeo soundbar is getting a substantial update. The company announced that the Ambeo Soundbar Max , a $2,000 beast of a living room speaker, will gain two features it calls Customizable Immersion and Voice Enhancement Mode. Plus, the company is adding lossless audio support on top of Dolby Atmos Music. The firmware update will equip the Max with Ambeo OS2 and is available via free download through the Sennheiser Smart Control app for iOS and Android. With Customizable Immersion, Sennheiser will give users the ability to adjust volume levels for side, top and center channel virtualization. The company says this will allow customers to tailor the immersion to their preferences or to the content they're watching. As you might expect, Voice Enhancement Mode boosts dialogue to ensure it remains clear when sound effects or music would otherwise overpower the mix in movies, TV shows or during sports events. The Ambeo Soundbar Max already offered support for spatial audio for tunes via Dolby Atmos Music, but now the living room speaker will allow you to play lossless audio too. Sennheiser says you can expect up to 24-bit/96kHz through Google Cast and up to 24-bit/192kHz from Tidal Connect. The Ambeo Soundbar Max originally arrived in 2019 as the Ambeo Soundbar. Sennheiser changed the name when it expanded the Ambeo Soundbar lineup, which now includes the mid-sized Plus and compact Mini options. The Max was $2,500 at launch before rising to $3,000, but the company is now selling it's biggest home theater unit for $2,000. That may seem like a lot for one piece of your setup, but Sennheiser promises the combination of bass performance and Ambeo tech means you won't need a separate subwoofer or rear satellite speakers. Those claims held up during my review of the soundbar back when it debuted. This article originally appeared on Engadget at https://www.engadget.com/home/home-theater/sennheiser-updates-the-ambeo-max-soundbar-with-lossless-audio-customizable-immersion-and-more-134707400.html?src=rss",
     "ingested_utc": "2025-08-21T13:56:29Z"
-  },
-  {
-    "published_utc": "2025-08-21",
-    "retrieved_date": "2025-08-21",
-    "retrieved_utc": "2025-08-21T13:55:57Z",
-    "source": "NYTimes_World",
-    "title": "Suspect Is Arrested in Sabotage of Pipelines Between Russia and Germany",
-    "url": "https://www.nytimes.com/2025/08/21/world/europe/nord-stream-pipeline-attacks-arrest.html",
-    "id_key": "621816a635a83ed259cf2009adaf9608b95fea3ef1591727174616bdbe47788d",
-    "summary": "German authorities said a Ukrainian man suspected of coordinating the attacks on the Nord Stream pipelines in 2022 had been taken into custody by the Italian police.",
-    "ingested_utc": "2025-08-21T13:55:57Z"
   }
 ]
