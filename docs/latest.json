@@ -2,6 +2,61 @@
   {
     "published_utc": "2025-08-25",
     "retrieved_date": "2025-08-25",
+    "retrieved_utc": "2025-08-25T06:58:35Z",
+    "source": "Nikkei_Asia_Top",
+    "title": "Chinese solar makers' losses deepen as industry vows to end price war",
+    "url": "https://asia.nikkei.com/business/energy/chinese-solar-makers-losses-deepen-as-industry-vows-to-end-price-war",
+    "id_key": "6c5a9e92f1b119b154a5910180ba3e07b82a84ff38fe749f4248b42ed6f3a68f",
+    "summary": "",
+    "ingested_utc": "2025-08-25T06:58:35Z"
+  },
+  {
+    "published_utc": "2025-08-25",
+    "retrieved_date": "2025-08-25",
+    "retrieved_utc": "2025-08-25T06:55:48Z",
+    "source": "CryptoNews",
+    "title": "Tokenized Real-World Assets May Unlock $400T TradFi Market, Says Animoca",
+    "url": "https://cryptonews.com/news/tokenized-real-world-assets-may-unlock-400t-tradfi-market/",
+    "id_key": "0e87ab34f7b1a19fbcc6decc71f55efcafa4b3be44a02175f0b34262b6641a65",
+    "summary": "Tokenization of RWAs could unlock a $400 trillion traditional finance market, according to new research from Web3 digital property firm Animoca Brands. The post Tokenized Real-World Assets May Unlock $400T TradFi Market, Says Animoca appeared first on Cryptonews .",
+    "ingested_utc": "2025-08-25T06:55:48Z"
+  },
+  {
+    "published_utc": "2025-08-25",
+    "retrieved_date": "2025-08-25",
+    "retrieved_utc": "2025-08-25T06:55:48Z",
+    "source": "CryptoNews",
+    "title": "Bitcoin Whale Sells 24,000 BTC Triggering Flash Crash, Still Holds Over $17B Worth BTC",
+    "url": "https://cryptonews.com/news/bitcoin-whale-sells-24000-btc-triggering-flash-crash-still-holds-over-17b-worth-btc/",
+    "id_key": "c217ef235620db02681229d5fee022b150097edfbe33eb56ebb43ce04c5be203",
+    "summary": "A single BTC whale sold 24,000 Bitcoin worth $2.7 billion that remained untouched for 5+ years, catalyzing a $4,000 crash in minutes. The post Bitcoin Whale Sells 24,000 BTC Triggering Flash Crash, Still Holds Over $17B Worth BTC appeared first on Cryptonews .",
+    "ingested_utc": "2025-08-25T06:55:48Z"
+  },
+  {
+    "published_utc": "2025-08-25",
+    "retrieved_date": "2025-08-25",
+    "retrieved_utc": "2025-08-25T06:55:26Z",
+    "source": "Guardian_World",
+    "title": "Historic Myanmar bridge destroyed in fighting",
+    "url": "https://www.theguardian.com/world/2025/aug/25/myanmar-historic-gokteik-bridge-destroyed",
+    "id_key": "7b5dc735def62d09c4d5a39eda9f3c9d6fc2bededa3a1d5152abd3a67d51d632",
+    "summary": "The renowned Gokteik bridge was bombed on Sunday, with the ruling military junta and rebel forces blaming each other for its destruction A colonial-era bridge in Myanmar that was once the world’s tallest railway trestle has been destroyed during fighting in the years-long conflict. A civil war has consumed Myanmar since a 2021 coup deposed the civilian government, with the military battling myriad pro-democracy guerrilla groups and ethnic armed organisations. Continue reading...",
+    "ingested_utc": "2025-08-25T06:55:26Z"
+  },
+  {
+    "published_utc": "2025-08-25",
+    "retrieved_date": "2025-08-25",
+    "retrieved_utc": "2025-08-25T06:55:26Z",
+    "source": "Guardian_World",
+    "title": "Wes Streeting criticises ‘shortsighted’ drug firms for rejecting pricing offer",
+    "url": "https://www.theguardian.com/politics/2025/aug/25/wes-streeting-criticises-shortsighted-drug-firms-for-rejecting-pricing-offer",
+    "id_key": "e3d2fc14f4745ffa1c43b1fbece9faa98f7f3357679cf8c93c6e9752fcfc513c",
+    "summary": "Exclusive: Health secretary says he will not let patients be ‘ripped off’ by pharmaceutical companies amid standoff What is the row between Wes Streeting and pharmaceutical companies about? Wes Streeting has intensified his battle with drug companies over the price of their products, saying he will not let the industry rip off British patients or taxpayers by signing up to their demands. The health secretary on Sunday accused pharmaceutical companies of being “shortsighted” and undermining their relationships with the government after the two sides failed to come to an agreement last week . Continue reading...",
+    "ingested_utc": "2025-08-25T06:55:26Z"
+  },
+  {
+    "published_utc": "2025-08-25",
+    "retrieved_date": "2025-08-25",
     "retrieved_utc": "2025-08-25T05:51:02Z",
     "source": "Guardian_World",
     "title": "Australia politics live: Albanese says opposition ‘flippant’ to ask if Palestine position will affect US relationship; Senate debate begins with ‘mean girls’ scuffle",
@@ -515,6 +570,17 @@
     "id_key": "2ba7e78f430440ecbed35ea591256be0227d4393a83842f9f62883ca9d4dda47",
     "summary": "Ian Wilkinson tells supreme court he is ‘no longer Erin Patterson’s victim’ but is ‘compelled to seek justice’ for three murdered family members Erin Patterson plea hearing LIVE: Patterson in tears as victims bereaved by her deadly mushroom lunch lay bare their grief Ian Wilkinson says he forgives Erin Patterson for trying to murder him but cannot offer her forgiveness for killing three other people with poisoned beef wellingtons, a Victorian court has heard. Wilkinson, a pastor whose wife, sister-in-law and brother-in-law were killed by Patterson after they were served the lunch in 2023, told the supreme court in Melbourne on Monday that he had not fully recovered from the death cap mushroom poisoning he suffered. Continue reading...",
     "ingested_utc": "2025-08-25T03:36:41Z"
+  },
+  {
+    "published_utc": "2025-08-24",
+    "retrieved_date": "2025-08-25",
+    "retrieved_utc": "2025-08-25T06:58:43Z",
+    "source": "HackerNews_Top",
+    "title": "In-Memory Filesystems in Rust",
+    "url": "https://andre.arko.net/2025/08/18/in-memory-filesystems-in-rust/",
+    "id_key": "c62ceb6c45116dcc630a60d9a46d590966474eb19e1b18f3c717151d8beb80b6",
+    "summary": "Comments",
+    "ingested_utc": "2025-08-25T06:58:43Z"
   },
   {
     "published_utc": "2025-08-24",
@@ -10932,71 +10998,5 @@
     "id_key": "85180805043f83b82e221e8a5139ae38e714a2dda5206cf0a99b447cad9d3796",
     "summary": "A new report looks at barriers to EV charging.",
     "ingested_utc": "2025-08-21T19:49:53Z"
-  },
-  {
-    "published_utc": "2025-08-21",
-    "retrieved_date": "2025-08-21",
-    "retrieved_utc": "2025-08-21T19:41:47Z",
-    "source": "AlJazeera_All",
-    "title": "Can a ceasefire deal now be reached in Gaza?",
-    "url": "https://www.aljazeera.com/video/inside-story/2025/8/21/can-a-ceasefire-deal-now-be-reached-in-gaza?traffic_source=rss",
-    "id_key": "e739339ebc4aeebf7e291a3ef12b9f4f4b136a80b032bbbe98c0a5f3ff7c487e",
-    "summary": "Hamas accepts latest ceasefire proposal; Israel escalates military action.",
-    "ingested_utc": "2025-08-21T19:41:47Z"
-  },
-  {
-    "published_utc": "2025-08-21",
-    "retrieved_date": "2025-08-21",
-    "retrieved_utc": "2025-08-21T19:41:36Z",
-    "source": "WIRED_All",
-    "title": "Take $15 Off ‘Tony Hawk’s Pro Skater 3+4’ Remasters Right Now",
-    "url": "https://www.wired.com/story/tony-hawks-pro-skater-remasters-deal/",
-    "id_key": "a3398478aa1fabe1038cdd54bc2e4f30916a86264b0bb4c63604a87537cbd3cb",
-    "summary": "Darkslide your way to gaming nostalgia for just $35.",
-    "ingested_utc": "2025-08-21T19:41:36Z"
-  },
-  {
-    "published_utc": "2025-08-21",
-    "retrieved_date": "2025-08-21",
-    "retrieved_utc": "2025-08-21T19:41:34Z",
-    "source": "TheVerge_All",
-    "title": "Google reveals it isn&#8217;t making tablets, smart rings, flip phones, or glasses (yet)",
-    "url": "https://www.theverge.com/news/763778/google-canceled-tablet-no-smart-ring-or-flip-phone-glasses",
-    "id_key": "7b897a8e591f3ea8942287a89a4dc7c7f539fe2401119b8c90b96a2b6e9c04e0",
-    "summary": "Google’s new Pixel 10 and Pixel 10 Pro Fold and Pixel Watch 4 may compete with Samsung, but it’s happy to let Samsung explore other parts of the Galaxy on its own. In interviews with Bloomberg, Google just revealed a lot of devices it isn’t currently working on. Here’s Bloomberg: Despite its partners Samsung and […]",
-    "ingested_utc": "2025-08-21T19:41:34Z"
-  },
-  {
-    "published_utc": "2025-08-21",
-    "retrieved_date": "2025-08-21",
-    "retrieved_utc": "2025-08-21T19:41:18Z",
-    "source": "FT_Home",
-    "title": "UK summons Israeli ambassador over approval of settlement project",
-    "url": "https://www.ft.com/content/19515881-d87b-468e-90b5-08ec8226af1d",
-    "id_key": "d1b49fcf70f4cbcc9bb89d4cebd98b23fe1db76aaeec68a09200ee25a1a1b366",
-    "summary": "Foreign Office calls in Tzipi Hotovely after Netanyahu government signs off on plan for E1 area",
-    "ingested_utc": "2025-08-21T19:41:18Z"
-  },
-  {
-    "published_utc": "2025-08-21",
-    "retrieved_date": "2025-08-21",
-    "retrieved_utc": "2025-08-21T19:41:07Z",
-    "source": "NYTimes_World",
-    "title": "Vance Recounts Telling Zelensky to ‘Behave’ in Trump Meeting",
-    "url": "https://www.nytimes.com/2025/08/21/us/politics/vance-zelensky-ukraine.html",
-    "id_key": "21a14323bc734d72dae24b09a02a9089f896ae407668f37449d24e6f7e6f6dce",
-    "summary": "It was not the first time that the vice president had addressed Ukraine’s leader with words more commonly spoken to toddlers than heads of state.",
-    "ingested_utc": "2025-08-21T19:41:07Z"
-  },
-  {
-    "published_utc": "2025-08-21",
-    "retrieved_date": "2025-08-21",
-    "retrieved_utc": "2025-08-21T19:39:13Z",
-    "source": "Protos",
-    "title": "Europol bounty for Russian crypto ransomware gang wasn’t real",
-    "url": "https://protos.com/europol-bounty-for-russian-crypto-ransomware-gang-wasnt-real/",
-    "id_key": "86bad8923ecc3944595c3214b3d79aac986e848f388f23cb4e50ce3a40f79a25",
-    "summary": "A $50,000 bounty supposedly issued by Europol to track down the leaders of the Russian-based crypto ransomware gang Qilin was a fake. The post Europol bounty for Russian crypto ransomware gang wasn’t real appeared first on Protos .",
-    "ingested_utc": "2025-08-21T19:39:13Z"
   }
 ]
