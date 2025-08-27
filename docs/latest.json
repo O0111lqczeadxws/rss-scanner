@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-08-27",
     "retrieved_date": "2025-08-27",
+    "retrieved_utc": "2025-08-27T23:50:02Z",
+    "source": "FinancialPost_Business",
+    "title": "Newmont Upgraded to A3 Rating by Moody’s",
+    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/newmont-upgraded-to-a3-rating-by-moodys",
+    "id_key": "bf7ae1d03fb9543ef34647630d0d8e74109e475d4dd349eea1a89c59ef10cabd",
+    "summary": "DENVER — Newmont Corporation (NYSE: NEM, TSX: NGT, ASX: NEM, PNGX: NEM) (“Newmont” or the “Company”) today announced that Moody’s Ratings (“Moody’s”) has upgraded Newmont’s issuer credit rating to A3 from Baa1, with a stable outlook. The upgrade is supported by Newmont’s improved credit profile, strengthened balance sheet, excellent liquidity position, and prudent financial management. […]",
+    "ingested_utc": "2025-08-27T23:50:02Z"
+  },
+  {
+    "published_utc": "2025-08-27",
+    "retrieved_date": "2025-08-27",
+    "retrieved_utc": "2025-08-27T23:49:24Z",
+    "source": "NPR_Top",
+    "title": "Shooting during Mass at Minnesota Catholic school leaves 2 dead, 17 others injured",
+    "url": "https://www.npr.org/2025/08/27/nx-s1-5519268/minneapolis-school-shooting-annunciation-church-minnesota",
+    "id_key": "e4a1102624c2b9df5f3c16398308b1fa4b7a6b4eeec719f14d2c2c7e5a5e31fa",
+    "summary": "The shooter fired through the windows of Annunciation Church during Mass on Wednesday before dying from a self-inflicted gunshot wound, said Minneapolis Police Chief Brian O'Hara.",
+    "ingested_utc": "2025-08-27T23:49:24Z"
+  },
+  {
+    "published_utc": "2025-08-27",
+    "retrieved_date": "2025-08-27",
     "retrieved_utc": "2025-08-27T23:41:17Z",
     "source": "FinancialPost_Business",
     "title": "Abaxx Facilitates Delegation from China City Gas Association to Strengthen Cross-Border Collaboration in Asia’s Natural Gas and Energy Markets",
@@ -10976,27 +10998,5 @@
     "id_key": "4cc5e87d6a5b3025fdd01383fac6c1fd38fddc69e33275484e597088d67ecf91",
     "summary": "Cook says the US president \"has no authority to do so\" in defiance of Trump's escalatory move against the central bank.",
     "ingested_utc": "2025-08-26T11:29:05Z"
-  },
-  {
-    "published_utc": "2025-08-26",
-    "retrieved_date": "2025-08-26",
-    "retrieved_utc": "2025-08-26T10:53:53Z",
-    "source": "CoinJournal",
-    "title": "Dogecoin at a crossroads: whales exit, support holds, breakout looms",
-    "url": "https://coinjournal.net/news/dogecoin-at-a-crossroads-whales-exit-support-holds-breakout-looms/",
-    "id_key": "4a1ce9688bdc535b487a5b5093a20d98f8024e1b0ec1cc37963883bbfa3073d7",
-    "summary": "Dogecoin whales have cut holdings as market sentiment turns risk-off. Project Sakura aims to shift DOGE to proof-of-stake. DOGE is trading in a triangle pattern with breakout potential on the horizon. Dogecoin (DOGE), the world’s largest meme coin, has faced growing selling pressure in recent days, although signs of resilience remain. With major investors scaling […] The post Dogecoin at a crossroads: whales exit, support holds, breakout looms appeared first on CoinJournal .",
-    "ingested_utc": "2025-08-26T10:53:53Z"
-  },
-  {
-    "published_utc": "2025-08-26",
-    "retrieved_date": "2025-08-26",
-    "retrieved_utc": "2025-08-26T10:46:31Z",
-    "source": "MIT_TechReview",
-    "title": "How these two brothers became go-to experts on America’s “mystery drone” invasion",
-    "url": "https://www.technologyreview.com/2025/08/26/1121458/ufo-hunters-mystery-drone-invasion/",
-    "id_key": "05b8d02d33d2ab46b92ae4881f63919dd67d62c85bb1ab9ef2cc1564f70ac72f",
-    "summary": "On a Friday evening last December, every tier of US law enforcement—federal, state, and local—was dispatched to the US Army Natick Soldier Systems Center, a military research installation outside Boston. A squadron of about 15 to 20 drones had been spotted violating the base’s restricted airspace. The culprits could not be found. One retired major…",
-    "ingested_utc": "2025-08-26T10:46:31Z"
   }
 ]
