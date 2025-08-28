@@ -2,6 +2,50 @@
   {
     "published_utc": "2025-08-28",
     "retrieved_date": "2025-08-28",
+    "retrieved_utc": "2025-08-28T19:41:04Z",
+    "source": "AlJazeera_All",
+    "title": "United Nations says children make up 50 percent of gang members in Haiti",
+    "url": "https://www.aljazeera.com/news/2025/8/28/united-nations-says-children-make-up-50-percent-of-gang-members-in-haiti?traffic_source=rss",
+    "id_key": "9de1911cc51dc20ff3a782187872d3c4206499f029f3353e2554fd346eef41fe",
+    "summary": "US and Panama proposed a security force meant to counter gangs, despite setbacks with an existing policing operation.",
+    "ingested_utc": "2025-08-28T19:41:04Z"
+  },
+  {
+    "published_utc": "2025-08-28",
+    "retrieved_date": "2025-08-28",
+    "retrieved_utc": "2025-08-28T19:40:54Z",
+    "source": "Engadget_All",
+    "title": "Microsoft introduces a pair of in-house AI models",
+    "url": "https://www.engadget.com/ai/microsoft-introduces-a-pair-of-in-house-ai-models-193003900.html?src=rss",
+    "id_key": "7c517b848750d2dca7a9a86bf1f4bc977a7451d802214b2a5ba7fd56eb18fdec",
+    "summary": "Microsoft is expanding its AI footprint with the release of two new models that its teams trained completely in-house. MAI-Voice-1 is the tech major's first natural speech generation model, while MAI-1-preview is text-based and is the company's first foundation model trained end-to-end. MAI-Voice-1 is currently being used in the Copilot Daily and Podcast features. Microsoft has made MAI-1-preview available for public tests on LMArena, and will begin previewing it in select Copilot situations in the coming weeks. In an interview with Semafor , Microsoft AI division leader Mustafa Suleyman said the pair of models was developed with a focus on efficiency and cost-effectiveness. MAI-Voice-1 runs on a single GPU and MAI-1-preview was trained on about 15,000 Nvidia H-100 GPUs. For context, other models, such as xAI's Grok, took more than 100,000 of those chips for training. \"Increasingly, the art and craft of training models is selecting the perfect data and not wasting any of your flops on unnecessary tokens that didn’t actually teach your model very much,\" Suleyman said. Although it is being used to test the in-house models, Microsoft Copilot is primarily built on OpenAI's GPT tech. The decision to build its own models, despite having sunk billion-dollar investments in the newer AI company, indicates that Microsoft wants to be an independent competitor in this space. While that could take time to reach parity with the companies that have emerged as forerunners in AI development, Suleyman told Semafor that Microsoft has \"an enormous five-year roadmap that we're investing in quarter after quarter.\" With some concerns arising that AI could be facing a bubble-pop, Microsoft's timeline will need to be aggressive to ensure taking the independent path is worthwhile. This article originally appeared on Engadget at https://www.engadget.com/ai/microsoft-introduces-a-pair-of-in-house-ai-models-193003900.html?src=rss",
+    "ingested_utc": "2025-08-28T19:40:54Z"
+  },
+  {
+    "published_utc": "2025-08-28",
+    "retrieved_date": "2025-08-28",
+    "retrieved_utc": "2025-08-28T19:38:30Z",
+    "source": "CryptoSlate",
+    "title": "Treasury Secretary Bessent’s stablecoin push could drive $34 trillion into Ethena, Etherfi, Hyperliquid",
+    "url": "https://cryptoslate.com/treasury-secretary-bessents-stablecoin-push-could-drive-34-trillion-into-ethena-etherfi-hyperliquid/",
+    "id_key": "3d96fe68a184b2cccf7c5cc16fd99196d07f11c8b129f44a9efd083de056a52a",
+    "summary": "Treasury Secretary Scott Bessent’s endorsement of dollar-pegged stablecoins creates a pathway for up to $34 trillion to flow into decentralized finance protocols such as Ethena, Ether.fi, and Hyperliquid. Arthur Hayes reported in his Aug. 27 blog post that Bessent aims to redirect capital from the $13 trillion Eurodollar system and $21 trillion in Global South […] The post Treasury Secretary Bessent’s stablecoin push could drive $34 trillion into Ethena, Etherfi, Hyperliquid appeared first on CryptoSlate .",
+    "ingested_utc": "2025-08-28T19:38:30Z"
+  },
+  {
+    "published_utc": "2025-08-28",
+    "retrieved_date": "2025-08-28",
+    "retrieved_utc": "2025-08-28T19:38:10Z",
+    "source": "Guardian_World",
+    "title": "At least 21 dead in overnight Kyiv attack as UK and EU summon Russian envoys",
+    "url": "https://www.theguardian.com/politics/2025/aug/28/uk-summons-russian-ambassador-over-british-council-missile-damage-in-kyiv",
+    "id_key": "833c45f428e2552c1b6c7be7e0d6232b944c9d39e7c761048132a3bfe48a2384",
+    "summary": "Missile strikes on Ukrainian capital hit EU and British Council offices in deadliest assault in months The UK and European Union have summoned their Russian envoys after overnight missile strikes on Kyiv killed at least 21 people and damaged the city’s British Council and EU offices, in the deadliest aerial assault on the Ukrainian capital since the Alaska summit between Vladimir Putin and Donald Trump. Four children were among those killed after a residential building in the eastern Darnytskyi district was struck in the middle of the night within the eastern Darnytskyi district, according to Ukraine’s interior minister, Ihor Klymenko. Continue reading...",
+    "ingested_utc": "2025-08-28T19:38:10Z"
+  },
+  {
+    "published_utc": "2025-08-28",
+    "retrieved_date": "2025-08-28",
     "retrieved_utc": "2025-08-28T19:27:22Z",
     "source": "HackerNews_Top",
     "title": "GPU Prefix Sums: A nearly complete collection",
@@ -10952,50 +10996,6 @@
     "title": "Mitsubishi Corp., partner to pull out of offshore wind projects in Japan",
     "url": "https://asia.nikkei.com/business/energy/mitsubishi-corp.-partner-to-pull-out-of-offshore-wind-projects-in-japan",
     "id_key": "6091482fa015c7e7eb7ccedfd236d60281dcc2ef65973260629b5cadfa285fe1",
-    "summary": "",
-    "ingested_utc": "2025-08-27T03:15:29Z"
-  },
-  {
-    "published_utc": "2025-08-27",
-    "retrieved_date": "2025-08-27",
-    "retrieved_utc": "2025-08-27T03:15:29Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "US semiconductor tariffs would have limited impact on TSMC: Taiwan official",
-    "url": "https://asia.nikkei.com/editor-s-picks/interview/us-semiconductor-tariffs-would-have-limited-impact-on-tsmc-taiwan-official",
-    "id_key": "c36f67fcc0d53dc42affd2a96bf3609f078bc5daa1270a7ca2bd39c635f6552e",
-    "summary": "",
-    "ingested_utc": "2025-08-27T03:15:29Z"
-  },
-  {
-    "published_utc": "2025-08-27",
-    "retrieved_date": "2025-08-27",
-    "retrieved_utc": "2025-08-27T03:15:29Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "Trump says China must supply magnets or face possible 200% tariff",
-    "url": "https://asia.nikkei.com/economy/trade-war/trump-tariffs/trump-says-china-must-supply-magnets-or-face-possible-200-tariff",
-    "id_key": "9d3aae6ad22dba83ad95cb6b37ba9d2fa0b49646369575deecaa893baf748dbb",
-    "summary": "",
-    "ingested_utc": "2025-08-27T03:15:29Z"
-  },
-  {
-    "published_utc": "2025-08-27",
-    "retrieved_date": "2025-08-27",
-    "retrieved_utc": "2025-08-27T03:15:29Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "Asia postal services halt US-bound items after Trump customs changes",
-    "url": "https://asia.nikkei.com/economy/trade/asia-postal-services-halt-us-bound-items-after-trump-customs-changes",
-    "id_key": "611676449cce4908938784154183df6018cfc9ffb0cac2bb1ee6fc9be6a64afe",
-    "summary": "",
-    "ingested_utc": "2025-08-27T03:15:29Z"
-  },
-  {
-    "published_utc": "2025-08-27",
-    "retrieved_date": "2025-08-27",
-    "retrieved_utc": "2025-08-27T03:15:29Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "Indian exporters say 50% US tariff 'impossible' to cope with",
-    "url": "https://asia.nikkei.com/economy/trade-war/trump-tariffs/indian-exporters-say-50-us-tariff-impossible-to-cope-with",
-    "id_key": "d4a518340ab2a25d297b6068882e7276e881020061ea6dad263a026ac6695de7",
     "summary": "",
     "ingested_utc": "2025-08-27T03:15:29Z"
   }
