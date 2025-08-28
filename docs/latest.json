@@ -2,6 +2,83 @@
   {
     "published_utc": "2025-08-28",
     "retrieved_date": "2025-08-28",
+    "retrieved_utc": "2025-08-28T22:50:16Z",
+    "source": "FinancialPost_Business",
+    "title": "Penticton, B.C., staff member receives violent threat after transportation discussion",
+    "url": "https://financialpost.com/pmn/penticton-b-c-staff-member-receives-violent-threat-after-transportation-discussion",
+    "id_key": "f3c2aefcc2531e6930643ade2eb3a9ddedf1aaa2f09f20996e5099bcca50deec",
+    "summary": "Officials in Penticton, B.C., say police are investigating a recent “threat of violence” directed at a senior member of municipal staff in the Okanagan city. A statement from the city says the person was targeted on social media and received threats following a public discussion related to transportation planning. Mayor Julius Bloomfield says the threats […]",
+    "ingested_utc": "2025-08-28T22:50:16Z"
+  },
+  {
+    "published_utc": "2025-08-28",
+    "retrieved_date": "2025-08-28",
+    "retrieved_utc": "2025-08-28T22:50:08Z",
+    "source": "TheStreet_Top",
+    "title": "Troubled beer brand liquidates in Chapter 7 bankruptcy",
+    "url": "https://www.thestreet.com/restaurants/popular-craft-brewery-liquidates-in-chapter-7-bankruptcy",
+    "id_key": "9a3f01b26caf2586b54cf1ad000724ae6e9fe95d66fca148db73907dc2ff35a0",
+    "summary": "The distressed beer brand filed for Chapter 7 bankruptcy to liquidate its assets and wind down its business.",
+    "ingested_utc": "2025-08-28T22:50:08Z"
+  },
+  {
+    "published_utc": "2025-08-28",
+    "retrieved_date": "2025-08-28",
+    "retrieved_utc": "2025-08-28T22:50:08Z",
+    "source": "TheStreet_Top",
+    "title": "Distressed health care company files for Chapter 11 bankruptcy",
+    "url": "https://www.thestreet.com/health/troubled-healthcare-company-chain-files-chapter-11-bankruptcy",
+    "id_key": "127b47d32034af2b6bef9827cbbb133b71450fc31014f8a3395a0290e2ef7868",
+    "summary": "The struggling addiction treatment facility operator files for Chapter 11 bankruptcy.",
+    "ingested_utc": "2025-08-28T22:50:08Z"
+  },
+  {
+    "published_utc": "2025-08-28",
+    "retrieved_date": "2025-08-28",
+    "retrieved_utc": "2025-08-28T22:49:56Z",
+    "source": "TechCrunch_All",
+    "title": "Anthropic users face a new choice – opt out or share your chats for AI training",
+    "url": "https://techcrunch.com/2025/08/28/anthropic-users-face-a-new-choice-opt-out-or-share-your-data-for-ai-training/",
+    "id_key": "9ad439ce286e6db6bfc8d3fc22da9f80b78750dd4ef5ca5f623e3f1e5593de80",
+    "summary": "Anthropic is making some major changes to how it handles user data. Users have until September 28 to take action.",
+    "ingested_utc": "2025-08-28T22:49:56Z"
+  },
+  {
+    "published_utc": "2025-08-28",
+    "retrieved_date": "2025-08-28",
+    "retrieved_utc": "2025-08-28T22:49:40Z",
+    "source": "FT_Home",
+    "title": "Fed official says he could back jumbo rate cut if US economy weakens sharply",
+    "url": "https://www.ft.com/content/d8953f37-2bb1-4272-a24e-dbf0a02ee4f0",
+    "id_key": "1953c9621d9f4a17e30ed5f5309334be82496c3b9e9fa5c112a64ad3ba8da4e9",
+    "summary": "Central bank governor says August jobs report will be pivotal in setting direction of monetary policy",
+    "ingested_utc": "2025-08-28T22:49:40Z"
+  },
+  {
+    "published_utc": "2025-08-28",
+    "retrieved_date": "2025-08-28",
+    "retrieved_utc": "2025-08-28T22:47:14Z",
+    "source": "Guardian_World",
+    "title": "Australia news live: Littleproud says Katter threat not ‘becoming’, police raid Porepunkah property as manhunt continues",
+    "url": "https://www.theguardian.com/australia-news/live/2025/aug/29/australia-news-live-porepunkah-shooting-dezi-freeman-manhunt-police-latest-updates-ntwnfb",
+    "id_key": "f75120351571a2284068142e2020859aca9ecbc6b1dd65743f95fcec4efe9cce",
+    "summary": "The Bureau of Meteorology warns of snow below 1,000m as Dezi Freeman remains at large. Follow today’s news live Get our breaking news email , free app or daily news podcast Expelled ambassador says allegations against Iran ‘baseless’ during Sydney airport exit Iran’s former ambassador to Australia – now persona non grata – denied allegations his government was behind two antisemitic arson attacks in Australia, describing the accusations as “baseless” as he left the country. Continue reading...",
+    "ingested_utc": "2025-08-28T22:47:14Z"
+  },
+  {
+    "published_utc": "2025-08-28",
+    "retrieved_date": "2025-08-28",
+    "retrieved_utc": "2025-08-28T22:47:14Z",
+    "source": "Guardian_World",
+    "title": "Jessie J delays tour to undergo second breast cancer operation",
+    "url": "https://www.theguardian.com/music/2025/aug/28/jessie-j-delays-tour-to-undergo-second-breast-cancer-operation",
+    "id_key": "8339c8676150387633051a87b47090e00e86ccec278c04dbba3a7a62428d203a",
+    "summary": "Singer says UK and Europe dates will move to 2026 while US shows are cancelled as she focuses on treatment Jessie J has postponed her upcoming tour after revealing she will undergo a second operation as part of her breast cancer treatment. The 37-year-old singer, whose full name is Jessica Cornish, announced her diagnosis in June when she began treatment . Continue reading...",
+    "ingested_utc": "2025-08-28T22:47:14Z"
+  },
+  {
+    "published_utc": "2025-08-28",
+    "retrieved_date": "2025-08-28",
     "retrieved_utc": "2025-08-28T22:36:38Z",
     "source": "HackerNews_Top",
     "title": "Sometimes CPU cores are odd – Anubis",
@@ -10921,82 +10998,5 @@
     "id_key": "baa0321c9b2a722093ce65f4d566624c90ef51c3440f8a27a330255f17d0461e",
     "summary": "Legado das Águas, Brazil’s largest private Atlantic Forest reserve, will host IFF’s first forest lab for sustainable fragrance and cosmetic ingredient innovation. SÃO PAULO — IFF (NYSE: IFF) — a global leader in flavors, fragrances, food ingredients, health and biosciences — and Reservas Votorantim (rV), the green economy division of Brazilian investment firm, Votorantim SA, […]",
     "ingested_utc": "2025-08-27T08:48:20Z"
-  },
-  {
-    "published_utc": "2025-08-27",
-    "retrieved_date": "2025-08-27",
-    "retrieved_utc": "2025-08-27T08:48:20Z",
-    "source": "FinancialPost_Business",
-    "title": "Small businesses brace for higher costs as U.S. ends shipping-fee exemption",
-    "url": "https://financialpost.com/pmn/small-businesses-brace-for-higher-costs-as-u-s-ends-shipping-fee-exemption",
-    "id_key": "52230037c5892f981341e3495ddc330e1576f1c1afe507c2d77e3c2c682beab7",
-    "summary": "As the latest change to the Canada-U.S. trade relationship is about to take effect, Melissa Caracas Le-Fort is facing a deadline of her own. After Caracas Le-Fort announced on social media mid-August that her business would no longer take orders from American customers after Aug. 26, requests for custom-made pet tags began pouring in. Now, […]",
-    "ingested_utc": "2025-08-27T08:48:20Z"
-  },
-  {
-    "published_utc": "2025-08-27",
-    "retrieved_date": "2025-08-27",
-    "retrieved_utc": "2025-08-27T08:48:20Z",
-    "source": "FinancialPost_Business",
-    "title": "Vitol Set to Ship First Syrian Crude Oil Since Sanctions Lifted",
-    "url": "https://financialpost.com/pmn/business-pmn/vitol-set-to-ship-first-syrian-crude-oil-since-sanctions-lifted",
-    "id_key": "f741b90b32d3dc8904a38a44f657c8e08349842f66acc3cc76f07b2595f64f7f",
-    "summary": "Vitol Group is set to load the first cargo of Syrian crude oil since the lifting of western sanctions on Damascus as the country’s energy industry attempts to recover of more than a decade of destruction from armed conflict.",
-    "ingested_utc": "2025-08-27T08:48:20Z"
-  },
-  {
-    "published_utc": "2025-08-27",
-    "retrieved_date": "2025-08-27",
-    "retrieved_utc": "2025-08-27T08:48:20Z",
-    "source": "FinancialPost_Business",
-    "title": "OPEN Health Welcomes Zack Lentz as Chief Commercial Officer",
-    "url": "https://financialpost.com/globe-newswire/open-health-welcomes-zack-lentz-as-chief-commercial-officer",
-    "id_key": "bf0abdb956520297ad43e7d7bc102f57cfa59ad512a74383635144d9ac81379a",
-    "summary": "London and New York, Aug. 27, 2025 (GLOBE NEWSWIRE) — OPEN Health, a global leader in medical affairs, health economics and outcomes research (HEOR) and market access, patient engagement, and consulting services, has appointed Zack Lentz as Chief Commercial Officer. Lentz brings more than two decades of experience building and leading high-performing teams across the life […]",
-    "ingested_utc": "2025-08-27T08:48:20Z"
-  },
-  {
-    "published_utc": "2025-08-27",
-    "retrieved_date": "2025-08-27",
-    "retrieved_utc": "2025-08-27T08:48:13Z",
-    "source": "AlJazeera_All",
-    "title": "US imposes 50 percent tariff on India over Russian oil purchases",
-    "url": "https://www.aljazeera.com/news/2025/8/27/us-imposes-50-percent-tariff-on-india-over-russian-oil-purchases?traffic_source=rss",
-    "id_key": "0c83a693870f1aac08460c931dfc7e90f3503420646418ed2b03471f79483097",
-    "summary": "Washington's move to double tariffs on many Indian goods poses a huge risk to India's biggest export market.",
-    "ingested_utc": "2025-08-27T08:48:13Z"
-  },
-  {
-    "published_utc": "2025-08-27",
-    "retrieved_date": "2025-08-27",
-    "retrieved_utc": "2025-08-27T08:48:13Z",
-    "source": "AlJazeera_All",
-    "title": "Why investors are on tenterhooks for Nvidia’s latest earnings report",
-    "url": "https://www.aljazeera.com/news/2025/8/27/why-investors-are-on-tenterhooks-for-nvidias-latest-earnings-report?traffic_source=rss",
-    "id_key": "380cb477a4e9aa73ac0f362abb6bb9e88df18b6cb4367c68f6fc94a7208f2887",
-    "summary": "The US chip giant is considered a bellwether for both the AI industry and Wall Street.",
-    "ingested_utc": "2025-08-27T08:48:13Z"
-  },
-  {
-    "published_utc": "2025-08-27",
-    "retrieved_date": "2025-08-27",
-    "retrieved_utc": "2025-08-27T08:47:38Z",
-    "source": "NPR_Business",
-    "title": "Despite sanctions, many countries are still importing Russian products",
-    "url": "https://www.npr.org/2025/08/27/nx-s1-5496336/despite-sanctions-many-countries-are-still-importing-russian-products",
-    "id_key": "1169730ac993bd380a37b63e908c9c217a64e42b711f31e8362c6d99eeb43c67",
-    "summary": "Economic sanctions and trade restrictions against Russia following its full-scale invasion of Ukraine were set to force Moscow's hand. But the U.S. and Europe continue to rely on Russian imports.",
-    "ingested_utc": "2025-08-27T08:47:38Z"
-  },
-  {
-    "published_utc": "2025-08-27",
-    "retrieved_date": "2025-08-27",
-    "retrieved_utc": "2025-08-27T08:45:28Z",
-    "source": "CryptoNews",
-    "title": "Canary Capital Files First Spot ETF for Trump’s Meme Coin",
-    "url": "https://cryptonews.com/news/canary-capital-files-first-spot-etf-for-trumps-meme-coin/",
-    "id_key": "07931a5d45ac49443ecfa266808b65eadecee51b28e9ec4391117902c82c45ae",
-    "summary": "Canary Capital has filed to launch the first US spot ETF tied directly to President Donald Trump’s meme coin, TRUMP, marking a Wall Street first. The post Canary Capital Files First Spot ETF for Trump’s Meme Coin appeared first on Cryptonews .",
-    "ingested_utc": "2025-08-27T08:45:28Z"
   }
 ]
