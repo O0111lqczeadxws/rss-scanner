@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-08-28",
     "retrieved_date": "2025-08-28",
+    "retrieved_utc": "2025-08-28T19:50:34Z",
+    "source": "AlJazeera_All",
+    "title": "Two Lebanese soldiers killed in Israeli drone explosion in southern Lebanon",
+    "url": "https://www.aljazeera.com/news/2025/8/28/two-lebanese-soldiers-killed-in-israeli-drone-explosion-in-southern-lebanon?traffic_source=rss",
+    "id_key": "844b342dbe7b5d659bd70bfa380a101df27ef999313d33ba8fd9e57c50e764b2",
+    "summary": "Lebanese army says two other personnel wounded after crashed Israeli drone explodes during inspection in Naqoura area.",
+    "ingested_utc": "2025-08-28T19:50:34Z"
+  },
+  {
+    "published_utc": "2025-08-28",
+    "retrieved_date": "2025-08-28",
+    "retrieved_utc": "2025-08-28T19:50:33Z",
+    "source": "TheStreet_Top",
+    "title": "High-end Burger Chain Closes Most Locations",
+    "url": "https://www.thestreet.com/restaurants/upscale-burger-chain-closing-half-its-locations",
+    "id_key": "7cbd85b31fc19c2a94c2bb5911ff078a98fab84749f8eba941413359aa8f12bc",
+    "summary": "Closures come as the restaurant industry faces inflation, labor, and traffic pressures",
+    "ingested_utc": "2025-08-28T19:50:33Z"
+  },
+  {
+    "published_utc": "2025-08-28",
+    "retrieved_date": "2025-08-28",
+    "retrieved_utc": "2025-08-28T19:47:46Z",
+    "source": "Blockworks",
+    "title": "What does a Trump takeover of the Fed look like?",
+    "url": "https://blockworks.co/news/trump-fed-takeover",
+    "id_key": "b7967670f7f0033ebb79d0fd0e31d06dda2710c0503744b5f43f729b3049f43d",
+    "summary": "With Governor Cook being dismissed and talk of pressuring the 2026 nominations of regional presidents, markets are beginning to price in a risk premium",
+    "ingested_utc": "2025-08-28T19:47:46Z"
+  },
+  {
+    "published_utc": "2025-08-28",
+    "retrieved_date": "2025-08-28",
     "retrieved_utc": "2025-08-28T19:41:04Z",
     "source": "AlJazeera_All",
     "title": "United Nations says children make up 50 percent of gang members in Haiti",
@@ -10965,38 +10998,5 @@
     "id_key": "b7e7042e631f65b3d6fd06c7b613a696ba50368eb81174ff90d49fa122d5e1a2",
     "summary": "Comments",
     "ingested_utc": "2025-08-27T03:15:37Z"
-  },
-  {
-    "published_utc": "2025-08-27",
-    "retrieved_date": "2025-08-27",
-    "retrieved_utc": "2025-08-27T03:15:29Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "China crackdown boosts lithium prices, but how long can the rally last?",
-    "url": "https://asia.nikkei.com/business/technology/tech-asia/china-crackdown-boosts-lithium-prices-but-how-long-can-the-rally-last",
-    "id_key": "74803861c34619c5626c4618d59ae0811793fa4e5dfbd62f60cf6df6c65368e3",
-    "summary": "",
-    "ingested_utc": "2025-08-27T03:15:29Z"
-  },
-  {
-    "published_utc": "2025-08-27",
-    "retrieved_date": "2025-08-27",
-    "retrieved_utc": "2025-08-27T03:15:29Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "Japan to support homegrown tech for base stations, wireless equipment",
-    "url": "https://asia.nikkei.com/business/technology/japan-to-support-homegrown-tech-for-base-stations-wireless-equipment",
-    "id_key": "cff802a9d16cfb807b5d8670afaa6a27978236e5817332e0522fd47f22616360",
-    "summary": "",
-    "ingested_utc": "2025-08-27T03:15:29Z"
-  },
-  {
-    "published_utc": "2025-08-27",
-    "retrieved_date": "2025-08-27",
-    "retrieved_utc": "2025-08-27T03:15:29Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "Mitsubishi Corp., partner to pull out of offshore wind projects in Japan",
-    "url": "https://asia.nikkei.com/business/energy/mitsubishi-corp.-partner-to-pull-out-of-offshore-wind-projects-in-japan",
-    "id_key": "6091482fa015c7e7eb7ccedfd236d60281dcc2ef65973260629b5cadfa285fe1",
-    "summary": "",
-    "ingested_utc": "2025-08-27T03:15:29Z"
   }
 ]
