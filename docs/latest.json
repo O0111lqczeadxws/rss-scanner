@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-08-29",
     "retrieved_date": "2025-08-29",
+    "retrieved_utc": "2025-08-29T14:52:05Z",
+    "source": "FinancialPost_Business",
+    "title": "Stocks Hit by Tech Selloff After Economic Reports: Markets Wrap",
+    "url": "https://financialpost.com/pmn/business-pmn/stocks-hit-by-tech-selloff-after-economic-reports-markets-wrap",
+    "id_key": "7103da459468e3e2e56ed11507e662fba4be2cea75f1b93b8265604abf94cdd2",
+    "summary": "Wall Street traders sent stocks lower amid a rout in technology shares, with the latest economic readings showing a slide in consumer sentiment and persistent price pressures.",
+    "ingested_utc": "2025-08-29T14:52:05Z"
+  },
+  {
+    "published_utc": "2025-08-29",
+    "retrieved_date": "2025-08-29",
+    "retrieved_utc": "2025-08-29T14:49:21Z",
+    "source": "CoinJournal",
+    "title": "Numeraire price drops 25% as traders take profits",
+    "url": "https://coinjournal.net/news/numeraire-price-drops-25-as-traders-take-profits/",
+    "id_key": "56cd84833d80ff1bbfa53aaf1e671d3186850bb2a821202b6d1317d2f68a1ae9",
+    "summary": "Numeraire token NMR is down 25% as profit taking increases. The Numerai native token recently exploded amid a $500 million investment by JPMorgan. NMR price could drop to $15 and face resistance around $18. As top coins struggle with sell-off pressure, the price of Numeraire (NMR) has pared recent gains as it dropped 25% in […] The post Numeraire price drops 25% as traders take profits appeared first on CoinJournal .",
+    "ingested_utc": "2025-08-29T14:49:21Z"
+  },
+  {
+    "published_utc": "2025-08-29",
+    "retrieved_date": "2025-08-29",
+    "retrieved_utc": "2025-08-29T14:48:54Z",
+    "source": "BBC_World",
+    "title": "Protesters and police clash after death of taxi driver in Indonesia",
+    "url": "https://www.bbc.com/news/articles/cjw6el72xd4o?at_medium=RSS&at_campaign=rss",
+    "id_key": "79b8697657bd6785365902969c6ac6fecb828573420e0723d7a8988bab4abfe1",
+    "summary": "Tear gas and water cannons have been used on protesters as demonstrations erupt across the country.",
+    "ingested_utc": "2025-08-29T14:48:54Z"
+  },
+  {
+    "published_utc": "2025-08-29",
+    "retrieved_date": "2025-08-29",
     "retrieved_utc": "2025-08-29T14:41:35Z",
     "source": "HackerNews_Top",
     "title": "Private Equity Snaps Up Disability Services, Challenging Regulators",
@@ -10965,38 +10998,5 @@
     "id_key": "d2126fe9c39226bfc3407141feb0be31cd810c556dd2f63d5940bf697fb6d739",
     "summary": "Comments",
     "ingested_utc": "2025-08-27T18:48:41Z"
-  },
-  {
-    "published_utc": "2025-08-27",
-    "retrieved_date": "2025-08-27",
-    "retrieved_utc": "2025-08-27T18:48:25Z",
-    "source": "FinancialPost_Business",
-    "title": "National Bank brings on first batch of Canadian Western Bank clients after takeover",
-    "url": "https://financialpost.com/pmn/national-bank-brings-on-first-batch-of-canadian-western-bank-clients-after-takeover",
-    "id_key": "5be9e5e519e79458a2a18ae574638699b2c97c8f552c10037feefd489e08581b",
-    "summary": "National Bank of Canada says it moved the first batch of clients from newly acquired Canadian Western Bank onto its platform this month, a key milestone as the Montreal-based bank continues to integrate the $5-billion acquisition that closed earlier this year. “The next waves are planned over the upcoming months and the majority of clients […]",
-    "ingested_utc": "2025-08-27T18:48:25Z"
-  },
-  {
-    "published_utc": "2025-08-27",
-    "retrieved_date": "2025-08-27",
-    "retrieved_utc": "2025-08-27T18:48:25Z",
-    "source": "FinancialPost_Business",
-    "title": "Canadian Firms Are Absorbing Tariff Costs, Keeping Lid on Inflation",
-    "url": "https://financialpost.com/pmn/business-pmn/canadian-firms-are-absorbing-tariff-costs-keeping-lid-on-inflation",
-    "id_key": "9a7865553ba6c539003c1c96b3f8563fa78ff69cbd9e143374c7bd7bdae7bb44",
-    "summary": "Many Canadian companies aren’t yet charging their customers higher prices because of tariffs, a sign that inflation pressure stemming from the ongoing trade dispute with the US may be delayed.",
-    "ingested_utc": "2025-08-27T18:48:25Z"
-  },
-  {
-    "published_utc": "2025-08-27",
-    "retrieved_date": "2025-08-27",
-    "retrieved_utc": "2025-08-27T18:48:25Z",
-    "source": "FinancialPost_Business",
-    "title": "No Evidence Iran Nuclear Material Has Moved, UN Watchdog Says",
-    "url": "https://financialpost.com/pmn/business-pmn/no-evidence-iran-nuclear-material-has-moved-un-watchdog-says",
-    "id_key": "9646e0c6529668bda9d9e8e31af07814c24466fd4b2e84be8330fb275be5058a",
-    "summary": "Satellite imagery shows no evidence that near-bomb grade uranium has been moved from Iran’s Isfahan site since a US attack two months ago, said the UN’s International Atomic Energy Agency, while calling on Tehran to fulfill its legal obligations to allow monitoring to resume.",
-    "ingested_utc": "2025-08-27T18:48:25Z"
   }
 ]
