@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-08-30",
     "retrieved_date": "2025-08-30",
+    "retrieved_utc": "2025-08-30T09:50:10Z",
+    "source": "TheStreet_Top",
+    "title": "Amazon is selling a powerful robot vacuum and mop for $180, and shoppers say it's 'like heaven'",
+    "url": "https://www.thestreet.com/deals/roborock-q8-max-robot-vacuum-mop-multi-level-navigation-amazon-sale",
+    "id_key": "ccb1ce6d36609850798291fffd8d7af909963c23e12bf6827c38627cbb04b4e0",
+    "summary": "Get a high-performance robot vac with multi-level mapping for 55% off.",
+    "ingested_utc": "2025-08-30T09:50:10Z"
+  },
+  {
+    "published_utc": "2025-08-30",
+    "retrieved_date": "2025-08-30",
+    "retrieved_utc": "2025-08-30T09:47:38Z",
+    "source": "CoinJournal",
+    "title": "Tether reverses USDT freezing on 5 chains, allows transfers, but ends issuance",
+    "url": "https://coinjournal.net/news/tether-reverses-usdt-freezing-on-5-chains-allows-transfers-but-ends-issuance/",
+    "id_key": "b360958485b6cfe4ee6208d9b5983a545862346e8e4a14390e1e9d130946a5ac",
+    "summary": "Tether has said that while USDT transfers on the five blockchains remain possible, no new USDT will be issued or redeemed. Tether is shifting its focus to Ethereum, Tron, and other high-demand networks. The stablecoin market is projected to reach $2T by 2028 amid rising US support. Tether has adjusted its earlier plan to freeze […] The post Tether reverses USDT freezing on 5 chains, allows transfers, but ends issuance appeared first on CoinJournal .",
+    "ingested_utc": "2025-08-30T09:47:38Z"
+  },
+  {
+    "published_utc": "2025-08-30",
+    "retrieved_date": "2025-08-30",
     "retrieved_utc": "2025-08-30T09:42:04Z",
     "source": "FinancialPost_Business",
     "title": "Longest Rise in UK Home Listings Since 2004 Weighs on Prices",
@@ -10976,27 +10998,5 @@
     "id_key": "9a78e13e989dfdf390c946aeb1171704b638bd3ce2442c626b37afd56fbfbd78",
     "summary": "Just consider what happens if inflation starts to rise again",
     "ingested_utc": "2025-08-28T10:53:16Z"
-  },
-  {
-    "published_utc": "2025-08-28",
-    "retrieved_date": "2025-08-28",
-    "retrieved_utc": "2025-08-28T10:43:18Z",
-    "source": "MIT_TechReview",
-    "title": "From pilot to scale: Making agentic AI work in health care",
-    "url": "https://www.technologyreview.com/2025/08/28/1122623/from-pilot-to-scale-making-agentic-ai-work-in-health-care/",
-    "id_key": "fced10c4ec4efb78c5cc206ef35e037f527e63a3ab12b48ba3d9858991254270",
-    "summary": "Over the past 20 years building advanced AI systems—from academic labs to enterprise deployments—I’ve witnessed AI’s waves of success rise and fall. My journey began during the “AI Winter,” when billions were invested in expert systems that ultimately underdelivered. Flash forward to today: large language models (LLMs) represent a quantum leap forward, but their prompt-based…",
-    "ingested_utc": "2025-08-28T10:43:18Z"
-  },
-  {
-    "published_utc": "2025-08-28",
-    "retrieved_date": "2025-08-28",
-    "retrieved_utc": "2025-08-28T10:43:18Z",
-    "source": "MIT_TechReview",
-    "title": "3 problems with Google’s AI energy use data",
-    "url": "https://www.technologyreview.com/2025/08/28/1122685/ai-energy-use-gemini/",
-    "id_key": "6b0c9417b2665863f28681ca5162ac17682bb94cdc38611c4c8d9fc856273576",
-    "summary": "Google just announced that a typical query to its Gemini app uses about 0.24 watt-hours of electricity. That’s about the same as running a microwave for one second—something that, to me, feels virtually insignificant. I run the microwave for so many more seconds than that on most days. I was excited to see this report…",
-    "ingested_utc": "2025-08-28T10:43:18Z"
   }
 ]
