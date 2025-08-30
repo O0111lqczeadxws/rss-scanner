@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-08-30",
     "retrieved_date": "2025-08-30",
+    "retrieved_utc": "2025-08-30T06:44:55Z",
+    "source": "NYTimes_Business",
+    "title": "Trump Takes Aim at South Korean Chipmakers’ China Operations",
+    "url": "https://www.nytimes.com/2025/08/30/business/trump-samsung-skhynix-chips.html",
+    "id_key": "7b8d2a9d4f3b011fbfcc34df7377b4cefad444b51513958803d2d47a931cc367",
+    "summary": "The U.S. said Samsung and SK Hynix can no longer ship American equipment to their production facilities in China without government licenses.",
+    "ingested_utc": "2025-08-30T06:44:55Z"
+  },
+  {
+    "published_utc": "2025-08-30",
+    "retrieved_date": "2025-08-30",
+    "retrieved_utc": "2025-08-30T06:44:55Z",
+    "source": "NYTimes_World",
+    "title": "3 Killed as Protests in Indonesia Spread Beyond Jakarta",
+    "url": "https://www.nytimes.com/2025/08/30/world/asia/indonesia-protests-dead-prabowo-subianto.html",
+    "id_key": "77ddded6d82d84fbb4ec9e3caf5cbee3d38be3d6f27278ee80582f3180a3348e",
+    "summary": "The student-led demonstrations are against President Prabowo Subianto’s economic policies and fatal police brutality.",
+    "ingested_utc": "2025-08-30T06:44:55Z"
+  },
+  {
+    "published_utc": "2025-08-30",
+    "retrieved_date": "2025-08-30",
+    "retrieved_utc": "2025-08-30T06:42:42Z",
+    "source": "Guardian_World",
+    "title": "Reform UK councillor suspended from job at Home Office processing asylum claims",
+    "url": "https://www.theguardian.com/politics/2025/aug/30/reform-uk-councillor-suspended-from-job-at-home-office-processing-asylum-claims",
+    "id_key": "396460e5a5a2dfab94d8a05830c203f0cd093e945c29017dddfdcfb3179f065b",
+    "summary": "It is understood an investigation will look at whether Paul Bean of Durham council breached civil service code A local councillor for Reform UK who works for the Home Office processing asylum and immigration claims has been suspended from his job while an investigation is carried out, the Guardian has learned. Paul Bean , who serves as a councillor for Crook ward at Durham county council, declared his day job as a civil servant at the Home Office in his register of interests. Continue reading...",
+    "ingested_utc": "2025-08-30T06:42:42Z"
+  },
+  {
+    "published_utc": "2025-08-30",
+    "retrieved_date": "2025-08-30",
     "retrieved_utc": "2025-08-30T05:49:48Z",
     "source": "AlJazeera_All",
     "title": "Kashmir’s top cleric was a fiery freedom advocate. Now he preaches patience",
@@ -10965,38 +10998,5 @@
     "id_key": "d7ae5104a3e9c871e7d57544ee83160f618c2dfcb0d63f47c9dd7d8cb3e04deb",
     "summary": "A fight erupted in the senate involving two senior Mexican politicians.",
     "ingested_utc": "2025-08-28T10:39:58Z"
-  },
-  {
-    "published_utc": "2025-08-28",
-    "retrieved_date": "2025-08-28",
-    "retrieved_utc": "2025-08-28T09:50:01Z",
-    "source": "FT_Markets",
-    "title": "FCA opens UK investigation into Drax annual reports",
-    "url": "https://www.ft.com/content/368c29c7-27fd-4fed-8fcc-94ce56f1c958",
-    "id_key": "ce77571b8c64c739d8e45f78deba6b3b9504d6dd36def5902ac0b2c7383e2e78",
-    "summary": "Probe follows allegations made by energy group’s former top lobbyist",
-    "ingested_utc": "2025-08-28T09:50:01Z"
-  },
-  {
-    "published_utc": "2025-08-28",
-    "retrieved_date": "2025-08-28",
-    "retrieved_utc": "2025-08-28T09:47:39Z",
-    "source": "Guardian_World",
-    "title": "Labor accused of trying to ‘sneak through’ law change to strip non-citizens of fair process",
-    "url": "https://www.theguardian.com/australia-news/2025/aug/28/labor-accused-of-trying-to-sneak-through-law-change-to-strip-non-citizens-of-fair-process",
-    "id_key": "f8002e34033bea2f5702670926a25673f12622028fd1933126acccf1e621659f",
-    "summary": "Greens’ David Shoebridge calls amendment ‘one of the nastiest, meanest attacks’ on multicultural Australia Follow our Australia news live blog for latest updates Refugee and human rights groups will launch a campaign demanding the federal government scrap a controversial migration amendment to explicitly remove procedural fairness in deportation decisions for foreign-born criminals, a proposal which advocates say is causing alarm among migrants. The Senate on Thursday rejected a Greens push for an inquiry into the legislation, which the senator David Shoebridge slammed as “one of the nastiest, meanest attacks” on multicultural Australia. Continue reading...",
-    "ingested_utc": "2025-08-28T09:47:39Z"
-  },
-  {
-    "published_utc": "2025-08-28",
-    "retrieved_date": "2025-08-28",
-    "retrieved_utc": "2025-08-28T09:37:28Z",
-    "source": "FinancialPost_Business",
-    "title": "Iran Faces UN Nuclear Sanctions Triggered by European Powers",
-    "url": "https://financialpost.com/pmn/business-pmn/iran-faces-un-nuclear-sanctions-triggered-by-european-powers",
-    "id_key": "b36a4585829b2dc9f1827290322d32c3e801d4ead3e9ba0811772246b74561ba",
-    "summary": "European powers are expected to refer Iran back to the United Nations to face the re-imposition of tougher sanctions after the Islamic Republic failed to comply with demands to negotiate with the US and allow international atomic inspectors to resume their work.",
-    "ingested_utc": "2025-08-28T09:37:28Z"
   }
 ]
