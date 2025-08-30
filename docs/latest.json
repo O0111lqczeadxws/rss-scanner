@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-08-30",
     "retrieved_date": "2025-08-30",
+    "retrieved_utc": "2025-08-30T22:34:45Z",
+    "source": "TheVerge_All",
+    "title": "Verizon&#8217;s &#8216;software issue&#8217; has disconnected many wireless customers across the US",
+    "url": "https://www.theverge.com/verizon/768450/verizon-is-down-outage-network-software-issue",
+    "id_key": "976ce0c066bbc0d1eccca3f350ac1c2bbf48413b6a18c9faf3bff7f8c98aacd5",
+    "summary": "Verizon has confirmed to customers in stores and online that its network is having an issue on Saturday. Many people have been unable to connect and make or receive calls for hours, while DownDetector’s tracker peaked in the afternoon at around 3:30PM ET with more than 20,000 reports. Some customers report their service has continued […]",
+    "ingested_utc": "2025-08-30T22:34:45Z"
+  },
+  {
+    "published_utc": "2025-08-30",
+    "retrieved_date": "2025-08-30",
+    "retrieved_utc": "2025-08-30T22:34:19Z",
+    "source": "NYTimes_World",
+    "title": "Over 15 Killed in Gaza City, One Day After Israel Ends Daily Pauses for Aid",
+    "url": "https://www.nytimes.com/2025/08/30/world/middleeast/gaza-israel-deadly-strikes.html",
+    "id_key": "2c79030502420e84acdfdf402084733a25e12d1fe1bc59f7b6def1f09dc1a7aa",
+    "summary": "One attack was an effort to assassinate Abu Obeida, one of Hamas’s best-known spokesmen, Israeli officials said. It was not immediately clear if that succeeded.",
+    "ingested_utc": "2025-08-30T22:34:19Z"
+  },
+  {
+    "published_utc": "2025-08-30",
+    "retrieved_date": "2025-08-30",
+    "retrieved_utc": "2025-08-30T22:32:05Z",
+    "source": "BBC_World",
+    "title": "Reeling from Trump's tariffs, India and China seek a business reboot",
+    "url": "https://www.bbc.com/news/articles/c0mlen3grx7o?at_medium=RSS&at_campaign=rss",
+    "id_key": "9cbd75a87fae406c1bba16c67acd3444f4ff352f9f782aa9894b06ba9dae66eb",
+    "summary": "India's prime minister hopes to draw nearer to some of the world’s largest economies.",
+    "ingested_utc": "2025-08-30T22:32:05Z"
+  },
+  {
+    "published_utc": "2025-08-30",
+    "retrieved_date": "2025-08-30",
     "retrieved_utc": "2025-08-30T21:50:07Z",
     "source": "TheStreet_Top",
     "title": "Dollar General Admits It Has Higher Prices, Commits to $1 Items",
@@ -10965,38 +10998,5 @@
     "id_key": "b8eb3c93337e0be267e4e5c1fb69162be08b45adae42a665c006772020f75f5d",
     "summary": "Comments",
     "ingested_utc": "2025-08-28T14:44:14Z"
-  },
-  {
-    "published_utc": "2025-08-28",
-    "retrieved_date": "2025-08-28",
-    "retrieved_utc": "2025-08-28T14:43:58Z",
-    "source": "FinancialPost_Business",
-    "title": "Calian Announces Normal Course Issuer Bid",
-    "url": "https://financialpost.com/globe-newswire/calian-announces-normal-course-issuer-bid-2",
-    "id_key": "0f2bbf0eb7d0d1ceeb0a1d74a0eeb1dcdb65b5c2f0717a469459c937e8953c2a",
-    "summary": "OTTAWA, Ontario, Aug. 28, 2025 (GLOBE NEWSWIRE) — Calian Group Ltd. (“Calian” or the “Company”) (TSX: CGY) is pleased to announce that the Toronto Stock Exchange (the “Exchange” or “TSX”) has accepted a notice (the “Notice”) filed by the Company of its intention to make a normal course issuer bid (the “NCIB”). In connection with […]",
-    "ingested_utc": "2025-08-28T14:43:58Z"
-  },
-  {
-    "published_utc": "2025-08-28",
-    "retrieved_date": "2025-08-28",
-    "retrieved_utc": "2025-08-28T14:43:58Z",
-    "source": "FinancialPost_Business",
-    "title": "Trade War Pushes Canada’s Current Account Deficit to Record",
-    "url": "https://financialpost.com/pmn/business-pmn/trade-war-pushes-canadas-current-account-deficit-to-record",
-    "id_key": "00af6f0c7e86a25a17866956645c190cdb9d88b614d95677bd9a891035c420f0",
-    "summary": "Canada’s current account deficit reached the widest on record in the second quarter as the country’s exports to the US dropped because of the trade dispute.",
-    "ingested_utc": "2025-08-28T14:43:58Z"
-  },
-  {
-    "published_utc": "2025-08-28",
-    "retrieved_date": "2025-08-28",
-    "retrieved_utc": "2025-08-28T14:43:58Z",
-    "source": "FinancialPost_Business",
-    "title": "Insurity Reinforces Marine Cargo Insurance Leadership with Next-Generation User Experience and Continued Investment",
-    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/insurity-reinforces-marine-cargo-insurance-leadership-with-next-generation-user-experience-and-continued-investment",
-    "id_key": "efdf6c8fe38cb552f88c6291614c69d5e4622219751f7afc895af813a5d3be6a",
-    "summary": "Insurity’s decades of expertise and cutting-edge enhancements reaffirm its position as the go-to platform for complex, global marine cargo insurance HARTFORD, Conn. — Insurity, the leading provider of cloud-based software for insurance carriers, brokers, and MGAs, today announced the next phase of its long-standing leadership in marine cargo insurance with a redesigned and modernized user […]",
-    "ingested_utc": "2025-08-28T14:43:58Z"
   }
 ]
