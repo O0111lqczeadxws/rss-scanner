@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-08-30",
     "retrieved_date": "2025-08-30",
+    "retrieved_utc": "2025-08-30T13:50:45Z",
+    "source": "HackerNews_Top",
+    "title": "Computing simplified coverage polygons",
+    "url": "https://www.volkerkrause.eu/2025/08/30/simplified-coverage-polygons.html",
+    "id_key": "7f24420dba39a595078e226211348bd0a42ebbbd05883e1bfe066905a2236191",
+    "summary": "Comments",
+    "ingested_utc": "2025-08-30T13:50:45Z"
+  },
+  {
+    "published_utc": "2025-08-30",
+    "retrieved_date": "2025-08-30",
+    "retrieved_utc": "2025-08-30T13:50:23Z",
+    "source": "TheStreet_Top",
+    "title": "Fashion Retailer Files Chapter 11-like Bankruptcy to Avoid Sale",
+    "url": "https://www.thestreet.com/retail/fashion-retailer-files-for-bankruptcy-blames-white-house-tariffs",
+    "id_key": "5212707a307386f0e7157f573fb24be538d91c68850719023dfc8a998728fad1",
+    "summary": "The quirky fashion brand has told employees that it plans to fight its lenders' plans to sell the company.",
+    "ingested_utc": "2025-08-30T13:50:23Z"
+  },
+  {
+    "published_utc": "2025-08-30",
+    "retrieved_date": "2025-08-30",
+    "retrieved_utc": "2025-08-30T13:50:23Z",
+    "source": "TheStreet_Top",
+    "title": "BYD follows Tesla's radical approach; the results are just as disastrous",
+    "url": "https://www.thestreet.com/automotive/byd-follows-teslas-radical-approach-the-results-are-just-as-disastrous",
+    "id_key": "9eb773369e53c931b3e8e41ece1e8aa07f3b7ca390c5fd15605c826d12c6b018",
+    "summary": "BYD reported second-quarter earnings results Friday, August 29.",
+    "ingested_utc": "2025-08-30T13:50:23Z"
+  },
+  {
+    "published_utc": "2025-08-30",
+    "retrieved_date": "2025-08-30",
     "retrieved_utc": "2025-08-30T13:37:58Z",
     "source": "TheStreet_Top",
     "title": "Dollar General Reveals a Disturbing Pricing Admission",
@@ -10965,38 +10998,5 @@
     "id_key": "a672ae852f59e619dd41966284e9d96bfecffeacdeb65c812c46fac9d5906315",
     "summary": "Sitting at a desk for hours? Upgrade your WFH setup and work in style with these comfy WIRED-tested seats.",
     "ingested_utc": "2025-08-28T13:38:24Z"
-  },
-  {
-    "published_utc": "2025-08-28",
-    "retrieved_date": "2025-08-28",
-    "retrieved_utc": "2025-08-28T13:38:22Z",
-    "source": "TechCrunch_All",
-    "title": "How a 16-year-old company is easing small businesses into AI",
-    "url": "https://techcrunch.com/2025/08/28/how-a-16-year-old-company-is-easing-small-businesses-into-ai/",
-    "id_key": "09c654d760c5332e22f802c172c43fc895cbda439168dc8fe119e175c4714a99",
-    "summary": "Whether AI is a bubble or not, it's helping some small businesses save real money. Here's how one has cautiously approached adoption.",
-    "ingested_utc": "2025-08-28T13:38:22Z"
-  },
-  {
-    "published_utc": "2025-08-28",
-    "retrieved_date": "2025-08-28",
-    "retrieved_utc": "2025-08-28T13:38:21Z",
-    "source": "TheVerge_All",
-    "title": "The best alternatives to Spotify for listening to music",
-    "url": "https://www.theverge.com/22910685/music-listening-service-spotify-apple-youtube-amazon",
-    "id_key": "9bb5e26b147d3507204c1caebea604569cdd6dad3d931fb98d0dd7e8bb70a2d9",
-    "summary": "When this article was originally written in February 2022, the big Spotify controversy was that artists were abandoning the audio service in protest of the company's contract with podcaster Joe Rogan, and some subscribers were deciding to follow the musicians' example. More recently, some users have threatened to bail after CEO Daniel Ek invested in […]",
-    "ingested_utc": "2025-08-28T13:38:21Z"
-  },
-  {
-    "published_utc": "2025-08-28",
-    "retrieved_date": "2025-08-28",
-    "retrieved_utc": "2025-08-28T13:38:21Z",
-    "source": "TheVerge_All",
-    "title": "DJI’s Mic 3 crams more features into a smaller package",
-    "url": "https://www.theverge.com/news/767297/dji-mic-3-wireless-microphone-launch",
-    "id_key": "6830fff7ba6371f8e2df35bd03f4e54a396b22d62b77d2953b8334ceceb925e9",
-    "summary": "DJI is making its latest wireless lavalier microphone system even smaller without scrimping on features or battery life. The DJI Mic 3 is half the size and weight of its Mic 2 predecessor and introduces new capabilities, including two adaptive gain control modes, three voice tone presets, and a sizable increase in storage capacity for […]",
-    "ingested_utc": "2025-08-28T13:38:21Z"
   }
 ]
