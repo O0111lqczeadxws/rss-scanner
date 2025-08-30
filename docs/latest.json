@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-08-30",
     "retrieved_date": "2025-08-30",
+    "retrieved_utc": "2025-08-30T14:51:27Z",
+    "source": "Nikkei_Asia_Top",
+    "title": "Violent protests erupt across Indonesia for third consecutive day",
+    "url": "https://asia.nikkei.com/politics/violent-protests-erupt-across-indonesia-for-third-consecutive-day",
+    "id_key": "5ee896984b15fb205ed6efe4da4d01d787f851e9f0fe1d7a2eebeb3ac56c7d67",
+    "summary": "",
+    "ingested_utc": "2025-08-30T14:51:27Z"
+  },
+  {
+    "published_utc": "2025-08-30",
+    "retrieved_date": "2025-08-30",
     "retrieved_utc": "2025-08-30T14:44:42Z",
     "source": "Engadget_All",
     "title": "The Dyson Labor Day sale knocks $500 off the 360 Vis Nav robot vacuum",
@@ -10986,17 +10997,6 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2025/8/28/israeli-sniper-shoots-palestinian-near-ghf-aid-site-in-gaza?traffic_source=rss",
     "id_key": "700906c1888cec912c6eca02078bd20b6d7d80a7112b30e81dea4e9a82b55027",
     "summary": "A video appears to show an Israeli sniper shooting a Palestinian near a GHF food distribution site in Gaza.",
-    "ingested_utc": "2025-08-28T13:38:35Z"
-  },
-  {
-    "published_utc": "2025-08-28",
-    "retrieved_date": "2025-08-28",
-    "retrieved_utc": "2025-08-28T13:38:35Z",
-    "source": "AlJazeera_All",
-    "title": "Is Trump trying to engineer Greenland’s secession from Denmark?",
-    "url": "https://www.aljazeera.com/news/2025/8/28/is-trump-trying-to-engineer-greenlands-secession-from-denmark?traffic_source=rss",
-    "id_key": "290720a4a5dd5145bc271b150f8d4687eef0918dba91c630120ce4ec3879ddd7",
-    "summary": "Denmark has summoned US envoy over intelligence reports that US citizens covertly tried to influence Greenlanders.",
     "ingested_utc": "2025-08-28T13:38:35Z"
   }
 ]
