@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-08-31",
     "retrieved_date": "2025-08-31",
+    "retrieved_utc": "2025-08-31T20:46:54Z",
+    "source": "BBC_World",
+    "title": "Rudy Giuliani injured in car accident, security guard says",
+    "url": "https://www.bbc.com/news/articles/crm4gdwerj3o?at_medium=RSS&at_campaign=rss",
+    "id_key": "1d640e0ac81c7bc839c5d3b9c3618dbfb0e15566601b66f8f17e1bb97376ba3b",
+    "summary": "The former Trump adviser's car was struck from behind on a highway in New Hampshire, a statement says.",
+    "ingested_utc": "2025-08-31T20:46:54Z"
+  },
+  {
+    "published_utc": "2025-08-31",
+    "retrieved_date": "2025-08-31",
+    "retrieved_utc": "2025-08-31T20:46:54Z",
+    "source": "BBC_World",
+    "title": "UK closes embassy in Cairo after security barriers removed",
+    "url": "https://www.bbc.com/news/articles/cx27xr2jkp9o?at_medium=RSS&at_campaign=rss",
+    "id_key": "4d4616fadb679a9370d0f6e32cbc053d180fbf6add8e705b8346ac0df6c69e28",
+    "summary": "The removal of the barriers is widely seen as retaliation for the arrest of a pro-Egyptian government activist in London last week.",
+    "ingested_utc": "2025-08-31T20:46:54Z"
+  },
+  {
+    "published_utc": "2025-08-31",
+    "retrieved_date": "2025-08-31",
     "retrieved_utc": "2025-08-31T20:36:30Z",
     "source": "HackerNews_Top",
     "title": "Replacing a cache service with a database",
@@ -10220,6 +10242,17 @@
   },
   {
     "published_utc": "2025-08-28",
+    "retrieved_date": "2025-08-31",
+    "retrieved_utc": "2025-08-31T20:51:14Z",
+    "source": "HackerNews_Top",
+    "title": "Cricket, Fandom, and the Unspoken Price of Fantasy Gaming",
+    "url": "https://uselessmbaguy.substack.com/p/cricket-fandom-and-the-unspoken-price",
+    "id_key": "78b4834b8c721977591080d96cbebd03e5359501ad5a11d7929187a4cf2186bb",
+    "summary": "Comments",
+    "ingested_utc": "2025-08-31T20:51:14Z"
+  },
+  {
+    "published_utc": "2025-08-28",
     "retrieved_date": "2025-08-30",
     "retrieved_utc": "2025-08-30T13:05:21Z",
     "source": "NPR_Economy",
@@ -10965,38 +10998,5 @@
     "id_key": "73a46ed92fced5b11b9ae505fdb61f8c8fec00dbba8c3191a867d71881230310",
     "summary": "The proposed trust would use Coinbase for custody, CF Benchmarks pricing and may incorporate staking if tax status allows",
     "ingested_utc": "2025-08-28T21:28:22Z"
-  },
-  {
-    "published_utc": "2025-08-28",
-    "retrieved_date": "2025-08-28",
-    "retrieved_utc": "2025-08-28T21:28:07Z",
-    "source": "Guardian_World",
-    "title": "White House reportedly picks Kennedy deputy to replace fired CDC chief",
-    "url": "https://www.theguardian.com/us-news/2025/aug/28/cdc-chief-fired-white-house-monarez-trump",
-    "id_key": "818cd7b40df1accc60047d5ecf281b9d6cdfc3a819ae415f01a37d53b2245156",
-    "summary": "Susan Monarez says only Trump can remove her as four other senior CDC leaders quit over political interference US politics live – latest updates Who’s who in the CDC crisis? The White House has reportedly chosen a deputy of Robert F Kennedy Jr to serve as the acting head of the US Centers for Disease Control and Prevention (CDC), a decision that comes as the standoff over the firing of director Susan Monarez , has deepened, with Monarez’s lawyers claiming she will not depart unless Donald Trump himself removes her. The Washington Post reported on Thursday, citing two people familiar with the decision, that the White House has selected Jim O’Neill, currently the deputy secretary of the Department of Health and Human Services. The decision would give Kennedy a CDC chief who will be on board with his efforts to overhaul federal vaccine policy, the Post reported. Continue reading...",
-    "ingested_utc": "2025-08-28T21:28:07Z"
-  },
-  {
-    "published_utc": "2025-08-28",
-    "retrieved_date": "2025-08-28",
-    "retrieved_utc": "2025-08-28T21:28:07Z",
-    "source": "Guardian_World",
-    "title": "RFK Jr ally reportedly chosen to lead CDC as departing officials hit out at vaccine messaging – live",
-    "url": "https://www.theguardian.com/us-news/live/2025/aug/28/cdc-susan-monarez-trump-news-updates-us-politics-live",
-    "id_key": "c597a916fcd56ee4b5c22b489b106586ef6c8850a2f6eb5804175ab5fb602190",
-    "summary": "Report says deputy health secretary Jim O’Neill to become interim CDC director as staffers rally for officials who quit Border czar Tom Homan said that there will be a “ramp up” of Immigration and Customs Enforcement (Ice) operations in Chicago, and other Democratic-led cities, after Labor Day. He added: You’re going to see a ramp up of operations continue in New York, operations continuing in LA...Portland, Seattle, all these sanctuary cities that refuse to work with ICE, where we know public safety threats are being released every day into this country. Continue reading...",
-    "ingested_utc": "2025-08-28T21:28:07Z"
-  },
-  {
-    "published_utc": "2025-08-28",
-    "retrieved_date": "2025-08-28",
-    "retrieved_utc": "2025-08-28T20:50:59Z",
-    "source": "FinancialPost_Business",
-    "title": "Luxury Fashion Seller Ssense Nears Creditor Protection in Canada",
-    "url": "https://financialpost.com/pmn/business-pmn/luxury-fashion-seller-ssense-nears-creditor-protection-in-canada",
-    "id_key": "b7ab984e0ccde45d766f08c342bc26390318e4f80a26557c55ec4880b9fbff35",
-    "summary": "Ssense, a Montreal-based retailer that sells designer fashion, is on the verge of a creditor protection filing in Canada, according to people with knowledge of the matter.",
-    "ingested_utc": "2025-08-28T20:50:59Z"
   }
 ]
