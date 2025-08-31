@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-08-31",
     "retrieved_date": "2025-08-31",
+    "retrieved_utc": "2025-08-31T10:49:55Z",
+    "source": "TheStreet_Top",
+    "title": "Spirit Airlines filed for bankruptcy, so are flights canceled?",
+    "url": "https://www.thestreet.com/travel/spirit-airlines-filed-for-bankruptcy-so-are-flights-canceled",
+    "id_key": "07fa48a54e4d8e9500383dad12b1cd28a523fe803cdc9fe7935cd5aaa5d037cd",
+    "summary": "Will your Spirit Airlines flight be canceled due to bankruptcy, and can you still buy tickets?",
+    "ingested_utc": "2025-08-31T10:49:55Z"
+  },
+  {
+    "published_utc": "2025-08-31",
+    "retrieved_date": "2025-08-31",
+    "retrieved_utc": "2025-08-31T10:46:58Z",
+    "source": "Guardian_World",
+    "title": "Richard Tice hits back at C of E criticism of Reform immigration policy",
+    "url": "https://www.theguardian.com/politics/2025/aug/31/richard-tice-church-archbishop-criticism-reform-immigration-policy",
+    "id_key": "dc4bd95aabc8f6c7db485744d4977e612d97e5885f11c9955c7688647bd39f54",
+    "summary": "Deputy leader says archbishop should stay out of matter after Stephen Cottrell calls policy isolationist and kneejerk Reform UK has engaged in a war of words with the Church of England over the party’s plans to deport all asylum seekers who arrive in small boats, after the church’s most senior bishop called the proposal “isolationist, short-term [and] kneejerk”. Richard Tice, the party’s deputy leader, hit back against the archbishop of York, Stephen Cottrell, on Sunday, accusing him of interfering in domestic politics. Continue reading...",
+    "ingested_utc": "2025-08-31T10:46:58Z"
+  },
+  {
+    "published_utc": "2025-08-31",
+    "retrieved_date": "2025-08-31",
     "retrieved_utc": "2025-08-31T10:36:27Z",
     "source": "FinancialPost_Business",
     "title": "What it could mean for the Fed to lose its independence",
@@ -10976,27 +10998,5 @@
     "id_key": "3874678ff1469fb74b101f26255504797881a2b54ebf14b3c19bbfd30ba7cb3e",
     "summary": "Nearly two dozen states have passed laws regulating how tech companies collect data from our faces, eyes and voices. It comes as Congress has yet to pass any facial recognition technology.",
     "ingested_utc": "2025-08-28T17:35:32Z"
-  },
-  {
-    "published_utc": "2025-08-28",
-    "retrieved_date": "2025-08-28",
-    "retrieved_utc": "2025-08-28T17:35:24Z",
-    "source": "NYTimes_Business",
-    "title": "‘The Wizard of Oz’ Is Getting an A.I. Glow Up.",
-    "url": "https://www.nytimes.com/2025/08/28/business/media/sphere-wizard-of-oz-ai.html",
-    "id_key": "175acfe569756e576c62a0f401dfd62f4a7e5602e5eddbe80e259105551e1604",
-    "summary": "The classic film was “enhanced” using A.I. tools so that it could be an immersive experience at the Sphere in Las Vegas.",
-    "ingested_utc": "2025-08-28T17:35:24Z"
-  },
-  {
-    "published_utc": "2025-08-28",
-    "retrieved_date": "2025-08-28",
-    "retrieved_utc": "2025-08-28T17:34:16Z",
-    "source": "Kraken_Blog",
-    "title": "U.S. Department of Commerce selects Kraken as partner in historic initiative to enhance transparency of economic data",
-    "url": "https://blog.kraken.com/news/us-department-of-commerce",
-    "id_key": "c63b1498bc0f5ff41c916b98f1a12f94da7378283062e0d51179526c20f75a98",
-    "summary": "Kraken has been selected by the U.S. Department of Commerce to facilitate a groundbreaking initiative unveiled this morning by President Donald Trump and Secretary Howard Lutnick. The initiative, which will distribute U.S. gross domestic product (GDP) data on nine major public blockchains, marks a milestone in the use of blockchain technology to enhance transparency in […] The post U.S. Department of Commerce selects Kraken as partner in historic initiative to enhance transparency of economic data appeared first on Kraken Blog .",
-    "ingested_utc": "2025-08-28T17:34:16Z"
   }
 ]
