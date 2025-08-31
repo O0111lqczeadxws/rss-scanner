@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-08-31",
     "retrieved_date": "2025-08-31",
+    "retrieved_utc": "2025-08-31T18:51:54Z",
+    "source": "BBC_World",
+    "title": "Head-on crash between police van and prison bus kills 16 in Namibia",
+    "url": "https://www.bbc.com/news/articles/c3v3g9z139wo?at_medium=RSS&at_campaign=rss",
+    "id_key": "e8b8950dcad449d8e959849ff3a894a590ed7e47a2e46d10639846099e62b9a2",
+    "summary": "Fourteen prison and police officers, along with two civilians, were killed in the crash.",
+    "ingested_utc": "2025-08-31T18:51:54Z"
+  },
+  {
+    "published_utc": "2025-08-31",
+    "retrieved_date": "2025-08-31",
     "retrieved_utc": "2025-08-31T18:45:57Z",
     "source": "HackerNews_Top",
     "title": "How many HTTP requests/second can a Single Machine handle?",
@@ -10986,17 +10997,6 @@
     "url": "https://www.thestreet.com/travel/american-airlines-new-flagship-lounge-charlotte",
     "id_key": "a80535fbc034779457e97146dd9d45c36618ab671dac3e6cdbb6ddd20c423d02",
     "summary": "The Flagship lounges have full shower suites and specialty dining.",
-    "ingested_utc": "2025-08-28T20:36:27Z"
-  },
-  {
-    "published_utc": "2025-08-28",
-    "retrieved_date": "2025-08-28",
-    "retrieved_utc": "2025-08-28T20:36:27Z",
-    "source": "TheStreet_Top",
-    "title": "Surprising GDP report resets backdrop for stocks",
-    "url": "https://www.thestreet.com/economy/goldilocks-economy-throws-light-on-surging-stocks",
-    "id_key": "fbccf638fe117fea798a4807595257f66d70773614c4692fecdd29baa64475ba",
-    "summary": "The BEA released its latest take on second-quarter economic activity.",
     "ingested_utc": "2025-08-28T20:36:27Z"
   }
 ]
