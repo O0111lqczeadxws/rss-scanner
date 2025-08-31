@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-08-31",
     "retrieved_date": "2025-08-31",
+    "retrieved_utc": "2025-08-31T09:46:45Z",
+    "source": "BBC_World",
+    "title": "Putin, Modi and other world leaders in China for summit",
+    "url": "https://www.bbc.com/news/videos/c5y310qngqpo?at_medium=RSS&at_campaign=rss",
+    "id_key": "2b6208ad56cf6480f01500283a7faafa032aad2e2ff31d836ee5868b494f4636",
+    "summary": "Russian President Vladimir Putin and Indian Prime Minister Narendra Modi are among the 20 world leaders attending a regional security summit in China.",
+    "ingested_utc": "2025-08-31T09:46:45Z"
+  },
+  {
+    "published_utc": "2025-08-31",
+    "retrieved_date": "2025-08-31",
     "retrieved_utc": "2025-08-31T09:41:50Z",
     "source": "AlJazeera_All",
     "title": "Indonesia protesters clash with riot police as tensions soar",
@@ -10987,16 +10998,5 @@
     "id_key": "89fc3f7856b7aff0ccc3b4180caee7593b3ee9fb26d742d16e2b0440f1114401",
     "summary": "Tether will terminate redemptions and freeze most USDT tokens using the Bitcoin ledger on September 1 as it terminates Omni support. The post Tether terminates Bitcoin support while advertising Bitcoin support appeared first on Protos .",
     "ingested_utc": "2025-08-28T17:33:22Z"
-  },
-  {
-    "published_utc": "2025-08-28",
-    "retrieved_date": "2025-08-28",
-    "retrieved_utc": "2025-08-28T17:33:21Z",
-    "source": "CryptoBriefing",
-    "title": "CFTC issues advisory opening path for Americans to trade on offshore exchanges like Binance, Bybit",
-    "url": "https://cryptobriefing.com/offshore-crypto-trading-cftc-guidance/",
-    "id_key": "7f56223cc3a3a4e066b3d2001f5ffa999ab28b0e9adb71ff267662f5b45a0f63",
-    "summary": "The CFTC's guidance could enhance global market access for US traders, fostering increased competition and innovation in the trading sector. The post CFTC issues advisory opening path for Americans to trade on offshore exchanges like Binance, Bybit appeared first on Crypto Briefing .",
-    "ingested_utc": "2025-08-28T17:33:21Z"
   }
 ]
