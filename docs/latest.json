@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-08-31",
     "retrieved_date": "2025-08-31",
+    "retrieved_utc": "2025-08-31T07:35:59Z",
+    "source": "BBC_Business",
+    "title": "The first truly cinematic game is back but without its creator",
+    "url": "https://www.bbc.com/news/articles/cy08jr6jwn2o?at_medium=RSS&at_campaign=rss",
+    "id_key": "48a52914036b681075bda35774f289bc10119defb70bfe0a81c0f4512b39432a",
+    "summary": "Metal Gear has returned but without Hideo Kojima at the helm after splitting with publisher Konami.",
+    "ingested_utc": "2025-08-31T07:35:59Z"
+  },
+  {
+    "published_utc": "2025-08-31",
+    "retrieved_date": "2025-08-31",
+    "retrieved_utc": "2025-08-31T07:35:59Z",
+    "source": "BBC_Technology",
+    "title": "The first game to feel truly cinematic is back - years after its creator left",
+    "url": "https://www.bbc.com/news/articles/cy08jr6jwn2o?at_medium=RSS&at_campaign=rss",
+    "id_key": "d960946b45e60d9a89cbe8129eb07c2507b6af49ee919e0c525ba90f3d28679d",
+    "summary": "The first new game in the series in a decade - a remake - has been released, without involvement of the series creator.",
+    "ingested_utc": "2025-08-31T07:35:59Z"
+  },
+  {
+    "published_utc": "2025-08-31",
+    "retrieved_date": "2025-08-31",
     "retrieved_utc": "2025-08-31T07:30:05Z",
     "source": "HackerNews_Top",
     "title": "Git Diagramming \"The Weave\"",
@@ -10976,27 +10998,5 @@
     "id_key": "cc6689acd4eef8783f3c10040d848005f945c4eff53b44849110d26d31feb0d1",
     "summary": "Lawyers for the agency’s chief, Susan Monarez, insist that the impasse with Health Secretary Robert F. Kennedy Jr. can only be resolved by President Trump.",
     "ingested_utc": "2025-08-28T16:47:18Z"
-  },
-  {
-    "published_utc": "2025-08-28",
-    "retrieved_date": "2025-08-28",
-    "retrieved_utc": "2025-08-28T16:45:23Z",
-    "source": "CryptoNews",
-    "title": "D’CENT Wallet Update Brings Portfolio Snapshot to Your Dashboard",
-    "url": "https://cryptonews.com/news/dcent-wallet-update-brings-portfolio-snapshot-to-your-dashboard/",
-    "id_key": "bbbeb100f527c8d8ae8217936227eba0a5b96db5ba45713b1a3b358234e0d59f",
-    "summary": "D’CENT Wallet has built a reputation as a secure and user-friendly solution for managing assets. The platform is renowned for its hardware and software wallets, which combine security with flexibility.D’CENT is now introducing a new update that further enhances its services and your experience. The update introduces its portfolio features, which enable you to track […] The post D’CENT Wallet Update Brings Portfolio Snapshot to Your Dashboard appeared first on Cryptonews .",
-    "ingested_utc": "2025-08-28T16:45:23Z"
-  },
-  {
-    "published_utc": "2025-08-28",
-    "retrieved_date": "2025-08-28",
-    "retrieved_utc": "2025-08-28T16:45:23Z",
-    "source": "CryptoNews",
-    "title": "Solana Trader Count Plummets 81% as “Meme Coin Craze” Turns Toxic",
-    "url": "https://cryptonews.com/news/solana-trader-count-plummets-81-as-meme-coin-craze-turns-toxic/",
-    "id_key": "98543fa864f95811d0e5c74d0551e902395879781f19d88a1ad7a7a85133454e",
-    "summary": "The Solana ecosystem has seen trader participation collapse as the meme boom cools. Daily active DEX users dropped 81%, most new tokens vanish within hours, and celebrity-linked scams have cost wallets millions, even as Solana still leads Ethereum in trading volume. The post Solana Trader Count Plummets 81% as “Meme Coin Craze” Turns Toxic appeared first on Cryptonews .",
-    "ingested_utc": "2025-08-28T16:45:23Z"
   }
 ]
