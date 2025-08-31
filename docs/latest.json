@@ -2,6 +2,72 @@
   {
     "published_utc": "2025-08-31",
     "retrieved_date": "2025-08-31",
+    "retrieved_utc": "2025-08-31T20:36:30Z",
+    "source": "HackerNews_Top",
+    "title": "Replacing a cache service with a database",
+    "url": "https://avi.im/blag/2025/db-cache/",
+    "id_key": "7a68167c1763d810a946ab59ef9a8082bd93b920bc7f914eb6beef6d9b585562",
+    "summary": "Comments",
+    "ingested_utc": "2025-08-31T20:36:30Z"
+  },
+  {
+    "published_utc": "2025-08-31",
+    "retrieved_date": "2025-08-31",
+    "retrieved_utc": "2025-08-31T20:36:07Z",
+    "source": "TheStreet_Top",
+    "title": "Jean Chatzky sounds alarm on Social Security rising problem",
+    "url": "https://www.thestreet.com/retirement/jean-chatzky-warns-americans-on-social-security",
+    "id_key": "95695e8f67d9a50be839614fa48209e2c35bb5d600b015ce17e4576b4b260fff",
+    "summary": "The former NBC \"Today Show\" financial editor makes a major statement on monthly paychecks for retired Americans.",
+    "ingested_utc": "2025-08-31T20:36:07Z"
+  },
+  {
+    "published_utc": "2025-08-31",
+    "retrieved_date": "2025-08-31",
+    "retrieved_utc": "2025-08-31T20:35:27Z",
+    "source": "NYTimes_Business",
+    "title": "An Under-the-Radar Art Collection Could Fetch $180 Million at Auction",
+    "url": "https://www.nytimes.com/2025/08/30/arts/design/weis-art-collection-christies.html",
+    "id_key": "a4fa323ac7595f98856284f6eacc121fd4f2d66eb3a66c68db083569c9ed5ed6",
+    "summary": "The Weis family savored their masterpieces at home but didn’t lend them to museums. The trove was “so private” that a Christie’s expert didn’t know what was in it.",
+    "ingested_utc": "2025-08-31T20:35:27Z"
+  },
+  {
+    "published_utc": "2025-08-31",
+    "retrieved_date": "2025-08-31",
+    "retrieved_utc": "2025-08-31T20:33:29Z",
+    "source": "CryptoSlate",
+    "title": "What’s behind XRP’s move to DeFi?",
+    "url": "https://cryptoslate.com/whats-behind-xrps-move-to-defi/",
+    "id_key": "3c260bd4fae4c45222fcdb6e2ad1b72c28a15e0567ba47da129e45f2b94c85d2",
+    "summary": "The following is a guest post and analysis from Vincent Maliepaard, Marketing Director at Sentora. 2025 has marked a turning point for XRP, combining explosive price gains with transformative shifts in its core narrative. In July, the token hit an all-time high of $3.58, propelled in part by decisive legal victories. Beyond price action, Ripple’s […] The post What’s behind XRP’s move to DeFi? appeared first on CryptoSlate .",
+    "ingested_utc": "2025-08-31T20:33:29Z"
+  },
+  {
+    "published_utc": "2025-08-31",
+    "retrieved_date": "2025-08-31",
+    "retrieved_utc": "2025-08-31T20:33:29Z",
+    "source": "CryptoSlate",
+    "title": "The battle between Bitcoin Core vs Knots is getting ugly",
+    "url": "https://cryptoslate.com/the-battle-between-bitcoin-core-vs-knots-is-getting-ugly/",
+    "id_key": "a0e1063042b023a31129b8b12a0a6e560d36ee2698f3cf2b4ede4585843b18ff",
+    "summary": "If you’re new to Bitcoin or the only sats you hold are in an ETF or a centralized exchange, you’d be forgiven for not knowing about Core vs Knots and the entire OP_RETURN saga. But if you’ve weathered a few cycles, HODLed like a champ, and are still scratching your head, it’s time you opened […] The post The battle between Bitcoin Core vs Knots is getting ugly appeared first on CryptoSlate .",
+    "ingested_utc": "2025-08-31T20:33:29Z"
+  },
+  {
+    "published_utc": "2025-08-31",
+    "retrieved_date": "2025-08-31",
+    "retrieved_utc": "2025-08-31T20:32:31Z",
+    "source": "Guardian_World",
+    "title": "Judge orders US to halt deportation of hundreds of Guatemalan children",
+    "url": "https://www.theguardian.com/us-news/2025/aug/31/judge-blocks-deportation-guatemalan-children",
+    "id_key": "c8468dbe0f75ea23c0af6aa62d8d6840159e69c58877b1f0b7f6e34a6dd5556a",
+    "summary": "Washington judge says unaccompanied children cannot be deported for at least 14 days as legal process unfolds A US judge on Sunday ordered an emergency halt to a plan by the Trump administration to deport a group of nearly 700 unaccompanied Guatemalan children back to their home country after immigrant advocates lawyers called the plan “illegal”. Attorneys for 10 Guatemalan minors, ages 10 to 17, said in court papers filed late on Saturday that there were reports that planes were set to take off within hours for the Central American country. But a federal judge in Washington said those children couldn’t be deported for at least 14 days, and after a hastily scheduled hearing on Sunday, she enforced that they needed to be taken off the planes and back to the Office of Refugee Resettlement facilities while the legal process plays out. Continue reading...",
+    "ingested_utc": "2025-08-31T20:32:31Z"
+  },
+  {
+    "published_utc": "2025-08-31",
+    "retrieved_date": "2025-08-31",
     "retrieved_utc": "2025-08-31T19:50:48Z",
     "source": "TheStreet_Top",
     "title": "Elon Musk Moves Forward on Huge Las Vegas Strip Project",
@@ -10932,71 +10998,5 @@
     "id_key": "b7ab984e0ccde45d766f08c342bc26390318e4f80a26557c55ec4880b9fbff35",
     "summary": "Ssense, a Montreal-based retailer that sells designer fashion, is on the verge of a creditor protection filing in Canada, according to people with knowledge of the matter.",
     "ingested_utc": "2025-08-28T20:50:59Z"
-  },
-  {
-    "published_utc": "2025-08-28",
-    "retrieved_date": "2025-08-28",
-    "retrieved_utc": "2025-08-28T20:50:59Z",
-    "source": "FinancialPost_Business",
-    "title": "Manitoba government should have more oversight in municipalities operations: AG",
-    "url": "https://financialpost.com/pmn/manitoba-government-should-have-more-oversight-in-municipalities-operations-ag",
-    "id_key": "308cc7a3e5a01dd148d28ba819b19a230f760df10a61eb86f3368272fc0dafab",
-    "summary": "WINNIPEG — Manitoba’s auditor general is suggesting the province should have more oversight over the operations of municipalities following an investigation into allegations of financial mismanagement, improper governance practices and lack of accountability measures. Over the course of a year, Tyson Shtykalo investigated claims against six municipalities, with some of the allegations dating back as […]",
-    "ingested_utc": "2025-08-28T20:50:59Z"
-  },
-  {
-    "published_utc": "2025-08-28",
-    "retrieved_date": "2025-08-28",
-    "retrieved_utc": "2025-08-28T20:50:59Z",
-    "source": "FinancialPost_Business",
-    "title": "Constellation Brands to Report Second Quarter 2026 Financial Results on October 1, 2025 After Market Close and Host Conference Call on October 2, 2025 at 10:30 am ET",
-    "url": "https://financialpost.com/globe-newswire/constellation-brands-to-report-second-quarter-2026-financial-results-on-october-1-2025-after-market-close-and-host-conference-call-on-october-2-2025-at-1030-am-et",
-    "id_key": "1cd8281440abaedbfa53541e583b748a9e84856f94b32679f47b59cdfc8c7d00",
-    "summary": "ROCHESTER, N.Y., Aug. 28, 2025 (GLOBE NEWSWIRE) — Constellation Brands, Inc. (NYSE: STZ), a leading beverage alcohol company, announced today it will report financial results for its second quarter ending August 31, 2025, on Wednesday, October 1, 2025, after the close of the U.S. markets by posting the earnings release and financial tables, as well […]",
-    "ingested_utc": "2025-08-28T20:50:59Z"
-  },
-  {
-    "published_utc": "2025-08-28",
-    "retrieved_date": "2025-08-28",
-    "retrieved_utc": "2025-08-28T20:50:59Z",
-    "source": "FinancialPost_Business",
-    "title": "Everybody Loves Languages Reports Financial Results for the Second Quarter Ended June 30, 2025",
-    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/everybody-loves-languages-reports-financial-results-for-the-second-quarter-ended-june-30-2025",
-    "id_key": "d4f862215b62e3b4dd6e909d727db005a8b6ec0a293bc41494563990e643b01c",
-    "summary": "Everybody Loves Languages Corp. (“ELL”) (TSX-V: ELL; OTC: LMDCF; FSE: LIMA), www.everybodyloveslanguages.com, an edtech language learning edutainment and content development company, announces its financial results for the second quarter ended June 30, 2025. All figures are reported in Canadian Dollars and are in accordance with International Financial Reporting Standards unless otherwise noted. Q2 2025 Operational […]",
-    "ingested_utc": "2025-08-28T20:50:59Z"
-  },
-  {
-    "published_utc": "2025-08-28",
-    "retrieved_date": "2025-08-28",
-    "retrieved_utc": "2025-08-28T20:50:52Z",
-    "source": "TheStreet_Top",
-    "title": "Disney World confirms long-term closure for a popular attraction",
-    "url": "https://www.thestreet.com/travel/disney-world-confirms-long-term-closure-for-a-popular-attraction",
-    "id_key": "fc3fe7874af5ebae915ff10eb3837cd807c169bd4beacdd17a3176447751a949",
-    "summary": "Disney theme parks frequently close for refurbishment, and sometimes the closures last for months.",
-    "ingested_utc": "2025-08-28T20:50:52Z"
-  },
-  {
-    "published_utc": "2025-08-28",
-    "retrieved_date": "2025-08-28",
-    "retrieved_utc": "2025-08-28T20:50:41Z",
-    "source": "TechCrunch_All",
-    "title": "Anthropic users face a new choice – opt out or share your data for AI training",
-    "url": "https://techcrunch.com/2025/08/28/anthropic-users-face-a-new-choice-opt-out-or-share-your-data-for-ai-training/",
-    "id_key": "68256e09133768c3b94c0aad38498db33d9795520985efa158780de3eae1a738",
-    "summary": "Anthropic is making some major changes to how it handles user data. Users have until September 28 to take action.",
-    "ingested_utc": "2025-08-28T20:50:41Z"
-  },
-  {
-    "published_utc": "2025-08-28",
-    "retrieved_date": "2025-08-28",
-    "retrieved_utc": "2025-08-28T20:48:18Z",
-    "source": "Blockworks",
-    "title": "Rain raises $58M to expand enterprise stablecoin platform",
-    "url": "https://blockworks.co/news/rain-raises-58m",
-    "id_key": "f6b7a47eeee2e2b8b94fa9d414dae230851a43ab414b0d45d223320beed6bad9",
-    "summary": "Sapphire Ventures leads funding as Rain expands enterprise stablecoin infrastructure for global payments",
-    "ingested_utc": "2025-08-28T20:48:18Z"
   }
 ]
