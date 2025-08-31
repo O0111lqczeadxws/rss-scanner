@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-08-31",
     "retrieved_date": "2025-08-31",
+    "retrieved_utc": "2025-08-31T09:41:50Z",
+    "source": "AlJazeera_All",
+    "title": "Indonesia protesters clash with riot police as tensions soar",
+    "url": "https://www.aljazeera.com/gallery/2025/8/31/indonesia-protesters-clash-with-riot-police-as-tensions-soar?traffic_source=rss",
+    "id_key": "412fdf0fe8820ffa120bd06c6a1f13391b4ae4f1da228032ce9f6ae8373356b5",
+    "summary": "Deadly protests erupt across Indonesia after police vehicle kills motorcycle taxi driver, causing public outrage.",
+    "ingested_utc": "2025-08-31T09:41:50Z"
+  },
+  {
+    "published_utc": "2025-08-31",
+    "retrieved_date": "2025-08-31",
     "retrieved_utc": "2025-08-31T09:31:08Z",
     "source": "FinancialPost_Business",
     "title": "What the end of Federal Reserve independence could mean",
@@ -10987,16 +10998,5 @@
     "id_key": "7f56223cc3a3a4e066b3d2001f5ffa999ab28b0e9adb71ff267662f5b45a0f63",
     "summary": "The CFTC's guidance could enhance global market access for US traders, fostering increased competition and innovation in the trading sector. The post CFTC issues advisory opening path for Americans to trade on offshore exchanges like Binance, Bybit appeared first on Crypto Briefing .",
     "ingested_utc": "2025-08-28T17:33:21Z"
-  },
-  {
-    "published_utc": "2025-08-28",
-    "retrieved_date": "2025-08-28",
-    "retrieved_utc": "2025-08-28T17:33:16Z",
-    "source": "Blockworks",
-    "title": "Solana validators commence vote on landmark Alpenglow consensus protocol",
-    "url": "https://blockworks.co/news/solana-validators-commence-vote-alpenglow",
-    "id_key": "c26110366bccc48f5e53eec8f1094de1bbb2192dda3b86fbb023148d823f5c36",
-    "summary": "12% of validators have voted in favor so far",
-    "ingested_utc": "2025-08-28T17:33:16Z"
   }
 ]
