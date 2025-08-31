@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-08-31",
     "retrieved_date": "2025-08-31",
+    "retrieved_utc": "2025-08-31T06:53:20Z",
+    "source": "BBC_World",
+    "title": "Putin and Modi in China for summit overshadowed by trade wars with US",
+    "url": "https://www.bbc.com/news/articles/clyrwv0egzro?at_medium=RSS&at_campaign=rss",
+    "id_key": "7b9f7b5c5e7a1a5e15585225cf16bed843d611104aa3f149a677709270790b31",
+    "summary": "The talks come with steep US tariffs imposed on India and Putin under threat of sanctions over Ukraine.",
+    "ingested_utc": "2025-08-31T06:53:20Z"
+  },
+  {
+    "published_utc": "2025-08-31",
+    "retrieved_date": "2025-08-31",
     "retrieved_utc": "2025-08-31T06:48:22Z",
     "source": "HackerNews_Top",
     "title": "Red: A programming language inspired by REBOL",
@@ -10986,17 +10997,6 @@
     "url": "https://cryptobriefing.com/pyth-token-surge-commerce/",
     "id_key": "045165779218f85a7357905f9e529a2bd1d44e4d84dedc9f80b79b3fa0bb4d0b",
     "summary": "The collaboration signifies a pivotal shift towards integrating blockchain for transparent and efficient economic data dissemination. The post PYTH token soars 68% after Commerce Department taps Pyth Network for GDP feeds appeared first on Crypto Briefing .",
-    "ingested_utc": "2025-08-28T16:45:20Z"
-  },
-  {
-    "published_utc": "2025-08-28",
-    "retrieved_date": "2025-08-28",
-    "retrieved_utc": "2025-08-28T16:45:20Z",
-    "source": "CryptoBriefing",
-    "title": "Everclear launches TRON Network support, bringing capital efficient rebalancing to top stablecoin network",
-    "url": "https://cryptobriefing.com/tron-network-integration-rebalancing/",
-    "id_key": "9b36c2e1d609c1af0b28e96813ffaeeb3fd6b25467bc8838204770e7fbcf7d8c",
-    "summary": "Everclear announces TRON network integration, enabling capital-efficient rebalancing for stablecoin transfers across 20+ blockchains. The post Everclear launches TRON Network support, bringing capital efficient rebalancing to top stablecoin network appeared first on Crypto Briefing .",
     "ingested_utc": "2025-08-28T16:45:20Z"
   }
 ]
