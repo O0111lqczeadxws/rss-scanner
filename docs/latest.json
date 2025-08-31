@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-08-31",
     "retrieved_date": "2025-08-31",
+    "retrieved_utc": "2025-08-31T07:30:05Z",
+    "source": "HackerNews_Top",
+    "title": "Git Diagramming \"The Weave\"",
+    "url": "https://daverupert.com/2025/08/git-diagramming-the-weave/",
+    "id_key": "dda48f18bc177709f091fbe71cde9e8827bd7471dd94703be082e5b99df60cb0",
+    "summary": "Comments",
+    "ingested_utc": "2025-08-31T07:30:05Z"
+  },
+  {
+    "published_utc": "2025-08-31",
+    "retrieved_date": "2025-08-31",
+    "retrieved_utc": "2025-08-31T07:29:41Z",
+    "source": "AlJazeera_All",
+    "title": "Drought in Iraq unearths more than 2,000 years old tombs",
+    "url": "https://www.aljazeera.com/news/2025/8/31/drought-in-iraq-unearths-more-than-2000-years-old-tombs?traffic_source=rss",
+    "id_key": "43e587b74cd2a7a9b717824f0aca2ce3c00aa60977118dc08eca09beb18a2a7e",
+    "summary": "The newly discovered tombs are believed to date back to the Hellenistic or Hellenistic-Seleucid period.",
+    "ingested_utc": "2025-08-31T07:29:41Z"
+  },
+  {
+    "published_utc": "2025-08-31",
+    "retrieved_date": "2025-08-31",
     "retrieved_utc": "2025-08-31T06:53:20Z",
     "source": "BBC_World",
     "title": "Putin and Modi in China for summit overshadowed by trade wars with US",
@@ -10976,27 +10998,5 @@
     "id_key": "98543fa864f95811d0e5c74d0551e902395879781f19d88a1ad7a7a85133454e",
     "summary": "The Solana ecosystem has seen trader participation collapse as the meme boom cools. Daily active DEX users dropped 81%, most new tokens vanish within hours, and celebrity-linked scams have cost wallets millions, even as Solana still leads Ethereum in trading volume. The post Solana Trader Count Plummets 81% as “Meme Coin Craze” Turns Toxic appeared first on Cryptonews .",
     "ingested_utc": "2025-08-28T16:45:23Z"
-  },
-  {
-    "published_utc": "2025-08-28",
-    "retrieved_date": "2025-08-28",
-    "retrieved_utc": "2025-08-28T16:45:23Z",
-    "source": "CryptoNews",
-    "title": "Trump to Launch $40B WLFI Token September 1",
-    "url": "https://cryptonews.com/news/trump-to-launch-his-40b-wlfi-cryptocurrency-on-september-1/",
-    "id_key": "cafe4b878dae7122975b55c797b246535d7d6533fd321806e35b35ce82cd3df1",
-    "summary": "WLFI connected with Trump has reached its Sept. 1 unlock on Ethereum via Lockbox. Early investors access 20% while 80% shifts to governance. Audited contracts, possible exchange listings, and Trump’s large stake have drawn attention to valuation and ethics concerns. The post Trump to Launch $40B WLFI Token September 1 appeared first on Cryptonews .",
-    "ingested_utc": "2025-08-28T16:45:23Z"
-  },
-  {
-    "published_utc": "2025-08-28",
-    "retrieved_date": "2025-08-28",
-    "retrieved_utc": "2025-08-28T16:45:20Z",
-    "source": "CryptoBriefing",
-    "title": "PYTH token soars 68% after Commerce Department taps Pyth Network for GDP feeds",
-    "url": "https://cryptobriefing.com/pyth-token-surge-commerce/",
-    "id_key": "045165779218f85a7357905f9e529a2bd1d44e4d84dedc9f80b79b3fa0bb4d0b",
-    "summary": "The collaboration signifies a pivotal shift towards integrating blockchain for transparent and efficient economic data dissemination. The post PYTH token soars 68% after Commerce Department taps Pyth Network for GDP feeds appeared first on Crypto Briefing .",
-    "ingested_utc": "2025-08-28T16:45:20Z"
   }
 ]
