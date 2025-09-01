@@ -3742,6 +3742,17 @@
   {
     "published_utc": "2025-08-31",
     "retrieved_date": "2025-09-01",
+    "retrieved_utc": "2025-09-01T23:50:35Z",
+    "source": "TheStreet_Top",
+    "title": "Elon Musk Solving Massive Las Vegas Strip Problem",
+    "url": "https://www.thestreet.com/travel/elon-musk-moves-forward-on-huge-las-vegas-strip-project",
+    "id_key": "5c915795b782d37f29c7ee1b24d4bf1c343e8dcee6fa43bcc97896863ff018a0",
+    "summary": "Sometimes you forget that the Tesla CEO and sometimes political figure also has a potentially game-changing Las Vegas project.",
+    "ingested_utc": "2025-09-01T23:50:35Z"
+  },
+  {
+    "published_utc": "2025-08-31",
+    "retrieved_date": "2025-09-01",
     "retrieved_utc": "2025-09-01T21:29:54Z",
     "source": "TheStreet_Top",
     "title": "Sam’s Club does something for its members Costco won't",
@@ -10986,17 +10997,6 @@
     "url": "https://www.theverge.com/news/768068/tesla-wrongful-death-verdict-court-toss",
     "id_key": "7acbde1d4137ec6a72f5a795184bf0562d30d396e9d1fbf13b20cfeb0cca9ad9",
     "summary": "Lawyers for Tesla filed a motion in court Friday to throw out a jury verdict that found the company’s Autopilot software had contributed to the death of a woman in a crash from 2019. Earlier this month, a jury found Tesla partially responsible for the death of 22-year-old Naibel Benavides, who was killed by a […]",
-    "ingested_utc": "2025-08-29T15:33:22Z"
-  },
-  {
-    "published_utc": "2025-08-29",
-    "retrieved_date": "2025-08-29",
-    "retrieved_utc": "2025-08-29T15:33:22Z",
-    "source": "TheVerge_All",
-    "title": "The future of AI hardware isn&#8217;t one device — it&#8217;s an entire ecosystem",
-    "url": "https://www.theverge.com/report/767765/ai-hardware-google-pixel-gemini-wearables-ambient-computing",
-    "id_key": "7933228cd79903e5202d8ae29eaeb657be353dd84b5e7336954e605d434cc471",
-    "summary": "I dream of a gadget that can do it all. Instead, when I leave for the office, I pack one or two phones, a portable battery bank, a laptop, a Kindle, a new product I'm testing, and at least one pair of earbuds. In my backpack, there's a pouch full of cords and adapters. On […]",
     "ingested_utc": "2025-08-29T15:33:22Z"
   }
 ]
