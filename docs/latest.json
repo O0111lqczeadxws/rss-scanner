@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-09-01",
     "retrieved_date": "2025-09-01",
+    "retrieved_utc": "2025-09-01T07:48:45Z",
+    "source": "Arbitrum_Nitro_Releases",
+    "title": "consensus-v50.rc.2: Move the MaxTxGas limit enforcement (#3557)",
+    "url": "https://github.com/OffchainLabs/nitro/releases/tag/consensus-v50.rc.2",
+    "id_key": "89b92294b3344640a3d8767ba690d36545860005c3f6ee005744809bf99e1942",
+    "summary": "Revert \"Enable ArbOS 50 in system tests ( #3550 )\" This reverts commit e167107 . Correctly implement EIP-7825 Fix tests that need to set max block gas limit",
+    "ingested_utc": "2025-09-01T07:48:45Z"
+  },
+  {
+    "published_utc": "2025-09-01",
+    "retrieved_date": "2025-09-01",
+    "retrieved_utc": "2025-09-01T07:48:45Z",
+    "source": "Arbitrum_Nitro_Releases",
+    "title": "Arbitrum Nitro Consensus v50 Release Candidate 2",
+    "url": "https://github.com/OffchainLabs/nitro/releases/tag/consensus-v50-rc.2",
+    "id_key": "a726bedd94a61acd603f3af206b04e7defc44e038b1e676109912a20ec4d3ee0",
+    "summary": "This release signifies a WASM fraud proof consensus version, and is not a good version to run a node on WAVM Module Root : 0xc1ea4d6d2791bf5bdf6de3c2166ce4aab8fe16ca4ad5c226e8ae31a8b77f1a08 This is a release candidate of a consensus release for ArbOS 50, including support for Fusaka. Full Changelog : consensus-v40...consensus-v50-rc.2",
+    "ingested_utc": "2025-09-01T07:48:45Z"
+  },
+  {
+    "published_utc": "2025-09-01",
+    "retrieved_date": "2025-09-01",
     "retrieved_utc": "2025-09-01T07:35:50Z",
     "source": "FinancialPost_Business",
     "title": "Boehringer’s HERNEXEOS® approved in China as first oral targeted therapy for previously treated patients with HER2-mutant advanced NSCLC",
@@ -889,6 +911,17 @@
     "id_key": "03def06ab5459b64ae3370bc5688db86090e29308a75ce50e7cc11eaf5cd8b1e",
     "summary": "Police say an officer injured their hand but no other injuries were reported.",
     "ingested_utc": "2025-09-01T03:41:37Z"
+  },
+  {
+    "published_utc": "2025-08-31",
+    "retrieved_date": "2025-09-01",
+    "retrieved_utc": "2025-09-01T07:50:00Z",
+    "source": "TheEconomist_Business",
+    "title": "How Donald Trump’s migrant crackdown threatens America Inc",
+    "url": "https://www.economist.com/business/2025/08/31/how-donald-trumps-migrant-crackdown-threatens-america-inc",
+    "id_key": "b54ae9cb5006ae09864c8e3d273b5824ae4e7afb3cdb0b400ffc51537cf52e42",
+    "summary": "Unwinding the country’s legal migration system could be worse than mass deportations",
+    "ingested_utc": "2025-09-01T07:50:00Z"
   },
   {
     "published_utc": "2025-08-31",
@@ -10964,39 +10997,6 @@
     "url": "https://www.nytimes.com/2025/08/29/business/trump-tariffs-de-minimis.html",
     "id_key": "c6395e5d6b733a7118f5b67a62e1cc6f1870aac09930afa93b0ee4acf28b91f8",
     "summary": "The end of the “de minimis” exemption — which allowed packages less than $800 to enter the U.S. tariff-free — is leading to confusion.",
-    "ingested_utc": "2025-08-29T04:42:17Z"
-  },
-  {
-    "published_utc": "2025-08-29",
-    "retrieved_date": "2025-08-29",
-    "retrieved_utc": "2025-08-29T04:42:17Z",
-    "source": "NYTimes_Business",
-    "title": "When Mailing a Letter to the U.S. Becomes a Global Headache",
-    "url": "https://www.nytimes.com/2025/08/29/business/us-tariffs-shipping-suspensions-de-minimis.html",
-    "id_key": "58a599a4c711d5032c5909f6b0ff5aa6d3eada49bb83532de2cfcac8e556ce23",
-    "summary": "A driver’s license renewal, a box of specialty candy, even early Christmas presents — all are caught up in the confusion caused by a new Trump administration customs rule.",
-    "ingested_utc": "2025-08-29T04:42:17Z"
-  },
-  {
-    "published_utc": "2025-08-29",
-    "retrieved_date": "2025-08-29",
-    "retrieved_utc": "2025-08-29T04:42:17Z",
-    "source": "NYTimes_World",
-    "title": "Russia’s Deadly Attack on Kyiv",
-    "url": "https://www.nytimes.com/2025/08/29/briefing/ukraine-russia-kyiv-gaza-reservists-europe-iran-sanctions.html",
-    "id_key": "aadb25e97f2500ab93b4be1cdaea0d8f3b39b5d92b251fcebfeaa9e5f679451c",
-    "summary": "Also, the secret of “KPop Demon Hunters.”",
-    "ingested_utc": "2025-08-29T04:42:17Z"
-  },
-  {
-    "published_utc": "2025-08-29",
-    "retrieved_date": "2025-08-29",
-    "retrieved_utc": "2025-08-29T04:42:17Z",
-    "source": "NYTimes_World",
-    "title": "August in Paris: When the City Empties Out, Locals Left Behind Rejoice",
-    "url": "https://www.nytimes.com/2025/08/29/world/europe/paris-summer-vacations.html",
-    "id_key": "1a0788d7137967121c593b76b3e964cd6c01beddbd68242bb2e40906a978d69d",
-    "summary": "With many away for long vacations, the capital is transformed into a sleepy, roomy, more friendly place.",
     "ingested_utc": "2025-08-29T04:42:17Z"
   }
 ]
