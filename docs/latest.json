@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-09-01",
     "retrieved_date": "2025-09-01",
+    "retrieved_utc": "2025-09-01T05:51:31Z",
+    "source": "FinancialPost_Business",
+    "title": "Oil Weakens as Putin and Modi Huddle in China After US Tariff",
+    "url": "https://financialpost.com/pmn/business-pmn/oil-falls-following-monthly-drop-with-glut-geopolitics-in-focus",
+    "id_key": "d9f31ae0706a20b80d50f9ef19a80b10947eb1ad8ef301836f36afec0e7f205e",
+    "summary": "Oil declined following a monthly drop in August, with traders focused on concerns over a potential glut and signals over Russian supply.",
+    "ingested_utc": "2025-09-01T05:51:31Z"
+  },
+  {
+    "published_utc": "2025-09-01",
+    "retrieved_date": "2025-09-01",
+    "retrieved_utc": "2025-09-01T05:48:27Z",
+    "source": "Guardian_World",
+    "title": "‘Come forward’: police say people ‘know the whereabouts’ of alleged Porepunkah killer Dezi Freeman",
+    "url": "https://www.theguardian.com/australia-news/2025/sep/01/victoria-police-say-people-helping-alleged-porepunkah-shooting-gunman-dezi-freeman-ntwnfb",
+    "id_key": "07dbde55ccc6ab150fe677d48ff8fdc8d9d6295c55ef1bd48eda8e61e99b1fcf",
+    "summary": "Members of the public are helping harbour the gunman alleged to have shot dead two officers, police believe Victoria police believe people are helping harbour alleged Porepunkah gunman Dezi Freeman, saying some members of the community know where the fugitive is. Speaking to media on Monday afternoon, Supt Brett Kahan said Freeman’s network was “wide” and asked those who know where he is to come forward. Continue reading...",
+    "ingested_utc": "2025-09-01T05:48:27Z"
+  },
+  {
+    "published_utc": "2025-09-01",
+    "retrieved_date": "2025-09-01",
     "retrieved_utc": "2025-09-01T05:41:01Z",
     "source": "NYTimes_World",
     "title": "Hundreds Dead After 6.0-Magnitude Earthquake Hits Afghanistan",
@@ -10976,27 +10998,5 @@
     "id_key": "d89eb3398aae6f6b4ee5995b51a0095424232556a35679ae75cb29c4c403a0c1",
     "summary": "25.8.0 This is a required update for all users. Highlights Performance updates Sync is faster Sync uses less memory and CPU Block creation is faster Security updates Dependency updates including fixing CVEs Breaking Changes Change in behavior for eth_estimateGas to improve accuracy when used on a network with a base fee market. if there are no gas pricing parameters specified in the request, then gas price for the transaction is set to the base fee value #8888 however, if you specify gas price of 0, the estimation will fail if the baseFee is > 0 Remove PoAMetricsService and IbftQueryService which have been deprecated since 2019 and are replaced by PoaQueryService and BftQueryService respectively #8940 Remove deprecated Quantity.getValue method (deprecated since 2019) #8968 Support for block creation on networks running a pre-Byzantium fork is removed, after being deprecated for a few months. If still running a pre-Byzantium network, it needs to be updated to continue to produce blocks #9005 Remove support for Ethereum protocol version eth/67 . #9008 . Abort startup if boolean command line options are specified more than once #8898 Improve performance of OperandStack resizes for deep stacks (> 100 elements). Impacts general EVM performance while working with deep stacks #8869 Upcoming Breaking Changes Deprecated CLI options --Xbonsai-parallel-tx-processing-enabled is deprecated since 25.7.0. Use --bonsai-parallel-tx-processing-enabled instead. --Xsnapsync-server-enabled is deprecated since 25.7.0. Use --snapsync-server-enabled instead. --Xsnapsync-synchronizer-pre-merge-headers-only-enabled is deprecated since 25.7.0. Use --snapsync-synchronizer-pre-checkpoint-headers-only-enabled instead. --Xhistory-expiry-prune is deprecated since 25.7.0. Use --history-expiry-prune instead. Sunsetting features - for more context on the reasoning behind the deprecation of these features, including alternative options, read this blog post Proof of Work consensus (PoW) Fast Sync Additions and Improvements Improve transaction simulation and gas estimation when no gas pricing is present #8888 Add option to trace reference tests during execution #8878 Expose methods to query hardfork by block header or for the next block in the Plugin API #8909 Add WorldStateService to the plugin API #9024 Wait for peers before starting Backward Sync #9003 LUKSO Mainnet Pectra Hardfork #9070 Dependencies Generate distribution dependencies catalog #8987 Update commons dependencies #9114 resolves CVE-2025-48924 resolves CVE-2020-15250 Update Netty #9112 resolves CVE-2025-55163 Performance Improve the sync performance by not RLP decoding bodies during sync. This means we are using less memory and CPU, allowing us to increase the parallelism of the download pipeline, which has been increased from 4 to 8. Can be reduced again with --Xsynchronizer-downloader-parallelism=4 #8959 Enable decoding for large RPC requests #8877 Add --attempt-cache-bust to evmtool benchmark subcommand #8985 Add gas usage metric to eth_call #9019 Improve P256Verify precompile performance #9035 Fusaka devnets EIP-7910 - eth_config JSON-RPC Method #8417 , #8946 , #9015 Bug fixes Fix bug with eth_estimateGas on QBFT - use zero address when doing simulation against pending block #9031 Fix bug with bonsai when parallel transaction processing is enabled #9113 e6e1bf8756768a1c6c3b193c29cc76c816cf8b4186b9fa4209c84d0ed3d9afd7 besu-25.8.0.zip 93715c6cf21e1455bed1e16a5a7444aa69604d23ef337f90ef7a508a5deeba4a besu-25.8.0.tar.gz",
     "ingested_utc": "2025-08-29T03:53:22Z"
-  },
-  {
-    "published_utc": "2025-08-29",
-    "retrieved_date": "2025-08-29",
-    "retrieved_utc": "2025-08-29T03:52:14Z",
-    "source": "CoinJournal",
-    "title": "Bitcoin remains under pressure as gold targets a new all-time high",
-    "url": "https://coinjournal.net/news/bitcoin-remains-under-pressure-as-gold-targets-a-new-all-time-high/",
-    "id_key": "c9880ec4608697c3fec30249562f2459d09f624db9aac37c97a515b638d9e40d",
-    "summary": "Bitcoin’s rally attempt fails as it retreats to below 112,000 dollars. Gold continues its quiet but powerful climb, nearing its all-time high. In August, gold is up nearly 4 percent while Bitcoin has fallen over 5 percent. A hopeful rally in the cryptocurrency market was decisively crushed on Thursday, as steady selling pressure throughout the […] The post Bitcoin remains under pressure as gold targets a new all-time high appeared first on CoinJournal .",
-    "ingested_utc": "2025-08-29T03:52:14Z"
-  },
-  {
-    "published_utc": "2025-08-29",
-    "retrieved_date": "2025-08-29",
-    "retrieved_utc": "2025-08-29T03:51:51Z",
-    "source": "Guardian_World",
-    "title": "New Zealand fugitive and one of his children spotted on CCTV after four years on the run, police believe",
-    "url": "https://www.theguardian.com/world/2025/aug/29/new-zealand-fugitive-tom-phillips-cctv",
-    "id_key": "f6b62aef1cbf4e55f144fa6c15cb5abbf76aac2e538eab277c824832ed38bd02",
-    "summary": "Footage from a small North Island town store is the first confirmed sighting of Tom Phillips in a year, nearly four years after he disappeared with his three children New CCTV footage believed to show New Zealand fugitive Tom Phillips and one of his children allegedly breaking into and stealing from a convenience store has been released by police. Detective senior sergeant Andy Saunders told media on Friday that investigators believe the pair in the video are Phillips and one of his three children, who vanished almost four years ago. It is the first confirmed sighting of Phillips in a year. Continue reading...",
-    "ingested_utc": "2025-08-29T03:51:51Z"
   }
 ]
