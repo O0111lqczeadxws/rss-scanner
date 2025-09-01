@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-09-01",
     "retrieved_date": "2025-09-01",
+    "retrieved_utc": "2025-09-01T10:54:50Z",
+    "source": "FT_Markets",
+    "title": "Citadel’s options fight is a battle for the new Wall Street order",
+    "url": "https://www.ft.com/content/26026345-4d11-4702-86f8-d6deaf322819",
+    "id_key": "0e7f63016ed1f61ed4d988ca2237dd3a96f396193ee7409235ca97b04ab20746",
+    "summary": "Dispute over IEX’s options platform is a new riff on an older debate around high-speed share trading and its utility",
+    "ingested_utc": "2025-09-01T10:54:50Z"
+  },
+  {
+    "published_utc": "2025-09-01",
+    "retrieved_date": "2025-09-01",
+    "retrieved_utc": "2025-09-01T10:52:19Z",
+    "source": "BBC_World",
+    "title": "Man found dead at Burning Man festival",
+    "url": "https://www.bbc.com/news/articles/cp8z6x062y4o?at_medium=RSS&at_campaign=rss",
+    "id_key": "e177db900f2a7e4f9e462a8393e38080c272f57e5c8bcc31e0fcb4de6ed5b538",
+    "summary": "The man was found \"lying in a pool of blood\" at the Nevada desert festival on Saturday night, police said.",
+    "ingested_utc": "2025-09-01T10:52:19Z"
+  },
+  {
+    "published_utc": "2025-09-01",
+    "retrieved_date": "2025-09-01",
     "retrieved_utc": "2025-09-01T10:46:01Z",
     "source": "FinancialPost_Business",
     "title": "Media Press Conference for the 2025 CIFTIS Sports Service Sector Exhibition Held in Beijing",
@@ -10976,27 +10998,5 @@
     "id_key": "1451e9522e1516f9dabdeb9a89f28bf8506865870155ff35bfeaa9dc7f3fc798",
     "summary": "Roger Wicker, head of the powerful Senate Armed Services Committee, says trip is focused on security ties with island.",
     "ingested_utc": "2025-08-29T08:46:44Z"
-  },
-  {
-    "published_utc": "2025-08-29",
-    "retrieved_date": "2025-08-29",
-    "retrieved_utc": "2025-08-29T08:46:43Z",
-    "source": "TheStreet_Top",
-    "title": "Stock Market Today: Stock futures dip after S&P 500 and Dow set new records",
-    "url": "https://www.thestreet.com/markets/stock-market-today-august-29-2025",
-    "id_key": "27058679c90912f6e4d3c5f2e5a8706e43647f176e753cfc75922865eeab615f",
-    "summary": "Investors await the release of key economic data",
-    "ingested_utc": "2025-08-29T08:46:43Z"
-  },
-  {
-    "published_utc": "2025-08-29",
-    "retrieved_date": "2025-08-29",
-    "retrieved_utc": "2025-08-29T08:46:32Z",
-    "source": "TechCrunch_All",
-    "title": "Vocal Image is using AI to help people communicate better",
-    "url": "https://techcrunch.com/2025/08/29/vocal-image-is-using-ai-to-help-people-communicate-better/",
-    "id_key": "862340a14ef880abd639bdc39c8065013fd441df0073e793743c81d0349a884b",
-    "summary": "With an interactive library that includes tongue twisters, breathing exercises, and advice on gestures, Vocal Image is also leaning more and more into AI to give automated feedback and personalized tips.",
-    "ingested_utc": "2025-08-29T08:46:32Z"
   }
 ]
