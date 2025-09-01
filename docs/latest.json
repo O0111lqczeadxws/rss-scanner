@@ -2,6 +2,72 @@
   {
     "published_utc": "2025-09-01",
     "retrieved_date": "2025-09-01",
+    "retrieved_utc": "2025-09-01T09:53:55Z",
+    "source": "FinancialPost_Business",
+    "title": "Modi Hugs Putin and Hails Russia Ties in Defiance of Trump",
+    "url": "https://financialpost.com/pmn/business-pmn/putin-modi-showcase-their-bond-with-hug-car-drive",
+    "id_key": "12f966294c290a8e929df59d9b1d9f3c607983c1c0e840333ad7349a7fc0263b",
+    "summary": "Prime Minister Narendra Modi declared India and Russia share a “special” relationship, standing by each other in difficult times, in a defiant show of ties as Washington criticizes New Delhi over oil purchases.",
+    "ingested_utc": "2025-09-01T09:53:55Z"
+  },
+  {
+    "published_utc": "2025-09-01",
+    "retrieved_date": "2025-09-01",
+    "retrieved_utc": "2025-09-01T09:53:05Z",
+    "source": "NYTimes_World",
+    "title": "Kyiv Links Moscow to Killing of Former Ukrainian Parliament Speaker",
+    "url": "https://www.nytimes.com/2025/09/01/world/europe/ukraine-andriy-parubiy-murder.html",
+    "id_key": "169737209691d1f685a3bc7e1fa6b72e9275b335148502a44fd181b8fb378047",
+    "summary": "Ukraine said it had arrested a suspect in the murder of the politician, who had voiced anti-Russian views. The authorities did not explain how the suspect was tied to Moscow.",
+    "ingested_utc": "2025-09-01T09:53:05Z"
+  },
+  {
+    "published_utc": "2025-09-01",
+    "retrieved_date": "2025-09-01",
+    "retrieved_utc": "2025-09-01T09:52:22Z",
+    "source": "Arbitrum_Nitro_Releases",
+    "title": "Arbitrum Nitro v3.8.0-rc.1",
+    "url": "https://github.com/OffchainLabs/nitro/releases/tag/v3.8.0-rc.1",
+    "id_key": "dd3a83bf4e49812eb1553d1e8b96ce5ced560bf8b2835aa20f6c2659c3b5f837",
+    "summary": "This release is available as a Docker Image on Docker Hub at offchainlabs/nitro-node:v3.8.0-rc.1- This Docker image specifies default flags in its entrypoint which should be replicated if you're overriding the entrypoint: /usr/local/bin/nitro --validation.wasm.allowed-wasm-module-roots /home/user/nitro-legacy/machines,/home/user/target/machines If you're running a validator without a split validation server (this will be true of most validators), you should instead use the image offchainlabs/nitro-node:v3.8.0-rc.1--validator which has the extra script /usr/local/bin/split-val-entry.sh as the entrypoint. User facing changes Important! If you have previously used the ArbOwner.setMaxTxGasLimit to set the max transaction and block gas limits for your chain, you should add calls to ArbOwner.setMaxTxGasLimit and ArbOwner.SetMaxBlockGasLimit to your upgrade action to arbos 50. (When it's time.) After the arbos 50 upgrader, there is a new ArbOwner.setL1CalldataPrice which can be used to set the parent chain's blob base fee per byte of caldata. This is for allowing the state transition function to adjust for the parent chain having enabled EIP-7623: Increase calldata cost Highlights Nitro is ready for Fusaka Arbitrum One node operators need to upgrade to v3.8.0 before mainnet upgrades to Fusaka Arbitrum One and Arbitrum Nova will both upgrade to ArbOS 50 as described in the AIP What's Changed Fix error handling and add comprehensive tests in #3510 Add 10 minutes to bold tests in #3514 Optimize sender address derivation in #3518 Don't log error if unable to return expired nonce cache failure in0 in #3486 Add multi-dimensional gas collector in #3453 Refactor move multigascollector to arbos in #3524 Add debug flag to enable deep copy of backlog msgs in #3519 Update geth post merge of v1.16.0 in #3523 Update geth post merge of v1.16.1 in #3528 Use the parent chain for BlobFeePerByte instead of an RPC call in #3531 Fix acquiring redis lock in batch poster in #3511 Account multi-gas in StartTxHook in #3533 Add GetNativeTokenManagementFrom precompile to ArbOwnerPublic in #3534 Allow same prevTimestamp in eth_simulateV1 in #3535 Return False When Checking if Deposit Tx Type Has Poster Costs in #3536 Update geth post merge of v1.16.2 in #3537 Improve CPU performance when processing blocks in #3541 Fix eip 2537 in nitro enable it as part of arbos 50 dia in #3492 Fix that arbos didnt get updated for l1 calldata price in #3470 Support passing multi gas by value in #3543 Skip block size cap for arbitrum chains in #3544 Record only specific targets needed for stylus in #3416 Remove rust nightly dependency in #3546 Implement EIP-7825 in #3545 Enable arbos 50 in #3547 Treat precompile code as empty during delegation after arbos 50 in #3549 Enable ArbOS 50 in system tests in #3550 Prover: remove unnecessary wasm exports in #3554 Move the MaxTxGas limit enforcement in #3557 Add support for consensus v50 to Docker in #3551 Full Changelog : v3.7.1...v3.8.0-rc.1",
+    "ingested_utc": "2025-09-01T09:52:22Z"
+  },
+  {
+    "published_utc": "2025-09-01",
+    "retrieved_date": "2025-09-01",
+    "retrieved_utc": "2025-09-01T09:51:15Z",
+    "source": "CoinJournal",
+    "title": "Ether eyes $4,700 as the $4,250 support holds; Check forecast",
+    "url": "https://coinjournal.net/news/ether-eyes-4700-as-the-4250-support-holds-check-forecast/",
+    "id_key": "931910666ed4180ddaa2f5e261a7679d8d27b71321ee8e7a165451ac2348246a",
+    "summary": "Key takeaways ETH has bounced back from the $4,250 low and is now trading around $4,470 per coin. The coin could rally towards the $4,700 mark soon as bulls intensify recovery efforts. ETH bounces back above $4,400 The cryptocurrency market closed August bearish as Bitcoin and Ether tested new lows. Bitcoin, the leading cryptocurrency by […] The post Ether eyes $4,700 as the $4,250 support holds; Check forecast appeared first on CoinJournal .",
+    "ingested_utc": "2025-09-01T09:51:15Z"
+  },
+  {
+    "published_utc": "2025-09-01",
+    "retrieved_date": "2025-09-01",
+    "retrieved_utc": "2025-09-01T09:51:14Z",
+    "source": "CryptoNews",
+    "title": "XRP Begins September in Red, Slumps Below $2.80 – Is Recovery Ahead?",
+    "url": "https://cryptonews.com/news/xrp-begins-september-in-red-slumps-below-2-80-is-recovery-ahead/",
+    "id_key": "8e71033f931530bd6929daec58b412da0f731533d9c220bbea75908df8d0b3d3",
+    "summary": "XRP fell 3.1% in 24 hours, however, shows a bullish pennant pattern, signalling a likely upward price breakout. The post XRP Begins September in Red, Slumps Below $2.80 – Is Recovery Ahead? appeared first on Cryptonews .",
+    "ingested_utc": "2025-09-01T09:51:14Z"
+  },
+  {
+    "published_utc": "2025-09-01",
+    "retrieved_date": "2025-09-01",
+    "retrieved_utc": "2025-09-01T09:51:11Z",
+    "source": "CryptoSlate",
+    "title": "Hoskinson pushes for Chainlink, Aave and USD1 to rescue Cardano’s weak DeFi scene",
+    "url": "https://cryptoslate.com/hoskinson-pushes-for-chainlink-aave-and-usd1-to-rescue-cardanos-weak-defi-scene/",
+    "id_key": "d78f9e36601093b18ebcb15a8e0b550cfbd6e383426adf5ec9b1a26bc0d98788",
+    "summary": "Cardano founder Charles Hoskinson has outlined plans to pursue partnerships with major protocols, including Aave, Chainlink, and World Liberty Financial’s USD1 stablecoin. In an Aug. 31 Ask Me Anything (AMA) session, Hoskinson argued that such integrations are crucial for strengthening Cardano’s ecosystem and ensuring the blockchain remains competitive in the industry. He said: “I’d like […] The post Hoskinson pushes for Chainlink, Aave and USD1 to rescue Cardano’s weak DeFi scene appeared first on CryptoSlate .",
+    "ingested_utc": "2025-09-01T09:51:11Z"
+  },
+  {
+    "published_utc": "2025-09-01",
+    "retrieved_date": "2025-09-01",
     "retrieved_utc": "2025-09-01T09:43:35Z",
     "source": "Nikkei_Asia_Top",
     "title": "Dentsu Group to be removed from Nikkei 225 High Dividend Yield 50 Index",
@@ -10932,71 +10998,5 @@
     "id_key": "17b8be3b919d861145153d2383f1f4cc964c87dae87c2b62eef3bbe1f96f449f",
     "summary": "Overflowing rivers devastate communities, prompt questions about whether lessons from past floods were ever learned.",
     "ingested_utc": "2025-08-29T07:33:05Z"
-  },
-  {
-    "published_utc": "2025-08-29",
-    "retrieved_date": "2025-08-29",
-    "retrieved_utc": "2025-08-29T07:32:56Z",
-    "source": "Engadget_All",
-    "title": "The best iPhone accessories for 2025",
-    "url": "https://www.engadget.com/computing/accessories/best-iphone-accessories-140022449.html?src=rss",
-    "id_key": "37d0bf5a7f875afbc0fff0430e248540d8ee59b9469303ce0e1a204c73537852",
-    "summary": "The right add-on can make a good iPhone experience even better. Whether you're looking to boost your battery life, level up your mobile photography or just keep your device safe from daily wear and tear, the best iPhone accessories are the ones that add real value without getting in your way. From MagSafe chargers and wireless earbuds to stands, mounts and portable power banks, there’s no shortage of ways to customize how you use your phone. We've tested a wide range of products to help you narrow it down. Whether you're using the latest iPhone or holding onto an older model, the best iPhone accessories can enhance your day-to-day in meaningful ways — whether that’s making your morning commute smoother, improving your FaceTime setup or just keeping your screen crack-free. Best iPhone accessories This article originally appeared on Engadget at https://www.engadget.com/computing/accessories/best-iphone-accessories-140022449.html?src=rss",
-    "ingested_utc": "2025-08-29T07:32:56Z"
-  },
-  {
-    "published_utc": "2025-08-29",
-    "retrieved_date": "2025-08-29",
-    "retrieved_utc": "2025-08-29T07:30:33Z",
-    "source": "CryptoNews",
-    "title": "Hong Kong-Based OSL Group’s Revenue Jumps 58% in H1 Despite Mounting Losses",
-    "url": "https://cryptonews.com/news/hong-kong-based-osl-groups-revenue-jumps-58-in-h1-despite-mounting-losses/",
-    "id_key": "f6516ab78c72cd2d170c0a1a43a07c2461d4545514c484284203eede5204f6b5",
-    "summary": "Digital asset platform OSL Group reported a 58% year-on-year revenue increase for the first half of 2025, reaching $25.1 million. The post Hong Kong-Based OSL Group’s Revenue Jumps 58% in H1 Despite Mounting Losses appeared first on Cryptonews .",
-    "ingested_utc": "2025-08-29T07:30:33Z"
-  },
-  {
-    "published_utc": "2025-08-29",
-    "retrieved_date": "2025-08-29",
-    "retrieved_utc": "2025-08-29T07:30:33Z",
-    "source": "CryptoNews",
-    "title": "Raoul Pal Sees XRP Poised For Strong Uptrend As ‘Full Porting’ Begins",
-    "url": "https://cryptonews.com/news/xrp-poised-strong-uptrend-full-porting-begins-raoul-pal/",
-    "id_key": "91ab6c55086c13fef2103a79836e7f600ab46e667079a1f6b674803c21f631fe",
-    "summary": "Financial commentator Raoul Pal says XRP is in “full porting,” a phase resembling past cycles that preceded major breakouts and strong rallies. The post Raoul Pal Sees XRP Poised For Strong Uptrend As ‘Full Porting’ Begins appeared first on Cryptonews .",
-    "ingested_utc": "2025-08-29T07:30:33Z"
-  },
-  {
-    "published_utc": "2025-08-29",
-    "retrieved_date": "2025-08-29",
-    "retrieved_utc": "2025-08-29T07:29:56Z",
-    "source": "Guardian_World",
-    "title": "Australia news live: severe thunderstorm warning for Porepunkah as 450 police officers hunt alleged cop killer",
-    "url": "https://www.theguardian.com/australia-news/live/2025/aug/29/australia-news-live-porepunkah-shooting-dezi-freeman-manhunt-police-latest-updates-ntwnfb",
-    "id_key": "2ecdd4724fcb88650a802d8a169fbb32139f008914958aed0402928ea3348479",
-    "summary": "Follow today’s news live Get our breaking news email , free app or daily news podcast Expelled ambassador says allegations against Iran ‘baseless’ during Sydney airport exit Iran’s former ambassador to Australia – now persona non grata – denied allegations his government was behind two antisemitic arson attacks in Australia, describing the accusations as “baseless” as he left the country. Continue reading...",
-    "ingested_utc": "2025-08-29T07:29:56Z"
-  },
-  {
-    "published_utc": "2025-08-29",
-    "retrieved_date": "2025-08-29",
-    "retrieved_utc": "2025-08-29T07:29:56Z",
-    "source": "Guardian_World",
-    "title": "At least 23 dead in overnight Kyiv attack as UK and EU summon Russian envoys",
-    "url": "https://www.theguardian.com/politics/2025/aug/28/uk-summons-russian-ambassador-over-british-council-missile-damage-in-kyiv",
-    "id_key": "a5bf43ccfc197548084ec021c98093fffd79bea926f86695f6c3ca6fd908e13f",
-    "summary": "Missile strikes on Ukrainian capital hit EU and British Council offices in deadliest assault in months The UK and European Union have summoned their Russian envoys after overnight missile strikes on Kyiv killed at least 23 people and damaged the city’s British Council and EU offices, in the deadliest aerial assault on the Ukrainian capital since the Alaska summit between Vladimir Putin and Donald Trump. Four children were among those killed after a residential building in the eastern Darnytskyi district was struck in the middle of the night, according to Ukraine’s interior minister, Ihor Klymenko. Continue reading...",
-    "ingested_utc": "2025-08-29T07:29:56Z"
-  },
-  {
-    "published_utc": "2025-08-29",
-    "retrieved_date": "2025-08-29",
-    "retrieved_utc": "2025-08-29T07:29:56Z",
-    "source": "Guardian_World",
-    "title": "Gaza starvation is real and it is happening now, UN World Food Programme says – Middle East crisis live",
-    "url": "https://www.theguardian.com/world/live/2025/aug/29/gaza-famine-israel-middle-east-lastest-news-updates",
-    "id_key": "b2733b935757fce62c6135131302d325562f0bafa38cbc18019792aa6df51295",
-    "summary": "Cindy McCain said she had spoken with Israeli prime minister Benjamin Netanyahu about allowing more food into the strip Israel rejected the findings of the report, saying they were based on “Hamas lies laundered through organisations with vested interests”, and denied the existence of a famine in Gaza. We mentioned the findings of the UN-backed Integrated Food Security Phase Classification (IPC) in our opening post . The time for debate and hesitation has passed, starvation is present and is rapidly spreading. There should be no doubt in anyone’s mind that an immediate, at-scale response is needed. Any further delay – even by days – will result in a totally unacceptable escalation of famine-related mortality. Continue reading...",
-    "ingested_utc": "2025-08-29T07:29:56Z"
   }
 ]
