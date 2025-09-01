@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-09-01",
     "retrieved_date": "2025-09-01",
+    "retrieved_utc": "2025-09-01T11:43:30Z",
+    "source": "NYTimes_World",
+    "title": "California’s High Potency Cannabis is Fueling a ‘Cali Weed’ Trend in the UK",
+    "url": "https://www.nytimes.com/2025/09/01/world/europe/california-uk-cannabis-smuggling.html",
+    "id_key": "ad832777235566ef44a9c0de66356c44c18b9da0d06bc6f0cc8452c4867e2fa9",
+    "summary": "High-strength, California-grown marijuana is so popular in the U.K. that large quantities are being illegally smuggled on passenger flights, officials say.",
+    "ingested_utc": "2025-09-01T11:43:30Z"
+  },
+  {
+    "published_utc": "2025-09-01",
+    "retrieved_date": "2025-09-01",
+    "retrieved_utc": "2025-09-01T11:41:37Z",
+    "source": "Protos",
+    "title": "The internet is laughing at El Salvador’s ‘quantum-safe’ bitcoin",
+    "url": "https://protos.com/the-internet-is-laughing-at-el-salvadors-quantum-safe-bitcoin/",
+    "id_key": "f930e5528324fbd063ae71c88b40a45fb1fa9f087e2c361ccf7cc127be826a0b",
+    "summary": "El Salvador’s Bitcoin Office earned skepticism and laughter with bitcoin (BTC) wallet movements to protect against quantum computing. The post The internet is laughing at El Salvador’s ‘quantum-safe’ bitcoin appeared first on Protos .",
+    "ingested_utc": "2025-09-01T11:41:37Z"
+  },
+  {
+    "published_utc": "2025-09-01",
+    "retrieved_date": "2025-09-01",
+    "retrieved_utc": "2025-09-01T11:41:14Z",
+    "source": "BBC_World",
+    "title": "EU chief von der Leyen's plane hit by suspected Russian GPS jamming",
+    "url": "https://www.bbc.com/news/articles/c9d07z1439zo?at_medium=RSS&at_campaign=rss",
+    "id_key": "cedd5e3a3f6573cfef0707895b2c22a51441ea8044487f7b5b3b11df1e0cae71",
+    "summary": "The European Commission said the plane's navigation was disrupted in Bulgaria on Sunday.",
+    "ingested_utc": "2025-09-01T11:41:14Z"
+  },
+  {
+    "published_utc": "2025-09-01",
+    "retrieved_date": "2025-09-01",
     "retrieved_utc": "2025-09-01T11:29:44Z",
     "source": "FinancialPost_Business",
     "title": "Cannara Announces Grant of Options and RSUs",
@@ -10965,38 +10998,5 @@
     "id_key": "5da77aef44fd9adf51f74acf5ac49a6e44f71ed85f05b02b180c0695ad43dd9f",
     "summary": "",
     "ingested_utc": "2025-08-29T08:59:24Z"
-  },
-  {
-    "published_utc": "2025-08-29",
-    "retrieved_date": "2025-08-29",
-    "retrieved_utc": "2025-08-29T08:58:41Z",
-    "source": "FT_Home",
-    "title": "Corporate law firms hire mostly men for highest-paid roles",
-    "url": "https://www.ft.com/content/16293fc9-580d-414d-81d0-48acc1732a46",
-    "id_key": "b13abf8aae92cdbe6e58a95c6f128580871dc1712ef62cf9ea084ed2d69edcee",
-    "summary": "Few women are being recruited to most lucrative practice areas despite big steps forward in sector diversity",
-    "ingested_utc": "2025-08-29T08:58:41Z"
-  },
-  {
-    "published_utc": "2025-08-29",
-    "retrieved_date": "2025-08-29",
-    "retrieved_utc": "2025-08-29T08:58:41Z",
-    "source": "FT_Home",
-    "title": "HMRC tech issues could land thousands with CGT penalty",
-    "url": "https://www.ft.com/content/de777005-4179-43f1-bb29-6f8b39ccf38d",
-    "id_key": "f42dc98e01bdcd336fb170a7176c87efb8ad103fc51ab212b119752aae2f96b7",
-    "summary": "Those who file tax returns themselves are particularly at risk",
-    "ingested_utc": "2025-08-29T08:58:41Z"
-  },
-  {
-    "published_utc": "2025-08-29",
-    "retrieved_date": "2025-08-29",
-    "retrieved_utc": "2025-08-29T08:56:39Z",
-    "source": "CryptoNews",
-    "title": "Coinone Becomes First Korean Exchange to Launch Bitcoin Staking",
-    "url": "https://cryptonews.com/news/coinone-becomes-first-korean-exchange-to-launch-bitcoin-staking/",
-    "id_key": "5687510d9c32d85948285df091e03907e28bab2385ad4450ba9a89b9246f1948",
-    "summary": "Korean crypto exchange Coinone announced that it has launched the country’s first Bitcoin staking service, allowing users to earn rewards without locking their assets. The post Coinone Becomes First Korean Exchange to Launch Bitcoin Staking appeared first on Cryptonews .",
-    "ingested_utc": "2025-08-29T08:56:39Z"
   }
 ]
