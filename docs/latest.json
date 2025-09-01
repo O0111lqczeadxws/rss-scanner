@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-09-01",
     "retrieved_date": "2025-09-01",
+    "retrieved_utc": "2025-09-01T18:58:07Z",
+    "source": "FinancialPost_Business",
+    "title": "Richest Colombians Face Hefty Tax Hikes on Wealth and Income",
+    "url": "https://financialpost.com/pmn/business-pmn/richest-colombians-face-hefty-tax-hikes-on-wealth-and-income",
+    "id_key": "8b89ea1a42cf80026900854cd4224d75466745ba2385bc9ef9844cce2fe395b0",
+    "summary": "Colombia’s richest citizens face a tripling in the top rate of wealth tax, as well as higher levies on salaries and luxury goods, as the leftist government of Gustavo Petro taps them to narrow the widest fiscal deficit since the pandemic.",
+    "ingested_utc": "2025-09-01T18:58:07Z"
+  },
+  {
+    "published_utc": "2025-09-01",
+    "retrieved_date": "2025-09-01",
+    "retrieved_utc": "2025-09-01T18:58:01Z",
+    "source": "AlJazeera_All",
+    "title": "Is US healthcare still using racist medical practices?",
+    "url": "https://www.aljazeera.com/video/the-take-2/2025/9/1/is-us-healthcare-still-using-racist-medical-practices?traffic_source=rss",
+    "id_key": "271c95e858b740d49a7dfc1884ec86d9efdc25b716fc04a0ad59de10251948b4",
+    "summary": "How racial bias in the US healthcare system almost cost one patient her life.",
+    "ingested_utc": "2025-09-01T18:58:01Z"
+  },
+  {
+    "published_utc": "2025-09-01",
+    "retrieved_date": "2025-09-01",
     "retrieved_utc": "2025-09-01T18:49:29Z",
     "source": "HackerNews_Top",
     "title": "Show HN: woomarks, transfer your Pocket links to this app or self-host it",
@@ -10976,27 +10998,5 @@
     "id_key": "c82a2e61bdeb3eb3d9dc34ecc598349d1fa95b4a684cd629010b8ca4198af439",
     "summary": "Comments",
     "ingested_utc": "2025-08-29T13:49:47Z"
-  },
-  {
-    "published_utc": "2025-08-29",
-    "retrieved_date": "2025-08-29",
-    "retrieved_utc": "2025-08-29T13:49:47Z",
-    "source": "HackerNews_Top",
-    "title": "A Dark Money Group Is Funding High-Profile Democratic Influencers",
-    "url": "https://www.wired.com/story/dark-money-group-secret-funding-democrat-influencers/",
-    "id_key": "c4a742d6420a3aa249d15bed37e47a0b8695e93f10997b6c19e60c5d9155aecf",
-    "summary": "Comments",
-    "ingested_utc": "2025-08-29T13:49:47Z"
-  },
-  {
-    "published_utc": "2025-08-29",
-    "retrieved_date": "2025-08-29",
-    "retrieved_utc": "2025-08-29T13:49:40Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "BYD profit dives 30% as price war takes toll on EV champion",
-    "url": "https://asia.nikkei.com/business/automobiles/electric-vehicles/byd-profit-dives-30-as-price-war-takes-toll-on-ev-champion",
-    "id_key": "03ed11dcc2c2439a9b72ba2061d85e4f56f530f2a53801be6250ac90655fd75a",
-    "summary": "",
-    "ingested_utc": "2025-08-29T13:49:40Z"
   }
 ]
