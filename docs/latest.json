@@ -2,6 +2,50 @@
   {
     "published_utc": "2025-09-02",
     "retrieved_date": "2025-09-02",
+    "retrieved_utc": "2025-09-02T21:51:17Z",
+    "source": "FinancialPost_Business",
+    "title": "Google avoids breakup but faces other sanctions in monopoly case ruling",
+    "url": "https://financialpost.com/technology/google-avoids-breakup-faces-sanctions-monopoly-case-ruling",
+    "id_key": "3f0431291172244a1df42ec54a1b63d6c2a9730017c50ad048f6e474e476057f",
+    "summary": "Allowed to keep Chrome internet browser and Android operating system but will be required to share parts of search data with competitor companies",
+    "ingested_utc": "2025-09-02T21:51:17Z"
+  },
+  {
+    "published_utc": "2025-09-02",
+    "retrieved_date": "2025-09-02",
+    "retrieved_utc": "2025-09-02T21:50:52Z",
+    "source": "Engadget_All",
+    "title": "Disney will pay $10 million to settle FTC complaint that it collected children's data on YouTube",
+    "url": "https://www.engadget.com/entertainment/youtube/disney-will-pay-10-million-to-settle-ftc-complaint-that-it-collected-childrens-data-on-youtube-213646745.html?src=rss",
+    "id_key": "036dabc7a2e253ef0b9da16551e7aa5cef4521b6ac856a636e74ac876feb5bc6",
+    "summary": "The Federal Trade Commission announced that Disney will pay $10 million to settle allegations that the entertainment giant allowed data collection on YouTube videos meant for children. Under the Children's Online Privacy Protection Rule, also known as COPPA , companies are required to notify parents and obtain parental consent if they collection information from minors. According to the FTC complaint, Disney failed to properly label some YouTube videos as \"Made for Kids,\" which allowed the company to collect data and deliver targeted ads to viewers younger than 13. The proposed order from the FTC would also require Disney to create a review process for determining when and how videos are correctly designated with YouTube's Made for Kids label. YouTube rolled out the Made for Kids tags following a $170 million settlement in 2019 on charges that the video platform had violated COPPA. Google faced an additional settlement of $30 million last month from a similar class-action lawsuit. This article originally appeared on Engadget at https://www.engadget.com/entertainment/youtube/disney-will-pay-10-million-to-settle-ftc-complaint-that-it-collected-childrens-data-on-youtube-213646745.html?src=rss",
+    "ingested_utc": "2025-09-02T21:50:52Z"
+  },
+  {
+    "published_utc": "2025-09-02",
+    "retrieved_date": "2025-09-02",
+    "retrieved_utc": "2025-09-02T21:50:20Z",
+    "source": "NYTimes_Business",
+    "title": "Cook’s Lawyers Fire Back at Trump’s Claim of Vast Powers to Oust Fed Officials",
+    "url": "https://www.nytimes.com/2025/09/02/business/trump-fed-lisa-cook.html",
+    "id_key": "ee8505c761b250b89a873720ef535ad31cedee8bf2e37aee4bd37a0ad07c52c6",
+    "summary": "Lisa Cook is seeking a swift ruling on her ability to remain on the Federal Reserve’s Board of Governors as the case is litigated.",
+    "ingested_utc": "2025-09-02T21:50:20Z"
+  },
+  {
+    "published_utc": "2025-09-02",
+    "retrieved_date": "2025-09-02",
+    "retrieved_utc": "2025-09-02T21:47:28Z",
+    "source": "Guardian_World",
+    "title": "‘No place in children’s hands’: under-16s in England to be banned from buying energy drinks",
+    "url": "https://www.theguardian.com/business/2025/sep/02/children-energy-drinks-government-obesity-health",
+    "id_key": "125eb2a4f1498c2dea14045a4e1145950346384f055b7d2a7d7cf50c04b830e4",
+    "summary": "Government to ban sale of energy drinks with more than 150mg of caffeine, citing concerns over obesity and lack of concentration Under-16s in England will be banned from buying energy drinks such as Red Bull and Monster because they fuel obesity, cause sleep problems and leave them unable to concentrate. Health experts, teaching unions and dentists welcomed the ban and said it would boost children and young people’s health. It fulfils a pledge Labour included in its manifesto for last year’s general election. Continue reading...",
+    "ingested_utc": "2025-09-02T21:47:28Z"
+  },
+  {
+    "published_utc": "2025-09-02",
+    "retrieved_date": "2025-09-02",
     "retrieved_utc": "2025-09-02T21:39:27Z",
     "source": "AlJazeera_All",
     "title": "US judge orders Google to share search data with competitors",
@@ -10954,49 +10998,5 @@
     "id_key": "936729cc173936db83d2ce637076ba618f2c1a2578c99ac18806020d13246f08",
     "summary": "An Indian anti-corruption court has sentenced 14 men to life in prison for the 2018 kidnapping and extortion of a businessman over his cryptocurrency holdings. The post India Jails 14 for Life in Crypto Extortion Case Involving Cops, Ex-MLA appeared first on Cryptonews .",
     "ingested_utc": "2025-08-31T09:28:28Z"
-  },
-  {
-    "published_utc": "2025-08-31",
-    "retrieved_date": "2025-08-31",
-    "retrieved_utc": "2025-08-31T09:28:06Z",
-    "source": "Guardian_World",
-    "title": "Bridget Phillipson: parents must do more about bad behaviour and attendance in schools",
-    "url": "https://www.theguardian.com/politics/2025/aug/31/bridget-phillipson-parents-must-do-more-about-bad-behaviour-and-attendance-in-schools",
-    "id_key": "31a94e23939705b51ae4a0695561da25f10f960be66808c051c747d4330338fb",
-    "summary": "Education secretary targets 800 schools as she attempts to turn around post-Covid trends with enhanced support Parents and caregivers “need to do more” to reverse post-Covid trends of poor attendance and behaviour in schools, the education secretary has said, announcing new measures to support schools in England before the start of the new school year. Bridget Phillipson unveiled a UK government programme on Sunday targeting 800 schools attended by about 600,000 pupils, beginning with an initial wave of 21 schools that will serve as attendance and behaviour hubs. Continue reading...",
-    "ingested_utc": "2025-08-31T09:28:06Z"
-  },
-  {
-    "published_utc": "2025-08-31",
-    "retrieved_date": "2025-08-31",
-    "retrieved_utc": "2025-08-31T08:49:13Z",
-    "source": "Guardian_World",
-    "title": "Vladimir Putin arrives in China for security summit – Ukraine war live",
-    "url": "https://www.theguardian.com/world/live/2025/aug/31/russia-ukraine-war-control-major-ukrainian-city-latest-updates-news-live",
-    "id_key": "65e12d9352a8a1b904b6cab7f994db2aab6b9ebdaed64ebe7cd7e570f6e7ad49",
-    "summary": "Russian president and Indian prime minister among more than 20 world leaders attending Shanghai Cooperation Organisation summit in Tianjin The Guardian’s Russian affairs reporter, Pjotr Sauer , has written a piece about Putin’s trip and what it may mean for the war in Ukraine. Here is an extract of his story : Key on the agenda, analysts say, will be for Putin and Xi to align their positions on the war in Ukraine amid US efforts to end the fighting. “It is an important time for them to talk about where the war is headed and how likely it is to be stopped in the near future,” said Alexander Gabuev, the director of the Carnegie Russia Eurasia Centre. Gabuev said Moscow wanted to know whether it could expect any further assistance from China and how Beijing would respond if the US were to ask it to put pressure on Russia to end the fighting… Continue reading...",
-    "ingested_utc": "2025-08-31T08:49:13Z"
-  },
-  {
-    "published_utc": "2025-08-31",
-    "retrieved_date": "2025-08-31",
-    "retrieved_utc": "2025-08-31T08:40:14Z",
-    "source": "AlJazeera_All",
-    "title": "Strikes maim children as Israel says Qassam spokesman Abu Obeida targeted",
-    "url": "https://www.aljazeera.com/video/newsfeed/2025/8/31/strikes-maim-children-as-israel-says-qassam-spokesman-abu-obeida-targeted?traffic_source=rss",
-    "id_key": "4ed34487d29bf0f05eec382a9687aa486645ebb89025052cd4bba9b115bf3dbe",
-    "summary": "Video shows injured children in the aftermath of strikes on Gaza City as Israel's military hit multiple apartment",
-    "ingested_utc": "2025-08-31T08:40:14Z"
-  },
-  {
-    "published_utc": "2025-08-31",
-    "retrieved_date": "2025-08-31",
-    "retrieved_utc": "2025-08-31T08:40:14Z",
-    "source": "AlJazeera_All",
-    "title": "India committed to improving ties with China, Modi tells Xi before SCO meet",
-    "url": "https://www.aljazeera.com/news/2025/8/31/india-committed-to-improving-ties-with-china-modi-tells-xi-before-sco-meet?traffic_source=rss",
-    "id_key": "7ecdfb2ce715a0e6e2a95435774c9b71331a4318c6d20fa829d00e0a3df1269b",
-    "summary": "Indian leader appears to mark waning of strategic ties with US after Trump slapped punishing tariffs on Indian goods.",
-    "ingested_utc": "2025-08-31T08:40:14Z"
   }
 ]
