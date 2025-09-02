@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-09-02",
     "retrieved_date": "2025-09-02",
+    "retrieved_utc": "2025-09-02T20:53:34Z",
+    "source": "HackerNews_Top",
+    "title": "Take something you don’t like and try to like it",
+    "url": "https://dynomight.net/liking/",
+    "id_key": "fae5a2eca9dc51bf7194b194dab9861ad04a0978de43b6951d7f90d472dd981e",
+    "summary": "Comments",
+    "ingested_utc": "2025-09-02T20:53:34Z"
+  },
+  {
+    "published_utc": "2025-09-02",
+    "retrieved_date": "2025-09-02",
+    "retrieved_utc": "2025-09-02T20:49:28Z",
+    "source": "Guardian_World",
+    "title": "Palestinian activist Mohsen Mahdawi returns to Columbia University: ‘They have failed to silence me’",
+    "url": "https://www.theguardian.com/us-news/2025/sep/02/mohsen-mahdawi-columbia-university-palestinian",
+    "id_key": "f09680a180a6d625727fabf6e445246779ef89cc620802154dbb9d8c8c4b5e17",
+    "summary": "Mahdawi was arrested and targeted for deportation but the permanent US resident is resuming postgraduate studies Just over four months after being arrested, detained and nearly deported by the Trump administration for his activism, Mohsen Mahdawi, the 34-year-old Palestinian student and US permanent resident, returned to Columbia University on Tuesday and vowed to continue speaking out. “They have failed to silence me, and in fact, now I am more outspoken than before, and I will continue to work for peace and justice. I do this work not for myself alone – I do this for the future of children, whether they are Palestinians or Israelis,” he told the Guardian on Tuesday in his first interview since stepping back on to campus to begin his graduate studies. Continue reading...",
+    "ingested_utc": "2025-09-02T20:49:28Z"
+  },
+  {
+    "published_utc": "2025-09-02",
+    "retrieved_date": "2025-09-02",
     "retrieved_utc": "2025-09-02T20:46:53Z",
     "source": "HackerNews_Top",
     "title": "Civics is boring, so, let's encrypt something (2024)",
@@ -10976,27 +10998,5 @@
     "id_key": "6e0db35e0f594387e5e7cce333db7d4a34afed73ea9795677207770dd03381ba",
     "summary": "",
     "ingested_utc": "2025-08-31T04:41:40Z"
-  },
-  {
-    "published_utc": "2025-08-31",
-    "retrieved_date": "2025-08-31",
-    "retrieved_utc": "2025-08-31T04:41:33Z",
-    "source": "FinancialPost_Business",
-    "title": "Drones blasting AC/DC and Scarlett Johannson are helping biologists protect cattle from wolves",
-    "url": "https://financialpost.com/pmn/drones-blasting-ac-dc-and-scarlett-johannson-are-helping-biologists-protect-cattle-from-wolves",
-    "id_key": "e5d7fa67075e804c96202004a38c41155858e26a25e3e9036a2214c8eeea48ba",
-    "summary": "For millennia humans have tried to scare wolves away from their livestock. Most of them didn’t have drones. But a team of biologists working near the California-Oregon border do, and they’re using them to blast AC/DC’s “Thunderstruck,” movie clips and live human voices at the apex predators to shoo them away from cattle in an […]",
-    "ingested_utc": "2025-08-31T04:41:33Z"
-  },
-  {
-    "published_utc": "2025-08-31",
-    "retrieved_date": "2025-08-31",
-    "retrieved_utc": "2025-08-31T04:40:58Z",
-    "source": "FT_Markets",
-    "title": "Bitcoin boom sees newly wealthy splurging on luxury travel",
-    "url": "https://www.ft.com/content/da4e36d8-fb82-454f-8448-4db0752ffa68",
-    "id_key": "e18c2517b19e1a50480004c01960f95357ffe63598439f56c120f04d5d9b941f",
-    "summary": "High end private jet and cruise companies accepting payment in cryptocurrency to tap into growth market",
-    "ingested_utc": "2025-08-31T04:40:58Z"
   }
 ]
