@@ -2,6 +2,61 @@
   {
     "published_utc": "2025-09-03",
     "retrieved_date": "2025-09-03",
+    "retrieved_utc": "2025-09-03T11:50:57Z",
+    "source": "HackerNews_Top",
+    "title": "Microsoft VibeVoice: A Frontier Open-Source Text-to-Speech Model",
+    "url": "https://microsoft.github.io/VibeVoice/",
+    "id_key": "ac1e69725edc951b4c0b6dfbfae7e644e81d8f0cd9adea0adadfa04ddff617c4",
+    "summary": "Comments",
+    "ingested_utc": "2025-09-03T11:50:57Z"
+  },
+  {
+    "published_utc": "2025-09-03",
+    "retrieved_date": "2025-09-03",
+    "retrieved_utc": "2025-09-03T11:50:43Z",
+    "source": "FinancialPost_Business",
+    "title": "Great Quest Gold Provides Update Regarding Proposed Reverse Takeover Transaction With Lotus Gold",
+    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/great-quest-gold-provides-update-regarding-proposed-reverse-takeover-transaction-with-lotus-gold",
+    "id_key": "fd12efc3fdd0c368586a5c76c73d082134a94526cbe76a51c4b8b7c129cfd83c",
+    "summary": "Highlights: Arrangement Agreement amended to account for new ratio Resulting Issuer to be renamed Ongwe Minerals Inc. (“Ongwe”) Resulting Issuer Board and Management to be reconstituted David Underwood (CEO), Carl Joone (President & Founder) and Tony da Silva (Interim CFO) Heye Daun, Alan Friedman and Jed Richardson to be appointed to Resulting Issuer Board Second […]",
+    "ingested_utc": "2025-09-03T11:50:43Z"
+  },
+  {
+    "published_utc": "2025-09-03",
+    "retrieved_date": "2025-09-03",
+    "retrieved_utc": "2025-09-03T11:50:43Z",
+    "source": "FinancialPost_Business",
+    "title": "VinFast’s Decade of Coverage Brings Peace of Mind to Electric Vehicle Buyers",
+    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/vinfasts-decade-of-coverage-brings-peace-of-mind-to-electric-vehicle-buyers",
+    "id_key": "82c0de0c9e6760bcdcc4d5044c762b711ee82b125a4b427a4687dc7f10f2a070",
+    "summary": "MARKHAM, Ontario — Vietnamese automaker VinFast is challenging Canada’s auto industry norms by offering a 10-year, 200,000-kilometre warranty on its electric vehicles, a bold move aimed at easing buyer concerns over cost, reliability, and battery life. Remember the summer of 2019, when the Raptors brought a championship home? If you bought a new crossover that […]",
+    "ingested_utc": "2025-09-03T11:50:43Z"
+  },
+  {
+    "published_utc": "2025-09-03",
+    "retrieved_date": "2025-09-03",
+    "retrieved_utc": "2025-09-03T11:47:32Z",
+    "source": "Guardian_World",
+    "title": "Met police chief calls for review of law after Graham Linehan arrest",
+    "url": "https://www.theguardian.com/uk-news/2025/sep/03/met-police-chief-calls-for-review-of-law-after-graham-linehan-arrest",
+    "id_key": "27b2cd5ac0e868f0bad88256437f7ca8019d4bc6ec497383e80395f16b8d3386",
+    "summary": "Rowley says officers should not be ‘policing toxic culture wars debates’ and are in an impossible position The Metropolitan police have declined to drop their investigation into the comedy writer Graham Linehan for tweets about trans issues, and said that the law used by officers to detain him needs reviewing. The Met commissioner, Sir Mark Rowley, said on Wednesday officers should not be “policing toxic culture wars debates”, and while any review took place, officers would investigate only more serious cases concerning online messages. Continue reading...",
+    "ingested_utc": "2025-09-03T11:47:32Z"
+  },
+  {
+    "published_utc": "2025-09-03",
+    "retrieved_date": "2025-09-03",
+    "retrieved_utc": "2025-09-03T11:47:32Z",
+    "source": "Guardian_World",
+    "title": "How to protect US students from heat in schools – and is it time to rethink summer break?",
+    "url": "https://www.theguardian.com/us-news/2025/sep/03/extreme-heat-schools-education",
+    "id_key": "afccea13c1d772c14b4aa706a7e1fa8994cccccf6559907d8067e0d4617bad25",
+    "summary": "US schools were built for a cooler climate that no longer exists. Now they face record-high temperatures As schools are returning to session following one of the hottest summers ever recorded, districts are faced with a new problem: how to handle increasingly extreme heatwaves , both in and outside the classroom. Unbearably hot days are no longer just a summer problem. In the US districts from the north-east to the mountain west to the deep south are shortening days, delaying openings, and reworking calendars as temperatures spike during August and September, the typical back-to-school months. Continue reading...",
+    "ingested_utc": "2025-09-03T11:47:32Z"
+  },
+  {
+    "published_utc": "2025-09-03",
+    "retrieved_date": "2025-09-03",
     "retrieved_utc": "2025-09-03T11:41:09Z",
     "source": "FinancialPost_Business",
     "title": "Quipt Home Medical Completes Strategic Acquisition of Hart Medical Adding $60 Million in Revenue",
@@ -10943,60 +10998,5 @@
     "id_key": "dd3a83bf4e49812eb1553d1e8b96ce5ced560bf8b2835aa20f6c2659c3b5f837",
     "summary": "This release is available as a Docker Image on Docker Hub at offchainlabs/nitro-node:v3.8.0-rc.1- This Docker image specifies default flags in its entrypoint which should be replicated if you're overriding the entrypoint: /usr/local/bin/nitro --validation.wasm.allowed-wasm-module-roots /home/user/nitro-legacy/machines,/home/user/target/machines If you're running a validator without a split validation server (this will be true of most validators), you should instead use the image offchainlabs/nitro-node:v3.8.0-rc.1--validator which has the extra script /usr/local/bin/split-val-entry.sh as the entrypoint. User facing changes Important! If you have previously used the ArbOwner.setMaxTxGasLimit to set the max transaction and block gas limits for your chain, you should add calls to ArbOwner.setMaxTxGasLimit and ArbOwner.SetMaxBlockGasLimit to your upgrade action to arbos 50. (When it's time.) After the arbos 50 upgrader, there is a new ArbOwner.setL1CalldataPrice which can be used to set the parent chain's blob base fee per byte of caldata. This is for allowing the state transition function to adjust for the parent chain having enabled EIP-7623: Increase calldata cost Highlights Nitro is ready for Fusaka Arbitrum One node operators need to upgrade to v3.8.0 before mainnet upgrades to Fusaka Arbitrum One and Arbitrum Nova will both upgrade to ArbOS 50 as described in the AIP What's Changed Fix error handling and add comprehensive tests in #3510 Add 10 minutes to bold tests in #3514 Optimize sender address derivation in #3518 Don't log error if unable to return expired nonce cache failure in0 in #3486 Add multi-dimensional gas collector in #3453 Refactor move multigascollector to arbos in #3524 Add debug flag to enable deep copy of backlog msgs in #3519 Update geth post merge of v1.16.0 in #3523 Update geth post merge of v1.16.1 in #3528 Use the parent chain for BlobFeePerByte instead of an RPC call in #3531 Fix acquiring redis lock in batch poster in #3511 Account multi-gas in StartTxHook in #3533 Add GetNativeTokenManagementFrom precompile to ArbOwnerPublic in #3534 Allow same prevTimestamp in eth_simulateV1 in #3535 Return False When Checking if Deposit Tx Type Has Poster Costs in #3536 Update geth post merge of v1.16.2 in #3537 Improve CPU performance when processing blocks in #3541 Fix eip 2537 in nitro enable it as part of arbos 50 dia in #3492 Fix that arbos didnt get updated for l1 calldata price in #3470 Support passing multi gas by value in #3543 Skip block size cap for arbitrum chains in #3544 Record only specific targets needed for stylus in #3416 Remove rust nightly dependency in #3546 Implement EIP-7825 in #3545 Enable arbos 50 in #3547 Treat precompile code as empty during delegation after arbos 50 in #3549 Enable ArbOS 50 in system tests in #3550 Prover: remove unnecessary wasm exports in #3554 Move the MaxTxGas limit enforcement in #3557 Add support for consensus v50 to Docker in #3551 Full Changelog : v3.7.1...v3.8.0-rc.1",
     "ingested_utc": "2025-09-01T09:52:22Z"
-  },
-  {
-    "published_utc": "2025-09-01",
-    "retrieved_date": "2025-09-01",
-    "retrieved_utc": "2025-09-01T09:51:15Z",
-    "source": "CoinJournal",
-    "title": "Ether eyes $4,700 as the $4,250 support holds; Check forecast",
-    "url": "https://coinjournal.net/news/ether-eyes-4700-as-the-4250-support-holds-check-forecast/",
-    "id_key": "931910666ed4180ddaa2f5e261a7679d8d27b71321ee8e7a165451ac2348246a",
-    "summary": "Key takeaways ETH has bounced back from the $4,250 low and is now trading around $4,470 per coin. The coin could rally towards the $4,700 mark soon as bulls intensify recovery efforts. ETH bounces back above $4,400 The cryptocurrency market closed August bearish as Bitcoin and Ether tested new lows. Bitcoin, the leading cryptocurrency by […] The post Ether eyes $4,700 as the $4,250 support holds; Check forecast appeared first on CoinJournal .",
-    "ingested_utc": "2025-09-01T09:51:15Z"
-  },
-  {
-    "published_utc": "2025-09-01",
-    "retrieved_date": "2025-09-01",
-    "retrieved_utc": "2025-09-01T09:51:14Z",
-    "source": "CryptoNews",
-    "title": "XRP Begins September in Red, Slumps Below $2.80 – Is Recovery Ahead?",
-    "url": "https://cryptonews.com/news/xrp-begins-september-in-red-slumps-below-2-80-is-recovery-ahead/",
-    "id_key": "8e71033f931530bd6929daec58b412da0f731533d9c220bbea75908df8d0b3d3",
-    "summary": "XRP fell 3.1% in 24 hours, however, shows a bullish pennant pattern, signalling a likely upward price breakout. The post XRP Begins September in Red, Slumps Below $2.80 – Is Recovery Ahead? appeared first on Cryptonews .",
-    "ingested_utc": "2025-09-01T09:51:14Z"
-  },
-  {
-    "published_utc": "2025-09-01",
-    "retrieved_date": "2025-09-01",
-    "retrieved_utc": "2025-09-01T09:51:11Z",
-    "source": "CryptoSlate",
-    "title": "Hoskinson pushes for Chainlink, Aave and USD1 to rescue Cardano’s weak DeFi scene",
-    "url": "https://cryptoslate.com/hoskinson-pushes-for-chainlink-aave-and-usd1-to-rescue-cardanos-weak-defi-scene/",
-    "id_key": "d78f9e36601093b18ebcb15a8e0b550cfbd6e383426adf5ec9b1a26bc0d98788",
-    "summary": "Cardano founder Charles Hoskinson has outlined plans to pursue partnerships with major protocols, including Aave, Chainlink, and World Liberty Financial’s USD1 stablecoin. In an Aug. 31 Ask Me Anything (AMA) session, Hoskinson argued that such integrations are crucial for strengthening Cardano’s ecosystem and ensuring the blockchain remains competitive in the industry. He said: “I’d like […] The post Hoskinson pushes for Chainlink, Aave and USD1 to rescue Cardano’s weak DeFi scene appeared first on CryptoSlate .",
-    "ingested_utc": "2025-09-01T09:51:11Z"
-  },
-  {
-    "published_utc": "2025-09-01",
-    "retrieved_date": "2025-09-01",
-    "retrieved_utc": "2025-09-01T09:43:35Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "Dentsu Group to be removed from Nikkei 225 High Dividend Yield 50 Index",
-    "url": "https://asia.nikkei.com/announcements/dentsu-group-to-be-removed-from-nikkei-225-high-dividend-yield-50-index",
-    "id_key": "5941ff691a2e307ed68ff6f50799f9871bc9b79460e9c60496b9e8953f252738",
-    "summary": "",
-    "ingested_utc": "2025-09-01T09:43:35Z"
-  },
-  {
-    "published_utc": "2025-09-01",
-    "retrieved_date": "2025-09-01",
-    "retrieved_utc": "2025-09-01T09:43:21Z",
-    "source": "AlJazeera_All",
-    "title": "Timeline of Afghanistan’s deadliest earthquakes since 2015",
-    "url": "https://www.aljazeera.com/news/2025/9/1/timeline-of-afghanistans-deadliest-earthquakes-since-2015?traffic_source=rss",
-    "id_key": "01a19f5157d8cebc9231964e7ef8454f75a1ff30440451ea3398af1ab3526fc5",
-    "summary": "Afghanistan is prone to tremors due to its location near the meeting point of the Indian and Eurasian tectonic plates.",
-    "ingested_utc": "2025-09-01T09:43:21Z"
   }
 ]
