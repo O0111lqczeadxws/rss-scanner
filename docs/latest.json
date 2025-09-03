@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-09-03",
     "retrieved_date": "2025-09-03",
+    "retrieved_utc": "2025-09-03T07:44:41Z",
+    "source": "FinancialPost_Business",
+    "title": "Turkish Inflation Slows Less Than Expected to 33% in August",
+    "url": "https://financialpost.com/pmn/business-pmn/turkish-inflation-slows-less-than-expected-to-33-in-august",
+    "id_key": "3dde5420675c63fc1da2a6766036ea359f13fa60c86693b47e307cd03088c399",
+    "summary": "Turkish inflation slowed less than expected in August, adding to signs that consumer demand remains resilient even as the central bank is poised to keep lowering interest rates.",
+    "ingested_utc": "2025-09-03T07:44:41Z"
+  },
+  {
+    "published_utc": "2025-09-03",
+    "retrieved_date": "2025-09-03",
+    "retrieved_utc": "2025-09-03T07:43:57Z",
+    "source": "FT_Home",
+    "title": "Global bond sell-off deepens as 30-year Treasury yield hits 5%",
+    "url": "https://www.ft.com/content/12877ec4-daa6-4cd5-af29-494fd12554bf",
+    "id_key": "c8318428df7bdc75195e1212edfabfd09764ce3bf846e44602cf523f78ce9504",
+    "summary": "Investors’ fears over government debt continue to dominate markets",
+    "ingested_utc": "2025-09-03T07:43:57Z"
+  },
+  {
+    "published_utc": "2025-09-03",
+    "retrieved_date": "2025-09-03",
+    "retrieved_utc": "2025-09-03T07:41:33Z",
+    "source": "Guardian_World",
+    "title": "LNP concedes Queensland’s crime rate fell in Labor’s final year despite ‘youth crime crisis’ campaign",
+    "url": "https://www.theguardian.com/australia-news/2025/sep/03/queensland-crime-rate-labor-lnp-election-campaign",
+    "id_key": "d0115790e3f27ab74996f079747986335fa9df50ee902bb50d776e1e4d2ddc7d",
+    "summary": "Youth justice minister acknowledges ‘small decrease of 2.25%’ in 2024 but has not stated LNP’s crime reduction target for 2025 Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The reported number of crime victims in Queensland declined slightly in the final year of the former Labor government’s term, despite a successful years-long campaign by the Liberal National party claiming there was a “ youth crime crisis ” in the state, new figures show. The LNP was elected in October on a platform of introducing “ adult crime, adult time ” laws for children and a vow to reduce the number of victims of crime recorded in Australian Bureau of Statistics data. Continue reading...",
+    "ingested_utc": "2025-09-03T07:41:33Z"
+  },
+  {
+    "published_utc": "2025-09-03",
+    "retrieved_date": "2025-09-03",
     "retrieved_utc": "2025-09-03T07:31:47Z",
     "source": "FinancialPost_Business",
     "title": "Dundee Precious Metals Completes Acquisition of Adriatic Metals and Confirms Name Change and ASX Listing",
@@ -10965,38 +10998,5 @@
     "id_key": "51be67e8eab9df649584e342441588faa05aa8b53083cc3896a05fd388958fc2",
     "summary": "The Iran-backed Houthis on Sunday raided offices of the United Nations' food and children's agencies in Yemen's capital, detaining at least one U.N. employee, officials said.",
     "ingested_utc": "2025-09-01T13:37:49Z"
-  },
-  {
-    "published_utc": "2025-08-31",
-    "retrieved_date": "2025-09-01",
-    "retrieved_utc": "2025-09-01T08:53:03Z",
-    "source": "TheEconomist_Business",
-    "title": "How the migrant crackdown threatens America Inc",
-    "url": "https://www.economist.com/business/2025/08/31/how-the-migrant-crackdown-threatens-america-inc",
-    "id_key": "fdd07785159795dd5d38d8bcd607d3e505d8256a3d4fc8722d254e864d09c870",
-    "summary": "Unwinding the country’s legal migration system could be worse than mass deportations",
-    "ingested_utc": "2025-09-01T08:53:03Z"
-  },
-  {
-    "published_utc": "2025-08-31",
-    "retrieved_date": "2025-09-01",
-    "retrieved_utc": "2025-09-01T07:50:00Z",
-    "source": "TheEconomist_Business",
-    "title": "How Donald Trump’s migrant crackdown threatens America Inc",
-    "url": "https://www.economist.com/business/2025/08/31/how-donald-trumps-migrant-crackdown-threatens-america-inc",
-    "id_key": "b54ae9cb5006ae09864c8e3d273b5824ae4e7afb3cdb0b400ffc51537cf52e42",
-    "summary": "Unwinding the country’s legal migration system could be worse than mass deportations",
-    "ingested_utc": "2025-09-01T07:50:00Z"
-  },
-  {
-    "published_utc": "2025-08-31",
-    "retrieved_date": "2025-09-01",
-    "retrieved_utc": "2025-09-01T06:56:53Z",
-    "source": "FT_Home",
-    "title": "Small boat crossings to UK in August fall to lowest level since 2019",
-    "url": "https://www.ft.com/content/4a6d51d5-02c1-4ce6-8e18-fa4c40a8b938",
-    "id_key": "f9a04d5c838285552bd5af7c3c6451f9c4adc7c7cbf5c32a134403ad301d0ef4",
-    "summary": "Home secretary to hail decline as evidence that Labour’s plan to ‘smash the gangs’ is having effect",
-    "ingested_utc": "2025-09-01T06:56:53Z"
   }
 ]
