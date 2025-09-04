@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-09-04",
     "retrieved_date": "2025-09-04",
+    "retrieved_utc": "2025-09-04T08:58:27Z",
+    "source": "FinancialPost_Business",
+    "title": "Death toll in Lisbon streetcar crash rises to 17 as Portugal observes national day of mourning",
+    "url": "https://financialpost.com/pmn/death-toll-in-lisbon-streetcar-crash-rises-to-17-as-portugal-observes-national-day-of-mourning",
+    "id_key": "aead1dcf1c13bd174d65ea96ed92deb99a8b6fd20c3b672b26295a87e1dfeaa3",
+    "summary": "LISBON, Portugal (AP) — The death toll in the crash of a famous Lisbon streetcar popular with tourists rose to 17 Thursday after two of the 23 injured people died, an emergency services official said. The dead were all adults, Margarida Castro Martins, head of Lisbon’s Civil Protection Agency, told reporters. She didn’t provide their […]",
+    "ingested_utc": "2025-09-04T08:58:27Z"
+  },
+  {
+    "published_utc": "2025-09-04",
+    "retrieved_date": "2025-09-04",
+    "retrieved_utc": "2025-09-04T08:56:33Z",
+    "source": "Arbitrum_Nitro_Releases",
+    "title": "Arbitrum Nitro Consensus v50 Release Candidate 3",
+    "url": "https://github.com/OffchainLabs/nitro/releases/tag/consensus-v50-rc.3",
+    "id_key": "9020dedae1f16f74e0877d9e44582f4d53ef2e986691432435e3145596a7534a",
+    "summary": "This release signifies a WASM fraud proof consensus version, and is not a good version to run a node on WAVM Module Root : 0x385fa2524d86d4ebc340988224f8686b3f485c7c9f7bc1015a64c85a9c76a6b0 This is a release candidate of a consensus release for ArbOS 50, including support for Fusaka. Full Changelog : consensus-v40...consensus-v50-rc.3",
+    "ingested_utc": "2025-09-04T08:56:33Z"
+  },
+  {
+    "published_utc": "2025-09-04",
+    "retrieved_date": "2025-09-04",
+    "retrieved_utc": "2025-09-04T08:55:22Z",
+    "source": "CoinJournal",
+    "title": "Ripple expands RLUSD stablecoin into Africa to power cross-border payments",
+    "url": "https://coinjournal.net/news/ripple-expands-rlusd-stablecoin-into-africa-to-power-cross-border-payments/",
+    "id_key": "ef4b0ee163c01839c8f255134ae0cfa5edc3663c503e3ec23601781b92d16530",
+    "summary": "Ripple has inked key collaborations to roll out its dollar-backed stablecoin across Africa. Chipper Cash, Yellow Card, and VALR will integrate RLUSD to support trading and payments. That signals increasing demand for regulated stablecoins in emerging markets. Ripple has confirmed bringing its institutional-grade stablecoin, RLUSD, to Africa. The blockchain company has collaborated with fintech platform […] The post Ripple expands RLUSD stablecoin into Africa to power cross-border payments appeared first on CoinJournal .",
+    "ingested_utc": "2025-09-04T08:55:22Z"
+  },
+  {
+    "published_utc": "2025-09-04",
+    "retrieved_date": "2025-09-04",
     "retrieved_utc": "2025-09-04T08:45:42Z",
     "source": "FinancialPost_Business",
     "title": "India Lowers Tax on Renewables in Steps to Fight Trump Tariffs",
@@ -10965,38 +10998,5 @@
     "id_key": "21ecfda83e7f9af24b1e1b91ab32885c411d94587ff75459c7bf71e555de44a4",
     "summary": "Prosecutors in Jair Bolsonaro's coup-plotting trial deliver closing arguments this week, with the former Brazilian president facing a possible 40-year sentence.",
     "ingested_utc": "2025-09-02T15:39:34Z"
-  },
-  {
-    "published_utc": "2025-09-02",
-    "retrieved_date": "2025-09-02",
-    "retrieved_utc": "2025-09-02T15:39:24Z",
-    "source": "NYTimes_World",
-    "title": "Gérard Depardieu Is Ordered to Stand Trial Over Rape Accusations",
-    "url": "https://www.nytimes.com/2025/09/02/world/europe/gerard-depardieu-rape-accusations-trial.html",
-    "id_key": "cef0ce538f41decc430b6bab7593aff4281070c75eef6b405692d29ef2328653",
-    "summary": "The actress Charlotte Arnould has accused the French movie icon of raping her twice in 2018 at his home in Paris. He denies wrongdoing.",
-    "ingested_utc": "2025-09-02T15:39:24Z"
-  },
-  {
-    "published_utc": "2025-09-02",
-    "retrieved_date": "2025-09-02",
-    "retrieved_utc": "2025-09-02T15:39:24Z",
-    "source": "NYTimes_World",
-    "title": "Poor Amazon Rains Linked to Brazil Deforestation",
-    "url": "https://www.nytimes.com/2025/09/02/climate/amazon-brazil-drought-rain-deforestation.html",
-    "id_key": "de088945f33534af8eeb4263147b52e66d1fa31699ccf6346c7a8f21c896bac0",
-    "summary": "Deforestation is playing a greater role than researchers expected, according to a new study.",
-    "ingested_utc": "2025-09-02T15:39:24Z"
-  },
-  {
-    "published_utc": "2025-09-02",
-    "retrieved_date": "2025-09-02",
-    "retrieved_utc": "2025-09-02T15:37:33Z",
-    "source": "CryptoNews",
-    "title": "German Fintech Tangany Secures €10M to Expand Regulated Crypto Custody Across Europe",
-    "url": "https://cryptonews.com/news/german-fintech-tangany-secures-10m-to-expand-regulated-crypto-custody-across-europe/",
-    "id_key": "0f810456bcc5bfd0b0a5c0b3c5c2e255db48dcb63157d50c637618c636ebcde5",
-    "summary": "Munich-based digital asset custodian Tangany has raised €10 million in a Series A round to scale its regulated crypto custody infrastructure across Europe. The post German Fintech Tangany Secures €10M to Expand Regulated Crypto Custody Across Europe appeared first on Cryptonews .",
-    "ingested_utc": "2025-09-02T15:37:33Z"
   }
 ]
