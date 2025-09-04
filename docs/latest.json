@@ -2,6 +2,50 @@
   {
     "published_utc": "2025-09-04",
     "retrieved_date": "2025-09-04",
+    "retrieved_utc": "2025-09-04T21:39:57Z",
+    "source": "NYTimes_World",
+    "title": "Macron Said That 26 Countries Would Secure Ukraine",
+    "url": "https://www.nytimes.com/2025/09/04/briefing/macron-ukraine-security-afghanistan-quake-armani.html",
+    "id_key": "ab4aa864c3adf8c89828f51071d09e6d32ed1c745847f64a28d5c44b9c8353e7",
+    "summary": "The pledges were made in Paris at a summit designed to show that Europe is ready to uphold any future peace deal for Ukraine.",
+    "ingested_utc": "2025-09-04T21:39:57Z"
+  },
+  {
+    "published_utc": "2025-09-04",
+    "retrieved_date": "2025-09-04",
+    "retrieved_utc": "2025-09-04T21:39:31Z",
+    "source": "BBC_World",
+    "title": "Teen killed and seven injured in mass stabbing in Canada",
+    "url": "https://www.bbc.com/news/articles/cp8jnrrlvqvo?at_medium=RSS&at_campaign=rss",
+    "id_key": "f6ba386347293a470ac40ccde5e82861a713003a047613a4de49852e8cf792fc",
+    "summary": "Investigators said the 18-year-old killed was the sister of the suspect, who was known to police.",
+    "ingested_utc": "2025-09-04T21:39:31Z"
+  },
+  {
+    "published_utc": "2025-09-04",
+    "retrieved_date": "2025-09-04",
+    "retrieved_utc": "2025-09-04T21:37:50Z",
+    "source": "Blockworks",
+    "title": "Arbitrum kicks off $40M incentive program with focus on leveraged looping",
+    "url": "https://blockworks.co/news/arbitrum-drip-incentive-program",
+    "id_key": "7bea38ff8ca8f48f1d32f0a12b5538dea17e6d66dff239a1e98d94e719020a41",
+    "summary": "Season One of the DeFi Renaissance Incentive Program (DRIP) will distribute up to 24 million ARB to users",
+    "ingested_utc": "2025-09-04T21:37:50Z"
+  },
+  {
+    "published_utc": "2025-09-04",
+    "retrieved_date": "2025-09-04",
+    "retrieved_utc": "2025-09-04T21:37:30Z",
+    "source": "BBC_World",
+    "title": "Sweden accuses Russia of GPS jamming over Baltic Sea",
+    "url": "https://www.bbc.com/news/articles/clyx3ly54veo?at_medium=RSS&at_campaign=rss",
+    "id_key": "2cd76ced590594330dbcdb4e07038c6a5b462cc5f7cd300d63fdfa2475ca2b5e",
+    "summary": "Interferences to satellite navigational systems occur almost daily, aviation officials say.",
+    "ingested_utc": "2025-09-04T21:37:30Z"
+  },
+  {
+    "published_utc": "2025-09-04",
+    "retrieved_date": "2025-09-04",
     "retrieved_utc": "2025-09-04T21:30:46Z",
     "source": "HackerNews_Top",
     "title": "The thousands of atomic bombs exploded on Earth (2015)",
@@ -10954,49 +10998,5 @@
     "id_key": "eacdb72a43cad526c78c9b3e64c7977874169b04bd1525549b6ea3e037c28375",
     "summary": "Some members of Congress are trying to force a vote to make the Trump administration release more of the Jeffrey Epstein files. And, the Trump family's crypto started trading publicly this week.",
     "ingested_utc": "2025-09-03T11:27:31Z"
-  },
-  {
-    "published_utc": "2025-09-03",
-    "retrieved_date": "2025-09-03",
-    "retrieved_utc": "2025-09-03T11:27:06Z",
-    "source": "Guardian_World",
-    "title": "‘It’s been quite a ride!’ Melvyn Bragg to step down from Radio 4’s In Our Time after 27 years",
-    "url": "https://www.theguardian.com/tv-and-radio/2025/sep/03/in-our-time-melvyn-bragg-to-step-down-from-radio-4-role-after-27-years",
-    "id_key": "12362fb9fd9c22756e23c3ceb26081b7bc79814de54014653e86aad6e949b443",
-    "summary": "The broadcaster is leaving the hit BBC programme after presenting more than 1,000 episodes and having ‘enriched the lives of millions’ Melvyn Bragg has announced that he will be leaving BBC Radio 4 show In Our Time after hosting it for 27 years. He launched it in October 1998, after being asked to present a programme during what was known as “the death slot” because of its low Thursday morning audience figures . The show, which explores the characters, events and discoveries that have shaped our world, has proved extremely popular. It celebrated its 1,000th episode in 2023 and is regularly one of the BBC’s most listened to on-demand programmes worldwide. Continue reading...",
-    "ingested_utc": "2025-09-03T11:27:06Z"
-  },
-  {
-    "published_utc": "2025-09-03",
-    "retrieved_date": "2025-09-03",
-    "retrieved_utc": "2025-09-03T11:27:06Z",
-    "source": "Guardian_World",
-    "title": "California bill requires schools to alert families of immigration agents on campuses",
-    "url": "https://www.theguardian.com/us-news/2025/sep/02/california-immigration-enforcement-schools-families",
-    "id_key": "1c7eabe3dd1f5cb1aa029d09427126c4a22b8e733c5392f4416306df505a626f",
-    "summary": "Bill says state and community colleges must have ‘early warning systems in place’ amid Trump’s deportation push California lawmakers have passed a bill requiring schools to alert families and teachers when immigration enforcement authorities are on campuses as the Trump administration continues its aggressive mass deportation campaign. Under the bill, K-12 schools, state universities and community colleges must notify students, faculty and staff, “similar to early warning systems in place for other campus emergencies”, according to a statement from state senator Sasha Renée Pérez, who authored the legislation. Continue reading...",
-    "ingested_utc": "2025-09-03T11:27:06Z"
-  },
-  {
-    "published_utc": "2025-09-03",
-    "retrieved_date": "2025-09-03",
-    "retrieved_utc": "2025-09-03T11:26:39Z",
-    "source": "Teku_Releases",
-    "title": "25.9.1",
-    "url": "https://github.com/Consensys/teku/releases/tag/25.9.1",
-    "id_key": "03c43e8eda1d512562829c06ebd6d09351ff689c8769272c07aef9ee8539b408",
-    "summary": "This is a hotfix release targeting an issue with 25.9.0. We have identified an issue where Teku isn't able to follow the network after upgrading to 25.9.0. Further information is available at https://hackmd.io/@teku/B1lVi-Scxg . If you are on a Debian/Ubuntu system with Grafana installed, this is likely to affect you and you should upgrade to 25.9.1. Key Changes Reverted snappy-java to the previous version to avoid incompatibility with some systems. Downloads Available as 25.9.1 on Dockerhub Download the binary distribution: tar.gz (sha256: 2991d9b528c2dc19a3c4ef92142b43ca9f397398c49bdfc2820c3475b3d967e2 ) zip (sha256: b6a08a9f65772bd1ae23629130d559ab2cbd3b1495df100dd6ddbd9883eb5178 ) Breaking Changes N/A Additions and Improvements N/A Bug Fixes Downgraded snappy library because of musl issue on some nodes. Upcoming Breaking Changes GOSSIP_MAX_SIZE , MAX_CHUNK_SIZE , TTFB_TIMEOUT , and RESP_TIMEOUT configuration variables will NOT be supported after the Fusaka Mainnet release. These variables should be removed from any custom network configs. Read the changelog for 25.9.0 to see all new features and bug fixes added on 25.90: https://github.com/Consensys/teku/releases/tag/25.9.0",
-    "ingested_utc": "2025-09-03T11:26:39Z"
-  },
-  {
-    "published_utc": "2025-09-03",
-    "retrieved_date": "2025-09-03",
-    "retrieved_utc": "2025-09-03T11:26:18Z",
-    "source": "Kraken_Blog",
-    "title": "Kraken #1 in Kaiko’s Q3 2025 exchange ranking: A win built on client-first innovation",
-    "url": "https://blog.kraken.com/news/industry-news/kaiko-q3-2025-ranking",
-    "id_key": "35e55b1ed30fbca2d71c0037e1fb78bada10295a6fd64c3ce3c46a5904a68a1c",
-    "summary": "Every decision we make comes back to one principle: Building the best possible experience for our clients. That’s why we are proud to announce that Kaiko has ranked Kraken as the #1 global crypto exchange for Q3 2025 – our first-ever top finish, completing our steady rise from #3 in Q1 2025 and #2 in […] The post Kraken #1 in Kaiko’s Q3 2025 exchange ranking: A win built on client-first innovation appeared first on Kraken Blog .",
-    "ingested_utc": "2025-09-03T11:26:18Z"
   }
 ]
