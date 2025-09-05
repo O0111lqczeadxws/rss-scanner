@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-09-05",
     "retrieved_date": "2025-09-05",
+    "retrieved_utc": "2025-09-05T07:42:50Z",
+    "source": "FT_Home",
+    "title": "UK retail sales figures revised down for first half of year",
+    "url": "https://www.ft.com/content/1f5181c0-bad1-4004-bc4c-2f2a1f5cfaef",
+    "id_key": "25e8e4ae28ac36416dcfc261bf9a7fe77fc44ef7fe02c5df9c33db0e1dfe2b2c",
+    "summary": "Office for National Statistics admits to failures in compiling the figures",
+    "ingested_utc": "2025-09-05T07:42:50Z"
+  },
+  {
+    "published_utc": "2025-09-05",
+    "retrieved_date": "2025-09-05",
+    "retrieved_utc": "2025-09-05T07:42:38Z",
+    "source": "NYTimes_World",
+    "title": "A Right-Wing Wave in Britain Produces a Teenage Civic Leader",
+    "url": "https://www.nytimes.com/2025/09/05/world/europe/reform-uk-george-finch-warwickshire.html",
+    "id_key": "9104e19fe61b730335a33920a7e39c819a8b55d0323ca111e4a2ff249dd7dc05",
+    "summary": "As Reform U.K. meets for its annual conference, the experience of its youngest municipal leader, George Finch, shows a party trying to combine caution and provocation.",
+    "ingested_utc": "2025-09-05T07:42:38Z"
+  },
+  {
+    "published_utc": "2025-09-05",
+    "retrieved_date": "2025-09-05",
     "retrieved_utc": "2025-09-05T07:31:27Z",
     "source": "FinancialPost_Business",
     "title": "Japan to Hike Minimum Pay by Record, Backing BOJ’s Rate Hikes",
@@ -10976,27 +10998,5 @@
     "id_key": "f8565f1b975012326ecc1a8ece269cffa375c31cf3134c95f4222893869d56ab",
     "summary": "The parade, attended by the leaders of Russia and North Korea, had a defiant message. President Trump fired back, accusing Xi Jinping of ignoring America’s role in World War II.",
     "ingested_utc": "2025-09-03T15:36:47Z"
-  },
-  {
-    "published_utc": "2025-09-03",
-    "retrieved_date": "2025-09-03",
-    "retrieved_utc": "2025-09-03T15:36:39Z",
-    "source": "MarketWatch_Bulletins",
-    "title": "Chevron and Boeing are sharpest decliners as Dow falls 150 points",
-    "url": "https://www.marketwatch.com/bulletins/redirect/go?g=0058b354-9de0-4c24-a838-523e0e73b41f&mod=mw_rss_bulletins",
-    "id_key": "82544c2882c5a496dd8d3981ac952d2b6f95f1f66b1d90b5ee29745e6c4263ad",
-    "summary": "",
-    "ingested_utc": "2025-09-03T15:36:39Z"
-  },
-  {
-    "published_utc": "2025-09-03",
-    "retrieved_date": "2025-09-03",
-    "retrieved_utc": "2025-09-03T15:34:52Z",
-    "source": "CoinJournal",
-    "title": "Why Solana ecosystem entity card trading platform Collector Crypt token price is soaring",
-    "url": "https://coinjournal.net/news/why-solana-ecosystem-entity-card-trading-platform-collector-crypt-token-price-is-soaring/",
-    "id_key": "b628cf73daaaa199d273d02fa06bc230c585f9ad21cbb78d08a3e388e1f69682",
-    "summary": "Collector Crypt (CARDS) token has surged over 600% and its market cap has surpassed $45M in a little over two days. The Collector Crypt platform offers tokenised card trading with instant buybacks. The platform has processed $145M+ in transactions, earning a gross revenue $9.65 million so far. The Solana-based card trading platform Collector Crypt has […] The post Why Solana ecosystem entity card trading platform Collector Crypt token price is soaring appeared first on CoinJournal .",
-    "ingested_utc": "2025-09-03T15:34:52Z"
   }
 ]
