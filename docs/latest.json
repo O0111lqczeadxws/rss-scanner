@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-09-05",
     "retrieved_date": "2025-09-05",
+    "retrieved_utc": "2025-09-05T04:52:50Z",
+    "source": "FinancialPost_Business",
+    "title": "Hanwha Ocean Affiliate Sells $1 Billion Stake After Stock Triples",
+    "url": "https://financialpost.com/pmn/business-pmn/hanwha-ocean-affiliate-sells-1-billion-stake-after-stock-triples",
+    "id_key": "798c7fbc8677b020446bc39af8adeb45fab6a0fbf628e7fe71fbf486e41db12f",
+    "summary": "A Hanwha Ocean Co. affiliate sold its stake in the South Korean shipbuilder, raising about 1.4 trillion won ($1 billion), after the company’s shares more than tripled over the past year.",
+    "ingested_utc": "2025-09-05T04:52:50Z"
+  },
+  {
+    "published_utc": "2025-09-05",
+    "retrieved_date": "2025-09-05",
+    "retrieved_utc": "2025-09-05T04:52:43Z",
+    "source": "AlJazeera_All",
+    "title": "Pentagon warns Venezuela as 2 military aircraft fly near US Navy ship",
+    "url": "https://www.aljazeera.com/news/2025/9/5/pentagon-warns-venezuela-as-2-military-aircraft-fly-near-us-navy-ship?traffic_source=rss",
+    "id_key": "47e1fa63389bfa10305c2e2558383e5c5fad5f850b9fa963824d6c14dda03c9c",
+    "summary": "Defense Department says 'two Maduro regime military aircraft' flew near US warship in a 'highly provocative' move.",
+    "ingested_utc": "2025-09-05T04:52:43Z"
+  },
+  {
+    "published_utc": "2025-09-05",
+    "retrieved_date": "2025-09-05",
+    "retrieved_utc": "2025-09-05T04:49:32Z",
+    "source": "BBC_Business",
+    "title": "Lululemon shares slide as tariffs and weaker sales take their toll",
+    "url": "https://www.bbc.com/news/articles/cy9n4e1g1gyo?at_medium=RSS&at_campaign=rss",
+    "id_key": "f5b17f309bd2a79fbbc277c52da24bb81cadabb1076510996d14f3a6348471f4",
+    "summary": "The athleisure company also faces rising competition from copycats and other sportwear brands.",
+    "ingested_utc": "2025-09-05T04:49:32Z"
+  },
+  {
+    "published_utc": "2025-09-05",
+    "retrieved_date": "2025-09-05",
     "retrieved_utc": "2025-09-05T04:42:42Z",
     "source": "FinancialPost_Business",
     "title": "The cork in your wine bottle is one of very few products that dodged Trump’s tariffs",
@@ -669,6 +702,17 @@
     "id_key": "1bf10ed72e3ed84ae4171fede30a46d833e71f0d2347dcd2fdf27711ce9338ac",
     "summary": "The secretary of state made the comments during a trip to Ecuador, where he announced new measures targeting criminal gangs.",
     "ingested_utc": "2025-09-05T03:06:34Z"
+  },
+  {
+    "published_utc": "2025-09-04",
+    "retrieved_date": "2025-09-05",
+    "retrieved_utc": "2025-09-05T04:49:31Z",
+    "source": "BBC_World",
+    "title": "Moscow rejects Western security guarantees for Ukraine",
+    "url": "https://www.bbc.com/news/articles/czxwl15w2qko?at_medium=RSS&at_campaign=rss",
+    "id_key": "f232e368659d23b975931408224767473b81bdfd68e5b1c1589f063b63f7260a",
+    "summary": "The Kremlin's refusal comes after 26 dozen countries pledged to deploy troops to Ukraine in the event of a ceasefire.",
+    "ingested_utc": "2025-09-05T04:49:31Z"
   },
   {
     "published_utc": "2025-09-04",
@@ -10954,49 +10998,5 @@
     "id_key": "7f89c3c69c32d80b03ddbde88a7b3f2be19932be5926a4e70149f8a67f63315b",
     "summary": "Trimont LLC, a commercial real estate loan servicer, has started using JPMorgan’s blockchain platform to speed up and automate loan payment processing. The post Real Estate Lender Trimont Taps JPMorgan’s Blockchain to Automate Loan Payments appeared first on Cryptonews .",
     "ingested_utc": "2025-09-03T14:38:50Z"
-  },
-  {
-    "published_utc": "2025-09-03",
-    "retrieved_date": "2025-09-03",
-    "retrieved_utc": "2025-09-03T14:38:46Z",
-    "source": "CryptoSlate",
-    "title": "Something unusual is building in $9.81 billion of Bitcoin futures flows and it could break either way",
-    "url": "https://cryptoslate.com/something-unusual-is-building-in-9-81-billion-of-bitcoin-futures-flows-and-it-could-break-either-way/",
-    "id_key": "5c6995cc10905b287c88e71cea95a715e43485203553eb633f4d85298ca857cc",
-    "summary": "Bitcoin’s derivatives market entered September with a split message: traders are taking on more positions, but the balance of trading activity is leaning against price strength. Open interest climbed to $41.19 billion on September 3, an increase of $1.02 billion over the past month. At the same time, Bitcoin’s spot price slipped below $110,000. This […] The post Something unusual is building in $9.81 billion of Bitcoin futures flows and it could break either way appeared first on CryptoSlate .",
-    "ingested_utc": "2025-09-03T14:38:46Z"
-  },
-  {
-    "published_utc": "2025-09-03",
-    "retrieved_date": "2025-09-03",
-    "retrieved_utc": "2025-09-03T14:38:42Z",
-    "source": "Blockworks",
-    "title": "Winklevoss Capital and Nakamoto Holdings back $147M bitcoin treasury",
-    "url": "https://blockworks.co/news/winklevoss-nakamoto-147m-bitcoin-treasury",
-    "id_key": "93b2aa6ca6c9e1289a01be111892351ff96128dd3548c63009e3eea7848a06a6",
-    "summary": "The new Amsterdam-listed entity aims to become Europe’s leading Bitcoin treasury with over 1,000 BTC already secured",
-    "ingested_utc": "2025-09-03T14:38:42Z"
-  },
-  {
-    "published_utc": "2025-09-03",
-    "retrieved_date": "2025-09-03",
-    "retrieved_utc": "2025-09-03T14:38:26Z",
-    "source": "Guardian_World",
-    "title": "‘Let him come to Moscow,’ Putin says about peace talks with Zelenskyy as Polish president prepares to meet Donald Trump – Europe live",
-    "url": "https://www.theguardian.com/world/live/2025/sep/03/volodymyr-zelenskyy-denmark-support-ukraine-karol-nawrocki-meet-donald-trump-europe-latest-updates-news",
-    "id_key": "caf1f27908fa3c0b05f3d7cafde469c1a77d5e84149046642881461c8b4795ab",
-    "summary": "Russian president questions legitimacy of Ukrainian government as Zelenskyy ramps up diplomatic efforts with Nordic and Baltic leaders in Denmark Putin was also asked about the prospect of more EU sanctions against Russia or its allies, including China and India. He said the leaders did not discuss this during their recent conversations. “ I think there’s a light at the end of the tunnel. We will see. Otherwise, we will be forced to resolve all our objective objectives through military means. ” Continue reading...",
-    "ingested_utc": "2025-09-03T14:38:26Z"
-  },
-  {
-    "published_utc": "2025-09-03",
-    "retrieved_date": "2025-09-03",
-    "retrieved_utc": "2025-09-03T14:38:26Z",
-    "source": "Guardian_World",
-    "title": "Justice secretary suggests Jenrick risked collapse of murder trial with tweet",
-    "url": "https://www.theguardian.com/politics/2025/sep/03/justice-secretary-suggests-jenrick-risked-collapse-of-trial-with-tweet",
-    "id_key": "e711d70a388abce5402a5a3e9515ed87d6d749444670d774b076c607443d5ce8",
-    "summary": "Judge said shadow justice secretary’s comments during trial of Elias Morgan were ‘ill thought through’ The justice secretary, Shabana Mahmood, has suggested that her Tory counterpart, Robert Jenrick, was guilty of “risking the collapse of trial”, after he was criticised in court for tweeting about a criminal case. Jenrick, the shadow justice secretary, posted on social media about a murder trial a week after it had begun, making comments that the judge said were “ill thought through”. Continue reading...",
-    "ingested_utc": "2025-09-03T14:38:26Z"
   }
 ]
