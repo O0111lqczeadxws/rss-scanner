@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-09-05",
     "retrieved_date": "2025-09-05",
+    "retrieved_utc": "2025-09-05T11:50:13Z",
+    "source": "Engadget_All",
+    "title": "OpenAI is reportedly producing its own AI chips starting next year",
+    "url": "https://www.engadget.com/ai/openai-is-reportedly-producing-its-own-ai-chips-starting-next-year-113924707.html?src=rss",
+    "id_key": "b1c49f2f032b291b354367cc668b097b2205b9011c07e8153afa0f41a0720b9f",
+    "summary": "OpenAI is gearing up to start the mass production of its own AI chips next year to be able to provide the massive computing power its users need and to lessen its reliance on NVIDIA, according to the Financial Times . The company reportedly designed the custom AI chip with US semiconductor maker Broadcom, whose CEO recently announced that it has a new client that put in a whopping $10 billion in orders. It didn't name the client, but the Times ' sources confirmed that it was OpenAI, which apparently doesn't have plans to sell the chips and will only be using them internally. Reuters reported way back in 2023 that OpenAI was already exploring the possibility of making its own AI chips after Sam Altman blamed GPU shortages for the company API's speed and reliability. The news organization also previously reported that OpenAI was working with both Broadcom and Taiwan Semiconductor Manufacturing Co. (TSMC) to create its own product. The Times didn't say whether OpenAI still has an ongoing partnership with TSMC. After GPT-5 came out, Altman announced the changes OpenAI is implementing in order to keep up with \"increased demand.\" In addition to prioritizing paid ChatGPT users, he said that OpenAI was going to double its compute fleet \"over the next 5 months.\" Making its own chips will address any potential GPU shortages the company may encounter in doubling its fleet, and it could also save the company money. The Times says custom AI chips called \"XPUs\" like the one OpenAI is reportedly developing will eventually take a big share of the AI market. At the moment, NVIDIA is still the leading name in the industry. It recently revealed that its revenue for the second quarter ending on July 27 rose 56 percent compared to the same period last year, and it didn't even have to ship any H20 chips to China. This article originally appeared on Engadget at https://www.engadget.com/ai/openai-is-reportedly-producing-its-own-ai-chips-starting-next-year-113924707.html?src=rss",
+    "ingested_utc": "2025-09-05T11:50:13Z"
+  },
+  {
+    "published_utc": "2025-09-05",
+    "retrieved_date": "2025-09-05",
+    "retrieved_utc": "2025-09-05T11:50:08Z",
+    "source": "TheVerge_All",
+    "title": "Google leaks its own new Nest Cams and Doorbell",
+    "url": "https://www.theverge.com/news/772414/google-nest-cam-outdoor-indoor-doorbell-home-app-leak",
+    "id_key": "aaa69b22aa053e94087ded29411126ebea5fc5d5d7bda250b439cce9475e1b9f",
+    "summary": "Google is its own worst enemy: the company appears to have leaked three upcoming Nest smart home products in its own app. Wired versions of the Nest Cam Indoor (3rd gen), Nest Cam Outdoor (2nd gen), and Nest Doorbell (3rd gen) have all appeared as setup options in Google Home ahead of their expected launch […]",
+    "ingested_utc": "2025-09-05T11:50:08Z"
+  },
+  {
+    "published_utc": "2025-09-05",
+    "retrieved_date": "2025-09-05",
     "retrieved_utc": "2025-09-05T11:41:00Z",
     "source": "FinancialPost_Business",
     "title": "Theratechnologies Announces Availability of EGRIFTA WR™ (tesamorelin) for injection to Reduce Excess Abdominal Fat in Adults with HIV and Lipodystrophy",
@@ -10976,27 +10998,5 @@
     "id_key": "e15baabe2797a8fe608dca880f50b246eb77a48ae27cfe0153e9045252b763f8",
     "summary": "Why evil histories sell. A visit to Hitler's bunker, and a deep dive into the economics and ethical quandaries of \"dark tourism.\"",
     "ingested_utc": "2025-09-03T18:53:59Z"
-  },
-  {
-    "published_utc": "2025-09-03",
-    "retrieved_date": "2025-09-03",
-    "retrieved_utc": "2025-09-03T18:53:51Z",
-    "source": "NYTimes_World",
-    "title": "In a ‘Hot Mic’ Moment, Xi and Putin Muse About Immortality and Organ Transplants",
-    "url": "https://www.nytimes.com/2025/09/03/world/europe/putin-xi-immortality-organ-transplants.html",
-    "id_key": "a99259fdee47abe5de336fa15fa38cf9665abd464e04d5bd03254cfb47beab7b",
-    "summary": "Medical advances and geopolitics collide for two septuagenarian leaders who have suggested that their time in office is far from over.",
-    "ingested_utc": "2025-09-03T18:53:51Z"
-  },
-  {
-    "published_utc": "2025-09-03",
-    "retrieved_date": "2025-09-03",
-    "retrieved_utc": "2025-09-03T18:53:51Z",
-    "source": "NYTimes_World",
-    "title": "Xi Parades Military Strength as Trump Accuses Him of Conspiring With Putin and Kim",
-    "url": "https://www.nytimes.com/2025/09/02/world/asia/xi-putin-kim-parade.html",
-    "id_key": "64912cf69fe8c39162cb3698372b6e32b66b9c00ccb52d3bdc45f5b8278ab85f",
-    "summary": "The parade, attended by the leaders of Russia and North Korea, had a defiant message. President Trump fired back, accusing Xi Jinping of ignoring America’s role in World War II.",
-    "ingested_utc": "2025-09-03T18:53:51Z"
   }
 ]
