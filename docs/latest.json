@@ -2,6 +2,50 @@
   {
     "published_utc": "2025-09-06",
     "retrieved_date": "2025-09-06",
+    "retrieved_utc": "2025-09-06T23:29:07Z",
+    "source": "HackerNews_Top",
+    "title": "Shipping textures as PNGs is suboptimal",
+    "url": "https://gamesbymason.com/blog/2025/stop-shipping-pngs/",
+    "id_key": "b65bb75e6afeb8e749de53721ea75e76aadf96cd2d6843dbeddcafa9c583c110",
+    "summary": "Comments",
+    "ingested_utc": "2025-09-06T23:29:07Z"
+  },
+  {
+    "published_utc": "2025-09-06",
+    "retrieved_date": "2025-09-06",
+    "retrieved_utc": "2025-09-06T23:28:59Z",
+    "source": "Nikkei_Asia_Top",
+    "title": "A tour of Vietnam's World Heritage Sites",
+    "url": "https://asia.nikkei.com/life-arts/life/destinations/a-tour-of-vietnam-s-world-heritage-sites",
+    "id_key": "cca074b5c9730f9c3c62864da33a17d4ba86d9990b555b9d6e5d6a0942825b97",
+    "summary": "",
+    "ingested_utc": "2025-09-06T23:28:59Z"
+  },
+  {
+    "published_utc": "2025-09-06",
+    "retrieved_date": "2025-09-06",
+    "retrieved_utc": "2025-09-06T23:27:54Z",
+    "source": "NYTimes_Business",
+    "title": "American Eagle Sales Fall Slightly After Sydney Sweeney Ad",
+    "url": "https://www.nytimes.com/2025/09/05/business/american-eagle-sydney-sweeney-ad-earnings.html",
+    "id_key": "d4475e73d6ab8495720522513699f73c6513a5d3f6ce6fc1fceeb77c869d76e6",
+    "summary": "The second quarter ended nine days after the ad was released, leaving little time to see the full impact of the campaign.",
+    "ingested_utc": "2025-09-06T23:27:54Z"
+  },
+  {
+    "published_utc": "2025-09-06",
+    "retrieved_date": "2025-09-06",
+    "retrieved_utc": "2025-09-06T23:25:34Z",
+    "source": "Guardian_World",
+    "title": "Postal traffic into US plunges by more than 80% after Trump ends exemption",
+    "url": "https://www.theguardian.com/us-news/2025/sep/06/postal-traffic-us-plunges",
+    "id_key": "42cd5ace9acf9d7db42feaf2bc571d0e765a5f0d849948d7abf169f0673b806e",
+    "summary": "Dozens of operators have suspended service to the US until a solution is implemented on parcels worth $800 or less Postal traffic into the United States plunged by more than 80% after the Trump administration ended a tariff exemption for low-cost imports, the United Nations postal agency said Saturday. The Universal Postal Union says it has started rolling out new measures that can help postal operators around the world calculate and collect duties, or taxes, after the US eliminated the so-called “de minimis exemption” for lower-value parcels. Continue reading...",
+    "ingested_utc": "2025-09-06T23:25:34Z"
+  },
+  {
+    "published_utc": "2025-09-06",
+    "retrieved_date": "2025-09-06",
     "retrieved_utc": "2025-09-06T22:40:31Z",
     "source": "Guardian_World",
     "title": "Shabana Mahmood expected to unveil plans to move asylum seekers from hotels to barracks",
@@ -10954,49 +10998,5 @@
     "id_key": "b565d2fba6d7776657a18ac7656708f13a5efd067fdac282dfd546adca7f4e0a",
     "summary": "Dyson is launching a new air purifier that’s designed to look — but thankfully, not sound — like a jet engine. The Dyson HushJet Purifier Compact is launching in the US on September 30th for $349.99, featuring a new nozzle design that’s shaped to help the device blast jets of air at high speed, similar […]",
     "ingested_utc": "2025-09-04T16:47:09Z"
-  },
-  {
-    "published_utc": "2025-09-04",
-    "retrieved_date": "2025-09-04",
-    "retrieved_utc": "2025-09-04T16:47:09Z",
-    "source": "TheVerge_All",
-    "title": "Google Photos now lets you animate your camera roll with Veo 3 for free",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/771630/google-photos-veo3-video-animate-camera-roll",
-    "id_key": "2518288a68706d5c6108d82b01c2b34727d6181905ec597803c2a002f4e1e052",
-    "summary": "Google is adding Veo 3 software capabilities to its video generation feature for Google Photos. US-based users can turn static images into four-second videos by clicking either the \"Subtle movements\" or, for the more adventurous, the \"I'm feeling lucky\" options under the Create tab in Google Photos. According to Google spokesperson Michael Marconi, you can […]",
-    "ingested_utc": "2025-09-04T16:47:09Z"
-  },
-  {
-    "published_utc": "2025-09-04",
-    "retrieved_date": "2025-09-04",
-    "retrieved_utc": "2025-09-04T16:47:09Z",
-    "source": "TechCrunch_All",
-    "title": "Google Photos upgrades its image-to-video feature with Veo 3",
-    "url": "https://techcrunch.com/2025/09/04/google-photos-adds-ai-video-generation-with-veo-3/",
-    "id_key": "8eb4a160969c2a9d364fc7a7695e79b3549ef6379b0a5d9e03aaeaa5c9f070ca",
-    "summary": "Google Photos' photo-to-video feature is being upgraded with Google's latest video-generation model, Veo 3.",
-    "ingested_utc": "2025-09-04T16:47:09Z"
-  },
-  {
-    "published_utc": "2025-09-04",
-    "retrieved_date": "2025-09-04",
-    "retrieved_utc": "2025-09-04T16:46:52Z",
-    "source": "FT_Home",
-    "title": "Citi to tap BlackRock for top clients’ wealth management",
-    "url": "https://www.ft.com/content/c1f2b37a-b492-4d8a-a0a0-fd4b077ef0fb",
-    "id_key": "5db64c2758441ec046adc32a16d86845fcdc3eb218cb9ff9e69e480b416f3257",
-    "summary": "Wall Street bank to draw on asset manager’s expertise to oversee $80bn in client assets",
-    "ingested_utc": "2025-09-04T16:46:52Z"
-  },
-  {
-    "published_utc": "2025-09-04",
-    "retrieved_date": "2025-09-04",
-    "retrieved_utc": "2025-09-04T16:46:33Z",
-    "source": "MarketWatch_Bulletins",
-    "title": "More people with six-figure incomes are shopping at Dollar General, Dollar Tree",
-    "url": "https://www.marketwatch.com/bulletins/redirect/go?g=e34ca108-d317-437c-bdbe-c8d0db543768&mod=mw_rss_bulletins",
-    "id_key": "018ba7b9aacd124aed53e691501bb3bdb855f3db4484a10ee1b0032b4b296891",
-    "summary": "",
-    "ingested_utc": "2025-09-04T16:46:33Z"
   }
 ]
