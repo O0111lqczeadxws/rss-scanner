@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-09-06",
     "retrieved_date": "2025-09-06",
+    "retrieved_utc": "2025-09-06T20:39:36Z",
+    "source": "Guardian_World",
+    "title": "More than 425 arrested as protesters defy ban on Palestine Action in London",
+    "url": "https://www.theguardian.com/world/2025/sep/06/police-make-arrests-at-london-palestine-action-ban-protest",
+    "id_key": "a7f274146c47f8217ae4d9e10717dededfb88fbd0cad055100635af2fa8b22d0",
+    "summary": "Police say offences include assault and support for a proscribed group as 1,500 defied ban in Parliament Square More than 425 people have been arrested at the largest demonstration yet opposing the proscription of Palestine Action. Defend Our Juries, who organised the demonstrations, said there were 1,500 sign-holders in Parliament Square on Saturday at a fresh protest in London against the ban. At the previous major demonstration last month, 532 people were arrested for taking part. Participants gathered in Parliament Square by 1pm, many holding signs that read: “I oppose genocide. I support Palestine Action.” Continue reading...",
+    "ingested_utc": "2025-09-06T20:39:36Z"
+  },
+  {
+    "published_utc": "2025-09-06",
+    "retrieved_date": "2025-09-06",
     "retrieved_utc": "2025-09-06T20:32:11Z",
     "source": "FinancialPost_Business",
     "title": "French Upheaval Overshadows ECB’s Queasy Interest-Rate Hold",
@@ -10987,16 +10998,5 @@
     "id_key": "62eed1b186956acd9fff137e19180605a0e528f877e7e2d4e2fd30787666db30",
     "summary": "Lambda, which allows companies to rent GPUs, is reportedly following its rival CoreWeave to the public market.",
     "ingested_utc": "2025-09-04T15:51:47Z"
-  },
-  {
-    "published_utc": "2025-09-04",
-    "retrieved_date": "2025-09-04",
-    "retrieved_utc": "2025-09-04T15:51:46Z",
-    "source": "TheVerge_All",
-    "title": "The best stuff announced at IFA so far",
-    "url": "https://www.theverge.com/news/769573/ifa-2025-smart-home-lights-power-bank-robot-vacuum-ai-headphones",
-    "id_key": "e5006ecade1ba82de2c26a24432fce0da03a9faaed09f128aa20d4e9b4f16df8",
-    "summary": "The doors to IFA 2025 at Messe Berlin don’t officially open to the public until tomorrow, but several companies have already announced new gadgets, tech, features, and upgrades as Europe’s largest consumer tech show gets underway. There’s a lot of news to stay on top of, and if you’re struggling to ingest it all, here […]",
-    "ingested_utc": "2025-09-04T15:51:46Z"
   }
 ]
