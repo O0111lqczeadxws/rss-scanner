@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-09-06",
     "retrieved_date": "2025-09-06",
+    "retrieved_utc": "2025-09-06T15:49:31Z",
+    "source": "NYTimes_World",
+    "title": "With Jair Bolsonaro on Trial, Brazil Braces for U.S. Sanctions",
+    "url": "https://www.nytimes.com/2025/09/05/world/americas/bolsonaro-trial-us-brazil-sanctions.html",
+    "id_key": "d7528cb50fa4e0b2fdfe7a1acd7a80c4f059e67522db1af221e0a0a61e393220",
+    "summary": "While the Supreme Court weighs the fate of the former president on charges of plotting a coup, Brazil’s government is preparing for more penalties.",
+    "ingested_utc": "2025-09-06T15:49:31Z"
+  },
+  {
+    "published_utc": "2025-09-06",
+    "retrieved_date": "2025-09-06",
+    "retrieved_utc": "2025-09-06T15:49:30Z",
+    "source": "NYTimes_Business",
+    "title": "A Second Weak Jobs Report Challenges Trump’s Claim the Economy Is Booming",
+    "url": "https://www.nytimes.com/2025/09/05/us/politics/trump-jobs-report-tariffs-deportations.html",
+    "id_key": "97c622e9ae6bb4939878a896b0d5a048bfb897c70928d78710c9fa08f3e807a6",
+    "summary": "After a bad employment report in August, President Trump fired the official in charge of the numbers. This month’s data was just as disappointing.",
+    "ingested_utc": "2025-09-06T15:49:30Z"
+  },
+  {
+    "published_utc": "2025-09-06",
+    "retrieved_date": "2025-09-06",
     "retrieved_utc": "2025-09-06T15:38:30Z",
     "source": "Guardian_World",
     "title": "Trump’s former surgeon general urges president to fire RFK Jr over vaccine policy and CDC chaos",
@@ -10976,27 +10998,5 @@
     "id_key": "1dc46d837a4920711723361f1e87f6de5959e6785eb036713c3ea72b5acfd75b",
     "summary": "The streetcar's crumpled wreckage was still on the downtown road where it crashed Thursday. Officials declined to speculate on whether a faulty brake or a snapped cable may have caused the accident.",
     "ingested_utc": "2025-09-04T14:51:39Z"
-  },
-  {
-    "published_utc": "2025-09-04",
-    "retrieved_date": "2025-09-04",
-    "retrieved_utc": "2025-09-04T14:51:37Z",
-    "source": "NPR_Top",
-    "title": "Fashion designer Giorgio Armani, whose name became synonymous with luxury, dies at 91",
-    "url": "https://www.npr.org/2025/09/04/1110320559/giorgio-armani-dead",
-    "id_key": "7f29aa161e449529aa65a94f06e18f52028f79382c74265f0f4bd59dfa584f8d",
-    "summary": "Armani's clothes highlight the body as an object of art. Celebrities have flaunted his fashion on red carpets for decades. He revolutionized the suit jacket, with casual silhouettes and softer colors.",
-    "ingested_utc": "2025-09-04T14:51:37Z"
-  },
-  {
-    "published_utc": "2025-09-04",
-    "retrieved_date": "2025-09-04",
-    "retrieved_utc": "2025-09-04T14:49:14Z",
-    "source": "Guardian_World",
-    "title": "RFK Jr defends chaos at federal health agencies as Democratic senators attack his ‘disaster’ tenure – live updates",
-    "url": "https://www.theguardian.com/us-news/live/2025/sep/04/donald-trump-tariffs-immigration-technology-epstein-us-politics-live-news-updates",
-    "id_key": "23476e38ba6b99b110c61aa7891f0903597069d71605cd2cf433948cbe9ecfbc",
-    "summary": "Trump’s health secretary faces tough questions on about department layoffs and budget cuts amid scrutiny over his plans to ‘make America healthy again’ Health secretary Robert F Kennedy Jr will appear before a congressional committee on Thursday, where he’s expected to face questions about turmoil at federal health agencies. The US Senate finance committee has called Kennedy to a hearing about his plans to “Make America Healthy Again”. Continue reading...",
-    "ingested_utc": "2025-09-04T14:49:14Z"
   }
 ]
