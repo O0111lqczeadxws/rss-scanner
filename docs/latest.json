@@ -2,6 +2,50 @@
   {
     "published_utc": "2025-09-06",
     "retrieved_date": "2025-09-06",
+    "retrieved_utc": "2025-09-06T19:50:46Z",
+    "source": "Nikkei_Asia_Top",
+    "title": "Japan Coast Guard to adopt Starlink satellite service",
+    "url": "https://asia.nikkei.com/politics/defense/japan-coast-guard-to-adopt-starlink-satellite-service",
+    "id_key": "2918d34637c3f3d8e95790f0558dde578f79f244add24162136ef286028207e5",
+    "summary": "",
+    "ingested_utc": "2025-09-06T19:50:46Z"
+  },
+  {
+    "published_utc": "2025-09-06",
+    "retrieved_date": "2025-09-06",
+    "retrieved_utc": "2025-09-06T19:50:30Z",
+    "source": "TheStreet_Top",
+    "title": "2 trucking companies file Chapter 11 bankruptcy, another closes",
+    "url": "https://www.thestreet.com/retail/another-troubled-shipping-company-files-chapter-11-bankruptcy",
+    "id_key": "67c542f5679284e330bf34323f8899aa7e07057ad6fc093d3acc79a4d00c0a16",
+    "summary": "Trucking and shipping demand has fallen, putting multiple trucking companies on the edge of going out of business.",
+    "ingested_utc": "2025-09-06T19:50:30Z"
+  },
+  {
+    "published_utc": "2025-09-06",
+    "retrieved_date": "2025-09-06",
+    "retrieved_utc": "2025-09-06T19:49:51Z",
+    "source": "NPR_Top",
+    "title": "ICE arrests at a Georgia Hyundai plant create new tension with South Korea",
+    "url": "https://www.npr.org/2025/09/06/nx-s1-5532604/hyundai-immigration-raid-georgia-south-korea",
+    "id_key": "51badf6182a2cd5b9cb1abc50aa9d7998edc38eb74dc9118e187bc52cfea8e21",
+    "summary": "South Korea's foreign minister is considering a trip to the U.S. to meet with the Trump administration after hundreds of South Koreans were arrested in Georgia at an electric vehicle battery plant.",
+    "ingested_utc": "2025-09-06T19:49:51Z"
+  },
+  {
+    "published_utc": "2025-09-06",
+    "retrieved_date": "2025-09-06",
+    "retrieved_utc": "2025-09-06T19:47:26Z",
+    "source": "Guardian_World",
+    "title": "About 300 arrested as protesters defy ban on Palestine Action in London",
+    "url": "https://www.theguardian.com/world/2025/sep/06/police-make-arrests-at-london-palestine-action-ban-protest",
+    "id_key": "9b610a0a24078b1f259be90327c351fdc87bbc50a42ac0e25bcdc61800b3e1f3",
+    "summary": "Police say offences include assault and support for a proscribed group as 1,500 defied ban in Parliament Square About 300 people have been arrested at the largest demonstration yet opposing the proscription of Palestine Action. Defend Our Juries, who organised the demonstrations, said there were 1,500 sign-holders in Parliament Square on Saturday at a fresh protest in London against the ban. At the previous major demonstration last month, 532 people were arrested for taking part. Participants gathered in Parliament Square by 1pm, many holding signs that read: “I oppose genocide. I support Palestine Action.” Continue reading...",
+    "ingested_utc": "2025-09-06T19:47:26Z"
+  },
+  {
+    "published_utc": "2025-09-06",
+    "retrieved_date": "2025-09-06",
     "retrieved_utc": "2025-09-06T19:23:29Z",
     "source": "HackerNews_Top",
     "title": "Ghost sharks grow forehead teeth to help them have sex",
@@ -1813,6 +1857,17 @@
     "id_key": "f17132d4d25b2fc468654742d8b7f26c932e78adc0df1de41c3f08d8ec476ce6",
     "summary": "US president mistakes scale of anti-Ice rallies after TV report uses old footage from George Floyd demonstrations Donald Trump told reporters on Friday that he might send national guard troops into Portland, Oregon, apparently because he was misled about the scale of small protests outside an immigration detention facility there by a TV report that incorrectly presented video recorded during a protest in 2020 as having taken place in the city this summer. “I will say this, I watched today, I didn’t know that was continuing to go on, but Portland is unbelievable, what’s going on,” Trump said . He then claimed, incorrectly, that he had seen video evidence of “the destruction of the city”. Continue reading...",
     "ingested_utc": "2025-09-06T03:00:52Z"
+  },
+  {
+    "published_utc": "2025-09-05",
+    "retrieved_date": "2025-09-06",
+    "retrieved_utc": "2025-09-06T19:49:52Z",
+    "source": "NPR_Economy",
+    "title": "Etsy sellers are being hit hard by tariffs and the end of the de minimis rule",
+    "url": "https://www.npr.org/2025/09/05/nx-s1-5522054/etsy-sellers-de-minimus-canada-tariffs",
+    "id_key": "00687fd6ab07f345f70599b57bc99c7388aa4aa05ccf8c51a083a99a1e2dfaa4",
+    "summary": "For years, the U.S. was essentially \"an extension of our domestic market,\" says an Etsy seller in Canada. But now the rules and costs are far more imposing.",
+    "ingested_utc": "2025-09-06T19:49:52Z"
   },
   {
     "published_utc": "2025-09-05",
@@ -10943,60 +10998,5 @@
     "id_key": "52ef8c59042a5bd5b24b4d81ca233ba40b731c870f1e9ba5b34a7a5f43c545ee",
     "summary": "Bitwise's ETP launch in Switzerland signals growing European crypto investment interest, potentially influencing global market dynamics. The post Bitwise debuts Bitcoin, Ether, XRP, and Solana ETPs on Switzerland’s main stock exchange appeared first on Crypto Briefing .",
     "ingested_utc": "2025-09-04T15:49:16Z"
-  },
-  {
-    "published_utc": "2025-09-04",
-    "retrieved_date": "2025-09-04",
-    "retrieved_utc": "2025-09-04T15:49:13Z",
-    "source": "BitcoinMagazine",
-    "title": "An Excerpt From Bitcoin Circular Economies: The Impact",
-    "url": "https://bitcoinmagazine.com/bitcoin-books/an-excerpt-from-bitcoin-circular-economies-the-impact",
-    "id_key": "9dd7d30de13cc618f4038f12b19c7a7fb0e8c4290f4e9f538abd18cbd6c5119f",
-    "summary": "Bitcoin Magazine An Excerpt From Bitcoin Circular Economies: The Impact This excerpt from Bitcoin Circular Economies shows how a circular economy powered by Bitcoin can spark social and economic renewal. This post An Excerpt From Bitcoin Circular Economies: The Impact first appeared on Bitcoin Magazine and is written by Gabriel Kurman .",
-    "ingested_utc": "2025-09-04T15:49:13Z"
-  },
-  {
-    "published_utc": "2025-09-04",
-    "retrieved_date": "2025-09-04",
-    "retrieved_utc": "2025-09-04T15:48:54Z",
-    "source": "Guardian_World",
-    "title": "Macron says ‘Coalition of the Willing’ will finalise ‘robust’ Ukrainian security guarantees – as it happened",
-    "url": "https://www.theguardian.com/world/live/2025/sep/04/ukraine-russia-security-guarantees-coalition-of-the-willing-paris-europe-live-news-updates",
-    "id_key": "06c720c8dd342bb5673b48873629f5f862d0028eaa9892cc8f107a88004e3755",
-    "summary": "This blog is now closed The Dutch prime minister Dick Schoof is next. Belgium’s Bart de Wever , Finland’s Alexander Stubb , and the EU’s Ursula von der Leyen and António Costa are the first leaders arriving at the Élysée Palace, welcomed by Macron on the doorstep. Continue reading...",
-    "ingested_utc": "2025-09-04T15:48:54Z"
-  },
-  {
-    "published_utc": "2025-09-04",
-    "retrieved_date": "2025-09-04",
-    "retrieved_utc": "2025-09-04T15:48:54Z",
-    "source": "Guardian_World",
-    "title": "Epping asylum hotel resident found guilty of sexual assault",
-    "url": "https://www.theguardian.com/uk-news/2025/sep/04/epping-asylum-hotel-resident-found-guilty-of-sexual-assault",
-    "id_key": "3039d4048bcb71aab9445e51cf559615aaa89c92ebc1d78edcdcfe4191940c78",
-    "summary": "Hadush Gerberslasie Kebatu found guilty of three counts of sexual assault against two 14-year-old girls and another against a woman A man who became the focus of far-right demonstrations outside a hotel in Epping, Essex where he and others were housed has been found guilty of sexual assault against two 14-year-old girls. Hadush Gerberslasie Kebatu, 38, an asylum seeker from Ethiopia, was found guilty of three counts of sexual assault against the girls and another against a woman. Continue reading...",
-    "ingested_utc": "2025-09-04T15:48:54Z"
-  },
-  {
-    "published_utc": "2025-09-04",
-    "retrieved_date": "2025-09-04",
-    "retrieved_utc": "2025-09-04T15:48:54Z",
-    "source": "Guardian_World",
-    "title": "Like a cockroach in the nuclear winter, Liz Truss keeps going on … and on | John Crace",
-    "url": "https://www.theguardian.com/politics/2025/sep/04/liz-truss-master-investor",
-    "id_key": "370a92473dc6be45a298987981e1eb416ea1b7f4d62d69ebf7043b204939f4eb",
-    "summary": "Liz’s latest delusional outing was on the Master Investor podcast. Spoiler alert: she was right all along, you know Government debt at record levels. A deputy prime minister under investigation by the standards watchdog. Reform UK 15 points ahead in the opinion polls. A summer in which hatred of migrants has become normalised. Politicians competing with one another to appear more authoritarian. But hey, things aren’t all bad. Because at least we still have Liz Truss. The country’s most abject prime minister. Liz of the 49 days. Radon Liz. Because she is both a gas and inert. Continue reading...",
-    "ingested_utc": "2025-09-04T15:48:54Z"
-  },
-  {
-    "published_utc": "2025-09-04",
-    "retrieved_date": "2025-09-04",
-    "retrieved_utc": "2025-09-04T15:48:54Z",
-    "source": "Guardian_World",
-    "title": "Bruce Springsteen to release fabled electric version of 1982 album Nebraska",
-    "url": "https://www.theguardian.com/music/2025/sep/04/bruce-springsteen-to-release-fabled-electric-version-of-1982-album-nebraska",
-    "id_key": "07ad9ab5ed51d7fec5283028eeb974b645f78385d439ca05bb6862090557460a",
-    "summary": "Studio versions of the stark, home-recorded album have never been issued, but will appear alongside new Springsteen biopic One of the great lost albums in rock history is to finally see the light of day, as Bruce Springsteen announces the release of the electric version of his 1982 album Nebraska. The original was famously recorded in the bedroom of his New Jersey home, unaccompanied, on a four-track tape recorder rather than a multitrack studio setup. Springsteen attempted to work the songs up into more fleshed-out versions but felt the studio versions lacked the ghostly drama of the originals, and – to some confusion in his fanbase and record label – insisted on releasing the stark four-track takes. Continue reading...",
-    "ingested_utc": "2025-09-04T15:48:54Z"
   }
 ]
