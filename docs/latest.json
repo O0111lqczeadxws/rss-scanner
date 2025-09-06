@@ -2,6 +2,50 @@
   {
     "published_utc": "2025-09-06",
     "retrieved_date": "2025-09-06",
+    "retrieved_utc": "2025-09-06T20:32:11Z",
+    "source": "FinancialPost_Business",
+    "title": "French Upheaval Overshadows ECB’s Queasy Interest-Rate Hold",
+    "url": "https://financialpost.com/pmn/business-pmn/french-upheaval-overshadows-ecbs-queasy-interest-rate-hold",
+    "id_key": "9c79f76d5101308683939f49da47d5384427b025d5a5683912987a15015cd1f4",
+    "summary": "European Central Bank officials are likely to make an uncontentious judgment on interest rates in the coming week, even while nervously watching the political crisis raging at the heart of the euro area.",
+    "ingested_utc": "2025-09-06T20:32:11Z"
+  },
+  {
+    "published_utc": "2025-09-06",
+    "retrieved_date": "2025-09-06",
+    "retrieved_utc": "2025-09-06T20:32:04Z",
+    "source": "TheStreet_Top",
+    "title": "Walmart is selling a $93 area rug for $53 that looks 'super modern'",
+    "url": "https://www.thestreet.com/deals/cozydesg-area-rug-walmart-flash-sale",
+    "id_key": "1510e20345a086c395a532f1e355bbc58a3bf6327ff574358df6a3f129e4461e",
+    "summary": "\"The fill is luxurious and well-cushioned.\"",
+    "ingested_utc": "2025-09-06T20:32:04Z"
+  },
+  {
+    "published_utc": "2025-09-06",
+    "retrieved_date": "2025-09-06",
+    "retrieved_utc": "2025-09-06T20:31:24Z",
+    "source": "NPR_Top",
+    "title": "Jim Jarmusch's 'Father Mother Sister Brother' wins top prize at Venice Film Festival",
+    "url": "https://www.npr.org/2025/09/06/g-s1-87503/venice-film-festival-winners-jarmusch-rajab",
+    "id_key": "1da43ca954c4d48e1e8b70e53c22cce93922d1961b1f3f30c02f403070b1b734",
+    "summary": "Jim Jarmusch's quietly humorous relationship triptych won the top prize on Saturday. The film about the relationships between siblings, and with their parents, stars Adam Driver, Vicky Krieps and Cate Blanchett.",
+    "ingested_utc": "2025-09-06T20:31:24Z"
+  },
+  {
+    "published_utc": "2025-09-06",
+    "retrieved_date": "2025-09-06",
+    "retrieved_utc": "2025-09-06T20:29:02Z",
+    "source": "Guardian_World",
+    "title": "Broadcasters told not to air any booing of Donald Trump at US Open men’s final",
+    "url": "https://www.theguardian.com/sport/2025/sep/06/broadcasters-told-not-to-air-any-booing-of-donald-trump-at-us-open-mens-final",
+    "id_key": "81a35deb0d4b095b2b30e43c703c0429309a16ea7b475d5900123319fdd1e40f",
+    "summary": "Trump will appear on big screen during national anthem Broadcasters asked ‘not to show any disruptions’ US Open broadcasters have been asked not to show any negative crowd reactions to Donald Trump at Sunday’s men’s final. The president is expected to attend the match between Jannik Sinner and Carlos Alcaraz in New York, with security at Flushing Meadows being heightened in preparation. Continue reading...",
+    "ingested_utc": "2025-09-06T20:29:02Z"
+  },
+  {
+    "published_utc": "2025-09-06",
+    "retrieved_date": "2025-09-06",
     "retrieved_utc": "2025-09-06T19:50:46Z",
     "source": "Nikkei_Asia_Top",
     "title": "Japan Coast Guard to adopt Starlink satellite service",
@@ -10954,49 +10998,5 @@
     "id_key": "e5006ecade1ba82de2c26a24432fce0da03a9faaed09f128aa20d4e9b4f16df8",
     "summary": "The doors to IFA 2025 at Messe Berlin don’t officially open to the public until tomorrow, but several companies have already announced new gadgets, tech, features, and upgrades as Europe’s largest consumer tech show gets underway. There’s a lot of news to stay on top of, and if you’re struggling to ingest it all, here […]",
     "ingested_utc": "2025-09-04T15:51:46Z"
-  },
-  {
-    "published_utc": "2025-09-04",
-    "retrieved_date": "2025-09-04",
-    "retrieved_utc": "2025-09-04T15:51:28Z",
-    "source": "FT_Home",
-    "title": "Gold could hit nearly $5,000 if Trump undermines Fed, says Goldman Sachs",
-    "url": "https://www.ft.com/content/e7b5f1ae-9060-4a24-a818-da93f264572f",
-    "id_key": "5fc2434be5c42baec499e8283c3635298307b7f8e20e0946ef3a0693ac93c8a2",
-    "summary": "President’s attack on US central bank will erode dollar’s reserve status and extend precious metal’s rally, say analysts",
-    "ingested_utc": "2025-09-04T15:51:28Z"
-  },
-  {
-    "published_utc": "2025-09-04",
-    "retrieved_date": "2025-09-04",
-    "retrieved_utc": "2025-09-04T15:51:28Z",
-    "source": "FT_Home",
-    "title": "Macron says Trump to outline Ukraine security guarantees in days",
-    "url": "https://www.ft.com/content/00dc2dbc-21ab-413f-a3a1-ba32b8c86dec",
-    "id_key": "2cd1581544842109c241ee6c983010bf2cc7d5d8d085743f8e7610c31a222354",
-    "summary": "26 countries at Paris summit of ‘coalition of the willing’ committed to potential contributions after a ceasefire",
-    "ingested_utc": "2025-09-04T15:51:28Z"
-  },
-  {
-    "published_utc": "2025-09-04",
-    "retrieved_date": "2025-09-04",
-    "retrieved_utc": "2025-09-04T15:49:19Z",
-    "source": "CryptoNews",
-    "title": "Grayscale Investments Launches Ethereum Covered Call ETF",
-    "url": "https://cryptonews.com/news/grayscale-launches-new-ethereum-covered-call-etf/",
-    "id_key": "29ee79a495d6016a5b75b221c24c0d2d526c844ac4e0ef7a08e33988c366cd40",
-    "summary": "Grayscale Investments has launched the Grayscale Ethereum Covered Call ETF (ticker: ETCO), an actively managed fund looking to generate current income while maintaining exposure to Ethereum, the second-largest cryptocurrency by market capitalization. The post Grayscale Investments Launches Ethereum Covered Call ETF appeared first on Cryptonews .",
-    "ingested_utc": "2025-09-04T15:49:19Z"
-  },
-  {
-    "published_utc": "2025-09-04",
-    "retrieved_date": "2025-09-04",
-    "retrieved_utc": "2025-09-04T15:49:16Z",
-    "source": "CryptoBriefing",
-    "title": "Bitwise debuts Bitcoin, Ether, XRP, and Solana ETPs on Switzerland’s main stock exchange",
-    "url": "https://cryptobriefing.com/bitwise-crypto-etp-launch-switzerland/",
-    "id_key": "52ef8c59042a5bd5b24b4d81ca233ba40b731c870f1e9ba5b34a7a5f43c545ee",
-    "summary": "Bitwise's ETP launch in Switzerland signals growing European crypto investment interest, potentially influencing global market dynamics. The post Bitwise debuts Bitcoin, Ether, XRP, and Solana ETPs on Switzerland’s main stock exchange appeared first on Crypto Briefing .",
-    "ingested_utc": "2025-09-04T15:49:16Z"
   }
 ]
