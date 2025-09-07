@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-09-07",
     "retrieved_date": "2025-09-07",
+    "retrieved_utc": "2025-09-07T11:50:01Z",
+    "source": "TheStreet_Top",
+    "title": "Forget rate cuts: Veteran analyst rings alarm on S&P 500",
+    "url": "https://www.thestreet.com/investing/forget-rate-cuts-veteran-analyst-rings-alarm-on-s-p-500",
+    "id_key": "452bbc6ed013812f536a884bb25d6b30248816bdbf9f8bd233e72f0fcd09fa67",
+    "summary": "Expects new highs before a bloody freefall",
+    "ingested_utc": "2025-09-07T11:50:01Z"
+  },
+  {
+    "published_utc": "2025-09-07",
+    "retrieved_date": "2025-09-07",
     "retrieved_utc": "2025-09-07T11:37:32Z",
     "source": "CryptoNews",
     "title": "Paxos Proposes to Issue USDH Stablecoin for Hyperliquid with 95% Revenue Share to HYPE Buyback",
@@ -10987,16 +10998,5 @@
     "id_key": "306eacbb6264f2958783ef78730f6dc2318ed669b310c1b3a072db5c5b4de0f2",
     "summary": "",
     "ingested_utc": "2025-09-04T18:49:12Z"
-  },
-  {
-    "published_utc": "2025-09-04",
-    "retrieved_date": "2025-09-04",
-    "retrieved_utc": "2025-09-04T18:49:04Z",
-    "source": "FinancialPost_Business",
-    "title": "Google facing $425.7 million in damages for nearly a decade of improper smartphone snooping",
-    "url": "https://financialpost.com/pmn/google-facing-425-7-million-in-damages-for-nearly-a-decade-of-improper-smartphone-snooping",
-    "id_key": "2e8c26fada10fdf2a190977952a178b78996bcee3e5c1dc2a0f6a38036acceb0",
-    "summary": "SAN FRANCISCO (AP) — A federal jury has ordered Google to pay $425.7 million for improperly snooping on people’s smartphones during a nearly decade-long period of intrusions. The verdict reached Wednesday in San Francisco federal court followed a more than two-week trial in a class-action case covering about 98 million smartphones operating in the United […]",
-    "ingested_utc": "2025-09-04T18:49:04Z"
   }
 ]
