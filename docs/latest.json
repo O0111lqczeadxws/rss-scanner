@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-09-07",
     "retrieved_date": "2025-09-07",
+    "retrieved_utc": "2025-09-07T15:39:51Z",
+    "source": "TheStreet_Top",
+    "title": "80-year-old furniture giant going out of business, liquidation sale",
+    "url": "https://www.thestreet.com/retail/80-year-old-furniture-giant-liquidates-no-chapter-7-bankruptcy",
+    "id_key": "d9db0eca818e39f23ec3bf37785d3b94e87ea750b296aadeeebac0929d2810ad",
+    "summary": "An 80-year-old furniture retailer is shutting its doors and liquidating stock in a final going-out-of-business sale.",
+    "ingested_utc": "2025-09-07T15:39:51Z"
+  },
+  {
+    "published_utc": "2025-09-07",
+    "retrieved_date": "2025-09-07",
+    "retrieved_utc": "2025-09-07T15:39:29Z",
+    "source": "TheVerge_All",
+    "title": "TIFF 2025: Frankenstein, Knives Out 3, and all the biggest movies from Toronto",
+    "url": "https://www.theverge.com/film/773480/tiff-2025-frankenstein-wake-up-dead-man-movie-reviews",
+    "id_key": "41042e174e7193ef3425fd761cdac1baf8ba384f4cc7afee05666557ba8a562c",
+    "summary": "The Toronto International Film Festival is almost like a preview of the movie slate for the next few months — and this year I’m watching as much as possible to give you all the scoop on what’s ahead. To do that, I’ll be writing a dispatch covering every movie I’ve seen that day, which will […]",
+    "ingested_utc": "2025-09-07T15:39:29Z"
+  },
+  {
+    "published_utc": "2025-09-07",
+    "retrieved_date": "2025-09-07",
     "retrieved_utc": "2025-09-07T15:30:25Z",
     "source": "HackerNews_Top",
     "title": "Delayed Security Patches for AOSP (Android Open Source Project)",
@@ -10976,27 +10998,5 @@
     "id_key": "a83b821da3b972dcb8435d80f135f9f8af14665d06b2feaa3fe2379a22effed5",
     "summary": "Comments",
     "ingested_utc": "2025-09-04T20:35:24Z"
-  },
-  {
-    "published_utc": "2025-09-04",
-    "retrieved_date": "2025-09-04",
-    "retrieved_utc": "2025-09-04T20:35:17Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "Nissan eyes tapping hot Japan real estate market with HQ sale",
-    "url": "https://asia.nikkei.com/business/markets/property/nissan-eyes-tapping-hot-japan-real-estate-market-with-hq-sale",
-    "id_key": "278e2f44cb3837c88107e2f40b0919ea3b34e5b00533c4c6cef5f5684cbb292a",
-    "summary": "",
-    "ingested_utc": "2025-09-04T20:35:17Z"
-  },
-  {
-    "published_utc": "2025-09-04",
-    "retrieved_date": "2025-09-04",
-    "retrieved_utc": "2025-09-04T20:35:10Z",
-    "source": "FinancialPost_Business",
-    "title": "Samsara Announces Customer and Platform Growth Milestones with Q2 FY26 Results",
-    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/samsara-announces-customer-and-platform-growth-milestones-with-q2-fy26-results",
-    "id_key": "97b9d655761bd4b59265f50dc18ef7868b2105c2d27cd04221facced99ad94ae",
-    "summary": "SAN FRANCISCO — Samsara Inc. (“Samsara”) (NYSE: IOT), the pioneer of the Connected Operations® Platform, today announced new company milestones and strong financial results for the second quarter of fiscal year 2026. Samsara concluded the quarter with $1.6B in ARR, growing 30% year-over-year, and added a quarterly record of 17 customers with $1M+ in ARR. […]",
-    "ingested_utc": "2025-09-04T20:35:10Z"
   }
 ]
