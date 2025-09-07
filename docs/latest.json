@@ -2,6 +2,61 @@
   {
     "published_utc": "2025-09-07",
     "retrieved_date": "2025-09-07",
+    "retrieved_utc": "2025-09-07T19:23:38Z",
+    "source": "HackerNews_Top",
+    "title": "Keeping secrets out of logs (2024)",
+    "url": "https://allan.reyes.sh/posts/keeping-secrets-out-of-logs/",
+    "id_key": "7a5ebf0505c5604e4ce8711385c3617cd952068781237fb44f06b518f1b83379",
+    "summary": "Comments",
+    "ingested_utc": "2025-09-07T19:23:38Z"
+  },
+  {
+    "published_utc": "2025-09-07",
+    "retrieved_date": "2025-09-07",
+    "retrieved_utc": "2025-09-07T19:23:17Z",
+    "source": "AlJazeera_All",
+    "title": "Iran FM Araghchi warns Europe against ‘reckless’ approach to nuclear deal",
+    "url": "https://www.aljazeera.com/news/2025/9/7/iran-fm-araghchi-warns-europe-against-reckless-approach-to-nuclear-deal?traffic_source=rss",
+    "id_key": "0c88e7627e146ca48782fbe63fe192680d1cb0373e6569d3dfcd634e587f51ce",
+    "summary": "Abbas Araghchi says despite 'snapback' sanctions process, Iran is open to a 'realistic and lasting bargain'.",
+    "ingested_utc": "2025-09-07T19:23:17Z"
+  },
+  {
+    "published_utc": "2025-09-07",
+    "retrieved_date": "2025-09-07",
+    "retrieved_utc": "2025-09-07T19:23:16Z",
+    "source": "TheStreet_Top",
+    "title": "Secretary Bessent has a blunt inflation message",
+    "url": "https://www.thestreet.com/economy/secretary-bessent-has-a-blunt-message-on-inflation",
+    "id_key": "7f5ef0b184741c2734ae9782116efb45d86b08d4860c19d6efd9b8a8315865e1",
+    "summary": "The Treasury Secretary weighed in on tariffs and inflation, and threw a hefty dose of shade at Wall Street kingpin Goldman Sachs.",
+    "ingested_utc": "2025-09-07T19:23:16Z"
+  },
+  {
+    "published_utc": "2025-09-07",
+    "retrieved_date": "2025-09-07",
+    "retrieved_utc": "2025-09-07T19:20:03Z",
+    "source": "Guardian_World",
+    "title": "New business secretary Peter Kyle going to China for trade talks this week",
+    "url": "https://www.theguardian.com/politics/2025/sep/07/uk-business-secretary-peter-kyle-visit-beijing",
+    "id_key": "f61c1ef2d049d12df09492061110b689b9070f98c62eea53ad3dbdb6fced6fd5",
+    "summary": "Former science secretary promoted in reshuffle to continue UK efforts to revitalise trade relationship with Beijing The UK’s new business secretary, Peter Kyle, will fly to Beijing this week as part of Keir Starmer’s continuing efforts to revitalise the UK’s trade relationship with China and provide growth to the British economy. The former science and technology secretary, who was promoted in Friday’s government reshuffle , is expected to land in China on Wednesday, picking up the schedule of his predecessor, Jonathan Reynolds, who is now the chief whip. Continue reading...",
+    "ingested_utc": "2025-09-07T19:20:03Z"
+  },
+  {
+    "published_utc": "2025-09-07",
+    "retrieved_date": "2025-09-07",
+    "retrieved_utc": "2025-09-07T19:20:03Z",
+    "source": "Guardian_World",
+    "title": "Crowd greets Donald Trump with boos and cheers at US Open men’s final",
+    "url": "https://www.theguardian.com/sport/2025/sep/07/donald-trump-us-open-tennis-final",
+    "id_key": "c4c9c5989091c4b980149dc740e050e1457be60c4f4f9df3cc816f912ac361b0",
+    "summary": "US president attends Sinner v Alcaraz final USTA told broadcasters not to show crowd reaction Donald Trump drew a mixture of boos and cheers from the crowd as he attended the US Open men’s final on Sunday. Arthur Ashe stadium was only partially full – heavy security around the president’s arrival meant the arena was slow to fill – when he stepped outside his luxury box to wave at the crowd. His appearance was also brief enough so that some of those in attendance didn’t notice Trump. He was shown on the stadium’s video screens later, during the national anthem, and his appearance was again met with cheers and boos. Continue reading...",
+    "ingested_utc": "2025-09-07T19:20:03Z"
+  },
+  {
+    "published_utc": "2025-09-07",
+    "retrieved_date": "2025-09-07",
     "retrieved_utc": "2025-09-07T18:42:56Z",
     "source": "Engadget_All",
     "title": "Apple plans to release iPhone 17 and more at the 'Awe Dropping' event September 9: Here's everything to expect",
@@ -10276,6 +10331,17 @@
   {
     "published_utc": "2025-09-04",
     "retrieved_date": "2025-09-07",
+    "retrieved_utc": "2025-09-07T19:23:38Z",
+    "source": "HackerNews_Top",
+    "title": "Show HN: rm-safely – A shell alias that moves files to trash instead of deleting",
+    "url": "https://github.com/zdk/rm-safely",
+    "id_key": "d9eb2e5980658d7e3b3d8a233b59b0a10ff9e36212fe465a4821180c3bf8330e",
+    "summary": "Comments",
+    "ingested_utc": "2025-09-07T19:23:38Z"
+  },
+  {
+    "published_utc": "2025-09-04",
+    "retrieved_date": "2025-09-07",
     "retrieved_utc": "2025-09-07T10:36:17Z",
     "source": "HackerNews_Top",
     "title": "SQLite's File Format",
@@ -10932,71 +10998,5 @@
     "id_key": "b5c70e80465026cc2ce6cb368d6c19eba2d03e21127ad587cfcd0cde9f0cfc5a",
     "summary": "Warner Bros. Discovery is suing Midjourney over claims the AI startup “brazenly dispenses its intellectual property as if it were its own,” as reported earlier by The Hollywood Reporter. In the lawsuit, Warner Bros. Discovery alleges that Midjourney generated “countless” infringing images and videos of its copyrighted characters, including Superman, Bugs Bunny, Scooby-Doo, and more. […]",
     "ingested_utc": "2025-09-04T21:50:05Z"
-  },
-  {
-    "published_utc": "2025-09-04",
-    "retrieved_date": "2025-09-04",
-    "retrieved_utc": "2025-09-04T21:39:57Z",
-    "source": "NYTimes_World",
-    "title": "Macron Said That 26 Countries Would Secure Ukraine",
-    "url": "https://www.nytimes.com/2025/09/04/briefing/macron-ukraine-security-afghanistan-quake-armani.html",
-    "id_key": "ab4aa864c3adf8c89828f51071d09e6d32ed1c745847f64a28d5c44b9c8353e7",
-    "summary": "The pledges were made in Paris at a summit designed to show that Europe is ready to uphold any future peace deal for Ukraine.",
-    "ingested_utc": "2025-09-04T21:39:57Z"
-  },
-  {
-    "published_utc": "2025-09-04",
-    "retrieved_date": "2025-09-04",
-    "retrieved_utc": "2025-09-04T21:39:31Z",
-    "source": "BBC_World",
-    "title": "Teen killed and seven injured in mass stabbing in Canada",
-    "url": "https://www.bbc.com/news/articles/cp8jnrrlvqvo?at_medium=RSS&at_campaign=rss",
-    "id_key": "f6ba386347293a470ac40ccde5e82861a713003a047613a4de49852e8cf792fc",
-    "summary": "Investigators said the 18-year-old killed was the sister of the suspect, who was known to police.",
-    "ingested_utc": "2025-09-04T21:39:31Z"
-  },
-  {
-    "published_utc": "2025-09-04",
-    "retrieved_date": "2025-09-04",
-    "retrieved_utc": "2025-09-04T21:37:50Z",
-    "source": "Blockworks",
-    "title": "Arbitrum kicks off $40M incentive program with focus on leveraged looping",
-    "url": "https://blockworks.co/news/arbitrum-drip-incentive-program",
-    "id_key": "7bea38ff8ca8f48f1d32f0a12b5538dea17e6d66dff239a1e98d94e719020a41",
-    "summary": "Season One of the DeFi Renaissance Incentive Program (DRIP) will distribute up to 24 million ARB to users",
-    "ingested_utc": "2025-09-04T21:37:50Z"
-  },
-  {
-    "published_utc": "2025-09-04",
-    "retrieved_date": "2025-09-04",
-    "retrieved_utc": "2025-09-04T21:37:30Z",
-    "source": "BBC_World",
-    "title": "Sweden accuses Russia of GPS jamming over Baltic Sea",
-    "url": "https://www.bbc.com/news/articles/clyx3ly54veo?at_medium=RSS&at_campaign=rss",
-    "id_key": "2cd76ced590594330dbcdb4e07038c6a5b462cc5f7cd300d63fdfa2475ca2b5e",
-    "summary": "Interferences to satellite navigational systems occur almost daily, aviation officials say.",
-    "ingested_utc": "2025-09-04T21:37:30Z"
-  },
-  {
-    "published_utc": "2025-09-04",
-    "retrieved_date": "2025-09-04",
-    "retrieved_utc": "2025-09-04T21:30:46Z",
-    "source": "HackerNews_Top",
-    "title": "The thousands of atomic bombs exploded on Earth (2015)",
-    "url": "https://kottke.org/25/09/the-thousands-of-atomic-bombs-exploded-on-earth",
-    "id_key": "b45daa8b4604724e245567fb67ee9abc179590336a394966186346b4f05e367b",
-    "summary": "Comments",
-    "ingested_utc": "2025-09-04T21:30:46Z"
-  },
-  {
-    "published_utc": "2025-09-04",
-    "retrieved_date": "2025-09-04",
-    "retrieved_utc": "2025-09-04T21:30:38Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "Trump signs order to cut tariffs on Japanese car exports",
-    "url": "https://asia.nikkei.com/economy/trade-war/trump-tariffs/trump-signs-order-to-cut-tariffs-on-japanese-car-exports",
-    "id_key": "f42e9bf1ff52a829a3228d5328aa8c87ddf0fd5a00a04be590028b4dfb53b304",
-    "summary": "",
-    "ingested_utc": "2025-09-04T21:30:38Z"
   }
 ]
