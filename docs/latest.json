@@ -8747,6 +8747,17 @@
   {
     "published_utc": "2025-09-04",
     "retrieved_date": "2025-09-07",
+    "retrieved_utc": "2025-09-07T04:51:18Z",
+    "source": "HackerNews_Top",
+    "title": "An Anatomically Correct Replica of the Human Brain, Knitted by a Psychiatrist",
+    "url": "https://www.openculture.com/2025/09/anatomically-correct-replica-of-the-human-brain-knitted-by-a-psychiatrist.html",
+    "id_key": "6b355da0c806d249149969019a50543b70a2aeedb63922b68f8dc7440fb51a9d",
+    "summary": "Comments",
+    "ingested_utc": "2025-09-07T04:51:18Z"
+  },
+  {
+    "published_utc": "2025-09-04",
+    "retrieved_date": "2025-09-07",
     "retrieved_utc": "2025-09-07T03:53:03Z",
     "source": "HackerNews_Top",
     "title": "Hitting Peak File IO Performance with Zig",
@@ -10987,16 +10998,5 @@
     "id_key": "ae5ae3babfe9e8177a55a7e262061e2b235737e478eaff173ddcc9b6662a133c",
     "summary": "Around six years ago, a new rallying cry rippled through Washington: \"Break Up Big Tech.\" It was a slogan emblazoned on campaign posters, uttered at congressional hearings, and beginning, it seemed, to echo through the halls of the nation's antitrust enforcers. Momentum in the legislatures eventually petered out, but the enforcers at the Justice Department […]",
     "ingested_utc": "2025-09-04T17:33:22Z"
-  },
-  {
-    "published_utc": "2025-09-04",
-    "retrieved_date": "2025-09-04",
-    "retrieved_utc": "2025-09-04T17:33:05Z",
-    "source": "FT_Home",
-    "title": "Alan Turing Institute head to quit after internal turmoil",
-    "url": "https://www.ft.com/content/d42bb052-9032-4e1a-9ac1-439c362a2875",
-    "id_key": "92c362de1f60ddcccb303060fb868cbcb85d3212daebc8175a1630c69e580fda",
-    "summary": "Technology secretary Peter Kyle branded flagship national AI agency a “failing organisation”",
-    "ingested_utc": "2025-09-04T17:33:05Z"
   }
 ]
