@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-09-07",
     "retrieved_date": "2025-09-07",
+    "retrieved_utc": "2025-09-07T19:39:45Z",
+    "source": "Engadget_All",
+    "title": "Microsoft's cloud service restored after reports of cut cables in the Red Sea",
+    "url": "https://www.engadget.com/big-tech/microsofts-cloud-service-restored-after-reports-of-cut-cables-in-the-red-sea-192312354.html?src=rss",
+    "id_key": "557c736d54b38c95741f954eb6304d4f3666fbdb08e323b96eefa3b6c4a7bfff",
+    "summary": "Microsoft said its Azure cloud platform has returned to normal service after an incident of cut underwater cables that played out over Saturday. The tech giant reported \" undersea fiber cuts \" in the Red Sea on Saturday morning, which disrupted Azure service throughout the Middle East and led to potential \"increased latency\" for users. Microsoft said that the latency issue was resolved by Saturday evening and was able to reroute the Azure traffic through other paths. Microsoft didn't provide a reason for why the undersea cables were cut. These cables sit on the ocean floor and play the crucial role of delivering massive amounts of data across the world. While ships dropping anchors can sometimes damage undersea cables, there have been more intentional circumstances in the past. In 2024, the internationally recognized government of Yemen claimed that the country's Houthi movement was responsible for cutting cables in the Red Sea. While Microsoft managed to restore service for its latest episode the same day, it also noted that undersea cable cuts \"can take time to repair\" and that it \"will continuously monitor, rebalance, and optimize routing to reduce customer impact in the meantime.\" This article originally appeared on Engadget at https://www.engadget.com/big-tech/microsofts-cloud-service-restored-after-reports-of-cut-cables-in-the-red-sea-192312354.html?src=rss",
+    "ingested_utc": "2025-09-07T19:39:45Z"
+  },
+  {
+    "published_utc": "2025-09-07",
+    "retrieved_date": "2025-09-07",
+    "retrieved_utc": "2025-09-07T19:39:05Z",
+    "source": "MarketWatch_Bulletins",
+    "title": "OPEC+ agrees to another oil production boost in October",
+    "url": "https://www.marketwatch.com/bulletins/redirect/go?g=32fb4510-2ca4-439a-8bac-1b905f9ec051&mod=mw_rss_bulletins",
+    "id_key": "e837b8c97c398d2a40e9469b58188433cd132bc2b08576ec03942b98bddfa3dd",
+    "summary": "",
+    "ingested_utc": "2025-09-07T19:39:05Z"
+  },
+  {
+    "published_utc": "2025-09-07",
+    "retrieved_date": "2025-09-07",
+    "retrieved_utc": "2025-09-07T19:36:49Z",
+    "source": "Guardian_World",
+    "title": "Israel’s supreme court says government is not giving Palestinian prisoners enough food",
+    "url": "https://www.theguardian.com/world/2025/sep/07/israels-supreme-court-says-government-is-not-giving-palestinian-prisoners-enough-food",
+    "id_key": "6d1a2ab025371913486b5a7fc6244446701c4c94dd9704f459c7cf90626e18fa",
+    "summary": "Justices rule state is legally obliged to ensure ‘basic level of existence’ and orders authorities to improve nutrition Israel’s supreme court has ruled that the government has failed to provide Palestinian security prisoners with adequate food for basic subsistence and ordered authorities to improve their nutrition. Sunday’s decision was a rare case in which the country’s highest court ruled against the government’s conduct during the nearly two-year war. Continue reading...",
+    "ingested_utc": "2025-09-07T19:36:49Z"
+  },
+  {
+    "published_utc": "2025-09-07",
+    "retrieved_date": "2025-09-07",
     "retrieved_utc": "2025-09-07T19:23:38Z",
     "source": "HackerNews_Top",
     "title": "Keeping secrets out of logs (2024)",
@@ -1879,6 +1912,17 @@
     "id_key": "6030881fd45ae121e31288b30d94053328e7cf901d825b6ba24411a2e3603812",
     "summary": "The youths, aged 12 and 15, were attacked in Cobblebank on Saturday night Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Two boys have been killed in Melbourne in what police suspect is part of a series of targeted attacks. The two youths were fatally stabbed in Cobblebank, in the city’s west, on Saturday night, detectives said. Continue reading...",
     "ingested_utc": "2025-09-07T03:10:43Z"
+  },
+  {
+    "published_utc": "2025-09-06",
+    "retrieved_date": "2025-09-07",
+    "retrieved_utc": "2025-09-07T19:40:03Z",
+    "source": "TheStreet_Top",
+    "title": "Check out the Las Vegas Strip's most ridiculous fee yet",
+    "url": "https://www.thestreet.com/travel/this-might-be-the-las-vegas-strips-most-ridiculous-fee-yet",
+    "id_key": "b49eb84d875c65242092f43f91baa00c681bb476e78e378e5e183c8ff0c4d504",
+    "summary": "Las Vegas Strip visitors are used to paying for resort fees, parking, and overpriced drinks. But one new charge from a top Strip operator takes things to another level.",
+    "ingested_utc": "2025-09-07T19:40:03Z"
   },
   {
     "published_utc": "2025-09-06",
@@ -10954,49 +10998,5 @@
     "id_key": "0138ec21225baeb83f1e4c6ba53e371ff59010720ed65f5162924cf75dae3d64",
     "summary": "Documents tabled in parliament show agency took four years to publish report and told miners it would be put online ‘quietly’ but EPA says it was released to community earlier Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The New South Wales environment watchdog sat on a report for four years linking elevated levels of lead in children’s blood to current mining, and promised mining companies they would not do any “finger-pointing”, new documents tabled in state parliament show. The documents include internal emails released under freedom of information laws that show the scientist who produced the report into lead exposure in Broken Hill was at one point texting the Environment Protection Authority every two days asking when it would be published. Continue reading...",
     "ingested_utc": "2025-09-04T22:32:31Z"
-  },
-  {
-    "published_utc": "2025-09-04",
-    "retrieved_date": "2025-09-04",
-    "retrieved_utc": "2025-09-04T22:32:31Z",
-    "source": "Guardian_World",
-    "title": "DoJ asks supreme court to let Trump remove Democratic FTC commissioner",
-    "url": "https://www.theguardian.com/us-news/2025/sep/04/trump-administration-supreme-court-ftc-rebecca-slaughter",
-    "id_key": "d7f17c92558ef0842b8001da32c28f2a34fe54e98ffae7c16d194514903671fb",
-    "summary": "Justice agency appealed judge’s decision to block firing of Rebecca Slaughter from Federal Trade Commission while case continues Donald Trump’s administration asked the US supreme court on Thursday to let him temporarily remove a Democratic member of the Federal Trade Commission, as the legal fight over the Republican president’s dismissal of her plays out. The justice department made the request after Washington-based US district judge Loren AliKhan blocked Trump’s firing of Rebecca Slaughter from the consumer protection agency that enforces antitrust law prior to her term expiring. Continue reading...",
-    "ingested_utc": "2025-09-04T22:32:31Z"
-  },
-  {
-    "published_utc": "2025-09-04",
-    "retrieved_date": "2025-09-04",
-    "retrieved_utc": "2025-09-04T21:50:35Z",
-    "source": "FinancialPost_Business",
-    "title": "Mitutoyo Introduces Sensible Measurement for Everyone with the New Bold Compact QM-Fit Measurement System",
-    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/mitutoyo-introduces-sensible-measurement-for-everyone-with-the-new-bold-compact-qm-fit-measurement-system",
-    "id_key": "3f9ca7641593542ca230b775f8f7cb674340bf40c58be64a2e291424b7171610",
-    "summary": "Faster, Smaller, Smarter AURORA, Ill. — Mitutoyo America Corporation, the world leader in metrology instruments, introduces the QM-Fit Smart Vision System. The QM-Fit represents a BOLD step forward in optical metrology. The system features a wide field of view that can intelligently recognize part geometry, allowing measurements to be initiated automatically by extracting shapes […]",
-    "ingested_utc": "2025-09-04T21:50:35Z"
-  },
-  {
-    "published_utc": "2025-09-04",
-    "retrieved_date": "2025-09-04",
-    "retrieved_utc": "2025-09-04T21:50:35Z",
-    "source": "FinancialPost_Business",
-    "title": "Critical One Acquires KCR Project – Historic Drill Hole Intersected Visible Gold Assaying 64.1 g/t Gold Within 20.4 Metre Interval Grading 3.54 g/t Gold",
-    "url": "https://financialpost.com/globe-newswire/critical-one-acquires-kcr-project-historic-drill-hole-intersected-visible-gold-assaying-64-1-g-t-gold-within-20-4-metre-interval-grading-3-54-g-t-gold",
-    "id_key": "5ac21287c8df1ae385dc5e15ea8b26d44685edd743eafbd0bd77d3b64a582a8b",
-    "summary": "TORONTO, Sept. 04, 2025 (GLOBE NEWSWIRE) — Critical One Energy Inc. (formerly Madison Metals Inc.) (“Critical One” or the “Company”) (CSE: CRTL) (OTCQB: MMTLF) (FSE: 4EF0) is pleased to announce the acquisition of the KCR Gold Project (“KCR Project”) including the Slam Gold Zone discovery (Figure 1) contiguous to the Company’s extensive land holdings at […]",
-    "ingested_utc": "2025-09-04T21:50:35Z"
-  },
-  {
-    "published_utc": "2025-09-04",
-    "retrieved_date": "2025-09-04",
-    "retrieved_utc": "2025-09-04T21:50:05Z",
-    "source": "TheVerge_All",
-    "title": "Warner Bros. Discovery sues Midjourney for generating &#8216;countless&#8217; copies of its characters",
-    "url": "https://www.theverge.com/news/772101/midjourney-ai-generator-warner-bros-lawsuit",
-    "id_key": "b5c70e80465026cc2ce6cb368d6c19eba2d03e21127ad587cfcd0cde9f0cfc5a",
-    "summary": "Warner Bros. Discovery is suing Midjourney over claims the AI startup “brazenly dispenses its intellectual property as if it were its own,” as reported earlier by The Hollywood Reporter. In the lawsuit, Warner Bros. Discovery alleges that Midjourney generated “countless” infringing images and videos of its copyrighted characters, including Superman, Bugs Bunny, Scooby-Doo, and more. […]",
-    "ingested_utc": "2025-09-04T21:50:05Z"
   }
 ]
