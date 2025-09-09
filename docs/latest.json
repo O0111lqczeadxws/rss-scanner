@@ -2,6 +2,61 @@
   {
     "published_utc": "2025-09-09",
     "retrieved_date": "2025-09-09",
+    "retrieved_utc": "2025-09-09T23:42:15Z",
+    "source": "Nikkei_Asia_Top",
+    "title": "Ethnic Chinese Indonesians hail new era after escaping unrest",
+    "url": "https://asia.nikkei.com/politics/ethnic-chinese-indonesians-hail-new-era-after-escaping-unrest",
+    "id_key": "fc386a8914e445f160f3b5b8935e8a67397548e1f57ae22dd012dfc69c968cc0",
+    "summary": "",
+    "ingested_utc": "2025-09-09T23:42:15Z"
+  },
+  {
+    "published_utc": "2025-09-09",
+    "retrieved_date": "2025-09-09",
+    "retrieved_utc": "2025-09-09T23:42:02Z",
+    "source": "AlJazeera_All",
+    "title": "Israeli-Russian researcher freed in Iraq after two years in captivity",
+    "url": "https://www.aljazeera.com/news/2025/9/9/israeli-russian-researcher-freed-in-iraq-after-two-years-in-captivity?traffic_source=rss",
+    "id_key": "fc039a34ddfb7ee12cd2db0a26cb47568959ad20fd9b30c878d5ee7f8852c889",
+    "summary": "US President Trump confirms Elizabeth Tsurkov freed after being held by Iraqi group amid spy claims.",
+    "ingested_utc": "2025-09-09T23:42:02Z"
+  },
+  {
+    "published_utc": "2025-09-09",
+    "retrieved_date": "2025-09-09",
+    "retrieved_utc": "2025-09-09T23:41:40Z",
+    "source": "TheVerge_All",
+    "title": "Apple is giving iPhone 14 and 15 users another free year of satellite features",
+    "url": "https://www.theverge.com/news/775309/apple-iphone-14-15-satellite-connectivity-free",
+    "id_key": "fbc3351071bf0da8ddc9296b2934c4c76c14e25143a32fcb164099c70ef87793",
+    "summary": "iPhone 14 and iPhone 15 users are getting another year of free access to satellite connectivity features, according to a footnote on Apple’s newsroom posts for the iPhone 17 and iPhone 17 Pro. “The free trial will be extended for iPhone 14 and iPhone 15 users who have activated their device in a country that […]",
+    "ingested_utc": "2025-09-09T23:41:40Z"
+  },
+  {
+    "published_utc": "2025-09-09",
+    "retrieved_date": "2025-09-09",
+    "retrieved_utc": "2025-09-09T23:41:26Z",
+    "source": "FT_Markets",
+    "title": "Klarna reaches $15bn valuation as IPO prices at $40 a share",
+    "url": "https://www.ft.com/content/acf2fd60-3db9-4452-99d0-ef0003a28c44",
+    "id_key": "3ad9e1706eddd7ce0f67e8d819ad51b956e4be42ff87c477d7e8845fb14e0b3a",
+    "summary": "Swedish fintech to begin trading on Wednesday after tariff turmoil halted earlier listing plan",
+    "ingested_utc": "2025-09-09T23:41:26Z"
+  },
+  {
+    "published_utc": "2025-09-09",
+    "retrieved_date": "2025-09-09",
+    "retrieved_utc": "2025-09-09T23:39:20Z",
+    "source": "CryptoNews",
+    "title": "Russian Policymaker Calls Upon Moscow to Create ‘National Crypto Bank’",
+    "url": "https://cryptonews.com/news/russian-policymaker-calls-upon-moscow-to-create-national-crypto-bank/",
+    "id_key": "3e2d34731c113142535dc1a212513deaa0561621e31045bf9792375f6c846747",
+    "summary": "A leading Russian policymaker says the government should launch a “national crypto bank” to boost treasury income and fight fraud. The post Russian Policymaker Calls Upon Moscow to Create ‘National Crypto Bank’ appeared first on Cryptonews .",
+    "ingested_utc": "2025-09-09T23:39:20Z"
+  },
+  {
+    "published_utc": "2025-09-09",
+    "retrieved_date": "2025-09-09",
     "retrieved_utc": "2025-09-09T23:30:34Z",
     "source": "Nikkei_Asia_Top",
     "title": "Japan's Mitsui Chemicals, 2 peers to merge polyolefin plastic businesses",
@@ -10943,60 +10998,5 @@
     "id_key": "fffe77a4a554b1e6957e3e3ea043ff172b97d95cb24fb0013baa78137ded0a9c",
     "summary": "Earth-sized planet 40 light years away could have liquid water and an atmosphere rich in gases such as nitrogen",
     "ingested_utc": "2025-09-08T14:43:27Z"
-  },
-  {
-    "published_utc": "2025-09-08",
-    "retrieved_date": "2025-09-08",
-    "retrieved_utc": "2025-09-08T14:43:24Z",
-    "source": "NPR_Business",
-    "title": "Food-makers are phasing out artificial dyes. The problem: Americans love the color",
-    "url": "https://www.npr.org/2025/09/08/nx-s1-5529276/sams-club-food-dye-taste-history",
-    "id_key": "9c59ae9c5de76b62e9b900b11b06979ba4122452631b630c4d0ec26112ff693f",
-    "summary": "Sam's Club is among the food makers removing artificial dyes from products, yet hoping shoppers don't notice a difference in color. But why?",
-    "ingested_utc": "2025-09-08T14:43:24Z"
-  },
-  {
-    "published_utc": "2025-09-08",
-    "retrieved_date": "2025-09-08",
-    "retrieved_utc": "2025-09-08T14:43:24Z",
-    "source": "NPR_Business",
-    "title": "The U.S. is a major importer of Indian products made from Russian oil",
-    "url": "https://www.npr.org/2025/09/08/nx-s1-5522001/india-tariffs-russia-oil-imports",
-    "id_key": "232311b4e3c02a760acb27075a4df0694f539840c47ac6c8293bd112b0a9deb7",
-    "summary": "The United States imports oil products from India's Reliance Industries refinery, which sources nearly half its oil from Russia.",
-    "ingested_utc": "2025-09-08T14:43:24Z"
-  },
-  {
-    "published_utc": "2025-09-08",
-    "retrieved_date": "2025-09-08",
-    "retrieved_utc": "2025-09-08T14:43:23Z",
-    "source": "NPR_Top",
-    "title": "After 6 years, Hollow Knight Silksong is here at last — and it was worth the wait",
-    "url": "https://www.npr.org/2025/09/08/nx-s1-5533199/hollow-knight-silksong",
-    "id_key": "fc465f3a563552f6ec5138ee9a153598183d6a473bd4b1444c79be86ce856005",
-    "summary": "Hollow Knight was a Kickstarter-backed project that obliterated expectations. Now, after years of rumors, memes and anticipation, the three-person indie developer Team Cherry has delivered the sequel.",
-    "ingested_utc": "2025-09-08T14:43:23Z"
-  },
-  {
-    "published_utc": "2025-09-08",
-    "retrieved_date": "2025-09-08",
-    "retrieved_utc": "2025-09-08T14:43:16Z",
-    "source": "NYTimes_World",
-    "title": "New Banksy Work Seen as Comment on Crackdown on Palestine Action Supporters",
-    "url": "https://www.nytimes.com/2025/09/08/world/europe/new-banksy-rcj-palestine-action-uk-protests.html",
-    "id_key": "08dab690de4e461e5821632b876049ab6158ddbb0e6eaaef7f5c059f59006e46",
-    "summary": "The mural that appeared outside the Royal Courts of Justice in London on Monday depicted a judge attacking a demonstrator with a gavel.",
-    "ingested_utc": "2025-09-08T14:43:16Z"
-  },
-  {
-    "published_utc": "2025-09-08",
-    "retrieved_date": "2025-09-08",
-    "retrieved_utc": "2025-09-08T14:43:08Z",
-    "source": "MarketWatch_Bulletins",
-    "title": "Nvidia leads way as Dow industrials reverse nearly all of early decline",
-    "url": "https://www.marketwatch.com/bulletins/redirect/go?g=e3b857c1-6eb0-4b07-9a1e-a1ff928ccfa8&mod=mw_rss_bulletins",
-    "id_key": "66e871499b7aa4d633ab40a4e98b08d43ff4057a0d3aa309c328938ec23cda17",
-    "summary": "",
-    "ingested_utc": "2025-09-08T14:43:08Z"
   }
 ]
