@@ -2,6 +2,61 @@
   {
     "published_utc": "2025-09-09",
     "retrieved_date": "2025-09-09",
+    "retrieved_utc": "2025-09-09T22:50:56Z",
+    "source": "TheStreet_Top",
+    "title": "Costco-like membership-based grocery chain makes big move",
+    "url": "https://www.thestreet.com/retail/costco-like-membership-based-grocery-chain-makes-big-move",
+    "id_key": "baaafefc5e7075243562cd16f005efecf1b9b707a78dbe283e7e2dab0dcacad0",
+    "summary": "Costco faces increased competition as shoppers get more membership store choices.",
+    "ingested_utc": "2025-09-09T22:50:56Z"
+  },
+  {
+    "published_utc": "2025-09-09",
+    "retrieved_date": "2025-09-09",
+    "retrieved_utc": "2025-09-09T22:50:36Z",
+    "source": "ArsTechnica_All",
+    "title": "Apple’s N1 chip extends its custom silicon into Wi-Fi, Bluetooth, and Thread",
+    "url": "https://arstechnica.com/gadgets/2025/09/apples-n1-chip-extends-its-custom-silicon-into-wi-fi-bluetooth-and-thread/",
+    "id_key": "cf781e29a3bc9df21358352699319c8103d2e258072fe339e2e80c9a2e41f4bc",
+    "summary": "Apple is using custom chips to provide even more functionality for its devices.",
+    "ingested_utc": "2025-09-09T22:50:36Z"
+  },
+  {
+    "published_utc": "2025-09-09",
+    "retrieved_date": "2025-09-09",
+    "retrieved_utc": "2025-09-09T22:50:20Z",
+    "source": "FT_Markets",
+    "title": "US Supreme Court to consider legality of Trump’s tariffs in November",
+    "url": "https://www.ft.com/content/95761c55-3807-4d3b-b757-45d4c55d4f88",
+    "id_key": "05b7245ff716fdf4211433549876b2ef3aa786f79aa66c4d7e53ee73ad1a6e01",
+    "summary": "Case marks first test of president’s use of emergency powers to impose policies",
+    "ingested_utc": "2025-09-09T22:50:20Z"
+  },
+  {
+    "published_utc": "2025-09-09",
+    "retrieved_date": "2025-09-09",
+    "retrieved_utc": "2025-09-09T22:50:17Z",
+    "source": "NPR_World",
+    "title": "Israel tried to kill Hamas leaders in a strike in Qatar. Trump disapproves",
+    "url": "https://www.npr.org/2025/09/09/nx-s1-5535210/israel-qatar-hamas-doha",
+    "id_key": "fb1efe04e9a0326c5becf85f5568e8735897f24d3392726614728e5a3c9546cf",
+    "summary": "The White House expressed disapproval with the attack, saying a unilateral strike in a country that's a U.S. ally \"does not advance Israel or America's goals,\" and tried to tip off Qatar in advance.",
+    "ingested_utc": "2025-09-09T22:50:17Z"
+  },
+  {
+    "published_utc": "2025-09-09",
+    "retrieved_date": "2025-09-09",
+    "retrieved_utc": "2025-09-09T22:50:15Z",
+    "source": "NPR_Top",
+    "title": "Hollywood stars boycott Israeli film companies in response to Gaza crisis",
+    "url": "https://www.npr.org/2025/09/09/nx-s1-5535578/hollywood-stars-boycott-israeli-film-companies-in-response-to-gaza-crisis",
+    "id_key": "8ce2e091ce1feffad98565418cd2a064f51615cc4691764ef5cde8bfdd710ea6",
+    "summary": "Emma Stone, Ava DuVernay and Gael Garcia Bernal are among more than 2,000 who signed the petition.",
+    "ingested_utc": "2025-09-09T22:50:15Z"
+  },
+  {
+    "published_utc": "2025-09-09",
+    "retrieved_date": "2025-09-09",
     "retrieved_utc": "2025-09-09T22:35:41Z",
     "source": "Nikkei_Asia_Top",
     "title": "Mitsubishi Heavy creates anti-radiation tents for nuclear accidents",
@@ -10943,60 +10998,5 @@
     "id_key": "64bc2fc4ef05b260bfdb05f4fd6b57b368d82b23dcb2483ed7cf24ea92bb8e5b",
     "summary": "The Hyperliquid community is weighing proposals from a number of stablecoin issuers proposing to build a U.S.dollar-pegged stablecoin native to Hyperliquid called USDH. Among the contenders are Frax Finance, Agora, Native Markets and even Paxos, which proposed spending 95% of interest earned to buy back Hyperliquid’s native token HYPE. Paxos ... The post Stablecoin Issuers Enter Bidding War to Launch Hyperliquid’s USDH appeared first on Unchained .",
     "ingested_utc": "2025-09-08T13:52:50Z"
-  },
-  {
-    "published_utc": "2025-09-08",
-    "retrieved_date": "2025-09-08",
-    "retrieved_utc": "2025-09-08T13:52:48Z",
-    "source": "CryptoNews",
-    "title": "HashKey Unleashes $500M+ Fund to Build Asia’s “Largest Institutional Bridge” to Crypto",
-    "url": "https://cryptonews.com/news/hashkey-unleashes-500m-fund-to-build-asias-largest-institutional-bridge-to-crypto/",
-    "id_key": "984056d7ea975b0781ac8cf6c10e4f4db6c931aa83b35d426595642c9b3dfc08",
-    "summary": "HashKey Group announced a multi-currency vehicle to serve as an institutional bridge between TradFi and crypto, with a first-phase raise targeted to exceed $500 million for the perpetual fund. The post HashKey Unleashes $500M+ Fund to Build Asia’s “Largest Institutional Bridge” to Crypto appeared first on Cryptonews .",
-    "ingested_utc": "2025-09-08T13:52:48Z"
-  },
-  {
-    "published_utc": "2025-09-08",
-    "retrieved_date": "2025-09-08",
-    "retrieved_utc": "2025-09-08T13:52:45Z",
-    "source": "Protos",
-    "title": "DeFi default: Kinto shutdown prompts first haircut for Wildcat lenders",
-    "url": "https://protos.com/defi-default-kinto-shutdown-prompts-first-haircut-for-wildcat-lenders/",
-    "id_key": "75a13698611fc79bccd69b3d63b96d88d02d80b77639cb2f47084095f58b46a4",
-    "summary": "A $750K bridge loan wasn't enough to save Kinto following a hack in July. Wildcat lenders will recover 76% of their deposit. The post DeFi default: Kinto shutdown prompts first haircut for Wildcat lenders appeared first on Protos .",
-    "ingested_utc": "2025-09-08T13:52:45Z"
-  },
-  {
-    "published_utc": "2025-09-08",
-    "retrieved_date": "2025-09-08",
-    "retrieved_utc": "2025-09-08T13:52:43Z",
-    "source": "CryptoSlate",
-    "title": "Ethereum ETFs hit by $1 billion pullback as lack of staking yield tests conviction",
-    "url": "https://cryptoslate.com/ethereum-etfs-hit-by-1-billion-pullback-as-lack-of-staking-yield-tests-conviction/",
-    "id_key": "910ef5962f57f830c53636a2a7d07e172f721dfac41aaf2d42b786aa11e185de",
-    "summary": "U.S. spot Ethereum ETFs have posted about $1 billion in net outflows, days after taking in roughly $1.4 billion during the prior week. The swing centers on primary market creations and redemptions that have become the main conduit for institutional ETH exposure in the U.S. Per SoSoValue’s U.S. ETH ETF dashboard, cumulative net outflows across […] The post Ethereum ETFs hit by $1 billion pullback as lack of staking yield tests conviction appeared first on CryptoSlate .",
-    "ingested_utc": "2025-09-08T13:52:43Z"
-  },
-  {
-    "published_utc": "2025-09-08",
-    "retrieved_date": "2025-09-08",
-    "retrieved_utc": "2025-09-08T13:52:41Z",
-    "source": "BitcoinMagazine",
-    "title": "New CLARITY Act Draft Could Shield Bitcoin and Crypto Developers From Past Liability",
-    "url": "https://bitcoinmagazine.com/legal/new-clarity-act-draft-could-shield-bitcoin-and-crypto-developers-from-past-liability",
-    "id_key": "d73d0847ef35f73971390470d2561fdc7dcdf351fc01a0897b7750ad2494c91d",
-    "summary": "Bitcoin Magazine New CLARITY Act Draft Could Shield Bitcoin and Crypto Developers From Past Liability In the U.S. Senate Banking Committee’s most recent version of the CLARITY Act, Bitcoin and crypto developers would be protected from being charged with operating an unlicensed money transmitting business moving forward — and retroactively. This post New CLARITY Act Draft Could Shield Bitcoin and Crypto Developers From Past Liability first appeared on Bitcoin Magazine and is written by Frank Corva .",
-    "ingested_utc": "2025-09-08T13:52:41Z"
-  },
-  {
-    "published_utc": "2025-09-08",
-    "retrieved_date": "2025-09-08",
-    "retrieved_utc": "2025-09-08T13:52:22Z",
-    "source": "Guardian_World",
-    "title": "Labour MPs must gain 80 nominations by Thursday to stand for deputy leader",
-    "url": "https://www.theguardian.com/politics/2025/sep/08/labour-mps-80-nominations-by-thursday-stand-deputy-leader-angela-rayner-resignation",
-    "id_key": "bc1f70425bce891198a96f0d31a32d2143b31d5a93ecbfd3e9c60cd8664b740c",
-    "summary": "Potential candidates need backing of at least 20% of parliamentary party, as Shabana Mahmood rules herself out UK politics live – latest updates Labour MPs hoping to replace Angela Rayner as the party’s deputy leader have until Thursday afternoon to gather the 80 MPs’ nominations they will need to stand, with the home secretary, Shabana Mahmood, ruling herself out of the race. Mahmood is the latest mooted hopeful to decide not to run, with Jess Phillips and Lisa Nandy also opting out. Continue reading...",
-    "ingested_utc": "2025-09-08T13:52:22Z"
   }
 ]
