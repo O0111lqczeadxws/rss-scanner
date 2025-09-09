@@ -2,6 +2,50 @@
   {
     "published_utc": "2025-09-09",
     "retrieved_date": "2025-09-09",
+    "retrieved_utc": "2025-09-09T10:54:17Z",
+    "source": "FinancialPost_Business",
+    "title": "Standard Bank Says Net Effect of East Africa Pipeline ‘Worth It’",
+    "url": "https://financialpost.com/pmn/business-pmn/standard-bank-says-net-effect-of-east-africa-pipeline-worth-it",
+    "id_key": "1af2565121b0b586b9afc81941c3d76b7b66ca12cea4b33fcc9cc1fa71745a27",
+    "summary": "Standard Bank Group Ltd. Chief Executive Officer Sim Tshabalala said the benefits of an oil pipeline the continent’s biggest lender is funding in East Africa outweigh the environmental risks.",
+    "ingested_utc": "2025-09-09T10:54:17Z"
+  },
+  {
+    "published_utc": "2025-09-09",
+    "retrieved_date": "2025-09-09",
+    "retrieved_utc": "2025-09-09T10:53:43Z",
+    "source": "TheVerge_All",
+    "title": "Firefox launches ‘shake to summarize’ on iPhones",
+    "url": "https://www.theverge.com/news/774129/firefox-shake-to-summarize-ios-ai-launch",
+    "id_key": "7f724c30ea14b044289ef3815c31463fea84771458092163dfda75b5df694767",
+    "summary": "Firefox will soon let you shake your iPhone to get an AI-generated summary of the webpage you’re on. The feature rolls out this week, and will operate using Apple’s on-device AI model on the iPhone 15 Pro or newer once iOS 26 launches. On older iOS versions, Mozilla will use its own cloud-based AI system […]",
+    "ingested_utc": "2025-09-09T10:53:43Z"
+  },
+  {
+    "published_utc": "2025-09-09",
+    "retrieved_date": "2025-09-09",
+    "retrieved_utc": "2025-09-09T10:52:31Z",
+    "source": "Teku_Releases",
+    "title": "25.9.2",
+    "url": "https://github.com/Consensys/teku/releases/tag/25.9.2",
+    "id_key": "94a57006bb62460e7eae4fee36c6facc8f7952d82690c43e0e933e0e24f11a1c",
+    "summary": "This is a hotfix release targeting an issue with 25.9.1 . If you are a node operator running 25.9.1 , it is highly recommended to upgrade. For all other operators, it is an optional upgrade. Key Changes bug fix resolving a potential deadlock introduced with 25.9.1 , causing the node to stall. Downloads Available as 25.9.2 on Dockerhub Download the binary distribution: tar.gz (sha256: 6af63091336c524d0a4773463d1d5e98ef6d77af341461f95768c4c2e0a87145 ) zip (sha256: 5abd86581bb06c029fd76971ad6a221b2bdd04505b2ab17aeeb60c3e47bb4bbe ) Breaking Changes N/A Additions and Improvements N/A Bug Fixes bug fix resolving a potential deadlock introduced with 25.9.1, causing the node to stall. Upcoming Breaking Changes GOSSIP_MAX_SIZE , MAX_CHUNK_SIZE , TTFB_TIMEOUT , and RESP_TIMEOUT configuration variables will NOT be supported after the Fusaka Mainnet release. These variables should be removed from any custom network configs.",
+    "ingested_utc": "2025-09-09T10:52:31Z"
+  },
+  {
+    "published_utc": "2025-09-09",
+    "retrieved_date": "2025-09-09",
+    "retrieved_utc": "2025-09-09T10:51:26Z",
+    "source": "CryptoNews",
+    "title": "California Man Gets 51 Months for Laundering $37M in Cambodia-Based Crypto Scam",
+    "url": "https://cryptonews.com/news/california-man-gets-51-months-for-laundering-37m-in-cambodia-based-crypto-scam/",
+    "id_key": "07b74fea7c2bc0286422d388a0e937dc948fa34d5ff653bf5e25e93010560975",
+    "summary": "California resident Shengsheng He received a 51-month federal prison sentence for laundering $36.9 million from victims in an international crypto investment scam operated from Cambodia-based centers, using his Bahamas company Axis Digital Limited to convert victim funds into Tether stablecoin before transferring to Cambodia-controlled digital wallets with $26.8 million in restitution ordered. The post California Man Gets 51 Months for Laundering $37M in Cambodia-Based Crypto Scam appeared first on Cryptonews .",
+    "ingested_utc": "2025-09-09T10:51:26Z"
+  },
+  {
+    "published_utc": "2025-09-09",
+    "retrieved_date": "2025-09-09",
     "retrieved_utc": "2025-09-09T10:42:56Z",
     "source": "FinancialPost_Business",
     "title": "Vancouver-based Teck Resources and Anglo American announce merger",
@@ -10954,49 +10998,5 @@
     "id_key": "4b45f2178c8177b450b78b319b65b332946a4cc18fede75e9af1fbd070e64d86",
     "summary": "Prime Minister Narendra Modi’s symbolic handshake with President Xi Jinping in China, combined with fresh tax cuts at home, is fueling optimism that Indian equities will finally narrow the gap with their emerging-market peers.",
     "ingested_utc": "2025-09-07T03:13:55Z"
-  },
-  {
-    "published_utc": "2025-09-07",
-    "retrieved_date": "2025-09-07",
-    "retrieved_utc": "2025-09-07T03:13:55Z",
-    "source": "FinancialPost_Business",
-    "title": "OPEC+ to Dominate Singapore’s Glitzy Oil Bash as Surplus Looms",
-    "url": "https://financialpost.com/pmn/business-pmn/opec-to-dominate-singapores-glitzy-oil-bash-as-surplus-looms",
-    "id_key": "2d3aaed6ddb6f3015fe59bff51c65a2a05f96337f919c65b75488c4ecac609f8",
-    "summary": "An expected move by the world’s top oil-producing nations to once again increase output will set the tone for Asia’s biggest gathering of oil executives this week in Singapore, with chatter about looming oversupply certain to dominate conversations.",
-    "ingested_utc": "2025-09-07T03:13:55Z"
-  },
-  {
-    "published_utc": "2025-09-07",
-    "retrieved_date": "2025-09-07",
-    "retrieved_utc": "2025-09-07T03:13:48Z",
-    "source": "AlJazeera_All",
-    "title": "US Open: Sabalenka wins second straight title, defeats Anisimova",
-    "url": "https://www.aljazeera.com/sports/2025/9/7/us-open-sabalenka-wins-second-straight-title-defeats-anisimova?traffic_source=rss",
-    "id_key": "bcaafe85e2137933b711e10e3c4fcd2a9b787774b42831b5a6c5429c00e8fdf6",
-    "summary": "World number one Aryna Sabalenka defended her US Open title with a straight-sets victory against Amanda Anisimova.",
-    "ingested_utc": "2025-09-07T03:13:48Z"
-  },
-  {
-    "published_utc": "2025-09-07",
-    "retrieved_date": "2025-09-07",
-    "retrieved_utc": "2025-09-07T03:13:07Z",
-    "source": "NPR_Top",
-    "title": "Young Phillies fan is gifted swag after adult fan takes his home run ball",
-    "url": "https://www.npr.org/2025/09/06/nx-s1-5532632/phillies-marlins-young-fan-home-run-ball-woman",
-    "id_key": "99e30bb54cbbf45fddf471390c250301ee9cad67bfa220aeae501cfcd6dee0aa",
-    "summary": "A boy in the stands of a Philadelphia Phillies game thought he'd scored a baseball hit by Phillies outfielder Harrison Bader, until another fan insisted the ball was hers.",
-    "ingested_utc": "2025-09-07T03:13:07Z"
-  },
-  {
-    "published_utc": "2025-09-07",
-    "retrieved_date": "2025-09-07",
-    "retrieved_utc": "2025-09-07T03:12:59Z",
-    "source": "NYTimes_World",
-    "title": "A World War II Dispute Between Ukraine and Poland Is Put to Rest",
-    "url": "https://www.nytimes.com/2025/09/06/world/europe/ukraine-poland-reburial-worldwar.html",
-    "id_key": "dead4b81fa1b4889ea5d21e0a144b17fb6805845f8b1130e03b01df24448ecd6",
-    "summary": "The remains of people killed and left in mass graves in the waning days of the war are being given dignified burials.",
-    "ingested_utc": "2025-09-07T03:12:59Z"
   }
 ]
