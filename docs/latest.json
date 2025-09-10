@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-09-10",
     "retrieved_date": "2025-09-10",
+    "retrieved_utc": "2025-09-10T07:51:05Z",
+    "source": "Nikkei_Asia_Top",
+    "title": "Tariffs to spur US partners to diversify, ex-negotiator says",
+    "url": "https://asia.nikkei.com/economy/trade-war/tariffs-to-spur-us-partners-to-diversify-ex-negotiator-says",
+    "id_key": "b0ab44b942581f7c052b986dd02f7a1b920e8e6d9a457a18dfbfda60bc52ef5d",
+    "summary": "",
+    "ingested_utc": "2025-09-10T07:51:05Z"
+  },
+  {
+    "published_utc": "2025-09-10",
+    "retrieved_date": "2025-09-10",
     "retrieved_utc": "2025-09-10T07:43:12Z",
     "source": "Guardian_World",
     "title": "Alleged mastermind behind antisemitic attacks on Sydney childcare centre and Jewish school charged",
@@ -10987,16 +10998,5 @@
     "id_key": "4e3bb609e9112d3a87e1995d1cbc707b81ea528f297e1d5b97e4a61159e0d600",
     "summary": "After nearly everyone working on the Nova Launcher, one of the most recognizable names in Android launchers, was laid off last year, founder Kevin Barry, Nova’s sole remaining developer, said this weekend that he has left Nova’s parent company after being asked to stop working on the launcher and an effort to open-source it. Nova […]",
     "ingested_utc": "2025-09-08T17:49:43Z"
-  },
-  {
-    "published_utc": "2025-09-08",
-    "retrieved_date": "2025-09-08",
-    "retrieved_utc": "2025-09-08T17:49:24Z",
-    "source": "NPR_Top",
-    "title": "France's government collapses after the prime minister loses a confidence vote",
-    "url": "https://www.npr.org/2025/09/08/g-s1-87610/france-government-collapse-confidence-vote-macron-bayou",
-    "id_key": "bb800b57f985021d317e80805c818097257ba2d709a26a3c3b1985bfe97a1fc0",
-    "summary": "Legislators toppled France's government in a confidence vote, a new crisis for Europe's second-largest economy. Prime Minister François Bayrou was ousted overwhelmingly in a 364-194 vote against him.",
-    "ingested_utc": "2025-09-08T17:49:24Z"
   }
 ]
