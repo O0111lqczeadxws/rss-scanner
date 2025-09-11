@@ -2,6 +2,50 @@
   {
     "published_utc": "2025-09-11",
     "retrieved_date": "2025-09-11",
+    "retrieved_utc": "2025-09-11T09:51:05Z",
+    "source": "FinancialPost_Business",
+    "title": "EU Financial Chief Sees ‘More Appealing’ Rules Luring ESG Money",
+    "url": "https://financialpost.com/pmn/business-pmn/eu-financial-chief-sees-more-appealing-rules-luring-esg-money",
+    "id_key": "6fd56a5ed0509d9a8d736ac4d66a5faeb0a4188b713cd7cf1a23097a614d2778",
+    "summary": "Efforts to make the European Union’s financial regulations more attractive to investors would likely draw more green capital to the bloc, according to the EU’s financial services commissioner, Maria Luís Albuquerque.",
+    "ingested_utc": "2025-09-11T09:51:05Z"
+  },
+  {
+    "published_utc": "2025-09-11",
+    "retrieved_date": "2025-09-11",
+    "retrieved_utc": "2025-09-11T09:50:17Z",
+    "source": "FT_Home",
+    "title": "UN to hold emergency meeting on Russian drone incursion, says Poland",
+    "url": "https://www.ft.com/content/33bfd430-cc88-49e4-ae47-1e45bc8766ad",
+    "id_key": "78df9e576abfdb20b650c1097ae37c17c2aebc7bd63f12d4a786229fd8415d68",
+    "summary": "Warsaw indicates security council will hold special session as it seeks international response to violation of its airspace",
+    "ingested_utc": "2025-09-11T09:50:17Z"
+  },
+  {
+    "published_utc": "2025-09-11",
+    "retrieved_date": "2025-09-11",
+    "retrieved_utc": "2025-09-11T09:49:55Z",
+    "source": "MarketWatch_Bulletins",
+    "title": "Here's a JPMorgan cheat sheet on how S&P 500 may react to CPI",
+    "url": "https://www.marketwatch.com/bulletins/redirect/go?g=3e35f112-9a82-4a2f-8d05-83698c44a191&mod=mw_rss_bulletins",
+    "id_key": "99f8819ffde9c330102d2eee80dd0894db1cff22d3b20e88886ad9b9e6e17e87",
+    "summary": "",
+    "ingested_utc": "2025-09-11T09:49:55Z"
+  },
+  {
+    "published_utc": "2025-09-11",
+    "retrieved_date": "2025-09-11",
+    "retrieved_utc": "2025-09-11T09:47:35Z",
+    "source": "Guardian_World",
+    "title": "Sotheby’s losses more than double to $248m as art market slumps",
+    "url": "https://www.theguardian.com/business/2025/sep/11/sothebys-auction-house-losses-more-than-double",
+    "id_key": "917507ccf226d8d32865fabe369c60a85488e753757cef138f3f9eb81cdb6632",
+    "summary": "Auction house also takes hit from hefty severance costs, despite its headcount only dropping by 24 employees Losses at Sotheby’s auction house more than doubled last year, as the company owned by billionaire Patrick Drahi suffered from a continued slump in the art market and high severance costs. Filings from its parent company, Bidfair Luxembourg, showed losses widened significantly to $248m (£184m) over the 12 months to 2024, after losses of $106m a year earlier. Continue reading...",
+    "ingested_utc": "2025-09-11T09:47:35Z"
+  },
+  {
+    "published_utc": "2025-09-11",
+    "retrieved_date": "2025-09-11",
     "retrieved_utc": "2025-09-11T09:35:20Z",
     "source": "HackerNews_Top",
     "title": "Germany is not supporting ChatControl – blocking minority secured",
@@ -10954,49 +10998,5 @@
     "id_key": "2027b712f88c3d8568e2a6b3a37860e0fd47762f9ea566a116d293f5eaa6e3a9",
     "summary": "All four of the devices will be available to preorder on Friday and will be available on September 19.",
     "ingested_utc": "2025-09-09T19:26:30Z"
-  },
-  {
-    "published_utc": "2025-09-09",
-    "retrieved_date": "2025-09-09",
-    "retrieved_utc": "2025-09-09T19:26:30Z",
-    "source": "TechCrunch_All",
-    "title": "Apple launches iPhone 17 with a 120 Hz display",
-    "url": "https://techcrunch.com/2025/09/09/apple-launches-iphone-17-with-a-120hz-display/",
-    "id_key": "522d730a6bbd01f51e2ee2a3ba8e10aea9aa95191a3b10d93bf519c2cfa6fef1",
-    "summary": "The iPhone 17 has a slightly bigger screen at 6.3 inches as compared to the 6.1-inch screen of the iPhone 16. The display is getting an upgrade with ProMotion.",
-    "ingested_utc": "2025-09-09T19:26:30Z"
-  },
-  {
-    "published_utc": "2025-09-09",
-    "retrieved_date": "2025-09-09",
-    "retrieved_utc": "2025-09-09T19:26:29Z",
-    "source": "TheVerge_All",
-    "title": "Apple barely talked about AI at its big iPhone 17 event",
-    "url": "https://www.theverge.com/apple-event/774963/apple-september-launch-event-ai-apple-intelligence",
-    "id_key": "c0a1daa38bfcb9e27dbd91542c4f04a6fc52cfd4f5c610244e55d3b984cfc692",
-    "summary": "Apple's hotly-anticipated Apple event was chock-full of news about updates to AirPods, the Apple Watch, the new suite of iPhones, and more. But during the one-hour-and-fifteen-minute presentation, which was considerably shorter than usual, there was one notable buzzword missing from a good chunk of the fanfare: AI. Although CEO Tim Cook said during the livestream […]",
-    "ingested_utc": "2025-09-09T19:26:29Z"
-  },
-  {
-    "published_utc": "2025-09-09",
-    "retrieved_date": "2025-09-09",
-    "retrieved_utc": "2025-09-09T19:26:29Z",
-    "source": "TheVerge_All",
-    "title": "The iPhone 17 comes with Apple’s new in-house networking chip",
-    "url": "https://www.theverge.com/news/774941/apple-iphone-17-n1-wi-fi-bluetooth-thread-networking-chip",
-    "id_key": "7f8694a22a15f220823a7b4c95cc973f549fcc9ccecace9d92c96f511f4d3bd6",
-    "summary": "Inside Apple’s splashy iPhone 17 lineup is a new chip: the N1. It’s a wireless networking chip made in-house by Apple, allowing its devices to support the latest networking technologies, including Wi-Fi 7, Bluetooth 6, and the smart home protocol Thread. Apple previously used chips made by Broadcom to power Bluetooth and Wi-Fi within its […]",
-    "ingested_utc": "2025-09-09T19:26:29Z"
-  },
-  {
-    "published_utc": "2025-09-09",
-    "retrieved_date": "2025-09-09",
-    "retrieved_utc": "2025-09-09T19:26:29Z",
-    "source": "TheVerge_All",
-    "title": "Hands-on with all the new Apple Watches: Series 11, Ultra 3, and SE 3",
-    "url": "https://www.theverge.com/hands-on/773039/hands-on-with-new-apple-watches",
-    "id_key": "65bfddec6ca371eee975129c82d053b8ad2dd70af98625698441351f83b3a402",
-    "summary": "Following Apple's \"Awe dropping\" event today, we've been able to try out all the new Apple Watch models announced today including the Series 11, the Ultra 3, and the refreshes SE 3. The entry-level Apple Watch SE was last updated in 2022 with the second-generation model, but the new SE 3, which starts at $249 […]",
-    "ingested_utc": "2025-09-09T19:26:29Z"
   }
 ]
