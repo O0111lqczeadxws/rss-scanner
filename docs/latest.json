@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-09-11",
     "retrieved_date": "2025-09-11",
+    "retrieved_utc": "2025-09-11T17:39:19Z",
+    "source": "WIRED_All",
+    "title": "Nvidia GeForce Now RTX 5080 (Blackwell) Review: RTX 5080 in a MacBook",
+    "url": "https://www.wired.com/review/nvidia-geforce-now-rtx-5080-blackwell/",
+    "id_key": "46dc8985bce5ccca1b2c837badc6eb9ba889a7a3a0848a5ba6bfeb3af38440a0",
+    "summary": "Nvidia has updated its GeForce Now game-streaming service with the RTX 5080, but it's more than just a GPU swap.",
+    "ingested_utc": "2025-09-11T17:39:19Z"
+  },
+  {
+    "published_utc": "2025-09-11",
+    "retrieved_date": "2025-09-11",
     "retrieved_utc": "2025-09-11T17:32:44Z",
     "source": "MIT_TechReview",
     "title": "We can’t “make American children healthy again” without tackling the gun crisis",
@@ -10987,16 +10998,5 @@
     "id_key": "b477b0a7a66995946a9f8f0287108688cdfb8a51ba4fe97c98b2707ba29b27c1",
     "summary": "",
     "ingested_utc": "2025-09-10T06:51:15Z"
-  },
-  {
-    "published_utc": "2025-09-10",
-    "retrieved_date": "2025-09-10",
-    "retrieved_utc": "2025-09-10T06:49:15Z",
-    "source": "CryptoNews",
-    "title": "KindlyMD’s Nakamoto Commits $30M to Metaplanet in First Asia Bitcoin Treasury Bet",
-    "url": "https://cryptonews.com/news/kindlymds-nakamoto-commits-30m-to-metaplanet/",
-    "id_key": "a2117e763e53d3ab3ebc2629ceb19c653f24ebd25cf9083800850d8afdcac50f",
-    "summary": "Nakamoto, a subsidiary of KindlyMD, has committed up to $30 million to join Metaplanet’s global equity offering. The post KindlyMD’s Nakamoto Commits $30M to Metaplanet in First Asia Bitcoin Treasury Bet appeared first on Cryptonews .",
-    "ingested_utc": "2025-09-10T06:49:15Z"
   }
 ]
