@@ -2,6 +2,50 @@
   {
     "published_utc": "2025-09-11",
     "retrieved_date": "2025-09-11",
+    "retrieved_utc": "2025-09-11T19:50:33Z",
+    "source": "TheStreet_Top",
+    "title": "Critical American manufacturing giant files Chapter 11 bankruptcy",
+    "url": "https://www.thestreet.com/retail/critical-us-manufacturing-company-files-chapter-11-bankruptcy",
+    "id_key": "cf2d794683a71416068debe3d5a065b47fd50d7517f40e00552081be6e21b16b",
+    "summary": "If the company fails, the United States would need to buy key items from China and Russia.",
+    "ingested_utc": "2025-09-11T19:50:33Z"
+  },
+  {
+    "published_utc": "2025-09-11",
+    "retrieved_date": "2025-09-11",
+    "retrieved_utc": "2025-09-11T19:49:43Z",
+    "source": "NYTimes_World",
+    "title": "Carney Unveils Major Projects for Canada to Offset Damage of Trump’s Tariffs",
+    "url": "https://www.nytimes.com/2025/09/11/world/canada/carney-trump-infrastructure-tariffs-natural-gas.html",
+    "id_key": "f6fca7423c9e088cdabef2b79ce3046a7a425dd4e0b1a116521b221f3d328e98",
+    "summary": "Prime Minister Mark Carney unveiled big infrastructure plans. But they are likely to meet resistance from Indigenous and environmental groups.",
+    "ingested_utc": "2025-09-11T19:49:43Z"
+  },
+  {
+    "published_utc": "2025-09-11",
+    "retrieved_date": "2025-09-11",
+    "retrieved_utc": "2025-09-11T19:47:24Z",
+    "source": "Guardian_World",
+    "title": "What did Jair Bolsonaro’s trial reveal about an attempted coup in Brazil?",
+    "url": "https://www.theguardian.com/world/2025/sep/11/jair-bolsonaro-conviction-attempted-coup-what-happens-next-explainer",
+    "id_key": "da76e8e2d4e73b2aabdcfd71ec2afaf98c2badcc7041c4a43ed2dc098ba5fd53",
+    "summary": "Far-right ex-president was found to have led a ‘criminal organisation’ to try to stay in power Bolsonaro found guilty of plotting military coup Brazil’s supreme court has made Jair Bolsonaro the first former president in the country’s history to be convicted for attempting a coup . The 70-year-old far-right leader claims he is the victim of political persecution, but three out of five judges concluded on Thursday that it was sufficiently proven that Bolsonaro and his close allies attempted to overturn the 2022 election, which he lost to Luiz Inácio Lula da Silva. Continue reading...",
+    "ingested_utc": "2025-09-11T19:47:24Z"
+  },
+  {
+    "published_utc": "2025-09-11",
+    "retrieved_date": "2025-09-11",
+    "retrieved_utc": "2025-09-11T19:47:24Z",
+    "source": "Guardian_World",
+    "title": "Democratic senators back from Middle East trip say US complicit in Israel’s ethnic cleansing",
+    "url": "https://www.theguardian.com/us-news/2025/sep/11/democratic-senators-gaza-ethnic-cleansing",
+    "id_key": "168ecbb0cbe1b9d9378bcf0fdf08b6e54303fa5c3b4a89849776b82c9207c580",
+    "summary": "Chris Van Hollen of Maryland and Jeff Merkley of Oregon say Israel is systematically destroying Palestinians Two Democratic senators claim they’ve reached the “inescapable conclusion” that Israel is acting on a systematic plan to destroy and ethnically cleanse Palestinians from Gaza to force locals to leave, and they say the US is complicit. Chris Van Hollen of Maryland and Jeff Merkley of Oregon, both members of the Senate foreign relations committee, released their findings in a report on Thursday after returning from a congressional delegation to the Middle East where, they note, the destruction goes beyond bombs and bullets. They say they also found a systematic campaign to strangle humanitarian aid, which they call “using food as a weapon of war”. Continue reading...",
+    "ingested_utc": "2025-09-11T19:47:24Z"
+  },
+  {
+    "published_utc": "2025-09-11",
+    "retrieved_date": "2025-09-11",
     "retrieved_utc": "2025-09-11T19:41:07Z",
     "source": "HackerNews_Top",
     "title": "Making io_uring pervasive in QEMU [pdf]",
@@ -10954,49 +10998,5 @@
     "id_key": "0376f4d363397c12457b9d3b55e7c525346afeeedf77c35cfb9c6901e9960a7e",
     "summary": "Tusk says there were 19 violations of Polish airspace overnight and most likely that four drones shot down Full report: Poland shoots down drones over its territory amid Russian attack on Ukraine, says military Lubelskie region governor Krzysztof Komorski is leading an emergency meeting with the police this morning. In a post on X , he urged residents to follow the guidance from the relevant authorities. Prime minister Donald Tusk meanwhile said in his latest update that he is in “constant contact” with Nato secretary general Mark Rutte. Continue reading...",
     "ingested_utc": "2025-09-10T09:47:10Z"
-  },
-  {
-    "published_utc": "2025-09-10",
-    "retrieved_date": "2025-09-10",
-    "retrieved_utc": "2025-09-10T09:35:41Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "Japan's GDP contracted annualized 1.1% in July: JCER",
-    "url": "https://asia.nikkei.com/economy/japan-s-gdp-contracted-annualized-1.1-in-july-jcer",
-    "id_key": "b6c1734209e610eba837ebc7b6226a85181cda36dfa3eb4545449dca9119fad4",
-    "summary": "",
-    "ingested_utc": "2025-09-10T09:35:41Z"
-  },
-  {
-    "published_utc": "2025-09-10",
-    "retrieved_date": "2025-09-10",
-    "retrieved_utc": "2025-09-10T09:35:41Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "Beijing slams Trump's call for EU to target China with tariffs",
-    "url": "https://asia.nikkei.com/politics/international-relations/us-china-tensions/beijing-slams-trump-s-call-for-eu-to-target-china-with-tariffs",
-    "id_key": "2b6efb55dfc1b12e297271cd2b90f994f3705447d53cf9b82096a99a1ed0f007",
-    "summary": "",
-    "ingested_utc": "2025-09-10T09:35:41Z"
-  },
-  {
-    "published_utc": "2025-09-10",
-    "retrieved_date": "2025-09-10",
-    "retrieved_utc": "2025-09-10T09:35:35Z",
-    "source": "FinancialPost_Business",
-    "title": "Iran Takes Step Toward Breaking Deadlock With UN Atomic Watchdog",
-    "url": "https://financialpost.com/pmn/business-pmn/iran-takes-step-toward-breaking-deadlock-with-un-atomic-watchdog",
-    "id_key": "e9cdcb1006021fdfae31bd0d060409f4443cbfffe1172a76671edea857c63776",
-    "summary": "Iran took a step toward breaking the impasse with United Nations inspectors over access to its nuclear facilities, with a top-level meeting in Cairo yielding the groundwork for a return of monitors potentially as soon as next month, according to two diplomats familiar with the situation.",
-    "ingested_utc": "2025-09-10T09:35:35Z"
-  },
-  {
-    "published_utc": "2025-09-10",
-    "retrieved_date": "2025-09-10",
-    "retrieved_utc": "2025-09-10T09:35:35Z",
-    "source": "FinancialPost_Business",
-    "title": "Fortuna advances $19 million generative exploration program across Côte d’Ivoire, Mexico, and Argentina",
-    "url": "https://financialpost.com/globe-newswire/fortuna-advances-19-million-generative-exploration-program-across-cote-divoire-mexico-and-argentina",
-    "id_key": "7c7365f470f7986aad45b96e8949d1ba23cab3a9f48521c8d580491f576f7f7f",
-    "summary": "VANCOUVER, British Columbia, Sept. 10, 2025 (GLOBE NEWSWIRE) — Fortuna Mining Corp. (NYSE: FSM | TSX: FVI) is pleased to provide an update on its $19 million generative exploration program across its portfolio of projects in Côte d’Ivoire, Mexico, and Argentina. Paul Weedon, Senior Vice President of Exploration at Fortuna, commented, “This year, Fortuna has […]",
-    "ingested_utc": "2025-09-10T09:35:35Z"
   }
 ]
