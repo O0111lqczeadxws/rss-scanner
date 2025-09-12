@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-09-12",
     "retrieved_date": "2025-09-12",
+    "retrieved_utc": "2025-09-12T04:51:03Z",
+    "source": "Nikkei_Asia_Top",
+    "title": "Pakistan flooding's $1bn damage to crops threatens food security",
+    "url": "https://asia.nikkei.com/economy/natural-disasters/pakistan-flooding-s-1bn-damage-to-crops-threatens-food-security",
+    "id_key": "2269ea1c7fe0682c36ec13a6c2e4192f8430be7db20bfa61a844be54177198e7",
+    "summary": "",
+    "ingested_utc": "2025-09-12T04:51:03Z"
+  },
+  {
+    "published_utc": "2025-09-12",
+    "retrieved_date": "2025-09-12",
     "retrieved_utc": "2025-09-12T04:39:54Z",
     "source": "FinancialPost_Business",
     "title": "Spain Wants to Save Rural Areas — and It’s Finding Creative Ways to Do it",
@@ -559,6 +570,17 @@
     "id_key": "8ceb6d4a5a3ba290aab12a67752dc34ab5827460ccecdf963825b18b00563edb",
     "summary": "Vice-president JD Vance flies with casket as officials say rifle found and images of suspect released Charlie Kirk shooting: latest updates How the Charlie Kirk shooting unfolded – in maps, videos and images JD Vance, the vice-president, flew with the casket of the rightwing activist Charlie Kirk from Utah, where he was fatally shot, to Arizona, where the 31-year-old lived and grew his conservative youth movement, as the search for his killer continued. Kirk, a close political ally of Donald Trump and a personal friend of Vance, was shot on Wednesday afternoon during an open-air discussion attended by about 3,000 people at Utah Valley University (UVU) in Orem. The shooting, which the president called a “dark moment for America”, comes as the country grapples with mounting political anger and polarization. Continue reading...",
     "ingested_utc": "2025-09-12T03:01:33Z"
+  },
+  {
+    "published_utc": "2025-09-11",
+    "retrieved_date": "2025-09-12",
+    "retrieved_utc": "2025-09-12T04:49:32Z",
+    "source": "FT_Markets",
+    "title": "US to urge G7 to impose high tariffs on China and India over Russian oil purchases",
+    "url": "https://www.ft.com/content/51ea9210-078f-42d7-a4ba-5ad985902761",
+    "id_key": "7102b907f023fcff177cf477e68245903f0c9f94acfe8fc6ac58b9aa3966d994",
+    "summary": "Trump administration extends call for tougher measures beyond EU as it pushes Moscow to agree Ukraine peace deal",
+    "ingested_utc": "2025-09-12T04:49:32Z"
   },
   {
     "published_utc": "2025-09-11",
@@ -10976,27 +10998,5 @@
     "id_key": "9cb0bd134723f8c4160e9864e4f22054bcd6495a2f1f35cc126b0478d5ade1b8",
     "summary": "Federal Reserve Governor Lisa Cook won a round in federal court in her bid to keep her job despite President Trump's effort to fire her.",
     "ingested_utc": "2025-09-10T13:48:00Z"
-  },
-  {
-    "published_utc": "2025-09-10",
-    "retrieved_date": "2025-09-10",
-    "retrieved_utc": "2025-09-10T13:47:04Z",
-    "source": "Erigon_Releases",
-    "title": "v3.0.17 \"Otterly Odyssey\"",
-    "url": "https://github.com/erigontech/erigon/releases/tag/v3.0.17",
-    "id_key": "7aed95244705d5083112c117712023c734a4afa958858ab0658179a865d7de59",
-    "summary": "This is an emergency release for Amoy. Amoy users upgrading from 3.0.16 or 3.0.15 need to delete /heimdall and /polygon-bridge folders and restart. What's Changed Patch bad sprints on Amoy by @antonis19 in #17078 Full Changelog : v3.0.16...v3.0.17",
-    "ingested_utc": "2025-09-10T13:47:04Z"
-  },
-  {
-    "published_utc": "2025-09-10",
-    "retrieved_date": "2025-09-10",
-    "retrieved_utc": "2025-09-10T13:46:47Z",
-    "source": "Kraken_Blog",
-    "title": "Up to 10x increased margin leverage on Kraken Pro: ADA, LINK, AVAX, SUI, LTC",
-    "url": "https://blog.kraken.com/product/pro/10x-increased-margin",
-    "id_key": "3372abdb0d91e1cf273beabbcb9a21106e4a0d90714487d41a18da54ae1c928d",
-    "summary": "Kraken is doubling down on trader empowerment. By increasing margin trading leverage from 2x to 10x on select pairs, we’re giving experienced traders more flexibility, efficiency, and capital power than ever before. Margin leverage is increasing for five of our most popular crypto assets: ADA, LINK, AVAX, SUI and LTC! 10x margin trading is now […] The post Up to 10x increased margin leverage on Kraken Pro: ADA, LINK, AVAX, SUI, LTC appeared first on Kraken Blog .",
-    "ingested_utc": "2025-09-10T13:46:47Z"
   }
 ]
