@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-09-12",
     "retrieved_date": "2025-09-12",
+    "retrieved_utc": "2025-09-12T21:39:24Z",
+    "source": "FinancialPost_Business",
+    "title": "Ascot Provides Update on Listing",
+    "url": "https://financialpost.com/globe-newswire/ascot-provides-update-on-listing",
+    "id_key": "5a718d5adeee87ab207abaceea6cec19f6c73f3f27a74dda6050e5fd7f300535",
+    "summary": "Not for distribution to U.S. news wire services or dissemination in the United States. VANCOUVER, British Columbia, Sept. 12, 2025 (GLOBE NEWSWIRE) — Ascot Resources Ltd. (TSX: AOT; OTCQB: AOTVF) (“Ascot” or the “Company”) has received a letter from the Continued Listing Committee (“Committee“) of the Toronto Stock Exchange (“TSX“) stating that the Committee has […]",
+    "ingested_utc": "2025-09-12T21:39:24Z"
+  },
+  {
+    "published_utc": "2025-09-12",
+    "retrieved_date": "2025-09-12",
     "retrieved_utc": "2025-09-12T21:29:14Z",
     "source": "FinancialPost_Business",
     "title": "Brompton Proposes Merger of Symphony Floating Rate Senior Loan Fund With Brompton Wellington Square Investment Grade CLO ETF",
@@ -10985,17 +10996,6 @@
     "title": "Mitsubishi Electric eyes top spot in factory security with US acquisition",
     "url": "https://asia.nikkei.com/spotlight/cybersecurity/mitsubishi-electric-eyes-top-spot-in-factory-security-with-us-acquisition",
     "id_key": "689c0ace3257c2952b3e8d82450d614b14123531cebe3625aec3cc96eb11e02d",
-    "summary": "",
-    "ingested_utc": "2025-09-11T03:11:24Z"
-  },
-  {
-    "published_utc": "2025-09-11",
-    "retrieved_date": "2025-09-11",
-    "retrieved_utc": "2025-09-11T03:11:24Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "Japan to start talks over frigate exports to the Philippines",
-    "url": "https://asia.nikkei.com/politics/defense/japan-to-start-talks-over-frigate-exports-to-the-philippines",
-    "id_key": "c85702ac73b87a1480fb8cd5d6c076888057133199bb0be2e1908e49ea7b081b",
     "summary": "",
     "ingested_utc": "2025-09-11T03:11:24Z"
   }
