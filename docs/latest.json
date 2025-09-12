@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-09-12",
     "retrieved_date": "2025-09-12",
+    "retrieved_utc": "2025-09-12T08:57:13Z",
+    "source": "TheVerge_All",
+    "title": "Microsoft avoids EU fine after Slack complained about Teams bundling",
+    "url": "https://www.theverge.com/news/776968/microsoft-teams-eu-commitments-avoid-fine",
+    "id_key": "80f4e4748b3a4ec8276271541e311b6f8e7351f3e82ee6fac71181312e3ab002",
+    "summary": "Microsoft has avoided a fine from the European Commission after it was charged with EU antitrust violations for bundling its Teams app with Office 365 and Microsoft 365 subscriptions. The European Commission says it has accepted commitments from Microsoft to address competition concerns related to Microsoft Teams, following an anti-competitive complaint filed by Slack in […]",
+    "ingested_utc": "2025-09-12T08:57:13Z"
+  },
+  {
+    "published_utc": "2025-09-12",
+    "retrieved_date": "2025-09-12",
     "retrieved_utc": "2025-09-12T08:45:19Z",
     "source": "HackerNews_Top",
     "title": "Hyundai is now delaying its EV battery plant that was raided by ICE",
@@ -10986,17 +10997,6 @@
     "url": "https://cryptobriefing.com/binanceus-lists-pump-fun-pump-token-solana-support/",
     "id_key": "c6ec7d485bca4f30d78245b6ecfd1f8b5e19d655f69bc516bfed64fd31c210e8",
     "summary": "The listing could enhance Solana's ecosystem visibility and drive increased user engagement with meme coin platforms in the US market. The post Binance.US lists $PUMP from Pump.fun with trading on PUMP/USDT and Solana network support appeared first on Crypto Briefing .",
-    "ingested_utc": "2025-09-10T15:33:57Z"
-  },
-  {
-    "published_utc": "2025-09-10",
-    "retrieved_date": "2025-09-10",
-    "retrieved_utc": "2025-09-10T15:33:57Z",
-    "source": "CryptoBriefing",
-    "title": "SEC Chair Paul Atkins backs crypto super apps with unified licenses and flexible custody",
-    "url": "https://cryptobriefing.com/sec-chair-paul-atkins-backs-crypto-super-apps-unified-licenses-flexible-custody/",
-    "id_key": "fdeb2844b6cc44a9c5cccfaabc05f489597c0f2411d3cb7a8e833572791cd9f1",
-    "summary": "Unified crypto super apps could streamline regulations, reduce costs, and foster innovation, potentially transforming the digital asset landscape. The post SEC Chair Paul Atkins backs crypto super apps with unified licenses and flexible custody appeared first on Crypto Briefing .",
     "ingested_utc": "2025-09-10T15:33:57Z"
   }
 ]
