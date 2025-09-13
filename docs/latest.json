@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-09-13",
     "retrieved_date": "2025-09-13",
+    "retrieved_utc": "2025-09-13T03:34:14Z",
+    "source": "FinancialPost_Business",
+    "title": "Canada Securities Watchdog Seeks First Greenwashing Sanction",
+    "url": "https://financialpost.com/pmn/business-pmn/canada-securities-watchdog-seeks-first-greenwashing-sanction",
+    "id_key": "5d49c1405310ad4e70827a4d10a118bd07bb60a0bec0beaf89b64703563d004b",
+    "summary": "Canada’s biggest securities regulator is taking its first enforcement action related to so-called greenwashing by a fund manager.",
+    "ingested_utc": "2025-09-13T03:34:14Z"
+  },
+  {
+    "published_utc": "2025-09-13",
+    "retrieved_date": "2025-09-13",
     "retrieved_utc": "2025-09-13T02:42:31Z",
     "source": "Nikkei_Asia_Top",
     "title": "Tokyo mall reinvents shopping with Mount Fuji views, rooftop gardens",
@@ -10987,16 +10998,5 @@
     "id_key": "0e0a499e3ec3bd1775eaac904064e5e0afbd613ef819092d9a61795a81542519",
     "summary": "Nemo Protocol released a comprehensive post-mortem blaming a rogue developer for deploying unaudited code containing critical vulnerabilities that enabled a $2.59 million exploit on September 7. The DeFi yield platform detailed how the unnamed developer secretly introduced new features without audit approval and used unauthorized smart contract versions.The attack exploited two key vulnerabilities: a flash […] The post Nemo Protocol Blames $2.6M Exploit on Developer Who Deployed Unaudited Code appeared first on Cryptonews .",
     "ingested_utc": "2025-09-11T08:42:34Z"
-  },
-  {
-    "published_utc": "2025-09-11",
-    "retrieved_date": "2025-09-11",
-    "retrieved_utc": "2025-09-11T08:42:12Z",
-    "source": "Guardian_World",
-    "title": "Pocock says Bishop should be ‘reflecting on her position’ – as it happened",
-    "url": "https://www.theguardian.com/australia-news/live/2025/sep/11/australia-news-live-sydney-storm-weather-anthony-albanese-solomon-islands-pacific-sussan-ley-jacinta-nampijinpa-price-ntwnfb",
-    "id_key": "5c2934e0b0d700f84b1fc96b0d56b24878c97efd8f71800dab9bd188028b93d8",
-    "summary": "This blog is now closed Julie Bishop vows to stay on as ANU chancellor after vice-chancellor resigns amid leadership crisis Get our breaking news email , free app or daily news podcast Some images from the wild weather across Sydney and NSW Australia raises travel advice level for Nepal as Nepalese Australians express grief over unrest Continue reading...",
-    "ingested_utc": "2025-09-11T08:42:12Z"
   }
 ]
