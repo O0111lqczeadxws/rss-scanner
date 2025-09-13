@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-09-13",
     "retrieved_date": "2025-09-13",
+    "retrieved_utc": "2025-09-13T20:49:17Z",
+    "source": "NYTimes_Business",
+    "title": "In Some Records, Fed Governor Listed Atlanta Home as Secondary",
+    "url": "https://www.nytimes.com/2025/09/13/business/lisa-cook-mortgage-fed-trump.html",
+    "id_key": "a6ea49ecb2ffb400b79b9cd0b8f326641da306455bd100e43ba93ca3f611261d",
+    "summary": "The Trump administration has sought to block Lisa Cook from the Federal Reserve meeting on interest rates this coming week.",
+    "ingested_utc": "2025-09-13T20:49:17Z"
+  },
+  {
+    "published_utc": "2025-09-13",
+    "retrieved_date": "2025-09-13",
+    "retrieved_utc": "2025-09-13T20:47:05Z",
+    "source": "Guardian_World",
+    "title": "Leaked plans show Pentagon eyeing Louisiana to deploy national guard",
+    "url": "https://www.theguardian.com/us-news/2025/sep/13/louisiana-national-guard-pentagon",
+    "id_key": "a5232b638ea594d97f6abfae0a5b59f67de6dd061a699fda659d7318192dc579",
+    "summary": "Documents show intent to deploy 1,000 troops to conduct law enforcement operations in urban centers Donald Trump’s administration has drafted a proposal to deploy 1,000 Louisiana national guard troops to conduct law enforcement operations in the state’s urban centers, the Washington Post reported Saturday, citing military planning documents it had obtained. Trump has made crime a major focus of his administration even as violent crime rates have fallen in many US cities. His crackdown on Democratic-led municipalities has fueled legal concerns and spurred protests, including a recent demonstration by several thousand people in Washington DC. Continue reading...",
+    "ingested_utc": "2025-09-13T20:47:05Z"
+  },
+  {
+    "published_utc": "2025-09-13",
+    "retrieved_date": "2025-09-13",
     "retrieved_utc": "2025-09-13T20:30:12Z",
     "source": "HackerNews_Top",
     "title": "WhoBIRD is now deprecated on certified Android devices",
@@ -10976,27 +10998,5 @@
     "id_key": "5433f3111a0775028b7f343f42e43ade0ea99b7721adc0f6595a6bd24e7c7fdb",
     "summary": "TORONTO, Sept. 11, 2025 (GLOBE NEWSWIRE) — Kepler Communications, a company delivering real-time insights from space, today announced that Beau Jarvis has joined as chief revenue officer. Jarvis will lead Kepler’s global commercial strategy, accelerating market adoption of its next-generation optical data relay network and driving revenue across government, commercial, and international sectors. Kepler is […]",
     "ingested_utc": "2025-09-11T13:43:49Z"
-  },
-  {
-    "published_utc": "2025-09-11",
-    "retrieved_date": "2025-09-11",
-    "retrieved_utc": "2025-09-11T13:43:49Z",
-    "source": "FinancialPost_Business",
-    "title": "Going paperless with Alectra helps fill food bank shelves for Ontario families this fall",
-    "url": "https://financialpost.com/globe-newswire/going-paperless-with-alectra-helps-fill-food-bank-shelves-for-ontario-families-this-fall",
-    "id_key": "4c308092010a48dd96013ecc0fa452c7ea464a0e28491cb3e215447aa9bf0e53",
-    "summary": "MISSISSAUGA, Ontario, Sept. 11, 2025 (GLOBE NEWSWIRE) — This fall, Alectra Utilities is encouraging customers to switch to paperless billing and help support families in need. As part of its annual ebilling campaign, Alectra will donate $25,000 to Feed Ontario’s Full Shelves program, which provides pantry staples and school-friendly snacks to stock food bank shelves […]",
-    "ingested_utc": "2025-09-11T13:43:49Z"
-  },
-  {
-    "published_utc": "2025-09-11",
-    "retrieved_date": "2025-09-11",
-    "retrieved_utc": "2025-09-11T13:43:40Z",
-    "source": "TheStreet_Top",
-    "title": "Stock Market Today: Stocks recovering from hot CPI print",
-    "url": "https://www.thestreet.com/markets/stock-market-today-september-11-2025",
-    "id_key": "306ffadcabfcfb935fcd56ba4339d93a000375e6a76cda58bc9fb7bf1ec8e474",
-    "summary": "Investors had hoped Core CPI and CPI would follow wholesale inflation to the downside.",
-    "ingested_utc": "2025-09-11T13:43:40Z"
   }
 ]
