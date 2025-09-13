@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-09-13",
     "retrieved_date": "2025-09-13",
+    "retrieved_utc": "2025-09-13T17:35:09Z",
+    "source": "NYTimes_World",
+    "title": "Rubio Heads to a Defiant Israel After Qatar Strike",
+    "url": "https://www.nytimes.com/2025/09/13/us/politics/rubio-israel-natanyahu.html",
+    "id_key": "14f4f1dd1d43666fee636d8a9d5d3a7c07c311600838a78e02ee935677676531",
+    "summary": "The diplomat will consult with Israeli officials about their coming military offensive in Gaza City, as President Trump’s efforts to end the Gaza war appear stalled.",
+    "ingested_utc": "2025-09-13T17:35:09Z"
+  },
+  {
+    "published_utc": "2025-09-13",
+    "retrieved_date": "2025-09-13",
     "retrieved_utc": "2025-09-13T17:23:59Z",
     "source": "Guardian_World",
     "title": "Ukraine drone sparks fire at one of Russia’s largest oil plants",
@@ -10986,17 +10997,6 @@
     "url": "https://www.theverge.com/news/776260/sega-police-raid-nintendo-dev-kits",
     "id_key": "b1bd7887de7f51eb32c9635d0a165d4bd31e37b711c05eceb3222e1385585306",
     "summary": "A UK-based video game reseller claims Sega was behind a police raid that seized a trove of Nintendo development kits from his home, according to a report from Time Extension. The seller, who reportedly purchased the collection from a scrapyard, accuses Sega of getting the police involved to recover the dev kits after mistakenly throwing […]",
-    "ingested_utc": "2025-09-11T13:17:59Z"
-  },
-  {
-    "published_utc": "2025-09-11",
-    "retrieved_date": "2025-09-11",
-    "retrieved_utc": "2025-09-11T13:17:59Z",
-    "source": "TheVerge_All",
-    "title": "Microsoft 365 Copilot bundles sales, service, and finance Copilots in October",
-    "url": "https://www.theverge.com/news/776235/microsoft-365-copilot-bundle-sales-service-finance-announcement",
-    "id_key": "897406d8b94ded2cf92537e662c705defefc974c9f8f1bc5ba011363d9786451",
-    "summary": "I exclusively reported last week that Microsoft was about to shake up its Microsoft 365 Copilot pricing, and now the company has officially revealed that its sales, service, and finance Copilots are being bundled into Microsoft 365 Copilot. Microsoft currently offers business Copilot access for $30 per user per month, and if you want the […]",
     "ingested_utc": "2025-09-11T13:17:59Z"
   }
 ]
