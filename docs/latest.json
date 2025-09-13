@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-09-13",
     "retrieved_date": "2025-09-13",
+    "retrieved_utc": "2025-09-13T03:50:31Z",
+    "source": "FinancialPost_Business",
+    "title": "Mount Logan Capital Inc. and 180 Degree Capital Corp. Close Strategic Business Combination",
+    "url": "https://financialpost.com/globe-newswire/mount-logan-capital-inc-and-180-degree-capital-corp-close-strategic-business-combination",
+    "id_key": "0b3c5b0928a51a818a573fee84686d74b8948becfa85a843c420197d89bad385",
+    "summary": "Establishes U.S.-based alternative asset management and insurance solutions platform Merged Company, Mount Logan Capital Inc., expected to begin trading on NASDAQ under the symbol “MLCI” on Monday, September 15, 2025 Closing Merger Value of approximately US$122.7 million equates to a price per share of MLCI of US$9.43 NEW YORK and MONTCLAIR, N.J., Sept. 12, 2025 […]",
+    "ingested_utc": "2025-09-13T03:50:31Z"
+  },
+  {
+    "published_utc": "2025-09-13",
+    "retrieved_date": "2025-09-13",
+    "retrieved_utc": "2025-09-13T03:47:20Z",
+    "source": "BBC_World",
+    "title": "Nigerian chef attempts to make world's largest pot of jollof rice",
+    "url": "https://www.bbc.com/news/articles/c306m1j542po?at_medium=RSS&at_campaign=rss",
+    "id_key": "5898ea5dd1be3df774ef8bd62a7241ef2f6622c7688d991d4a67570554e7a953",
+    "summary": "Hilda Baci and a team of assistants took several hours to complete the popular West African dish.",
+    "ingested_utc": "2025-09-13T03:47:20Z"
+  },
+  {
+    "published_utc": "2025-09-13",
+    "retrieved_date": "2025-09-13",
     "retrieved_utc": "2025-09-13T03:34:14Z",
     "source": "FinancialPost_Business",
     "title": "Canada Securities Watchdog Seeks First Greenwashing Sanction",
@@ -10976,27 +10998,5 @@
     "id_key": "d55e443207b2687a40a59213d18ebfb9b9810553201be994f23bba301247c600",
     "summary": "Labour’s weakness under pressure leaves Starmer with little choice but to drop his US ambassador over Epstein links",
     "ingested_utc": "2025-09-11T08:44:41Z"
-  },
-  {
-    "published_utc": "2025-09-11",
-    "retrieved_date": "2025-09-11",
-    "retrieved_utc": "2025-09-11T08:42:34Z",
-    "source": "CryptoNews",
-    "title": "Nepal Protesters Turn to Jack Dorsey’s Peer-to-Peer Messaging App to Circumvent Social Media Ban",
-    "url": "https://cryptonews.com/news/48000-nepalis-download-jack-dorseys-peer-to-peer-messaging-app-amid-protests-and-social-media-ban/",
-    "id_key": "1c20b44f01df536b9baf9331bd9e9ca291fa64ae80a3bd2e90d29e5b2ef03f8c",
-    "summary": "Nepal recorded 48,781 Bitchat downloads on September 8 as youth-led protests against government corruption and social media bans escalated nationwide, with Jack Dorsey's decentralized messaging app experiencing massive adoption during civil unrest that left 22 dead and forced Prime Minister KP Sharma Oli's resignation. The post Nepal Protesters Turn to Jack Dorsey’s Peer-to-Peer Messaging App to Circumvent Social Media Ban appeared first on Cryptonews .",
-    "ingested_utc": "2025-09-11T08:42:34Z"
-  },
-  {
-    "published_utc": "2025-09-11",
-    "retrieved_date": "2025-09-11",
-    "retrieved_utc": "2025-09-11T08:42:34Z",
-    "source": "CryptoNews",
-    "title": "Nemo Protocol Blames $2.6M Exploit on Developer Who Deployed Unaudited Code",
-    "url": "https://cryptonews.com/news/nemo-protocol-blames-2-6m-exploit-on-developer-who-deployed-unaudited-code/",
-    "id_key": "0e0a499e3ec3bd1775eaac904064e5e0afbd613ef819092d9a61795a81542519",
-    "summary": "Nemo Protocol released a comprehensive post-mortem blaming a rogue developer for deploying unaudited code containing critical vulnerabilities that enabled a $2.59 million exploit on September 7. The DeFi yield platform detailed how the unnamed developer secretly introduced new features without audit approval and used unauthorized smart contract versions.The attack exploited two key vulnerabilities: a flash […] The post Nemo Protocol Blames $2.6M Exploit on Developer Who Deployed Unaudited Code appeared first on Cryptonews .",
-    "ingested_utc": "2025-09-11T08:42:34Z"
   }
 ]
