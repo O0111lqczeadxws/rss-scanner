@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-09-13",
     "retrieved_date": "2025-09-13",
+    "retrieved_utc": "2025-09-13T07:11:36Z",
+    "source": "FT_Home",
+    "title": "US authorities arrest suspect in Charlie Kirk assassination",
+    "url": "https://www.ft.com/content/7359b439-dde4-4b60-a06f-42ae08b991d1",
+    "id_key": "f78d358c90e320db49946eb40049529cd28f35ca42f9c99cc5b796c08445936a",
+    "summary": "22-year-old in police custody after manhunt that began on Wednesday following killing of conservative activist",
+    "ingested_utc": "2025-09-13T07:11:36Z"
+  },
+  {
+    "published_utc": "2025-09-13",
+    "retrieved_date": "2025-09-13",
+    "retrieved_utc": "2025-09-13T07:09:06Z",
+    "source": "Guardian_World",
+    "title": "Healthcare graduates most satisfied with choice of course, UK data shows",
+    "url": "https://www.theguardian.com/education/2025/sep/13/uk-healthcare-graduates-most-satisfied-course-choices",
+    "id_key": "99fe864f7aa23d3a0339b66cfa188b365f128b0353d394a911f127013a6e78cb",
+    "summary": "Official agency’s figures indicate those who took journalism or marketing far more likely to regret their decision The 2026 league table View the full guide The UK’s most satisfied graduates are those who studied healthcare subjects, while those who opted for journalism or marketing are far more likely to regret their choices, according to data obtained by the Guardian. Vets, midwives and paramedics were the happiest with their degrees after entering the workforce, alongside those who studied vocational subjects such as architecture, computer science and construction, and were most likely to say they would study the same course if they were making their university choices again. Continue reading...",
+    "ingested_utc": "2025-09-13T07:09:06Z"
+  },
+  {
+    "published_utc": "2025-09-13",
+    "retrieved_date": "2025-09-13",
     "retrieved_utc": "2025-09-13T06:17:08Z",
     "source": "AlJazeera_All",
     "title": "Alvarez, Crawford weigh-in at 167.5lbs before super middleweight fight",
@@ -10976,27 +10998,5 @@
     "id_key": "a8ae4f17eee9c9e386dc654dfe493d2253263df935f0419c998a465549646ca3",
     "summary": "The city’s turmoil, from wildfires to curfews, has exacted a toll on some of its best-loved restaurants and raised worries about the future.",
     "ingested_utc": "2025-09-11T09:34:12Z"
-  },
-  {
-    "published_utc": "2025-09-11",
-    "retrieved_date": "2025-09-11",
-    "retrieved_utc": "2025-09-11T09:33:31Z",
-    "source": "Optimism_Releases",
-    "title": "op-node/v1.13.6",
-    "url": "https://github.com/ethereum-optimism/optimism/releases/tag/op-node%2Fv1.13.6",
-    "id_key": "ca57cc778918ba83199042ca071b3cebce770197c1c73c24f4954554b8c687d5",
-    "summary": "Note This is a recommended release for all node operators, as the geth base of op-geth is updated from 1.15.11 to 1.16.2, containing many upstream bug fixes and performance improvements. It is required to update op-geth and op-node together. This release adds the ability to configure the maximum age of p2p messages (the default remains at 60 seconds) and includes several bug fixes. 🤝 The corresponding op-geth release is v1.101602.0 . 🚀 Features P2P flag to configure maximum age of payload ( #16718 ) 🐛 Bug Fixes Add json keys to outputV0 type ( #16538 ) Fix exec payload creation from block ( #17154 ) 💼 Other Trace and log emitting of events ( #16793 ) Reorder interop fork ( #16792 ) 🚢 Docker Image https://us-docker.pkg.dev/oplabs-tools-artifacts/images/op-node:v1.13.6",
-    "ingested_utc": "2025-09-11T09:33:31Z"
-  },
-  {
-    "published_utc": "2025-09-11",
-    "retrieved_date": "2025-09-11",
-    "retrieved_utc": "2025-09-11T09:31:59Z",
-    "source": "Guardian_World",
-    "title": "After crafting quiet Florida life, Shah of Iran’s alleged ‘chief torturer’ must now face trial",
-    "url": "https://www.theguardian.com/world/2025/sep/11/parviz-sabeti-shah-iran-lawsuit",
-    "id_key": "ed742765eae3a30757358fc1dcdccca3cbba81f4c77b2dddf83c03199a01eb32",
-    "summary": "Parviz Sabeti crafted an anonymous new life for his family – but now he faces a $225m lawsuit for atrocities committed in prisons in Tehran and elsewhere Neighbors in the upscale Florida community of Windermere know them as Peter and Nancy, the seemingly friendly retired couple they wave to on morning walks, and who always appear to enjoy visits from their two high-flying grown daughters, one a respected professor of science at Harvard University. Yet behind the high walls of their $3.6m lakefront mansion lies a darker, more closely guarded reality: “Peter” is actually Parviz Sabeti, the alleged head of secret police and chief torturer of the former Shah of Iran’s pre-revolutionary government, now facing a $225m lawsuit in Florida for atrocities committed in prisons in Tehran and elsewhere. Continue reading...",
-    "ingested_utc": "2025-09-11T09:31:59Z"
   }
 ]
