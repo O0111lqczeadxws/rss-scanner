@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-09-14",
     "retrieved_date": "2025-09-14",
+    "retrieved_utc": "2025-09-14T14:37:03Z",
+    "source": "NYTimes_World",
+    "title": "The German Elections That Are Set to Test the Attraction of the Far Right",
+    "url": "https://www.nytimes.com/2025/09/14/world/europe/german-state-elections-far-right.html",
+    "id_key": "4302cacda8db434ef2a4f63c697c7ef2c0fb8bac66fa58bd01e6d9c1514a2222",
+    "summary": "A municipal vote in the state of North Rhine-Westphalia will be a gauge of the national mood since Chancellor Friedrich Merz took office.",
+    "ingested_utc": "2025-09-14T14:37:03Z"
+  },
+  {
+    "published_utc": "2025-09-14",
+    "retrieved_date": "2025-09-14",
     "retrieved_utc": "2025-09-14T14:30:14Z",
     "source": "AlJazeera_All",
     "title": "Ukraine targets key Russian oil refinery as Moscow tests hypersonic missile",
@@ -10987,16 +10998,5 @@
     "id_key": "d0e2169711477a37158f2fce4b9faaaa142c22062d1e670889dafcc7b58a760f",
     "summary": "Net worth was up 1.5 per cent, notching its seventh consecutive quarter of growth",
     "ingested_utc": "2025-09-11T18:44:09Z"
-  },
-  {
-    "published_utc": "2025-09-11",
-    "retrieved_date": "2025-09-11",
-    "retrieved_utc": "2025-09-11T18:43:42Z",
-    "source": "Engadget_All",
-    "title": "The FTC is investigating companies that make AI companion chatbots",
-    "url": "https://www.engadget.com/ai/the-ftc-is-investigating-companies-that-make-ai-companion-chatbots-181413615.html?src=rss",
-    "id_key": "5ddcede8e39118e42561db3a98f7ff31bb82e00182848a44bf73967a160d86fe",
-    "summary": "The Federal Trade Commission is making a formal inquiry into companies that provide AI chatbots that can act as companions. The investigation isn't tied to any kind of regulatory action as of yet, but does aim to reveal how companies \"measure, test, and monitor potentially negative impacts of this technology on children and teens.\" Seven companies are being asked to participate in the FTC's investigation: Google's parent company Alphabet, Character Technologies (the creator of Character.AI), Meta, its subsidiary Instagram, OpenAI, Snap and X.AI. The FTC is asking companies to provide a variety of different information, including how they develop and approve AI characters and \"monetize user engagement.\" Data practices and how companies protect underage users are also areas the FTC hopes to learn more about, in part to see if chatbot makers \"comply with the Children’s Online Privacy Protection Act Rule.\" The FTC doesn't provide clear motivation for its investigation, but in a separate statement , FTC Commissioner Mark Meador suggests the Commission is responding to recent reports from The New York Times and Wall Street Journal of \"chatbots amplifying suicidal ideation\" and engaging in \"sexually-themed discussions with underage users.\" \"If the facts — as developed through subsequent and appropriately targeted law enforcement inquiries, if warranted — indicate that the law has been violated, the Commission should not hesitate to act to protect the most vulnerable among us,\" Meador writes. As the long-term productivity benefits of using AI become less and less certain , the more immediate negative privacy and health impacts have become red meat for regulators. Texas' Attorney General has already launched a separate investigation into Character. AI and Meta AI Studio over similar concerns of data privacy and chatbots claiming to be mental health professionals. This article originally appeared on Engadget at https://www.engadget.com/ai/the-ftc-is-investigating-companies-that-make-ai-companion-chatbots-181413615.html?src=rss",
-    "ingested_utc": "2025-09-11T18:43:42Z"
   }
 ]
