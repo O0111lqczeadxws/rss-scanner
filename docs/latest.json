@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-09-14",
     "retrieved_date": "2025-09-14",
+    "retrieved_utc": "2025-09-14T06:40:03Z",
+    "source": "NYTimes_World",
+    "title": "Romania Reports Russian Drone in Its Airspace",
+    "url": "https://www.nytimes.com/2025/09/14/world/europe/romania-drone-russia-ukraine.html",
+    "id_key": "b9d285bc1e4339a33de98fd6f6300d89814b7195a3cf680afd0f4086f03da5b3",
+    "summary": "The brief incursion occurred days after Poland reported Russian drones in its territory. Romania said the drone did not fly over populated areas.",
+    "ingested_utc": "2025-09-14T06:40:03Z"
+  },
+  {
+    "published_utc": "2025-09-14",
+    "retrieved_date": "2025-09-14",
     "retrieved_utc": "2025-09-14T06:14:27Z",
     "source": "Guardian_World",
     "title": "Chinese carmakers told to improve locking devices for UK market",
@@ -10987,16 +10998,5 @@
     "id_key": "2df07871c6bd59f3f937964681886c7e3f34104f7f386f268d1a4e6124d0e081",
     "summary": "Are you tired of having to watch the same three or four ads over and over again? That could change soon, if Roku has its way. The smart TV and streaming device maker is working on dramatically expanding the number of advertisers vying for your attention, to the point where ads on streaming could soon […]",
     "ingested_utc": "2025-09-11T15:44:48Z"
-  },
-  {
-    "published_utc": "2025-09-11",
-    "retrieved_date": "2025-09-11",
-    "retrieved_utc": "2025-09-11T15:44:31Z",
-    "source": "NPR_Business",
-    "title": "6 ways college students can get a better handle on their money",
-    "url": "https://www.npr.org/2025/09/11/nx-s1-5519357/the-broke-college-students-guide-to-managing-money",
-    "id_key": "9c8393bfb3892465fb530980b018640b6601dce22b6fd0687a14992d735f4a4e",
-    "summary": "For college students who don't have a lot of money, it can be tough to wrap your head around student loans, credit cards and a tight budget. A financial educator offers advice for first-year students.",
-    "ingested_utc": "2025-09-11T15:44:31Z"
   }
 ]
