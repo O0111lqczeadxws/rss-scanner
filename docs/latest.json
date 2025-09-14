@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-09-14",
     "retrieved_date": "2025-09-14",
+    "retrieved_utc": "2025-09-14T05:47:37Z",
+    "source": "BBC_World",
+    "title": "Charlie Kirk memorial service set to take place in Arizona stadium",
+    "url": "https://www.bbc.com/news/articles/ce86gmnx034o?at_medium=RSS&at_campaign=rss",
+    "id_key": "9cf59780a03f39a1c2a7c926ae8125bf789ed827efa53e4940dbea5862f75d8d",
+    "summary": "Turning Point USA, the organisation Kirk co-founded, announced the event will be held on 21 September.",
+    "ingested_utc": "2025-09-14T05:47:37Z"
+  },
+  {
+    "published_utc": "2025-09-14",
+    "retrieved_date": "2025-09-14",
+    "retrieved_utc": "2025-09-14T05:47:36Z",
+    "source": "BBC_World",
+    "title": "Huge fire rips through residential homes in Manila",
+    "url": "https://www.bbc.com/news/videos/cp8wjj6zgrzo?at_medium=RSS&at_campaign=rss",
+    "id_key": "0bd89bf4260e3403a4450ee0ea3d16aa73841d24bee78b7caf7cf16d060a6022",
+    "summary": "Local reports say at least 14 fire trucks were called to the fire in the residential area, resulting in an evacuation to two nearby centres.",
+    "ingested_utc": "2025-09-14T05:47:36Z"
+  },
+  {
+    "published_utc": "2025-09-14",
+    "retrieved_date": "2025-09-14",
     "retrieved_utc": "2025-09-14T05:40:32Z",
     "source": "AlJazeera_All",
     "title": "Rubio due in Israel to discuss war on Gaza after Israeli strike on Qatar",
@@ -405,6 +427,17 @@
     "id_key": "8751d129753aa075c308108034385856dde827fbfecd0d42b78b6e4819a5a354",
     "summary": "Suspect’s background and politics are being pored over in aftermath of killing of far-right influencer Though the suspect in the killing of conservative activist Charlie Kirk was revealed by authorities on Friday, questions surrounding his identity and motivations have exacerbated intense US political debates in the aftermath of the shooting. Authorities revealed Kirk’s suspected killer to be Tyler Robinson, a 22-year-old man who grew up in Washington, Utah , along the state’s south-western border. Continue reading...",
     "ingested_utc": "2025-09-14T00:53:20Z"
+  },
+  {
+    "published_utc": "2025-09-13",
+    "retrieved_date": "2025-09-14",
+    "retrieved_utc": "2025-09-14T05:47:36Z",
+    "source": "BBC_World",
+    "title": "Animal shelter workers hospitalised after FBI uses furnace to burn seized meth",
+    "url": "https://www.bbc.com/news/articles/cly7wzp23lpo?at_medium=RSS&at_campaign=rss",
+    "id_key": "0b8fdd076f58cafe0d784e9c38a72df5461a4dfba52cfa52a768a11dacebc4fb",
+    "summary": "Fourteen staff were hospitalised and 75 cats and dogs evacuated.",
+    "ingested_utc": "2025-09-14T05:47:36Z"
   },
   {
     "published_utc": "2025-09-13",
@@ -10965,38 +10998,5 @@
     "id_key": "7c733c499f93b3ef28768a618a8884fe3f5dea53d00f4d29583a4a7bef3c2c97",
     "summary": "Comments",
     "ingested_utc": "2025-09-11T15:33:40Z"
-  },
-  {
-    "published_utc": "2025-09-11",
-    "retrieved_date": "2025-09-11",
-    "retrieved_utc": "2025-09-11T15:33:25Z",
-    "source": "FinancialPost_Business",
-    "title": "Lutnick Signals Optimism on Trade Talks With Taiwan, Switzerland",
-    "url": "https://financialpost.com/pmn/business-pmn/lutnick-signals-optimism-on-trade-talks-with-taiwan-switzerland",
-    "id_key": "f2f0583a8b23bbd2def4cc4eeb26ecc8a8ff5d523dc518420e275711ecaf9f61",
-    "summary": "Commerce Secretary Howard Lutnick predicted the US will eventually reach trade deals with Taiwan, Switzerland and India, while saying South Korea has not yet formally signed the agreement it has reached.",
-    "ingested_utc": "2025-09-11T15:33:25Z"
-  },
-  {
-    "published_utc": "2025-09-11",
-    "retrieved_date": "2025-09-11",
-    "retrieved_utc": "2025-09-11T15:33:25Z",
-    "source": "FinancialPost_Business",
-    "title": "US official sees Greece as hub to boost American natural gas exports",
-    "url": "https://financialpost.com/pmn/us-official-sees-greece-as-hub-to-boost-american-natural-gas-exports",
-    "id_key": "7e4d737d382d5e66026becd9eb63400e1e1d188c097a6e76671194ba39017fd5",
-    "summary": "ATHENS, Greece (AP) — A U.S. Cabinet official overseeing a planned expansion of natural gas exports to Europe said Thursday that Greece could play a key role through its pipeline system that extends across the region. Interior Secretary Doug Burgum visited a liquefied natural gas terminal outside Athens that is linked to a bidirectional pipeline […]",
-    "ingested_utc": "2025-09-11T15:33:25Z"
-  },
-  {
-    "published_utc": "2025-09-11",
-    "retrieved_date": "2025-09-11",
-    "retrieved_utc": "2025-09-11T15:33:25Z",
-    "source": "FinancialPost_Business",
-    "title": "Frontera Expands Autism Services in New Mexico with New FronteraCare for Underserved Communities",
-    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/frontera-expands-autism-services-in-new-mexico-with-new-fronteracare-for-underserved-communities",
-    "id_key": "17aa4df93b3cf01a812b861272b40d7cecc9198e376849b59e9060cf2d37213a",
-    "summary": "Frontera launches Diagnostics Program and expands FronteraCare clinics across the state, reducing wait times for families DENVER — Frontera, a pioneer in advancing health equity through AI-enabled autism care, today announced the expansion of its services in New Mexico and the launch of its FronteraCare. For years, autism care has been plagued by long waitlists, […]",
-    "ingested_utc": "2025-09-11T15:33:25Z"
   }
 ]
