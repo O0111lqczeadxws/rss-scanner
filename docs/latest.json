@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-09-14",
     "retrieved_date": "2025-09-14",
+    "retrieved_utc": "2025-09-14T09:49:18Z",
+    "source": "BBC_World",
+    "title": "Pot breaks as Nigerian chef attempts largest pot of jollof rice",
+    "url": "https://www.bbc.com/news/articles/c306m1j542po?at_medium=RSS&at_campaign=rss",
+    "id_key": "4d686daec5a9b11fca59dcf1a81275451dd5b9e84053cc29a83b921478604da0",
+    "summary": "Hilda Baci and a team of assistants took several hours to complete the popular West African dish.",
+    "ingested_utc": "2025-09-14T09:49:18Z"
+  },
+  {
+    "published_utc": "2025-09-14",
+    "retrieved_date": "2025-09-14",
+    "retrieved_utc": "2025-09-14T09:47:51Z",
+    "source": "CryptoNews",
+    "title": "Shiba Inu’s Layer 2 Shibarium Targeted in Flash Loan Attack, Nearly $3M Drained",
+    "url": "https://cryptonews.com/news/shiba-inus-layer-2-shibarium-targeted-in-flash-loan-attack-nearly-3m-drained/",
+    "id_key": "863c698cb0e25df45a06b953db0840e37bbec9e84136b10e8d9f5c1f5e2e3798",
+    "summary": "Shiba Inu’s Layer 2 network, Shibarium, came under fire on Friday after a coordinated flash loan attack exploited its bridge, draining nearly $3 million. The post Shiba Inu’s Layer 2 Shibarium Targeted in Flash Loan Attack, Nearly $3M Drained appeared first on Cryptonews .",
+    "ingested_utc": "2025-09-14T09:47:51Z"
+  },
+  {
+    "published_utc": "2025-09-14",
+    "retrieved_date": "2025-09-14",
     "retrieved_utc": "2025-09-14T09:36:09Z",
     "source": "AlJazeera_All",
     "title": "China’s military warns Philippines against provocations in South China Sea",
@@ -8581,6 +8603,17 @@
   },
   {
     "published_utc": "2025-09-11",
+    "retrieved_date": "2025-09-14",
+    "retrieved_utc": "2025-09-14T09:50:51Z",
+    "source": "HackerNews_Top",
+    "title": "A Trick for Backpropagation of Linear Transformations",
+    "url": "https://tripplyons.com/blog/backprop-trick",
+    "id_key": "48a6d1e78d7ff85c18ccb8fb839076c84d6aafd364c7232c53c800c8f3a0b1e0",
+    "summary": "Comments",
+    "ingested_utc": "2025-09-14T09:50:51Z"
+  },
+  {
+    "published_utc": "2025-09-11",
     "retrieved_date": "2025-09-13",
     "retrieved_utc": "2025-09-13T23:09:15Z",
     "source": "Guardian_Business",
@@ -10964,39 +10997,6 @@
     "url": "https://www.thestreet.com/video/latest-inflation-data-doesnt-mean-much-for-the-fed-what-actually-matters",
     "id_key": "0c3083eda7269e94835f1107a14fa2f2de91c841e5f7f8755a76b568ee359761",
     "summary": "Consumer prices ticked higher — Annex Wealth Management's Brian Jacobsen breaks down what it actually means for the Fed.",
-    "ingested_utc": "2025-09-11T16:41:56Z"
-  },
-  {
-    "published_utc": "2025-09-11",
-    "retrieved_date": "2025-09-11",
-    "retrieved_utc": "2025-09-11T16:41:56Z",
-    "source": "TheStreet_Top",
-    "title": "Critical US manufacturing company files Chapter 11 bankruptcy",
-    "url": "https://www.thestreet.com/retail/critical-us-manufacturing-company-files-chapter-11-bankruptcy",
-    "id_key": "ffddfff5c11c411572a19e328c15b0569ac24f88c7cc593a31ffb7db1196c6bc",
-    "summary": "If the company fails, the United States would need to buy key items from China and Russia.",
-    "ingested_utc": "2025-09-11T16:41:56Z"
-  },
-  {
-    "published_utc": "2025-09-11",
-    "retrieved_date": "2025-09-11",
-    "retrieved_utc": "2025-09-11T16:41:56Z",
-    "source": "AlJazeera_All",
-    "title": "Nepal cleans up burnt out police station after deadly protests",
-    "url": "https://www.aljazeera.com/video/newsfeed/2025/9/11/nepal-cleans-up-burnt-out-police-station-after-deadly-protests?traffic_source=rss",
-    "id_key": "3df4afa76e81e968aa2f1a03706211b9d4b7e1044fbb67ae383dcb6670c78b82",
-    "summary": "Al Jazeera’s Rob McBride shows us what’s left of one police station after deadly protests in Nepal’s capital.",
-    "ingested_utc": "2025-09-11T16:41:56Z"
-  },
-  {
-    "published_utc": "2025-09-11",
-    "retrieved_date": "2025-09-11",
-    "retrieved_utc": "2025-09-11T16:41:56Z",
-    "source": "AlJazeera_All",
-    "title": "Funeral held in Doha after deadly Israeli attack",
-    "url": "https://www.aljazeera.com/video/newsfeed/2025/9/11/funeral-held-in-doha-after-deadly-israeli-attack?traffic_source=rss",
-    "id_key": "e6ddc4a753a07c471f96fb1a9f50335a3a4072cd9d052878b9785fef16a5cd39",
-    "summary": "Mourners gathered in Qatar’s capital Doha to pray for six victims of Israel’s attack, including a 22-year-old policeman.",
     "ingested_utc": "2025-09-11T16:41:56Z"
   }
 ]
