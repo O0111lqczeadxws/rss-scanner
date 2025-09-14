@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-09-14",
     "retrieved_date": "2025-09-14",
+    "retrieved_utc": "2025-09-14T20:50:53Z",
+    "source": "HackerNews_Top",
+    "title": "Show HN: DriftDB – An experimental append-only database with time-travel queries",
+    "url": "https://github.com/DavidLiedle/DriftDB",
+    "id_key": "bd1a74b5aa9070a64c191d83dabdab80da971722802efbc3937687ae5571cc89",
+    "summary": "Comments",
+    "ingested_utc": "2025-09-14T20:50:53Z"
+  },
+  {
+    "published_utc": "2025-09-14",
+    "retrieved_date": "2025-09-14",
+    "retrieved_utc": "2025-09-14T20:50:31Z",
+    "source": "AlJazeera_All",
+    "title": "Spain’s Vuelta cycling finale abandoned after massive pro-Palestine protest",
+    "url": "https://www.aljazeera.com/news/2025/9/14/spains-vuelta-cycling-finale-abandoned-after-pro-palestine-protests?traffic_source=rss",
+    "id_key": "84a4ca6e1454c0127fed68cd9e1f4e31c2d65d7c63012aec0b0d75d526697870",
+    "summary": "Pro-Palestine demonstrators have repeatedly targeted the Israel-Premier Tech cycling team during the race in Spain.",
+    "ingested_utc": "2025-09-14T20:50:31Z"
+  },
+  {
+    "published_utc": "2025-09-14",
+    "retrieved_date": "2025-09-14",
+    "retrieved_utc": "2025-09-14T20:49:35Z",
+    "source": "MarketWatch_Bulletins",
+    "title": "Why the Fed’s first rate cut in 9 months could derail the stock-market rally",
+    "url": "https://www.marketwatch.com/bulletins/redirect/go?g=a942a9b6-e2cd-4d5c-ab37-eb187ee1958d&mod=mw_rss_bulletins",
+    "id_key": "f92d1e7ce36b5bca1d12a6da8ecd663facbd6a6e7252104b57cdd75a7bc2c219",
+    "summary": "",
+    "ingested_utc": "2025-09-14T20:49:35Z"
+  },
+  {
+    "published_utc": "2025-09-14",
+    "retrieved_date": "2025-09-14",
     "retrieved_utc": "2025-09-14T20:37:57Z",
     "source": "NYTimes_World",
     "title": "German Far Right Gains in Bellwether Election, but Fails to Sweep",
@@ -10100,6 +10133,17 @@
   {
     "published_utc": "2025-09-11",
     "retrieved_date": "2025-09-14",
+    "retrieved_utc": "2025-09-14T20:50:53Z",
+    "source": "HackerNews_Top",
+    "title": "Patela: A basement full of amnesic servers",
+    "url": "https://osservatorionessuno.org/blog/2025/05/patela-a-basement-full-of-amnesic-servers/",
+    "id_key": "1a9c22393a7fdf04bf8faa1206110bf915139bea37242471049730391fcd0526",
+    "summary": "Comments",
+    "ingested_utc": "2025-09-14T20:50:53Z"
+  },
+  {
+    "published_utc": "2025-09-11",
+    "retrieved_date": "2025-09-14",
     "retrieved_utc": "2025-09-14T13:39:34Z",
     "source": "HackerNews_Top",
     "title": "MIT-MC CP/M archive files, 1979-1984",
@@ -10954,49 +10998,5 @@
     "id_key": "88ccfb98456bf265259564be889d57de31dea3500610543122dd8e73ce38ff52",
     "summary": "Mary Carmichael blends business acumen, technical depth and community leadership to shape a more resilient and inclusive cybersecurity landscape in Canada",
     "ingested_utc": "2025-09-11T21:28:55Z"
-  },
-  {
-    "published_utc": "2025-09-11",
-    "retrieved_date": "2025-09-11",
-    "retrieved_utc": "2025-09-11T21:28:55Z",
-    "source": "FinancialPost_Business",
-    "title": "Bakken Oil Output Shows Signs of Slowing as Pipeline Flows Slip",
-    "url": "https://financialpost.com/pmn/business-pmn/bakken-oil-output-shows-signs-of-slowing-as-pipeline-flows-slip",
-    "id_key": "cbf9122f7d6c9565e7c7bd196ad0857b1c454c3fe8fe1f3f4aa37309f4ba2253",
-    "summary": "Oil output from the Bakken, the second-largest US shale field, is showing signs of a slowdown as flows on a key pipeline out of the region decline.",
-    "ingested_utc": "2025-09-11T21:28:55Z"
-  },
-  {
-    "published_utc": "2025-09-11",
-    "retrieved_date": "2025-09-11",
-    "retrieved_utc": "2025-09-11T21:28:48Z",
-    "source": "TheStreet_Top",
-    "title": "Struggling fashion chain forced into Chapter 7 bankruptcy, liquidation",
-    "url": "https://www.thestreet.com/retail/celebrity-retailer-nears-end-of-chapter-7-bankruptcy-liquidation",
-    "id_key": "beb637d1970066ffa32b03d68360da103db9ac0c7187ce6c8bb64f025f7a3979",
-    "summary": "The clothing and lifestyle brand is closing all of its stores and its website for good on Sept. 13.",
-    "ingested_utc": "2025-09-11T21:28:48Z"
-  },
-  {
-    "published_utc": "2025-09-11",
-    "retrieved_date": "2025-09-11",
-    "retrieved_utc": "2025-09-11T21:28:12Z",
-    "source": "FT_Markets",
-    "title": "US to urge G7 to impose high tariffs on China, India over Russian oil purchases",
-    "url": "https://www.ft.com/content/51ea9210-078f-42d7-a4ba-5ad985902761",
-    "id_key": "e88458513797cfd7acc174a9cd902824afd7dd1566d4c666f6bbf1a8f79e1a9c",
-    "summary": "Trump administration extends call for tougher measures beyond EU as it pushes Moscow to agree Ukraine peace deal",
-    "ingested_utc": "2025-09-11T21:28:12Z"
-  },
-  {
-    "published_utc": "2025-09-11",
-    "retrieved_date": "2025-09-11",
-    "retrieved_utc": "2025-09-11T21:28:11Z",
-    "source": "FT_Home",
-    "title": "Debt linked to collapsed subprime auto lender Tricolor tumbles",
-    "url": "https://www.ft.com/content/1f8dbc28-77d7-48b3-8e58-5ca73388b787",
-    "id_key": "242317b77068abf1b672a279f528929f250153051cf42afe1fb7d6a8492cce7a",
-    "summary": "Even highly rated pools of loans trade at distressed levels after group fell into bankruptcy",
-    "ingested_utc": "2025-09-11T21:28:11Z"
   }
 ]
