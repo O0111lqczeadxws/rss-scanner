@@ -2,6 +2,72 @@
   {
     "published_utc": "2025-09-14",
     "retrieved_date": "2025-09-14",
+    "retrieved_utc": "2025-09-14T04:15:53Z",
+    "source": "HackerNews_Top",
+    "title": "Visual programming is stuck on the form",
+    "url": "https://interjectedfuture.com/visual-programming-is-stuck-on-the-form/",
+    "id_key": "c67e5de1532c367769e889abb9ebd7c38cc73c7e28517a43ba9623b59fc1e382",
+    "summary": "Comments",
+    "ingested_utc": "2025-09-14T04:15:53Z"
+  },
+  {
+    "published_utc": "2025-09-14",
+    "retrieved_date": "2025-09-14",
+    "retrieved_utc": "2025-09-14T04:15:34Z",
+    "source": "FinancialPost_Business",
+    "title": "China launches probes targeting US semiconductors ahead of Madrid trade talks",
+    "url": "https://financialpost.com/pmn/china-launches-probes-targeting-us-semiconductors-ahead-of-madrid-trade-talks",
+    "id_key": "7fed0fc821843f15983a665c764a422668ec542f3bfcd0e3650c68c3275021ab",
+    "summary": "TAIPEI, Taiwan (AP) — China launched two probes targeting the U.S. semiconductor sector Saturday ahead of talks between the two nations in Spain this week on trade, national security and the ownership of social media platform TikTok. China’s Ministry of Commerce announced an anti-dumping investigation into certain analog IC chips imported from the U.S. The […]",
+    "ingested_utc": "2025-09-14T04:15:34Z"
+  },
+  {
+    "published_utc": "2025-09-14",
+    "retrieved_date": "2025-09-14",
+    "retrieved_utc": "2025-09-14T04:14:51Z",
+    "source": "FT_Markets",
+    "title": "Coinbase dominance at risk as Trump crypto embrace entices new entrants",
+    "url": "https://www.ft.com/content/034213e1-620b-4cb6-bdc3-0150cf428696",
+    "id_key": "3cc18ba767e06333c1249750cb2e105732755388c1a2b32d0dec27ec942cfe15",
+    "summary": "White House enthusiasm for digital assets boosts exchange’s share price but is stoking heightened competition",
+    "ingested_utc": "2025-09-14T04:14:51Z"
+  },
+  {
+    "published_utc": "2025-09-14",
+    "retrieved_date": "2025-09-14",
+    "retrieved_utc": "2025-09-14T04:14:51Z",
+    "source": "FT_Markets",
+    "title": "Tony’s Chocolonely boss says investing in farmers is good for business",
+    "url": "https://www.ft.com/content/ed2de8f1-cd53-4237-b256-390e0ea5347a",
+    "id_key": "82edd5884b2195c4f6a0650cf651bcccbd4a5356f7a31ed74bb1ad341b254dca",
+    "summary": "Chief executive of Dutch chocolate maker believes chasing market share through low prices is counter-productive",
+    "ingested_utc": "2025-09-14T04:14:51Z"
+  },
+  {
+    "published_utc": "2025-09-14",
+    "retrieved_date": "2025-09-14",
+    "retrieved_utc": "2025-09-14T04:14:39Z",
+    "source": "NYTimes_World",
+    "title": "The German Elections That Are Set to Test the Attraction of the Far Right",
+    "url": "https://www.nytimes.com/2025/09/14/world/europe/the-german-state-elections.html",
+    "id_key": "3af4ba8222960b160c0b2841187236c6c6a1728ee8ca50a3907e77f543bc064e",
+    "summary": "A municipal vote in the state of North Rhine-Westphalia will be a gauge of the national mood since Chancellor Friedrich Merz took office.",
+    "ingested_utc": "2025-09-14T04:14:39Z"
+  },
+  {
+    "published_utc": "2025-09-14",
+    "retrieved_date": "2025-09-14",
+    "retrieved_utc": "2025-09-14T04:14:38Z",
+    "source": "NYTimes_Business",
+    "title": "The Capital of Electric Cars Is Turning to Electric Planes",
+    "url": "https://www.nytimes.com/2025/09/14/business/energy-environment/norway-electric-plane-green-energy.html",
+    "id_key": "637232022406ab8e8c16c5ecc7d520b5d6e01b31356ceda7fd6ccecffc9f9e27",
+    "summary": "There are dozens of short daily flights to Norway’s islands, and the oil-producing Scandinavian country wants electricity to power them.",
+    "ingested_utc": "2025-09-14T04:14:38Z"
+  },
+  {
+    "published_utc": "2025-09-14",
+    "retrieved_date": "2025-09-14",
     "retrieved_utc": "2025-09-14T03:44:20Z",
     "source": "Nikkei_Asia_Top",
     "title": "War movie made by Vietnam's military a box office blockbuster",
@@ -10932,71 +10998,5 @@
     "id_key": "c3e284d58199023a286bd2b0bb813c10628b832372191f005f36b6a03a4480a3",
     "summary": "Zambia's Vice-President Mutale Nalumango says the compensation offered to communities \"may not be all\".",
     "ingested_utc": "2025-09-11T15:32:07Z"
-  },
-  {
-    "published_utc": "2025-09-11",
-    "retrieved_date": "2025-09-11",
-    "retrieved_utc": "2025-09-11T15:31:46Z",
-    "source": "Arbitrum_Nitro_Releases",
-    "title": "Arbitrum Nitro v3.7.2",
-    "url": "https://github.com/OffchainLabs/nitro/releases/tag/v3.7.2",
-    "id_key": "9b260242a8e7b3cde55f3859b06091d41c1cd6671ba1ae522a82e50758a7e9c4",
-    "summary": "This release has bug fixes and improvements, but it is not a required upgrade. This release is available as a Docker Image on Docker Hub at offchainlabs/nitro-node:TBD This Docker image specifies default flags in its entrypoint which should be replicated if you're overriding the entrypoint: /usr/local/bin/nitro --validation.wasm.allowed-wasm-module-roots /home/user/nitro-legacy/machines,/home/user/target/machines If you're running a validator without a split validation server (this will be true of most validators), you should instead use the image offchainlabs/nitro-node:TBD-validator which has the extra script /usr/local/bin/split-val-entry.sh as the entrypoint. Special Note 1 Nitro 3.7.0 pulls in go-ethereum 1.15.6 which changed log index from bloombits to filtermap. This means that on startup there will be elevated CPU usage for 50+ hours while new FilterMaps are generated for log indexing. If log queries are not used, the parameter --execution.tx-indexer.enable=false can be used to completely disable log indexing. Special Note 2 Nitro 3.7.0 pulls in go-ethereum 1.15.11 which includes a brand new log indexing system called filtermaps that has resulted in an increase in log indexing latency due to Nitro’s current reliance on HashDB (instead of PathDB). In some cases, this can delay log queries from being served anywhere between 5 seconds to 2 minutes on Arbitrum One during long tail unindexing. We’ve observed that this happens roughly once per day based on Arbitrum One mainnet traffic levels. Teams who need to serve log queries with consistent latency (e.g. eth_getLogs , eth_getFilterLogs , eth_getFilterChanges ) can use the configuration parameter --execution.rpc.log-history=0 to keep all log history, which will only slightly increase database growth. Teams running their own log indexer may be unaffected. At some point, a future release Nitro is expected to fix the issue of log index pruning being able to block log queries. What's Changed Added support to verify custom chain genesis, and add consensus v41 to Docker image. User-facing improvements backport adding consensus v41 to Dockerfile: #3556 Backport test Genesis assertion on nitro init to 3.7.x: in #3596 Full Changelog : v3.7.1...v3.7.2-rc.1",
-    "ingested_utc": "2025-09-11T15:31:46Z"
-  },
-  {
-    "published_utc": "2025-09-11",
-    "retrieved_date": "2025-09-11",
-    "retrieved_utc": "2025-09-11T15:30:34Z",
-    "source": "CryptoNews",
-    "title": "Analysts Eye $140K Bitcoin and $6K Ethereum by Year-End on Macro Trump Catalysts",
-    "url": "https://cryptonews.com/news/analysts-eye-140k-bitcoin-and-6k-ethereum-by-year-end-on-macro-trump-catalysts/",
-    "id_key": "8e6b8d3e9f22ec1a08a6c361dfb8050bc7a6c6b14112f67c81c7149ecbb1777e",
-    "summary": "Analysts at Derive crypto options exchange anticipate Bitcoin reaching $140,000 by year-end with Ethereum potentially climbing to $6,000, driven by three major bullish factors, including declining interest rates following Trump's Fed Governor dismissals, and the administration's alignment with digital assets through substantial family crypto investments. The post Analysts Eye $140K Bitcoin and $6K Ethereum by Year-End on Macro Trump Catalysts appeared first on Cryptonews .",
-    "ingested_utc": "2025-09-11T15:30:34Z"
-  },
-  {
-    "published_utc": "2025-09-11",
-    "retrieved_date": "2025-09-11",
-    "retrieved_utc": "2025-09-11T15:30:31Z",
-    "source": "CryptoSlate",
-    "title": "Dormant Bitcoin whale last active at $12 per BTC awakens sending funds to Kraken",
-    "url": "https://cryptoslate.com/another-dormant-bitcoin-whale-awakens-with-108-million-stash/",
-    "id_key": "4eb73ecfaa0775d160fe4397141c7a6d6ed6770b424a7a6f317931a435176d16",
-    "summary": "A long-dormant Bitcoin whale has resurfaced, moving funds untouched since 2012. On Sept. 11, blockchain tracker Lookonchain revealed that three connected addresses shifted 137 BTC, worth about $15.6 million, out of a cache of 955 BTC (equivalent to $108 million). According to the firm, a small portion of the funds, 5 BTC, was sent to […] The post Dormant Bitcoin whale last active at $12 per BTC awakens sending funds to Kraken appeared first on CryptoSlate .",
-    "ingested_utc": "2025-09-11T15:30:31Z"
-  },
-  {
-    "published_utc": "2025-09-11",
-    "retrieved_date": "2025-09-11",
-    "retrieved_utc": "2025-09-11T15:30:31Z",
-    "source": "CryptoBriefing",
-    "title": "Byreal launches Real Farmer copy farming product on Solana with Bybit backing",
-    "url": "https://cryptobriefing.com/copy-farming-solana-real-farmer/",
-    "id_key": "fedb453d2460315646d010b8b1ce9491b2ade672fa583d388b8086a696c67b7d",
-    "summary": "Byreal's Real Farmer could democratize DeFi on Solana, potentially increasing user engagement and liquidity by simplifying strategy replication. The post Byreal launches Real Farmer copy farming product on Solana with Bybit backing appeared first on Crypto Briefing .",
-    "ingested_utc": "2025-09-11T15:30:31Z"
-  },
-  {
-    "published_utc": "2025-09-11",
-    "retrieved_date": "2025-09-11",
-    "retrieved_utc": "2025-09-11T15:30:31Z",
-    "source": "CryptoBriefing",
-    "title": "BTBT fails to secure quorum for new share issuance to buy Ethereum, leaving company in limbo ahead of September 17",
-    "url": "https://cryptobriefing.com/ethereum-share-issuance-btbt-failure/",
-    "id_key": "0be1cfe2682596502ff8870abc66d223c98ff2987ef7d12df311f054d00a3022",
-    "summary": "BTBT failed to secure quorum for an Ethereum share issuance, delaying plans to expand its holdings amid rising institutional interest. The post BTBT fails to secure quorum for new share issuance to buy Ethereum, leaving company in limbo ahead of September 17 appeared first on Crypto Briefing .",
-    "ingested_utc": "2025-09-11T15:30:31Z"
-  },
-  {
-    "published_utc": "2025-09-11",
-    "retrieved_date": "2025-09-11",
-    "retrieved_utc": "2025-09-11T15:30:26Z",
-    "source": "Blockworks",
-    "title": "Respect the PUMP: Crypto’s emerging meme season",
-    "url": "https://blockworks.co/news/respect-the-pump",
-    "id_key": "e3cce6b5f97142da53128abb516e6f897df00eadf97913fdf34dfbc3138e0939",
-    "summary": "Crypto is shifting into risk-on mode — pump.fun dominates meme activity, while Lido leans on treasury maneuvers",
-    "ingested_utc": "2025-09-11T15:30:26Z"
   }
 ]
