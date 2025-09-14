@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-09-14",
     "retrieved_date": "2025-09-14",
+    "retrieved_utc": "2025-09-14T11:51:08Z",
+    "source": "HackerNews_Top",
+    "title": "Fukushima Insects Tested for Cognition",
+    "url": "https://news.cnrs.fr/articles/fukushima-insects-tested-for-cognition",
+    "id_key": "f39f1246b26836549746a03793b5c0a8f3e809cacc9c1ac9b4f39ee1bbafe024",
+    "summary": "Comments",
+    "ingested_utc": "2025-09-14T11:51:08Z"
+  },
+  {
+    "published_utc": "2025-09-14",
+    "retrieved_date": "2025-09-14",
+    "retrieved_utc": "2025-09-14T11:50:46Z",
+    "source": "TheStreet_Top",
+    "title": "Looming Fed interest-rate cut could mean cheaper mortgages",
+    "url": "https://www.thestreet.com/fed/will-cheaper-mortgages-follow-looming-fed-interest-rate-cut",
+    "id_key": "9fa28e513561111b3e8839436547fc99c02dc90877c2e7fc078e265d647ce4e7",
+    "summary": "Plunging job market, sticky inflation shift U.S. mortgage market",
+    "ingested_utc": "2025-09-14T11:50:46Z"
+  },
+  {
+    "published_utc": "2025-09-14",
+    "retrieved_date": "2025-09-14",
     "retrieved_utc": "2025-09-14T11:33:25Z",
     "source": "CryptoNews",
     "title": "Polychain-Backed Yala Stablecoin YU Crashes to $0.20 After Protocol Attack",
@@ -10976,27 +10998,5 @@
     "id_key": "0a21b58ffd59de55ec26be00660ad0b26b29cab6fdd2ebf7672ecf13d82e5f42",
     "summary": "Minutes after news that right-wing influencer Charlie Kirk had been shot at a planned campus event at Utah Valley University, the wheels of social media engagement farming and clout chasing had already begun to grind to life. Kirk, despite being in his 30s, was a mainstay on college campuses around the country, where student groups […]",
     "ingested_utc": "2025-09-11T17:32:01Z"
-  },
-  {
-    "published_utc": "2025-09-11",
-    "retrieved_date": "2025-09-11",
-    "retrieved_utc": "2025-09-11T17:32:01Z",
-    "source": "TheVerge_All",
-    "title": "Netflix&#8217;s best movies deserve more time on the big screen",
-    "url": "https://www.theverge.com/netflix/776477/netflix-movie-theaters-frankenstein-knives-out",
-    "id_key": "41d8ea8084da92611a34fb68946709d227b1fde8c27cfaa5d660a4bcf11b2795",
-    "summary": "Like the rest of the Knives Out movies, Wake Up Dead Man is full of extremely fun revelations - the kind that can turn the whodunit story on its head and, as was the case for many of those attending the film's premiere in Toronto, Canada, produce audible gasps. Those shared moments of surprise are […]",
-    "ingested_utc": "2025-09-11T17:32:01Z"
-  },
-  {
-    "published_utc": "2025-09-11",
-    "retrieved_date": "2025-09-11",
-    "retrieved_utc": "2025-09-11T17:31:47Z",
-    "source": "FT_Home",
-    "title": "Car lender’s collapse hints at what’s under the hood in private credit",
-    "url": "https://www.ft.com/content/419b87df-c529-4813-ac4e-82ab7881cf59",
-    "id_key": "4b2e54324b28200c360c0e2fd78e74434bc326dffd469da934591025b974c7df",
-    "summary": "So-called asset-based lending is the linchpin of a revolution sweeping Wall Street",
-    "ingested_utc": "2025-09-11T17:31:47Z"
   }
 ]
