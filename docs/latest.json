@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-09-14",
     "retrieved_date": "2025-09-14",
+    "retrieved_utc": "2025-09-14T23:50:10Z",
+    "source": "FinancialPost_Business",
+    "title": "Dollar Steady as Traders Turn Focus to Fed Meeting: Markets Wrap",
+    "url": "https://financialpost.com/pmn/business-pmn/dollar-steady-as-traders-turn-focus-to-fed-meeting-markets-wrap",
+    "id_key": "acaf4056b3a110df00efd924a98ce12b2edf089190accafb2b49d8514983effa",
+    "summary": "The dollar was steady in early Asian trading as US-China trade talks entered a second day, with investors focused on this week’s Federal Reserve policy decision.",
+    "ingested_utc": "2025-09-14T23:50:10Z"
+  },
+  {
+    "published_utc": "2025-09-14",
+    "retrieved_date": "2025-09-14",
     "retrieved_utc": "2025-09-14T23:36:12Z",
     "source": "FinancialPost_Business",
     "title": "UK Food Group Seeks Easier Regulatory Burden as Inflation Bites",
@@ -10987,16 +10998,5 @@
     "id_key": "4f9ac8a636cf6637fa3849e800a4dd49e0a86b42bb6388074c414f5d6c2a8439",
     "summary": "Note v3.8.0-rc.2 should not be used User facing changes Important! If you have previously used the ArbOwner.setMaxTxGasLimit to set the max transaction and block gas limits for your chain, you should add calls to ArbOwner.setMaxTxGasLimit and ArbOwner.SetMaxBlockGasLimit to your upgrade action to arbos 50. (When it's time.) After the arbos 50 upgrade, there is a new ArbOwner.setL1CalldataPrice which can be used to set the parent chain's blob base fee per byte of caldata. This is for allowing the state transition function to adjust for the parent chain having enabled EIP-7623: Increase calldata cost Highlights Nitro is ready for Fusaka Arbitrum One node operators need to upgrade to v3.8.0 before mainnet upgrades to Fusaka Arbitrum One and Arbitrum Nova will both upgrade to ArbOS 50 as described in the AIP What's Changed Fix error handling and add comprehensive tests in #3510 Add 10 minutes to bold tests in #3514 Optimize sender address derivation in #3518 Don't log error if unable to return expired nonce cache failure in0 in #3486 Add multi-dimensional gas collector in #3453 Refactor move multigascollector to arbos in #3524 Add debug flag to enable deep copy of backlog msgs in #3519 Update geth post merge of v1.16.0 in #3523 Update geth post merge of v1.16.1 in #3528 Use the parent chain for BlobFeePerByte instead of an RPC call in #3531 Fix acquiring redis lock in batch poster in #3511 Account multi-gas in StartTxHook in #3533 Add GetNativeTokenManagementFrom precompile to ArbOwnerPublic in #3534 Allow same prevTimestamp in eth_simulateV1 in #3535 Return False When Checking if Deposit Tx Type Has Poster Costs in #3536 Update geth post merge of v1.16.2 in #3537 Improve CPU performance when processing blocks in #3541 Fix eip 2537 in nitro enable it as part of arbos 50 dia in #3492 Fix that arbos didnt get updated for l1 calldata price in #3470 Support passing multi gas by value in #3543 Skip block size cap for arbitrum chains in #3544 Record only specific targets needed for stylus in #3416 Remove rust nightly dependency in #3546 Implement EIP-7825 in #3545 Enable arbos 50 in #3547 Treat precompile code as empty during delegation after arbos 50 in #3549 Enable ArbOS 50 in system tests in #3550 Prover: remove unnecessary wasm exports in #3554 Move the MaxTxGas limit enforcement in #3557 Add support for consensus v50 to Docker in #3551 Full Changelog : v3.7.1...v3.8.0-rc.1",
     "ingested_utc": "2025-09-11T22:32:52Z"
-  },
-  {
-    "published_utc": "2025-09-11",
-    "retrieved_date": "2025-09-11",
-    "retrieved_utc": "2025-09-11T22:31:40Z",
-    "source": "CryptoNews",
-    "title": "Next 100x Cryptos to Buy Today – 11 September",
-    "url": "https://cryptonews.com/news/next-100x-crypto-to-buy-today-11-september/",
-    "id_key": "c290ef134d5b3e836278e9aaa9d175a816c4ecc188923034bdbc64a9db9cc45b",
-    "summary": "The crypto market cap has returned above $4T. Reporting has examined three sub-$1 meme tokens: Maxi Doge ($MAXI) with a presale at $0.0002565 and staking up to 157% APY; PEPENODE ($PEPENODE) with mine-to-earn and near $1M raised; Wall Street Pepe ($WEPE) planning a Solana rollout with a 1:1 ETH burn. The post Next 100x Cryptos to Buy Today – 11 September appeared first on Cryptonews .",
-    "ingested_utc": "2025-09-11T22:31:40Z"
   }
 ]
