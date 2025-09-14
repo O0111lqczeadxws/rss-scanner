@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-09-14",
     "retrieved_date": "2025-09-14",
+    "retrieved_utc": "2025-09-14T07:51:17Z",
+    "source": "HackerNews_Top",
+    "title": "AI fabricates 21 out of 23 citations lawyer sanctioned reported to state bar [pdf]",
+    "url": "https://www4.courts.ca.gov/opinions/documents/B331918.PDF",
+    "id_key": "b3cfdaea7bbc7a173c2635a904dc6f2cea96670d03ffd5ac6a895ac92411c02e",
+    "summary": "Comments",
+    "ingested_utc": "2025-09-14T07:51:17Z"
+  },
+  {
+    "published_utc": "2025-09-14",
+    "retrieved_date": "2025-09-14",
+    "retrieved_utc": "2025-09-14T07:50:55Z",
+    "source": "AlJazeera_All",
+    "title": "Rubio lands in Israel to discuss war on Gaza after Israeli strike on Qatar",
+    "url": "https://www.aljazeera.com/news/2025/9/14/rubio-due-in-israel-to-discuss-gaza-war-after-attack-on-qatar?traffic_source=rss",
+    "id_key": "83210c0d2c3ffc34dab352da4cacceca93234d8e6cb982905bc0797450e2da57",
+    "summary": "US secretary of state says Trump was 'not happy' about the attack, but the incident will not change ties with Israel.",
+    "ingested_utc": "2025-09-14T07:50:55Z"
+  },
+  {
+    "published_utc": "2025-09-14",
+    "retrieved_date": "2025-09-14",
+    "retrieved_utc": "2025-09-14T07:47:42Z",
+    "source": "Guardian_World",
+    "title": "‘A facility for them’: Labor says WA shipyard to be used by US for sub maintenance as it commits $12bn",
+    "url": "https://www.theguardian.com/world/2025/sep/14/a-facility-for-them-labor-says-wa-shipyard-to-be-used-by-us-for-sub-maintenance-as-it-commits-12bn",
+    "id_key": "8a436d9a6585ffdb4eb9eeacbd2b0c33492a8ba6113419c6ffe582077fa0f5ff",
+    "summary": "Defence minister says Henderson naval shipyard ‘very much an Australian sovereign capability’ but admits Aukus submarine partner will use it Get our breaking news email , free app or daily news podcast The US will be able to use a major naval precinct in Western Australia to dock and maintain its own nuclear-powered submarines, the federal government has confirmed, after committing $12bn to upgrade the shipyard. The prime minister, Anthony Albanese, on Sunday insisted the shipyard was an “Australian facility” as he downplayed suggestions the announcement was timed to appease US demands for increased Australian defence spending ahead of a potential face-to-face meeting with Donald Trump. Continue reading...",
+    "ingested_utc": "2025-09-14T07:47:42Z"
+  },
+  {
+    "published_utc": "2025-09-14",
+    "retrieved_date": "2025-09-14",
     "retrieved_utc": "2025-09-14T07:27:23Z",
     "source": "FinancialPost_Business",
     "title": "Equatorial Guinea enforces yearlong internet outage for island that protested construction company",
@@ -10965,38 +10998,5 @@
     "id_key": "827fec47bb863a787c62195b632b3a4e106dcbc9a0174fed4e44ea122b7a768b",
     "summary": "Labour and Lib Dems call on Reform leader to say whether he gave partner money to buy £885,000 property Labour and the Liberal Democrats have called for Nigel Farage to clarify whether he saved tax on a house in his constituency, after a BBC investigation questioned whether his partner did, as Farage has said, buy the home with her own money. The Guardian first reported in May that the house in Clacton, which Farage initially said he had bought himself, is in fact wholly owned by Laure Ferrari, his long-term partner. Continue reading...",
     "ingested_utc": "2025-09-11T15:49:17Z"
-  },
-  {
-    "published_utc": "2025-09-11",
-    "retrieved_date": "2025-09-11",
-    "retrieved_utc": "2025-09-11T15:49:17Z",
-    "source": "Guardian_World",
-    "title": "Starmer and Cooper lead from the back as junior ministers take the Mandy flak | John Crace",
-    "url": "https://www.theguardian.com/politics/2025/sep/11/starmer-and-cooper-lead-from-the-back-as-junior-ministers-take-the-mandy-flak",
-    "id_key": "6c6c09800661b9e19e380c85d43fbe53ea2452ce1242121065d4e3a90ddc3467",
-    "summary": "PM and foreign secretary were nowhere is sight as hapless Stephen Doughty faced the Commons over Peter Mandelson UK politics live – latest updates If only there had been some kind of clue. The tiniest of hints that Peter Mandelson might not have been a suitable candidate to act as the UK ambassador in Washington. Like being forced to resign from the cabinet over a failure to disclose a loan from Geoffrey Robertson. Like being forced to resign from the cabinet a second time over allegations of trying to procure a passport for the Hinduja brothers. Like his financial arrangements with the Russian oligarch Oleg Deripaska. Like his friendship with the convicted child sex offender Jeffrey Epstein. Continue reading...",
-    "ingested_utc": "2025-09-11T15:49:17Z"
-  },
-  {
-    "published_utc": "2025-09-11",
-    "retrieved_date": "2025-09-11",
-    "retrieved_utc": "2025-09-11T15:49:16Z",
-    "source": "Guardian_Business",
-    "title": "US inflation rises in August as firms pass Trump tariffs cost on to consumers",
-    "url": "https://www.theguardian.com/business/2025/sep/11/us-inflation-august-trump-tariffs",
-    "id_key": "f271afe5da6278212f91cc7c769d9d39c5b32184a49dad278ded4e6bcdbf0ec2",
-    "summary": "New CPI update shows prices increased 2.9% over the last year, but Wall Street optimistic Fed will cut interest rates Inflation rose slightly in August as companies continued to push the cost of tariffs on to consumers. The newest update to the consumer price index (CPI), which measures a basket of goods and services, showed that prices increased 2.9% over the last year – the highest since January. Core CPI, which excludes energy and food costs, stayed stable at 3.1% after going up in July. Continue reading...",
-    "ingested_utc": "2025-09-11T15:49:16Z"
-  },
-  {
-    "published_utc": "2025-09-11",
-    "retrieved_date": "2025-09-11",
-    "retrieved_utc": "2025-09-11T15:45:10Z",
-    "source": "TheStreet_Top",
-    "title": "Consumers stressed by holiday spending are changing strategies",
-    "url": "https://www.thestreet.com/retail/consumers-stressed-by-holiday-spending-are-changing-strategies",
-    "id_key": "e888c2d247b390de203ebb79809bd526e434d1941837a5a58e78af5771109574",
-    "summary": "Economic anxiety and rising costs are forcing consumers to find new ways to stretch holiday shopping budgets.",
-    "ingested_utc": "2025-09-11T15:45:10Z"
   }
 ]
