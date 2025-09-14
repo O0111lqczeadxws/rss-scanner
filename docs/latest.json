@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-09-14",
     "retrieved_date": "2025-09-14",
+    "retrieved_utc": "2025-09-14T15:27:25Z",
+    "source": "NYTimes_World",
+    "title": "Romania Says Russian Drone Entered Its Airspace",
+    "url": "https://www.nytimes.com/2025/09/14/world/europe/romania-drone-russia-ukraine.html",
+    "id_key": "4a0ac3f90d38c2effe3274f3ce2ea093779150e6943c11ad845362fca76e052d",
+    "summary": "It was the second time in less than a week that a Russian drone had flown through a NATO member’s airspace. Last week, NATO scrambled fighter jets to shoot down Russian drones in Polish airspace.",
+    "ingested_utc": "2025-09-14T15:27:25Z"
+  },
+  {
+    "published_utc": "2025-09-14",
+    "retrieved_date": "2025-09-14",
     "retrieved_utc": "2025-09-14T15:12:35Z",
     "source": "HackerNews_Top",
     "title": "CorentinJ: Real-Time Voice Cloning (2021)",
@@ -1538,6 +1549,17 @@
     "id_key": "8751d129753aa075c308108034385856dde827fbfecd0d42b78b6e4819a5a354",
     "summary": "Suspect’s background and politics are being pored over in aftermath of killing of far-right influencer Though the suspect in the killing of conservative activist Charlie Kirk was revealed by authorities on Friday, questions surrounding his identity and motivations have exacerbated intense US political debates in the aftermath of the shooting. Authorities revealed Kirk’s suspected killer to be Tyler Robinson, a 22-year-old man who grew up in Washington, Utah , along the state’s south-western border. Continue reading...",
     "ingested_utc": "2025-09-14T00:53:20Z"
+  },
+  {
+    "published_utc": "2025-09-13",
+    "retrieved_date": "2025-09-14",
+    "retrieved_utc": "2025-09-14T15:27:34Z",
+    "source": "NPR_World",
+    "title": "Israel ramps up strikes on Gaza City and hospital says at least 32 are dead",
+    "url": "https://www.npr.org/2025/09/13/g-s1-88654/israel-gaza-hamas-hospital-32-dead",
+    "id_key": "8096609304851b171dd4e04b96ef4798510eaa7ef3619e4f4a866716c72746da",
+    "summary": "The dead included 12 children, according to Shifa Hospital. Israel in recent days has destroyed multiple high-rise buildings and accused Hamas of putting surveillance equipment in them.",
+    "ingested_utc": "2025-09-14T15:27:34Z"
   },
   {
     "published_utc": "2025-09-13",
@@ -10976,27 +10998,5 @@
     "id_key": "281a11015a88fc080d76dfdb2bc0f3c2c9dfa4fc5f566264c3435a28ce65fd1e",
     "summary": "CFTC chairman nominee Brian Quintenz shared messages from the Winklevii that revealed his allegiance to the twins if he becomes chairman. The post CFTC Nominee Brian Quintenz tells all in Winklevoss twins fight appeared first on Protos .",
     "ingested_utc": "2025-09-11T19:22:49Z"
-  },
-  {
-    "published_utc": "2025-09-11",
-    "retrieved_date": "2025-09-11",
-    "retrieved_utc": "2025-09-11T19:22:48Z",
-    "source": "CryptoSlate",
-    "title": "Bitcoin faces critical test at $114k as low liquidity threatens further upside action",
-    "url": "https://cryptoslate.com/bitcoin-faces-critical-test-at-114k-as-low-liquidity-threatens-further-upside-action/",
-    "id_key": "281bcde73e56d131d98abbf03331bcea304d38c0c6ab83b6f7e1b3a16e685d1d",
-    "summary": "Bitcoin (BTC) must hold the $114,000 level to attract investors’ confidence and new liquidity to breach the narrow $110,000-$116,000 range. According to a Sept. 11 report by Glassnode, BTC has been stuck in the “air gap” range following its mid-August peak. The trading range threatens to stall the current rally. In the current landscape, Bitcoin […] The post Bitcoin faces critical test at $114k as low liquidity threatens further upside action appeared first on CryptoSlate .",
-    "ingested_utc": "2025-09-11T19:22:48Z"
-  },
-  {
-    "published_utc": "2025-09-11",
-    "retrieved_date": "2025-09-11",
-    "retrieved_utc": "2025-09-11T19:22:28Z",
-    "source": "Guardian_Business",
-    "title": "Paramount Skydance reportedly preparing takeover bid for Warner Bros Discovery",
-    "url": "https://www.theguardian.com/business/2025/sep/11/paramount-skydance-warner-bros-discovery",
-    "id_key": "abfe9d2ea81c32371c71e2b21f1252b630938af991740cf6d70052077eb486cb",
-    "summary": "Media conglomerate putting together majority cash offer for WBD backed by ultra-rich Ellison family, reports say Paramount Skydance is reportedly preparing a takeover offer for Warner Bros Discovery, in a bid to pull together two of the largest US legacy media conglomerates and Hollywood movie studios. Less than a month after Skydance, a production firm run by David Ellison, son of the billionaire tech mogul Larry Ellison, closed its merger with Paramount , the firm is considering other blockbuster deals. Continue reading...",
-    "ingested_utc": "2025-09-11T19:22:28Z"
   }
 ]
