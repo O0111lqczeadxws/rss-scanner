@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-09-14",
     "retrieved_date": "2025-09-14",
+    "retrieved_utc": "2025-09-14T07:12:58Z",
+    "source": "AlJazeera_All",
+    "title": "Political crisis rumbles in Serbia as duelling camps hold parallel rallies",
+    "url": "https://www.aljazeera.com/news/2025/9/14/political-crisis-rumbles-in-serbia-as-duelling-camps-hold-parallel-rallies?traffic_source=rss",
+    "id_key": "7a2120acb8e6cd27ce6f968a6cff31bce647c8e3b04d9b9d9ece489d9d20d582",
+    "summary": "Antigovernment protests, which broke out more than 10 months ago, show no sign of abating.",
+    "ingested_utc": "2025-09-14T07:12:58Z"
+  },
+  {
+    "published_utc": "2025-09-14",
+    "retrieved_date": "2025-09-14",
+    "retrieved_utc": "2025-09-14T07:12:07Z",
+    "source": "NYTimes_World",
+    "title": "After Bolsonaro’s Conviction, Brazil Already Considers His Amnesty",
+    "url": "https://www.nytimes.com/2025/09/14/world/americas/bolsonaro-convicted-coup-amnesty.html",
+    "id_key": "bf25f08b6c427be7729f3174be7c6dbdb5d0e41f402e67ffd38a4807aa25018c",
+    "summary": "Brazil’s top court sentenced former President Jair Bolsonaro to 27 years in prison. The nation’s Congress is already debating how to free him.",
+    "ingested_utc": "2025-09-14T07:12:07Z"
+  },
+  {
+    "published_utc": "2025-09-14",
+    "retrieved_date": "2025-09-14",
     "retrieved_utc": "2025-09-14T06:40:03Z",
     "source": "NYTimes_World",
     "title": "Romania Reports Russian Drone in Its Airspace",
@@ -482,6 +504,17 @@
     "id_key": "8751d129753aa075c308108034385856dde827fbfecd0d42b78b6e4819a5a354",
     "summary": "Suspect’s background and politics are being pored over in aftermath of killing of far-right influencer Though the suspect in the killing of conservative activist Charlie Kirk was revealed by authorities on Friday, questions surrounding his identity and motivations have exacerbated intense US political debates in the aftermath of the shooting. Authorities revealed Kirk’s suspected killer to be Tyler Robinson, a 22-year-old man who grew up in Washington, Utah , along the state’s south-western border. Continue reading...",
     "ingested_utc": "2025-09-14T00:53:20Z"
+  },
+  {
+    "published_utc": "2025-09-13",
+    "retrieved_date": "2025-09-14",
+    "retrieved_utc": "2025-09-14T07:09:35Z",
+    "source": "BBC_World",
+    "title": "Workers taken to hospital after FBI uses furnace to burn seized meth",
+    "url": "https://www.bbc.com/news/articles/cly7wzp23lpo?at_medium=RSS&at_campaign=rss",
+    "id_key": "f0af5d3001e5ef1756fc2ebcab069911538d717293464bd7a95be33866fe5761",
+    "summary": "Fourteen staff were hospitalised and 75 cats and dogs evacuated.",
+    "ingested_utc": "2025-09-14T07:09:35Z"
   },
   {
     "published_utc": "2025-09-13",
@@ -10965,38 +10998,5 @@
     "id_key": "04d8f3b26a7992efbad9cb98648882ab3260efda58761521161d15b02fc2bf01",
     "summary": "Investors had hoped Core CPI and CPI would follow wholesale inflation to the downside.",
     "ingested_utc": "2025-09-11T15:45:10Z"
-  },
-  {
-    "published_utc": "2025-09-11",
-    "retrieved_date": "2025-09-11",
-    "retrieved_utc": "2025-09-11T15:45:10Z",
-    "source": "TheStreet_Top",
-    "title": "Veteran analyst revamps S&P 500 forecast after massive rally",
-    "url": "https://www.thestreet.com/markets/veteran-analyst-reboots-s-p-500-outlook-after-new-highs",
-    "id_key": "911328ffee303bd5d1a9d6d58187c686d16798cb261b5c6146b201704eba2416",
-    "summary": "Here's what could be next for the benchmark index.",
-    "ingested_utc": "2025-09-11T15:45:10Z"
-  },
-  {
-    "published_utc": "2025-09-11",
-    "retrieved_date": "2025-09-11",
-    "retrieved_utc": "2025-09-11T15:45:10Z",
-    "source": "AlJazeera_All",
-    "title": "Belarus frees 52 political prisoners after US mediation",
-    "url": "https://www.aljazeera.com/news/2025/9/11/belarus-frees-52-political-prisoners-after-us-mediation?traffic_source=rss",
-    "id_key": "fabdcd03301fc9c29b55e5461a6799ed0ed75f8c4646c7919e1d299e5d975bc1",
-    "summary": "The release comes as the Belarusian president has sought to mend ties with the West in the hopes of sanctions relief.",
-    "ingested_utc": "2025-09-11T15:45:10Z"
-  },
-  {
-    "published_utc": "2025-09-11",
-    "retrieved_date": "2025-09-11",
-    "retrieved_utc": "2025-09-11T15:44:48Z",
-    "source": "TheVerge_All",
-    "title": "Roku wants you to see a lot more AI-generated ads",
-    "url": "https://www.theverge.com/lowpass-newsletter/776248/roku-ai-ads",
-    "id_key": "2df07871c6bd59f3f937964681886c7e3f34104f7f386f268d1a4e6124d0e081",
-    "summary": "Are you tired of having to watch the same three or four ads over and over again? That could change soon, if Roku has its way. The smart TV and streaming device maker is working on dramatically expanding the number of advertisers vying for your attention, to the point where ads on streaming could soon […]",
-    "ingested_utc": "2025-09-11T15:44:48Z"
   }
 ]
