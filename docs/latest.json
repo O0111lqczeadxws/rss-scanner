@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-09-14",
     "retrieved_date": "2025-09-14",
+    "retrieved_utc": "2025-09-14T11:33:25Z",
+    "source": "CryptoNews",
+    "title": "Polychain-Backed Yala Stablecoin YU Crashes to $0.20 After Protocol Attack",
+    "url": "https://cryptonews.com/news/polychain-backed-yala-stablecoin-yu-crashes-to-0-20-after-protocol-attack/",
+    "id_key": "318bbdc17d56fc245b4ced6718ef97f31a796253dd8de50ce6a8b33c4819012f",
+    "summary": "The Yala stablecoin (YU), a Bitcoin-native over-collateralized stablecoin backed by Polychain, lost its dollar peg around 5:14 UTC+8 following a protocol attack that sent YU crashing to $0.2074 before recovering to $0.917, as the team promptly confirmed the incident and temporarily disabled Convert and Bridge functions. The post Polychain-Backed Yala Stablecoin YU Crashes to $0.20 After Protocol Attack appeared first on Cryptonews .",
+    "ingested_utc": "2025-09-14T11:33:25Z"
+  },
+  {
+    "published_utc": "2025-09-14",
+    "retrieved_date": "2025-09-14",
     "retrieved_utc": "2025-09-14T11:23:12Z",
     "source": "Guardian_World",
     "title": "Far-right AfD forecast to make gains as North Rhine-Westphalia goes to polls",
@@ -911,6 +922,17 @@
     "id_key": "8751d129753aa075c308108034385856dde827fbfecd0d42b78b6e4819a5a354",
     "summary": "Suspect’s background and politics are being pored over in aftermath of killing of far-right influencer Though the suspect in the killing of conservative activist Charlie Kirk was revealed by authorities on Friday, questions surrounding his identity and motivations have exacerbated intense US political debates in the aftermath of the shooting. Authorities revealed Kirk’s suspected killer to be Tyler Robinson, a 22-year-old man who grew up in Washington, Utah , along the state’s south-western border. Continue reading...",
     "ingested_utc": "2025-09-14T00:53:20Z"
+  },
+  {
+    "published_utc": "2025-09-13",
+    "retrieved_date": "2025-09-14",
+    "retrieved_utc": "2025-09-14T11:35:36Z",
+    "source": "NPR_Business",
+    "title": "Fed's Cook claimed second residence as 'vacation home,' undercutting Trump fraud claims",
+    "url": "https://www.npr.org/2025/09/13/nx-s1-5540691/fed-governor-lisa-cook-vacation-home",
+    "id_key": "112534397ebb653e4af0c865d5443bef20abe11fb3304e99b16ab9502fd29c40",
+    "summary": "Fed Gov. Lisa Cook referred to a condo she bought in 2021 as a \"vacation home\" in a loan estimate, which could undermine claims by the Trump administration that she committed mortgage fraud.",
+    "ingested_utc": "2025-09-14T11:35:36Z"
   },
   {
     "published_utc": "2025-09-13",
@@ -10976,27 +10998,5 @@
     "id_key": "4b2e54324b28200c360c0e2fd78e74434bc326dffd469da934591025b974c7df",
     "summary": "So-called asset-based lending is the linchpin of a revolution sweeping Wall Street",
     "ingested_utc": "2025-09-11T17:31:47Z"
-  },
-  {
-    "published_utc": "2025-09-11",
-    "retrieved_date": "2025-09-11",
-    "retrieved_utc": "2025-09-11T17:31:47Z",
-    "source": "FT_Home",
-    "title": "US regulator launches inquiry into AI ‘companions’ used by teens",
-    "url": "https://www.ft.com/content/91b363dc-3ec7-4c55-8876-14676d2fe8dc",
-    "id_key": "d6c2e88ee651c2888057ee3062eca5b8b5fabf745191f1cf002e881bd9c826dc",
-    "summary": "Federal Trade Commission heaps pressure on Big Tech after high-profile cases of harm to teenagers using chatbots",
-    "ingested_utc": "2025-09-11T17:31:47Z"
-  },
-  {
-    "published_utc": "2025-09-11",
-    "retrieved_date": "2025-09-11",
-    "retrieved_utc": "2025-09-11T17:31:28Z",
-    "source": "MarketWatch_Bulletins",
-    "title": "Figure's IPO sizzles as investors stay hungry for crypto deals",
-    "url": "https://www.marketwatch.com/bulletins/redirect/go?g=8d2d9a29-af2a-4b79-b56b-4475569fbe34&mod=mw_rss_bulletins",
-    "id_key": "b47aa6abcb16560875caaa81c4c0d54b43b0353caa0fe70312a0f44a33b3cb17",
-    "summary": "",
-    "ingested_utc": "2025-09-11T17:31:28Z"
   }
 ]
