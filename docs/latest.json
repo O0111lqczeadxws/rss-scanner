@@ -2,6 +2,50 @@
   {
     "published_utc": "2025-09-15",
     "retrieved_date": "2025-09-15",
+    "retrieved_utc": "2025-09-15T05:36:07Z",
+    "source": "HackerNews_Top",
+    "title": "Starlink is currently experiencing a service outage",
+    "url": "https://www.starlink.com/",
+    "id_key": "a997dcc32053f0f877060424bfd6de9b92d40e66f33b7861f0bbbeeeb8755c71",
+    "summary": "Comments",
+    "ingested_utc": "2025-09-15T05:36:07Z"
+  },
+  {
+    "published_utc": "2025-09-15",
+    "retrieved_date": "2025-09-15",
+    "retrieved_utc": "2025-09-15T05:35:10Z",
+    "source": "FT_Markets",
+    "title": "Revenue growth is strong (at big companies only)",
+    "url": "https://www.ft.com/content/81e61ce5-8601-4b85-884f-738378938826",
+    "id_key": "f3257d4a4d63bb9ba79df8ed183509b6c596e9a6952642d005b28f65b7fbdef8",
+    "summary": "And regional Fed independence matters, too",
+    "ingested_utc": "2025-09-15T05:35:10Z"
+  },
+  {
+    "published_utc": "2025-09-15",
+    "retrieved_date": "2025-09-15",
+    "retrieved_utc": "2025-09-15T05:35:08Z",
+    "source": "FT_Home",
+    "title": "Why British workers keep getting pay rises despite weak hiring",
+    "url": "https://www.ft.com/content/08f03654-8062-4caa-b50a-ccc285a00b93",
+    "id_key": "1d373efa1b3a4b8e496b71158d5ff2b7d29bf58b8f08fca47f8b5c6b3694ba66",
+    "summary": "Settlement after first UK hotel strike for decades encapsulates problems Bank of England is grappling with",
+    "ingested_utc": "2025-09-15T05:35:08Z"
+  },
+  {
+    "published_utc": "2025-09-15",
+    "retrieved_date": "2025-09-15",
+    "retrieved_utc": "2025-09-15T05:35:08Z",
+    "source": "FT_Home",
+    "title": "Trump’s new SEC appointee scraps aggressive enforcement agenda",
+    "url": "https://www.ft.com/content/55d4c6e5-663b-4b09-a374-1a607f82ad8d",
+    "id_key": "9882c82ded776232c0c9e0d9b5003aebd5db8144b830e8d2f0e453a514828915",
+    "summary": "Paul Atkins signals a softer approach to regulation of Wall Street than under his predecessor",
+    "ingested_utc": "2025-09-15T05:35:08Z"
+  },
+  {
+    "published_utc": "2025-09-15",
+    "retrieved_date": "2025-09-15",
     "retrieved_utc": "2025-09-15T05:14:40Z",
     "source": "FT_Home",
     "title": "Can China stop its EV price wars?",
@@ -10954,49 +10998,5 @@
     "id_key": "e23808f2815770a68c705de1f5b1aca01f09130dca32b5e0be5ef63140459b9c",
     "summary": "The distressed used car dealer chain and subprime lender files for Chapter 7 bankruptcy liquidation.",
     "ingested_utc": "2025-09-12T03:04:50Z"
-  },
-  {
-    "published_utc": "2025-09-12",
-    "retrieved_date": "2025-09-12",
-    "retrieved_utc": "2025-09-12T03:04:32Z",
-    "source": "Engadget_All",
-    "title": "Google Maps wasn't loading in some regions due to an outage",
-    "url": "https://www.engadget.com/apps/google-maps-isnt-loading-in-some-regions-due-to-an-apparent-outage-204458737.html?src=rss",
-    "id_key": "8423e07f28faea161bc8d45c7e31af546ef6ff01f4bfd9581389962b4477b9f5",
-    "summary": "Google Maps suffered an outage that left the mobile version of the service unable to fully load its map or provide directions. Over 4,000 reports were filed on Downdetector since the outage started, and Google's Status Dashboard noted that the company was investigating an issue with the Maps SDK and Navigation SDK at 3:34PM ET. By 6:27PM ET, Google said the issue has been resolved and that it will publish an \"analysis of this incident\" once it has completed its internal investigation. At the peak of the outage, both the Android and iOS versions of Google Maps were unable to fully load a map, display listings or provide directions. In at least one case, the apps also showed an error message saying that Google Maps \"Cannot reach server.\" Whatever caused the outage hasn't extend to the web version of the navigation service, which continues to work as normal. Ian Carlos Campbell for Engadget Google's dashboard updated to say that \"mitigation work is currently underway by our engineering team\" and that it was \"seeing indications of recovery\" at around 5:22PM ET. Around 30 minutes later, the company said that the issue was partially resolved, but that it couldn't share \"an ETA for full resolution at this point.\" In the description of the issue on Google's Status Dashboard, Google has yet to provide an explanation for the outage or detailed what it's doing to fix the issue. Engadget has contacted Google for more information and will update this article if we here back. Google's last major outage occurred in June, though it was primarily concentrated in the company's Google Cloud service. Given the number of clients who use Google Cloud, the outage impacted everything from Spotify to Snapchat for multiple hours. Update, September 11, 2025, 6:09PM ET: Updated article again to include details from Google's Status Dashboard. Update, September 11, 2025, 5:38PM ET: Updated article to include new information shared on Google's Status Dashboard. Update, September 11, 2025 9:51PM ET: Updated article to note that the issue has been resolved. This article originally appeared on Engadget at https://www.engadget.com/apps/google-maps-isnt-loading-in-some-regions-due-to-an-apparent-outage-204458737.html?src=rss",
-    "ingested_utc": "2025-09-12T03:04:32Z"
-  },
-  {
-    "published_utc": "2025-09-12",
-    "retrieved_date": "2025-09-12",
-    "retrieved_utc": "2025-09-12T03:03:57Z",
-    "source": "NPR_Top",
-    "title": "Charlie Kirk's killing raises the stakes for campus security",
-    "url": "https://www.npr.org/2025/09/11/nx-s1-5538453/charlie-kirk-killing-high-stakes-campus-security",
-    "id_key": "d472bb720761d1915ea9db1f6b8edfd909665094acec5b7abeb6cc081b7a956b",
-    "summary": "How much security at a campus event is enough? Campus police are mulling the question.",
-    "ingested_utc": "2025-09-12T03:03:57Z"
-  },
-  {
-    "published_utc": "2025-09-12",
-    "retrieved_date": "2025-09-12",
-    "retrieved_utc": "2025-09-12T03:03:49Z",
-    "source": "NYTimes_World",
-    "title": "Nepal’s Capital Is Choked With Smoke and Gripped by Fear",
-    "url": "https://www.nytimes.com/2025/09/11/world/asia/nepal-protests-fires.html",
-    "id_key": "d8b3f1e634385c00a1add7ff81c9fac79ed9661260eacce23bae375a5471ec21",
-    "summary": "With institutions burned to the ground and the army in control, Gen Z protesters are pushing for an anti-corruption crusader to be appointed as the country’s interim leader.",
-    "ingested_utc": "2025-09-12T03:03:49Z"
-  },
-  {
-    "published_utc": "2025-09-12",
-    "retrieved_date": "2025-09-12",
-    "retrieved_utc": "2025-09-12T03:03:48Z",
-    "source": "NYTimes_Business",
-    "title": "Air Mail, a Digital Weekly, Is Expected to Be Acquired by Puck",
-    "url": "https://www.nytimes.com/2025/09/11/business/media/puck-air-mail-deal.html",
-    "id_key": "76d6af6bbfff044930ae8f9f15cd27b1d529b3a97baedb40d78e919cec6f43d9",
-    "summary": "Graydon Carter, a former editor of Vanity Fair, had been shopping around his media start-up for a year.",
-    "ingested_utc": "2025-09-12T03:03:48Z"
   }
 ]
