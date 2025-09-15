@@ -2,6 +2,61 @@
   {
     "published_utc": "2025-09-15",
     "retrieved_date": "2025-09-15",
+    "retrieved_utc": "2025-09-15T10:37:22Z",
+    "source": "FinancialPost_Business",
+    "title": "Small Businesses Turn to Lending Startups as Tariff Costs Mount",
+    "url": "https://financialpost.com/pmn/business-pmn/small-businesses-turn-to-lending-startups-as-tariff-costs-mount",
+    "id_key": "442062b9c6ad8c44ce737820902d38133429946d34ff349b538b4ed4b51552bb",
+    "summary": "Demand for short-term loans is spiking among companies that import merchandise from China.",
+    "ingested_utc": "2025-09-15T10:37:22Z"
+  },
+  {
+    "published_utc": "2025-09-15",
+    "retrieved_date": "2025-09-15",
+    "retrieved_utc": "2025-09-15T10:37:22Z",
+    "source": "FinancialPost_Business",
+    "title": "‘Very strong case’ for Bank of Canada cut this week, if inflation data co-operates",
+    "url": "https://financialpost.com/news/economy/bank-of-canada-cut-this-week-inflation-data",
+    "id_key": "1862892c827a33f1ae4b086081f91a34c3f812a7c7bc20f0da7bf5197b1e1667",
+    "summary": "Market odds of a cut on Wednesday have jumped to 90%",
+    "ingested_utc": "2025-09-15T10:37:22Z"
+  },
+  {
+    "published_utc": "2025-09-15",
+    "retrieved_date": "2025-09-15",
+    "retrieved_utc": "2025-09-15T10:37:22Z",
+    "source": "FinancialPost_Business",
+    "title": "Canada Home Sales Rise for Fifth Month as Inventory Lures Buyers",
+    "url": "https://financialpost.com/pmn/business-pmn/canada-home-sales-rise-for-fifth-month-as-inventory-lures-buyers",
+    "id_key": "4ddb88d16f83505c22f2f694110b4936198c508a9f60548c89ccdad54ee9f1bb",
+    "summary": "Canadian home sales rose for a fifth straight month as a buildup of listings lured buyers back to the market.",
+    "ingested_utc": "2025-09-15T10:37:22Z"
+  },
+  {
+    "published_utc": "2025-09-15",
+    "retrieved_date": "2025-09-15",
+    "retrieved_utc": "2025-09-15T10:36:06Z",
+    "source": "BBC_Business",
+    "title": "When is the Budget and what might be in it?",
+    "url": "https://www.bbc.com/news/articles/cj4w44w42j5o?at_medium=RSS&at_campaign=rss",
+    "id_key": "953d37186dd24e5cdf9c0efa579a67f9105275af26974b73f16911397176a592",
+    "summary": "Chancellor Rachel Reeves will set out her economic plans in her second Budget on 26 November.",
+    "ingested_utc": "2025-09-15T10:36:06Z"
+  },
+  {
+    "published_utc": "2025-09-15",
+    "retrieved_date": "2025-09-15",
+    "retrieved_utc": "2025-09-15T10:34:12Z",
+    "source": "Guardian_World",
+    "title": "Kirk shooting suspect had ‘very different ideology’ than conservative family, Utah governor says",
+    "url": "https://www.theguardian.com/us-news/2025/sep/14/charlie-kirk-shooting-suspect-roommate",
+    "id_key": "2a32513c7a41ce7443cffe8925b01161e2fd1d6a162a398da180195cf4e7de2c",
+    "summary": "Spencer Cox says suspect, who isn’t cooperating with officials, had been ‘radicalized’ and was in relationship with person transitioning from male to female The Utah governor, Spencer Cox, on Sunday told national talkshows that the man suspected of killing Turning Point USA executive director Charlie Kirk was living with and in a relationship with a person “transitioning from male to female” as investigators continue exploring a possible motive in the attack. The Republican politician’s comments came four days after Kirk – a critic of gay and transgender rights – was shot to death from a distance with a rifle during an event at Utah Valley University shortly after asserting that “too many” trans people had committed mass shootings in the US. In reality, according to what the nonpartisan Gun Violence Archive said to NBC News, only about a tenth of 1% of such cases over the previous decade have allegedly been carried out by trans people. Continue reading...",
+    "ingested_utc": "2025-09-15T10:34:12Z"
+  },
+  {
+    "published_utc": "2025-09-15",
+    "retrieved_date": "2025-09-15",
     "retrieved_utc": "2025-09-15T10:15:45Z",
     "source": "FinancialPost_Business",
     "title": "Ookla Launches Speedtest Certified™ to Provide Definitive Network Verification for Properties",
@@ -10943,60 +10998,5 @@
     "id_key": "692f2d69b99c70adfc502bde5083bae4b49bceaaa3935865148b7bc5a29b8ebf",
     "summary": "The report is based on more than 300 interviews with escapees from Kim Jong Un's secretive regime.",
     "ingested_utc": "2025-09-12T09:31:26Z"
-  },
-  {
-    "published_utc": "2025-09-12",
-    "retrieved_date": "2025-09-12",
-    "retrieved_utc": "2025-09-12T08:57:13Z",
-    "source": "TheVerge_All",
-    "title": "Microsoft avoids EU fine after Slack complained about Teams bundling",
-    "url": "https://www.theverge.com/news/776968/microsoft-teams-eu-commitments-avoid-fine",
-    "id_key": "80f4e4748b3a4ec8276271541e311b6f8e7351f3e82ee6fac71181312e3ab002",
-    "summary": "Microsoft has avoided a fine from the European Commission after it was charged with EU antitrust violations for bundling its Teams app with Office 365 and Microsoft 365 subscriptions. The European Commission says it has accepted commitments from Microsoft to address competition concerns related to Microsoft Teams, following an anti-competitive complaint filed by Slack in […]",
-    "ingested_utc": "2025-09-12T08:57:13Z"
-  },
-  {
-    "published_utc": "2025-09-12",
-    "retrieved_date": "2025-09-12",
-    "retrieved_utc": "2025-09-12T08:45:19Z",
-    "source": "HackerNews_Top",
-    "title": "Hyundai is now delaying its EV battery plant that was raided by ICE",
-    "url": "https://electrek.co/2025/09/11/hyundai-now-delaying-ev-battery-plant-raided-by-ice/",
-    "id_key": "f15f87ec55c913a2d37cfc9f4ff821cad656c1dfd06d4f7d56b391573876c478",
-    "summary": "Comments",
-    "ingested_utc": "2025-09-12T08:45:19Z"
-  },
-  {
-    "published_utc": "2025-09-12",
-    "retrieved_date": "2025-09-12",
-    "retrieved_utc": "2025-09-12T08:45:19Z",
-    "source": "HackerNews_Top",
-    "title": "UN Security Council members condemn Israel over deadly strike on Qatar",
-    "url": "https://www.aljazeera.com/news/2025/9/11/un-security-council-members-slam-israel-over-strike-on-qatar",
-    "id_key": "1febd56afb669a4abddc9e8d083ae34f31889cf28242d5013c6d54a131fbb3a5",
-    "summary": "Comments",
-    "ingested_utc": "2025-09-12T08:45:19Z"
-  },
-  {
-    "published_utc": "2025-09-12",
-    "retrieved_date": "2025-09-12",
-    "retrieved_utc": "2025-09-12T08:45:04Z",
-    "source": "FinancialPost_Business",
-    "title": "Indonesia Takes Over Mines and Palm Oil as Crackdown Widens",
-    "url": "https://financialpost.com/pmn/business-pmn/indonesia-takes-over-mines-and-palm-oil-as-crackdown-widens",
-    "id_key": "b9b3c7a47fbeea04a9c604561238c2ce146d60c5d2477c1b36c89afe62fff96b",
-    "summary": "Indonesia has taken over more than 674,000 hectares of palm oil plantations and seized portions of two major nickel mines, handing the world’s top producer of both commodities a growing portfolio as it cracks down on illegal practices in the natural resources sector.",
-    "ingested_utc": "2025-09-12T08:45:04Z"
-  },
-  {
-    "published_utc": "2025-09-12",
-    "retrieved_date": "2025-09-12",
-    "retrieved_utc": "2025-09-12T08:45:04Z",
-    "source": "FinancialPost_Business",
-    "title": "Oil Extends Drop as IEA Puts Glut Back in Focus After OPEC+ Hike",
-    "url": "https://financialpost.com/pmn/business-pmn/oil-extends-drop-as-iea-puts-glut-back-in-focus-after-opec-hike",
-    "id_key": "5215d3e993f337f7530be6972af84a85a7659680d17c0e7d1fe311cbe60a7d6c",
-    "summary": "Oil extended a decline after the International Energy Agency projected an even bigger surplus next year, with the bearish outlook offsetting concerns about geopolitical tensions from the Middle East to Europe.",
-    "ingested_utc": "2025-09-12T08:45:04Z"
   }
 ]
