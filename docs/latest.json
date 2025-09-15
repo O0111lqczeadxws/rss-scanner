@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-09-15",
     "retrieved_date": "2025-09-15",
+    "retrieved_utc": "2025-09-15T04:38:42Z",
+    "source": "Nikkei_Asia_Top",
+    "title": "China reports broad economic slowdown amid tariff, demand pressure",
+    "url": "https://asia.nikkei.com/economy/china-reports-broad-economic-slowdown-amid-tariff-demand-pressure",
+    "id_key": "6467b73c6824febd6047a9b95738b80f7c28da1f2f95862ea001a9ae94d17d18",
+    "summary": "",
+    "ingested_utc": "2025-09-15T04:38:42Z"
+  },
+  {
+    "published_utc": "2025-09-15",
+    "retrieved_date": "2025-09-15",
+    "retrieved_utc": "2025-09-15T04:38:35Z",
+    "source": "FinancialPost_Business",
+    "title": "CATL Jumps on JPMorgan Upgrade, China Energy Storage Plan",
+    "url": "https://financialpost.com/pmn/business-pmn/catl-jumps-on-jpmorgan-upgrade-china-energy-storage-plan",
+    "id_key": "f756420cf91363f34fb0c4be5807171523119e3489fb1489773e60f340c9c5a5",
+    "summary": "Contemporary Amperex Technology Co. Ltd.’s shares surged as a prominent analyst upgrade and expectations for stronger demand for its energy storage system business fueled bullish bets on the battery maker.",
+    "ingested_utc": "2025-09-15T04:38:35Z"
+  },
+  {
+    "published_utc": "2025-09-15",
+    "retrieved_date": "2025-09-15",
     "retrieved_utc": "2025-09-15T04:16:22Z",
     "source": "FT_Markets",
     "title": "India’s push for EU trade deal hit by basmati rice dispute",
@@ -10976,27 +10998,5 @@
     "id_key": "8ceb6d4a5a3ba290aab12a67752dc34ab5827460ccecdf963825b18b00563edb",
     "summary": "Vice-president JD Vance flies with casket as officials say rifle found and images of suspect released Charlie Kirk shooting: latest updates How the Charlie Kirk shooting unfolded – in maps, videos and images JD Vance, the vice-president, flew with the casket of the rightwing activist Charlie Kirk from Utah, where he was fatally shot, to Arizona, where the 31-year-old lived and grew his conservative youth movement, as the search for his killer continued. Kirk, a close political ally of Donald Trump and a personal friend of Vance, was shot on Wednesday afternoon during an open-air discussion attended by about 3,000 people at Utah Valley University (UVU) in Orem. The shooting, which the president called a “dark moment for America”, comes as the country grapples with mounting political anger and polarization. Continue reading...",
     "ingested_utc": "2025-09-12T03:01:33Z"
-  },
-  {
-    "published_utc": "2025-09-11",
-    "retrieved_date": "2025-09-14",
-    "retrieved_utc": "2025-09-14T20:50:53Z",
-    "source": "HackerNews_Top",
-    "title": "Patela: A basement full of amnesic servers",
-    "url": "https://osservatorionessuno.org/blog/2025/05/patela-a-basement-full-of-amnesic-servers/",
-    "id_key": "1a9c22393a7fdf04bf8faa1206110bf915139bea37242471049730391fcd0526",
-    "summary": "Comments",
-    "ingested_utc": "2025-09-14T20:50:53Z"
-  },
-  {
-    "published_utc": "2025-09-11",
-    "retrieved_date": "2025-09-14",
-    "retrieved_utc": "2025-09-14T13:39:34Z",
-    "source": "HackerNews_Top",
-    "title": "MIT-MC CP/M archive files, 1979-1984",
-    "url": "https://github.com/MITDDC/cpmarchive-1979-1984",
-    "id_key": "0bc533ef4fadf557115ed2a5471e3d343d0f8c3c1eb256f4f8116629824b53cc",
-    "summary": "Comments",
-    "ingested_utc": "2025-09-14T13:39:34Z"
   }
 ]
