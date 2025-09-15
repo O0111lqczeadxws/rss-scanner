@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-09-15",
     "retrieved_date": "2025-09-15",
+    "retrieved_utc": "2025-09-15T22:40:00Z",
+    "source": "Arbitrum_Nitro_Releases",
+    "title": "Arbitrum Nitro v3.7.3-rc.1",
+    "url": "https://github.com/OffchainLabs/nitro/releases/tag/v3.7.3-rc.1",
+    "id_key": "459df7b68f7478b330685fafdd72cd2c927568221678a7089f48d4d0c98b06f0",
+    "summary": "This release has bug fixes and improvements, but it is not a required upgrade. This release is available as a Docker Image on Docker Hub at offchainlabs/nitro-node:TBD This Docker image specifies default flags in its entrypoint which should be replicated if you're overriding the entrypoint: /usr/local/bin/nitro --validation.wasm.allowed-wasm-module-roots /home/user/nitro-legacy/machines,/home/user/target/machines If you're running a validator without a split validation server (this will be true of most validators), you should instead use the image offchainlabs/nitro-nodeTBD-validator which has the extra script /usr/local/bin/split-val-entry.sh as the entrypoint. Special Note 1 Nitro 3.7.0 pulls in go-ethereum 1.15.6 which changed log index from bloombits to filtermap. This means that on startup there will be elevated CPU usage for 50+ hours while new FilterMaps are generated for log indexing. If log queries are not used, the parameter --execution.tx-indexer.enable=false can be used to completely disable log indexing. Special Note 2 Nitro 3.7.0 pulls in go-ethereum 1.15.11 which includes a brand new log indexing system called filtermaps that has resulted in an increase in log indexing latency due to Nitro’s current reliance on HashDB (instead of PathDB). In some cases, this can delay log queries from being served anywhere between 5 seconds to 2 minutes on Arbitrum One during long tail unindexing. We’ve observed that this happens roughly once per day based on Arbitrum One mainnet traffic levels. Teams who need to serve log queries with consistent latency (e.g. eth_getLogs , eth_getFilterLogs , eth_getFilterChanges ) can use the configuration parameter --execution.rpc.log-history=0 to keep all log history, which will only slightly increase database growth. Teams running their own log indexer may be unaffected. At some point, a future release Nitro is expected to fix the issue of log index pruning being able to block log queries. What's Changed* Make sure to retry fast confirmation on failure: #3641 Full Changelog : v3.7.2...v3.7.3-rc.1",
+    "ingested_utc": "2025-09-15T22:40:00Z"
+  },
+  {
+    "published_utc": "2025-09-15",
+    "retrieved_date": "2025-09-15",
+    "retrieved_utc": "2025-09-15T22:38:47Z",
+    "source": "CryptoNews",
+    "title": "Best Crypto to Buy Now 15 September – XRP, Pi Coin, Dogecoin",
+    "url": "https://cryptonews.com/news/best-crypto-to-buy-now-15-september-xrp-pi-coin-dogecoin/",
+    "id_key": "6bb8f50701ab21b564b1cf6fe375c2ae3ecbeaf11e7a27c30d92a3c543c72591",
+    "summary": "The best crypto investments have been analyzed amid U.S. regulatory changes and surging adoption. XRP has outperformed Bitcoin, Dogecoin has advanced on ETF speculation, Pi Network eyes mainnet launch, and HYPER’s presale continues to grow, shaping the digital asset market outlook for 2025. The post Best Crypto to Buy Now 15 September – XRP, Pi Coin, Dogecoin appeared first on Cryptonews .",
+    "ingested_utc": "2025-09-15T22:38:47Z"
+  },
+  {
+    "published_utc": "2025-09-15",
+    "retrieved_date": "2025-09-15",
+    "retrieved_utc": "2025-09-15T22:38:47Z",
+    "source": "CryptoNews",
+    "title": "New ChatGPT Model Predicts the Price of XRP, Solana and Pepe by the End of 2025",
+    "url": "https://cryptonews.com/news/new-chatgpt-model-predicts-the-price-of-xrp-solana-and-pepe-by-the-end-of-2025/",
+    "id_key": "2fc53ba5a5ad36b03c7ba6cedd1db96c78f151f0f73cf65b46d095bb80bec50d",
+    "summary": "ChatGPT predicts XRP, Solana, and Pepe could deliver substantial gains by the holiday season. Bitcoin has hit a record $124,128 before retreating on inflation data, while U.S. regulation advances under the GENIUS Act and SEC’s Project Crypto, setting the stage for a possible new altcoin surge. The post New ChatGPT Model Predicts the Price of XRP, Solana and Pepe by the End of 2025 appeared first on Cryptonews .",
+    "ingested_utc": "2025-09-15T22:38:47Z"
+  },
+  {
+    "published_utc": "2025-09-15",
+    "retrieved_date": "2025-09-15",
     "retrieved_utc": "2025-09-15T22:32:17Z",
     "source": "HackerNews_Top",
     "title": "Massive Attack Turns Concert into Facial Recognition Surveillance Experiment",
@@ -10965,38 +10998,5 @@
     "id_key": "c751262ca2b6fcaf23f2ae437cf2b5782995fdf2b89c6f6562d183d786a92e26",
     "summary": "Last week’s immigration operation at a battery plant highlighted a tactic that companies use to bring in foreign workers to establish new operations.",
     "ingested_utc": "2025-09-15T21:11:53Z"
-  },
-  {
-    "published_utc": "2025-09-12",
-    "retrieved_date": "2025-09-15",
-    "retrieved_utc": "2025-09-15T18:47:36Z",
-    "source": "NPR_Economy",
-    "title": "Why mothers in the U.S. are scaling back on their work lives",
-    "url": "https://www.npr.org/2025/09/12/nx-s1-5537129/why-mothers-in-the-u-s-are-scaling-back-on-their-work-lives",
-    "id_key": "51dbb8c5324d996ce316e1ceb419c256d098b44e791f3a7ccb2afdb7778e5b3e",
-    "summary": "Workforce participation for moms in the U.S. has been dropping for most of this year, and the reasons are more complicated than return-to-office mandates. The team from \"The Indicator\" explains why.",
-    "ingested_utc": "2025-09-15T18:47:36Z"
-  },
-  {
-    "published_utc": "2025-09-12",
-    "retrieved_date": "2025-09-15",
-    "retrieved_utc": "2025-09-15T10:16:00Z",
-    "source": "HackerNews_Top",
-    "title": "Removing newlines in FASTA file increases ZSTD compression ratio by 10x",
-    "url": "https://log.bede.im/2025/09/12/zstandard-long-range-genomes.html",
-    "id_key": "886ef664c41ff781738ec80e3a665ecbdd4c75d049bc969e72232ac5ee2f3eb7",
-    "summary": "Comments",
-    "ingested_utc": "2025-09-15T10:16:00Z"
-  },
-  {
-    "published_utc": "2025-09-12",
-    "retrieved_date": "2025-09-14",
-    "retrieved_utc": "2025-09-14T14:47:09Z",
-    "source": "Guardian_Business",
-    "title": "Mexico acting ‘under coercion to constrain’ China with 50% tariff on cars, says Beijing",
-    "url": "https://www.theguardian.com/world/2025/sep/12/mexico-acting-under-coercion-to-constrain-china-with-50-tariff-on-cars-says-beijing",
-    "id_key": "9b02b8f8f3e29f5cf693218e16e56c1b240a18fab54d5927ee64ea0b8a1193bb",
-    "summary": "Analysts say plan to raise tariffs on Chinese car imports is designed to placate Donald Trump and ward off US tariffs against Mexico China’s government has vowed to “firmly protect” its interests against Mexico’s plan to increase tariffs on Chinese cars to 50%, a move Beijing said was made “under coercion to constrain China”. On Wednesday Mexico said it intended to raise tariffs on car imports from China and other Asian countries from 20% to 50%, the maximum level allowed, in order to protect tens of thousands of manufacturing and industry jobs. However analysts suggested it was also designed to placate Donald Trump, who has been pressuring Mexico not to act as a “back door” for Chinese goods into the US. Continue reading...",
-    "ingested_utc": "2025-09-14T14:47:09Z"
   }
 ]
