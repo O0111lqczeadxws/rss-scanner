@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-09-16",
     "retrieved_date": "2025-09-16",
+    "retrieved_utc": "2025-09-16T19:36:24Z",
+    "source": "TheVerge_All",
+    "title": "Microsoft trumps Google with $30 billion investment in the UK",
+    "url": "https://www.theverge.com/news/778881/microsoft-uk-investment-ai-supercomputer",
+    "id_key": "dbca65ae1cfcd195f148b50c10a4252dd36785c6719e1020bdd67eb8a166de99",
+    "summary": "Microsoft is announcing that it’s investing £22 billion (around $30 billion) in the UK to help support AI infrastructure and ongoing operations from 2025 through 2028. The investment includes $15 billion in capital expenditures to build a supercomputer to support AI demand and adoption. “This will account for more than two-thirds of the tech sector’s […]",
+    "ingested_utc": "2025-09-16T19:36:24Z"
+  },
+  {
+    "published_utc": "2025-09-16",
+    "retrieved_date": "2025-09-16",
     "retrieved_utc": "2025-09-16T19:26:45Z",
     "source": "FinancialPost_Business",
     "title": "Ottawa’s budget watchdog doesn’t know if government has fiscal anchors",
@@ -10986,17 +10997,6 @@
     "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/dynacert-appoints-john-amodeo-as-chief-financial-officer",
     "id_key": "f6fe65d2fcfbc4499106670a72070ff8664453261c07abacf06d9d1fcba3d8b6",
     "summary": "TORONTO — dynaCERT Inc. (TSX: DYA) (OTCQB: DYFSF) (FRA: DMJ) (“dynaCERT” or the “Company”) is pleased to announce the appointment of John Amodeo effective immediately. John Amodeo has recently joined the Board of Directors of dynaCERT (See Press Release dated July 30, 2025) and continues to serve as a Member of the Board of Directors […]",
-    "ingested_utc": "2025-09-15T09:16:22Z"
-  },
-  {
-    "published_utc": "2025-09-15",
-    "retrieved_date": "2025-09-15",
-    "retrieved_utc": "2025-09-15T09:16:22Z",
-    "source": "FinancialPost_Business",
-    "title": "Quantum Motion Delivers the Industry’s First Full-Stack Silicon CMOS Quantum Computer",
-    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/quantum-motion-delivers-the-industrys-first-full-stack-silicon-cmos-quantum-computer",
-    "id_key": "8566b8ad5cc60c267a00ace9046088492c8a7e3d34fda00720cc1a337b5b8d10",
-    "summary": "Marking a major milestone for silicon-based quantum technology, the system has been installed at the UK’s National Quantum Computing Centre LONDON — Quantum Motion has delivered the industry’s first full-stack quantum computer to be built using a standard silicon CMOS chip fabrication process – the same transistor technology used in conventional computers. Deployed at the […]",
     "ingested_utc": "2025-09-15T09:16:22Z"
   }
 ]
