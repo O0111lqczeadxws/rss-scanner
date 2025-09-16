@@ -2,6 +2,61 @@
   {
     "published_utc": "2025-09-16",
     "retrieved_date": "2025-09-16",
+    "retrieved_utc": "2025-09-16T05:33:47Z",
+    "source": "HackerNews_Top",
+    "title": "Show HN: Pyproc – Call Python from Go Without CGO or Microservices",
+    "url": "https://github.com/YuminosukeSato/pyproc",
+    "id_key": "d29a0883b33cca0aee65dbdc5898fb917e9d687e2f43b6b01a9f5aa5811a6055",
+    "summary": "Comments",
+    "ingested_utc": "2025-09-16T05:33:47Z"
+  },
+  {
+    "published_utc": "2025-09-16",
+    "retrieved_date": "2025-09-16",
+    "retrieved_utc": "2025-09-16T05:33:32Z",
+    "source": "FinancialPost_Business",
+    "title": "World Must Spend $540 Billion a Year Looking for Oil and Gas, IEA Says",
+    "url": "https://financialpost.com/pmn/business-pmn/world-must-spend-540-billion-a-year-looking-for-oil-and-gas-iea-says",
+    "id_key": "1487f08ddc3def75b15ffc88274bba48ad26769ad8ede0aa470528374b7fe6d3",
+    "summary": "The world needs to spend some $540 billion a year looking for oil and gas to maintain current output by 2050, according to the International Energy Agency.",
+    "ingested_utc": "2025-09-16T05:33:32Z"
+  },
+  {
+    "published_utc": "2025-09-16",
+    "retrieved_date": "2025-09-16",
+    "retrieved_utc": "2025-09-16T05:32:59Z",
+    "source": "FT_Markets",
+    "title": "What the Fed should do",
+    "url": "https://www.ft.com/content/f4fb70b3-fe79-4449-9c05-16748bee4ebf",
+    "id_key": "685336f0d37dcd5ceb36f9215b9027bb6b017f5d577a220c0e6526825ffa3727",
+    "summary": "Inflation is the biggest risk",
+    "ingested_utc": "2025-09-16T05:32:59Z"
+  },
+  {
+    "published_utc": "2025-09-16",
+    "retrieved_date": "2025-09-16",
+    "retrieved_utc": "2025-09-16T05:30:30Z",
+    "source": "Guardian_World",
+    "title": "Australia news live: Pauline Hanson names long-serving staffer as One Nation’s new senator",
+    "url": "https://www.theguardian.com/australia-news/live/2025/sep/16/australia-news-live-sydney-airport-social-media-ban-anthony-albanese-chris-bowen-climate-crisis-carbon-emissions-png-treaty-ntwnfb",
+    "id_key": "75bcc3713e2e8530e269f0cdb74a7498fe4b027848a281d29f38f00b77d75bba",
+    "summary": "Sean Bell has worked in Hanson’s office for nine years as an adviser. Follow today’s news live Gina Rinehart among donors to Jacinta Nampijinpa Price’s defamation battle Get our breaking news email , free app or daily news podcast Matt Canavan says landmark climate assessment a ‘cynical attempt to spread fear and panic’ Nationals senator Matt Canavan discounted the headlines behind the landmark national climate risk assessment , saying the government had conveniently timed the report while calling the document a “cynical attempt to spread fear and panic among people”. The problem is the headline figures are never as bad as the detailed science that underlies it. … It reads like the Book of Daniel, not a government report. I mean, I like government reports that are sober and reasonable. … I think Australians like a government, that just tell them the truth and not try and scare them. We saw that during Covid. People are trying to scare you because they’ve got an agenda, right? Continue reading...",
+    "ingested_utc": "2025-09-16T05:30:30Z"
+  },
+  {
+    "published_utc": "2025-09-16",
+    "retrieved_date": "2025-09-16",
+    "retrieved_utc": "2025-09-16T05:30:28Z",
+    "source": "BBC_Business",
+    "title": "Google owner reveals £5bn AI investment in UK ahead of Trump visit",
+    "url": "https://www.bbc.com/news/articles/crmek723dz9o?at_medium=RSS&at_campaign=rss",
+    "id_key": "62c1fe1c225052e34c137df7d85edb7f000215dd08aef2f0f5b020d95ee87121",
+    "summary": "Google's President and Chief Investment Officer Ruth Porat tells the BBC there are \"profound opportunities in the UK\".",
+    "ingested_utc": "2025-09-16T05:30:28Z"
+  },
+  {
+    "published_utc": "2025-09-16",
+    "retrieved_date": "2025-09-16",
     "retrieved_utc": "2025-09-16T05:13:33Z",
     "source": "Engadget_All",
     "title": "The best October Prime Day deals to shop now: Save on tech from Apple, Beats, Anker and others",
@@ -10943,60 +10998,5 @@
     "id_key": "8b5f5b51b67d98ff24e8de8f0fa1b8610de01d4ab3396d998b41845761429443",
     "summary": "xAI has laid off at least 500 workers from its data annotation team, the company's largest, according to Business Insider . The annotation team is in charge of categorizing and contextualizing raw data used to train Grok so that it can understand the world better. Business Insider says the laid off employees were informed via email on the evening of September 12, Friday, that it was going to downsize its team of general AI tutors. They were reportedly told that they would be paid their salaries until the end of their contracts on November 30, but their access to xAI's systems had been cut off after they received the notice. When Reuters asked the company for a comment, it referred to a post on X wherein it posted a call for specialist AI tutors instead. xAI said that it will \"immediately surge [its] Specialist AI tutor team by 10x\" and that it's hiring across STEM fields. As specialist tutors, the new hires will be \"enhancing [the company's] AI technologies through high-quality inputs, labels and annotations using specialized software.\" They'll gather data and provide their own, not only in text format, but also through audio recordings and video sessions. As Reuters has noted, the layoffs come after several high-profile departures from xAI, including the company's chief financial officer Mike Liberatore. The company launched Grok 4 in July, calling it the \"smartest AI in the world.\" Elon Musk claimed during the model's reveal that if you make Grok 4 take the SATs and the GREs, it would get near perfect results every time and can answer questions it's never seen before. He also proclaimed that Grok is going to invent new tech maybe later this year, and that he would be shocked if it doesn't happen next year. This article originally appeared on Engadget at https://www.engadget.com/ai/xai-reportedly-laid-off-at-least-500-ai-tutors-working-on-grok-130059624.html?src=rss",
     "ingested_utc": "2025-09-13T13:17:08Z"
-  },
-  {
-    "published_utc": "2025-09-13",
-    "retrieved_date": "2025-09-13",
-    "retrieved_utc": "2025-09-13T13:17:05Z",
-    "source": "TheVerge_All",
-    "title": "Exit 8’s director was inspired by watching people play the game",
-    "url": "https://www.theverge.com/interview/777509/exit-8-director-interview",
-    "id_key": "517c5c0ad623ed40ac15872ba4757c82e166602f6bbdac2e5cc90d315f51c320",
-    "summary": "Few video game adaptations understand their source material quite like the Exit 8 film. It takes the rules and structure of the game - which strands players inside of a looping hallway in a Tokyo subway station - and then builds on them with actual characters and a story. And according to director Genki Kawamura, […]",
-    "ingested_utc": "2025-09-13T13:17:05Z"
-  },
-  {
-    "published_utc": "2025-09-13",
-    "retrieved_date": "2025-09-13",
-    "retrieved_utc": "2025-09-13T13:16:49Z",
-    "source": "FT_Home",
-    "title": "US listings market bursts back to life with busiest week in 4 years",
-    "url": "https://www.ft.com/content/9fb98802-e3ea-4675-bc52-5d1bbacfb04a",
-    "id_key": "752e94625b02a752beae6af5e8f74e0dab04fadffce1841fe0956bc78d046b4f",
-    "summary": "Deals worth $4bn raise hopes of long-awaited recovery for IPOs after drought",
-    "ingested_utc": "2025-09-13T13:16:49Z"
-  },
-  {
-    "published_utc": "2025-09-13",
-    "retrieved_date": "2025-09-13",
-    "retrieved_utc": "2025-09-13T13:16:49Z",
-    "source": "FT_Home",
-    "title": "Medline readies IPO in coming months in test of investor appetite",
-    "url": "https://www.ft.com/content/79e77be3-53fe-4eb7-9d4a-15f14bf62cf0",
-    "id_key": "f5c3a28ea5d8d444ab4ce0f1b3836d4a103a74e71d2da7cfcb0b0e7df6531bf1",
-    "summary": "Offering seen as signal of whether large private equity groups can begin exiting largest deals",
-    "ingested_utc": "2025-09-13T13:16:49Z"
-  },
-  {
-    "published_utc": "2025-09-13",
-    "retrieved_date": "2025-09-13",
-    "retrieved_utc": "2025-09-13T13:16:38Z",
-    "source": "NYTimes_World",
-    "title": "California Wants to Ban ‘Forever Chemicals’ in Pans. These Chefs Say Don’t Do It.",
-    "url": "https://www.nytimes.com/2025/09/12/climate/rachael-ray-david-chang-pfas-forever-chemicals-cookware.html",
-    "id_key": "f3e470a169882a0c84175225255ec9466270efdb0294e327bc968895283648b6",
-    "summary": "Rachael Ray and other food celebrities are speaking up in defense of nonstick pans. The actor Mark Ruffalo, who starred in a movie about the risky chemicals, is criticizing them.",
-    "ingested_utc": "2025-09-13T13:16:38Z"
-  },
-  {
-    "published_utc": "2025-09-13",
-    "retrieved_date": "2025-09-13",
-    "retrieved_utc": "2025-09-13T13:14:23Z",
-    "source": "Guardian_World",
-    "title": "Man admits starting fire that destroyed Labour MP Sharon Hodgson’s office",
-    "url": "https://www.theguardian.com/uk-news/2025/sep/13/sharon-hodgson-mp-office-arson-man-admits-starting-fire",
-    "id_key": "00149bb207566fd65f00b085374e516d161ae8a605fdd750f6ad577a1541c477",
-    "summary": "Joshua Oliver, 28, pleaded guilty to arson that gutted premises in Washington, Tyne and Wear A 28-year-old man has admitted to starting a fire that destroyed the constituency office of Labour MP Sharon Hodgson. Joshua Oliver, of no fixed address, pleaded guilty to arson, with the resulting fire wrecking the Washington and Gateshead South MP’s office in the early hours of Thursday. Continue reading...",
-    "ingested_utc": "2025-09-13T13:14:23Z"
   }
 ]
