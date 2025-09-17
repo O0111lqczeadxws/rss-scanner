@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-09-17",
     "retrieved_date": "2025-09-17",
+    "retrieved_utc": "2025-09-17T09:50:11Z",
+    "source": "NYTimes_Business",
+    "title": "Jerry of Ben & Jerry’s Resigns, Saying Company Has Been ‘Silenced’",
+    "url": "https://www.nytimes.com/2025/09/17/business/ben-and-jerrys-cofounder-resigns.html",
+    "id_key": "ebd4d0e4cdb9bb75ecca44fec85ff15767e891812f26f33f2832c208ad249174",
+    "summary": "Jerry Greenfield said that the ice cream company, known for its activism, had been muzzled by Unilever, its parent company.",
+    "ingested_utc": "2025-09-17T09:50:11Z"
+  },
+  {
+    "published_utc": "2025-09-17",
+    "retrieved_date": "2025-09-17",
+    "retrieved_utc": "2025-09-17T09:50:11Z",
+    "source": "NYTimes_Business",
+    "title": "Federal Reserve to Meet Under Cloud of Trump’s Attacks",
+    "url": "https://www.nytimes.com/2025/09/16/business/federal-reserve-trump-cook-miran.html",
+    "id_key": "4ec51b78fa96a1392b230558b07fb35d964d73dfaf60156f6b0bc1408b39af23",
+    "summary": "Stephen Miran and Lisa Cook will both cast votes at the central bank’s meeting on Wednesday, where policymakers are expected to lower interest rates.",
+    "ingested_utc": "2025-09-17T09:50:11Z"
+  },
+  {
+    "published_utc": "2025-09-17",
+    "retrieved_date": "2025-09-17",
+    "retrieved_utc": "2025-09-17T09:48:39Z",
+    "source": "Lido_Blog",
+    "title": "Hex Trust Adds Custody Support for stETH via the Lido Protocol",
+    "url": "https://blog.lido.fi/hex-trust-adds-custody-support-for-steth-via-the-lido-protocol/",
+    "id_key": "4b83d451924ad9e6586e631a5e4ff137b6716b9b1ec97ef4d780f0abf8b1ce4e",
+    "summary": "Hex Trust has introduced custody and staking support for stETH, Lido's liquid staking token.",
+    "ingested_utc": "2025-09-17T09:48:39Z"
+  },
+  {
+    "published_utc": "2025-09-17",
+    "retrieved_date": "2025-09-17",
     "retrieved_utc": "2025-09-17T09:41:54Z",
     "source": "CryptoSlate",
     "title": "US sanctions say Iran’s oil for crypto web pushed $100M through 2023 to 2025",
@@ -10965,38 +10998,5 @@
     "id_key": "f448c389b04307554a65ce7733090f4524fb602090fefd5b74fa17fc4eb18a19",
     "summary": "LONDON — Secret Food Tours, the world’s leading culinary travel company with over 200 tours across 100 cities, today announced the appointment of two senior executives: Bastien Delapré as Chief Operating Officer and David Moak as Chief Marketing Officer. They join CFO Tannah Matus (appointed in 2023) alongside co-founders Nicolas Jacquart and Oliver Mernick-Levene, strengthening […]",
     "ingested_utc": "2025-09-15T17:13:24Z"
-  },
-  {
-    "published_utc": "2025-09-15",
-    "retrieved_date": "2025-09-15",
-    "retrieved_utc": "2025-09-15T17:13:06Z",
-    "source": "TechCrunch_All",
-    "title": "OpenAI upgrades Codex with a new version of GPT-5",
-    "url": "https://techcrunch.com/2025/09/15/openai-upgrades-codex-with-a-new-version-of-gpt-5/",
-    "id_key": "d873b9f0c403e9e7f6b21ff462f626806347e175e4538894dc911ff328534a6b",
-    "summary": "OpenAI's AI coding agent, Codex, can now spend anywhere from a few seconds to several hours on a task, thanks to a new, customized version of GPT-5.",
-    "ingested_utc": "2025-09-15T17:13:06Z"
-  },
-  {
-    "published_utc": "2025-09-15",
-    "retrieved_date": "2025-09-15",
-    "retrieved_utc": "2025-09-15T17:13:05Z",
-    "source": "TheVerge_All",
-    "title": "The unbearable sameness of Liquid Glass",
-    "url": "https://www.theverge.com/apple/778197/liquid-glass-iphone-watch-ipad-mac",
-    "id_key": "f0ad6e77a185410e2634e3db93e819fb0e6981c7e37a118e267b81de695284a2",
-    "summary": "Liquid Glass is a neat party trick. The new design system, which was built for nearly all of Apple's products and is rolling out this week, is built on the idea that interfaces should be three-dimensional: in the world of Liquid Glass, buttons and menus sit on top of whatever you're doing or looking at, […]",
-    "ingested_utc": "2025-09-15T17:13:05Z"
-  },
-  {
-    "published_utc": "2025-09-15",
-    "retrieved_date": "2025-09-15",
-    "retrieved_utc": "2025-09-15T17:13:05Z",
-    "source": "TheVerge_All",
-    "title": "Apple releases macOS Tahoe 26 with more powerful Spotlight search and its own Phone app",
-    "url": "https://www.theverge.com/news/777521/apple-macos-tahoe-26-now-available-download-update",
-    "id_key": "3013ea4e8e48d8dfaa054f33d9604909bdb43e3570f1d7cf0793fe17f7a54489",
-    "summary": "macOS Tahoe 26 is now available to everyone using compatible MacBooks and Mac desktops. It was first announced last June at WWDC 25 and made available for testing through developer and public betas released over the past three months. This will be the last major macOS update for older Intel-based Macs – specifically those featuring […]",
-    "ingested_utc": "2025-09-15T17:13:05Z"
   }
 ]
