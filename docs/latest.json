@@ -2,6 +2,50 @@
   {
     "published_utc": "2025-09-17",
     "retrieved_date": "2025-09-17",
+    "retrieved_utc": "2025-09-17T08:39:39Z",
+    "source": "NYTimes_World",
+    "title": "Trump’s Second U.K. State Visit Draws Protests",
+    "url": "https://www.nytimes.com/2025/09/17/world/europe/trump-uk-visit-protest.html",
+    "id_key": "39333eeec5aebc3be7951e050ee6eba0b5985526798c3f51394a1299a3b21a2a",
+    "summary": "As President Trump arrived in Britain on Tuesday night, protesters unveiled visual stunts aimed at highlighting his ties to Jeffrey Epstein, while a march was planned for Wednesday.",
+    "ingested_utc": "2025-09-17T08:39:39Z"
+  },
+  {
+    "published_utc": "2025-09-17",
+    "retrieved_date": "2025-09-17",
+    "retrieved_utc": "2025-09-17T08:38:51Z",
+    "source": "Nethermind_Releases",
+    "title": "v1.33.1",
+    "url": "https://github.com/NethermindEth/nethermind/releases/tag/1.33.1",
+    "id_key": "60dbba5e5eefce383981692fde13b6df298db8f80b1cc914b71d48413a580629",
+    "summary": "Release notes Note This release replaces v1.33.0 and addresses important issues reported for that version, specifically around eth_config and Receipts handling. Receipts fix : Corrects an issue where receipts were being removed for blocks beyond TxLookupLimit even when History pruning was disabled. See PR #9231 . eth_config fix : Resolves a configuration issue reported by the EF Testing team. See PR #9233 . These changes improve stability and consistency for users relying on long-term history and accurate transaction receipts. Important If you were affected by the missing receipts and require full historical receipts the two workarounds are: run Nethermind with --Sync.FixReceipts true for offline patching of missing receipts see https://docs.nethermind.io/fundamentals/configuration/#sync-fixreceipts delete the receipts folder for an online full download of all receipts For further details, please review the full changelog and linked PRs below. Full Changelog : 1.33.0...1.33.1",
+    "ingested_utc": "2025-09-17T08:38:51Z"
+  },
+  {
+    "published_utc": "2025-09-17",
+    "retrieved_date": "2025-09-17",
+    "retrieved_utc": "2025-09-17T08:37:22Z",
+    "source": "Guardian_World",
+    "title": "Conroy says Labor unconcerned by PNG-China discussions – as it happened",
+    "url": "https://www.theguardian.com/australia-news/live/2025/sep/17/australia-news-live-liberal-sussan-ley-net-zero-target-climate-crisis-anthony-albanese-donald-trump-trade-tariffs-politics-ntwnfb",
+    "id_key": "213551e40cea4f3973d4bd7bc023ad2795d57aef03b664bd9324aa202b06a3ab",
+    "summary": "This blog is now closed Ben Roberts-Smith’s mother emails Coalition MPs saying Andrew Hastie ‘not fit’ to lead Liberals Get our breaking news email , free app or daily news podcast Two charged in Victoria after $14m in cocaine allegedly found inside car driven from NSW Victoria police charged two men overnight after seizing 40kg of cocaine allegedly found inside a vehicle they were driving from the NSW border back to the state. Continue reading...",
+    "ingested_utc": "2025-09-17T08:37:22Z"
+  },
+  {
+    "published_utc": "2025-09-17",
+    "retrieved_date": "2025-09-17",
+    "retrieved_utc": "2025-09-17T08:37:22Z",
+    "source": "Guardian_World",
+    "title": "Trump’s tariffs have hurt tea exports to the US, says Fortnum & Mason boss",
+    "url": "https://www.theguardian.com/us-news/2025/sep/17/trumps-tariffs-have-hurt-tea-exports-to-the-us-says-fortnum-mason-boss",
+    "id_key": "6826d442a7ffb540494ee2adfb961804742332a77809c52fa1641012386f3591",
+    "summary": "Tom Athron says stricter rules on country of origin and end of ‘de minimis’ exemptions are up and sales down The boss of upmarket retailer Fortnum & Mason has said Donald Trump’s trade war has hit sales of its luxury tea exports to the US and forced up prices. Tom Athron, the London-based retailer’s chief executive, said Trump’s stricter country of origin rules and the end of the “de minimis” cost exemption for parcels worth less than $800 (£587) had hit customers across the Atlantic. Continue reading...",
+    "ingested_utc": "2025-09-17T08:37:22Z"
+  },
+  {
+    "published_utc": "2025-09-17",
+    "retrieved_date": "2025-09-17",
     "retrieved_utc": "2025-09-17T08:17:47Z",
     "source": "FinancialPost_Business",
     "title": "China Seeks Feedback on Revised Rules for Polysilicon Energy Use",
@@ -10954,49 +10998,5 @@
     "id_key": "3f7e9072c2e955e749ff31313b34072c2b5b009ec81b905fcaaeaf8ad794d0f6",
     "summary": "PayPal introduces 1:1 direct payment links that will soon support crypto.",
     "ingested_utc": "2025-09-15T16:16:49Z"
-  },
-  {
-    "published_utc": "2025-09-15",
-    "retrieved_date": "2025-09-15",
-    "retrieved_utc": "2025-09-15T16:16:49Z",
-    "source": "TechCrunch_All",
-    "title": "Zoom’s Eric Yuan and Emergence’s Santi Subotovsky on navigating the second act, at TechCrunch Disrupt 2025",
-    "url": "https://techcrunch.com/2025/09/15/zooms-eric-yuan-and-emergences-santi-subotovsky-on-navigating-the-second-act-at-techcrunch-disrupt-2025/",
-    "id_key": "534113dd028b010c6c31c6ece511776fd663fcfa7d43c95a6237d97df47134f9",
-    "summary": "Zoom CEO Eric Yuan and Emergence Capital General Partner Santi Subotovsky will join the Going Public Stage at Disrupt 2025 in a session called \"What Comes After Breakout Success?.\" Join 10,000+ tech and VC leaders from October 27-29 in San Francisco.",
-    "ingested_utc": "2025-09-15T16:16:49Z"
-  },
-  {
-    "published_utc": "2025-09-15",
-    "retrieved_date": "2025-09-15",
-    "retrieved_utc": "2025-09-15T16:14:27Z",
-    "source": "CryptoBriefing",
-    "title": "REX-Osprey to debut first XRP ETF in the US this week",
-    "url": "https://cryptobriefing.com/rex-osprey-xrpr-spot-etf-launches-xrp-cash-treasuries-40-act/",
-    "id_key": "1e8545245cb7f29704df47d7b9def95b93ee34e973b12103971f692485197088",
-    "summary": "The debut of the REX-Osprey XRPR ETF could enhance crypto market legitimacy and attract traditional investors through increased regulatory oversight. The post REX-Osprey to debut first XRP ETF in the US this week appeared first on Crypto Briefing .",
-    "ingested_utc": "2025-09-15T16:14:27Z"
-  },
-  {
-    "published_utc": "2025-09-15",
-    "retrieved_date": "2025-09-15",
-    "retrieved_utc": "2025-09-15T16:14:27Z",
-    "source": "CryptoBriefing",
-    "title": "Symbiotic, Chainlink, and Lombard launch industry-first layer for cross-chain Bitcoin transfers",
-    "url": "https://cryptobriefing.com/cross-chain-bitcoin-transfers-security/",
-    "id_key": "783447976646a986f005eb5aee388f3bf863d5379cc1a2960cfdd81d4981131e",
-    "summary": "This collaboration enhances cross-chain Bitcoin security, potentially increasing user confidence and adoption in decentralized finance ecosystems. The post Symbiotic, Chainlink, and Lombard launch industry-first layer for cross-chain Bitcoin transfers appeared first on Crypto Briefing .",
-    "ingested_utc": "2025-09-15T16:14:27Z"
-  },
-  {
-    "published_utc": "2025-09-15",
-    "retrieved_date": "2025-09-15",
-    "retrieved_utc": "2025-09-15T16:13:43Z",
-    "source": "Blockworks",
-    "title": "Base begins exploring potential network token launch",
-    "url": "https://blockworks.co/news/base-potential-token",
-    "id_key": "3e2013213fc0a7f14323f1b42e01661cb57e309eaf5cf4e0e44f9d4775ea7e49",
-    "summary": "At BaseCamp 2025, Jesse Pollak confirmed early discussions on a Base token, and committed to building on Ethereum",
-    "ingested_utc": "2025-09-15T16:13:43Z"
   }
 ]
