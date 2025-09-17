@@ -2,6 +2,83 @@
   {
     "published_utc": "2025-09-17",
     "retrieved_date": "2025-09-17",
+    "retrieved_utc": "2025-09-17T15:51:16Z",
+    "source": "MIT_TechReview",
+    "title": "AI-designed viruses are here and already killing bacteria",
+    "url": "https://www.technologyreview.com/2025/09/17/1123801/ai-virus-bacteriophage-life/",
+    "id_key": "51fc101c7e36778b38bd647f3ceca6e406535bef1f757d3bb0e9e0b122d31d81",
+    "summary": "Artificial intelligence can draw cat pictures and write emails. Now, the same technology can compose a working genome. A research team in California says it used AI to propose new genetic codes for viruses—and managed to get several of these to replicate and kill bacteria. The scientists, based at Stanford and the non-profit Arc Institute,…",
+    "ingested_utc": "2025-09-17T15:51:16Z"
+  },
+  {
+    "published_utc": "2025-09-17",
+    "retrieved_date": "2025-09-17",
+    "retrieved_utc": "2025-09-17T15:50:55Z",
+    "source": "TheStreet_Top",
+    "title": "Trump's idea for corporate reporting draws positive responses",
+    "url": "https://www.thestreet.com/investing/stocks/trumps-idea-for-corporate-reporting-draws-positive-responses",
+    "id_key": "84b6de5195ea9ce8123b441236655870bfef766de4529f3e3d911f7c117dfef4",
+    "summary": "The president weighs in on a longtime SEC rule.",
+    "ingested_utc": "2025-09-17T15:50:55Z"
+  },
+  {
+    "published_utc": "2025-09-17",
+    "retrieved_date": "2025-09-17",
+    "retrieved_utc": "2025-09-17T15:50:43Z",
+    "source": "TheVerge_All",
+    "title": "The best Android phones",
+    "url": "https://www.theverge.com/23674658/best-android-phone",
+    "id_key": "b8f32eb7e5a8534b64d63304340f492c41a1c98eaad937db873954f3e3ffe873",
+    "summary": "The Android ecosystem is all about choice. While iPhone owners have a smaller pool of new devices to pick from when it’s time to upgrade, there’s a wider range of choices on Android. Some Android phones even fold in half! Imagine. On the flip side, all that choice can make for some hard decisions. Here’s […]",
+    "ingested_utc": "2025-09-17T15:50:43Z"
+  },
+  {
+    "published_utc": "2025-09-17",
+    "retrieved_date": "2025-09-17",
+    "retrieved_utc": "2025-09-17T15:50:43Z",
+    "source": "TheVerge_All",
+    "title": "TCL’s new smart lock squeezes four unlocking methods into a door knob",
+    "url": "https://www.theverge.com/news/779970/tcl-k1-smart-lock-door-knob-fingerprint",
+    "id_key": "be9cc1ed7dd9a6a999b3df964a809247cf0fafd7be819119362a12f2decf06ad",
+    "summary": "TCL has launched a new budget-friendly smart lock that incorporates all of the electronics into a door knob, making it easy to install on interior home doors that don’t have a dedicated dead bolt. The K1 is available now for $79, and TCL says it will operate for up to 12 months on a set […]",
+    "ingested_utc": "2025-09-17T15:50:43Z"
+  },
+  {
+    "published_utc": "2025-09-17",
+    "retrieved_date": "2025-09-17",
+    "retrieved_utc": "2025-09-17T15:50:27Z",
+    "source": "NPR_World",
+    "title": "Pomp and protests for Trump's unprecedented second U.K. state visit",
+    "url": "https://www.npr.org/2025/09/17/nx-s1-5543349/trump-king-uk-state-visit",
+    "id_key": "1091e687e18fc5615752c5d386ca273165af98ca09bc4d29a83e9ea6a535e1fa",
+    "summary": "President Trump is in the United Kingdom for a rare second state visit that includes pageantry, policy and protests.",
+    "ingested_utc": "2025-09-17T15:50:27Z"
+  },
+  {
+    "published_utc": "2025-09-17",
+    "retrieved_date": "2025-09-17",
+    "retrieved_utc": "2025-09-17T15:48:12Z",
+    "source": "CryptoBriefing",
+    "title": "REX Shares’ Solana staking ETF sees $10M inflows, AUM tops $289M for first time",
+    "url": "https://cryptobriefing.com/rex-shares-solana-staking-etf-aum-289m/",
+    "id_key": "f8204e84f1d3794f4cad0fa0ed4be9a6032e66551b24a6be8cd1541f36611700",
+    "summary": "The significant inflows into the Solana staking ETF highlight growing investor confidence in blockchain-based financial products. The post REX Shares’ Solana staking ETF sees $10M inflows, AUM tops $289M for first time appeared first on Crypto Briefing .",
+    "ingested_utc": "2025-09-17T15:48:12Z"
+  },
+  {
+    "published_utc": "2025-09-17",
+    "retrieved_date": "2025-09-17",
+    "retrieved_utc": "2025-09-17T15:48:03Z",
+    "source": "Blockworks",
+    "title": "Taiko adopts Chainlink oracles to power market data",
+    "url": "https://blockworks.co/news/taiko-adopts-chainlink-oracles",
+    "id_key": "c2df7b10c22ee43305e730074317c9f6bb5417b59d49e2c623475a55407410fc",
+    "summary": "Layer 2 network Taiko integrates Chainlink Data Streams to deliver reliable onchain market data for DeFi and institutions",
+    "ingested_utc": "2025-09-17T15:48:03Z"
+  },
+  {
+    "published_utc": "2025-09-17",
+    "retrieved_date": "2025-09-17",
     "retrieved_utc": "2025-09-17T15:34:45Z",
     "source": "HackerNews_Top",
     "title": "A single adblock filter may have caused YouTube's global view drop",
@@ -10921,82 +10998,5 @@
     "id_key": "2b6b4454641ce66d4ce1775dbc70496548ff3b3dd204317bea74563754b477a8",
     "summary": "India’s annual liquefied natural gas demand is set to contract in 2025 for the first time in years, as buyers hold out for a surge in production that is expected to push down prices.",
     "ingested_utc": "2025-09-16T02:18:53Z"
-  },
-  {
-    "published_utc": "2025-09-16",
-    "retrieved_date": "2025-09-16",
-    "retrieved_utc": "2025-09-16T02:18:53Z",
-    "source": "FinancialPost_Business",
-    "title": "Senate approves White House economist Stephen Miran to serve on Federal Reserve board",
-    "url": "https://financialpost.com/pmn/senate-approves-white-house-economist-to-serve-on-fed-board",
-    "id_key": "e13a99f047fca8dca1c28bb1bb1f118d0ef521c16e099d4ffbb7c31e859c4f59",
-    "summary": "WASHINGTON (AP) — The Senate has approved one of President Donald Trump’s top economic advisers for a seat on the Federal Reserve’s governing board, giving the White House greater influence over the central bank just two days before it is expected to vote in favor of reducing its key interest rate. The vote to confirm […]",
-    "ingested_utc": "2025-09-16T02:18:53Z"
-  },
-  {
-    "published_utc": "2025-09-16",
-    "retrieved_date": "2025-09-16",
-    "retrieved_utc": "2025-09-16T02:18:13Z",
-    "source": "NPR_Top",
-    "title": "Appeals court says Lisa Cook can stay on the Federal Reserve board -- for now",
-    "url": "https://www.npr.org/2025/09/15/nx-s1-5539252/lisa-cook-fed-trump-firing-court",
-    "id_key": "d50ecfde44d4301654a76f2c455096cfc2ef073e6f8b5093ecb0ec1b38f8ba45",
-    "summary": "A federal appeals court blocked President Trump from firing Federal Reserve governor Lisa Cook, just ahead of a key vote on interest rates.",
-    "ingested_utc": "2025-09-16T02:18:13Z"
-  },
-  {
-    "published_utc": "2025-09-16",
-    "retrieved_date": "2025-09-16",
-    "retrieved_utc": "2025-09-16T02:16:05Z",
-    "source": "CoinJournal",
-    "title": "Bitcoin tests $116K resistance ahead of Fed decision; new token launches stir market",
-    "url": "https://coinjournal.net/news/bitcoin-tests-116k-resistance-ahead-of-fed-decision-new-token-launches-stir-market/",
-    "id_key": "8ce133c81d90812e599f54049bb6659214ef36853c0aa239dcba567a35c29b00",
-    "summary": "Bitcoin stalls near $116K as Fed’s policy decision draws focus. Major altcoins trade sideways amid low volumes and uncertainty. Velora (VLR) and Project Merlin (MRLN) set to redefine DeFi ecosystems. Bitcoin is once again testing the nerves of crypto market participants as its price hovers near $1,16,000, battling a stubborn resistance just as the global […] The post Bitcoin tests $116K resistance ahead of Fed decision; new token launches stir market appeared first on CoinJournal .",
-    "ingested_utc": "2025-09-16T02:16:05Z"
-  },
-  {
-    "published_utc": "2025-09-16",
-    "retrieved_date": "2025-09-16",
-    "retrieved_utc": "2025-09-16T02:16:02Z",
-    "source": "CryptoBriefing",
-    "title": "Ethereum validator exit queue rises from 617K to 2.6M ETH in one week",
-    "url": "https://cryptobriefing.com/ethereum-validator-exit-queue-surges-to-2-6m-eth/",
-    "id_key": "690668c72ce57d820ce705d7bbb7d09fcdb286e5c85e610d67b3e82cda74ba1d",
-    "summary": "The surge in Ethereum's validator exit queue may signal waning confidence in staking, potentially impacting network security and market dynamics. The post Ethereum validator exit queue rises from 617K to 2.6M ETH in one week appeared first on Crypto Briefing .",
-    "ingested_utc": "2025-09-16T02:16:02Z"
-  },
-  {
-    "published_utc": "2025-09-16",
-    "retrieved_date": "2025-09-16",
-    "retrieved_utc": "2025-09-16T02:15:42Z",
-    "source": "Guardian_World",
-    "title": "Trump announces deadly US strike on another alleged Venezuelan drug boat",
-    "url": "https://www.theguardian.com/us-news/2025/sep/15/trump-strike-venezuela-drug-cartel-vessel",
-    "id_key": "e827c3b520417b6d25291deaf09e6491a647daa624541cc26031afd1f98b8483",
-    "summary": "President says three people killed in strike against vessel he said was transporting drugs ‘headed to the US’ US politics live – latest updates Donald Trump said on Monday that the United States had carried out a strike on a second Venezuelan boat and killed three alleged terrorists he claimed were transporting drugs, expanding his administration’s war against drug cartels and the scope of lethal military force to stop them. The US president gave few details about the strike, saying in a social media post that the action was on his orders and that it had happened earlier in the morning. The post was accompanied by a video clip showing the boat, which appeared to be stationary, erupting into a fireball. Continue reading...",
-    "ingested_utc": "2025-09-16T02:15:42Z"
-  },
-  {
-    "published_utc": "2025-09-16",
-    "retrieved_date": "2025-09-16",
-    "retrieved_utc": "2025-09-16T02:15:42Z",
-    "source": "Guardian_World",
-    "title": "One dead and six in hospital after gas leak at Sydney restaurant",
-    "url": "https://www.theguardian.com/australia-news/2025/sep/16/sydney-restaurant-gas-leak-riverstone",
-    "id_key": "4b11db62cae47f53edf18f3e279c63384cb0531dd0e093361c52f1358242e1ed",
-    "summary": "Five police officers among those taken to hospital after incident in Riverstone One person has died and six people – including five police officers – are being treated in hospital after a gas leak at a restaurant in Sydney’s north-west. New South Wales ambulance said the six people who have been transported to hospital were all in a stable condition. Continue reading...",
-    "ingested_utc": "2025-09-16T02:15:42Z"
-  },
-  {
-    "published_utc": "2025-09-16",
-    "retrieved_date": "2025-09-16",
-    "retrieved_utc": "2025-09-16T02:15:42Z",
-    "source": "Guardian_World",
-    "title": "Trump at first says he is ‘not familiar’ with Minnesota Democrat’s assassination",
-    "url": "https://www.theguardian.com/us-news/2025/sep/15/trump-melissa-hortman-charlie-kirk-flags",
-    "id_key": "cb0d8810e6572e6ce48c17f74bccb901841d60147d8a807cb493fb4b87f6a0d1",
-    "summary": "President says he would have ordered half-staff flags for Melissa Hortman if Tim Walz had asked him to do so In response to a question about why he did not order flags lowered to half-staff to honor Melissa Hortman, the Democratic speaker of the Minnesota House of Representatives who was assassinated alongside her husband this summer, Donald Trump initially said he was “not familiar” with the case. The question came up during a briefing in the Oval Office on Monday, in light of the president’s order last week to lower flags in response to the killing of rightwing activist Charlie Kirk. Continue reading...",
-    "ingested_utc": "2025-09-16T02:15:42Z"
   }
 ]
