@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-09-17",
     "retrieved_date": "2025-09-17",
+    "retrieved_utc": "2025-09-17T05:34:09Z",
+    "source": "HackerNews_Top",
+    "title": "About the security content of iOS 15.8.5 and iPadOS 15.8.5",
+    "url": "https://support.apple.com/en-us/125142",
+    "id_key": "4ff0d4361b362b323a780bc44375f1c4a1b40e4395922716cca8e72e57ea485b",
+    "summary": "Comments",
+    "ingested_utc": "2025-09-17T05:34:09Z"
+  },
+  {
+    "published_utc": "2025-09-17",
+    "retrieved_date": "2025-09-17",
     "retrieved_utc": "2025-09-17T05:13:56Z",
     "source": "FinancialPost_Business",
     "title": "Galderma’s Groundbreaking Real-World Study Reveals the Biological Toll of Modern Living and Urban Environments on Sensitive Skin",
@@ -10987,16 +10998,5 @@
     "id_key": "6e7495a5a5ef4ac5fd03246aba6327b1e724a8f142ba6f11f4d2c7a76baba873",
     "summary": "The new Ethereum Foundation initiative aims to standardize AI-agent protocols and build a decentralized AI stack for long-term use",
     "ingested_utc": "2025-09-15T14:48:24Z"
-  },
-  {
-    "published_utc": "2025-09-15",
-    "retrieved_date": "2025-09-15",
-    "retrieved_utc": "2025-09-15T14:48:10Z",
-    "source": "Guardian_World",
-    "title": "No 10 condemns language used by Elon Musk at far-right UK rally as ‘dangerous’",
-    "url": "https://www.theguardian.com/politics/2025/sep/15/no-10-condemns-language-used-by-elon-musk-at-far-right-uk-rally-as-dangerous",
-    "id_key": "3365924c5004c3cef2840fbc06ce28a435d7bcc3834c99c3065fb6eae1877675",
-    "summary": "Comments follow remarks by Keir Starmer who is under pressure to be more proactive in defence of diversity UK politics live – latest updates Downing Street has fiercely condemned Elon Musk for using “dangerous and inflammatory” language, after he told a crowd of protesters in London that “violence is coming” and “you either fight back or you die”. Musk, the owner of X, opted to appear at the rally that left 26 police officers injured on Saturday, via a video link. He spoke to the activist Stephen Yaxley-Lennon, known as Tommy Robinson, while thousands watched and listened. Continue reading...",
-    "ingested_utc": "2025-09-15T14:48:10Z"
   }
 ]
