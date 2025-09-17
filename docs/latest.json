@@ -2,6 +2,50 @@
   {
     "published_utc": "2025-09-17",
     "retrieved_date": "2025-09-17",
+    "retrieved_utc": "2025-09-17T19:36:27Z",
+    "source": "FinancialPost_Business",
+    "title": "Keeping the lights on: Canada’s OT cybersecurity wake-up call",
+    "url": "https://financialpost.com/technology/tech-news/keeping-the-lights-on-canadas-ot-cybersecurity-wake-up-call",
+    "id_key": "c83b0c58c772e1ed1808803d4d50c5e89a66729f2b463060fbb236448c779289",
+    "summary": "Why Canada’s critical infrastructure faces growing cyber risks — and what must be done to protect it",
+    "ingested_utc": "2025-09-17T19:36:27Z"
+  },
+  {
+    "published_utc": "2025-09-17",
+    "retrieved_date": "2025-09-17",
+    "retrieved_utc": "2025-09-17T19:36:08Z",
+    "source": "TheVerge_All",
+    "title": "&#8216;Ask Gemini&#8217; AI will tell you what you missed during a Google Meet call",
+    "url": "https://www.theverge.com/news/780211/google-ask-gemini-meet-workspace-ai-assistant",
+    "id_key": "033ca5ca6f0a7f528c54b488c84b30c4b05312b8460b41e733497abe3cdc7ae2",
+    "summary": "Google is starting the rollout of its Ask Gemini AI assistant in Google Meet, but it will initially only be available to “select Google Workspace customers.” The assistant can answer participant’s questions by referring to captions generated during the call, resources like Google Docs, Sheets, and Slides they have permission to view, and public websites. […]",
+    "ingested_utc": "2025-09-17T19:36:08Z"
+  },
+  {
+    "published_utc": "2025-09-17",
+    "retrieved_date": "2025-09-17",
+    "retrieved_utc": "2025-09-17T19:33:25Z",
+    "source": "Guardian_World",
+    "title": "San Francisco supervisor recalled after voting to close highway for car-free park",
+    "url": "https://www.theguardian.com/us-news/2025/sep/17/san-francisco-joel-engardio-coastal-park",
+    "id_key": "8709c726d92f886880c43a097856def3999afdee58d912b9b4dadad0f3ac5124",
+    "summary": "Joel Engardio, who becomes fifth elected city official to be ousted in four years, says he stands by his decision A San Francisco supervisor was recalled Tuesday after he successfully pushed to turn a stretch of coastal highway used heavily by neighborhood motorists into a car-free park despite strong objections by some of his constituents. Joel Engardio became the fifth elected official in San Francisco to be ousted in a recall vote in four years. He conceded, saying in a statement that he accepted the outcome and still stood by his decision to help create a park called Sunset Dunes. Continue reading...",
+    "ingested_utc": "2025-09-17T19:33:25Z"
+  },
+  {
+    "published_utc": "2025-09-17",
+    "retrieved_date": "2025-09-17",
+    "retrieved_utc": "2025-09-17T19:33:22Z",
+    "source": "BBC_World",
+    "title": "Spain arrests 19 on suspicion of torture and murder after 50 disappear from migrant boat",
+    "url": "https://www.bbc.com/news/articles/c8jm11lmx71o?at_medium=RSS&at_campaign=rss",
+    "id_key": "eeabdf8d7ecc4638917ecaa371eb93327d8ba724a10fe5f6a967ac6ecb4c8cb8",
+    "summary": "Police suspect some of the victims were accused of witchcraft by others on the boat that had travelled from Senegal.",
+    "ingested_utc": "2025-09-17T19:33:22Z"
+  },
+  {
+    "published_utc": "2025-09-17",
+    "retrieved_date": "2025-09-17",
     "retrieved_utc": "2025-09-17T19:25:59Z",
     "source": "TheStreet_Top",
     "title": "Sphere Las Vegas signs huge electronic superstar to new residency",
@@ -10954,49 +10998,5 @@
     "id_key": "ccdd1c0744616ba76e72689f2d4261b27f4afd603ee409a63077786866c578b1",
     "summary": "Microsoft is adding automatic AI model selection to its Visual Studio Code editor that will automatically pick the best model for \"optimal performance.\" This new auto model feature will select between Claude Sonnet 4, GPT-5, GPT-5 mini and other models for GitHub Copilot free users, but paid users will \"primarily rely on Claude Sonnet 4.\" […]",
     "ingested_utc": "2025-09-16T10:14:17Z"
-  },
-  {
-    "published_utc": "2025-09-16",
-    "retrieved_date": "2025-09-16",
-    "retrieved_utc": "2025-09-16T10:14:17Z",
-    "source": "TheVerge_All",
-    "title": "Nothing plans to launch &#8216;first AI-native devices next year&#8217;",
-    "url": "https://www.theverge.com/news/778636/nothing-ai-native-devices",
-    "id_key": "bcf9b02845f71f53ae9ce2053d09c00031a733aa75b4e093df8726453a2315aa",
-    "summary": "London-based consumer tech startup Nothing has raised $200 million and vowed to usher in a new generation of “AI-native” devices running on operating systems that “are significantly different from the ones today.” In a press release that reads part ode to technology and part manifesto, Nothing founder and CEO Carl Pei said the cash infusion […]",
-    "ingested_utc": "2025-09-16T10:14:17Z"
-  },
-  {
-    "published_utc": "2025-09-16",
-    "retrieved_date": "2025-09-16",
-    "retrieved_utc": "2025-09-16T10:14:01Z",
-    "source": "NPR_World",
-    "title": "Trump says U.S. military struck a boat allegedly carrying drugs from Venezuela",
-    "url": "https://www.npr.org/2025/09/16/nx-s1-5542447/trump-says-u-s-military-struck-a-boat-allegedly-carrying-drugs-from-venezuela",
-    "id_key": "61da18ab1747ea2a342a6bc2485821f1fd2a630a693431df9c2ba01b4742604b",
-    "summary": "The U.S. military struck a Venezuelan boat for the second time Monday, killing three people. President Trump says the vessel was carrying drugs to the United States.",
-    "ingested_utc": "2025-09-16T10:14:01Z"
-  },
-  {
-    "published_utc": "2025-09-16",
-    "retrieved_date": "2025-09-16",
-    "retrieved_utc": "2025-09-16T10:13:59Z",
-    "source": "NPR_Top",
-    "title": "JD Vance vows to carry on Kirk's legacy. And, the Fed meets to decide interest rates.",
-    "url": "https://www.npr.org/2025/09/16/g-s1-88997/up-first-newsletter-jd-vance-charlie-kirk-kash-patel-testimony-federal-reserve-interest-rates",
-    "id_key": "e447980b2634e21e7003728cac85cb8d4e88ef2db555e7232e1381941fdbea7d",
-    "summary": "Vice President Vance hosted Charlie Kirk's podcast yesterday and vowed to carry on his friend's political legacy. And, the Federal Reserve meets to decide interest rates.",
-    "ingested_utc": "2025-09-16T10:13:59Z"
-  },
-  {
-    "published_utc": "2025-09-16",
-    "retrieved_date": "2025-09-16",
-    "retrieved_utc": "2025-09-16T10:13:59Z",
-    "source": "NPR_Top",
-    "title": "Donald Trump files $15 billion defamation lawsuit against The New York Times",
-    "url": "https://www.npr.org/2025/09/16/nx-s1-5543030/donald-trump-nytimes-lawsuit",
-    "id_key": "67a2c92f1dacf756168e9a78e40ae4371f9c0e693c8fde89012ac7ece43a2661",
-    "summary": "President Donald Trump filed a $15 billion defamation lawsuit against The New York Times and four of its journalists on Monday, according to court documents.",
-    "ingested_utc": "2025-09-16T10:13:59Z"
   }
 ]
