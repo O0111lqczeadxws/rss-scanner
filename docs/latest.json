@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-09-17",
     "retrieved_date": "2025-09-17",
+    "retrieved_utc": "2025-09-17T07:49:45Z",
+    "source": "NYTimes_World",
+    "title": "How Nepal’s Government Went Up in Smoke",
+    "url": "https://www.nytimes.com/2025/09/17/world/asia/nepal-protests-arson-singha-durbar.html",
+    "id_key": "5852fcaf8bf3c2673cffc896013b8f66086adc589620f84b728065f3a47a00ce",
+    "summary": "Arson attacks during protests in Nepal destroyed buildings, court files and even records of international agreements and state investments.",
+    "ingested_utc": "2025-09-17T07:49:45Z"
+  },
+  {
+    "published_utc": "2025-09-17",
+    "retrieved_date": "2025-09-17",
     "retrieved_utc": "2025-09-17T07:28:08Z",
     "source": "Erigon_Releases",
     "title": "v3.1.0 \"Pebble Paws\"",
@@ -8296,6 +8307,17 @@
   {
     "published_utc": "2025-09-15",
     "retrieved_date": "2025-09-17",
+    "retrieved_utc": "2025-09-17T07:50:44Z",
+    "source": "HackerNews_Top",
+    "title": "Mixed Excitation Linear Predictive (MELP) Vocoders",
+    "url": "https://melpe.org/",
+    "id_key": "0778009510366b6d6bc12beef868c525730a522fb25475b9e69fdeed37616192",
+    "summary": "Comments",
+    "ingested_utc": "2025-09-17T07:50:44Z"
+  },
+  {
+    "published_utc": "2025-09-15",
+    "retrieved_date": "2025-09-17",
     "retrieved_utc": "2025-09-17T04:51:43Z",
     "source": "HackerNews_Top",
     "title": "Cex.C – Comprehensively EXtended C Language",
@@ -10976,27 +10998,5 @@
     "id_key": "8051de1e172075085e1d7865a5c8c55c3b9a419c142a95dbfd6e4cbfe247db45",
     "summary": "Spotify has removed restrictions that prevented free users from listening to specific tracks. With Lossless audio now finally rolling out to paying subscribers, the music streaming service has announced that it’s also allowing non-paying listeners to search, play, and share any song they want, without having to upgrade to a Premium subscription. The update is […]",
     "ingested_utc": "2025-09-15T15:51:10Z"
-  },
-  {
-    "published_utc": "2025-09-15",
-    "retrieved_date": "2025-09-15",
-    "retrieved_utc": "2025-09-15T15:50:54Z",
-    "source": "FT_Home",
-    "title": "Preparing for the Bank of England’s big, unpredictable gilt sales decision",
-    "url": "https://www.ft.com/content/96e60909-47ba-415d-ba84-f2db8756e9a6",
-    "id_key": "620b1be75dcc9a768f1cb9cb9622d53f48b5ac3e2157eb834ff444bb8892e585",
-    "summary": "QT pageant",
-    "ingested_utc": "2025-09-15T15:50:54Z"
-  },
-  {
-    "published_utc": "2025-09-15",
-    "retrieved_date": "2025-09-15",
-    "retrieved_utc": "2025-09-15T15:50:43Z",
-    "source": "NYTimes_World",
-    "title": "How an Emirati Royal Won the Battle for A.I. Chips",
-    "url": "https://www.nytimes.com/video/world/middleeast/100000010364130/how-an-emirati-royal-won-the-battle-for-ai-chips.html",
-    "id_key": "3faf69da775b43c012ff907bc1fc2fc9a08f9e83e439836966953949327ba310",
-    "summary": "Sheikh Tahnoon bin Zayed Al Nahyan of the United Arab Emirates secured a tentative A.I. chip deal with the United States. His company also struck a $2 billion deal with President Trump’s crypto start-up. David Yaffe-Bellany, a technology reporter for The New York Times, walks us through both deals’ intersecting timelines.",
-    "ingested_utc": "2025-09-15T15:50:43Z"
   }
 ]
