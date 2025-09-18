@@ -2,6 +2,50 @@
   {
     "published_utc": "2025-09-18",
     "retrieved_date": "2025-09-18",
+    "retrieved_utc": "2025-09-18T03:41:50Z",
+    "source": "HackerNews_Top",
+    "title": "Stepping Down as Libxml2 Maintainer",
+    "url": "https://discourse.gnome.org/t/stepping-down-as-libxml2-maintainer/31398",
+    "id_key": "e4e8d28920b8bc9df2fd0d32680a77977fe7e110fedc036eb3ff90c308d3f166",
+    "summary": "Comments",
+    "ingested_utc": "2025-09-18T03:41:50Z"
+  },
+  {
+    "published_utc": "2025-09-18",
+    "retrieved_date": "2025-09-18",
+    "retrieved_utc": "2025-09-18T03:39:59Z",
+    "source": "Arbitrum_Nitro_Releases",
+    "title": "v3.7.3",
+    "url": "https://github.com/OffchainLabs/nitro/releases/tag/v3.7.3",
+    "id_key": "1409a23dc7decc78288c91764d8ce5f9539837e5d3f72b8aad71be481e683588",
+    "summary": "This release has bug fixes and improvements, but it is not a required upgrade. This release is available as a Docker Image on Docker Hub at offchainlabs/nitro-node:TBD This Docker image specifies default flags in its entrypoint which should be replicated if you're overriding the entrypoint: /usr/local/bin/nitro --validation.wasm.allowed-wasm-module-roots /home/user/nitro-legacy/machines,/home/user/target/machines If you're running a validator without a split validation server (this will be true of most validators), you should instead use the image offchainlabs/nitro-node:TBD-validator which has the extra script /usr/local/bin/split-val-entry.sh as the entrypoint. Special Note 1 Nitro 3.7.0 pulls in go-ethereum 1.15.6 which changed log index from bloombits to filtermap. This means that on startup there will be elevated CPU usage for 50+ hours while new FilterMaps are generated for log indexing. If log queries are not used, the parameter --execution.tx-indexer.enable=false can be used to completely disable log indexing. Special Note 2 Nitro 3.7.0 pulls in go-ethereum 1.15.11 which includes a brand new log indexing system called filtermaps that has resulted in an increase in log indexing latency due to Nitro’s current reliance on HashDB (instead of PathDB). In some cases, this can delay log queries from being served anywhere between 5 seconds to 2 minutes on Arbitrum One during long tail unindexing. We’ve observed that this happens roughly once per day based on Arbitrum One mainnet traffic levels. Teams who need to serve log queries with consistent latency (e.g. eth_getLogs , eth_getFilterLogs , eth_getFilterChanges ) can use the configuration parameter --execution.rpc.log-history=0 to keep all log history, which will only slightly increase database growth. Teams running their own log indexer may be unaffected. At some point, a future release Nitro is expected to fix the issue of log index pruning being able to block log queries. What's Changed Make sure to retry fast confirmation on failure: #3641 Full Changelog : v3.7.2...v3.7.3",
+    "ingested_utc": "2025-09-18T03:39:59Z"
+  },
+  {
+    "published_utc": "2025-09-18",
+    "retrieved_date": "2025-09-18",
+    "retrieved_utc": "2025-09-18T03:38:46Z",
+    "source": "CryptoNews",
+    "title": "OFAC Designates Two Iranian Finance Facilitators For Crypto Shadow Banking",
+    "url": "https://cryptonews.com/news/ofac-designates-two-iranian-finance-facilitators-for-crypto-shadow-banking/",
+    "id_key": "9b5b1b8d848a4404b30a9d4ce4ee8cdf6801628e48b38be54c4e35db526159d1",
+    "summary": "The Department of the Treasury’s Office of Foreign Assets Control (OFAC) sanctioned two Iranian financial facilitators for coordinating over $100 million worth of cryptocurrency in oil sales for the Iranian government, a September 16 press release shows.OFAC Sanctions Iranian NationalsAccording to the Tuesday press release, Iranian nationals Alireza Derakhshan and Arash Estaki Alivand “used a […] The post OFAC Designates Two Iranian Finance Facilitators For Crypto Shadow Banking appeared first on Cryptonews .",
+    "ingested_utc": "2025-09-18T03:38:46Z"
+  },
+  {
+    "published_utc": "2025-09-18",
+    "retrieved_date": "2025-09-18",
+    "retrieved_utc": "2025-09-18T03:38:22Z",
+    "source": "Guardian_World",
+    "title": "Alan Jones pleads not guilty to 27 charges after number of alleged victims drops from 11 to nine",
+    "url": "https://www.theguardian.com/media/2025/sep/18/alan-jones-pleads-not-guilty-27-charges-ntwnfb",
+    "id_key": "3a04b86acbe31e639c49dd82f4753c872dabdee2d3e8c37725bf4f493a01b2d3",
+    "summary": "Former 2GB and Sky News Australia broadcaster was not in court on Thursday when it heard 17 of previous 44 charges had been dropped Alan Jones faces 25 charges of indecent assault and two of sexual touching relating to nine complainants after prosecutors revealed two alleged victims would no longer be part of the case against the veteran broadcaster. Jones was on Thursday expected to make his first appearance in court this year to be committed to stand trial on 44 charges of indecent assault against 11 victims aged 17 and older. Continue reading...",
+    "ingested_utc": "2025-09-18T03:38:22Z"
+  },
+  {
+    "published_utc": "2025-09-18",
+    "retrieved_date": "2025-09-18",
     "retrieved_utc": "2025-09-18T03:09:11Z",
     "source": "CryptoBriefing",
     "title": "UK inflation stays high, potentially pausing interest rate hikes",
@@ -10954,49 +10998,5 @@
     "id_key": "fbd5d6861e243ec4d3211f98c38ece07fc5f2043871316844756cfe35d7549be",
     "summary": "The Federal Reserve is widely expected to slash interest rates — here's what it means for the market.",
     "ingested_utc": "2025-09-16T15:15:31Z"
-  },
-  {
-    "published_utc": "2025-09-16",
-    "retrieved_date": "2025-09-16",
-    "retrieved_utc": "2025-09-16T15:15:23Z",
-    "source": "Engadget_All",
-    "title": "KPop Demon Hunters is reportedly coming to Fortnite",
-    "url": "https://www.engadget.com/gaming/kpop-demon-hunters-is-reportedly-coming-to-fortnite-145459950.html?src=rss",
-    "id_key": "39122ee9cee6ce19cb9cc21452b7e918a51fc3fe69b4a43775228d78016ef83c",
-    "summary": "KPop Demon Hunters has been the talk of the town since debuting on Netflix in June. Now, the Huntr/X singers might be taking over a new area: gaming. Kpop Demon Hunters is reportedly coming to Fortnite . Two Fortnite leakers, SpushFNBR and Loolo , posted the news on X (formerly Twitter), citing a \"reliable source.\" Little to nothing is known about what a crossover would entail but the duo said they would be posting more details in the coming weeks. A film about three k-pop singers who save the world from demons could really be parlayed into just about anything in Fortnite . KPop Demon Hunters made history last month as Netflix's most-watched movie of all time. It racked up 236 million views between its debut on June 20 and August 26. The movie also had four of its tracks reach the top ten in the Billboard Hot 100 chart and had a limited theatrical release . This article originally appeared on Engadget at https://www.engadget.com/gaming/kpop-demon-hunters-is-reportedly-coming-to-fortnite-145459950.html?src=rss",
-    "ingested_utc": "2025-09-16T15:15:23Z"
-  },
-  {
-    "published_utc": "2025-09-16",
-    "retrieved_date": "2025-09-16",
-    "retrieved_utc": "2025-09-16T15:15:20Z",
-    "source": "TechCrunch_All",
-    "title": "D-ID acquires Berlin-based video startup Simpleshow",
-    "url": "https://techcrunch.com/2025/09/16/d-id-acquires-berlin-based-video-startup-simpleshow/",
-    "id_key": "bb4e3bd1b07d1c406b3f253e701635e6119a0f3676c4994b80e1993ab28c2181",
-    "summary": "Video creation platform D-ID snaps up Berlin-based video generation startup Simpleshow to expand its digital avatar solution.",
-    "ingested_utc": "2025-09-16T15:15:20Z"
-  },
-  {
-    "published_utc": "2025-09-16",
-    "retrieved_date": "2025-09-16",
-    "retrieved_utc": "2025-09-16T15:12:55Z",
-    "source": "CryptoBriefing",
-    "title": "SBI Group to pilot real-time tokenized deposit settlement using Partior Blockchain and DCJPY token",
-    "url": "https://cryptobriefing.com/sbi-group-tokenized-deposit-settlement-partior-dcjpy/",
-    "id_key": "714451911a435cf4a750c94cf8a4ef447fd4f591e373ecfbfef2be5f1d2cc5b8",
-    "summary": "SBI Group Tokenized Deposit Settlement Pilot with Partior Blockchain and DCJPY Token enables real-time cross-border settlements. The post SBI Group to pilot real-time tokenized deposit settlement using Partior Blockchain and DCJPY token appeared first on Crypto Briefing .",
-    "ingested_utc": "2025-09-16T15:12:55Z"
-  },
-  {
-    "published_utc": "2025-09-16",
-    "retrieved_date": "2025-09-16",
-    "retrieved_utc": "2025-09-16T15:11:56Z",
-    "source": "Guardian_World",
-    "title": "Starmer urged to apologise to Epstein victims over Mandelson appointment — UK politics live",
-    "url": "https://www.theguardian.com/politics/live/2025/sep/16/starmer-cabinet-resignation-paul-ovenden-news-updates-uk-politics-live",
-    "id_key": "e6c06ed6d3231d888a55c94be13b29ab0d9049c1ecda429ac9513df1b4c4b7fd",
-    "summary": "Kemi Badenoch and Ed Davey attack PM’s record over US ambassador during commons debate that was skipped by Starmer Vikram Dodd is the Guardian’s crime correspondent. Police expect to arrest 50 more people following Saturday’s large far-right-led march through London, the commissioner of the Metropolitan police said this morning. If you are Conservative right-minded, then the future is Reform. The country is going to change a lot. The same people who thought that Brexit would not happen think that Reform will not happen. They are in for a shock. Continue reading...",
-    "ingested_utc": "2025-09-16T15:11:56Z"
   }
 ]
