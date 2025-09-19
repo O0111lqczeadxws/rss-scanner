@@ -5414,6 +5414,17 @@
   {
     "published_utc": "2025-09-18",
     "retrieved_date": "2025-09-19",
+    "retrieved_utc": "2025-09-19T19:35:45Z",
+    "source": "NPR_Technology",
+    "title": "What does the Google antitrust ruling mean for the future of AI?",
+    "url": "https://www.npr.org/2025/09/18/nx-s1-5539869/google-antitrust-ruling-future-of-ai",
+    "id_key": "25478c29fd4aef970f7818db0892aa4b888a007b3515d5a27f0bd77329100b47",
+    "summary": "A federal judge's mild ruling in the Justice Department's suit over Google's search engine monopoly has critics worried that the tech giant can now monopolize artificial intelligence.",
+    "ingested_utc": "2025-09-19T19:35:45Z"
+  },
+  {
+    "published_utc": "2025-09-18",
+    "retrieved_date": "2025-09-19",
     "retrieved_utc": "2025-09-19T17:39:37Z",
     "source": "NPR_Economy",
     "title": "Why beef prices are higher than ever (and shoppers are finally resisting)",
@@ -10987,16 +10998,5 @@
     "id_key": "3ea3937abba9e4f5f68e70724351db78091fc2d3f6fb85f230e52da717fc8f8e",
     "summary": "NPR talks with Stacey Vanek Smith, a reporter at Bloomberg, about the effect the Federal Reserve's decision to cut interest rates could have.",
     "ingested_utc": "2025-09-18T09:32:36Z"
-  },
-  {
-    "published_utc": "2025-09-18",
-    "retrieved_date": "2025-09-18",
-    "retrieved_utc": "2025-09-18T09:30:31Z",
-    "source": "CoinJournal",
-    "title": "Eigen price spikes 33% as EigenLayer leads fresh altcoin rally",
-    "url": "https://coinjournal.net/news/eigen-price-spikes-33-as-eigenlayer-leads-fresh-altcoin-rally/",
-    "id_key": "d0fb7e5bf2cae827025f4ee7771472b6346905bc2ab42f0ded4bf4533ac87a15",
-    "summary": "EigenLayer price hovered around $2.03, up by 33% after breaking to highs of $2.09. The US Securities and Exchange Commission’s move to approve a rules-based listing standard buoyed altcoins. EIGEN price also gained as the Fed cut interest rates, EigenLayer (EIGEN) is surging. Its price hovers near $2.03, currently up by 33% in 24 hours […] The post Eigen price spikes 33% as EigenLayer leads fresh altcoin rally appeared first on CoinJournal .",
-    "ingested_utc": "2025-09-18T09:30:31Z"
   }
 ]
