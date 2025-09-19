@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-09-19",
     "retrieved_date": "2025-09-19",
+    "retrieved_utc": "2025-09-19T20:50:55Z",
+    "source": "FinancialPost_Business",
+    "title": "Surge Copper Announces Grant of Long-Term Equity-Based Incentive Awards",
+    "url": "https://financialpost.com/globe-newswire/surge-copper-announces-grant-of-long-term-equity-based-incentive-awards",
+    "id_key": "0db92d671240ff886301a17881142d330f26e944068b891ff97ec0d081db39a2",
+    "summary": "Vancouver, British Columbia, Sept. 19, 2025 (GLOBE NEWSWIRE) — Surge Copper Corp. (TSXV: SURG) (OTCQB: SRGXF) (Frankfurt: G6D2) (“Surge” or the “Company”) announces the grant of long-term equity-based incentive awards under its Share Compensation Plan. The Company has awarded 2,337,500 restricted share units (RSUs) to employees and executives, and 1,750,000 deferred share units (DSUs) to non-executive […]",
+    "ingested_utc": "2025-09-19T20:50:55Z"
+  },
+  {
+    "published_utc": "2025-09-19",
+    "retrieved_date": "2025-09-19",
+    "retrieved_utc": "2025-09-19T20:49:46Z",
+    "source": "Guardian_Business",
+    "title": "Dozens of workers penalized after Charlie Kirk shooting, from journalists to Jimmy Kimmel",
+    "url": "https://www.theguardian.com/us-news/2025/sep/19/workers-disciplined-charlie-kirk-shooting",
+    "id_key": "b5735371d4d3cff0329653ed6ee2e39025c4f7ad94f4dc732f7e36da6b6b9ba3",
+    "summary": "Employers and officials are cracking down on comments considered ‘inappropriate’ after far-right activist was killed In the aftermath of the far-right activist Charlie Kirk ’s assassination , dozens across the United States have been fired, suspended or disciplined over social media posts about Kirk and his death, as employers and public officials crack down on remarks they deem “inappropriate”. After Kirk, 31, was shot and killed on 10 September while speaking at Utah Valley University, members of the Trump administration called on the public to expose anyone appearing to be “celebrating” his killing. Continue reading...",
+    "ingested_utc": "2025-09-19T20:49:46Z"
+  },
+  {
+    "published_utc": "2025-09-19",
+    "retrieved_date": "2025-09-19",
+    "retrieved_utc": "2025-09-19T20:47:59Z",
+    "source": "CryptoSlate",
+    "title": "Democratic Senators push bipartisan approach to streamline crypto market structure bill",
+    "url": "https://cryptoslate.com/democratic-senators-push-bipartisan-approach-to-streamline-crypto-market-structure-bill/",
+    "id_key": "cd4abbd8dac1f4eb884ad57df20f572939da7a11a58250ceb4a05356d8f2faf1",
+    "summary": "Twelve Democratic senators called for Republican cooperation on comprehensive crypto market structure legislation, proposing bipartisan authorship in regulatory efforts. Senator Ruben Gallego led the Sept. 19 statement alongside Mark Warner, Kirsten Gillibrand, Cory Booker, and eight other Democrats seeking “true collaboration” on legislation addressing regulatory gaps that have left businesses and investors without explicit protections. […] The post Democratic Senators push bipartisan approach to streamline crypto market structure bill appeared first on CryptoSlate .",
+    "ingested_utc": "2025-09-19T20:47:59Z"
+  },
+  {
+    "published_utc": "2025-09-19",
+    "retrieved_date": "2025-09-19",
     "retrieved_utc": "2025-09-19T20:42:54Z",
     "source": "FinancialPost_Business",
     "title": "Wall Street ‘Nirvana’ Nears as Fed Fuels 2021-Style Risk Rally",
@@ -10965,38 +10998,5 @@
     "id_key": "b4f4a096153a92a7284ed9967411b1d848ea3582ddd33203a8d03b783c3fc074",
     "summary": "The European Union is planning to present member states with its latest package of proposed sanctions on Russia as early as Friday, following a phone call between Ursula von der Leyen and US President Donald Trump, according to people familiar with the matter.",
     "ingested_utc": "2025-09-18T10:36:01Z"
-  },
-  {
-    "published_utc": "2025-09-18",
-    "retrieved_date": "2025-09-18",
-    "retrieved_utc": "2025-09-18T10:35:54Z",
-    "source": "AlJazeera_All",
-    "title": "Pennsylvania police shooting: What happened, who are the suspect, victims?",
-    "url": "https://www.aljazeera.com/news/2025/9/18/pennsylvania-shooting-what-happened-what-we-know-about-suspect-victims?traffic_source=rss",
-    "id_key": "5bb7aef1ad9484c8033a5d32f499b2bba3ec9071c09dd2404052d8aceac983a1",
-    "summary": "Three officers killed, two in critical but stable condition, in one of the deadliest recent attacks on the US police.",
-    "ingested_utc": "2025-09-18T10:35:54Z"
-  },
-  {
-    "published_utc": "2025-09-18",
-    "retrieved_date": "2025-09-18",
-    "retrieved_utc": "2025-09-18T10:35:47Z",
-    "source": "TheEconomist_Finance",
-    "title": "Why European workers need to switch jobs",
-    "url": "https://www.economist.com/finance-and-economics/2025/09/18/why-european-workers-need-to-switch-jobs",
-    "id_key": "955f222b3f61cf5ed49a0263c746ba009e0eeff5436e66568e67211d3ad4a058",
-    "summary": "The continent’s labour market is ill-suited to an age of disruption",
-    "ingested_utc": "2025-09-18T10:35:47Z"
-  },
-  {
-    "published_utc": "2025-09-18",
-    "retrieved_date": "2025-09-18",
-    "retrieved_utc": "2025-09-18T10:35:25Z",
-    "source": "FT_Home",
-    "title": "Octopus Energy to spin off technology arm Kraken",
-    "url": "https://www.ft.com/content/1eb0d477-05d8-4920-ad72-909a9854fac8",
-    "id_key": "15338f499bc7eb8e3fd6e356d435987ddeef428dff64648cf7d9d7561f810f33",
-    "summary": "Move could be followed by an initial listing in a year or two at a valuation of about $10bn",
-    "ingested_utc": "2025-09-18T10:35:25Z"
   }
 ]
