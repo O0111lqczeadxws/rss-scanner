@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-09-19",
     "retrieved_date": "2025-09-19",
+    "retrieved_utc": "2025-09-19T08:55:16Z",
+    "source": "FinancialPost_Business",
+    "title": "UK Consumers Turn Cautious on Budget Fears After Buoyant Summer",
+    "url": "https://financialpost.com/pmn/business-pmn/uk-consumers-turn-cautious-on-budget-fears-after-buoyant-summer",
+    "id_key": "b340606ebe1c9a7bfc3d13ccd145ebe1e5caf666ae4d0604df7368f228ed46a8",
+    "summary": "UK consumers are turning cautious as a summer of sun, sport and shopping gives way to an autumn dominated by fiscal fears ahead of Chancellor of the Exchequer Rachel Reeves’ budget.",
+    "ingested_utc": "2025-09-19T08:55:16Z"
+  },
+  {
+    "published_utc": "2025-09-19",
+    "retrieved_date": "2025-09-19",
+    "retrieved_utc": "2025-09-19T08:54:42Z",
+    "source": "FT_Markets",
+    "title": "Japanese stocks sell off as BoJ unveils plan to unwind $250bn of ETFs",
+    "url": "https://www.ft.com/content/408a1df1-54ba-4853-bd59-f20cfe03407b",
+    "id_key": "b4fe5f5a8f035ea5022f2c8d88aa5edaabd432de4b8806ad48fe2a716835071b",
+    "summary": "Central bank holds interest rates but split on decision raises expectations of cut",
+    "ingested_utc": "2025-09-19T08:54:42Z"
+  },
+  {
+    "published_utc": "2025-09-19",
+    "retrieved_date": "2025-09-19",
+    "retrieved_utc": "2025-09-19T08:54:42Z",
+    "source": "FT_Markets",
+    "title": "Oil market brushes off predictions of supply glut",
+    "url": "https://www.ft.com/content/9ae07ec1-401a-420d-828b-171dc6ecfa86",
+    "id_key": "851551d36e0367eabd543fd0d9fc1c85371ec14395bae17c246d32c1e98c39c4",
+    "summary": "Price of Brent is little changed from late June, with some analysts pointing to China stockpiling as possible explanation",
+    "ingested_utc": "2025-09-19T08:54:42Z"
+  },
+  {
+    "published_utc": "2025-09-19",
+    "retrieved_date": "2025-09-19",
     "retrieved_utc": "2025-09-19T08:39:59Z",
     "source": "AlJazeera_All",
     "title": "Afghanistan rejects US return to Bagram airbase",
@@ -10965,38 +10998,5 @@
     "id_key": "0746fe75b5d0b6d7de43f5e05b6940794ebe4fded5c426c5c526495f8325d41b",
     "summary": "SSA tells Senate that NUMIDENT is safe after troubling whistleblower allegations.",
     "ingested_utc": "2025-09-17T18:18:55Z"
-  },
-  {
-    "published_utc": "2025-09-17",
-    "retrieved_date": "2025-09-17",
-    "retrieved_utc": "2025-09-17T18:18:53Z",
-    "source": "TheVerge_All",
-    "title": "Logitech’s Pro X2 Superstrike offers haptic-based clicks and rapid trigger",
-    "url": "https://www.theverge.com/news/778722/logitech-pro-x2-superstrike-superlight-wireless-haptics-rapid-trigger-gaming-mouse-pc",
-    "id_key": "fc96eb74744024a1e9562362fd8eaa5c746d80c6f56cabe2353059523a870e81",
-    "summary": "Logitech’s next flagship wireless gaming mouse is ditching mechanical switches for an analog system equipped with haptics actuators to simulate the feeling of a click. The mouse is called the Pro X2 Superstrike, and it’s coming early next year for $179.99. The inductive analog system (which Logitech calls Haptic Inductive Trigger System, or HITS) boasts […]",
-    "ingested_utc": "2025-09-17T18:18:53Z"
-  },
-  {
-    "published_utc": "2025-09-17",
-    "retrieved_date": "2025-09-17",
-    "retrieved_utc": "2025-09-17T18:18:53Z",
-    "source": "TheVerge_All",
-    "title": "The Astro A20 X headset was made for multi-console homes",
-    "url": "https://www.theverge.com/news/776006/astro-a20x-headset-switch-ps5-xbox-price-features",
-    "id_key": "f24a12478dd53cd7a445ad79866f7b92e1c3fa3d50bfd3465fcc11b6060c0183",
-    "summary": "Logitech has announced the Astro A20 X wireless gaming headset, which has a feature that console players might appreciate having: it lets you swap between audio from two platforms, be it an Xbox, Switch, PC, or PS5. It launches October 8th for $179.99. The A20 X ships with a transmitter called the Playsync Base that […]",
-    "ingested_utc": "2025-09-17T18:18:53Z"
-  },
-  {
-    "published_utc": "2025-09-17",
-    "retrieved_date": "2025-09-17",
-    "retrieved_utc": "2025-09-17T18:18:38Z",
-    "source": "FT_Home",
-    "title": "Federal Reserve cuts interest rates by quarter point",
-    "url": "https://www.ft.com/content/f1d4522b-331e-45d5-b676-24dc5b8e3c92",
-    "id_key": "14cd2ac5aea32b783ee7ebef0411505669ce9dbca2eb7a5033d0cfd5b02b9111",
-    "summary": "US central bank’s first reduction in borrowing costs this year comes amid growing worries about labour market",
-    "ingested_utc": "2025-09-17T18:18:38Z"
   }
 ]
