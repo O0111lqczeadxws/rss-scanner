@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-09-19",
     "retrieved_date": "2025-09-19",
+    "retrieved_utc": "2025-09-19T03:55:20Z",
+    "source": "Nikkei_Asia_Top",
+    "title": "BOJ keeps interest rate unchanged amid political jitters",
+    "url": "https://asia.nikkei.com/economy/bank-of-japan/boj-keeps-interest-rate-unchanged-amid-political-jitters",
+    "id_key": "88655184ec22cb2d8e114d9510846e7c64e92f4739241499bbf03b69d761b82d",
+    "summary": "",
+    "ingested_utc": "2025-09-19T03:55:20Z"
+  },
+  {
+    "published_utc": "2025-09-19",
+    "retrieved_date": "2025-09-19",
+    "retrieved_utc": "2025-09-19T03:55:12Z",
+    "source": "FinancialPost_Business",
+    "title": "Technocrats Get Key Roles in Thai PM Anutin’s New Cabinet Lineup",
+    "url": "https://financialpost.com/pmn/business-pmn/technocrats-get-key-roles-in-thai-pm-anutins-new-cabinet-lineup",
+    "id_key": "50da8836b3755c8e1b41be7fb19902c6914a787f98b7dfd2ec9927630d6ea7fd",
+    "summary": "Thai Prime Minister Anutin Charnvirakul unveiled his cabinet lineup on Friday, tapping technocrats to head key ministries to steer an economy grappling with the fallout of US tariffs and high household debt.",
+    "ingested_utc": "2025-09-19T03:55:12Z"
+  },
+  {
+    "published_utc": "2025-09-19",
+    "retrieved_date": "2025-09-19",
     "retrieved_utc": "2025-09-19T03:44:19Z",
     "source": "Nikkei_Asia_Top",
     "title": "Chinese miner Zijin Gold eyes $3bn Hong Kong listing",
@@ -10976,27 +10998,5 @@
     "id_key": "84b6de5195ea9ce8123b441236655870bfef766de4529f3e3d911f7c117dfef4",
     "summary": "The president weighs in on a longtime SEC rule.",
     "ingested_utc": "2025-09-17T15:50:55Z"
-  },
-  {
-    "published_utc": "2025-09-17",
-    "retrieved_date": "2025-09-17",
-    "retrieved_utc": "2025-09-17T15:50:43Z",
-    "source": "TheVerge_All",
-    "title": "The best Android phones",
-    "url": "https://www.theverge.com/23674658/best-android-phone",
-    "id_key": "b8f32eb7e5a8534b64d63304340f492c41a1c98eaad937db873954f3e3ffe873",
-    "summary": "The Android ecosystem is all about choice. While iPhone owners have a smaller pool of new devices to pick from when it’s time to upgrade, there’s a wider range of choices on Android. Some Android phones even fold in half! Imagine. On the flip side, all that choice can make for some hard decisions. Here’s […]",
-    "ingested_utc": "2025-09-17T15:50:43Z"
-  },
-  {
-    "published_utc": "2025-09-17",
-    "retrieved_date": "2025-09-17",
-    "retrieved_utc": "2025-09-17T15:50:43Z",
-    "source": "TheVerge_All",
-    "title": "TCL’s new smart lock squeezes four unlocking methods into a door knob",
-    "url": "https://www.theverge.com/news/779970/tcl-k1-smart-lock-door-knob-fingerprint",
-    "id_key": "be9cc1ed7dd9a6a999b3df964a809247cf0fafd7be819119362a12f2decf06ad",
-    "summary": "TCL has launched a new budget-friendly smart lock that incorporates all of the electronics into a door knob, making it easy to install on interior home doors that don’t have a dedicated dead bolt. The K1 is available now for $79, and TCL says it will operate for up to 12 months on a set […]",
-    "ingested_utc": "2025-09-17T15:50:43Z"
   }
 ]
