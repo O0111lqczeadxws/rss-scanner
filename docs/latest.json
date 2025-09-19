@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-09-19",
     "retrieved_date": "2025-09-19",
+    "retrieved_utc": "2025-09-19T05:43:03Z",
+    "source": "FT_Home",
+    "title": "Petrodollars and the ‘Islamic Bomb’: how a Saudi-Pakistan pact was forged",
+    "url": "https://www.ft.com/content/a7f317cd-acb6-453b-bc1b-402c59343e1d",
+    "id_key": "22e8ecfe74e65b724802c23e077efcd2e205be5c224f9855cd2e79ec3c1df4f9",
+    "summary": "Gulf nation backed Islamabad’s nuclear weapons programme, say experts. A new defence pact draws the Sunni allies closer",
+    "ingested_utc": "2025-09-19T05:43:03Z"
+  },
+  {
+    "published_utc": "2025-09-19",
+    "retrieved_date": "2025-09-19",
     "retrieved_utc": "2025-09-19T05:33:20Z",
     "source": "AlJazeera_All",
     "title": "Kim Jong Un declares AI military drone development a ‘top priority’",
@@ -10987,16 +10998,5 @@
     "id_key": "6aea78d1934f814a9c923c08ff68e0150cb22c40cf043aa06c8206af8c1a3a38",
     "summary": "\"It was relatively easy to put together.\"",
     "ingested_utc": "2025-09-17T16:39:22Z"
-  },
-  {
-    "published_utc": "2025-09-17",
-    "retrieved_date": "2025-09-17",
-    "retrieved_utc": "2025-09-17T16:39:10Z",
-    "source": "TheVerge_All",
-    "title": "Tariffs kill the Starling Home Hub, Google Nest’s best bridge to Apple Home",
-    "url": "https://www.theverge.com/news/780013/starling-home-hub-discontinued-google-nest-apple-home-bridge",
-    "id_key": "876285296aeb0b3f552db289fb62ba58ed26df14849e07b61413f041a88643b1",
-    "summary": "I have bad news for ecosystem straddlers who use Google Nest products in their smart homes but rely on iPhones and Apple Home for control: the much-loved Starling Home Hub has been discontinued. In a message on its website, Starling said it can no longer manufacture the hub due to “rapidly rising costs of doing […]",
-    "ingested_utc": "2025-09-17T16:39:10Z"
   }
 ]
