@@ -2,6 +2,50 @@
   {
     "published_utc": "2025-09-20",
     "retrieved_date": "2025-09-20",
+    "retrieved_utc": "2025-09-20T10:13:40Z",
+    "source": "FinancialPost_Business",
+    "title": "Are variable or fixed rates better after Bank of Canada cut? FP video",
+    "url": "https://financialpost.com/real-estate/mortgages/variable-fixed-rates-better-bank-of-canada-cut",
+    "id_key": "4e31dfaeabb27b2aa57ec8291d8e2e794c141c944e8094c78f859ccefdfc924a",
+    "summary": "Watch: Plus, what's driving the central bank's rate decisions?",
+    "ingested_utc": "2025-09-20T10:13:40Z"
+  },
+  {
+    "published_utc": "2025-09-20",
+    "retrieved_date": "2025-09-20",
+    "retrieved_utc": "2025-09-20T10:13:23Z",
+    "source": "WIRED_All",
+    "title": "Meta’s Smart Glasses Might Make You Smarter. They’ll Certainly Make You More Awkward",
+    "url": "https://www.wired.com/story/meta-smart-glasses-cognitive-disadvantage/",
+    "id_key": "ddc3649102fd37719ab3427b1d70694246404505573b9df917164abff0aa8331",
+    "summary": "Meta CEO Mark Zuckerberg claims anyone not wearing smart glasses will be at a “cognitive disadvantage” in the future. But you'll have to pay a hefty social price for those added smarts.",
+    "ingested_utc": "2025-09-20T10:13:23Z"
+  },
+  {
+    "published_utc": "2025-09-20",
+    "retrieved_date": "2025-09-20",
+    "retrieved_utc": "2025-09-20T10:13:01Z",
+    "source": "NPR_Top",
+    "title": "Suited to Lead: New exhibit highlights historical fashion choices of presidents",
+    "url": "https://www.npr.org/2025/09/20/nx-s1-5543195/presidents-fashion-white-house-exhibit",
+    "id_key": "91e754ae2d753c2b881ae01a582c71d7a805d7923bbdba0ba10d68502296973f",
+    "summary": "A virtual exhibit from the White House Historical Association showcases presidential fashions — and how presidents have used clothes to make a statement.",
+    "ingested_utc": "2025-09-20T10:13:01Z"
+  },
+  {
+    "published_utc": "2025-09-20",
+    "retrieved_date": "2025-09-20",
+    "retrieved_utc": "2025-09-20T10:12:54Z",
+    "source": "NYTimes_World",
+    "title": "Canada and Mexico Turn to Trains and Ports to Skirt U.S. Tariff Wall",
+    "url": "https://www.nytimes.com/2025/09/20/world/canada/canada-mexico-trains-ports.html",
+    "id_key": "d1daa490f95288d2004c9f77040b86e6831e347c9177b09206d3ec2b1e7c452c",
+    "summary": "Prime Minister Mark Carney touched down in Mexico City to regain Mexico’s trust and strategize with President Claudia Sheinbaum.",
+    "ingested_utc": "2025-09-20T10:12:54Z"
+  },
+  {
+    "published_utc": "2025-09-20",
+    "retrieved_date": "2025-09-20",
     "retrieved_utc": "2025-09-20T09:50:03Z",
     "source": "NPR_Top",
     "title": "Defense Secretary Hegseth requires new 'pledge' for reporters at the Pentagon",
@@ -856,6 +900,28 @@
     "id_key": "ce2d8a2a42d0cbbd7db9413021502f99ea8a9f0147e66e9090a4f5875301a071",
     "summary": "Rising wages and costs of having to dig deeper for minerals – not royalty payments – are behind job cuts in a sector that appears to be in decline Get our breaking news email , free app or daily news podcast Australia’s big miners are not averse to a political fight. Consider the biggest miner of them all: BHP. Jonathan Barrett is business editor of Guardian Australia Continue reading...",
     "ingested_utc": "2025-09-20T00:46:34Z"
+  },
+  {
+    "published_utc": "2025-09-19",
+    "retrieved_date": "2025-09-20",
+    "retrieved_utc": "2025-09-20T10:13:03Z",
+    "source": "NPR_World",
+    "title": "Ted Cruz claims without evidence that China is funding U.S. climate lawsuits",
+    "url": "https://www.npr.org/2025/09/19/nx-s1-5544339/climate-change-lawsuits-fossil-fuels",
+    "id_key": "834e5dc052d9c0abfb24bddce58987995a5167341ba1f6f943a28bc76ab3bca2",
+    "summary": "Republican Sen. Ted Cruz has said China is funding climate lawsuits against American oil and gas companies to weaken the U.S. He hasn't provided evidence to support the claim.",
+    "ingested_utc": "2025-09-20T10:13:03Z"
+  },
+  {
+    "published_utc": "2025-09-19",
+    "retrieved_date": "2025-09-20",
+    "retrieved_utc": "2025-09-20T10:13:02Z",
+    "source": "NPR_Business",
+    "title": "'We are all Jimmy Kimmel': What late night hosts are saying about Kimmel's suspension",
+    "url": "https://www.npr.org/2025/09/19/nx-s1-5546839/jimmy-kimmel-trump-jimmy-fallon-seth-meyers-colbert",
+    "id_key": "b47b249fa3e967a808697ba6a93d81bdc09c283f4c001f2463899b5f5bd7e7f0",
+    "summary": "The late night hosts warned about the future of free speech on their shows Thursday.",
+    "ingested_utc": "2025-09-20T10:13:02Z"
   },
   {
     "published_utc": "2025-09-19",
@@ -10932,71 +10998,5 @@
     "id_key": "0df48f1c90f08559a855df587d5e470f7ca001af9f20525175e873ebea86def1",
     "summary": "Release notes Important This release replaces v1.33.0 and addresses important issues reported for that version, specifically around eth_config and Receipts handling. Receipts fix : Corrects an issue where receipts were being removed for blocks beyond TxLookupLimit even when History pruning was disabled. See PR #9231 . eth_config fix : Resolves a configuration issue reported by the EF Testing team. See PR #9233 . These changes improve stability and consistency for users relying on long-term history and accurate transaction receipts. Note If you were affected by the missing receipts from running 1.33.0 version and require full historical receipts the two workarounds are: run Nethermind with --sync-fixreceipts for offline patching of missing receipts see https://docs.nethermind.io/fundamentals/configuration/#sync-fixreceipts delete the receipts folder under 'database' folder for an full download of all receipts while online For further details, please review the full changelog and linked PRs below. Full Changelog : 1.33.0...1.33.1",
     "ingested_utc": "2025-09-18T14:14:06Z"
-  },
-  {
-    "published_utc": "2025-09-18",
-    "retrieved_date": "2025-09-18",
-    "retrieved_utc": "2025-09-18T14:13:48Z",
-    "source": "Kraken_Blog",
-    "title": "Introducing Kraken Launch, powered by Legion",
-    "url": "https://blog.kraken.com/product/launch/introducing-launch",
-    "id_key": "23e76f5eef0781bff2faad5db668c73bfe5385a54116c6987b2a3de7eb6d76b1",
-    "summary": "Built in exclusive partnership with Legion, we’re opening the door for something new: Kraken Launch, your gateway to participate in ICOs and early token sales, directly from your Kraken account. The post Introducing Kraken Launch, powered by Legion appeared first on Kraken Blog .",
-    "ingested_utc": "2025-09-18T14:13:48Z"
-  },
-  {
-    "published_utc": "2025-09-18",
-    "retrieved_date": "2025-09-18",
-    "retrieved_utc": "2025-09-18T14:13:04Z",
-    "source": "Unchained",
-    "title": "Wormhole Reveals Major W Tokenomics Overhaul",
-    "url": "https://unchainedcrypto.com/wormhole-reveals-major-w-tokenomics-overhaul/",
-    "id_key": "02874c46e9b82afafbc382371f5e7dbf2c482be42675ab4dcd78b70dfbb86f95",
-    "summary": "Cross-chain protocol Wormhole released an upgraded tokenomics plan for its native W token, introducing a strategic reserve that’s funded by both onchain and off-chain revenue. The reserve is part of three main changes: the strategic reserve itself, introducing a 4% base staking yield for governance participants, and transitioning from annual ... The post Wormhole Reveals Major W Tokenomics Overhaul appeared first on Unchained .",
-    "ingested_utc": "2025-09-18T14:13:04Z"
-  },
-  {
-    "published_utc": "2025-09-18",
-    "retrieved_date": "2025-09-18",
-    "retrieved_utc": "2025-09-18T14:13:01Z",
-    "source": "CryptoNews",
-    "title": "Circle Unveils Cross-Chain Transfer Protocol V2 on Stellar, Expanding USDC Interoperability",
-    "url": "https://cryptonews.com/news/circle-unveils-cross-chain-transfer-protocol-v2-on-stellar-expanding-usdc-interoperability/",
-    "id_key": "70730ee2ab592bb358a6e67afc4fe9eda9e4320ff3cf44599c9cd5aa831ee08a",
-    "summary": "Circle announced that its Cross-Chain Transfer Protocol (CCTP) V2 is coming to the Stellar network, improving interoperability for USDC, the world’s leading regulated stablecoin. The post Circle Unveils Cross-Chain Transfer Protocol V2 on Stellar, Expanding USDC Interoperability appeared first on Cryptonews .",
-    "ingested_utc": "2025-09-18T14:13:01Z"
-  },
-  {
-    "published_utc": "2025-09-18",
-    "retrieved_date": "2025-09-18",
-    "retrieved_utc": "2025-09-18T14:12:58Z",
-    "source": "CryptoBriefing",
-    "title": "Mercado Bitcoin to issue $200 million in tokenized assets on Stellar",
-    "url": "https://cryptobriefing.com/tokenized-real-world-assets-stellar/",
-    "id_key": "42a1ecaed7457fadf096335766ca4cc519743e4438b6be9c85c13b389f587d2c",
-    "summary": "This move could accelerate blockchain adoption in Latin America's financial sector, enhancing global access to tokenized real-world assets. The post Mercado Bitcoin to issue $200 million in tokenized assets on Stellar appeared first on Crypto Briefing .",
-    "ingested_utc": "2025-09-18T14:12:58Z"
-  },
-  {
-    "published_utc": "2025-09-18",
-    "retrieved_date": "2025-09-18",
-    "retrieved_utc": "2025-09-18T14:12:00Z",
-    "source": "Guardian_World",
-    "title": "Top Democrats call for FCC chair to resign, claiming Jimmy Kimmel suspension is ‘corrupt abuse of power’ – US politics live",
-    "url": "https://www.theguardian.com/us-news/live/2025/sep/18/jimmy-kimmel-charlie-kirk-comments-show-cancelled-suspended-monologue-trump-us-politics-live",
-    "id_key": "bfc37146d92a520b57c0615d69b6f2ec038b424630561959a027a699e37059fa",
-    "summary": "Democratic House leadership say Trump’s media official Brendan Carr should go, adding that cancellation of show is ‘an act of cowardice’ Full report: Jimmy Kimmel Live! suspended over Charlie Kirk comments after US government pressure ‘Censoring you in real time’: Kimmel suspension sparks shock and fears for free speech In reaction to the news that Jimmy Kimmel’ s late-night show has been indefinitely suspended, the American Federation of Musicians (AFM) said that “Trump’s FCC identified speech it did not like and threatened ABC with extreme reprisals. This is state censorship.” On X, the president of the American Federation of Musicians of the United States and Canada, Tino Gagliardi , issued a statement in response to ABC taking Jimmy Kimmel Live! , which employs musicians from the American Federation of Musicians Local 47 in Los Angeles , off the air. In it he said: This is not complicated: Trump’s FCC identified speech it did not like and theatened ABC with extreme reprisals. This is state censorship. It’s now happening in the United States of America, not some far-off country. It’s happening right here and right now. This act by the Trump administration represents a direct attack on free speech and artistic expression. These are fundamental rights that we must protect in a free society. The American Federation of Musicians strongly condemns the decision to take Jimmy Kimmel Live! off the air. As a Guild, we stand united in opposition to anyone who uses their power and influence to silence the voices of writers, or anyone who speaks in dissent. If free speech applied only to ideas we like, we needn’t have bothered to write it into the constitution. What we have signed on to – painful as it may be at times – is the freeing agreement to disagree.” Democracy thrives when diverse points of view are expressed. The decision to suspend airing Jimmy Kimmel Live! is the type of suppression and retaliation that endangers everyone’s freedoms. Sag-Aftra stands with all media artists and defends their right to express their diverse points of view, and everyone’s right to hear them. Continue reading...",
-    "ingested_utc": "2025-09-18T14:12:00Z"
-  },
-  {
-    "published_utc": "2025-09-18",
-    "retrieved_date": "2025-09-18",
-    "retrieved_utc": "2025-09-18T14:12:00Z",
-    "source": "Guardian_World",
-    "title": "Abortion pill providers targeted by new Texas law refuse ‘anticipatory obedience’",
-    "url": "https://www.theguardian.com/world/2025/sep/18/abortion-pill-texas-law",
-    "id_key": "1dc7dff65b2449445ac279aafc954554c22fe92cbd3de6cec86a503a854ad122",
-    "summary": "Greg Abbott’s latest move fuels clash between US red states and blue-state shield laws protecting abortion care Greg Abbott , the Republican governor of Texas, on Wednesday signed into law a bill that lets people sue anyone suspected of manufacturing, distributing or mailing abortion pills to or from Texas . The first-of-its-kind law is almost certain to dramatically escalate the state-by-state showdown over abortion laws in the post Roe v Wade United States – especially as some out-of-state abortion providers have already vowed that they will continue shipping pills to Texans. “Our mantra as a practice is: ‘No anticipatory obedience’,” said Dr Angel Foster, co-founder of the Massachusetts Medication Abortion Access Project (Map), a Boston-area based group that uses telemedicine to ship abortion pills to patients across the United States. “We will continue to provide care until we are legally unable to do so in Massachusetts.” Continue reading...",
-    "ingested_utc": "2025-09-18T14:12:00Z"
   }
 ]
