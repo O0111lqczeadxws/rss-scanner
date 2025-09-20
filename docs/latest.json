@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-09-20",
     "retrieved_date": "2025-09-20",
+    "retrieved_utc": "2025-09-20T03:36:28Z",
+    "source": "BBC_World",
+    "title": "British couple freed by Taliban hug daughter as family express 'immense relief'",
+    "url": "https://www.bbc.com/news/articles/c0q7l8ewj0wo?at_medium=RSS&at_campaign=rss",
+    "id_key": "473d09ae0ec304abe2031cda08a89e373d275fb9f99c1057b606cf10561f5f62",
+    "summary": "Barbie, 76, and Peter Reynolds, 80, arrive in Qatar after being detained in Afghanistan for months.",
+    "ingested_utc": "2025-09-20T03:36:28Z"
+  },
+  {
+    "published_utc": "2025-09-20",
+    "retrieved_date": "2025-09-20",
     "retrieved_utc": "2025-09-20T03:06:08Z",
     "source": "AlJazeera_All",
     "title": "Ted Cruz breaks with Republicans, slams ‘mafioso’ threats to broadcasters",
@@ -339,6 +350,17 @@
     "id_key": "ce2d8a2a42d0cbbd7db9413021502f99ea8a9f0147e66e9090a4f5875301a071",
     "summary": "Rising wages and costs of having to dig deeper for minerals – not royalty payments – are behind job cuts in a sector that appears to be in decline Get our breaking news email , free app or daily news podcast Australia’s big miners are not averse to a political fight. Consider the biggest miner of them all: BHP. Jonathan Barrett is business editor of Guardian Australia Continue reading...",
     "ingested_utc": "2025-09-20T00:46:34Z"
+  },
+  {
+    "published_utc": "2025-09-19",
+    "retrieved_date": "2025-09-20",
+    "retrieved_utc": "2025-09-20T03:39:30Z",
+    "source": "AlJazeera_All",
+    "title": "Trump imposes $100,000 fee per year for H-1B visas",
+    "url": "https://www.aljazeera.com/news/2025/9/19/trump-signs-proclamation-creating-100000-application-fee-for-h-1b-visas?traffic_source=rss",
+    "id_key": "89cad63bdba285708f4a185adf407332304783ae413e4552f6eca1c29647c224",
+    "summary": "Fee paid by companies set to transform high-skill work visa system, upon which technology sector relies heavily.",
+    "ingested_utc": "2025-09-20T03:39:30Z"
   },
   {
     "published_utc": "2025-09-19",
@@ -10976,27 +10998,5 @@
     "id_key": "612399557d0e95ed1f8eb6c748d9a515fedeb7c6469447398b553226fa6054f6",
     "summary": "If you wanted an Ariya, you can blame the Trump tariffs for its cancellation.",
     "ingested_utc": "2025-09-18T13:05:02Z"
-  },
-  {
-    "published_utc": "2025-09-18",
-    "retrieved_date": "2025-09-18",
-    "retrieved_utc": "2025-09-18T13:05:01Z",
-    "source": "TheVerge_All",
-    "title": "Nanoleaf made a vibrating light therapy skincare wand",
-    "url": "https://www.theverge.com/news/780820/nanoleaf-light-therapy-wand-panel-price-availability",
-    "id_key": "18bddd23d5078bc6b5e9a7cc2cd61c25e2f7c45d97fa9ecad4d4ac32fe1e5e9b",
-    "summary": "Nanoleaf is getting serious about its expansion into beauty tech, adding two new LED red light-emitting devices to its product lineup. The company says that its new Light Therapy Wand brings “the benefits of a professional facial into the palm of your hand,” while its new Light Therapy Panel uses 160 “high-focus LEDs” to provide […]",
-    "ingested_utc": "2025-09-18T13:05:01Z"
-  },
-  {
-    "published_utc": "2025-09-18",
-    "retrieved_date": "2025-09-18",
-    "retrieved_utc": "2025-09-18T13:05:01Z",
-    "source": "TheVerge_All",
-    "title": "Steam is dropping Windows 32-bit support in 2026",
-    "url": "https://www.theverge.com/news/780806/valve-steam-32-bit-windows-support-end",
-    "id_key": "0d82daa98545a892363c4b3ac17d0ff6062f6df515726eb0245ffdcb1edbb022",
-    "summary": "Valve has announced that it will stop supporting 32-bit versions of Windows for its Steam app next year. Valve will continue to support 64-bit versions of Windows 10 and Windows 11 with Steam, but on January 1st 2026 it’s game over for 32-bit versions of Windows. Windows 10 is the only 32-bit version of Windows […]",
-    "ingested_utc": "2025-09-18T13:05:01Z"
   }
 ]
