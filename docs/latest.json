@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-09-20",
     "retrieved_date": "2025-09-20",
+    "retrieved_utc": "2025-09-20T23:35:13Z",
+    "source": "BBC_World",
+    "title": "Heightened security as Americans gather for Kirk memorial",
+    "url": "https://www.bbc.com/news/articles/c5yqqelk39go?at_medium=RSS&at_campaign=rss",
+    "id_key": "26219c0986d0c77f9dc3927a70bf4fef5756dd7223f441758965527fa53b89c5",
+    "summary": "Donald Trump and JD Vance will be among the speakers at the event in Arizona.",
+    "ingested_utc": "2025-09-20T23:35:13Z"
+  },
+  {
+    "published_utc": "2025-09-20",
+    "retrieved_date": "2025-09-20",
     "retrieved_utc": "2025-09-20T23:27:46Z",
     "source": "AlJazeera_All",
     "title": "Zelenskyy plans to meet Trump on sidelines of UN as Russia steps up attacks",
@@ -10986,17 +10997,6 @@
     "url": "https://www.ft.com/content/af261596-62ef-4930-a0ee-7d8fa87abd4b",
     "id_key": "7c6079d3c64b996bc369c84bc6dce2b1c6a7d69a15dee05c2489eb3df430d18c",
     "summary": "Under headline £150bn figure lie complexities in areas including technology, nuclear power, steel and commitments by Blackstone",
-    "ingested_utc": "2025-09-18T17:31:37Z"
-  },
-  {
-    "published_utc": "2025-09-18",
-    "retrieved_date": "2025-09-18",
-    "retrieved_utc": "2025-09-18T17:31:37Z",
-    "source": "FT_Home",
-    "title": "Adani hails ‘clean chit’ from Indian regulator over Hindenburg probes",
-    "url": "https://www.ft.com/content/e4c125e2-fdc0-4d93-bb05-be79cc798ed8",
-    "id_key": "a3a1a3396e8cd33795532d1f8ae6180085139c7a297bb406fa4c80e4b51c1b97",
-    "summary": "Securities and Exchange Board clears conglomerate of fraud allegations included in 2023 report by US short seller",
     "ingested_utc": "2025-09-18T17:31:37Z"
   }
 ]
