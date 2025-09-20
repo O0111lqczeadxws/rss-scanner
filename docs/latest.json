@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-09-20",
     "retrieved_date": "2025-09-20",
+    "retrieved_utc": "2025-09-20T21:35:41Z",
+    "source": "AlJazeera_All",
+    "title": "Americans to dominate board of TikTok’s US operations: White House",
+    "url": "https://www.aljazeera.com/news/2025/9/20/americans-to-dominate-board-of-tiktoks-us-operations-white-house?traffic_source=rss",
+    "id_key": "020202610677e117696b24c165c56acda62078a84a6315df8997cd052c879060",
+    "summary": "Six of seven board seats for TikTok's US operations will be held by Americans, White House press secretary says.",
+    "ingested_utc": "2025-09-20T21:35:41Z"
+  },
+  {
+    "published_utc": "2025-09-20",
+    "retrieved_date": "2025-09-20",
     "retrieved_utc": "2025-09-20T21:23:06Z",
     "source": "Guardian_World",
     "title": "California becomes first state to ban face coverings for most law enforcement",
@@ -10987,16 +10998,5 @@
     "id_key": "75c347657142810dfc8e009f3fc8ef0d88e43d63d7cefe481bea7c3de3b08527",
     "summary": "",
     "ingested_utc": "2025-09-18T17:13:01Z"
-  },
-  {
-    "published_utc": "2025-09-18",
-    "retrieved_date": "2025-09-18",
-    "retrieved_utc": "2025-09-18T17:12:55Z",
-    "source": "FinancialPost_Business",
-    "title": "Canadian banks’ fossil fuel funding nearly double compared with renewables: report",
-    "url": "https://financialpost.com/pmn/canadian-banks-fossil-fuel-funding-nearly-double-compared-with-renewables-report",
-    "id_key": "7f6918242f8ddebe296af483b472e4da456b66f2146fd3f6b04d159d7302b3a2",
-    "summary": "TORONTO — A new report says Canada’s big banks financed about US$145 billion in fossil fuel investments last year, compared with about US$75 billion to low-carbon energy. The report by energy transition research firm BloombergNEF focuses on the ratio of global bank funding going to oil, gas and coal projects compared with low-carbon investments like […]",
-    "ingested_utc": "2025-09-18T17:12:55Z"
   }
 ]
