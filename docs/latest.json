@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-09-20",
     "retrieved_date": "2025-09-20",
+    "retrieved_utc": "2025-09-20T23:50:41Z",
+    "source": "HackerNews_Top",
+    "title": "California bans face masks for ICE agents",
+    "url": "https://sfstandard.com/2025/09/20/california-bans-face-masks-ice-agents/",
+    "id_key": "4654d7857f167356b764d57103c1a06049b99ba4de0963dd174abc9ccf388a76",
+    "summary": "Comments",
+    "ingested_utc": "2025-09-20T23:50:41Z"
+  },
+  {
+    "published_utc": "2025-09-20",
+    "retrieved_date": "2025-09-20",
+    "retrieved_utc": "2025-09-20T23:47:18Z",
+    "source": "Guardian_World",
+    "title": "Republicans warn Australia of ‘punitive measures’ over recognition of Palestinian state",
+    "url": "https://www.theguardian.com/world/2025/sep/21/republicans-warn-australia-of-punitive-measures-over-recognition-of-palestinian-state",
+    "id_key": "fe41a313a034b6d9c36b797cbca38da48fd2d82160c898518b455210013a436f",
+    "summary": "Donald Trump allies, including Ted Cruz, pen letter warning Anthony Albanese against ‘reckless policy’ Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Anthony Albanese says he will push for improved global peace and security during meetings with world leaders this week, as allies of Donald Trump warn Australia’s recognition of Palestine could spark “punitive measures” from the US. Albanese arrived in New York on Sunday morning, Australian time, ahead of the UN general assembly and his possible first meeting with the US President . Continue reading...",
+    "ingested_utc": "2025-09-20T23:47:18Z"
+  },
+  {
+    "published_utc": "2025-09-20",
+    "retrieved_date": "2025-09-20",
     "retrieved_utc": "2025-09-20T23:35:13Z",
     "source": "BBC_World",
     "title": "Heightened security as Americans gather for Kirk memorial",
@@ -10976,27 +10998,5 @@
     "id_key": "a9a0cc76a978b13de4b5e4eb24969b5989f5bea7f9645cc1bd0c8f78719464ed",
     "summary": "Steam is officially dropping Windows 32-bit support at the end of this year, the company announced today. The only 32-bit version of Windows that is currently supported by Steam is Windows 10 32-bit. The company says 0.01 percent of systems reported through the Steam Hardware Survey are using that version of Windows. On any given day, Steam sees just over 36 million daily users , so it's safe to assume that this change will only affect a few thousand gamers. While this doesn't mean that your Steam client running on Windows 10 32-bit will self-destruct at midnight on January 1, it does mean that you will no longer receive updates or technical support. Microsoft is also sunsetting Windows 10 on October 14 of this year, which will similarly mean an end to security updates. Valve will still support Steam on Windows 10 64-bit for the time being. Windows 11 doesn't offer a 32-bit version, making it the first version not to offer 32-bit since the feature was introduced with Windows NT in 1993. \"Core features in Steam rely on system drivers and other libraries that are not supported on 32-bit versions of Windows,\" Steam explained in the announcement. Hopefully this change frees up enough bandwidth at Valve to get Half-Life 3 over the finish line. This article originally appeared on Engadget at https://www.engadget.com/gaming/pc/steam-is-ending-support-for-windows-32-bit-next-year-171057805.html?src=rss",
     "ingested_utc": "2025-09-18T17:31:57Z"
-  },
-  {
-    "published_utc": "2025-09-18",
-    "retrieved_date": "2025-09-18",
-    "retrieved_utc": "2025-09-18T17:31:54Z",
-    "source": "TechCrunch_All",
-    "title": "Google and PayPal team up on agentic commerce",
-    "url": "https://techcrunch.com/2025/09/18/google-and-paypal-team-up-on-agentic-commerce/",
-    "id_key": "7c5dce1eb205e78b07adfd9376edc73b50a3e1f2056957e6f9fcf11c0b28d86d",
-    "summary": "PayPal announced on Wednesday a new multi-year partnership with Google that will see the payments giant using Google's AI technology to create new AI-powered shopping experiences.",
-    "ingested_utc": "2025-09-18T17:31:54Z"
-  },
-  {
-    "published_utc": "2025-09-18",
-    "retrieved_date": "2025-09-18",
-    "retrieved_utc": "2025-09-18T17:31:37Z",
-    "source": "FT_Home",
-    "title": "What investments did the UK secure during Trump’s state visit?",
-    "url": "https://www.ft.com/content/af261596-62ef-4930-a0ee-7d8fa87abd4b",
-    "id_key": "7c6079d3c64b996bc369c84bc6dce2b1c6a7d69a15dee05c2489eb3df430d18c",
-    "summary": "Under headline £150bn figure lie complexities in areas including technology, nuclear power, steel and commitments by Blackstone",
-    "ingested_utc": "2025-09-18T17:31:37Z"
   }
 ]
