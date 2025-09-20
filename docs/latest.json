@@ -2,6 +2,50 @@
   {
     "published_utc": "2025-09-20",
     "retrieved_date": "2025-09-20",
+    "retrieved_utc": "2025-09-20T10:33:16Z",
+    "source": "WIRED_All",
+    "title": "Security News This Week: A Dangerous Worm Is Eating Its Way Through Software Packages",
+    "url": "https://www.wired.com/story/a-dangerous-worm-is-eating-its-way-through-software-packages/",
+    "id_key": "d8f45b01fa039e86620557d4b53c0c82e5549a1b09a384cc4fa2f166c14e217d",
+    "summary": "Plus: An investigation reveals how US tech companies reportedly helped build China's sweeping surveillance state, and two more alleged members of the Scattered Spider hacking group were arrested.",
+    "ingested_utc": "2025-09-20T10:33:16Z"
+  },
+  {
+    "published_utc": "2025-09-20",
+    "retrieved_date": "2025-09-20",
+    "retrieved_utc": "2025-09-20T10:32:47Z",
+    "source": "NYTimes_Business",
+    "title": "Oil Sanctions Have Made Russia’s Shadow Fleet Swell",
+    "url": "https://www.nytimes.com/2025/09/20/world/europe/russia-shadow-fleet-oil-sanctions-ukraine-war.html",
+    "id_key": "9bd9a13612e3c73ef67275db1b778d919813652cfd5348671f20e39d45a2ce7b",
+    "summary": "Restrictions have made it costlier for Russia to ship oil by sea. But they have also expanded the illicit shipping economy, with lasting consequences.",
+    "ingested_utc": "2025-09-20T10:32:47Z"
+  },
+  {
+    "published_utc": "2025-09-20",
+    "retrieved_date": "2025-09-20",
+    "retrieved_utc": "2025-09-20T10:30:53Z",
+    "source": "CryptoNews",
+    "title": "BitGo Becomes First Crypto Custodian to File for US IPO",
+    "url": "https://cryptonews.com/news/bitgo-becomes-first-crypto-custodian-to-file-for-us-ipo/",
+    "id_key": "9c4b0c5f75d37b4c6529e8e8f3720b65a94fe7bfbeb43efdee90f1517f9591bc",
+    "summary": "BitGo has filed for an initial public offering (IPO), becoming the first crypto custodian to pursue a listing on a US stock exchange. The post BitGo Becomes First Crypto Custodian to File for US IPO appeared first on Cryptonews .",
+    "ingested_utc": "2025-09-20T10:30:53Z"
+  },
+  {
+    "published_utc": "2025-09-20",
+    "retrieved_date": "2025-09-20",
+    "retrieved_utc": "2025-09-20T10:30:31Z",
+    "source": "Guardian_World",
+    "title": "Immigrant rights activists braced for crackdown as Trump threatens to target ‘leftwing’ groups",
+    "url": "https://www.theguardian.com/us-news/2025/sep/20/immigrant-rights-groups-trump-crackdown",
+    "id_key": "b7bf7f44d3122dfebb908ba4d43ba93fece85f5f4841cae87743109292031304",
+    "summary": "Advocates advise staff and volunteers to practice caution but say they will not give up their first amendment rights Immigrant advocacy organizations and activists are bracing for a crackdown from the federal government following threats from the Trump administration to root out and criminally prosecute non-profit groups it believes are sympathetic to “leftwing” politics. Donald Trump and his closest allies have periodically threatened immigrant rights activists and nonprofits, including those that distribute food and water to migrants or provide immigrants with legal services, with arrest. But their rhetoric has been heightened in the days following the killing of rightwing activist Charlie Kirk this month. Continue reading...",
+    "ingested_utc": "2025-09-20T10:30:31Z"
+  },
+  {
+    "published_utc": "2025-09-20",
+    "retrieved_date": "2025-09-20",
     "retrieved_utc": "2025-09-20T10:13:40Z",
     "source": "FinancialPost_Business",
     "title": "Are variable or fixed rates better after Bank of Canada cut? FP video",
@@ -7349,6 +7393,17 @@
   },
   {
     "published_utc": "2025-09-18",
+    "retrieved_date": "2025-09-20",
+    "retrieved_utc": "2025-09-20T10:33:53Z",
+    "source": "HackerNews_Top",
+    "title": "SCREAM CIPHER (\"ǠĂȦẶAẦ ĂǍÄẴẶȦ\")",
+    "url": "https://sethmlarson.dev/scream-cipher",
+    "id_key": "96062f3ce76e94f2115f4e8e2d2a0641030ed0004e8598ca2febaaa25d92395d",
+    "summary": "Comments",
+    "ingested_utc": "2025-09-20T10:33:53Z"
+  },
+  {
+    "published_utc": "2025-09-18",
     "retrieved_date": "2025-09-19",
     "retrieved_utc": "2025-09-19T21:50:06Z",
     "source": "FT_Markets",
@@ -10943,60 +10998,5 @@
     "id_key": "b45beb92990e5ae5334763168f7a8225bc78fdbcb0c58f28ef662ea66d9434d7",
     "summary": "The explosive growth of AI chatbots in the past three years, since ChatGPT launched in 2022, has started to have some really noticeable, profound, and honestly disturbing effects on some users. There’s a lot to unpack there — it can be pretty complicated. So I’m very excited to talk with today’s guest, New York Times […]",
     "ingested_utc": "2025-09-18T14:15:21Z"
-  },
-  {
-    "published_utc": "2025-09-18",
-    "retrieved_date": "2025-09-18",
-    "retrieved_utc": "2025-09-18T14:15:21Z",
-    "source": "TechCrunch_All",
-    "title": "Building the future of Open AI with Thomas Wolf at TechCrunch Disrupt 2025",
-    "url": "https://techcrunch.com/2025/09/18/building-the-future-of-open-ai-with-thomas-wolf-at-techcrunch-disrupt-2025/",
-    "id_key": "5ccfeb26b0cf6abc093e8df56a6d1677b9f4edf6d8de34e9873b1874f9615a44",
-    "summary": "Hugging Face co-founder Thomas Wolf joins Disrupt 2025 to share how open science and moonshot projects are shaping the future of AI. October 27–29, Moscone West, San Francisco.",
-    "ingested_utc": "2025-09-18T14:15:21Z"
-  },
-  {
-    "published_utc": "2025-09-18",
-    "retrieved_date": "2025-09-18",
-    "retrieved_utc": "2025-09-18T14:15:06Z",
-    "source": "FT_Home",
-    "title": "Trump and Starmer hold press conference",
-    "url": "https://www.ft.com/content/4a6f861e-105f-4bf3-91cb-b6fb85204ccf",
-    "id_key": "7b48c5593055271849dac31ceae67ba2627e9db959b5f516f3b31112793ab7c4",
-    "summary": "Appearance by two leaders caps second state visit for US president",
-    "ingested_utc": "2025-09-18T14:15:06Z"
-  },
-  {
-    "published_utc": "2025-09-18",
-    "retrieved_date": "2025-09-18",
-    "retrieved_utc": "2025-09-18T14:14:47Z",
-    "source": "MarketWatch_Bulletins",
-    "title": "Nvidia’s stake in Intel inspires tech stocks as Nasdaq touches all-time high",
-    "url": "https://www.marketwatch.com/bulletins/redirect/go?g=89d6317a-0001-4ebf-811e-426d92eda70f&mod=mw_rss_bulletins",
-    "id_key": "ade0fa6c7a96c1277893ccaf22e555e580d95cb5afdbfa7e202ca3c9e337e1bf",
-    "summary": "",
-    "ingested_utc": "2025-09-18T14:14:47Z"
-  },
-  {
-    "published_utc": "2025-09-18",
-    "retrieved_date": "2025-09-18",
-    "retrieved_utc": "2025-09-18T14:14:36Z",
-    "source": "Guardian_World",
-    "title": "Probation Service failing to assess thousands who pose risk to women, watchdog says",
-    "url": "https://www.theguardian.com/society/2025/sep/18/offenders-england-wales-serious-risk-to-women-girls",
-    "id_key": "5f27bc1def3b5a6c85a66571d6cbf897cd0d905565908b67656c973ef79b8df9",
-    "summary": "Exclusive: Chief inspector of probation says it is inevitable there will be more murders and rapes without an improvement The Probation Service in England and Wales is failing to monitor and assess tens of thousands of offenders who pose a serious risk to women and girls, a watchdog has told the Guardian. Martin Jones, HM chief inspector of probation, launching a six-month inquiry into failings in public protection, said it was inevitable there would be more murders, rapes and serious sexual offences without an improvement. Information and support for anyone affected by rape or sexual abuse issues is available from the following organisations. In the UK, Rape Crisis offers support on 0808 500 2222 in England and Wales, 0808 801 0302 in Scotland , or 0800 0246 991 in Northern Ireland . In the US, Rainn offers support on 800-656-4673. In Australia, support is available at 1800Respect (1800 737 732). Other international helplines can be found at ibiblio.org/rcip/internl.html Continue reading...",
-    "ingested_utc": "2025-09-18T14:14:36Z"
-  },
-  {
-    "published_utc": "2025-09-18",
-    "retrieved_date": "2025-09-18",
-    "retrieved_utc": "2025-09-18T14:14:06Z",
-    "source": "Nethermind_Releases",
-    "title": "v1.33.1",
-    "url": "https://github.com/NethermindEth/nethermind/releases/tag/1.33.1",
-    "id_key": "0df48f1c90f08559a855df587d5e470f7ca001af9f20525175e873ebea86def1",
-    "summary": "Release notes Important This release replaces v1.33.0 and addresses important issues reported for that version, specifically around eth_config and Receipts handling. Receipts fix : Corrects an issue where receipts were being removed for blocks beyond TxLookupLimit even when History pruning was disabled. See PR #9231 . eth_config fix : Resolves a configuration issue reported by the EF Testing team. See PR #9233 . These changes improve stability and consistency for users relying on long-term history and accurate transaction receipts. Note If you were affected by the missing receipts from running 1.33.0 version and require full historical receipts the two workarounds are: run Nethermind with --sync-fixreceipts for offline patching of missing receipts see https://docs.nethermind.io/fundamentals/configuration/#sync-fixreceipts delete the receipts folder under 'database' folder for an full download of all receipts while online For further details, please review the full changelog and linked PRs below. Full Changelog : 1.33.0...1.33.1",
-    "ingested_utc": "2025-09-18T14:14:06Z"
   }
 ]
