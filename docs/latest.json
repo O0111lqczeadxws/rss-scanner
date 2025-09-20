@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-09-20",
     "retrieved_date": "2025-09-20",
+    "retrieved_utc": "2025-09-20T06:50:04Z",
+    "source": "BBC_World",
+    "title": "Trump adds $100,000 fee for skilled worker visa applicants",
+    "url": "https://www.bbc.com/news/articles/cm2zk4l8g26o?at_medium=RSS&at_campaign=rss",
+    "id_key": "9914203f0a3b8699e01baf55a2e0e409af5d90221ba2a907bd112f0085cad56a",
+    "summary": "\"Train Americans,\" the US commerce secretary told big companies, some of which have relied on foreign high-skilled workers for years.",
+    "ingested_utc": "2025-09-20T06:50:04Z"
+  },
+  {
+    "published_utc": "2025-09-20",
+    "retrieved_date": "2025-09-20",
     "retrieved_utc": "2025-09-20T06:38:27Z",
     "source": "BBC_Business",
     "title": "Event to help islanders cut down on energy bills",
@@ -10987,16 +10998,5 @@
     "id_key": "84110dbd744f75b43d016405f911fbb28b7568c17f7a4c1f322576e4a0a96c35",
     "summary": "Appearance by two leaders caps second state visit for US president",
     "ingested_utc": "2025-09-18T13:38:26Z"
-  },
-  {
-    "published_utc": "2025-09-18",
-    "retrieved_date": "2025-09-18",
-    "retrieved_utc": "2025-09-18T13:38:22Z",
-    "source": "NPR_Business",
-    "title": "Why beef prices are higher than ever (and shoppers are finally resisting)",
-    "url": "https://www.npr.org/2025/09/18/nx-s1-5534424/beef-prices-record-high-cost",
-    "id_key": "552daac1aad8a79612f7c0be818c36db2da1a82e20e0be2589179752bb4d26ab",
-    "summary": "American ranchers are raising the fewest cows in decades. Through the price increases, American shoppers have stayed loyal to their love of burgers and steaks — until now.",
-    "ingested_utc": "2025-09-18T13:38:22Z"
   }
 ]
