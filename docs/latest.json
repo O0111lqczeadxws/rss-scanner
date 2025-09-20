@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-09-20",
     "retrieved_date": "2025-09-20",
+    "retrieved_utc": "2025-09-20T14:11:59Z",
+    "source": "WIRED_All",
+    "title": "Best Dog Beds (2025): For All Kinds of Dogs in All Kinds of Spaces",
+    "url": "https://www.wired.com/gallery/best-dog-bed/",
+    "id_key": "f1dadd6828348515674f6ecc04b2b36f5d9d28151a3df34c5d9ddf26d89fe286",
+    "summary": "Dogs deserve a quality mattress, too. These are the best WIRED-tested options we—or, rather, our dogs—have found.",
+    "ingested_utc": "2025-09-20T14:11:59Z"
+  },
+  {
+    "published_utc": "2025-09-20",
+    "retrieved_date": "2025-09-20",
+    "retrieved_utc": "2025-09-20T14:09:07Z",
+    "source": "BBC_World",
+    "title": "British couple held by Taliban arrive in UK after release",
+    "url": "https://www.bbc.com/news/articles/cly6ve2dg66o?at_medium=RSS&at_campaign=rss",
+    "id_key": "471fc4c25d090c01b456c1147fca68b2edcdb98e3150a7e9bfcfc3fb0464d7fb",
+    "summary": "Their son tells the BBC he is \"overwhelmed\" by release after nearly eight months in prison.",
+    "ingested_utc": "2025-09-20T14:09:07Z"
+  },
+  {
+    "published_utc": "2025-09-20",
+    "retrieved_date": "2025-09-20",
     "retrieved_utc": "2025-09-20T13:50:46Z",
     "source": "TheStreet_Top",
     "title": "Costco just made a change that improved the member experience",
@@ -10976,27 +10998,5 @@
     "id_key": "ee94bad590fa87f8fc719649ac00c4088d19859264db299021df2c28cbe21e3d",
     "summary": "New Solmate DAT backed by Solana Foundation, ARK Invest and UAE investors to build yield-generating infrastructure",
     "ingested_utc": "2025-09-18T15:11:52Z"
-  },
-  {
-    "published_utc": "2025-09-18",
-    "retrieved_date": "2025-09-18",
-    "retrieved_utc": "2025-09-18T15:11:35Z",
-    "source": "BBC_Business",
-    "title": "Planning approvals for new homes at record low, figures show",
-    "url": "https://www.bbc.com/news/articles/cgmzwk4yd1eo?at_medium=RSS&at_campaign=rss",
-    "id_key": "c6179fb330f1dff0af56fd41fd6446447f90cdc40f905e09018ccc32fd655d6b",
-    "summary": "Planning approvals for new homes were at their lowest on record during Labour’s first year in office, figures show",
-    "ingested_utc": "2025-09-18T15:11:35Z"
-  },
-  {
-    "published_utc": "2025-09-18",
-    "retrieved_date": "2025-09-18",
-    "retrieved_utc": "2025-09-18T14:51:05Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "Sumitomo Mitsui to invest additional $810m in US-based Jefferies",
-    "url": "https://asia.nikkei.com/business/business-deals/sumitomo-mitsui-to-invest-additional-810m-in-us-based-jefferies",
-    "id_key": "9a22723ff76c3bf12ea7d630d468aa98dc487a994a5caafe95e73f847e9702c4",
-    "summary": "",
-    "ingested_utc": "2025-09-18T14:51:05Z"
   }
 ]
