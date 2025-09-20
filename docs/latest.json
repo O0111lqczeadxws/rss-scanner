@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-09-20",
     "retrieved_date": "2025-09-20",
+    "retrieved_utc": "2025-09-20T20:14:01Z",
+    "source": "HackerNews_Top",
+    "title": "Tariffs make it harder to justify US investments, automakers and suppliers warn",
+    "url": "https://www.autonews.com/manufacturing/an-trump-tariffs-suppliers-automaker-letter-mbs-0919/",
+    "id_key": "b4ecb7b85aba2a851cdfb71422f2623aeb2f82c8a498f1b7e579878ca3658c77",
+    "summary": "Comments",
+    "ingested_utc": "2025-09-20T20:14:01Z"
+  },
+  {
+    "published_utc": "2025-09-20",
+    "retrieved_date": "2025-09-20",
+    "retrieved_utc": "2025-09-20T20:13:26Z",
+    "source": "TechCrunch_All",
+    "title": "White House offers more details about potential TikTok deal",
+    "url": "https://techcrunch.com/2025/09/20/white-house-offers-more-details-about-potential-tiktok-deal/",
+    "id_key": "5f65663602425f9974f0987c8637555848ba367cbf2d414563a5477f56fdf4be",
+    "summary": "The White House press secretary said Americans will hold six of seven board seats in the restructured TikTok, and the video app’s algorithm will be U.S.-controlled.",
+    "ingested_utc": "2025-09-20T20:13:26Z"
+  },
+  {
+    "published_utc": "2025-09-20",
+    "retrieved_date": "2025-09-20",
+    "retrieved_utc": "2025-09-20T20:10:54Z",
+    "source": "CryptoSlate",
+    "title": "With the Treasury General Account refill almost done, ‘up only can resume’: Arthur Hayes",
+    "url": "https://cryptoslate.com/with-the-treasury-general-account-refill-almost-done-up-only-can-resume-arthur-hayes/",
+    "id_key": "68e1fc19b38204f16841887f045b000e73d7466c793855d5ee0cec49f8c284a2",
+    "summary": "Crypto markets have been somewhat muted as the U.S. Treasury drained liquidity from the system. But as it approaches completing its Treasury General Account (TGA) refill, something the former BitMEX CEO, Arthur Hayes, called a “liquidity drain,” the “up only” trajectory can get back on track. The TGA is basically the government’s checking account at […] The post With the Treasury General Account refill almost done, ‘up only can resume’: Arthur Hayes appeared first on CryptoSlate .",
+    "ingested_utc": "2025-09-20T20:10:54Z"
+  },
+  {
+    "published_utc": "2025-09-20",
+    "retrieved_date": "2025-09-20",
     "retrieved_utc": "2025-09-20T19:50:51Z",
     "source": "AlJazeera_All",
     "title": "Police fire tear gas at anti-immigration protesters in The Hague",
@@ -10965,38 +10998,5 @@
     "id_key": "8539e18a6b6c0ddc658333f60966e9b123e6227fb025696a21d3a957065b38aa",
     "summary": "Yesterday, Disney-owned ABC suspended Jimmy Kimmel Live \"indefinitely\" for a comment Kimmel made about the response to Charlie Kirk's death. The response from Republican commentators has been predictably gleeful. They've positioned the suspension as a reversal of \"cancel culture,\" a \"deplatforming\" that's simply fair retaliation for antagonizing them. \"Jimmy Kimmel does have Free Speech, he […]",
     "ingested_utc": "2025-09-18T16:54:24Z"
-  },
-  {
-    "published_utc": "2025-09-18",
-    "retrieved_date": "2025-09-18",
-    "retrieved_utc": "2025-09-18T16:53:56Z",
-    "source": "NYTimes_Business",
-    "title": "Trump Administration Wields Its Full Toolbox to Bring Media to Heel",
-    "url": "https://www.nytimes.com/2025/09/18/business/media/trump-kimmel-cancel-culture-free-speech.html",
-    "id_key": "15644ac903485cdf585f44c6405e372926c25e998a1071c1d2668730b0a74678",
-    "summary": "ABC’s decision to “indefinitely” suspend Jimmy Kimmel’s late-night talk show illuminates the administration’s efficacy so far.",
-    "ingested_utc": "2025-09-18T16:53:56Z"
-  },
-  {
-    "published_utc": "2025-09-18",
-    "retrieved_date": "2025-09-18",
-    "retrieved_utc": "2025-09-18T16:52:03Z",
-    "source": "Protos",
-    "title": "Tangem wallet brute force vulnerability revealed by rival Ledger",
-    "url": "https://protos.com/tangem-wallet-brute-force-vulnerability-revealed-by-rival-ledger/",
-    "id_key": "2523e8820b61f95110350ccafc8f04004b557f021f4ba8dd7677aec54b30bdd5",
-    "summary": "The security flaw allows hackers to brute force the PIN code of Tangem cold wallet cards by cutting off their source of power. The post Tangem wallet brute force vulnerability revealed by rival Ledger appeared first on Protos .",
-    "ingested_utc": "2025-09-18T16:52:03Z"
-  },
-  {
-    "published_utc": "2025-09-18",
-    "retrieved_date": "2025-09-18",
-    "retrieved_utc": "2025-09-18T16:51:03Z",
-    "source": "Guardian_World",
-    "title": "Two teenagers charged over cyber-attack on Transport for London",
-    "url": "https://www.theguardian.com/uk-news/2025/sep/18/two-teenagers-charged-transport-for-london-cyber-attack",
-    "id_key": "3b0bb6443bc97ede0f67b4971cc56d212ccffc4d02cc97e186ffa6733c6f7b01",
-    "summary": "Thalha Jubair, 19, and Owen Flowers, 18, appear in court in connection with alleged hack that cost TfL £39m Two teenagers have appeared in court charged with hacking London’s transport authority in a cyber-attack last year. Thalha Jubair, 19, from east London, and Owen Flowers, 18, from Walsall, West Midlands, were arrested on 16 September at their home addresses in a joint operation by the National Crime Agency (NCA) and City of London police. Continue reading...",
-    "ingested_utc": "2025-09-18T16:51:03Z"
   }
 ]
