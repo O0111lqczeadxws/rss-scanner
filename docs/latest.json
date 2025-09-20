@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-09-20",
     "retrieved_date": "2025-09-20",
+    "retrieved_utc": "2025-09-20T09:50:03Z",
+    "source": "NPR_Top",
+    "title": "Defense Secretary Hegseth requires new 'pledge' for reporters at the Pentagon",
+    "url": "https://www.npr.org/2025/09/20/g-s1-89713/pentagon-new-strict-guidelines-for-media",
+    "id_key": "1c28a93a04933b01a76657f94b263fc158abbb2339dafc60966794a9125bc44a",
+    "summary": "The Pentagon is implementing new guidelines that will require journalists to sign a pledge and agree to report only approved and officially released information.",
+    "ingested_utc": "2025-09-20T09:50:03Z"
+  },
+  {
+    "published_utc": "2025-09-20",
+    "retrieved_date": "2025-09-20",
     "retrieved_utc": "2025-09-20T09:38:29Z",
     "source": "FinancialPost_Business",
     "title": "Zelenskiy Will Meet Trump at UNGA to Push on Security Guarantees",
@@ -845,6 +856,17 @@
     "id_key": "ce2d8a2a42d0cbbd7db9413021502f99ea8a9f0147e66e9090a4f5875301a071",
     "summary": "Rising wages and costs of having to dig deeper for minerals – not royalty payments – are behind job cuts in a sector that appears to be in decline Get our breaking news email , free app or daily news podcast Australia’s big miners are not averse to a political fight. Consider the biggest miner of them all: BHP. Jonathan Barrett is business editor of Guardian Australia Continue reading...",
     "ingested_utc": "2025-09-20T00:46:34Z"
+  },
+  {
+    "published_utc": "2025-09-19",
+    "retrieved_date": "2025-09-20",
+    "retrieved_utc": "2025-09-20T09:50:03Z",
+    "source": "NPR_Business",
+    "title": "Jimmy Kimmel's suspension shows power of FCC's Brendan Carr",
+    "url": "https://www.npr.org/2025/09/19/nx-s1-5546764/fcc-brendan-carr-kimmel-trump-free-speech",
+    "id_key": "79d958f9099a0e74a4ea19d2f21eae227dd274bb0293f90f8d7259dbf8b5aa4b",
+    "summary": "In the eight months since becoming chair of the Federal Communications Commission, Brendan Carr has waged war against the free speech of those who have reported on, criticized, or satirized the president.",
+    "ingested_utc": "2025-09-20T09:50:03Z"
   },
   {
     "published_utc": "2025-09-19",
@@ -10976,27 +10998,5 @@
     "id_key": "1dc7dff65b2449445ac279aafc954554c22fe92cbd3de6cec86a503a854ad122",
     "summary": "Greg Abbott’s latest move fuels clash between US red states and blue-state shield laws protecting abortion care Greg Abbott , the Republican governor of Texas, on Wednesday signed into law a bill that lets people sue anyone suspected of manufacturing, distributing or mailing abortion pills to or from Texas . The first-of-its-kind law is almost certain to dramatically escalate the state-by-state showdown over abortion laws in the post Roe v Wade United States – especially as some out-of-state abortion providers have already vowed that they will continue shipping pills to Texans. “Our mantra as a practice is: ‘No anticipatory obedience’,” said Dr Angel Foster, co-founder of the Massachusetts Medication Abortion Access Project (Map), a Boston-area based group that uses telemedicine to ship abortion pills to patients across the United States. “We will continue to provide care until we are legally unable to do so in Massachusetts.” Continue reading...",
     "ingested_utc": "2025-09-18T14:12:00Z"
-  },
-  {
-    "published_utc": "2025-09-18",
-    "retrieved_date": "2025-09-18",
-    "retrieved_utc": "2025-09-18T14:11:58Z",
-    "source": "BBC_Technology",
-    "title": "Two teenagers charged over Transport for London cyber attack",
-    "url": "https://www.bbc.com/news/articles/c62z8k14kxxo?at_medium=RSS&at_campaign=rss",
-    "id_key": "83a01989b1d7ead8f85b5565498315af80f82250836516e7f7629e0f666d2d40",
-    "summary": "The police say the hack caused \"significant disruption\" and \"millions in losses\" for TfL.",
-    "ingested_utc": "2025-09-18T14:11:58Z"
-  },
-  {
-    "published_utc": "2025-09-18",
-    "retrieved_date": "2025-09-18",
-    "retrieved_utc": "2025-09-18T13:51:43Z",
-    "source": "FinancialPost_Business",
-    "title": "Oil Swings as Traders Weigh Mixed Signals From Fed, Stockpiles",
-    "url": "https://financialpost.com/pmn/business-pmn/oil-swings-as-traders-weigh-mixed-signals-from-fed-stockpiles",
-    "id_key": "181ae6d50902e7c7ab3ecabb6d07d3bf3ed810dfee1a30d3a7e258220f0146c7",
-    "summary": "Oil swung in a choppy session as traders assess the outlook for further Federal Reserve rate cuts and American inventories.",
-    "ingested_utc": "2025-09-18T13:51:43Z"
   }
 ]
