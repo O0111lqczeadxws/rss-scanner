@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-09-20",
     "retrieved_date": "2025-09-20",
+    "retrieved_utc": "2025-09-20T19:35:53Z",
+    "source": "Engadget_All",
+    "title": "xAI debuts a faster and more cost-effective version of Grok 4",
+    "url": "https://www.engadget.com/ai/xai-debuts-a-faster-and-more-cost-effective-version-of-grok-4-192815570.html?src=rss",
+    "id_key": "b3fc5cbddc654a7544050175e3c64508e93364e1dec89d474844f84b911c1af9",
+    "summary": "A few months after the release of Grok 4 and an extremely problematic antisemitic meltdown of its chatbot, xAI is already trying to move on with its latest AI model. Elon Musk's xAI announced the release of Grok 4 Fast , a faster, more efficient reasoning model compared to its recent predecessor. According to xAI, Grok 4 Fast offers similar performance to Grok 4 while using 40 percent fewer thinking tokens on average. Along with faster results, xAI said Grok 4 Fast \"results in a 98% reduction in price to achieve the same performance on frontier benchmarks as Grok 4,\" whether it's handling tasks that involve writing code or just browsing the web for quick responses. Similar to OpenAI's GPT-5 that alternates between a smart, efficient model and a deeper reasoning model, xAI's latest update includes a unified architecture that can transition between handling complex requests with its \"reasoning\" model and quick responses through its \"non-reasoning model.\" In tests on LMArena, a platform that pits AI models against each other and provides side-by-side comparisons, Grok 4 Fast ranks first in search-related tasks and eighth in text-related tasks. xAI made Grok 4 Fast available for all users, including the free ones, on web, iOS and Android. However, with how competitive the LLM race is getting, it's only a matter of time before Google releases the next-gen version of Gemini or Anthropic updates the Claude Opus model beyond the recently released 4.1 version. This article originally appeared on Engadget at https://www.engadget.com/ai/xai-debuts-a-faster-and-more-cost-effective-version-of-grok-4-192815570.html?src=rss",
+    "ingested_utc": "2025-09-20T19:35:53Z"
+  },
+  {
+    "published_utc": "2025-09-20",
+    "retrieved_date": "2025-09-20",
     "retrieved_utc": "2025-09-20T19:10:15Z",
     "source": "TechCrunch_All",
     "title": "Amazon, Google, Microsoft reportedly warn H-1B employees to stay in the US",
@@ -10987,16 +10998,5 @@
     "id_key": "f7fb468f5f77c5f58e7627c4dcf34b0aa527cdcab0a5695faf2d968c62948a7b",
     "summary": "",
     "ingested_utc": "2025-09-18T16:40:03Z"
-  },
-  {
-    "published_utc": "2025-09-18",
-    "retrieved_date": "2025-09-18",
-    "retrieved_utc": "2025-09-18T16:39:57Z",
-    "source": "FinancialPost_Business",
-    "title": "Newfoundlanders Support RCMP Members, Want Equitable RCMP Funding to Inform Their Vote",
-    "url": "https://financialpost.com/globe-newswire/newfoundlanders-support-rcmp-members-want-equitable-rcmp-funding-to-inform-their-vote",
-    "id_key": "b409eb0252866dfd22c699c0203b869eed7442c04bf1a60bc0cf64ff56253a5d",
-    "summary": "ST. JOHN’S, Newfoundland and Labrador, Sept. 18, 2025 (GLOBE NEWSWIRE) — The National Police Federation (NPF) today released fresh public opinion survey results highlighting strong and growing public support for RCMP Members in Newfoundland and Labrador. The results also show a call from residents for fair and equitable RCMP funding, as well as for any […]",
-    "ingested_utc": "2025-09-18T16:39:57Z"
   }
 ]
