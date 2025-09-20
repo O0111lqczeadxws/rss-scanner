@@ -354,6 +354,17 @@
   {
     "published_utc": "2025-09-19",
     "retrieved_date": "2025-09-20",
+    "retrieved_utc": "2025-09-20T04:15:58Z",
+    "source": "AlJazeera_All",
+    "title": "Estonia, NATO slam ‘brazen’ Russian air incursion, Moscow denies claim",
+    "url": "https://www.aljazeera.com/news/2025/9/19/estonia-says-russian-fighter-jets-entered-airspace-in-brazen-intrusion?traffic_source=rss",
+    "id_key": "73c23fe5b1fb7dd700451f21d1227e7c6f887c6c82ab7ac0aff06ebfbd33d13c",
+    "summary": "Estonia says three MiG-31 fighter jets entered its airspace without permission and stayed for a total of 12 minutes.",
+    "ingested_utc": "2025-09-20T04:15:58Z"
+  },
+  {
+    "published_utc": "2025-09-19",
+    "retrieved_date": "2025-09-20",
     "retrieved_utc": "2025-09-20T03:39:30Z",
     "source": "AlJazeera_All",
     "title": "Trump imposes $100,000 fee per year for H-1B visas",
@@ -10987,16 +10998,5 @@
     "id_key": "c06937a81e5a6442b2915c8feb8ee9484fe6089fba321b01e82359c30277958b",
     "summary": "NVIDIA has today announced it will invest $5 billion in Intel as part of a new collaboration between the two companies. In a statement, NVIDIA said it would work with its ailing rival to “jointly develop multiple generations of custom data center and PC products.” The partnership will focus on \"seamlessly integrating\" NVIDIA's class-leading GPUs and AI chips with Intel's ailing x86 CPUs. Some of that work will be based on harnessing NVLink, NVIDIA's existing system to marry-up x86 CPUs with its own silicon in big data center setups. And Intel will also be tasked with building “NVIDIA-custom x86 CPUs” for integration with the latter company’s AI products. More interestingly for consumers, however, is the news Intel will \"build\" what's being described as \"x86 system-on-chips (SOCs) that integrate NVIDIA RTX GPU chiplets.\" The quote says these \"RTX SOXs will power a wide range of PCs that demand integration of world-class CPUs and GPUs.\" Now, it's not clear if this means the end of Intel's in-house graphics silicon, or if they'll be built in Intel's own foundries. But the consequences of such a move could be wide-ranging if the focus is on broadening access to NVIDIA's high-end GPU technology. The statement includes personal remarks from both NVIDIA CEO Jensen Huang, who says the deal “tightly couples” Intel’s x86 CPUs with NVIDIA’s AI technology. Intel CEO Lip-Bu Tan , meanwhile, says the deal will combine its CPU know-how, its “process technology, manufacturing and advanced packaging capabilities” with NVIDIA’s. If we take that at face value, it could be that NVIDIA has opted to use Intel's foundry — chip manufacturing for third parties — business to build some of its own silicon. But given Intel has struggled to find customers for that business, and the repeated failure of its ability to build its own chips, we'll be interested in seeing how this all shakes out. Especially if NVIDIA, for far less than the cost of buying Intel outright, has essentially turned its former rival into a sales front for its own tech. Intel's leadership space in the chip world has been eroded over the last two decades as momentum shifted toward its rivals. It developed, and then passed on, the EUV manufacturing technology that enables the chips found in most smartphones and GPUs. It was given the opportunity to invest and collaborate with OpenAI back in 2017, but passed on that and therefore missed its shot with the AI Boom. And, of course, its own engineering momentum slowed as it became harder to make faster chips with its older processes while TSMC, who went all-in on EUV, scored a galaxy of blue chip clients like Apple, Qualcomm and NVIDIA. Intel then fired then-CEO Pat Gelsinger at the end of 2024, who was widely known as the only figure who would have been able to pull Intel back from the brink. Meanwhile, rivals like Qualcomm and ARM began circling in the hope of buying some or all of the company. And while Intel has seen its previously-healthy revenues fall, NVIDIA has seen record profits on the back of the AI boom. This article originally appeared on Engadget at https://www.engadget.com/computing/nvidia-throws-intel-a-5-billion-lifeline-to-build-pc-and-data-center-cpus-122030186.html?src=rss",
     "ingested_utc": "2025-09-18T13:05:04Z"
-  },
-  {
-    "published_utc": "2025-09-18",
-    "retrieved_date": "2025-09-18",
-    "retrieved_utc": "2025-09-18T13:05:02Z",
-    "source": "ArsTechnica_All",
-    "title": "Nissan axes the Ariya electric SUV from its model-year 2026 lineup",
-    "url": "https://arstechnica.com/cars/2025/09/nissan-axes-the-ariya-electric-suv-from-its-model-year-2026-lineup/",
-    "id_key": "612399557d0e95ed1f8eb6c748d9a515fedeb7c6469447398b553226fa6054f6",
-    "summary": "If you wanted an Ariya, you can blame the Trump tariffs for its cancellation.",
-    "ingested_utc": "2025-09-18T13:05:02Z"
   }
 ]
