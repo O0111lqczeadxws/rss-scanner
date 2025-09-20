@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-09-20",
     "retrieved_date": "2025-09-20",
+    "retrieved_utc": "2025-09-20T17:27:53Z",
+    "source": "TheStreet_Top",
+    "title": "Essential US manufacturing company files Chapter 11 bankruptcy",
+    "url": "https://www.thestreet.com/retail/company-critical-to-american-defense-files-chapter-11-bankruptcy",
+    "id_key": "241cd0821ed988a5c4d6837f10230e5d517db8648a511f7d77fd607c6be88619",
+    "summary": "An expert analyst shares why the company was forced into filing Chapter 11 bankruptcy.",
+    "ingested_utc": "2025-09-20T17:27:53Z"
+  },
+  {
+    "published_utc": "2025-09-20",
+    "retrieved_date": "2025-09-20",
+    "retrieved_utc": "2025-09-20T17:24:17Z",
+    "source": "Guardian_World",
+    "title": "Dutch police clash with anti-immigration protesters in The Hague",
+    "url": "https://www.theguardian.com/world/2025/sep/20/dutch-police-clash-with-anti-immigration-protesters-in-the-hague",
+    "id_key": "f651491b39d497a6cd5514f6236dd01de7f0b10a61e7fc405644fe491eee7cbc",
+    "summary": "Police use teargas and water cannon to disperse violent demonstrators who block highway and smash windows at centre-left D66 party’s HQ Dutch police have used teargas and a water cannon to disperse violent anti-immigration protesters in The Hague on Saturday, a local government spokesperson has said. Thousands of people joined a protest organised by a rightwing activist demanding stricter immigration policies and a clampdown on asylum seekers, just over a month before a national election. Continue reading...",
+    "ingested_utc": "2025-09-20T17:24:17Z"
+  },
+  {
+    "published_utc": "2025-09-20",
+    "retrieved_date": "2025-09-20",
     "retrieved_utc": "2025-09-20T17:11:42Z",
     "source": "FinancialPost_Business",
     "title": "ECB at ‘Good Equilibrium,’ No Need to Ease More, Stournaras Says",
@@ -10976,27 +10998,5 @@
     "id_key": "6410c63307f492f1ae9aa32add0e4169e1c06fea26a52d9d0f573814dac246a4",
     "summary": "After converting one of its biggest doubters, Nvidia inked an agreement that might change how AI power is used and safeguarded.",
     "ingested_utc": "2025-09-18T15:44:19Z"
-  },
-  {
-    "published_utc": "2025-09-18",
-    "retrieved_date": "2025-09-18",
-    "retrieved_utc": "2025-09-18T15:44:19Z",
-    "source": "AlJazeera_All",
-    "title": "Displaced Palestinians shelter at garbage dumps",
-    "url": "https://www.aljazeera.com/video/newsfeed/2025/9/18/displaced-palestinians-shelter-at-garbage-dumps?traffic_source=rss",
-    "id_key": "9a08384db4335b5cdbfe7f263aa59092a0d964483f39400933c3d6a5d17b3510",
-    "summary": "Displaced Palestinians are pitching tents on landfill sites where they are surrounded by garbage and disease.",
-    "ingested_utc": "2025-09-18T15:44:19Z"
-  },
-  {
-    "published_utc": "2025-09-18",
-    "retrieved_date": "2025-09-18",
-    "retrieved_utc": "2025-09-18T15:43:38Z",
-    "source": "NYTimes_World",
-    "title": "E.P.A. Keeps Polluters on the Hook to Clean Up ‘Forever Chemicals’",
-    "url": "https://www.nytimes.com/2025/09/18/climate/epa-pfas-forever-chemicals.html",
-    "id_key": "3503293f9e90065b7e34992d8848f8c86e223ace89196d96ebcad4e2b9f6f68f",
-    "summary": "The decision came despite an effort by a former industry lawyer who is now at the E.P.A. to reverse the regulation.",
-    "ingested_utc": "2025-09-18T15:43:38Z"
   }
 ]
