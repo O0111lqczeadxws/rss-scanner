@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-09-20",
     "retrieved_date": "2025-09-20",
+    "retrieved_utc": "2025-09-20T23:27:46Z",
+    "source": "AlJazeera_All",
+    "title": "Zelenskyy plans to meet Trump on sidelines of UN as Russia steps up attacks",
+    "url": "https://www.aljazeera.com/news/2025/9/20/zelenskyy-plans-to-meet-trump-on-sidelines-of-un-as-russia-steps-up-attacks?traffic_source=rss",
+    "id_key": "0ee99fa2787818403dc8532c097d40d6afcaf6e5d2e32b64368297067e2a524d",
+    "summary": "Kyiv in sanctions push as NATO states on Europe’s eastern flank take preventive action after Moscow's air incursions.",
+    "ingested_utc": "2025-09-20T23:27:46Z"
+  },
+  {
+    "published_utc": "2025-09-20",
+    "retrieved_date": "2025-09-20",
+    "retrieved_utc": "2025-09-20T23:27:11Z",
+    "source": "NPR_Top",
+    "title": "Man arrested after drive-by shooting at ABC TV station in Sacramento",
+    "url": "https://www.npr.org/2025/09/20/nx-s1-5548558/abc10-shooting-arrest",
+    "id_key": "45d90963024b0f01c62fd4f580cf20159efc5e35ad6fb0be560917d9d5895a42",
+    "summary": "At least three bullets were fired into the station, according to the Sacramento Police Department. Authorities are investigating a possible motive.",
+    "ingested_utc": "2025-09-20T23:27:11Z"
+  },
+  {
+    "published_utc": "2025-09-20",
+    "retrieved_date": "2025-09-20",
     "retrieved_utc": "2025-09-20T23:09:27Z",
     "source": "Guardian_World",
     "title": "Australia news live: Albanese arrives in New York; Optus pledges investigation into triple-zero deaths",
@@ -10976,27 +10998,5 @@
     "id_key": "a3a1a3396e8cd33795532d1f8ae6180085139c7a297bb406fa4c80e4b51c1b97",
     "summary": "Securities and Exchange Board clears conglomerate of fraud allegations included in 2023 report by US short seller",
     "ingested_utc": "2025-09-18T17:31:37Z"
-  },
-  {
-    "published_utc": "2025-09-18",
-    "retrieved_date": "2025-09-18",
-    "retrieved_utc": "2025-09-18T17:31:25Z",
-    "source": "NYTimes_Business",
-    "title": "What Jimmy Kimmel’s Suspension Says About the Trump Administration’s Crackdown Against Mainstream Media",
-    "url": "https://www.nytimes.com/2025/09/18/business/media/trump-kimmel-cancel-culture-free-speech.html",
-    "id_key": "e99562436bbcfa92bf070c72a2b03ad269d98c2b801607afb83f528af0f4ad03",
-    "summary": "ABC’s decision to “indefinitely” suspend Jimmy Kimmel’s late-night talk show illuminates the administration’s efficacy so far.",
-    "ingested_utc": "2025-09-18T17:31:25Z"
-  },
-  {
-    "published_utc": "2025-09-18",
-    "retrieved_date": "2025-09-18",
-    "retrieved_utc": "2025-09-18T17:29:21Z",
-    "source": "CryptoBriefing",
-    "title": "CryptoQuant reports record week for Bitcoin buying as long-term holdings surge",
-    "url": "https://cryptobriefing.com/cryptoquant-record-bitcoin-buying-long-term-holdings-2025/",
-    "id_key": "083a6f21158ee70b2185a006840fbb9d727375e0028eb349629d28652e6c3467",
-    "summary": "CryptoQuant reports Bitcoin accumulation wallets added 29,685 BTC worth $3.4B, the years second-largest inflow, lifting holdings to 2.84M. The post CryptoQuant reports record week for Bitcoin buying as long-term holdings surge appeared first on Crypto Briefing .",
-    "ingested_utc": "2025-09-18T17:29:21Z"
   }
 ]
