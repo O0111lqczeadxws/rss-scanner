@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-09-20",
     "retrieved_date": "2025-09-20",
+    "retrieved_utc": "2025-09-20T10:43:23Z",
+    "source": "TheStreet_Top",
+    "title": "Bankrupt fashion brand plots comeback with a twist",
+    "url": "https://www.thestreet.com/retail/bankrupt-fashion-brand-plots-comeback-with-a-twist",
+    "id_key": "f67da3d635e543d4d4471315b6b468998c7df28e34dab65b7622ed44066e62b2",
+    "summary": "Fast fashion's brick-and-mortar presence has been challenged over the last couple of years.",
+    "ingested_utc": "2025-09-20T10:43:23Z"
+  },
+  {
+    "published_utc": "2025-09-20",
+    "retrieved_date": "2025-09-20",
+    "retrieved_utc": "2025-09-20T10:40:35Z",
+    "source": "CryptoNews",
+    "title": "Michael Saylor Says Bitcoin May Go ‘Boring’ as Institutional Money Kills Volatility",
+    "url": "https://cryptonews.com/news/michael-saylor-says-bitcoin-may-go-boring-as-institutional-money-kills-volatility/",
+    "id_key": "704fac4a9ddd567d6dd32cc032af6ce200cf995d6899e7bb256b43b266707d6c",
+    "summary": "MicroStrategy's Michael Saylor warned that Bitcoin's growing institutional adoption could transform the volatile asset into a \"boring\" store of value as corporate treasuries reached a record 1.011 million BTC worth over $118 billion. The post Michael Saylor Says Bitcoin May Go ‘Boring’ as Institutional Money Kills Volatility appeared first on Cryptonews .",
+    "ingested_utc": "2025-09-20T10:40:35Z"
+  },
+  {
+    "published_utc": "2025-09-20",
+    "retrieved_date": "2025-09-20",
     "retrieved_utc": "2025-09-20T10:33:16Z",
     "source": "WIRED_All",
     "title": "Security News This Week: A Dangerous Worm Is Eating Its Way Through Software Packages",
@@ -10976,27 +10998,5 @@
     "id_key": "0b2a20c39e9b7f8fc77cb088b6992007b64bd80de27ad3eb511b478fb92dd11d",
     "summary": "If you plan to upgrade to one of Apple’s new models, don’t forget to cash in on your old one.",
     "ingested_utc": "2025-09-18T14:15:23Z"
-  },
-  {
-    "published_utc": "2025-09-18",
-    "retrieved_date": "2025-09-18",
-    "retrieved_utc": "2025-09-18T14:15:21Z",
-    "source": "TheVerge_All",
-    "title": "You can turn off iOS 26&#8217;s obtrusive new screenshot previews",
-    "url": "https://www.theverge.com/news/780921/apple-ios-26-iphone-screenshot-preview-disable-settings",
-    "id_key": "f39b07c0d75a5542156b714831e262a1063bc8d7d226513b0d5473fb7cd09a83",
-    "summary": "One of the many unpublicized changes introduced with the iOS 26 update released earlier this week is that screenshots now automatically open into a full-screen preview. The new approach provides immediate access to a handful of useful tools for editing a screenshot, but they now dominate your iPhone’s screen when captured, instead of shrinking into […]",
-    "ingested_utc": "2025-09-18T14:15:21Z"
-  },
-  {
-    "published_utc": "2025-09-18",
-    "retrieved_date": "2025-09-18",
-    "retrieved_utc": "2025-09-18T14:15:21Z",
-    "source": "TheVerge_All",
-    "title": "How chatbots — and their makers — are enabling AI psychosis",
-    "url": "https://www.theverge.com/podcast/779974/chatgpt-chatbots-ai-psychosis-mental-health",
-    "id_key": "b45beb92990e5ae5334763168f7a8225bc78fdbcb0c58f28ef662ea66d9434d7",
-    "summary": "The explosive growth of AI chatbots in the past three years, since ChatGPT launched in 2022, has started to have some really noticeable, profound, and honestly disturbing effects on some users. There’s a lot to unpack there — it can be pretty complicated. So I’m very excited to talk with today’s guest, New York Times […]",
-    "ingested_utc": "2025-09-18T14:15:21Z"
   }
 ]
