@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-09-21",
     "retrieved_date": "2025-09-21",
+    "retrieved_utc": "2025-09-21T13:50:29Z",
+    "source": "TheStreet_Top",
+    "title": "Walmart CEO shares customer trend McDonald's boss noticed too",
+    "url": "https://www.thestreet.com/retail/walmart-ceo-shares-customer-trend-mcdonalds-boss-noticed-too",
+    "id_key": "bebcbb270af1a96babd66bb13c718a88e1c913e7523f3f2923ba5172ccf246bd",
+    "summary": "Both McDonald's and Walmart have seen changes in customer behavior and are trying to find ways to meet their needs.",
+    "ingested_utc": "2025-09-21T13:50:29Z"
+  },
+  {
+    "published_utc": "2025-09-21",
+    "retrieved_date": "2025-09-21",
+    "retrieved_utc": "2025-09-21T13:49:48Z",
+    "source": "NYTimes_Business",
+    "title": "How Russia’s Sanctions Evasion Could Create Lasting Costs",
+    "url": "https://www.nytimes.com/2025/09/20/world/europe/russia-shadow-fleet-oil-sanctions-ukraine-war.html",
+    "id_key": "93145ae4ade9f6668d48202c80d75507957f50133ab04f9a9c888696406a329f",
+    "summary": "Restrictions have made it expensive for Moscow to ship oil by sea. They have also expanded the illicit shipping economy.",
+    "ingested_utc": "2025-09-21T13:49:48Z"
+  },
+  {
+    "published_utc": "2025-09-21",
+    "retrieved_date": "2025-09-21",
+    "retrieved_utc": "2025-09-21T13:49:31Z",
+    "source": "Guardian_World",
+    "title": "Publisher criticises Reform council’s ‘Trumpian’ boycott of Nottingham Post",
+    "url": "https://www.theguardian.com/media/2025/sep/21/reform-council-trumpian-boycott-nottingham-post",
+    "id_key": "ab27ff5b722db3683aa232c7c99533782da0c5c003d30e3f89314cbf772114fb",
+    "summary": "Reach’s chief content officer says issue is part of a national trend that goes wider than the party The publisher of the Nottingham Post has spoken of an “increasingly Trumpian approach” to the media creeping into British politics, amid a Reform-led council’s continuing ban against the title. The 150-year-old paper, as well as its website, Nottinghamshire Live, have been prevented from speaking to Reform’s Nottingham county council leader, Mick Barton, while he has also prevented the titles from receiving updates and press releases. Continue reading...",
+    "ingested_utc": "2025-09-21T13:49:31Z"
+  },
+  {
+    "published_utc": "2025-09-21",
+    "retrieved_date": "2025-09-21",
     "retrieved_utc": "2025-09-21T13:35:33Z",
     "source": "Guardian_World",
     "title": "UK, Canada and Australia formally recognise Palestinian state - UK politics live",
@@ -10965,38 +10998,5 @@
     "id_key": "6500dddf0f6f8e09bdd04bf8ba7a61ad77fc8d91428dc89dbb820ff6650f1b10",
     "summary": "NOT FOR DISTRIBUTION TO U.S. NEWSWIRE SERVICES OR FOR DISSEMINATION IN THE UNITED STATES OF AMERICA TORONTO, Sept. 18, 2025 (GLOBE NEWSWIRE) — Allied Properties Real Estate Investment Trust (“Allied”) (TSX:AP.UN) announced today that it has agreed to offer, on a private placement basis in each of the provinces and territories of Canada (the “Offering”), $450 […]",
     "ingested_utc": "2025-09-18T21:12:50Z"
-  },
-  {
-    "published_utc": "2025-09-18",
-    "retrieved_date": "2025-09-18",
-    "retrieved_utc": "2025-09-18T21:12:43Z",
-    "source": "AlJazeera_All",
-    "title": "US vetoes another Gaza ceasefire resolution at UN Security Council",
-    "url": "https://www.aljazeera.com/video/newsfeed/2025/9/18/us-vetoes-another-gaza-ceasefire-resolution-at-un-security-council?traffic_source=rss",
-    "id_key": "71b29a06d681bac7e0bd95094e7ff3b4bb280b1771b0afb91eb9642ff988f271",
-    "summary": "The United States again vetoed a UN Security Council resolution calling for a ceasefire in Gaza.",
-    "ingested_utc": "2025-09-18T21:12:43Z"
-  },
-  {
-    "published_utc": "2025-09-18",
-    "retrieved_date": "2025-09-18",
-    "retrieved_utc": "2025-09-18T21:12:11Z",
-    "source": "NPR_Business",
-    "title": "Expect beef prices to keep rising for a while",
-    "url": "https://www.npr.org/2025/09/18/nx-s1-5543251/expect-beef-prices-to-keep-rising-for-a-while",
-    "id_key": "d83a3963314d14a92ddd8367702f4ec8ceebc100319b5211226ef0beda6d1cc7",
-    "summary": "Rising feed prices, drought and parasites have squeezed cattle farmers, driving up beef prices. But there's also the underlying cycle of prices because of the time it takes to raise a cow.",
-    "ingested_utc": "2025-09-18T21:12:11Z"
-  },
-  {
-    "published_utc": "2025-09-18",
-    "retrieved_date": "2025-09-18",
-    "retrieved_utc": "2025-09-18T21:10:07Z",
-    "source": "CryptoNews",
-    "title": "Dogecoin Jumps 8% as First U.S. DOGE ETF Doubles Forecast With $6M Debut",
-    "url": "https://cryptonews.com/news/dogecoin-jumps-8-as-first-u-s-doge-etf-doubles-forecast-with-6m-debut/",
-    "id_key": "5ff039bd8a1dd106d61e44bd23b6de4fcaa6ac28e9b1b70e6006424cde1e30d7",
-    "summary": "The first U.S. DOGE ETF has launched on the Cboe BZX exchange, recording nearly $6 million in first-hour volume and doubling analyst estimates. The post Dogecoin Jumps 8% as First U.S. DOGE ETF Doubles Forecast With $6M Debut appeared first on Cryptonews .",
-    "ingested_utc": "2025-09-18T21:10:07Z"
   }
 ]
