@@ -9550,6 +9550,17 @@
   {
     "published_utc": "2025-09-18",
     "retrieved_date": "2025-09-21",
+    "retrieved_utc": "2025-09-21T09:51:05Z",
+    "source": "HackerNews_Top",
+    "title": "Mesda Craftsman Database",
+    "url": "http://test0.dlibrary.org/en/nodes/4066-craftsman-database",
+    "id_key": "4e97d38d052e6bc4c4a0f8fbf6cdb649f100e6abae8cb65910b2cdc1f6296763",
+    "summary": "Comments",
+    "ingested_utc": "2025-09-21T09:51:05Z"
+  },
+  {
+    "published_utc": "2025-09-18",
+    "retrieved_date": "2025-09-21",
     "retrieved_utc": "2025-09-21T03:29:40Z",
     "source": "HackerNews_Top",
     "title": "Were RNNs all we needed? A GPU programming perspective",
@@ -10987,16 +10998,5 @@
     "id_key": "4db399dc773997be41067a6d1e24e04555958f6c6dc2692f89ff52f32e22e0a2",
     "summary": "Artists from abroad are worried that the current climate is making American tours not worth the time and effort.",
     "ingested_utc": "2025-09-18T19:36:33Z"
-  },
-  {
-    "published_utc": "2025-09-18",
-    "retrieved_date": "2025-09-18",
-    "retrieved_utc": "2025-09-18T19:26:01Z",
-    "source": "AlJazeera_All",
-    "title": "Colombian court ruling sentences 12 ex-military officers",
-    "url": "https://www.aljazeera.com/news/2025/9/18/colombian-court-ruling-sentences-12-ex-military-officers?traffic_source=rss",
-    "id_key": "4a0289f12a03239704de02d104aed5c54e376a49d0bb6cc8e89985554346d236",
-    "summary": "Special court delivered its first sentences against state security forces in Colombia's decades-long war.",
-    "ingested_utc": "2025-09-18T19:26:01Z"
   }
 ]
