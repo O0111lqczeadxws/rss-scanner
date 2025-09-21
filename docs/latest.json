@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-09-21",
     "retrieved_date": "2025-09-21",
+    "retrieved_utc": "2025-09-21T05:43:22Z",
+    "source": "HackerNews_Top",
+    "title": "Spectral Labs releases SGS-1: the first generative model for structured CAD",
+    "url": "https://www.spectrallabs.ai/research/SGS-1",
+    "id_key": "49c490325e6c8d4eb87b3a1908bdcb99b28a2ff7d9d82f226a0f17de7861fb0d",
+    "summary": "Comments",
+    "ingested_utc": "2025-09-21T05:43:22Z"
+  },
+  {
+    "published_utc": "2025-09-21",
+    "retrieved_date": "2025-09-21",
+    "retrieved_utc": "2025-09-21T05:42:53Z",
+    "source": "AlJazeera_All",
+    "title": "Iran says it will suspend cooperation with UN’s nuclear watchdog",
+    "url": "https://www.aljazeera.com/news/2025/9/21/iran-says-e3-move-to-trigger-sanctions-will-halt-cooperation-with-iaea?traffic_source=rss",
+    "id_key": "6402acf48e35058e168fd5bcebf7c26a6018e9c73daffa0e6c942588823d562e",
+    "summary": "President Masoud Pezeshkian also says Tehran will 'overcome obstacles' if wide-ranging UN sanctions are reimposed.",
+    "ingested_utc": "2025-09-21T05:42:53Z"
+  },
+  {
+    "published_utc": "2025-09-21",
+    "retrieved_date": "2025-09-21",
     "retrieved_utc": "2025-09-21T05:29:31Z",
     "source": "Guardian_World",
     "title": "Australia news live: Optus CEO speaks to media about network outage; baby dies in horror crash on side of Queensland freeway",
@@ -10976,27 +10998,5 @@
     "id_key": "23088827df435c7006a68398af3c4a9ef7f2a0091f170e0e26566d0f97296a3e",
     "summary": "As Telegram trading bot Snorter Bot Token (SNORT) nears $4 million in presale funding, the project has also rolled out major ecosystem updates that strengthen its position as a serious competitor to existing Telegram bots.Snorter is Solana-native by design, which gives it faster speeds and lower transaction costs than Ethereum-based rivals that remain weighed down […] The post Snorter Bot Token Nears $4M in ICO as Major Ecosystem Updates Roll Out appeared first on Cryptonews .",
     "ingested_utc": "2025-09-18T18:46:20Z"
-  },
-  {
-    "published_utc": "2025-09-18",
-    "retrieved_date": "2025-09-18",
-    "retrieved_utc": "2025-09-18T18:46:18Z",
-    "source": "Protos",
-    "title": "Does Michael Saylor even understand Bitcoin Core vs. Knots?",
-    "url": "https://protos.com/does-michael-saylor-even-understand-bitcoin-core-vs-knots/",
-    "id_key": "ea39c85d312d995225f40e37837d7dd91c66448933e0aa73c2a7f85ff5c330fa",
-    "summary": "Bitcoin Treasuries NYC Unconference attendees hoped for a better answer from Michael Saylor about the ongoing Core vs. Knots debate. The post Does Michael Saylor even understand Bitcoin Core vs. Knots? appeared first on Protos .",
-    "ingested_utc": "2025-09-18T18:46:18Z"
-  },
-  {
-    "published_utc": "2025-09-18",
-    "retrieved_date": "2025-09-18",
-    "retrieved_utc": "2025-09-18T18:46:17Z",
-    "source": "CryptoSlate",
-    "title": "Crypto whale loses $6M to sneaky phishing scheme targeting staked Ethereum",
-    "url": "https://cryptoslate.com/crypto-whale-loses-6m-to-sneaky-phishing-scheme-targeting-staked-ethereum/",
-    "id_key": "bdd838e9e206ee1eca5a3380166ae286db31691877bc2e71c2ccdbb54490074b",
-    "summary": "A crypto whale lost more than $6 million in staked Ethereum (stETH) and Aave-wrapped Bitcoin (aEthWBTC) after approving malicious signatures in a phishing scheme on Sept. 18, according to blockchain security firm Scam Sniffer. According to the firm, the attackers disguised their move as a routine wallet confirmation through “Permit” signatures, which tricked the victim […] The post Crypto whale loses $6M to sneaky phishing scheme targeting staked Ethereum appeared first on CryptoSlate .",
-    "ingested_utc": "2025-09-18T18:46:17Z"
   }
 ]
