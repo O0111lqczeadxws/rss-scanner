@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-09-21",
     "retrieved_date": "2025-09-21",
+    "retrieved_utc": "2025-09-21T08:34:02Z",
+    "source": "NYTimes_World",
+    "title": "A Polish Soldier, an Unusual Radar Dot and Then NATO Jets",
+    "url": "https://www.nytimes.com/2025/09/20/world/europe/poland-drones-russia-nato.html",
+    "id_key": "33340cfd711b056f9c6e082fd80537e32798725067f79d630cc3eed785bc521d",
+    "summary": "After Russian drones entered Poland, the country scrambled to shoot them down. Western officials concluded that the incursion was to probe their defenses.",
+    "ingested_utc": "2025-09-21T08:34:02Z"
+  },
+  {
+    "published_utc": "2025-09-21",
+    "retrieved_date": "2025-09-21",
     "retrieved_utc": "2025-09-21T08:15:30Z",
     "source": "AlJazeera_All",
     "title": "UK PM Starmer to recognise Palestinian statehood before UNGA meeting",
@@ -10987,16 +10998,5 @@
     "id_key": "438df05d61e5bbab2d91f6f4879ae96a3d4abb724ff97a8c49e02bef33d4a3ef",
     "summary": "Microsoft's Gaming Copilot AI assistant is officially coming to Windows PCs and the Xbox mobile app. The company has been testing the tool for PCs with Xbox Insiders , but now it's getting a broader rollout. To that end, it'll be available to players aged 18 and older on the PC Game Bar. The Xbox app version rolls out this October, for both Android and iOS, after a beta test took place earlier this year . Microsoft says that its Gaming Copilot will be available throughout the globe, except in mainland China. So what exactly is this thing? It's sort of like an AI version of those old Nintendo help phone lines. The chat box appears as an overlay on the screen and players can use it to ask questions or to get tips about a game. The company says it \"knows what you're playing and understands your Xbox activity,\" as it uses in-game screenshots. It can also answer questions about an Xbox account and offer recommendations on stuff to buy. The official version also offers voice chat, so you can just ask the questions out loud. On PC, there's a \"Push to Talk\" hotkey that activates the bot, which is handy. The app includes a microphone button. There's a widget for the PC build that can be placed anywhere on the screen. This is useful for longer conversations. With Copilot for Gaming, you can jump back into games faster, get real-time coaching, and stay connected... all on your own terms. Excited for what the team has in store! pic.twitter.com/18Ll2D25i1 — Satya Nadella (@satyanadella) March 13, 2025 Microsoft is still tinkering with this software and urges feedback from users as they \"continue to develop Gaming Copilopt and make it even more helpful for players' needs and preferences.\" The company has been testing the system on Windows-based portable consoles, and it did recently announce the pending availability of its own Xbox Ally handheld gaming machines . It's likely that the software will get an official rollout for those consoles some time after they launch on October 16. This article originally appeared on Engadget at https://www.engadget.com/ai/microsofts-gaming-copilot-ai-assistant-is-coming-to-windows-pcs-and-the-xbox-mobile-app-185452965.html?src=rss",
     "ingested_utc": "2025-09-18T19:12:05Z"
-  },
-  {
-    "published_utc": "2025-09-18",
-    "retrieved_date": "2025-09-18",
-    "retrieved_utc": "2025-09-18T19:12:01Z",
-    "source": "TheVerge_All",
-    "title": "Ubiquiti’s new desktop NAS looks more like a wireless router",
-    "url": "https://www.theverge.com/news/781433/ubiquiti-nas-unas-2-4-raid-backup",
-    "id_key": "831f8c6b95ca8bbd6288b5e84c8af2bceecc23138779cde43dab3f7fc111d155",
-    "summary": "Ubiquiti has announced a collection of new storage solutions compatible with its UniFi lineup of networking devices that already includes routers, switches, and security cameras. Compared to other desktop network attached storage (NAS) solutions from companies like Synology and Ugreen, Ubiquiti’s UNAS 2 and UNAS 4 look more like sleek wireless routers than storage solutions […]",
-    "ingested_utc": "2025-09-18T19:12:01Z"
   }
 ]
