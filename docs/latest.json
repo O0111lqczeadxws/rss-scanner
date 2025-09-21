@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-09-21",
     "retrieved_date": "2025-09-21",
+    "retrieved_utc": "2025-09-21T11:35:50Z",
+    "source": "NYTimes_World",
+    "title": "Israel Keeps Border Crossing to Jordan Closed After Attack",
+    "url": "https://www.nytimes.com/2025/09/21/world/middleeast/israel-jordan-allenby-crossing.html",
+    "id_key": "f2ee6634639ea5fba054dc4370395e4d45e7ff48c6a42351441a48e578ceb930",
+    "summary": "The Allenby Bridge border crossing is the main gateway for Palestinians to leave the Israeli-occupied West Bank.",
+    "ingested_utc": "2025-09-21T11:35:50Z"
+  },
+  {
+    "published_utc": "2025-09-21",
+    "retrieved_date": "2025-09-21",
     "retrieved_utc": "2025-09-21T11:22:21Z",
     "source": "Guardian_World",
     "title": "Delays continue at Heathrow, Brussels and Berlin airports after alleged cyber-attack",
@@ -10987,16 +10998,5 @@
     "id_key": "484b892c76dc0583d47bee882310bb0dc6375599f4f63dd9470472575db06f28",
     "summary": "Today, the CEO of Hyundai sought to distance his company from the Immigration and Customs Enforcement raid earlier this month at the company’s battery factory in Georgia, which resulted in the arrest of hundreds of South Korean workers. The factory is operated by LG Energy Solutions, and most of the workers that were detained were […]",
     "ingested_utc": "2025-09-18T20:15:15Z"
-  },
-  {
-    "published_utc": "2025-09-18",
-    "retrieved_date": "2025-09-18",
-    "retrieved_utc": "2025-09-18T20:14:48Z",
-    "source": "NYTimes_World",
-    "title": "At U.K. Leader’s Country House, Trump’s State Visit Gets a Little More Political",
-    "url": "https://www.nytimes.com/2025/09/17/world/europe/trump-uk-state-visit-photos.html",
-    "id_key": "fb890008f8fa20a28bd4e8efd9dc037747ae51e0711d403b94b8f3fd09cc113a",
-    "summary": "Photographs of the pomp and spectacle of the U.S. president’s second state visit to Britain.",
-    "ingested_utc": "2025-09-18T20:14:48Z"
   }
 ]
