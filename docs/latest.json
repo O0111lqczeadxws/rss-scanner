@@ -530,6 +530,17 @@
   {
     "published_utc": "2025-09-20",
     "retrieved_date": "2025-09-21",
+    "retrieved_utc": "2025-09-21T07:09:15Z",
+    "source": "Guardian_World",
+    "title": "US Republicans warn Australia of ‘punitive measures’ over recognition of Palestinian state",
+    "url": "https://www.theguardian.com/world/2025/sep/21/republicans-warn-australia-of-punitive-measures-over-recognition-of-palestinian-state",
+    "id_key": "5f527039f72ca7dede5aada5836182c911b910e66d1f573d6b9456ddabf0eb88",
+    "summary": "Donald Trump allies, including Ted Cruz, pen letter warning Anthony Albanese against ‘reckless policy’ Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Anthony Albanese says he will push for improved global peace and security during meetings with world leaders this week, as allies of Donald Trump warn Australia’s recognition of Palestine could spark “punitive measures” from the US. Albanese arrived in New York on Sunday morning, Australian time, ahead of the UN general assembly and his possible first meeting with the US president . Continue reading...",
+    "ingested_utc": "2025-09-21T07:09:15Z"
+  },
+  {
+    "published_utc": "2025-09-20",
+    "retrieved_date": "2025-09-21",
     "retrieved_utc": "2025-09-21T00:54:42Z",
     "source": "BBC_World",
     "title": "'No sugar-coated cinema for me': Indian director who scripted history at Venice",
@@ -10987,16 +10998,5 @@
     "id_key": "c86a0c00e657772000f2bf7986f012660999b8b7a4969f1f5cc732aa886a9b80",
     "summary": "Deals worth £150bn ‘delighted’ Sir Keir Starmer but more details are needed on the commitments",
     "ingested_utc": "2025-09-18T18:48:36Z"
-  },
-  {
-    "published_utc": "2025-09-18",
-    "retrieved_date": "2025-09-18",
-    "retrieved_utc": "2025-09-18T18:48:33Z",
-    "source": "NPR_Business",
-    "title": "What does the Google antitrust ruling mean for the future of AI?",
-    "url": "https://www.npr.org/2025/09/18/nx-s1-5539869/google-antitrust-ruling-future-of-ai",
-    "id_key": "dcd890466c3f2327d546dcdef5aaa0b7ff71cd0e6d58402828356d8cbb99a5e4",
-    "summary": "A federal judge's mild ruling in the Justice Department's suit over Google's search engine monopoly has critics worried that the tech giant can now monopolize artificial intelligence.",
-    "ingested_utc": "2025-09-18T18:48:33Z"
   }
 ]
