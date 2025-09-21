@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-09-21",
     "retrieved_date": "2025-09-21",
+    "retrieved_utc": "2025-09-21T03:26:37Z",
+    "source": "CryptoBriefing",
+    "title": "Aster’s 24-hour DEX perpetual volume on Hyperliquid exceeds $700M",
+    "url": "https://cryptobriefing.com/asters-24h-perpetual-dex-volume-surpasses-700m-on-hyperliquid/",
+    "id_key": "e895104282ebcef747b8c449d0484ab67472190eb3c09e90a94e3890c52b6ea6",
+    "summary": "Aster's milestone highlights the growing institutional and retail interest in crypto derivatives, signaling a shift towards decentralized finance. The post Aster’s 24-hour DEX perpetual volume on Hyperliquid exceeds $700M appeared first on Crypto Briefing .",
+    "ingested_utc": "2025-09-21T03:26:37Z"
+  },
+  {
+    "published_utc": "2025-09-21",
+    "retrieved_date": "2025-09-21",
+    "retrieved_utc": "2025-09-21T03:26:17Z",
+    "source": "Guardian_World",
+    "title": "Australia news live: Optus CEO to speak to media about network outage; baby dies in horror crash on side of Queensland freeway",
+    "url": "https://www.theguardian.com/australia-news/live/2025/sep/21/australia-news-live-anthony-albanese-donald-trump-new-york-sunday-ntwnfb",
+    "id_key": "0e8c1bdd499ae653b3573ce6190d533812d4b971f1b3887c130499d0d5bbbd41",
+    "summary": "Stephen Rue will provide an update after Optus’s outage and the failure to connect triple-zero calls. Follow today’s news live Get our breaking news email , free app or daily news podcast Low tariffs not dependent on sit-down meeting with Trump, Bowen says On the potential for a meeting between Anthony Albanese and Donald Trump , Bowen has poured cold water on whether any charm offensive by the Australian PM might have turned the US from its present course. There are plenty of world leaders who have met with Donald Trump who haven’t had good outcomes, who have got very high tariffs. Who have come over, had meetings, left optimistic and then they’ve got high tariffs. The way Anthony Albanese has managed the relationship, we have the world’s lowest tariff on Australia. Results matter, David. Of course, the prime minister has made it clear he’s very happy to meet, but results matter. And this prime minister and this foreign minister and this government have delivered pretty good results when it comes to the bilateral relationship. It’s not my place to announce these things, David. I’m a humble cabinet minister. Of course a meeting with the president is always a good thing. But I’ll tell you what’s even more important is results. I’d much rather Anthony Albanese get a great result for our economy with the world’s lowest tariff without a meeting, than to have a meeting and get the opposite result, which is what many other world leaders have found themselves in that situation. Well, we obviously have set Australia’s foreign policy based on our interests and our values. And while everyone is entitled to their views, we will determine Australian foreign policy, not anyone else. And we’ve determined a couple of things – that the time is right, in concert, as you said, with like-minded states. We have been waiting 80 years for a two-state solution, and that we now see recognising Palestine as a step towards a two-state solution, not the result of negotiations. Continue reading...",
+    "ingested_utc": "2025-09-21T03:26:17Z"
+  },
+  {
+    "published_utc": "2025-09-21",
+    "retrieved_date": "2025-09-21",
     "retrieved_utc": "2025-09-21T02:29:24Z",
     "source": "Nikkei_Asia_Top",
     "title": "Mitsubishi overcomes lower budget to notch rally win over Toyota",
@@ -9021,6 +9043,17 @@
   },
   {
     "published_utc": "2025-09-18",
+    "retrieved_date": "2025-09-21",
+    "retrieved_utc": "2025-09-21T03:29:40Z",
+    "source": "HackerNews_Top",
+    "title": "Were RNNs all we needed? A GPU programming perspective",
+    "url": "https://dhruvmsheth.github.io/projects/gpu_pogramming_curnn/",
+    "id_key": "58de45410ad447a104ee2e0f8635883728c9741fbc179d29a00dd8943fcba60d",
+    "summary": "Comments",
+    "ingested_utc": "2025-09-21T03:29:40Z"
+  },
+  {
+    "published_utc": "2025-09-18",
     "retrieved_date": "2025-09-20",
     "retrieved_utc": "2025-09-20T17:36:22Z",
     "source": "HackerNews_Top",
@@ -10965,38 +10998,5 @@
     "id_key": "951c6a07b328ffd3f1b5ea0d896a4f4beccb619ed18b827ec0196ad53fd35ed3",
     "summary": "Nvidia has agreed to invest $5 billion in Intel as part of a broader deal to together develop \"multiple generations\" of data center and PC products. Nvidia will buy Intel stock.",
     "ingested_utc": "2025-09-18T18:18:59Z"
-  },
-  {
-    "published_utc": "2025-09-18",
-    "retrieved_date": "2025-09-18",
-    "retrieved_utc": "2025-09-18T18:18:58Z",
-    "source": "TheVerge_All",
-    "title": "Meta is opening up its smart glasses to developers",
-    "url": "https://www.theverge.com/news/780943/meta-smart-glasses-developer-toolkit-ray-ban-display",
-    "id_key": "dfd49902cf733027fab229a688fbf96f8822f526e4cf08a59584244698b02cfd",
-    "summary": "Meta is going to let apps access the vision and audio capabilities of its smart glasses thanks to a new Wearable Device Access Toolkit for developers. “Our first version of the toolkit will open up access to a suite of on-device sensors— empowering you to start building features within your mobile apps that leverage the […]",
-    "ingested_utc": "2025-09-18T18:18:58Z"
-  },
-  {
-    "published_utc": "2025-09-18",
-    "retrieved_date": "2025-09-18",
-    "retrieved_utc": "2025-09-18T18:18:58Z",
-    "source": "TheVerge_All",
-    "title": "Notion’s new AI Agents will basically do your job for you",
-    "url": "https://www.theverge.com/news/781293/notion-ai-agent-do-your-job",
-    "id_key": "772d6869ae57d3323761eb65723286acb3b467725d6ab7faa32c29d9b53194c8",
-    "summary": "Notion has entered the agent era of its AI evolution with the launch of the Notion Agent on Thursday. The announcement forms the bulk of the Notion 3.0 roll out available to all users. The company calls the new product a “teammate and Notion super user” that “can do everything a human can do in […]",
-    "ingested_utc": "2025-09-18T18:18:58Z"
-  },
-  {
-    "published_utc": "2025-09-18",
-    "retrieved_date": "2025-09-18",
-    "retrieved_utc": "2025-09-18T18:18:42Z",
-    "source": "FT_Home",
-    "title": "Trump says Afghanistan’s Bagram air base should be returned to US control",
-    "url": "https://www.ft.com/content/965290cc-cea0-409d-85ff-890d02bb22e3",
-    "id_key": "0247c8ceec86aa39324bd02d45d08a433e06a68f06421c707ae399838234869e",
-    "summary": "President says site is strategic due to its proximity to China",
-    "ingested_utc": "2025-09-18T18:18:42Z"
   }
 ]
