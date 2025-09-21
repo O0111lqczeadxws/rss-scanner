@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-09-21",
     "retrieved_date": "2025-09-21",
+    "retrieved_utc": "2025-09-21T23:36:19Z",
+    "source": "HackerNews_Top",
+    "title": "Zig got a new ELF linker – and it's FAST",
+    "url": "https://github.com/ziglang/zig/pull/25299",
+    "id_key": "0d4ef8fe9885f53d534c35863cf0a08938864c4cca6d4354a78ec61912f4b33a",
+    "summary": "Comments",
+    "ingested_utc": "2025-09-21T23:36:19Z"
+  },
+  {
+    "published_utc": "2025-09-21",
+    "retrieved_date": "2025-09-21",
+    "retrieved_utc": "2025-09-21T23:35:25Z",
+    "source": "NPR_Top",
+    "title": "Trump calls Charlie Kirk 'martyr now for American freedom' at memorial service",
+    "url": "https://www.npr.org/2025/09/21/nx-s1-5545613/charlie-kirk-funeral",
+    "id_key": "371d45ddb33bd23e20804e39ac053e9363972dafde9d2c51e16040f859a6cebf",
+    "summary": "At a service focused on Kirk's conservative Christian faith, President Trump described the late 31-year-old as the \"greatest evangelist for American liberty\" as Kirk's widow forgave the alleged gunman.",
+    "ingested_utc": "2025-09-21T23:35:25Z"
+  },
+  {
+    "published_utc": "2025-09-21",
+    "retrieved_date": "2025-09-21",
+    "retrieved_utc": "2025-09-21T23:32:58Z",
+    "source": "Guardian_World",
+    "title": "Charlie Kirk funeral mixes rally and revival as mourners vow to spread Maga message",
+    "url": "https://www.theguardian.com/us-news/2025/sep/21/charlie-kirk-memorial-arizona-dispatch",
+    "id_key": "94d46ce908858aaf5e6c6f81de057cc87d69cc808b25a2bf1e01365d5f60c561",
+    "summary": "Emotions were raw as service began with Christian worship songs – and ended with a political speech from the president Hours before sunrise in the desert, tens of thousands of mourners snaked through the Valley toward the State Farm stadium in Glendale, Arizona – where the conservative activist Charlie Kirk was lionized as a “prophet” for the streaming era and a defender of free speech, martyred in the line of duty. The memorial was part spiritual revival and part political rally, with the program that included Donald Trump and prominent members of the president’s Make America Great Again (Maga) movement. Mourners obliged the red, white and blue “Sunday best” dress code request, filling the at-capacity domed stadium with stars, stripes and Maga hats. Continue reading...",
+    "ingested_utc": "2025-09-21T23:32:58Z"
+  },
+  {
+    "published_utc": "2025-09-21",
+    "retrieved_date": "2025-09-21",
     "retrieved_utc": "2025-09-21T23:11:55Z",
     "source": "NPR_Top",
     "title": "Trump says Charlie Kirk is 'a martyr now for American freedom' at memorial service",
@@ -10964,39 +10997,6 @@
     "url": "https://financialpost.com/pmn/business-pmn/catls-stock-touted-as-cheap-even-after-a-110-billion-rally",
     "id_key": "af62bc0ad6ca85ebf73b2995bfed3a66292281d8e9b177f702b1c57aa2c461b1",
     "summary": "Cheap isn’t an adjective one would typically associate with a stock that’s nearly doubled in a matter of months. But that’s exactly how some investors are describing Contemporary Amperex Technology Co. Ltd.",
-    "ingested_utc": "2025-09-19T00:54:38Z"
-  },
-  {
-    "published_utc": "2025-09-19",
-    "retrieved_date": "2025-09-19",
-    "retrieved_utc": "2025-09-19T00:54:38Z",
-    "source": "FinancialPost_Business",
-    "title": "3 members of federal control board in Puerto Rico sue Trump and others for illegal firings",
-    "url": "https://financialpost.com/pmn/3-members-of-federal-control-board-in-puerto-rico-sue-trump-and-others-for-illegal-firings",
-    "id_key": "c5117bf40d4bf1ceab1b98707a3292b9f06b1e5e7e7ef664815a279c966da2ca",
-    "summary": "SAN JUAN, Puerto Rico (AP) — Three members of a federal control board overseeing Puerto Rico’s finances, who were recently fired by the administration of U.S. President Donald Trump, filed a lawsuit in federal court on Thursday alleging their firings were illegal. The lawsuit was filed against Trump; Sergio Gor, director of the White House […]",
-    "ingested_utc": "2025-09-19T00:54:38Z"
-  },
-  {
-    "published_utc": "2025-09-19",
-    "retrieved_date": "2025-09-19",
-    "retrieved_utc": "2025-09-19T00:54:38Z",
-    "source": "FinancialPost_Business",
-    "title": "Perseus secures approvals for underground mining at Yaoure",
-    "url": "https://financialpost.com/globe-newswire/perseus-secures-approvals-for-underground-mining-at-yaoure",
-    "id_key": "131fce250fdd7882a63e28be61f52cafe247fca3d34fe176d7bfe0260f0433c7",
-    "summary": "Perth, Western Australia, Sept. 19, 2025 (GLOBE NEWSWIRE) — PERSEUS MINING SECURES APPROVALS FOR UNDERGROUND DEVELOPMENT AND MINING OPERATIONS AT YAOURÉ Perseus Mining Limited (ASX/TSX: PRU) wishes to advise that a Presidential Decree authorising the development and operation of the CMA underground project at Perseus’s Yaouré Gold Mine in central Côte d’Ivoire, was granted on […]",
-    "ingested_utc": "2025-09-19T00:54:38Z"
-  },
-  {
-    "published_utc": "2025-09-19",
-    "retrieved_date": "2025-09-19",
-    "retrieved_utc": "2025-09-19T00:54:38Z",
-    "source": "FinancialPost_Business",
-    "title": "Gold Reserve Provides Update on Court Decision in CITGO Sale Process",
-    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/gold-reserve-provides-update-on-court-decision-in-citgo-sale-process",
-    "id_key": "12cc5eee24dcba9660e78f0ccf25459d29cbb70307abd6e911c2aa18a309de7d",
-    "summary": "PEMBROKE, Bermuda — Gold Reserve Ltd. (TSX.V: GRZ) (BSX: GRZ.BH) (OTCQX: GDRZF) (“Gold Reserve” or the “Company”) announces that on September 18, 2025, Judge Leonard Stark of the U.S. District Court for the District of Delaware (“Judge Stark”) issued a decision denying Gold Reserve’s Motion to Strike the Special Master’s Notice of Superior Proposal and […]",
     "ingested_utc": "2025-09-19T00:54:38Z"
   }
 ]
