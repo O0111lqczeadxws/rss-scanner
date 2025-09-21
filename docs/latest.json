@@ -9627,6 +9627,17 @@
   {
     "published_utc": "2025-09-18",
     "retrieved_date": "2025-09-21",
+    "retrieved_utc": "2025-09-21T10:42:22Z",
+    "source": "HackerNews_Top",
+    "title": "Ask HN: How were graphics card drivers programmed back in the 90s?",
+    "url": "https://news.ycombinator.com/item?id=45292821",
+    "id_key": "9793f0ae89b48c0aa12a7d890153a267496d628254eb6d8af4ce39ff6a9da015",
+    "summary": "Comments",
+    "ingested_utc": "2025-09-21T10:42:22Z"
+  },
+  {
+    "published_utc": "2025-09-18",
+    "retrieved_date": "2025-09-21",
     "retrieved_utc": "2025-09-21T09:51:05Z",
     "source": "HackerNews_Top",
     "title": "Mesda Craftsman Database",
@@ -10987,16 +10998,5 @@
     "id_key": "3129cb415feeb9366916fdb5d03fd5c8e59dcf3baf4f03fccc6c29396af5fe70",
     "summary": "Some commercial workers in Afriland Towers jumped out of the third and fourth floors when the fire started.",
     "ingested_utc": "2025-09-18T20:11:49Z"
-  },
-  {
-    "published_utc": "2025-09-18",
-    "retrieved_date": "2025-09-18",
-    "retrieved_utc": "2025-09-18T19:51:12Z",
-    "source": "AlJazeera_All",
-    "title": "Texas man charged over ‘terroristic’ threats against New York’s Mamdani",
-    "url": "https://www.aljazeera.com/news/2025/9/18/texas-man-charged-over-terroristic-threats-against-new-yorks-mamdani?traffic_source=rss",
-    "id_key": "71ad67a89901e59c372dd635d0359aca3eadbd7104fc8f416b31ce30e54496f1",
-    "summary": "Prosecutors say the US suspect, who pleaded not guilty, left many messages threatening Zohran Mamdani and his family.",
-    "ingested_utc": "2025-09-18T19:51:12Z"
   }
 ]
