@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-09-21",
     "retrieved_date": "2025-09-21",
+    "retrieved_utc": "2025-09-21T15:29:41Z",
+    "source": "HackerNews_Top",
+    "title": "How to Stop Functional Programming",
+    "url": "https://brianmckenna.org/blog/howtostopfp",
+    "id_key": "a29e85f3f8a7e3e77b98a57c2ab1d2146f0edbf195f106cc73edbed817601c36",
+    "summary": "Comments",
+    "ingested_utc": "2025-09-21T15:29:41Z"
+  },
+  {
+    "published_utc": "2025-09-21",
+    "retrieved_date": "2025-09-21",
+    "retrieved_utc": "2025-09-21T15:26:21Z",
+    "source": "Guardian_World",
+    "title": "UK, Canada and Australia formally recognise Palestinian state - as it happened",
+    "url": "https://www.theguardian.com/politics/live/2025/sep/21/keir-starmer-palestine-recognition-announcement-gaza-uk-politics-live",
+    "id_key": "6504d1b443f884e69291cdd04b703d99681f3d279089f6315b29e3fc4dcd3c8d",
+    "summary": "UK, Canada and Australia announce formal recognition of Palestine Keir Starmer has arrived at Westminster Abbey for the Battle of Britain service. The ceremony, held between 11am and 12pm, marks the 85th anniversary of the victory by Royal Air Force pilots and aircrew during the Battle of Britain in 1940. Continue reading...",
+    "ingested_utc": "2025-09-21T15:26:21Z"
+  },
+  {
+    "published_utc": "2025-09-21",
+    "retrieved_date": "2025-09-21",
     "retrieved_utc": "2025-09-21T15:12:16Z",
     "source": "Engadget_All",
     "title": "Our favorite slim MagSafe power bank is down to a new low price",
@@ -10976,27 +10998,5 @@
     "id_key": "bab3d0de15720660e8d50c2593d6ac9450173f4106b765d4ef2374b8e1f9b186",
     "summary": "The RCMP has confirmed Canada seized a record $40M in crypto and dismantled the TradeOgre exchange, which was allegedly used for money laundering and operated without registering as a money services business. The post Canada Seizes Record $40M in Crypto from TradeOgre Exchange appeared first on Cryptonews .",
     "ingested_utc": "2025-09-18T22:09:50Z"
-  },
-  {
-    "published_utc": "2025-09-18",
-    "retrieved_date": "2025-09-18",
-    "retrieved_utc": "2025-09-18T22:09:47Z",
-    "source": "CryptoSlate",
-    "title": "Bitcoin’s volatility drops below Nasdaq 100 firms as maturation marks milestone",
-    "url": "https://cryptoslate.com/insights/bitcoins-volatility-drops-below-nasdaq-100-firms-as-maturation-marks-milestone/",
-    "id_key": "3a0b43f51415da3f643ae49e40d2be4e31332872a68c110767de0518367d21f5",
-    "summary": "Bitcoin is now less volatile than nearly every company in the Nasdaq 100, according to new research from CEX.io According to the firm, every company in the Nasdaq 100 currently exhibits higher realized volatility than Bitcoin on a three-month basis, with the trend extending to both shorter and longer time horizons. In sharp contrast, Bitcoin’s […] The post Bitcoin’s volatility drops below Nasdaq 100 firms as maturation marks milestone appeared first on CryptoSlate .",
-    "ingested_utc": "2025-09-18T22:09:47Z"
-  },
-  {
-    "published_utc": "2025-09-18",
-    "retrieved_date": "2025-09-18",
-    "retrieved_utc": "2025-09-18T21:50:02Z",
-    "source": "TheVerge_All",
-    "title": "Nothing’s charging case Super Mic is a small upgrade to earbud audio",
-    "url": "https://www.theverge.com/tech/781588/nothing-ear-3-charging-case-super-mic-impressions-hands-on",
-    "id_key": "088b0c6858b8cbf4520828241df150e27dd085fd8dd3195b1bcf45c9a539524c",
-    "summary": "The microphones in your earbuds probably suck. You know, I know it, and apparently Nothing knows it too. Its fix? Better microphones - but in the charging case, not the buds. The Ear 3 buds feature what the company calls \"Super Mic.\" What that really means is a pair of microphones built into the earbuds' […]",
-    "ingested_utc": "2025-09-18T21:50:02Z"
   }
 ]
