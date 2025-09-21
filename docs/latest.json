@@ -2839,6 +2839,17 @@
   },
   {
     "published_utc": "2025-09-19",
+    "retrieved_date": "2025-09-21",
+    "retrieved_utc": "2025-09-21T08:47:34Z",
+    "source": "BBC_Business",
+    "title": "Faisal Islam: Will the US tech bromance turn around the UK economy?",
+    "url": "https://www.bbc.com/news/articles/cn4w7wp24llo?at_medium=RSS&at_campaign=rss",
+    "id_key": "1afa36e3c0035f9500f664541266c9df68fbec83269c576a1d6278edae847930",
+    "summary": "In the week the UK hosted Donald Trump for a second state visit, the country also rolled out the red carpet for US tech firms.",
+    "ingested_utc": "2025-09-21T08:47:34Z"
+  },
+  {
+    "published_utc": "2025-09-19",
     "retrieved_date": "2025-09-20",
     "retrieved_utc": "2025-09-20T19:47:55Z",
     "source": "CryptoSlate",
@@ -10987,16 +10998,5 @@
     "id_key": "9284842f0c0003b03d6290a6bff100757b4b6fc459bf360003a09e959ff841bd",
     "summary": "Donald Trump’s criticism misses the point",
     "ingested_utc": "2025-09-18T19:12:07Z"
-  },
-  {
-    "published_utc": "2025-09-18",
-    "retrieved_date": "2025-09-18",
-    "retrieved_utc": "2025-09-18T19:12:05Z",
-    "source": "Engadget_All",
-    "title": "Microsoft’s Gaming Copilot AI assistant is coming to Windows PCs and the Xbox mobile app",
-    "url": "https://www.engadget.com/ai/microsofts-gaming-copilot-ai-assistant-is-coming-to-windows-pcs-and-the-xbox-mobile-app-185452965.html?src=rss",
-    "id_key": "438df05d61e5bbab2d91f6f4879ae96a3d4abb724ff97a8c49e02bef33d4a3ef",
-    "summary": "Microsoft's Gaming Copilot AI assistant is officially coming to Windows PCs and the Xbox mobile app. The company has been testing the tool for PCs with Xbox Insiders , but now it's getting a broader rollout. To that end, it'll be available to players aged 18 and older on the PC Game Bar. The Xbox app version rolls out this October, for both Android and iOS, after a beta test took place earlier this year . Microsoft says that its Gaming Copilot will be available throughout the globe, except in mainland China. So what exactly is this thing? It's sort of like an AI version of those old Nintendo help phone lines. The chat box appears as an overlay on the screen and players can use it to ask questions or to get tips about a game. The company says it \"knows what you're playing and understands your Xbox activity,\" as it uses in-game screenshots. It can also answer questions about an Xbox account and offer recommendations on stuff to buy. The official version also offers voice chat, so you can just ask the questions out loud. On PC, there's a \"Push to Talk\" hotkey that activates the bot, which is handy. The app includes a microphone button. There's a widget for the PC build that can be placed anywhere on the screen. This is useful for longer conversations. With Copilot for Gaming, you can jump back into games faster, get real-time coaching, and stay connected... all on your own terms. Excited for what the team has in store! pic.twitter.com/18Ll2D25i1 — Satya Nadella (@satyanadella) March 13, 2025 Microsoft is still tinkering with this software and urges feedback from users as they \"continue to develop Gaming Copilopt and make it even more helpful for players' needs and preferences.\" The company has been testing the system on Windows-based portable consoles, and it did recently announce the pending availability of its own Xbox Ally handheld gaming machines . It's likely that the software will get an official rollout for those consoles some time after they launch on October 16. This article originally appeared on Engadget at https://www.engadget.com/ai/microsofts-gaming-copilot-ai-assistant-is-coming-to-windows-pcs-and-the-xbox-mobile-app-185452965.html?src=rss",
-    "ingested_utc": "2025-09-18T19:12:05Z"
   }
 ]
