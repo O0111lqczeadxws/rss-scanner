@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-09-21",
     "retrieved_date": "2025-09-21",
+    "retrieved_utc": "2025-09-21T11:22:21Z",
+    "source": "Guardian_World",
+    "title": "Delays continue at Heathrow, Brussels and Berlin airports after alleged cyber-attack",
+    "url": "https://www.theguardian.com/business/2025/sep/21/delays-continue-at-heathrow-brussels-and-berlin-airports-after-alleged-cyber-attack",
+    "id_key": "f29e7071d0b2192f93924eb358c760045bf02dc8951cb4d25532df4798e85de9",
+    "summary": "Airlines reverted to manual check-in since Friday after service provider hit by ‘cyber-related incident’ Passengers at London Heathrow airport and those in Brussels and Berlin faced another day of delays on Sunday after an alleged cyber-attack hit check-in desk software . Airlines were forced to revert to manual check-in from Friday night after the alleged attack hit Collins Aerospace, which provides check-in desk technology to various airlines. Continue reading...",
+    "ingested_utc": "2025-09-21T11:22:21Z"
+  },
+  {
+    "published_utc": "2025-09-21",
+    "retrieved_date": "2025-09-21",
+    "retrieved_utc": "2025-09-21T11:22:18Z",
+    "source": "BBC_World",
+    "title": "Heathrow warns of second day of disruption after cyber-attack",
+    "url": "https://www.bbc.com/news/articles/cwy88857llno?at_medium=RSS&at_campaign=rss",
+    "id_key": "636d6e4974c18e5284f035680c261bfc34b02767c5b644e29ed3314ddaba8be6",
+    "summary": "The issue affecting check-in and baggage systems caused hundreds of delays and cancellations on Saturday.",
+    "ingested_utc": "2025-09-21T11:22:18Z"
+  },
+  {
+    "published_utc": "2025-09-21",
+    "retrieved_date": "2025-09-21",
     "retrieved_utc": "2025-09-21T11:10:20Z",
     "source": "FT_Home",
     "title": "India can shrug off Trump’s tariffs",
@@ -10976,27 +10998,5 @@
     "id_key": "fb890008f8fa20a28bd4e8efd9dc037747ae51e0711d403b94b8f3fd09cc113a",
     "summary": "Photographs of the pomp and spectacle of the U.S. president’s second state visit to Britain.",
     "ingested_utc": "2025-09-18T20:14:48Z"
-  },
-  {
-    "published_utc": "2025-09-18",
-    "retrieved_date": "2025-09-18",
-    "retrieved_utc": "2025-09-18T20:12:51Z",
-    "source": "CryptoSlate",
-    "title": "Bitcoin’s next major move post-FOMC relies on staying above $115,200",
-    "url": "https://cryptoslate.com/bitcoins-next-major-move-post-fomc-relies-on-staying-above-115200/",
-    "id_key": "9cc6e4f458bf5b88177f40e97291f4d60b048ec3113d152be207aba4ccd1e655",
-    "summary": "Bitcoin (BTC) remains in a delicate balance following the Federal Reserve’s rate cut decision, where holding $115,200 is key to defining the next movement. Glassnode reported on Sept. 18 that derivatives markets and on-chain data revealed a market poised for its next directional move. BTC was trading at $117,649.40 as of press time, positioning above […] The post Bitcoin’s next major move post-FOMC relies on staying above $115,200 appeared first on CryptoSlate .",
-    "ingested_utc": "2025-09-18T20:12:51Z"
-  },
-  {
-    "published_utc": "2025-09-18",
-    "retrieved_date": "2025-09-18",
-    "retrieved_utc": "2025-09-18T20:12:08Z",
-    "source": "Blockworks",
-    "title": "Google Cloud taps EigenLayer to bring trust to agentic payments",
-    "url": "https://blockworks.co/news/google-cloud-eigencloud-payments",
-    "id_key": "00050260e66f3ddc7716cded5131ba21e38b2baaab8a0f06ad2d1d7248e23907",
-    "summary": "New integration makes EigenCloud the verifiable backbone for AI agents settling payments across cards, bank rails, and blockchains",
-    "ingested_utc": "2025-09-18T20:12:08Z"
   }
 ]
