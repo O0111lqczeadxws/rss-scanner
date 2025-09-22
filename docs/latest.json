@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-09-22",
     "retrieved_date": "2025-09-22",
+    "retrieved_utc": "2025-09-22T03:29:58Z",
+    "source": "HackerNews_Top",
+    "title": "fs-code: PyFilesystems for Gitlab, GitHub, and Git",
+    "url": "https://danjou.gitlab.io/fs-code/dev/codefs.html",
+    "id_key": "2986b816f3da7e92c85d4428f69200fcedd21371c6cc87d534374b79726c830c",
+    "summary": "Comments",
+    "ingested_utc": "2025-09-22T03:29:58Z"
+  },
+  {
+    "published_utc": "2025-09-22",
+    "retrieved_date": "2025-09-22",
+    "retrieved_utc": "2025-09-22T03:29:44Z",
+    "source": "FinancialPost_Business",
+    "title": "Oil Edges Up With Focus on Russian Crude Flows, Refinery Strikes",
+    "url": "https://financialpost.com/pmn/business-pmn/oil-steadies-with-focus-on-russian-crude-flows-refinery-strikes",
+    "id_key": "81e2dce7a924865d3275a502ffed786f2ecd0bbf2f4ec07259c610ea9928cb03",
+    "summary": "Oil edged higher, clawing back last week’s loss as traders gauge the impact of European Union moves on Russian supply and strikes by Ukraine on the OPEC+ member’s energy infrastructure.",
+    "ingested_utc": "2025-09-22T03:29:44Z"
+  },
+  {
+    "published_utc": "2025-09-22",
+    "retrieved_date": "2025-09-22",
+    "retrieved_utc": "2025-09-22T03:29:37Z",
+    "source": "AlJazeera_All",
+    "title": "‘Restart from scratch’: Flood-hit Indian farmers look at swelling losses",
+    "url": "https://www.aljazeera.com/features/2025/9/22/restart-from-scratch-flood-hit-indian-farmers-look-at-swelling-losses?traffic_source=rss",
+    "id_key": "60d57e73fce820ca07ed3012e743667a936221573552575f34b042b1495f9c0f",
+    "summary": "Farmers in India's Punjab are suffering from the worst floods in four decades, amid pain from Trump's tariffs too.",
+    "ingested_utc": "2025-09-22T03:29:37Z"
+  },
+  {
+    "published_utc": "2025-09-22",
+    "retrieved_date": "2025-09-22",
     "retrieved_utc": "2025-09-22T02:28:51Z",
     "source": "TheStreet_Top",
     "title": "Dave Ramsey bluntly explains when to buy a home",
@@ -10965,38 +10998,5 @@
     "id_key": "a4627a9b4c1c2d9990ffd221060176c30f6448e2db9b32914a3267ac586ec804",
     "summary": "Zijin Mining’s offering comes as prices for precious metal hit record highs",
     "ingested_utc": "2025-09-19T03:43:38Z"
-  },
-  {
-    "published_utc": "2025-09-19",
-    "retrieved_date": "2025-09-19",
-    "retrieved_utc": "2025-09-19T03:41:30Z",
-    "source": "CryptoBriefing",
-    "title": "Michigan progresses Bitcoin Reserve bill to invest 10% state funds in Bitcoin",
-    "url": "https://cryptobriefing.com/michigan-advances-bitcoin-reserve-bill-2024/",
-    "id_key": "8b09733ed4f27bd3e23967c989857d6c465f1c0206a8075d561484f1f91e4a5f",
-    "summary": "Michigan's Bitcoin Reserve bill could set a precedent for state-level crypto adoption, influencing national policy and financial diversification. The post Michigan progresses Bitcoin Reserve bill to invest 10% state funds in Bitcoin appeared first on Crypto Briefing .",
-    "ingested_utc": "2025-09-19T03:41:30Z"
-  },
-  {
-    "published_utc": "2025-09-19",
-    "retrieved_date": "2025-09-19",
-    "retrieved_utc": "2025-09-19T03:15:22Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "Zijin Gold eyes $3bn Hong Kong listing, to be spun off from parent",
-    "url": "https://asia.nikkei.com/business/markets/ipo/zijin-gold-eyes-3bn-hong-kong-listing-to-be-spun-off-from-parent",
-    "id_key": "4941ff4c8e120d1fd12fa6f9ed698b0d80cbad096ee6414b1fbfead8ee741076",
-    "summary": "",
-    "ingested_utc": "2025-09-19T03:15:22Z"
-  },
-  {
-    "published_utc": "2025-09-19",
-    "retrieved_date": "2025-09-19",
-    "retrieved_utc": "2025-09-19T03:15:16Z",
-    "source": "FinancialPost_Business",
-    "title": "Health Canada approves Celltrion’s Stoboclo® and Osenvelt®(CT-P41), denosumab biosimilars for the treatment of all indications approved for the reference products, Prolia® and Xgeva®, respectively",
-    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/health-canada-approves-celltrions-stoboclo-and-osenveltct-p41-denosumab-biosimilars-for-the-treatment-of-all-indications-approved-for-the-reference-products-prolia-and-xgeva",
-    "id_key": "5244d3b968ba0781068e55b0d654a3ad43917a6d3e212ed5cf480d43256951f3",
-    "summary": "Stoboclo® and Osenvelt® (CT-P41) received Health Canada Notice of Compliance for all indications referencing Prolia® and Xgeva®, respectively1,2 The approval is based on the totality of evidence including results from a Phase III clinical trial in postmenopausal women with osteoporosis (PMO)3 Celltrion’s biosimilar portfolio continues to grow, expanding treatment options to reach more patients in […]",
-    "ingested_utc": "2025-09-19T03:15:16Z"
   }
 ]
