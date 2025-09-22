@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-09-22",
     "retrieved_date": "2025-09-22",
+    "retrieved_utc": "2025-09-22T07:39:45Z",
+    "source": "CryptoNews",
+    "title": "OKX Built Hyperliquid-Style DEX But Delayed Launch Over Regulatory Fears",
+    "url": "https://cryptonews.com/news/okx-built-hyperliquid-style-dex-but-delayed-launch-over-regulatory-fears/",
+    "id_key": "4dec77eb5cf9cfa36349255fcabc65738e3db6a7ab2ad16d774e896fd2339381",
+    "summary": "OKX built a decentralized perpetuals trading platform similar to Hyperliquid and ASTER, but shelved its mainnet launch due to regulatory concerns. The post OKX Built Hyperliquid-Style DEX But Delayed Launch Over Regulatory Fears appeared first on Cryptonews .",
+    "ingested_utc": "2025-09-22T07:39:45Z"
+  },
+  {
+    "published_utc": "2025-09-22",
+    "retrieved_date": "2025-09-22",
     "retrieved_utc": "2025-09-22T07:33:24Z",
     "source": "HackerNews_Top",
     "title": "Jet-Nemotron: Efficient Language Model with Post Neural Architecture Search",
@@ -10986,17 +10997,6 @@
     "url": "https://www.bbc.com/news/articles/cly9m4lqznro?at_medium=RSS&at_campaign=rss",
     "id_key": "f50e3ebfb47d22b7a6307ab297169fdf3901ce320fb5fd172d970d1663cced29",
     "summary": "Increased tax receipts were outstripped by higher spending on public services, benefits and debt interest.",
-    "ingested_utc": "2025-09-19T06:46:31Z"
-  },
-  {
-    "published_utc": "2025-09-19",
-    "retrieved_date": "2025-09-19",
-    "retrieved_utc": "2025-09-19T06:46:31Z",
-    "source": "BBC_Business",
-    "title": "India regulator rejects US firm's fraud claims against Adani Group",
-    "url": "https://www.bbc.com/news/articles/c0m4l14vdplo?at_medium=RSS&at_campaign=rss",
-    "id_key": "cb8481d17d0b9429e4cdd42eb97591cfdb680207a19fbc60c288d647c300cedd",
-    "summary": "Sebi began investigating the conglomerate in 2023, after Hindenburg Research accused the group of stock manipulation.",
     "ingested_utc": "2025-09-19T06:46:31Z"
   }
 ]
