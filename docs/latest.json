@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-09-22",
     "retrieved_date": "2025-09-22",
+    "retrieved_utc": "2025-09-22T07:33:24Z",
+    "source": "HackerNews_Top",
+    "title": "Jet-Nemotron: Efficient Language Model with Post Neural Architecture Search",
+    "url": "https://arxiv.org/abs/2508.15884",
+    "id_key": "0ec0bb21e76792393d684f44975ab611907d07b26f0f223e397a4521b3525b6c",
+    "summary": "Comments",
+    "ingested_utc": "2025-09-22T07:33:24Z"
+  },
+  {
+    "published_utc": "2025-09-22",
+    "retrieved_date": "2025-09-22",
+    "retrieved_utc": "2025-09-22T07:32:34Z",
+    "source": "FT_Home",
+    "title": "Farage vows to ditch indefinite leave to remain for migrants",
+    "url": "https://www.ft.com/content/4e1641eb-89f6-4c26-b190-cc9151e520dc",
+    "id_key": "5f0e7b35807bbe0c487a3131ba08a5d1121b1d20251148a5fd21066be345c1ce",
+    "summary": "Reform UK leader says those with settled status would be forced to reapply for a new visa after five years",
+    "ingested_utc": "2025-09-22T07:32:34Z"
+  },
+  {
+    "published_utc": "2025-09-22",
+    "retrieved_date": "2025-09-22",
     "retrieved_utc": "2025-09-22T07:15:01Z",
     "source": "Engadget_All",
     "title": "The best multi-device wireless charging pads for 2025",
@@ -10976,27 +10998,5 @@
     "id_key": "cb8481d17d0b9429e4cdd42eb97591cfdb680207a19fbc60c288d647c300cedd",
     "summary": "Sebi began investigating the conglomerate in 2023, after Hindenburg Research accused the group of stock manipulation.",
     "ingested_utc": "2025-09-19T06:46:31Z"
-  },
-  {
-    "published_utc": "2025-09-19",
-    "retrieved_date": "2025-09-19",
-    "retrieved_utc": "2025-09-19T06:19:49Z",
-    "source": "FinancialPost_Business",
-    "title": "Europe’s EV Makers Line Up at Estonia Rare-Earth Magnet Site",
-    "url": "https://financialpost.com/pmn/business-pmn/europes-ev-makers-line-up-at-estonias-rare-earth-magnet-plant",
-    "id_key": "f582a7da55602f7e10e13ea5ccb7eb42708bde478ac17cbc91ce2cebf15decf8",
-    "summary": "Executives from Europe’s electric-vehicle industry are trekking to the continent’s sparsely populated northeastern parts to queue for something they struggle to find anywhere outside of China: rare-earths magnets that are essential components in EVs.",
-    "ingested_utc": "2025-09-19T06:19:49Z"
-  },
-  {
-    "published_utc": "2025-09-19",
-    "retrieved_date": "2025-09-19",
-    "retrieved_utc": "2025-09-19T06:16:59Z",
-    "source": "CryptoNews",
-    "title": "MetaMask Token is Coming ‘Sooner’ Than Expected: Consensys CEO",
-    "url": "https://cryptonews.com/news/metamask-token-is-coming-sooner-than-expected-consensys-ceo/",
-    "id_key": "0595921b51c156fb6ba958cdd771bbaf2c2cacf9c567a26a902d5bf021f822fd",
-    "summary": "The MetaMask token launch \"may come sooner than you would expect,\" says Joe Lubin, CEO of Consensys. The post MetaMask Token is Coming ‘Sooner’ Than Expected: Consensys CEO appeared first on Cryptonews .",
-    "ingested_utc": "2025-09-19T06:16:59Z"
   }
 ]
