@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-09-22",
     "retrieved_date": "2025-09-22",
+    "retrieved_utc": "2025-09-22T04:52:02Z",
+    "source": "Nikkei_Asia_Top",
+    "title": "Vietjet receives first of 200 planes from $32bn Boeing order",
+    "url": "https://asia.nikkei.com/business/transportation/vietjet-receives-first-of-200-planes-from-32bn-boeing-order",
+    "id_key": "ebc950eb16f60fad8c1ad8a21df484606452a1f470450b386ad95c0277afe843",
+    "summary": "",
+    "ingested_utc": "2025-09-22T04:52:02Z"
+  },
+  {
+    "published_utc": "2025-09-22",
+    "retrieved_date": "2025-09-22",
     "retrieved_utc": "2025-09-22T04:17:00Z",
     "source": "FinancialPost_Business",
     "title": "Santos Starts Barossa Project Days After Failed $19 Billion Sale",
@@ -10987,16 +10998,5 @@
     "id_key": "a27cbc9f0ae6f03b1591a4058e7ff57949c65e0814a5367735d0514277f62561",
     "summary": "Price of Brent is little changed from late June, with some analysts pointing to China stockpiling as possible explanation",
     "ingested_utc": "2025-09-19T04:15:56Z"
-  },
-  {
-    "published_utc": "2025-09-19",
-    "retrieved_date": "2025-09-19",
-    "retrieved_utc": "2025-09-19T04:15:26Z",
-    "source": "Guardian_World",
-    "title": "‘Cricket diplomacy’ collapses as India-Pakistan hostility enters field of play",
-    "url": "https://www.theguardian.com/world/2025/sep/19/cricket-diplomacy-india-pakistan-hostility-asia-cup",
-    "id_key": "2f1450925497e6981edeb08e24465cd64da6c298854302244b101bc45ab785cd",
-    "summary": "Indian players refuse to shake hands with Pakistani counterparts after Asia Cup match, in sign that traditional onfield camaraderie is eroding As nationalistic rivalries go, few run as deep as India and Pakistan. But even as the neighbours fought wars against each other, carried out rival nuclear tests and conducted nightly shows of strength along their heavily militarised border, there was always one thing that brought them together: cricket. But as the two sides came together on Sunday for a match in the Asia Cup tournament, the camaraderie that was once celebrated as cricket diplomacy had vanished. Continue reading...",
-    "ingested_utc": "2025-09-19T04:15:26Z"
   }
 ]
