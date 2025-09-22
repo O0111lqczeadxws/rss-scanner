@@ -2,6 +2,83 @@
   {
     "published_utc": "2025-09-22",
     "retrieved_date": "2025-09-22",
+    "retrieved_utc": "2025-09-22T21:35:35Z",
+    "source": "Engadget_All",
+    "title": "Here's how EventVPN is different from other free VPNs",
+    "url": "https://www.engadget.com/cybersecurity/vpn/heres-how-eventvpn-is-different-from-other-free-vpns-213014671.html?src=rss",
+    "id_key": "af32568eab6dade3cda4b87fc29262af067b1c1310281958803b1b2f1f6bf6b1",
+    "summary": "EventVPN, a new freemium VPN built by the same team and on the same infrastructure as ExpressVPN, launched on September 18 for iOS and macOS. It comes with unlimited free bandwidth, a relative rarity among free VPNs, and carries over ExpressVPN's kill switch and post-quantum WireGuard protocol. Free users get 35 server locations and one device connection, while paid users get 125 locations and eight simultaneous connections. EventVPN isn't the first free VPN that actually aims to ensure user privacy — the free version of Proton VPN is also safe, as are a few others on our best VPN list , like hide.me and Windscribe. However, ExpressVPN isn't wrong that free VPNs often don't have their users' interests at heart . The EventVPN announcement left me with one big question: what's it doing to be safer, more private and/or better than other free options? The most interesting feature of EventVPN — and one I can't currently find duplicated on any other free VPN — is that it has no user data backend whatsoever. It uses Apple ID validation to manage accounts and connection tokens without storing any information itself. This doesn't move the security needle much (Apple isn't immune to data leaks either), but it does make it theoretically impossible for EventVPN to sell user information. Of course, a clear privacy policy that EventVPN sticks to would accomplish the same thing. But just like with RAM-only servers automatically deleting user activity logs, it's always nice to have an option other than trusting the VPN provider to keep its word. And to be fair, ExpressVPN has a clear privacy policy that it sticks to , so there's good reason to believe EventVPN will do the same for its own policy . There is one unfortunate cost to that relative privacy, though: EventVPN's free plan requires you to watch ads. When I briefly tested it, I was shown one 30-second ad whenever I connected and another when I disconnected. It's galling to be asked to watch ads for a service that also has a paid tier ($9.99 per month, or $69.99 for a year), since I've already named three other equally good freemium VPNs that don't show ads at all. At least EventVPN anonymizes the ads, showing advertisers a masked identifier instead of any real info on you. To sum up, EventVPN is a lot better than free VPNs that turn you into the product, but its ads put it a step behind ProtonVPN, hide.me, Windscribe and even TunnelBear. If ExpressVPN has always worked far better for you than any other provider, it might be worth using EventVPN as a backup free service. Otherwise, there are better options. This article originally appeared on Engadget at https://www.engadget.com/cybersecurity/vpn/heres-how-eventvpn-is-different-from-other-free-vpns-213014671.html?src=rss",
+    "ingested_utc": "2025-09-22T21:35:35Z"
+  },
+  {
+    "published_utc": "2025-09-22",
+    "retrieved_date": "2025-09-22",
+    "retrieved_utc": "2025-09-22T21:35:31Z",
+    "source": "TheVerge_All",
+    "title": "The best iPhones",
+    "url": "https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide",
+    "id_key": "7c29033d9ff5bc3ab8a7e98a4baa839e6a15855e2c9f0852481e055be3c1e08d",
+    "summary": "If you’ve been holding off on getting a new iPhone, now’s the perfect time to size up your options. Apple recently launched its 2025 iPhone lineup, which includes the iPhone 17, 17 Pro, 17 Pro Max, and a brand-new model, the ultra-thin iPhone Air. These new phones offer a number of new features over their […]",
+    "ingested_utc": "2025-09-22T21:35:31Z"
+  },
+  {
+    "published_utc": "2025-09-22",
+    "retrieved_date": "2025-09-22",
+    "retrieved_utc": "2025-09-22T21:34:46Z",
+    "source": "Guardian_World",
+    "title": "Fiona Stanley ‘ashamed’ after hospital bearing her name cancelled event featuring Palestinian Australian doctors",
+    "url": "https://www.theguardian.com/australia-news/2025/sep/23/distinguished-professor-ashamed-after-hospital-bearing-her-name-cancelled-event-featuring-australian-palestinian-doctors-ntwnfb",
+    "id_key": "95c5be7c5ff1d17db6feb07c852fb3419ad45305471e09dc5e97e73541b1e7d3",
+    "summary": "Exclusive: Distinguished professor says she considered asking hospital to remove her name after event on doctors’ experiences in Gaza was abruptly called off Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Distinguished epidemiologist Prof Fiona Stanley said she was “deeply sad” and “ashamed” after the Fremantle hospital that bears her name abruptly cancelled a 2024 event featuring Palestinian Australian doctors speaking about their experiences in Gaza, and even thought about telling the institution to remove her name. Guardian Australia can reveal the Fiona Stanley hospital invited two Australian doctors with Palestinian heritage, Dr Lama Al Ramahi and Dr Mohammed Mustafa , to speak on the “profound challenges faced by medical professionals delivering health care in Gaza” in September 2024. Continue reading...",
+    "ingested_utc": "2025-09-22T21:34:46Z"
+  },
+  {
+    "published_utc": "2025-09-22",
+    "retrieved_date": "2025-09-22",
+    "retrieved_utc": "2025-09-22T21:34:46Z",
+    "source": "Guardian_World",
+    "title": "France recognises Palestine and calls for UN force in Gaza",
+    "url": "https://www.theguardian.com/world/2025/sep/22/arab-and-muslim-leaders-to-meet-trump-to-discuss-peace-plan-for-gaza",
+    "id_key": "c85215d963ceeb668173903b3e99af6bf95f7b8a01aabe961feb6319c5c52041",
+    "summary": "Macron sets out plan for international stabilisation mission as Arab and Muslim leaders prepare to meet Trump in New York Emmanuel Macron has announced France’s official recognition of the State of Palestine, setting out a plan for a UN-mandated international stabilisation force in postwar Gaza that is expected to find support in many countries but not in Israel or the US. “The time has come to end the war in Gaza, the massacres and the death,” Macron said during a speech opening a special summit in the United Nations general assembly hall on Monday evening. “The time has come to do justice for the Palestinian people and thus to recognise the State of Palestine in Gaza, the West Bank and Jerusalem.” Continue reading...",
+    "ingested_utc": "2025-09-22T21:34:46Z"
+  },
+  {
+    "published_utc": "2025-09-22",
+    "retrieved_date": "2025-09-22",
+    "retrieved_utc": "2025-09-22T21:34:46Z",
+    "source": "Guardian_World",
+    "title": "Iran’s foreign minister meets with UN nuclear watchdog in bid to avert sanctions",
+    "url": "https://www.theguardian.com/world/2025/sep/22/irans-foreign-minister-meets-with-un-nuclear-watchdog-in-bid-to-avert-sanctions",
+    "id_key": "dc77666dd9da90b2611b2728b7f4532b5837cc5ca9002ce601c2dfe934c8cd56",
+    "summary": "Abbas Araghchi will likely also meet with European officials, as window for reaching an agreement narrows Iran’s foreign minister has met the head of the UN’s nuclear watchdog at the start of a frantic round of diplomatic meetings in New York in a bid to avert the reimposition of a wave of UN sanctions on Iran starting on Sunday. The crisis could rapidly spiral into fresh Israeli calls to attack Iran for failing to cooperate over its nuclear programme. The Israeli prime minister, Benjamin Netanyahu, warned on Monday: “We must destroy the axis of evil Iran and we have the power to do so. This is what lies ahead of us in the coming year, a year that could be a historic one for Israel’s security.” Continue reading...",
+    "ingested_utc": "2025-09-22T21:34:46Z"
+  },
+  {
+    "published_utc": "2025-09-22",
+    "retrieved_date": "2025-09-22",
+    "retrieved_utc": "2025-09-22T21:32:58Z",
+    "source": "CryptoSlate",
+    "title": "House lawmakers urge SEC to implement Trump’s crypto 401k executive order",
+    "url": "https://cryptoslate.com/house-lawmakers-urge-sec-to-implement-trumps-crypto-401k-executive-order/",
+    "id_key": "2c036c4346154798412d34ae7533aab4d7d58e2b7d06dd54edc3509481ef5fad",
+    "summary": "Nine House Financial Services Committee members sent a letter to SEC Chairman Paul Atkins on Sept. 22, urging swift implementation of President Donald Trump’s Aug. 7 executive order enabling cryptocurrency investments in 401(k) retirement plans. The bipartisan coalition expressed support for expanding access to alternative assets to help 90 million Americans secure dignified retirement outcomes. […] The post House lawmakers urge SEC to implement Trump’s crypto 401k executive order appeared first on CryptoSlate .",
+    "ingested_utc": "2025-09-22T21:32:58Z"
+  },
+  {
+    "published_utc": "2025-09-22",
+    "retrieved_date": "2025-09-22",
+    "retrieved_utc": "2025-09-22T21:32:35Z",
+    "source": "Guardian_Business",
+    "title": "Supreme court lets Trump fire FTC commissioner for now and will hear arguments later",
+    "url": "https://www.theguardian.com/us-news/2025/sep/22/supreme-court-trump-fire-ftc-commissioner",
+    "id_key": "b4607e3eaa1472a2f08a8e0a2d1562127768a4996d62c2df843e13ba1d7e2f3c",
+    "summary": "Court grants justice department request to block judge’s order that shielded Rebecca Slaughter from being dismissed The US supreme court on Monday let Donald Trump fire a Democratic member of the Federal Trade Commission, for now, while agreeing to hear arguments in the case in December, setting up a major test of presidential power over government agencies designed by Congress to be independent. The court granted a justice department request to block a judge’s order that had shielded Rebecca Slaughter, who sued to challenge Trump’s action, from being dismissed from the consumer protection and antitrust agency before her term expires in 2029. Continue reading...",
+    "ingested_utc": "2025-09-22T21:32:35Z"
+  },
+  {
+    "published_utc": "2025-09-22",
+    "retrieved_date": "2025-09-22",
     "retrieved_utc": "2025-09-22T21:28:24Z",
     "source": "FinancialPost_Business",
     "title": "Ninepoint Partners Announces September 2025 Cash Distributions for ETFs and ETF Series securities",
@@ -10921,82 +10998,5 @@
     "id_key": "30eb916176b648c268a263f5232475a9dd1f3273363832e8848c22369157ed2a",
     "summary": "Bitmine has acquired an additional $69 million in ETH, increasing its total treasury to $8.66 billion, solidifying its position as the largest corporate ETH holder, with its reserves now accounting for nearly 2% of Ethereum’s total supply. The post Tom Lee’s Bitmine Buys Another $69M ETH, Holds Massive $8.66B Stack appeared first on Cryptonews .",
     "ingested_utc": "2025-09-19T22:47:46Z"
-  },
-  {
-    "published_utc": "2025-09-19",
-    "retrieved_date": "2025-09-19",
-    "retrieved_utc": "2025-09-19T22:47:43Z",
-    "source": "CryptoSlate",
-    "title": "BitGo files S-1 form for IPO, revealing $3B revenue in 2024",
-    "url": "https://cryptoslate.com/bitgo-files-s-1-form-for-ipo-revealing-3b-revenue-in-2024/",
-    "id_key": "1a722440b29f6053640070070f09c8acecbb4dc840988db9bf26f2653ddfde8a",
-    "summary": "BitGo published its S-1 registration statement on Sept. 19, confirming plans for an initial public offering while revealing over $3 billion in revenue for 2024. Financial data shared by Bloomberg ETF analyst James Seyffart revealed a preliminary prospectus with significant revenue growth, from $926 million in 2023 to over $3 billion in 2024, representing more […] The post BitGo files S-1 form for IPO, revealing $3B revenue in 2024 appeared first on CryptoSlate .",
-    "ingested_utc": "2025-09-19T22:47:43Z"
-  },
-  {
-    "published_utc": "2025-09-19",
-    "retrieved_date": "2025-09-19",
-    "retrieved_utc": "2025-09-19T22:47:22Z",
-    "source": "Guardian_World",
-    "title": "Trump says Xi Jinping has agreed to approve TikTok deal, but details unclear",
-    "url": "https://www.theguardian.com/technology/2025/sep/19/deal-to-transfer-tiktok-to-us-control-unresolved-trump-xi-call",
-    "id_key": "e330f549c5b82b0d11dbd94ec28a35d26d268531ab270a24dc28ff3ca08ab7b8",
-    "summary": "Trump’s statement suggests preliminary agreement between leaders in the first direct contact between them since June Donald Trump said on Friday that he and Xi Jinping had agreed to approve a deal over TikTok. “He approved the TikTok deal,” Trump said about Xi to reporters in the Oval Office, suggesting the leaders signed off on a preliminary agreement. But Trump offered no details about the agreement or when it would be signed. Continue reading...",
-    "ingested_utc": "2025-09-19T22:47:22Z"
-  },
-  {
-    "published_utc": "2025-09-19",
-    "retrieved_date": "2025-09-19",
-    "retrieved_utc": "2025-09-19T22:41:28Z",
-    "source": "HackerNews_Top",
-    "title": "Hidden risk in Notion 3.0 AI agents: Web search tool abuse for data exfiltration",
-    "url": "https://www.codeintegrity.ai/blog/notion",
-    "id_key": "2bfdc2470cd239a06b3f0ed9996e3dcb4ca853b868f937cc08fba80a2d46729b",
-    "summary": "Comments",
-    "ingested_utc": "2025-09-19T22:41:28Z"
-  },
-  {
-    "published_utc": "2025-09-19",
-    "retrieved_date": "2025-09-19",
-    "retrieved_utc": "2025-09-19T22:41:14Z",
-    "source": "FinancialPost_Business",
-    "title": "AI Data Center Gets Approval for $165 Billion Phantom Debt Deal",
-    "url": "https://financialpost.com/pmn/business-pmn/ai-data-center-gets-approval-for-165-billion-phantom-debt-deal",
-    "id_key": "ff20459737d713a90afb15de73390839e77288053e78723f705f8c063cbb1dc5",
-    "summary": "Commissioners from Doña Ana County, New Mexico, approved a $165 billion industrial revenue bond package and a sweeping set of tax incentives tied to a sprawling AI data center project, moving forward with one of the largest economic development efforts in New Mexico history.",
-    "ingested_utc": "2025-09-19T22:41:14Z"
-  },
-  {
-    "published_utc": "2025-09-19",
-    "retrieved_date": "2025-09-19",
-    "retrieved_utc": "2025-09-19T22:41:07Z",
-    "source": "AlJazeera_All",
-    "title": "Trump signs proclamation creating $100,000 application fee for H-1B visas",
-    "url": "https://www.aljazeera.com/news/2025/9/19/trump-signs-proclamation-creating-100000-application-fee-for-h-1b-visas?traffic_source=rss",
-    "id_key": "6cf5b8bd99b1a8252202c939f16b73f1243e4071131dac8591e5bfdc5fb401f3",
-    "summary": "Fee paid by companies set to transform high-skill work visa system, upon which technology sector relies heavily.",
-    "ingested_utc": "2025-09-19T22:41:07Z"
-  },
-  {
-    "published_utc": "2025-09-19",
-    "retrieved_date": "2025-09-19",
-    "retrieved_utc": "2025-09-19T22:38:17Z",
-    "source": "CryptoNews",
-    "title": "Best Crypto to Buy 19 September – XRP, Shiba Inu, Pepe",
-    "url": "https://cryptonews.com/news/best-crypto-to-buy-19-september-xrp-shiba-inu-pepe/",
-    "id_key": "5ab9f1e9382132e676df17ef66002d79abb79cdc6fba1e48820d9548ff409a8b",
-    "summary": "With the vast number of choices available, deciding which crypto is the best to buy right now is far from straightforward. Lingering concerns around inflation, US policy, and global tensions have kept market growth in check, although Bitcoin managed to hit a new all-time high of $124,128 just last month. Beyond Bitcoin, investor interest remains […] The post Best Crypto to Buy 19 September – XRP, Shiba Inu, Pepe appeared first on Cryptonews .",
-    "ingested_utc": "2025-09-19T22:38:17Z"
-  },
-  {
-    "published_utc": "2025-09-19",
-    "retrieved_date": "2025-09-19",
-    "retrieved_utc": "2025-09-19T22:38:17Z",
-    "source": "CryptoNews",
-    "title": "China’s DeepSeek AI Predicts the Price of XRP, Dogecoin and Pi Coin by the End of 2025",
-    "url": "https://cryptonews.com/news/chinas-deepseek-ai-predicts-the-price-of-xrp-dogecoin-and-pi-coin-by-the-end-of-2025/",
-    "id_key": "fefccf874c57c88c078837396b16262caf52097d790d766bb62feaf4e03dca4e",
-    "summary": "China’s homegrown ChatGPT alternative, DeepSeek AI, predict that XRP, Dogecoin, and Pi Network could post substantial gains for investors before the year’s end.The broader crypto market seems to be laying the groundwork for such a move. Just last month, Bitcoin reached a fresh record high of $124,128, beating the prior peak of $122,838 set only […] The post China’s DeepSeek AI Predicts the Price of XRP, Dogecoin and Pi Coin by the End of 2025 appeared first on Cryptonews .",
-    "ingested_utc": "2025-09-19T22:38:17Z"
   }
 ]
