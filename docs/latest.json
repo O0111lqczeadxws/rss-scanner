@@ -2,6 +2,72 @@
   {
     "published_utc": "2025-09-23",
     "retrieved_date": "2025-09-23",
+    "retrieved_utc": "2025-09-23T19:50:48Z",
+    "source": "AlJazeera_All",
+    "title": "Israel seeks permanent Gaza control, Jewish majority in West Bank: UN",
+    "url": "https://www.aljazeera.com/news/2025/9/23/israel-seeks-permanent-gaza-control-jewish-majority-in-west-bank-un?traffic_source=rss",
+    "id_key": "d99843da98b197137f5dfdfd9767ea9dbcf96b98401de10746ad8834309511f4",
+    "summary": "A new report from the UN finds Israel has been 'systematically destroying Palestinian life in Gaza'.",
+    "ingested_utc": "2025-09-23T19:50:48Z"
+  },
+  {
+    "published_utc": "2025-09-23",
+    "retrieved_date": "2025-09-23",
+    "retrieved_utc": "2025-09-23T19:50:36Z",
+    "source": "ArsTechnica_All",
+    "title": "FCC chairman unconvincingly claims he never threatened ABC station licenses",
+    "url": "https://arstechnica.com/tech-policy/2025/09/fcc-chairman-unconvincingly-claims-he-never-threatened-abc-station-licenses/",
+    "id_key": "cb28bb83dacd6e9997d68a718c28a26cc107b76d4e426a7daaca77a8f2002389",
+    "summary": "Brendan Carr would like you to reject the evidence of your eyes and ears.",
+    "ingested_utc": "2025-09-23T19:50:36Z"
+  },
+  {
+    "published_utc": "2025-09-23",
+    "retrieved_date": "2025-09-23",
+    "retrieved_utc": "2025-09-23T19:49:48Z",
+    "source": "Guardian_World",
+    "title": "Trump says he believes Ukraine can regain all land lost to Russia since 2022 invasion",
+    "url": "https://www.theguardian.com/us-news/2025/sep/23/trump-ukraine-land-lost-russia-nato-oil-imports-un-speech",
+    "id_key": "7bac2bcb4eee8b7ea9f79a88bad18fc77699a4b5216bc17f81e3880b3ee7ec91",
+    "summary": "US president claims Russia is in ‘big economic trouble’ as he calls for Nato countries to stop imports of Russian oil Donald Trump has said he believes Ukraine can regain all the land that it has lost since the 2022 Russian invasion in one of the strongest statements of support he has given Kyiv. The US president delivered his upbeat assessment by claiming Russia was in big economic trouble in a post on Truth Social after meeting the Ukrainian president, Volodymyr Zelenskyy, in New York. Continue reading...",
+    "ingested_utc": "2025-09-23T19:49:48Z"
+  },
+  {
+    "published_utc": "2025-09-23",
+    "retrieved_date": "2025-09-23",
+    "retrieved_utc": "2025-09-23T19:49:48Z",
+    "source": "Guardian_World",
+    "title": "Trump says Ukraine could regain all territory lost to Russia since 2022 invasion after meeting Zelenskyy at UN – live",
+    "url": "https://www.theguardian.com/us-news/live/2025/sep/23/donald-trump-unga-autism-tylenol-us-politics-live-news-updates",
+    "id_key": "543e5f1271823a30f366e98614f67fa3e54a6764e5ffdf9e946ca9a67a9360ac",
+    "summary": "US president’s social media post is one of strongest shows of support for Kyiv yet Trump calls for nations to close borders and expel foreigners in UN speech: ‘Your countries are being ruined’ Fact-check: Trump’s false and misleading claims during his UN address While the Secret Service hasn’t confirmed that the telecommunications threat was targeting the United Nations general assembly, the agency said that the devices were “concentrated within 35 miles of the global meeting” and the investigation is ongoing. The Secret Service added that early forensic analysis of the deviced indicates “cellular communications between nation-state threat actors and individuals that are known to federal law enforcement”. Continue reading...",
+    "ingested_utc": "2025-09-23T19:49:48Z"
+  },
+  {
+    "published_utc": "2025-09-23",
+    "retrieved_date": "2025-09-23",
+    "retrieved_utc": "2025-09-23T19:49:24Z",
+    "source": "Optimism_Releases",
+    "title": "op-node v1.13.7",
+    "url": "https://github.com/ethereum-optimism/optimism/releases/tag/op-node%2Fv1.13.7",
+    "id_key": "e101254e1506b136f48a56b0b7cb1f35d43ec195101ab12c19a7bd572fcbe978",
+    "summary": "Note This is a required release for the arena-z-sepolia chain. It is optional otherwise. 🤝 The corresponding op-geth release is v1.101602.3 . What's Changed op-node: remove elSyncEnabled as it is a noop by @nonsense in #17425 refactor: introduce IsFeature toggles for Jovian by @geoknee in #17424 go: bump op-geth dependency to update SR for addresses cleanup by @serpixel in #17404 chore: update SystemConfig doc for minimum base fee by @wlawt in #17481 feat: add tests for min-base-fee by @wlawt in #17441 chore: bump op-geth to include new superchain registry configuration of arena-z-sepolia isthmus hardfork by @jelias2 in #17437 op-node: Skip L1 genesis hash check if block is not available from the L1 by @ajsutton in #17407 min-base-fee: bring in op-geth code by @geoknee in #17307 feat: bump op-geth by @jelias2 in #17323 op-node: fix comment for l1.cache-size by @zhiqiangxu in #17107 New Contributors @devin-ai-integration [bot] made their first contribution in #17415 @wlawt made their first contribution in #17330 Full Changelog : op-node/v1.13.6...op-node/v1.13.7 🚢 Docker Image https://us-docker.pkg.dev/oplabs-tools-artifacts/images/op-node:v1.13.7",
+    "ingested_utc": "2025-09-23T19:49:24Z"
+  },
+  {
+    "published_utc": "2025-09-23",
+    "retrieved_date": "2025-09-23",
+    "retrieved_utc": "2025-09-23T19:47:55Z",
+    "source": "CryptoSlate",
+    "title": "Morgan Stanley to kick off proprietary crypto trading services via digital platform in 2026",
+    "url": "https://cryptoslate.com/morgan-stanley-to-kick-off-proprietary-crypto-trading-services-via-digital-platform-in-2026/",
+    "id_key": "5e79dc0993c6ffebd8ca677280080e5f553a9c7268d84815413f9b8e5bb55220",
+    "summary": "Morgan Stanley announced it aims to roll out its proprietary crypto trading service on the E*Trade platform in the first half of 2026 through a partnership with digital asset infrastructure firm Zerohash. At launch, E*Trade clients will be able to trade Bitcoin, Ethereum, and Solana, marking one of the most significant steps yet by a […] The post Morgan Stanley to kick off proprietary crypto trading services via digital platform in 2026 appeared first on CryptoSlate .",
+    "ingested_utc": "2025-09-23T19:47:55Z"
+  },
+  {
+    "published_utc": "2025-09-23",
+    "retrieved_date": "2025-09-23",
     "retrieved_utc": "2025-09-23T19:36:52Z",
     "source": "MIT_TechReview",
     "title": "Roundtables: Meet the 2025 Innovator of the Year",
@@ -10932,71 +10998,5 @@
     "id_key": "364295f361fb9d856723b8b99db40e007e46c5def420718e8d1eab8cfea33474",
     "summary": "TORONTO, Sept. 22, 2025 (GLOBE NEWSWIRE) — AGF Investments Inc. (AGF Investments) today announced the September 2025 cash distributions for AGF Enhanced U.S. Equity Income Fund*, AGF Total Return Bond Fund* and AGF Systematic Global Infrastructure ETF, which pay monthly distributions, as well as AGF Global Sustainable Growth Equity ETF, which pays quarterly distributions. Unitholders […]",
     "ingested_utc": "2025-09-22T11:37:03Z"
-  },
-  {
-    "published_utc": "2025-09-22",
-    "retrieved_date": "2025-09-22",
-    "retrieved_utc": "2025-09-22T11:36:56Z",
-    "source": "TheStreet_Top",
-    "title": "Stock Market Today: Stocks Sag As Last Full Trading Week of Third Quarter Kicks Off",
-    "url": "https://www.thestreet.com/markets/stock-market-today-september-22-2025",
-    "id_key": "5df7aa1779e7152d68f6150ecfe2db5c14a76d6dbc1777d1d7d644470828f362",
-    "summary": "Stocks are near all-time highs as the third quarter draws to a close.",
-    "ingested_utc": "2025-09-22T11:36:56Z"
-  },
-  {
-    "published_utc": "2025-09-22",
-    "retrieved_date": "2025-09-22",
-    "retrieved_utc": "2025-09-22T11:33:52Z",
-    "source": "Guardian_World",
-    "title": "UN and rights groups condemn reported jailing of Wuhan Covid citizen journalist",
-    "url": "https://www.theguardian.com/world/2025/sep/22/un-rights-groups-condemn-reported-jailing-wuhan-covid-citizen-journalist-zhang-zhan",
-    "id_key": "5080da9a752ce858051c3ae4ac2d43a03de05ece8e08eff533c222c7c82e1e87",
-    "summary": "Zhang Zhan sentenced to four years for second time on charge often used by China to target government critics The UN, human rights groups and media freedom watchdogs have condemned reports that Zhang Zhan , a Chinese citizen journalist, was sentenced to jail for the second time last week. Zhang, 42, is thought to have stood trial in Shanghai on Friday on a charge of “picking quarrels and provoking trouble”, a charge often used in China to target critics of the government. Western diplomats were reportedly turned away from observing the trial. Continue reading...",
-    "ingested_utc": "2025-09-22T11:33:52Z"
-  },
-  {
-    "published_utc": "2025-09-22",
-    "retrieved_date": "2025-09-22",
-    "retrieved_utc": "2025-09-22T11:33:52Z",
-    "source": "Guardian_World",
-    "title": "UK recognises state of Palestine to ‘keep alive’ the possibility of peace",
-    "url": "https://www.theguardian.com/uk-news/2025/sep/21/uk-recognises-palestine-as-an-independent-state",
-    "id_key": "604fc6d6118a6dd991943d5521b88406c7575f553fb255c9dd3f16c81b34aeb0",
-    "summary": "Keir Starmer says announcement shows government’s hopes for a secure Israel alongside a viable Palestine Netanyahu says recognition is a prize for terrorism The UK has formally recognised Palestine as an independent state, Keir Starmer has said, in a deeply symbolic announcement that the government hopes will show its commitment to peace in the region and ease domestic political tensions. In a sign of the global concern over the humanitarian crisis in Gaza, Canada and Australia also made their own formal declarations recognising Palestine on Sunday ahead of a conference of the UN general assembly in New York. Continue reading...",
-    "ingested_utc": "2025-09-22T11:33:52Z"
-  },
-  {
-    "published_utc": "2025-09-22",
-    "retrieved_date": "2025-09-22",
-    "retrieved_utc": "2025-09-22T11:28:40Z",
-    "source": "FinancialPost_Business",
-    "title": "Fury Announces Up to C$12 Million Brokered Financing",
-    "url": "https://financialpost.com/globe-newswire/fury-announces-up-to-c12-million-brokered-financing",
-    "id_key": "a833a3e03c026ff4ef7b218e5c8772eafe4a84d2a6b6ba3e2c5030cc5fa7a5c1",
-    "summary": "NOT FOR DISTRIBUTION TO UNITED STATES NEWSWIRE SERVICES OR FOR DISSEMINATION IN THE UNITED STATES VANCOUVER, British Columbia, Sept. 22, 2025 (GLOBE NEWSWIRE) — FURY GOLD MINES LIMITED (TSX: FURY, NYSE American: FURY) (“Fury” or the “Company”) is pleased to announce that it has entered into an agreement with Haywood Securities Inc., on behalf of […]",
-    "ingested_utc": "2025-09-22T11:28:40Z"
-  },
-  {
-    "published_utc": "2025-09-22",
-    "retrieved_date": "2025-09-22",
-    "retrieved_utc": "2025-09-22T11:28:01Z",
-    "source": "NPR_Top",
-    "title": "Trump speaks at Kirk memorial. And, several world leaders recognize Palestinian state",
-    "url": "https://www.npr.org/2025/09/22/g-s1-89908/up-first-newsletter-charlie-kirk-memorial-pam-bondi-trump-palestinian-state",
-    "id_key": "4780816a03a4e0c78f3b2e790c087acd0e600cd1fa2719e2dd0b5dd6f53562e9",
-    "summary": "President Trump and other top political figures paid tribute to Charlie Kirk at his memorial service. And, several Western countries are expected to recognize a Palestinian state today.",
-    "ingested_utc": "2025-09-22T11:28:01Z"
-  },
-  {
-    "published_utc": "2025-09-22",
-    "retrieved_date": "2025-09-22",
-    "retrieved_utc": "2025-09-22T11:27:54Z",
-    "source": "NYTimes_World",
-    "title": "For Arab Nations With Ties to Israel, Attacks on Qatar and Gaza City Raise Anxiety",
-    "url": "https://www.nytimes.com/2025/09/22/world/middleeast/arab-israel-conflict-regional-palestinians.html",
-    "id_key": "227893851248dd018a677761aacf4e50205a3e7f20914a6786f637e35919a54c",
-    "summary": "The Middle Eastern states closest to Israel see the attack on Hamas officials in Qatar and the invasion of Gaza City as warning signs of potential threats to their own security.",
-    "ingested_utc": "2025-09-22T11:27:54Z"
   }
 ]
