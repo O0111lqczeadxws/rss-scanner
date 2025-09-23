@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-09-23",
     "retrieved_date": "2025-09-23",
+    "retrieved_utc": "2025-09-23T10:52:26Z",
+    "source": "HackerNews_Top",
+    "title": "The YAML Document from Hell",
+    "url": "https://ruudvanasseldonk.com/2023/01/11/the-yaml-document-from-hell",
+    "id_key": "3c05136dd7358ff2cd5c974e0ba3a465ca315e2c91c3e5ed45ffc6ebabf8cde8",
+    "summary": "Comments",
+    "ingested_utc": "2025-09-23T10:52:26Z"
+  },
+  {
+    "published_utc": "2025-09-23",
+    "retrieved_date": "2025-09-23",
+    "retrieved_utc": "2025-09-23T10:49:23Z",
+    "source": "CryptoNews",
+    "title": "Crypto Treasury Craze Cracks as Firms Start Borrowing to Buy Back Share",
+    "url": "https://cryptonews.com/news/crypto-treasury-craze-cracks-as-firms-start-borrowing-to-buy-back-share/",
+    "id_key": "96e0348eb8505aa03ce39a44cc71fb93ff569f3161174c94677d1a65e6e5fe17",
+    "summary": "Crypto treasury firms are launching debt-funded share buybacks as their stock prices tumble. The post Crypto Treasury Craze Cracks as Firms Start Borrowing to Buy Back Share appeared first on Cryptonews .",
+    "ingested_utc": "2025-09-23T10:49:23Z"
+  },
+  {
+    "published_utc": "2025-09-23",
+    "retrieved_date": "2025-09-23",
     "retrieved_utc": "2025-09-23T10:37:07Z",
     "source": "AlJazeera_All",
     "title": "Why is Jimmy Kimmel returning to ABC, what did his suspension cost Disney?",
@@ -10974,28 +10996,6 @@
     "title": "Chinese miner Zijin Gold files for Hong Kong listing to raise $3bn",
     "url": "https://asia.nikkei.com/business/markets/ipo/chinese-miner-zijin-gold-files-for-hong-kong-listing-to-raise-3bn",
     "id_key": "5bee7c1b72d9bab71e6d3d4404c4fb533f4c60b34067dd8c7e27b0d5f37b6eca",
-    "summary": "",
-    "ingested_utc": "2025-09-21T00:58:06Z"
-  },
-  {
-    "published_utc": "2025-09-21",
-    "retrieved_date": "2025-09-21",
-    "retrieved_utc": "2025-09-21T00:58:06Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "Japan stocks close down, yen rises after BOJ's policy announcement",
-    "url": "https://asia.nikkei.com/business/markets/japan-stocks-close-down-yen-rises-after-boj-s-policy-announcement",
-    "id_key": "fdbd87f00ed919eeb8c2600e397bf6f14bcaea04bd7af4515ccc36f66398847e",
-    "summary": "",
-    "ingested_utc": "2025-09-21T00:58:06Z"
-  },
-  {
-    "published_utc": "2025-09-21",
-    "retrieved_date": "2025-09-21",
-    "retrieved_utc": "2025-09-21T00:58:06Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "Chinese film '731' on Japan WWII unit pulls in $42m on opening day",
-    "url": "https://asia.nikkei.com/business/media-entertainment/chinese-film-731-on-japan-wwii-unit-pulls-in-42m-on-opening-day",
-    "id_key": "cad3e231e999e827c4b19987a57af2ec4fa66ab319cae453a173356c6aef1e7c",
     "summary": "",
     "ingested_utc": "2025-09-21T00:58:06Z"
   }
