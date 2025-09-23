@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-09-23",
     "retrieved_date": "2025-09-23",
+    "retrieved_utc": "2025-09-23T23:36:07Z",
+    "source": "TheStreet_Top",
+    "title": "Amazon is selling $70 down pillows for $42 that are 'incredibly soft, fluffy, and supportive'",
+    "url": "https://www.thestreet.com/deals/aikoful-luxury-down-pillow-set-of-2-amazon-sale",
+    "id_key": "9c06899b59bcf16b9ab68d189af87dc3096efbc7536ed376eea9a8cc853129ff",
+    "summary": "\"It feels like something you’d find at a five-star resort.\"",
+    "ingested_utc": "2025-09-23T23:36:07Z"
+  },
+  {
+    "published_utc": "2025-09-23",
+    "retrieved_date": "2025-09-23",
+    "retrieved_utc": "2025-09-23T23:33:23Z",
+    "source": "CryptoNews",
+    "title": "Central Bank’s New Brazilian Forex Rules Could Impact Crypto Exchanges",
+    "url": "https://cryptonews.com/news/central-banks-new-brazilian-forex-rules-could-impact-crypto-exchanges/",
+    "id_key": "0fdc6d7faa5817fb71af9f82c19fd2d0815f361bc55940515941d0c011541bb5",
+    "summary": "Brazil’s central bank (BCB) has proposed new rules for the forex sector that may impose further restrictions on the country’s crypto exchanges. The post Central Bank’s New Brazilian Forex Rules Could Impact Crypto Exchanges appeared first on Cryptonews .",
+    "ingested_utc": "2025-09-23T23:33:23Z"
+  },
+  {
+    "published_utc": "2025-09-23",
+    "retrieved_date": "2025-09-23",
+    "retrieved_utc": "2025-09-23T23:33:19Z",
+    "source": "CryptoSlate",
+    "title": "Bitcoin becomes a macroeconomic asset as countries race to ramp up adoption",
+    "url": "https://cryptoslate.com/bitcoin-becomes-a-macroeconomic-asset-as-countries-race-to-ramp-up-adoption/",
+    "id_key": "3af72ebd7863fd6053aa5f568959cf2316dfc73c1f9eaa9ab98d0ea0118408b0",
+    "summary": "Bitcoin (BTC) adoption is growing among countries, with 32 nations actively pursuing exposure through legislation, representing roughly one in six nations worldwide, according to a Bitcoin Policy Institute report published Sept. 22. The study documents a rapid acceleration in government adoption following President Donald Trump’s election and subsequent executive order establishing a US Strategic Bitcoin […] The post Bitcoin becomes a macroeconomic asset as countries race to ramp up adoption appeared first on CryptoSlate .",
+    "ingested_utc": "2025-09-23T23:33:19Z"
+  },
+  {
+    "published_utc": "2025-09-23",
+    "retrieved_date": "2025-09-23",
     "retrieved_utc": "2025-09-23T23:29:03Z",
     "source": "FinancialPost_Business",
     "title": "UK Says Cut to Standing Charges Alone Won’t Reduce Energy Bills",
@@ -10965,38 +10998,5 @@
     "id_key": "65f28be780e67a9397bacb9161a26b50ad7a4add5e0cd688232b1e881148026e",
     "summary": "Seventy members of parliament sign a letter calling for a 'change in the defence doctrine' of the nation.",
     "ingested_utc": "2025-09-22T14:15:24Z"
-  },
-  {
-    "published_utc": "2025-09-22",
-    "retrieved_date": "2025-09-22",
-    "retrieved_utc": "2025-09-22T14:15:23Z",
-    "source": "TheStreet_Top",
-    "title": "Goldman Sachs resets bold S&P 500 target",
-    "url": "https://www.thestreet.com/investing/goldman-sachs-resets-bold-s-p-500-target-",
-    "id_key": "d20e2c122b688ccee3f041584c1f074bb7d9c441738a79a95909426e418e14ec",
-    "summary": "Goldman Sachs set a fresh bar for Wall Street to chase.",
-    "ingested_utc": "2025-09-22T14:15:23Z"
-  },
-  {
-    "published_utc": "2025-09-22",
-    "retrieved_date": "2025-09-22",
-    "retrieved_utc": "2025-09-22T14:15:12Z",
-    "source": "ArsTechnica_All",
-    "title": "F1 in Azerbaijan: This sport is my red flag",
-    "url": "https://arstechnica.com/cars/2025/09/f1-in-azerbaijan-this-sport-is-my-red-flag/",
-    "id_key": "cc5af2296290c49a2a8bd132afae54a259e4ace311032ce23be7de3ef8ae6d10",
-    "summary": "Baku is a mashup of Monaco and Monza, 90 meters below sea level.",
-    "ingested_utc": "2025-09-22T14:15:12Z"
-  },
-  {
-    "published_utc": "2025-09-22",
-    "retrieved_date": "2025-09-22",
-    "retrieved_utc": "2025-09-22T14:15:10Z",
-    "source": "TheVerge_All",
-    "title": "Record labels claim AI generator Suno illegally ripped their songs from YouTube",
-    "url": "https://www.theverge.com/news/782448/riaa-suno-ai-lawsuit-update-stream-ripping-youtube",
-    "id_key": "43d06d9ac97e9e9d685c4ea4d1742069f4aa7bcadb681c233ad450b9f6b23075",
-    "summary": "Major record labels have escalated their lawsuit against Suno, alleging that the AI startup knowingly pirated songs from YouTube to train its generative AI music models. In the amended complaint filed on September 19th, the Recording Industry Association of America (RIAA) accuses Suno of unlawfully “stream ripping” tracks on YouTube — a practice that involves […]",
-    "ingested_utc": "2025-09-22T14:15:10Z"
   }
 ]
