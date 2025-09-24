@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-09-24",
     "retrieved_date": "2025-09-24",
+    "retrieved_utc": "2025-09-24T09:34:28Z",
+    "source": "HackerNews_Top",
+    "title": "That Secret Service SIM farm story is bogus",
+    "url": "https://cybersect.substack.com/p/that-secret-service-sim-farm-story",
+    "id_key": "62fad0210d61591792f94906d5aca9f1394529e3f6e8570a4977d956c335ed5d",
+    "summary": "Comments",
+    "ingested_utc": "2025-09-24T09:34:28Z"
+  },
+  {
+    "published_utc": "2025-09-24",
+    "retrieved_date": "2025-09-24",
+    "retrieved_utc": "2025-09-24T09:33:40Z",
+    "source": "FT_Home",
+    "title": "Can the largest listed hedge fund rebound?",
+    "url": "https://www.ft.com/content/35811f33-0832-4a60-8c4d-8ab986a1faf1",
+    "id_key": "57748a2584ab81cdfaee10daa883fb71851ad60df14ce411286a4b228b74f466",
+    "summary": "Falling share price, investor withdrawals and lacklustre performance present a strategic dilemma for Man Group",
+    "ingested_utc": "2025-09-24T09:33:40Z"
+  },
+  {
+    "published_utc": "2025-09-24",
+    "retrieved_date": "2025-09-24",
+    "retrieved_utc": "2025-09-24T09:31:06Z",
+    "source": "BBC_World",
+    "title": "Born in India, but not Indian: 'Stateless' man fights for citizenship",
+    "url": "https://www.bbc.com/news/articles/c0m4xe20p8ro?at_medium=RSS&at_campaign=rss",
+    "id_key": "36f233211223a9bee7845924e398b658055c7636906ba1515dd8b8f7113f2fc3",
+    "summary": "Bahison Ravindran thought he was an Indian by birth - until police declared his passport invalid.",
+    "ingested_utc": "2025-09-24T09:31:06Z"
+  },
+  {
+    "published_utc": "2025-09-24",
+    "retrieved_date": "2025-09-24",
     "retrieved_utc": "2025-09-24T09:15:56Z",
     "source": "HackerNews_Top",
     "title": "Ruby Central Is Not Behaving in Good Faith, and I've Got Receipts",
@@ -10965,38 +10998,5 @@
     "id_key": "44829caadb536aff8786b5653a1c94b25a321ecc98b022defdf73f112aac3335",
     "summary": "A group of Senate Democrats has expressed willingness to work with Republicans on a crypto market structure bill, outlining key pillars for the legislation ahead of an expected vote in the Senate. The post Democrats Back Bipartisan Crypto Market Structure Bill as Senate Vote Looms appeared first on Cryptonews .",
     "ingested_utc": "2025-09-22T18:53:56Z"
-  },
-  {
-    "published_utc": "2025-09-22",
-    "retrieved_date": "2025-09-22",
-    "retrieved_utc": "2025-09-22T18:53:52Z",
-    "source": "CryptoSlate",
-    "title": "Ripple unveils institutional-focused roadmap for XRPL with native lending protocol and ZKP features",
-    "url": "https://cryptoslate.com/ripple-unveils-institutional-focused-roadmap-for-xrpl-with-native-lending-protocol-and-zkp-features/",
-    "id_key": "e3c21e30bdc430d8c918b684766383373f0011b6a2bf749827a30f0d207c489b",
-    "summary": "Ripple unveiled a roadmap for the XRP Ledger (XRPL) on Sept. 22 that introduces protocol-level lending, zero-knowledge privacy features, and expanded tokenization standards. The roadmap centers on three core announcements: a native lending protocol scheduled for Version 3.0, confidential Multi-Purpose Tokens arriving in the first quarter of next year, and the immediate availability of compliance […] The post Ripple unveils institutional-focused roadmap for XRPL with native lending protocol and ZKP features appeared first on CryptoSlate .",
-    "ingested_utc": "2025-09-22T18:53:52Z"
-  },
-  {
-    "published_utc": "2025-09-22",
-    "retrieved_date": "2025-09-22",
-    "retrieved_utc": "2025-09-22T18:53:33Z",
-    "source": "Guardian_World",
-    "title": "Earthquake with 4.3 magnitude rocks San Francisco Bay Area",
-    "url": "https://www.theguardian.com/us-news/2025/sep/22/san-francisco-bay-area-earthquake",
-    "id_key": "b796f3b1310aa04c0777225dc8c067aec543c4f98bcffe85b7af777416fe1bc9",
-    "summary": "More than 22,000 people report feeling early-morning quake, which occurred east-south-east of Berkeley An earthquake with a magnitude of 4.3 rocked the San Francisco Bay Area early on Monday, waking up many people. The earthquake was just east-south-east of Berkeley, the United States Geological survey said, and more than 22,000 people said they felt it. Continue reading...",
-    "ingested_utc": "2025-09-22T18:53:33Z"
-  },
-  {
-    "published_utc": "2025-09-22",
-    "retrieved_date": "2025-09-22",
-    "retrieved_utc": "2025-09-22T18:53:33Z",
-    "source": "Guardian_World",
-    "title": "Democrats silent as Republicans galvanised after Charlie Kirk memorial",
-    "url": "https://www.theguardian.com/us-news/2025/sep/22/charlie-kirk-memorial-democrats-republicans",
-    "id_key": "af5e17565c09604f73e2dc36c299b7db0f5e7768bb02b1bcd3bfea8c42e6cb53",
-    "summary": "Democrats trod carefully in responding to event attended by nearly 100,000 that blended politics with religion Democrats maintained a wary silence on Monday as Donald Trump’s Republican party appeared galvanised by a memorial service for the late rightwing activist Charlie Kirk that was part religious revival, part political rally. Nearly 100,000 people filled an American football stadium and overflow arena in Glendale, Arizona, on Sunday to pay tribute to Kirk, according to his his organisation Turning Point USA. The 31-year-old staunch Trump ally was shot dead on 10 September. Continue reading...",
-    "ingested_utc": "2025-09-22T18:53:33Z"
   }
 ]
