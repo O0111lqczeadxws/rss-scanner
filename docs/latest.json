@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-09-25",
     "retrieved_date": "2025-09-25",
+    "retrieved_utc": "2025-09-25T17:50:52Z",
+    "source": "HackerNews_Top",
+    "title": "GDPVal: Measuring the performance of our models on real-world tasks",
+    "url": "https://openai.com/index/gdpval/",
+    "id_key": "600bb640506a663deed6a9d0429984c6ed51e4b17a78aa6fbf563e788b05ca27",
+    "summary": "Comments",
+    "ingested_utc": "2025-09-25T17:50:52Z"
+  },
+  {
+    "published_utc": "2025-09-25",
+    "retrieved_date": "2025-09-25",
     "retrieved_utc": "2025-09-25T17:41:34Z",
     "source": "FinancialPost_Business",
     "title": "Mink Ventures Launches $500,000 Non-Brokered Private Placement Financing With CMETC Flow-Through and Hard Dollar Units",
@@ -10986,17 +10997,6 @@
     "url": "https://financialpost.com/pmn/business-pmn/india-trade-minister-seeks-more-us-energy-as-trade-talks-resume",
     "id_key": "613580f60c3dd900bb4c218a43b29f3bdcb7e6c9a84ed6b69d8e0a15b3e760d7",
     "summary": "India wants to increase purchase of oil and gas from the US, Commerce Minister Piyush Goyal said, amid efforts to persuade Washington to lower tariff on country’s exports and secure a trade deal.",
-    "ingested_utc": "2025-09-24T08:18:43Z"
-  },
-  {
-    "published_utc": "2025-09-24",
-    "retrieved_date": "2025-09-24",
-    "retrieved_utc": "2025-09-24T08:18:43Z",
-    "source": "FinancialPost_Business",
-    "title": "Drones Cause Fire at Russia’s Salavat Petrochemical Plant",
-    "url": "https://financialpost.com/pmn/business-pmn/drones-cause-fire-at-russias-salavat-petrochemical-plant",
-    "id_key": "3212499d63e93432bcbf0b8b0752eaecbc8e3abcf8d7c2fcf3c8844329b289d5",
-    "summary": "A drone attack caused a fire at Gazprom PJSC’s Neftekhim Salavat petrochemical plant in Russia’s Bashkortostan region, the second assault on the facility in less than a week.",
     "ingested_utc": "2025-09-24T08:18:43Z"
   }
 ]
