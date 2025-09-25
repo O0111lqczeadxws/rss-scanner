@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-09-25",
     "retrieved_date": "2025-09-25",
+    "retrieved_utc": "2025-09-25T07:50:26Z",
+    "source": "FT_Home",
+    "title": "Drones seen at four more Danish airports in ‘systematic’ attack",
+    "url": "https://www.ft.com/content/a38025d0-34b5-4963-9bff-7cb0b6c176f7",
+    "id_key": "4922b19331a78c54aada6da3b836ca8b55313039688d6bf72c1836d72f4ecc52",
+    "summary": "Airfield used by military shut down for several hours as Europe remains on alert over airspace violations",
+    "ingested_utc": "2025-09-25T07:50:26Z"
+  },
+  {
+    "published_utc": "2025-09-25",
+    "retrieved_date": "2025-09-25",
+    "retrieved_utc": "2025-09-25T07:47:59Z",
+    "source": "CryptoBriefing",
+    "title": "Nine European banks to launch euro-denominated stablecoin",
+    "url": "https://cryptobriefing.com/european-banks-euro-stablecoin-launch/",
+    "id_key": "141d739cb6d57fbf8f9ba2018426439a712adcfc0b34d62fe8d22ec542a47a1d",
+    "summary": "The euro stablecoin initiative may enhance EU financial sovereignty, diversify digital asset markets, and reduce reliance on USD-pegged coins. The post Nine European banks to launch euro-denominated stablecoin appeared first on Crypto Briefing .",
+    "ingested_utc": "2025-09-25T07:47:59Z"
+  },
+  {
+    "published_utc": "2025-09-25",
+    "retrieved_date": "2025-09-25",
     "retrieved_utc": "2025-09-25T07:39:27Z",
     "source": "Guardian_World",
     "title": "Danish authorities will acquire ‘enhanced capabilities’ after drones shut down Aalborg airport – Europe live",
@@ -10976,27 +10998,5 @@
     "id_key": "91741f78a0a93c1d58cf604bff41c906e5228e94767df1c9c7f89c3290155038",
     "summary": "The company notes that translations occur on the user's device where WhatsApp cannot see them, which means messages remain encrypted.",
     "ingested_utc": "2025-09-23T16:16:50Z"
-  },
-  {
-    "published_utc": "2025-09-23",
-    "retrieved_date": "2025-09-23",
-    "retrieved_utc": "2025-09-23T16:16:35Z",
-    "source": "FT_Markets",
-    "title": "Bitcoin treasuries play havoc with merger maths",
-    "url": "https://www.ft.com/content/74a88f71-7f8c-45bd-a532-d092029814ce",
-    "id_key": "c41128a48feffe535759cc530ae76db3ca4909f823633baa5021ff0bfa3c6bbe",
-    "summary": "Strive deal points up fact that different bitcoin hoards can trade at different prices depending on who holds them",
-    "ingested_utc": "2025-09-23T16:16:35Z"
-  },
-  {
-    "published_utc": "2025-09-23",
-    "retrieved_date": "2025-09-23",
-    "retrieved_utc": "2025-09-23T16:16:33Z",
-    "source": "FT_Home",
-    "title": "Dassault says it can build fighter jet alone if European project collapses",
-    "url": "https://www.ft.com/content/77b65341-0df9-46bb-8ea7-aaa10aeb3209",
-    "id_key": "10c8bea249fca19439ddea537a95fb61ff7b14f2d91f2966fd4ad02b7ad8fe30",
-    "summary": "Comments by French defence company CEO are latest sign of rift over joint development programme with Germany",
-    "ingested_utc": "2025-09-23T16:16:33Z"
   }
 ]
