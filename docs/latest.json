@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-09-26",
     "retrieved_date": "2025-09-26",
+    "retrieved_utc": "2025-09-26T22:50:15Z",
+    "source": "AlJazeera_All",
+    "title": "UN lists 158 firms tied to illegal Israeli settlements",
+    "url": "https://www.aljazeera.com/news/2025/9/26/un-lists-150-firms-tied-to-illegal-israeli-settlements?traffic_source=rss",
+    "id_key": "2614c2ba560c1215738c8f5d2a0947242df9d6f2438a506fda7290ed36c5719c",
+    "summary": "Report exposes global firms profiting from Israel’s unlawful settlement enterprise in the occupied West Bank.",
+    "ingested_utc": "2025-09-26T22:50:15Z"
+  },
+  {
+    "published_utc": "2025-09-26",
+    "retrieved_date": "2025-09-26",
     "retrieved_utc": "2025-09-26T22:40:11Z",
     "source": "Guardian_World",
     "title": "Trump urges Microsoft to fire lawyer who ran investigation into attempt to overturn 2020 US election – live",
@@ -10987,16 +10998,5 @@
     "id_key": "5e2310d4a19f0edf60ad7d1f86cbe1e7b8b93680f954f1be92ae5b92de4a0e34",
     "summary": "A burst pipe in an unfinished extension of Bangkok’s subway system opened a hole more than 60 feet deep in a road near a hospital and royal palaces.",
     "ingested_utc": "2025-09-25T10:14:14Z"
-  },
-  {
-    "published_utc": "2025-09-25",
-    "retrieved_date": "2025-09-25",
-    "retrieved_utc": "2025-09-25T10:12:12Z",
-    "source": "CryptoSlate",
-    "title": "Home staking at risk as Ethereum data loads climb from 70GB toward 1.2TB",
-    "url": "https://cryptoslate.com/vitalik-buterin-outlines-scalable-solution-for-ethereums-data-surge/",
-    "id_key": "eb3354d0346655e099c4f400626ea5271c5eb3508cd7e255833d014cdbdaf80f",
-    "summary": "Ethereum co-founder Vitalik Buterin has identified Peer Data Availability Sampling (PeerDAS) as a crucial tool for addressing the network’s growing blob storage demands. PeerDAS is a feature of the upcoming Fusaka upgrade. His remarks arrive as Ethereum records six blobs per block, a milestone that has intensified concerns about data bloat across the ecosystem. Blobs […] The post Home staking at risk as Ethereum data loads climb from 70GB toward 1.2TB appeared first on CryptoSlate .",
-    "ingested_utc": "2025-09-25T10:12:12Z"
   }
 ]
