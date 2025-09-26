@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-09-26",
     "retrieved_date": "2025-09-26",
+    "retrieved_utc": "2025-09-26T23:28:24Z",
+    "source": "FinancialPost_Business",
+    "title": "Brookfield’s Rockpoint Gas Seeks $347 Million in Toronto IPO",
+    "url": "https://financialpost.com/pmn/business-pmn/brookfields-rockpoint-gas-seeks-347-million-in-toronto-ipo",
+    "id_key": "dfedfc88d6b22661200c5d4ebe7ff406060737f859e154e9aec7c3ac77b769a2",
+    "summary": "Rockpoint Gas Storage Inc., Brookfield Asset Management’s North American natural gas storage platform, is seeking to raise as much as C$484 million ($347 million) in its initial public offering.",
+    "ingested_utc": "2025-09-26T23:28:24Z"
+  },
+  {
+    "published_utc": "2025-09-26",
+    "retrieved_date": "2025-09-26",
+    "retrieved_utc": "2025-09-26T23:27:42Z",
+    "source": "NPR_Top",
+    "title": "Supreme Court allows Trump to withhold $4 billion in foreign aid",
+    "url": "https://www.npr.org/2025/09/26/nx-s1-5554825/supreme-court-trump-foreign-aid-pocket-rescission",
+    "id_key": "d9334d4986c1272d3a759a54857e8da9f71dd933d00965988015976f44715f3a",
+    "summary": "The court's majority said Trump's foreign policy authority outweighed the harms claimed by the international aid groups suing.",
+    "ingested_utc": "2025-09-26T23:27:42Z"
+  },
+  {
+    "published_utc": "2025-09-26",
+    "retrieved_date": "2025-09-26",
     "retrieved_utc": "2025-09-26T23:13:36Z",
     "source": "Nikkei_Asia_Top",
     "title": "Exploring Mumbai's 'secret' green oases",
@@ -10976,27 +10998,5 @@
     "id_key": "490dc5e473d871ab5d2ea6506ae77bbf77c85ef5fd68f6013dae46009aa1a336",
     "summary": "South Korea reports Pyongyang building up enriched uranium supplies, insists 'stopping' nuclear development 'urgent'.",
     "ingested_utc": "2025-09-25T10:14:53Z"
-  },
-  {
-    "published_utc": "2025-09-25",
-    "retrieved_date": "2025-09-25",
-    "retrieved_utc": "2025-09-25T10:14:53Z",
-    "source": "AlJazeera_All",
-    "title": "‘Proxy’ war",
-    "url": "https://www.aljazeera.com/video/watch-your-language/2025/9/25/proxy-war?traffic_source=rss",
-    "id_key": "743efdd784b4cc1c79fd0ac708d60fc07c329f230adafd4940f06d29b339a22e",
-    "summary": "What's behind Israel's dismissal of Hamas as a \"proxy\" of Iran?",
-    "ingested_utc": "2025-09-25T10:14:53Z"
-  },
-  {
-    "published_utc": "2025-09-25",
-    "retrieved_date": "2025-09-25",
-    "retrieved_utc": "2025-09-25T10:14:44Z",
-    "source": "Engadget_All",
-    "title": "Proton Mail's redesigned mobile app is built for speed",
-    "url": "https://www.engadget.com/mobile/smartphones/proton-mails-redesigned-mobile-app-is-built-for-speed-100042054.html?src=rss",
-    "id_key": "0c72e41775994627ab08695426550195a6a3b1872c24e4e273e1881bedc4cde3",
-    "summary": "If you use Proton Mail on your phone, things are about to pick up. The company is rolling out new apps for Android and iOS. The updated mobile applications are rebuilt from the ground up with a \"cleaner, faster and more private experience.\" Proton first announced in April that it was working on the revamp. The company says the new Proton Mail lets you scroll, archive and reply twice as fast as before. It also now supports an offline mode, allowing you to read, write and organize messages while away from the internet. A redesigned interface aims for simpler navigation, with areas like the composer button now sitting within easier reach. The iOS and Android apps, while still native to their respective platforms, now share a common codebase. Proton says they share 80 percent of their code. This should enable faster development and near-simultaneous future updates. Proton Product lead Anant Vijay Singh credited the update to Proton's community and business model. \"The new Proton Mail mobile apps reflect this feedback and show what is possible if you build an email app without the constraints imposed by trying to monetize user data, allowing for a cleaner, faster, and more private experience,\" he said. Proton has had a full plate lately. The company is working on an upcoming overhaul of Proton Calendar with similar user experience upgrades. This summer, it even joined the chatbot fracas with Lumo , which it believes can carve a niche as a more ethical AI assistant . The Proton Mail updates begin rolling out today in the App Store and Play Store. This article originally appeared on Engadget at https://www.engadget.com/mobile/smartphones/proton-mails-redesigned-mobile-app-is-built-for-speed-100042054.html?src=rss",
-    "ingested_utc": "2025-09-25T10:14:44Z"
   }
 ]
