@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-09-26",
     "retrieved_date": "2025-09-26",
+    "retrieved_utc": "2025-09-26T04:37:14Z",
+    "source": "Nikkei_Asia_Top",
+    "title": "Yen dips to 2-month low against dollar as investors bet on longer BOJ pause",
+    "url": "https://asia.nikkei.com/business/markets/currencies/yen-dips-to-2-month-low-against-dollar-as-investors-bet-on-longer-boj-pause",
+    "id_key": "bb7e53c24698a264f62818469d173b14e220be700c6697da411afffcc8080141",
+    "summary": "",
+    "ingested_utc": "2025-09-26T04:37:14Z"
+  },
+  {
+    "published_utc": "2025-09-26",
+    "retrieved_date": "2025-09-26",
+    "retrieved_utc": "2025-09-26T04:37:07Z",
+    "source": "FinancialPost_Business",
+    "title": "China launches an investigation into Mexico’s tariffs on imports from Asia",
+    "url": "https://financialpost.com/pmn/china-launches-an-investigation-into-mexicos-tariffs-on-imports-from-asia",
+    "id_key": "3ec9ddce5b09bddfa60b92f9051b06d0b6424cf309e43face08386ec88ddd14a",
+    "summary": "BEIJING (AP) — China has opened an investigation into whether import tariffs being imposed by Mexico are a trade and investment barrier. Mexico plans to impose taxes as high as 50% on more than 1,400 products from Asia to protect factories at home, which are facing stiff tariffs imposed by President Donald Trump on exports […]",
+    "ingested_utc": "2025-09-26T04:37:07Z"
+  },
+  {
+    "published_utc": "2025-09-26",
+    "retrieved_date": "2025-09-26",
     "retrieved_utc": "2025-09-26T04:16:37Z",
     "source": "Nikkei_Asia_Top",
     "title": "Asian drugmakers' shares hit as Trump announces 100% tariff",
@@ -658,6 +680,17 @@
     "id_key": "9d181d75799eb6a0b6c2962597c1797a14945e6956600c45c2a28c8764affc8d",
     "summary": "The president said the move aims to help protect US manufacturers from foreign imports.",
     "ingested_utc": "2025-09-26T00:48:37Z"
+  },
+  {
+    "published_utc": "2025-09-25",
+    "retrieved_date": "2025-09-26",
+    "retrieved_utc": "2025-09-26T04:36:34Z",
+    "source": "FT_Markets",
+    "title": "Burnham’s borrowing plans would spook gilt market, investors warn",
+    "url": "https://www.ft.com/content/c18f8a1a-2cce-4e37-8a6c-a2a463ca72aa",
+    "id_key": "fc305096240c617ff0b233ea147b36dafc4f409522d8b247d8b7d45879e3ca3a",
+    "summary": "Fund managers say fresh borrowing spree would drive up gilt yields and dent the pound",
+    "ingested_utc": "2025-09-26T04:36:34Z"
   },
   {
     "published_utc": "2025-09-25",
@@ -10965,38 +10998,5 @@
     "id_key": "9720a6e7dc615202df0b9b4642f165178def4714c5e250e1fb0704fa24a18168",
     "summary": "Comments",
     "ingested_utc": "2025-09-24T15:34:37Z"
-  },
-  {
-    "published_utc": "2025-09-24",
-    "retrieved_date": "2025-09-24",
-    "retrieved_utc": "2025-09-24T15:34:22Z",
-    "source": "FinancialPost_Business",
-    "title": "Pelican AI and Christie Capital Announce Launch of Brokered Financing",
-    "url": "https://financialpost.com/globe-newswire/pelican-ai-and-christie-capital-announce-launch-of-brokered-financing-2",
-    "id_key": "cdc5f0a399466776d04a63a1a6de46e597405f708f96f94f1b534bb84d44dc54",
-    "summary": "NOT FOR DISTRIBUTION TO U.S. NEWS WIRE SERVICES OR DISSEMINATION IN THE UNITED STATES TORONTO, Sept. 24, 2025 (GLOBE NEWSWIRE) — Pelican Canada Inc., doing business as Pelican AI (“Pelican” or the “Company”) and Christie Capital Corp. (“Christie”) are pleased to announce that Pelican is launching a brokered private placement of subscription receipts (each, a […]",
-    "ingested_utc": "2025-09-24T15:34:22Z"
-  },
-  {
-    "published_utc": "2025-09-24",
-    "retrieved_date": "2025-09-24",
-    "retrieved_utc": "2025-09-24T15:34:06Z",
-    "source": "Engadget_All",
-    "title": "Google's AI Search Live is now available to all US app users",
-    "url": "https://www.engadget.com/ai/googles-ai-search-live-is-now-available-to-all-us-app-users-151849371.html?src=rss",
-    "id_key": "e670bf9c490e3f3f66432141c3adf6354edf415f52cf440e141f410254fbc132",
-    "summary": "Search Live is now available for Google app users in the US, offering real-time, multimodal search, powered by AI. This feature will enable users to have real-time conversations with Google Search in AI Mode while sharing their phone's camera feed with the app. Search will be able to see and interpret what the user's camera is focused on and offer relevant links for deeper context, as well as live guidance. The new feature can be accessed from a new \"Live\" icon beneath the search bar in the Google app. It can also be used from Google Lens by selecting the Live option at the bottom of the screen. Camera sharing will be enabled by default here to allow for an instant back-and-forth conversation about whatever is in front of you. Search Live is available through the Google app on iOS and Android now. This wider rollout only supports English for now. This article originally appeared on Engadget at https://www.engadget.com/ai/googles-ai-search-live-is-now-available-to-all-us-app-users-151849371.html?src=rss",
-    "ingested_utc": "2025-09-24T15:34:06Z"
-  },
-  {
-    "published_utc": "2025-09-24",
-    "retrieved_date": "2025-09-24",
-    "retrieved_utc": "2025-09-24T15:34:03Z",
-    "source": "TheVerge_All",
-    "title": "Samsung’s latest Galaxy earbuds come with a free Galaxy SmartTag2 tracker",
-    "url": "https://www.theverge.com/tech/784644/samsung-galaxy-buds-3-fe-blink-video-doorbell-deal-sale",
-    "id_key": "a83b3d18b938f956b602fc4433e9504192a62c72c5505257064d9caf7e952d0e",
-    "summary": "Samsung’s Galaxy Buds 3 FE were released earlier this month for $149.99. The company hasn’t yet knocked down the price, but it’s including a free Galaxy SmartTag 2 at Amazon. The bundle saves you $30 and is available until September 28th. Samsung says both items may ship separately, so don’t worry if you receive one […]",
-    "ingested_utc": "2025-09-24T15:34:03Z"
   }
 ]
