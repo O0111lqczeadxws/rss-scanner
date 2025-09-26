@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-09-26",
     "retrieved_date": "2025-09-26",
+    "retrieved_utc": "2025-09-26T05:50:28Z",
+    "source": "NPR_Top",
+    "title": "LA County response to deadly fires slowed by lack of resources, report says",
+    "url": "https://www.npr.org/2025/09/26/nx-s1-5554173/la-county-response-fires",
+    "id_key": "5e82329003d3dd8b140387e304e3a7f4e5103fd47f782612e8f20e71e254805f",
+    "summary": "A report released Thursday found that series of weaknesses, including \"outdated policies, inconsistent practices and communications vulnerabilities,\" slowed the response to the January fires.",
+    "ingested_utc": "2025-09-26T05:50:28Z"
+  },
+  {
+    "published_utc": "2025-09-26",
+    "retrieved_date": "2025-09-26",
     "retrieved_utc": "2025-09-26T05:41:25Z",
     "source": "CryptoBriefing",
     "title": "Kraken completes $500M funding round, eyes 2026 IPO",
@@ -10987,16 +10998,5 @@
     "id_key": "90c097b7be8d8461ce09a918019b76306e7fc3f862f9f489cdf08b9982f76187",
     "summary": "The stolen Maryland Transit data includes social security numbers, audit reports, legal documents, and attorney-client communications. The post Stolen Maryland Transit Administration data at auction for 30 BTC appeared first on Protos .",
     "ingested_utc": "2025-09-24T16:14:18Z"
-  },
-  {
-    "published_utc": "2025-09-24",
-    "retrieved_date": "2025-09-24",
-    "retrieved_utc": "2025-09-24T16:13:54Z",
-    "source": "Guardian_World",
-    "title": "‘Ukraine is only the first’, Zelenskyy warns UN as he highlights global threats – as it happened",
-    "url": "https://www.theguardian.com/world/live/2025/sep/24/russia-ukraine-trump-zelenskyy-unga-drones-europe-latest-news-updates",
-    "id_key": "1533adf21bee915c310a17b0fc0f666ac79b344d49c9d2fb538b3e013221ef7c",
-    "summary": "This blog is now closed, you can read our full report on this story here A Spanish defence ministry spokesperson said in a statement shared with Reuters that “there has been an attempt to disrupt the GPS signal, ” but t he plane was not affected as it had its own encrypted system. They also noted that it’s a common occurence on this route with commercial flights. Continue reading...",
-    "ingested_utc": "2025-09-24T16:13:54Z"
   }
 ]
