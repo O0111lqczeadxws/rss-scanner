@@ -1003,6 +1003,17 @@
   {
     "published_utc": "2025-09-25",
     "retrieved_date": "2025-09-26",
+    "retrieved_utc": "2025-09-26T07:47:17Z",
+    "source": "BBC_World",
+    "title": "Dallas shooter intended target to be ICE not detainees, officials say",
+    "url": "https://www.bbc.com/news/articles/ckgel2516zpo?at_medium=RSS&at_campaign=rss",
+    "id_key": "351f0714888751b85d549ef518093545111ba2c45b5df1079218894fe178a4d7",
+    "summary": "One detainee was killed and two others critically injured after a shooting at a Dallas ICE facility on Wednesday.",
+    "ingested_utc": "2025-09-26T07:47:17Z"
+  },
+  {
+    "published_utc": "2025-09-25",
+    "retrieved_date": "2025-09-26",
     "retrieved_utc": "2025-09-26T06:18:12Z",
     "source": "BBC_World",
     "title": "Watch: Moment thieves ransack California jewellery store",
@@ -10987,16 +10998,5 @@
     "id_key": "8424d48a57ae2a417a93e4632c85c56663b7f9426e0d20fdbeb2690b786c852b",
     "summary": "Analyse the data by all means, but relocation is a complex decision",
     "ingested_utc": "2025-09-24T16:41:59Z"
-  },
-  {
-    "published_utc": "2025-09-24",
-    "retrieved_date": "2025-09-24",
-    "retrieved_utc": "2025-09-24T16:41:57Z",
-    "source": "NPR_World",
-    "title": "UAE diplomatic adviser talks about the country's role in Middle East conflicts",
-    "url": "https://www.npr.org/2025/09/24/nx-s1-5549408/uae-diplomatic-advisor-talks-about-the-countrys-role-in-middle-east-conflicts",
-    "id_key": "04aed8f8c462001184d60266415e0f269e174abe42215836e323576e630fb3e7",
-    "summary": "NPR speaks with Anwar Gargash, diplomatic adviser to the president of the United Arab Emirates, about the country's role in the conflicts in the Middle East and Sudan.",
-    "ingested_utc": "2025-09-24T16:41:57Z"
   }
 ]
