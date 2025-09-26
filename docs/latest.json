@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-09-26",
     "retrieved_date": "2025-09-26",
+    "retrieved_utc": "2025-09-26T04:51:55Z",
+    "source": "AlJazeera_All",
+    "title": "Microsoft cuts Israeli military’s access to some cloud computing, AI",
+    "url": "https://www.aljazeera.com/news/2025/9/26/microsoft-cuts-israeli-militarys-access-to-some-cloud-computing-ai?traffic_source=rss",
+    "id_key": "19dda3e842fe4434bfdb191f56a108c6a7dfef7f30ed4f909d0ee7480800f3a8",
+    "summary": "Microsoft said Israel's use of Azure to store data obtained through mass surveillance of Palestinians violated its terms",
+    "ingested_utc": "2025-09-26T04:51:55Z"
+  },
+  {
+    "published_utc": "2025-09-26",
+    "retrieved_date": "2025-09-26",
+    "retrieved_utc": "2025-09-26T04:48:53Z",
+    "source": "Guardian_World",
+    "title": "Fears of abnormally hot days in Australia’s south-east after sudden stratospheric warming over Antarctica",
+    "url": "https://www.theguardian.com/environment/2025/sep/26/fears-of-abnormally-hot-days-in-southern-australia-after-sudden-stratospheric-warming-over-antarctica",
+    "id_key": "ee129c8a4f798a6fdc95b77852f9d90a2ca5ced0d4545b76a80294a37d4e30bd",
+    "summary": "Phenomenon extremely rare in southern hemisphere and last occurred in 2019 when it contributed to worsening of black summer bushfires Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast A rare rise in stratospheric temperatures over Antarctica could influence weather into summer, with previous events driving hotter and drier conditions for south-east Australia. The phenomenon – called sudden stratospheric warming – is extremely unusual in the southern hemisphere. It only previously occurred in 2002 and 2019, the latter contributing to a worsening of the black summer bushfires. Continue reading...",
+    "ingested_utc": "2025-09-26T04:48:53Z"
+  },
+  {
+    "published_utc": "2025-09-26",
+    "retrieved_date": "2025-09-26",
     "retrieved_utc": "2025-09-26T04:37:14Z",
     "source": "Nikkei_Asia_Top",
     "title": "Yen dips to 2-month low against dollar as investors bet on longer BOJ pause",
@@ -10976,27 +10998,5 @@
     "id_key": "bc0d0054aa7cdaa948efcb9e8eec6d5936c7838ea26ee15057d4824fb82f13c6",
     "summary": "Dallas police chief says early evidence shows ‘anti-Ice’ messages on rounds found near shooter; DHS official confirms Ice detainees among victims Full report – Three people shot at Texas Ice building The Kremlin on Wednesday brushed off a comment by US president Donald Trump describing Russia as a “paper tiger”, and said president Vladimir Putin valued his efforts to resolve the Ukraine conflict. Kremlin spokesperson Dmitry Peskov said that Russia was a bear, not a tiger, and “there is no such thing as a paper bear”. Continue reading...",
     "ingested_utc": "2025-09-24T15:47:56Z"
-  },
-  {
-    "published_utc": "2025-09-24",
-    "retrieved_date": "2025-09-24",
-    "retrieved_utc": "2025-09-24T15:47:56Z",
-    "source": "Guardian_World",
-    "title": "US bans Iranian officials at UN summit from ‘shopping spree in New York’",
-    "url": "https://www.theguardian.com/us-news/2025/sep/24/iran-new-york-shopping-ban",
-    "id_key": "cf72cf6e7f34c9191870119dc92fd06f15d01caee7160883187e2a588226a027",
-    "summary": "US state department spokesperson says officials unable to shop ‘while Iranian people endure poverty’ Iranian officials at the UN summit this week won’t be able to shop in New York after the US government barred them from purchasing everything from bulk household goods to expensive watches. The restrictions on the visiting Iranians were described by a state department spokesman as “maximum pressure.” Continue reading...",
-    "ingested_utc": "2025-09-24T15:47:56Z"
-  },
-  {
-    "published_utc": "2025-09-24",
-    "retrieved_date": "2025-09-24",
-    "retrieved_utc": "2025-09-24T15:34:37Z",
-    "source": "HackerNews_Top",
-    "title": "Building a Custom eBPF Filesystem Watcher to Catch Root Ownership Goofs",
-    "url": "https://amandeepsp.github.io/blog/fs-watcher/",
-    "id_key": "9720a6e7dc615202df0b9b4642f165178def4714c5e250e1fb0704fa24a18168",
-    "summary": "Comments",
-    "ingested_utc": "2025-09-24T15:34:37Z"
   }
 ]
