@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-09-27",
     "retrieved_date": "2025-09-27",
+    "retrieved_utc": "2025-09-27T10:41:39Z",
+    "source": "TheStreet_Top",
+    "title": "Wall Street firm has solution for Disney's ABC-Jimmy Kimmel chaos",
+    "url": "https://www.thestreet.com/entertainment/wall-street-firm-has-solution-for-disneys-abc-jimmy-kimmel-chaos",
+    "id_key": "dbffc42ee796eaa69185afa4fe02eee4c9834cf3e7119e50d4e209e4718bfe1d",
+    "summary": "Broadcast television is on the ropes, and ABC's Jimmy Kimmel suspension isn't helping.",
+    "ingested_utc": "2025-09-27T10:41:39Z"
+  },
+  {
+    "published_utc": "2025-09-27",
+    "retrieved_date": "2025-09-27",
+    "retrieved_utc": "2025-09-27T10:41:09Z",
+    "source": "NPR_Top",
+    "title": "'Rocky Horror' is 50! We propose a toast. (You know what to do)",
+    "url": "https://www.npr.org/2025/09/27/nx-s1-5477628/rocky-horror-picture-show-50-shadowcasts-fans",
+    "id_key": "5dbcef6e3d30086c6557fd87f929d59c31f6b99f5116ed0a35f8a1741d2c2e8c",
+    "summary": "Rocky Horror aficionados used to attend screenings of the film over and over to take notes on the details. Accurately mirroring every line and dance move has gotten easier over time.",
+    "ingested_utc": "2025-09-27T10:41:09Z"
+  },
+  {
+    "published_utc": "2025-09-27",
+    "retrieved_date": "2025-09-27",
     "retrieved_utc": "2025-09-27T10:12:27Z",
     "source": "NYTimes_World",
     "title": "Banner Year",
@@ -10976,27 +10998,5 @@
     "id_key": "c7e4b3e801a2ef11b618b8c0262e4559f22526e8f4da9ff965685195bdc327fe",
     "summary": "The Ryder Cup returns with Bethpage Black hosting the prestigious competition",
     "ingested_utc": "2025-09-25T13:06:45Z"
-  },
-  {
-    "published_utc": "2025-09-25",
-    "retrieved_date": "2025-09-25",
-    "retrieved_utc": "2025-09-25T13:06:45Z",
-    "source": "AlJazeera_All",
-    "title": "What Syria’s president al-Sharaa told UN in historic speech",
-    "url": "https://www.aljazeera.com/video/newsfeed/2025/9/25/what-syrias-president-al-sharaa-told-un-in-historic-speech?traffic_source=rss",
-    "id_key": "f5ba570bc71a858fc1530643a1be839fb2efa0b0c47c157d44ef721ce054535a",
-    "summary": "Ahmed al-Sharaa became the first Syrian leader in nearly 60 years to address the UN General Assembly, where he condemned",
-    "ingested_utc": "2025-09-25T13:06:45Z"
-  },
-  {
-    "published_utc": "2025-09-25",
-    "retrieved_date": "2025-09-25",
-    "retrieved_utc": "2025-09-25T13:06:36Z",
-    "source": "Engadget_All",
-    "title": "Apple repeats its long held criticism of the EU's Digital Markets Act",
-    "url": "https://www.engadget.com/big-tech/apple-repeats-its-long-held-criticism-of-the-eus-digital-markets-act-130058440.html?src=rss",
-    "id_key": "1c8bbb12a47ad18c042cff057adbcbee5be179ef5d0778b577f96cf44c8a5b18",
-    "summary": "Apple has long opposed the Digital Markets Act, which is pretty much expected for a Big Tech company. Now, a bit over a year after it came into force, Apple has asked the European Commission to repeal it, according to the Financial Times and Bloomberg . \"The DMA should be repealed while a more appropriate fit for purpose legislative instrument is put in place,\" the company has told the commission in its first public consultation to review the legislation. The EU's Digital Markets Act, which was signed into law in 2022 , aims to rein in Big Tech's power and to improve competition for smaller players. If a company is found to have violated DMA's rules, it could pay between 10 to 20 percent of its global revenue. In a blog post separate to the feedback it submitted to the Commission, Apple detailed how DMA affects its users in the EU. The company said that because the law requires it to make sure certain features work on non-Apple products, feature rollouts get delayed in the region. Its team has not found a way to securely bring iPhone Mirroring to non-Apple devices, for instance, because it requires a lot of engineering work. As a result, Apple has yet to release that feature, along with Live Translation via AirPods, as well as Visited Places and Preferred Routes on Maps, in the European Union. Apple also said that since the DMA requires it to allow sideloading, other app marketplaces and alternative payment systems, users in the region are exposed to more risks. They're more exposed to things like fake banking apps and disguised malware, and they could also come across third-party payment systems that wouldn't allow refunds. If you'll recall, the European Commission slapped Apple with a $587 million fine in April for preventing developers from informing customers about sales and other offers outside the App Store. Apple called the penalty \"unprecedented\" and filed an appeal . \"Regulators claimed the DMA would promote competition and give European consumers more choices,\" Apple wrote in its post. \"But the law is not living up to those promises... That’s why we’re urging regulators to take a closer look at how the law is affecting the EU citizens who use Apple products every day.\" Even though the company is clearly against the DMA, it said it's dedicating \"thousands of hours\" to bring features to the EU. A spokesperson for the Commission told the Times that it's normal for companies to \"need more time to make their products compliant\" and that the Commission is helping them get there. \"[C]ompliance is not optional, it’s an obligation,\" the spokesperson added. This article originally appeared on Engadget at https://www.engadget.com/big-tech/apple-repeats-its-long-held-criticism-of-the-eus-digital-markets-act-130058440.html?src=rss",
-    "ingested_utc": "2025-09-25T13:06:36Z"
   }
 ]
