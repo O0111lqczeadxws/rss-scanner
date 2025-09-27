@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-09-27",
     "retrieved_date": "2025-09-27",
+    "retrieved_utc": "2025-09-27T11:50:25Z",
+    "source": "TheStreet_Top",
+    "title": "Mexican restaurant chain shares its Chapter 11 bankruptcy plan",
+    "url": "https://www.thestreet.com/restaurants/mexican-restaurant-chain-shares-its-chapter-11-bankruptcy-plan",
+    "id_key": "2560053f3cf05452a4d43d4f83e828c2dfad7f3542e7249206b57508e8763f08",
+    "summary": "The chain surprised customers when it filed Chapter 11 bankruptcy, but many may not even know that happened.",
+    "ingested_utc": "2025-09-27T11:50:25Z"
+  },
+  {
+    "published_utc": "2025-09-27",
+    "retrieved_date": "2025-09-27",
     "retrieved_utc": "2025-09-27T11:33:19Z",
     "source": "CryptoNews",
     "title": "Solana ETF Approvals Could Arrive by Mid-October, Says Analyst",
@@ -10987,16 +10998,5 @@
     "id_key": "be296b2877805680c2bed548f01df591758a1e443bf4cbc2060e62a9b912e628",
     "summary": "The inclusion of diverse crypto assets in ETFs may accelerate mainstream adoption and reshape investment strategies in the evolving crypto market. The post Hashdex wins approval to add XRP, Solana, and Stellar to its crypto index ETF appeared first on Crypto Briefing .",
     "ingested_utc": "2025-09-25T13:38:25Z"
-  },
-  {
-    "published_utc": "2025-09-25",
-    "retrieved_date": "2025-09-25",
-    "retrieved_utc": "2025-09-25T13:38:22Z",
-    "source": "Blockworks",
-    "title": "Eliminating MEV and unlocking privacy-focused blockchain use cases with FAIR",
-    "url": "https://blockworks.co/news/fair-eliminating-mev-blockchain",
-    "id_key": "d7a8622430856c635b05e126e1510262718897055d64e969f192df376ef355f0",
-    "summary": "The FAIR L1 embeds encrypted execution into the consensus layer and removes the transparency window that makes MEV possible",
-    "ingested_utc": "2025-09-25T13:38:22Z"
   }
 ]
