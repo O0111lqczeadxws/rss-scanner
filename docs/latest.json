@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-09-27",
     "retrieved_date": "2025-09-27",
+    "retrieved_utc": "2025-09-27T21:26:19Z",
+    "source": "NPR_World",
+    "title": "Japan's Konbini convenience stores coming to the U.S.",
+    "url": "https://www.npr.org/2025/09/27/nx-s1-5554246/japans-konbini-convenience-stores-coming-to-the-u-s",
+    "id_key": "b67a7d402c8e96431c01c11b6297dffca541c3c1bc08365dfd2e07f82de2d649",
+    "summary": "In Japan, Konbini convenience stores have become part of the country's infrastructure, offering fresh meals delivered several times a day, tickets to concerts and museums, and even services like bill payments. Now the model is coming to the U.S., where critics question whether it will resonate with American customers.",
+    "ingested_utc": "2025-09-27T21:26:19Z"
+  },
+  {
+    "published_utc": "2025-09-27",
+    "retrieved_date": "2025-09-27",
+    "retrieved_utc": "2025-09-27T21:26:09Z",
+    "source": "NYTimes_World",
+    "title": "Jerome Cohen, Lawyer Who Saw a Future in China, Dies at 95",
+    "url": "https://www.nytimes.com/2025/09/27/world/asia/jerome-cohen-dead.html",
+    "id_key": "d06a65b5f6b67c597dc57636ea4c11b437322d40235add20413f86c1f424befd",
+    "summary": "After pioneering the study of Chinese law in America, he was among the first foreigners to practice commercial law in China, and spoke out about human rights.",
+    "ingested_utc": "2025-09-27T21:26:09Z"
+  },
+  {
+    "published_utc": "2025-09-27",
+    "retrieved_date": "2025-09-27",
     "retrieved_utc": "2025-09-27T20:50:39Z",
     "source": "HackerNews_Top",
     "title": "Linux 6.18 Will Fix Lockups When Systemd Units Read Lots of Files",
@@ -10975,28 +10997,6 @@
     "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/more-joy-coming-to-the-ikon-pass-community-this-winter-with-new-terrain-expansions-lifts-gondolas-and-more-across-60-global-destinations",
     "id_key": "66cdec1ff600a7367538e611efd13b4e7ffdc5b0c174de06bd4286b430b144c2",
     "summary": "Ikon Pass Holders Have Two Weeks to Get the Current Low Rates for 25/26 DENVER — With less than 100 days until winter, Ikon Pass holders will experience an array of new and improved infrastructure and services to enhance their on-site experience this season, including 17 new lifts, three gondolas, terrain expansions, lodges and amenities, […]",
-    "ingested_utc": "2025-09-25T15:15:17Z"
-  },
-  {
-    "published_utc": "2025-09-25",
-    "retrieved_date": "2025-09-25",
-    "retrieved_utc": "2025-09-25T15:15:17Z",
-    "source": "FinancialPost_Business",
-    "title": "Nine Work Bags That Channel Back-to-School Energy for the Corner Office",
-    "url": "https://financialpost.com/pmn/business-pmn/nine-work-bags-that-channel-back-to-school-energy-for-the-corner-office",
-    "id_key": "79426df86a7331b8baa956ccb5cdb84a66b0f44b8d80179efa18fd9adf52a7a9",
-    "summary": "Welcome fall with a sharp new carryall.",
-    "ingested_utc": "2025-09-25T15:15:17Z"
-  },
-  {
-    "published_utc": "2025-09-25",
-    "retrieved_date": "2025-09-25",
-    "retrieved_utc": "2025-09-25T15:15:17Z",
-    "source": "FinancialPost_Business",
-    "title": "Private Credit Giants Turn Debt Into Equity for Jumbo Deals",
-    "url": "https://financialpost.com/pmn/business-pmn/private-credit-giants-turn-debt-into-equity-for-jumbo-deals",
-    "id_key": "e43c5431103ec71b1277dfdc042f4c31b728c33ede459d3082ea1de421822af4",
-    "summary": "When Blackstone Inc. announced it led a $7 billion investment in a liquefied natural gas export plant in Texas this week, a key piece of financial ingenuity was hiding in plain sight. While the firm is contributing equity into the deal, most of the money will come from its massive private credit funds.",
     "ingested_utc": "2025-09-25T15:15:17Z"
   }
 ]
