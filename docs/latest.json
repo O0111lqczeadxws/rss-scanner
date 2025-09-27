@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-09-27",
     "retrieved_date": "2025-09-27",
+    "retrieved_utc": "2025-09-27T22:12:41Z",
+    "source": "HackerNews_Top",
+    "title": "US to retire its only icebreaker, stranding polar research",
+    "url": "https://www.colorado.edu/today/2025/09/16/us-retire-its-only-icebreaker-stranding-polar-research",
+    "id_key": "8f04c2b5b473711542e3921f309ec170632a3f03c225876be830528e34370456",
+    "summary": "Comments",
+    "ingested_utc": "2025-09-27T22:12:41Z"
+  },
+  {
+    "published_utc": "2025-09-27",
+    "retrieved_date": "2025-09-27",
+    "retrieved_utc": "2025-09-27T22:11:45Z",
+    "source": "NPR_Top",
+    "title": "Trump says he will send troops to Portland to deal with 'domestic terrorists'",
+    "url": "https://www.npr.org/2025/09/27/nx-s1-5555381/trump-sending-troops-portland",
+    "id_key": "25d3b94693a8b066761303c39132c896a5242c7a0314f399c6b5d9d53d66875a",
+    "summary": "President Trump is authorizing the deployment of troops to \"protect\" Portland and ICE facilities there from \"domestic terrorists\" as he expands his controversial deployments to more U.S. cities.",
+    "ingested_utc": "2025-09-27T22:11:45Z"
+  },
+  {
+    "published_utc": "2025-09-27",
+    "retrieved_date": "2025-09-27",
+    "retrieved_utc": "2025-09-27T22:11:37Z",
+    "source": "NYTimes_Business",
+    "title": "Leo Gerard, Who Led a Growing Steelworkers Union, Dies at 78",
+    "url": "https://www.nytimes.com/2025/09/27/business/leo-gerard-dead.html",
+    "id_key": "0f00f0ac93e5b489e33973414aa29dfecb159345c00b42f7772f39c73f51e794",
+    "summary": "He helped make it the largest industrial union in North America as he fought an influx of cheap metal from China and lobbied for anti-dumping tariffs.",
+    "ingested_utc": "2025-09-27T22:11:37Z"
+  },
+  {
+    "published_utc": "2025-09-27",
+    "retrieved_date": "2025-09-27",
     "retrieved_utc": "2025-09-27T21:49:36Z",
     "source": "NPR_Top",
     "title": "Comey's indictment marks a dramatic escalation in Trump's political retribution efforts",
@@ -10965,38 +10998,5 @@
     "id_key": "a93d1668ae886d2129542c57807c1f7a81faae8e6b70534e1b9b7d73b12a7574",
     "summary": "The settlement is one of the largest in the history of the Federal Trade Commission, which sued Amazon two years ago.",
     "ingested_utc": "2025-09-25T15:34:10Z"
-  },
-  {
-    "published_utc": "2025-09-25",
-    "retrieved_date": "2025-09-25",
-    "retrieved_utc": "2025-09-25T15:31:58Z",
-    "source": "Blockworks",
-    "title": "Honeycomb Protocol acquires Solana Labs’ GameShift platform",
-    "url": "https://blockworks.co/news/solana-consumer-portal-acquisition",
-    "id_key": "db9cbe16a4d46f7ad4049d3ebdbe180f3c7b8d2c8529242640338b6a8841ed0e",
-    "summary": "The plan is to make GameShift the “consumer portal” that bridges non-crypto gamers into Web3",
-    "ingested_utc": "2025-09-25T15:31:58Z"
-  },
-  {
-    "published_utc": "2025-09-25",
-    "retrieved_date": "2025-09-25",
-    "retrieved_utc": "2025-09-25T15:31:34Z",
-    "source": "BBC_Business",
-    "title": "Farage urges Bank of England boss to stop bond sales",
-    "url": "https://www.bbc.com/news/articles/c3vz1q5k62eo?at_medium=RSS&at_campaign=rss",
-    "id_key": "fbb9cd9350a16d276fea496e8305b1560d908b2e2ec0f408e2f0322d9d6a84c3",
-    "summary": "Reform UK argues the sell-off, started in 2022, is pushing up the government's borrowing costs.",
-    "ingested_utc": "2025-09-25T15:31:34Z"
-  },
-  {
-    "published_utc": "2025-09-25",
-    "retrieved_date": "2025-09-25",
-    "retrieved_utc": "2025-09-25T15:15:32Z",
-    "source": "HackerNews_Top",
-    "title": "Cloudflare Email Service: private beta",
-    "url": "https://blog.cloudflare.com/email-service/",
-    "id_key": "7a110102fbc02e3cc9bf54010332198c4e91612097c0d437b2fb0d572331094c",
-    "summary": "Comments",
-    "ingested_utc": "2025-09-25T15:15:32Z"
   }
 ]
