@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-09-27",
     "retrieved_date": "2025-09-27",
+    "retrieved_utc": "2025-09-27T09:28:49Z",
+    "source": "AlJazeera_All",
+    "title": "Iran “still willing to talk” to US but Trump wants isolation or war",
+    "url": "https://www.aljazeera.com/video/quotable/2025/9/27/iran-still-willing-to-talk-to-us-but-trump-wants-isolation-or-war?traffic_source=rss",
+    "id_key": "c5e2ee4697b11504ff9af6ad79aa2a0c56cdd81441e4ab6052a7cd693ab83a24",
+    "summary": "As sanctions return on Iran, Adam Weinstein of Quincy Institute says Tehran has shown commitment to diplomacy.",
+    "ingested_utc": "2025-09-27T09:28:49Z"
+  },
+  {
+    "published_utc": "2025-09-27",
+    "retrieved_date": "2025-09-27",
     "retrieved_utc": "2025-09-27T09:13:32Z",
     "source": "HackerNews_Top",
     "title": "Property-Based Testing of OCaml 5's Runtime System [pdf]",
@@ -6469,6 +6480,17 @@
   },
   {
     "published_utc": "2025-09-25",
+    "retrieved_date": "2025-09-27",
+    "retrieved_utc": "2025-09-27T09:29:11Z",
+    "source": "HackerNews_Top",
+    "title": "Show HN: Lingo – A linguistic database in Rust with nanosecond-level performance",
+    "url": "https://news.ycombinator.com/item?id=45372642",
+    "id_key": "a723746ccbd3558382c9dbb13da24ff76dce6a94b4d2268a5584c2de14a14987",
+    "summary": "Comments",
+    "ingested_utc": "2025-09-27T09:29:11Z"
+  },
+  {
+    "published_utc": "2025-09-25",
     "retrieved_date": "2025-09-26",
     "retrieved_utc": "2025-09-26T13:01:38Z",
     "source": "Guardian_Business",
@@ -10976,27 +10998,5 @@
     "id_key": "a624e605ca891e98fe113c0c1718834f0621aba29b6fb63c13007d8304a7fec3",
     "summary": "Home prices skyrocketed during the pandemic — and have stayed high. For some Americans, making their budget work means having fewer children than they'd envisioned.",
     "ingested_utc": "2025-09-25T13:06:09Z"
-  },
-  {
-    "published_utc": "2025-09-25",
-    "retrieved_date": "2025-09-25",
-    "retrieved_utc": "2025-09-25T13:06:00Z",
-    "source": "NYTimes_Business",
-    "title": "Starbucks to Cut Jobs, Close Stores and Take $1 Billion Hit in Revamp Effort",
-    "url": "https://www.nytimes.com/2025/09/25/business/starbucks-job-cuts.html",
-    "id_key": "68e7a12319575f4910aca3213b6caa98ddfbea2caeb01834a6167b8deada2746",
-    "summary": "The coffee chain said it would shutter some underperforming U.S. stores and eliminate 900 corporate jobs as part of a plan to build “a better, stronger and more resilient Starbucks.”",
-    "ingested_utc": "2025-09-25T13:06:00Z"
-  },
-  {
-    "published_utc": "2025-09-25",
-    "retrieved_date": "2025-09-25",
-    "retrieved_utc": "2025-09-25T13:04:01Z",
-    "source": "CoinJournal",
-    "title": "Flare price surges amid 290% volume spike: next target for FLR?",
-    "url": "https://coinjournal.net/news/flare-price-surges-amid-290-volume-spike-next-target-for-flr/",
-    "id_key": "6fed299ceabfe72c7376ebe1b429b2ab7824e04b287bc7d0b6953886cb8c0f01",
-    "summary": "Flare price rose to above $0.028 before paring gains. The crypto project’s DeFi ecosystem, enhanced by FXRP, has driven a significant rise in active users, boosting network activity. As Flare’s oracle services gain traction, could this boost the bulls’ price target above $0.030 and allow for further upside momentum? Flare (FLR), the native token of […] The post Flare price surges amid 290% volume spike: next target for FLR? appeared first on CoinJournal .",
-    "ingested_utc": "2025-09-25T13:04:01Z"
   }
 ]
