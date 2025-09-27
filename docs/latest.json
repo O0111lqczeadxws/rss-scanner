@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-09-27",
     "retrieved_date": "2025-09-27",
+    "retrieved_utc": "2025-09-27T19:36:13Z",
+    "source": "AlJazeera_All",
+    "title": "What’s behind Microsoft’s canceling of some services to Israel’s military?",
+    "url": "https://www.aljazeera.com/video/inside-story/2025/9/27/whats-behind-microsofts-canceling-of-some-services-to-israels-military?traffic_source=rss",
+    "id_key": "d48f33ab751c86b40c47bc8699ccc7ecb57620cbe32ab77a5923f4a50e971919",
+    "summary": "An investigation found that Israel spied on millions of Palestinians using Microsoft's technology.",
+    "ingested_utc": "2025-09-27T19:36:13Z"
+  },
+  {
+    "published_utc": "2025-09-27",
+    "retrieved_date": "2025-09-27",
     "retrieved_utc": "2025-09-27T19:24:23Z",
     "source": "Nikkei_Asia_Top",
     "title": "Japan Inc. faces broad impact of Trump's steel and aluminum tariffs",
@@ -10987,16 +10998,5 @@
     "id_key": "c65a6647a350b40e8334edfcaeb3bba4c881535e49a471a13838a39ff0b19261",
     "summary": "President Trump linked Tylenol to autism despite little medical evidence. How are Americans meant to make important decisions about their health at this confusing moment?",
     "ingested_utc": "2025-09-25T15:14:38Z"
-  },
-  {
-    "published_utc": "2025-09-25",
-    "retrieved_date": "2025-09-25",
-    "retrieved_utc": "2025-09-25T15:14:31Z",
-    "source": "NYTimes_World",
-    "title": "Israel Attacks Yemeni Capital",
-    "url": "https://www.nytimes.com/2025/09/25/world/middleeast/israel-yemen-houthis.html",
-    "id_key": "8e112e7815ba8e78fd7373997a50ee61b0afe0682a0f7f038f4ebf52e3916522",
-    "summary": "The Israeli military said it was targeting sites linked to the Houthi militia. The airstrikes came a day after the Houthis launched a drone at the Israeli city of Eilat, wounding 20 people.",
-    "ingested_utc": "2025-09-25T15:14:31Z"
   }
 ]
