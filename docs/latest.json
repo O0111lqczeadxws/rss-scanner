@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-09-27",
     "retrieved_date": "2025-09-27",
+    "retrieved_utc": "2025-09-27T07:32:49Z",
+    "source": "BBC_World",
+    "title": "ICE arrests top educator at Iowa's largest school district",
+    "url": "https://www.bbc.com/news/articles/c8d70n4gpvpo?at_medium=RSS&at_campaign=rss",
+    "id_key": "7f0d8b5b929ce55554ad55599ab2855c7ebc0be575f9371c5ef9633d739432c4",
+    "summary": "In his role as superintendent for the city of Des Moines, Ian Roberts oversees around 30,000 students.",
+    "ingested_utc": "2025-09-27T07:32:49Z"
+  },
+  {
+    "published_utc": "2025-09-27",
+    "retrieved_date": "2025-09-27",
     "retrieved_utc": "2025-09-27T07:12:00Z",
     "source": "AlJazeera_All",
     "title": "COP30 urged to link climate justice with reparations for historical crimes",
@@ -10987,16 +10998,5 @@
     "id_key": "6420f74321de87a45c882910326e95623be02db8b2113436496a6c99e02a3264",
     "summary": "",
     "ingested_utc": "2025-09-25T12:24:03Z"
-  },
-  {
-    "published_utc": "2025-09-25",
-    "retrieved_date": "2025-09-25",
-    "retrieved_utc": "2025-09-25T12:22:04Z",
-    "source": "CryptoSlate",
-    "title": "Ethereum briefly dips below $4,000 sparking $183 million losses for traders",
-    "url": "https://cryptoslate.com/ethereum-briefly-dips-below-4000-sparking-183-million-losses-for-traders/",
-    "id_key": "18660249d0741db1be448d6b562af36f3780024dde8f5ed755af22396dc0ef58",
-    "summary": "Ethereum has slipped to its lowest level in nearly two months, marking a sharp reversal after weeks of steady accumulation and new all-time highs. According to CryptoSlate data, ETH briefly fell to $3,993 on Sept. 25 before recovering slightly to trade around $4,030 at press time. The decline reflects a 4% daily drop and caps […] The post Ethereum briefly dips below $4,000 sparking $183 million losses for traders appeared first on CryptoSlate .",
-    "ingested_utc": "2025-09-25T12:22:04Z"
   }
 ]
