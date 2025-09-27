@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-09-27",
     "retrieved_date": "2025-09-27",
+    "retrieved_utc": "2025-09-27T20:50:39Z",
+    "source": "HackerNews_Top",
+    "title": "Linux 6.18 Will Fix Lockups When Systemd Units Read Lots of Files",
+    "url": "https://www.phoronix.com/news/Linux-6.18-Writeback-Lockups",
+    "id_key": "c656f97aaa1092499a11672d5acc4f2547efd8f2096a65a8152190068e060a1b",
+    "summary": "Comments",
+    "ingested_utc": "2025-09-27T20:50:39Z"
+  },
+  {
+    "published_utc": "2025-09-27",
+    "retrieved_date": "2025-09-27",
+    "retrieved_utc": "2025-09-27T20:50:17Z",
+    "source": "AlJazeera_All",
+    "title": "Trump orders deployment of troops to US city of Portland and ICE facilities",
+    "url": "https://www.aljazeera.com/news/2025/9/27/trump-orders-deployment-of-troops-to-us-city-of-portland-and-ice-facilities?traffic_source=rss",
+    "id_key": "d14643df0762482712a1eeeb7222e85a67236911e8d4e813e5a2c88f41b07054",
+    "summary": "The city's Democratic mayor says there is no need for the US president to send federal forces.",
+    "ingested_utc": "2025-09-27T20:50:17Z"
+  },
+  {
+    "published_utc": "2025-09-27",
+    "retrieved_date": "2025-09-27",
+    "retrieved_utc": "2025-09-27T20:47:18Z",
+    "source": "Guardian_World",
+    "title": "Nato to step up vigilance in Baltic Sea region after drones spotted over military bases",
+    "url": "https://www.theguardian.com/world/2025/sep/27/denmark-new-drone-sightings-biggest-military-base",
+    "id_key": "3c34fc055d5e9e9018861e2241df3e4d362be981cd2ec1c3b3ec38f52a977c54",
+    "summary": "Move comes after new drone sightings near major military installations in Denmark and Norway Nato has vowed to upgrade its mission in the Baltic Sea after Denmark’s armed forces said unidentified drones were seen near the country’s military installations overnight. There have also been several drone incursions near airports and other critical infrastructure this week, with Copenhagen’s airport closed for several hours late on Monday as several drones were seen in its airspace. Continue reading...",
+    "ingested_utc": "2025-09-27T20:47:18Z"
+  },
+  {
+    "published_utc": "2025-09-27",
+    "retrieved_date": "2025-09-27",
     "retrieved_utc": "2025-09-27T20:31:31Z",
     "source": "FinancialPost_Business",
     "title": "Subdued US Job Growth Expected in Advance of Fed Meeting",
@@ -10964,39 +10997,6 @@
     "url": "https://financialpost.com/pmn/business-pmn/private-credit-giants-turn-debt-into-equity-for-jumbo-deals",
     "id_key": "e43c5431103ec71b1277dfdc042f4c31b728c33ede459d3082ea1de421822af4",
     "summary": "When Blackstone Inc. announced it led a $7 billion investment in a liquefied natural gas export plant in Texas this week, a key piece of financial ingenuity was hiding in plain sight. While the firm is contributing equity into the deal, most of the money will come from its massive private credit funds.",
-    "ingested_utc": "2025-09-25T15:15:17Z"
-  },
-  {
-    "published_utc": "2025-09-25",
-    "retrieved_date": "2025-09-25",
-    "retrieved_utc": "2025-09-25T15:15:17Z",
-    "source": "FinancialPost_Business",
-    "title": "Euna Solutions’ Inaugural Eunaverse Conference Unites Public Sector Leaders for Collaboration and Innovation",
-    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/euna-solutions-inaugural-eunaverse-conference-unites-public-sector-leaders-for-collaboration-and-innovation",
-    "id_key": "cdac76aecd43efdb9da802f52585c172b59836b9b4ae842ba8f9ef1379a34dfc",
-    "summary": "Three-day event delivered leadership insights, hands-on training, and cross-sector collaboration, sparking momentum among public sector innovators ATLANTA & TORONTO — Euna Solutions®, a leading provider of purpose-built cloud solutions for the public sector, today announced the successful completion of its first user conference, Eunaverse, a three-day gathering held on Sept. 8-10, 2025, that brought together […]",
-    "ingested_utc": "2025-09-25T15:15:17Z"
-  },
-  {
-    "published_utc": "2025-09-25",
-    "retrieved_date": "2025-09-25",
-    "retrieved_utc": "2025-09-25T15:15:17Z",
-    "source": "FinancialPost_Business",
-    "title": "Overwhelming Support for “Get It Done” Agenda for BC’s Resource Sector Emerges at Inaugural Resource Works Forum",
-    "url": "https://financialpost.com/globe-newswire/overwhelming-support-for-get-it-done-agenda-for-bcs-resource-sector-emerges-at-inaugural-resource-works-forum",
-    "id_key": "8577370c41cfab6df4183f0623212f76df023299f21b5d5514ab9af8f90320ac",
-    "summary": "VICTORIA, British Columbia, Sept. 25, 2025 (GLOBE NEWSWIRE) — A powerful and unified call to action to build British Columbia’s resource economy and bridge the urban-rural divide emerged from the inaugural Get It Done BC forum, hosted by the Resource Works Society. The sold-out, full-day event drew 150 leaders from municipal and Indigenous governments, industry, and policy […]",
-    "ingested_utc": "2025-09-25T15:15:17Z"
-  },
-  {
-    "published_utc": "2025-09-25",
-    "retrieved_date": "2025-09-25",
-    "retrieved_utc": "2025-09-25T15:15:17Z",
-    "source": "FinancialPost_Business",
-    "title": "Atlantic Hurricane Season Awakens After Sleepy Start",
-    "url": "https://financialpost.com/pmn/business-pmn/atlantic-hurricane-season-awakens-after-sleepy-start",
-    "id_key": "00200ddde4f6ee0c8b8c8053a79867bd746313403d5408e2dd76df554399fe0c",
-    "summary": "Storms Humberto and Gabrielle have formed, kicking off what’s shaping up to be a more active second half of the season.",
     "ingested_utc": "2025-09-25T15:15:17Z"
   }
 ]
