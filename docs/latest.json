@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-09-28",
     "retrieved_date": "2025-09-28",
+    "retrieved_utc": "2025-09-28T23:28:02Z",
+    "source": "TheStreet_Top",
+    "title": "Another American gun maker files Chapter 11 bankruptcy",
+    "url": "https://www.thestreet.com/retail/high-end-gun-firearm-manufacturer-files-chapter-11-bankruptcy",
+    "id_key": "1b23e1ed0da2b4522b553cdd1b2c8c44d167b0530c6683ebb791c96d6828a2cc",
+    "summary": "A number of firearms companies have struggled since the threat of guns being banned, or at least limited in some way, has gone away.",
+    "ingested_utc": "2025-09-28T23:28:02Z"
+  },
+  {
+    "published_utc": "2025-09-28",
+    "retrieved_date": "2025-09-28",
     "retrieved_utc": "2025-09-28T23:12:35Z",
     "source": "FT_Markets",
     "title": "Foreign buyers bet South Korea is the new Japan",
@@ -10987,16 +10998,5 @@
     "id_key": "c83eb7489efb4855c9af8f489dc0a9ae9ff4e012e742236e4afa96af672541a9",
     "summary": "Asian stocks were poised to follow Wall Street lower as better-than-forecast US economic data clouded the outlook for future Federal Reserve rate cuts.",
     "ingested_utc": "2025-09-25T23:14:07Z"
-  },
-  {
-    "published_utc": "2025-09-25",
-    "retrieved_date": "2025-09-25",
-    "retrieved_utc": "2025-09-25T23:10:25Z",
-    "source": "Guardian_World",
-    "title": "White low-income pupils ‘report lowest enthusiasm for school’ in England",
-    "url": "https://www.theguardian.com/education/2025/sep/26/white-low-income-pupils-report-lowest-enthusiasm-for-school-in-england",
-    "id_key": "e10a614ed5031b2a6d6e4d23c1fe2cce447c8f1e2204d005112ef7e78f16faa2",
-    "summary": "Boys and girls in demographic start secondary school with weakest levels of engagement, research finds White pupils from low-income families in England start secondary school with far lower levels of enthusiasm or effort than other ethnic groups, according to new research that may partly explain differences in academic results and behaviour. Both girls and boys from lower-income white families reported weak levels of engagement from year 7 onwards. Girls were less likely to enjoy being at school while the boys made less effort with their school work. Continue reading...",
-    "ingested_utc": "2025-09-25T23:10:25Z"
   }
 ]
