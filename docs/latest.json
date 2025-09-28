@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-09-28",
     "retrieved_date": "2025-09-28",
+    "retrieved_utc": "2025-09-28T09:28:32Z",
+    "source": "NYTimes_World",
+    "title": "Russia Hammers Kyiv in 12-Hour Drone Assault",
+    "url": "https://www.nytimes.com/2025/09/28/world/europe/ukraine-kyiv-russia-strikes.html",
+    "id_key": "5c6119f0e808980d48d92f6e6e392aaf7e9cd3d7709ee1a182e915f203977685",
+    "summary": "At least four people were killed in the attack, which also wounded dozens of civilians in the capital and around country.",
+    "ingested_utc": "2025-09-28T09:28:32Z"
+  },
+  {
+    "published_utc": "2025-09-28",
+    "retrieved_date": "2025-09-28",
+    "retrieved_utc": "2025-09-28T09:26:21Z",
+    "source": "Guardian_World",
+    "title": "Keir Starmer attacks ‘racist’ Farage plan to deport people settled in the UK",
+    "url": "https://www.theguardian.com/uk-news/2025/sep/28/keir-starmer-says-farage-plan-racist-deport-people-settled-in-the-uk",
+    "id_key": "6fb3790a12ed00a36ee16f3d3d787e365d48c67371bb7cf4dea0b77f1d9a1c26",
+    "summary": "Prime minister says Reform proposal to scrap indefinite leave to remain could ‘rip this country apart’ Labour conference – live updates Keir Starmer has attacked Reform UK’s plan to deport thousands of people already legally living in the UK as “racist” and “immoral”, as he said that Labour had a generational struggle ahead with the populist right. The prime minister, in Liverpool for his party conference, said he did not think that Nigel Farage’s party was trying to appeal to racists, and that he understood people tempted to vote for Reform were frustrated and wanted change. Continue reading...",
+    "ingested_utc": "2025-09-28T09:26:21Z"
+  },
+  {
+    "published_utc": "2025-09-28",
+    "retrieved_date": "2025-09-28",
     "retrieved_utc": "2025-09-28T09:13:42Z",
     "source": "TheStreet_Top",
     "title": "Amazon is selling a 2-in-1 laptop and tablet for $63 that's 'fast' and 'user-friendly'",
@@ -10976,27 +10998,5 @@
     "id_key": "69fa7ec11ce639b56799b3a15b9de1587953c5a5572b569b0865cde696985917",
     "summary": "CALGARY, Alberta, Sept. 25, 2025 (GLOBE NEWSWIRE) — One Exchange Corp (OX) is pleased to announce the appointment of Chase Gutierrez as Executive Vice President – America, effective October 1, 2025, following the conclusion of his non-compete agreement. With more than a decade of industry experience, Mr. Gutierrez brings proven leadership and deep expertise to […]",
     "ingested_utc": "2025-09-25T17:12:48Z"
-  },
-  {
-    "published_utc": "2025-09-25",
-    "retrieved_date": "2025-09-25",
-    "retrieved_utc": "2025-09-25T17:12:31Z",
-    "source": "Engadget_All",
-    "title": "Microsoft blocks Israel's use of its data centers for mass surveillance of Palestinians",
-    "url": "https://www.engadget.com/big-tech/microsoft-blocks-israels-use-of-its-data-centers-for-mass-surveillance-of-palestinians-170107061.html?src=rss",
-    "id_key": "837551f24e1ea27245bf3e0c42e892cb81c734e7f1d33e7231ce46acd8965b3d",
-    "summary": "Microsoft has ended access to its data centers for a unit of the Israeli military that helped power a massive surveillance operation against Palestinian civilians, according to a report by The Guardian . The company says that the country's spy agency has violated its terms of service. This surveillance system collected millions of phone calls made by Palestinian civilians every day in Gaza and the West Bank. The massive trove of data has been stored via Microsoft's Azure cloud platform, but the company just informed Israel's spy agency that this practice will no longer be acceptable. Microsoft’s vice-chair and president, Brad Smith, alerted staff of the move in an email, writing that the company had “ceased and disabled a set of services to a unit within the Israel ministry of defense.\" He went to suggest that this included cutting off access to cloud storage and some AI services. “We do not provide technology to facilitate mass surveillance of civilians,\" he continued. \"We have applied this principle in every country around the world, and we have insisted on it repeatedly for more than two decades.” Microsoft came to this decision after conducting an external inquiry to review the spy agency's use of its Azure cloud platform. It also comes amid pressure from both employees and investors for the company to examine its relationship with Israel as it relates to the military offensive in Gaza. This reportedly started back in 2021, when Microsoft CEO Satya Nadella allegedly okayed the storage effort personally after meeting with a commander from Israel's elite military surveillance corps, Unit 8200. Nadella reportedly gave the country a customized and segregated area within the Azure platform to store these phone calls, all without knowledge or consent from Palestinians. While conflict has existed between Israel and Palestinian groups for decades, these platforms were built out a full two years before the the most recent escalation in violence, beginning October 7, 2023. The mantra when building out the project was to record \"a million calls an hour.\" Leaked Microsoft files suggested that the lion's share of this data was being stored in Azure facilities in the Netherlands, but Israel allegedly moved it after Microsoft started its initial investigation. The Guardian has reported that Unit 8200 planned on transferring the data to the Amazon Web Services cloud platform. We have contacted Amazon to ask if it has accepted this gigantic trove of personal data. This article originally appeared on Engadget at https://www.engadget.com/big-tech/microsoft-blocks-israels-use-of-its-data-centers-for-mass-surveillance-of-palestinians-170107061.html?src=rss",
-    "ingested_utc": "2025-09-25T17:12:31Z"
-  },
-  {
-    "published_utc": "2025-09-25",
-    "retrieved_date": "2025-09-25",
-    "retrieved_utc": "2025-09-25T17:12:28Z",
-    "source": "TheVerge_All",
-    "title": "What happens when an AI-generated artist gets a record deal? A copyright mess",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/785792/ai-generated-music-record-deal-copyright",
-    "id_key": "5634fcb97ef1f5611ed34575ba93114cb4fa1f09f438fd0c2748a2f83a503777",
-    "summary": "Two weeks ago, record company Hallwood Media signed a deal with Telisha \"Nikki\" Jones after negotiations that purportedly included an offer of $3 million, Billboard reported. Jones is a Mississippi-based lyricist behind the R&B artist \"Xania Monet\" whose most popular song on Spotify racked up over 1 million listens, and whose Reels regularly top 100,000 […]",
-    "ingested_utc": "2025-09-25T17:12:28Z"
   }
 ]
