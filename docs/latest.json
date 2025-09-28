@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-09-28",
     "retrieved_date": "2025-09-28",
+    "retrieved_utc": "2025-09-28T19:50:38Z",
+    "source": "AlJazeera_All",
+    "title": "Eric Adam says he is dropping out of New York City mayoral race",
+    "url": "https://www.aljazeera.com/news/2025/9/28/new-york-city-mayor-eric-adams-says-he-wont-seek-re-election?traffic_source=rss",
+    "id_key": "3b3e7bc163af7c9f90566592b4ce50d29a6529ea5bbfdcf431e1f4f1d80789e0",
+    "summary": "Adams bows out, leaving the race between Democrat Zohran Mamdani and former New York Governor Andrew Cuomo.",
+    "ingested_utc": "2025-09-28T19:50:38Z"
+  },
+  {
+    "published_utc": "2025-09-28",
+    "retrieved_date": "2025-09-28",
+    "retrieved_utc": "2025-09-28T19:50:30Z",
+    "source": "TheEconomist_Business",
+    "title": "Donald Trump is waging war on sky-high drug prices. Can he win?",
+    "url": "https://www.economist.com/business/2025/09/28/donald-trump-is-waging-war-on-sky-high-drug-prices-can-he-win",
+    "id_key": "1274cd036590d1ec8c2219e224c42ac8b7db0fdc27f65d1b62e0997d9d6f54db",
+    "summary": "Big pharma faces a reckoning in America",
+    "ingested_utc": "2025-09-28T19:50:30Z"
+  },
+  {
+    "published_utc": "2025-09-28",
+    "retrieved_date": "2025-09-28",
     "retrieved_utc": "2025-09-28T19:36:11Z",
     "source": "AlJazeera_All",
     "title": "Eric Adam says he is dropping out of New York city mayoral race",
@@ -10066,6 +10088,17 @@
   },
   {
     "published_utc": "2025-09-25",
+    "retrieved_date": "2025-09-28",
+    "retrieved_utc": "2025-09-28T19:51:01Z",
+    "source": "HackerNews_Top",
+    "title": "A Fast, Strong, Topologically Meaningful and Fun Knot Invariant",
+    "url": "https://arxiv.org/abs/2509.18456",
+    "id_key": "07047b5a53ba246c36e6fdf09b658faac60863de48b39f50302fadf2b94763ce",
+    "summary": "Comments",
+    "ingested_utc": "2025-09-28T19:51:01Z"
+  },
+  {
+    "published_utc": "2025-09-25",
     "retrieved_date": "2025-09-27",
     "retrieved_utc": "2025-09-27T09:29:11Z",
     "source": "HackerNews_Top",
@@ -10965,38 +10998,5 @@
     "id_key": "b074a06b714f6d2910aaef7464a0d95a12c7fc191f31437fa161c2d1ed1e032c",
     "summary": "One of Nintendo’s most recognizable names is stepping down. Today the company announced that the aptly named Doug Bowser, who took over as president of Nintendo of America from Reggie Fils-Aimé in 2019, will be retiring. He’ll stay on until the end of the year — December 31st, to be precise — and will be […]",
     "ingested_utc": "2025-09-25T21:26:39Z"
-  },
-  {
-    "published_utc": "2025-09-25",
-    "retrieved_date": "2025-09-25",
-    "retrieved_utc": "2025-09-25T21:26:39Z",
-    "source": "TheVerge_All",
-    "title": "Nvidia is letting anyone use its AI voice animation tech",
-    "url": "https://www.theverge.com/news/785981/nvidia-audio2face-ai-voice-animation-open-source",
-    "id_key": "562766d9e7bb03d2b3edb0cc3de0de7849bb07309eda6a292f5aeaae56b25495",
-    "summary": "Nvidia is open-sourcing Audio2Face, its AI-powered tool that generates realistic facial animations for 3D avatars — all based on audio input. The change means developers can now use the tool and its underlying framework to create realistic 3D characters for their games and apps. Nvidia’s Audio2Face works by analyzing the “acoustic features” of a voice, […]",
-    "ingested_utc": "2025-09-25T21:26:39Z"
-  },
-  {
-    "published_utc": "2025-09-25",
-    "retrieved_date": "2025-09-25",
-    "retrieved_utc": "2025-09-25T21:24:20Z",
-    "source": "CryptoBriefing",
-    "title": "Bitwise files S-1 for spot Hyperliquid ETF",
-    "url": "https://cryptobriefing.com/bitwise-hyperliquid-etf/",
-    "id_key": "94303b0abd160a2ffef73a7609b5edf003cac5babf38acf396199c1072e142dc",
-    "summary": "Bitwise files S-1 with the SEC for a spot Hyperliquid ETF, aiming to provide regulated, physically backed exposure to Hyperliquid. The post Bitwise files S-1 for spot Hyperliquid ETF appeared first on Crypto Briefing .",
-    "ingested_utc": "2025-09-25T21:24:20Z"
-  },
-  {
-    "published_utc": "2025-09-25",
-    "retrieved_date": "2025-09-25",
-    "retrieved_utc": "2025-09-25T21:24:00Z",
-    "source": "Guardian_World",
-    "title": "Lisa Cook urges supreme court to reject Trump’s bid to fire her from Fed board",
-    "url": "https://www.theguardian.com/business/2025/sep/25/lisa-cook-federal-reserve-supreme-court-trump",
-    "id_key": "c1ab94b080e179d218475adbdd8c9ead4819ae9953e80b3fdfc0082b1bba5d89",
-    "summary": "Cook’s lawyers say president’s unprecedented move would destroy Fed’s independence and disrupt financial markets Federal Reserve governor Lisa Cook urged the US supreme court on Thursday to reject Donald Trump’s attempt to fire her, telling the justices the Republican president’s unprecedented move would destroy the central bank’s independence and disrupt financial markets. Lawyers for Cook filed a written response opposing the justice department’s 18 September emergency request to lift a federal judge’s order that blocked Trump from immediately removing Cook, an appointee of Democratic former president Joe Biden, while her legal challenge continues. Continue reading...",
-    "ingested_utc": "2025-09-25T21:24:00Z"
   }
 ]
