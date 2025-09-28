@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-09-28",
     "retrieved_date": "2025-09-28",
+    "retrieved_utc": "2025-09-28T21:36:34Z",
+    "source": "AlJazeera_All",
+    "title": "Eric Adams says he is dropping out of New York City mayoral race",
+    "url": "https://www.aljazeera.com/news/2025/9/28/new-york-city-mayor-eric-adams-says-he-wont-seek-re-election?traffic_source=rss",
+    "id_key": "c41d4783a90939b3dbc80d302c6316b7871bd7e0eb712be2ca3eead11f6f037d",
+    "summary": "Adams bows out, leaving the race between Democrat Zohran Mamdani and former New York Governor Andrew Cuomo.",
+    "ingested_utc": "2025-09-28T21:36:34Z"
+  },
+  {
+    "published_utc": "2025-09-28",
+    "retrieved_date": "2025-09-28",
+    "retrieved_utc": "2025-09-28T21:33:18Z",
+    "source": "Guardian_World",
+    "title": "Australia news live: Optus suffers fresh triple-zero glitch; Labor’s first deficit not as bad as feared",
+    "url": "https://www.theguardian.com/australia-news/live/2025/sep/29/australia-news-live-optus-suffers-fresh-triple-zero-glitch-labors-first-deficit-not-as-bad-as-feared",
+    "id_key": "de0a382b4240a5f9d33d4f829deca77fe615f2f1fd7e0cfb315e472edbcbcad1",
+    "summary": "Telco identified nine triple-zero call failures overnight during an outage in the Illawarra region of NSW. Follow today’s news live Get our breaking news email , free app or daily news podcast Nick Visser here. It’s Monday, welcome to the first live blog of the week. Here’s what’s on deck: Optus reported more triple-zero outages overnight, this time in the Dapto region of NSW. The telco said it identified nine triple-zero call failures in a coverage area with a population of about 4,500 people. Police confirmed all callers who attempted to reach emergency services are OK. Continue reading...",
+    "ingested_utc": "2025-09-28T21:33:18Z"
+  },
+  {
+    "published_utc": "2025-09-28",
+    "retrieved_date": "2025-09-28",
     "retrieved_utc": "2025-09-28T21:26:54Z",
     "source": "AlJazeera_All",
     "title": "At least two dead in shooting at Mormon church in Michigan, US: Police",
@@ -10976,27 +10998,5 @@
     "id_key": "4ace690f79c056b7cfd8affc3e019897ae2eae23449b88725f0c440bb61ae292",
     "summary": "In a settlement with the FTC, Amazon will have to pay out over a billion dollars to US customers for “deceptive” sign-up and cancellation processes.",
     "ingested_utc": "2025-09-25T22:14:57Z"
-  },
-  {
-    "published_utc": "2025-09-25",
-    "retrieved_date": "2025-09-25",
-    "retrieved_utc": "2025-09-25T22:14:55Z",
-    "source": "TheVerge_All",
-    "title": "Trump signs &#8216;Saving TikTok&#8217; order to start resolving its big ban problem",
-    "url": "https://www.theverge.com/news/640745/tiktok-deal-trump-us-china-bytedance",
-    "id_key": "6833c4c1aa634ce05ebb0cbba7446743ad179cdadcfd6bab293485e5bd7c98a8",
-    "summary": "President Donald Trump has signed an executive order recognizing the framework of a deal between ByteDance and the US that would satisfy the TikTok divest-or-ban law. The deal values TikTok’s US operations at $14 billion and puts it under the control of companies based in the US. “I spoke with President Xi [Jinping], we had […]",
-    "ingested_utc": "2025-09-25T22:14:55Z"
-  },
-  {
-    "published_utc": "2025-09-25",
-    "retrieved_date": "2025-09-25",
-    "retrieved_utc": "2025-09-25T22:14:36Z",
-    "source": "NPR_Top",
-    "title": "Despite fear, migrants show up for ICE appointments in Dallas and are turned away",
-    "url": "https://www.npr.org/2025/09/25/nx-s1-5552793/dallas-ice-shooting-immigration-appointments-canceled",
-    "id_key": "813d4fb1d5cbba5e5716a8ba588b0728693027e8abdbea7c4bc97e728c280924",
-    "summary": "The ICE facility in Dallas where three detainees were killed in a shooting on Wednesday is still closed, but many people with scheduled check-ins still showed up the next day, only to be turned away.",
-    "ingested_utc": "2025-09-25T22:14:36Z"
   }
 ]
