@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-09-28",
     "retrieved_date": "2025-09-28",
+    "retrieved_utc": "2025-09-28T15:32:57Z",
+    "source": "BBC_World",
+    "title": "Swiss voters approve plan for electronic identity cards",
+    "url": "https://www.bbc.com/news/articles/cdr624j16jpo?at_medium=RSS&at_campaign=rss",
+    "id_key": "3ade7bdbff123f2acf0bec3d7ec498b46fbf90572f830b1c7315eebe09a6e42b",
+    "summary": "Swiss voters previously rejected proposals to introduce digital IDs in 2021",
+    "ingested_utc": "2025-09-28T15:32:57Z"
+  },
+  {
+    "published_utc": "2025-09-28",
+    "retrieved_date": "2025-09-28",
     "retrieved_utc": "2025-09-28T15:28:15Z",
     "source": "HackerNews_Top",
     "title": "The golden ratio as a number base",
@@ -10987,16 +10998,5 @@
     "id_key": "762cf4af2d60427f600733b69173208ede212aa9c7c6cf809276640c3711db81",
     "summary": "Comments",
     "ingested_utc": "2025-09-25T19:26:56Z"
-  },
-  {
-    "published_utc": "2025-09-25",
-    "retrieved_date": "2025-09-25",
-    "retrieved_utc": "2025-09-25T19:26:28Z",
-    "source": "TheStreet_Top",
-    "title": "Goldman Sachs drops shocking call on the economy through 2030",
-    "url": "https://www.thestreet.com/economy/goldman-sachs-drops-shocking-call-on-the-economy-through-2030-",
-    "id_key": "afa764a5b4cc18550036655536972b98ccd727e1e5ff785cf3e094fb576987d0",
-    "summary": "The growth outlook just got a massive overhaul.",
-    "ingested_utc": "2025-09-25T19:26:28Z"
   }
 ]
