@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-09-28",
     "retrieved_date": "2025-09-28",
+    "retrieved_utc": "2025-09-28T10:32:45Z",
+    "source": "FinancialPost_Business",
+    "title": "Moldovans vote in a tense election plagued by Russian interference claims",
+    "url": "https://financialpost.com/pmn/moldovans-cast-ballots-in-a-tense-election-plagued-by-russian-interference-claims",
+    "id_key": "2d9a278a8d7b1efcaef96cbfd7ffff7284201345740390875476db06db04d7f7",
+    "summary": "CHISINAU, Moldova (AP) — Moldovans on Sunday cast ballots in a tense parliamentary election plagued by claims of Russian interference, a vote seen as a choice between integration with the European Union or a drift back into Moscow’s fold. Sunday’s pivotal vote will elect a new 101-seat parliament, after which Moldova’s president nominates a prime […]",
+    "ingested_utc": "2025-09-28T10:32:45Z"
+  },
+  {
+    "published_utc": "2025-09-28",
+    "retrieved_date": "2025-09-28",
     "retrieved_utc": "2025-09-28T10:13:15Z",
     "source": "AlJazeera_All",
     "title": "Iranians fear more economic pain, war as UN sanctions snapback",
@@ -10987,16 +10998,5 @@
     "id_key": "b8e3b5112a0d0a746673f2ec23b843e85edc4d056df6010a871df00628ba4d77",
     "summary": "MONTREAL, Sept. 25, 2025 (GLOBE NEWSWIRE) — Theratechnologies Inc. (“Theratechnologies” or the “Company”) (TSX: TH) (NASDAQ: THTX), a commercial-stage biopharmaceutical company, announced today the completion of the previously-announced plan of arrangement under Chapter XVI – Division II of the Business Corporations Act (Québec) involving CB Biotechnology, LLC (the “Purchaser”), an affiliate of Future Pak, LLC (“Future Pak”), pursuant to which […]",
     "ingested_utc": "2025-09-25T17:31:31Z"
-  },
-  {
-    "published_utc": "2025-09-25",
-    "retrieved_date": "2025-09-25",
-    "retrieved_utc": "2025-09-25T17:31:24Z",
-    "source": "TheStreet_Top",
-    "title": "OpenAI faces another scathing lawsuit from a powerful rival",
-    "url": "https://www.thestreet.com/technology/openai-faces-another-scathing-lawsuit-from-a-powerful-rival",
-    "id_key": "d8d4d9a693776d9dd1889fa04fb82ea77084d5c3a4465518d2e20c89acffe925",
-    "summary": "OpenAI says its rival is trying to \"sue its way to artificial general intelligence.\"",
-    "ingested_utc": "2025-09-25T17:31:24Z"
   }
 ]
