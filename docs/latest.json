@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-09-29",
     "retrieved_date": "2025-09-29",
+    "retrieved_utc": "2025-09-29T16:50:54Z",
+    "source": "HackerNews_Top",
+    "title": "Not all OCuLink eGPU docks are created equal",
+    "url": "https://www.jeffgeerling.com/blog/2025/not-all-oculink-egpu-docks-are-created-equal",
+    "id_key": "19a8efa6f632eb2c405ad6cce9800436f503ca542fb18bd6ba7bd0f0402cc169",
+    "summary": "Comments",
+    "ingested_utc": "2025-09-29T16:50:54Z"
+  },
+  {
+    "published_utc": "2025-09-29",
+    "retrieved_date": "2025-09-29",
     "retrieved_utc": "2025-09-29T16:43:55Z",
     "source": "FinancialPost_Business",
     "title": "Magnificent 7 is passe. This group of AI stocks can replace it",
@@ -10987,16 +10998,5 @@
     "id_key": "58757c6c6987d86376b6107021696e9756e06449c6c4f31c387ab4963ed1b1dc",
     "summary": "Shane Tamura killed four while targeting NFL offices in July",
     "ingested_utc": "2025-09-26T19:33:15Z"
-  },
-  {
-    "published_utc": "2025-09-26",
-    "retrieved_date": "2025-09-26",
-    "retrieved_utc": "2025-09-26T19:25:35Z",
-    "source": "FinancialPost_Business",
-    "title": "FAA restores Boeing’s ability to certify Max jets for flight more than 6 years after fatal crashes",
-    "url": "https://financialpost.com/pmn/faa-restores-boeings-ability-to-certify-max-jets-for-flight-more-than-6-years-after-fatal-crashes",
-    "id_key": "d2b0d86480dd7000d72ba288fd2fdb7a3331cf853214be4ccb30163c4858b87a",
-    "summary": "Boeing is getting back the ability to perform final safety inspections on 737 Max jetliners and certify the planes for flight more than six years after crashes of the then-new model killed 346 people, the Federal Aviation Administration said Friday. The FAA said it decided to restore the aerospace company’s authorization to issue airworthiness certificates […]",
-    "ingested_utc": "2025-09-26T19:25:35Z"
   }
 ]
