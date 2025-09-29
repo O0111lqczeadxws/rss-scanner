@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-09-29",
     "retrieved_date": "2025-09-29",
+    "retrieved_utc": "2025-09-29T03:48:28Z",
+    "source": "BBC_World",
+    "title": "Four killed in shooting and arson attack at Mormon church in Michigan",
+    "url": "https://www.bbc.com/news/articles/ceq2vd15glwo?at_medium=RSS&at_campaign=rss",
+    "id_key": "15713762d2de3bf3c81c4fb39ed66b71ec1950e53e2e4196e0023118512fc78f",
+    "summary": "Hundreds of people were attending a Sunday service when the attacker drove a vehicle into the church and opened fire, police say.",
+    "ingested_utc": "2025-09-29T03:48:28Z"
+  },
+  {
+    "published_utc": "2025-09-29",
+    "retrieved_date": "2025-09-29",
     "retrieved_utc": "2025-09-29T03:28:19Z",
     "source": "HackerNews_Top",
     "title": "Primer on FedEx's Distribution Network (2024)",
@@ -10987,16 +10998,5 @@
     "id_key": "7ab25fef72881528c37a4de709295e648e5965471ceef489fbfe4ec461f9b614",
     "summary": "",
     "ingested_utc": "2025-09-26T00:50:49Z"
-  },
-  {
-    "published_utc": "2025-09-26",
-    "retrieved_date": "2025-09-26",
-    "retrieved_utc": "2025-09-26T00:48:58Z",
-    "source": "CryptoBriefing",
-    "title": "SEC and FINRA scrutinize unusual trading ahead of crypto-treasury announcements: WSJ",
-    "url": "https://cryptobriefing.com/sec-finra-investigate-unusual-crypto-trading/",
-    "id_key": "89623f598a2f38b10e0a82cf53f08f413ad75d1137d4ea23663beb5dfbff100c",
-    "summary": "Increased regulatory scrutiny may lead to stricter compliance measures and impact market behavior in the crypto sector. The post SEC and FINRA scrutinize unusual trading ahead of crypto-treasury announcements: WSJ appeared first on Crypto Briefing .",
-    "ingested_utc": "2025-09-26T00:48:58Z"
   }
 ]
