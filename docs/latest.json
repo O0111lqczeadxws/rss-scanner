@@ -2,6 +2,83 @@
   {
     "published_utc": "2025-09-29",
     "retrieved_date": "2025-09-29",
+    "retrieved_utc": "2025-09-29T17:32:07Z",
+    "source": "HackerNews_Top",
+    "title": "FCC Accidentally Leaked iPhone Schematics",
+    "url": "https://www.engadget.com/big-tech/fcc-accidentally-leaked-iphone-schematics-potentially-giving-rivals-a-peek-at-company-secrets-154551807.html",
+    "id_key": "52af15d711d1df8d799f31281c01ca5a040bd64d79f3ac670cbdd658cb596e51",
+    "summary": "Comments",
+    "ingested_utc": "2025-09-29T17:32:07Z"
+  },
+  {
+    "published_utc": "2025-09-29",
+    "retrieved_date": "2025-09-29",
+    "retrieved_utc": "2025-09-29T17:31:52Z",
+    "source": "FinancialPost_Business",
+    "title": "Forsys Announces Upsize of Bought Deal LIFE Private Placement for Gross Proceeds of C$17.0 Million",
+    "url": "https://financialpost.com/globe-newswire/forsys-announces-upsize-of-bought-deal-life-private-placement-for-gross-proceeds-of-c17-0-million",
+    "id_key": "1de85c5dd4de5ee8977512765672db8da27a85ab6bf3d916dc01f8cd96a6a88d",
+    "summary": "NOT FOR DISTRIBUTION TO UNITED STATES NEWSWIRE SERVICES OR FOR RELEASE, PUBLICATION, DISTRIBUTION OR DISSEMINATION DIRECTLY, OR INDIRECTLY, IN WHOLE OR IN PART, IN OR INTO THE UNITED STATES. TORONTO, Sept. 29, 2025 (GLOBE NEWSWIRE) — Forsys Metals Corp. (TSX: FSY) (FSE: F2T) (NSX: FSY) (“Forsys” or the “Company”) Forsys is pleased to announce that as […]",
+    "ingested_utc": "2025-09-29T17:31:52Z"
+  },
+  {
+    "published_utc": "2025-09-29",
+    "retrieved_date": "2025-09-29",
+    "retrieved_utc": "2025-09-29T17:31:45Z",
+    "source": "AlJazeera_All",
+    "title": "Canada labels India’s Bishnoi gang as ‘terrorist’ organisation",
+    "url": "https://www.aljazeera.com/news/2025/9/29/canada-labels-indias-bishnoi-gang-as-terrorist-organisation?traffic_source=rss",
+    "id_key": "851583379def08136fda1c3a9f4994bd9e2e449d0199438fd4cbddc16e968e47",
+    "summary": "The move will enable asset seizures and prosecutions of Bishnoi gang that has been accused of targeting Sikh activists.",
+    "ingested_utc": "2025-09-29T17:31:45Z"
+  },
+  {
+    "published_utc": "2025-09-29",
+    "retrieved_date": "2025-09-29",
+    "retrieved_utc": "2025-09-29T17:31:45Z",
+    "source": "AlJazeera_All",
+    "title": "Trump promises steep tariffs for foreign movies and imported furniture",
+    "url": "https://www.aljazeera.com/news/2025/9/29/trump-promises-steep-tariffs-for-foreign-movies-and-imported-furniture?traffic_source=rss",
+    "id_key": "60651ff764841dd80130a5ce90e18113f342e738a932b2ba025bddd5cc92f08d",
+    "summary": "The US president pledged a 100 percent tariff for films made outside the country.",
+    "ingested_utc": "2025-09-29T17:31:45Z"
+  },
+  {
+    "published_utc": "2025-09-29",
+    "retrieved_date": "2025-09-29",
+    "retrieved_utc": "2025-09-29T17:31:45Z",
+    "source": "AlJazeera_All",
+    "title": "Gen Z protesters rally across Morocco demanding health, education reforms",
+    "url": "https://www.aljazeera.com/news/2025/9/29/gen-z-protesters-rally-across-morocco-demanding-health-education-reforms?traffic_source=rss",
+    "id_key": "87695425ed99d93cec19c62ad4d24c477153aa7df64bab1820178f6bc4c122ff",
+    "summary": "Police say nearly 200 people have been arrested as the north African nation is rocked by biggest protests in years.",
+    "ingested_utc": "2025-09-29T17:31:45Z"
+  },
+  {
+    "published_utc": "2025-09-29",
+    "retrieved_date": "2025-09-29",
+    "retrieved_utc": "2025-09-29T17:29:19Z",
+    "source": "CryptoNews",
+    "title": "Polkadot Community Backs Proposal for DOT-Backed Algorithmic Stablecoin pUSD",
+    "url": "https://cryptonews.com/news/polkadot-community-backs-proposal-for-dot-backed-algorithmic-stablecoin-pusd/",
+    "id_key": "c2cc2d862211eedd5b3b966acac9c7f905f4c150ba59ae6264c2f30fa89ec3e0",
+    "summary": "Polkadot pUSD stablecoin has progressed to a governance referendum using the Honzon approach on Asset Hub, prompting scrutiny over Acala’s legacy, and fit within Gavin Wood’s broader vision for DOT-collateralized and “stable-ish” instruments on the network. The post Polkadot Community Backs Proposal for DOT-Backed Algorithmic Stablecoin pUSD appeared first on Cryptonews .",
+    "ingested_utc": "2025-09-29T17:29:19Z"
+  },
+  {
+    "published_utc": "2025-09-29",
+    "retrieved_date": "2025-09-29",
+    "retrieved_utc": "2025-09-29T17:29:12Z",
+    "source": "Blockworks",
+    "title": "Swift to add blockchain ledger to global payments network",
+    "url": "https://blockworks.co/news/swift-to-add-blockchain-ledger",
+    "id_key": "98d4a2396f7b3226df743e88687e95ec0b13faac267f5732fa57ed829c4c8eb0",
+    "summary": "The payments giant will integrate a blockchain-based ledger to streamline settlement across 200 countries",
+    "ingested_utc": "2025-09-29T17:29:12Z"
+  },
+  {
+    "published_utc": "2025-09-29",
+    "retrieved_date": "2025-09-29",
     "retrieved_utc": "2025-09-29T17:13:45Z",
     "source": "HackerNews_Top",
     "title": "Subtleties of SQLite Indexes",
@@ -10921,82 +10998,5 @@
     "id_key": "f84a4d33cb5cb01bfe8feb02efed49c27ec606cdb18ce239e03d6b46d43d14f3",
     "summary": "Mark Francis Ford is accused of sexual crimes allegedly starting in 2004 against a then 10-year-old boy A man who once served in the administrations of two Louisiana governors has been arrested on allegations that he molested a child whom he met while ministering to disabled children in New Orleans as a Roman Catholic priest during a previous career, according to authorities and an attorney representing the accuser. Mark Francis Ford, 64, faces charges of first-degree rape, second-degree kidnapping, sexual battery and indecent behavior with a juvenile after federal agents arrested him on Thursday in Portage, Indiana, on a warrant obtained by police in New Orleans, Brian Fair of the US Marshals Service said. Continue reading...",
     "ingested_utc": "2025-09-26T20:11:38Z"
-  },
-  {
-    "published_utc": "2025-09-26",
-    "retrieved_date": "2025-09-26",
-    "retrieved_utc": "2025-09-26T20:11:37Z",
-    "source": "Guardian_Business",
-    "title": "Sinclair ends boycott of Jimmy Kimmel Live! and will bring show back on air",
-    "url": "https://www.theguardian.com/tv-and-radio/2025/sep/26/sinclair-end-boycott-of-jimmy-kimmel-live",
-    "id_key": "dd2e0fecc00f1eb98bc565534a77a0efbbadf465547ab0091f0d29fff4f9fa5e",
-    "summary": "Announcement leaves Nexstar as the only TV station owner still preempting the late-night talkshow Local TV conglomerate Sinclair Broadcast Group said its ABC-affiliate stations will start airing Jimmy Kimmy Live! again on Friday night, ending its preempting of the show. Sinclair, along with fellow station owner Nexstar Media Group, continued to preempt Kimmel’s late-night talkshow even after ABC had put Kimmel back on air . Continue reading...",
-    "ingested_utc": "2025-09-26T20:11:37Z"
-  },
-  {
-    "published_utc": "2025-09-26",
-    "retrieved_date": "2025-09-26",
-    "retrieved_utc": "2025-09-26T20:11:37Z",
-    "source": "Guardian_Business",
-    "title": "Kitchen sink drama: Trump’s latest tariffs leave experts scratching heads",
-    "url": "https://www.theguardian.com/business/2025/sep/26/trump-kitchen-sink-tariffs",
-    "id_key": "cd0de81a1282e267f96c8ce42b8b230152d249515bc43a9a70dd1db0a6efc815",
-    "summary": "President places new duties on cabinets, vanities and sofas but national-security justification prompts puzzlement Donald Trump has often cited national security when announcing new tariffs. America and its military can not run without steel and computer chips. The nation’s food and drug supply must be protected. But have you considered the security implications of your kitchen sink? Announcing his latest wave of tariffs on goods from overseas – a 50% levy on kitchen cabinets and bathroom vanities, and 30% on upholstered furniture, to be enforced next month – Trump once again cited the top priority of any president. Continue reading...",
-    "ingested_utc": "2025-09-26T20:11:37Z"
-  },
-  {
-    "published_utc": "2025-09-26",
-    "retrieved_date": "2025-09-26",
-    "retrieved_utc": "2025-09-26T20:11:35Z",
-    "source": "BBC_World",
-    "title": "Elon Musk and Prince Andrew named in new Epstein files",
-    "url": "https://www.bbc.com/news/articles/cwyl8j1we0lo?at_medium=RSS&at_campaign=rss",
-    "id_key": "1c99718fe6206d9f05816955221fa6f97a0c75ebea430c639cecae048e3bfe4e",
-    "summary": "The documents by the estate of convicted paedophile financier Jeffrey Epstein were released by Congressional Democrats.",
-    "ingested_utc": "2025-09-26T20:11:35Z"
-  },
-  {
-    "published_utc": "2025-09-26",
-    "retrieved_date": "2025-09-26",
-    "retrieved_utc": "2025-09-26T19:50:39Z",
-    "source": "AlJazeera_All",
-    "title": "UN Security Council rejects last-ditch effort to delay Iran sanctions",
-    "url": "https://www.aljazeera.com/news/2025/9/26/u-n-security-council-rejects-last-ditch-effort-to-delay-iran-sanctions?traffic_source=rss",
-    "id_key": "af84732361a91ab87207ed1c44cbc818e5ec96eb48481115e35a8a092c85cf56",
-    "summary": "Security Council votes against delaying reimposition of UN sanctions on Iran over its nuclear programme.",
-    "ingested_utc": "2025-09-26T19:50:39Z"
-  },
-  {
-    "published_utc": "2025-09-26",
-    "retrieved_date": "2025-09-26",
-    "retrieved_utc": "2025-09-26T19:50:39Z",
-    "source": "AlJazeera_All",
-    "title": "Interest rate cut offers hope to Canada’s sluggish housing market",
-    "url": "https://www.aljazeera.com/economy/2025/9/26/interest-rate-cut-offers-hope-to-canadas-sluggish-housing-market?traffic_source=rss",
-    "id_key": "2da7f71a5c1dba39002b439f6c584f8e6e72ffca70f545e076adb5115ed52b17",
-    "summary": "Bank of Canada decision comes as months of slow home sales inched up after uncertainty over US tariffs.",
-    "ingested_utc": "2025-09-26T19:50:39Z"
-  },
-  {
-    "published_utc": "2025-09-26",
-    "retrieved_date": "2025-09-26",
-    "retrieved_utc": "2025-09-26T19:50:39Z",
-    "source": "AlJazeera_All",
-    "title": "UN lists 150 firms tied to illegal Israeli settlements",
-    "url": "https://www.aljazeera.com/news/2025/9/26/un-lists-150-firms-tied-to-illegal-israeli-settlements?traffic_source=rss",
-    "id_key": "3a6fa086c2db178a605724eaf3c919377ae9fc89d3cf52f6c2e43a5601791b98",
-    "summary": "Report exposes global firms profiting from Israel’s unlawful settlement enterprise in the occupied West Bank.",
-    "ingested_utc": "2025-09-26T19:50:39Z"
-  },
-  {
-    "published_utc": "2025-09-26",
-    "retrieved_date": "2025-09-26",
-    "retrieved_utc": "2025-09-26T19:50:28Z",
-    "source": "WIRED_All",
-    "title": "Heritage Foundation Uses Bogus Stat to Push a Trans Terrorism Classification",
-    "url": "https://www.wired.com/story/heritage-foundation-uses-bogus-stat-to-push-a-trans-terrorism-classification/",
-    "id_key": "8ca7306edc3edba9aa8f95276e3b35c542c731221cd2e34f3af82ba52563944f",
-    "summary": "By inflating numbers and narrowing definitions, Heritage promotes a false link between transgender identity and violence in its push for the FBI to create a new terrorism category.",
-    "ingested_utc": "2025-09-26T19:50:28Z"
   }
 ]
