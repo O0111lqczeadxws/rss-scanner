@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-09-29",
     "retrieved_date": "2025-09-29",
+    "retrieved_utc": "2025-09-29T20:40:11Z",
+    "source": "FinancialPost_Business",
+    "title": "US Stocks Edge Higher; New Tariffs, Shutdown Worries Limit Gains",
+    "url": "https://financialpost.com/pmn/business-pmn/us-stocks-edge-higher-new-tariffs-shutdown-worries-limit-gains",
+    "id_key": "3b44a9bc00dc76f4729e39c656c268ebb5a3b1604a538b98afdb9f451fc28f6d",
+    "summary": "US stocks advanced on Monday, beginning the week on a positive note even as concerns around new tariffs, the potential for a government shutdown and looming key economic data kept gains in check.",
+    "ingested_utc": "2025-09-29T20:40:11Z"
+  },
+  {
+    "published_utc": "2025-09-29",
+    "retrieved_date": "2025-09-29",
+    "retrieved_utc": "2025-09-29T20:40:04Z",
+    "source": "AlJazeera_All",
+    "title": "North Korea says denuclearisation would mean surrendering its sovereignty",
+    "url": "https://www.aljazeera.com/video/newsfeed/2025/9/29/north-korea-says-denuclearisation-would-mean-surrendering-its-sovereignty?traffic_source=rss",
+    "id_key": "9835c6a16a56d43d45802371fb6d152ddd65abb7008d20c60707043b9deda035",
+    "summary": "North Korea's Vice Foreign Minister Kim Son Gyong staunchly defended the country’s nuclear programme.",
+    "ingested_utc": "2025-09-29T20:40:04Z"
+  },
+  {
+    "published_utc": "2025-09-29",
+    "retrieved_date": "2025-09-29",
     "retrieved_utc": "2025-09-29T20:31:10Z",
     "source": "FinancialPost_Business",
     "title": "Gold surges to record on weaker U.S. dollar, risk of shutdown",
@@ -10974,28 +10996,6 @@
     "title": "ASEAN deepens internal, external ties to weather US tariff headwinds",
     "url": "https://asia.nikkei.com/economy/asean-deepens-internal-external-ties-to-weather-us-tariff-headwinds",
     "id_key": "cba2fc65dfb5ed6891032f0010074e5320bf8e0601bc580fa6f3fead3383dd0d",
-    "summary": "",
-    "ingested_utc": "2025-09-27T00:50:22Z"
-  },
-  {
-    "published_utc": "2025-09-27",
-    "retrieved_date": "2025-09-27",
-    "retrieved_utc": "2025-09-27T00:50:22Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "Yen dips to 2-month low against dollar as investors bet on longer BOJ pause",
-    "url": "https://asia.nikkei.com/business/markets/currencies/yen-dips-to-2-month-low-against-dollar-as-investors-bet-on-longer-boj-pause",
-    "id_key": "b89e7711d9fa4928c4d490ef695d556f04e1edf4598d32d8504e83d5f5ab88e6",
-    "summary": "",
-    "ingested_utc": "2025-09-27T00:50:22Z"
-  },
-  {
-    "published_utc": "2025-09-27",
-    "retrieved_date": "2025-09-27",
-    "retrieved_utc": "2025-09-27T00:50:22Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "Vietnam scraps LGBT events after years of expanding rights",
-    "url": "https://asia.nikkei.com/spotlight/society/vietnam-scraps-lgbt-events-after-years-of-expanding-rights",
-    "id_key": "11b87dc49aa910e9bcdb8752d95172db6764fc90cf4eef877e25f4cb1df4d0d2",
     "summary": "",
     "ingested_utc": "2025-09-27T00:50:22Z"
   }
