@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-09-30",
     "retrieved_date": "2025-09-30",
+    "retrieved_utc": "2025-09-30T06:51:31Z",
+    "source": "HackerNews_Top",
+    "title": "Geolocation and Starlink",
+    "url": "https://www.potaroo.net/ispcol/2025-09/starlinkgeo.html",
+    "id_key": "a1e90ac3f6e880a3f0b803e3a572a4d6405b900197ce50016878ad816176c296",
+    "summary": "Comments",
+    "ingested_utc": "2025-09-30T06:51:31Z"
+  },
+  {
+    "published_utc": "2025-09-30",
+    "retrieved_date": "2025-09-30",
+    "retrieved_utc": "2025-09-30T06:51:16Z",
+    "source": "FinancialPost_Business",
+    "title": "Falcon Oil & Gas Ltd. – Tamboran to acquire Falcon Oil & Gas Ltd. to create ~2.9-million-acre Beetaloo Basin business",
+    "url": "https://financialpost.com/globe-newswire/falcon-oil-gas-ltd-tamboran-to-acquire-falcon-oil-gas-ltd-to-create-2-9-million-acre-beetaloo-basin-business",
+    "id_key": "1a576a2c6ebaa2337ad246bd39773c644510211e7abd7f461b4359388a88a548",
+    "summary": "Falcon Oil & Gas Ltd. Tamboran to acquire Falcon Oil & Gas Ltd. to create ~2.9-million-acre Beetaloo Basin business 30 September 2025 Highlights Falcon Oil & Gas Ltd. (TSXV: FO, AIM: FOG) (Falcon) and Tamboran Resources Corporation (NYSE: TBN, ASX: TBN) (Tamboran) have entered into a definitive agreement to create an ~2.9 million net prospective […]",
+    "ingested_utc": "2025-09-30T06:51:16Z"
+  },
+  {
+    "published_utc": "2025-09-30",
+    "retrieved_date": "2025-09-30",
+    "retrieved_utc": "2025-09-30T06:47:44Z",
+    "source": "Guardian_World",
+    "title": "Australia news live: Michele Bullock says ‘nothing I can do personally’ about house prices as RBA holds interest rate at 3.6%",
+    "url": "https://www.theguardian.com/australia-news/live/2025/sep/30/australia-news-live-albanese-supermarket-united-arab-emirates-uae-coalition-sussan-ley-andrew-hastie-reserve-bank-rba-chalmers-interest-rates-decision-ntwnfb",
+    "id_key": "354fb0026c46874e42d0a06d7c506e053de2df70b1ccf2d9eff001910df47c2a",
+    "summary": "Follow today’s news live Get our breaking news email , free app or daily news podcast McIntosh says ‘something needs to happen’ with Optus CEO McIntosh said Australians hadn’t heard enough from Optus, saying the CEO of the telco needed to take responsibility for the outrages. Australians have lost confidence in Optus and they’ve lost confidence in the CEO doing his job. So it would be logical that the person at the top needs to take responsibility for this. That is going to be up to the Optus board, but something needs to happen. Continue reading...",
+    "ingested_utc": "2025-09-30T06:47:44Z"
+  },
+  {
+    "published_utc": "2025-09-30",
+    "retrieved_date": "2025-09-30",
     "retrieved_utc": "2025-09-30T06:21:01Z",
     "source": "FinancialPost_Business",
     "title": "New Syncron Value-Added Reseller Program Expands Access to Advanced Aftermarket Solutions",
@@ -933,6 +966,17 @@
     "id_key": "21fd611f82a67a4e1db2e1cded5f3af9f7eb0d0181346c7ee57c14c0466c28e1",
     "summary": "The US and Israeli leaders said they have agreed a peace plan for Gaza and warned Hamas to accept it.",
     "ingested_utc": "2025-09-30T00:50:34Z"
+  },
+  {
+    "published_utc": "2025-09-29",
+    "retrieved_date": "2025-09-30",
+    "retrieved_utc": "2025-09-30T06:47:41Z",
+    "source": "BBC_World",
+    "title": "The online blunder that led a BBC team to unmask Europe-wide dog fighting network",
+    "url": "https://www.bbc.com/news/articles/ce9r1e5j3r3o?at_medium=RSS&at_campaign=rss",
+    "id_key": "824eacdbdebafcfafd2340c60b168af7067d6d433be85130e7cb8d98ace4e3fb",
+    "summary": "BBC Spotlight went undercover to expose a secret network of international dog fighters.",
+    "ingested_utc": "2025-09-30T06:47:41Z"
   },
   {
     "published_utc": "2025-09-29",
@@ -10954,49 +10998,5 @@
     "id_key": "b15e13a3abfa459bb0aa315bc3f31c90d038e1411239cbc7883ea263195ce900",
     "summary": "",
     "ingested_utc": "2025-09-28T00:58:29Z"
-  },
-  {
-    "published_utc": "2025-09-28",
-    "retrieved_date": "2025-09-28",
-    "retrieved_utc": "2025-09-28T00:58:29Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "Vietnam scraps LGBT events after years of expanding rights",
-    "url": "https://asia.nikkei.com/spotlight/society/vietnam-scraps-lgbt-events-after-years-of-expanding-rights",
-    "id_key": "89f02b405eb93710f56cdeff4a448934a0058e8326effab854d5836360aa352e",
-    "summary": "",
-    "ingested_utc": "2025-09-28T00:58:29Z"
-  },
-  {
-    "published_utc": "2025-09-28",
-    "retrieved_date": "2025-09-28",
-    "retrieved_utc": "2025-09-28T00:58:29Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "Fujifilm aims to become 'TSMC of biopharma' with new US plant",
-    "url": "https://asia.nikkei.com/business/pharmaceuticals/fujifilm-aims-to-become-tsmc-of-biopharma-with-new-us-plant",
-    "id_key": "3577060a5e67857b531db41f4a0625aac19fb7b780feb0733ee48e6f945a71da",
-    "summary": "",
-    "ingested_utc": "2025-09-28T00:58:29Z"
-  },
-  {
-    "published_utc": "2025-09-28",
-    "retrieved_date": "2025-09-28",
-    "retrieved_utc": "2025-09-28T00:58:29Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "Panasonic electronics unit to offer early retirement in October",
-    "url": "https://asia.nikkei.com/business/companies/panasonic-electronics-unit-to-offer-early-retirement-in-october",
-    "id_key": "ab648ba89b826018659e5c1799c7ba97af7dc9be6c1d299fe1bf1c6f18d3b3cd",
-    "summary": "",
-    "ingested_utc": "2025-09-28T00:58:29Z"
-  },
-  {
-    "published_utc": "2025-09-28",
-    "retrieved_date": "2025-09-28",
-    "retrieved_utc": "2025-09-28T00:58:15Z",
-    "source": "AlJazeera_All",
-    "title": "One year after killing of leader Nasrallah, Hezbollah says no to disarming",
-    "url": "https://www.aljazeera.com/news/2025/9/28/one-year-after-killing-of-leader-nasrallah-hezbollah-says-no-to-disarming?traffic_source=rss",
-    "id_key": "653d9d27833ca02d3a8503361d621435703e3084680cce353c61d69d7e994ad7",
-    "summary": "The Lebanese government has backed plans to disarm Hezbollah, which was badly weakened by its latest war with Israel.",
-    "ingested_utc": "2025-09-28T00:58:15Z"
   }
 ]
