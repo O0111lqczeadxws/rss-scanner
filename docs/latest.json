@@ -2,6 +2,72 @@
   {
     "published_utc": "2025-09-30",
     "retrieved_date": "2025-09-30",
+    "retrieved_utc": "2025-09-30T07:33:07Z",
+    "source": "HackerNews_Top",
+    "title": "European Union Public Licence (EUPL)",
+    "url": "https://eupl.eu/",
+    "id_key": "b37d18bb49ef27e62b202cfd294f6ffef354c6039e8584086e4683980b0121b0",
+    "summary": "Comments",
+    "ingested_utc": "2025-09-30T07:33:07Z"
+  },
+  {
+    "published_utc": "2025-09-30",
+    "retrieved_date": "2025-09-30",
+    "retrieved_utc": "2025-09-30T07:32:52Z",
+    "source": "FinancialPost_Business",
+    "title": "E3 Lithium Enters Into Agreement to Sell Non-Core Saskatchewan Assets",
+    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/e3-lithium-enters-into-agreement-to-sell-non-core-saskatchewan-assets",
+    "id_key": "07faa13333b32407802a59628f054504d89fe5e5b47c16b8c0aeff1fe4927253",
+    "summary": "Cash proceeds to enhance balance sheet and support Clearwater Project development CALGARY, Alberta — E3 LITHIUM LTD. (TSXV: ETL) (FSE: OW3) (OTCQX: EEMMF), “E3 Lithium” or the “Company,” a leader in Canadian lithium has entered into an Asset Purchase and Sale Agreement (the “Agreement”) with an arm’s length private company (the “Purchaser”), to sell the […]",
+    "ingested_utc": "2025-09-30T07:32:52Z"
+  },
+  {
+    "published_utc": "2025-09-30",
+    "retrieved_date": "2025-09-30",
+    "retrieved_utc": "2025-09-30T07:32:52Z",
+    "source": "FinancialPost_Business",
+    "title": "Cybersecurity Wakeup: Gen Z Tops the List for Falling for Phishing Attacks",
+    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/cybersecurity-wakeup-gen-z-tops-the-list-for-falling-for-phishing-attacks",
+    "id_key": "6fc1859a3e44f82d42e546e7b66bf4c838702ec3d341ba017cc7017bd41f2fa6",
+    "summary": "New survey from Yubico unveils a holistic picture of cybersecurity readiness across nine countries SANTA CLARA, Calif. & STOCKHOLM — Amid growing uncertainty around AI and a surge in cybersecurity breaches, Yubico (NASDAQ STOCKHOLM: YUBICO) – the creator of the most secure passkeys and leading provider of hardware authentication security keys – has released […]",
+    "ingested_utc": "2025-09-30T07:32:52Z"
+  },
+  {
+    "published_utc": "2025-09-30",
+    "retrieved_date": "2025-09-30",
+    "retrieved_utc": "2025-09-30T07:32:52Z",
+    "source": "FinancialPost_Business",
+    "title": "French Inflation Quickens But Remains Well Short of 2% ECB Goal",
+    "url": "https://financialpost.com/pmn/business-pmn/french-inflation-quickens-but-remains-well-short-of-2-ecb-goal",
+    "id_key": "2edb8a5ed358c01c48e675c6c5e1fadb2ed11c2318c492b6ca2d9aa945101d85",
+    "summary": "French inflation picked up on an acceleration in the services sector and smaller declines in energy prices, though remained well below the European Central Bank’s 2% target.",
+    "ingested_utc": "2025-09-30T07:32:52Z"
+  },
+  {
+    "published_utc": "2025-09-30",
+    "retrieved_date": "2025-09-30",
+    "retrieved_utc": "2025-09-30T07:32:52Z",
+    "source": "FinancialPost_Business",
+    "title": "UK Households Save More as Threat of Tax Rises Weighs on Outlook",
+    "url": "https://financialpost.com/pmn/business-pmn/uk-households-save-more-as-threat-of-tax-rises-weighs-on-outlook",
+    "id_key": "ee0503a6cba9c5f52a563c32b27373e1109df59a5f64d0a131f313f87ab1e09c",
+    "summary": "British households put more away in savings in the second quarter, a sign of continued caution amid rising inflation and an uncertain economic outlook as consumers brace for further tax hikes in the upcoming budget.",
+    "ingested_utc": "2025-09-30T07:32:52Z"
+  },
+  {
+    "published_utc": "2025-09-30",
+    "retrieved_date": "2025-09-30",
+    "retrieved_utc": "2025-09-30T07:32:46Z",
+    "source": "AlJazeera_All",
+    "title": "LIVE: Israel keeps pounding Gaza as Hamas reviews Trump’s plan to end war",
+    "url": "https://www.aljazeera.com/news/liveblog/2025/9/30/live-israel-kills-39-in-gaza-as-hamas-reviews-trumps-proposal-to-end-war?traffic_source=rss",
+    "id_key": "3c8080b4e42cd80d8537cbe2973d417957135b96661ecd5c10e7b8f518608579",
+    "summary": "Palestinians in Gaza say the proposal raises questions around implementation as Israeli attacks continue.",
+    "ingested_utc": "2025-09-30T07:32:46Z"
+  },
+  {
+    "published_utc": "2025-09-30",
+    "retrieved_date": "2025-09-30",
     "retrieved_utc": "2025-09-30T07:15:05Z",
     "source": "HackerNews_Top",
     "title": "The ABS Programming Language",
@@ -1109,6 +1175,17 @@
     "id_key": "21fd611f82a67a4e1db2e1cded5f3af9f7eb0d0181346c7ee57c14c0466c28e1",
     "summary": "The US and Israeli leaders said they have agreed a peace plan for Gaza and warned Hamas to accept it.",
     "ingested_utc": "2025-09-30T00:50:34Z"
+  },
+  {
+    "published_utc": "2025-09-29",
+    "retrieved_date": "2025-09-30",
+    "retrieved_utc": "2025-09-30T07:32:06Z",
+    "source": "NYTimes_World",
+    "title": "Trump and Netanyahu Tell Hamas to Accept Gaza Cease-Fire Plan, Or Else",
+    "url": "https://www.nytimes.com/2025/09/29/us/politics/trump-netanyahu-hamas-ultimatum.html",
+    "id_key": "4f4223683d15374da0875924122f24eb3727750ee7413e82743693452d944b76",
+    "summary": "President Trump said Israel would have a green light to “finish the job” if Hamas refused to agree to the cease-fire deal.",
+    "ingested_utc": "2025-09-30T07:32:06Z"
   },
   {
     "published_utc": "2025-09-29",
@@ -10921,82 +10998,5 @@
     "id_key": "7617be428dd10c0e7517887e964012bbc045406e5f0e3742812110723dde9ad3",
     "summary": "Follow the day’s news live Get our breaking news email , free app or daily news podcast PM brushes off Coalition criticism for attending UK Labour party’s national conference Returning to Albanese’s appearance on Sky News this morning, the PM has shrugged off criticism from the Coalition that he is spending too much time engaging in international diplomacy after he attended the UK Labour party’s national conference. What I do is work very hard representing Australia. In Liverpool, I’ll be having discussions with ministers, not just with prime minister Starmer, about Aukus and about that progress, taking the opportunity to sit down with government ministers. I think you can be strong on borders without being weak on humanity, and that’s what drives my government. Continue reading...",
     "ingested_utc": "2025-09-28T03:27:21Z"
-  },
-  {
-    "published_utc": "2025-09-28",
-    "retrieved_date": "2025-09-28",
-    "retrieved_utc": "2025-09-28T03:27:17Z",
-    "source": "BBC_World",
-    "title": "Brutal killings of young women leave Argentina in shock and anger",
-    "url": "https://www.bbc.com/news/articles/c20zl9pydezo?at_medium=RSS&at_campaign=rss",
-    "id_key": "9d9a56a79ea789f75af79fa6c5a6f12579d98952c3f4f40915f9938122d85317",
-    "summary": "Thousands march demanding justice for three victims whose murders were livestreamed on social media.",
-    "ingested_utc": "2025-09-28T03:27:17Z"
-  },
-  {
-    "published_utc": "2025-09-28",
-    "retrieved_date": "2025-09-28",
-    "retrieved_utc": "2025-09-28T02:30:08Z",
-    "source": "HackerNews_Top",
-    "title": "Enthusiasts bond twelve 56K modems together to set dial-up record: 668kbps",
-    "url": "https://www.tomshardware.com/networking/enthusiasts-bond-twelve-56k-dial-up-modems-together-to-set-dial-up-broadband-records-a-dozen-screeching-boxes-achieve-record-668-kbps-download-speeds",
-    "id_key": "f2bdbf1f070e05971274145269ece08ffb406cc6ded3e677c066362f56a0a549",
-    "summary": "Comments",
-    "ingested_utc": "2025-09-28T02:30:08Z"
-  },
-  {
-    "published_utc": "2025-09-28",
-    "retrieved_date": "2025-09-28",
-    "retrieved_utc": "2025-09-28T02:30:00Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "Digital banking startup Tyme plans expansion into Indonesia, Vietnam",
-    "url": "https://asia.nikkei.com/business/finance/digital-banking-startup-tyme-plans-expansion-into-indonesia-vietnam",
-    "id_key": "f5f291953921b4e8aa4236ab2f0ac07cb1618ab24daa5d780403096ad250b8f2",
-    "summary": "",
-    "ingested_utc": "2025-09-28T02:30:00Z"
-  },
-  {
-    "published_utc": "2025-09-28",
-    "retrieved_date": "2025-09-28",
-    "retrieved_utc": "2025-09-28T02:29:53Z",
-    "source": "FinancialPost_Business",
-    "title": "MetLife and Global Citizen Announce Major Partnership to Drive Economic Change and Foster Resilient Communities",
-    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/metlife-and-global-citizen-announce-major-partnership-to-drive-economic-change-and-foster-resilient-communities",
-    "id_key": "ea7ce8eb62d921cbf1d11b0f81d411a2833f823489ca065de8080a05405159ad",
-    "summary": "MetLife Foundation Commits $9 Million to FIFA Global Citizen Education Fund NEW YORK — Today at the 2025 Global Citizen Festival, MetLife, a leading financial services company providing insurance and employee benefits, proudly announced becoming a major partner with Global Citizen, the world’s largest movement to end extreme poverty, with a new three-year partnership. This […]",
-    "ingested_utc": "2025-09-28T02:29:53Z"
-  },
-  {
-    "published_utc": "2025-09-28",
-    "retrieved_date": "2025-09-28",
-    "retrieved_utc": "2025-09-28T02:29:14Z",
-    "source": "NPR_Top",
-    "title": "Marc Maron, Human Rights Watch and others slam Saudi comedy festival",
-    "url": "https://www.npr.org/2025/09/27/nx-s1-5555462/saudi-comedy-festival-chappelle-hart-maron",
-    "id_key": "207e78ef538197bceabd6a4abe32fe9bcb8a00bd9233ca82afd162cc62cab794",
-    "summary": "The participation of big name funnymen, including Dave Chappelle, Aziz Ansari and Kevin Hart, provoked criticism from fellow comedians and human rights groups.",
-    "ingested_utc": "2025-09-28T02:29:14Z"
-  },
-  {
-    "published_utc": "2025-09-28",
-    "retrieved_date": "2025-09-28",
-    "retrieved_utc": "2025-09-28T02:29:07Z",
-    "source": "NYTimes_World",
-    "title": "Jerome Cohen, Lawyer Who Saw a Future in China, Dies at 95",
-    "url": "https://www.nytimes.com/2025/09/27/world/asia/jerome-cohen-dead.html",
-    "id_key": "95eb48930b8896909f1585ce5bc1e7d9d80316b77b26553cd90565bc9b409715",
-    "summary": "After pioneering the study of Chinese law in America, he was among the first foreigners to practice commercial law in China, and spoke out about human rights.",
-    "ingested_utc": "2025-09-28T02:29:07Z"
-  },
-  {
-    "published_utc": "2025-09-28",
-    "retrieved_date": "2025-09-28",
-    "retrieved_utc": "2025-09-28T02:26:50Z",
-    "source": "Guardian_World",
-    "title": "Australia news live: Albanese rules out holding republic referendum; Cash praises Netanyahu’s ‘moral clarity’",
-    "url": "https://www.theguardian.com/australia-news/live/2025/sep/28/australia-news-live-albanese-king-charles-afl-brisbane-coalition-liberals-western-australia-gst-queensland-nsw-victoria-labor-ntwnfb",
-    "id_key": "294b68d299b670b79765eee976825687b90854361578f14eb9caf3b875c52228",
-    "summary": "PM rules out holding another referendum while in office after meeting with King Charles in Scotland. Follow the day’s news live Get our breaking news email , free app or daily news podcast PM brushes off Coalition criticism for attending UK Labour party’s national conference Returning to Albanese’s appearance on Sky News this morning, the PM has shrugged off criticism from the Coalition that he is spending too much time engaging in international diplomacy after he attended the UK Labour party’s national conference. What I do is work very hard representing Australia. In Liverpool, I’ll be having discussions with ministers, not just with prime minister Starmer, about Aukus and about that progress, taking the opportunity to sit down with government ministers. I think you can be strong on borders without being weak on humanity, and that’s what drives my government. Continue reading...",
-    "ingested_utc": "2025-09-28T02:26:50Z"
   }
 ]
