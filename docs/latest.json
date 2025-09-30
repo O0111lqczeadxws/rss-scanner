@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-09-30",
     "retrieved_date": "2025-09-30",
+    "retrieved_utc": "2025-09-30T23:50:45Z",
+    "source": "Nikkei_Asia_Top",
+    "title": "Mitsubishi to spend $81m on tie-up with Australia's largest auto dealer",
+    "url": "https://asia.nikkei.com/business/business-deals/mitsubishi-to-spend-81m-on-tie-up-with-australia-s-largest-auto-dealer",
+    "id_key": "61e4d6fac4711cc9ddd3d70eef42a6966e823610b11703bcf014f754a90fc0a0",
+    "summary": "",
+    "ingested_utc": "2025-09-30T23:50:45Z"
+  },
+  {
+    "published_utc": "2025-09-30",
+    "retrieved_date": "2025-09-30",
+    "retrieved_utc": "2025-09-30T23:47:51Z",
+    "source": "BitcoinMagazine",
+    "title": "FOMC Rate Cuts Loom as Bitcoin Holds Above $109,500 EMA",
+    "url": "https://bitcoinmagazine.com/markets/fomc-rate-cuts-loom-as-bitcoin-holds-above-109500-ema",
+    "id_key": "337c94ee7fed8dcb74d068c4913c6937750ff9858695a718abde073c75302bd4",
+    "summary": "Bitcoin Magazine FOMC Rate Cuts Loom as Bitcoin Holds Above $109,500 EMA Bitcoin’s bearish weekly chart faces pressure as investors await FOMC rate cut signals, with $109,500 support critical for bulls to defend. This post FOMC Rate Cuts Loom as Bitcoin Holds Above $109,500 EMA first appeared on Bitcoin Magazine and is written by Ethan Greene - Feral Analysis .",
+    "ingested_utc": "2025-09-30T23:47:51Z"
+  },
+  {
+    "published_utc": "2025-09-30",
+    "retrieved_date": "2025-09-30",
+    "retrieved_utc": "2025-09-30T23:47:35Z",
+    "source": "Guardian_World",
+    "title": "Italy to end support for international Gaza flotilla as it nears destination",
+    "url": "https://www.theguardian.com/world/2025/oct/01/gaza-aid-flotilla-sumud-update-location-tracker-greta-thunberg-israel-blockade",
+    "id_key": "ce090ce1e74143b8e1bdd57a2dfcdd8217cbda53690979c21606d72eff2b1a9a",
+    "summary": "The Global Sumud Flotilla, with over 500 people including Swedish climate campaigner Greta Thunberg, aims to break Israel’s blockade of Gaza Italy has said it will stop tracking an international flotilla attempting to deliver aid to Gaza with a military vessel, as activists on board announced they were on “high alert” as they moved closed to their destination. The Global Sumud Flotilla, consisting of more than 40 civilian boats with over 500 people including parliamentarians, lawyers and Swedish climate campaigner Greta Thunberg, aims to break Israel’s blockade of Gaza . Continue reading...",
+    "ingested_utc": "2025-09-30T23:47:35Z"
+  },
+  {
+    "published_utc": "2025-09-30",
+    "retrieved_date": "2025-09-30",
     "retrieved_utc": "2025-09-30T23:33:20Z",
     "source": "CryptoNews",
     "title": "South Korean Crypto Exchanges, Kimchi Coins Losing Out to International Rivals – Report",
@@ -10965,38 +10998,5 @@
     "id_key": "1833d5b38a6bb6c607d8f9c3a8330dd609aed6860c20ada332fcb490aaee8159",
     "summary": "The new safety features come after numerous incidents of ChatGPT validating users' delusional thinking instead of redirecting harmful conversations -- including the death of a teenage boy by suicide.",
     "ingested_utc": "2025-09-29T14:50:51Z"
-  },
-  {
-    "published_utc": "2025-09-29",
-    "retrieved_date": "2025-09-29",
-    "retrieved_utc": "2025-09-29T14:50:18Z",
-    "source": "NYTimes_World",
-    "title": "What Is the Palestinian Authority?",
-    "url": "https://www.nytimes.com/2025/09/29/world/middleeast/what-is-palestinian-authority.html",
-    "id_key": "97943fc60b4823fb15e77a7824d4aed19b6b33bd6cdfe54a1a83db1616fc4fbc",
-    "summary": "The body, led by Mahmoud Abbas, administers parts of the Israeli-occupied West Bank and considers itself the rightful government of a future Palestinian state.",
-    "ingested_utc": "2025-09-29T14:50:18Z"
-  },
-  {
-    "published_utc": "2025-09-29",
-    "retrieved_date": "2025-09-29",
-    "retrieved_utc": "2025-09-29T14:48:14Z",
-    "source": "Blockworks",
-    "title": "Anoma launches on Ethereum with governance and token",
-    "url": "https://blockworks.co/news/anoma-launches-on-ethereum",
-    "id_key": "20c086e95b937eabb7245ecbd814603b9c5d0428300b189941070b78190defa6",
-    "summary": "The self-styled web3 “operating system” launched its token, on Ethereum, but third-party dapps and AnomaPay are not yet live",
-    "ingested_utc": "2025-09-29T14:48:14Z"
-  },
-  {
-    "published_utc": "2025-09-29",
-    "retrieved_date": "2025-09-29",
-    "retrieved_utc": "2025-09-29T14:47:59Z",
-    "source": "Guardian_World",
-    "title": "Moldova’s president Maia Sandu hails voters’ refusal to be ‘bought’ by Moscow",
-    "url": "https://www.theguardian.com/world/2025/sep/29/moldova-election-result-boosts-move-towards-eu-away-from-moscow",
-    "id_key": "d9cc5cf8dcca13413af2c3df3588568152254a6d5610dc2d9104a12b7bca4684",
-    "summary": "Ruling party holds on to its majority in Sunday’s poll, which it says is ‘strong mandate for EU accession’ Europe live – latest updates Moldova’s pro-western president, Maia Sandu, hailed voters’ refusal to be “bought” by Moscow after her ruling party held on to its parliamentary majority in Sunday’s pivotal election, bolstering the tiny country’s aspiration of joining the EU and distancing itself from Russia’s influence. “We did not allow ourselves to be bought, intimidated or frightened,” she said on Monday. “We mobilised and defended our country through honest, democratic choice. Continue reading...",
-    "ingested_utc": "2025-09-29T14:47:59Z"
   }
 ]
