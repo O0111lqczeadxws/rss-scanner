@@ -2,6 +2,72 @@
   {
     "published_utc": "2025-09-30",
     "retrieved_date": "2025-09-30",
+    "retrieved_utc": "2025-09-30T09:50:56Z",
+    "source": "FinancialPost_Business",
+    "title": "French, Italian Inflation Quickens But Stays Below ECB Target",
+    "url": "https://financialpost.com/pmn/business-pmn/french-inflation-quickens-but-remains-well-short-of-2-ecb-goal",
+    "id_key": "e1e07d878946db537a44be104d8571f3fc26d0e6d1013735b941268451c423df",
+    "summary": "Inflation in France and Italy accelerated this month but remained below the European Central Bank’s 2% target, with the data unlikely to prompt a shift away from steady interest rates.",
+    "ingested_utc": "2025-09-30T09:50:56Z"
+  },
+  {
+    "published_utc": "2025-09-30",
+    "retrieved_date": "2025-09-30",
+    "retrieved_utc": "2025-09-30T09:50:50Z",
+    "source": "AlJazeera_All",
+    "title": "Suicide blast near paramilitary headquarters in Pakistan’s Quetta kills 10",
+    "url": "https://www.aljazeera.com/news/2025/9/30/suicide-blast-near-paramilitary-headquarters-in-pakistans-quetta-kills-10?traffic_source=rss",
+    "id_key": "60727b59c45b959ad4e2bb825791c9308f6e4611ee0ce9901d476f58201168d4",
+    "summary": "More than 30 injured in explosion outside security installation in the capital of southwestern province of Balochistan.",
+    "ingested_utc": "2025-09-30T09:50:50Z"
+  },
+  {
+    "published_utc": "2025-09-30",
+    "retrieved_date": "2025-09-30",
+    "retrieved_utc": "2025-09-30T09:50:18Z",
+    "source": "NPR_Top",
+    "title": "5 takeaways from the U.S. ceasefire proposal for Israel and Hamas",
+    "url": "https://www.npr.org/2025/09/30/g-s1-91244/5-takeaways-from-the-u-s-ceasefire-proposal-for-israel-and-hamas",
+    "id_key": "dcfb9302b5f12bcadecec2d1067cdc924fb6ad1a84b3cdfb362207acaafccf21",
+    "summary": "The leaders of the U.S. and Israel say they have agreed to a broad plan that could end Israel's war in Gaza. But substantial uncertainties remain.",
+    "ingested_utc": "2025-09-30T09:50:18Z"
+  },
+  {
+    "published_utc": "2025-09-30",
+    "retrieved_date": "2025-09-30",
+    "retrieved_utc": "2025-09-30T09:48:06Z",
+    "source": "CryptoBriefing",
+    "title": "Cronos collaborates with Amazon AWS to enhance tokenization and drive a $10B RWA initiative",
+    "url": "https://cryptobriefing.com/cronos-tokenization-initiative-aws/",
+    "id_key": "2d060791591d3a0068294fd907dc272bdd2c55e95a7ea53be2dd2148c2a915d8",
+    "summary": "Cronos and AWS's partnership could accelerate blockchain adoption by providing secure, scalable tokenization solutions for financial institutions. The post Cronos collaborates with Amazon AWS to enhance tokenization and drive a $10B RWA initiative appeared first on Crypto Briefing .",
+    "ingested_utc": "2025-09-30T09:48:06Z"
+  },
+  {
+    "published_utc": "2025-09-30",
+    "retrieved_date": "2025-09-30",
+    "retrieved_utc": "2025-09-30T09:47:43Z",
+    "source": "BBC_Business",
+    "title": "Trump renews threat to impose 100% tariffs on non-US made movies",
+    "url": "https://www.bbc.com/news/articles/c4g78e809zqo?at_medium=RSS&at_campaign=rss",
+    "id_key": "0fb7448fe104b880c69ac9b63159a1b6585c9aeb501840875b1d12761e29c254",
+    "summary": "The president believes the American film-making industry has been \"stolen\" by other countries.",
+    "ingested_utc": "2025-09-30T09:47:43Z"
+  },
+  {
+    "published_utc": "2025-09-30",
+    "retrieved_date": "2025-09-30",
+    "retrieved_utc": "2025-09-30T09:47:42Z",
+    "source": "BBC_World",
+    "title": "Chinese woman convicted after 'world's biggest' bitcoin seizure",
+    "url": "https://www.bbc.com/news/articles/cy0415kk3rzo?at_medium=RSS&at_campaign=rss",
+    "id_key": "644b002d4ef0ae5c5f644ccac1597b49d28c78eb01aeb8d7267f2490d8384fb5",
+    "summary": "UK police seized crypto worth over £5bn from Zhimin Qian, who was known as 'the goddess of wealth'.",
+    "ingested_utc": "2025-09-30T09:47:42Z"
+  },
+  {
+    "published_utc": "2025-09-30",
+    "retrieved_date": "2025-09-30",
     "retrieved_utc": "2025-09-30T09:34:28Z",
     "source": "MIT_TechReview",
     "title": "The US may be heading toward a drone-filled future",
@@ -1648,6 +1714,17 @@
     "id_key": "21fd611f82a67a4e1db2e1cded5f3af9f7eb0d0181346c7ee57c14c0466c28e1",
     "summary": "The US and Israeli leaders said they have agreed a peace plan for Gaza and warned Hamas to accept it.",
     "ingested_utc": "2025-09-30T00:50:34Z"
+  },
+  {
+    "published_utc": "2025-09-29",
+    "retrieved_date": "2025-09-30",
+    "retrieved_utc": "2025-09-30T09:47:42Z",
+    "source": "BBC_World",
+    "title": "Family anger after police reviewing 1970 beach abduction didn't contact witnesses",
+    "url": "https://www.bbc.com/news/articles/c1ed4g1q52no?at_medium=RSS&at_campaign=rss",
+    "id_key": "34e6f161b5f028226d1ca74d12bcccce62bf27fec6f3f5f936dbbf611679843d",
+    "summary": "Three came forward after the BBC's Fairy Meadow podcast but police didn't interview them.",
+    "ingested_utc": "2025-09-30T09:47:42Z"
   },
   {
     "published_utc": "2025-09-29",
@@ -10921,82 +10998,5 @@
     "id_key": "466e348dc89d72275282606423c8d678f0c1fb20a6a657bb7676b019edfdfc30",
     "summary": "Jump Trading's Firedancer team proposed eliminating Solana's fixed compute unit block limits through SIMD-0370, allowing validators to dynamically scale transaction capacity based on hardware performance rather than arbitrary protocol restrictions to create market-driven incentives where block producers continuously upgrade equipment for higher revenues. The post Jump’s Firedancer Proposes Removing Solana’s Fixed Block Limits, Scaling with Validator Power appeared first on Cryptonews .",
     "ingested_utc": "2025-09-28T10:10:46Z"
-  },
-  {
-    "published_utc": "2025-09-28",
-    "retrieved_date": "2025-09-28",
-    "retrieved_utc": "2025-09-28T10:10:46Z",
-    "source": "CryptoNews",
-    "title": "Spot Ethereum ETFs Suffer $800M in Outflows, Worst Week Since Launch",
-    "url": "https://cryptonews.com/news/spot-ethereum-etfs-suffer-800m-in-outflows-worst-week-since-launch/",
-    "id_key": "51e6a67b70448a26cd08ecdd167f8a180ddbbd6e9ee931b0c23be027b62655a3",
-    "summary": "Ethereum exchange-traded funds recorded their steepest weekly outflows to date, shedding nearly $800 million last week as crypto markets slipped. The post Spot Ethereum ETFs Suffer $800M in Outflows, Worst Week Since Launch appeared first on Cryptonews .",
-    "ingested_utc": "2025-09-28T10:10:46Z"
-  },
-  {
-    "published_utc": "2025-09-28",
-    "retrieved_date": "2025-09-28",
-    "retrieved_utc": "2025-09-28T10:10:46Z",
-    "source": "CryptoNews",
-    "title": "Deutsche Bank: Bitcoin Could Join Gold on Central Bank Balance Sheets by 2030",
-    "url": "https://cryptonews.com/news/deutsche-bank-bitcoin-could-join-gold-on-central-bank-balance-sheets-by-2030/",
-    "id_key": "408a24d1acb0180a2afcb20f0d03fbf9a6072a20ee5c81d97bfd4ce8dbcb673c",
-    "summary": "Bitcoin may soon join gold as a reserve asset on central bank balance sheets, according to analysts at Deutsche Bank. The post Deutsche Bank: Bitcoin Could Join Gold on Central Bank Balance Sheets by 2030 appeared first on Cryptonews .",
-    "ingested_utc": "2025-09-28T10:10:46Z"
-  },
-  {
-    "published_utc": "2025-09-28",
-    "retrieved_date": "2025-09-28",
-    "retrieved_utc": "2025-09-28T10:10:24Z",
-    "source": "Guardian_World",
-    "title": "Zelenskyy says Russia launched 500 drones and 40 missiles in ‘vile attack’ on Ukraine – Ukraine war live",
-    "url": "https://www.theguardian.com/world/live/2025/sep/28/ukraine-russia-war-volodymyr-zelenskyy-vladimir-putin-nato-europe-latest-live-news-updates",
-    "id_key": "da8714965778dba7cb0245ccf0d5051ea2fe58453596ac5838118576b02f12f7",
-    "summary": "Twelve-year-old girl among those killed in Kyiv as Ukraine president condemns ‘brutal’ Russian strikes Here is a statement from Russia’s defence ministry confirming Moscow carried out a massive overnight strike on Ukraine: Last night, the armed forces of the Russian Federation launched a massive strike with high-precision long-range air, sea-based weapons and unmanned aerial vehicles against enterprises of the military-industrial complex of Ukraine used in the interests of the armed forces of Ukraine, as well as the infrastructure of military airfields. Continue reading...",
-    "ingested_utc": "2025-09-28T10:10:24Z"
-  },
-  {
-    "published_utc": "2025-09-28",
-    "retrieved_date": "2025-09-28",
-    "retrieved_utc": "2025-09-28T10:10:24Z",
-    "source": "Guardian_World",
-    "title": "Iran angry as sweeping UN sanctions take effect after failure of nuclear talks",
-    "url": "https://www.theguardian.com/world/2025/sep/28/sweeping-un-sanctions-on-iran-come-into-effect-after-nuclear-talks-fail",
-    "id_key": "bf3e9ea4eaed847c4214e9b510d0e1b67abd348a01d0db4af2db8d3d8ba34fb9",
-    "summary": "Foreign ministry attacks ‘unjustifiable’ return of measures expected to have wide effects on troubled economy Widespread UN sanctions against Iran have come back into force for the first time in a decade, prompting anger from Tehran, after last-ditch nuclear talks with western powers failed to produce a breakthrough. The sanctions, which came into effect late on Saturday and three months after Israel and the US bombed Iran, bar dealings related to Tehran’s nuclear and ballistic missiles programme and are also expected to have wider effects on its troubled economy . Continue reading...",
-    "ingested_utc": "2025-09-28T10:10:24Z"
-  },
-  {
-    "published_utc": "2025-09-28",
-    "retrieved_date": "2025-09-28",
-    "retrieved_utc": "2025-09-28T09:47:40Z",
-    "source": "Guardian_World",
-    "title": "Starmer calls Reform’s policy on immigration ‘racist’ and says Farage’s party would ‘tear country apart’ – Labour conference live",
-    "url": "https://www.theguardian.com/politics/live/2025/sep/28/labour-conference-keir-starmer-latest-uk-politics-news-live-updates",
-    "id_key": "8e3734ae2edebecf4a71e2184fcbcbfcb024a12efa0a643229e4824a9e7dcd34",
-    "summary": "PM calls Reform’s policy immoral but says people who want to vote for them are not racist but frustrated Kuenssberg ended her interview by asking about Andy Burnham, and the leadership. Starmer said Burnham was doing a very good job as mayor of Greater Manchester. Comments about leaders and leadership are part and parcel of being in politics. It is the bread and butter of politics, every leader get its, it always comes up, particularly at conference. It’s in the job description. People are entitled to their views and I’m not sticking my fingers in my ear in the slightest. What I am saying is that it is important to keep focusing on what it is that we are delivering, and saying, absolutely in clear terms, the difference it makes to people’s lives. One, have we improved living standards? Do people genuinly feel better off? Two, have we improved public services? Is the NHS in a better place, and people can feel it. And, three, do people feel safe and secure in their home, in their neighbourhood, and that their country is secure. It’s a five-year mandate, and I will be judged at the end of that five years, and quite right too. I just need the space and get on and do what we need to do, and do those three things above all else. I am saying we have got the fight of our lives ahead of us because we’ve got to take on Reform and we’ve got to beat them. So now is not the time for introspection or navel-gazing. There is a fight that we are all in together, and every single member of our party and our movement – actually, everyone who cares about what this country is, whether they vote Labour or otherwise - it’s the fight of our lives for who we are as a country. We need to be in that fight, united not navel-gazing. I’m absolutely clear in my mind about that, and that’s what I will be talking about at conference. Sir Keir Starmer gave land to his parents via a trust that meant their estates would never pay inheritance tax on the asset whatever its eventual value, according to legal experts. The prime minister’s decision to place a seven-acre field within the structure meant its value was excluded from his parents’ estate, of which he was a beneficiary, when they died. Continue reading...",
-    "ingested_utc": "2025-09-28T09:47:40Z"
-  },
-  {
-    "published_utc": "2025-09-28",
-    "retrieved_date": "2025-09-28",
-    "retrieved_utc": "2025-09-28T09:36:27Z",
-    "source": "FT_Home",
-    "title": "Russian missiles and drones pound Ukraine in ‘savage’ 12-hour attack",
-    "url": "https://www.ft.com/content/3fddf6a7-f20a-4243-aeff-b7a728002512",
-    "id_key": "4acde25f33d394eea0d9884398dfbefabb8fac10a6a7fd4607c4a6de28cb19dc",
-    "summary": "Ukrainian President Volodymyr Zelenskyy says assault involved nearly 500 drones and more than 40 missiles",
-    "ingested_utc": "2025-09-28T09:36:27Z"
-  },
-  {
-    "published_utc": "2025-09-28",
-    "retrieved_date": "2025-09-28",
-    "retrieved_utc": "2025-09-28T09:28:32Z",
-    "source": "NYTimes_World",
-    "title": "Russia Hammers Kyiv in 12-Hour Drone Assault",
-    "url": "https://www.nytimes.com/2025/09/28/world/europe/ukraine-kyiv-russia-strikes.html",
-    "id_key": "5c6119f0e808980d48d92f6e6e392aaf7e9cd3d7709ee1a182e915f203977685",
-    "summary": "At least four people were killed in the attack, which also wounded dozens of civilians in the capital and around country.",
-    "ingested_utc": "2025-09-28T09:28:32Z"
   }
 ]
