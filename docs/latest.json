@@ -2,6 +2,50 @@
   {
     "published_utc": "2025-09-30",
     "retrieved_date": "2025-09-30",
+    "retrieved_utc": "2025-09-30T03:55:26Z",
+    "source": "FinancialPost_Business",
+    "title": "Copper Set for Best Month in Year as Supply Snarls Rattle Market",
+    "url": "https://financialpost.com/pmn/business-pmn/copper-set-for-best-month-in-year-as-supply-snarls-rattle-market",
+    "id_key": "afa173a4fcab68c899ac658e5a994a3bdb856ae68cdc9390befea8da7be23824",
+    "summary": "Copper headed for the biggest monthly advance in a year, trading just below a 16-month closing high, as investors weighed supply setbacks against weak data from China’s manufacturing sector.",
+    "ingested_utc": "2025-09-30T03:55:26Z"
+  },
+  {
+    "published_utc": "2025-09-30",
+    "retrieved_date": "2025-09-30",
+    "retrieved_utc": "2025-09-30T03:54:52Z",
+    "source": "FT_Markets",
+    "title": "Zijin Gold shares surge 68% in Hong Kong trading debut",
+    "url": "https://www.ft.com/content/3d1add72-9296-49a3-a5eb-ec21100e9b50",
+    "id_key": "b9c56a128b7fdea0ddd5d0a9448a09c60a020051eee056f17af768d747550f54",
+    "summary": "Listing of Chinese mining spin-off comes as precious metal hits record high price",
+    "ingested_utc": "2025-09-30T03:54:52Z"
+  },
+  {
+    "published_utc": "2025-09-30",
+    "retrieved_date": "2025-09-30",
+    "retrieved_utc": "2025-09-30T03:54:51Z",
+    "source": "FT_Home",
+    "title": "Trump announces timber and furniture tariffs",
+    "url": "https://www.ft.com/content/d8e1f253-8329-42d9-b7f8-7f03c695d112",
+    "id_key": "0ee3669ae4f16e42080a037ad9382c884c57039da02eb6b03c5e84f1bd4bdb54",
+    "summary": "Latest levies to rise to as high as 50% for countries that do not strike trade deals with US",
+    "ingested_utc": "2025-09-30T03:54:51Z"
+  },
+  {
+    "published_utc": "2025-09-30",
+    "retrieved_date": "2025-09-30",
+    "retrieved_utc": "2025-09-30T03:54:40Z",
+    "source": "NYTimes_Technology",
+    "title": "YouTube Settles Trump Lawsuit Over Account Suspension for $24.5 Million",
+    "url": "https://www.nytimes.com/2025/09/29/technology/youtube-trump-lawsuit-settlement.html",
+    "id_key": "4cc36a9f29b4e23e75f0e2c46362c74c805f6a5bf9880f0319da7fb239dd16fb",
+    "summary": "Mr. Trump had sued Alphabet, the parent of YouTube and Google, and other social media companies after the platforms suspended his accounts following the Jan. 6, 2021, riot at the Capitol.",
+    "ingested_utc": "2025-09-30T03:54:40Z"
+  },
+  {
+    "published_utc": "2025-09-30",
+    "retrieved_date": "2025-09-30",
     "retrieved_utc": "2025-09-30T03:43:14Z",
     "source": "Nikkei_Asia_Top",
     "title": "Zijin Gold soars 66% in world's second-largest IPO this year",
@@ -10954,49 +10998,5 @@
     "id_key": "c656f97aaa1092499a11672d5acc4f2547efd8f2096a65a8152190068e060a1b",
     "summary": "Comments",
     "ingested_utc": "2025-09-27T20:50:39Z"
-  },
-  {
-    "published_utc": "2025-09-27",
-    "retrieved_date": "2025-09-27",
-    "retrieved_utc": "2025-09-27T20:50:17Z",
-    "source": "AlJazeera_All",
-    "title": "Trump orders deployment of troops to US city of Portland and ICE facilities",
-    "url": "https://www.aljazeera.com/news/2025/9/27/trump-orders-deployment-of-troops-to-us-city-of-portland-and-ice-facilities?traffic_source=rss",
-    "id_key": "d14643df0762482712a1eeeb7222e85a67236911e8d4e813e5a2c88f41b07054",
-    "summary": "The city's Democratic mayor says there is no need for the US president to send federal forces.",
-    "ingested_utc": "2025-09-27T20:50:17Z"
-  },
-  {
-    "published_utc": "2025-09-27",
-    "retrieved_date": "2025-09-27",
-    "retrieved_utc": "2025-09-27T20:47:18Z",
-    "source": "Guardian_World",
-    "title": "Nato to step up vigilance in Baltic Sea region after drones spotted over military bases",
-    "url": "https://www.theguardian.com/world/2025/sep/27/denmark-new-drone-sightings-biggest-military-base",
-    "id_key": "3c34fc055d5e9e9018861e2241df3e4d362be981cd2ec1c3b3ec38f52a977c54",
-    "summary": "Move comes after new drone sightings near major military installations in Denmark and Norway Nato has vowed to upgrade its mission in the Baltic Sea after Denmark’s armed forces said unidentified drones were seen near the country’s military installations overnight. There have also been several drone incursions near airports and other critical infrastructure this week, with Copenhagen’s airport closed for several hours late on Monday as several drones were seen in its airspace. Continue reading...",
-    "ingested_utc": "2025-09-27T20:47:18Z"
-  },
-  {
-    "published_utc": "2025-09-27",
-    "retrieved_date": "2025-09-27",
-    "retrieved_utc": "2025-09-27T20:31:31Z",
-    "source": "FinancialPost_Business",
-    "title": "Subdued US Job Growth Expected in Advance of Fed Meeting",
-    "url": "https://financialpost.com/pmn/business-pmn/subdued-us-job-growth-expected-in-advance-of-fed-meeting",
-    "id_key": "b92dc262acc5b01d802f25d110f3f4cb36e31d10b3986e536339680ab8d5871d",
-    "summary": "US job growth probably lumbered along in September as the unemployment rate held at an almost four-year high, extending a sluggish period for the labor market.",
-    "ingested_utc": "2025-09-27T20:31:31Z"
-  },
-  {
-    "published_utc": "2025-09-27",
-    "retrieved_date": "2025-09-27",
-    "retrieved_utc": "2025-09-27T20:28:55Z",
-    "source": "CryptoBriefing",
-    "title": "Cyber Hornet files for ETFs blending S&P 500 with Ether, XRP, and Solana futures",
-    "url": "https://cryptobriefing.com/sp500-crypto-etf-cyberhornet/",
-    "id_key": "3fc1841128c6f4e9c3a52fe646ff4e3b488620e0c8bfd687dd7338bfcbf8bff5",
-    "summary": "The introduction of these ETFs could enhance crypto market integration with traditional finance, potentially increasing investor diversification. The post Cyber Hornet files for ETFs blending S&P 500 with Ether, XRP, and Solana futures appeared first on Crypto Briefing .",
-    "ingested_utc": "2025-09-27T20:28:55Z"
   }
 ]
