@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-10-01",
     "retrieved_date": "2025-10-01",
+    "retrieved_utc": "2025-10-01T08:58:37Z",
+    "source": "FinancialPost_Business",
+    "title": "Jaguar Land Rover Shutdown Worsens UK Factory Slump, PMI Shows",
+    "url": "https://financialpost.com/pmn/business-pmn/jaguar-land-rover-shutdown-worsens-uk-factory-slump-pmi-shows",
+    "id_key": "e6b1a6bd0657d4c84ef8004f982418909fbc3fd1ec62f878ee7c49ca8fe9c084",
+    "summary": "British factories suffered the sharpest decline in production for six months, as the temporary shutdown of Jaguar Land Rover’s factories added to the sector’s woes.",
+    "ingested_utc": "2025-10-01T08:58:37Z"
+  },
+  {
+    "published_utc": "2025-10-01",
+    "retrieved_date": "2025-10-01",
     "retrieved_utc": "2025-10-01T08:47:35Z",
     "source": "FinancialPost_Business",
     "title": "Aramco’s Surprise LPG Price Cut to Ramp Up Competition for Sales",
@@ -10986,17 +10997,6 @@
     "url": "https://financialpost.com/pmn/business-pmn/ceo-of-canadas-biggest-pension-blasts-winner-take-all-market",
     "id_key": "e4f742042cea62e378a9374b4a6cc62bfaead31f8b96b20cfe2097b6443d52f2",
     "summary": "Canada Pension Plan Investment Board is staying away from the US stock market, which is too heavily concentrated in a handful of big technology firms, according to its chief executive officer, John Graham.",
-    "ingested_utc": "2025-09-29T19:26:57Z"
-  },
-  {
-    "published_utc": "2025-09-29",
-    "retrieved_date": "2025-09-29",
-    "retrieved_utc": "2025-09-29T19:26:57Z",
-    "source": "FinancialPost_Business",
-    "title": "Treasuries Gain as US Government Shutdown May Follow Month-End",
-    "url": "https://financialpost.com/pmn/business-pmn/treasuries-gain-as-us-government-shutdown-may-follow-month-end",
-    "id_key": "856bbf78f77b6e786b6cc3d4553fad174e956d266609547e67b8bb34c0df7ab9",
-    "summary": "Treasuries gained Monday, supported by a slump in oil prices and a rally in UK government bonds, and by anticipation of buying into Tuesday’s month-end index rebalancing.",
     "ingested_utc": "2025-09-29T19:26:57Z"
   }
 ]
