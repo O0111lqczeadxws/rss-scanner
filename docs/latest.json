@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-10-01",
     "retrieved_date": "2025-10-01",
+    "retrieved_utc": "2025-10-01T05:50:37Z",
+    "source": "Nikkei_Asia_Top",
+    "title": "Philippines to upgrade Luzon fiber-optic cable to bypass dangerous waters",
+    "url": "https://asia.nikkei.com/politics/international-relations/south-china-sea/philippines-to-upgrade-luzon-fiber-optic-cable-to-bypass-dangerous-waters",
+    "id_key": "64d01a3b47c8a11140e8e0e29c77ac6288142d1110ae72d2cc43008f931ef5cf",
+    "summary": "",
+    "ingested_utc": "2025-10-01T05:50:37Z"
+  },
+  {
+    "published_utc": "2025-10-01",
+    "retrieved_date": "2025-10-01",
+    "retrieved_utc": "2025-10-01T05:50:30Z",
+    "source": "FinancialPost_Business",
+    "title": "Pakistan Seeks to Lure US Investment After Trump’s Pivot",
+    "url": "https://financialpost.com/pmn/business-pmn/pakistan-seeks-to-lure-us-investment-after-trumps-pivot",
+    "id_key": "dbc7794d5315870f4813444c6e04e423341502e647b8eab31aed229c5f2fea4a",
+    "summary": "Pakistan and the US are deepening cooperation in energy, mining and technology sectors, with Islamabad planning an investor conference in Washington later this month to draw American investment, Finance Minister Muhammad Aurangzeb said.",
+    "ingested_utc": "2025-10-01T05:50:30Z"
+  },
+  {
+    "published_utc": "2025-10-01",
+    "retrieved_date": "2025-10-01",
     "retrieved_utc": "2025-10-01T05:34:06Z",
     "source": "FT_Markets",
     "title": "GDP - AI = 0?",
@@ -1021,6 +1043,17 @@
     "id_key": "bc5dd33feb47f594671ce82f03e2271cf9cd8e0462ac35ee234017919c0778a6",
     "summary": "Guidance suggests some areas will remain accessible amid warnings that leaving parks open and unstaffed could cause lasting damage On Tuesday evening, in the final hours before a now imminent US government shutdown, the National Park Service (NPS) began preparations to close down parts of popular public lands across the country – but trails and other open-access areas will remain open. The guidance for park leaders in the event of a federal shutdown had been uncertain as the impasse loomed, raising fears that the parks could be forced to stay open without anyone to staff them. Continue reading...",
     "ingested_utc": "2025-10-01T00:56:21Z"
+  },
+  {
+    "published_utc": "2025-09-30",
+    "retrieved_date": "2025-10-01",
+    "retrieved_utc": "2025-10-01T05:47:27Z",
+    "source": "BBC_World",
+    "title": "European leaders meet in high-security Danish summit after drone disruption",
+    "url": "https://www.bbc.com/news/articles/cp8jdene16ro?at_medium=RSS&at_campaign=rss",
+    "id_key": "f9728d99db890661e273e67902e1e1a928a5e5d49afb5f7c00439d9505c9c6f1",
+    "summary": "The EU is under pressure to boost defence after Russian air space incursions and after drones targeted Danish airports.",
+    "ingested_utc": "2025-10-01T05:47:27Z"
   },
   {
     "published_utc": "2025-09-30",
@@ -10965,38 +10998,5 @@
     "id_key": "1de85c5dd4de5ee8977512765672db8da27a85ab6bf3d916dc01f8cd96a6a88d",
     "summary": "NOT FOR DISTRIBUTION TO UNITED STATES NEWSWIRE SERVICES OR FOR RELEASE, PUBLICATION, DISTRIBUTION OR DISSEMINATION DIRECTLY, OR INDIRECTLY, IN WHOLE OR IN PART, IN OR INTO THE UNITED STATES. TORONTO, Sept. 29, 2025 (GLOBE NEWSWIRE) — Forsys Metals Corp. (TSX: FSY) (FSE: F2T) (NSX: FSY) (“Forsys” or the “Company”) Forsys is pleased to announce that as […]",
     "ingested_utc": "2025-09-29T17:31:52Z"
-  },
-  {
-    "published_utc": "2025-09-29",
-    "retrieved_date": "2025-09-29",
-    "retrieved_utc": "2025-09-29T17:31:45Z",
-    "source": "AlJazeera_All",
-    "title": "Canada labels India’s Bishnoi gang as ‘terrorist’ organisation",
-    "url": "https://www.aljazeera.com/news/2025/9/29/canada-labels-indias-bishnoi-gang-as-terrorist-organisation?traffic_source=rss",
-    "id_key": "851583379def08136fda1c3a9f4994bd9e2e449d0199438fd4cbddc16e968e47",
-    "summary": "The move will enable asset seizures and prosecutions of Bishnoi gang that has been accused of targeting Sikh activists.",
-    "ingested_utc": "2025-09-29T17:31:45Z"
-  },
-  {
-    "published_utc": "2025-09-29",
-    "retrieved_date": "2025-09-29",
-    "retrieved_utc": "2025-09-29T17:31:45Z",
-    "source": "AlJazeera_All",
-    "title": "Trump promises steep tariffs for foreign movies and imported furniture",
-    "url": "https://www.aljazeera.com/news/2025/9/29/trump-promises-steep-tariffs-for-foreign-movies-and-imported-furniture?traffic_source=rss",
-    "id_key": "60651ff764841dd80130a5ce90e18113f342e738a932b2ba025bddd5cc92f08d",
-    "summary": "The US president pledged a 100 percent tariff for films made outside the country.",
-    "ingested_utc": "2025-09-29T17:31:45Z"
-  },
-  {
-    "published_utc": "2025-09-29",
-    "retrieved_date": "2025-09-29",
-    "retrieved_utc": "2025-09-29T17:31:45Z",
-    "source": "AlJazeera_All",
-    "title": "Gen Z protesters rally across Morocco demanding health, education reforms",
-    "url": "https://www.aljazeera.com/news/2025/9/29/gen-z-protesters-rally-across-morocco-demanding-health-education-reforms?traffic_source=rss",
-    "id_key": "87695425ed99d93cec19c62ad4d24c477153aa7df64bab1820178f6bc4c122ff",
-    "summary": "Police say nearly 200 people have been arrested as the north African nation is rocked by biggest protests in years.",
-    "ingested_utc": "2025-09-29T17:31:45Z"
   }
 ]
