@@ -2,6 +2,50 @@
   {
     "published_utc": "2025-10-01",
     "retrieved_date": "2025-10-01",
+    "retrieved_utc": "2025-10-01T04:52:13Z",
+    "source": "AlJazeera_All",
+    "title": "LIVE: US government shutdown starts as Trump threatens mass layoffs",
+    "url": "https://www.aljazeera.com/news/liveblog/2025/10/1/live-us-government-shuts-down-starts-as-trump-threatens-mass-layoffs?traffic_source=rss",
+    "id_key": "5c70dd6b717a0b85a00339bed0de4b3294ae377509c6a67b8e859c00bb92f927",
+    "summary": "The shutdown comes as Republicans fail to reach deal with Democrats concerned by steep hikes in health insurance costs.",
+    "ingested_utc": "2025-10-01T04:52:13Z"
+  },
+  {
+    "published_utc": "2025-10-01",
+    "retrieved_date": "2025-10-01",
+    "retrieved_utc": "2025-10-01T04:51:44Z",
+    "source": "FT_Home",
+    "title": "James Anderson warns Nvidia’s $100bn OpenAI bet echoes dotcom bubble",
+    "url": "https://www.ft.com/content/395dad75-9704-434b-b09c-93505f418b7e",
+    "id_key": "31f12c612c3c906abe24ddacb2a5ab09875fa47f6febf301faa2f7138911bd7f",
+    "summary": "Former Baillie Gifford tech investor says recent jump in AI valuations is ‘disconcerting’",
+    "ingested_utc": "2025-10-01T04:51:44Z"
+  },
+  {
+    "published_utc": "2025-10-01",
+    "retrieved_date": "2025-10-01",
+    "retrieved_utc": "2025-10-01T04:49:20Z",
+    "source": "Guardian_World",
+    "title": "Australia news live: Albanese hopes China’s possible BHP iron ore blockade ‘very much short term’; police find footprint in search for missing boy",
+    "url": "https://www.theguardian.com/australia-news/live/2025/oct/01/australia-news-live-nicole-kidman-divorce-keith-urban-sussan-ley-coalition-andrew-hastie-anthony-albanese-housing-ntwnfb",
+    "id_key": "3bc0cd6a6561c8dfb37c93cd2be59a02d42c066cfc9b8312be9005582d935000",
+    "summary": "Follow today’s news live Get our breaking news email , free app or daily news podcast Clare O’Neil notes Treasury has advised the government scheme will push up home prices by 0.5% over six years. Guardian Australia’s Luca Ittimani wrote an explainer on the new plan, and experts’ concerns with that estimate, below: They’ve spent the last three years trying to slow our government down and stop us from providing supports to Australians who are struggling. Now, I say out of touch because if you think, firstly, that billionaires’ children are going to be using this scheme, then you haven’t looked very hard at it. We’ve got probably people listening right now who are on reasonable incomes but are paying high rents and are not in a position to save for a home deposit. This is for them. This is for every single young person around the country who’s struggling to get those savings together. Continue reading...",
+    "ingested_utc": "2025-10-01T04:49:20Z"
+  },
+  {
+    "published_utc": "2025-10-01",
+    "retrieved_date": "2025-10-01",
+    "retrieved_utc": "2025-10-01T04:49:20Z",
+    "source": "Guardian_World",
+    "title": "US government shutdown live: first closure since 2018 begins after funding bill fails",
+    "url": "https://www.theguardian.com/us-news/live/2025/sep/30/us-government-shutdown-funding-trump-vance-portland-hegseth-latest-updates",
+    "id_key": "f9b295aadb4f6d14d66db018c179c6c612ce8c389eaa90eec1a5f3eacc71c04a",
+    "summary": "Competing bills rejected in Senate as Republicans and Democrats accuse each other of partisan politics. Follow the latest news and updates after the US government shut down US government shuts down after Democrats refuse to back Republican funding plan The US government is hurtling towards its first shutdown in six years, with no signs congressional leaders are near agreement on legislation to continue funding beyond the Tuesday night deadline to prevent workers from being furloughed and agencies from shutting their doors. Congress’s Republican majority is pushing legislation to fund the government through 21 November, but Democrats have refused to vote for it unless it includes a series of concessions centered on healthcare. Continue reading...",
+    "ingested_utc": "2025-10-01T04:49:20Z"
+  },
+  {
+    "published_utc": "2025-10-01",
+    "retrieved_date": "2025-10-01",
     "retrieved_utc": "2025-10-01T04:44:03Z",
     "source": "HackerNews_Top",
     "title": "Blockdiff: We built our own file format for VM disk snapshots",
@@ -911,6 +955,17 @@
     "id_key": "bc5dd33feb47f594671ce82f03e2271cf9cd8e0462ac35ee234017919c0778a6",
     "summary": "Guidance suggests some areas will remain accessible amid warnings that leaving parks open and unstaffed could cause lasting damage On Tuesday evening, in the final hours before a now imminent US government shutdown, the National Park Service (NPS) began preparations to close down parts of popular public lands across the country – but trails and other open-access areas will remain open. The guidance for park leaders in the event of a federal shutdown had been uncertain as the impasse loomed, raising fears that the parks could be forced to stay open without anyone to staff them. Continue reading...",
     "ingested_utc": "2025-10-01T00:56:21Z"
+  },
+  {
+    "published_utc": "2025-09-30",
+    "retrieved_date": "2025-10-01",
+    "retrieved_utc": "2025-10-01T04:51:46Z",
+    "source": "FT_Markets",
+    "title": "The largest leveraged buyout in history?",
+    "url": "https://www.ft.com/content/4a13f923-cb6d-43f2-983b-2e84be342b55",
+    "id_key": "80eb335c09b94d8ca8f126e986a2566834351ea0ec9ed141044af86d936ee36f",
+    "summary": "Unpacking the purchase of Electronic Arts",
+    "ingested_utc": "2025-10-01T04:51:46Z"
   },
   {
     "published_utc": "2025-09-30",
@@ -10943,60 +10998,5 @@
     "id_key": "f12296d083f241acb04f925dfefade3970e3fe892289d0a79979b7ee03a74b25",
     "summary": "Gathering emphasized urgency for cohesive ethical guidelines across six key themes impacted by the advancement of AI; healthcare, urban design, security, education, finance, and the future of the workplace DOHA, Qatar — Hamad Bin Khalifa University’s (HBKU) conference AI Ethics: The Convergence of Technology and Diverse Moral Traditions concluded with a call for a unified, […]",
     "ingested_utc": "2025-09-29T17:13:31Z"
-  },
-  {
-    "published_utc": "2025-09-29",
-    "retrieved_date": "2025-09-29",
-    "retrieved_utc": "2025-09-29T17:13:15Z",
-    "source": "Engadget_All",
-    "title": "Claude Sonnet 4.5 is Anthropic's safest AI model yet",
-    "url": "https://www.engadget.com/claude-sonnet-45-is-anthropics-safest-ai-model-yet-170000161.html?src=rss",
-    "id_key": "a04cecf7e92728130ba149f58a0a83313f28f9fad849142b3411384b4500e845",
-    "summary": "In May, Anthropic announced two new AI systems, Opus 4 and Sonnet 4 . Now, less than six months later, the company is introducing Sonnet 4.5, and calling it the best coding model in the world to date. Anthropic's basis for that claim is a selection of benchmarks where the new AI outperforms not only its predecessor but also the more expensive Opus 4.1 and competing systems, including Google's Gemini 2.5 Pro and GPT-5 from OpenAI . For instance, in OSWorld, a suite that tests AI models on real-world computer tasks, Sonnet 4.5 set a record score of 61.4 percent, putting it 17 percentage points above Opus 4.1. At the same time, the new model is capable of autonomously working on multi-step projects for more than 30 hours, a significant improvement from the seven or so hours Opus 4 could maintain at launch. That's an important milestone for the type of agentic systems Anthropic wants to build. Sonnet 4.5 outperforms Anthropic's older models in coding and agentic tasks. Anthropic Perhaps more importantly, the company claims Sonnet 4.5 is its safest AI system to date, with the model having undergone \"extensive\" safety training. That training translates to a chatbot Anthropic says is \"substantially\" less prone to \"sycophancy, deception, power-seeking and the tendency to encourage delusional thinking\" — all potential model traits that have landed OpenAI in hot water in recent months . At the same time, Anthropic has strengthened Sonnet 4.5's protections against prompt injection attacks. Due to the sophistication of the new model, Anthropic is releasing Sonnet 4.5 under its AI Safety Level 3 framework, meaning it comes with filters designed to prevent potentially dangerous outputs related to prompts around chemical, biological and nuclear weapons. A chart showing how Sonnet 4.5 compares against other frontier models in safety testing. Anthropic With today's announcement, Anthropic is also rolling out quality of life improvements across the Claude product stack. To start, Claude Code, the company's popular coding agent, has a refreshed terminal interface, with a new feature called checkpoints included. As you can probably guess from the name, they allow you to save your progress and roll back to a previous state if Claude writes some funky code that isn't quite working like you imagined it would. File creation, which Anthropic began rolling out at the start of the month , is now available directly in conversations with the chatbot, and if you joined the waitlist Claude for Chrome, you can start using the extension today. API pricing for Sonnet 4.5 remains at $3 per one million input tokens and $15 for the same amount of output tokens. The release of Sonnet 4.5 caps off a strong September for Anthropic. Just one day after Microsoft added Claude models to Copilot 365 last week, OpenAI admitted its rival offers the best AI for work-related tasks. This article originally appeared on Engadget at https://www.engadget.com/claude-sonnet-45-is-anthropics-safest-ai-model-yet-170000161.html?src=rss",
-    "ingested_utc": "2025-09-29T17:13:15Z"
-  },
-  {
-    "published_utc": "2025-09-29",
-    "retrieved_date": "2025-09-29",
-    "retrieved_utc": "2025-09-29T17:13:15Z",
-    "source": "Engadget_All",
-    "title": "This Roomba robot vacuum is on sale for only $150 ahead of Prime Day",
-    "url": "https://www.engadget.com/deals/this-roomba-robot-vacuum-is-on-sale-for-only-150-ahead-of-prime-day-164953406.html?src=rss",
-    "id_key": "267a30822344d33ef8ce11325acfa66b0c83df665334d8f941b29ee447ab38cb",
-    "summary": "The iRobot Roomba 104 robot vacuum is on sale for $150 just ahead of October's Prime Day . That's a nice little discount of 40 percent, which represents a savings of $100. This is a newer version of the unit that topped our list of the best budget robot vacuums . It's an entry-level robovac that gets the job done. The cleaning motor is fairly powerful and it ships with a multi-surface brush and an edge-sweeping brush. The vacuum uses LiDAR to map a home and to help it avoid obstacles when cleaning. It's also been equipped with specialized sensors to prevent falling down stairs. Steps are the natural enemy of all robot vacuums, except maybe this one . The Roomba 104 integrates with the company's proprietary app, which allows for custom cleaning schedules and the like. The robot can also be controlled via voice assistant and boasts compatibility with Siri, Alexa and Google Assistant. The vacuum will automatically head to the charger for some juice when running low, which is nice. The battery lasts around 200 minutes per charge, which is a decent enough metric for a budget-friendly robovac. The only downside here? This is just a vacuum. It doesn't mop and it doesn't come with a dedicated debris canister. This article originally appeared on Engadget at https://www.engadget.com/deals/this-roomba-robot-vacuum-is-on-sale-for-only-150-ahead-of-prime-day-164953406.html?src=rss",
-    "ingested_utc": "2025-09-29T17:13:15Z"
-  },
-  {
-    "published_utc": "2025-09-29",
-    "retrieved_date": "2025-09-29",
-    "retrieved_utc": "2025-09-29T17:13:15Z",
-    "source": "Engadget_All",
-    "title": "A PlayStation photography book featuring never-before-seen design concepts is on the way",
-    "url": "https://www.engadget.com/gaming/playstation/a-playstation-photography-book-featuring-never-before-seen-design-concepts-is-on-the-way-164859020.html?src=rss",
-    "id_key": "f1875e62e14092a9b7e9960c6319ee01917c45832ae2a1df4ae4057560ee579e",
-    "summary": "Sony has been marking the 30th anniversary of PlayStation by selling you stuff, like PS5 consoles and accessories styled after the PS1. The company has something else lined up to mark the occasion: a photography book showcasing \"never-before-seen prototypes, concept sketches and design models that shaped hardware development\" from the early days through to the current PS5 era. PlayStation: The First 30 Years is a 400-page hardback book printed on heavyweight matt art stock. You better hope your coffee table is sturdy, since this book is a chonkster. It weighs in at 5kg (11lbs). Sony worked with publisher Read-Only Memory on PlayStation: The First 30 Years . The collaborators have offered a peek at what's inside the book. It's shaping up to be a fascinating glimpse at some of the designs Sony tried for its hardware over the last few decades. For instance, the original PlayStation could have looked much different, more directly exemplifying designer Teiyu Goto's \"vision of simple squares and circles coming to life.\" (For what it's worth, Engadget deputy editor Nathan Ingraham said this design looked like a proton pack): An early concept design for the original PlayStation. Sony/Read-Only Memory Some of the controller concepts are pretty out there too. Some don't look all that comfortable to hold or use for extended gaming sessions. This one — which appears to be for the PS3 at the earliest, given the inclusion of the PS button — is truly bonkers. Thank goodness Goto landed on the SNES-style design with grips that has proven so successful (and comfortable) over the years: A PlayStation controller concept. Sony/Read-Only Memory The book isn't entirely limited to hardware concepts, as it features photos of Sony's design labs. The tome seems like a very cool item for PlayStation fans and those who love gaming history to have, but there might be an element of sticker shock. The book is available via Read-Only Memory's website for $182. A deluxe edition with exposed binding, a foil-stamped clamshell presentation box and a photographic print signed by Goto and photographer Benedict Redgrove will run you $467. The fancier edition has a limited run of 1994 copies. Coincidentally, that's the year the PS1 debuted in Japan. Both editions of the book will ship in spring 2026. Meanwhile, Sony has teamed up with Reebok for a collection of 30th anniversary sneakers styled after — you guessed it — the PS1. The kicks will be available in October and the three designs are linked to the PS1's launch regions. They include the InstaPump Fury 94 for Japan, Pump Omni Zone II for the US and Workout Plus for the UK. Sony x Reebox sneakers are on the way Sony/Reebok This article originally appeared on Engadget at https://www.engadget.com/gaming/playstation/a-playstation-photography-book-featuring-never-before-seen-design-concepts-is-on-the-way-164859020.html?src=rss",
-    "ingested_utc": "2025-09-29T17:13:15Z"
-  },
-  {
-    "published_utc": "2025-09-29",
-    "retrieved_date": "2025-09-29",
-    "retrieved_utc": "2025-09-29T17:12:57Z",
-    "source": "FT_Markets",
-    "title": "US regulator’s chief calls for crypto passporting with UK as she reveals plans to step down",
-    "url": "https://www.ft.com/content/a2d4cdbf-6740-4e33-aef7-09d44f766e12",
-    "id_key": "d618b8d726a4663a1c24b150090eec6b250cbcb630e7fb660e7b25deeb34bb2e",
-    "summary": "Adrienne Harris to depart after four years as head of New York’s Department of Financial Services",
-    "ingested_utc": "2025-09-29T17:12:57Z"
-  },
-  {
-    "published_utc": "2025-09-29",
-    "retrieved_date": "2025-09-29",
-    "retrieved_utc": "2025-09-29T17:12:56Z",
-    "source": "FT_Home",
-    "title": "Jaguar Land Rover secures £2bn emergency credit line after cyber attack",
-    "url": "https://www.ft.com/content/17722051-33f4-4def-9812-e3623d0671a8",
-    "id_key": "57bd8143c50f17af2808fcead611ee2da9a1508e89d1fedf46a09b52f4ce4727",
-    "summary": "UK carmaker plans to resume manufacturing this week following month-long shutdown",
-    "ingested_utc": "2025-09-29T17:12:56Z"
   }
 ]
