@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-10-01",
     "retrieved_date": "2025-10-01",
+    "retrieved_utc": "2025-10-01T04:00:28Z",
+    "source": "FinancialPost_Business",
+    "title": "Asian shares are mixed as markets shrug off a likely US government shutdown",
+    "url": "https://financialpost.com/pmn/asian-shares-are-mixed-as-markets-shrug-off-a-likely-us-government-shutdown",
+    "id_key": "017bb524d6ae26cbc6f00e7077f81951a89f157aa49fbfb24ce9c4da867ad257",
+    "summary": "Shares were mixed in Asia on Wednesday, with Chinese markets closed for a weeklong holiday, as a U.S. government shutdown loomed. Japan’s Nikkei 225 index shed 1.2% to 44,411.26 after the Bank of Japan reported a slight improvement in business sentiment among major manufacturers. The BOJ’s quarterly tankan adds to the likelihood the central bank […]",
+    "ingested_utc": "2025-10-01T04:00:28Z"
+  },
+  {
+    "published_utc": "2025-10-01",
+    "retrieved_date": "2025-10-01",
+    "retrieved_utc": "2025-10-01T03:57:31Z",
+    "source": "Guardian_World",
+    "title": "Australia news live: Jim Chalmers concerned by reports China blockading BHP iron ore; police find footprint in search for missing boy",
+    "url": "https://www.theguardian.com/australia-news/live/2025/oct/01/australia-news-live-nicole-kidman-divorce-keith-urban-sussan-ley-coalition-andrew-hastie-anthony-albanese-housing-ntwnfb",
+    "id_key": "5517669b72f07cf8d794a964e37e28db42232d76cf0f19c7e007303aad8aa948",
+    "summary": "Follow today’s news live Get our breaking news email , free app or daily news podcast Clare O’Neil notes Treasury has advised the government scheme will push up home prices by 0.5% over six years. Guardian Australia’s Luca Ittimani wrote an explainer on the new plan, and experts’ concerns with that estimate, below: They’ve spent the last three years trying to slow our government down and stop us from providing supports to Australians who are struggling. Now, I say out of touch because if you think, firstly, that billionaires’ children are going to be using this scheme, then you haven’t looked very hard at it. We’ve got probably people listening right now who are on reasonable incomes but are paying high rents and are not in a position to save for a home deposit. This is for them. This is for every single young person around the country who’s struggling to get those savings together. Continue reading...",
+    "ingested_utc": "2025-10-01T03:57:31Z"
+  },
+  {
+    "published_utc": "2025-10-01",
+    "retrieved_date": "2025-10-01",
     "retrieved_utc": "2025-10-01T03:34:02Z",
     "source": "HackerNews_Top",
     "title": "CDC File Transfer",
@@ -10976,27 +10998,5 @@
     "id_key": "490b925d8259fd6612833ae944851c4652db717d077a71ac5831cf38843b4e9e",
     "summary": "UK carmaker plans to resume manufacturing this week following month-long shutdown",
     "ingested_utc": "2025-09-29T16:33:06Z"
-  },
-  {
-    "published_utc": "2025-09-29",
-    "retrieved_date": "2025-09-29",
-    "retrieved_utc": "2025-09-29T16:32:54Z",
-    "source": "NYTimes_Business",
-    "title": "The Low-Cost Icelandic Airline Play Suddenly Folds, Leaving Passengers Stranded",
-    "url": "https://www.nytimes.com/2025/09/29/business/play-airline-iceland-shut-down.html",
-    "id_key": "b4c2d7ddfd85879cd6a473289aa96292a0091ff458de5f073bc496b15e833678",
-    "summary": "Play Airlines said it was ceasing operations, becoming the second low-cost airline in Iceland to collapse in the last six years.",
-    "ingested_utc": "2025-09-29T16:32:54Z"
-  },
-  {
-    "published_utc": "2025-09-29",
-    "retrieved_date": "2025-09-29",
-    "retrieved_utc": "2025-09-29T16:30:54Z",
-    "source": "CryptoNews",
-    "title": "Strategy Extends Its Bitcoin Lead – A Quiet Buy With Loud Market Implications",
-    "url": "https://cryptonews.com/news/strategy-acquires-196-btc-for-22-1m-boosting-holdings-to-640k-btc/",
-    "id_key": "649e91f28d183a9199ef927aca76f739808722c6b6d8d63c251df4607d1e9ddb",
-    "summary": "Strategy has disclosed the purchase of 196 BTC for about $22.1M at an average price near $113,048 during Sept. 22–28, 2025. The firm has brought its total to 640,031 BTC, acquired for roughly $47.35B in aggregate, reflecting an average cost of about $73,983 per coin. The post Strategy Extends Its Bitcoin Lead – A Quiet Buy With Loud Market Implications appeared first on Cryptonews .",
-    "ingested_utc": "2025-09-29T16:30:54Z"
   }
 ]
