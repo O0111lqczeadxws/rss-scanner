@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-10-02",
     "retrieved_date": "2025-10-02",
+    "retrieved_utc": "2025-10-02T05:50:35Z",
+    "source": "Nikkei_Asia_Top",
+    "title": "Chinese carmakers diverge in Russia under sanctions, protectionism",
+    "url": "https://asia.nikkei.com/business/automobiles/chinese-carmakers-diverge-in-russia-under-sanctions-protectionism",
+    "id_key": "880f12cf37cc8538493664f8651b30dce4bdcaa917d060de6616ceada10af2b9",
+    "summary": "",
+    "ingested_utc": "2025-10-02T05:50:35Z"
+  },
+  {
+    "published_utc": "2025-10-02",
+    "retrieved_date": "2025-10-02",
     "retrieved_utc": "2025-10-02T05:32:39Z",
     "source": "FinancialPost_Business",
     "title": "Behind bars but not silenced: Veteran Turkish columnist perseveres through ‘prison journalism’",
@@ -823,6 +834,17 @@
     "id_key": "f3c111fc8cc82520589aadb42cc4f510346100b7e18d6d883301ad23dc3fecf9",
     "summary": "On a post on social media, the president says guards had been deployed, while no members were present Donald Trump once again shared misinformation about Portland, Oregon, on social media on Wednesday, when he announced that the national guard troops he called up in response to a small protest outside an Immigration and Customs Enforcement (Ice) office in the otherwise tranquil city are “now in place” and have begun restoring “LAW AND ORDER”. However, Portland’s NBC News affiliate KGW reported 90 minutes after Trump’s social media post that no members of the guard were yet in place around the Ice field office where dozens of protesters have demonstrated against immigration sweeps since June. Continue reading...",
     "ingested_utc": "2025-10-02T00:48:15Z"
+  },
+  {
+    "published_utc": "2025-10-01",
+    "retrieved_date": "2025-10-02",
+    "retrieved_utc": "2025-10-02T05:50:22Z",
+    "source": "AlJazeera_All",
+    "title": "Two killed, hundreds arrested in Morocco protests rocking the nation",
+    "url": "https://www.aljazeera.com/news/2025/10/1/morocco-arrests-hundreds-of-protesters-as-rallies-turn-violent?traffic_source=rss",
+    "id_key": "0f26b329b0bc27e962d999ee97e080a7712b8ffe22190f90e022093600e0ef7b",
+    "summary": "Members of Moroccan security forces and civilians reported hurt as youth antigovernment protests turn violent.",
+    "ingested_utc": "2025-10-02T05:50:22Z"
   },
   {
     "published_utc": "2025-10-01",
@@ -10976,27 +10998,5 @@
     "id_key": "4f26b114885b9bfc1bdcd31f45cfb955abbcdcd299702f0c8c7d9352e1a3956d",
     "summary": "Publisher says stopping it from talking to Nottinghamshire council’s leader is breach of the right to free expression A local paper whose journalists have been ostracised by a Reform UK council is taking legal action, arguing the move is a breach of its right to free expression. The Nottingham Post, and its online site Nottinghamshire Live, has been barred from speaking to the council’s leader and removed from media mailing lists by the Reform-led Nottinghamshire county council. Continue reading...",
     "ingested_utc": "2025-09-30T18:40:32Z"
-  },
-  {
-    "published_utc": "2025-09-30",
-    "retrieved_date": "2025-09-30",
-    "retrieved_utc": "2025-09-30T18:18:36Z",
-    "source": "FinancialPost_Business",
-    "title": "Glencore’s Top Oil and Gas Trader Becomes Latest Senior Exit",
-    "url": "https://financialpost.com/pmn/business-pmn/glencores-top-oil-and-gas-trader-becomes-latest-senior-exit",
-    "id_key": "dbb558b88e93a460c1de204004513debdb3548668dde6f6d36dda9b761487f35",
-    "summary": "The head of Glencore Plc’s oil and gas trading team is planning to leave the company, becoming the latest high profile departure from one of the world’s biggest commodity traders.",
-    "ingested_utc": "2025-09-30T18:18:36Z"
-  },
-  {
-    "published_utc": "2025-09-30",
-    "retrieved_date": "2025-09-30",
-    "retrieved_utc": "2025-09-30T18:18:29Z",
-    "source": "AlJazeera_All",
-    "title": "Destruction at scene of Pakistan security HQ suicide bombing",
-    "url": "https://www.aljazeera.com/video/newsfeed/2025/9/30/destruction-at-scene-of-pakistan-security-hq-suicide-bombing?traffic_source=rss",
-    "id_key": "d569ad0a255db90fef0e2bfb97e48788aaca26cb000bc303a286d5b2700a739c",
-    "summary": "Video shows the suicide car bombing aftermath outside a paramilitary headquarters in Pakistan’s Balochistan province.",
-    "ingested_utc": "2025-09-30T18:18:29Z"
   }
 ]
