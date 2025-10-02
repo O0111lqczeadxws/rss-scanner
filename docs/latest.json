@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-10-02",
     "retrieved_date": "2025-10-02",
+    "retrieved_utc": "2025-10-02T08:39:04Z",
+    "source": "NPR_Top",
+    "title": "Anti-government protests in Morocco turn deadly, with 2 killed in a small town",
+    "url": "https://www.npr.org/2025/10/02/g-s1-91601/anti-government-protests-morocco",
+    "id_key": "c5037b64591e6c45e3ed67f95ff3fefaf7156e30d45af94edab264381594a44a",
+    "summary": "Youth-led anti-government demonstrators in Morocco filled the streets for a fifth straight night on Wednesday, as protests over the state of public services descended into deadly violence.",
+    "ingested_utc": "2025-10-02T08:39:04Z"
+  },
+  {
+    "published_utc": "2025-10-02",
+    "retrieved_date": "2025-10-02",
+    "retrieved_utc": "2025-10-02T08:38:08Z",
+    "source": "Erigon_Releases",
+    "title": "v3.2.0 \"Quirky Quests\"",
+    "url": "https://github.com/erigontech/erigon/releases/tag/v3.2.0",
+    "id_key": "9a40f7fdd5227c2322661ba8607467559fa65399ab71a3b9c9953f1bf3625a56",
+    "summary": "Erigon 3.2.0 \"Quirky Quests\" has a complete implementation of Fusaka and schedules it on the test nets ( #17197 ): Holesky on Wednesday, 1 October 2025 08:48:00 UTC Sepolia on Tuesday, 14 October 2025 07:36:00 UTC Hoodi on Tuesday, 28 October 2025 18:53:12 UTC Fixes Re-org/unwind fixes ( #17105 , #17165 ) by @taratorio RPC: Fixes to eth_getProof ( #16220 , #16251 , #16564 , #16606 , #16687 ) by @awskii tracer: fix prestates for EIP7702 transactions ( #16497 ) by @nebojsa94 Improvements New EL block downloader ( #16270 , #16673 ) by @taratorio Caplin p2p improvements ( #16719 , #16995 ) by @Giulio2002 EVM: MODEXP precompile performance improvements ( #16579 , #16583 , #16396 , #17151 ) by @chfast & @yperbasis execution: more accurate bad block responses ( #16994 ) by @taratorio Block builder: improve txpool polling ( #16412 ) by @taratorio execution/stagedsync: handle sync loop block limit exhaustion ( #16268 ) by @taratorio RPC: Apply batch limit to WebSocket/IPC connections ( #16255 ) by @grandchildrice RPC: Estimate gas align to geth ( #16397 ) by @lupin012 snapshotsync: add support for --snap.download.to.block ( #16938 ) by @taratorio New features Complete Fusaka implementation ( #16183 , #16185 , #16186 , #16187 , #16184 , #16391 , #16401 , #16207 , #16420 , #16428 , #16494 , #16457 , #16644 , #16928 , #16945 , #17060 , #16989 , #17076 , #17169 ) by @taratorio , @yperbasis , @Giulio2002 and @domiwei Implement eth/69 ( #15279 , #17186 , #17171 ) by @shohamc1 RPC: implement new eth_config spec ( #16218 , #16410 ) by @taratorio RPC: impl admin_RemovePeer ( #16292 ) by @lupin012 Full Changelog : v3.1.0...v3.2.0",
+    "ingested_utc": "2025-10-02T08:38:08Z"
+  },
+  {
+    "published_utc": "2025-10-02",
+    "retrieved_date": "2025-10-02",
     "retrieved_utc": "2025-10-02T08:17:30Z",
     "source": "FinancialPost_Business",
     "title": "Humanoid Global Announces Commitment to a Strategic Investment in Apptronik, a Leader in AI Robotics and Human-Centered Design",
@@ -1087,6 +1109,28 @@
     "id_key": "f3c111fc8cc82520589aadb42cc4f510346100b7e18d6d883301ad23dc3fecf9",
     "summary": "On a post on social media, the president says guards had been deployed, while no members were present Donald Trump once again shared misinformation about Portland, Oregon, on social media on Wednesday, when he announced that the national guard troops he called up in response to a small protest outside an Immigration and Customs Enforcement (Ice) office in the otherwise tranquil city are “now in place” and have begun restoring “LAW AND ORDER”. However, Portland’s NBC News affiliate KGW reported 90 minutes after Trump’s social media post that no members of the guard were yet in place around the Ice field office where dozens of protesters have demonstrated against immigration sweeps since June. Continue reading...",
     "ingested_utc": "2025-10-02T00:48:15Z"
+  },
+  {
+    "published_utc": "2025-10-01",
+    "retrieved_date": "2025-10-02",
+    "retrieved_utc": "2025-10-02T08:39:09Z",
+    "source": "FT_Markets",
+    "title": "Diversified Energy to switch primary listing from London to New York",
+    "url": "https://www.ft.com/content/6f555877-7308-4878-8de8-2ae233afd9a5",
+    "id_key": "4fd30698bcfaed92380de16e631a99da7df44f3783e394849a7b30d33f1b5228",
+    "summary": "City of London suffers fresh setback days after AstraZeneca said it would list shares directly on NYSE",
+    "ingested_utc": "2025-10-02T08:39:09Z"
+  },
+  {
+    "published_utc": "2025-10-01",
+    "retrieved_date": "2025-10-02",
+    "retrieved_utc": "2025-10-02T08:36:40Z",
+    "source": "BBC_World",
+    "title": "'None of us have ever asked for special treatment' - US female veterans respond to Hegseth speech",
+    "url": "https://www.bbc.com/news/articles/cy8525w2v5wo?at_medium=RSS&at_campaign=rss",
+    "id_key": "3314d29067456a84199b72d3efaee6e03143bc6875952b55a507877056f68391",
+    "summary": "The defence secretary said he wanted a return to the \"male standard\" for combat roles. Women say the standards were never different.",
+    "ingested_utc": "2025-10-02T08:36:40Z"
   },
   {
     "published_utc": "2025-10-01",
@@ -9406,6 +9450,17 @@
   },
   {
     "published_utc": "2025-09-30",
+    "retrieved_date": "2025-10-02",
+    "retrieved_utc": "2025-10-02T08:36:42Z",
+    "source": "BBC_Technology",
+    "title": "Flights in Afghanistan grounded after internet shutdown",
+    "url": "https://www.bbc.com/news/articles/cdxqdy5nrlqo?at_medium=RSS&at_campaign=rss",
+    "id_key": "09b5bb548ce31f63bba0e03bd7f8def7c06c83820e63b03e3e5583135b62cf11",
+    "summary": "The Taliban have yet to give an official reason for the shutdown, but said it would last indefinitely.",
+    "ingested_utc": "2025-10-02T08:36:42Z"
+  },
+  {
+    "published_utc": "2025-09-30",
     "retrieved_date": "2025-10-01",
     "retrieved_utc": "2025-10-01T17:10:21Z",
     "source": "BitcoinMagazine",
@@ -10943,60 +10998,5 @@
     "id_key": "55d511880e0bf3e75d9fd90dd35327a12fee501e85523354626780b33f0f3667",
     "summary": "South African Ambassador Nkosinathi Emmanuel \"Nathi\" Mthethwa was found dead outside of a high-rise hotel in Paris.",
     "ingested_utc": "2025-09-30T19:11:37Z"
-  },
-  {
-    "published_utc": "2025-09-30",
-    "retrieved_date": "2025-09-30",
-    "retrieved_utc": "2025-09-30T19:11:28Z",
-    "source": "Engadget_All",
-    "title": "The best E Ink tablets for 2025",
-    "url": "https://www.engadget.com/mobile/tablets/best-e-ink-tablet-130037939.html?src=rss",
-    "id_key": "51fad77a5f613f7b02a916794676ce8265cbdd25b6cb78b1b32f48fe30a7e096",
-    "summary": "I’m a longtime lover of pen and paper, so E Ink tablets have been intriguing to me ever since they started becoming more widely available. After having hundreds of half-filled notebooks over the years, I, at some point, turned to digital tools instead because it was just easier to store everything on my phone or laptop so I always had my most important information at my fingertips. E-Ink tablets seem to provide the best of both worlds: the tactile satisfaction of regular notebooks with many of the conveniences found in digital tools, plus easy-on-the-eyes E-Ink screens. These devices have come a long way in recent years — now you can find them in multiple sizes, some have color E Ink screens and others double as full-blow ereaders with access to ebook stores and your local library’s offerings. I’ve tested out close to a dozen E Ink tablets over the past few years to see how well they work, how convenient they really are and which are the best tablets using E Ink screens available today. Editor's note (September 2025): Amazon announced a revamped family of Kindle Scribe E Ink tablets . The Kindle Scribe 3 is thinner and lighter than its predecessor with faster page-turning and writing experiences. The Kindle Scribe Colorsoft is the first full-color addition to the lineup, with a pen that will support writing in 10 colors and highlighting in five different shades. Both new Scribe tablets will be available in the US \"later this year.\" You can read our Kindle Scribe Colorsoft hands on to get a first look, but we'll update this guide once we've had the chance to test out both new E Ink tablets. Table of contents Best E Ink tablets for 2025 Are E Ink tablets worth it? What to look for in an E Ink tablet Other E Ink tablets we've tested Best E Ink tablets for 2025 Are E Ink tablets worth it? An E Ink tablet will be a worthwhile purchase to a very select group of people. If you prefer the look and feel of an e paper display to LCD panels found on traditional tablets, it makes a lot of sense. They’re also good options for those who want a more paper-like writing experience (although you can get that kind of functionality on a regular tablet with the right screen protector) or a more distraction-free device overall. The final note is key here. Many E Ink tablets don’t run on the same operating systems as regular tablets, so you’re automatically going to be limited in what you can do. And even with those that do allow you to download traditional apps like Chrome, Instagram and Facebook, E Ink tablets are not designed to give you the best casual-browsing experience. This is mostly due to the nature of E Ink displays, which have noticeable refreshes, a lack of vibrant colors and lower picture quality than the panels you’ll find on even the cheapest iPad. Arguably the biggest reason why you wouldn’t want to go with an iPad (all models of which support stylus input, a plethora of reading apps, etc) is because it’s much easier to get distracted by email, social media and other Internet-related temptations. What to look for in an E Ink tablet Writing and latency Arguably the most important thing to consider when looking for an E Ink tablet is the writing experience. How good it is will depend a lot on the display’s refresh rate (does it refresh after every time you put pen to “paper,” or at a different regular interval) and the stylus’ latency. Most of the tablets I’ve tested have little to no latency, but some are certainly better than others. Finally, you should double check before buying that your preferred E Ink tablet comes with a stylus, or if you need to purchase one separately. Reading How much will you be reading books, documents and other things on this tablet? E Ink tablets come in many sizes, but most of them tend to be larger than your standard e-reader because it makes writing much easier. Having a larger display isn’t a bad thing, but it might make holding it for long periods slightly more uncomfortable. (Most e-readers are roughly the size of a paperback book, giving you a similar feeling to analog reading). The supported file types for e-books can also make a big difference. It’s hard to make a blanket statement here because this varies so much among E Ink tablets. The TL;DR is that you’ll have a much better reading experience if you go with one made by a company that already has a history in e-book sales (i.e. Amazon or Kobo). All of the titles you bought via the Kindle or Kobo store should automatically be available to you on your Kindle or Kobo E Ink tablet. Also with Kindle titles, specifically, since they are protected by DRM, it’s not necessarily the best idea to try to bring those titles over to a third-party device . Unless the tablet runs an operating system like Android that supports downloads for apps like Kindle and Kobo, you’ll be limited to supported file types, like ePUB, PDF, MOBI, JPEG, PNG and others. Search functionality Most E Ink tablets have some on-device search features, but they can vary widely between models. You’ll want to consider how important it is to you to be able to search through all your handwritten notes and markups. I noticed in my testing that Amazon’s and Kobo’s E Ink tablets made it easy to refer back to notes made in books and files because they automatically save to the specific pages on which you took notes, made highlights and more. Searching is less standardized on E Ink tablets that have different supported file types, but their features can be quite powerful in their own right. For example, a few devices I tested supported text search in handwritten notes along with handwriting recognition, the latter of which allows you to translate your scribbles into typed text. Sharing and connectivity While we established that E Ink tablets can be great distraction-free devices, most manufacturers understand that your notes and doodles aren’t created in a vacuum. You may want to access them elsewhere, and that requires some form of connectivity. All of the E Ink tablets I tried have Wi-Fi support, and some support cloud syncing, companion mobile apps and the ability to export notes via email so you can access them elsewhere. None of them, however, integrate directly with a digital note taking system like Evernote or OneNote, so these devices will always be somewhat supplementary if you use apps like that, too. I’d argue that, if you already lean heavily on apps like OneNote, a standard tablet with a stylus and screen protector might be the best way to go. Ultimately, you should think about what you will want to do with the documents you’ll interact with on your E Ink tablet after the tablet portion is done. Price E Ink tablets aren’t known for being cheap. They generally fall into the $300-$800 price range, which is what you can expect to pay for a solid regular tablet, too. A key factor in price is size: cheaper devices with E Ink displays are likely to have smaller screens, and stylus support isn’t as much of a given. Also, those types of devices are generally considered e-readers because of their size and may not be the best for note-taking, doodling and the like. E Ink tablets have gone up in price recently. Supernote and Onyx Boox increased prices, as did reMarkable. The former said it was due to \"increased costs,” and a reMarkable representative confirmed this to Engadget and provided the following statement: \"We regularly review our pricing based on market conditions and operational costs. We've communicated an upcoming adjustment for the US market effective in May to provide transparency to our customers. Multiple factors influence our pricing decisions, including supply chain dynamics and overall operational costs in specific markets.” As a result, the reMarkable Paper Pro jumped from $579 to $629 (that's for the bundle with the standard Marker and no Folio). This isn't great, considering the Paper Pro was already on the expensive side of the spectrum for E Ink tablets. It's also worth noting that Supernote and Onyx Boox have raised prices in the past few months as well. Other E Ink tablets we've tested Onyx Boox Tab X C The Boox Tab X C is a color-screened version of the Tab X, the company’s all-purpose e-paper Android tablet. The Tab X C has a lovely 13.3-inch Kaleido 3 E Ink color display, an octa-core processor, 6GB of RAM and it runs on Android 13, making it one of the most powerful tablets in Boox’s lineup. I’ve used the Tab X in the past and this color version runs similarly, if not better, and at 5.3mm thick, it’s impressively svelte even when you pair it with its folio keyboard case. As someone who loves legal-pad sized things to write on, I also like how the Tab X C is most akin to A4-size paper. But at $820 for the bundle with the standard case (or a whopping $970 for the tablet and its keyboard case), it’s really only best for those who are ready to go all-in on a premium E Ink tablet. Lenovo Smart Paper Lenovo made a solid E Ink tablet in the Smart Paper , but it's too pricey and too married to the company's companion cloud service to warrant a spot on our top picks list. The hardware is great, but the software isn't as flexible as those of competitors like the reMarkable 2. It has good Google Drive integration, but you must pair it with Lenovo's cloud service to really get the most use out of it — and in the UK, the service costs £9 per month for three months, which is quite expensive. Onyx Boox Tab Ultra The Boox Tab Ultra has a lot of the same features we like in the Note Air 2 Plus, but it’s designed to be a true, all-purpose tablet with an E Ink screen. Running Android 11 and compatible with a magnetic keyboard case, you can use it like a standard 2-in-1 laptop, albeit a low-powered one. You can browse the web, check email and even watch YouTube videos on this thing — but that doesn’t mean you should. A standard 2-in-1 laptop with a more responsive screen and better overall performance would be a better fit for most people who even have the slightest desire to have an all-in-one device. Like the rest of Onyx’s devices, the Tab Ultra is specifically for those who put reading and eye comfort above all else. This article originally appeared on Engadget at https://www.engadget.com/mobile/tablets/best-e-ink-tablet-130037939.html?src=rss",
-    "ingested_utc": "2025-09-30T19:11:28Z"
-  },
-  {
-    "published_utc": "2025-09-30",
-    "retrieved_date": "2025-09-30",
-    "retrieved_utc": "2025-09-30T19:11:24Z",
-    "source": "TechCrunch_All",
-    "title": "Former OpenAI and DeepMind researchers raise whopping $300M seed to automate science",
-    "url": "https://techcrunch.com/2025/09/30/former-openai-and-deepmind-researchers-raise-whopping-300m-seed-to-automate-science/",
-    "id_key": "244b1dd43dd6c3bc593acf836d536e3541d781c1e44af4eb2d43bc7077850d76",
-    "summary": "Periodic Labs has raised from a tech industry's who's who, including Andreessen Horowitz, Nvidia, Elad Gil, Jeff Dean, Eric Schmidt, and Jeff Bezos.",
-    "ingested_utc": "2025-09-30T19:11:24Z"
-  },
-  {
-    "published_utc": "2025-09-30",
-    "retrieved_date": "2025-09-30",
-    "retrieved_utc": "2025-09-30T19:08:59Z",
-    "source": "CoinJournal",
-    "title": "Poland new crypto law triggers strong criticism from industry participants",
-    "url": "https://coinjournal.net/news/poland-new-crypto-law-triggers-strong-criticism-from-industry-participants/",
-    "id_key": "08325ac2ad6b44a85fa2ab19506d71bda109bf44557724ac571391d8b7159a55",
-    "summary": "Poland’s new crypto law imposes strict KNF licensing and heavy penalties. Industry warns rules could stifle innovation and push firms abroad. The president’s decision may determine Poland’s crypto market future. Poland has moved closer to enacting one of Europe’s strictest cryptocurrency laws, drawing sharp criticism from industry leaders and sparking a heated political debate. The […] The post Poland new crypto law triggers strong criticism from industry participants appeared first on CoinJournal .",
-    "ingested_utc": "2025-09-30T19:08:59Z"
-  },
-  {
-    "published_utc": "2025-09-30",
-    "retrieved_date": "2025-09-30",
-    "retrieved_utc": "2025-09-30T19:08:58Z",
-    "source": "CryptoNews",
-    "title": "Corrupt LA Deputy Weaponized Badge for ‘Crypto Godfather’ in Terrifying Extortion Racket",
-    "url": "https://cryptonews.com/news/corrupt-la-deputy-weaponized-badge-for-crypto-godfather-in-terrifying-extortion-racket/",
-    "id_key": "1439d0b486b82cb59912c3a2ccc441d007207b45a9a4cf0052684baa9f83bbd5",
-    "summary": "Prosecutors have described how a former LA sheriff’s deputy has worked with a promoter in coercion and fraud; the case has advanced toward sentencing, adding new detail to LA … deputy … crypto links across several incidents. The post Corrupt LA Deputy Weaponized Badge for ‘Crypto Godfather’ in Terrifying Extortion Racket appeared first on Cryptonews .",
-    "ingested_utc": "2025-09-30T19:08:58Z"
-  },
-  {
-    "published_utc": "2025-09-30",
-    "retrieved_date": "2025-09-30",
-    "retrieved_utc": "2025-09-30T19:08:36Z",
-    "source": "Guardian_World",
-    "title": "Central Philippines hit by powerful 6.9-magnitude earthquake",
-    "url": "https://www.theguardian.com/world/2025/sep/30/central-philippines-hit-by-powerful-earthquake",
-    "id_key": "7fb8d880db42644cf0ce2266b311001d4f9c043ec26e83a2eaf80f8b60b2017a",
-    "summary": "Power knocked out and buildings and roads damaged as rescuers search for casualties A 6.9-magnitude quake has struck off the the central Philippines coast, damaging buildings and roads and knocking out power in parts of the region, as rescuers searched for casualties. Municipal workers checked a collapsed public building and a gym, both in the north of the island of Cebu, hours after the quake struck at sea off its northern tip at 9:59pm (1359 GMT), said Wilson Ramos, a provincial rescue official. Continue reading...",
-    "ingested_utc": "2025-09-30T19:08:36Z"
   }
 ]
