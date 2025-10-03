@@ -2,6 +2,50 @@
   {
     "published_utc": "2025-10-03",
     "retrieved_date": "2025-10-03",
+    "retrieved_utc": "2025-10-03T21:27:52Z",
+    "source": "FinancialPost_Business",
+    "title": "BlackRock’s $40 Billion Bet on a Lesser-Known Data Center Firm",
+    "url": "https://financialpost.com/pmn/business-pmn/blackrocks-40-billion-bet-on-a-lesser-known-data-center-firm",
+    "id_key": "dfe90af4cd895123f02b1402122c9337875375bf0a34c62cbed9b97b37623501",
+    "summary": "At the start of the year, a lesser-known infrastructure company called Aligned Data Centers managed to pull off a $12 billion fundraise — more than some of the world’s leading artificial intelligence startups have been able to secure in a single round. The goal: dramatically expanding its footprint to support surging demand for the facilities that power AI systems.",
+    "ingested_utc": "2025-10-03T21:27:52Z"
+  },
+  {
+    "published_utc": "2025-10-03",
+    "retrieved_date": "2025-10-03",
+    "retrieved_utc": "2025-10-03T21:27:06Z",
+    "source": "NYTimes_World",
+    "title": "Live Updates: Hamas Offers to Release Hostages and to Discuss Trump Plan",
+    "url": "https://www.nytimes.com/live/2025/10/03/world/hamas-hostages-israel-gaza",
+    "id_key": "33db4e2818d35a05ddf2cd487f80706e147ddd49df3c0a6d763b5e7fb6a00bee",
+    "summary": "The militant group responded to a proposal by President Trump to end the nearly two-year-old war in Gaza. It was not clear if its conditions would satisfy the White House or Israel.",
+    "ingested_utc": "2025-10-03T21:27:06Z"
+  },
+  {
+    "published_utc": "2025-10-03",
+    "retrieved_date": "2025-10-03",
+    "retrieved_utc": "2025-10-03T21:25:09Z",
+    "source": "CryptoSlate",
+    "title": "If spot XRP ETFs arrive, who will buy and how much will liquidity shift?",
+    "url": "https://cryptoslate.com/if-spot-xrp-etfs-arrive-who-will-buy-and-how-much-will-liquidity-shift/",
+    "id_key": "e8adb389eed6c1ad8ed4733813bd7ec41c33512db3298aecf44b56f8925ce8f8",
+    "summary": "Six spot XRP exchange-traded funds (ETFs) await SEC approval in the US, with final deadlines for October, and they can reshape market conditions following their debut. The regulatory backdrop underwent a significant change on Sept. 17, when the SEC approved generic listing standards for crypto-related ETFs across major exchanges. As a result, Bloomberg senior ETF […] The post If spot XRP ETFs arrive, who will buy and how much will liquidity shift? appeared first on CryptoSlate .",
+    "ingested_utc": "2025-10-03T21:25:09Z"
+  },
+  {
+    "published_utc": "2025-10-03",
+    "retrieved_date": "2025-10-03",
+    "retrieved_utc": "2025-10-03T21:24:49Z",
+    "source": "Guardian_World",
+    "title": "Sean ‘Diddy’ Combs sentenced to more than four years in prison on prostitution-related charges",
+    "url": "https://www.theguardian.com/music/2025/oct/03/sean-diddy-combs-trial-sentence",
+    "id_key": "ad95a1cae9c4881a99e8d5970e806d878b388ac026af7dfe77e0ebad7e355e47",
+    "summary": "Federal prosecutors had pushed for a jail term of 11 years and three months of a possible 20 after music moguls conviction Sean ‘Diddy’ Combs sentencing – live updates A New York federal judge has sentenced Sean “Diddy” Combs to four years and two months in prison following his conviction this summer on federal prostitution-related charges. The sentencing on Friday in Manhattan came after a federal jury in July acquitted the 55-year-old music mogul of the most serious charges against him – racketeering conspiracy and sex trafficking – but found him guilty of two counts of transportation to engage in prostitution. Each count carried a maximum sentence of 10 years in prison. Continue reading...",
+    "ingested_utc": "2025-10-03T21:24:49Z"
+  },
+  {
+    "published_utc": "2025-10-03",
+    "retrieved_date": "2025-10-03",
     "retrieved_utc": "2025-10-03T21:12:05Z",
     "source": "FinancialPost_Business",
     "title": "Canoe EIT Income Fund Announces 2025 Voluntary Cash Redemption",
@@ -10954,49 +10998,5 @@
     "id_key": "fab219d859b3e9d52ae9341182953af2e4277e6dea8038a64ed60bd865ce5c3c",
     "summary": "HP is announcing a new jumbo-sized ultrawide monitor designed for productivity and office use. The HP Series 5 Pro 49-inch Conferencing Monitor uses a 32:9 VA IPS panel with 5120 x 1440 resolution, 165Hz refresh, and an 1800R curvature. Like other monitors of this size and resolution, it’s equivalent to using two 27-inch displays side […]",
     "ingested_utc": "2025-10-02T10:13:51Z"
-  },
-  {
-    "published_utc": "2025-10-02",
-    "retrieved_date": "2025-10-02",
-    "retrieved_utc": "2025-10-02T10:13:36Z",
-    "source": "FT_Home",
-    "title": "Suspect shot after stabbings at Manchester synagogue",
-    "url": "https://www.ft.com/content/37796141-ac7b-44ed-a40a-88b857d62868",
-    "id_key": "63b9256ed4d8c66d17de09db457064e7cf2bd0f281e12070ca922fcbdd168f8b",
-    "summary": "Greater Manchester Police said four people were hit by car and also suffered stab wounds",
-    "ingested_utc": "2025-10-02T10:13:36Z"
-  },
-  {
-    "published_utc": "2025-10-02",
-    "retrieved_date": "2025-10-02",
-    "retrieved_utc": "2025-10-02T10:13:36Z",
-    "source": "FT_Home",
-    "title": "UK retailers set to escape top business rate tax band",
-    "url": "https://www.ft.com/content/bb92cadf-2274-4de4-a579-cbeee3c0df92",
-    "id_key": "fa4034486cfd6049e019ce73b1cacfd92df4303f3b8067f05e5be63bc9612e03",
-    "summary": "Policy change expected in Budget after the sector said higher charges would push up food inflation for consumers",
-    "ingested_utc": "2025-10-02T10:13:36Z"
-  },
-  {
-    "published_utc": "2025-10-02",
-    "retrieved_date": "2025-10-02",
-    "retrieved_utc": "2025-10-02T10:13:24Z",
-    "source": "NYTimes_World",
-    "title": "4 People Injured After Stabbing Outside Manchester Synagogue, UK Police Say",
-    "url": "https://www.nytimes.com/2025/10/02/world/europe/manchester-synagogue-stabbing-uk.html",
-    "id_key": "d04e953e5da57ab74832750b4dfa31bae321acba38cd4ef8c57b75217dcd37ea",
-    "summary": "The stabbing in Manchester, England, came on Yom Kippur, the holiest day in the Jewish calendar.",
-    "ingested_utc": "2025-10-02T10:13:24Z"
-  },
-  {
-    "published_utc": "2025-10-02",
-    "retrieved_date": "2025-10-02",
-    "retrieved_utc": "2025-10-02T10:13:24Z",
-    "source": "NYTimes_World",
-    "title": "Philippines President Says Tents Needed to Shelter Earthquake Survivors",
-    "url": "https://www.nytimes.com/2025/10/02/world/asia/philippines-earthquake-marcos-tents.html",
-    "id_key": "84a8d15598f7a1dc4a4e3f56ec52a7e79b87a83b4c040ebcb3042863f33ac515",
-    "summary": "Officials were optimistic on Thursday that most of the missing had been accounted for. But severe damage to the area means many people lack shelter, water and electricity.",
-    "ingested_utc": "2025-10-02T10:13:24Z"
   }
 ]
