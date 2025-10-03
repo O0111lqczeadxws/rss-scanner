@@ -2,6 +2,50 @@
   {
     "published_utc": "2025-10-03",
     "retrieved_date": "2025-10-03",
+    "retrieved_utc": "2025-10-03T06:19:03Z",
+    "source": "FinancialPost_Business",
+    "title": "Caledonia Mining Corporation Plc: Exercise of share options",
+    "url": "https://financialpost.com/globe-newswire/caledonia-mining-corporation-plc-exercise-of-share-options-3",
+    "id_key": "4d16563c7ab53fdd4f4ce9a28f1c7296a0cad8042af2faf5cbca80f0e675de7a",
+    "summary": "ST HELIER, Jersey, Oct. 03, 2025 (GLOBE NEWSWIRE) — Caledonia Mining Corporation Plc (NYSE American, AIM and VFEX: CMCL) (“Caledonia” or “the Company”) announces that two consultants to the Company have exercised options in respect of, in aggregate, 10,000 common shares of no par value each in the Company (the “Option Shares”). The exercise price […]",
+    "ingested_utc": "2025-10-03T06:19:03Z"
+  },
+  {
+    "published_utc": "2025-10-03",
+    "retrieved_date": "2025-10-03",
+    "retrieved_utc": "2025-10-03T06:18:46Z",
+    "source": "WIRED_All",
+    "title": "At a Conspiracy Conference in Rural Ireland, Charlie Kirk Was the Star",
+    "url": "https://www.wired.com/story/conspiracy-conference-rural-ireland-charlie-kirk-quantum-clones/",
+    "id_key": "30d89e72ded8bc5a432984041fd6cbebb9c72c9a841dd6f95c6a4ea064499007",
+    "summary": "The increasingly tight links between far-right groups in the US and Europe were on full display at the Rebels Across the Pond conference in Ireland.",
+    "ingested_utc": "2025-10-03T06:18:46Z"
+  },
+  {
+    "published_utc": "2025-10-03",
+    "retrieved_date": "2025-10-03",
+    "retrieved_utc": "2025-10-03T06:17:29Z",
+    "source": "Besu_Releases",
+    "title": "25.10.0-RC2",
+    "url": "https://github.com/hyperledger/besu/releases/tag/25.10.0-RC2",
+    "id_key": "3092e1d34e84c23c0b870ffb961374f0f0f09d548fd9afb0f36cafa9fb873c05",
+    "summary": "25.10.0-RC2 Important This RC is a recommended update for Holesky and Sepolia users for the Fusaka hardfork. This RC is still pending burn in for mainnet. This RC includes an update for a dependency used in PeerDAS. There is likely to be another release before Hoodi's Fusaka fork. Upcoming Breaking Changes Deprecated CLI options --Xbonsai-parallel-tx-processing-enabled is deprecated since 25.7.0. Use --bonsai-parallel-tx-processing-enabled instead. --Xsnapsync-server-enabled is deprecated since 25.7.0. Use --snapsync-server-enabled instead. --Xsnapsync-synchronizer-pre-merge-headers-only-enabled is deprecated since 25.7.0. Use --snapsync-synchronizer-pre-checkpoint-headers-only-enabled instead. --Xhistory-expiry-prune is deprecated since 25.7.0. Use --history-expiry-prune instead. Sunsetting features - for more context on the reasoning behind the deprecation of these features, including alternative options, read this blog post Proof of Work consensus (PoW) Fast Sync Additions and Improvements Performance improvements to EQ opcode #9229 Update jc-kzg dependency #9261 Full Changelog : 25.9.0...25.10.0-RC2 725ff15187f8b37caa860d383f4f78b36a99e904ec835f7390087dae9449a17a besu-25.10.0-RC2.zip 8ceffc213596ca5cef3a821020b00026f0f82316e2ec519cc9152407c3c6418a besu-25.10.0-RC2.tar.gz",
+    "ingested_utc": "2025-10-03T06:17:29Z"
+  },
+  {
+    "published_utc": "2025-10-03",
+    "retrieved_date": "2025-10-03",
+    "retrieved_utc": "2025-10-03T06:16:22Z",
+    "source": "CryptoNews",
+    "title": "Nomura Unit Eyes Wider Access To Crypto Trading In Japan: Report",
+    "url": "https://cryptonews.com/news/nomura-unit-laser-eyes-wider-access-crypto-trading-japan/",
+    "id_key": "7f4c54845784de7b2dff8afe18f19c54093d2da1d9d2b79c7c20f23f02d5ec59",
+    "summary": "Nomura’s Swiss-based unit Laser Digital is seeking a license in Japan to offer institutional crypto trading, signaling confidence in the country’s digital asset market. The post Nomura Unit Eyes Wider Access To Crypto Trading In Japan: Report appeared first on Cryptonews .",
+    "ingested_utc": "2025-10-03T06:16:22Z"
+  },
+  {
+    "published_utc": "2025-10-03",
+    "retrieved_date": "2025-10-03",
     "retrieved_utc": "2025-10-03T05:50:31Z",
     "source": "AlJazeera_All",
     "title": "Munich airport resumes flights after drone sightings; passengers stranded",
@@ -7470,6 +7514,17 @@
   },
   {
     "published_utc": "2025-10-01",
+    "retrieved_date": "2025-10-03",
+    "retrieved_utc": "2025-10-03T06:19:18Z",
+    "source": "HackerNews_Top",
+    "title": "Icebird: JavaScript Iceberg Reader",
+    "url": "https://github.com/hyparam/icebird",
+    "id_key": "0c0ca2ce3f17838bee673fea9ebc3c55b83684b80e547a5c41f954227d4323e4",
+    "summary": "Comments",
+    "ingested_utc": "2025-10-03T06:19:18Z"
+  },
+  {
+    "published_utc": "2025-10-01",
     "retrieved_date": "2025-10-02",
     "retrieved_utc": "2025-10-02T19:50:24Z",
     "source": "TheStreet_Top",
@@ -10943,60 +10998,5 @@
     "id_key": "ace396a7e2536e6100a2ab7a488058526ca9fbc8c4fd2b4a5965523aaa6698ab",
     "summary": "The incident underscores the persistent threat of state-affiliated cybercrime in crypto, prompting increased regulatory scrutiny on privacy tools. The post SBI Crypto loses $21M as funds laundered through Tornado Cash by suspected North Korean hackers appeared first on Crypto Briefing .",
     "ingested_utc": "2025-10-01T15:48:16Z"
-  },
-  {
-    "published_utc": "2025-10-01",
-    "retrieved_date": "2025-10-01",
-    "retrieved_utc": "2025-10-01T15:48:14Z",
-    "source": "BitcoinMagazine",
-    "title": "Remote Node Runner Pitfalls",
-    "url": "https://bitcoinmagazine.com/print/remote-node-runner-pitfalls",
-    "id_key": "939269428fcd350dcf8295a8563da172075b5cea888e5523f01538cf2753defa",
-    "summary": "Bitcoin Magazine Remote Node Runner Pitfalls Operating a Lightning node remotely can be incredibly rewarding — but only if approached with the same seriousness you’d apply to running a financial service. Because in many ways, that’s exactly what it is: Running a Lightning node is hard, but becoming a node runner is worth it. This post Remote Node Runner Pitfalls first appeared on Bitcoin Magazine and is written by Evan Kaloudis .",
-    "ingested_utc": "2025-10-01T15:48:14Z"
-  },
-  {
-    "published_utc": "2025-10-01",
-    "retrieved_date": "2025-10-01",
-    "retrieved_utc": "2025-10-01T15:47:58Z",
-    "source": "Guardian_World",
-    "title": "France investigates Russia-linked oil tanker suspected of launching drones",
-    "url": "https://www.theguardian.com/world/2025/oct/01/france-oil-tanker-russia-drone-denmark",
-    "id_key": "d455ba3213024681c9a4289aca44b0441d6a0bed63841ae29c22d2486d2f9ff9",
-    "summary": "Tanker diverted by French navy may have been launchpad for drone flights that led to airport closures in Denmark French authorities are investigating an oil tanker that is subject to sanctions and suspected of being part of Russia’s shadow fleet, which may have been a launchpad for mystery drone flights that forced the closure of airports in Denmark last week. The tanker, known as the Boracay, has used numerous identities and was one of four Russia-linked vessels in the seas near Denmark at the time of the drone sightings on 22 and 24 September, which so far have not been fully explained. Continue reading...",
-    "ingested_utc": "2025-10-01T15:47:58Z"
-  },
-  {
-    "published_utc": "2025-10-01",
-    "retrieved_date": "2025-10-01",
-    "retrieved_utc": "2025-10-01T15:47:58Z",
-    "source": "Guardian_World",
-    "title": "Nature boys and girls – here’s your chance to get published in the Guardian",
-    "url": "https://www.theguardian.com/environment/2021/aug/27/nature-lovers-guardian-young-country-diary-writers",
-    "id_key": "8fdfd4f20a546977bd6275d2ee30c877aeae54b3c2c02a05027a6a2a7c0158ae",
-    "summary": "Our wildlife series Young Country Diary is looking for articles written by children, about their autumn encounters with nature Once again, the Young Country Diary series is open for submissions! Every three months, as the UK enters a new season, we ask you to send us an article written by a child aged 8-14. The article needs to be about a recent encounter they’ve had with nature – whether it’s a bug under some leaves, a rutting stag or a garden bird. Continue reading...",
-    "ingested_utc": "2025-10-01T15:47:58Z"
-  },
-  {
-    "published_utc": "2025-10-01",
-    "retrieved_date": "2025-10-01",
-    "retrieved_utc": "2025-10-01T15:47:54Z",
-    "source": "BBC_World",
-    "title": "Hunter S Thompson's death to be reviewed by US investigators 20 years later",
-    "url": "https://www.bbc.com/news/articles/cgrqpqe81qjo?at_medium=RSS&at_campaign=rss",
-    "id_key": "74c94fb7cfa2398a1904f3ada89fc018f541f76fe4940331017893effc76199e",
-    "summary": "Investigators will review the writer's 2005 death, which was ruled a suicide, at the family's request though there in no new evidence of foul play.",
-    "ingested_utc": "2025-10-01T15:47:54Z"
-  },
-  {
-    "published_utc": "2025-10-01",
-    "retrieved_date": "2025-10-01",
-    "retrieved_utc": "2025-10-01T15:33:54Z",
-    "source": "FinancialPost_Business",
-    "title": "Brookfield Predicts AI Growth Needs $7 Trillion of Capital",
-    "url": "https://financialpost.com/pmn/business-pmn/brookfield-predicts-ai-growth-needs-7-trillion-of-capital",
-    "id_key": "cad27ec9d4e40092e7dd8b3d9124ad2e5e871f839a31f337178b8d9763af0f19",
-    "summary": "There’s about $7 trillion of investment needed to finance the rapid growth of artificial intelligence, according to Hadley Peer Marshall, chief financial officer at Brookfield Asset Management.",
-    "ingested_utc": "2025-10-01T15:33:54Z"
   }
 ]
