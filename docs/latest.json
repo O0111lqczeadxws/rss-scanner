@@ -2,6 +2,50 @@
   {
     "published_utc": "2025-10-03",
     "retrieved_date": "2025-10-03",
+    "retrieved_utc": "2025-10-03T19:50:06Z",
+    "source": "FinancialPost_Business",
+    "title": "Blank-check firm MAK files for US$100 million TSX IPO",
+    "url": "https://financialpost.com/news/mak-files-for-us100-million-tsx-ipo",
+    "id_key": "206547c79c738af0f41a9f149b7824774e9efcc7e6640e8ec276c135f3016e52",
+    "summary": "The Toronto-based special purpose acquisition plans to sell 10 million units at US$10 each",
+    "ingested_utc": "2025-10-03T19:50:06Z"
+  },
+  {
+    "published_utc": "2025-10-03",
+    "retrieved_date": "2025-10-03",
+    "retrieved_utc": "2025-10-03T19:49:45Z",
+    "source": "WIRED_All",
+    "title": "Bad Bunny Has MAGA All Worked Up",
+    "url": "https://www.wired.com/story/bad-bunny-has-maga-all-worked-up/",
+    "id_key": "e5931bd295c74485303d93779cc805e947d741b818307c9a5636a0d0126c8b6d",
+    "summary": "After avoiding the continental US on his world tour due to ICE, Bad Bunny’s Super Bowl halftime show will be a battleground for the country’s culture wars.",
+    "ingested_utc": "2025-10-03T19:49:45Z"
+  },
+  {
+    "published_utc": "2025-10-03",
+    "retrieved_date": "2025-10-03",
+    "retrieved_utc": "2025-10-03T19:47:24Z",
+    "source": "CryptoNews",
+    "title": "From Obscurity to Spotlight: LunarCrush Data Reveals ETHFI’s Meteoric Rise in Social Buzz and Price",
+    "url": "https://cryptonews.com/news/from-obscurity-to-spotlight-lunarcrush-data-reveals-ethfi-meteoric-rise-in-social-buzz-and-price/",
+    "id_key": "df4d3b4cebd67a3f4acc32e9c942cc8014850ad1ecc9a823ad8c854923712a98",
+    "summary": "ETHFI social and market signals tracked with LunarCrush have strengthened: AltRank has climbed 42 places to 16, Galaxy Score 72, mentions 891, and ~203k engagements. Revenue-funded Ether.fi buybacks and token distributions have supported activity, keeping LunarCrush ETHFI under observation. The post From Obscurity to Spotlight: LunarCrush Data Reveals ETHFI’s Meteoric Rise in Social Buzz and Price appeared first on Cryptonews .",
+    "ingested_utc": "2025-10-03T19:47:24Z"
+  },
+  {
+    "published_utc": "2025-10-03",
+    "retrieved_date": "2025-10-03",
+    "retrieved_utc": "2025-10-03T19:47:17Z",
+    "source": "Blockworks",
+    "title": "ETF inflows, ‘debasement trade’ fuel bitcoin’s climb above $123K",
+    "url": "https://blockworks.co/news/etf-inflows-bitcoin-above-123k",
+    "id_key": "c5f29b1dfeaf28041d1ac5bc9cf2f37ed4fba154c24be7523e55ea2e27d5813e",
+    "summary": "US bitcoin ETFs that seen more than $2.2 billion of net inflows over the last four trading days",
+    "ingested_utc": "2025-10-03T19:47:17Z"
+  },
+  {
+    "published_utc": "2025-10-03",
+    "retrieved_date": "2025-10-03",
     "retrieved_utc": "2025-10-03T19:36:23Z",
     "source": "HackerNews_Top",
     "title": "Arbitrary code execution in Unity Runtime",
@@ -10954,49 +10998,5 @@
     "id_key": "49c2c9fbf8594ac705acbadf4a282cedcabd6250272d2c3031e527fa22b8e901",
     "summary": "Jürgen Matthäus has for years been investigating the killer – and is confident he has finally solved the mystery It is one of the most chilling images of the Holocaust: a bespectacled Nazi soldier trains a pistol at the head of a resigned man kneeling in a suit before a pit full of corpses. German troops encircle the scene. The picture taken in today’s Ukraine was long known, mistakenly, as The Last Jew in Vinnitsa, and was for decades shrouded in mystery. Continue reading...",
     "ingested_utc": "2025-10-02T07:34:40Z"
-  },
-  {
-    "published_utc": "2025-10-02",
-    "retrieved_date": "2025-10-02",
-    "retrieved_utc": "2025-10-02T07:27:10Z",
-    "source": "CryptoNews",
-    "title": "AVAX Surges as Avalanche Treasury Co. Plans $1B Token Purchase and Public Listing",
-    "url": "https://cryptonews.com/news/avax-surges-as-avalanche-treasury-co-plans-1b-token-purchase-and-public-listing/",
-    "id_key": "269a23197d9d385b108e690d2cecbf54d226185eb2659668f4efc575aeadf728",
-    "summary": "AVAX, the native token of the Avalanche blockchain, climbed sharply following the announcement of a public listing and major token purchase by Avalanche Treasury. The post AVAX Surges as Avalanche Treasury Co. Plans $1B Token Purchase and Public Listing appeared first on Cryptonews .",
-    "ingested_utc": "2025-10-02T07:27:10Z"
-  },
-  {
-    "published_utc": "2025-10-02",
-    "retrieved_date": "2025-10-02",
-    "retrieved_utc": "2025-10-02T07:26:48Z",
-    "source": "Guardian_World",
-    "title": "China’s fifth-ranking official was suspect in dropped Westminster spy case",
-    "url": "https://www.theguardian.com/world/2025/oct/02/uk-cps-china-official-intelligence-westminster-spy-case",
-    "id_key": "80ba03fdb6ffc8d790f46acd1443967ffec9dc445731ad4aa4f10e9daefdd335",
-    "summary": "Person who was thought to have received intelligence is understood to be Cai Qi, de facto chief of staff to Xi Jinping British prosecutors suspected that China’s fifth most senior official was in receipt of intelligence from Westminster in a controversial and now-abandoned espionage case, the Guardian understands. The Crown Prosecution Service (CPS) said in April 2024 that a “senior member of the Chinese Communist party and a politburo member” had received “politically sensitive information” from two British researchers who were charged with spying for China . Continue reading...",
-    "ingested_utc": "2025-10-02T07:26:48Z"
-  },
-  {
-    "published_utc": "2025-10-02",
-    "retrieved_date": "2025-10-02",
-    "retrieved_utc": "2025-10-02T07:13:47Z",
-    "source": "FinancialPost_Business",
-    "title": "YesWeHack Won the European Commission’s Latest Bug Bounty Tender",
-    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/yeswehack-won-the-european-commissions-latest-bug-bounty-tender",
-    "id_key": "b9702d412164de283e753548422a379af5f436ae2ec1251868969d035ecf1955",
-    "summary": "PARIS — YesWeHack, the crowdsourced security testing and vulnerability management platform, is the European Commission’s new preferred provider of bug bounty services under a cascade model. The European Union’s main executive branch has run bug bounty programs to harden open source assets used across EU servers and systems since 2019. A new tender was launched […]",
-    "ingested_utc": "2025-10-02T07:13:47Z"
-  },
-  {
-    "published_utc": "2025-10-02",
-    "retrieved_date": "2025-10-02",
-    "retrieved_utc": "2025-10-02T07:13:47Z",
-    "source": "FinancialPost_Business",
-    "title": "Poppulo Becomes First Employee Comms and Digital Signage Company to Achieve Benchmark ISO Certification for Responsible AI",
-    "url": "https://financialpost.com/globe-newswire/poppulo-becomes-first-employee-comms-and-digital-signage-company-to-achieve-benchmark-iso-certification-for-responsible-ai",
-    "id_key": "b1934bbfa3d566f03be0bcbba7e879f0b0c1b772e5cf4bacc7fadb261ae609e0",
-    "summary": "ISO 42001 AI Certification validates Poppulo’s reputation for governance, data security, and enterprise scalability DENVER and CORK, Ireland, Oct. 02, 2025 (GLOBE NEWSWIRE) — Poppulo, a global leader in employee communications and digital signage, today announced it has achieved the new benchmark for responsible AI, the ISO 42001 certification. It is the only company in […]",
-    "ingested_utc": "2025-10-02T07:13:47Z"
   }
 ]
