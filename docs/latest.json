@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-10-03",
     "retrieved_date": "2025-10-03",
+    "retrieved_utc": "2025-10-03T04:50:48Z",
+    "source": "FinancialPost_Business",
+    "title": "Asian shares are mixed as tech shares lead Wall Street ticks to more records",
+    "url": "https://financialpost.com/pmn/asian-shares-are-mixed-as-tech-shares-lead-wall-street-ticks-to-more-records",
+    "id_key": "db1a48bd8e15d8a3023085637319945a2bc8499d29748f4b25460f650bfd40d3",
+    "summary": "MANILA, Philippines (AP) — Asian shares were mixed on Friday after heavy buying of tech shares led benchmarks on Wall Street to more records. US. futures and oil prices were higher. Markets have largely shrugged off the shutdown of the U.S. government after Democrat and Republican lawmakers failed to reach agreement on funding. U.S. President […]",
+    "ingested_utc": "2025-10-03T04:50:48Z"
+  },
+  {
+    "published_utc": "2025-10-03",
+    "retrieved_date": "2025-10-03",
     "retrieved_utc": "2025-10-03T04:35:22Z",
     "source": "AlJazeera_All",
     "title": "Israel dismantles Gaza humanitarian flotilla – but one boat sails on",
@@ -10987,16 +10998,5 @@
     "id_key": "6ab07592fe76999a820f4e14b4d7613d13dd240bd975e2d19ff760079633bdec",
     "summary": "A lawsuit accuses members of the emirate’s ruling family of stringing the Irish hotelier, Patrick McKillen, along on high-end developments as “part of a yearslong pattern of illegal racketeering.”",
     "ingested_utc": "2025-10-01T15:33:04Z"
-  },
-  {
-    "published_utc": "2025-10-01",
-    "retrieved_date": "2025-10-01",
-    "retrieved_utc": "2025-10-01T15:31:08Z",
-    "source": "CryptoNews",
-    "title": "Mega Matrix to Expand $2B Digital Asset Treasury into Multi-Stablecoin Framework",
-    "url": "https://cryptonews.com/news/mega-matrix-expands-2b-multi-stablecoin-treasury/",
-    "id_key": "2548f8b8a384b1900d0152dac83e0e191eea725f7293b03d019f891f05fd58f6",
-    "summary": "Mega Matrix has expanded its $2B digital asset treasury with a dual-engine mix of stablecoins and governance tokens across Ethena, Hyperliquid, Aster, and Sky under SEC-compliant structures, seeking steady DeFi income and protocol participation while reducing single-token reliance. The post Mega Matrix to Expand $2B Digital Asset Treasury into Multi-Stablecoin Framework appeared first on Cryptonews .",
-    "ingested_utc": "2025-10-01T15:31:08Z"
   }
 ]
