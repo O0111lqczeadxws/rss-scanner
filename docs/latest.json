@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-10-03",
     "retrieved_date": "2025-10-03",
+    "retrieved_utc": "2025-10-03T05:14:43Z",
+    "source": "FinancialPost_Business",
+    "title": "Gas Turbine Shortage Is Forcing Companies Back to Coal",
+    "url": "https://financialpost.com/pmn/business-pmn/gas-turbine-shortage-is-forcing-companies-back-to-coal",
+    "id_key": "c88f7fe287372364aa2d0b55164eceef43cce4bf1feab620360a776819da9f3f",
+    "summary": "Booming electricity demand driven by AI is causing a shortage of gas turbines worldwide, Stephen Stapczynski and Akshat Rathi explain why on Zero podcast.",
+    "ingested_utc": "2025-10-03T05:14:43Z"
+  },
+  {
+    "published_utc": "2025-10-03",
+    "retrieved_date": "2025-10-03",
     "retrieved_utc": "2025-10-03T04:50:48Z",
     "source": "FinancialPost_Business",
     "title": "Asian shares are mixed as tech shares lead Wall Street ticks to more records",
@@ -10987,16 +10998,5 @@
     "id_key": "527a02ad87f581cf0402a3d8c1c5dd0c36f66b074b4e84ca9068fea4942a3607",
     "summary": "The Supreme Court has temporarily blocked President Trump's attempt to fire Federal Reserve governor Lisa Cook, a move that critics say would have compromised the central bank's independence",
     "ingested_utc": "2025-10-01T15:33:12Z"
-  },
-  {
-    "published_utc": "2025-10-01",
-    "retrieved_date": "2025-10-01",
-    "retrieved_utc": "2025-10-01T15:33:04Z",
-    "source": "NYTimes_Business",
-    "title": "Irish Hotelier Accuses Qatari Royals of Scheme to Get Free Labor",
-    "url": "https://www.nytimes.com/2025/10/01/world/middleeast/qatar-royals-lawsuit-labor-racketeering.html",
-    "id_key": "6ab07592fe76999a820f4e14b4d7613d13dd240bd975e2d19ff760079633bdec",
-    "summary": "A lawsuit accuses members of the emirate’s ruling family of stringing the Irish hotelier, Patrick McKillen, along on high-end developments as “part of a yearslong pattern of illegal racketeering.”",
-    "ingested_utc": "2025-10-01T15:33:04Z"
   }
 ]
