@@ -2,6 +2,105 @@
   {
     "published_utc": "2025-10-03",
     "retrieved_date": "2025-10-03",
+    "retrieved_utc": "2025-10-03T19:24:41Z",
+    "source": "HackerNews_Top",
+    "title": "LinkedIn sues software company allegedly scraping data from profiles",
+    "url": "https://therecord.media/linkedin-sues-data-scraping-company",
+    "id_key": "671d20b204580faf6a1df6bb3ac6529b03e5a5e4ef4aadec44fca48b25eb539f",
+    "summary": "Comments",
+    "ingested_utc": "2025-10-03T19:24:41Z"
+  },
+  {
+    "published_utc": "2025-10-03",
+    "retrieved_date": "2025-10-03",
+    "retrieved_utc": "2025-10-03T19:24:25Z",
+    "source": "FinancialPost_Business",
+    "title": "Greystar and other landlords agree to a $141M deal to settle a rent-setting lawsuit",
+    "url": "https://financialpost.com/pmn/greystar-and-other-landlords-agree-to-a-141m-deal-to-settle-a-rent-setting-lawsuit",
+    "id_key": "1d017e8490229d7a95f78503f8f136b8d6593244e0198e6856341d7395ea5911",
+    "summary": "ATLANTA (AP) — Real estate giant Greystar and 25 other property management companies have agreed to collectively pay more than $141 million to settle a class action lawsuit accusing landlords of driving up housing costs by using rent-setting algorithms offered by the software company RealPage. Greystar, the nation’s largest landlord, would pay $50 million under […]",
+    "ingested_utc": "2025-10-03T19:24:25Z"
+  },
+  {
+    "published_utc": "2025-10-03",
+    "retrieved_date": "2025-10-03",
+    "retrieved_utc": "2025-10-03T19:24:25Z",
+    "source": "FinancialPost_Business",
+    "title": "Palantir rebuts claims of security flaws after stock falls",
+    "url": "https://financialpost.com/technology/tech-news/palantir-rebuts-security-flaws-after-stock-falls",
+    "id_key": "8159f5c54fa7a3485f300c50305b468b42ed40782ff8db5e38a7f6d394fef1d4",
+    "summary": "The U.S. Army stressed that finding security vulnerabilities was an important part of integrating advanced technology",
+    "ingested_utc": "2025-10-03T19:24:25Z"
+  },
+  {
+    "published_utc": "2025-10-03",
+    "retrieved_date": "2025-10-03",
+    "retrieved_utc": "2025-10-03T19:24:19Z",
+    "source": "AlJazeera_All",
+    "title": "UK police want to stop Palestine protest after deadly synagogue attack",
+    "url": "https://www.aljazeera.com/video/newsfeed/2025/10/3/uk-police-want-to-stop-palestine-protest-after-deadly-synagogue-attack?traffic_source=rss",
+    "id_key": "8e82b6d0a51e93ddc24eab1ba17d0814d6168f8b4c6836245fc7843c566d2374",
+    "summary": "UK police are urging organisers to cancel a pro-Palestine protest in London on Saturday after a deadly synagogue attack.",
+    "ingested_utc": "2025-10-03T19:24:19Z"
+  },
+  {
+    "published_utc": "2025-10-03",
+    "retrieved_date": "2025-10-03",
+    "retrieved_utc": "2025-10-03T19:24:19Z",
+    "source": "AlJazeera_All",
+    "title": "Apple pulls ICEBlock from App Store following US government pressure",
+    "url": "https://www.aljazeera.com/news/2025/10/3/apple-pulls-iceblock-from-app-store-following-us-government-pressure?traffic_source=rss",
+    "id_key": "e0f2f26c67af501d7d643d8c86a833888534a8b3a09255694cba76abb63a3fac",
+    "summary": "Developpers deny the Trump administration's accusations that the app put ICE agents at risk, pledging to 'resist'.",
+    "ingested_utc": "2025-10-03T19:24:19Z"
+  },
+  {
+    "published_utc": "2025-10-03",
+    "retrieved_date": "2025-10-03",
+    "retrieved_utc": "2025-10-03T19:24:06Z",
+    "source": "TheVerge_All",
+    "title": "Unity discloses a years-old security exploit and urges developers to update their games",
+    "url": "https://www.theverge.com/news/791609/unity-security-exploit-developers-update-games",
+    "id_key": "ccc52d29e804d899aeeb7205e45f109bffb5202ea1dbcfcae5f7b6837d96d447",
+    "summary": "Unity is urging developers to take “immediate action” after it disclosed a major security vulnerability affecting games built using versions of its popular development tool dating back to 2017. While there is “no evidence of any exploitation of the vulnerability, nor has there been any impact on users or customers,” Unity already has fixes available […]",
+    "ingested_utc": "2025-10-03T19:24:06Z"
+  },
+  {
+    "published_utc": "2025-10-03",
+    "retrieved_date": "2025-10-03",
+    "retrieved_utc": "2025-10-03T19:23:40Z",
+    "source": "NYTimes_World",
+    "title": "How Trump Used Fury Over Israel’s Qatar Attack to Push Netanyahu on Gaza",
+    "url": "https://www.nytimes.com/2025/10/03/us/politics/trump-israel-qatar-gaza.html",
+    "id_key": "1bf7ac90672bb327fdd11d0908ab05362e21a95749830b0792a022d37eb2f5c8",
+    "summary": "President Trump unveiled a proposal to end the war in Gaza and gave Hamas until Sunday to agree, after which he has said that Israel would have his “full backing” to eliminate Hamas.",
+    "ingested_utc": "2025-10-03T19:23:40Z"
+  },
+  {
+    "published_utc": "2025-10-03",
+    "retrieved_date": "2025-10-03",
+    "retrieved_utc": "2025-10-03T19:23:39Z",
+    "source": "NYTimes_Business",
+    "title": "Kennedy’s Ties to Ally Leading Vaccine Lawsuits Raise Ethical Concerns",
+    "url": "https://www.nytimes.com/2025/10/03/health/kennedy-aaron-siri-vaccines-lawsuits.html",
+    "id_key": "2caf26914ddd96420c98ee49877225016092e1811a94ead984eaacaa907074dc",
+    "summary": "Aaron Siri is leading legal efforts on policies that dovetail with parts of Health Secretary Robert F. Kennedy Jr.’s government agenda.",
+    "ingested_utc": "2025-10-03T19:23:39Z"
+  },
+  {
+    "published_utc": "2025-10-03",
+    "retrieved_date": "2025-10-03",
+    "retrieved_utc": "2025-10-03T19:21:26Z",
+    "source": "Guardian_World",
+    "title": "US government shutdown: Senate rejects both funding bills again; White House threatens Portland aid cuts – live",
+    "url": "https://www.theguardian.com/us-news/live/2025/oct/03/shutdown-congress-trump-senate-latest-updates",
+    "id_key": "411b8f30dda94d53766005d64d2dbff19461b950596843307606a9bbf33b0711",
+    "summary": "Both Democrat and Republican stopgap bills fail; Karoline Leavitt suggests state supports anarchy as White House continues to blame Democrats for shutdown US government shutdown day three: Republicans and Democrats make little progress on deal Trump administration freezes $2.1bn in funds for Chicago transit projects As the world waits for Hamas’s response to Donald Trump’s peace plan for Gaza , the US president has issued a new deadline for the militant group of 6pm ET on Sunday . Trump, who on Monday gave Hamas “three or four days” to respond to his ultimatum, said they were being given “one last chance”. He wrote on his Truth Social platform this morning: Every Country has signed on! If this LAST CHANCE agreement is not reached, all HELL, like no one has ever seen before, will break out against Hamas . Continue reading...",
+    "ingested_utc": "2025-10-03T19:21:26Z"
+  },
+  {
+    "published_utc": "2025-10-03",
+    "retrieved_date": "2025-10-03",
     "retrieved_utc": "2025-10-03T19:11:33Z",
     "source": "FinancialPost_Business",
     "title": "MAK Acquisition Corp. Files Preliminary Prospectus for Proposed Initial Public Offering",
@@ -10899,104 +10998,5 @@
     "id_key": "8aa0016dff57b2a7a3c4b3cc5dfc379ef4d38f3ae81a7bbeb4287c36adef0000",
     "summary": "Bullish has officially entered the US market, launching operations in 20 states after securing a BitLicense license from New York regulators. The post Crypto Exchange Bullish Launches in 20 US States After Securing New York BitLicense appeared first on Cryptonews .",
     "ingested_utc": "2025-10-02T06:45:48Z"
-  },
-  {
-    "published_utc": "2025-10-02",
-    "retrieved_date": "2025-10-02",
-    "retrieved_utc": "2025-10-02T06:45:48Z",
-    "source": "CryptoNews",
-    "title": "Thailand Plans To Expand Crypto ETF Lineup To Include Altcoins",
-    "url": "https://cryptonews.com/news/thailand-plans-to-expand-crypto-etf-lineup-include-altcoins/",
-    "id_key": "3431dc47d13b4af1bc730f1cbb63fa337b5f69f9b632c06e9202a7b362065ce7",
-    "summary": "Thailand plans to expand its crypto ETF market beyond Bitcoin to include multiple tokens, with new rules expected early next year. The post Thailand Plans To Expand Crypto ETF Lineup To Include Altcoins appeared first on Cryptonews .",
-    "ingested_utc": "2025-10-02T06:45:48Z"
-  },
-  {
-    "published_utc": "2025-10-02",
-    "retrieved_date": "2025-10-02",
-    "retrieved_utc": "2025-10-02T06:19:26Z",
-    "source": "FinancialPost_Business",
-    "title": "Universe of Existence, Universe of Perception: teamLab Biovortex Kyoto Opening on October 7, 2025. Fully Unveiled",
-    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/universe-of-existence-universe-of-perception-teamlab-biovortex-kyoto-opening-on-october-7-2025-fully-unveiled",
-    "id_key": "959bccb7a38f3e94942e4d4727f3733fcf9da8a62a69b61e08634fce6bb54259",
-    "summary": "KYOTO, Japan — teamLab Biovortex Kyoto, art collective teamLab’s permanent art museum, is set to open in Minami-ku, Kyoto, as part of the Kyoto Station Southeast Area Project on October 7, 2025. This museum, located within walking distance of Kyoto Station, will be teamLab’s largest exhibition in Japan, spanning over 10,000 square meters. The […]",
-    "ingested_utc": "2025-10-02T06:19:26Z"
-  },
-  {
-    "published_utc": "2025-10-02",
-    "retrieved_date": "2025-10-02",
-    "retrieved_utc": "2025-10-02T06:19:26Z",
-    "source": "FinancialPost_Business",
-    "title": "Syncron Recognized as a Major Player in IDC MarketScape for Worldwide AI-Enabled Aftermarket/Service Life-Cycle Management Platforms",
-    "url": "https://financialpost.com/globe-newswire/syncron-recognized-as-a-major-player-in-idc-marketscape-for-worldwide-ai-enabled-aftermarket-service-life-cycle-management-platforms",
-    "id_key": "4230747828cb14bab8769f66e351650f6b5d2197641682d025dd89a61539c536",
-    "summary": "STOCKHOLM, Oct. 02, 2025 (GLOBE NEWSWIRE) — Syncron, a global leader in intelligent aftermarket Service Lifecycle Management (SLM) solutions, today announced it has been named a Major Player in the IDC MarketScape: Worldwide AI-Enabled Aftermarket/ Service Life-Cycle Management Platforms 2025 Vendor Assessment (Doc US52968025, September 2025). For this IDC MarketScape, all 13 vendors either directly […]",
-    "ingested_utc": "2025-10-02T06:19:26Z"
-  },
-  {
-    "published_utc": "2025-10-02",
-    "retrieved_date": "2025-10-02",
-    "retrieved_utc": "2025-10-02T05:50:35Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "Chinese carmakers diverge in Russia under sanctions, protectionism",
-    "url": "https://asia.nikkei.com/business/automobiles/chinese-carmakers-diverge-in-russia-under-sanctions-protectionism",
-    "id_key": "880f12cf37cc8538493664f8651b30dce4bdcaa917d060de6616ceada10af2b9",
-    "summary": "",
-    "ingested_utc": "2025-10-02T05:50:35Z"
-  },
-  {
-    "published_utc": "2025-10-02",
-    "retrieved_date": "2025-10-02",
-    "retrieved_utc": "2025-10-02T05:32:39Z",
-    "source": "FinancialPost_Business",
-    "title": "Behind bars but not silenced: Veteran Turkish columnist perseveres through ‘prison journalism’",
-    "url": "https://financialpost.com/pmn/behind-bars-but-not-silenced-veteran-turkish-columnist-perseveres-through-prison-journalism",
-    "id_key": "11ee704d4c37db0339b8c10d4c297d3d84e4e7a7f7355dab9eeec096c7c1c53a",
-    "summary": "ANKARA, Turkey (AP) — Turkish journalist Fatih Altayli has been imprisoned, but his reporting remains defiantly alive. From behind bars, the veteran journalist delivers news and sharp political commentary on his YouTube channel through letters relayed by his lawyers. The letters are read aloud by an assistant in an initiative Altayli’s peers have dubbed “prison […]",
-    "ingested_utc": "2025-10-02T05:32:39Z"
-  },
-  {
-    "published_utc": "2025-10-02",
-    "retrieved_date": "2025-10-02",
-    "retrieved_utc": "2025-10-02T05:29:37Z",
-    "source": "Guardian_World",
-    "title": "UK fifth-worst country in Europe for loss of green space to development",
-    "url": "https://www.theguardian.com/environment/2025/oct/02/uk-fifth-worst-country-in-europe-for-loss-of-green-space-to-development",
-    "id_key": "c53cacb9a490a9360bd255a38b155195e9f1484c800254eda35542723ffc3554",
-    "summary": "Exclusive: 1,680 football pitches of protected natural land in England, Wales and Northern Ireland lost in five years ‘Desecration of landscape’: the fight over development in areas of outstanding natural beauty Revealed: Europe losing 600 football pitches of nature and crop land a day Nature and farmland equivalent in size to that of the New Forest – 604 sq km – was lost to concrete and bricks and mortar in the UK between 2018 and 2023, according to an investigation by the Guardian and European partners. In the same period the loss of some of the most protected and special natural areas in England, Wales and Northern Ireland, known as national landscapes, reached 12 sq km; equivalent to 1,680 football pitches worth of natural land. Continue reading...",
-    "ingested_utc": "2025-10-02T05:29:37Z"
-  },
-  {
-    "published_utc": "2025-10-02",
-    "retrieved_date": "2025-10-02",
-    "retrieved_utc": "2025-10-02T05:29:37Z",
-    "source": "Guardian_World",
-    "title": "Europe’s air safety at risk amid cost-cutting and staff pressures, study warns",
-    "url": "https://www.theguardian.com/global/2025/oct/02/europes-air-safety-at-risk-amid-cost-cutting-and-staff-pressures-study-warns",
-    "id_key": "1314fc78dc823dd5e1951a95f1026f2c643da89c81fbda5d2cf35fba02f99185",
-    "summary": "Researchers find profit chasing has ‘systematically weakened’ safety and workers feel unable to challenge decisions Airline industry workers: share your experiences Pilots and cabin crew at European airlines feel increasingly under pressure to work long hours and hide signs of tiredness at the expense of safety, according to a major study. Cost cutting and profit chasing at airlines has “systemically weakened” safety, and many exhausted employees feel too intimidated to challenge management decisions, the research by Ghent University in Belgium found. Continue reading...",
-    "ingested_utc": "2025-10-02T05:29:37Z"
-  },
-  {
-    "published_utc": "2025-10-02",
-    "retrieved_date": "2025-10-02",
-    "retrieved_utc": "2025-10-02T05:29:37Z",
-    "source": "Guardian_World",
-    "title": "‘Desecration of landscape’: the fight over development in areas of outstanding natural beauty",
-    "url": "https://www.theguardian.com/environment/2025/oct/02/woodgate-estate-west-sussex-development-areas-of-outstanding-natural-beauty",
-    "id_key": "9d2956a08701233ab65eb21923df6c2ea4134b618002eca92df15c05e1428cad",
-    "summary": "Residents of Woodgate estate in West Sussex enjoy its open spaces and wildlife but conservationists say it has set worrying precedent UK fifth-worst country in Europe for loss of green space to development Revealed: Europe losing 600 football pitches of nature and crop land a day A flock of goldfinches circle before settling on a rooftop as Sue takes her morning walk around the Woodgate estate in Pease Pottage, West Sussex. Rounding a corner, she reaches a large wildlife pond where eight signets and a swan are feeding. Dragonflies circle overhead. For the last three years, the estate a few miles south of Crawley built within the High Weald area of outstanding natural beauty (AONB) has been Sue’s home. Her son and daughter-in-law also live on the estate, where the 600 homes range from shared ownership flats to £1.4m luxury detached houses. Continue reading...",
-    "ingested_utc": "2025-10-02T05:29:37Z"
-  },
-  {
-    "published_utc": "2025-10-02",
-    "retrieved_date": "2025-10-02",
-    "retrieved_utc": "2025-10-02T05:29:37Z",
-    "source": "Guardian_World",
-    "title": "Weatherwatch: AI flood forecasting gives hope to people in vulnerable areas",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/02/weatherwatch-ai-flood-forecasting-gives-hope-to-people-in-vulnerable-areas",
-    "id_key": "6c39fc00b54cd9a339f002407340005217534197ce67e94b6c8ad51c77119b67",
-    "summary": "Researchers say machine learning tool can help boost flood prediction accuracy as much as sixfold Just over a week ago, Super Typhoon Ragasa ripped through communities in the Philippines, Taiwan, Hong Kong and southern China. In Taiwan, a lake burst resulted in a deadly wall of water pouring down a mountain, killing at least 14 people, injuring 18 and leaving 33 people unaccounted for. Now, a new AI flood forecasting tool is giving hope that earlier warnings can be given and lives saved. Continue reading...",
-    "ingested_utc": "2025-10-02T05:29:37Z"
   }
 ]
