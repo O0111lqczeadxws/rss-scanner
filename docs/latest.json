@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-10-03",
     "retrieved_date": "2025-10-03",
+    "retrieved_utc": "2025-10-03T23:50:04Z",
+    "source": "NPR_Top",
+    "title": "Legal experts condemn Apple bowing to White House's request to remove ICE tracking app",
+    "url": "https://www.npr.org/2025/10/03/nx-s1-5561999/apple-google-iceblock-app-removal",
+    "id_key": "ff221eb679745ba69f52b40744a4826d011d301e3798ffbc135d7b1a9ec565b3",
+    "summary": "It's the latest example of tech giants bowing to pressure from the Trump administration. Legal experts say the developer of the app has free speech rights that may have been violated.",
+    "ingested_utc": "2025-10-03T23:50:04Z"
+  },
+  {
+    "published_utc": "2025-10-03",
+    "retrieved_date": "2025-10-03",
+    "retrieved_utc": "2025-10-03T23:47:38Z",
+    "source": "Guardian_World",
+    "title": "Tesla hit with second lawsuit over deadly California Cybertruck crash",
+    "url": "https://www.theguardian.com/technology/2025/oct/03/tesla-california-cybertruck-crash-lawsuit",
+    "id_key": "74ca5f93afc7bea66f810cfcf2a776ec363cbed111ac730de48aa4e73202d7b3",
+    "summary": "Parents of another victim of 2024 crash say ‘catastrophic’ design flaw to blame for deaths of three people Tesla is being sued by the parents of a another victim killed in a Cybertruck crash in the quiet town of Piedmont, California. This is the second suit filed against the car maker this week alleging a design flaw in its vehicle is to blame for the deaths of the passengers involved in the accident, according to court filings. The parents of Jack Nelson allege that the company that helped Elon Musk become the world’s richest man knew about the flaw for years and could have moved faster to fix the problem but did not, leaving the passengers trapped amid flames and smoke that eventually killed them. Continue reading...",
+    "ingested_utc": "2025-10-03T23:47:38Z"
+  },
+  {
+    "published_utc": "2025-10-03",
+    "retrieved_date": "2025-10-03",
     "retrieved_utc": "2025-10-03T23:32:56Z",
     "source": "Guardian_World",
     "title": "One person dead and thousands of homes without power as Storm Amy arrives",
@@ -10976,27 +10998,5 @@
     "id_key": "b0eae127867b4130438c267dfc8df0d6550db6748f19a897af9bd2988146e99b",
     "summary": "Suspect also thought to be dead after suspected terror attack that left three more people in serious condition Manchester synagogue stabbing – latest updates Two people have died and three remain in a serious condition after a suspected terror attack outside a synagogue in Crumpsall by a man believed to have been shot dead by police, Greater Manchester police said. Police shot the suspect after one person was stabbed and a car was driven at members of the public at the Heaton Park Hebrew Congregation synagogue. Continue reading...",
     "ingested_utc": "2025-10-02T11:47:11Z"
-  },
-  {
-    "published_utc": "2025-10-02",
-    "retrieved_date": "2025-10-02",
-    "retrieved_utc": "2025-10-02T11:47:08Z",
-    "source": "BBC_World",
-    "title": "First killings in Morocco since Gen Z protests erupted",
-    "url": "https://www.bbc.com/news/articles/cgrqpekyxpvo?at_medium=RSS&at_campaign=rss",
-    "id_key": "78f043c7c86d16c8202e792864ba6f0a542592c1d84d26ce629567898d598a34",
-    "summary": "Police say they shot dead two people who were part of a crowd trying to storm a police station.",
-    "ingested_utc": "2025-10-02T11:47:08Z"
-  },
-  {
-    "published_utc": "2025-10-02",
-    "retrieved_date": "2025-10-02",
-    "retrieved_utc": "2025-10-02T11:36:19Z",
-    "source": "FinancialPost_Business",
-    "title": "nCino advances AI for mortgage lending with powerful new capabilities",
-    "url": "https://financialpost.com/globe-newswire/ncino-advances-ai-for-mortgage-lending-with-powerful-new-capabilities",
-    "id_key": "d87987fe4149577460b717e0c2f5305b2d98bc4391d1c676ccc189e2fbcde68c",
-    "summary": "New and expanded AI-driven features deliver faster borrower feedback, cleaner loan files and more capacity for loan officers WILMINGTON, N.C., Oct. 02, 2025 (GLOBE NEWSWIRE) — nCino, Inc. (NASDAQ: NCNO), the leading provider of intelligent, best-in-class banking solutions, today announced a new wave of mortgage-focused AI innovations designed to accelerate loan origination, reduce underwriting touches and […]",
-    "ingested_utc": "2025-10-02T11:36:19Z"
   }
 ]
