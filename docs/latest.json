@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-10-04",
     "retrieved_date": "2025-10-04",
+    "retrieved_utc": "2025-10-04T05:31:02Z",
+    "source": "FT_Home",
+    "title": "Lloyds stumbles in its wealth management dash for cash",
+    "url": "https://www.ft.com/content/5cf7fbb4-d8e3-4e39-913c-da2fd8fba343",
+    "id_key": "7a607c325393a43cf445da823213c91e8699ad339b0a801c430dd858717b8249",
+    "summary": "Bank’s joint venture with Schroders was hampered from the start, though neither is giving up on the sector",
+    "ingested_utc": "2025-10-04T05:31:02Z"
+  },
+  {
+    "published_utc": "2025-10-04",
+    "retrieved_date": "2025-10-04",
+    "retrieved_utc": "2025-10-04T05:28:39Z",
+    "source": "Guardian_World",
+    "title": "Rachel Reeves urged to break manifesto pledges to avoid ‘pasty tax’ budget",
+    "url": "https://www.theguardian.com/uk-news/2025/oct/04/rachel-reeves-urged-to-break-manifesto-pledges-to-avoid-pasty-tax-budget",
+    "id_key": "3cb7532a13f81e1d222ba354b4aad46c36323fdb7e03d264e8c5a6028b738691",
+    "summary": "Labour colleagues advise chancellor against string of small money-raising measures, as OBR presents forecast Some of Rachel Reeves’s Labour colleagues have urged her to ditch the party’s manifesto promises rather than risk a “pasty tax” budget that raises money through a string of small measures. As the independent Office for Budget Responsibility (OBR) presented its first fiscal forecast to the Treasury on Friday, several sources said there was tension within the government over the manifesto pledges. Continue reading...",
+    "ingested_utc": "2025-10-04T05:28:39Z"
+  },
+  {
+    "published_utc": "2025-10-04",
+    "retrieved_date": "2025-10-04",
     "retrieved_utc": "2025-10-04T05:13:48Z",
     "source": "HackerNews_Top",
     "title": "Toyota runs a car-hacking event to boost security (2024)",
@@ -10976,27 +10998,5 @@
     "id_key": "fbcf3db967c21b68d8c028da2adddc794683d9d30f440507d612aee3b9438a18",
     "summary": "Chancellor Rachel Reeves will set out her economic plans in her second Budget on 26 November.",
     "ingested_utc": "2025-10-02T13:28:25Z"
-  },
-  {
-    "published_utc": "2025-10-02",
-    "retrieved_date": "2025-10-02",
-    "retrieved_utc": "2025-10-02T13:04:10Z",
-    "source": "MIT_TechReview",
-    "title": "The Download: RIP EV tax credits, and OpenAI’s new valuation",
-    "url": "https://www.technologyreview.com/2025/10/02/1124684/the-download-rip-ev-tax-credits-and-openais-new-valuation/",
-    "id_key": "a0a613c0aa16aaf5db2b419df8977e510bcb0657724c70600a05e2ac779f83e7",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. EV tax credits are dead in the US. Now what? Federal EV tax credits in the US officially came to an end yesterday. Those credits, expanded and extended in the 2022 Inflation Reduction…",
-    "ingested_utc": "2025-10-02T13:04:10Z"
-  },
-  {
-    "published_utc": "2025-10-02",
-    "retrieved_date": "2025-10-02",
-    "retrieved_utc": "2025-10-02T13:03:54Z",
-    "source": "FinancialPost_Business",
-    "title": "Kuwait Said to Tap JPMorgan for Up to $7 Billion Pipeline Deal",
-    "url": "https://financialpost.com/pmn/business-pmn/kuwait-said-to-tap-jpmorgan-for-up-to-7-billion-pipeline-deal",
-    "id_key": "9ae03769546407d72d10d8001baed732f8d9c9e3808b5d666a073d2356fcc343",
-    "summary": "Kuwait Petroleum Corp. is hiring JPMorgan Chase & Co. to help lease part of its pipeline network, according to people familiar with the matter.",
-    "ingested_utc": "2025-10-02T13:03:54Z"
   }
 ]
