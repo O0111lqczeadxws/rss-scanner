@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-10-04",
     "retrieved_date": "2025-10-04",
+    "retrieved_utc": "2025-10-04T22:39:50Z",
+    "source": "AlJazeera_All",
+    "title": "Israel pounds Gaza, killing 70, despite Trump’s call for it to halt bombing",
+    "url": "https://www.aljazeera.com/news/2025/10/4/israel-pounds-gaza-killing-61-despite-trumps-call-for-it-to-halt-bombing?traffic_source=rss",
+    "id_key": "80801869a6aa9e16774623307c2823d2062b2b432ff5d8a52e7c480977282590",
+    "summary": "Donald Trump urges Hamas to move quickly to release captives and finalise negotiations over his plan to end the war.",
+    "ingested_utc": "2025-10-04T22:39:50Z"
+  },
+  {
+    "published_utc": "2025-10-04",
+    "retrieved_date": "2025-10-04",
     "retrieved_utc": "2025-10-04T22:30:11Z",
     "source": "NYTimes_World",
     "title": "Hamas Partially Accepts Trump’s Peace Plan",
@@ -10987,16 +10998,5 @@
     "id_key": "d6cc854d8aed519c1b24e97aea07086773e2bdd049fee733db135a80bf9cb1b0",
     "summary": "A team at Microsoft says it used artificial intelligence to discover a “zero day” vulnerability in the biosecurity systems used to prevent the misuse of DNA. These screening systems are designed to stop people from purchasing genetic sequences that could be used to create deadly toxins or pathogens. But now researchers led by Microsoft’s chief…",
     "ingested_utc": "2025-10-02T18:18:48Z"
-  },
-  {
-    "published_utc": "2025-10-02",
-    "retrieved_date": "2025-10-02",
-    "retrieved_utc": "2025-10-02T18:18:33Z",
-    "source": "FinancialPost_Business",
-    "title": "BOC Suggests Markets Too Focused on Its Core Inflation Gauges",
-    "url": "https://financialpost.com/pmn/business-pmn/boc-suggests-markets-too-focused-on-its-core-inflation-gauges",
-    "id_key": "63958425183c97018447907e2a9524905132e5d528e0e3bdd4590ebe21e59819",
-    "summary": "The Bank of Canada continued to fade its preferred measures of underlying price pressures, saying it’s weighing a broader suite of gauges that suggest core inflation is closer to its 2% target.",
-    "ingested_utc": "2025-10-02T18:18:33Z"
   }
 ]
