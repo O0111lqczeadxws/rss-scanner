@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-10-04",
     "retrieved_date": "2025-10-04",
+    "retrieved_utc": "2025-10-04T15:35:17Z",
+    "source": "NYTimes_World",
+    "title": "Trump’s Gaza Peace Plan: What to Know",
+    "url": "https://www.nytimes.com/2025/10/04/world/middleeast/hamas-trump-gaza-deal.html",
+    "id_key": "986201ad4a60f0a22e3db9f95bf5c50ed178fb3b6bbbce8f8b36d01109c0ad37",
+    "summary": "Israel and Hamas said they would work with President Trump’s plan to end the war, but a number of sticking points could derail efforts to make a diplomatic breakthrough.",
+    "ingested_utc": "2025-10-04T15:35:17Z"
+  },
+  {
+    "published_utc": "2025-10-04",
+    "retrieved_date": "2025-10-04",
     "retrieved_utc": "2025-10-04T15:28:38Z",
     "source": "HackerNews_Top",
     "title": "Thunderscan: A clever device transforms a printer into a scanner (2004)",
@@ -10987,16 +10998,5 @@
     "id_key": "379dff54a2b9945ef96d1283a9c165678690e287489ed3712e0b127cc99b9c77",
     "summary": "Republicans and Democrats engage in war of words as White House also uses impasse to cut government spending US government shutdown – latest updates As the US government shutdown stretched into its second day, Donald Trump on Thursday hailed the funding lapse as an “unprecedented opportunity” to further his campaign of firing federal workers and downsizing departments. The president announced on social media that he would sit down with Russell Vought, the White House office of management and budget chief, an architect of the mass firings and buyouts of federal workers. Continue reading...",
     "ingested_utc": "2025-10-02T16:15:07Z"
-  },
-  {
-    "published_utc": "2025-10-02",
-    "retrieved_date": "2025-10-02",
-    "retrieved_utc": "2025-10-02T16:13:56Z",
-    "source": "Lido_Blog",
-    "title": "Community Staking Module v2 Launch: Scaling Permissionless Staking, Empowering Community Stakers",
-    "url": "https://blog.lido.fi/community-staking-module-v2-launch-scaling-permissionless-staking-empowering-community-stakers/",
-    "id_key": "e4eaa6b35afe07fcdd720f7ee7fcd890c8dd20ef614fb7eb1cfb3b86f416b710",
-    "summary": "Lido Community Staking Module (CSM) v2 is here!",
-    "ingested_utc": "2025-10-02T16:13:56Z"
   }
 ]
