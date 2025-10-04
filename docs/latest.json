@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-10-04",
     "retrieved_date": "2025-10-04",
+    "retrieved_utc": "2025-10-04T19:50:40Z",
+    "source": "FinancialPost_Business",
+    "title": "Sharjah Ruler Opens Centre for Arabic Studies in Portugal",
+    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/sharjah-ruler-opens-centre-for-arabic-studies-in-portugal",
+    "id_key": "7d11e18c737ed20aa7d3cb1d02463682de203b46c7bb53344f7ffacccb105178",
+    "summary": "COIMBRA, Portugal — His Highness Sheikh Dr Sultan bin Mohammed Al Qasimi, Supreme Council Member and Ruler of Sharjah, opened the Centre for Arabic Studies at the University of Coimbra in Portugal, in the presence of Her Highness Sheikha Bodour bint Sultan Al Qasimi, Chairperson of the Sharjah Book Authority (SBA). His Highness also launched […]",
+    "ingested_utc": "2025-10-04T19:50:40Z"
+  },
+  {
+    "published_utc": "2025-10-04",
+    "retrieved_date": "2025-10-04",
+    "retrieved_utc": "2025-10-04T19:48:00Z",
+    "source": "CryptoBriefing",
+    "title": "MetaMask to distribute $30 million in LINEA token rewards",
+    "url": "https://cryptobriefing.com/metamask-airdrop-point-system-linea-users-bonus/",
+    "id_key": "51a48f4a804cb71735c741fa792ddd0e013f1dbb471c9154afe4ddb1d1eb7f0b",
+    "summary": "MetaMask's $30M LINEA token rewards could enhance user engagement and adoption, potentially driving broader crypto wallet ecosystem growth. The post MetaMask to distribute $30 million in LINEA token rewards appeared first on Crypto Briefing .",
+    "ingested_utc": "2025-10-04T19:48:00Z"
+  },
+  {
+    "published_utc": "2025-10-04",
+    "retrieved_date": "2025-10-04",
     "retrieved_utc": "2025-10-04T19:24:17Z",
     "source": "TheStreet_Top",
     "title": "Discount supermarket chain closes nearly all of its locations",
@@ -10976,27 +10998,5 @@
     "id_key": "5b481e896c1c3ada0baf09878be69ef64eca7f700cf09f63612a4ca53012dde8",
     "summary": "Amazon has announced a new shopping feature for US Prime members called Add to Delivery that lets you add additional items to completed orders that have yet to be delivered, instead of having to create an entirely new order. The feature is only available on Amazon’s app and on Amazon.com when accessed on mobile devices, […]",
     "ingested_utc": "2025-10-02T17:39:01Z"
-  },
-  {
-    "published_utc": "2025-10-02",
-    "retrieved_date": "2025-10-02",
-    "retrieved_utc": "2025-10-02T17:36:39Z",
-    "source": "CryptoNews",
-    "title": "CME Group to Launch 24/7 Crypto Futures and Options Trading in Early 2026",
-    "url": "https://cryptonews.com/news/cme-group-to-launch-24-7-crypto-futures-and-options-trading-in-early-2026/",
-    "id_key": "d9d6895b608f9970e02047839ed0afa47dafdab9e65b66c9b7e3ee89c6db72a2",
-    "summary": "CME Group has announced that cryptocurrency futures and options will trade 24/7 from early 2026, subject to regulatory review. The move has followed rising client demand and a record 2025, including peak notional open interest of $39B and strong growth in average daily open interest and volume. The post CME Group to Launch 24/7 Crypto Futures and Options Trading in Early 2026 appeared first on Cryptonews .",
-    "ingested_utc": "2025-10-02T17:36:39Z"
-  },
-  {
-    "published_utc": "2025-10-02",
-    "retrieved_date": "2025-10-02",
-    "retrieved_utc": "2025-10-02T17:36:33Z",
-    "source": "Blockworks",
-    "title": "Lighter opens public mainnet with Ethereum-settled zk perps",
-    "url": "https://blockworks.co/news/lighter-opens-public-mainnet",
-    "id_key": "d42a18b78007725287eebc795a2610ff8c163cfdcb53431a212b4251efec1cec",
-    "summary": "The perp DEX verifies matching and liquidations with custom zero-knowledge circuits and keeps user assets on Ethereum",
-    "ingested_utc": "2025-10-02T17:36:33Z"
   }
 ]
