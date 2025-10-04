@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-10-04",
     "retrieved_date": "2025-10-04",
+    "retrieved_utc": "2025-10-04T21:35:24Z",
+    "source": "NYTimes_World",
+    "title": "Trapped in the Homes They Thought Would Protect Them",
+    "url": "https://www.nytimes.com/2025/10/04/world/asia/cebu-earthquake-philippines.html",
+    "id_key": "e0b5fcbabb52f8b7f6b1da8f865a6886e3b0beb70e1fed72f10777cbfee61b4e",
+    "summary": "Some victims of the Cebu earthquake in the Philippines lived in homes that were supposed to withstand natural disasters.",
+    "ingested_utc": "2025-10-04T21:35:24Z"
+  },
+  {
+    "published_utc": "2025-10-04",
+    "retrieved_date": "2025-10-04",
     "retrieved_utc": "2025-10-04T21:26:31Z",
     "source": "Engadget_All",
     "title": "Kingmakers, the medieval battle game with modern weapons, has been delayed",
@@ -10987,16 +10998,5 @@
     "id_key": "3316aa643071dd22448a927a36308471ebeef34f7c53a9bdf12d10a6b0f49af1",
     "summary": "Gen Z-led protests in two diverse African countries highlight frustration over years of poor governance. Fueled by social media, these youth movements are demanding accountability.",
     "ingested_utc": "2025-10-02T18:17:56Z"
-  },
-  {
-    "published_utc": "2025-10-02",
-    "retrieved_date": "2025-10-02",
-    "retrieved_utc": "2025-10-02T18:17:54Z",
-    "source": "NPR_Top",
-    "title": "AI designs for dangerous DNA can slip past biosecurity measures, study shows",
-    "url": "https://www.npr.org/2025/10/02/nx-s1-5558145/ai-artificial-intelligence-dangerous-proteins-biosecurity",
-    "id_key": "5a0f8d688739ea241fe4044b02cdb1d99be13585c1a62869dc2cfd9a8aff2d89",
-    "summary": "Companies that make DNA for science labs screen out any requests for dangerous bits of genetic material. But a new study shows how AI could help malevolent actors get the stuff anyway.",
-    "ingested_utc": "2025-10-02T18:17:54Z"
   }
 ]
