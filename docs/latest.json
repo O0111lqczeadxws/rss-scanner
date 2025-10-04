@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-10-04",
     "retrieved_date": "2025-10-04",
+    "retrieved_utc": "2025-10-04T21:50:15Z",
+    "source": "AlJazeera_All",
+    "title": "Israel pounds Gaza, killing 61, despite Trump’s call for it to halt bombing",
+    "url": "https://www.aljazeera.com/news/2025/10/4/israel-pounds-gaza-killing-61-despite-trumps-call-for-it-to-halt-bombing?traffic_source=rss",
+    "id_key": "ab256af047f9c6d43c5ad3c4ed6c4373608cf56eb06c91582015b733c7c3617e",
+    "summary": "Donald Trump urges Hamas to move quickly to release captives and finalise negotiations over his plan to end the war.",
+    "ingested_utc": "2025-10-04T21:50:15Z"
+  },
+  {
+    "published_utc": "2025-10-04",
+    "retrieved_date": "2025-10-04",
     "retrieved_utc": "2025-10-04T21:35:24Z",
     "source": "NYTimes_World",
     "title": "Trapped in the Homes They Thought Would Protect Them",
@@ -10987,16 +10998,5 @@
     "id_key": "2dbc4194a578f3718f901c20bb013806c6f75cd490cb47ed0515af01c80dcb89",
     "summary": "Sadly, the prices of the Xbox Series X and Series S are set to rise in the U.S. starting tomorrow, October 3rd, 2025. That makes today your last chance to snag an Xbox Series S — either the 512GB model for $379.99 (which is even cheaper on sale for $329.99 at Amazon) or the 1TB […]",
     "ingested_utc": "2025-10-02T18:18:13Z"
-  },
-  {
-    "published_utc": "2025-10-02",
-    "retrieved_date": "2025-10-02",
-    "retrieved_utc": "2025-10-02T18:17:56Z",
-    "source": "NPR_World",
-    "title": "From Madagascar to Morocco: Gen Z protests shake Africa",
-    "url": "https://www.npr.org/2025/10/02/nx-s1-5558288/madagascar-morocco-gen-z-protests",
-    "id_key": "3316aa643071dd22448a927a36308471ebeef34f7c53a9bdf12d10a6b0f49af1",
-    "summary": "Gen Z-led protests in two diverse African countries highlight frustration over years of poor governance. Fueled by social media, these youth movements are demanding accountability.",
-    "ingested_utc": "2025-10-02T18:17:56Z"
   }
 ]
