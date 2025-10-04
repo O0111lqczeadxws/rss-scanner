@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-10-04",
     "retrieved_date": "2025-10-04",
+    "retrieved_utc": "2025-10-04T22:30:11Z",
+    "source": "NYTimes_World",
+    "title": "Hamas Partially Accepts Trump’s Peace Plan",
+    "url": "https://www.nytimes.com/video/world/middleeast/100000010438653/hamas-partially-accepts-trumps-peace-plan.html",
+    "id_key": "09c5da29f09648551ef5533eb68d561d7a1d28431549945872a8d8b4a757ec47",
+    "summary": "Hamas said it would release all Israeli hostages but wants to negotiate elements of President Trump’s peace plan for Gaza. Adam Rasgon, a reporter for The New York Times in Jerusalem, explains where negotiations stand.",
+    "ingested_utc": "2025-10-04T22:30:11Z"
+  },
+  {
+    "published_utc": "2025-10-04",
+    "retrieved_date": "2025-10-04",
+    "retrieved_utc": "2025-10-04T22:27:50Z",
+    "source": "BBC_World",
+    "title": "Netanyahu says he hopes to announce hostage release in the 'coming days'",
+    "url": "https://www.bbc.com/news/articles/c5yqv4lz0geo?at_medium=RSS&at_campaign=rss",
+    "id_key": "74f6d128fafe3892f465528dd79acc2ddc8e8f3db992b466e2b7a451fcbfd949",
+    "summary": "Hamas will disarm \"the easy way or the hard way\", Israel's PM says after the group gave its response to a peace plan.",
+    "ingested_utc": "2025-10-04T22:27:50Z"
+  },
+  {
+    "published_utc": "2025-10-04",
+    "retrieved_date": "2025-10-04",
     "retrieved_utc": "2025-10-04T22:12:21Z",
     "source": "HackerNews_Top",
     "title": "Designers Should Look to Demis Hassabis. Not Jony Ive",
@@ -10976,27 +10998,5 @@
     "id_key": "63958425183c97018447907e2a9524905132e5d528e0e3bdd4590ebe21e59819",
     "summary": "The Bank of Canada continued to fade its preferred measures of underlying price pressures, saying it’s weighing a broader suite of gauges that suggest core inflation is closer to its 2% target.",
     "ingested_utc": "2025-10-02T18:18:33Z"
-  },
-  {
-    "published_utc": "2025-10-02",
-    "retrieved_date": "2025-10-02",
-    "retrieved_utc": "2025-10-02T18:18:33Z",
-    "source": "FinancialPost_Business",
-    "title": "Liberty Gold Strengthens Treasury with US$2.2 Million to Advance Black Pine",
-    "url": "https://financialpost.com/globe-newswire/liberty-gold-strengthens-treasury-with-us2-2-million-to-advance-black-pine",
-    "id_key": "fea83b0c6ec3d95ee04634caeeeb3753190918b6f4be466db90725f671e85cba",
-    "summary": "VANCOUVER, British Columbia, Oct. 02, 2025 (GLOBE NEWSWIRE) — Liberty Gold Corp. (TSX: LGD; OTCQX: LGDTF) (“Liberty Gold” or the “Company”), is pleased to announce receipt of the first staged payment of US$2.2 million related to the previously announced sale of its interest in the TV Tower copper-gold project (“TV Tower” or the “Project”), located […]",
-    "ingested_utc": "2025-10-02T18:18:33Z"
-  },
-  {
-    "published_utc": "2025-10-02",
-    "retrieved_date": "2025-10-02",
-    "retrieved_utc": "2025-10-02T18:18:26Z",
-    "source": "TheStreet_Top",
-    "title": "78-year-old furniture retailer shutting down, starts liquidation",
-    "url": "https://www.thestreet.com/retail/nearly-80-year-old-furniture-chain-going-out-of-business-liquidating",
-    "id_key": "f4b4b3ac5c270d0ebf8c0897b0b4529418072eba78f7f8aa18382965996b4153",
-    "summary": "It has been a difficult period for family-owned furniture chains, with many closing their doors forever.",
-    "ingested_utc": "2025-10-02T18:18:26Z"
   }
 ]
