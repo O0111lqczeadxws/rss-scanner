@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-10-04",
     "retrieved_date": "2025-10-04",
+    "retrieved_utc": "2025-10-04T20:30:20Z",
+    "source": "NYTimes_World",
+    "title": "Netanyahu Defends Wartime Leadership, Saying Hostage Deal Is Within Reach",
+    "url": "https://www.nytimes.com/2025/10/04/world/middleeast/netanyahu-defends-wartime-leadership-saying-hostage-deal-is-within-reach.html",
+    "id_key": "6d9b1336b894aea2516e86d9b3debef67ebbc97ac53b0cf00d781b8a10d18e50",
+    "summary": "In a speech that lasted just minutes, the Israeli prime minister boasted that he had defied his critics to secure the release of the remaining hostages in Gaza.",
+    "ingested_utc": "2025-10-04T20:30:20Z"
+  },
+  {
+    "published_utc": "2025-10-04",
+    "retrieved_date": "2025-10-04",
+    "retrieved_utc": "2025-10-04T20:28:11Z",
+    "source": "Guardian_World",
+    "title": "Police make almost 500 arrests at Palestine Action protest in London",
+    "url": "https://www.theguardian.com/world/2025/oct/04/palestine-action-protest-police-arrests-london-demo",
+    "id_key": "0dad82ec7d02a0a8d8b245a467586ae1a978ff2a1365783bbd8db7297c767680",
+    "summary": "Officers arrest activists at silent vigil in support of banned organisation, as demos go ahead despite PM’s pleas Police have arrested almost 500 people in London at what organisers hoped would be the biggest demonstration so far against a ban on the proscribed organisation Palestine Action. Officers began arresting demonstrators at the silent vigil in support of the group, which has been classed by the UK government as a terror organisation since July this year. Continue reading...",
+    "ingested_utc": "2025-10-04T20:28:11Z"
+  },
+  {
+    "published_utc": "2025-10-04",
+    "retrieved_date": "2025-10-04",
     "retrieved_utc": "2025-10-04T20:14:07Z",
     "source": "HackerNews_Top",
     "title": "ProofOfThought: LLM-based reasoning using Z3 theorem proving",
@@ -10976,27 +10998,5 @@
     "id_key": "aee26dd27f795c5e7b124b88132cc561ac77b63415f4cab3ab91f61ff43f3123",
     "summary": "The convenience of this table is priceless.",
     "ingested_utc": "2025-10-02T17:50:27Z"
-  },
-  {
-    "published_utc": "2025-10-02",
-    "retrieved_date": "2025-10-02",
-    "retrieved_utc": "2025-10-02T17:50:18Z",
-    "source": "WIRED_All",
-    "title": "Government Workers Say Their Out-of-Office Replies Were Forcibly Changed to Blame Democrats for Shutdown",
-    "url": "https://www.wired.com/story/government-workers-say-their-out-of-office-replies-were-forcibly-changed-to-blame-democrats-for-shutdown/",
-    "id_key": "32429bae525fd2bb116f1fafce94332118903de590628cf00da78d147a71bf91",
-    "summary": "Some employees at the Department of Education changed their responses back to the more neutral language, only to have it changed yet again to the partisan response, multiple sources tell WIRED.",
-    "ingested_utc": "2025-10-02T17:50:18Z"
-  },
-  {
-    "published_utc": "2025-10-02",
-    "retrieved_date": "2025-10-02",
-    "retrieved_utc": "2025-10-02T17:49:48Z",
-    "source": "NYTimes_World",
-    "title": "Live Updates: 2 Killed in Attack on British Synagogue on Yom Kippur",
-    "url": "https://www.nytimes.com/live/2025/10/02/world/manchester-synagogue-stabbing-uk",
-    "id_key": "7890198ead0cdea6abcf1aedf14a1827ecb853559cb3984b026127fe4d05534d",
-    "summary": "The assailant rammed people with a car and stabbed others with a knife before being fatally shot by the police. The authorities labeled the attack an act of terrorism.",
-    "ingested_utc": "2025-10-02T17:49:48Z"
   }
 ]
