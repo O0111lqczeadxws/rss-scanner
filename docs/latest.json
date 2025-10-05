@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-10-05",
     "retrieved_date": "2025-10-05",
+    "retrieved_utc": "2025-10-05T02:28:25Z",
+    "source": "NYTimes_World",
+    "title": "For Netanyahu, Trump’s Nod to Peace Puts Him in a Tough Spot",
+    "url": "https://www.nytimes.com/2025/10/04/world/middleeast/netanyahu-israel-trump-gaza-plan.html",
+    "id_key": "c4ef8d3948f3aaa45c203d389d5eef8036c7c9d5cfd689ecf615a285d8c274fd",
+    "summary": "The Israeli leader thought he had a plan from the U.S. president that would have represented total victory over Hamas. Suddenly, it looks as though he might not get everything he wants.",
+    "ingested_utc": "2025-10-05T02:28:25Z"
+  },
+  {
+    "published_utc": "2025-10-05",
+    "retrieved_date": "2025-10-05",
+    "retrieved_utc": "2025-10-05T02:26:09Z",
+    "source": "Guardian_World",
+    "title": "Australia news live: Liberal frontbencher backs Hastie on immigration; Mark Latham threatens legal action after police escort him from Randwick racecourse",
+    "url": "https://www.theguardian.com/australia-news/live/2025/oct/05/australia-news-live-hecs-student-debt-mark-butler-albanese-labor-melbourne-metro-nsw-qld-sussan-ley-andrew-hastie-coalition-ntwnfb",
+    "id_key": "a2fd79051228a570a0d20671b50acc64046909e68004fca8583beaf91961d732",
+    "summary": "Melissa McIntosh said MPs of the calibre of Hastie, Jacinta Nampijinpa Price and Jane Hume should be on the Coalition frontbench. Follow today’s news live Get our breaking news email , free app or daily news podcast James Paterson says Hastie move to backbench part of Liberals’ ‘debate and contest about ideas’ The sooner the Liberal party can sort out its differences the better but it may take a while after Andrew Hastie ’s departure to the back bench, according to one of the rogue MP’s closest colleagues. But we do have to make sure we go through our processes. We have to make sure we have those debates. One of the reflections we’ve all had about the last parliamentary term is that there wasn’t enough debate and contest about ideas, that we need to robustly contest policy before we settle on it. On the back bench, I’ll continue to advocate for things I believe in. Continue reading...",
+    "ingested_utc": "2025-10-05T02:26:09Z"
+  },
+  {
+    "published_utc": "2025-10-05",
+    "retrieved_date": "2025-10-05",
+    "retrieved_utc": "2025-10-05T02:26:09Z",
+    "source": "Guardian_World",
+    "title": "Trump authorizes national guard deployment to Chicago, White House says, as border patrol there shoots woman",
+    "url": "https://www.theguardian.com/us-news/2025/oct/04/woman-shot-border-patrol-chicago",
+    "id_key": "73faeb2f84e789e65f869d0e70bc235ada64d52fb716c78d19a90c7d62ae777c",
+    "summary": "Illinois governor JB Pritzker says administration is escalating ‘aggression against Illinois citizens and residents’ Donald Trump has moved to deploy the national guard in another city by authorizing 300 troops to protect federal officers and assets in Chicago, where the government said border patrol agents shot and injured a woman while firing at someone who tried to run them over. White House spokesperson Abigail Jackson confirmed that the president had authorized using Illinois national guard members, citing what she called “ongoing violent riots and lawlessness” that local leaders have not quelled. Continue reading...",
+    "ingested_utc": "2025-10-05T02:26:09Z"
+  },
+  {
+    "published_utc": "2025-10-05",
+    "retrieved_date": "2025-10-05",
     "retrieved_utc": "2025-10-05T00:58:04Z",
     "source": "Nikkei_Asia_Top",
     "title": "Vietnam's Pride retreat reveals misplaced fear of its youth",
@@ -185,6 +218,28 @@
     "id_key": "da98378fc1fa59a0130a04486aa232fc93c8a1eb27df80ed08a70e5cdddc584e",
     "summary": "Three provinces will not be included \"for security reasons\", amid concerns over how representative the polls will be.",
     "ingested_utc": "2025-10-05T00:54:36Z"
+  },
+  {
+    "published_utc": "2025-10-04",
+    "retrieved_date": "2025-10-05",
+    "retrieved_utc": "2025-10-05T02:29:26Z",
+    "source": "HackerNews_Top",
+    "title": "Space Mission Options for Reconnaissance and Mitigation of Asteroid 2024 YR4",
+    "url": "https://arxiv.org/abs/2509.12351",
+    "id_key": "efceb45528566d727c736d35471a1d6fee92066413dadcd5add033ca9a867886",
+    "summary": "Comments",
+    "ingested_utc": "2025-10-05T02:29:26Z"
+  },
+  {
+    "published_utc": "2025-10-04",
+    "retrieved_date": "2025-10-05",
+    "retrieved_utc": "2025-10-05T02:29:26Z",
+    "source": "HackerNews_Top",
+    "title": "NSA and IETF: Can an attacker purchase standardization of weakened cryptography?",
+    "url": "https://blog.cr.yp.to/20251004-weakened.html",
+    "id_key": "06267769b1368a10a4f5ea7503b0d8380794c06a3b7635609aeb9ae2cee633ed",
+    "summary": "Comments",
+    "ingested_utc": "2025-10-05T02:29:26Z"
   },
   {
     "published_utc": "2025-10-04",
@@ -10943,60 +10998,5 @@
     "id_key": "6814dd3efbebe11ac156047de8364838fc3846546602187d541725ec2c4ce6e9",
     "summary": "Amazon launched its smartest devices yet. The real story? Internal anxiety over being late to the AI future.",
     "ingested_utc": "2025-10-02T19:24:21Z"
-  },
-  {
-    "published_utc": "2025-10-02",
-    "retrieved_date": "2025-10-02",
-    "retrieved_utc": "2025-10-02T19:24:21Z",
-    "source": "TheStreet_Top",
-    "title": "Major US sports organization files for Chapter 11 bankruptcy",
-    "url": "https://www.thestreet.com/retail/major-us-sports-organization-files-for-chapter-11-bankruptcy",
-    "id_key": "cfedd49b5e9d39d23ccef785cb61134b94106cebac488fa4d897a2c62fef01ef",
-    "summary": "The move came just before a crucial court hearing which could decide the fate of the sport in America.",
-    "ingested_utc": "2025-10-02T19:24:21Z"
-  },
-  {
-    "published_utc": "2025-10-02",
-    "retrieved_date": "2025-10-02",
-    "retrieved_utc": "2025-10-02T19:24:21Z",
-    "source": "TheStreet_Top",
-    "title": "Amazon is selling a 6-cube storage organizer for just $25 that's 'a practical solution for organizing clutter'",
-    "url": "https://www.thestreet.com/deals/homidec-6-cube-storage-organizer-amazon-sale",
-    "id_key": "4fccce3dab9385b7bab0bbc146940b00569821287a2af950eb88dc28e3a57ce1",
-    "summary": "\"I love how strong it is and how I can configure it any way I want. Very versatile.\"",
-    "ingested_utc": "2025-10-02T19:24:21Z"
-  },
-  {
-    "published_utc": "2025-10-02",
-    "retrieved_date": "2025-10-02",
-    "retrieved_utc": "2025-10-02T19:21:46Z",
-    "source": "BitcoinMagazine",
-    "title": "New York Targets Bitcoin Mining with Proposed Tax Hike Bill",
-    "url": "https://bitcoinmagazine.com/politics/new-york-targets-bitcoin-mining-with-proposed-tax-hike-bill",
-    "id_key": "32d1dcadcd307206eb2d2317669d61d168d5966242b5ae13132f0d069ad6e529",
-    "summary": "Bitcoin Magazine New York Targets Bitcoin Mining with Proposed Tax Hike Bill A new bill proposed in the New York State Senate would impose heightened taxes on certain bitcoin mining companies, disincentivizing these companies from operating in the state. This post New York Targets Bitcoin Mining with Proposed Tax Hike Bill first appeared on Bitcoin Magazine and is written by Frank Corva .",
-    "ingested_utc": "2025-10-02T19:21:46Z"
-  },
-  {
-    "published_utc": "2025-10-02",
-    "retrieved_date": "2025-10-02",
-    "retrieved_utc": "2025-10-02T19:21:30Z",
-    "source": "Guardian_World",
-    "title": "‘We are one community, this will not break us’: Manchester reacts to synagogue attack",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/02/we-are-one-community-this-will-not-break-us-manchester-reacts-to-synagogue-attack",
-    "id_key": "d131bdb195d207e68652cab56342ef523153f9b83fbb0b8a39fc863810f43b97",
-    "summary": "Residents come together to insist their diverse neighbourhood will stick together Manchester synagogue stabbing – latest updates “These people are sent to divide us, but they won’t,” said Barry Moore, as he walked his dog near the site of the terror attack on Heaton Park synagogue in Manchester. On the gently sloping street where two people were killed and four seriously wounded, neighbours from different faiths pulled together. Continue reading...",
-    "ingested_utc": "2025-10-02T19:21:30Z"
-  },
-  {
-    "published_utc": "2025-10-02",
-    "retrieved_date": "2025-10-02",
-    "retrieved_utc": "2025-10-02T19:21:30Z",
-    "source": "Guardian_World",
-    "title": "Reform UK council in Nottinghamshire ends ban on local journalists",
-    "url": "https://www.theguardian.com/media/2025/oct/02/reform-uk-council-in-nottinghamshire-ends-ban-on-local-journalists",
-    "id_key": "67bbc99654f388116cf939b5950f9c2db67abd4b230a70c14c87a4bac0d3ce54",
-    "summary": "Ban on Nottingham Post and its website reversed after threat of legal action over damaging freedom of expression A Reform UK council has ended its ban on journalists from the area’s biggest local newspaper after being threatened with legal action over damaging the outlet’s freedom of expression. Nottinghamshire county council, which has been led by Reform since the local elections earlier this year, said it was “committed to the principles of openness” after lifting the sanctions it had placed on journalists from the Nottingham Post and its website, Nottinghamshire Live. Continue reading...",
-    "ingested_utc": "2025-10-02T19:21:30Z"
   }
 ]
