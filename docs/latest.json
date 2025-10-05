@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-10-05",
     "retrieved_date": "2025-10-05",
+    "retrieved_utc": "2025-10-05T04:15:16Z",
+    "source": "FT_Markets",
+    "title": "Monzo plots new push for US banking licence",
+    "url": "https://www.ft.com/content/5e5853b9-a631-4248-ae83-18388765ff47",
+    "id_key": "bee82e865735c63984eaa0def596ca9049c822e5835c6f0818656a4e52f5829a",
+    "summary": "UK neobank hopes fresh application will be approved amid Trump’s push for deregulation",
+    "ingested_utc": "2025-10-05T04:15:16Z"
+  },
+  {
+    "published_utc": "2025-10-05",
+    "retrieved_date": "2025-10-05",
     "retrieved_utc": "2025-10-05T03:49:02Z",
     "source": "AlJazeera_All",
     "title": "Lionel Messi assists Inter Miami back into win column against Revolution",
@@ -262,6 +273,17 @@
     "id_key": "da98378fc1fa59a0130a04486aa232fc93c8a1eb27df80ed08a70e5cdddc584e",
     "summary": "Three provinces will not be included \"for security reasons\", amid concerns over how representative the polls will be.",
     "ingested_utc": "2025-10-05T00:54:36Z"
+  },
+  {
+    "published_utc": "2025-10-04",
+    "retrieved_date": "2025-10-05",
+    "retrieved_utc": "2025-10-05T04:15:13Z",
+    "source": "NPR_World",
+    "title": "Lou Ye's acclaimed 'An Unfinished Film' remains unfinished",
+    "url": "https://www.npr.org/2025/10/04/g-s1-90638/an-unfinished-film-review",
+    "id_key": "17698b7951e9dc203e8bb850dad4f80f6146fd359beddee8511a1d0da20a0e60",
+    "summary": "Chinese director Lou Ye's An Unfinished Film is not a masterpiece, but why do so many seem to demand it to be?",
+    "ingested_utc": "2025-10-05T04:15:13Z"
   },
   {
     "published_utc": "2025-10-04",
@@ -10976,27 +10998,5 @@
     "id_key": "79db24181abafc26fb2b8064ec64742eedc1f09bb626eba8058f74b50565beec",
     "summary": "Strava is suing its long-time partner Garmin, and is seeking to permanently block the company from selling most of its current fitness and cycling gadget lineup. The lawsuit filed in the US District Court of Colorado on September 30th, first reported by DC Rainmaker, alleges that Garmin violated an agreement between the companies by infringing […]",
     "ingested_utc": "2025-10-02T19:50:11Z"
-  },
-  {
-    "published_utc": "2025-10-02",
-    "retrieved_date": "2025-10-02",
-    "retrieved_utc": "2025-10-02T19:49:43Z",
-    "source": "NYTimes_World",
-    "title": "Deadly Car Ramming and Stabbing at U.K. Synagogue Is Declared Terrorist Attack",
-    "url": "https://www.nytimes.com/2025/10/02/world/europe/terrorist-attack-uk-synagogue-manchester.html",
-    "id_key": "2b1b6680506a09cfb7b6815af7cb2816c464d297ff0e07ca210a97a8a70b7e07",
-    "summary": "The police said a man drove a car into people in front of the synagogue in Manchester, England, and stabbed others. The assailant was shot dead by the police.",
-    "ingested_utc": "2025-10-02T19:49:43Z"
-  },
-  {
-    "published_utc": "2025-10-02",
-    "retrieved_date": "2025-10-02",
-    "retrieved_utc": "2025-10-02T19:47:43Z",
-    "source": "Blockworks",
-    "title": "ECB picks providers for digital euro components",
-    "url": "https://blockworks.co/news/ecb-digital-euro-components",
-    "id_key": "69d2ffc693b99f3c57d2032c7e603742fc948672cba28403f47129461c2bbf24",
-    "summary": "The central bank signed agreements with firms for fraud, payments, and app services ahead of a potential launch",
-    "ingested_utc": "2025-10-02T19:47:43Z"
   }
 ]
