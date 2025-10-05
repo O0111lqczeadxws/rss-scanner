@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-10-05",
     "retrieved_date": "2025-10-05",
+    "retrieved_utc": "2025-10-05T22:40:51Z",
+    "source": "HackerNews_Top",
+    "title": "Apt Down – The North Korea Files",
+    "url": "https://phrack.org/issues/72/7_md",
+    "id_key": "eddd1bca5d05f964d62de2623a7786c99c3b705d83c7cc104830723034d94a3d",
+    "summary": "Comments",
+    "ingested_utc": "2025-10-05T22:40:51Z"
+  },
+  {
+    "published_utc": "2025-10-05",
+    "retrieved_date": "2025-10-05",
+    "retrieved_utc": "2025-10-05T22:40:29Z",
+    "source": "TheStreet_Top",
+    "title": "Dave Ramsey warns Americans on critical Medicare problem",
+    "url": "https://www.thestreet.com/retirement/dave-ramsey-warns-americans-on-critical-medicare-problem",
+    "id_key": "c283f3ef0a97b82f95d0f0455f658818e81d9be485e33b6625c99b7a1bc33617",
+    "summary": "The personal finance radio host sounds the alarm as Medicare's Annual Enrollment Period draws near.",
+    "ingested_utc": "2025-10-05T22:40:29Z"
+  },
+  {
+    "published_utc": "2025-10-05",
+    "retrieved_date": "2025-10-05",
+    "retrieved_utc": "2025-10-05T22:37:36Z",
+    "source": "Guardian_World",
+    "title": "Australia news live: Moreton Island fire warning downgraded; Melbourne’s final Metro Tunnel station complete",
+    "url": "https://www.theguardian.com/australia-news/live/2025/oct/06/australia-news-live-queensland-bushfire-danger-warnings-moreton-island-croydon-park-shooting-sydney-anthony-albanese-sussan-ley-andrew-hastie-labor-liberal-ntwnfb",
+    "id_key": "89782f8f2c4fd0dd72afe6f1980409cda15b792ae67cc76465ba264845808307",
+    "summary": "Crews worked through the night to contain a bushfire in the popular camping destination. Follow today’s news live Get our breaking news email , free app or daily news podcast The alert for the Moreton Island fire has been downgraded to “advice” level this morning after fire crews worked over the weekend to contain the blaze. The fire broke out on the island off Queensland’s south-east coast in dense national park near Eastern Beach at 10.30am on Saturday, forcing the evacuation of 20 campers to the western side of the island on the long weekend, AAP reports. Continue reading...",
+    "ingested_utc": "2025-10-05T22:37:36Z"
+  },
+  {
+    "published_utc": "2025-10-05",
+    "retrieved_date": "2025-10-05",
     "retrieved_utc": "2025-10-05T22:30:23Z",
     "source": "MarketWatch_Bulletins",
     "title": "U.S. stock futures flat, while oil and bitcoin prices rise amid uncertainties",
@@ -10965,38 +10998,5 @@
     "id_key": "b859b8f06274b9429d5bf450e1b2b032d498509530a7c4d507ac10e92041c038",
     "summary": "Some rail services in Scotland to end early on Friday as weather warnings in place throughout Britain into weekend Commuters across the UK have been warned about the possibility of widespread travel disruption as Storm Amy looks set to batter the country into the weekend. The first named storm of the season has prompted weather warnings throughout Britain for heavy rain and strong winds of up to 95mph. Continue reading...",
     "ingested_utc": "2025-10-03T07:35:53Z"
-  },
-  {
-    "published_utc": "2025-10-03",
-    "retrieved_date": "2025-10-03",
-    "retrieved_utc": "2025-10-03T07:30:31Z",
-    "source": "FinancialPost_Business",
-    "title": "India Looks for First US LPG Cargoes as Trade War Diverts Flows",
-    "url": "https://financialpost.com/pmn/business-pmn/india-looks-for-first-us-lpg-cargoes-as-trade-war-diverts-flows",
-    "id_key": "d414c9da2a14bee072fb94b350d2647fe5b1c59b024004bdbd8a23d4f2907b39",
-    "summary": "India is seeking to secure its first long-term supplies of liquefied petroleum gas from the US, as Washington’s trade war disrupts flows of the cooking fuel and plastics precursor.",
-    "ingested_utc": "2025-10-03T07:30:31Z"
-  },
-  {
-    "published_utc": "2025-10-03",
-    "retrieved_date": "2025-10-03",
-    "retrieved_utc": "2025-10-03T07:27:12Z",
-    "source": "Guardian_World",
-    "title": "Search for missing 4-year-old boy in SA scaled back as police ask public not to call with ‘opinions’",
-    "url": "https://www.theguardian.com/australia-news/2025/oct/03/search-efforts-scaled-back-for-boy-missing-in-remote-sa-as-police-discourage-opinions-on-info-line",
-    "id_key": "723efb6668a288eeddc3ea2d81842d5c4af380855ba53cdd953db994e96bc54e",
-    "summary": "Police say phone lines have been ‘inundated’ with calls about Gus and ask public to only contact them with ‘actual information’ Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Search efforts have been scaled back for a missing four-year-old boy after he disappeared from his family’s sheep station in the remote South Australian mid-north on Saturday afternoon, police say. Assistant police commissioner Ian Parrott told a Friday afternoon press conference that the search for August Lamont, known as Gus, on the property near Yunta, about 300km north of Adelaide, had been scaled back. Continue reading...",
-    "ingested_utc": "2025-10-03T07:27:12Z"
-  },
-  {
-    "published_utc": "2025-10-03",
-    "retrieved_date": "2025-10-03",
-    "retrieved_utc": "2025-10-03T07:27:12Z",
-    "source": "Guardian_World",
-    "title": "Captain of oil tanker linked to Russia’s ‘shadow fleet’ to face trial in France",
-    "url": "https://www.theguardian.com/world/2025/oct/03/captain-of-oil-tanker-linked-to-russia-shadow-fleet-to-face-trial-in-france",
-    "id_key": "cb816bc7d8224d4a233a86be63a90e245db2c69bbf38e8d623283d963a0e78cb",
-    "summary": "Vladimir Putin denounces seizing of the vessel as an act of piracy and warned it could provoke confrontation The captain of an oil tanker that authorities in France have detained off the country’s Atlantic coast and that President Emmanuel Macron has linked to Russia will go on trial in February over the crew’s alleged refusal to cooperate, a French prosecutor has said. Macron has alleged that the tanker belongs to Russia’s “shadow fleet” of ageing tankers of uncertain ownership that are avoiding western sanctions over Moscow’s war in Ukraine. He also did not rule out that it could have been involved in drone flights over Denmark as it was sailing last week off the coast of the Nordic country. Continue reading...",
-    "ingested_utc": "2025-10-03T07:27:12Z"
   }
 ]
