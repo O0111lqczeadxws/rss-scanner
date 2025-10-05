@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-10-05",
     "retrieved_date": "2025-10-05",
+    "retrieved_utc": "2025-10-05T19:49:43Z",
+    "source": "MarketWatch_Bulletins",
+    "title": "OPEC+ agrees to another output hike in November despite growing concerns of glut",
+    "url": "https://www.marketwatch.com/bulletins/redirect/go?g=d19908db-c46a-4447-a6e2-df6f02c70a76&mod=mw_rss_bulletins",
+    "id_key": "fb9eb774fb8f6cc81af9b2b7cdc7279870d50a64410fb74c937192a0c2203839",
+    "summary": "",
+    "ingested_utc": "2025-10-05T19:49:43Z"
+  },
+  {
+    "published_utc": "2025-10-05",
+    "retrieved_date": "2025-10-05",
     "retrieved_utc": "2025-10-05T19:32:56Z",
     "source": "Guardian_World",
     "title": "Man arrested after shots fired from Sydney home leave three in hospital",
@@ -10987,16 +10998,5 @@
     "id_key": "750092cc46ea662347164e0473e3de27382c91fdcd553a6b8f9be4fe71e68ef4",
     "summary": "Nearly 3,000 passengers are stranded. The sightings follow similar incidents in Denmark and Norway last week.",
     "ingested_utc": "2025-10-03T04:35:22Z"
-  },
-  {
-    "published_utc": "2025-10-03",
-    "retrieved_date": "2025-10-03",
-    "retrieved_utc": "2025-10-03T04:34:53Z",
-    "source": "FT_Home",
-    "title": "Investors could face a bonfire night surprise on Trump tariffs",
-    "url": "https://www.ft.com/content/440a0adf-f327-4fd5-a315-c35e9bb0791e",
-    "id_key": "faaa4fdffd43558f266a611588f86d36001fedf1c824bcf0322f2a944a8c40cb",
-    "summary": "The legal tussle over the president’s trade policy is a result of the way he wields power",
-    "ingested_utc": "2025-10-03T04:34:53Z"
   }
 ]
