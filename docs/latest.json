@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-10-05",
     "retrieved_date": "2025-10-05",
+    "retrieved_utc": "2025-10-05T16:34:36Z",
+    "source": "TechCrunch_All",
+    "title": "OpenAI and Jony Ive may be struggling to figure out their AI device",
+    "url": "https://techcrunch.com/2025/10/05/openai-and-jony-ive-may-be-struggling-to-figure-out-their-ai-device/",
+    "id_key": "cb8ae9dfe36104f466bb54bb72e2892735349ac9c8a8cff5eb1039e1ffe1742c",
+    "summary": "OpenAI and Jony Ive reportedly face significant technical challenges as they work to develop a screen-less, AI-powered device.",
+    "ingested_utc": "2025-10-05T16:34:36Z"
+  },
+  {
+    "published_utc": "2025-10-05",
+    "retrieved_date": "2025-10-05",
+    "retrieved_utc": "2025-10-05T16:31:53Z",
+    "source": "BBC_World",
+    "title": "Nearly 1,000 people trapped on Mount Everest slopes",
+    "url": "https://www.bbc.com/news/articles/cj4ykkgxqwko?at_medium=RSS&at_campaign=rss",
+    "id_key": "4e9b58b77fb570f8f853a81785b2661f26e22e4a4b45a9a2a3dd2612caf7e84d",
+    "summary": "Rescue teams have been deployed to clear the snow on the world's tallest mountain, Chinese state media reports.",
+    "ingested_utc": "2025-10-05T16:31:53Z"
+  },
+  {
+    "published_utc": "2025-10-05",
+    "retrieved_date": "2025-10-05",
     "retrieved_utc": "2025-10-05T16:14:38Z",
     "source": "HackerNews_Top",
     "title": "Language Agnostic Programming: Why you may still need code",
@@ -10976,27 +10998,5 @@
     "id_key": "bd677ee54d59c156dafb0194d77959a5bb9050b3d4662e5a2ac32a3fe42c251a",
     "summary": "",
     "ingested_utc": "2025-10-03T00:51:35Z"
-  },
-  {
-    "published_utc": "2025-10-03",
-    "retrieved_date": "2025-10-03",
-    "retrieved_utc": "2025-10-03T00:51:35Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "Philippines to upgrade Luzon fiber-optic cable to bypass dangerous waters",
-    "url": "https://asia.nikkei.com/politics/international-relations/south-china-sea/philippines-to-upgrade-luzon-fiber-optic-cable-to-bypass-dangerous-waters",
-    "id_key": "35b0d015b2166b7433ba88f031e8d4912470a585cd09895f92ca17d453377a01",
-    "summary": "",
-    "ingested_utc": "2025-10-03T00:51:35Z"
-  },
-  {
-    "published_utc": "2025-10-03",
-    "retrieved_date": "2025-10-03",
-    "retrieved_utc": "2025-10-03T00:51:28Z",
-    "source": "FinancialPost_Business",
-    "title": "Parents of college student killed in Tesla crash say design flaw in door trapped her as car burned",
-    "url": "https://financialpost.com/pmn/parents-of-college-student-killed-in-tesla-crash-say-design-flaw-in-door-trapped-her-as-car-burned",
-    "id_key": "fc5987f3046de79d9986413b4aca76935b97e00480a23d78e95317a6473f4924",
-    "summary": "The parents of a college student in a Tesla crash say she was killed by flames and smoke as she tried but failed to escape the burning car because of a design flaw making it difficult to open the doors in fires, according to a lawsuit filed Thursday. The parents of Krysta Tsukahara allege that […]",
-    "ingested_utc": "2025-10-03T00:51:28Z"
   }
 ]
