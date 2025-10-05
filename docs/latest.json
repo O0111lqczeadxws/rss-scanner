@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-10-05",
     "retrieved_date": "2025-10-05",
+    "retrieved_utc": "2025-10-05T21:11:45Z",
+    "source": "FT_Home",
+    "title": "Billionaire beef baron warns US not producing enough to satisfy protein craze",
+    "url": "https://www.ft.com/content/5fadad35-6202-4a8a-b809-a7e17eb42866",
+    "id_key": "e4cc033178e8e8d8dcc0571f90a4d9c74ed72a5eaaa8c717e739765f25fb92ba",
+    "summary": "JBS’s Wesley Batista says strong US demand is pushing country towards imports despite Trump’s tariffs",
+    "ingested_utc": "2025-10-05T21:11:45Z"
+  },
+  {
+    "published_utc": "2025-10-05",
+    "retrieved_date": "2025-10-05",
+    "retrieved_utc": "2025-10-05T21:08:47Z",
+    "source": "Guardian_World",
+    "title": "Australia news live: fire danger warnings in Queensland as crews battle Moreton Island blaze",
+    "url": "https://www.theguardian.com/australia-news/live/2025/oct/06/australia-news-live-queensland-bushfire-danger-warnings-moreton-island-croydon-park-shooting-sydney-anthony-albanese-sussan-ley-andrew-hastie-labor-liberal-ntwnfb",
+    "id_key": "9045788c06eda8f8cfd353639a4758399c4e7d9f8c82ede1c70acd35410e065d",
+    "summary": "Crews worked through the night to contain a bushfire in the popular camping destination. Follow today’s news live Get our breaking news email , free app or daily news podcast Final Melbourne Metro Station completed State Library station – the final of five stations to make up Melbourne’s Metro Tunnel – has been completed, marking the end of construction on the long awaited project. The end of major construction means the start of a new era for Melbourne, where you can get to uni, work and retail faster and easier. I don’t agree with the characterisation of Andrew’s contribution. He was a key voice in our national security and defence team, which was one of the strongest areas that we put forward during the last term … We have to accept collective responsibility for our election loss. We all contributed to that, and Peter Dutton has taken public responsibility for that, as have I. What I would say is: if there are any current members of the parliamentary party or their staff who are playing games with an important process like this for internal positioning or advancement, then I think that will end very badly … We have to have a review that can look at the last election result holistically and in a way that has confidence and trust in the party, and that when it is handed down, we can implement the recommendations. And get on with our business. Leaks from a process like that undermine trust in that process. Continue reading...",
+    "ingested_utc": "2025-10-05T21:08:47Z"
+  },
+  {
+    "published_utc": "2025-10-05",
+    "retrieved_date": "2025-10-05",
     "retrieved_utc": "2025-10-05T20:50:44Z",
     "source": "FinancialPost_Business",
     "title": "China Hawks Grow Queasy Over Trump’s Push for Deals With Beijing",
@@ -10976,27 +10998,5 @@
     "id_key": "4d16563c7ab53fdd4f4ce9a28f1c7296a0cad8042af2faf5cbca80f0e675de7a",
     "summary": "ST HELIER, Jersey, Oct. 03, 2025 (GLOBE NEWSWIRE) — Caledonia Mining Corporation Plc (NYSE American, AIM and VFEX: CMCL) (“Caledonia” or “the Company”) announces that two consultants to the Company have exercised options in respect of, in aggregate, 10,000 common shares of no par value each in the Company (the “Option Shares”). The exercise price […]",
     "ingested_utc": "2025-10-03T06:19:03Z"
-  },
-  {
-    "published_utc": "2025-10-03",
-    "retrieved_date": "2025-10-03",
-    "retrieved_utc": "2025-10-03T06:18:46Z",
-    "source": "WIRED_All",
-    "title": "At a Conspiracy Conference in Rural Ireland, Charlie Kirk Was the Star",
-    "url": "https://www.wired.com/story/conspiracy-conference-rural-ireland-charlie-kirk-quantum-clones/",
-    "id_key": "30d89e72ded8bc5a432984041fd6cbebb9c72c9a841dd6f95c6a4ea064499007",
-    "summary": "The increasingly tight links between far-right groups in the US and Europe were on full display at the Rebels Across the Pond conference in Ireland.",
-    "ingested_utc": "2025-10-03T06:18:46Z"
-  },
-  {
-    "published_utc": "2025-10-03",
-    "retrieved_date": "2025-10-03",
-    "retrieved_utc": "2025-10-03T06:17:29Z",
-    "source": "Besu_Releases",
-    "title": "25.10.0-RC2",
-    "url": "https://github.com/hyperledger/besu/releases/tag/25.10.0-RC2",
-    "id_key": "3092e1d34e84c23c0b870ffb961374f0f0f09d548fd9afb0f36cafa9fb873c05",
-    "summary": "25.10.0-RC2 Important This RC is a recommended update for Holesky and Sepolia users for the Fusaka hardfork. This RC is still pending burn in for mainnet. This RC includes an update for a dependency used in PeerDAS. There is likely to be another release before Hoodi's Fusaka fork. Upcoming Breaking Changes Deprecated CLI options --Xbonsai-parallel-tx-processing-enabled is deprecated since 25.7.0. Use --bonsai-parallel-tx-processing-enabled instead. --Xsnapsync-server-enabled is deprecated since 25.7.0. Use --snapsync-server-enabled instead. --Xsnapsync-synchronizer-pre-merge-headers-only-enabled is deprecated since 25.7.0. Use --snapsync-synchronizer-pre-checkpoint-headers-only-enabled instead. --Xhistory-expiry-prune is deprecated since 25.7.0. Use --history-expiry-prune instead. Sunsetting features - for more context on the reasoning behind the deprecation of these features, including alternative options, read this blog post Proof of Work consensus (PoW) Fast Sync Additions and Improvements Performance improvements to EQ opcode #9229 Update jc-kzg dependency #9261 Full Changelog : 25.9.0...25.10.0-RC2 725ff15187f8b37caa860d383f4f78b36a99e904ec835f7390087dae9449a17a besu-25.10.0-RC2.zip 8ceffc213596ca5cef3a821020b00026f0f82316e2ec519cc9152407c3c6418a besu-25.10.0-RC2.tar.gz",
-    "ingested_utc": "2025-10-03T06:17:29Z"
   }
 ]
