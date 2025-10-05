@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-10-05",
     "retrieved_date": "2025-10-05",
+    "retrieved_utc": "2025-10-05T11:50:05Z",
+    "source": "FinancialPost_Business",
+    "title": "Russian Air Barrage Targets Ukraine, Damaging Gas Infrastructure",
+    "url": "https://financialpost.com/pmn/business-pmn/russia-targets-much-of-ukraine-with-missile-and-drone-barrage",
+    "id_key": "02014de045466c3a0c32c2f087d7c45bf95c3a9e0b15d4fbf7ff32bc20b6169c",
+    "summary": "Russia launched a massive airstrike at targets across Ukraine overnight, including at energy facilities, killing at least five people and wounding several others.",
+    "ingested_utc": "2025-10-05T11:50:05Z"
+  },
+  {
+    "published_utc": "2025-10-05",
+    "retrieved_date": "2025-10-05",
+    "retrieved_utc": "2025-10-05T11:49:02Z",
+    "source": "Guardian_World",
+    "title": "Australian telcom bosses to be grilled over triple-zero service reliability ahead of summer bushfire season",
+    "url": "https://www.theguardian.com/business/2025/oct/05/australian-telcom-bosses-to-be-grilled-over-triple-zero-service-reliability-ahead-of-summer-bushfire-season",
+    "id_key": "1a8f2845300034f3bc89bc6e90841e0f4d712e63a744aa85d42051d4ae240773",
+    "summary": "The communications minister plans to press companies on their legal obligations to protect community safety and procedures to avoid outages The federal government will grill the bosses of Australia’s biggest telecommunications companies over the reliability of triple-zero services in the looming summer bushfire season, as Labor fast-tracks laws to protect the emergency call system. On the back foot over Labor’s response to recent Optus triple-zero outages which have been linked to three deaths, the communications minister, Anika Wells, has ordered the chief executive of the company, as well as the chief executives of Telstra and TPG, the owner of Vodafone, to travel to Canberra on Tuesday to discuss safeguards for the system. Continue reading...",
+    "ingested_utc": "2025-10-05T11:49:02Z"
+  },
+  {
+    "published_utc": "2025-10-05",
+    "retrieved_date": "2025-10-05",
     "retrieved_utc": "2025-10-05T11:36:06Z",
     "source": "FinancialPost_Business",
     "title": "Iran Signals Push to Address Nuclear Standoff Despite Sanctions",
@@ -834,6 +856,17 @@
     "id_key": "da98378fc1fa59a0130a04486aa232fc93c8a1eb27df80ed08a70e5cdddc584e",
     "summary": "Three provinces will not be included \"for security reasons\", amid concerns over how representative the polls will be.",
     "ingested_utc": "2025-10-05T00:54:36Z"
+  },
+  {
+    "published_utc": "2025-10-04",
+    "retrieved_date": "2025-10-05",
+    "retrieved_utc": "2025-10-05T11:49:30Z",
+    "source": "NPR_World",
+    "title": "Populist billionaire Andrej Babiš wins Czech parliamentary election",
+    "url": "https://www.npr.org/2025/10/04/nx-s1-5562586/czech-election-winner-billionaire-andrej-babis",
+    "id_key": "cb199511f234605fe1886d2ac8d6ddf1dea1853d52f0ed2f40ed5daa3b2baf59",
+    "summary": "His political comeback put the country on a course away from supporting Ukraine and toward Hungary and Slovakia, which have taken a pro-Russian path.",
+    "ingested_utc": "2025-10-05T11:49:30Z"
   },
   {
     "published_utc": "2025-10-04",
@@ -10965,38 +10998,5 @@
     "id_key": "fe1944013879fa59d507614db4ba1a181b1b95b8a278b53e11b16889569f8745",
     "summary": "Israeli settler Yinon Levi is back disrupting the occupied West Bank village of Umm al-Kheir.",
     "ingested_utc": "2025-10-02T21:36:02Z"
-  },
-  {
-    "published_utc": "2025-10-02",
-    "retrieved_date": "2025-10-02",
-    "retrieved_utc": "2025-10-02T21:33:33Z",
-    "source": "CryptoNews",
-    "title": "Spot Bitcoin ETF Volume Tops $5 Billion as Price Breaks $120K – ATH Next?",
-    "url": "https://cryptonews.com/news/spot-bitcoin-etf-volume-tops-5-billion-as-price-breaks-120k-ath-next/",
-    "id_key": "c94b723ed179424a46614db1d6c01facdc16e056b6a7f0b6117fdf83c2d8989f",
-    "summary": "Bitcoin has traded above $120K amid renewed institutional demand. Spot allocations have increased, BlackRock and Fidelity have led daily flows, and ETF trackers have reported volume exceeding $5B as Vanguard has reconsidered allowing crypto ETFs on its platform. The post Spot Bitcoin ETF Volume Tops $5 Billion as Price Breaks $120K – ATH Next? appeared first on Cryptonews .",
-    "ingested_utc": "2025-10-02T21:33:33Z"
-  },
-  {
-    "published_utc": "2025-10-02",
-    "retrieved_date": "2025-10-02",
-    "retrieved_utc": "2025-10-02T21:33:13Z",
-    "source": "Guardian_World",
-    "title": "Treasure hunters discover $1m in silver and gold coins off Florida coast",
-    "url": "https://www.theguardian.com/us-news/2025/oct/02/treasure-florida-spanish-coins",
-    "id_key": "7c395e20ae229d3215df274f352e9f5d02d181169f795dc523db8abc0fbbb74d",
-    "summary": "Valuables were being transported in 1715 from American colonies when a hurricane wrecked a Spanish fleet Hidden beneath the turquoise waters off a stretch of Florida known as the “treasure coast”, a team of divers from a shipwreck salvage company have uncovered exactly that – a load of long-lost Spanish treasure they estimate is worth $1m. More than 1,000 silver and gold coins thought to be minted in the Spanish colonies where Bolivia , Mexico and Peru now sit were uncovered this summer off Florida’s Atlantic coast, 1715 Fleet-Queens Jewels LLC announced this week. Continue reading...",
-    "ingested_utc": "2025-10-02T21:33:13Z"
-  },
-  {
-    "published_utc": "2025-10-02",
-    "retrieved_date": "2025-10-02",
-    "retrieved_utc": "2025-10-02T21:27:47Z",
-    "source": "HackerNews_Top",
-    "title": "Austria's Armed Forces Gets Rid of Microsoft Office (Mostly) for LibreOffice",
-    "url": "https://news.itsfoss.com/austrian-forces-ditch-microsoft-office/",
-    "id_key": "dbe69550b8d7c76d567fe19c34a838c9b50a8770764e3d270db26d8c6d446681",
-    "summary": "Comments",
-    "ingested_utc": "2025-10-02T21:27:47Z"
   }
 ]
