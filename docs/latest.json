@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-10-06",
     "retrieved_date": "2025-10-06",
+    "retrieved_utc": "2025-10-06T23:36:23Z",
+    "source": "HackerNews_Top",
+    "title": "CodeMender: an AI agent for code security",
+    "url": "https://deepmind.google/discover/blog/introducing-codemender-an-ai-agent-for-code-security/",
+    "id_key": "5a416de0a58aeb314f24fafec79943c5369a90fa066563d6914a7d9ccc2d1f27",
+    "summary": "Comments",
+    "ingested_utc": "2025-10-06T23:36:23Z"
+  },
+  {
+    "published_utc": "2025-10-06",
+    "retrieved_date": "2025-10-06",
+    "retrieved_utc": "2025-10-06T23:35:50Z",
+    "source": "TheVerge_All",
+    "title": "The Supreme Court didn’t save Google from Epic, and now the clock is ticking",
+    "url": "https://www.theverge.com/news/793610/google-epic-android-supreme-court-stay-denied",
+    "id_key": "0313ee884cd275568ad65761bbe990d8130b1355a9cf3d97c23652640c502856",
+    "summary": "In August, Google had just two weeks to begin cracking open Android, and to stop forcing app developers to use its own payment systems, after Epic Games won its Google lawsuit for the second time. Now, Google has just over two weeks once again — because the US Supreme Court has decided not to save […]",
+    "ingested_utc": "2025-10-06T23:35:50Z"
+  },
+  {
+    "published_utc": "2025-10-06",
+    "retrieved_date": "2025-10-06",
     "retrieved_utc": "2025-10-06T23:25:55Z",
     "source": "CryptoBriefing",
     "title": "BlackRock and Fidelity spot Bitcoin ETFs achieve $5.5B trading volume",
@@ -10976,27 +10998,5 @@
     "id_key": "030f0747f9e07503a32721994d8fdbbc16f6153dcad8b7de3cc47294b8d257e2",
     "summary": "Plus: Whoop lets you order blood tests, Arlo refreshes its security camera lineup, and Roland unveils a new analog drum machine.",
     "ingested_utc": "2025-10-04T10:13:05Z"
-  },
-  {
-    "published_utc": "2025-10-04",
-    "retrieved_date": "2025-10-04",
-    "retrieved_utc": "2025-10-04T10:12:37Z",
-    "source": "NYTimes_World",
-    "title": "What You Want to See Emerge from the Canada Post Walkout",
-    "url": "https://www.nytimes.com/2025/10/04/world/canada/canada-post-mail-strike.html",
-    "id_key": "c2c56d9ea949145188b1f8e068948aedca4c73a527b2b829390854f64aa8ba96",
-    "summary": "Newsletter readers shared their thoughts about the future of Canada’s postal service.",
-    "ingested_utc": "2025-10-04T10:12:37Z"
-  },
-  {
-    "published_utc": "2025-10-04",
-    "retrieved_date": "2025-10-04",
-    "retrieved_utc": "2025-10-04T10:10:37Z",
-    "source": "CryptoNews",
-    "title": "Coinbase Applies for National Trust Charter to Expand Regulated Crypto Services",
-    "url": "https://cryptonews.com/news/coinbase-applies-for-national-trust-charter-to-expand-regulated-crypto-services/",
-    "id_key": "c6a799375f1689d37e0c552042a2a49a07428e7e7bc9bbcbfe4d625f1d79f1ea",
-    "summary": "Coinbase has filed an application with the US Office of the Comptroller of the Currency (OCC) for a National Trust Company Charter. The post Coinbase Applies for National Trust Charter to Expand Regulated Crypto Services appeared first on Cryptonews .",
-    "ingested_utc": "2025-10-04T10:10:37Z"
   }
 ]
