@@ -2,6 +2,61 @@
   {
     "published_utc": "2025-10-07",
     "retrieved_date": "2025-10-07",
+    "retrieved_utc": "2025-10-07T22:13:43Z",
+    "source": "Nikkei_Asia_Top",
+    "title": "Japan probiotic drink maker thinks US is ready for recipe with sleep benefits",
+    "url": "https://asia.nikkei.com/politics/international-relations/japan-probiotic-drink-maker-thinks-us-is-ready-for-recipe-with-sleep-benefits",
+    "id_key": "e964b2fa51c0888e18bfe717b36bcc4c7b06eb105b3625bf9da0518d506ea356",
+    "summary": "",
+    "ingested_utc": "2025-10-07T22:13:43Z"
+  },
+  {
+    "published_utc": "2025-10-07",
+    "retrieved_date": "2025-10-07",
+    "retrieved_utc": "2025-10-07T22:13:20Z",
+    "source": "Engadget_All",
+    "title": "Sennheiser's HDB 630 headphones combine wireless convenience with wired lossless audio",
+    "url": "https://www.engadget.com/audio/headphones/sennheisers-hdb-630-headphones-combine-wireless-convenience-with-wired-lossless-audio-220000711.html?src=rss",
+    "id_key": "fe4967b7ad727d520480f5f64ea625fab5015d3b94dc6d8ab1be438b9e9be5c9",
+    "summary": "Sennheiser hasn’t debuted a premium set of wireless headphones since the Momentum 4 arrived in 2022. Sure, there were two sets of Accentum cans, but those offer more mid-range performance in the $180-$250 range. Instead of a Momentum 5 for its latest release, the company has revealed the HDB 630: a $500 set of wireless noise-canceling headphones that offer lossless listening via wired connection. If you’re thinking the HDB 630 looks an awful lot like the Momentum 4, you’re correct. Sennheiser says this new model “inherited” the chassis from those 2022 headphones, but there’s a new acoustic system inside for “focused listening.” That setup includes 42mm dynamic drivers what were “designed for purity, not hype.” As such, the company promises you’ll hear “the vibe that left the mastering studio” thanks to careful attention to the midrange, vocals and overall dynamics. Those drivers are supported by a high-resolution digital audio engine that works for both wired and wireless listening. Via either the USB-C or 3.5mm ports, you can expect to hear tunes in up to 24-bit/96kHz resolution. The HDB 630 also comes with a USB-C transmitter dongle for phones, tablets and other devices so that you can harness higher-quality listening with aptX Adaptive — even if your gadgets don’t support it natively. “With only an estimated 16 percent of smartphone hardware supporting native wireless high-res sound, the included dongle brings this capability to 80 percent of smartphone models in an instant through their USB Type-C port,” Sennheiser explained in a press release. There are several audio features available on the HDB 630 for an “audiophile” experience. First, Sennheiser employs the Crossfade feature from its HE 1 headphones that blends the left and right channels to make it seem like you’re listening to speakers. There’s also a new Parametric Equalizer for more granular EQ control, complete with bandwidth, filter and A/B settings. The company says any settings tweaks are then applied to the HDB 630’s “advanced processing system” so listeners determine the tuning rather than the content or app providing it. Lastly, users will soon have the ability to share presets via QR code. Another item Sennheiser retained from the Momentum 4 is long battery life. Like that model, the HDB 630 will last up to 60 hours with ANC enabled, so you won’t be reaching for a charging cable often. What’s more, a 10-minuted top up will give you seven hours of use. And when it’s time to travel, there’s an airline adapter included in the box. The HDB 630 is available for pre-order starting today for $499.95. Shipping is scheduled to begin October 21 from Sennhesier and other retailers. This article originally appeared on Engadget at https://www.engadget.com/audio/headphones/sennheisers-hdb-630-headphones-combine-wireless-convenience-with-wired-lossless-audio-220000711.html?src=rss",
+    "ingested_utc": "2025-10-07T22:13:20Z"
+  },
+  {
+    "published_utc": "2025-10-07",
+    "retrieved_date": "2025-10-07",
+    "retrieved_utc": "2025-10-07T22:12:08Z",
+    "source": "Optimism_Releases",
+    "title": "op-node/v1.14.0 Fusaka Readiness Release (Sepolia)",
+    "url": "https://github.com/ethereum-optimism/optimism/releases/tag/op-node%2Fv1.14.0",
+    "id_key": "67b8a501878be7dc61e3bfeecb461db35aaa01a81632ea20d8a74a37a4de8184",
+    "summary": "Warning This is an essential release to prepare for the L1 Fusaka fork on Sepolia. With this release of op-node , the L1 Chain Configuration (namely, the fork activation times and blob parameters for each fork) form part of L2 consensus. This release therefore introduces the --rollup.l1-chain-config flag and accompanying OP_NODE_ROLLUP_L1_CHAIN_CONFIG environment variable. This is not necessary for chains deriving from Ethereum Mainnet, Sepolia or Hoodi -- for those chains, the chain config is already baked into op-node and will be used automatically. Note For chains deriving from an L1 other than Mainnet, Sepolia, or Hoodi: an up-to-date genesis.json or chain configuration file for the L1 must be provided. New L1 forks, including BPO forks, must be added to this file before they activate on L1. For the \"known\" L1 chains, we will publish op-node releases with updated L1 configurations baked in due course. This release also modifies the way op-node fetches and verifies blobs from beacon endpoints. Note It is required that the beacon node passed with --l1.beacon is configured to store all blobs. What's Changed in op-node/v1.14.0 beacon client: use new fusaka endpoint to get blobs by @joshklop in #17736 l1-beacon-client: verify blobs using commitment only (not the proof) by @geoknee in #17725 op-node,op-program,kona: embed L1ChainConfig in configuration by @geoknee in #17568 op-node: merge EngineResetDeriver with EngineController by @nonsense in #17662 op-node: EngineController: Proper locking by @pcw109550 in #17648 op-node: refactor EngineController by @nonsense in #17647 op-node/rollup: remove ReceivedUnsafePayloadEvent event by @nonsense in #17530 op-node/rollup/clsync: test for popping the same element by @nonsense in #17608 op-service/httputil: move resp.Body.Close right after err check by @nonsense in #17611 Full Changelog: op-node/v1.13.7...op-node/v1.14.0 🚢 Docker Image: https://us-docker.pkg.dev/oplabs-tools-artifacts/images/op-node:v1.14.0",
+    "ingested_utc": "2025-10-07T22:12:08Z"
+  },
+  {
+    "published_utc": "2025-10-07",
+    "retrieved_date": "2025-10-07",
+    "retrieved_utc": "2025-10-07T22:12:08Z",
+    "source": "Optimism_Releases",
+    "title": "op-batcher/v1.16.0 Fusaka Readiness Release (Sepolia)",
+    "url": "https://github.com/ethereum-optimism/optimism/releases/tag/op-batcher%2Fv1.16.0",
+    "id_key": "2dfb7ed85881d23e5288ce32ea0146d3c25fa3108fed742ca85982f4ccc76107",
+    "summary": "Warning This is an essential release to prepare for the L1 Fusaka fork on Sepolia. Note The new flag OP_BATCHER_TXMGR_ENABLE_CELL_PROOFS must be set to \"true\" immediately after the Fusaka activation on L1. What's Changed in op-batcher/v1.16.0 txmgr: allow blobs to be sent with fusaka-compatible cell proofs (sidecar version 1) by configuration by @geoknee in #17620 txmgr: fetch BlobBaseFee over RPC instead of computing from block header by @geoknee in #17566 Full Changelog: op-batcher/v1.15.0...op-node/v1.16.0 🚢 Docker Image: https://us-docker.pkg.dev/oplabs-tools-artifacts/images/op-batcher:v1.16.0",
+    "ingested_utc": "2025-10-07T22:12:08Z"
+  },
+  {
+    "published_utc": "2025-10-07",
+    "retrieved_date": "2025-10-07",
+    "retrieved_utc": "2025-10-07T22:10:55Z",
+    "source": "CryptoBriefing",
+    "title": "Glassnode reports over 95% of Bitcoin supply profitable as price surpasses $117K",
+    "url": "https://cryptobriefing.com/glassnode-reports-bitcoin-supply-profitable-price-surpasses-117k/",
+    "id_key": "ba39eabe7ee9c7c0c58853c2d5302feab982e715549d30853b605b1a43f6d26b",
+    "summary": "Bitcoin's high profitability may trigger sell-offs, potentially leading to market corrections and impacting future price stability. The post Glassnode reports over 95% of Bitcoin supply profitable as price surpasses $117K appeared first on Crypto Briefing .",
+    "ingested_utc": "2025-10-07T22:10:55Z"
+  },
+  {
+    "published_utc": "2025-10-07",
+    "retrieved_date": "2025-10-07",
     "retrieved_utc": "2025-10-07T21:51:00Z",
     "source": "HackerNews_Top",
     "title": "California passes law to reduce volume of commercials on streaming services",
@@ -10943,60 +10998,5 @@
     "id_key": "82a4c89517de35cea5b1c4f0afdc9c8d15b40eacfd0cae8555b44351799a403d",
     "summary": "Doorbell cam video from the UK shows masked men setting fire to a mosque while people were in the building.",
     "ingested_utc": "2025-10-06T13:06:21Z"
-  },
-  {
-    "published_utc": "2025-10-06",
-    "retrieved_date": "2025-10-06",
-    "retrieved_utc": "2025-10-06T13:06:12Z",
-    "source": "Engadget_All",
-    "title": "Logitech's brand new MX Master 4 is already 25 percent off",
-    "url": "https://www.engadget.com/deals/logitechs-brand-new-mx-master-4-is-already-25-percent-off-130030050.html?src=rss",
-    "id_key": "dfe04d5a9de2be4797a2dd8270cfb74443396249a6af580ff6fdcfba0ea09cf5",
-    "summary": "Logitech released its newest mouse less than a week ago but you can already grab it for a discounted price. Right now, the Logitech MX Master 4 is available at Best Buy for $90, down from $120. The 25 percent markdown is the first deal we've seen on the device. The MX Master 4 comes three years after its predecessor (and our pick for best wireless mouse of 2025), the MX Master 3S. We tested the latest iteration for a few weeks and it still has all the comfort of the 3S, despite being slightly heftier. Plus, it has a lightly textured plastic on top, rather than the rubber on the 3S. The main difference between the two is the MX Master 4's haptic feedback. It's built into the thumb rest panel and you can change the intensity or turn it off through Logitech’s Options+ software. You'll feel it at times such as when pairing the mouse, the battery is low or you've perfectly lined up a graphic in Photoshop. However, on that note, right now haptics only work with apps like Photoshop , Lightroom and Zoom, with Adobe Premiere Pro coming soon. If you plan to use Photoshop, Lightroom and the like, then buying the mouse from Best Buy is a good choice. The store is exclusively offering customers two complimentary months of an Adobe Creative Cloud subscription when you buy the MX Master 4. Follow @EngadgetDeals on X for the latest tech deals and buying advice . This article originally appeared on Engadget at https://www.engadget.com/deals/logitechs-brand-new-mx-master-4-is-already-25-percent-off-130030050.html?src=rss",
-    "ingested_utc": "2025-10-06T13:06:12Z"
-  },
-  {
-    "published_utc": "2025-10-06",
-    "retrieved_date": "2025-10-06",
-    "retrieved_utc": "2025-10-06T13:06:12Z",
-    "source": "Engadget_All",
-    "title": "Prime Day Lego deals: Get up to 56 percent off Star Wars and Super Mario sets",
-    "url": "https://www.engadget.com/deals/prime-day-lego-deals-get-up-to-56-percent-off-star-wars-and-super-mario-sets-121513566.html?src=rss",
-    "id_key": "50d7cdc8336da13e797d9ee4afe6ec0c2ab0d2355886e9b4c97f471d587f2c22",
-    "summary": "With October Prime Day comes deals on all sorts of things, including tech and toys. Amazon has used the event to kickstart the holiday shopping season for the past few years, making it a good time to pick up early gifts for less and stock up on things for yourself without spending full price. Maybe you haven’t even thought about the holidays yet, but it’s worth giving the latest Prime Day Lego deals a look. A number of Lego sets from the Super Mario and Star Wars collections are already on sale for up to 38 percent off. When shopping for Lego sets on Amazon, we highly recommend checking a price tracker like Keepa or CamelCamelCamel before buying. It's not difficult to find Lego sets \"on sale\" at Amazon, but often those discounted prices have been around for a long time. We've clocked \"deals\" in which the sale price has been available for months already, going back as far as late spring and early summer 2025. Here, we're mostly highlighting discounts on new Lego sets, recent price drops and record-low (and close to them) prices on popular Lego sets from franchises like Star Wars, Super Mario and others. Best October Lego Prime Day deals Lego City Advent Calendar 2025 60475 for $21 (40 percent off) Lego Star Wars Advent Calendar 2025 75418 for $31 (30 percent off) Lego Minecraft Advent Calendar 2025 21280 for $38 (16 percent off) Lego Harry Potter Advent Calendar 2025 76456 for $38 (16 percent off) Lego Star Wars: The Mandalorian Paz Vizsla and Moff Gideon Battle set 75386 for $17 (56 percent off) Lego Star Wars Brick-Built Star Wars Logo set 75407 for $50 (17 percent off) Lego Star Wars R2-D2 set 75379 for $80 (20 percent off) Lego Super Mario: Mario Kart Donkey Kong & DK Jumbo set 72033 for $28 (19 percent off) Lego Super Mario World: Mario & Yoshi Building set 71438 for $104 (20 percent off) Lego Classic Medium Creative Brick Box 10696 for $18 (49 percent off) Lego Botanicals Bouquet of Roses 10328 for $48 (20 percent off) Lego City F1 Garage & Mercedes-AMG & Alpine Cars set 60444 for $64 (20 percent off) Lego Brick Tile backpack for $50 (29 percent off) This article originally appeared on Engadget at https://www.engadget.com/deals/prime-day-lego-deals-get-up-to-56-percent-off-star-wars-and-super-mario-sets-121513566.html?src=rss",
-    "ingested_utc": "2025-10-06T13:06:12Z"
-  },
-  {
-    "published_utc": "2025-10-06",
-    "retrieved_date": "2025-10-06",
-    "retrieved_utc": "2025-10-06T13:06:08Z",
-    "source": "TheVerge_All",
-    "title": "Fictional characters are (officially) coming to Sora as OpenAI manages copyright chaos",
-    "url": "https://www.theverge.com/news/792661/sora-fictional-copyright-characters",
-    "id_key": "832791ebf2c5efc468f8701d9616efd57a1dee459b86600e783511afccd6e72b",
-    "summary": "Collabs with fictional characters are on the horizon for Sora. Officially, that is, as OpenAI moves to restrict the flow of unauthorized horrors like meth-cooking and Nazi SpongeBobs and criminal Pokémon that have plagued the platform from day one. Bill Peebles, leader of the Sora team at OpenAI, said fictional character appearances in videos, known […]",
-    "ingested_utc": "2025-10-06T13:06:08Z"
-  },
-  {
-    "published_utc": "2025-10-06",
-    "retrieved_date": "2025-10-06",
-    "retrieved_utc": "2025-10-06T13:05:54Z",
-    "source": "FT_Markets",
-    "title": "Opec+ steadies crude market with cautious turn as oil glut looms",
-    "url": "https://www.ft.com/content/f87ecc83-62e9-422c-93c6-3380287ac3f7",
-    "id_key": "8a2e5813857f130c00d6ca3fe0c69c3ee19f0f965ecbdbd39ed9245575449b00",
-    "summary": "Producer group slows pace of increases as it watches for signs of oversupply",
-    "ingested_utc": "2025-10-06T13:05:54Z"
-  },
-  {
-    "published_utc": "2025-10-06",
-    "retrieved_date": "2025-10-06",
-    "retrieved_utc": "2025-10-06T13:05:50Z",
-    "source": "NPR_Top",
-    "title": "Why do women live longer than men? A study offers clues to close the gap",
-    "url": "https://www.npr.org/2025/10/06/nx-s1-5558184/women-men-longevity-health-life-span",
-    "id_key": "355c22ffa133455ff8cf0b90c2e43f94d88b81f5482c09ccd870d8cc933640d1",
-    "summary": "Women have an evolutionary advantage when it comes to living longer. They outlive men by about five years. This gender gap is true for many mammals, but a new study shows how human males could narrow it.",
-    "ingested_utc": "2025-10-06T13:05:50Z"
   }
 ]
