@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-10-08",
     "retrieved_date": "2025-10-08",
+    "retrieved_utc": "2025-10-08T22:50:25Z",
+    "source": "ArsTechnica_All",
+    "title": "Stoke Space gives us another reason to take it very seriously",
+    "url": "https://arstechnica.com/space/2025/10/stoke-space-gives-us-another-reason-to-take-it-very-seriously/",
+    "id_key": "ed83a6d64c25dee6172264553a92ac5ddaddcdf1cffac076145455bd5ae002ca",
+    "summary": "With the new investments, Stoke has raised nearly $1 billion.",
+    "ingested_utc": "2025-10-08T22:50:25Z"
+  },
+  {
+    "published_utc": "2025-10-08",
+    "retrieved_date": "2025-10-08",
+    "retrieved_utc": "2025-10-08T22:49:56Z",
+    "source": "NYTimes_World",
+    "title": "She Found a Link Between Air Pollution and Infertility",
+    "url": "https://www.nytimes.com/2025/10/08/climate/mahalingaiah-air-pollution-infertility.html",
+    "id_key": "0e4e07cd5d1c506d21f2f8b4677a2d5794cc36b98f5988598b0a353ac16e4dbd",
+    "summary": "Shruthi Mahalingaiah, a Harvard researcher, investigated the fertility risks women face from air pollution. But her grant was canceled.",
+    "ingested_utc": "2025-10-08T22:49:56Z"
+  },
+  {
+    "published_utc": "2025-10-08",
+    "retrieved_date": "2025-10-08",
     "retrieved_utc": "2025-10-08T22:43:53Z",
     "source": "FinancialPost_Business",
     "title": "B2Gold Third Quarter 2025 Financial Results – Conference Call Details",
@@ -10976,27 +10998,5 @@
     "id_key": "bea4805bf3e8978329db1ed0667509e7dcf5142775bb8442c0c727e100d7249d",
     "summary": "Meanwhile, the first regulated Bitcoin life insurer, has raised $82 million in new capital to expand its suite of Bitcoin-denominated savings, life insurance, and annuity products. The post Meanwhile Raises $82M to Scale Bitcoin-Based Life Insurance and Retirement Products appeared first on Cryptonews .",
     "ingested_utc": "2025-10-07T14:12:31Z"
-  },
-  {
-    "published_utc": "2025-10-07",
-    "retrieved_date": "2025-10-07",
-    "retrieved_utc": "2025-10-07T14:12:24Z",
-    "source": "Blockworks",
-    "title": "Meanwhile raises $82 million to expand Bitcoin life insurance",
-    "url": "https://blockworks.co/news/meanwhile-raises-82-million",
-    "id_key": "1b13eb1992d2f2415ca347b7d9b44c991fddd9712313218c6ad21bdd1cab9975",
-    "summary": "Bain Capital Crypto and Haun Ventures co-led the round as demand grows for Bitcoin-denominated savings and annuities",
-    "ingested_utc": "2025-10-07T14:12:24Z"
-  },
-  {
-    "published_utc": "2025-10-07",
-    "retrieved_date": "2025-10-07",
-    "retrieved_utc": "2025-10-07T14:12:24Z",
-    "source": "Blockworks",
-    "title": "Intercontinental Exchange takes $2B stake in Polymarket",
-    "url": "https://blockworks.co/news/intercontinental-exchange-polymarket",
-    "id_key": "1b0a3eb4f0b9b77b058b56bd9176364b6e624dd4df782f0bef52992f34e99bd2",
-    "summary": "NYSE owner’s investment values the prediction market at $8–9 billion, signaling Wall Street’s entry into event-based trading",
-    "ingested_utc": "2025-10-07T14:12:24Z"
   }
 ]
