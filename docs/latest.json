@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-10-08",
     "retrieved_date": "2025-10-08",
+    "retrieved_utc": "2025-10-08T04:51:41Z",
+    "source": "Engadget_All",
+    "title": "Google Search AI Mode is now available in more languages and regions",
+    "url": "https://www.engadget.com/ai/google-search-ai-mode-is-now-available-in-more-languages-and-regions-043540278.html?src=rss",
+    "id_key": "89f1d2dbb475d604e7352123b37e152eec5c52bf9fc9ade5a6e90d4330e4c9a1",
+    "summary": "Google has been rapidly expanding the availability of AI Mode in Search ever since it previewed the feature with testers in its Labs program in the beginning of March this year. Now, the company has announced that it has started rolling out the dedicated AI chatbot within Search to 40 new regions and has made it available in 35 new languages. The newly supported languages include Arabic, Chinese, Croatian, Czech, Dutch, German, Greek, French, Malay, Russian, Thai, Vietnamese and more. Google says the advanced reasoning and multimodal understanding of its custom Gemini model for Search allow it to grasp the subtleties of local languages, so it doesn't misunderstand inquiries or generate stilted answers. In May, two months after Google started testing the feature, the company rolled it out to everyone in the US . At the time, it said that it will \"graduate many features and capabilities from AI Mode right into the core search experience in AI Overviews\" as it gets more feedback. In early September, Google opened up AI Mode to more languages, namely Hindi, Indonesian, Japanese, Korean and Brazilian Portuguese. More and more users in the new regions will see AI Mode responses in their Search page and will be able to interact with the feature in their preferred language over the coming weeks. The company plans to add more capabilities to AI Mode and recently released an update that made it better at understanding visual prompts . It's worth noting that, while AI Mode results could be useful for quick inquiries, online publishers attribute declining web traffic to the summaries. A Pew Research Center study found that users are less likely to click on website links and are more likely to end their browsing session if they see an AI Mode summary at the top of their results page. This article originally appeared on Engadget at https://www.engadget.com/ai/google-search-ai-mode-is-now-available-in-more-languages-and-regions-043540278.html?src=rss",
+    "ingested_utc": "2025-10-08T04:51:41Z"
+  },
+  {
+    "published_utc": "2025-10-08",
+    "retrieved_date": "2025-10-08",
     "retrieved_utc": "2025-10-08T04:34:05Z",
     "source": "CryptoNews",
     "title": "[LIVE] Crypto News Today: Latest Updates for Oct. 08, 2025 – Bitcoin Slips to $121K as Crypto Rally Cools — Correction Ahead?",
@@ -8207,6 +8218,17 @@
   },
   {
     "published_utc": "2025-10-06",
+    "retrieved_date": "2025-10-08",
+    "retrieved_utc": "2025-10-08T04:52:13Z",
+    "source": "HackerNews_Top",
+    "title": "Mathematicians discover prime number pattern in fractal chaos",
+    "url": "https://www.scientificamerican.com/article/mathematicians-discover-prime-number-pattern-in-fractal-chaos/",
+    "id_key": "bd00512deedfbd73b82bd3acd7d89e76286ab8c081d75700515412492a15a20b",
+    "summary": "Comments",
+    "ingested_utc": "2025-10-08T04:52:13Z"
+  },
+  {
+    "published_utc": "2025-10-06",
     "retrieved_date": "2025-10-07",
     "retrieved_utc": "2025-10-07T20:15:10Z",
     "source": "HackerNews_Top",
@@ -10976,27 +10998,5 @@
     "id_key": "f7edd82510b1cde8095d9b00c5980de9116879104bde79a85ac872a3333f8607",
     "summary": "The massive deal could mark a major turning point in the AI chip race.",
     "ingested_utc": "2025-10-06T15:44:47Z"
-  },
-  {
-    "published_utc": "2025-10-06",
-    "retrieved_date": "2025-10-06",
-    "retrieved_utc": "2025-10-06T15:44:37Z",
-    "source": "ArsTechnica_All",
-    "title": "F1 in Singapore: “Trophy for the hero of the race”",
-    "url": "https://arstechnica.com/cars/2025/10/f1-in-singapore-trophy-for-the-hero-of-race/",
-    "id_key": "5f628e2734271e2bc02e0d5639bf1193901eb9648571a709f89884bb6b8d68d9",
-    "summary": "Intra-teammate relationships began to fray under the lights at this night race.",
-    "ingested_utc": "2025-10-06T15:44:37Z"
-  },
-  {
-    "published_utc": "2025-10-06",
-    "retrieved_date": "2025-10-06",
-    "retrieved_utc": "2025-10-06T15:44:36Z",
-    "source": "TechCrunch_All",
-    "title": "Adobe predicts AI-assisted online shopping to grow 520% during the 2025 U.S. holiday season",
-    "url": "https://techcrunch.com/2025/10/06/adobe-predicts-ai-assisted-online-shopping-to-grow-520-during-the-2025-u-s-holiday-season/",
-    "id_key": "1f01b9608c294574279e5e6963ab2c6bba09ac5170aebf07f087c018c0892068",
-    "summary": "AI-assisted online shopping is still booming, new U.S. holiday e-commerce forecast shows.",
-    "ingested_utc": "2025-10-06T15:44:36Z"
   }
 ]
