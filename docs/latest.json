@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-10-08",
     "retrieved_date": "2025-10-08",
+    "retrieved_utc": "2025-10-08T23:35:44Z",
+    "source": "NPR_World",
+    "title": "Israel and Hamas agree on the \"first phase\" of Gaza ceasefire deal",
+    "url": "https://www.npr.org/2025/10/08/g-s1-92558/gaza-ceasefire-israel-hamas",
+    "id_key": "55ee09586c6fff67833371b7cfcf93939684489bbe76e4b5a02a1cb68fd1689c",
+    "summary": "The deal raises the possibility that the war may now be over, ending the bloodiest fighting ever between Israelis and Palestinians.",
+    "ingested_utc": "2025-10-08T23:35:44Z"
+  },
+  {
+    "published_utc": "2025-10-08",
+    "retrieved_date": "2025-10-08",
+    "retrieved_utc": "2025-10-08T23:35:41Z",
+    "source": "NPR_Top",
+    "title": "Israel and Hamas agree on the 'first phase' of Gaza ceasefire deal",
+    "url": "https://www.npr.org/2025/10/08/g-s1-92558/gaza-ceasefire-israel-hamas",
+    "id_key": "4aeaaad0f3f9a672494ffab5dbd84faa813313bd3240eabdfafd5e240fde1a34",
+    "summary": "The deal raises the possibility that the war may now be over, ending the bloodiest fighting ever between Israelis and Palestinians.",
+    "ingested_utc": "2025-10-08T23:35:41Z"
+  },
+  {
+    "published_utc": "2025-10-08",
+    "retrieved_date": "2025-10-08",
     "retrieved_utc": "2025-10-08T23:29:00Z",
     "source": "HackerNews_Top",
     "title": "Apple Made ICE Agents a Protected Class",
@@ -10976,27 +10998,5 @@
     "id_key": "0a77bfd7968cdb4089ca3384e20263fe1b942bdd3a8bc31dfe91ed97aa71bc66",
     "summary": "It’s been nearly four years since Vampire Survivors debuted in early access and developer Poncle is still adding new features to the hit game. A fall update will introduce an online co-op mode to the PC and console versions. The studio brought couch co-op to the auto-shooting roguelike back in 2023, and soon you and your buddies will be able to lay waste to thousands of enemies together without needing to be in the same room. Online co-op will use a system where you create a lobby and share a code with friends so they can join, or vice-versa. You can go monster hunting with up to three of your buds, or even let them take care of the dirty work while you roam the map in search of secrets. Poncle says there are four more announcements to come over the next several weeks. The studio teased that, next week, it “might finally answer a burning question that has been asked thousands of times.” My money is on that being “will you ever add vampires ?” This article originally appeared on Engadget at https://www.engadget.com/gaming/vampire-survivors-will-soon-offer-online-co-op-141430146.html?src=rss",
     "ingested_utc": "2025-10-07T14:37:10Z"
-  },
-  {
-    "published_utc": "2025-10-07",
-    "retrieved_date": "2025-10-07",
-    "retrieved_utc": "2025-10-07T14:37:06Z",
-    "source": "TechCrunch_All",
-    "title": "Security bug in India’s income tax portal exposed taxpayers’ sensitive data",
-    "url": "https://techcrunch.com/2025/10/07/security-bug-in-indias-income-tax-portal-exposed-taxpayers-sensitive-data/",
-    "id_key": "34dcade8ac648899d58940d0396a37d8caeb88c01bfbedd44c20f0e08b496f58",
-    "summary": "TechCrunch verified that the security bug in the Indian Income Tax Department's e-Filing portal exposed taxpayers' data to other users. The security researchers who found the flaw say the data leak is now fixed.",
-    "ingested_utc": "2025-10-07T14:37:06Z"
-  },
-  {
-    "published_utc": "2025-10-07",
-    "retrieved_date": "2025-10-07",
-    "retrieved_utc": "2025-10-07T14:36:52Z",
-    "source": "FT_Markets",
-    "title": "State Street’s flagship S&P 500 ETF suffers record $32bn outflows",
-    "url": "https://www.ft.com/content/75b022e4-486b-4eaa-8b8b-4911b335cf6b",
-    "id_key": "717bb69b6ce51785cf2c5d3e396a5da6454a4f1c467ff1aa5578186b21b1c383",
-    "summary": "Investors flee SPY despite this year’s rally on Wall Street in search of cheaper alternatives",
-    "ingested_utc": "2025-10-07T14:36:52Z"
   }
 ]
