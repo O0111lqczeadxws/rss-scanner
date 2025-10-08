@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-10-08",
     "retrieved_date": "2025-10-08",
+    "retrieved_utc": "2025-10-08T21:36:54Z",
+    "source": "Engadget_All",
+    "title": "Apple removed an app that archives videos of ICE arrests",
+    "url": "https://www.engadget.com/apps/apple-removed-an-app-that-archives-videos-of-ice-arrests-212946540.html?src=rss",
+    "id_key": "05c8f58aa43bbfd591cd5ec72072ea4c3d69537dfacb3f79518e884d1eca1363",
+    "summary": "Apple has removed Eyes Up, an app that collects and archives videos of Immigration Customs and Enforcement arrests, 404 Media reports . The app's removal follows similar action taken against ICEBlock last week, an app that tracks ICE activity in an attempt to offer real-time alerts of when and where arrests are happening. Unlike ICEBlock, though, Eyes Up's main purpose is to serve as an archive, not a tool for eluding government agents. The app, which is still available via the web and the Google Play Store , archives videos of ICE arrests from a variety of different sources, and plots them on an interactive map. Users can submit their own videos for inclusion, and tap or click on individual map pins to view videos and download them for later use. \"Our goal is government accountability, we aren’t even doing real-time tracking,\" an Eyes Up administrator told 404 Media . Ultimately, saved videos could prove useful in court, especially in response to possible ICE misconduct. Apple says it removed Eyes Up because it violated the company's policy around \"objectionable content,\" according to the report, and because it received information from law enforcement that the app is used \"to provide location information about law enforcement officers that can be used to harm such officers individually or as a group.\" Engadget has contacted Apple for more information on Eyes Up's removal from the App Store. We'll update this article if we hear back. Apple reportedly received similar information to spur the removal of ICEBlock from the App Store, including a direct request from Attorney General Pam Bondi, Fox Business reports . The fact that Eyes Up was also removed suggests that Apple is casting a wider net than just banning apps that help pinpoint the location of ICE activity. Google has been removing similar apps on the Play Store, too. The company pulled an app called Red Dot that also plotted ICE activity on a map, one of several apps that were removed because they shared the location of a \"vulnerable group.\" This article originally appeared on Engadget at https://www.engadget.com/apps/apple-removed-an-app-that-archives-videos-of-ice-arrests-212946540.html?src=rss",
+    "ingested_utc": "2025-10-08T21:36:54Z"
+  },
+  {
+    "published_utc": "2025-10-08",
+    "retrieved_date": "2025-10-08",
+    "retrieved_utc": "2025-10-08T21:36:50Z",
+    "source": "TheVerge_All",
+    "title": "Discord says 70,000 users may have had their government IDs leaked in breach",
+    "url": "https://www.theverge.com/news/797051/discord-government-ids-leaked-data-breach",
+    "id_key": "77e411c48880bf5c856e67304e013584fd6354eb184f180825109c2b9dc25f23",
+    "summary": "Discord has identified approximately 70,000 users that may have had their government ID photos exposed as part of a customer service data breach announced last week, spokesperson Nu Wexler tells The Verge. A tweet by vx-underground said that the company was being extorted over a breach of its Zendesk instance by a group claiming to […]",
+    "ingested_utc": "2025-10-08T21:36:50Z"
+  },
+  {
+    "published_utc": "2025-10-08",
+    "retrieved_date": "2025-10-08",
+    "retrieved_utc": "2025-10-08T21:34:28Z",
+    "source": "CryptoSlate",
+    "title": "Will BoE’s ‘exemptions’ supercharge stablecoin rails into BTC and ETH?",
+    "url": "https://cryptoslate.com/will-boes-exemptions-supercharge-stablecoin-rails-into-btc-and-eth/",
+    "id_key": "73810c814555b013212650e628b431221bd6bbaab1bad4611b54a383f78a9cad",
+    "summary": "The Bank of England (BoE) will exempt crypto exchanges and other operationally critical firms from proposed stablecoin holding limits, potentially supercharing money into Bitcoin (BTC) and Ethereum (ETH). As Bloomberg News reported on Oct. 7, the central bank plans to grant waivers to firms that require large token inventories for market-making and settlement operations, according […] The post Will BoE’s ‘exemptions’ supercharge stablecoin rails into BTC and ETH? appeared first on CryptoSlate .",
+    "ingested_utc": "2025-10-08T21:34:28Z"
+  },
+  {
+    "published_utc": "2025-10-08",
+    "retrieved_date": "2025-10-08",
     "retrieved_utc": "2025-10-08T21:29:34Z",
     "source": "FinancialPost_Business",
     "title": "Executives say focus on mutual wins key to breakthrough on U.S. trade",
@@ -10965,38 +10998,5 @@
     "id_key": "0fbcc9f862988392d0364fc48870484a388a550e0eaee09f77910e82a1af2855",
     "summary": "Google has a long history of building something interesting, making a lot of big promises about its future, then seemingly forgetting it exists and killing it a few months or years later. Over the last few years, you'd be forgiven for thinking the smart home was one of those things, as Google Home and Nest […]",
     "ingested_utc": "2025-10-07T13:41:08Z"
-  },
-  {
-    "published_utc": "2025-10-07",
-    "retrieved_date": "2025-10-07",
-    "retrieved_utc": "2025-10-07T13:40:52Z",
-    "source": "FT_Home",
-    "title": "France’s political crisis leaves budget plans in disarray",
-    "url": "https://www.ft.com/content/cbca30b0-4a33-4105-9729-7050c031220e",
-    "id_key": "384076d62e52759f9a99d0bbf6e532f8cd31782099078c96b5b84eb97765f148",
-    "summary": "Spending can be rolled over but this would prevent measures to tackle France’s worrying public deficit",
-    "ingested_utc": "2025-10-07T13:40:52Z"
-  },
-  {
-    "published_utc": "2025-10-07",
-    "retrieved_date": "2025-10-07",
-    "retrieved_utc": "2025-10-07T13:40:42Z",
-    "source": "NYTimes_Technology",
-    "title": "Nobel Prize in Physics Is Awarded for Work in Quantum Mechanics",
-    "url": "https://www.nytimes.com/2025/10/07/science/nobel-prize-physics.html",
-    "id_key": "ea2339c9c932b0c4026d4bcc28c2045dd74a89d057e292d916f43e01f2800516",
-    "summary": "John Clarke, Michel H. Devoret and John M. Martinis were recognized for work that made principles of the subatomic realm observable at a larger scale.",
-    "ingested_utc": "2025-10-07T13:40:42Z"
-  },
-  {
-    "published_utc": "2025-10-07",
-    "retrieved_date": "2025-10-07",
-    "retrieved_utc": "2025-10-07T13:40:40Z",
-    "source": "NYTimes_Business",
-    "title": "Global Trade Growth to Slow Sharply Next Year, W.T.O. Says",
-    "url": "https://www.nytimes.com/2025/10/07/business/economy/global-trade-growth-wto.html",
-    "id_key": "57f1fa222f2c78183bdb5e89793866a0949d5b4973d991cdb14f5abb5c988ef2",
-    "summary": "The World Trade Organization said trade growth had proved more resilient in 2025 than expected, but would slow next year as result of President Trump’s tariffs.",
-    "ingested_utc": "2025-10-07T13:40:40Z"
   }
 ]
