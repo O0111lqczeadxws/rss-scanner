@@ -2,6 +2,105 @@
   {
     "published_utc": "2025-10-08",
     "retrieved_date": "2025-10-08",
+    "retrieved_utc": "2025-10-08T04:15:50Z",
+    "source": "FT_Markets",
+    "title": "Cocoa price tumbles to 20-month low as record rally ends",
+    "url": "https://www.ft.com/content/b6ce5520-b72b-40fc-8ccd-c688f47d9e26",
+    "id_key": "af7fa1798cc2756278300b6dcdf45e0dfb183d3432f3344f947bf33d5d77412e",
+    "summary": "Drop in demand and expectations of increased supply weigh on market",
+    "ingested_utc": "2025-10-08T04:15:50Z"
+  },
+  {
+    "published_utc": "2025-10-08",
+    "retrieved_date": "2025-10-08",
+    "retrieved_utc": "2025-10-08T04:15:49Z",
+    "source": "FT_Home",
+    "title": "The populist shadow hanging over central banks and QE",
+    "url": "https://www.ft.com/content/055fc5ae-9ecd-48b3-a36d-fd3cb7fcc68e",
+    "id_key": "ac5661dfacd32a017fb2bdd69396a99e59a4e3ad63ba85cab9e474dfcc86c806",
+    "summary": "The massive bond purchases are being unwound at a time of fierce political criticism of the monetary authorities. The controversy could limit options in future crises",
+    "ingested_utc": "2025-10-08T04:15:49Z"
+  },
+  {
+    "published_utc": "2025-10-08",
+    "retrieved_date": "2025-10-08",
+    "retrieved_utc": "2025-10-08T04:15:49Z",
+    "source": "FT_Home",
+    "title": "Let’s end Eurostar’s monopoly on cross-channel rail",
+    "url": "https://www.ft.com/content/8ea47bb1-6bac-4377-9e68-2b4cc121604f",
+    "id_key": "512db9572f3113f0192eccb64d5795d5ef57da2913ebd09fabb3a500876cf43c",
+    "summary": "New entrants could revitalise and expand rail services from London to continental Europe",
+    "ingested_utc": "2025-10-08T04:15:49Z"
+  },
+  {
+    "published_utc": "2025-10-08",
+    "retrieved_date": "2025-10-08",
+    "retrieved_utc": "2025-10-08T04:15:49Z",
+    "source": "FT_Home",
+    "title": "Big bond investors tell Reeves to build bigger fiscal buffer",
+    "url": "https://www.ft.com/content/734554df-ade6-4643-934a-46e1d4cce1d5",
+    "id_key": "dc202b87603abbe563e6ede4a6521b095ddec54e5dc234bb6ebfbbf55e52bee6",
+    "summary": "Pimco and BlackRock both say chancellor needs to go beyond slim £9.9bn of margin left against key borrowing rule",
+    "ingested_utc": "2025-10-08T04:15:49Z"
+  },
+  {
+    "published_utc": "2025-10-08",
+    "retrieved_date": "2025-10-08",
+    "retrieved_utc": "2025-10-08T04:15:49Z",
+    "source": "FT_Home",
+    "title": "Gold price tops $4,000 for first time",
+    "url": "https://www.ft.com/content/ed7f86e8-d12a-4c0a-a7d6-8400bfde6140",
+    "id_key": "7dc307145a3ea2216d951993302985d09c76f026ea265e0ee543af5bb2e2da32",
+    "summary": "Prices have doubled in less than two years as central banks stockpile bullion and investors pour in to gold funds",
+    "ingested_utc": "2025-10-08T04:15:49Z"
+  },
+  {
+    "published_utc": "2025-10-08",
+    "retrieved_date": "2025-10-08",
+    "retrieved_utc": "2025-10-08T04:15:38Z",
+    "source": "NYTimes_World",
+    "title": "Cheer Up, or Else. China Cracks Down on the Haters and Cynics",
+    "url": "https://www.nytimes.com/2025/10/08/world/asia/china-censorship-pessimism-despair.html",
+    "id_key": "77fad4a41b58f23c63ac9c2673d26b55a320ce80e5d7fe2afbd04a772456cbb5",
+    "summary": "As China struggles with economic discontent, internet censors are silencing those who voice doubts about work, marriage, or simply sigh too loudly online.",
+    "ingested_utc": "2025-10-08T04:15:38Z"
+  },
+  {
+    "published_utc": "2025-10-08",
+    "retrieved_date": "2025-10-08",
+    "retrieved_utc": "2025-10-08T04:14:55Z",
+    "source": "Optimism_Releases",
+    "title": "op-challenger/v1.6.0",
+    "url": "https://github.com/ethereum-optimism/optimism/releases/tag/op-challenger%2Fv1.6.0",
+    "id_key": "f4585af8e172ba35ec06974a5d05460b551e4a643427ccfba97e7026be51d172",
+    "summary": "Overview This release of op-challenger adds support for the Ethereum Fusaka upgrade . It's a required upgrade. What's Changed Support for Fusaka with op-program v1.7.0 If deriving from a chain other than Ethereum Mainnet, Sepolia or Hoodi then L1 chain config must be supplied via a new flag. Support for cannon-kona games New metrics: i-cache misses, number of consecutive failures Full Changelog : op-challenger/v1.5.2...op-challenger/v1.6.0 🚢 Docker Image: https://us-docker.pkg.dev/oplabs-tools-artifacts/images/op-challenger:v1.6.0",
+    "ingested_utc": "2025-10-08T04:14:55Z"
+  },
+  {
+    "published_utc": "2025-10-08",
+    "retrieved_date": "2025-10-08",
+    "retrieved_utc": "2025-10-08T04:13:22Z",
+    "source": "Guardian_World",
+    "title": "Australia politics live: home affairs secretary reveals citizenship processed for two detainees returned from Syria",
+    "url": "https://www.theguardian.com/australia-news/live/2025/oct/08/australia-politics-live-gaza-rally-parliament-anthony-albanese-sussan-ley-question-time-andrew-hastie-ntwnfb",
+    "id_key": "9e370505ca19b39450c45027a7d47b3b0b6ff9538c4f1def93269440094eeadb",
+    "summary": "Tony Burke says Labor not involved in repatriation of two women and four children. Follow today’s news live Get our breaking news email , free app or daily news podcast The Victorian premier, Jacinta Allan , is doing a breakfast television blitz this morning to announce that the public will be able to travel for free every weekend from early December until 1 February, as part of the launch of the metro tunnel. Allan has described it as a “thank you” to commuters for enduring disruptions as the project was built. Speaking on Today, she said: To say thank you to Victorians for their [patience, we are] delivering free public transport for everyone every weekend, everywhere in our state. From the opening of the metro tunnel in early December through to the 1st of February, when we integrate this amazing piece of infrastructure into the [public transport network]. This is how you do it to get a smooth, safe start, to get passengers using this infrastructure at the earliest opportunity. Continue reading...",
+    "ingested_utc": "2025-10-08T04:13:22Z"
+  },
+  {
+    "published_utc": "2025-10-08",
+    "retrieved_date": "2025-10-08",
+    "retrieved_utc": "2025-10-08T04:13:22Z",
+    "source": "Guardian_World",
+    "title": "Scientists develop first ‘accurate blood test’ to detect chronic fatigue syndrome",
+    "url": "https://www.theguardian.com/society/2025/oct/08/scientists-say-they-have-first-blood-test-to-diagnose-chronic-fatigue-syndrome-me",
+    "id_key": "5c93be556a9b28cf77f15fe6d51cc34f01a8c0ba5836ff16839a0c3efa3fbbd8",
+    "summary": "Research could offer hope for ME patients – but some experts urge caution and say more studies needed Scientists say they have developed the world’s first blood test to diagnose myalgic encephalomyelitis, also known as chronic fatigue syndrome (ME/CFS). There is no currently no test for the condition and patients tend to be diagnosed based on symptoms, which means many can go undiagnosed for years. Continue reading...",
+    "ingested_utc": "2025-10-08T04:13:22Z"
+  },
+  {
+    "published_utc": "2025-10-08",
+    "retrieved_date": "2025-10-08",
     "retrieved_utc": "2025-10-08T03:54:32Z",
     "source": "AlJazeera_All",
     "title": "Muslims in India’s poll-bound Bihar battle ‘Bangladeshi infiltrator’ tag",
@@ -614,6 +713,28 @@
     "id_key": "a1f4a0003d754590cdff0537e9b88d30ee6ccf2864ee583c446ef70055cea389",
     "summary": "It was previously thought the delivery service could face disruption for several days after some drivers began three days of action.",
     "ingested_utc": "2025-10-08T00:48:32Z"
+  },
+  {
+    "published_utc": "2025-10-07",
+    "retrieved_date": "2025-10-08",
+    "retrieved_utc": "2025-10-08T04:15:50Z",
+    "source": "FT_Markets",
+    "title": "Banks to pay out £11bn for UK car finance mis-selling scandal, says regulator",
+    "url": "https://www.ft.com/content/d3a2b307-b60b-40a0-a492-539d90aa5afb",
+    "id_key": "8588c84d38084b82c9be54a007383419e3aacf8682ee04633ca8eb0eed83cd50",
+    "summary": "Lower than expected FCA figure is still set to be one of the industry’s biggest compensation schemes",
+    "ingested_utc": "2025-10-08T04:15:50Z"
+  },
+  {
+    "published_utc": "2025-10-07",
+    "retrieved_date": "2025-10-08",
+    "retrieved_utc": "2025-10-08T04:15:50Z",
+    "source": "FT_Markets",
+    "title": "Revolut co-founder Nik Storonsky shifts his residency from UK to UAE",
+    "url": "https://www.ft.com/content/54348782-abc4-4345-a939-f8606103109e",
+    "id_key": "1c04ecce1f5ca7521fc7f3c5927236374c9b348e6a3328bb2e4589a98fe88be0",
+    "summary": "Change in billionaire’s country of residence disclosed in Companies House filing",
+    "ingested_utc": "2025-10-08T04:15:50Z"
   },
   {
     "published_utc": "2025-10-07",
@@ -10877,126 +10998,5 @@
     "id_key": "fc86ad24b5b14191d313490340d3089807bdcb27fcda0a310c2484c720084748",
     "summary": "Adani Green Energy Ltd, controlled by Indian billionaire Gautam Adani, signed a deal to raise around $250 million from a group of global lenders, according to people familiar with the matter, in what would be the unit’s first foreign currency loan since an indictment by the US Department of Justice.",
     "ingested_utc": "2025-10-06T15:33:39Z"
-  },
-  {
-    "published_utc": "2025-10-06",
-    "retrieved_date": "2025-10-06",
-    "retrieved_utc": "2025-10-06T15:33:32Z",
-    "source": "TheStreet_Top",
-    "title": "Walmart is selling a $90 heated neck and shoulder massager for $40",
-    "url": "https://www.thestreet.com/deals/alljoy-neck-and-shoulder-massager-walmart-flash-sale",
-    "id_key": "ac357fe8ecf7039c044025478dad9be44d63b477442ce3a1f8acc47a8e8d05a5",
-    "summary": "The hands-free device can be used to target pain in other areas of the body as well.",
-    "ingested_utc": "2025-10-06T15:33:32Z"
-  },
-  {
-    "published_utc": "2025-10-06",
-    "retrieved_date": "2025-10-06",
-    "retrieved_utc": "2025-10-06T15:33:32Z",
-    "source": "AlJazeera_All",
-    "title": "ICC convicts first militia leader for brutal attacks in Darfur",
-    "url": "https://www.aljazeera.com/video/newsfeed/2025/10/6/icc-convicts-first-militia-leader-for-brutal-attacks-in-darfur?traffic_source=rss",
-    "id_key": "4981e6dd5d129852cf60b0e6df7f50fd7fee3fe8fe134b93ffc0028adb2effe7",
-    "summary": "The International Criminal Court has found Sudanese militia chief Ali Muhammad Ali Abd-Al-Rahman guilty of war crimes.",
-    "ingested_utc": "2025-10-06T15:33:32Z"
-  },
-  {
-    "published_utc": "2025-10-06",
-    "retrieved_date": "2025-10-06",
-    "retrieved_utc": "2025-10-06T15:33:32Z",
-    "source": "AlJazeera_All",
-    "title": "Ukraine’s Zelenskyy says Western parts found in Russian drones, missiles",
-    "url": "https://www.aljazeera.com/news/2025/10/6/ukraine-zelenskyy-says-western-parts-found-in-russian-drones-missiles?traffic_source=rss",
-    "id_key": "2c3ab0b1219761886a81ca572b26fd1078785db421f461877eec1e080e0345e0",
-    "summary": "President says Ukraine is preparing 'new sanctions against those who help Russia and its war'.",
-    "ingested_utc": "2025-10-06T15:33:32Z"
-  },
-  {
-    "published_utc": "2025-10-06",
-    "retrieved_date": "2025-10-06",
-    "retrieved_utc": "2025-10-06T15:33:21Z",
-    "source": "ArsTechnica_All",
-    "title": "F1 in Singapore: “Trophy for the hero of race”",
-    "url": "https://arstechnica.com/cars/2025/10/f1-in-singapore-trophy-for-the-hero-of-race/",
-    "id_key": "13112d87f0021d6e38f51078f61fae3465fce73c723d755d07cabb57d779512f",
-    "summary": "Intra-teammate relationships began to fray under the lights at this night race.",
-    "ingested_utc": "2025-10-06T15:33:21Z"
-  },
-  {
-    "published_utc": "2025-10-06",
-    "retrieved_date": "2025-10-06",
-    "retrieved_utc": "2025-10-06T15:33:20Z",
-    "source": "TheVerge_All",
-    "title": "A four-pack of Apple AirTags are 34 percent off",
-    "url": "https://www.theverge.com/tech/792702/logitech-mx-master-4-deal-sale",
-    "id_key": "5479720e6f92ac1e764319f72d9b98bf10a669a9e7fce63acc3a0bedab4b2528",
-    "summary": "It’s not often that a four-pack of Apple AirTags trackers drops below $70. Originally $99, the set is just $64.99 at Amazon, Best Buy, and Walmart ahead of Prime Big Deal Days. It’s nearly matching the best deal yet (missing the mark by a mere 50 cents), and the four-pack hasn’t been this affordable since […]",
-    "ingested_utc": "2025-10-06T15:33:20Z"
-  },
-  {
-    "published_utc": "2025-10-06",
-    "retrieved_date": "2025-10-06",
-    "retrieved_utc": "2025-10-06T15:32:54Z",
-    "source": "NYTimes_World",
-    "title": "Greta Thunberg Among Hundreds From Gaza Aid Flotilla Deported by Israel",
-    "url": "https://www.nytimes.com/2025/10/06/world/middleeast/greta-thunberg-israel-deportation-gaza-flotilla.html",
-    "id_key": "cb7b24ab357e4aed9ecfdb703b1f10b4d74f1b8143b9f3ff05adeeff226410d7",
-    "summary": "Israel intercepted the boats at sea and detained the participants for days before expelling them. Some of the activists said they were mistreated, which Israel denied.",
-    "ingested_utc": "2025-10-06T15:32:54Z"
-  },
-  {
-    "published_utc": "2025-10-06",
-    "retrieved_date": "2025-10-06",
-    "retrieved_utc": "2025-10-06T15:32:53Z",
-    "source": "NYTimes_Business",
-    "title": "Bessent Taps Social Security Chief to Serve as C.E.O. of I.R.S.",
-    "url": "https://www.nytimes.com/2025/10/06/business/frank-bisignano-social-security-chief-irs.html",
-    "id_key": "186dd9cf784375fb6923a6d8b166c53fe044eef802818282cf3aa57cfa4d0322",
-    "summary": "Frank Bisignano, who already leads the Social Security Administration, will also take on the day-to-day duties of the tax collector.",
-    "ingested_utc": "2025-10-06T15:32:53Z"
-  },
-  {
-    "published_utc": "2025-10-06",
-    "retrieved_date": "2025-10-06",
-    "retrieved_utc": "2025-10-06T15:31:03Z",
-    "source": "CryptoNews",
-    "title": "Grayscale Launches First US-Listed Spot Crypto ETFs Allowing Staking for ETH and SOL",
-    "url": "https://cryptonews.com/news/grayscale-launches-first-us-listed-spot-crypto-etfs-allowing-staking-for-eth-and-sol/",
-    "id_key": "5e6eb0ec3605ba29e1456661ef38dc4b39f7c242fa6df1f93cd9eb608dff9f02",
-    "summary": "Grayscale has launched the first U.S.-listed spot crypto ETFs allowing staking for Ethereum and Solana products, pending final SEC approval, as the digital asset manager enables passive staking to strengthen blockchain protocols while maintaining core investment objectives. The post Grayscale Launches First US-Listed Spot Crypto ETFs Allowing Staking for ETH and SOL appeared first on Cryptonews .",
-    "ingested_utc": "2025-10-06T15:31:03Z"
-  },
-  {
-    "published_utc": "2025-10-06",
-    "retrieved_date": "2025-10-06",
-    "retrieved_utc": "2025-10-06T15:31:00Z",
-    "source": "CryptoBriefing",
-    "title": "Anthony Pompliano’s ProCap BTC appoints former US House Financial Services Chair as senior advisor",
-    "url": "https://cryptobriefing.com/procap-btc-appoints-hensarling-senior-advisor/",
-    "id_key": "2ddbc8c26acec9b95c07c233e0fb746222d1413755bfbd7663b25550c3677c42",
-    "summary": "ProCap BTC's strategic hire signals a push for regulatory alignment, potentially influencing broader adoption of Bitcoin in corporate treasuries. The post Anthony Pompliano’s ProCap BTC appoints former US House Financial Services Chair as senior advisor appeared first on Crypto Briefing .",
-    "ingested_utc": "2025-10-06T15:31:00Z"
-  },
-  {
-    "published_utc": "2025-10-06",
-    "retrieved_date": "2025-10-06",
-    "retrieved_utc": "2025-10-06T15:30:36Z",
-    "source": "Guardian_World",
-    "title": "Firearms officer used excessive force in fatal shooting of unarmed man in London, misconduct hearing told",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/06/firearms-officer-used-excessive-force-in-fatal-shooting-of-unarmed-man-jermaine-baker-london-misconduct-hearing-told",
-    "id_key": "6e2fd3577d007313c23371c2db752a05e6da40087b033189dbe2cc591ada5eac",
-    "summary": "Jermaine Baker, from Tottenham, killed during operation to stop plot to spring gang leader from prison in 2015 A firearms officer used excessive force when he shot dead an unarmed 28-year-old man involved in a foiled attempt to spring a gang leader from prison, a police misconduct hearing has been told. The officer, known only as W80, killed Jermaine Baker, from Tottenham, north London, during an operation to interrupt a criminal plot to snatch Izzet Eren, the head of the Tottenham Turks organised crime group, from a van heading towards Wood Green crown court in December 2015. Continue reading...",
-    "ingested_utc": "2025-10-06T15:30:36Z"
-  },
-  {
-    "published_utc": "2025-10-06",
-    "retrieved_date": "2025-10-06",
-    "retrieved_utc": "2025-10-06T15:30:36Z",
-    "source": "Guardian_World",
-    "title": "Term ‘disabled’ being used too widely, shadow work and pensions secretary says – UK politics live",
-    "url": "https://www.theguardian.com/politics/live/2025/oct/06/conservative-tory-party-conference-spending-welfare-immigration-labour-starmer-reform-uk-politics-live-news-updates",
-    "id_key": "9e00168386ed5c02d7db202c66fa91f9729e28ea8bd90d73a0267ea8a2e3e518",
-    "summary": "Helen Whateley says ‘millions are sitting on the sofa at home’ Mel Stride , the shadow chancellor, was doing an interview round for the Conservatives this morning, and Miatta Fahnbulleh , the faith and communities minister, was on the air on behalf of the government. They were both asked about the latest development in the flag phenomenon – the former footballer turned property developer Gary Neville saying that he took down a union flag flying at one of his building sites because he felt it was being used in a “negative fashion”. Asked if Neville (a Labour supporter) had a point, Fahnbulleh told ITV’s Good Morning Britain: I think he’s really right, that there are people who are trying to divide us at the moment … I spent a lot of time going around our communities, talking to people. People are ground down. We’ve had a decade-and-a-half in which living standards haven’t budged and people have seen their communities held down. And you will get people trying to stoke division, trying to blame others, trying to stoke tension. I think people that put up flags, the vast majority of people that do, do so for perfectly reasonable patriotic reasons. And I think reclaiming our flag as a flag of unity and decency and tolerance, which is the way most people see our flag, is a very positive thing. So I’m afraid I really cannot agree with the comments that he’s made. Continue reading...",
-    "ingested_utc": "2025-10-06T15:30:36Z"
   }
 ]
