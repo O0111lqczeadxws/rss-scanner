@@ -1,17 +1,17 @@
 {
-  "started_utc": "2025-10-08T06:16:34Z",
-  "ended_utc": "2025-10-08T06:20:14Z",
-  "new_items_this_run": 11,
+  "started_utc": "2025-10-08T06:46:39Z",
+  "ended_utc": "2025-10-08T06:50:31Z",
+  "new_items_this_run": 9,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
     "Reuters_World": 0,
     "Reuters_Markets": 0,
     "BBC_World": 1,
-    "BBC_Business": 1,
-    "BBC_Technology": 0,
+    "BBC_Business": 0,
+    "BBC_Technology": 1,
     "Guardian_Business": 0,
-    "Guardian_World": 5,
+    "Guardian_World": 1,
     "WSJ_US_Business": 0,
     "WSJ_World": 0,
     "WSJ_Markets": 0,
@@ -22,8 +22,8 @@
     "CryptoSlate": 0,
     "CryptoBriefing": 0,
     "Protos": 0,
-    "CryptoNews": 1,
-    "CoinJournal": 0,
+    "CryptoNews": 0,
+    "CoinJournal": 1,
     "Unchained": 0,
     "Bankless": 0,
     "CoinGecko_Blog": 0,
@@ -66,8 +66,8 @@
     "NPR_Economy": 1,
     "NPR_World": 0,
     "NPR_Technology": 0,
-    "FT_Home": 1,
-    "FT_Markets": 0,
+    "FT_Home": 0,
+    "FT_Markets": 2,
     "CNBC_Top": 0,
     "CNBC_Markets": 0,
     "TheVerge_All": 0,
@@ -81,7 +81,7 @@
     "TheStreet_Top": 0,
     "AlJazeera_All": 0,
     "AlJazeera_Economy": 0,
-    "FinancialPost_Business": 0,
+    "FinancialPost_Business": 1,
     "CBC_Business": 0,
     "Nikkei_Asia_Top": 0,
     "WorldBank_News": 0,
@@ -92,7 +92,7 @@
   "errors": [
     {
       "source": "https://feeds.reuters.com/reuters/businessNews",
-      "error": "fetch error: HTTPSConnectionPool(host='feeds.reuters.com', port=443): Max retries exceeded with url: /reuters/businessNews (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f2e286f4650>: Failed to resolve 'feeds.reuters.com' ([Errno -2] Name or service not known)\"))"
+      "error": "fetch error: HTTPSConnectionPool(host='feeds.reuters.com', port=443): Max retries exceeded with url: /reuters/businessNews (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7efd76d4ca50>: Failed to resolve 'feeds.reuters.com' ([Errno -2] Name or service not known)\"))"
     },
     {
       "source": "Reuters_Business",
@@ -100,7 +100,7 @@
     },
     {
       "source": "https://feeds.reuters.com/reuters/worldNews",
-      "error": "fetch error: HTTPSConnectionPool(host='feeds.reuters.com', port=443): Max retries exceeded with url: /reuters/worldNews (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f2e287059d0>: Failed to resolve 'feeds.reuters.com' ([Errno -2] Name or service not known)\"))"
+      "error": "fetch error: HTTPSConnectionPool(host='feeds.reuters.com', port=443): Max retries exceeded with url: /reuters/worldNews (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7efd76d61dd0>: Failed to resolve 'feeds.reuters.com' ([Errno -2] Name or service not known)\"))"
     },
     {
       "source": "Reuters_World",
@@ -108,7 +108,7 @@
     },
     {
       "source": "https://feeds.reuters.com/reuters/marketsNews",
-      "error": "fetch error: HTTPSConnectionPool(host='feeds.reuters.com', port=443): Max retries exceeded with url: /reuters/marketsNews (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f2e286eaa90>: Failed to resolve 'feeds.reuters.com' ([Errno -2] Name or service not known)\"))"
+      "error": "fetch error: HTTPSConnectionPool(host='feeds.reuters.com', port=443): Max retries exceeded with url: /reuters/marketsNews (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7efd76d3d8d0>: Failed to resolve 'feeds.reuters.com' ([Errno -2] Name or service not known)\"))"
     },
     {
       "source": "Reuters_Markets",
@@ -160,7 +160,7 @@
     },
     {
       "source": "https://blog.optimism.io/rss/",
-      "error": "fetch error: HTTPSConnectionPool(host='blog.optimism.io', port=443): Max retries exceeded with url: /rss/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f2e28453890>: Failed to resolve 'blog.optimism.io' ([Errno -5] No address associated with hostname)\"))"
+      "error": "fetch error: HTTPSConnectionPool(host='blog.optimism.io', port=443): Max retries exceeded with url: /rss/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7efd76d3fc90>: Failed to resolve 'blog.optimism.io' ([Errno -5] No address associated with hostname)\"))"
     },
     {
       "source": "Optimism_Blog",
@@ -179,12 +179,20 @@
       "error": "<unknown>:2:2140: not well-formed (invalid token)"
     },
     {
+      "source": "https://medium.com/feed/avalancheavax",
+      "error": "fetch error: HTTP 429"
+    },
+    {
+      "source": "Avalanche_Blog",
+      "error": "fatal parse failure"
+    },
+    {
       "source": "NEAR_Blog",
       "error": "<unknown>:2:2637: not well-formed (invalid token)"
     },
     {
       "source": "https://blog.dydx.exchange/feed",
-      "error": "fetch error: HTTPSConnectionPool(host='blog.dydx.exchange', port=443): Max retries exceeded with url: /feed (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f2e28464c10>: Failed to resolve 'blog.dydx.exchange' ([Errno -5] No address associated with hostname)\"))"
+      "error": "fetch error: HTTPSConnectionPool(host='blog.dydx.exchange', port=443): Max retries exceeded with url: /feed (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7efd76b2ce90>: Failed to resolve 'blog.dydx.exchange' ([Errno -5] No address associated with hostname)\"))"
     },
     {
       "source": "dYdX_Blog",
@@ -192,7 +200,7 @@
     },
     {
       "source": "Gemini_Blog",
-      "error": "<unknown>:453:1632513: junk after document element"
+      "error": "<unknown>:453:1631549: junk after document element"
     },
     {
       "source": "https://www.circle.com/blog/rss.xml",
@@ -208,7 +216,7 @@
     },
     {
       "source": "https://blog.metamask.io/rss/",
-      "error": "fetch error: HTTPSConnectionPool(host='blog.metamask.io', port=443): Max retries exceeded with url: /rss/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f2e2846b410>: Failed to resolve 'blog.metamask.io' ([Errno -5] No address associated with hostname)\"))"
+      "error": "fetch error: HTTPSConnectionPool(host='blog.metamask.io', port=443): Max retries exceeded with url: /rss/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7efd76b2c210>: Failed to resolve 'blog.metamask.io' ([Errno -5] No address associated with hostname)\"))"
     },
     {
       "source": "MetaMask_Blog",
@@ -347,19 +355,19 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 578,
+    "passed_keywords": 577,
     "passed_allowlist": 0,
-    "failed_all_filters": 484
+    "failed_all_filters": 485
   },
   "stats": {
     "feeds_total": 97,
-    "feeds_error": 25,
+    "feeds_error": 26,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 1508,
-    "too_old": 446,
+    "entries_seen": 1498,
+    "too_old": 436,
     "dup_title_url": 103,
-    "dup_id": 464
+    "dup_id": 465
   },
   "limits": {
     "skip_older_days": 10,
@@ -372,6 +380,6 @@
   },
   "processed": {
     "file": "data/processed/2025-10-08.jsonl",
-    "appended_new": 8
+    "appended_new": 6
   }
 }
