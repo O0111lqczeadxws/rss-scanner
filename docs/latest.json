@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-10-09",
     "retrieved_date": "2025-10-09",
+    "retrieved_utc": "2025-10-09T07:50:04Z",
+    "source": "NYTimes_World",
+    "title": "What We Know About the Hostage Deal Between Israel and Hamas",
+    "url": "https://www.nytimes.com/2025/10/09/world/middleeast/israel-hamas-deal-what-to-know.html",
+    "id_key": "2cb84f63b66e10840d27019292c7831eb22f448b3cf34b38840c7f27afe564a5",
+    "summary": "After President Trump announced the Gaza agreement, it was unclear when hostages would be released or when aid would enter the territory.",
+    "ingested_utc": "2025-10-09T07:50:04Z"
+  },
+  {
+    "published_utc": "2025-10-09",
+    "retrieved_date": "2025-10-09",
+    "retrieved_utc": "2025-10-09T07:47:46Z",
+    "source": "BBC_World",
+    "title": "Israel and Hamas agree to first phase of Gaza peace plan",
+    "url": "https://www.bbc.com/news/articles/ce80rmq3g5qo?at_medium=RSS&at_campaign=rss",
+    "id_key": "2cc9f82731c80630767fdb9df5add8d3ae89fa2c106f2d86e347a82d2b7a97e5",
+    "summary": "The deal raises hopes for a lasting peace after more than two years of conflict.",
+    "ingested_utc": "2025-10-09T07:47:46Z"
+  },
+  {
+    "published_utc": "2025-10-09",
+    "retrieved_date": "2025-10-09",
     "retrieved_utc": "2025-10-09T07:40:49Z",
     "source": "Nikkei_Asia_Top",
     "title": "Uniqlo operator predicts flat profit for 2026 amid Trump tariffs",
@@ -10976,27 +10998,5 @@
     "id_key": "a33c8c24132f7d9827ccdd0ba310139d7c5341431c7bdd707cd5c2207445d626",
     "summary": "US's Trump said the two leaders would discuss trade as tariffs weigh on the Canadian economy.",
     "ingested_utc": "2025-10-07T18:19:11Z"
-  },
-  {
-    "published_utc": "2025-10-07",
-    "retrieved_date": "2025-10-07",
-    "retrieved_utc": "2025-10-07T18:19:10Z",
-    "source": "TheStreet_Top",
-    "title": "Massive grocery, supermarket chain closing more stores",
-    "url": "https://www.thestreet.com/retail/massive-grocery-supermarket-chain-closing-more-stores",
-    "id_key": "731f97aceb09e033bbd5bef200b9ca92c01c3aa07016c7e0cb7902e5f391df10",
-    "summary": "The grocery business operates under very low margins, and it's not just Kroger that has been shutting down locations.",
-    "ingested_utc": "2025-10-07T18:19:10Z"
-  },
-  {
-    "published_utc": "2025-10-07",
-    "retrieved_date": "2025-10-07",
-    "retrieved_utc": "2025-10-07T18:19:10Z",
-    "source": "TheStreet_Top",
-    "title": "AI makes inroads in massive multibillion-dollar market",
-    "url": "https://www.thestreet.com/travel/ai-makes-inroads-in-massive-multibillion-dollar-market",
-    "id_key": "fc4594911943a623c32ce9cbd154e1113cc786044f622a587072ec1869e413f5",
-    "summary": "AI is playing an increasingly larger role in the highly competitive online travel industry.",
-    "ingested_utc": "2025-10-07T18:19:10Z"
   }
 ]
