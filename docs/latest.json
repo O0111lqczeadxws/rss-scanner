@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-10-09",
     "retrieved_date": "2025-10-09",
+    "retrieved_utc": "2025-10-09T05:34:00Z",
+    "source": "FT_Markets",
+    "title": "Gold as ‘debasement trade’ doesn’t add up",
+    "url": "https://www.ft.com/content/4eefc53c-de68-4495-b729-b028916dd645",
+    "id_key": "9fe228737717ad2bd45d94b1256b3889267179cb4f944088307806eebe3d94c4",
+    "summary": "The yellow metal says one thing; Treasuries and the dollar another",
+    "ingested_utc": "2025-10-09T05:34:00Z"
+  },
+  {
+    "published_utc": "2025-10-09",
+    "retrieved_date": "2025-10-09",
     "retrieved_utc": "2025-10-09T05:15:17Z",
     "source": "HackerNews_Top",
     "title": "Starlink is burning up one or two satellites a day in Earth's atmosphere",
@@ -10987,16 +10998,5 @@
     "id_key": "be9039219415b15b36cf56d498f3585854cdd3320810bc7a99d8967a7109edc5",
     "summary": "A dozen facilities saw air traffic control shortages on Monday, delaying flights at several airports. Transportation Secretary Sean Duffy blamed \"a slight tick-up in sick calls\" due to the shutdown.",
     "ingested_utc": "2025-10-07T17:12:33Z"
-  },
-  {
-    "published_utc": "2025-10-07",
-    "retrieved_date": "2025-10-07",
-    "retrieved_utc": "2025-10-07T17:10:24Z",
-    "source": "CryptoNews",
-    "title": "CEA Industries Snaps Up $624M in BNB – Targeting 1% Supply as Token Hits All-Time High",
-    "url": "https://cryptonews.com/news/cea-industries-snaps-up-624m-in-bnb-targeting-1-supply-as-token-hits-all-time-high/",
-    "id_key": "b1f1d1990b814434eb1e9ba8131cea4ad3eaad14cdff17327bbee3583c8b64bd",
-    "summary": "CEA has accumulated 480,000 BNB valued near $624M, with an average cost of $860 per token, and has set a goal of 1% of supply by 2025 as the asset has reached all-time highs and network usage has strengthened. The post CEA Industries Snaps Up $624M in BNB – Targeting 1% Supply as Token Hits All-Time High appeared first on Cryptonews .",
-    "ingested_utc": "2025-10-07T17:10:24Z"
   }
 ]
