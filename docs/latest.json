@@ -2,6 +2,50 @@
   {
     "published_utc": "2025-10-09",
     "retrieved_date": "2025-10-09",
+    "retrieved_utc": "2025-10-09T05:50:32Z",
+    "source": "FinancialPost_Business",
+    "title": "Zambia’s Record Copper Mining Output Meets a Red-Hot Market",
+    "url": "https://financialpost.com/pmn/business-pmn/zambias-record-copper-mining-output-meets-a-red-hot-market",
+    "id_key": "e26a48bb75762c344deea70caed038f9fe635ae422c44c3258be285c41aad153",
+    "summary": "Zambia is poised for record copper production this year, bolstering its standing as a key global supplier just as prices surge and demand is set to grow.",
+    "ingested_utc": "2025-10-09T05:50:32Z"
+  },
+  {
+    "published_utc": "2025-10-09",
+    "retrieved_date": "2025-10-09",
+    "retrieved_utc": "2025-10-09T05:49:56Z",
+    "source": "FT_Home",
+    "title": "Trump says Israel and Hamas have agreed first phase of Gaza peace plan",
+    "url": "https://www.ft.com/content/2bb3275c-6844-4505-9fc2-2942c2203777",
+    "id_key": "3badedfeac32b5cb6422d9512e9ad3ccf131a9e83aaed7f7fa1cfccb47f1303c",
+    "summary": "US president says all hostages to be released ‘very soon’ as he hails breakthrough deal",
+    "ingested_utc": "2025-10-09T05:49:56Z"
+  },
+  {
+    "published_utc": "2025-10-09",
+    "retrieved_date": "2025-10-09",
+    "retrieved_utc": "2025-10-09T05:49:56Z",
+    "source": "FT_Home",
+    "title": "Macquarie hunts for new Europe headquarters amid squeeze on top City offices",
+    "url": "https://www.ft.com/content/691eecb5-6342-448b-8ff4-c2a907a6cfb9",
+    "id_key": "eda5b5ae08d5f3b3e0c07d168f449eadcfe81fe77466c5b060ee1cc004fde13f",
+    "summary": "Australian investment group considers Canary Wharf and City locations for its 2,000-plus London staff",
+    "ingested_utc": "2025-10-09T05:49:56Z"
+  },
+  {
+    "published_utc": "2025-10-09",
+    "retrieved_date": "2025-10-09",
+    "retrieved_utc": "2025-10-09T05:49:56Z",
+    "source": "FT_Home",
+    "title": "UK food industry blames government for rising grocery bills",
+    "url": "https://www.ft.com/content/06faa830-1f83-4ae3-a61a-128e94a946f8",
+    "id_key": "9efdf3946ed24139a536bbeb6b092d383923c8f37ba7903a489d3762384feed9",
+    "summary": "Living wage increases, new regulations and backed-up planning system driving price rises, say producers",
+    "ingested_utc": "2025-10-09T05:49:56Z"
+  },
+  {
+    "published_utc": "2025-10-09",
+    "retrieved_date": "2025-10-09",
     "retrieved_utc": "2025-10-09T05:34:00Z",
     "source": "FT_Markets",
     "title": "Gold as ‘debasement trade’ doesn’t add up",
@@ -1010,6 +1054,17 @@
     "id_key": "490ec5c53d48cab04297007ed13d42852279d75d1fa47050fc54a5a793927389",
     "summary": "The US president says the first phase of the deal secures the exchange of Israeli hostages and Palestinian prisoners and the start of an Israeli withdrawal.",
     "ingested_utc": "2025-10-09T00:50:01Z"
+  },
+  {
+    "published_utc": "2025-10-08",
+    "retrieved_date": "2025-10-09",
+    "retrieved_utc": "2025-10-09T05:47:17Z",
+    "source": "BBC_World",
+    "title": "Too-loud ads annoying you while streaming? California's put a stop to  that",
+    "url": "https://www.bbc.com/news/articles/cg427wqpye2o?at_medium=RSS&at_campaign=rss",
+    "id_key": "8ca7d07843c0d118d7de025e14ce4ee455153e768e98b4ca03f7e2084b70c2ba",
+    "summary": "The state, home to Netflix and Hulu, has declared volume on adverts cannot be louder than the content people are watching.",
+    "ingested_utc": "2025-10-09T05:47:17Z"
   },
   {
     "published_utc": "2025-10-08",
@@ -10943,60 +10998,5 @@
     "id_key": "155db5b24da28c00f4ded031d04d4105ee5577c01ee5eb4d6285cab0e4ddc242",
     "summary": "Fireblocks has integrated XION, combining Fireblocks’ secure infrastructure with XION’s walletless, gasless user experience. The move has supported banks, enterprises, and brands in building payments, loyalty, gaming, and tokenization programs while reducing wallet and fee friction. The post Fireblocks Hooks XION Into Its $10T Platform to Simplify Institutional Web3 appeared first on Cryptonews .",
     "ingested_utc": "2025-10-07T17:29:45Z"
-  },
-  {
-    "published_utc": "2025-10-07",
-    "retrieved_date": "2025-10-07",
-    "retrieved_utc": "2025-10-07T17:29:20Z",
-    "source": "BBC_Business",
-    "title": "EU steel tariff hike threatens 'biggest ever crisis' for UK industry",
-    "url": "https://www.bbc.com/news/articles/cwy875px79po?at_medium=RSS&at_campaign=rss",
-    "id_key": "09cbc169265b715c0ee503631a447a7b7a0047b519082e1aed2201d4d8020a92",
-    "summary": "The EU is the destination for 78% of steel products made in the UK for overseas markets.",
-    "ingested_utc": "2025-10-07T17:29:20Z"
-  },
-  {
-    "published_utc": "2025-10-07",
-    "retrieved_date": "2025-10-07",
-    "retrieved_utc": "2025-10-07T17:13:16Z",
-    "source": "FinancialPost_Business",
-    "title": "JPMorgan’s Dimon says AI cost savings now matching money spent",
-    "url": "https://financialpost.com/technology/tech-news/jpmorgans-dimon-ai-cost-savings-matching-money-spent",
-    "id_key": "a9dd7e458991d059890b332409c9e095a6efaa4212b7e348cc0a0cc2c8e45610",
-    "summary": "Dimon has consistently touted the opportunities offered by AI, even if it eliminates some jobs",
-    "ingested_utc": "2025-10-07T17:13:16Z"
-  },
-  {
-    "published_utc": "2025-10-07",
-    "retrieved_date": "2025-10-07",
-    "retrieved_utc": "2025-10-07T17:12:56Z",
-    "source": "TechCrunch_All",
-    "title": "ICE bought vehicles equipped with fake cell towers to spy on phones",
-    "url": "https://techcrunch.com/2025/10/07/ice-bought-vehicles-equipped-with-fake-cell-towers-to-spy-on-phones/",
-    "id_key": "485b183172761799034c611c6c29cfffdbb73018fcd34271b5d8dde9fc982187",
-    "summary": "The federal contract shows ICE spent $825,000 on vans equipped with “cell-site simulators” which allow the real-world location tracking of nearby phones and their owners.",
-    "ingested_utc": "2025-10-07T17:12:56Z"
-  },
-  {
-    "published_utc": "2025-10-07",
-    "retrieved_date": "2025-10-07",
-    "retrieved_utc": "2025-10-07T17:12:55Z",
-    "source": "TheVerge_All",
-    "title": "Boox’s next smartphone-sized e-reader has a color screen and a stylus",
-    "url": "https://www.theverge.com/news/794751/onyx-boox-p6-pro-e-ink-reader-smartphone-color-palma",
-    "id_key": "b52e61604cef407a55f520270218d0f8245d8e14757442e4406195a7c5afdb6b",
-    "summary": "Boox has shared more details about its next smartphone-sized e-reader through a series of posts on China’s Weibo. First teased at IFA 2025 last month with very limited hands-on opportunities, the new device will be called the Boox P6 Pro in China where it’s expected to launch on October 9th. It will feature a SIM […]",
-    "ingested_utc": "2025-10-07T17:12:55Z"
-  },
-  {
-    "published_utc": "2025-10-07",
-    "retrieved_date": "2025-10-07",
-    "retrieved_utc": "2025-10-07T17:12:33Z",
-    "source": "NPR_Top",
-    "title": "The government shutdown is snarling air travel. Officials say it could get worse",
-    "url": "https://www.npr.org/2025/10/07/nx-s1-5564638/flight-delays-government-shutdown-air-traffic-control",
-    "id_key": "be9039219415b15b36cf56d498f3585854cdd3320810bc7a99d8967a7109edc5",
-    "summary": "A dozen facilities saw air traffic control shortages on Monday, delaying flights at several airports. Transportation Secretary Sean Duffy blamed \"a slight tick-up in sick calls\" due to the shutdown.",
-    "ingested_utc": "2025-10-07T17:12:33Z"
   }
 ]
