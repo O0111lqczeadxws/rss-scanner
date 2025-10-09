@@ -2,6 +2,61 @@
   {
     "published_utc": "2025-10-09",
     "retrieved_date": "2025-10-09",
+    "retrieved_utc": "2025-10-09T19:27:16Z",
+    "source": "Engadget_All",
+    "title": "Researchers find just 250 malicious documents can leave LLMs vulnerable to backdoors",
+    "url": "https://www.engadget.com/researchers-find-just-250-malicious-documents-can-leave-llms-vulnerable-to-backdoors-191112960.html?src=rss",
+    "id_key": "9a554d037003c2885cd8c8fbc2ff3e5e77a6e6c57612280ccd1906531881887e",
+    "summary": "Artificial intelligence companies have been working at breakneck speeds to develop the best and most powerful tools, but that rapid development hasn't always been coupled with clear understandings of AI's limitations or weaknesses. Today, Anthropic released a report on how attackers can influence the development of a large language model. The study centered on a type of attack called poisoning, where an LLM is pretrained on malicious content intended to make it learn dangerous or unwanted behaviors. The key finding from this study is that a bad actor doesn't need to control a percentage of the pretraining materials to get the LLM to be poisoned. Instead, the researchers found that a small and fairly constant number of malicious documents can poison an LLM, regardless of the size of the model or its training materials. The study was able to successfully backdoor LLMs based on using only 250 malicious documents in the pretraining data set, a much smaller number than expected for models ranging from 600 million to 13 billion parameters. \"We’re sharing these findings to show that data-poisoning attacks might be more practical than believed, and to encourage further research on data poisoning and potential defenses against it,\" the company said. Anthropic collaborated with the UK AI Security Institute and the Alan Turing Institute on the research. This article originally appeared on Engadget at https://www.engadget.com/researchers-find-just-250-malicious-documents-can-leave-llms-vulnerable-to-backdoors-191112960.html?src=rss",
+    "ingested_utc": "2025-10-09T19:27:16Z"
+  },
+  {
+    "published_utc": "2025-10-09",
+    "retrieved_date": "2025-10-09",
+    "retrieved_utc": "2025-10-09T19:27:14Z",
+    "source": "ArsTechnica_All",
+    "title": "YouTube explains how banned creators can get a “second chance”",
+    "url": "https://arstechnica.com/gadgets/2025/10/youtube-explains-how-banned-creators-can-get-a-second-chance/",
+    "id_key": "98d584fd96e13d4de3ef123c35343ca9be622fd45aaff8d3ac8e207397a55ee1",
+    "summary": "YouTube will evaluate each request individually, but copyright violators need not apply.",
+    "ingested_utc": "2025-10-09T19:27:14Z"
+  },
+  {
+    "published_utc": "2025-10-09",
+    "retrieved_date": "2025-10-09",
+    "retrieved_utc": "2025-10-09T19:26:37Z",
+    "source": "MarketWatch_Bulletins",
+    "title": "Dow, S&P, Nasdaq all lower in final hour amid questions around AI trade — live",
+    "url": "https://www.marketwatch.com/bulletins/redirect/go?g=f6719058-7fee-4ea6-b57d-7d65aa542214&mod=mw_rss_bulletins",
+    "id_key": "a8848c3b78ad99f96b521523e5f0019802f9e9a80a000f12a30ac5ca6093cff1",
+    "summary": "",
+    "ingested_utc": "2025-10-09T19:26:37Z"
+  },
+  {
+    "published_utc": "2025-10-09",
+    "retrieved_date": "2025-10-09",
+    "retrieved_utc": "2025-10-09T19:24:51Z",
+    "source": "Protos",
+    "title": "‘Salomon Brothers’ returns — with a $279B bitcoin dusting scheme",
+    "url": "https://protos.com/salomon-brothers-returns-with-a-279b-bitcoin-dusting-scheme/",
+    "id_key": "ee716a916bd17293bb2ff3bafd1f18ac8a70544e801ed858b791c8c4d89acf61",
+    "summary": "Self-proclaimed investment firm Salomon Brothers targeted 39,000 dormant addresses with bitcoin repossession warnings earlier this year. The post ‘Salomon Brothers’ returns — with a $279B bitcoin dusting scheme appeared first on Protos .",
+    "ingested_utc": "2025-10-09T19:24:51Z"
+  },
+  {
+    "published_utc": "2025-10-09",
+    "retrieved_date": "2025-10-09",
+    "retrieved_utc": "2025-10-09T19:24:50Z",
+    "source": "CryptoBriefing",
+    "title": "Grayscale selects Figment to power staking in Ethereum and Solana funds",
+    "url": "https://cryptobriefing.com/grayscale-figment-ethereum-solana-staking/",
+    "id_key": "b61da0bc0933c16300bdeb64f3efe06957a3ed37f2291af0eb42b61154db5145",
+    "summary": "Grayscale partners with Figment for Ethereum and Solana staking, enabling staking rewards in institutional crypto investment products. The post Grayscale selects Figment to power staking in Ethereum and Solana funds appeared first on Crypto Briefing .",
+    "ingested_utc": "2025-10-09T19:24:50Z"
+  },
+  {
+    "published_utc": "2025-10-09",
+    "retrieved_date": "2025-10-09",
     "retrieved_utc": "2025-10-09T19:12:56Z",
     "source": "FinancialPost_Business",
     "title": "Winston Churchill, William Berczy paintings among items in Hudson’s Bay auction",
@@ -10943,60 +10998,5 @@
     "id_key": "d045ca3fc1dcfdd7e9d45ced004892aaff6a543ebf209b2dde13de1504c67e71",
     "summary": "",
     "ingested_utc": "2025-10-08T11:49:44Z"
-  },
-  {
-    "published_utc": "2025-10-08",
-    "retrieved_date": "2025-10-08",
-    "retrieved_utc": "2025-10-08T11:47:52Z",
-    "source": "CryptoNews",
-    "title": "FCA Lifts ETN Ban Today — but UK Retail Investors Still Waiting for Market Access",
-    "url": "https://cryptonews.com/news/fca-lifts-etn-ban-but-uk-retail-investors-still-waiting-for-market-access/",
-    "id_key": "c529aa6246f36a1768e88c1dfc06037c9c55eaa29f9a02716d70a3f1deb8dae1",
-    "summary": "The Financial Conduct Authority (FCA) officially lifted its ban on crypto exchange-traded notes (ETNs) on Wednesday, but UK retail investors are still unable to buy them — a delay that critics say exposes deep flaws in Britain’s regulatory process. The post FCA Lifts ETN Ban Today — but UK Retail Investors Still Waiting for Market Access appeared first on Cryptonews .",
-    "ingested_utc": "2025-10-08T11:47:52Z"
-  },
-  {
-    "published_utc": "2025-10-08",
-    "retrieved_date": "2025-10-08",
-    "retrieved_utc": "2025-10-08T11:47:31Z",
-    "source": "Guardian_World",
-    "title": "Tories will scrap stamp duty on house sales, Kemi Badenoch tells conference",
-    "url": "https://www.theguardian.com/politics/2025/oct/08/tories-scrap-stamp-duty-kemi-badenoch-conservative-conference-speech",
-    "id_key": "b20779ed9109e43823287ecab6298a49cd3ffd6d3895d2a209dfbe8443fd2f85",
-    "summary": "Plan to cut tax that raised nearly £12bn last year announced in speech aimed at boosting economic credibility The Conservatives will scrap stamp duty on sales of primary residences if they win the next election, Kemi Badenoch has said in a policy-heavy speech designed to improve her party’s economic credibility. The Tory leader told her party’s conference that in England and Northern Ireland she would abolish the tax that new buyers have to pay on house purchases over £125,000. The Conservatives calculate that this would cost £9bn a year to the Treasury. Continue reading...",
-    "ingested_utc": "2025-10-08T11:47:31Z"
-  },
-  {
-    "published_utc": "2025-10-08",
-    "retrieved_date": "2025-10-08",
-    "retrieved_utc": "2025-10-08T11:36:12Z",
-    "source": "Engadget_All",
-    "title": "My beloved Dyson AM09 heater and fan is 40 percent off for Prime Day",
-    "url": "https://www.engadget.com/deals/my-beloved-dyson-am09-heater-and-fan-is-40-percent-off-for-prime-day-223428328.html?src=rss",
-    "id_key": "c4ded6500f343c00509a1bb9e28561a2de9f4496b6d985ec1d7b79ddc7dbb7bd",
-    "summary": "October Prime Day this year is actually a great time to consider investing in a Dyson machine. A number of cordless vacuums and a few viral hair stylers are on sale, some of them hundreds of dollars ff. But none of those come as close to my heart as my trusty AM09. Dyson’s Hot+Cool AM09 heater and fan has dropped to $300 for Prime Day, which is 40 percent off its usual price and one of the lowest prices I've seen. My love for the AM09 is well documented . At this point, I’ve had it for more than five years and I bought it when it was $280 on super-sale at QVC. Previously, I had a Dyson tower fan that worked well until it kicked the bucket after a few years of use. I took the plunge with the AM09 because I generally had a great experience with the tower fan, and at the time, I had been living in apartments that were consistently chilly during wintertime and downright stifling during the summer months. Now, my house is not all that much different than my apartments of yesteryear — and my original AM09 is still kicking. It does a great job circulating air in the summer (it’s not an air conditioner, to be clear) and it cuts the chill in my particularly icy office during the winter. I love its handy fan, which attaches magnetically to the top of the fan so you don’t lose it and lets you control the fan speed and heater temperature with just a few presses of a button. But the real kicker with the AM09 is how lightweight it is: at just under six pounds, it’s incredibly easy to pick up and tote upstairs, downstairs or in the other room, wherever you need it the most. It has literally gone from my home office upstairs down to the main floor of my house and down again into our basement all in the same day for different purposes. Am I a little miffed that, in my impatience, I bought a discounted Dyson heater/fan/air purifier over the summer because I desperately wanted another AM09 and it wasn’t on sale at the time ? Yes — but at least you, dear reader, can learn from my shopping woes and get the AM09 instead. This article originally appeared on Engadget at https://www.engadget.com/deals/my-beloved-dyson-am09-heater-and-fan-is-40-percent-off-for-prime-day-223428328.html?src=rss",
-    "ingested_utc": "2025-10-08T11:36:12Z"
-  },
-  {
-    "published_utc": "2025-10-08",
-    "retrieved_date": "2025-10-08",
-    "retrieved_utc": "2025-10-08T11:27:35Z",
-    "source": "TheStreet_Top",
-    "title": "Stock Market Today: Stocks Tick Up Ahead of FOMC Minutes Release",
-    "url": "https://www.thestreet.com/markets/stock-market-today-october-8-2025",
-    "id_key": "3a59b0745786c6d108c7232a5c4a7180bebade51da1dde6ba5a79438962007fb",
-    "summary": "The afternoon report will be carefully examined by investors as the gov't shutdown continues",
-    "ingested_utc": "2025-10-08T11:27:35Z"
-  },
-  {
-    "published_utc": "2025-10-08",
-    "retrieved_date": "2025-10-08",
-    "retrieved_utc": "2025-10-08T11:27:27Z",
-    "source": "Engadget_All",
-    "title": "Prime Day Bluetooth speaker deals include the Beats Pill at a record-low price",
-    "url": "https://www.engadget.com/deals/prime-day-bluetooth-speaker-deals-include-the-beats-pill-at-a-record-low-price-114554429.html?src=rss",
-    "id_key": "55a82fc885a56d97a568240e21d4df6967abc4fcc5e7ce9a2021eeee1c60cbad",
-    "summary": "Amazon Prime Day is officially here and bringing all-new low prices on some of our favorite speakers . That includes the Beats Pill, one of our picks for best portable Bluetooth speakers . Right now, you can get the Beats Pill for $50, down from $150. The 67 percent discount brings the speaker to a new record low. Beats released the Pill in late 2024 after nearly a decade without a new portable speaker, and two years since it had discontinued the Pill+. We gave the 1.5-pound speaker an 83 in our review thanks to a huge increase in sound quality and double the battery (24 hours) of previous Beats speakers. It also offers lossless audio over USB-C, a durable build and IP67-rated water and dust resistance. This article originally appeared on Engadget at https://www.engadget.com/deals/prime-day-bluetooth-speaker-deals-include-the-beats-pill-at-a-record-low-price-114554429.html?src=rss",
-    "ingested_utc": "2025-10-08T11:27:27Z"
   }
 ]
