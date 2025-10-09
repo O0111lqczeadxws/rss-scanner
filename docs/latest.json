@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-10-09",
     "retrieved_date": "2025-10-09",
+    "retrieved_utc": "2025-10-09T23:50:22Z",
+    "source": "TechCrunch_All",
+    "title": "Andreessen Horowitz denies report of India office, calls it ‘fake news’",
+    "url": "https://techcrunch.com/2025/10/09/andreessen-horowitz-denies-report-of-india-office-calls-it-fake-news/",
+    "id_key": "4844e88dc0424bac82bf459308c705434861da262d7319d13bbffa95147173ba",
+    "summary": "a16z’s Anish Acharya calls India office reports “entirely fake news!”",
+    "ingested_utc": "2025-10-09T23:50:22Z"
+  },
+  {
+    "published_utc": "2025-10-09",
+    "retrieved_date": "2025-10-09",
+    "retrieved_utc": "2025-10-09T23:50:06Z",
+    "source": "FT_Home",
+    "title": "NY attorney-general Letitia James indicted after pressure from Trump",
+    "url": "https://www.ft.com/content/dc00ae3e-2f3e-4ecd-9c3a-a8ceeccafe38",
+    "id_key": "523c1e2f177939fde25bcb372973881123f09bd852d72ac3f77ceb488f2b88dd",
+    "summary": "Case comes after president urged Department of Justice to take legal action against top prosecutor",
+    "ingested_utc": "2025-10-09T23:50:06Z"
+  },
+  {
+    "published_utc": "2025-10-09",
+    "retrieved_date": "2025-10-09",
     "retrieved_utc": "2025-10-09T23:37:14Z",
     "source": "FinancialPost_Business",
     "title": "Velan Inc. Reports Second Quarter Results for Fiscal 2026",
@@ -10976,27 +10998,5 @@
     "id_key": "cbd6f206e25428e407662e85a0ada6a4beb1e6a9e0e8fc4248b3d8049790fb4c",
     "summary": "Kristalina Georgieva and UK financial stability watchdog say valuations are closing in on dotcom bubble levels",
     "ingested_utc": "2025-10-08T14:37:16Z"
-  },
-  {
-    "published_utc": "2025-10-08",
-    "retrieved_date": "2025-10-08",
-    "retrieved_utc": "2025-10-08T14:37:16Z",
-    "source": "FT_Home",
-    "title": "James Comey pleads not guilty to charge of lying to US Congress",
-    "url": "https://www.ft.com/content/e7537d10-ce94-4cc9-82f3-8b80b53315ae",
-    "id_key": "6babe6e19268b137f8fc9a0eb0f5c7e07979288b05f3f3ce483087b310637dde",
-    "summary": "Ex-FBI chief who oversaw probe into Donald Trump’s alleged links to Russia will face trial on January 5",
-    "ingested_utc": "2025-10-08T14:37:16Z"
-  },
-  {
-    "published_utc": "2025-10-08",
-    "retrieved_date": "2025-10-08",
-    "retrieved_utc": "2025-10-08T14:36:58Z",
-    "source": "MarketWatch_Bulletins",
-    "title": "U.S. stock indexes poised just below record highs with Fed minutes due today",
-    "url": "https://www.marketwatch.com/bulletins/redirect/go?g=09aeca75-98c3-48d7-a750-577ee8902622&mod=mw_rss_bulletins",
-    "id_key": "91e56ef9c7a6d416bdef66fdf23a210be0f9cbc3d0733f94b86fbc3fd1ef0943",
-    "summary": "",
-    "ingested_utc": "2025-10-08T14:36:58Z"
   }
 ]
