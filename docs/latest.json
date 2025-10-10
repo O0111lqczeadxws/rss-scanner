@@ -2,6 +2,83 @@
   {
     "published_utc": "2025-10-10",
     "retrieved_date": "2025-10-10",
+    "retrieved_utc": "2025-10-10T10:37:22Z",
+    "source": "FinancialPost_Business",
+    "title": "Mundipharma announces patient enrolment completion in Phase III ReSPECT clinical trial for REZZAYO® (rezafungin)",
+    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/mundipharma-announces-patient-enrolment-completion-in-phase-iii-respect-clinical-trial-for-rezzayo-rezafungin",
+    "id_key": "2ec4beeb011722d54b75e8f5522b4b4da75681821f467367ccdd52b780abf3af",
+    "summary": "For Trade and Medical Media Only Enrolment completed in Phase III ReSPECT study in prophylaxis of fungal infections in adult patients undergoing allogeneic blood and marrow transplant Topline results from ReSPECT study expected by mid-2026 CAMBRIDGE, England — Mundipharma today announced completion of patient enrolment for the ongoing, global Phase III ReSPECT trial evaluating REZZAYO® […]",
+    "ingested_utc": "2025-10-10T10:37:22Z"
+  },
+  {
+    "published_utc": "2025-10-10",
+    "retrieved_date": "2025-10-10",
+    "retrieved_utc": "2025-10-10T10:37:06Z",
+    "source": "Engadget_All",
+    "title": "Apple doubles its biggest bug bounty reward to $2 million",
+    "url": "https://www.engadget.com/big-tech/apple-doubles-its-biggest-bug-bounty-reward-to-2-million-102844667.html?src=rss",
+    "id_key": "77e2022e198a3f5e91f285c6b60b36d2e106d75f90e638a787cebfb89292ee77",
+    "summary": "Apple is updating its Security Bounty program this November to offer some of the highest rewards in the industry. It has doubled its top award from $1 million to $2 million for the discovery of \"exploit chains that can achieve similar goals as sophisticated mercenary spyware attacks\" and which requires no user interaction. But the maximum possible payout can exceed $5 million dollars for the discovery of more critical vulnerabilities, such as bugs in beta software and Lockdown Mode bypasses. Lockdown Mode is an upgraded security architecture in the Safari browser. In addition, the company is rewarding the discovery of exploit chains with one-click user interaction with up to $1 million instead of just $250,000. The reward for attacks requiring physical proximity to devices can now also go up to $1 million, up from $250,000, while the maximum reward for attacks requiring physical access to locked devices has been doubled to $500,000. Finally, researchers \"who demonstrate chaining WebContent code execution with a sandbox escape can receive up to $300,000.\" Apple told Wired that it has awarded over $35 million to more than 800 security researchers since it introduced and expanded the program over the past few years. Apparently, top-dollar payouts are very rare, but Apple has made multiple $500,000 payouts. The company said in its announcement that the only system-level iOS attacks it has observed in the wild came from mercenary spyware, which are historically associated with state actors and typically used to target specific individuals. It said its new security features like Lockdown Mode and Memory Integrity Enforcement, which combats memory corruption vulnerabilities, can make mercenary attacks more difficult to pull off. However, bad actors will continue evolving their techniques, and Apple is hoping that updating its bounty program with bigger payouts can \"encourage highly advanced research on [its] most critical attack surfaces despite the increased difficulty.\" This article originally appeared on Engadget at https://www.engadget.com/big-tech/apple-doubles-its-biggest-bug-bounty-reward-to-2-million-102844667.html?src=rss",
+    "ingested_utc": "2025-10-10T10:37:06Z"
+  },
+  {
+    "published_utc": "2025-10-10",
+    "retrieved_date": "2025-10-10",
+    "retrieved_utc": "2025-10-10T10:37:05Z",
+    "source": "WIRED_All",
+    "title": "‘Tron: Ares’ Wants to Gaslight You About the Future of AI",
+    "url": "https://www.wired.com/story/tron-ares-wants-to-gaslight-you-about-the-future-of-ai/",
+    "id_key": "f236321adaa253330824e47498653cc3bed2a3eaa1c24eccd504285bd2505f0d",
+    "summary": "The latest film in the Tron franchise seems to have not learned any lessons from sci-fi movies past—or from current reality.",
+    "ingested_utc": "2025-10-10T10:37:05Z"
+  },
+  {
+    "published_utc": "2025-10-10",
+    "retrieved_date": "2025-10-10",
+    "retrieved_utc": "2025-10-10T10:36:48Z",
+    "source": "FT_Home",
+    "title": "JPMorgan staff to use fingerprints and eye scans to access new headquarters",
+    "url": "https://www.ft.com/content/d5351d3d-d64f-4a90-a3da-d1ef8e8bea66",
+    "id_key": "aaa4ebc9df2f7e04f5e8ba893d4884d93a1d9fde88124879ef8c8d95e1806a69",
+    "summary": "New York bank is imposing eye and fingerprint scans amid heightened security concerns at corporate offices",
+    "ingested_utc": "2025-10-10T10:36:48Z"
+  },
+  {
+    "published_utc": "2025-10-10",
+    "retrieved_date": "2025-10-10",
+    "retrieved_utc": "2025-10-10T10:36:44Z",
+    "source": "NPR_Top",
+    "title": "In the age of algorithms, one Irish town still does love the old-fashioned way",
+    "url": "https://www.npr.org/2025/10/10/nx-s1-5563978/ireland-matchmaking-festival-irish-love",
+    "id_key": "570a2e0a15fdab3d008f254ee9342a0b108594fb45700f572a3259c820368070",
+    "summary": "Most won't leave the town of Lisdoonvarna with a partner. But for a few nights each fall, they find something rarer — company, ritual and the comfort of not looking for love alone.",
+    "ingested_utc": "2025-10-10T10:36:44Z"
+  },
+  {
+    "published_utc": "2025-10-10",
+    "retrieved_date": "2025-10-10",
+    "retrieved_utc": "2025-10-10T10:34:21Z",
+    "source": "Guardian_World",
+    "title": "Richard Tice has 15-year record of supporting ‘net stupid zero’ initiatives",
+    "url": "https://www.theguardian.com/uk-news/2025/oct/10/richard-tice-15-year-business-record-supporting-net-stupid-zero",
+    "id_key": "d0ffde9147be98ae2a8d60e3c20c3ec9ecadf0640246cb5bb65b47da10f5cf45",
+    "summary": "Firms led by deputy Reform UK leader since 2011 have shown commitment to saving energy and cutting CO2 emissions UK politics live – latest updates He never seems to tire of deriding “net stupid zero”, but Reform UK’s deputy leader, Richard Tice, has a 15-year business record of support for sustainability and green energy initiatives. The Reform party has made opposition to green energy and net zero part of its policy platform. Its founder, Nigel Farage, has called net zero policies a “lunacy” ; the party has called to lift the ban on fracking for fossil gas; and one of the first Reform-led councils, Kent, rescinded last month its declaration of a climate emergency . Continue reading...",
+    "ingested_utc": "2025-10-10T10:34:21Z"
+  },
+  {
+    "published_utc": "2025-10-10",
+    "retrieved_date": "2025-10-10",
+    "retrieved_utc": "2025-10-10T10:34:18Z",
+    "source": "BBC_World",
+    "title": "Suspected plot to attack Belgian PM foiled",
+    "url": "https://www.bbc.com/news/articles/cd721zdzr4xo?at_medium=RSS&at_campaign=rss",
+    "id_key": "750d2228b0e6c7b49dbcfa0b46124086a55a655827b92d245de5615a4dbfb6eb",
+    "summary": "Police officers have arrested two individuals and find a suspected improvised explosive device at one of the suspect's homes.",
+    "ingested_utc": "2025-10-10T10:34:18Z"
+  },
+  {
+    "published_utc": "2025-10-10",
+    "retrieved_date": "2025-10-10",
     "retrieved_utc": "2025-10-10T10:15:41Z",
     "source": "FinancialPost_Business",
     "title": "Abu Dhabi carrier Etihad launches direct flights to Kabul",
@@ -10921,82 +10998,5 @@
     "id_key": "804c3874a433be1a7d05e865e8b8ead32f175e5219ff6e81fd9d24f5020eefa7",
     "summary": "Jihad al-Shamie, who attacked a Manchester synagogue on the holiest day of the Jewish calendar, called the emergency services during the attack to claim responsibility.",
     "ingested_utc": "2025-10-08T19:11:27Z"
-  },
-  {
-    "published_utc": "2025-10-08",
-    "retrieved_date": "2025-10-08",
-    "retrieved_utc": "2025-10-08T19:11:20Z",
-    "source": "MarketWatch_Bulletins",
-    "title": "Dow trims gains, S&P and Nasdaq set for records as Fed releases minutes — live",
-    "url": "https://www.marketwatch.com/bulletins/redirect/go?g=2f7bacae-014d-4423-98c7-b8317d903136&mod=mw_rss_bulletins",
-    "id_key": "ca4b7984e52f4d24aa21002283e816911654d56152aae374433381c55726d770",
-    "summary": "",
-    "ingested_utc": "2025-10-08T19:11:20Z"
-  },
-  {
-    "published_utc": "2025-10-08",
-    "retrieved_date": "2025-10-08",
-    "retrieved_utc": "2025-10-08T19:09:30Z",
-    "source": "CryptoNews",
-    "title": "Coinbase Launches Staking in New York After State Approval – ETH and SOL Yields Now Available",
-    "url": "https://cryptonews.com/news/coinbase-launches-staking-in-new-york-after-state-approval-eth-and-sol-yields-now-available/",
-    "id_key": "c1c63266e608108fc49763bfe9b4f46bca0e29303c35f08c94f2063ba8bc29d0",
-    "summary": "Coinbase has activated staking services for New York residents allowing yields on Ethereum and Solana holdings after state regulatory approval, while users in California, New Jersey, Maryland, and Wisconsin collectively miss over $130 million in rewards from ongoing restrictions. The post Coinbase Launches Staking in New York After State Approval – ETH and SOL Yields Now Available appeared first on Cryptonews .",
-    "ingested_utc": "2025-10-08T19:09:30Z"
-  },
-  {
-    "published_utc": "2025-10-08",
-    "retrieved_date": "2025-10-08",
-    "retrieved_utc": "2025-10-08T19:09:08Z",
-    "source": "Guardian_World",
-    "title": "Spanish MPs back move to enshrine in law arms embargo on Israel",
-    "url": "https://www.theguardian.com/world/2025/oct/08/spain-votes-for-arms-embargo-on-israel",
-    "id_key": "d88582ddda093d7950fa23d541df647f4ef6c7d352da6ca2b6ff9eaae02ce576",
-    "summary": "Decree bans all exports of defence equipment, products or technology to Israel and imports of such goods from Israel Spain’s parliament has voted to enshrine in law an arms embargo on Israel that the prime minister, Pedro Sánchez, introduced to end “the genocide in Gaza”. Parliament backed by 178 votes to 169 the decree announced in September by Sánchez, one of the strongest critics of Israel’s devastating two-year-old war in the Palestinian territory. Continue reading...",
-    "ingested_utc": "2025-10-08T19:09:08Z"
-  },
-  {
-    "published_utc": "2025-10-08",
-    "retrieved_date": "2025-10-08",
-    "retrieved_utc": "2025-10-08T19:09:08Z",
-    "source": "Guardian_World",
-    "title": "Police officer who put girl in headlock found guilty of assault",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/08/police-officer-girl-headlock-guilty-assault",
-    "id_key": "9270b4b5af75884657407086488f3e640fdd3d1f8d942f21ace43c096c695b9e",
-    "summary": "Adrian Young, of British Transport Police, restrained 15-year-old at a train station in Camden, north London A British Transport Police officer who put a 15-year-old girl in a headlock during an arrest has been found guilty of assault. PC Adrian Young, 48, used unlawful force in September last year at Camden Road railway station in north London, and was convicted after a trial at Westminster magistrates court. Continue reading...",
-    "ingested_utc": "2025-10-08T19:09:08Z"
-  },
-  {
-    "published_utc": "2025-10-08",
-    "retrieved_date": "2025-10-08",
-    "retrieved_utc": "2025-10-08T19:09:08Z",
-    "source": "Guardian_World",
-    "title": "Stephen Lawrence’s mother calls son’s killer a coward at parole hearing",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/08/stephen-lawrence-mother-doreen-calls-sons-killer-a-coward-at-parole-hearing",
-    "id_key": "f8e4c44bbcfb582d0c08fc6239f316cdc3e4339e4e4cea75c4ed7278471c745f",
-    "summary": "David Norris, one of several people involved in the 1993 murder, refused to reveal his face or name his accomplices The mother of Stephen Lawrence has called one of her son’s killers a coward after he refused to show his face at a parole hearing or name his accomplices to the murder. David Norris, 49, who was convicted in 2011, was speaking publicly for the first time at the hearing. He said he was deeply sorry for the attack in which he punched Lawrence on the back of his head while he was crouched on the ground. Continue reading...",
-    "ingested_utc": "2025-10-08T19:09:08Z"
-  },
-  {
-    "published_utc": "2025-10-08",
-    "retrieved_date": "2025-10-08",
-    "retrieved_utc": "2025-10-08T19:09:08Z",
-    "source": "Guardian_World",
-    "title": "Democrats ramp up pressure on Republicans over delaying lawmaker’s swearing in due to Epstein files vote – live",
-    "url": "https://www.theguardian.com/us-news/live/2025/oct/08/donald-trump-james-comey-justice-department-national-guard-chicago-antifa-government-shutdown-us-politics-live-news-updates",
-    "id_key": "7786e1daad776909e5b2d1fb42f10b3289fa486a76411a6421de0331d6c6d178",
-    "summary": "Democratic lawmakers say that vote on Epstein files is reason behind Mike Johnson’s decision to delay to swear in of Arizona congresswoman A series of “violent” texts sent by a Democrat seeking to become Virginia’s attorney general has shaken up the state’s governor’s race, with Republican candidate Winsome Earle-Sears seizing on the controversy to try to reverse her opponent’s double-digit polling lead. Earle-Sears has released new campaign advertisements condemning Democratic former congresswoman Abigail Spanberger, her opponenent in the governor’s race, for continuing to support Jay Jones, whose private texts three years ago speculated about a senior state Republican getting “two bullets to the head” and “breeding little fascists”. Continue reading...",
-    "ingested_utc": "2025-10-08T19:09:08Z"
-  },
-  {
-    "published_utc": "2025-10-08",
-    "retrieved_date": "2025-10-08",
-    "retrieved_utc": "2025-10-08T18:50:55Z",
-    "source": "HackerNews_Top",
-    "title": "WinBoat: Windows apps on Linux with seamless integration",
-    "url": "https://www.winboat.app/",
-    "id_key": "3b75bc65649ca9db7edb886c3fe7fac140888d8fdff22c695df36c957f15c097",
-    "summary": "Comments",
-    "ingested_utc": "2025-10-08T18:50:55Z"
   }
 ]
