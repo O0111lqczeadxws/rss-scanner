@@ -2,6 +2,50 @@
   {
     "published_utc": "2025-10-10",
     "retrieved_date": "2025-10-10",
+    "retrieved_utc": "2025-10-10T20:34:14Z",
+    "source": "AlJazeera_All",
+    "title": "France’s Macron re-appoints Sebastien Lecornu as prime minister",
+    "url": "https://www.aljazeera.com/news/2025/10/10/frances-macron-re-appoints-sebastien-lecornu-as-prime-minister?traffic_source=rss",
+    "id_key": "2a99b1dd77c3726d6bf22a8f903c108f6dd3234b46795c3da05f308239072385",
+    "summary": "Four days after he resigned as prime minister, Lecornu is returning to the post.",
+    "ingested_utc": "2025-10-10T20:34:14Z"
+  },
+  {
+    "published_utc": "2025-10-10",
+    "retrieved_date": "2025-10-10",
+    "retrieved_utc": "2025-10-10T20:34:13Z",
+    "source": "TheStreet_Top",
+    "title": "Big-name pizza chain has closed 80% of its restaurants",
+    "url": "https://www.thestreet.com/restaurants/once-beloved-family-restaurant-chain-closes-over-80-locations",
+    "id_key": "ba122b37f70b4cb0eec5878f7266549703135b673642f4599671a310e370115c",
+    "summary": "A good idea that can't be owned exclusively can doom a business to an endless battle with copycats. That's what happened during the self-serve frozen yogurt boom of the mid- to late-2000s. One of these help-yourself, add-your-own-toppings, pay-by-weight places would come into a community and have ...",
+    "ingested_utc": "2025-10-10T20:34:13Z"
+  },
+  {
+    "published_utc": "2025-10-10",
+    "retrieved_date": "2025-10-10",
+    "retrieved_utc": "2025-10-10T20:34:01Z",
+    "source": "TechCrunch_All",
+    "title": "Kalshi hits $5B valuation days after rival Polymarket gets $2B NYSE backing at $8B",
+    "url": "https://techcrunch.com/2025/10/10/kalshi-hits-5b-valuation-days-after-rival-polymarket-gets-2b-nyse-backing-at-8b/",
+    "id_key": "25986e5c1802d2e8a305721d91b36c12d7d772ba8438b7fa3c4ae37d9b66e658",
+    "summary": "Prediction markets startup Klashi raised $300 million, while Polymarket nabbed up to $2 billion.",
+    "ingested_utc": "2025-10-10T20:34:01Z"
+  },
+  {
+    "published_utc": "2025-10-10",
+    "retrieved_date": "2025-10-10",
+    "retrieved_utc": "2025-10-10T20:31:29Z",
+    "source": "CryptoSlate",
+    "title": "Can Bitcoin really reach $150K, what would it take?",
+    "url": "https://cryptoslate.com/can-bitcoin-really-reach-150k-what-would-it-take/",
+    "id_key": "82f45338fbb88552c419af8e18b4da3a7d08cb800ee32b5abcb83cd64692d89b",
+    "summary": "Bitcoin’s steady climb to a new all-time high this October has revived the familiar question of whether the next breakout could mark the first sustained run to $150,000. The optimism follows a surge in derivatives positioning and ETF inflows, suggesting that institutional momentum may be reshaping the cycle’s upper bound rather than simply fueling another […] The post Can Bitcoin really reach $150K, what would it take? appeared first on CryptoSlate .",
+    "ingested_utc": "2025-10-10T20:31:29Z"
+  },
+  {
+    "published_utc": "2025-10-10",
+    "retrieved_date": "2025-10-10",
     "retrieved_utc": "2025-10-10T20:15:41Z",
     "source": "Nikkei_Asia_Top",
     "title": "Indian consumer market booms as tax cuts ease pain of Trump tariffs",
@@ -10954,49 +10998,5 @@
     "id_key": "2cb84f63b66e10840d27019292c7831eb22f448b3cf34b38840c7f27afe564a5",
     "summary": "After President Trump announced the Gaza agreement, it was unclear when hostages would be released or when aid would enter the territory.",
     "ingested_utc": "2025-10-09T07:50:04Z"
-  },
-  {
-    "published_utc": "2025-10-09",
-    "retrieved_date": "2025-10-09",
-    "retrieved_utc": "2025-10-09T07:47:46Z",
-    "source": "BBC_World",
-    "title": "Israel and Hamas agree to first phase of Gaza peace plan",
-    "url": "https://www.bbc.com/news/articles/ce80rmq3g5qo?at_medium=RSS&at_campaign=rss",
-    "id_key": "2cc9f82731c80630767fdb9df5add8d3ae89fa2c106f2d86e347a82d2b7a97e5",
-    "summary": "The deal raises hopes for a lasting peace after more than two years of conflict.",
-    "ingested_utc": "2025-10-09T07:47:46Z"
-  },
-  {
-    "published_utc": "2025-10-09",
-    "retrieved_date": "2025-10-09",
-    "retrieved_utc": "2025-10-09T07:40:49Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "Uniqlo operator predicts flat profit for 2026 amid Trump tariffs",
-    "url": "https://asia.nikkei.com/business/retail/uniqlo-operator-predicts-flat-profit-for-2026-amid-trump-tariffs",
-    "id_key": "a7d9c1573f4a2d2676daa3bf20866b0c7dfca06f9569a6b85661307897f6da29",
-    "summary": "",
-    "ingested_utc": "2025-10-09T07:40:49Z"
-  },
-  {
-    "published_utc": "2025-10-09",
-    "retrieved_date": "2025-10-09",
-    "retrieved_utc": "2025-10-09T07:37:54Z",
-    "source": "CoinJournal",
-    "title": "JUP eyes $0.50 on JupUSD stablecoin launch; Check forecast",
-    "url": "https://coinjournal.net/news/jup-eyes-0-50-on-jupusd-stablecoin-launch-check-forecast/",
-    "id_key": "35bf30a74caea05ef2b5f28b7a7ab870dd63dc8c38d87c962e1d887b60b79bbf",
-    "summary": "Key takeaways JUP, the native token of the Jupiter DEX, is up by less than 1% in the last 24 hours, but could rally higher in the near term. Jupiter is developing its own stablecoin, JupUSD, thanks to its partnership with Ethana Labs. Jupiter to launch the JupUSD stablecoin Solana-based decentralized exchange Jupiter announced on […] The post JUP eyes $0.50 on JupUSD stablecoin launch; Check forecast appeared first on CoinJournal .",
-    "ingested_utc": "2025-10-09T07:37:54Z"
-  },
-  {
-    "published_utc": "2025-10-09",
-    "retrieved_date": "2025-10-09",
-    "retrieved_utc": "2025-10-09T07:31:03Z",
-    "source": "FinancialPost_Business",
-    "title": "Top Ukraine Officials to Discuss Russian Assets in US Next Week",
-    "url": "https://financialpost.com/pmn/business-pmn/top-ukraine-officials-to-discuss-russian-assets-in-us-next-week",
-    "id_key": "c81f7b536b34b366b663dc8e9e83e84b1a7cb419ca9eaa0b5064f935aee4bf81",
-    "summary": "President Volodymyr Zelenskiy said a delegation of top Ukrainian officials will visit the US early next week to discuss Russian frozen assets, air defense and sanctions against Moscow as prospects for peace fade.",
-    "ingested_utc": "2025-10-09T07:31:03Z"
   }
 ]
