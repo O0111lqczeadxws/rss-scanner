@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-10-10",
     "retrieved_date": "2025-10-10",
+    "retrieved_utc": "2025-10-10T22:31:37Z",
+    "source": "FT_Home",
+    "title": "China’s Ming Yang to invest up to £1.5bn in Scottish turbine factory",
+    "url": "https://www.ft.com/content/7f01554a-2973-4b9c-b995-0dac058c6f3c",
+    "id_key": "4c9fff307db698609866ecea9d61966b505f639208fb3bba2356fb055a54c669",
+    "summary": "Company says the project is subject to ‘final approvals’ from the UK government",
+    "ingested_utc": "2025-10-10T22:31:37Z"
+  },
+  {
+    "published_utc": "2025-10-10",
+    "retrieved_date": "2025-10-10",
+    "retrieved_utc": "2025-10-10T22:31:24Z",
+    "source": "NYTimes_Business",
+    "title": "Trump Threatens 100% Tariffs on Chinese Goods",
+    "url": "https://www.nytimes.com/2025/10/10/us/politics/trump-xi-china-tariffs-rare-earth.html",
+    "id_key": "0250e18f1c1712a83d7f07bc3f19e40f082256b5e8402b8853f46cd7e9a7d3c5",
+    "summary": "The president made the threat after Beijing imposed new restrictions on the export of rare earth minerals, which are vital supplies for U.S. makers of chips and batteries.",
+    "ingested_utc": "2025-10-10T22:31:24Z"
+  },
+  {
+    "published_utc": "2025-10-10",
+    "retrieved_date": "2025-10-10",
+    "retrieved_utc": "2025-10-10T22:31:16Z",
+    "source": "MarketWatch_Bulletins",
+    "title": "Crypto bulls were amped for solana ETF approvals. Then the shutdown happened.",
+    "url": "https://www.marketwatch.com/bulletins/redirect/go?g=b618eb0e-8ccf-40bb-b258-3ecbff23500c&mod=mw_rss_bulletins",
+    "id_key": "ad7c12823f3f1a089ff31e064c24fe54f9201d02f1c969b6cca10be80b551599",
+    "summary": "",
+    "ingested_utc": "2025-10-10T22:31:16Z"
+  },
+  {
+    "published_utc": "2025-10-10",
+    "retrieved_date": "2025-10-10",
     "retrieved_utc": "2025-10-10T22:13:18Z",
     "source": "FinancialPost_Business",
     "title": "Strathcona Resources abandons takeover pursuit of MEG Energy",
@@ -10965,38 +10998,5 @@
     "id_key": "0031d565cbdaaa7247f524008dee30e6662aeed5b238fcf003d5782cf0c40da8",
     "summary": "Upgrade your locks with fingerprint-scanning or a keypad, whether it’s at the front door or a sliding glass entryway.",
     "ingested_utc": "2025-10-09T10:38:14Z"
-  },
-  {
-    "published_utc": "2025-10-09",
-    "retrieved_date": "2025-10-09",
-    "retrieved_utc": "2025-10-09T10:15:59Z",
-    "source": "FinancialPost_Business",
-    "title": "Orsted to Cut 25% of Workforce to Ride Out Wind Sector Woes",
-    "url": "https://financialpost.com/pmn/business-pmn/orsted-to-cut-25-of-workforce-to-ride-out-wind-sector-woes",
-    "id_key": "0844769e75988c411b235764484d69a777582109b0a0e9a1b67d629041c56e32",
-    "summary": "Orsted A/S will cut about 2,000 jobs — roughly a quarter of the workforce — as the offshore-wind company narrows its focus to Europe after completing a massive share sale to shore up funds.",
-    "ingested_utc": "2025-10-09T10:15:59Z"
-  },
-  {
-    "published_utc": "2025-10-09",
-    "retrieved_date": "2025-10-09",
-    "retrieved_utc": "2025-10-09T10:15:59Z",
-    "source": "FinancialPost_Business",
-    "title": "Everstage Launches CPQ: Completing the Quote-to-Commission Connection for Revenue Transformation",
-    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/everstage-launches-cpq-completing-the-quote-to-commission-connection-for-revenue-transformation",
-    "id_key": "4060439b0cc7e95ebd701ecfc1771643750ac9a86add30871de0c6be4db45309",
-    "summary": "New CPQ solution brings AI-driven deal configuration and DealRooms to Everstage’s Sales Performance Management platform, creating the industry’s first unified quote-to-commission engine NEW YORK — Everstage, the leader in AI-first Sales Performance Management (SPM), today announced the launch of Everstage CPQ, a revolutionary AI-first Configure, Price, Quote solution that extends the company’s Revenue Transformation platform. […]",
-    "ingested_utc": "2025-10-09T10:15:59Z"
-  },
-  {
-    "published_utc": "2025-10-09",
-    "retrieved_date": "2025-10-09",
-    "retrieved_utc": "2025-10-09T10:15:59Z",
-    "source": "FinancialPost_Business",
-    "title": "Euna Solutions Launches AI-Powered Solicitation Summaries for Euna Procurement",
-    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/euna-solutions-launches-ai-powered-solicitation-summaries-for-euna-procurement",
-    "id_key": "b5c4e46b2fc0384726da26f8e0a8f78df69b3ec88a283b48a0bd88b782a1110e",
-    "summary": "New one-click feature saves time for suppliers, boosts competition, and helps agencies deliver better value to taxpayers ATLANTA & TORONTO — Euna Solutions®, a leading provider of purpose-built cloud solutions for the public sector, today announced the launch of AI-powered Solicitation Summaries in the Sourcing module of its flagship platform, Euna Procurement, a full-cycle eProcurement […]",
-    "ingested_utc": "2025-10-09T10:15:59Z"
   }
 ]
