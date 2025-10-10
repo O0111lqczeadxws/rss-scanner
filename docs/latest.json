@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-10-10",
     "retrieved_date": "2025-10-10",
+    "retrieved_utc": "2025-10-10T08:55:59Z",
+    "source": "Nikkei_Asia_Top",
+    "title": "Japan stock futures extend losses to 2% after ruling coalition splits",
+    "url": "https://asia.nikkei.com/business/markets/equities/japan-stock-futures-extend-losses-to-2-after-ruling-coalition-splits",
+    "id_key": "dd6ef4cbbb4c91cb9f1672c1e8307311b11f847b732c286b254ecc0d9fe5d5d0",
+    "summary": "",
+    "ingested_utc": "2025-10-10T08:55:59Z"
+  },
+  {
+    "published_utc": "2025-10-10",
+    "retrieved_date": "2025-10-10",
     "retrieved_utc": "2025-10-10T08:42:33Z",
     "source": "HackerNews_Top",
     "title": "I tracked Amazon's Prime Day prices. We've been played",
@@ -10987,16 +10998,5 @@
     "id_key": "3320d02e6dd960b6c59daa38c4f170464e06cf8f59fcbfcaa5d3ecb1b1ba6f3d",
     "summary": "Japan’s 10-year government bond (JGB) yields reached levels not seen since 2008, triggering a scenario that pressures Bitcoin through spot depth and order-book mechanics rather than direct correlation. The long-end selloff in Japanese government bonds pushes domestic yields higher, reducing the incentive for Japan’s institutional investors to seek returns in foreign markets. Life insurers have […] The post JGB 17-year yield spike tests Bitcoin at $123k; is risk off back? appeared first on CryptoSlate .",
     "ingested_utc": "2025-10-08T18:17:06Z"
-  },
-  {
-    "published_utc": "2025-10-08",
-    "retrieved_date": "2025-10-08",
-    "retrieved_utc": "2025-10-08T18:16:45Z",
-    "source": "Guardian_World",
-    "title": "Optimism grows for Gaza peace deal as top US, Qatari and Turkish officials join talks",
-    "url": "https://www.theguardian.com/world/2025/oct/08/optimism-grows-for-gaza-peace-deal-as-top-us-qatari-and-turkish-officials-join-talks",
-    "id_key": "c6a324d90894ba57c340e2426a4c6ad4afa4a454684c20e1f4f17d88f65fee7b",
-    "summary": "US Middle East envoy Steve Witkoff, Trump’s son-in-law Jared Kushner, Qatar’s PM and Turkey’s intelligence chief gather in Egypt Top US, Qatari and Turkish officials joined the third day of indirect negotiations between Israel and Hamas in Egypt, as cautious optimism grew that a lasting truce to end the two-year war in Gaza could be on the horizon. US Middle East envoy Steve Witkoff and Jared Kushner, the son-in-law of US president Donald Trump, arrived in Sharm el-Sheikh where talks were being held. Qatari prime minister Sheikh Mohammed bin Abdulrahman Al Thani and head of Turkish intelligence Ibrahim Kalin also attended the Egyptian coastal resort to participate in the talks. Continue reading...",
-    "ingested_utc": "2025-10-08T18:16:45Z"
   }
 ]
