@@ -2,6 +2,50 @@
   {
     "published_utc": "2025-10-10",
     "retrieved_date": "2025-10-10",
+    "retrieved_utc": "2025-10-10T05:50:31Z",
+    "source": "HackerNews_Top",
+    "title": "Managing Encrypted Filesystems with dirlock",
+    "url": "https://lwn.net/Articles/1038859/",
+    "id_key": "312cac11303d711ebdde325fa9a914aacfb19315120511a40fec764431fa7b54",
+    "summary": "Comments",
+    "ingested_utc": "2025-10-10T05:50:31Z"
+  },
+  {
+    "published_utc": "2025-10-10",
+    "retrieved_date": "2025-10-10",
+    "retrieved_utc": "2025-10-10T05:49:32Z",
+    "source": "NYTimes_World",
+    "title": "Two Dead After Powerful Earthquake Strikes Southern Philippines",
+    "url": "https://www.nytimes.com/2025/10/09/world/asia/philippines-mindanao-earthquake.html",
+    "id_key": "54a5dea9b3283c85c8d6f747d1deee0abeea2afef749ab68522c84155d548e8a",
+    "summary": "A tsunami warning was issued after the 7.4-magnitude quake struck off the eastern coast of Mindanao island on Friday morning.",
+    "ingested_utc": "2025-10-10T05:49:32Z"
+  },
+  {
+    "published_utc": "2025-10-10",
+    "retrieved_date": "2025-10-10",
+    "retrieved_utc": "2025-10-10T05:47:43Z",
+    "source": "CryptoNews",
+    "title": "Crypto Platform HashKey Plans Hong Kong IPO This Year: Report",
+    "url": "https://cryptonews.com/news/crypto-platform-hashkey-plans-hong-kong-ipo-this-year-report/",
+    "id_key": "816034a7389f4c30d904a63ef6092ccb1add859acdff2de7fe9067578cb91fd0",
+    "summary": "HashKey Group is aiming to raise as much as $500 million in a Hong Kong IPO as soon as this year. The post Crypto Platform HashKey Plans Hong Kong IPO This Year: Report appeared first on Cryptonews .",
+    "ingested_utc": "2025-10-10T05:47:43Z"
+  },
+  {
+    "published_utc": "2025-10-10",
+    "retrieved_date": "2025-10-10",
+    "retrieved_utc": "2025-10-10T05:47:22Z",
+    "source": "Guardian_World",
+    "title": "‘Our policy stands’: PM downplays Treasury advice on doubling tax rate for superannuation over $3m",
+    "url": "https://www.theguardian.com/australia-news/2025/oct/10/labor-anthony-albanese-doubling-tax-rate-downplays-chalmers-treasury-advice",
+    "id_key": "e65f6231f03bd8ce3bcd2ec257b8382a87051b08d8b7af96f9597037f552fd28",
+    "summary": "Albanese reiterates policy despite reports his government was reconsidering changes to address criticisms of taxing ‘unrealised gains’ Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Anthony Albanese says the plan to double the tax rate on superannuation balances above $3m remains unchanged, after revelations of fresh Treasury modelling heightened speculation the government was open to potential tweaks. The prime minister also downplayed the significance of his office becoming directly involved, saying there was “nothing unusual” about Treasury briefing his team on the contentious proposal. Continue reading...",
+    "ingested_utc": "2025-10-10T05:47:22Z"
+  },
+  {
+    "published_utc": "2025-10-10",
+    "retrieved_date": "2025-10-10",
     "retrieved_utc": "2025-10-10T05:35:02Z",
     "source": "FinancialPost_Business",
     "title": "Asian shares are mostly lower following Wall Street’s pause from its feverish rally",
@@ -911,6 +955,17 @@
     "id_key": "20fc49de248b672e4eec142166c3cff8e44d874026a66629bd83a61c25942a7d",
     "summary": "Letitia James, who prosecuted several Trump-related cases, reacts to one criminal charge filed against her in Virginia Letitia James criminally charged in Trump’s latest effort to punish rivals The president has spent much of Thursday morning thanking his allies on Truth social for praising his diplomatic efforts in Gaza. “I would like to thank Republican Congressman Brian Mast, of Florida, for his brilliant words and analysis on the return of the Hostages, and Peace in the Middle East, this morning on Fox & Friends. Thank you Brian!!!,” Trump wrote in a post . Continue reading...",
     "ingested_utc": "2025-10-10T00:49:34Z"
+  },
+  {
+    "published_utc": "2025-10-09",
+    "retrieved_date": "2025-10-10",
+    "retrieved_utc": "2025-10-10T05:49:10Z",
+    "source": "BBC_World",
+    "title": "Hostage families celebrate in Tel Aviv after Gaza breakthrough",
+    "url": "https://www.bbc.com/news/videos/c5y4nnpvqw2o?at_medium=RSS&at_campaign=rss",
+    "id_key": "ad93fc136331ed7bb54f639ebcbc83d4ff0b4278fb92fa74d6e4b88352b1c874",
+    "summary": "Relatives of Israeli hostages celebrated in Tel Aviv after the announcement that Israel and Hamas had signed the first phase of a peace deal.",
+    "ingested_utc": "2025-10-10T05:49:10Z"
   },
   {
     "published_utc": "2025-10-09",
@@ -10943,60 +10998,5 @@
     "id_key": "b4cf0ee94d036200edebf109a6b67324ab02e24cc06703f898c2628b1b8456ba",
     "summary": "The best coffee and espresso machine deals to get you wired and keep you wired on Prime Day.",
     "ingested_utc": "2025-10-08T16:54:51Z"
-  },
-  {
-    "published_utc": "2025-10-08",
-    "retrieved_date": "2025-10-08",
-    "retrieved_utc": "2025-10-08T16:54:51Z",
-    "source": "WIRED_All",
-    "title": "This Is the MacBook I'd Buy For Amazon Prime Day Right Now",
-    "url": "https://www.wired.com/story/macbook-to-buy-amazon-prime-day/",
-    "id_key": "4d53a0ab189951a915446321d89c35983c30636f8af02f4bccec800e0afbb5bb",
-    "summary": "With new MacBooks on the horizon and Prime Day discounts here, here's my advice on what MacBooks to buy today.",
-    "ingested_utc": "2025-10-08T16:54:51Z"
-  },
-  {
-    "published_utc": "2025-10-08",
-    "retrieved_date": "2025-10-08",
-    "retrieved_utc": "2025-10-08T16:54:50Z",
-    "source": "TechCrunch_All",
-    "title": "AST SpaceMobile lands key Verizon deal amid growing competition with SpaceX and T-Mobile",
-    "url": "https://techcrunch.com/2025/10/08/ast-spacemobile-lands-key-verizon-deal-amid-growing-competition-with-spacex-and-t-mobile/",
-    "id_key": "dfe6457c9fbd06d01f7dd8c1146003e8daa37acf9217b13f61f053f9091b440d",
-    "summary": "AST SpaceMobile is deepening its relationship with mobile carrier giant Verizon.",
-    "ingested_utc": "2025-10-08T16:54:50Z"
-  },
-  {
-    "published_utc": "2025-10-08",
-    "retrieved_date": "2025-10-08",
-    "retrieved_utc": "2025-10-08T16:54:29Z",
-    "source": "NPR_Top",
-    "title": "Why gold is having its best year since 1979",
-    "url": "https://www.npr.org/2025/10/08/nx-s1-5566666/gold-hits-record-best-year-1979",
-    "id_key": "dcd62a76a9bc62c12bbe1284361757db853bd92fb156cedf27cf9e3ed82551bb",
-    "summary": "The price of gold hit $4,000 per ounce for the first time ever. It's a bad sign for the U.S. economy",
-    "ingested_utc": "2025-10-08T16:54:29Z"
-  },
-  {
-    "published_utc": "2025-10-08",
-    "retrieved_date": "2025-10-08",
-    "retrieved_utc": "2025-10-08T16:52:26Z",
-    "source": "CryptoBriefing",
-    "title": "Sorare moves to Solana blockchain",
-    "url": "https://cryptobriefing.com/sorare-moves-to-solana-blockchain/",
-    "id_key": "b96d4ea0bef486d64321670fe9b0fd78ce4825c89542a61dc3657a9733cadddd",
-    "summary": "Sorare's shift to Solana could accelerate user growth and innovation, leveraging Solana's robust infrastructure for enhanced gaming experiences. The post Sorare moves to Solana blockchain appeared first on Crypto Briefing .",
-    "ingested_utc": "2025-10-08T16:52:26Z"
-  },
-  {
-    "published_utc": "2025-10-08",
-    "retrieved_date": "2025-10-08",
-    "retrieved_utc": "2025-10-08T16:40:39Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "Tesla, Hyundai, Nissan offer cheaper EVs as China price war goes global",
-    "url": "https://asia.nikkei.com/business/automobiles/electric-vehicles/tesla-hyundai-nissan-offer-cheaper-evs-as-china-price-war-goes-global",
-    "id_key": "d1c9f072d70e3c0f4c469e716d20e27451dfbef018768e351e963d1b254fd7ec",
-    "summary": "",
-    "ingested_utc": "2025-10-08T16:40:39Z"
   }
 ]
