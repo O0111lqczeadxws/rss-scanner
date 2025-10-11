@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-10-11",
     "retrieved_date": "2025-10-11",
+    "retrieved_utc": "2025-10-11T05:50:28Z",
+    "source": "FinancialPost_Business",
+    "title": "UK’s £120 Billion Investment Not Yet Coming to Starmer’s Rescue",
+    "url": "https://financialpost.com/pmn/business-pmn/uks-120-billion-investment-not-yet-coming-to-starmers-rescue",
+    "id_key": "2cc451b7e97ec58ea59cc94245c30ff1faeef57da1f0ad596e95f2ba9a9c179f",
+    "summary": "Keir Starmer’s “defining mission” of spurring stronger growth in the UK economy relies on investment that so far is barely showing up.",
+    "ingested_utc": "2025-10-11T05:50:28Z"
+  },
+  {
+    "published_utc": "2025-10-11",
+    "retrieved_date": "2025-10-11",
+    "retrieved_utc": "2025-10-11T05:49:42Z",
+    "source": "NYTimes_Business",
+    "title": "Trump Threatens 100% Tariffs on Chinese Goods",
+    "url": "https://www.nytimes.com/2025/10/10/us/politics/trump-xi-china-tariffs-rare-earth.html",
+    "id_key": "4ea9b6356bd88a01861d8dcad4e8667e87aae51b35a1284f384fd806370827fd",
+    "summary": "The president made the threat after Beijing imposed new global restrictions on the use of rare earth minerals, which are vital supplies for U.S. makers of chips and batteries.",
+    "ingested_utc": "2025-10-11T05:49:42Z"
+  },
+  {
+    "published_utc": "2025-10-11",
+    "retrieved_date": "2025-10-11",
+    "retrieved_utc": "2025-10-11T05:49:42Z",
+    "source": "NYTimes_Business",
+    "title": "Inflation Report Will Be Released Despite Shutdown",
+    "url": "https://www.nytimes.com/2025/10/09/business/economy/inflation-report-release-shutdown.html",
+    "id_key": "75b7163caa4d167b0f74d85502ab14181b87dcddf1c7d1ec03121c32ba075243",
+    "summary": "The Bureau of Labor Statistics is calling back some employees to produce the Consumer Price Index for September. That data is needed to calculate the annual cost-of-living adjustment for Social Security beneficiaries.",
+    "ingested_utc": "2025-10-11T05:49:42Z"
+  },
+  {
+    "published_utc": "2025-10-11",
+    "retrieved_date": "2025-10-11",
     "retrieved_utc": "2025-10-11T05:13:06Z",
     "source": "FT_Home",
     "title": "How high-end restaurants went global",
@@ -10964,39 +10997,6 @@
     "url": "https://financialpost.com/globe-newswire/evident-launches-sixth-annual-image-of-the-year-contest",
     "id_key": "476047b1fc0a37113d528a84d502d09bba91c30ed105eaaccc46d8c7fb5709f6",
     "summary": "Image Attribution, from left to right: Cross-section of a Cosmic Orange aster flower with pollen grains maturing inside anthers. Captured by Igor Siwanowicz of the United States 2024. Nervous system of a juvenile sea star (Patiria miniata) about 1 cm wide. Captured by Laurent Formery of the United States 2022. Arabidopsis thaliana flower with pollen […]",
-    "ingested_utc": "2025-10-09T12:24:33Z"
-  },
-  {
-    "published_utc": "2025-10-09",
-    "retrieved_date": "2025-10-09",
-    "retrieved_utc": "2025-10-09T12:24:33Z",
-    "source": "FinancialPost_Business",
-    "title": "Affirm extends collaboration with Google as a supporter of Agent Payments Protocol (AP2)",
-    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/affirm-extends-collaboration-with-google-as-a-supporter-of-agent-payments-protocol-ap2",
-    "id_key": "43470e751d73c7d1dafdcaee1dae5c75aa8db0530d11152174264cf662ab4b0c",
-    "summary": "Affirm brings flexible, transparent pay-over-time options to the new world of agent-led commerce SAN FRANCISCO — Affirm (NASDAQ: AFRM), the payment network that empowers consumers and helps merchants drive growth, today announced its support for Google’s Agent Payments Protocol (AP2), an open, payment-agnostic protocol developed with leading payments and technology companies to securely support agent-led […]",
-    "ingested_utc": "2025-10-09T12:24:33Z"
-  },
-  {
-    "published_utc": "2025-10-09",
-    "retrieved_date": "2025-10-09",
-    "retrieved_utc": "2025-10-09T12:24:33Z",
-    "source": "FinancialPost_Business",
-    "title": "ExaGrid Releases AI-Powered Retention Time-Lock for Ransomware Recovery",
-    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/exagrid-releases-ai-powered-retention-time-lock-for-ransomware-recovery",
-    "id_key": "bcf3288cbdfc464660ab05a4c222b49981a962b60ed63907dd957ead83b22e37",
-    "summary": "New “Auto Detect & Guard” feature uses AI for enhanced alerting and security MARLBOROUGH, Mass. — ExaGrid®, the industry’s only Tiered Backup Storage solution with AI-Powered Retention Time-Lock (RTL) that includes a non-network-facing tier (creating a tiered air gap), delayed deletes and immutability for ransomware recovery, today announced the release of a new AI-Powered RTL […]",
-    "ingested_utc": "2025-10-09T12:24:33Z"
-  },
-  {
-    "published_utc": "2025-10-09",
-    "retrieved_date": "2025-10-09",
-    "retrieved_utc": "2025-10-09T12:24:33Z",
-    "source": "FinancialPost_Business",
-    "title": "Astria Therapeutics to Present at Upcoming CSACI 80th Anniversary Scientific Meeting",
-    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/astria-therapeutics-to-present-at-upcoming-csaci-80th-anniversary-scientific-meeting",
-    "id_key": "0abbd1ba856392a56c96611872826030dee3847a4971426886dc47a8c8425b2f",
-    "summary": "BOSTON — Astria Therapeutics, Inc. (Nasdaq:ATXS), a biopharmaceutical company focused on developing life-changing therapies for allergic and immunologic diseases, today announced that it will present two posters at the Canadian Society of Allergy and Clinical Immunology (CSACI) 80th Anniversary Scientific Meeting, taking place October 15-18, 2025 in Vancouver, British Columbia. Dr. Adil Adatia, M.D., FRCPC, […]",
     "ingested_utc": "2025-10-09T12:24:33Z"
   }
 ]
