@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-10-11",
     "retrieved_date": "2025-10-11",
+    "retrieved_utc": "2025-10-11T14:11:42Z",
+    "source": "TheStreet_Top",
+    "title": "Another airline files for bankruptcy, cancels all flights",
+    "url": "https://www.thestreet.com/travel/another-airline-files-for-bankruptcy-cancels-all-flights",
+    "id_key": "b9aabeea261e3548266b73af5f8644a5e5be5a16f0a82f1ed727b11e6537c9dd",
+    "summary": "While the start of 2025 brought with it much optimism about high traveler numbers, the projections did not pan out for every airline. By September, two Scandinavian airlines — Play and Braathens Aviation — left travelers in different parts of the world stranded after suddenly having to shut down ...",
+    "ingested_utc": "2025-10-11T14:11:42Z"
+  },
+  {
+    "published_utc": "2025-10-11",
+    "retrieved_date": "2025-10-11",
+    "retrieved_utc": "2025-10-11T14:11:30Z",
+    "source": "TheVerge_All",
+    "title": "American politics has devolved into shitposting and aura farming",
+    "url": "https://www.theverge.com/policy/798491/frog-portland-trump-national-guard",
+    "id_key": "bfcf7ad82103f2ca77c407b4388f0f1495f2a241edfd554f8fba05c40fb2a42c",
+    "summary": "When Donald Trump's administration issued orders to send the National Guard into Portland, Oregon, a person in a frog balloon suit showed up at the city's ICE facility, where protesters had gathered. After the frog humped the air in front of a throng of federal law enforcement - many dressed in head-to-toe camo with military-grade […]",
+    "ingested_utc": "2025-10-11T14:11:30Z"
+  },
+  {
+    "published_utc": "2025-10-11",
+    "retrieved_date": "2025-10-11",
     "retrieved_utc": "2025-10-11T13:50:40Z",
     "source": "TheStreet_Top",
     "title": "Tesla trillion-dollar business hits major government speed bump",
@@ -1340,6 +1362,17 @@
     "id_key": "20ee9ec425500de7a12a9ddcb5d048575614601da69f870720effae6a42913c7",
     "summary": "Chaotic scenes have become routine in a federal immigration court in Manhattan.",
     "ingested_utc": "2025-10-11T00:46:07Z"
+  },
+  {
+    "published_utc": "2025-10-10",
+    "retrieved_date": "2025-10-11",
+    "retrieved_utc": "2025-10-11T14:11:11Z",
+    "source": "NPR_Business",
+    "title": "AstraZeneca makes deal with White House to lower drug prices",
+    "url": "https://www.npr.org/sections/shots-health-news/2025/10/10/nx-s1-5571070/astrazeneca-trump-drug-prices",
+    "id_key": "e1a3b0879e389f5b2d8acf9488560dd3f6a9f0d2bc23bc08e527cb501554b07a",
+    "summary": "The U.K.-based drugmaker became the second to strike a deal with the Trump administration as part of the president's push to rein in U.S. drug prices.",
+    "ingested_utc": "2025-10-11T14:11:11Z"
   },
   {
     "published_utc": "2025-10-10",
@@ -10965,38 +10998,5 @@
     "id_key": "f896ec348a735962f2a7b1fc5927565161d7db57f84321d1c9cc12f5e158802e",
     "summary": "In the first phase of the ceasefire plan, Israel will remain in control of nearly 60 percent of the Gaza Strip.",
     "ingested_utc": "2025-10-09T14:36:42Z"
-  },
-  {
-    "published_utc": "2025-10-09",
-    "retrieved_date": "2025-10-09",
-    "retrieved_utc": "2025-10-09T14:36:41Z",
-    "source": "TheStreet_Top",
-    "title": "Tourists still stranded after airline goes bankrupt, cancels flights",
-    "url": "https://www.thestreet.com/travel/tourists-still-stranded-after-airline-goes-bankrupt-cancels-flights",
-    "id_key": "19a48003d4dcaa3164713e7174ff54317784835dfed20955ae38c96036c97dab",
-    "summary": "At the end of September, the simultaneous bankruptcies of two separate Scandinavian airlines stranded tourists at multiple airports across Europe. On Sept. 29, Reykjavik-based low-cost carrier Play Airlines announced that it was stopping all operations while Braathens Aviation, the parent company ...",
-    "ingested_utc": "2025-10-09T14:36:41Z"
-  },
-  {
-    "published_utc": "2025-10-09",
-    "retrieved_date": "2025-10-09",
-    "retrieved_utc": "2025-10-09T14:36:10Z",
-    "source": "NPR_Top",
-    "title": "The 10th and final escapee from a New Orleans jailbreak is captured after five months",
-    "url": "https://www.npr.org/2025/10/09/nx-s1-5567745/derrick-groves-captured-new-orleans-jailbreak",
-    "id_key": "9a9306324bdb3355e136ce48889a73afb61e2c19510ea1b6f581b98050ae930e",
-    "summary": "Ten men escaped the Orleans Parish Justice Center through a hole in the wall behind a toilet on May 16. Most were captured within days, but Derrick Groves managed to elude authorities until Wednesday.",
-    "ingested_utc": "2025-10-09T14:36:10Z"
-  },
-  {
-    "published_utc": "2025-10-09",
-    "retrieved_date": "2025-10-09",
-    "retrieved_utc": "2025-10-09T14:35:40Z",
-    "source": "BBC_World",
-    "title": "Israel and Hamas agree first phase of Gaza ceasefire deal",
-    "url": "https://www.bbc.com/news/articles/ce80rmq3g5qo?at_medium=RSS&at_campaign=rss",
-    "id_key": "793fa6cf7a66a8de98a4ffcdc55406bd691896c40743ffde177844201e9a7770",
-    "summary": "The deal raises hopes for a lasting peace after more than two years of conflict.",
-    "ingested_utc": "2025-10-09T14:35:40Z"
   }
 ]
