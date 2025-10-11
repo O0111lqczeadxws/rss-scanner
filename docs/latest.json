@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-10-11",
     "retrieved_date": "2025-10-11",
+    "retrieved_utc": "2025-10-11T09:12:26Z",
+    "source": "NYTimes_World",
+    "title": "Criticism Greets Macron’s Repeat Pick of Lecornu for Prime Minister: ‘Bad Joke’",
+    "url": "https://www.nytimes.com/2025/10/11/world/europe/france-macron-lecornu-prime-minister.html",
+    "id_key": "9d89e1b78800aa7e3f01e3a0de0ceb6a24f9273730314fbe0c93379901f5f74d",
+    "summary": "After appointing the same person prime minister for the second time in a week, President Emmanuel Macron is facing calls to explain his stubbornness or resign.",
+    "ingested_utc": "2025-10-11T09:12:26Z"
+  },
+  {
+    "published_utc": "2025-10-11",
+    "retrieved_date": "2025-10-11",
     "retrieved_utc": "2025-10-11T08:52:13Z",
     "source": "HackerNews_Top",
     "title": "HTML's Best Kept Secret: The Output Tag",
@@ -713,6 +724,17 @@
     "id_key": "20ee9ec425500de7a12a9ddcb5d048575614601da69f870720effae6a42913c7",
     "summary": "Chaotic scenes have become routine in a federal immigration court in Manhattan.",
     "ingested_utc": "2025-10-11T00:46:07Z"
+  },
+  {
+    "published_utc": "2025-10-10",
+    "retrieved_date": "2025-10-11",
+    "retrieved_utc": "2025-10-11T09:12:35Z",
+    "source": "NPR_World",
+    "title": "Israel and Hamas prepare for hostage exchange. And, the DOJ indicts Letitia James",
+    "url": "https://www.npr.org/2025/10/10/g-s1-92895/up-first-newsletter-israel-gaza-peace-deal-letitia-james",
+    "id_key": "aa3c89de1f4f701e5b88cdb77cb68e0e99da69e427fe5ba38a930e07bf413990",
+    "summary": "Israel and Hamas are preparing for a hostage exchange as the first phase of the signed ceasefire deal. And, the Justice Department has indicted Letitia James after pressure from President Trump.",
+    "ingested_utc": "2025-10-11T09:12:35Z"
   },
   {
     "published_utc": "2025-10-10",
@@ -10976,27 +10998,5 @@
     "id_key": "12d350d5d4b80d7848f4f10e52a2f509a2206297afd9c9821623ed0c6aae9f15",
     "summary": "Three Bollywood movies will be made in the UK, says British PM, and two more British universities will be setting up a campus in India Compensation schemes for victims of the Post Office Horizon IT scandal will be improved, with a new appeals process and funded legal advice for post office operators, the government has announced. Responding to the first part of the findings from a two-year public inquiry into the Horizon IT scandal, regarded as one of the worst miscarriages of justice in UK legal history, the business secretary, Peter Kyle, said there would be a new appeals process for people who have accepted fixed-sum offers under the Horizon Shortfall Scheme, one of several compensation schemes. Funded legal advice will also be offered. Continue reading...",
     "ingested_utc": "2025-10-09T13:39:13Z"
-  },
-  {
-    "published_utc": "2025-10-09",
-    "retrieved_date": "2025-10-09",
-    "retrieved_utc": "2025-10-09T13:39:13Z",
-    "source": "Guardian_World",
-    "title": "Alleged stalker’s interactions ‘creepy’, Madeleine McCann’s siblings tell court",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/09/madeleine-mccann-siblings-tell-court-of-alleged-stalker-julia-wandelt-creepy-interactions",
-    "id_key": "333d1007fb8dff9776534dc678ad57f968a3c38ddc43b1d6e4a2a71aa6052e9b",
-    "summary": "Julia Wandelt is on trial accused of targeting the McCann family with a two-and-a-half-year harassment campaign Madeleine McCann’s brother and sister have described being stressed and scared by their “creepy” and “deeply disturbing” interactions with an alleged stalker who claimed to be their missing sister. Giving evidence at the trial of Julia Wandelt, 24, who stands accused of targeting the family in a two-and-a-half-year harassment campaign, the twins Amelie and Sean McCann recalled the defendant contacting them a number of times saying she was Madeleine, who disappeared during a family holiday in Portugal in 2007 when she was three and they were two. Continue reading...",
-    "ingested_utc": "2025-10-09T13:39:13Z"
-  },
-  {
-    "published_utc": "2025-10-09",
-    "retrieved_date": "2025-10-09",
-    "retrieved_utc": "2025-10-09T13:07:12Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "Japan GDP rises annualized 0.7% in August: JCER",
-    "url": "https://asia.nikkei.com/economy/japan-gdp-rises-annualized-0.7-in-august-jcer",
-    "id_key": "7c3881012dad82556ea344c42ff3d30b01b09b4e829d8efca8190e0bfbe359c4",
-    "summary": "",
-    "ingested_utc": "2025-10-09T13:07:12Z"
   }
 ]
