@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-10-11",
     "retrieved_date": "2025-10-11",
+    "retrieved_utc": "2025-10-11T09:50:20Z",
+    "source": "FT_Home",
+    "title": "Donald Trump threatens extra 100% tariff as he retaliates against China",
+    "url": "https://www.ft.com/content/328e3195-909a-45fb-b118-9dafbd41262b",
+    "id_key": "937ada21adce5fb0e46c066cbed398bafeed9398c0be6f1da545e26e1ec6f4b6",
+    "summary": "US president says measures will include export controls on software and take effect from November 1 ‘or sooner’",
+    "ingested_utc": "2025-10-11T09:50:20Z"
+  },
+  {
+    "published_utc": "2025-10-11",
+    "retrieved_date": "2025-10-11",
+    "retrieved_utc": "2025-10-11T09:50:16Z",
+    "source": "NPR_Top",
+    "title": "Israel strikes south Lebanon, killing 1 and wounding 7",
+    "url": "https://www.npr.org/2025/10/11/g-s1-93117/israel-strikes-south-lebanon",
+    "id_key": "6240e7947e17cc1f7da7842cac475907e58d197de0f24bd9e71e2ae9f0e7ca91",
+    "summary": "Israel carried out airstrikes on southern Lebanon early Saturday, killing one person, wounding seven and briefly cutting a highway that links Beirut with parts of south Lebanon, the Health Ministry said.",
+    "ingested_utc": "2025-10-11T09:50:16Z"
+  },
+  {
+    "published_utc": "2025-10-11",
+    "retrieved_date": "2025-10-11",
     "retrieved_utc": "2025-10-11T09:36:18Z",
     "source": "NPR_World",
     "title": "Israel strikes south Lebanon, killing 1 and wounding 7",
@@ -10976,27 +10998,5 @@
     "id_key": "a0d7b33e59d6af0840dd945cc95347d55cc5d5a3a2d9bf368df36a530763a1ef",
     "summary": "Ethereum is putting privacy back at the center of its roadmap. This November, during the Devcon conference in Argentina, the Ethereum Foundation will unveil Kohaku, a new wallet framework designed to let users transact without exposing unnecessary personal or transactional details. The project was introduced on Oct. 9 by Foundation developer Nicolas Consigny, who said […] The post Ethereum doubles down on privacy with new ‘Kohaku’ wallet ahead of Devcon appeared first on CryptoSlate .",
     "ingested_utc": "2025-10-09T13:39:32Z"
-  },
-  {
-    "published_utc": "2025-10-09",
-    "retrieved_date": "2025-10-09",
-    "retrieved_utc": "2025-10-09T13:39:28Z",
-    "source": "Blockworks",
-    "title": "PayPay takes stake in Binance Japan to merge crypto and cashless payments",
-    "url": "https://blockworks.co/news/paypay-binance-japan",
-    "id_key": "346b983160cc0d8b3fda0cc11af593730f0668c3ce82883a9fe084ed78caffa8",
-    "summary": "The deal gives PayPay a 40% stake in Binance Japan, linking digital assets with Japan’s largest mobile payment network",
-    "ingested_utc": "2025-10-09T13:39:28Z"
-  },
-  {
-    "published_utc": "2025-10-09",
-    "retrieved_date": "2025-10-09",
-    "retrieved_utc": "2025-10-09T13:39:28Z",
-    "source": "Blockworks",
-    "title": "Citi invests in stablecoin startup BVNK as banks deepen crypto ties",
-    "url": "https://blockworks.co/news/citi-invests-in-stablecoin-startup-bvnk-as-banks-deepen-crypto-ties",
-    "id_key": "6c3519cca64376c1428a003829f7bfb7f23bb2ed4904c4f384938b084f2b52b7",
-    "summary": "Citigroup’s venture arm backs BVNK to expand stablecoin payments infrastructure amid growing US regulatory clarity",
-    "ingested_utc": "2025-10-09T13:39:28Z"
   }
 ]
