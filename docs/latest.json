@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-10-11",
     "retrieved_date": "2025-10-11",
+    "retrieved_utc": "2025-10-11T04:15:44Z",
+    "source": "FT_Markets",
+    "title": "European IPO markets show signs of revival",
+    "url": "https://www.ft.com/content/3c50f18f-c4ec-46ee-841a-f63425003be6",
+    "id_key": "a4f1b328d5f79d83b64cee702f6466a2f9416855aa934e8b1a1933df593616d6",
+    "summary": "Recent string of listings offers hope after prolonged slowdown",
+    "ingested_utc": "2025-10-11T04:15:44Z"
+  },
+  {
+    "published_utc": "2025-10-11",
+    "retrieved_date": "2025-10-11",
+    "retrieved_utc": "2025-10-11T04:13:00Z",
+    "source": "BBC_World",
+    "title": "Trump administration starts laying off thousands of workers",
+    "url": "https://www.bbc.com/news/articles/c1mxd1g71vxo?at_medium=RSS&at_campaign=rss",
+    "id_key": "e79175b5b5037440f73b0d9fee355411ab22162541cb97d0787629a5239a1209",
+    "summary": "More than 4,000 workers across seven agencies will receive notices that their jobs are being cut, the government disclosed in a court filing.",
+    "ingested_utc": "2025-10-11T04:13:00Z"
+  },
+  {
+    "published_utc": "2025-10-11",
+    "retrieved_date": "2025-10-11",
     "retrieved_utc": "2025-10-11T03:50:21Z",
     "source": "BBC_World",
     "title": "Icebreakers and golf spark Trump and Finnish leader's unlikely friendship",
@@ -10976,27 +10998,5 @@
     "id_key": "2278e5a051bb1b1ab4a095cf352d0e0171d5b64024f0fa219921f5f179b909e6",
     "summary": "Sharps Technology's pivot to crypto treasury strategies highlights a growing trend of traditional firms embracing digital assets for shareholder value. The post Sharps Technology expands Solana digital asset treasury strategy with Coinbase appeared first on Crypto Briefing .",
     "ingested_utc": "2025-10-09T12:21:40Z"
-  },
-  {
-    "published_utc": "2025-10-09",
-    "retrieved_date": "2025-10-09",
-    "retrieved_utc": "2025-10-09T12:21:38Z",
-    "source": "BitcoinMagazine",
-    "title": "Bitcoin Price Reclaims $122,000 As BlackRock Bitcoin ETF Surpasses 800,000 BTC AUM",
-    "url": "https://bitcoinmagazine.com/markets/bitcoin-price-reclaims-122000-as-blackrock-bitcoin-etf-surpasses-800000-btc-aum",
-    "id_key": "30b29f120c321a776c007a6a7bd9396a0283fbb3c334c5a77d02ad78ee15d3bb",
-    "summary": "Bitcoin Magazine Bitcoin Price Reclaims $122,000 As BlackRock Bitcoin ETF Surpasses 800,000 BTC AUM Bitcoin price holds steady above $122,000 as BlackRock's IBIT spot Bitcoin ETF reaches a major milestone of 800,000 BTC in assets under management, representing 3.8% of Bitcoin's total supply. This post Bitcoin Price Reclaims $122,000 As BlackRock Bitcoin ETF Surpasses 800,000 BTC AUM first appeared on Bitcoin Magazine and is written by Vivek Sen .",
-    "ingested_utc": "2025-10-09T12:21:38Z"
-  },
-  {
-    "published_utc": "2025-10-09",
-    "retrieved_date": "2025-10-09",
-    "retrieved_utc": "2025-10-09T12:21:19Z",
-    "source": "Guardian_Business",
-    "title": "Head of largest US bank warns of risk of American stock market crash",
-    "url": "https://www.theguardian.com/business/2025/oct/09/head-of-jpmorgan-chase-warns-of-risk-of-american-stock-market-crash",
-    "id_key": "bda43d2a690b9137f95717c0f2e3b6bb8255af319d82413efd42e3bce76bf682",
-    "summary": "Jamie Dimon, chair of JPMorgan Chase, said he was ‘far more worried than others’ about serious market correction The chances of the US stock market crashing is far greater than many financiers believe, the head of America’s largest bank has said. Jamie Dimon, who is the chair and chief executive of the giant Wall Street bank JPMorgan Chase, said he was “far more worried than others” about a serious market correction, which he predicted could come in the next six months to two years. Continue reading...",
-    "ingested_utc": "2025-10-09T12:21:19Z"
   }
 ]
