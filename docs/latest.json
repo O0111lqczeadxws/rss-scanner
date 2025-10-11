@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-10-11",
     "retrieved_date": "2025-10-11",
+    "retrieved_utc": "2025-10-11T15:49:31Z",
+    "source": "NYTimes_Business",
+    "title": "Critics Say Select Investors Gained From US Aid to Argentina",
+    "url": "https://www.nytimes.com/2025/10/10/business/dealbook/aid-argentina-investors-bessent.html",
+    "id_key": "ef03de96f452618281352b56f62ead5bca230445d99be3621078202306b74edc",
+    "summary": "Treasury Secretary Scott Bessent said stabilizing the country was in the United States’s interests. Critics say some investors may have also benefited.",
+    "ingested_utc": "2025-10-11T15:49:31Z"
+  },
+  {
+    "published_utc": "2025-10-11",
+    "retrieved_date": "2025-10-11",
     "retrieved_utc": "2025-10-11T15:33:14Z",
     "source": "Blockworks",
     "title": "Crypto liquidations drive historic market turbulence",
@@ -10987,16 +10998,5 @@
     "id_key": "24889184528fcd8c3f2af51671d23fb2886f67d5165d313c99b62199744f7b19",
     "summary": "Solana-based DeFi aggregator Jupiter and Ethena development firm Ethena Labs have announced a partnership to launch JupUSD, a new Solana-native stablecoin set to debut later this year. At launch, JupUSD will be 100% backed by USDtb, a dollar-pegged stablecoin issued by Ethena and backed by short-term U.S. Treasury assets, primarily ... The post Jupiter Teams Up With Ethena to Launch JupUSD Stablecoin appeared first on Unchained .",
     "ingested_utc": "2025-10-09T15:19:59Z"
-  },
-  {
-    "published_utc": "2025-10-09",
-    "retrieved_date": "2025-10-09",
-    "retrieved_utc": "2025-10-09T15:19:54Z",
-    "source": "CryptoBriefing",
-    "title": "Bybit becomes first exchange to receive full Virtual Asset Platform Operator license in UAE",
-    "url": "https://cryptobriefing.com/bybit-licensed-crypto-exchange-uae/",
-    "id_key": "33b83fe31cd4c186cf29c71bdca19c800267a06451cfccb9db6bd2f035c72106",
-    "summary": "Bybit's licensing in the UAE could accelerate the region's emergence as a leading digital asset hub, attracting global crypto investments. The post Bybit becomes first exchange to receive full Virtual Asset Platform Operator license in UAE appeared first on Crypto Briefing .",
-    "ingested_utc": "2025-10-09T15:19:54Z"
   }
 ]
