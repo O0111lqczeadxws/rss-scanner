@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-10-11",
     "retrieved_date": "2025-10-11",
+    "retrieved_utc": "2025-10-11T16:11:32Z",
+    "source": "Guardian_World",
+    "title": "Six people dead in shootings during two separate Mississippi homecoming gatherings",
+    "url": "https://www.theguardian.com/us-news/2025/oct/11/leland-mississippi-mass-shooting",
+    "id_key": "39aec50bc74b836448fb6219668fe839e7571a8908e843c09affa35187ffc61f",
+    "summary": "Sixteen people were injured in attack in Leland, while another two were killed in shooting in Heidelberg Four people have been killed and 16 others injured in a shooting in western Mississippi during a high school football homecoming celebration, according to local officials early on Saturday. The incident took place around midnight on Friday, John Lee, the mayor of Leland, a small city in Washington county, said to the Guardian in a telephone interview on Saturday morning. At least 12 of the wounded were being treated at nearby hospitals. Continue reading...",
+    "ingested_utc": "2025-10-11T16:11:32Z"
+  },
+  {
+    "published_utc": "2025-10-11",
+    "retrieved_date": "2025-10-11",
     "retrieved_utc": "2025-10-11T15:49:31Z",
     "source": "NYTimes_Business",
     "title": "Critics Say Select Investors Gained From US Aid to Argentina",
@@ -1516,6 +1527,17 @@
     "id_key": "20ee9ec425500de7a12a9ddcb5d048575614601da69f870720effae6a42913c7",
     "summary": "Chaotic scenes have become routine in a federal immigration court in Manhattan.",
     "ingested_utc": "2025-10-11T00:46:07Z"
+  },
+  {
+    "published_utc": "2025-10-10",
+    "retrieved_date": "2025-10-11",
+    "retrieved_utc": "2025-10-11T16:13:55Z",
+    "source": "NPR_Business",
+    "title": "'I'm done being afraid': How the shutdown has led federal workers to speak out",
+    "url": "https://www.npr.org/2025/10/10/nx-s1-5565228/government-shutdown-federal-employees-congress",
+    "id_key": "011e3f5d1cc71715926175dd5a316dfd135970f927f062e0178cf9f80c39cb24",
+    "summary": "After months of layoffs and funding cuts by the Trump administration, the government shutdown has given some federal employees hope that their voices are finally being heard.",
+    "ingested_utc": "2025-10-11T16:13:55Z"
   },
   {
     "published_utc": "2025-10-10",
@@ -10975,28 +10997,6 @@
     "url": "https://unchainedcrypto.com/ethereum-foundation-launches-privacy-cluster/",
     "id_key": "6eb90ce69b721835879654337a94102da3c39e8292372c4a9b2a97906ddb9e4e",
     "summary": "The Ethereum Foundation has launched a new initiative called the “Privacy Cluster” to enhance privacy in the Ethereum ecosystem. It brings together 47 researchers and engineers, led by Blockscout founder Igor Barinov, and aims to coordinate and advance privacy-focused projects and tools across Ethereum. Building on the work of the ... The post Ethereum Foundation Launches ‘Privacy Cluster’ appeared first on Unchained .",
-    "ingested_utc": "2025-10-09T15:19:59Z"
-  },
-  {
-    "published_utc": "2025-10-09",
-    "retrieved_date": "2025-10-09",
-    "retrieved_utc": "2025-10-09T15:19:59Z",
-    "source": "Unchained",
-    "title": "Polymarket Founder Teases POLY Token in X Post",
-    "url": "https://unchainedcrypto.com/polymarket-founder-teases-poly-token-in-x-post/",
-    "id_key": "3b2603322972237f394043505ae5e3370ebaaca8e849278ee0f7359a691a3a26",
-    "summary": "Polymarket founder Shayne Coplan has ignited a wave of speculation around a potential native POLY token for the popular blockchain-based prediction platform. In a cryptic X post, Coplan listed POLY alongside major crypto assets like BTC, ETH, BNB, and SOL, hinting that its arrival could be in the works. If ... The post Polymarket Founder Teases POLY Token in X Post appeared first on Unchained .",
-    "ingested_utc": "2025-10-09T15:19:59Z"
-  },
-  {
-    "published_utc": "2025-10-09",
-    "retrieved_date": "2025-10-09",
-    "retrieved_utc": "2025-10-09T15:19:59Z",
-    "source": "Unchained",
-    "title": "Jupiter Teams Up With Ethena to Launch JupUSD Stablecoin",
-    "url": "https://unchainedcrypto.com/jupiter-teams-up-with-ethena-to-launch-jupusd-stablecoin/",
-    "id_key": "24889184528fcd8c3f2af51671d23fb2886f67d5165d313c99b62199744f7b19",
-    "summary": "Solana-based DeFi aggregator Jupiter and Ethena development firm Ethena Labs have announced a partnership to launch JupUSD, a new Solana-native stablecoin set to debut later this year. At launch, JupUSD will be 100% backed by USDtb, a dollar-pegged stablecoin issued by Ethena and backed by short-term U.S. Treasury assets, primarily ... The post Jupiter Teams Up With Ethena to Launch JupUSD Stablecoin appeared first on Unchained .",
     "ingested_utc": "2025-10-09T15:19:59Z"
   }
 ]
