@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-10-11",
     "retrieved_date": "2025-10-11",
+    "retrieved_utc": "2025-10-11T07:50:16Z",
+    "source": "TheEconomist_Finance",
+    "title": "America and China return to fierce trade conflict",
+    "url": "https://www.economist.com/finance-and-economics/2025/10/11/america-and-china-return-to-fierce-trade-conflict",
+    "id_key": "81cb719bb12047a6cfc2e1a500d894c65b8f3b64e31197f0def5e2a039eea485",
+    "summary": "Donald Trump threatens an extra 100% levy as rare-earth minerals prompt a fresh tariff spat",
+    "ingested_utc": "2025-10-11T07:50:16Z"
+  },
+  {
+    "published_utc": "2025-10-11",
+    "retrieved_date": "2025-10-11",
+    "retrieved_utc": "2025-10-11T07:49:53Z",
+    "source": "NPR_Business",
+    "title": "Trump threatens tech export limits, new 100% tariff on Chinese imports",
+    "url": "https://www.npr.org/2025/10/11/g-s1-93113/trump-threatens-100-tariff-chinese-imports",
+    "id_key": "7737f3053818e9f1ab7b4fba9f566261506cac596651b39cb30fe9a562ea1048",
+    "summary": "President Trump threatened to place an additional 100% tax on Chinese imports starting on Nov. 1 or sooner, potentially escalating tariff rates close to levels that in April fanned fears of a recession.",
+    "ingested_utc": "2025-10-11T07:49:53Z"
+  },
+  {
+    "published_utc": "2025-10-11",
+    "retrieved_date": "2025-10-11",
     "retrieved_utc": "2025-10-11T07:33:11Z",
     "source": "CryptoBriefing",
     "title": "BlackRock clients sell $80.2M in Ether",
@@ -10975,28 +10997,6 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2025/10/9/video-gaza-emergency-workers-celebrate-after-ceasefire-deal-announcement?traffic_source=rss",
     "id_key": "41759385e0ffcdde6f757e8ed05304fedf7e1cfa74d28810fe55155a10fe4b5a",
     "summary": "Video shows emergency service crews celebrating the announcement of a ceasefire deal with chants and sirens.",
-    "ingested_utc": "2025-10-09T13:06:55Z"
-  },
-  {
-    "published_utc": "2025-10-09",
-    "retrieved_date": "2025-10-09",
-    "retrieved_utc": "2025-10-09T13:06:55Z",
-    "source": "AlJazeera_All",
-    "title": "US sanctions Serbia’s main oil supplier controlled by Russia",
-    "url": "https://www.aljazeera.com/news/2025/10/9/us-sanctions-serbias-main-oil-supplier-controlled-by-russia?traffic_source=rss",
-    "id_key": "8e2a13c566d1a73e1636a07b59e293b431156ad3e83cca7756c292391dcf90f7",
-    "summary": "Sanctions imposed on NIS in January as part of its crackdown on the Russian energy sector go into force.",
-    "ingested_utc": "2025-10-09T13:06:55Z"
-  },
-  {
-    "published_utc": "2025-10-09",
-    "retrieved_date": "2025-10-09",
-    "retrieved_utc": "2025-10-09T13:06:55Z",
-    "source": "AlJazeera_All",
-    "title": "Gaza residents flood streets in hope that Israel’s war is ending",
-    "url": "https://www.aljazeera.com/gallery/2025/10/9/gaza-residents-flood-streets-in-hope-that-israels-war-is-ending?traffic_source=rss",
-    "id_key": "c6cd469222b1b23419b5a9d669af5630e6ab12d354f9d11312a0fdff798e0619",
-    "summary": "Jubilation spreads in Khan Younis after US endorsement of Israel-Hamas ceasefire prompts optimism for ending the war.",
     "ingested_utc": "2025-10-09T13:06:55Z"
   }
 ]
