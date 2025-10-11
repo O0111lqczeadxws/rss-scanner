@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-10-11",
     "retrieved_date": "2025-10-11",
+    "retrieved_utc": "2025-10-11T16:50:16Z",
+    "source": "NPR_Top",
+    "title": "4 dead and 12 injured in a shooting after Mississippi homecoming game",
+    "url": "https://www.npr.org/2025/10/11/nx-s1-5571892/leland-mississippi-shooting-homecoming",
+    "id_key": "43c6e558988a8bf563cc382d6dff934350a58278d922d0de38f2da7ddab9a807",
+    "summary": "The small town of Leland, Miss., was rocked by the shooting, which took place late Friday.",
+    "ingested_utc": "2025-10-11T16:50:16Z"
+  },
+  {
+    "published_utc": "2025-10-11",
+    "retrieved_date": "2025-10-11",
     "retrieved_utc": "2025-10-11T16:34:57Z",
     "source": "HackerNews_Top",
     "title": "How to Check for Overlapping Intervals",
@@ -10987,16 +10998,5 @@
     "id_key": "a9ff2c0bb7df1f99b0d5f0c55deaa78e5a17c2231dbaf65c86ac7c1676725539",
     "summary": "From ride-hailing at massive global scale to autonomous delivery bots on neighborhood streets, AI is reinventing how people and goods move. Uber Technologies’ Chief Product Officer Sachin Kansal and Nuro Co-Founder Dave Ferguson take the stage to discuss the breakthroughs shaping mobility, the challenges of deploying AI in unpredictable real-world environments, and what the next decade of transportation will look like.",
     "ingested_utc": "2025-10-09T15:22:30Z"
-  },
-  {
-    "published_utc": "2025-10-09",
-    "retrieved_date": "2025-10-09",
-    "retrieved_utc": "2025-10-09T15:22:29Z",
-    "source": "TheVerge_All",
-    "title": "Sony teases new GPU tech for the PS6",
-    "url": "https://www.theverge.com/news/797640/sony-ps6-handheld-gpu-ray-path-tracing-amd-radiance-cores",
-    "id_key": "423cde4a1f58574711b74d3239ce5f83262011c672506b006e51a020aaf50387",
-    "summary": "Sony’s next console (presumably the PS6) is coming in “a few years time,” according to someone who I’d believe to make that claim. Mark Cerny, lead architect on the PS5 and PS5 Pro, joined Jack Huynh, SVP and GM of AMD’s computing and graphics group, in a YouTube video wherein the pair spend nine minutes […]",
-    "ingested_utc": "2025-10-09T15:22:29Z"
   }
 ]
