@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-10-11",
     "retrieved_date": "2025-10-11",
+    "retrieved_utc": "2025-10-11T09:36:18Z",
+    "source": "NPR_World",
+    "title": "Israel strikes south Lebanon, killing 1 and wounding 7",
+    "url": "https://www.npr.org/2025/10/11/g-s1-93117/israel-strikes-south-lebanon",
+    "id_key": "180088c47bfef2e68e6259642db4f59844e6832ed5fb0418caa40c0e34737468",
+    "summary": "Israel carried out airstrikes on southern Lebanon early Saturday, killing one person, wounding seven and briefly cutting a highway that links Beirut with parts of south Lebanon, the Health Ministry said.",
+    "ingested_utc": "2025-10-11T09:36:18Z"
+  },
+  {
+    "published_utc": "2025-10-11",
+    "retrieved_date": "2025-10-11",
     "retrieved_utc": "2025-10-11T09:29:10Z",
     "source": "AlJazeera_All",
     "title": "Seychelles votes in closely contested presidential run-off election",
@@ -10987,16 +10998,5 @@
     "id_key": "6c3519cca64376c1428a003829f7bfb7f23bb2ed4904c4f384938b084f2b52b7",
     "summary": "Citigroup’s venture arm backs BVNK to expand stablecoin payments infrastructure amid growing US regulatory clarity",
     "ingested_utc": "2025-10-09T13:39:28Z"
-  },
-  {
-    "published_utc": "2025-10-09",
-    "retrieved_date": "2025-10-09",
-    "retrieved_utc": "2025-10-09T13:39:13Z",
-    "source": "Guardian_World",
-    "title": "Zelenskyy says he will nominate Trump for Nobel peace prize if he secures Ukraine ceasefire – Europe live",
-    "url": "https://www.theguardian.com/world/live/2025/oct/09/russia-attacks-ukraine-energy-france-germany-europe-live-news-updates",
-    "id_key": "cc24999fc040de70e18537605e90d91b25b6050dc8a3e796b82c8d357095e91a",
-    "summary": "US president has claimed he deserves the award for what he has described as his work in securing ‘numerous’ peace deals Below is a video published by the Guardian showing Ukrainian firefighters tackling blazes in burning shipping containers after a Russian drone attack injured at least five people in Odesa. The attack cut power to 30,000 people and damaged the city’s port infrastructure. Continue reading...",
-    "ingested_utc": "2025-10-09T13:39:13Z"
   }
 ]
