@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-10-11",
     "retrieved_date": "2025-10-11",
+    "retrieved_utc": "2025-10-11T08:52:13Z",
+    "source": "HackerNews_Top",
+    "title": "HTML's Best Kept Secret: The Output Tag",
+    "url": "https://denodell.com/blog/html-best-kept-secret-output-tag",
+    "id_key": "75a1d618c4a023f26abdb148813ca6fb9eaeac5d1c96603b32d4d8903f3dfe43",
+    "summary": "Comments",
+    "ingested_utc": "2025-10-11T08:52:13Z"
+  },
+  {
+    "published_utc": "2025-10-11",
+    "retrieved_date": "2025-10-11",
     "retrieved_utc": "2025-10-11T08:36:10Z",
     "source": "AlJazeera_All",
     "title": "Palestinians defined by “unwillingness to submit”",
@@ -10987,16 +10998,5 @@
     "id_key": "7c3881012dad82556ea344c42ff3d30b01b09b4e829d8efca8190e0bfbe359c4",
     "summary": "",
     "ingested_utc": "2025-10-09T13:07:12Z"
-  },
-  {
-    "published_utc": "2025-10-09",
-    "retrieved_date": "2025-10-09",
-    "retrieved_utc": "2025-10-09T13:07:05Z",
-    "source": "FinancialPost_Business",
-    "title": "Bank of Canada’s Rogers says competition in Canada’s financial sector will boost productivity",
-    "url": "https://financialpost.com/news/bank-of-canada-rogers-competition-in-canadas-financial-sector-boost-productivity",
-    "id_key": "14abbdf2e97d16d5c7c97c02f03ca1dc37cab96b8b0bfd9fceae0d2623adadd5",
-    "summary": "The financial sector consists of six key players that collectively hold about 93% of all banking assets",
-    "ingested_utc": "2025-10-09T13:07:05Z"
   }
 ]
