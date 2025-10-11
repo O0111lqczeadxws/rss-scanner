@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-10-11",
     "retrieved_date": "2025-10-11",
+    "retrieved_utc": "2025-10-11T11:35:43Z",
+    "source": "NYTimes_World",
+    "title": "A Memo in a Bunker, Intercepted Communications and Hamas’s Oct. 7 Plans",
+    "url": "https://www.nytimes.com/2025/10/11/world/middleeast/israel-hamas-plans.html",
+    "id_key": "1a7f7f3086c7035260303390e0105cede2c6c56d8a8cd58c766100bbece24d32",
+    "summary": "A directive, which Israeli officials believe was written by Yahya Sinwar, the powerful leader of Hamas in Gaza, and recordings called for fighters to target soldiers and civilian communities — and to broadcast the violent acts.",
+    "ingested_utc": "2025-10-11T11:35:43Z"
+  },
+  {
+    "published_utc": "2025-10-11",
+    "retrieved_date": "2025-10-11",
     "retrieved_utc": "2025-10-11T11:22:51Z",
     "source": "CryptoNews",
     "title": "YZi Labs-Backed Perp DEX Aster Delays Airdrop Over Data Issues",
@@ -10986,17 +10997,6 @@
     "url": "https://financialpost.com/pmn/business-pmn/brazil-inflation-accelerates-after-energy-relief-credits-end",
     "id_key": "54a097cfbfd0b42076a703668987395e351619b3ae156c4388aefae68139b62e",
     "summary": "Brazil’s inflation accelerated in September after a temporary energy credit came to an end and led to sharply higher electricity costs.",
-    "ingested_utc": "2025-10-09T13:42:17Z"
-  },
-  {
-    "published_utc": "2025-10-09",
-    "retrieved_date": "2025-10-09",
-    "retrieved_utc": "2025-10-09T13:42:17Z",
-    "source": "FinancialPost_Business",
-    "title": "Aramco Delays Chemical Expansion Plans on Weak Oil, Asia Focus",
-    "url": "https://financialpost.com/pmn/business-pmn/aramco-delays-chemical-expansion-plans-on-weak-oil-asia-focus",
-    "id_key": "9766d9cd6212ddf7ee5e79c4598a697a54b0882278f449d4a17442287d173c05",
-    "summary": "Saudi Aramco has put three chemicals expansion projects on hold as weaker oil prices squeeze local spending and it prioritizes international investments, according to people familiar with the situation.",
     "ingested_utc": "2025-10-09T13:42:17Z"
   }
 ]
