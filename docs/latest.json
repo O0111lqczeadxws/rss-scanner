@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-10-12",
     "retrieved_date": "2025-10-12",
+    "retrieved_utc": "2025-10-12T10:43:15Z",
+    "source": "HackerNews_Top",
+    "title": "Show HN: I made an esoteric programming language that's read like a spellbook",
+    "url": "https://github.com/sirbread/spellscript",
+    "id_key": "af82993eba72e8888bd80cb96870e056982ffd284a1ce19b7851b15840b1eaf3",
+    "summary": "Comments",
+    "ingested_utc": "2025-10-12T10:43:15Z"
+  },
+  {
+    "published_utc": "2025-10-12",
+    "retrieved_date": "2025-10-12",
+    "retrieved_utc": "2025-10-12T10:42:14Z",
+    "source": "NYTimes_Business",
+    "title": "Qantas Airways Says Hackers Leaked Data on Its Customers",
+    "url": "https://www.nytimes.com/2025/10/12/world/australia/australia-qantas-airlines-cyber-attack.html",
+    "id_key": "ab63201c5322492f1079c89b37b44f5d979fbbf0faa3ee885c1d589170902ebf",
+    "summary": "Qantas Airways said criminals stole nearly six million of its customer records in July as part of an attack on companies around the world.",
+    "ingested_utc": "2025-10-12T10:42:14Z"
+  },
+  {
+    "published_utc": "2025-10-12",
+    "retrieved_date": "2025-10-12",
     "retrieved_utc": "2025-10-12T10:13:30Z",
     "source": "FinancialPost_Business",
     "title": "Spirit Halloween makes retail vacancies less of a nightmare after Hudson’s Bay fall",
@@ -10976,27 +10998,5 @@
     "id_key": "16e829f671c06900bce3f3cedd846ae3f02bc3f906d49b90c02023ab3eb6ee4e",
     "summary": "Nintendo just released an odd little game onto the SNES Virtual Console that was previously exclusive to Japan. The simply-titled Mario & Wario is a point-and-click puzzle game that finds the plumber on the search for his brother after his money-obsessed doppelganger drops a bucket on his head. That's the actual plot. Players lead the bucket-headed Mario through 100 levels, each of which are filled with point-and-click puzzles set in a sidescrolling world. The original game was controlled via mouse and this Virtual Console release is no different. Switch owners can simply plug in a USB mouse to get going but Switch 2 owners have a niftier option. You may remember that the new console's Joy-Con controllers can flip over and be used as a mouse . Mario & Wario is another use case for this concept, after Drag x Drive and a minigame in Nintendo Switch 2 Welcome Tour . The game is available right now for Nintendo Switch Online members. That's not the only title that hit Virtual Console today. The SNES platformer Bubsy in Claws Encounters of the Furred Kind is available to play, as is the SNES fighter Fatal Fury Special . That one includes characters from both the original game and Fatal Fury 2 . This article originally appeared on Engadget at https://www.engadget.com/gaming/nintendo/nintendo-just-surprise-dropped-a-japan-only-snes-mario-game-onto-the-virtual-console-183536913.html?src=rss",
     "ingested_utc": "2025-10-09T18:45:35Z"
-  },
-  {
-    "published_utc": "2025-10-09",
-    "retrieved_date": "2025-10-09",
-    "retrieved_utc": "2025-10-09T18:45:35Z",
-    "source": "Engadget_All",
-    "title": "Tensor's Robocar will be 'Lyft-ready' out of the factory",
-    "url": "https://www.engadget.com/transportation/evs/tensors-robocar-will-be-lyft-ready-out-of-the-factory-182010143.html?src=rss",
-    "id_key": "901af58470d8c60f8fc6f418b7287229efed07c01d10b25b0ce826916d665c07",
-    "summary": "Lyft is partnering with San Jose-based Tensor Auto. Lyft says it has reserved \"hundreds\" of Tensor robotaxis and will operate its own fleet. The other piece of the partnership: Tensor will make its Robocar \"Lyft-ready\" straight out of the factory. Shipping the Robocar with Lyft's platform will allow a futuristic form of passive income for owners in regions with level 4 regulatory approval. \"Traditional car ownership means a vehicle loses value as it sits idle most of the time,\" the companies wrote in a press release. \"Tensor Robocars flip this model, turning personal luxury vehicles into productive assets that can generate income around the clock.\" It's similar to what Tesla plans to do with its yet-to-be-shipped Cybercab . Lyft's rival Uber announced a similar plan in July, involving 20,000 Lucid EVs . That's also a rendering. Tensor / Lyft Tensor plans to deliver its first Robocars by the end of 2026. The company says the \"Lyft-ready\" autonomous vehicle (AV) will include over 100 sensors. (That includes 37 cameras, five lidars, and 11 radars.) Eight NVIDIA chips, based on Blackwell GPU architecture , help it interpret sensor data. Tensor says the computer is capable of 8,000 trillion operations per second. This is far from Lyft's first AV partnership. Among others, it teamed up last month with May Mobility to launch an autonomous fleet in Atlanta . Lyft also plans to match users with Waymo rides in Nashville starting next year. However, Bloomberg notes that the Tensor partnership is Lyft's first where it will purchase its own AV fleet. Tensor spun out of the Chinese robotaxi company AutoX . The company says it divested and discontinued its China operations to focus exclusively on the US-based Tensor. The Robocar will be produced in Vietnam through a partnership with VinFast. This article originally appeared on Engadget at https://www.engadget.com/transportation/evs/tensors-robocar-will-be-lyft-ready-out-of-the-factory-182010143.html?src=rss",
-    "ingested_utc": "2025-10-09T18:45:35Z"
-  },
-  {
-    "published_utc": "2025-10-09",
-    "retrieved_date": "2025-10-09",
-    "retrieved_utc": "2025-10-09T18:45:32Z",
-    "source": "TheVerge_All",
-    "title": "Amazon’s giant ads have ruined the Echo Show",
-    "url": "https://www.theverge.com/report/797672/amazon-echo-show-ads-alexa-plus",
-    "id_key": "91282185c6bc5280edf3e5e668a29edc96de3290fd1438f73212fd894d27c0da",
-    "summary": "Last week, Amazon launched a major update of its line of Alexa-enabled Echo smart speakers and displays. The redesign - led by former Microsoft design chief Ralf Groene, whom Amazon Devices & Services head Panos Panay coaxed out of retirement - included two new Echo Show smart displays. According to Panay, these new models are […]",
-    "ingested_utc": "2025-10-09T18:45:32Z"
   }
 ]
