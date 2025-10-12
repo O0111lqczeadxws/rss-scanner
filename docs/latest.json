@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-10-12",
     "retrieved_date": "2025-10-12",
+    "retrieved_utc": "2025-10-12T03:55:34Z",
+    "source": "AlJazeera_All",
+    "title": "Seychelles’s Patrick Herminie wins presidential run-off election",
+    "url": "https://www.aljazeera.com/news/2025/10/12/seychelless-patrick-herminie-wins-presidential-run-off-election?traffic_source=rss",
+    "id_key": "7111a235563d132c06f11f8dda57896ba8844012885f885f89ba0c019d033685",
+    "summary": "Patrick Herminie wins 52.7 percent of the vote, denying incumbent Wavel Ramkalawan a second term in office.",
+    "ingested_utc": "2025-10-12T03:55:34Z"
+  },
+  {
+    "published_utc": "2025-10-12",
+    "retrieved_date": "2025-10-12",
+    "retrieved_utc": "2025-10-12T03:54:54Z",
+    "source": "NYTimes_Business",
+    "title": "China Flexed. Trump Hit Back. So Much for the Thaw.",
+    "url": "https://www.nytimes.com/2025/10/11/world/asia/china-trump-tariff-threat.html",
+    "id_key": "eb0b319a7a955a8b996dd192eeb566ff340509fa7da0abc3aef5a267d7257776",
+    "summary": "Beijing’s trade curbs and President Trump’s tariff threats show how quickly calm can give way to confrontation between the two largest economies.",
+    "ingested_utc": "2025-10-12T03:54:54Z"
+  },
+  {
+    "published_utc": "2025-10-12",
+    "retrieved_date": "2025-10-12",
     "retrieved_utc": "2025-10-12T03:45:41Z",
     "source": "Nikkei_Asia_Top",
     "title": "China accuses US of 'double standards' after Trump's 100% tariff move",
@@ -10976,27 +10998,5 @@
     "id_key": "214d4d1175b866031de0d582eaeb9ee9f295180e3685b4c2afb9daeec00ed6d5",
     "summary": "In the absence of tech-related spending, the US would be close to, or in, recession this year, experts say.",
     "ingested_utc": "2025-10-09T17:33:30Z"
-  },
-  {
-    "published_utc": "2025-10-09",
-    "retrieved_date": "2025-10-09",
-    "retrieved_utc": "2025-10-09T17:33:29Z",
-    "source": "TheStreet_Top",
-    "title": "Walmart is selling an 'impressive' $316 portable power station for $179",
-    "url": "https://www.thestreet.com/deals/enyopro-portable-power-station-600w-october-walmart-deals-2025",
-    "id_key": "9e8a035a5902cc4b8873fad1ff2f6bb7312ad4e7b19d7f0d4d0542f2edf56d81",
-    "summary": "Save $137 and keep all your favorite devices powered up wherever you're headed.",
-    "ingested_utc": "2025-10-09T17:33:29Z"
-  },
-  {
-    "published_utc": "2025-10-09",
-    "retrieved_date": "2025-10-09",
-    "retrieved_utc": "2025-10-09T17:33:20Z",
-    "source": "Engadget_All",
-    "title": "Sony and AMD tease the GPU tech they're building for the next PlayStation",
-    "url": "https://www.engadget.com/gaming/playstation/sony-and-amd-tease-the-gpu-tech-theyre-building-for-the-next-playstation-172500942.html?src=rss",
-    "id_key": "d8db7914fb608a48e09ec8ac201de65b6607fced140a8bb15d0906397632a8ef",
-    "summary": "Sony just dropped a new video with Mark Cerny, and it’s a big one, with significant implications for the company’s next console and AMD’s future GPUs. Over nearly nine minutes, Cerny, who was the lead designer for the PlayStation 4 and PS5 , chats with Jack Huynh, senior vice president and general manager of AMD’s Computing and Graphics Group, about a series of technologies, collectively dubbed Project Amethyst, the two companies are developing together. According to Cerny, those technologies “only exist in simulations” right now, but they’re broadly designed to make the next PlayStation better at ray tracing, upscaling and other machine learning-based rendering techniques. If you know anything about AMD graphics cards, it’s that they’ve historically offered poor ray tracing performance relative to NVIDIA’s RTX GPUs. For years, AMD tried to bridge the gap with cards that outmuscled NVIDIA’s offerings with better rasterization performance, an approach the company now admits won’t work for modern, graphically intensive games. “Trying to brute force [ray-tracing] with raw power alone just doesn’t scale,” Huynh said. AMD’s solution is an entirely new architecture that combines two hardware innovations: Neural Arrays and Radiance Cores. In AMD’s older GPUs, the individual compute units are designed to work independently of one another. This approach worked great for a long time, but in modern games — dependent as they are on expensive upscaling techniques likes FSR and Sony’s own PSSR to deliver playable framerates at high resolutions — it can lead to inefficiencies. AMD is trying to solve that problem with Neural Arrays, which give the compute units a way to work together and share data between one another. According to Huynh, AMD isn’t linking an entire GPU together, as that would create a cable-management nightmare, but it is giving the silicon a way to process a “large chunk” of the screen in one go. In practice, he says that should allow the next PlayStation and AMD’s future video cards to offer a “whole new level of machine learning performance.” In turn, that will translate to better and faster upscaling performance, alongside better ray regeneration. The latter is something NVIDIA already offers with DLSS Ray Reconstruction and in games that support the technology, it translates to better-looking ray tracing effects and improved performance. As for Radiance Cores, it sound like AMD is taking another page from NVIDIA. For the uninitiated, the company’s RTX cards feature dedicated, fixed-function “RT” cores designed to accelerate the math needed to simulate light rays in real-time. Huynh says the Radiance Cores are an entirely new hardware block designed to handle ray and path tracing. “It’s a brand-new rendering approach for AMD,” he added. As a bonus, by taking on this work, the Radiance Cores will free up other parts of AMD’s new GPUs to process shaders and textures more quickly, leading to further efficiency gains. Lastly, the two companies are working on new software they’re calling Universal Compression. It builds on the PS5 and PS5 Pro’s existing Delta Color Compression technique. It will theoretically allow Sony’s next console to compress everything that goes through its graphics pipeline, reducing the amount memory bandwidth needed by the GPU and potentially reducing its power consumption. Again, I’ll note Cerny said it’s still “early days” for all the technologies he and Huynh discussed, but it’s reassuring to know Sony and AMD are thinking about how to best approach ray tracing performance and upscaling. Techniques like ray-traced global illumination can completely change the look of a game, making for a more immersive experience. If Sony and AMD can find ways to make those technologies less expensive to run, that’s a win for everyone. This article originally appeared on Engadget at https://www.engadget.com/gaming/playstation/sony-and-amd-tease-the-gpu-tech-theyre-building-for-the-next-playstation-172500942.html?src=rss",
-    "ingested_utc": "2025-10-09T17:33:20Z"
   }
 ]
