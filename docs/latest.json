@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-10-12",
     "retrieved_date": "2025-10-12",
+    "retrieved_utc": "2025-10-12T20:14:34Z",
+    "source": "Nikkei_Asia_Top",
+    "title": "US and Japan must work together to free Aung San Suu Kyi",
+    "url": "https://asia.nikkei.com/opinion/us-and-japan-must-work-together-to-free-aung-san-suu-kyi",
+    "id_key": "b15cbefb5288244f09789d6ee2bc16241dc61f5ca522dfd8ffcd39967351a5c9",
+    "summary": "",
+    "ingested_utc": "2025-10-12T20:14:34Z"
+  },
+  {
+    "published_utc": "2025-10-12",
+    "retrieved_date": "2025-10-12",
+    "retrieved_utc": "2025-10-12T20:13:51Z",
+    "source": "FT_Home",
+    "title": "UK security services step up work with business to fight cyber threats",
+    "url": "https://www.ft.com/content/6e54967b-48ce-4788-99c7-36b5801e7dfe",
+    "id_key": "6c0705b37e773e33723f05fcf18174cdbab749651fa330a244b2ae034905060d",
+    "summary": "High-profile hacks raise fears about the potential economic damage caused by disruption to supply chains and services",
+    "ingested_utc": "2025-10-12T20:13:51Z"
+  },
+  {
+    "published_utc": "2025-10-12",
+    "retrieved_date": "2025-10-12",
+    "retrieved_utc": "2025-10-12T20:11:24Z",
+    "source": "Guardian_World",
+    "title": "Tony Blair wins nod from Palestinian Authority for role in postwar Gaza",
+    "url": "https://www.theguardian.com/world/2025/oct/12/tony-blair-wins-nod-from-palestine-authority-for-role-in-postwar-gaza",
+    "id_key": "9bbb3a073979139575269f4c7c06cb759c41bab3a4082286ac10b3cf99d7c21f",
+    "summary": "Senior PA leader confirms readiness to work with former UK PM on post-ceasefire recovery The former UK prime minister Tony Blair appears to have won the endorsement of the Palestinian Authority to be involved in the reconstruction of Gaza, after an exploratory meeting in Jordan. Blair met Hussein al-Sheikh, the deputy president of the Palestinian Authority (PA) and head of the Palestine Liberation Organisation executive committee, in Amman, Jordan, on Sunday. It was the first such meeting since Donald Trump announced Blair’s role in his 20-point plan . Continue reading...",
+    "ingested_utc": "2025-10-12T20:11:24Z"
+  },
+  {
+    "published_utc": "2025-10-12",
+    "retrieved_date": "2025-10-12",
     "retrieved_utc": "2025-10-12T19:36:35Z",
     "source": "AlJazeera_All",
     "title": "Far-right AfD party fails to secure first German city mayor post in run-off",
@@ -10965,38 +10998,5 @@
     "id_key": "a6f101c8c65ea960feb79a07d9c31e1d65f8e7d8ac86775a6dffe02653769f6c",
     "summary": "Venture Global Inc. lost a dispute with BP Plc involving the sale of liquefied natural gas cargoes, a surprise defeat that comes eight weeks after the US LNG exporter prevailed in a similar fight with Shell Plc.",
     "ingested_utc": "2025-10-09T21:50:46Z"
-  },
-  {
-    "published_utc": "2025-10-09",
-    "retrieved_date": "2025-10-09",
-    "retrieved_utc": "2025-10-09T21:50:46Z",
-    "source": "FinancialPost_Business",
-    "title": "Zacatecas Silver Announces Grant of Stock Options",
-    "url": "https://financialpost.com/globe-newswire/zacatecas-silver-announces-grant-of-stock-options",
-    "id_key": "1a670a2a429f5c0ff61c74fa60a9d0e205dea9752d5fddeeaf945cf06e7457c2",
-    "summary": "VANCOUVER, British Columbia, Oct. 09, 2025 (GLOBE NEWSWIRE) — Zacatecas Silver Corp. (TSXV: ZAC; OTC: ZCTSF; Frankfurt: 7TV) (“Zacatecas” or the “Company”) announces it has granted 5,000,000 stock options to its directors, officers and consultants in accordance with the terms of its rolling stock option plan. Each option is exercisable at a price of $0.11 […]",
-    "ingested_utc": "2025-10-09T21:50:46Z"
-  },
-  {
-    "published_utc": "2025-10-09",
-    "retrieved_date": "2025-10-09",
-    "retrieved_utc": "2025-10-09T21:50:39Z",
-    "source": "AlJazeera_All",
-    "title": "NY Attorney General Letitia James indicted on fraud charges: Reports",
-    "url": "https://www.aljazeera.com/economy/2025/10/9/ny-attorney-general-letitia-james-indicted-on-fraud-charges-reports?traffic_source=rss",
-    "id_key": "d31646bfb791b2e0114409cecc2833dd8ecb9fc6fe2c24886c44bb736f95b066",
-    "summary": "James had been a target of US President Trump since successfully suing him for overstating his wealth to dupe lenders.",
-    "ingested_utc": "2025-10-09T21:50:39Z"
-  },
-  {
-    "published_utc": "2025-10-09",
-    "retrieved_date": "2025-10-09",
-    "retrieved_utc": "2025-10-09T21:50:07Z",
-    "source": "NPR_Top",
-    "title": "Justice Department indicts Letitia James after pressure from Trump",
-    "url": "https://www.npr.org/2025/10/09/nx-s1-5569792/letitia-james-indictment-trump",
-    "id_key": "4bc8a404889ed618e45043db7d9c9842cea0ee983675151ad6d996ecb7c78664",
-    "summary": "The indictment comes after steady pressure from President Trump to prosecute James, who successfully sued Trump and his company for inflating the value of some of its properties.",
-    "ingested_utc": "2025-10-09T21:50:07Z"
   }
 ]
