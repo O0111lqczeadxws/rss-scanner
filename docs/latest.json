@@ -409,6 +409,17 @@
   {
     "published_utc": "2025-10-11",
     "retrieved_date": "2025-10-12",
+    "retrieved_utc": "2025-10-12T08:48:43Z",
+    "source": "BBC_World",
+    "title": "Hamas mobilises fighters in Gaza as fears of internal violence mount",
+    "url": "https://www.bbc.com/news/articles/ce8482418plo?at_medium=RSS&at_campaign=rss",
+    "id_key": "0a20abf739e1f4bff8820344200b8ab8b76c0bb7ac85708ef0ca2aae7e71e381",
+    "summary": "Clashes have already taken place between the group and an armed clan in Gaza City.",
+    "ingested_utc": "2025-10-12T08:48:43Z"
+  },
+  {
+    "published_utc": "2025-10-11",
+    "retrieved_date": "2025-10-12",
     "retrieved_utc": "2025-10-12T07:10:17Z",
     "source": "Guardian_World",
     "title": "Three people dead after light plane crashes on takeoff near Wollongong",
@@ -10987,16 +10998,5 @@
     "id_key": "1ea642faed0ad90082aa0e357bd231071c80ade5376f78448c9b7d28a230aaab",
     "summary": "YouTube is now giving some creators who were banned for spreading covid and election misinformation a chance to make a new channel, according to a blog post. Under political pressure, the company had said last month that it was going to set up this pilot program for “a subset of creators” and “channels terminated for […]",
     "ingested_utc": "2025-10-09T18:18:51Z"
-  },
-  {
-    "published_utc": "2025-10-09",
-    "retrieved_date": "2025-10-09",
-    "retrieved_utc": "2025-10-09T18:16:09Z",
-    "source": "CryptoNews",
-    "title": "First in UAE – Bybit Snags SCA License, Unlocking Regulated Trading and Custody",
-    "url": "https://cryptonews.com/news/bybit-becomes-first-crypto-exchange-to-secure-uae-sca-virtual-asset-license/",
-    "id_key": "2cf290b2e6abece287e81567a4e6a479db57b9862d3ddc7c1211290d0b7e2111",
-    "summary": "Bybit has received an SCA License from the UAE’s national securities regulator, extending coverage beyond Dubai’s VARA and permitting regulated trading, brokerage, custody, and fiat conversion for retail and institutional users across the UAE mainland. The post First in UAE – Bybit Snags SCA License, Unlocking Regulated Trading and Custody appeared first on Cryptonews .",
-    "ingested_utc": "2025-10-09T18:16:09Z"
   }
 ]
