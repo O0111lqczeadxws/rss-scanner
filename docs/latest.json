@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-10-12",
     "retrieved_date": "2025-10-12",
+    "retrieved_utc": "2025-10-12T19:36:35Z",
+    "source": "AlJazeera_All",
+    "title": "Far-right AfD party fails to secure first German city mayor post in run-off",
+    "url": "https://www.aljazeera.com/news/2025/10/12/far-right-afd-party-may-win-first-german-city-mayor-post-in-run-off-vote?traffic_source=rss",
+    "id_key": "64992aaa4127c13513f734e8fe7d51f5865a9a3985dafcf40f634105d97f1179",
+    "summary": "The election in Frankfurt an der Oder was between independent candidate Axel Strasser and AfD contender Wilko Moller.",
+    "ingested_utc": "2025-10-12T19:36:35Z"
+  },
+  {
+    "published_utc": "2025-10-12",
+    "retrieved_date": "2025-10-12",
+    "retrieved_utc": "2025-10-12T19:33:23Z",
+    "source": "Guardian_World",
+    "title": "Gaza ceasefire live: Netanyahu warns ‘campaign is not over’ as Israel awaits release of hostages",
+    "url": "https://www.theguardian.com/world/live/2025/oct/12/gaza-ceasefire-live-aid-relief-hamas-release-israel-hostages",
+    "id_key": "99bfb83178a09921890aa571fc1fa662842ad1f64264beac3e8d24c005668237",
+    "summary": "Israeli prime minister says there are ‘very great security challenges ahead of us’ but expects hostages will be released tomorrow Israeli prime minister, Benjamin Netanyahu , has said that Israel is ready for the “immediate” reception of all Gaza hostages. “Israel is prepared and ready to immediately receive all of our hostages,” he said in a statement after a meeting with the coordinator for the hostage coordinator Gal Hirsch. Continue reading...",
+    "ingested_utc": "2025-10-12T19:33:23Z"
+  },
+  {
+    "published_utc": "2025-10-12",
+    "retrieved_date": "2025-10-12",
     "retrieved_utc": "2025-10-12T19:24:26Z",
     "source": "Engadget_All",
     "title": "An Avatar fighting game is coming out in summer 2026",
@@ -10976,27 +10998,5 @@
     "id_key": "4bc8a404889ed618e45043db7d9c9842cea0ee983675151ad6d996ecb7c78664",
     "summary": "The indictment comes after steady pressure from President Trump to prosecute James, who successfully sued Trump and his company for inflating the value of some of its properties.",
     "ingested_utc": "2025-10-09T21:50:07Z"
-  },
-  {
-    "published_utc": "2025-10-09",
-    "retrieved_date": "2025-10-09",
-    "retrieved_utc": "2025-10-09T21:49:59Z",
-    "source": "NYTimes_World",
-    "title": "Live Updates: Netanyahu Seeks Cabinet Approval for Gaza Deal",
-    "url": "https://www.nytimes.com/live/2025/10/09/world/israel-hamas-gaza-ceasefire",
-    "id_key": "f94e2ac48db81cc33d60418d1048062f007aca92d3c4b022c8b821177c30ea77",
-    "summary": "President Trump called the prospect of a hostage and prisoner exchange a “momentous breakthrough,” and a top Hamas official declared an end to the two-year war. Israeli leaders were meeting to approve the first phase of the agreement.",
-    "ingested_utc": "2025-10-09T21:49:59Z"
-  },
-  {
-    "published_utc": "2025-10-09",
-    "retrieved_date": "2025-10-09",
-    "retrieved_utc": "2025-10-09T21:49:58Z",
-    "source": "NYTimes_Business",
-    "title": "Inflation Report Will Be Released Despite Shutdown",
-    "url": "https://www.nytimes.com/2025/10/09/business/economy/inflation-report-release-shutdown.html",
-    "id_key": "c20db23600663795388f1153a40ebb4d8ce68ff84becd582932945407255180f",
-    "summary": "The Bureau of Labor Statistics is calling back some employees to produce the Consumer Price Index for September. That data is needed to calculate the annual cost-of-living adjustment for Social Security beneficiaries.",
-    "ingested_utc": "2025-10-09T21:49:58Z"
   }
 ]
