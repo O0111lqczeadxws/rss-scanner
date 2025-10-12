@@ -2,6 +2,61 @@
   {
     "published_utc": "2025-10-12",
     "retrieved_date": "2025-10-12",
+    "retrieved_utc": "2025-10-12T11:25:31Z",
+    "source": "HackerNews_Top",
+    "title": "Why it took 4 years to get a lock files specification",
+    "url": "https://snarky.ca/why-it-took-4-years-to-get-a-lock-files-specification/",
+    "id_key": "10b4e95c0be20fa510f55fbb55f8aacecba8aeccd2c073d2a3dcb3b7218f568b",
+    "summary": "Comments",
+    "ingested_utc": "2025-10-12T11:25:31Z"
+  },
+  {
+    "published_utc": "2025-10-12",
+    "retrieved_date": "2025-10-12",
+    "retrieved_utc": "2025-10-12T11:25:23Z",
+    "source": "Nikkei_Asia_Top",
+    "title": "China criticizes Trump's 100% tariff threat, defends rare-earth controls",
+    "url": "https://asia.nikkei.com/economy/trade-war/trump-tariffs/china-criticizes-trump-s-100-tariff-threat-defends-rare-earth-controls",
+    "id_key": "6c17d0b23df96dacc6577bb8c7d428729118d621c3ae5796b0cc9a8b8d75c1d4",
+    "summary": "",
+    "ingested_utc": "2025-10-12T11:25:23Z"
+  },
+  {
+    "published_utc": "2025-10-12",
+    "retrieved_date": "2025-10-12",
+    "retrieved_utc": "2025-10-12T11:22:19Z",
+    "source": "Guardian_World",
+    "title": "Woman arrested on suspicion of murder after death of two children in Stafford",
+    "url": "https://www.theguardian.com/uk-news/2025/oct/12/woman-arrested-on-suspicion-of-murder-after-death-of-two-children-in-stafford",
+    "id_key": "6f15818cb2499592f40128f4b42f1bbc56cc5abf7e5b008eb68922af8b1d5ec9",
+    "summary": "Police say woman, 43, remains in custody after two children pronounced dead at a home in the town A woman has been arrested on suspicion of murder after the deaths of two children in Stafford, Staffordshire police have said. Police were called to a home in the town at about 7.30am on Sunday by West Midlands ambulance service. Continue reading...",
+    "ingested_utc": "2025-10-12T11:22:19Z"
+  },
+  {
+    "published_utc": "2025-10-12",
+    "retrieved_date": "2025-10-12",
+    "retrieved_utc": "2025-10-12T11:22:19Z",
+    "source": "Guardian_World",
+    "title": "Trump officials reportedly consider selling student loan debt to private investors",
+    "url": "https://www.theguardian.com/us-news/2025/oct/12/trump-sell-student-loan-debt",
+    "id_key": "3d932708eb2f0db6ec17c44d8f16df084a3a39bf78c5e80e1f9120e68b87202b",
+    "summary": "Experts say the move could eliminate the federal government’s power to cancel educational loans Officials in the Trump administration are reportedly weighing the possibility of selling portions of the federal government’s $1.6tn student loan portfolio to private investors, which experts say could carry risks for both taxpayers and borrowers – potentially reshaping the student loan landscape in unpredictable ways. Senior officials at the education and treasury departments have been engaged in internal conversations about offloading select, high-performing segments of the government’s student debt holdings, according to a Politico report this week. These loans are part of the larger portfolio owed by roughly 45 million borrowers nationwide. Continue reading...",
+    "ingested_utc": "2025-10-12T11:22:19Z"
+  },
+  {
+    "published_utc": "2025-10-12",
+    "retrieved_date": "2025-10-12",
+    "retrieved_utc": "2025-10-12T11:22:19Z",
+    "source": "Guardian_World",
+    "title": "Chicagoans optimistic about annual marathon even amid violent Ice activity",
+    "url": "https://www.theguardian.com/us-news/2025/oct/12/chicago-marathon-ice",
+    "id_key": "eaaf420dde65a39193d29c02316fde78927c8afb1880bb387d762ce1f02ae7f6",
+    "summary": "‘We haven’t seen Ice attack any large-scale festivals directly,’ said a community leader from the Pilsen neighborhood As marathoners gather at the starting line in Chicago on Sunday morning, organizers, business owners and runners are cautiously optimistic that the increased Immigration and Customs Enforcement ( Ice ) activity the city has seen in recent weeks won’t dampen the celebrations. The race will begin and end at Grant Park – the famous public park downtown where Chicago’s adopted son, Barack Obama , gave his victory speech on election night in 2008 – and take in the shores of Lake Michigan and 29 city neighborhoods. Continue reading...",
+    "ingested_utc": "2025-10-12T11:22:19Z"
+  },
+  {
+    "published_utc": "2025-10-12",
+    "retrieved_date": "2025-10-12",
     "retrieved_utc": "2025-10-12T11:11:30Z",
     "source": "FinancialPost_Business",
     "title": "A Political Crisis Pits Lithuanian Artists Against the Populists",
@@ -10943,60 +10998,5 @@
     "id_key": "9a20e627a306802a6f1e71d4dcb8cf7c67d04e69634f01bb0df64390ed3897b9",
     "summary": "President Trump said the remaining hostages held in Gaza would be released Monday or Tuesday. But the specifics of the deal remain unclear.",
     "ingested_utc": "2025-10-09T18:56:23Z"
-  },
-  {
-    "published_utc": "2025-10-09",
-    "retrieved_date": "2025-10-09",
-    "retrieved_utc": "2025-10-09T18:56:04Z",
-    "source": "Guardian_World",
-    "title": "Gaza ceasefire plan: how much credit does Trump deserve? – podcast",
-    "url": "https://www.theguardian.com/politics/audio/2025/oct/09/gaza-ceasefire-plan-how-much-credit-does-trump-deserve-podcast",
-    "id_key": "02c13414c68e334b7435155f2f1d0359592824d43be74973f1e83e6d2e6b974f",
-    "summary": "Donald Trump posted on Truth Social on Wednesday night that Israel and Hamas had agreed the first phase of a new ceasefire deal in Gaza. We’ve been here before, but is it different this time? Has Trump proved the doubters wrong? Jonathan Freedland speaks to Julian Borger about the prospect for peace in the Middle East and the US president’s role in getting to this point Archive: PBS Newshour Continue reading...",
-    "ingested_utc": "2025-10-09T18:56:04Z"
-  },
-  {
-    "published_utc": "2025-10-09",
-    "retrieved_date": "2025-10-09",
-    "retrieved_utc": "2025-10-09T18:54:17Z",
-    "source": "CryptoNews",
-    "title": "Bitcoin Explodes to New High as ETFs Unleash a $2.2B Firehose – Uptober Returns",
-    "url": "https://cryptonews.com/news/bitcoin-explodes-to-new-high-as-etfs-unleash-a-2-2b-firehose-uptober-returns/",
-    "id_key": "2dba52f5d10de828424727e7ed74205c62beaac04c39c1a30df8315eba599096",
-    "summary": "Bitcoin has reached a new high near $126K as renewed U.S. spot ETF net inflows and rising spot volumes have supported a Q4 breakout. On-chain data have shown mixed accumulation while derivatives markets have priced in higher volatility and funding costs have increased. The post Bitcoin Explodes to New High as ETFs Unleash a $2.2B Firehose – Uptober Returns appeared first on Cryptonews .",
-    "ingested_utc": "2025-10-09T18:54:17Z"
-  },
-  {
-    "published_utc": "2025-10-09",
-    "retrieved_date": "2025-10-09",
-    "retrieved_utc": "2025-10-09T18:54:10Z",
-    "source": "Blockworks",
-    "title": "Luxembourg wealth fund to allocate 1% to Bitcoin ETFs",
-    "url": "https://blockworks.co/news/luxembourg-bitcoin-etfs",
-    "id_key": "ad21fd88640805fa37b86caf30c6a1dcea54abd2717058ac8405c0639fcf8489",
-    "summary": "The €7 million investment marks Luxembourg’s first sovereign exposure to Bitcoin",
-    "ingested_utc": "2025-10-09T18:54:10Z"
-  },
-  {
-    "published_utc": "2025-10-09",
-    "retrieved_date": "2025-10-09",
-    "retrieved_utc": "2025-10-09T18:46:06Z",
-    "source": "HackerNews_Top",
-    "title": "Cybersecurity training programs don't prevent phishing scams",
-    "url": "https://today.ucsd.edu/story/cybersecurity-training-programs-dont-prevent-employees-from-falling-for-phishing-scams",
-    "id_key": "9110176099a94a227442f0fd2a2456adcb5f2ed9b4aa2ff928a805d9bc8a22c1",
-    "summary": "Comments",
-    "ingested_utc": "2025-10-09T18:46:06Z"
-  },
-  {
-    "published_utc": "2025-10-09",
-    "retrieved_date": "2025-10-09",
-    "retrieved_utc": "2025-10-09T18:45:51Z",
-    "source": "FinancialPost_Business",
-    "title": "Winston Churchill, William Berczy paintings among items in Hudson’s Bay auction",
-    "url": "https://financialpost.com/pmn/winston-churchill-william-berczy-paintings-among-items-in-hudsons-bay-auction-2",
-    "id_key": "310bc8e030a4f114be36ac7f8b06a61a373a30d697b73a8121dd97b66fb76607",
-    "summary": "TORONTO — A painting of a sunny day in Morocco by former British prime minister Winston Churchill, an 1894 depiction of downtown Toronto by Frederic Marlett Bell-Smith and several pieces from one of Toronto’s founders are among the works Hudson’s Bay is set to auction off next month. All three are contained in a catalogue […]",
-    "ingested_utc": "2025-10-09T18:45:51Z"
   }
 ]
