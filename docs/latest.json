@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-10-12",
     "retrieved_date": "2025-10-12",
+    "retrieved_utc": "2025-10-12T09:50:00Z",
+    "source": "AlJazeera_All",
+    "title": "China slams Trump’s 100 percent tariff threat, defends rare earth curbs",
+    "url": "https://www.aljazeera.com/news/2025/10/12/china-slams-trumps-100-percent-tariff-threat-defends-rare-earth-curbs?traffic_source=rss",
+    "id_key": "7a734ab3d7d0d31dd0c2579761ff0409af1573bf3c0b50a337d97e6e3d4b1e13",
+    "summary": "Beijing says it will not back down in the face of threats, urging the US to resolve differences through negotiations.",
+    "ingested_utc": "2025-10-12T09:50:00Z"
+  },
+  {
+    "published_utc": "2025-10-12",
+    "retrieved_date": "2025-10-12",
+    "retrieved_utc": "2025-10-12T09:48:59Z",
+    "source": "BBC_World",
+    "title": "Madagascar presidency says attempt to seize power illegally under way",
+    "url": "https://www.bbc.com/news/articles/cd070pn4g07o?at_medium=RSS&at_campaign=rss",
+    "id_key": "47d4537c5ec7fdf0009350672e42b6510435f9e53c1ee3376f7246337f59b5cf",
+    "summary": "His statement comes a day after an army unit condemned use of force by security forces in handling recent protests.",
+    "ingested_utc": "2025-10-12T09:48:59Z"
+  },
+  {
+    "published_utc": "2025-10-12",
+    "retrieved_date": "2025-10-12",
     "retrieved_utc": "2025-10-12T09:33:57Z",
     "source": "BBC_World",
     "title": "Afghan Taliban says 58 Pakistani troops killed in 'retaliatory' border attacks",
@@ -10976,27 +10998,5 @@
     "id_key": "2f2f8c29894e70af5b0ced3b692e6842a211355d6f78ff57e31ebfcbe60789bf",
     "summary": "Comments",
     "ingested_utc": "2025-10-09T18:19:28Z"
-  },
-  {
-    "published_utc": "2025-10-09",
-    "retrieved_date": "2025-10-09",
-    "retrieved_utc": "2025-10-09T18:19:20Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "Japan private equity firm to give startups exit strategies beyond IPOs",
-    "url": "https://asia.nikkei.com/business/finance/japan-private-equity-firm-to-give-startups-exit-strategies-beyond-ipos",
-    "id_key": "6b916cf59a2d121fe65c5a608f2b96f4f499fd27c2fcfb2101d6f9e1e10e8749",
-    "summary": "",
-    "ingested_utc": "2025-10-09T18:19:20Z"
-  },
-  {
-    "published_utc": "2025-10-09",
-    "retrieved_date": "2025-10-09",
-    "retrieved_utc": "2025-10-09T18:19:13Z",
-    "source": "FinancialPost_Business",
-    "title": "Reko Reports Strong Q4 Growth and Improved Profitability in Fiscal 2025",
-    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/reko-reports-strong-q4-growth-and-improved-profitability-in-fiscal-2025",
-    "id_key": "b91269892baf62a6b333998952804acf4047055687c39aa79756762c3b662bc1",
-    "summary": "WINDSOR, Ontario — Reko International Group Inc. (TSX-V: REKO) today announced results for the three and twelve months ended July 31, 2025. FISCAL 2025 HIGHLIGHTS Sales declined $2.1M or 4.8% over the prior year Gross profit improved by $2.9M or 66.8% compared to a year ago Earnings per share were $0.19, compared to a loss […]",
-    "ingested_utc": "2025-10-09T18:19:13Z"
   }
 ]
