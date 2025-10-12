@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-10-12",
     "retrieved_date": "2025-10-12",
+    "retrieved_utc": "2025-10-12T15:36:44Z",
+    "source": "TheStreet_Top",
+    "title": "Convenient nationwide chain closes 500 locations (more to come)",
+    "url": "https://www.thestreet.com/retail/iconic-nationwide-chain-closes-over-500-locations-more-to-come",
+    "id_key": "7a7d05fa5a1cbcc10433f62f0f060a9b45100bb5f3ade85bbea8d6ffab546d13",
+    "summary": "It closed more than 400 locations in the fourth quarter.The chain is putting an increased focus on food service.More store closures are coming. Sometimes a chain has to make major cuts in order to change direction. That might mean giving up on certain markets, or making big shifts in how the ...",
+    "ingested_utc": "2025-10-12T15:36:44Z"
+  },
+  {
+    "published_utc": "2025-10-12",
+    "retrieved_date": "2025-10-12",
     "retrieved_utc": "2025-10-12T15:28:56Z",
     "source": "TheVerge_All",
     "title": "Amazon awkwardly edited the guns out of James Bond art",
@@ -1197,6 +1208,17 @@
     "id_key": "5b16d4fd4b293d7d2c4274e6b2eaa674e3aaa358acda3a00d824c3fd586dd54e",
     "summary": "Some question whether the 19th Century Afrikaner leader should still be memorialised.",
     "ingested_utc": "2025-10-12T00:52:46Z"
+  },
+  {
+    "published_utc": "2025-10-11",
+    "retrieved_date": "2025-10-12",
+    "retrieved_utc": "2025-10-12T15:36:44Z",
+    "source": "TheStreet_Top",
+    "title": "Another troubled beer brand files for Chapter 11 bankruptcy",
+    "url": "https://www.thestreet.com/restaurants/popular-pizza-and-beer-chain-files-chapter-11-bankruptcy",
+    "id_key": "dae4c4fe9b92a61694d8280d00fb014b05cb8665715c67348d10d00ce4a05abe",
+    "summary": "Pizza and craft beer have been favorites of diners for decades, but both restaurant concepts have faced financial distress lately since the Covid pandemic subsided. The number of craft brewery operations in the U.S. has declined in the last three years from 9,747 in 2023 to 9,680 in 2024 and ...",
+    "ingested_utc": "2025-10-12T15:36:44Z"
   },
   {
     "published_utc": "2025-10-11",
@@ -10976,27 +10998,5 @@
     "id_key": "a58f2d4a2c5bd792a7df76f5b68945f5be12700faea30683e881338d237752a1",
     "summary": "DENVER — Royal Gold, Inc. (NASDAQ: RGLD) (together with its subsidiaries, “Royal Gold” or the “Company,” “we” or “our”) announced the preliminary voting results from the special meeting of Royal Gold stockholders (the “Special Meeting”) held today to approve the issuance of shares of Royal Gold common stock in connection with the previously announced acquisition […]",
     "ingested_utc": "2025-10-09T20:35:08Z"
-  },
-  {
-    "published_utc": "2025-10-09",
-    "retrieved_date": "2025-10-09",
-    "retrieved_utc": "2025-10-09T20:34:35Z",
-    "source": "FT_Markets",
-    "title": "US Treasury intervenes in Argentina’s currency market",
-    "url": "https://www.ft.com/content/778e4609-772b-4edd-83d2-d8915f1c4628",
-    "id_key": "718be0f855c48ba769ec3b5035264516cf9a5ee1f4f4ceff095b22c7c7cd2bee",
-    "summary": "Scott Bessent announces $20bn ‘currency swap framework’ with the South American country’s central bank",
-    "ingested_utc": "2025-10-09T20:34:35Z"
-  },
-  {
-    "published_utc": "2025-10-09",
-    "retrieved_date": "2025-10-09",
-    "retrieved_utc": "2025-10-09T20:32:25Z",
-    "source": "CryptoNews",
-    "title": "BNB Meme Coins Crash Up to 95% After CZ Dismisses ‘Endorsement’ Claims",
-    "url": "https://cryptonews.com/news/bnb-meme-coins-crash-up-to-95-after-cz-dismisses-endorsement-claims/",
-    "id_key": "d91a2d63446c6bb867cde46bdcdea8da0ac20c120e4c125d99d925214301b3fb",
-    "summary": "BNB Chain’s memecoin rally has sharply reversed, with tokens falling as much as 95% after CZ clarified his posts are not trading endorsements, triggering a massive market sell-off. The post BNB Meme Coins Crash Up to 95% After CZ Dismisses ‘Endorsement’ Claims appeared first on Cryptonews .",
-    "ingested_utc": "2025-10-09T20:32:25Z"
   }
 ]
