@@ -200,6 +200,17 @@
   {
     "published_utc": "2025-10-11",
     "retrieved_date": "2025-10-12",
+    "retrieved_utc": "2025-10-12T03:17:03Z",
+    "source": "TheStreet_Top",
+    "title": "Beloved brewery brand and pizza chain files Chapter 11 bankruptcy",
+    "url": "https://www.thestreet.com/restaurants/popular-pizza-and-beer-chain-files-chapter-11-bankruptcy",
+    "id_key": "77a141aa4ee24c553ae13774372294e90f69cbeabc278d5269113ef1194ee23f",
+    "summary": "Pizza and craft beer have been favorites of diners for decades, but both restaurant concepts have faced financial distress lately since the Covid-19 pandemic subsided. The number of craft brewery operations in the U.S. has declined in the last three years from 9,747 in 2023 to 9,680 in 2024 and ...",
+    "ingested_utc": "2025-10-12T03:17:03Z"
+  },
+  {
+    "published_utc": "2025-10-11",
+    "retrieved_date": "2025-10-12",
     "retrieved_utc": "2025-10-12T02:24:48Z",
     "source": "HackerNews_Top",
     "title": "Paper2Video: Automatic Video Generation from Scientific Papers",
@@ -10987,16 +10998,5 @@
     "id_key": "d4923582d2783226748c2c9f056fdb8020d4a6c37df4098a8be35b4f1098a4d5",
     "summary": "Failures of two US companies reliant on asset-based lending prove ‘useful case studies’, FCA says",
     "ingested_utc": "2025-10-09T17:00:04Z"
-  },
-  {
-    "published_utc": "2025-10-09",
-    "retrieved_date": "2025-10-09",
-    "retrieved_utc": "2025-10-09T16:57:51Z",
-    "source": "Blockworks",
-    "title": "Kraken expands CME derivatives access to oil, gold and FX",
-    "url": "https://blockworks.co/news/kraken-cme-derivatives",
-    "id_key": "66e123ce002b1d0467c155afad21896bdf19450290459f20300f33aa75f27113",
-    "summary": "The exchange will now offer direct access to CME futures across commodities, equities, and currencies through its US platform",
-    "ingested_utc": "2025-10-09T16:57:51Z"
   }
 ]
