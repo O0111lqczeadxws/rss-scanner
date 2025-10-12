@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-10-12",
     "retrieved_date": "2025-10-12",
+    "retrieved_utc": "2025-10-12T22:12:24Z",
+    "source": "AlJazeera_All",
+    "title": "France’s Macron unveils new government ahead of budget deadline",
+    "url": "https://www.aljazeera.com/news/2025/10/12/frances-macron-unveils-new-government-ahead-of-budget-deadline?traffic_source=rss",
+    "id_key": "89aabb2b64aeaffaa8a4f3976f43f17e01d52361ad0b488156390c5fe1476341",
+    "summary": "The new government, led by Prime Minister Sebastien Lecornu, must present a 2026 draft budget on Monday.",
+    "ingested_utc": "2025-10-12T22:12:24Z"
+  },
+  {
+    "published_utc": "2025-10-12",
+    "retrieved_date": "2025-10-12",
+    "retrieved_utc": "2025-10-12T22:12:23Z",
+    "source": "TheStreet_Top",
+    "title": "Huge convenience store chain closes 500 locations, more to come",
+    "url": "https://www.thestreet.com/retail/iconic-nationwide-chain-closes-over-500-locations-more-to-come",
+    "id_key": "e3daaaeae6add130e0bfb7de8b0884713d0e6eb63136d93077660386945cd105",
+    "summary": "It closed more than 400 locations in the fourth quarter.The chain is putting an increased focus on food service.More store closures are coming. Sometimes a chain has to make major cuts in order to change direction. That might mean giving up on certain markets, or making big shifts in how the ...",
+    "ingested_utc": "2025-10-12T22:12:23Z"
+  },
+  {
+    "published_utc": "2025-10-12",
+    "retrieved_date": "2025-10-12",
     "retrieved_utc": "2025-10-12T21:47:52Z",
     "source": "Guardian_World",
     "title": "Australia news live: time to ‘calm things down’, Burke says after Thorpe’s Palestine rally comments; scam warning as Qantas data hits dark web",
@@ -10518,6 +10540,17 @@
   {
     "published_utc": "2025-10-09",
     "retrieved_date": "2025-10-12",
+    "retrieved_utc": "2025-10-12T22:12:45Z",
+    "source": "HackerNews_Top",
+    "title": "3D-Printed Automatic Weather Station",
+    "url": "https://3dpaws.comet.ucar.edu",
+    "id_key": "2cce755251aa5426998825d15b39953434b755c6d75c192f93319d30d7cce23e",
+    "summary": "Comments",
+    "ingested_utc": "2025-10-12T22:12:45Z"
+  },
+  {
+    "published_utc": "2025-10-09",
+    "retrieved_date": "2025-10-12",
     "retrieved_utc": "2025-10-12T03:42:30Z",
     "source": "Guardian_Business",
     "title": "The non-profit helping people from all over the world to become successful game developers",
@@ -10965,38 +10998,5 @@
     "id_key": "d737ff0295cf2f0b97a9bae7e455e0d9bb7762a0dbccd4bea2c20488d4bf412a",
     "summary": "Prime Minister Benjamin Netanyahu won cabinet approval for the first phase of a cease-fire agreement with Hamas. President Trump said hostages held in Gaza would be released early next week.",
     "ingested_utc": "2025-10-09T23:12:39Z"
-  },
-  {
-    "published_utc": "2025-10-09",
-    "retrieved_date": "2025-10-09",
-    "retrieved_utc": "2025-10-09T23:12:17Z",
-    "source": "BBC_Business",
-    "title": "Has the clock stopped on Swiss US trade?",
-    "url": "https://www.bbc.com/news/articles/cy4r12pzxgko?at_medium=RSS&at_campaign=rss",
-    "id_key": "0d17aaa4beb62e2e79e8f5de1f57161d2704c45a25abd59f0852fe98c9ade219",
-    "summary": "Swiss exporters are looking at new markets after being hit by heavy US tariffs.",
-    "ingested_utc": "2025-10-09T23:12:17Z"
-  },
-  {
-    "published_utc": "2025-10-09",
-    "retrieved_date": "2025-10-09",
-    "retrieved_utc": "2025-10-09T23:10:08Z",
-    "source": "Guardian_World",
-    "title": "Further arrests made over ‘shocking’ arson attack on Peacehaven mosque",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/09/further-arrests-made-over-shocking-arson-attack-on-peacehaven-mosque",
-    "id_key": "b19551fca4e40963d4ced6b1588c6332320823d7404f809da2a16ca4762236a5",
-    "summary": "Four people have so far been arrested as part of police investigation into attack in East Sussex, which caused ‘significant damage’ Police have made further arrests over an arson attack on a mosque in East Sussex. The building in Phyllis Avenue, Peacehaven was badly damaged by the fire at about 9.50pm on Saturday. Nobody was injured, but police said “significant damage” was caused to the front of the building and a nearby vehicle. Continue reading...",
-    "ingested_utc": "2025-10-09T23:10:08Z"
-  },
-  {
-    "published_utc": "2025-10-09",
-    "retrieved_date": "2025-10-09",
-    "retrieved_utc": "2025-10-09T23:10:08Z",
-    "source": "Guardian_World",
-    "title": "Judge temporarily blocks Trump’s effort to deploy national guard troops in Chicago",
-    "url": "https://www.theguardian.com/us-news/2025/oct/09/trump-national-guard-troops-chicago-ruling",
-    "id_key": "8ad4548d0dc83154ebb12684a1146ebc704c5f7a91339c6bec26d7f0d7e1e771",
-    "summary": "Much-anticipated judgement centers on efforts by Trump administration to use troops to aid immigration crackdown A judge on Thursday temporarily blocked the deployment of the national guard in Chicago in a much-anticipated ruling about efforts by the Trump administration to use troops to help enforce immigration policy and also battle what it says are high crime rates. During arguments about the case, lawyers for the state of Illinois had called the sending of national guard soldiers to the city – which was opposed by Chicago and state political leaders – a constitutional crisis. Continue reading...",
-    "ingested_utc": "2025-10-09T23:10:08Z"
   }
 ]
