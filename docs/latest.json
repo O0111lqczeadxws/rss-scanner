@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-10-12",
     "retrieved_date": "2025-10-12",
+    "retrieved_utc": "2025-10-12T04:50:45Z",
+    "source": "FinancialPost_Business",
+    "title": "China vows to stand firm against Trump’s 100% tariff threat",
+    "url": "https://financialpost.com/pmn/china-vows-to-stand-firm-against-trumps-100-tariff-threat",
+    "id_key": "82235fd9bde1ca3a1d1f2ca7b18e53a56e2e6a622e0ef9929289013fa4b47876",
+    "summary": "BEIJING (AP) — China signaled Sunday that it would not back down in the face of a 100% tariff threat from President Donald Trump, urging the U.S. to resolve differences through negotiations instead of threats. “China’s stance is consistent,” the Commerce Ministry said in a statement posted online. “We do not want a tariff war […]",
+    "ingested_utc": "2025-10-12T04:50:45Z"
+  },
+  {
+    "published_utc": "2025-10-12",
+    "retrieved_date": "2025-10-12",
+    "retrieved_utc": "2025-10-12T04:47:40Z",
+    "source": "BBC_World",
+    "title": "Israelis praise Trump at huge rally ahead of expected hostage release by Hamas in Gaza",
+    "url": "https://www.bbc.com/news/articles/c75q5qng0rgo?at_medium=RSS&at_campaign=rss",
+    "id_key": "45cae7fcca6e950c76fc5fda823d022ddaeb2b3faf7e020a0aed53c42810bdeb",
+    "summary": "Hundreds of thousands gather in Tel Aviv as Palestinians continue to return to Gaza City after the Israeli withdrawal.",
+    "ingested_utc": "2025-10-12T04:47:40Z"
+  },
+  {
+    "published_utc": "2025-10-12",
+    "retrieved_date": "2025-10-12",
     "retrieved_utc": "2025-10-12T04:35:21Z",
     "source": "FT_Home",
     "title": "Trump’s grand push for peace in Gaza will stand or fall on the detail",
@@ -10976,27 +10998,5 @@
     "id_key": "42a17a36590ce06bc153e9605cabd2c5517a12184a09b82a2ecfd225a477047b",
     "summary": "op-deployer: add upgrade v4_1_0 command ( #17790 )",
     "ingested_utc": "2025-10-09T17:43:42Z"
-  },
-  {
-    "published_utc": "2025-10-09",
-    "retrieved_date": "2025-10-09",
-    "retrieved_utc": "2025-10-09T17:33:51Z",
-    "source": "HackerNews_Top",
-    "title": "Programmer in Wonderland",
-    "url": "https://binaryigor.com/programmer-in-wonderland.html",
-    "id_key": "07b6875bb7291a407f20fcbf3cd3968221870f3cc2d2752b91bbd41049843187",
-    "summary": "Comments",
-    "ingested_utc": "2025-10-09T17:33:51Z"
-  },
-  {
-    "published_utc": "2025-10-09",
-    "retrieved_date": "2025-10-09",
-    "retrieved_utc": "2025-10-09T17:33:37Z",
-    "source": "FinancialPost_Business",
-    "title": "Billionaire Behind Blackstone’s Data Center Bet Readies Next Act",
-    "url": "https://financialpost.com/pmn/business-pmn/billionaire-behind-blackstones-data-center-bet-readies-next-act",
-    "id_key": "5d90998727ad1d80a0e4471d354d2bed5be4c769be0d7ba8df7d998011f6a5f5",
-    "summary": "Chad Williams was a force behind Wall Street’s bet on artificial intelligence before he stepped down from QTS, the fast-growing data center landlord owned by Blackstone Inc.",
-    "ingested_utc": "2025-10-09T17:33:37Z"
   }
 ]
