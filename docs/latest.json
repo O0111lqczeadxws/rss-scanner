@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-10-12",
     "retrieved_date": "2025-10-12",
+    "retrieved_utc": "2025-10-12T06:41:22Z",
+    "source": "FinancialPost_Business",
+    "title": "UK Household Debt at 23-Year Low Offers Hope of Consumer Revival",
+    "url": "https://financialpost.com/pmn/business-pmn/uk-household-debt-at-23-year-low-offers-hope-of-consumer-revival",
+    "id_key": "61a68cea3c59bc78451f8abe34b9108908e9a57950e21acfecfef2fa4440d842",
+    "summary": "UK household balance sheets are in their best shape for over two decades after a period of spending restraint that has taken a heavy toll on the British economy. For politicians and the Bank of England, the question is: Will consumers now feel confident enough to loosen the purse strings?",
+    "ingested_utc": "2025-10-12T06:41:22Z"
+  },
+  {
+    "published_utc": "2025-10-12",
+    "retrieved_date": "2025-10-12",
+    "retrieved_utc": "2025-10-12T06:38:05Z",
+    "source": "BBC_World",
+    "title": "Academy Award-winning actress Diane Keaton dies aged 79",
+    "url": "https://www.bbc.com/news/articles/cr5q5rp4r64o?at_medium=RSS&at_campaign=rss",
+    "id_key": "28d64d4242a542ac65a9616f71cd2f45386732866bee7a32459a443cb453204d",
+    "summary": "She was best known for roles in films including in The Father of the Bride, The Godfather and Annie Hall.",
+    "ingested_utc": "2025-10-12T06:38:05Z"
+  },
+  {
+    "published_utc": "2025-10-12",
+    "retrieved_date": "2025-10-12",
     "retrieved_utc": "2025-10-12T06:18:05Z",
     "source": "HackerNews_Top",
     "title": "Major security breach at Austrian AI startup localmind.ai",
@@ -10976,27 +10998,5 @@
     "id_key": "850568fad2799ad28c9d2b92774556884ede1606ab7d81bb3dc6c31dae88cd2a",
     "summary": "Former prime minister adds Silicon Valley posts to his role advising Goldman Sachs",
     "ingested_utc": "2025-10-09T17:51:19Z"
-  },
-  {
-    "published_utc": "2025-10-09",
-    "retrieved_date": "2025-10-09",
-    "retrieved_utc": "2025-10-09T17:51:07Z",
-    "source": "NYTimes_World",
-    "title": "What We Know About the Israel-Hamas Hostage Deal",
-    "url": "https://www.nytimes.com/2025/10/09/world/middleeast/hamas-israel-hostage-deal.html",
-    "id_key": "4ad8609ba6f6f91e83f881f7f301fc0212ac8bb5d4515baec286cbd8ab82a77b",
-    "summary": "President Trump said the remaining hostages held in Gaza would be released Monday or Tuesday. But the specifics of the deal remain unclear.",
-    "ingested_utc": "2025-10-09T17:51:07Z"
-  },
-  {
-    "published_utc": "2025-10-09",
-    "retrieved_date": "2025-10-09",
-    "retrieved_utc": "2025-10-09T17:49:05Z",
-    "source": "CryptoNews",
-    "title": "“Working on It”: Senator Lummis Backs Jack Dorsey’s Push for a Bitcoin Tax Exemption",
-    "url": "https://cryptonews.com/news/working-on-it-senator-lummis-backs-jack-dorseys-push-for-a-bitcoin-tax-exemption/",
-    "id_key": "b8f5f4a35670842ea751abd77b630e6745425445ae6071edeeffe5e892495645",
-    "summary": "Senator Cynthia Lummis has supported Jack Dorsey’s call for a Bitcoin tax exemption on everyday transactions, stating she is working on the issue. The proposal would revive a failed legislative push. The post “Working on It”: Senator Lummis Backs Jack Dorsey’s Push for a Bitcoin Tax Exemption appeared first on Cryptonews .",
-    "ingested_utc": "2025-10-09T17:49:05Z"
   }
 ]
