@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-10-12",
     "retrieved_date": "2025-10-12",
+    "retrieved_utc": "2025-10-12T11:36:01Z",
+    "source": "AlJazeera_All",
+    "title": "Afghanistan-Pakistan border clashes: What we know so far",
+    "url": "https://www.aljazeera.com/news/2025/10/12/afghanistan-pakistan-border-clashes-what-we-know-so-far?traffic_source=rss",
+    "id_key": "e4084b7fedc00512d815b8bbcc4e5f75d327704b9e6622e2b929c4b8528424a9",
+    "summary": "Afghanistan says 58 Pakistani soldiers killed while Pakistan claims of killing 200 Taliban and affiliated 'terrorists'.",
+    "ingested_utc": "2025-10-12T11:36:01Z"
+  },
+  {
+    "published_utc": "2025-10-12",
+    "retrieved_date": "2025-10-12",
+    "retrieved_utc": "2025-10-12T11:33:10Z",
+    "source": "Guardian_World",
+    "title": "Israel and Gaza prepare for release of hostages and prisoners",
+    "url": "https://www.theguardian.com/world/2025/oct/12/israel-and-gaza-prepare-for-release-of-hostages-and-prisoners",
+    "id_key": "38baf875bba3a0f00139b87effcb7cd109dc8face7af7c91f716965d14e3e5e3",
+    "summary": "Forty-eight Israeli hostages due to be released on Monday, with nearly 2,000 Palestinian detainees to follow Ceasefire live: aid trucks enter Gaza as Netanyahu says Israel is ready for ‘immediate’ release of hostages Authorities in Israel and Gaza are preparing for the release of Israeli hostages and Palestinian prisoners ahead of a Monday deadline for the swap stipulated in the ceasefire deal which could end the two-year war in Gaza. Hamas is meant to release all living hostages from Gaza within 72 hours of signing of the deal – a deadline which ends at noon local time (10.00 BST). The militant group holds 48 hostages, 20 of which are believed to be alive. Continue reading...",
+    "ingested_utc": "2025-10-12T11:33:10Z"
+  },
+  {
+    "published_utc": "2025-10-12",
+    "retrieved_date": "2025-10-12",
     "retrieved_utc": "2025-10-12T11:25:31Z",
     "source": "HackerNews_Top",
     "title": "Why it took 4 years to get a lock files specification",
@@ -10976,27 +10998,5 @@
     "id_key": "a3bbe8391ae515f5cd931dc2a8b3be85db1d38c6a606913f5a4988bf7ddc9417",
     "summary": "Counter-terror police arrest 30-year-old man on suspicion of failing to disclose information about potential terrorist acts A 30-year-old man arrested over the Manchester synagogue attack has been re-arrested at an airport shortly after being released. Counter-terror police detained the man at Manchester airport on Thursday on suspicion of failing to disclose information about potential terrorist acts. The arrest came within 24 hours of the man being released from custody, where he had been held since the attack at Heaton Park synagogue on Yom Kippur last Thursday. Continue reading...",
     "ingested_utc": "2025-10-09T19:09:39Z"
-  },
-  {
-    "published_utc": "2025-10-09",
-    "retrieved_date": "2025-10-09",
-    "retrieved_utc": "2025-10-09T19:09:39Z",
-    "source": "Guardian_World",
-    "title": "Dominion, voting firm targeted by false 2020 election claims, sold to new owner",
-    "url": "https://www.theguardian.com/us-news/2025/oct/09/dominion-voting-systems-sold",
-    "id_key": "6db97bcd6ca49f99291493c35f7849501b763d38a9068cad18ea59430f765ffd",
-    "summary": "Company, which reached $787.5m defamation settlement with Fox News, becomes new entity called Liberty Vote Dominion Voting Systems, the company that makes widely used voting equipment in the United States that became synonymous with election conspiracies and Donald Trump’s effort to overturn the 2020 election, has been sold. The company was purchased by Scott Leiendecker, a former Missouri election official who founded KnowInk, which makes electronic pollbooks used at voting sites across the country. Leindecker purchased Dominion under a new company called Liberty Vote. Continue reading...",
-    "ingested_utc": "2025-10-09T19:09:39Z"
-  },
-  {
-    "published_utc": "2025-10-09",
-    "retrieved_date": "2025-10-09",
-    "retrieved_utc": "2025-10-09T18:56:23Z",
-    "source": "NYTimes_World",
-    "title": "When Will Israel and Hamas Exchange Hostages and Prisoners? What to Know.",
-    "url": "https://www.nytimes.com/2025/10/09/world/middleeast/hamas-israel-hostage-deal.html",
-    "id_key": "9a20e627a306802a6f1e71d4dcb8cf7c67d04e69634f01bb0df64390ed3897b9",
-    "summary": "President Trump said the remaining hostages held in Gaza would be released Monday or Tuesday. But the specifics of the deal remain unclear.",
-    "ingested_utc": "2025-10-09T18:56:23Z"
   }
 ]
