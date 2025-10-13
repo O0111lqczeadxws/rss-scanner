@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-10-13",
     "retrieved_date": "2025-10-13",
+    "retrieved_utc": "2025-10-13T11:28:42Z",
+    "source": "FinancialPost_Business",
+    "title": "The Worst Kinds of Wildfires Are Becoming More Frequent",
+    "url": "https://financialpost.com/pmn/business-pmn/the-worst-kinds-of-wildfires-are-becoming-more-frequent",
+    "id_key": "5dfb28c16d88d696a2575116f2a4bac6004ed91ff1d58e8e58f2c4485b804058",
+    "summary": "Nearly half of the costliest fires around the world since 1980 happened over the past decade, according to new research.",
+    "ingested_utc": "2025-10-13T11:28:42Z"
+  },
+  {
+    "published_utc": "2025-10-13",
+    "retrieved_date": "2025-10-13",
+    "retrieved_utc": "2025-10-13T11:28:42Z",
+    "source": "FinancialPost_Business",
+    "title": "Citadel Boosts European Power Trading With Purchase of FlexPower",
+    "url": "https://financialpost.com/pmn/business-pmn/citadel-boosts-european-power-trading-with-purchase-of-flexpower",
+    "id_key": "797bae46cec8d7ce275efd54c8a5b84f802b0c3249cafd10ba45db9b03912d9e",
+    "summary": "Citadel agreed to buy German power-trading company FlexPower as the hedge fund giant extends its global reach in the booming natural gas and power markets.",
+    "ingested_utc": "2025-10-13T11:28:42Z"
+  },
+  {
+    "published_utc": "2025-10-13",
+    "retrieved_date": "2025-10-13",
     "retrieved_utc": "2025-10-13T11:13:32Z",
     "source": "HackerNews_Top",
     "title": "Matrices can be your Friends",
@@ -10976,27 +10998,5 @@
     "id_key": "2ec4beeb011722d54b75e8f5522b4b4da75681821f467367ccdd52b780abf3af",
     "summary": "For Trade and Medical Media Only Enrolment completed in Phase III ReSPECT study in prophylaxis of fungal infections in adult patients undergoing allogeneic blood and marrow transplant Topline results from ReSPECT study expected by mid-2026 CAMBRIDGE, England — Mundipharma today announced completion of patient enrolment for the ongoing, global Phase III ReSPECT trial evaluating REZZAYO® […]",
     "ingested_utc": "2025-10-10T10:37:22Z"
-  },
-  {
-    "published_utc": "2025-10-10",
-    "retrieved_date": "2025-10-10",
-    "retrieved_utc": "2025-10-10T10:37:06Z",
-    "source": "Engadget_All",
-    "title": "Apple doubles its biggest bug bounty reward to $2 million",
-    "url": "https://www.engadget.com/big-tech/apple-doubles-its-biggest-bug-bounty-reward-to-2-million-102844667.html?src=rss",
-    "id_key": "77e2022e198a3f5e91f285c6b60b36d2e106d75f90e638a787cebfb89292ee77",
-    "summary": "Apple is updating its Security Bounty program this November to offer some of the highest rewards in the industry. It has doubled its top award from $1 million to $2 million for the discovery of \"exploit chains that can achieve similar goals as sophisticated mercenary spyware attacks\" and which requires no user interaction. But the maximum possible payout can exceed $5 million dollars for the discovery of more critical vulnerabilities, such as bugs in beta software and Lockdown Mode bypasses. Lockdown Mode is an upgraded security architecture in the Safari browser. In addition, the company is rewarding the discovery of exploit chains with one-click user interaction with up to $1 million instead of just $250,000. The reward for attacks requiring physical proximity to devices can now also go up to $1 million, up from $250,000, while the maximum reward for attacks requiring physical access to locked devices has been doubled to $500,000. Finally, researchers \"who demonstrate chaining WebContent code execution with a sandbox escape can receive up to $300,000.\" Apple told Wired that it has awarded over $35 million to more than 800 security researchers since it introduced and expanded the program over the past few years. Apparently, top-dollar payouts are very rare, but Apple has made multiple $500,000 payouts. The company said in its announcement that the only system-level iOS attacks it has observed in the wild came from mercenary spyware, which are historically associated with state actors and typically used to target specific individuals. It said its new security features like Lockdown Mode and Memory Integrity Enforcement, which combats memory corruption vulnerabilities, can make mercenary attacks more difficult to pull off. However, bad actors will continue evolving their techniques, and Apple is hoping that updating its bounty program with bigger payouts can \"encourage highly advanced research on [its] most critical attack surfaces despite the increased difficulty.\" This article originally appeared on Engadget at https://www.engadget.com/big-tech/apple-doubles-its-biggest-bug-bounty-reward-to-2-million-102844667.html?src=rss",
-    "ingested_utc": "2025-10-10T10:37:06Z"
-  },
-  {
-    "published_utc": "2025-10-10",
-    "retrieved_date": "2025-10-10",
-    "retrieved_utc": "2025-10-10T10:37:05Z",
-    "source": "WIRED_All",
-    "title": "‘Tron: Ares’ Wants to Gaslight You About the Future of AI",
-    "url": "https://www.wired.com/story/tron-ares-wants-to-gaslight-you-about-the-future-of-ai/",
-    "id_key": "f236321adaa253330824e47498653cc3bed2a3eaa1c24eccd504285bd2505f0d",
-    "summary": "The latest film in the Tron franchise seems to have not learned any lessons from sci-fi movies past—or from current reality.",
-    "ingested_utc": "2025-10-10T10:37:05Z"
   }
 ]
