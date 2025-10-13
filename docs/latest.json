@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-10-13",
     "retrieved_date": "2025-10-13",
+    "retrieved_utc": "2025-10-13T21:36:22Z",
+    "source": "TheStreet_Top",
+    "title": "Wayfair is selling a 'sturdy' $435 wooden open-storage coffee table for just $90",
+    "url": "https://www.thestreet.com/deals/larenda-open-storage-coffee-table-wayfair-sale",
+    "id_key": "148b5c9c450609d69178d2c22583a3e8b8acf84dfc824645c3619df542ef9e89",
+    "summary": "This coffee table provides ample, easy-to-reach storage for blankets, books, electronics, and more.",
+    "ingested_utc": "2025-10-13T21:36:22Z"
+  },
+  {
+    "published_utc": "2025-10-13",
+    "retrieved_date": "2025-10-13",
+    "retrieved_utc": "2025-10-13T21:32:51Z",
+    "source": "Guardian_World",
+    "title": "News live: Wong and Marles praise Trump for Gaza peace deal; Coalition says super changes a ‘victory’ for everyday Australians",
+    "url": "https://www.theguardian.com/australia-news/live/2025/oct/14/australia-news-live-jim-chalmers-superannuation-concession-tax-cybercrime-anthony-albanese-sussan-ley-coalition-penny-wong-israel-gaza-ntwnfb",
+    "id_key": "2dbf3801ff4350d887fa95b92c456daaa6f40c89e9e1ea2df1ed185e13d0d7f6",
+    "summary": "Treasurer says he spoke to former PM ‘half a dozen’ times before unveiling changes to his plans for superannuation tax concessions. Follow today’s news live Get our breaking news email , free app or daily news podcast The acting prime minister, Richard Marles , has echoed Penny Wong in crediting Donald Trump with securing the release of all remaining Israeli hostages from Gaza. Speaking to Channel Nine’s Today show earlier, Marles said: I think you have to acknowledge and give credit to President Trump and administration. This is an achievement that is incredible and will be remembered by history. And I think now is the moment to take this move forward and ensure that what we are seeing here is an enduring [peace] in the Middle East. We’ve not had any requests of that kind and I wouldn’t speculate on that other than to say, you know, obviously we would seek to be as constructive as we can … [as] we’ve tried to be over the last two years. But really, it is now for all of the parties to commit to every point of this plan and make sure that this lasts. What we did yesterday was we wound back some of the generosity of the tax concessions for the biggest balances at the same time as we increase the low-income super tax offset so that young people on low incomes can retire with more money. And this is precisely what we’re talking about when we’re talking about intergenerational equity. I think people know that that’s a big priority for me, and that’s what these changes are exactly all about. Continue reading...",
+    "ingested_utc": "2025-10-13T21:32:51Z"
+  },
+  {
+    "published_utc": "2025-10-13",
+    "retrieved_date": "2025-10-13",
     "retrieved_utc": "2025-10-13T21:29:10Z",
     "source": "HackerNews_Top",
     "title": "AWS Service Availability Updates",
@@ -10976,27 +10998,5 @@
     "id_key": "fc53ffacad32a91b6f2dcb9198785cf401ce096ecd8422db1b232abbc32b3ff4",
     "summary": "A good idea that can't be owned exclusively can doom a business to an endless battle with copycats. That's what happened during the self-serve frozen yogurt boom of the mid- to late-2000s. One of these help-yourself, add-your-own-toppings, pay-by-weight places would come into a community and have ...",
     "ingested_utc": "2025-10-10T18:47:47Z"
-  },
-  {
-    "published_utc": "2025-10-10",
-    "retrieved_date": "2025-10-10",
-    "retrieved_utc": "2025-10-10T18:47:37Z",
-    "source": "ArsTechnica_All",
-    "title": "Microsoft warns of new “Payroll Pirate” scam stealing employees’ direct deposits",
-    "url": "https://arstechnica.com/security/2025/10/payroll-pirate-phishing-scam-that-takes-over-workday-accounts-steals-paychecks/",
-    "id_key": "cef9d450bf559e144a07265a6c10bdd81cd59c09e8376a9a1aaa6b6f8dd0adde",
-    "summary": "Among other things, the scammers bypass multi-factor authentication.",
-    "ingested_utc": "2025-10-10T18:47:37Z"
-  },
-  {
-    "published_utc": "2025-10-10",
-    "retrieved_date": "2025-10-10",
-    "retrieved_utc": "2025-10-10T18:47:36Z",
-    "source": "TechCrunch_All",
-    "title": "Google Chrome silences those pesky notifications",
-    "url": "https://techcrunch.com/2025/10/10/google-chrome-silences-those-pesky-notifications/",
-    "id_key": "8bd2f5933c0809ebc95f22b786439d11d67148d893955c74fed0632057967045",
-    "summary": "Google Chrome will now automatically mute notifications from sites you don’t visit that often, cutting down on spammy alerts.",
-    "ingested_utc": "2025-10-10T18:47:36Z"
   }
 ]
