@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-10-13",
     "retrieved_date": "2025-10-13",
+    "retrieved_utc": "2025-10-13T11:35:10Z",
+    "source": "Lighthouse_Releases",
+    "title": "Mr. Frundles",
+    "url": "https://github.com/sigp/lighthouse/releases/tag/v8.0.0-rc.1",
+    "id_key": "10efe34826c90e8b2778c1d4eb783ee57958c4873a6259adb8029ff48e267ffb",
+    "summary": "Summary Lighthouse v8.0.0-rc.1 is a release candidate for the upcoming Fulu-Osaka (Fusaka) hard fork, targeting the Holesky , Hoodi , and Sepolia testnets. Upgrading to v8.0.0-rc.1 or the previously released v8.0.0-rc.0 is mandatory prior to the Fulu forks on Sepolia and Hoodi: Fulu on Sepolia: 2025-10-14 07:36:00 UTC . Slot 8724480 . Fulu on Hoodi: 2025-10-28 18:53:12 UTC . Slot 1622016 . This release brings full Fusaka support (including PeerDAS), enhanced networking capabilities, and other optimisations. Users already running v8.0.0-rc.0 on testnets are encouraged to upgrade to help us test prior to the mainnet fork. This release is not recommended for mainnet , although mainnet users experiencing memory leaks are encouraged to upgrade to v8.0.0-rc.0 . Changes Since v8.0.0-rc.0 The main changes since v8.0.0-rc.0 are listed below. The rest of the release notes describe the changes since v7.1.0. Lighthouse now implements the /eth/v1/beacon/blobs/{block_id} API ( #8103 ). L2s are encouraged to switch to using this API ahead of the deprecation of the blob sidecars API. Block proposal times have been greatly reduced on Holesky ( #8156 ), with reductions expected on other networks as well. Fewer data columns are now stored on full nodes ( #8188 ). This reduces the disk usage of most nodes on Fulu-enabled networks. ⚠️ Breaking Changes ⚠️ 💾 Database Schema Upgrade Lighthouse v8.0.0-rc.1 includes a database schema upgrade to schema v28. This upgrade greatly reduces the size of fork choice on disk, leading to reduced I/O. No action is required upon upgrading, Lighthouse will automatically upgrade your database to the new version. If you would like to downgrade to a prior release (e.g. v7.1.0), then you must follow the instructions in the Lighthouse book for downgrading the database schema before switching your binary to the old version. 🦀 Rust Version Requirements (MSRV) If you build Lighthouse from source you need to upgrade your Rust compiler to v1.88.0 or later. Usually this can be accomplished with the command rustup update . Jemalloc When compiling Lighthouse from source, the jemalloc feature no longer exists. It is enabled by default and can be disabled by a new feature called sysmalloc . 🔑 Network Key Format Migration Lighthouse BN's private key that it uses for networking cryptography has been changed from binary to hex string format. This is only relevant for users who are manually manipulating these keys, or downgrading to an older version of Lighthouse after running v8.0.0-rc.1. Lighthouse will automatically change the format of the key from binary to hex upon upgrading. Because the new key format is not supported by previous versions of Lighthouse, the key must be manually deleted if you would like to downgrade. The key can be found at $datadir/network/key . 🍎 Platform Support Changes Pre-built macOS x86_64 binaries are no longer provided ( #7862 ). Apple, GitHub runners, and Rust are dropping x86_64 macOS support, so we have made the decision to phase out support. macOS x86 users should use the Linux Docker image, the homebrew package, or build Lighthouse from source. 🖥️ CLI Flag Changes Changed : The default --block-cache-size is now 0 ( #8066 ). To re-enable, use --block-cache-size N with a non-zero argument. We recommend leaving the cache disabled, as its absence improves performance for block persistence and RPC responses. 🦓 Fulu This release candidate introduces full support for the Fulu hard fork , paired with the Osaka hard fork on the execution layer - together known as Fusaka - brings PeerDAS (Data Availability Sampling) and several new features to Ethereum. See this post for details. New CLI Flags --supernode : Subscribe to all data column subnets and run as a PeerDAS supernode (renamed from --subscribe-all-data-column-subnets ) ( #8083 ). The old name is aliased for now but will eventually be removed. 🔧 Memory & Performance Fixes Fixed reprocess queue memory leak ( #8065 ): Resolves gradual memory consumption increase during normal operation Block cache optimization ( #8066 ): Cache now disabled by default, eliminating contention issues Reduced KZG verification overhead : Removed unnecessary verification from local block production ( #7713 , #7771 ) 📊 Add OpenTelemetry support Lighthouse now includes built-in OpenTelemetry support for advanced monitoring and performance analysis. OpenTelemetry provides detailed traces showing exactly how your node processes blocks, handles network requests, and performs validator duties - breaking down operations into individual steps with precise timing data. This helps devlopers and operators identify bottlenecks, troubleshoot performance issues, and potentially optimize their setup. New CLI Flags --telemetry-collector-url : Connect to an OpenTelemetry GRPC backend (e.g. opentelemetry-collector, Tempo) to export traces ( #7816 ) --telemetry-service-name : Override the service name differentiating traces when running multiple nodes Getting Started : Set up an OpenTelemetry collector (such as Grafana Tempo ) and run Lighthouse beacon node with the following flags: --telemetry-collector-url http://localhost:4317 --telemetry-service-name lighthouse-bn Other Notable Changes SSZ default : Validator client now uses SSZ by default for /eth/v3/validator/blocks endpoint ( #7727 ) Selection Beacon API endpoints : Implement selections Beacon API endpoints to support DVT middleware ( #7016 ) New experimental beacon node flag : --complete-blob-backfill flag enables backfilling all blobs beyond the 18-day window ( #7751 ) Update Priority This table provides priorities for which classes of users should update particular components. User Class Beacon Node Validator Client Staking Users (testnet) High High Non-Staking Users (testnet) High --- Staking Users (mainnet) N/A N/A Non-Staking Users (mainnet) N/A --- See Update Priorities for more information about this table. Testnet users should update both the Lighthouse VC and BN to v8.0.0-rc.1 if using separate binaries. The execution layer client (e.g. Geth, Reth, Besu, Nethermind, Erigon) must also be updated prior to the Fulu fork. Mainnet users may consider upgrading if experiencing high memory usage. However this release candidate does NOT have mainnet Fulu fork baked in yet, as the fork schedule has not been finalised. Users will have to upgrade to the v8.0.0 mainnet release before the mainnet Fulu fork. All Changes Release v8.0.0-rc.1 ( #8185 ) Persist only custody columns in db ( #8188 ) Fix duplicate fields being logged when the field exists in both the span and the event ( #8183 ) Update ForkName::latest_stable to Fulu for tests ( #8181 ) Reject data columns that does not descend from finalize root instead of ignoring it ( #8179 ) Implement /eth/v1/beacon/blobs endpoint ( #8103 ) Bump kzg library versions ( #8174 ) Block proposal optimisations ( #8156 ) Remove deprecated CLI flags and references for v8.0.0 ( #8142 ) Quote BeaconState::proposer_lookahead in JSON repr ( #8167 ) Fallback to getPayload v1 if v2 fails ( #8163 ) Fulu ASCII art ( #8151 ) Remove unnecessary warning logs and update logging levels ( #8145 ) Improve spec compliance for /eth/v1/config/spec API ( #8144 ) Bump superstruct to 0.10.0 ( #8133 ) Update book for DB schema v28 ( #8132 ) Binaries See pre-built binaries documentation. The binaries are signed with Sigma Prime's PGP key: 15E66D941F697E28F49381F426416DC3F30674B0 System Architecture Binary PGP Signature aarch64 lighthouse-v8.0.0-rc.1-aarch64-apple-darwin.tar.gz PGP Signature x86_64 lighthouse-v8.0.0-rc.1-x86_64-unknown-linux-gnu.tar.gz PGP Signature aarch64 lighthouse-v8.0.0-rc.1-aarch64-unknown-linux-gnu.tar.gz PGP Signature x86_64 lighthouse-v8.0.0-rc.1-x86_64-windows.tar.gz PGP Signature System Option - Resource Docker v8.0.0-rc.1 sigp/lighthouse",
+    "ingested_utc": "2025-10-13T11:35:10Z"
+  },
+  {
+    "published_utc": "2025-10-13",
+    "retrieved_date": "2025-10-13",
+    "retrieved_utc": "2025-10-13T11:33:42Z",
+    "source": "BBC_World",
+    "title": "Watch: Palestinian prisoners released in West Bank to rapturous crowds",
+    "url": "https://www.bbc.com/news/videos/cp3d571d5xyo?at_medium=RSS&at_campaign=rss",
+    "id_key": "1e8425170cbee242311e7c09503c68a05d6313b885159291cce52c41655dba95",
+    "summary": "Israel is releasing 250 Palestinian prisoners as part of the ceasefire deal with Hamas.",
+    "ingested_utc": "2025-10-13T11:33:42Z"
+  },
+  {
+    "published_utc": "2025-10-13",
+    "retrieved_date": "2025-10-13",
     "retrieved_utc": "2025-10-13T11:28:42Z",
     "source": "FinancialPost_Business",
     "title": "The Worst Kinds of Wildfires Are Becoming More Frequent",
@@ -10976,27 +10998,5 @@
     "id_key": "9b62b89a3d6f9943268976a29346bc962af3c968756753e625904eedfa891f5b",
     "summary": "Latex mattresses are an appealing option for their natural materials and bouncy support. These are the best brands and models we’ve tested in our own homes.",
     "ingested_utc": "2025-10-10T10:51:00Z"
-  },
-  {
-    "published_utc": "2025-10-10",
-    "retrieved_date": "2025-10-10",
-    "retrieved_utc": "2025-10-10T10:50:42Z",
-    "source": "NPR_World",
-    "title": "Israel and Hamas agree to ceasefire's first phase, but key challenges still lie ahead",
-    "url": "https://www.npr.org/2025/10/10/nx-s1-5567907/israel-and-hamas-agree-to-ceasefires-first-phase-but-key-challenges-still-lie-ahead",
-    "id_key": "4e902ced9eb60228b4e0d2cad29634d1ee52e77b2498a535bb4883d62e771b73",
-    "summary": "Israel and Hamas agreed on the first phase of the ceasefire deal, but what challenges could they encounter next? NPR's Leila Fadel talks to former peace talks negotiator Diana Buttu.",
-    "ingested_utc": "2025-10-10T10:50:42Z"
-  },
-  {
-    "published_utc": "2025-10-10",
-    "retrieved_date": "2025-10-10",
-    "retrieved_utc": "2025-10-10T10:37:22Z",
-    "source": "FinancialPost_Business",
-    "title": "Mundipharma announces patient enrolment completion in Phase III ReSPECT clinical trial for REZZAYO® (rezafungin)",
-    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/mundipharma-announces-patient-enrolment-completion-in-phase-iii-respect-clinical-trial-for-rezzayo-rezafungin",
-    "id_key": "2ec4beeb011722d54b75e8f5522b4b4da75681821f467367ccdd52b780abf3af",
-    "summary": "For Trade and Medical Media Only Enrolment completed in Phase III ReSPECT study in prophylaxis of fungal infections in adult patients undergoing allogeneic blood and marrow transplant Topline results from ReSPECT study expected by mid-2026 CAMBRIDGE, England — Mundipharma today announced completion of patient enrolment for the ongoing, global Phase III ReSPECT trial evaluating REZZAYO® […]",
-    "ingested_utc": "2025-10-10T10:37:22Z"
   }
 ]
