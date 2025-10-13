@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-10-13",
     "retrieved_date": "2025-10-13",
+    "retrieved_utc": "2025-10-13T18:54:54Z",
+    "source": "Engadget_All",
+    "title": "Google's Nano Banana AI-image editing is coming to Search, NotebookLM and Photos",
+    "url": "https://www.engadget.com/ai/googles-nano-banana-ai-image-editing-is-coming-to-search-notebooklm-and-photos-184111046.html?src=rss",
+    "id_key": "ff748906480b1ae851a5c6befe157e97d7b3ae178a8ca5cd22fc074054cbfc6a",
+    "summary": "Google's Nano Banana AI image editor became something of a viral sensation when it launched last month . Now the tool is being integrated into a bunch of pre-existing Google products , like Search , NotebookLM and Photos. Perhaps the most notable integration here is with NotebookLM. Nano Banana is being used to drastically change up Video Overviews, offering up six new styles like watercolor and anime. It also now generates contextual illustrations based on sources and there's a new option for micro-videos called Briefs. For the uninitiated, Video Overviews is a neat little tool available to NotebookLM users that automatically generates explainer videos from documents. It can even whip up a narrated slideshow with visuals. The AI-heavy update starts rolling out to Pro users this week and to all users in \"the upcoming weeks.\" Search integration offers new ways to make and edit images while using the official Google app. The company says folks can use a chat prompt to, say, ask the bot to create a stylized version of a pre-existing image. Additionally, photos can be snapped directly from the Lens tool and then edited via the AI. This is rolling out right now in English for US customers, with more countries and languages coming in the near future. We don't have any actual information as to what the Photos integration will look like, with Google simply saying it's bringing Nano Banana to the platform in \"the weeks ahead.\" The company promises more details soon. Nano Banana is an image editor and Google Photos is a service for storing and organizing photos, so it'll likely involve editing these stored images in some way. This article originally appeared on Engadget at https://www.engadget.com/ai/googles-nano-banana-ai-image-editing-is-coming-to-search-notebooklm-and-photos-184111046.html?src=rss",
+    "ingested_utc": "2025-10-13T18:54:54Z"
+  },
+  {
+    "published_utc": "2025-10-13",
+    "retrieved_date": "2025-10-13",
+    "retrieved_utc": "2025-10-13T18:54:35Z",
+    "source": "FT_Home",
+    "title": "Ministers say civil servant made evidence decisions in failed China spy case",
+    "url": "https://www.ft.com/content/0639bb9f-bc54-4112-989a-22932b1c4de3",
+    "id_key": "d0505089783814bf4fe177fc6df58932c09502f6ccb7f3d3161454098f33f9e2",
+    "summary": "Deputy national security adviser Matt Collins named as being personally responsible for providing witness statements",
+    "ingested_utc": "2025-10-13T18:54:35Z"
+  },
+  {
+    "published_utc": "2025-10-13",
+    "retrieved_date": "2025-10-13",
     "retrieved_utc": "2025-10-13T18:44:16Z",
     "source": "FinancialPost_Business",
     "title": "HCLTech Delivers Robust Performance in Q2FY26 with Revenue Growth of 4.6%",
@@ -10976,27 +10998,5 @@
     "id_key": "a7a9642bbc14c23b19314b9bbd2c8d62c2dfce2496e685d41f6133e50edd4ef4",
     "summary": "Instagram chief Adam Mosseri says AI will empower new creators while forcing society to rethink what’s real online as synthetic content grows.",
     "ingested_utc": "2025-10-10T16:39:23Z"
-  },
-  {
-    "published_utc": "2025-10-10",
-    "retrieved_date": "2025-10-10",
-    "retrieved_utc": "2025-10-10T16:39:08Z",
-    "source": "FT_Home",
-    "title": "Gazans stream back home after start of Israel-Hamas truce",
-    "url": "https://www.ft.com/content/29d93c4a-86e1-4612-b4c6-cff4549a7987",
-    "id_key": "f52eef1b87c79b81f3a3417847baab7ccae8f58017a7ad65b0e1412ae4b47f75",
-    "summary": "Thousands marched on foot in search of what remained of their lives before the two-year conflict",
-    "ingested_utc": "2025-10-10T16:39:08Z"
-  },
-  {
-    "published_utc": "2025-10-10",
-    "retrieved_date": "2025-10-10",
-    "retrieved_utc": "2025-10-10T16:38:54Z",
-    "source": "NYTimes_Business",
-    "title": "Billions of Dollars ‘Vanished’: Low-Profile Bankruptcy Rings Alarms on Wall Street",
-    "url": "https://www.nytimes.com/2025/10/10/business/first-brands-bankruptcy-wall-street.html",
-    "id_key": "6fda66ac7a9165ff3339a3f4bbbffa2527e171dbd3b46f14aad2063f19898f44",
-    "summary": "The unraveling of First Brands, a midsize auto-parts maker, is exposing hidden losses at international banks and “private credit” lenders.",
-    "ingested_utc": "2025-10-10T16:38:54Z"
   }
 ]
