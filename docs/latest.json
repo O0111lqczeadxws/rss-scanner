@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-10-13",
     "retrieved_date": "2025-10-13",
+    "retrieved_utc": "2025-10-13T19:35:31Z",
+    "source": "NYTimes_World",
+    "title": "The Return of Israel’s Living Hostages From Gaza Signals a Time to Heal",
+    "url": "https://www.nytimes.com/2025/10/13/world/middleeast/israel-hostages-gaza.html",
+    "id_key": "c45c2b08865e91fe4c1d6e9896ce44a3d71f0d26f4e0a88c690ea9f986d79ebd",
+    "summary": "With the releases, Israelis basked in a joyous moment of unifying national redemption after months of agonizing, polarizing war.",
+    "ingested_utc": "2025-10-13T19:35:31Z"
+  },
+  {
+    "published_utc": "2025-10-13",
+    "retrieved_date": "2025-10-13",
+    "retrieved_utc": "2025-10-13T19:33:41Z",
+    "source": "CryptoNews",
+    "title": "BitMine Goes on ‘$827M Aggressive’ ETH Buying Spree After Crypto Market Crash",
+    "url": "https://cryptonews.com/news/bitmine-goes-on-827m-aggressive-eth-buying-spree-after-crypto-market-crash/",
+    "id_key": "507cc15f969bf2e7783850ed85dd2985084398a46377cf2bfeb97712643ef781",
+    "summary": "BitMine has increased its ETH reserves with a $827M purchase during the sell-off, adding 202,037 tokens for a total of 3,032,188—about 2.5% of circulating supply. Chairman Tom Lee says Ethereum has entered a “supercycle” driven by AI and financial integration. The post BitMine Goes on ‘$827M Aggressive’ ETH Buying Spree After Crypto Market Crash appeared first on Cryptonews .",
+    "ingested_utc": "2025-10-13T19:33:41Z"
+  },
+  {
+    "published_utc": "2025-10-13",
+    "retrieved_date": "2025-10-13",
     "retrieved_utc": "2025-10-13T19:26:32Z",
     "source": "HackerNews_Top",
     "title": "America's future could hinge on whether AI slightly disappoints",
@@ -10976,27 +10998,5 @@
     "id_key": "0413a95bbb43f75c43f98e4a82e86158df6d52d09f1fb524b9dcec00cae8befd",
     "summary": "Known as Esmeralda 7, the project planned in the Nevada desert would have produced enough energy to power nearly two million homes.",
     "ingested_utc": "2025-10-10T17:12:48Z"
-  },
-  {
-    "published_utc": "2025-10-10",
-    "retrieved_date": "2025-10-10",
-    "retrieved_utc": "2025-10-10T17:12:07Z",
-    "source": "Optimism_Releases",
-    "title": "op-deployer/v0.4.4",
-    "url": "https://github.com/ethereum-optimism/optimism/releases/tag/op-deployer%2Fv0.4.4",
-    "id_key": "04833d8961ff37e1215321b2307c4c2f45692b738ae581da30fe9a49f93106e2",
-    "summary": "Overview op-deployer/v0.4.4 supports deploying, upgrading to, and producing calldata for op-contracts/v4.1.0 (u16a). Details Additional changes outside of op-contracts/v4.1.0 support include: ability to specify a custom block GasLimit when deploying a new OPChain via the chainIntent.GasLimit field fusaka defense via reduction of default tx.GasPadFactor from 2.0 -> 1.2 (to allow opcm.deploy to work) modified contracts locator in intent.toml (deprecated tag:// locator in favor of embedded ) embedded (default) - embeds artifacts.tgz file containing contracts artifacts from same branch as op-deployer, ensuring compatibility https:// - download artifacts.tgz from remote server file:// - point to local filepath of contract artifacts",
-    "ingested_utc": "2025-10-10T17:12:07Z"
-  },
-  {
-    "published_utc": "2025-10-10",
-    "retrieved_date": "2025-10-10",
-    "retrieved_utc": "2025-10-10T17:10:24Z",
-    "source": "Guardian_World",
-    "title": "Richard Tice accepted stay at French Riviera home of Tory donor",
-    "url": "https://www.theguardian.com/politics/2025/oct/10/richard-tice-tory-donor-lubov-chernukhin",
-    "id_key": "6e9cb5900502b036e68c84ef3d2842aac6549d743c6f80143ffb0572e36b2d4f",
-    "summary": "Reform deputy leader’s trip, worth £1,400, to Lubov Chernukhin’s property was for ‘discussing gas power in UK’ Reform UK’s deputy leader, Richard Tice, accepted a £1,400 stay at the French Riviera home of Lubov Chernukhin, a Conservative donor and the wife of Russia’s former deputy finance minister, new filings show. Tice enjoyed accommodation valued at £1,000 and meals worth £400 between 4 and 6 August at the Chernukhins’ property on the Mediterranean coast, listing the purpose as “discussing gas power in the UK”, according to the register of MPs’ interests. Continue reading...",
-    "ingested_utc": "2025-10-10T17:10:24Z"
   }
 ]
