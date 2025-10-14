@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-10-14",
     "retrieved_date": "2025-10-14",
+    "retrieved_utc": "2025-10-14T03:55:24Z",
+    "source": "FT_Markets",
+    "title": "Western companies warn of China rare-earth supply chain chaos",
+    "url": "https://www.ft.com/content/55322307-739c-4915-96f6-9f059b460975",
+    "id_key": "a6120466146c1418c993b15fc32735d1e4b462b5947023e849102aa343bcb60a",
+    "summary": "Executives warn Beijing’s tighter controls will lead to ‘broken’ supply chains and higher prices",
+    "ingested_utc": "2025-10-14T03:55:24Z"
+  },
+  {
+    "published_utc": "2025-10-14",
+    "retrieved_date": "2025-10-14",
+    "retrieved_utc": "2025-10-14T03:54:28Z",
+    "source": "Besu_Releases",
+    "title": "25.10.0-RC3: Add Option to enable/disable opcode optimizations (#9299)",
+    "url": "https://github.com/hyperledger/besu/releases/tag/25.10.0-RC3",
+    "id_key": "4b19b833efa2529f7034cf5b49d2026213980e2a3e10839b7448dd45993dfff8",
+    "summary": "add evm options to evmtool too Statically initiatise SignatureAlgorithm default instance for reference tests Signed-off-by: Luis Pinto luis.pinto@consensys.net Signed-off-by: Simon Dudley simon.dudley@consensys.net Co-authored-by: Simon Dudley simon.dudley@consensys.net",
+    "ingested_utc": "2025-10-14T03:54:28Z"
+  },
+  {
+    "published_utc": "2025-10-14",
+    "retrieved_date": "2025-10-14",
+    "retrieved_utc": "2025-10-14T03:53:02Z",
+    "source": "Guardian_World",
+    "title": "News live: national park reopens as police say Dezi Freeman might have left area; Creative Australia awards $100,000 grant to Khaled Sabsabi",
+    "url": "https://www.theguardian.com/australia-news/live/2025/oct/14/australia-news-live-jim-chalmers-superannuation-concession-tax-cybercrime-anthony-albanese-sussan-ley-coalition-penny-wong-israel-gaza-ntwnfb",
+    "id_key": "503e0a8b972660dd6aa98345dcc086aa6b12aecd793b2d87dfe16a8cea2da461",
+    "summary": "Follow today’s news live Get our breaking news email , free app or daily news podcast The acting prime minister, Richard Marles , has echoed Penny Wong in crediting Donald Trump with securing the release of all remaining Israeli hostages from Gaza. Speaking to Channel Nine’s Today show earlier, Marles said: I think you have to acknowledge and give credit to President Trump and administration. This is an achievement that is incredible and will be remembered by history. And I think now is the moment to take this move forward and ensure that what we are seeing here is an enduring [peace] in the Middle East. We’ve not had any requests of that kind and I wouldn’t speculate on that other than to say, you know, obviously we would seek to be as constructive as we can … [as] we’ve tried to be over the last two years. But really, it is now for all of the parties to commit to every point of this plan and make sure that this lasts. What we did yesterday was we wound back some of the generosity of the tax concessions for the biggest balances at the same time as we increased the low-income super tax offset so that young people on low incomes can retire with more money. And this is precisely what we’re talking about when we’re talking about intergenerational equity. I think people know that that’s a big priority for me, and that’s what these changes are exactly all about. Continue reading...",
+    "ingested_utc": "2025-10-14T03:53:02Z"
+  },
+  {
+    "published_utc": "2025-10-14",
+    "retrieved_date": "2025-10-14",
     "retrieved_utc": "2025-10-14T03:45:39Z",
     "source": "FinancialPost_Business",
     "title": "Russia Steps Up Exports of US-Sanctioned LNG in Test for Trump",
@@ -10965,38 +10998,5 @@
     "id_key": "c91a47c29b0426e845ff01807dc9a7de9a47324e37b24bc95f0db1280835f11d",
     "summary": "Instagram head Adam Mosseri has announced that as part of a test, some Instagram users will be able to try a new menu bar in the app with a different arrangement of tabs. Notably, the new menu bar has dedicated tabs for both Reels and DMs, two of the app's most popular features. If you opt-in to the test, Instagram's current tabs for your feed, search, creating a new post, Reels and your profile page will be replaced by a new layout that swaps search and Reels, and switches the dedicated tab for creating a post with a new one for DMs. Meta's test also makes it possible to swipe between tabs. Mosseri's post announcing the test acknowledges that these kinds of changes \"can take time to get used to,\" which is why the new layout is optional for now. Based on recent announcements though, it's clear Meta has wanted to move in this direction for a bit. Setting aside the long-awaited iPad version of Instagram defaulting to Reels, the company has also said publicly it plans to prioritize messaging and short-form videos moving forward. It even tested a similar Instagram tab redesign with Indian users in early October, where the default tab was Reels and the second tab was DMs. \"Reels and DMs have driven most all our growth at Instagram over the last few years, so we are exploring making them the first two tabs,\" Mosseri said at the time. Users who joined Instagram when it was an app for sharing photos might be uncomfortable with its slow drift away from photography, but the shift is reflective of Meta's decision to chase larger social media trends. As posting has become more professionalized, chatting and sharing privately has become more popular. If you take Meta at its word, Instagram is increasingly an app for consuming content made by people you don't know, and then talking about it in private group chats with friends. This test just reflects that reality more accurately. This article originally appeared on Engadget at https://www.engadget.com/social-media/instagram-tests-new-layout-that-puts-the-spotlight-on-reels-and-dms-215407062.html?src=rss",
     "ingested_utc": "2025-10-10T22:13:03Z"
-  },
-  {
-    "published_utc": "2025-10-10",
-    "retrieved_date": "2025-10-10",
-    "retrieved_utc": "2025-10-10T22:10:42Z",
-    "source": "CryptoNews",
-    "title": "Ethereum Foundation, Keyring Network Raise Funds For Tornado Cash Developers",
-    "url": "https://cryptonews.com/news/ethereum-foundation-keyring-network-raise-funds-for-tornado-cash-developers/",
-    "id_key": "c109f73e138f316b5d7425ee6ec9e628f6870540a8a7ce8cc6b37b0ab023d351",
-    "summary": "The Ethereum Foundation and Keyring Network have launched a legal-defense initiative for Tornado Cash developers Roman Storm and Alexey Pertsev, saying early zkVerified mainnet fees have been allocated as support while the cases have continued and debate over privacy and developer liability has intensified. The post Ethereum Foundation, Keyring Network Raise Funds For Tornado Cash Developers appeared first on Cryptonews .",
-    "ingested_utc": "2025-10-10T22:10:42Z"
-  },
-  {
-    "published_utc": "2025-10-10",
-    "retrieved_date": "2025-10-10",
-    "retrieved_utc": "2025-10-10T22:10:39Z",
-    "source": "CryptoSlate",
-    "title": "Trump tariff threat against China causes Bitcoin to crash 7%, $9B in liquidations",
-    "url": "https://cryptoslate.com/trump-tariff-threat-against-china-causes-bitcoin-to-fall-3-807m-in-liquidations/",
-    "id_key": "e4d151f484e90d3320b714d24f0c2227f2cf854d0619ded954e0a8544f8d31e9",
-    "summary": "Bitcoin (BTC) dropped 7% amid a broader market rout after President Donald Trump announced that the US is considering escalating tariffs against China in response to newly imposed rare-earth export controls. Total liquidations reached $9 billion over the past 24 hours, as BTC fell to as low as $105k in the drop. On a lengthy statement on […] The post Trump tariff threat against China causes Bitcoin to crash 7%, $9B in liquidations appeared first on CryptoSlate .",
-    "ingested_utc": "2025-10-10T22:10:39Z"
-  },
-  {
-    "published_utc": "2025-10-10",
-    "retrieved_date": "2025-10-10",
-    "retrieved_utc": "2025-10-10T21:50:53Z",
-    "source": "FinancialPost_Business",
-    "title": "Brazilian Fintech PicPay Is Said to Seek $500 Million in US IPO",
-    "url": "https://financialpost.com/pmn/business-pmn/brazilian-fintech-picpay-is-said-to-seek-500-million-in-us-ipo",
-    "id_key": "348a9a8fe044235b5d1a5365302322123ab28efa9d9a99f8d8661c996779f849",
-    "summary": "PicPay, the Brazilian mobile banking app owned by the billionaire Batista family’s investment holding company, is looking to raise as much as about $500 million in its US initial public offering, according to people familiar with the matter.",
-    "ingested_utc": "2025-10-10T21:50:53Z"
   }
 ]
