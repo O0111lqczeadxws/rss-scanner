@@ -2,6 +2,94 @@
   {
     "published_utc": "2025-10-14",
     "retrieved_date": "2025-10-14",
+    "retrieved_utc": "2025-10-14T19:50:37Z",
+    "source": "TheStreet_Top",
+    "title": "When does Costco open & close? The warehouse club’s hours explained",
+    "url": "https://www.thestreet.com/retail/when-does-costco-open-close-the-warehouse-club-hours",
+    "id_key": "797f4ab38c6a080b44801e83c7c61894205a1a8adc35dc09eb38ea0242cc71ae",
+    "summary": "Here are Costco's normal hours, exclusive Executive Member shopping hours, and the best times to visit to avoid crowds.",
+    "ingested_utc": "2025-10-14T19:50:37Z"
+  },
+  {
+    "published_utc": "2025-10-14",
+    "retrieved_date": "2025-10-14",
+    "retrieved_utc": "2025-10-14T19:50:29Z",
+    "source": "Engadget_All",
+    "title": "Google reportedly offers to tweak search results to avoid EU fine",
+    "url": "https://www.engadget.com/big-tech/google-reportedly-offers-to-tweak-search-results-to-avoid-eu-fine-193940005.html?src=rss",
+    "id_key": "0e19c672f75e2f4992d5b6972f740fdcdcc273465742598718b87ee4c53d0da6",
+    "summary": "In order to avoid paying billions of dollars in fines for violating the European Union's Digital Markets Act, Google is considering changing how search results are displayed, Reuters reports . EU regulators first took issue with Google's Search and Play Store businesses in March 2025, claiming it favored its own services in search results over third-party options and prevented developers from informing customers of alternative ways of accessing apps. One of regulators main issues with Google Search was that Google appeared to favor results from services like Google Flights or Google Hotels over ones from \"vertical search services,\" providers that specialize in displaying search results from a specific industry, like Expedia or Hotels.com. To avoid fines, Google now wants Search to give VSS businesses equal treatment in results. \"We will create the opportunity for each VSS to show its own box on Search. A VSS box will be populated with results from that VSS inventory,\" Google said in a proposal viewed by Reuters . Results from Google's own services will exist with the same formatting alongside, and the winning VSS box will be displayed in search results based on \"objective and non-discriminatory criteria.\" Importantly, search results from actual airlines and car rental companies won't be excluded, they'll also appear in a box \"above or below the VSS box depending on the relevance to the user's query.\" Engadget has asked Google to comment on Reuters ' report and to confirm the details of its proposed changes to Google Search. We'll update this article if we hear back. Like Apple, Google faces significant scrutiny from the EU because of its monopolistic control over its various platforms and services. The threat of fines from the DMA has forced Apple to open up its products to third-party app stores , among a host of other changes. Clearly, Google is willing to tweak what once seemed like untouchable pillars of its business to avoid fines, too. Whether these proposed changes will be enough for the regulators remains to be seen, though. This article originally appeared on Engadget at https://www.engadget.com/big-tech/google-reportedly-offers-to-tweak-search-results-to-avoid-eu-fine-193940005.html?src=rss",
+    "ingested_utc": "2025-10-14T19:50:29Z"
+  },
+  {
+    "published_utc": "2025-10-14",
+    "retrieved_date": "2025-10-14",
+    "retrieved_utc": "2025-10-14T19:50:27Z",
+    "source": "WIRED_All",
+    "title": "4 Best Red-Light Therapy Masks and LED Devices of 2025, Reviewed",
+    "url": "https://www.wired.com/story/led-face-masks-and-red-light-therapy/",
+    "id_key": "9718ea41234dd01a7963a37ee2b647fe5f5d6deb3b5b9b0228f42019ea639640",
+    "summary": "The LED devices we'd actually buy with our own money.",
+    "ingested_utc": "2025-10-14T19:50:27Z"
+  },
+  {
+    "published_utc": "2025-10-14",
+    "retrieved_date": "2025-10-14",
+    "retrieved_utc": "2025-10-14T19:49:57Z",
+    "source": "NYTimes_World",
+    "title": "Cuban Dissident Leader Leaves Prison for Exile in the U.S.",
+    "url": "https://www.nytimes.com/2025/10/13/world/americas/jose-daniel-ferrer-cuba.html",
+    "id_key": "6e3ecac71b17f021238972695584ffe12f129f6a421a3422be0f7615d2340179",
+    "summary": "José Daniel Ferrer said long periods in solitary confinement left him feeling buried alive. Secretary of State Marco Rubio welcomed his arrival in Miami.",
+    "ingested_utc": "2025-10-14T19:49:57Z"
+  },
+  {
+    "published_utc": "2025-10-14",
+    "retrieved_date": "2025-10-14",
+    "retrieved_utc": "2025-10-14T19:49:15Z",
+    "source": "Arbitrum_Nitro_Releases",
+    "title": "Arbitrum Nitro v3.8.0-rc.9",
+    "url": "https://github.com/OffchainLabs/nitro/releases/tag/v3.8.0-rc.9",
+    "id_key": "24583e5c73cf8f3a6ebf5a6d12f07324d8f0d7930d71cb012f8708a92535d58c",
+    "summary": "This release is available as a Docker Image on Docker Hub at offchainlabs/nitro-node:TBD This Docker image specifies default flags in its entrypoint which should be replicated if you're overriding the entrypoint: /usr/local/bin/nitro --validation.wasm.allowed-wasm-module-roots /home/user/nitro-legacy/machines,/home/user/target/machines If you're running a validator without a split validation server (this will be true of most validators), you should instead use the image offchainlabs/nitro-node:TBD-146b5d2-validator which has the extra script /usr/local/bin/split-val-entry.sh as the entrypoint. Note This release should only be used by batch posters on L2 chains that submit blobs to L1 Sepolia for DA. These batch posters will need to upgrade to this release before Sepolia activates the fusaka hardfork on October 14th 2025. A new version of Nitro will be released more than 7 days before Mainnet Ethereum activates fusaka hardfork which is currently expected occur early December 2025. Special Note about ArbOS 50 Support Release v3.8.0-rc.9 is unrelated to ArbOS50. A future version of Nitro that supports ArbOS50 will eventually be mandatory if the DAO votes to adopt ArbOS50, but this will be addressed later. Special Note For Database Schema Nitro 3.8.0 changes the database schema, so once a database has been run with 3.8.0, the database can no longer be opened with Nitro 3.7.x. Special Notes about log index system changes to filtermaps from upstream go-ethereum Nitro 3.7.0 pulled in go-ethereum 1.15.6 which changed log index from bloombits to filtermap. This means that database previously running pre-Nitro 3.7.0 on startup there will be elevated CPU usage for 50+ hours while new FilterMaps are generated for log indexing. If log queries are not used, the parameter --execution.rpc.log-no-history can be used to completely disable log indexing. Nitro 3.7.0 pulled in go-ethereum 1.15.11 which includes a brand new log indexing system called filtermaps that has resulted in an increase in log indexing latency due to Nitro’s current reliance on HashDB (instead of PathDB). In some cases, this can delay log queries from being served anywhere between 5 seconds to 2 minutes on Arbitrum One during long tail unindexing. We’ve observed that this happens roughly once per day based on Arbitrum One mainnet traffic levels. Teams who need to serve log queries with consistent latency (e.g. eth_getLogs , eth_getFilterLogs , eth_getFilterChanges ) can use the configuration parameter --execution.rpc.log-history=0 to keep all log history, which will only slightly increase database growth. Teams running their own log indexer may be unaffected. At some point, a future release of Nitro is expected to fix the issue of log index pruning being able to block log queries. What's Changed Add support for new beacon chain /blobs endpoint by @Tristan-Wilson in #3831 Full Changelog : v3.8.0-rc.8...v3.8.0-rc.9",
+    "ingested_utc": "2025-10-14T19:49:15Z"
+  },
+  {
+    "published_utc": "2025-10-14",
+    "retrieved_date": "2025-10-14",
+    "retrieved_utc": "2025-10-14T19:48:11Z",
+    "source": "CoinJournal",
+    "title": "Celestia price reclaims $1 after crash to $0.27: TIA forecast",
+    "url": "https://coinjournal.net/news/celestia-price-reclaims-1-after-crash-to-0-27-tia-forecast/",
+    "id_key": "c978a4478d4b651fa6c6b7509a5d1f2d4d3ad589563c4711a38bdaebcfc42bb1",
+    "summary": "Celestia’s TIA token surged back to $1 on October 14, 2025, following a steep decline to $0.27 on Oct. 10 Technical indicators however signal weakness amid recent bearish momentum. Short-term forecasts predict TIA faces immediate resistance around $1.20 as bulls aim to strengthen the recovery from recent lows. Celestia (TIA) price is back above $1 […] The post Celestia price reclaims $1 after crash to $0.27: TIA forecast appeared first on CoinJournal .",
+    "ingested_utc": "2025-10-14T19:48:11Z"
+  },
+  {
+    "published_utc": "2025-10-14",
+    "retrieved_date": "2025-10-14",
+    "retrieved_utc": "2025-10-14T19:48:08Z",
+    "source": "CryptoBriefing",
+    "title": "US government holds $36 billion in Bitcoin after largest-ever forfeiture action",
+    "url": "https://cryptobriefing.com/us-government-bitcoin-holdings-37b-seizure/",
+    "id_key": "6f0408f28a239fc635b3aaec9cb589844408d5cc74a49f1eef6c4de51384735f",
+    "summary": "The US government's significant Bitcoin holdings could impact market dynamics and regulatory approaches to cryptocurrency in the future. The post US government holds $36 billion in Bitcoin after largest-ever forfeiture action appeared first on Crypto Briefing .",
+    "ingested_utc": "2025-10-14T19:48:08Z"
+  },
+  {
+    "published_utc": "2025-10-14",
+    "retrieved_date": "2025-10-14",
+    "retrieved_utc": "2025-10-14T19:47:48Z",
+    "source": "Guardian_World",
+    "title": "Trump says list of ‘Democrat programs’ to be released on Friday as shutdown drags into third week – live",
+    "url": "https://www.theguardian.com/us-news/live/2025/oct/14/donald-trump-government-shutdown-national-guard-javier-milei-charlie-kirk-us-politics-live-news-updates",
+    "id_key": "8fbcf1b4b041eb52f22675d4b6f0962badacb95f5f4ead880e146c37795ee436",
+    "summary": "President says programs to be cut are ‘never going to come back’ as Congress remains at an impasse on stopgap funding bill to reopen government Johnson says ‘I don’t have anything to negotiate’ as US shutdown drags on China has hit back at accusations from the US that it is trying to hurt the world economy, as the trade war between the world’s two biggest economies appeared to re-escalate , amped up by aggressive rhetoric on both sides. China’s commerce ministry said on Tuesday that the US was “threatening to intimidate” with the prospect of new tariffs on Chinese exports, “which is not the right way to get along with China”. Its spokesperson said that China would “fight to the end” in trade talks. Continue reading...",
+    "ingested_utc": "2025-10-14T19:47:48Z"
+  },
+  {
+    "published_utc": "2025-10-14",
+    "retrieved_date": "2025-10-14",
     "retrieved_utc": "2025-10-14T19:35:35Z",
     "source": "NPR_World",
     "title": "Move over James Bond: A new service lets anyone share secrets with Britain",
@@ -6107,6 +6195,17 @@
   {
     "published_utc": "2025-10-13",
     "retrieved_date": "2025-10-14",
+    "retrieved_utc": "2025-10-14T19:50:37Z",
+    "source": "TheStreet_Top",
+    "title": "Warren Buffett's Berkshire Hathaway reveals homebuying move",
+    "url": "https://www.thestreet.com/real-estate/warren-buffetts-berkshire-hathaway-reveals-housing-market-ploy",
+    "id_key": "6698d452af400017394d936e142c29313592bd537a1c9bb91e201326f90b38ce",
+    "summary": "To put the state of the U.S. housing market in context, it's essential to consider a sequence of economic developments from recent years. In 2022, inflation surged, prompting the Federal Reserve to raise the federal funds rate to curb consumer spending by making loans and credit more costly. This ...",
+    "ingested_utc": "2025-10-14T19:50:37Z"
+  },
+  {
+    "published_utc": "2025-10-13",
+    "retrieved_date": "2025-10-14",
     "retrieved_utc": "2025-10-14T17:50:35Z",
     "source": "TheStreet_Top",
     "title": "Microsoft drops popular software program after 35 years",
@@ -10899,104 +10998,5 @@
     "id_key": "702e472704baa7adebb36ab86ef02df8fa50dee72b03186cb7b02933d881891a",
     "summary": "Chief commissioner says force needs to ‘police differently’ as restructure announced Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Victoria police officers will spend less time doing paperwork and more time patrolling the streets in a bid to reduce crime and restore public confidence. The chief commissioner, Mike Bush, announced the biggest restructure of the force in a decade on Monday, which he said was in response to the state’s “major crime problem” and “the lack of trust and confidence” in police to tackle it. Continue reading...",
     "ingested_utc": "2025-10-13T05:32:09Z"
-  },
-  {
-    "published_utc": "2025-10-13",
-    "retrieved_date": "2025-10-13",
-    "retrieved_utc": "2025-10-13T05:32:09Z",
-    "source": "Guardian_World",
-    "title": "Israeli hostage release: IDF says Red Cross on way to pick up first Gaza hostages - live updates",
-    "url": "https://www.theguardian.com/world/live/2025/oct/13/gaza-ceasefire-live-updates-israel-hostages-release-hamas-trump-middle-east",
-    "id_key": "029032e0889df37278ca709a98971aff5739f1a6553327fd5fde7b429a8d38eb",
-    "summary": "Donald Trump is due to arrive in Israel shortly after the expected release of 20 living Israeli hostages at 8am local time Full report: Israel expects all 20 living hostages to be freed from Gaza on Monday morning Explainer: As Donald Trump heads to Gaza ‘peace summit’ in Egypt, who is going – and who isn’t? Who are the 20 hostages believed alive and expected to be freed from Gaza? Donald Trump has questioned whether former UK prime minister Tony Blair will serve on a new “board of peace” that is intended to oversee the governance of Gaza. The US president’s comments come amid ongoing criticisms of Blair for his role in the Iraq war that began in 2003. Continue reading...",
-    "ingested_utc": "2025-10-13T05:32:09Z"
-  },
-  {
-    "published_utc": "2025-10-13",
-    "retrieved_date": "2025-10-13",
-    "retrieved_utc": "2025-10-13T05:32:09Z",
-    "source": "Guardian_World",
-    "title": "UK MPs urged to investigate TikTok’s plans to cut 439 content moderator jobs",
-    "url": "https://www.theguardian.com/technology/2025/oct/13/uk-mps-tiktok-plans-cut-content-moderator-jobs",
-    "id_key": "9e31da032b367c6c84269ed54f5c0bcd2006c87f4f21e89d73c40ff21a349bd0",
-    "summary": "Trade unions and online safety experts sign letter warning jobs losses could expose children to harmful content Trade unions and online safety experts have urged MPs to investigate TikTok’s plans to make hundreds of jobs for UK-based content moderators redundant. The video app company is planning 439 redundancies in its trust and safety team in London, leading to warnings that the jobs losses will have implications for online safety. Continue reading...",
-    "ingested_utc": "2025-10-13T05:32:09Z"
-  },
-  {
-    "published_utc": "2025-10-13",
-    "retrieved_date": "2025-10-13",
-    "retrieved_utc": "2025-10-13T05:32:09Z",
-    "source": "Guardian_World",
-    "title": "‘Lab to fab’: are promises of a graphene revolution finally coming true?",
-    "url": "https://www.theguardian.com/business/2025/oct/13/lab-to-fab-are-promises-of-a-graphene-revolution-finally-coming-true",
-    "id_key": "70d55cfeeb21c5b65c874b70f4605b01d44bcf1781c600b8c70305552b8377c2",
-    "summary": "Two decades after the material was first produced, some UK firms have reaped its potential but others are struggling After graphene was first produced at the University of Manchester in 2004, it was hailed as a wonder material , stronger than steel but lighter than paper. But two decades on, not every UK graphene company has made the most of that potential. Some show promise but others are struggling. Extracted from graphite, commonly used in pencils, graphene is a latticed sheet of carbon one atom thick, and is highly effective at conducting heat and electricity. China is the world’s biggest producer, using it to try to get ahead in the global race to produce microchips and in sectors such as construction. Continue reading...",
-    "ingested_utc": "2025-10-13T05:32:09Z"
-  },
-  {
-    "published_utc": "2025-10-13",
-    "retrieved_date": "2025-10-13",
-    "retrieved_utc": "2025-10-13T05:15:27Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "Shares in Tata Group's non-bank arm up 1.2% from IPO price in market debut",
-    "url": "https://asia.nikkei.com/business/markets/ipo/shares-in-tata-group-s-non-bank-arm-up-1.2-from-ipo-price-in-market-debut",
-    "id_key": "8e5f8cec82b80c2701d2ed8d7e12ca83cad722dcd54fb9f43f0ae6eb872a73b8",
-    "summary": "",
-    "ingested_utc": "2025-10-13T05:15:27Z"
-  },
-  {
-    "published_utc": "2025-10-13",
-    "retrieved_date": "2025-10-13",
-    "retrieved_utc": "2025-10-13T05:14:43Z",
-    "source": "FT_Markets",
-    "title": "Billionaire hedge fund manager stops US donations",
-    "url": "https://www.ft.com/content/c9e1cda5-6a19-43d9-8293-6ced38233957",
-    "id_key": "4eaea81aefc8ff55c78de09a4afda1ac44f8bdd413dcb950304fbcc6538c520a",
-    "summary": "Plus, Goldman Sachs on private assets, ex-US funds soar, and Suzanne Treister at Modern Art Oxford",
-    "ingested_utc": "2025-10-13T05:14:43Z"
-  },
-  {
-    "published_utc": "2025-10-13",
-    "retrieved_date": "2025-10-13",
-    "retrieved_utc": "2025-10-13T05:12:37Z",
-    "source": "CryptoNews",
-    "title": "Crypto Market Stabilizes After Trump’s Efforts to Defuse US–China Trade Rift",
-    "url": "https://cryptonews.com/news/crypto-market-stabilizes-after-trumps-efforts-to-defuse-us-china-trade-rift/",
-    "id_key": "65fe5249bf4a18c522735055ebf20e7acbb8956f6c5eaca7a59688027fa0a0d5",
-    "summary": "Crypto markets bounced back Monday as Bitcoin and major tokens rallied after Trump’s friendly remarks on China eased trade war fears. The post Crypto Market Stabilizes After Trump’s Efforts to Defuse US–China Trade Rift appeared first on Cryptonews .",
-    "ingested_utc": "2025-10-13T05:12:37Z"
-  },
-  {
-    "published_utc": "2025-10-13",
-    "retrieved_date": "2025-10-13",
-    "retrieved_utc": "2025-10-13T05:12:14Z",
-    "source": "Guardian_World",
-    "title": "Labor scraps key elements of controversial superannuation tax plan as Greens call move ‘gift to the super-rich’",
-    "url": "https://www.theguardian.com/australia-news/2025/oct/13/superannuation-tax-rules-albanese-treasurer-chalmers-labor-announces-surprise-backdown",
-    "id_key": "5524c6cf95ae31cbc4f7e5486f68a2e40b21deea41bd036ea5673f3aa46ba2b3",
-    "summary": "Jim Chalmers announces backflip on policy to tax unrealised superannuation gains on account balances of more than $3m Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The Albanese government has backed down on its contentious superannuation tax plan, dumping the proposal to target unrealised gains after sustained criticism from sections of the media, industry and politics. The treasurer, Jim Chalmers, announced the surprise change on Monday in a move that won praise from one of its most high-profile critics – the former Labor prime minister, Paul Keating. Continue reading...",
-    "ingested_utc": "2025-10-13T05:12:14Z"
-  },
-  {
-    "published_utc": "2025-10-13",
-    "retrieved_date": "2025-10-13",
-    "retrieved_utc": "2025-10-13T05:12:11Z",
-    "source": "BBC_World",
-    "title": "China accuses US of 'double standards' over tariff threat",
-    "url": "https://www.bbc.com/news/articles/cn828kg8rmzo?at_medium=RSS&at_campaign=rss",
-    "id_key": "0550d3ccdb5bc4d65473a18cbf32e17454c65d43ba4183702a952e64e0be9740",
-    "summary": "Beijing says it could introduce \"countermeasures\" if the US President imposes an an additional 100% tariff on Chinese imports.",
-    "ingested_utc": "2025-10-13T05:12:11Z"
-  },
-  {
-    "published_utc": "2025-10-13",
-    "retrieved_date": "2025-10-13",
-    "retrieved_utc": "2025-10-13T04:52:32Z",
-    "source": "NYTimes_Business",
-    "title": "Why China Built 162 Square Miles of Solar Panels on the World’s Highest Plateau",
-    "url": "https://www.nytimes.com/2025/10/10/business/china-solar-tibetan-plateau.html",
-    "id_key": "5e0046ab8e67634af559f88d14ea859768a0180dffe0c71e957377a5bff403fd",
-    "summary": "China is using the high-altitude expanse for immense solar panel farms and wind turbines and has begun work on the world’s largest hydroelectric dams.",
-    "ingested_utc": "2025-10-13T04:52:32Z"
   }
 ]
