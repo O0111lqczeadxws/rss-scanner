@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-10-14",
     "retrieved_date": "2025-10-14",
+    "retrieved_utc": "2025-10-14T05:41:33Z",
+    "source": "BBC_Business",
+    "title": "US shipping chaos: I fear my wedding sari is destroyed",
+    "url": "https://www.bbc.com/news/articles/cj9zmeerp1xo?at_medium=RSS&at_campaign=rss",
+    "id_key": "2eccbc6d1c5fa03e8de9914ba6a3f60836ffaa4ee262be3153ae9c5e9ebab656",
+    "summary": "Customers worry about missing parcels as shipping companies struggle to handle a flood of packages facing new customs and tariff rules.",
+    "ingested_utc": "2025-10-14T05:41:33Z"
+  },
+  {
+    "published_utc": "2025-10-14",
+    "retrieved_date": "2025-10-14",
     "retrieved_utc": "2025-10-14T05:33:53Z",
     "source": "HackerNews_Top",
     "title": "Don’t Look Up: Sensitive internal links in the clear on GEO satellites [pdf]",
@@ -10987,16 +10998,5 @@
     "id_key": "e1a3b0879e389f5b2d8acf9488560dd3f6a9f0d2bc23bc08e527cb501554b07a",
     "summary": "The U.K.-based drugmaker became the second to strike a deal with the Trump administration as part of the president's push to rein in U.S. drug prices.",
     "ingested_utc": "2025-10-11T14:11:11Z"
-  },
-  {
-    "published_utc": "2025-10-10",
-    "retrieved_date": "2025-10-11",
-    "retrieved_utc": "2025-10-11T09:12:35Z",
-    "source": "NPR_World",
-    "title": "Israel and Hamas prepare for hostage exchange. And, the DOJ indicts Letitia James",
-    "url": "https://www.npr.org/2025/10/10/g-s1-92895/up-first-newsletter-israel-gaza-peace-deal-letitia-james",
-    "id_key": "aa3c89de1f4f701e5b88cdb77cb68e0e99da69e427fe5ba38a930e07bf413990",
-    "summary": "Israel and Hamas are preparing for a hostage exchange as the first phase of the signed ceasefire deal. And, the Justice Department has indicted Letitia James after pressure from President Trump.",
-    "ingested_utc": "2025-10-11T09:12:35Z"
   }
 ]
