@@ -2,6 +2,61 @@
   {
     "published_utc": "2025-10-15",
     "retrieved_date": "2025-10-15",
+    "retrieved_utc": "2025-10-15T06:20:43Z",
+    "source": "HackerNews_Top",
+    "title": "Pixnapping Attack",
+    "url": "https://www.pixnapping.com/",
+    "id_key": "23b08ee441daf3a74c1ba62308625c633614a50d434a66f020272909df090c42",
+    "summary": "Comments",
+    "ingested_utc": "2025-10-15T06:20:43Z"
+  },
+  {
+    "published_utc": "2025-10-15",
+    "retrieved_date": "2025-10-15",
+    "retrieved_utc": "2025-10-15T06:20:28Z",
+    "source": "FinancialPost_Business",
+    "title": "Cornish Metals Announces Exercise of Stock Options and Issue of Equity & PDMR Dealings",
+    "url": "https://financialpost.com/globe-newswire/cornish-metals-announces-exercise-of-stock-options-and-issue-of-equity-pdmr-dealings-2",
+    "id_key": "0ce3d2c11c4280f9e9ce5ac672d07dc388413a46d74a33dff8de1b2219863dba",
+    "summary": "VANCOUVER, British Columbia, Oct. 15, 2025 (GLOBE NEWSWIRE) — Cornish Metals Inc. (AIM/TSXV: CUSN) (“Cornish Metals” or the “Company”), a mineral exploration and development company focused on advancing its wholly owned and permitted South Crofty tin project in Cornwall, United Kingdom, announces that Non-Executive Chairman, Mr Patrick F. N. Anderson, has exercised 750,000 options over […]",
+    "ingested_utc": "2025-10-15T06:20:28Z"
+  },
+  {
+    "published_utc": "2025-10-15",
+    "retrieved_date": "2025-10-15",
+    "retrieved_utc": "2025-10-15T06:18:55Z",
+    "source": "Arbitrum_Nitro_Releases",
+    "title": "Arbitrum Nitro v3.8.0-rc.11",
+    "url": "https://github.com/OffchainLabs/nitro/releases/tag/v3.8.0-rc.11",
+    "id_key": "c8ff8851a56a38fd3681ff28610439d35c7f6fa6b52ed8b414027ec61ae56b84",
+    "summary": "This release is available as a Docker Image on Docker Hub at offchainlabs/nitro-node:TBD This Docker image specifies default flags in its entrypoint which should be replicated if you're overriding the entrypoint: /usr/local/bin/nitro --validation.wasm.allowed-wasm-module-roots /home/user/nitro-legacy/machines,/home/user/target/machines If you're running a validator without a split validation server (this will be true of most validators), you should instead use the image offchainlabs/nitro-node:TBD-validator which has the extra script /usr/local/bin/split-val-entry.sh as the entrypoint. Note This release should only be used by batch posters on L2 chains that submit blobs to L1 Sepolia for DA. These batch posters will need to upgrade to this release before Sepolia activates the fusaka hardfork on October 14th 2025. A new version of Nitro will be released more than 7 days before Mainnet Ethereum activates fusaka hardfork which is currently expected occur early December 2025. Special Note about ArbOS 50 Support Release v3.8.0-rc.10 is unrelated to ArbOS50. A future version of Nitro that supports ArbOS50 will eventually be mandatory if the DAO votes to adopt ArbOS50, but this will be addressed later. Special Note For Database Schema Nitro 3.8.0 changes the database schema, so once a database has been run with 3.8.0, the database can no longer be opened with Nitro 3.7.x. Special Notes about log index system changes to filtermaps from upstream go-ethereum Nitro 3.7.0 pulled in go-ethereum 1.15.6 which changed log index from bloombits to filtermap. This means that database previously running pre-Nitro 3.7.0 on startup there will be elevated CPU usage for 50+ hours while new FilterMaps are generated for log indexing. If log queries are not used, the parameter --execution.rpc.log-no-history can be used to completely disable log indexing. Nitro 3.7.0 pulled in go-ethereum 1.15.11 which includes a brand new log indexing system called filtermaps that has resulted in an increase in log indexing latency due to Nitro’s current reliance on HashDB (instead of PathDB). In some cases, this can delay log queries from being served anywhere between 5 seconds to 2 minutes on Arbitrum One during long tail unindexing. We’ve observed that this happens roughly once per day based on Arbitrum One mainnet traffic levels. Teams who need to serve log queries with consistent latency (e.g. eth_getLogs , eth_getFilterLogs , eth_getFilterChanges ) can use the configuration parameter --execution.rpc.log-history=0 to keep all log history, which will only slightly increase database growth. Teams running their own log indexer may be unaffected. At some point, a future release of Nitro is expected to fix the issue of log index pruning being able to block log queries. What's Changed Toggle rpc endpoint used on errors (3.8.0 backport) by @gligneul in #3837 Full Changelog : v3.8.0-rc.10...v3.8.0-rc.11",
+    "ingested_utc": "2025-10-15T06:18:55Z"
+  },
+  {
+    "published_utc": "2025-10-15",
+    "retrieved_date": "2025-10-15",
+    "retrieved_utc": "2025-10-15T06:17:25Z",
+    "source": "Guardian_World",
+    "title": "Australia news live: Labor’s goal of building 1.2m homes in a decade was a ‘pipe dream’, experts say; Trump officials have ‘strong enthusiasm’ for Aukus, Conroy says",
+    "url": "https://www.theguardian.com/australia-news/live/2025/oct/15/australia-news-live-liberals-infighting-james-paterson-sussan-ley-andrew-hastie-superannuation-jim-chalmers-ntwnfb",
+    "id_key": "e442075130337795d2e2db2cd47ca59934cf838cfe5b1ad088855b946e024dc2",
+    "summary": "Follow today’s news live Candace Owens: high court backs government decision to deny visa to US rightwinger Get our breaking news email , free app or daily news podcast More on the opposition’s proposed amendments to NSW housing reforms Under the opposition’s proposed amendments, the Housing Delivery Authority – a body that decides what major projects should be deemed state significant and decided by the planning department – will be subject to a full statutory review. Continue reading...",
+    "ingested_utc": "2025-10-15T06:17:25Z"
+  },
+  {
+    "published_utc": "2025-10-15",
+    "retrieved_date": "2025-10-15",
+    "retrieved_utc": "2025-10-15T06:17:21Z",
+    "source": "BBC_World",
+    "title": "Hamas returns four more bodies of hostages",
+    "url": "https://www.bbc.com/news/articles/ced60125zyqo?at_medium=RSS&at_campaign=rss",
+    "id_key": "d956598138152c9dacb04f6c8d6526d531418ff99fff083fa9684855cd998efc",
+    "summary": "Israel has warned it will restrict aid convoys into Gaza because of delays returning the remaining bodies.",
+    "ingested_utc": "2025-10-15T06:17:21Z"
+  },
+  {
+    "published_utc": "2025-10-15",
+    "retrieved_date": "2025-10-15",
     "retrieved_utc": "2025-10-15T05:50:40Z",
     "source": "HackerNews_Top",
     "title": "I am a programmer, not a rubber-stamp that approves Copilot generated code",
@@ -10943,60 +10998,5 @@
     "id_key": "acb7f8e16bc0d55caadb8d6491555224c2639831d864c12d510c839b5f7eb952",
     "summary": "US president receives standing ovation in Knesset as 20 hostages come home and hundreds of Palestinian prisoners are released Hamas releases 20 remaining living Israeli hostages Palestinians search Gaza rubble for their dead Donald Trump has questioned whether former UK prime minister Tony Blair will serve on a new “board of peace” that is intended to oversee the governance of Gaza. The US president’s comments come amid ongoing criticisms of Blair for his role in the Iraq war that began in 2003. Continue reading...",
     "ingested_utc": "2025-10-13T14:50:06Z"
-  },
-  {
-    "published_utc": "2025-10-13",
-    "retrieved_date": "2025-10-13",
-    "retrieved_utc": "2025-10-13T14:50:04Z",
-    "source": "BBC_Technology",
-    "title": "More than 130,000 Vodafone customers report outage",
-    "url": "https://www.bbc.com/news/articles/c5yldldx659o?at_medium=RSS&at_campaign=rss",
-    "id_key": "636b22894abc55e05d61efd3a18eecf49270409b26b77fbf5f4ea5d5d6020ba3",
-    "summary": "Vodafone claims to have more than 18 million customers in the UK, including nearly 700,000 home broadband customers.",
-    "ingested_utc": "2025-10-13T14:50:04Z"
-  },
-  {
-    "published_utc": "2025-10-13",
-    "retrieved_date": "2025-10-13",
-    "retrieved_utc": "2025-10-13T14:36:51Z",
-    "source": "FinancialPost_Business",
-    "title": "US Stocks Gain as China Tensions Ease, Broadcom Inks OpenAI Deal",
-    "url": "https://financialpost.com/pmn/business-pmn/us-stocks-gain-as-china-tensions-ease-broadcom-inks-openai-deal",
-    "id_key": "06d25d4e28a5b746865ea80776f90a02f74151fcc5ed1d751ef8c9f29964e1b6",
-    "summary": "US stocks rebounded on Monday, as President Donald Trump dialed back his threats to impose tariffs on China and Broadcom Inc. signed a multi-year deal with OpenAI.",
-    "ingested_utc": "2025-10-13T14:36:51Z"
-  },
-  {
-    "published_utc": "2025-10-13",
-    "retrieved_date": "2025-10-13",
-    "retrieved_utc": "2025-10-13T14:36:51Z",
-    "source": "FinancialPost_Business",
-    "title": "DecisionPoint Technologies Acquires Imprint Enterprises, Expanding Consumables Portfolio and Midwest Operations",
-    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/decisionpoint-technologies-acquires-imprint-enterprises-expanding-consumables-portfolio-and-midwest-operations",
-    "id_key": "1eee616056023eaeb986b3b38c068110e9fd0fcbdd193175ab2f4be9b0becbe0",
-    "summary": "Strategic acquisition expands offering and deepens expertise in barcode labels, RFID, and mobility solutions and services. BALTIMORE — DecisionPoint Technologies (“DecisionPoint”), a leader in enterprise mobility and edge technology solutions, today announced the successful acquisition of Imprint Enterprises (“Imprint”), a niche provider of custom and specialty label and other consumable products for data capture applications. […]",
-    "ingested_utc": "2025-10-13T14:36:51Z"
-  },
-  {
-    "published_utc": "2025-10-13",
-    "retrieved_date": "2025-10-13",
-    "retrieved_utc": "2025-10-13T14:36:44Z",
-    "source": "TheStreet_Top",
-    "title": "Inside the secret chip tour Intel didn’t want you to see",
-    "url": "https://www.thestreet.com/investing/inside-the-secret-chip-tour-intel-didnt-want-you-to-see",
-    "id_key": "646ae5c1aaf9408e64a07fb417778bee56629da223ff2d663d1f42cc9afd5e38",
-    "summary": "Intel shares have faced pressure amid production challenges and restructuring costs. Panther Lake could mark a turning point — or another delay.",
-    "ingested_utc": "2025-10-13T14:36:44Z"
-  },
-  {
-    "published_utc": "2025-10-13",
-    "retrieved_date": "2025-10-13",
-    "retrieved_utc": "2025-10-13T14:36:44Z",
-    "source": "TheStreet_Top",
-    "title": "Stocks jump after Friday's big selloff",
-    "url": "https://www.thestreet.com/markets/stocks-jump-after-fridays-big-sell-off",
-    "id_key": "c9fa716f4b27976408c6664da0f1e5cc484d33484724dfd74c5c5784b96204a0",
-    "summary": "It's Monday October 13, and this is the stock-and-markets report for the day. Investors were pushing stocks sharply higher Monday after President Trump softened some of his rhetoric about China and tariffs. At the same time, traders were reacting to the prospects of some sort of peace coming to ...",
-    "ingested_utc": "2025-10-13T14:36:44Z"
   }
 ]
