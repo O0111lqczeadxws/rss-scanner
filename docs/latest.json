@@ -2,6 +2,50 @@
   {
     "published_utc": "2025-10-15",
     "retrieved_date": "2025-10-15",
+    "retrieved_utc": "2025-10-15T22:12:24Z",
+    "source": "FinancialPost_Business",
+    "title": "SEC Suit Against Adani Paused Due to Federal Government Shutdown",
+    "url": "https://financialpost.com/pmn/business-pmn/sec-suit-against-adani-paused-due-to-federal-government-shutdown",
+    "id_key": "e15fb27fe3f786ee07b22115e43a247cff7b776ecc0882e0e7875e7753cef9c9",
+    "summary": "The US Securities and Exchange Commission’s lawsuit accusing Gautam Adani of violating securities laws has been paused because of the federal government shutdown.",
+    "ingested_utc": "2025-10-15T22:12:24Z"
+  },
+  {
+    "published_utc": "2025-10-15",
+    "retrieved_date": "2025-10-15",
+    "retrieved_utc": "2025-10-15T22:12:17Z",
+    "source": "TheStreet_Top",
+    "title": "The US passport falls to record low on list of world's most powerful",
+    "url": "https://www.thestreet.com/travel/the-us-passport-falls-to-record-low-on-list-of-worlds-most-powerful",
+    "id_key": "59b36326e7e78bf14bcabb789c174e2a04fe39316516f6be8a660293952425f1",
+    "summary": "While different rating systems evaluate passport power based on everything from visa-free access to investment opportunities for wealthy foreigners, Henley & Partners publishes what is widely considered to be the most authoritative ranking in the world. The London-based global citizenship ...",
+    "ingested_utc": "2025-10-15T22:12:17Z"
+  },
+  {
+    "published_utc": "2025-10-15",
+    "retrieved_date": "2025-10-15",
+    "retrieved_utc": "2025-10-15T22:11:49Z",
+    "source": "FT_Markets",
+    "title": "Bank of England loosens bonus rules",
+    "url": "https://www.ft.com/content/1da21635-d7c1-4a2e-9a3e-2045a66d65ee",
+    "id_key": "8805ebd4b6a4ce214cadf909cf5591eb23c41ad3c3bda6609acf92d20551758b",
+    "summary": "Fewer restrictions on financial sector pay following changes by central bank",
+    "ingested_utc": "2025-10-15T22:11:49Z"
+  },
+  {
+    "published_utc": "2025-10-15",
+    "retrieved_date": "2025-10-15",
+    "retrieved_utc": "2025-10-15T22:09:45Z",
+    "source": "CryptoNews",
+    "title": "MIT-Educated Brothers Could Spend Decades in Prison for $25 Million Ethereum Scheme",
+    "url": "https://cryptonews.com/news/mit-educated-brothers-could-spend-decades-in-prison-for-25-ethereum-scheme/",
+    "id_key": "610939e4dbfe2664ddf88a2482cdcad81846e935ebcceb0679393ea72ee7e9f2",
+    "summary": "Manhattan court has opened the trial of two brothers accused of a $25M ethereum exploit; prosecutors have alleged fraud completed in 12 seconds, while the defense has argued the exploit was legal. The defense has sought to exclude Google search-history evidence; each faces up to 20 years per count. The post MIT-Educated Brothers Could Spend Decades in Prison for $25 Million Ethereum Scheme appeared first on Cryptonews .",
+    "ingested_utc": "2025-10-15T22:09:45Z"
+  },
+  {
+    "published_utc": "2025-10-15",
+    "retrieved_date": "2025-10-15",
     "retrieved_utc": "2025-10-15T21:50:37Z",
     "source": "TheStreet_Top",
     "title": "Disney's ‘Tron: Ares’ box office bomb isn't as bad as it seems",
@@ -10954,49 +10998,5 @@
     "id_key": "72bc1bf174708054a1382514e1eb1805b5465da946e9bbe4eda58a58baa8d6fa",
     "summary": "Only 4 days left to save up to $624 on your TechCrunch Disrupt 2025 pass. Join 10,000+ founders, investors, and operators for 200+ sessions, 250+ speakers, and Startup Battlefield 200. Register now before prices rise — and save 30% on group passes, or half off a +1 pass.",
     "ingested_utc": "2025-10-14T14:14:50Z"
-  },
-  {
-    "published_utc": "2025-10-14",
-    "retrieved_date": "2025-10-14",
-    "retrieved_utc": "2025-10-14T14:14:33Z",
-    "source": "FT_Home",
-    "title": "French PM offers to freeze Macron’s pension reform until 2027",
-    "url": "https://www.ft.com/content/87e00e06-a657-471f-a7ea-a1058b163cf5",
-    "id_key": "4ec0b928f765e1da02485ac2c92cb54f7aebb3cc356aff3bb6b0f219d63cdd27",
-    "summary": "Sébastien Lecornu hopes concession will suffice to secure left’s support",
-    "ingested_utc": "2025-10-14T14:14:33Z"
-  },
-  {
-    "published_utc": "2025-10-14",
-    "retrieved_date": "2025-10-14",
-    "retrieved_utc": "2025-10-14T14:14:21Z",
-    "source": "NYTimes_Business",
-    "title": "Big Banks Credit ‘Resilient’ Economy for Profit Growth",
-    "url": "https://www.nytimes.com/2025/10/14/business/banks-earnings-jpmorgan-goldman-sachs-wells-fargo-citi.html",
-    "id_key": "9dc9cac8b4972c47855c521f25da28f72dd6ad5c47a6c3b32aa66996182406f5",
-    "summary": "JPMorgan Chase, Goldman Sachs, Citi and Wells Fargo reported strong earnings, mostly topping analyst expectations and showing broad growth.",
-    "ingested_utc": "2025-10-14T14:14:21Z"
-  },
-  {
-    "published_utc": "2025-10-14",
-    "retrieved_date": "2025-10-14",
-    "retrieved_utc": "2025-10-14T14:12:38Z",
-    "source": "Unchained",
-    "title": "Bhutan Migrates National Digital Identity to Ethereum",
-    "url": "https://unchainedcrypto.com/bhutan-migrates-national-digital-identity-to-ethereum/",
-    "id_key": "2c05047a75dcafc36eb20bd04ad7da69d343f652223e90992ea4a10e70baedeb",
-    "summary": "The Kingdom of Bhutan is migrating its National Digital Identity (NDI) system to the Ethereum blockchain from Polygon. The migration will allow nearly 800,000 residents to verify their identities and access government services, with all resident credentials expected to be completed by the first quarter of 2026. Bhutan is the ... The post Bhutan Migrates National Digital Identity to Ethereum appeared first on Unchained .",
-    "ingested_utc": "2025-10-14T14:12:38Z"
-  },
-  {
-    "published_utc": "2025-10-14",
-    "retrieved_date": "2025-10-14",
-    "retrieved_utc": "2025-10-14T14:12:38Z",
-    "source": "Unchained",
-    "title": "Citibank, JPMorgan Plan to Expand Crypto Offerings",
-    "url": "https://unchainedcrypto.com/citibank-jpmorgan-plan-to-expand-crypto-offerings/",
-    "id_key": "8ddc9772ec942af5b9319e10e4c0506eb2bf99857fff11e15b7115f60c664e7e",
-    "summary": "Wall Street banking giants Citibank and JPMorgan are exploring new ways to offer their clients crypto exposure. Citibank plans to launch crypto asset custody services in 2026, Citi’s global head of partnerships and innovation Biswarup Chatterjee told CNBC that the upcoming custody service would involve Citi holding native crypto tokens. ... The post Citibank, JPMorgan Plan to Expand Crypto Offerings appeared first on Unchained .",
-    "ingested_utc": "2025-10-14T14:12:38Z"
   }
 ]
