@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-10-15",
     "retrieved_date": "2025-10-15",
+    "retrieved_utc": "2025-10-15T04:16:33Z",
+    "source": "FinancialPost_Business",
+    "title": "Asian shares swing higher after a wobbly day on Wall Street",
+    "url": "https://financialpost.com/pmn/asian-shares-swing-higher-after-a-wobbly-day-on-wall-street",
+    "id_key": "fbb15184284405daa47826db3e60774fc062ecfa30c48f63c4dffa204fe31441",
+    "summary": "BANGKOK (AP) — Shares swung higher in Asia on Wednesday as hopes for a U.S. interest rate cut helped to offset worries over simmering trade tensions between Washington and Beijing. U.S. futures rose, while oil prices retreated. Gold rose to new highs, venturing above $4,200 per ounce. The precious metal has soared nearly 60% in […]",
+    "ingested_utc": "2025-10-15T04:16:33Z"
+  },
+  {
+    "published_utc": "2025-10-15",
+    "retrieved_date": "2025-10-15",
+    "retrieved_utc": "2025-10-15T04:16:00Z",
+    "source": "FT_Markets",
+    "title": "It’s stag season in the IPO markets, but don’t get too close",
+    "url": "https://www.ft.com/content/860c9f4f-8d56-4ee7-b828-efabc9f10188",
+    "id_key": "252054a6e9b4b5bb012af9a2fbbf620c2dbd74038813f6f1de149edfc645f127",
+    "summary": "Buying and flipping shares in primary issues is proving fruitful but companies should prefer less-fickle investors",
+    "ingested_utc": "2025-10-15T04:16:00Z"
+  },
+  {
+    "published_utc": "2025-10-15",
+    "retrieved_date": "2025-10-15",
+    "retrieved_utc": "2025-10-15T04:15:47Z",
+    "source": "NYTimes_World",
+    "title": "London Became a Global Hub for Phone Theft. Now We Know Why.",
+    "url": "https://www.nytimes.com/2025/10/15/world/europe/london-police-phone-theft-china-gang.html",
+    "id_key": "7320e26d61188cfd19d10bfe537d2fa7c1f1cab7c8a5776abdac0427946d40b4",
+    "summary": "About 80,000 phones were stolen in the British capital last year. The police are finally discovering where many of them went.",
+    "ingested_utc": "2025-10-15T04:15:47Z"
+  },
+  {
+    "published_utc": "2025-10-15",
+    "retrieved_date": "2025-10-15",
     "retrieved_utc": "2025-10-15T03:51:10Z",
     "source": "FinancialPost_Business",
     "title": "Unifor says Stellantis moving Jeep production slated for Brampton, Ont., to Illinois",
@@ -10965,38 +10998,5 @@
     "id_key": "198c2c5ba49752ca772d832bc6e6a6b0506af9f028f09483b0508939734a3450",
     "summary": "It's Monday October 13, and this is the stock-and-markets report for the day. Investors were pushing stocks sharply higher Monday after President Trump softened some of this rhetoric about China and tariffs. At the same time, traders were reacting to the prospects of some sort of peace coming to ...",
     "ingested_utc": "2025-10-13T13:55:06Z"
-  },
-  {
-    "published_utc": "2025-10-13",
-    "retrieved_date": "2025-10-13",
-    "retrieved_utc": "2025-10-13T13:54:27Z",
-    "source": "NYTimes_World",
-    "title": "A Memo in a Bunker, Intercepted Communications and Hamas’s Oct. 7 Plans",
-    "url": "https://www.nytimes.com/2025/10/11/world/middleeast/israel-hamas-plans.html",
-    "id_key": "ee53395eaccd9dc3edc89c3c6cf7257343788f73ab4b67d496046e48b3bcd109",
-    "summary": "A directive, which Israeli officials believe was written by Yahya Sinwar, the powerful leader of Hamas in Gaza, and recordings called for fighters to target soldiers and civilian communities — and to broadcast the violent acts.",
-    "ingested_utc": "2025-10-13T13:54:27Z"
-  },
-  {
-    "published_utc": "2025-10-13",
-    "retrieved_date": "2025-10-13",
-    "retrieved_utc": "2025-10-13T13:52:39Z",
-    "source": "Unchained",
-    "title": "Bitcoin Core v30 Releases With Expanded OP_RETURN Capacity",
-    "url": "https://unchainedcrypto.com/bitcoin-core-v30-releases-with-expanded-op_return-capacity/",
-    "id_key": "cf51a408df62ba7b609b4f64194be6ee804036b8959b657e52d2f92cbf9022cb",
-    "summary": "Bitcoin Core version 30.0 was officially rolled out over the weekend, introducing improved wallet indexing and accelerated transaction lookups. The most controversial change was the removal of the 80-byte limit on OP_RETURN, which was a restriction placed on the data that could be included in a transaction output for non-financial ... The post Bitcoin Core v30 Releases With Expanded OP_RETURN Capacity appeared first on Unchained .",
-    "ingested_utc": "2025-10-13T13:52:39Z"
-  },
-  {
-    "published_utc": "2025-10-13",
-    "retrieved_date": "2025-10-13",
-    "retrieved_utc": "2025-10-13T13:52:28Z",
-    "source": "Blockworks",
-    "title": "Reform UK leader Nigel Farage touts plans for crypto deregulation, Bitcoin reserve",
-    "url": "https://blockworks.co/news/nigel-farage-deregulation-bitcoin",
-    "id_key": "23eece0b477c80d947ffaef9c3319349ae81a575485865d8ef274e10c1b0c661",
-    "summary": "Reform UK’s party leader Farage took the stage at DAS London this morning",
-    "ingested_utc": "2025-10-13T13:52:28Z"
   }
 ]
