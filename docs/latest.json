@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-10-16",
     "retrieved_date": "2025-10-16",
+    "retrieved_utc": "2025-10-16T23:50:20Z",
+    "source": "FinancialPost_Business",
+    "title": "Trump’s Plan for a Second Putin Meeting Undercuts Ukraine Push",
+    "url": "https://financialpost.com/pmn/business-pmn/trumps-plan-for-a-second-putin-meeting-undercuts-ukraine-push",
+    "id_key": "babeb964a599df809918bb1ea0fa4badefcf4f75aabcd8286c7e61b9e051426c",
+    "summary": "President Donald Trump has his sights once again on ending the Ukraine conflict, announcing another meeting with Russian Vladimir Putin after a first summit in Alaska failed to yield progress.",
+    "ingested_utc": "2025-10-16T23:50:20Z"
+  },
+  {
+    "published_utc": "2025-10-16",
+    "retrieved_date": "2025-10-16",
     "retrieved_utc": "2025-10-16T23:35:57Z",
     "source": "TheStreet_Top",
     "title": "This $135 gold-plated link bracelet is on sale for only $60, just in time for gift-giving season",
@@ -10987,16 +10998,5 @@
     "id_key": "6e1e02a98a697e5cd02a3e06eb2d9d99e159adb831b751bf05c2b2920b547867",
     "summary": "Apple's latest 11- and 13-inch iPad Pros have arrived , and though they're the first with the company's all-new M5 chip, they're otherwise largely identical to last year's models . The main reason to buy one, then, would be for the extra performance over the M4 — something that may be worthwhile to content creators and other power users looking for a tablet instead of a laptop. Last year Apple decided to debut its M4 chip with the iPad Pro lineup and not its laptops. The reason? Only the entry-level M4 was ready (and not the M4 Pro and M4 Max), so Apple decided to wait before putting in its MacBooks so it could launch the entire lineup at once. With updated Magic Keyboards, It also showed that Apple was marketing the iPad Pro as a feasible MacBook replacement for power users. The same applies with the M5, except this time the company also launched its entry-level 14-inch MacBook Pro at the same time. As before, the new M5 processor uses TSMC's 3-nanometer process, as Apple reportedly decided against 2-nanometer chips due to cost considerations. The entry-level M5 comes in a couple of versions. The iPad Pro with either 256GB or 512GB of storage gets an M5 with a 9-core CPU (3 performance cores and 6 efficiency cores), 10-core GPU and 12GB of RAM. The 1TB and 2TB models get a fourth performance core and 16GB of RAM. The big upgrade here appears to be to the GPU; Apple says each of the 10 GPU cores have a Neural Accelerator on board, which will allow GPU-based AI processing to run significantly faster than on the M4. Apple claims it has more than four times the peak GPU compute performance of the M4 (which is only about 18 months old, mind you). Graphics performance should be about 45 percent higher than on the M4, as well. Overall multithreaded performance is 15 percent faster than the M4, and Apple says that video transcoding is six times faster than what the old M1 iPad Pro from 2021 delivered. As for battery life, Apple claims the same 10 hours that basically every iPad has ever been rated at. But for the first time, the iPad Pro supports fast charging — you can get up to 50 percent in 30 minutes using a 60W USB-C power adaptor. Apple is also using the C1X modem that it originally introduced last month in the iPhone Air; that'll provide the optional 5G service that Apple has offered on iPads for a few years now. There's also an N1 chip (also found in the iPhone Air), which is an Apple-designed networking chip for Wi-Fi 7, Bluetooth 6 and Thread connectivity. Apple claims this new chip will make features like Personal Hotspot and Airdrop more reliable while also offering improved performance on 5GHz Wi-Fi networks. As before, the 2025 iPad Airs are extremely thin and light. The 11-inch model is 5.3mm thick and tips the scales at just under one pound, while the 13-incher is just 5.1mm thick weighs 1.29 pounds. Both feature \"tandem\" OLED Ultra Display XDR screens that hit up to 1,000 nits brightness and peak at 1,600 nits — so they're perfect for viewing and editing HDR content. The new iPad Pro starts at $999 for the 11-inch model with 256GB of storage ($1,199 with 5G) and $1,299 for the 13-inch ($1,499 with 5G). Those are the same prices as last year — still extremely expensive, but at least not more than before. You can pre-order the new iPad Pro now, and it'll be available on October 22. This article originally appeared on Engadget at https://www.engadget.com/mobile/tablets/apples-latest-ipad-pro-get-a-power-boost-with-the-new-m5-chip-131036435.html?src=rss",
     "ingested_utc": "2025-10-15T13:44:29Z"
-  },
-  {
-    "published_utc": "2025-10-15",
-    "retrieved_date": "2025-10-15",
-    "retrieved_utc": "2025-10-15T13:44:28Z",
-    "source": "ArsTechnica_All",
-    "title": "With considerably less fanfare, Apple releases a second-generation Vision Pro",
-    "url": "https://arstechnica.com/gadgets/2025/10/with-considerably-less-fanfare-apple-releases-a-second-generation-vision-pro/",
-    "id_key": "f30beb6adc892b65e1b05984f26a3abe4f3ed9b87926c64b70e0b592003d2b6a",
-    "summary": "Reports suggest that Apple has de-prioritized Vision Pro development internally.",
-    "ingested_utc": "2025-10-15T13:44:28Z"
   }
 ]
