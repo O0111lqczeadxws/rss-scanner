@@ -2,6 +2,61 @@
   {
     "published_utc": "2025-10-16",
     "retrieved_date": "2025-10-16",
+    "retrieved_utc": "2025-10-16T08:49:11Z",
+    "source": "HackerNews_Top",
+    "title": "Liquibase continues to advertise itself as \"open source\" despite license switch",
+    "url": "https://github.com/liquibase/liquibase/issues/7374",
+    "id_key": "3512be04175ae2470c53b9ad9a93ff6215bd24adb324b8dc4991be10f25740b9",
+    "summary": "Comments",
+    "ingested_utc": "2025-10-16T08:49:11Z"
+  },
+  {
+    "published_utc": "2025-10-16",
+    "retrieved_date": "2025-10-16",
+    "retrieved_utc": "2025-10-16T08:49:03Z",
+    "source": "Nikkei_Asia_Top",
+    "title": "China slowly steps in to fill foreign aid vacuum left by Trump",
+    "url": "https://asia.nikkei.com/politics/international-relations/china-slowly-steps-in-to-fill-foreign-aid-vacuum-left-by-trump",
+    "id_key": "82e21aafe61aa9465744e51e23bb77887ea6a44cc9ca1176da56fe0f6aee9e24",
+    "summary": "",
+    "ingested_utc": "2025-10-16T08:49:03Z"
+  },
+  {
+    "published_utc": "2025-10-16",
+    "retrieved_date": "2025-10-16",
+    "retrieved_utc": "2025-10-16T08:48:50Z",
+    "source": "AlJazeera_All",
+    "title": "LIVE: Israeli drone attack kills Gaza resident amid ceasefire",
+    "url": "https://www.aljazeera.com/news/liveblog/2025/10/16/live-gaza-ceasefire-fears-as-israel-demands-return-of-all-captives-bodies?traffic_source=rss",
+    "id_key": "22a24e84068667f11221aadf514456457fcf0050327c6370bd2e6bf5133e52da",
+    "summary": "Israel continues to restrict aid entering Gaza, says Hamas hasn't met its end of deal to release all bodies of captives.",
+    "ingested_utc": "2025-10-16T08:48:50Z"
+  },
+  {
+    "published_utc": "2025-10-16",
+    "retrieved_date": "2025-10-16",
+    "retrieved_utc": "2025-10-16T08:47:28Z",
+    "source": "Besu_Releases",
+    "title": "25.10.0",
+    "url": "https://github.com/hyperledger/besu/releases/tag/25.10.0",
+    "id_key": "eabf82f1f01da5f5d1c948b61144e945da579fbada04d6263ac62ec8b6debb67",
+    "summary": "25.10.0 - Fusaka Testnet Release Important This is an optional update for Mainnet users. This is a recommended update for Holesky, Sepolia and Hoodi users for the upcoming Fusaka hardfork. There will be another release before the Mainnet Fusaka hardfork. Fusaka Hardfork details: https://eips.ethereum.org/EIPS/eip-7607#activation Holešky scheduled to fork on 2025-10-01 08:48:00 Sepolia scheduled to fork on 2025-10-14 07:36:00 Hoodi scheduled to fork on 2025-10-28 18:53:12 Upcoming Breaking Changes Deprecated CLI options --Xbonsai-parallel-tx-processing-enabled is deprecated since 25.7.0. Use --bonsai-parallel-tx-processing-enabled instead. --Xsnapsync-server-enabled is deprecated since 25.7.0. Use --snapsync-server-enabled instead. --Xsnapsync-synchronizer-pre-merge-headers-only-enabled is deprecated since 25.7.0. Use --snapsync-synchronizer-pre-checkpoint-headers-only-enabled instead. --Xhistory-expiry-prune is deprecated since 25.7.0. Use --history-expiry-prune instead. Sunsetting features - for more context on the reasoning behind the deprecation of these features, including alternative options, read this blog post Proof of Work consensus (PoW) Fast Sync Breaking Changes Additions and Improvements Update spring security framework (toml parsing) #9153 Update grpc and guava #9150 Implement optional sender balance checks in the layered txpool #9176 Add --cache-last-block-headers flag to cache the last n block headers persisted to the blockchain #9223 Manage unexpected exceptions during block creation #9208 Add --cache-last-block-headers-preload-enabled flag to enable preloading the block headers cache during startup time #9248 Upgrade to execution-spec-tests v5.2.0 #9226 , #9242 Add blockTimestamp to eth_getLogs result #9278 Add --ethstats-report-interval CLI option to control ethstats reporting frequency instead of using hardcoded 5-second interval #9271 Performance improvements to EQ opcode #9229 Update jc-kzg dependency #9261 Add isCancelled method to TransactionEvaluationContext . That way selectors could check if the block creation has been cancelled or in timeout #9285 Performance improvements for MOD related opcodes #9188 thanks to @thomas-quadratic Bug fixes Fix eth_subscribe RPC failing returning a block response #9212 Fix ethstats integration failing to provide block updates to ethstats server #9220 New Contributors @nethoxa made their first contribution in #9231 @jintukumardas made their first contribution in #9250 @dhvogel made their first contribution in #9271 @isuniverseok-ua made their first contribution in #9280 @thomas-quadratic made their first contribution in #9188 Full Changelog : 25.9.0...25.10.0 a67ba604f278b784cb427a1ad514c97c680cb83cd09594143e34428bafc7ff62 besu-25.10.0.zip bc9d0b2d2206c0565b57e23069e20751836595bd3fa0e0b9fc263388ff6c0bb6 besu-25.10.0.tar.gz",
+    "ingested_utc": "2025-10-16T08:47:28Z"
+  },
+  {
+    "published_utc": "2025-10-16",
+    "retrieved_date": "2025-10-16",
+    "retrieved_utc": "2025-10-16T08:46:01Z",
+    "source": "Guardian_World",
+    "title": "From protest laws to deaths in custody, Minns’ rush to claim the conservative high ground is clumsy and costly",
+    "url": "https://www.theguardian.com/australia-news/2025/oct/16/from-protest-laws-to-deaths-in-custody-chris-minns-rush-to-claim-conservative-high-ground-clumsy-costly-analysis",
+    "id_key": "fe7bc7dea5e060184f177835e34e3e3dca32093b2733db5e067854cb3e2828e2",
+    "summary": "At almost every opportunity, the NSW premier chooses a conservative path: get the cops on side and let nobody fault Labor’s toughness on crime. It’s not working Get our breaking news email , free app or daily news podcast There is a lesson for Chris Minns in the NSW supreme court’s declaration that police powers to deal with protesters near places of worship are invalid: laws curtailing civil liberties should never be rushed. They should certainly not be pushed through in an atmosphere of panic and incomplete facts such as existed in the fevered days after the now notorious Dural caravan incident . Anne Davies is Guardian Australia’s NSW state correspondent Continue reading...",
+    "ingested_utc": "2025-10-16T08:46:01Z"
+  },
+  {
+    "published_utc": "2025-10-16",
+    "retrieved_date": "2025-10-16",
     "retrieved_utc": "2025-10-16T08:19:30Z",
     "source": "FinancialPost_Business",
     "title": "Humanoid Global Reports Progress on Cartwheel Robotics’ Flagship Humanoid Yogi",
@@ -10943,60 +10998,5 @@
     "id_key": "9416e0fb560f6c769759046c4973b975e7ca4e0ae1ef4899ce0b7a39d6a6966a",
     "summary": "Moscow’s intelligence service launches fresh criminal case against former Yukos oil magnate and 22 other dissidents in exile",
     "ingested_utc": "2025-10-14T17:50:08Z"
-  },
-  {
-    "published_utc": "2025-10-14",
-    "retrieved_date": "2025-10-14",
-    "retrieved_utc": "2025-10-14T17:50:04Z",
-    "source": "NPR_Top",
-    "title": "A fragile Gaza ceasefire is tested after Israel and Hamas swap detainees and hostages",
-    "url": "https://www.npr.org/2025/10/14/nx-s1-5574057/israel-hamas-ceasefire-gaza",
-    "id_key": "566cfc5d59a9ccb68f791b89d021554b3b3386c2728f92d06e9e77e70573b136",
-    "summary": "Israel and Hamas took steps toward ending the two-year war that has devastated the Gaza Strip, but hard work lies ahead.",
-    "ingested_utc": "2025-10-14T17:50:04Z"
-  },
-  {
-    "published_utc": "2025-10-14",
-    "retrieved_date": "2025-10-14",
-    "retrieved_utc": "2025-10-14T17:47:49Z",
-    "source": "Guardian_World",
-    "title": "Israel limits aid and keeps Rafah crossing closed in dispute over hostage remains",
-    "url": "https://www.theguardian.com/world/2025/oct/14/israel-limits-aid-keeps-rafah-crossing-closed-dispute-hostage-remains",
-    "id_key": "88ce8a1b9b23347781440e8338e5c2d8415c74cf31e939ac6f436d3a74bb59a4",
-    "summary": "Tensions still high as Israel accuses Hamas of breaching agreement by withholding bodies of 24 hostages Gaza ceasefire – live updates The fragile ceasefire in Gaza faced its first test on Tuesday when Israel said the flow of aid into the devastated Palestinian territory would be cut by half and the crucial Rafah border crossing with Egypt would not open as planned, accusing Hamas of breaching the US-brokered agreement by withholding the bodies of Israeli hostages. On Monday, Israelis celebrated the return of the last 20 living hostages in Gaza and Palestinians rejoiced at Israel’s release of nearly 2,000 prisoners and detainees as part of the ceasefire’s first phase. Continue reading...",
-    "ingested_utc": "2025-10-14T17:47:49Z"
-  },
-  {
-    "published_utc": "2025-10-14",
-    "retrieved_date": "2025-10-14",
-    "retrieved_utc": "2025-10-14T17:47:49Z",
-    "source": "Guardian_World",
-    "title": "Drew Struzan, poster designer for Star Wars and Indiana Jones films, dies at 78",
-    "url": "https://www.theguardian.com/film/2025/oct/14/drew-struzan-poster-designer-dies",
-    "id_key": "b8d40b880056946382ef94613aabee2a96d0689fe428ed9ab0e61ec333aaccc4",
-    "summary": "Artist behind posters for Harry Potter, The Thing and Back to the Future had been diagnosed with Alzheimer’s disease Designer Drew Struzan, known for some of the most iconic movie posters of all time, has died aged 78. His work included posters for films such as Back to the Future, The Empire Strikes Back, The Goonies, The Shawshank Redemption, The Thing and Indiana Jones and the Last Crusade. Continue reading...",
-    "ingested_utc": "2025-10-14T17:47:49Z"
-  },
-  {
-    "published_utc": "2025-10-14",
-    "retrieved_date": "2025-10-14",
-    "retrieved_utc": "2025-10-14T17:47:49Z",
-    "source": "Guardian_World",
-    "title": "Marjorie Taylor Greene slams party and calls Republican men in Congress ‘weak’",
-    "url": "https://www.theguardian.com/us-news/2025/oct/14/marjorie-taylor-greene-republican-men-weak",
-    "id_key": "a6e30131dd4c50456e60d281cc93cb379939c744329618fa555b0e213ed5ff56",
-    "summary": "In Washington Post interview, the far-right congresswoman said GOP men are ‘afraid of strong Republican women’ Far-right US congresswoman Marjorie Taylor Greene is further distancing herself from her fellow Republicans and accusing men in her party of being “weak”. In an interview with the Washington Post, Greene expressed her frustrations with Republicans, signaling her further deviation from the political strategies of her party, as the government shutdown beginning 1 October was slated to enter its third week. Continue reading...",
-    "ingested_utc": "2025-10-14T17:47:49Z"
-  },
-  {
-    "published_utc": "2025-10-14",
-    "retrieved_date": "2025-10-14",
-    "retrieved_utc": "2025-10-14T17:39:28Z",
-    "source": "HackerNews_Top",
-    "title": "Prefix sum: 20 GB/s (2.6x baseline)",
-    "url": "https://github.com/ashtonsix/perf-portfolio/tree/main/delta",
-    "id_key": "0ea38c36f401a0c570259ad9c38c82eecb09be786e7196f855672736853d719e",
-    "summary": "Comments",
-    "ingested_utc": "2025-10-14T17:39:28Z"
   }
 ]
