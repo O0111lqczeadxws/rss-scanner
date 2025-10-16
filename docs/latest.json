@@ -2,6 +2,72 @@
   {
     "published_utc": "2025-10-16",
     "retrieved_date": "2025-10-16",
+    "retrieved_utc": "2025-10-16T09:52:22Z",
+    "source": "HackerNews_Top",
+    "title": "Homeless Man AI Prank Prompt: Risks, Ethics, and How to Use AI Responsibly",
+    "url": "https://ray3.run/posts/homeless-man-ai-prank-prompt",
+    "id_key": "369fb34e35ae035ef2789e41a63ab77d6fe1c5be60f739288e9f0766d05d49ea",
+    "summary": "Comments",
+    "ingested_utc": "2025-10-16T09:52:22Z"
+  },
+  {
+    "published_utc": "2025-10-16",
+    "retrieved_date": "2025-10-16",
+    "retrieved_utc": "2025-10-16T09:51:32Z",
+    "source": "FT_Home",
+    "title": "Traders at top hedge funds take home 25% of profits",
+    "url": "https://www.ft.com/content/e8392857-7a97-4b0c-9098-ca498ddcbee7",
+    "id_key": "5fe86536ff5d3393f0307009db2c953c4d211d905c4afa8aa7513fe56cebfb91",
+    "summary": "Highest-paying firms increase payouts as the sector’s fortunes reverse, Goldman Sachs report shows",
+    "ingested_utc": "2025-10-16T09:51:32Z"
+  },
+  {
+    "published_utc": "2025-10-16",
+    "retrieved_date": "2025-10-16",
+    "retrieved_utc": "2025-10-16T09:51:19Z",
+    "source": "NYTimes_Business",
+    "title": "The Small Company in Europe Caught in the Big Trade War Between the U.S. and China",
+    "url": "https://www.nytimes.com/2025/10/16/business/nexperia-netherlands-us-china.html",
+    "id_key": "d2f15525f6e046d8274ccf417129a9fcb3ac5c5c7372eaa56a19446626f1637e",
+    "summary": "Nexperia, a computer chip maker headquartered in the Netherlands, was taken over by the Dutch government after pressure from officials in Washington.",
+    "ingested_utc": "2025-10-16T09:51:19Z"
+  },
+  {
+    "published_utc": "2025-10-16",
+    "retrieved_date": "2025-10-16",
+    "retrieved_utc": "2025-10-16T09:51:19Z",
+    "source": "NYTimes_Business",
+    "title": "Families of Jeju Air Crash Victims Sue Boeing",
+    "url": "https://www.nytimes.com/2025/10/16/business/jeju-air-plane-crash-boeing-lawsuits.html",
+    "id_key": "d98353bf5c9496f531542719ed86fd451a3ae02d432e7c69239698c6adeaaa71",
+    "summary": "A lawsuit in Washington State is one of several accusing the airline of failing to update equipment on a plane that crashed in South Korea last year, killing 179 people.",
+    "ingested_utc": "2025-10-16T09:51:19Z"
+  },
+  {
+    "published_utc": "2025-10-16",
+    "retrieved_date": "2025-10-16",
+    "retrieved_utc": "2025-10-16T09:49:25Z",
+    "source": "CoinJournal",
+    "title": "Kraken looks to expand US derivatives business with $100M IG deal",
+    "url": "https://coinjournal.net/news/kraken-secures-us-derivatives-licence-with-100m-deal/",
+    "id_key": "6445b6a26e8445a6368d84504e0fbb32d4245e1dbec1a4b247c4c21c87e30ed2",
+    "summary": "Deal includes $32.5 million cash and $67.5 million in Payward stock. Acquisition grants Kraken CFTC-licensed access to US derivatives market. Kraken strengthens position ahead of planned IPO in early 2026. Kraken has acquired the US-licensed Small Exchange from IG Group in a $100 million deal, as the crypto exchange strengthens its push into regulated derivatives […] The post Kraken looks to expand US derivatives business with $100M IG deal appeared first on CoinJournal .",
+    "ingested_utc": "2025-10-16T09:49:25Z"
+  },
+  {
+    "published_utc": "2025-10-16",
+    "retrieved_date": "2025-10-16",
+    "retrieved_utc": "2025-10-16T09:49:02Z",
+    "source": "Guardian_World",
+    "title": "Minister responding to Commons urgent question on China spy case witness statements – UK politics live",
+    "url": "https://www.theguardian.com/politics/live/2025/oct/16/china-spy-case-cps-keir-starmer-uk-politics-latest-news-updates",
+    "id_key": "7854bdb6c6c9832c90f16df88846f4026ed0bbd29261e025d4462f0d0d130cee",
+    "summary": "Government asked for a statement ‘on the three witness statements in relation to alleged breach of Official Secrets Act on behalf of China’ Ward starts by saying this is serious. And he accepts this is personal to Neil O’Brien, the Tory MP who tabled the question. O’Brien has been sanctioned by China and is named in the witness documents. Chris Ward , a junior Cabinet Office minister, is replying now to the urgent question on the China spy case. Continue reading...",
+    "ingested_utc": "2025-10-16T09:49:02Z"
+  },
+  {
+    "published_utc": "2025-10-16",
+    "retrieved_date": "2025-10-16",
     "retrieved_utc": "2025-10-16T09:36:42Z",
     "source": "Nikkei_Asia_Top",
     "title": "LDP, Japan Innovation discuss decentralization, social security reform",
@@ -10932,71 +10998,5 @@
     "id_key": "160adb4690cc787f685880033b432d733da69bcd92113a22b0763068f643e407",
     "summary": "Help Me Schedule creates a meeting widget based on the context of your message.",
     "ingested_utc": "2025-10-14T18:48:34Z"
-  },
-  {
-    "published_utc": "2025-10-14",
-    "retrieved_date": "2025-10-14",
-    "retrieved_utc": "2025-10-14T18:47:23Z",
-    "source": "Arbitrum_Nitro_Releases",
-    "title": "Arbitrum Nitro v3.7.5-rc.1",
-    "url": "https://github.com/OffchainLabs/nitro/releases/tag/v3.7.5-rc.1",
-    "id_key": "418edd9fe7c2550c27fecf86f3fc370e1cb33ce6930f26cb8eaea47a906af4ca",
-    "summary": "This release is available as a Docker Image on Docker Hub at offchainlabs/nitro-node:v3.7.4-9244576 This Docker image specifies default flags in its entrypoint which should be replicated if you're overriding the entrypoint: /usr/local/bin/nitro --validation.wasm.allowed-wasm-module-roots /home/user/nitro-legacy/machines,/home/user/target/machines If you're running a validator without a split validation server (this will be true of most validators), you should instead use the image offchainlabs/nitro-node:v3.7.4-9244576-validator which has the extra script /usr/local/bin/split-val-entry.sh as the entrypoint. Special Note 1 Nitro 3.7.0 pulls in go-ethereum 1.15.6 which changed log index from bloombits to filtermap. This means that on startup there will be elevated CPU usage for 50+ hours while new FilterMaps are generated for log indexing. If log queries are not used, the parameter --execution.rpc.log-no-history can be used to completely disable log indexing. Special Note 2 Nitro 3.7.0 pulls in go-ethereum 1.15.11 which includes a brand new log indexing system called filtermaps that has resulted in an increase in log indexing latency due to Nitro’s current reliance on HashDB (instead of PathDB). In some cases, this can delay log queries from being served anywhere between 5 seconds to 2 minutes on Arbitrum One during long tail unindexing. We’ve observed that this happens roughly once per day based on Arbitrum One mainnet traffic levels. Teams who need to serve log queries with consistent latency (e.g. eth_getLogs , eth_getFilterLogs , eth_getFilterChanges ) can use the configuration parameter --execution.rpc.log-history=0 to keep all log history, which will only slightly increase database growth. As above, there will likely be elevated CPU usage for some time while it creates new indexes. Teams running their own log indexer may be unaffected. At some point, a future release Nitro is expected to fix the issue of log index pruning being able to block log queries. What's Changed Added support for new beacon chain endpoint User-facing Changes Remove pre sylus validation ( #3785 ): #3793 Add support for new beacon chain /blobs endpoint: #3826 Full Changelog : v3.7.4...v3.7.5-rc1",
-    "ingested_utc": "2025-10-14T18:47:23Z"
-  },
-  {
-    "published_utc": "2025-10-14",
-    "retrieved_date": "2025-10-14",
-    "retrieved_utc": "2025-10-14T18:46:19Z",
-    "source": "CoinJournal",
-    "title": "Tether will launch a fully open-source Wallet Development Kit (WDK) this week",
-    "url": "https://coinjournal.net/news/tether-will-launch-a-fully-open-source-wallet-development-kit-wdk-this-week/",
-    "id_key": "19c16e74a7a83f6b3522244ec23d60a08a259b246828c94fb712e815bcf4df9c",
-    "summary": "Tether’s WDK will include a Starter Wallet for iOS and Android. The kit supports humans, AI agents, and autonomous systems. WDK is open-source, modular, and designed for large-scale adoption. Paolo Ardoino, the CEO of Tether, has confirmed that the stablecoin issuer will launch a fully open-source Wallet Development Kit (WDK) this week. The release will […] The post Tether will launch a fully open-source Wallet Development Kit (WDK) this week appeared first on CoinJournal .",
-    "ingested_utc": "2025-10-14T18:46:19Z"
-  },
-  {
-    "published_utc": "2025-10-14",
-    "retrieved_date": "2025-10-14",
-    "retrieved_utc": "2025-10-14T18:45:55Z",
-    "source": "Guardian_World",
-    "title": "Netanyahu says news on remaining dead hostages expected ‘within hours’ as Israel halves amount of aid to be let into Gaza – live",
-    "url": "https://www.theguardian.com/world/live/2025/oct/14/gaza-ceasefire-israel-hamas-palestine-hostages-detainees-truce-live-news-updates",
-    "id_key": "9fc922c624b4cff8f9150c4d85f44570b72baf53f8cdd086089f0e9471df1e1b",
-    "summary": "Hamas has previously indicated recovering remains of some of the dead will take longer amid rubble in Gaza as Israel keeps Rafah crossing closed Despite the ceasefire agreement, a medical source told Palestinian news agency Wafa today that four people were killed when Israeli drones fired at residents inspecting their homes in Gaza’s eastern Shejaiya neighbourhood. We have not yet been able to independently verify this information. Israel’s military said it opened fire on people who it says approached Israeli forces operating in the northern Gaza Strip. Continue reading...",
-    "ingested_utc": "2025-10-14T18:45:55Z"
-  },
-  {
-    "published_utc": "2025-10-14",
-    "retrieved_date": "2025-10-14",
-    "retrieved_utc": "2025-10-14T18:45:55Z",
-    "source": "Guardian_World",
-    "title": "DNA test confirmed alleged stalker was not Madeleine McCann, court hears",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/14/secret-dna-test-confirmed-alleged-stalker-was-not-madeleine-mccann-says-officer",
-    "id_key": "22c6e39d4eb5b42a399f0b1d83c4dd2fa959528eb9ad52044fc4b505fa6aec04",
-    "summary": "Investigating officer says he went against procedure to test Julia Wandelt, accused of campaign of harassment against McCann family An alleged stalker’s claim to be Madeleine McCann was ruled out after a DNA test proved conclusively she was not the missing girl, police have revealed in court. Julia Wandelt, 24, is accused of a campaign of harassment against the family of Madeleine, who went missing from Praia da Luz in Portugal in 2007 at the age of three. Continue reading...",
-    "ingested_utc": "2025-10-14T18:45:55Z"
-  },
-  {
-    "published_utc": "2025-10-14",
-    "retrieved_date": "2025-10-14",
-    "retrieved_utc": "2025-10-14T18:19:46Z",
-    "source": "FinancialPost_Business",
-    "title": "Nova Leap Health Corp. to Highlight Record Q2 2025 Results at Planet MicroCap Showcase Toronto",
-    "url": "https://financialpost.com/globe-newswire/nova-leap-health-corp-to-highlight-record-q2-2025-results-at-planet-microcap-showcase-toronto",
-    "id_key": "4bc7720e77f769333876b46c4f77c7c5e8ecc7a72cf51b5752eda647a5776bb1",
-    "summary": "NOT FOR DISSEMINATION IN THE UNITED STATES OR FOR DISTRIBUTION TO U.S. NEWSWIRE SERVICES HALIFAX, Nova Scotia, Oct. 14, 2025 (GLOBE NEWSWIRE) — NOVA LEAP HEALTH CORP. (TSXV: NLH) (“Nova Leap” or “the Company”), a growing home health care organization, is pleased to announce that Chris Dobbin, President & CEO of Nova Leap, will present […]",
-    "ingested_utc": "2025-10-14T18:19:46Z"
-  },
-  {
-    "published_utc": "2025-10-14",
-    "retrieved_date": "2025-10-14",
-    "retrieved_utc": "2025-10-14T18:19:38Z",
-    "source": "TheStreet_Top",
-    "title": "An entire airport is “bankrupt in all but name\"",
-    "url": "https://www.thestreet.com/travel/an-entire-airport-is-bankrupt-in-all-but-name",
-    "id_key": "d2ccb976660ad148ce85ae848dbe7a18ff552be2e213a3326cfeed2e6d596dae",
-    "summary": "While the aviation industry is particularly prone to bankruptcies due to the sky-high cost of operations, the autumn months of 2025 brought with them a few major bankruptcy announcements in short succession. In the last days of August, low-cost carrier Spirit Airlines filed for bankruptcy for the ...",
-    "ingested_utc": "2025-10-14T18:19:38Z"
   }
 ]
