@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-10-16",
     "retrieved_date": "2025-10-16",
+    "retrieved_utc": "2025-10-16T04:37:32Z",
+    "source": "FinancialPost_Business",
+    "title": "Russia Set to Keep LNG Flowing to China Despite UK Sanctions",
+    "url": "https://financialpost.com/pmn/business-pmn/russia-set-to-keep-china-lng-trade-flowing-despite-uk-sanctions",
+    "id_key": "c88849d0a353c025e47cf9abbeafacae86ca2c832c158cbb80e4a4e115d18324",
+    "summary": "Blacklisted Russian liquefied natural gas shipments are poised to keep entering China as both countries seem prepared to circumvent the UK’s latest sanctions.",
+    "ingested_utc": "2025-10-16T04:37:32Z"
+  },
+  {
+    "published_utc": "2025-10-16",
+    "retrieved_date": "2025-10-16",
     "retrieved_utc": "2025-10-16T04:17:54Z",
     "source": "FinancialPost_Business",
     "title": "Russia Set to Keep China LNG Trade Flowing Despite UK Sanctions",
@@ -10987,16 +10998,5 @@
     "id_key": "aeb7ed735ac7b49887eeaf51865adcafec7d7d8b6a22e7c1c55caf019d9afa12",
     "summary": "DENVER — From December 6 through December 12, 2025, kids will get up to seven free lift tickets at 15 of Alterra Mountain Company’s North American mountain destinations to use during Kids Ski Free Week. Participating destinations include: Steamboat, Winter Park Resort and Arapahoe Basin in Colorado; Palisades Tahoe, Mammoth Mountain, Big Bear Mountain Resort, […]",
     "ingested_utc": "2025-10-14T16:17:36Z"
-  },
-  {
-    "published_utc": "2025-10-14",
-    "retrieved_date": "2025-10-14",
-    "retrieved_utc": "2025-10-14T16:17:24Z",
-    "source": "TheStreet_Top",
-    "title": "Former Intel CEO drops curt 2-word verdict on AI",
-    "url": "https://www.thestreet.com/technology/former-intel-ceo-drops-curt-2-word-verdict-on-ai",
-    "id_key": "483ffa02cef2a1d8fa2181f57bfb14d1d5c5430ebfd0a9a63b2b8c405995b382",
-    "summary": "AI is still the stock market’s engine. Over the past year, we’ve seen the S&P 500 notch fresh highs as chip deals, larger data-center plans, and novel model launches draw money back into familiar names. It’s like every new headline has tightened the link between AI spending and index ...",
-    "ingested_utc": "2025-10-14T16:17:24Z"
   }
 ]
