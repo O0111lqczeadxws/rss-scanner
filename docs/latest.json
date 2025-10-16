@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-10-16",
     "retrieved_date": "2025-10-16",
+    "retrieved_utc": "2025-10-16T17:50:50Z",
+    "source": "FinancialPost_Business",
+    "title": "Gold touches record on U.S.-China tensions and Fed rate-cut bets",
+    "url": "https://financialpost.com/investing/gold-touches-record-u-s-china-tensions-rate-cut-bets",
+    "id_key": "b9472bb87cfd9dcfbf57c45113e2c65b67a014147906de95567e29378d3083aa",
+    "summary": "Gold's momentum underpinned by U.S.-China frictions and bets that the Federal Reserve will press on with monetary easing",
+    "ingested_utc": "2025-10-16T17:50:50Z"
+  },
+  {
+    "published_utc": "2025-10-16",
+    "retrieved_date": "2025-10-16",
+    "retrieved_utc": "2025-10-16T17:50:30Z",
+    "source": "TheVerge_All",
+    "title": "Apple TV and Peacock announce a discounted $15 monthly subscription bundle",
+    "url": "https://www.theverge.com/news/800928/apple-tv-peacock-premium-plus-nbcuniversal-subscription-bundle",
+    "id_key": "a0e8525843d2fa5165c44ca01c338aedd9bd982c2f52c4f57bd8958c6927218f",
+    "summary": "Apple has partnered with NBCUniversal for a new subscription bundle that includes Apple TV and Peacock Premium for $14.99 per month, or Apple TV and the mostly ad-free Peacock Premium Plus for $19.99 per month. The newly rebranded Apple TV is $12.99 per month on its own following a price increase this summer, while Peacock […]",
+    "ingested_utc": "2025-10-16T17:50:30Z"
+  },
+  {
+    "published_utc": "2025-10-16",
+    "retrieved_date": "2025-10-16",
+    "retrieved_utc": "2025-10-16T17:47:46Z",
+    "source": "Guardian_World",
+    "title": "Marine colonel quits after 24 years citing concern for future of US under Trump",
+    "url": "https://www.theguardian.com/us-news/2025/oct/16/marine-resigns-trump-hegseth",
+    "id_key": "586eacae2d30062fff30f349277a7884b38ca95fd2f62336f4f5e643a5ca9178",
+    "summary": "Resignation, coinciding with Hegseth’s partisan speech, was over Trump flouting constitution, Doug Krugman writes A former US Marine Corps colonel and combat veteran has said that after 24 years of service he “resigned from the military because of Trump”, citing what he described as the US president’s contempt for the constitution. Doug Krugman left his role in the military on 30 September, coinciding with the day that Donald Trump and the defense secretary, Pete Hegseth , delivered controversial , partisan addresses to US military leaders brought to a special meeting in Virginia from across the world, about military priorities and the administration’s agenda. Continue reading...",
+    "ingested_utc": "2025-10-16T17:47:46Z"
+  },
+  {
+    "published_utc": "2025-10-16",
+    "retrieved_date": "2025-10-16",
     "retrieved_utc": "2025-10-16T17:44:09Z",
     "source": "Nikkei_Asia_Top",
     "title": "China robot maker Yunji rises in Hong Kong IPO, eyes Japanese market",
@@ -10965,38 +10998,5 @@
     "id_key": "dc796c539e01a911871d55057bea667fe9d04f9a28509828834470c423697a81",
     "summary": "We have some new insight into Apple’s muddled rebrand of Apple TV Plus to Apple TV, courtesy of an interview with the company’s senior vice president of services, Eddy Cue. Speaking on The Town podcast, Cue said that no consultants were involved, and that it was a collective decision to drop the “Plus” from the […]",
     "ingested_utc": "2025-10-15T09:15:39Z"
-  },
-  {
-    "published_utc": "2025-10-15",
-    "retrieved_date": "2025-10-15",
-    "retrieved_utc": "2025-10-15T09:15:39Z",
-    "source": "TheVerge_All",
-    "title": "Waymo’s robotaxis are coming to London",
-    "url": "https://www.theverge.com/news/799259/waymo-london-robotaxi-launch-2026",
-    "id_key": "e280a51a1446984af4efa84677a4f3daea71c3069c5c5bc8286ec80c37adb656",
-    "summary": "London’s iconic black cabs could soon face a new rival: Waymo. The Alphabet-owned company said today it intends to launch a fully driverless robotaxi service in London, starting in 2026 — marking its first effort to expand internationally. The UK currently doesn’t have any fully driverless vehicles on the road. The government has said it will […]",
-    "ingested_utc": "2025-10-15T09:15:39Z"
-  },
-  {
-    "published_utc": "2025-10-15",
-    "retrieved_date": "2025-10-15",
-    "retrieved_utc": "2025-10-15T09:15:25Z",
-    "source": "FT_Home",
-    "title": "Bank of England loosens banker bonus rules",
-    "url": "https://www.ft.com/content/1da21635-d7c1-4a2e-9a3e-2045a66d65ee",
-    "id_key": "d91ce6f4e87062a7c7a0e0e7aeece05879a699eb0318e71168ad5bba857793b2",
-    "summary": "Fewer restrictions on financial sector pay following changes by central bank",
-    "ingested_utc": "2025-10-15T09:15:25Z"
-  },
-  {
-    "published_utc": "2025-10-15",
-    "retrieved_date": "2025-10-15",
-    "retrieved_utc": "2025-10-15T09:15:23Z",
-    "source": "NPR_World",
-    "title": "Military seizes power in Madagascar after massive anti-government protests",
-    "url": "https://www.npr.org/2025/10/15/nx-s1-5574216/military-seizes-power-in-madagascar-after-massive-anti-government-protests",
-    "id_key": "ab612e00a0dc7f8163d09831270d95703493df2c9315370e8a7431102b0ea83d",
-    "summary": "The military in Madagascar seized power Tuesday after weeks of protests over corruption, power and water shortages forced the country's president into hiding.",
-    "ingested_utc": "2025-10-15T09:15:23Z"
   }
 ]
