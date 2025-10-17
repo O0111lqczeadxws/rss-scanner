@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-10-17",
     "retrieved_date": "2025-10-17",
+    "retrieved_utc": "2025-10-17T08:57:34Z",
+    "source": "TheVerge_All",
+    "title": "Anthropic connects Claude to Microsoft Teams, Outlook, and OneDrive",
+    "url": "https://www.theverge.com/news/801487/anthropic-claude-microsoft-365-connector-ai",
+    "id_key": "07e829acbf3a833e1835ffd28631899654acee458e0674fa342a1cb0da53a8c7",
+    "summary": "Anthropic is integrating its Claude AI assistant with Microsoft 365 services so it can surface content from Word documents, Teams messages, and Outlook emails in conversations with the chatbot. It’s part of a series of updates to Claude to make the chatbot more useful at work. Claude will now connect with Microsoft SharePoint and OneDrive […]",
+    "ingested_utc": "2025-10-17T08:57:34Z"
+  },
+  {
+    "published_utc": "2025-10-17",
+    "retrieved_date": "2025-10-17",
+    "retrieved_utc": "2025-10-17T08:57:20Z",
+    "source": "FT_Home",
+    "title": "Global stocks slide on US regional bank jitters",
+    "url": "https://www.ft.com/content/e6cd65b5-a70b-467e-9a93-6c484afb18bf",
+    "id_key": "80b79fd43808b5df71b04c91c039883eae41f6ca7dda10a0a41c83e29b4cd199",
+    "summary": "US futures fall along with European indices",
+    "ingested_utc": "2025-10-17T08:57:20Z"
+  },
+  {
+    "published_utc": "2025-10-17",
+    "retrieved_date": "2025-10-17",
     "retrieved_utc": "2025-10-17T08:47:44Z",
     "source": "Nikkei_Asia_Top",
     "title": "Editor's Choice: As US-China trade war deepens, hidden winners surface",
@@ -10976,27 +10998,5 @@
     "id_key": "4807af3c1eb8d4cb6deeeb204aa53504d51f42716efe726a0db3c69625e0cb92",
     "summary": "The new investment lifts CoinDCX’s valuation above its 2022 funding round as Coinbase deepens its presence in Asia’s crypto markets",
     "ingested_utc": "2025-10-15T16:35:51Z"
-  },
-  {
-    "published_utc": "2025-10-15",
-    "retrieved_date": "2025-10-15",
-    "retrieved_utc": "2025-10-15T16:35:36Z",
-    "source": "Guardian_World",
-    "title": "Competition regulator barking up the right tree on vets’ opaque pricing",
-    "url": "https://www.theguardian.com/business/2025/oct/15/competition-regulator-barking-up-the-right-tree-on-vets-opaque-pricing",
-    "id_key": "7b383418a5cb4eeb1940c8986cb422aee7dcbc4e562cc70a3ab8a300ed05040a",
-    "summary": "Consumers and corporates should welcome CMA proposals to overhaul regulations unchanged since the 1960s Poor Tiddles and Fido are too often getting a bad deal – or, rather, their owners are – from the large corporates that dominate the veterinary business these days. That, very roughly, is the conclusion of the Competition and Markets Authority , which was obviously barking up the right tree when it decided 18 months ago to look at a sector that can take an opaque approach to pricing its goods and services. Prices have been rising far faster than general inflation between 2016 and 2023, says the watchdog . The increases cannot be justified – at least, nothing like fully – by investment in better kit or superior services or higher salaries. And, critically, there is a big difference between the prices charged by the large chains and the independents that, pre-2013, used to represent the bulk of the industry. The CMA found that the average price charged by a practice owned by a large vet group for consultation, treatment and medicines was 16.6% higher than at an independent vet. Continue reading...",
-    "ingested_utc": "2025-10-15T16:35:36Z"
-  },
-  {
-    "published_utc": "2025-10-15",
-    "retrieved_date": "2025-10-15",
-    "retrieved_utc": "2025-10-15T16:35:36Z",
-    "source": "Guardian_World",
-    "title": "English councils to remain poorer than in 2010 despite funding rise, says report",
-    "url": "https://www.theguardian.com/society/2025/oct/15/english-councils-to-remain-poorer-than-2010-despite-funding-boost-says-report",
-    "id_key": "d281f866d0225eb62d967591a586cca37a6f250cfc2094d6c1539ec9ae135746",
-    "summary": "Exclusive: Impact of austerity cannot be undone by end of parliament despite above-inflation funding, analysis finds Councils in England will still be poorer by the end of this parliament than they were in 2010 despite Labour’s funding increases, according to analysis by the Institute for Government (IfG). Funding cuts from 2010 to 2019 were so severe that they left gaps that could not be filled even by five years of above-inflation increases, leaving local authorities increasingly reliant on emergency funding and capable of only providing legally mandated services, the report shows. Continue reading...",
-    "ingested_utc": "2025-10-15T16:35:36Z"
   }
 ]
