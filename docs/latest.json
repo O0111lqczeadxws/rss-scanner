@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-10-18",
     "retrieved_date": "2025-10-18",
+    "retrieved_utc": "2025-10-18T09:50:39Z",
+    "source": "Nikkei_Asia_Top",
+    "title": "Japan's Isuzu braces for Trump's truck tariff",
+    "url": "https://asia.nikkei.com/economy/trade-war/trump-tariffs/japan-s-isuzu-braces-for-trump-s-truck-tariff",
+    "id_key": "5d1e499bab46e39625aa7ddb8547580a3f1b31fd1dfe32705ad4e8915fa88696",
+    "summary": "",
+    "ingested_utc": "2025-10-18T09:50:39Z"
+  },
+  {
+    "published_utc": "2025-10-18",
+    "retrieved_date": "2025-10-18",
+    "retrieved_utc": "2025-10-18T09:50:26Z",
+    "source": "AlJazeera_All",
+    "title": "Iran says restrictions on nuclear programme ‘terminated’ as deal expires",
+    "url": "https://www.aljazeera.com/news/2025/10/18/iran-says-restrictions-on-nuclear-programme-terminated-as-deal-expires?traffic_source=rss",
+    "id_key": "f675452cca24a5411e029249539039a48b35e05448b802e91aadc9eae9efa71a",
+    "summary": "Iran also expresses commitment to diplomacy as landmark 10-year nuclear deal with Western powers officially ends.",
+    "ingested_utc": "2025-10-18T09:50:26Z"
+  },
+  {
+    "published_utc": "2025-10-18",
+    "retrieved_date": "2025-10-18",
     "retrieved_utc": "2025-10-18T09:38:36Z",
     "source": "FT_Home",
     "title": "Hamas returns 10th body as fragile Gaza ceasefire holds",
@@ -10975,28 +10997,6 @@
     "url": "https://www.bbc.com/news/articles/cpwvr2xpkz0o?at_medium=RSS&at_campaign=rss",
     "id_key": "87cdcd49bbe0c1991089b83b1182e554ee0533ae369fa0410f4decce31b52a29",
     "summary": "The alleged attack on the 66-year-old is said to have left him unconscious. Israel's prison service called the claim \"fake\".",
-    "ingested_utc": "2025-10-16T13:41:32Z"
-  },
-  {
-    "published_utc": "2025-10-16",
-    "retrieved_date": "2025-10-16",
-    "retrieved_utc": "2025-10-16T13:41:32Z",
-    "source": "BBC_World",
-    "title": "Kenya police fire shots and tear gas at crowds gathered to see body of ex-PM Odinga",
-    "url": "https://www.bbc.com/news/articles/cwyk1l65nqvo?at_medium=RSS&at_campaign=rss",
-    "id_key": "dcfbe0d8d4e935349b8d53c0bdb763e62c2279c7e6caf0641693e63bbea02d07",
-    "summary": "The crowds were so big that the public viewing was moved from the parliament building to a stadium.",
-    "ingested_utc": "2025-10-16T13:41:32Z"
-  },
-  {
-    "published_utc": "2025-10-16",
-    "retrieved_date": "2025-10-16",
-    "retrieved_utc": "2025-10-16T13:41:32Z",
-    "source": "BBC_World",
-    "title": "Clashes between police and Gen Z protesters in Peru leave one dead",
-    "url": "https://www.bbc.com/news/articles/czjp79j2emro?at_medium=RSS&at_campaign=rss",
-    "id_key": "675c0ea291ec74cf964089eb2572d9c16fb9d09f9fcf2087a105b91b14cb531d",
-    "summary": "The protests come just days after a new president was sworn in following Dina Boluarte's impeachment.",
     "ingested_utc": "2025-10-16T13:41:32Z"
   }
 ]
