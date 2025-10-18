@@ -2,6 +2,50 @@
   {
     "published_utc": "2025-10-18",
     "retrieved_date": "2025-10-18",
+    "retrieved_utc": "2025-10-18T16:15:27Z",
+    "source": "HackerNews_Top",
+    "title": "Event Sourcing, CQRS and Micro Services: Real FinTech Example",
+    "url": "https://lukasniessen.medium.com/this-is-a-detailed-breakdown-of-a-fintech-project-from-my-consulting-career-9ec61603709c",
+    "id_key": "b83129a011823fcd6a515233d33add48ff486cc7a57f9d8a6bbc656406b0308c",
+    "summary": "Comments",
+    "ingested_utc": "2025-10-18T16:15:27Z"
+  },
+  {
+    "published_utc": "2025-10-18",
+    "retrieved_date": "2025-10-18",
+    "retrieved_utc": "2025-10-18T16:14:53Z",
+    "source": "TechCrunch_All",
+    "title": "Too burned out to travel? This new app fakes your summer vacation photos for you",
+    "url": "https://techcrunch.com/2025/10/18/too-burned-out-to-travel-this-new-app-fakes-your-summer-vacation-photos-for-you/",
+    "id_key": "21c7694e0a0b7fa260227461fd740ed22e63211eedb97e5124a54e59bd59c463",
+    "summary": "A new iPhone app, Endless Summer, uses AI to create photorealistic vacation photos starring you — no travel required",
+    "ingested_utc": "2025-10-18T16:14:53Z"
+  },
+  {
+    "published_utc": "2025-10-18",
+    "retrieved_date": "2025-10-18",
+    "retrieved_utc": "2025-10-18T16:14:26Z",
+    "source": "NYTimes_World",
+    "title": "Israeli Military Fires on Vehicle, Saying It Crossed Gaza Cease-Fire Line",
+    "url": "https://www.nytimes.com/2025/10/18/world/middleeast/israel-military-gaza-strike-cease-fire.html",
+    "id_key": "ce3de8c32ea99ee58e30b3676623414aa7573ef8ebf036376a3ef7497699d82a",
+    "summary": "Gaza’s rescue service said at least nine people were killed in the strike in northern Gaza on Friday, a week after Israeli forces withdrew to agreed-upon lines.",
+    "ingested_utc": "2025-10-18T16:14:26Z"
+  },
+  {
+    "published_utc": "2025-10-18",
+    "retrieved_date": "2025-10-18",
+    "retrieved_utc": "2025-10-18T16:12:37Z",
+    "source": "CryptoSlate",
+    "title": "The $17 billion lesson: how retail turned Bitcoin proxy plays into pain trade",
+    "url": "https://cryptoslate.com/the-17-billion-lesson-how-retail-turned-bitcoin-proxy-plays-into-pain-trade/",
+    "id_key": "51f467c0024e87f616f2dd6ba2df649bc58e886fbe7c2493fbe6d6481a778739",
+    "summary": "There’s a grim symmetry to every crypto boom: an idea born from freedom eventually gets packaged, securitized, and sold back to the masses, this time at a hefty premium. According to a new 10XResearch report, retail investors have collectively lost $17 billion trying to gain indirect Bitcoin exposure through listed “digital asset treasury” companies like […] The post The $17 billion lesson: how retail turned Bitcoin proxy plays into pain trade appeared first on CryptoSlate .",
+    "ingested_utc": "2025-10-18T16:12:37Z"
+  },
+  {
+    "published_utc": "2025-10-18",
+    "retrieved_date": "2025-10-18",
     "retrieved_utc": "2025-10-18T15:50:06Z",
     "source": "TheVerge_All",
     "title": "Motorola’s Razr Ultra and the Marshall Emberton II top this week’s best deals",
@@ -10954,49 +10998,5 @@
     "id_key": "15193e7c94e71c0c1ea80aeb2d4fb2e3cddbf0379edcfa21fbb46d895c09bdc5",
     "summary": "In recent years, restaurants have had to walk a very fine line. To have mass appeal, chains need to offer a certain cool factor, along with good value. That's something that Chili's has managed to capture. There's nothing overly cool about the chain, but it has leaned into value which has sort of ...",
     "ingested_utc": "2025-10-16T14:54:46Z"
-  },
-  {
-    "published_utc": "2025-10-16",
-    "retrieved_date": "2025-10-16",
-    "retrieved_utc": "2025-10-16T14:54:36Z",
-    "source": "WIRED_All",
-    "title": "The Best Cat Toys for Your Furry Friend (2025)",
-    "url": "https://www.wired.com/story/best-cat-toys/",
-    "id_key": "cca227ff8fdb2ebba4c33830373002985dda99d8581ba9e1d723770d8849d1f1",
-    "summary": "Based on years of testing with our cats, these are our favorite WIRED-approved, techy cat toys and furniture.",
-    "ingested_utc": "2025-10-16T14:54:36Z"
-  },
-  {
-    "published_utc": "2025-10-16",
-    "retrieved_date": "2025-10-16",
-    "retrieved_utc": "2025-10-16T14:54:34Z",
-    "source": "TheVerge_All",
-    "title": "Google pitches Workspace tools for &#8216;when, not if&#8217; Microsoft 365 fails",
-    "url": "https://www.theverge.com/news/800829/google-workspace-microsoft-365-tools-outage-marketing",
-    "id_key": "979d80ef8b347658fe2e267ce2428bfc2d8e005a8776c519a99fca73af914659",
-    "summary": "Google is trying to capitalize on what it calls “frequent and severe” Microsoft 365 outages by offering up services like email, storage, and videoconferencing to businesses in the event of a Microsoft outage. The search giant’s new Business Continuity plan runs a Google Workspace in parallel with Microsoft 365, so if there’s an outage then […]",
-    "ingested_utc": "2025-10-16T14:54:34Z"
-  },
-  {
-    "published_utc": "2025-10-16",
-    "retrieved_date": "2025-10-16",
-    "retrieved_utc": "2025-10-16T14:54:07Z",
-    "source": "NYTimes_Business",
-    "title": "Truckers Are Struggling. Trump’s New Tariff Could Make Things Worse.",
-    "url": "https://www.nytimes.com/2025/10/16/business/trump-tariff-trucks-parts.html",
-    "id_key": "7013fc210cf147482057f163b51cfcc5404c88c4a7ecd2d7e5471d6a56d0698d",
-    "summary": "A 25 percent levy on heavy-duty trucks and parts is set to take effect next month. Companies have few details on the policy.",
-    "ingested_utc": "2025-10-16T14:54:07Z"
-  },
-  {
-    "published_utc": "2025-10-16",
-    "retrieved_date": "2025-10-16",
-    "retrieved_utc": "2025-10-16T14:51:50Z",
-    "source": "Guardian_World",
-    "title": "‘When I was a child, everyone used it’: woman blames Johnson & Johnson talc for her cancer",
-    "url": "https://www.theguardian.com/business/2025/oct/16/woman-blames-johnson-johnson-talc-cancer",
-    "id_key": "de949914d053f1e4f32f0b8a9ca618e10ba3724b167174e1c06837136c35b768",
-    "summary": "Sue Rizzello is among thousands in UK suing the firm, which denies selling baby powder containing asbestos Thousands in UK take legal action against Johnson & Johnson over alleged talc cancer link It was Sue Rizzello’s husband who persuaded her to see a doctor, concerned about the bloating in her abdomen that was making her more and more uncomfortable. Rizzello, then in her late 40s, had assumed it was menopausal weight gain, but agreed to go to her GP. “A smart locum said, ‘There’s something wrong here’, and sent me for a blood test … And that saved my life.” It was the worst news: Rizzello had stage 3 ovarian cancer that had begun to spread. She would need to begin chemotherapy immediately and prepare for the complete removal of her uterus, ovaries, fallopian tubes and omentum, a procedure that would put her into immediate menopause. Continue reading...",
-    "ingested_utc": "2025-10-16T14:51:50Z"
   }
 ]
