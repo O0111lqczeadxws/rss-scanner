@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-10-18",
     "retrieved_date": "2025-10-18",
+    "retrieved_utc": "2025-10-18T05:42:48Z",
+    "source": "FT_Home",
+    "title": "Royal London and M&G to enter Europe’s active ETF market",
+    "url": "https://www.ft.com/content/eb78e886-c552-41a2-a482-8fd8e09d2d54",
+    "id_key": "f6e7af45557fd0db281636b2974649a2729ae93e7b535734ce7001d91b541780",
+    "summary": "Asset managers keen to expand into fast-growing market",
+    "ingested_utc": "2025-10-18T05:42:48Z"
+  },
+  {
+    "published_utc": "2025-10-18",
+    "retrieved_date": "2025-10-18",
     "retrieved_utc": "2025-10-18T05:32:27Z",
     "source": "FT_Home",
     "title": "Free the government’s hands by taking back its fiscal brain",
@@ -10987,16 +10998,5 @@
     "id_key": "fab7c64ac57e6cfb1c88633653eff107098b31d954808ee69e9506cb05226d2c",
     "summary": "The government has also targeted a major Indian energy company and Chinese oil terminals in new sanctions.",
     "ingested_utc": "2025-10-16T13:05:03Z"
-  },
-  {
-    "published_utc": "2025-10-16",
-    "retrieved_date": "2025-10-16",
-    "retrieved_utc": "2025-10-16T13:05:02Z",
-    "source": "BBC_World",
-    "title": "Kenya police fire tear gas to disperse crowds at stadium to view body of ex-PM Odinga",
-    "url": "https://www.bbc.com/news/articles/cwyk1l65nqvo?at_medium=RSS&at_campaign=rss",
-    "id_key": "b9d8d63c08c4f0597d4431a70221a1158871d15859efe92062bb4f287ed00cfc",
-    "summary": "A sudden influx of mourners prompted authorities to relocate the public viewing ceremony.",
-    "ingested_utc": "2025-10-16T13:05:02Z"
   }
 ]
