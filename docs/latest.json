@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-10-18",
     "retrieved_date": "2025-10-18",
+    "retrieved_utc": "2025-10-18T17:28:02Z",
+    "source": "MarketWatch_Bulletins",
+    "title": "Gold prices are so high, even central banks are feeling FOMO",
+    "url": "https://www.marketwatch.com/bulletins/redirect/go?g=9523d813-c62b-4044-9ec6-62b6ed970597&mod=mw_rss_bulletins",
+    "id_key": "629def675814d3b0ec19d5af5a520b6d07a2a34f456ffcabd8b892fa9ebbe4ef",
+    "summary": "",
+    "ingested_utc": "2025-10-18T17:28:02Z"
+  },
+  {
+    "published_utc": "2025-10-18",
+    "retrieved_date": "2025-10-18",
+    "retrieved_utc": "2025-10-18T17:26:00Z",
+    "source": "Guardian_World",
+    "title": "York MP calls on royal family to explain source of £12m Virginia Giuffre payment",
+    "url": "https://www.theguardian.com/uk-news/2025/oct/18/york-mp-calls-on-royal-family-to-explain-source-of-12m-virginia-giuffre-payment",
+    "id_key": "e89c3235512bf7b7135334e7685ada70d955e62767607230ec096beeccd6ca98",
+    "summary": "Rachael Maskell says ‘a lot of clarity’ needed over how Prince Andrew funded settlement of sexual abuse case Why Prince Andrew is giving up his titles now – and what it means for the royal family An MP has called on the royal family to explain how Prince Andrew funded a settlement in a sexual abuse case brought by Virginia Giuffre. Rachael Maskell, who represents York Central, said “a lot of clarity” was needed regarding the reported £12m payment, made in 2022. Continue reading...",
+    "ingested_utc": "2025-10-18T17:26:00Z"
+  },
+  {
+    "published_utc": "2025-10-18",
+    "retrieved_date": "2025-10-18",
     "retrieved_utc": "2025-10-18T17:11:25Z",
     "source": "Engadget_All",
     "title": "Texas hit with a pair of lawsuits for its app store age verification requirements",
@@ -10976,27 +10998,5 @@
     "id_key": "7624baf591afa71a9c1a19e83d73e72a4aacab23910b1d3edf3e636981f0e227",
     "summary": "At the South Louisiana Ice Processing Center in Basile, detainees say they were forced into hard labor – and sexually assaulted and stalked by an assistant warden Queer and trans immigrants at a detention facility in south Louisiana have alleged that they faced sexual harassment and abuse, medical neglect and coerced labor by staff at the facility, and that they were repeatedly ignored or faced retaliation for speaking out. In multiple legal complaints, immigrants detained at the South Louisiana Ice Processing Center (SLIPC) in Basile, Louisiana, said they were recruited into an unsanctioned work program that forced them to perform hard manual labor for as little as $1 per day. Detainees also alleged that queer people were targeted by an assistant warden who stalked, harassed and sexually assaulted them. Continue reading...",
     "ingested_utc": "2025-10-16T15:14:20Z"
-  },
-  {
-    "published_utc": "2025-10-16",
-    "retrieved_date": "2025-10-16",
-    "retrieved_utc": "2025-10-16T15:12:47Z",
-    "source": "Unchained",
-    "title": "Sui-Based Typus Finance Loses $3.4 Million in Hack",
-    "url": "https://unchainedcrypto.com/sui-based-typus-finance-loses-3-4-million-in-hack/",
-    "id_key": "994f38bc212f3eed2d40910beea9f60239b38d06c1f2526cc54f7d0bc8889a1d",
-    "summary": "Typus Finance, a decentralized finance (DeFi) platform built on the Sui blockchain, lost $3.4 million in an exploit. “Approximately one hour ago, our TLP [Typus liquidity pool] contract was exploited via an oracle vulnerability regarding a lack of authority checks,” said Typus Finance in an X post at 10:18 a.m. ... The post Sui-Based Typus Finance Loses $3.4 Million in Hack appeared first on Unchained .",
-    "ingested_utc": "2025-10-16T15:12:47Z"
-  },
-  {
-    "published_utc": "2025-10-16",
-    "retrieved_date": "2025-10-16",
-    "retrieved_utc": "2025-10-16T15:12:47Z",
-    "source": "Unchained",
-    "title": "Coinbase Adds Rival Binance’s BNB to Listing Roadmap",
-    "url": "https://unchainedcrypto.com/coinbase-adds-rival-binances-bnb-to-listing-roadmap/",
-    "id_key": "38e5ad8dadfa4da14572e904c32a98342f664af5163d6e5b0ab583aad685541c",
-    "summary": "Coinbase has added BNB, the native token of Binance-backed BNB Chain, to its asset listing roadmap. The addition of BNB marks a historic first for Coinbase, as it represents explicit support for a token issued by its largest competitor, Binance. Coinbase announced the move shortly after unveiling its “Blue Carpet” ... The post Coinbase Adds Rival Binance’s BNB to Listing Roadmap appeared first on Unchained .",
-    "ingested_utc": "2025-10-16T15:12:47Z"
   }
 ]
