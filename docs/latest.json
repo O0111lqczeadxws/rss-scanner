@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-10-18",
     "retrieved_date": "2025-10-18",
+    "retrieved_utc": "2025-10-18T07:35:57Z",
+    "source": "AlJazeera_All",
+    "title": "China Eastern Airlines to resume flights to India after five-year freeze",
+    "url": "https://www.aljazeera.com/news/2025/10/18/china-eastern-airlines-to-resume-flights-to-india-after-five-year-freeze?traffic_source=rss",
+    "id_key": "fd683635f93613c667589f572941f2eb46ca1d930b55cbf51b6fd3a6beb94891",
+    "summary": "Commercial flights between the countries to restart as diplomatic thaw eases tensions over border clashes.",
+    "ingested_utc": "2025-10-18T07:35:57Z"
+  },
+  {
+    "published_utc": "2025-10-18",
+    "retrieved_date": "2025-10-18",
+    "retrieved_utc": "2025-10-18T07:35:57Z",
+    "source": "AlJazeera_All",
+    "title": "Israel kills 11 Palestinian family members in Gaza’s deadliest truce breach",
+    "url": "https://www.aljazeera.com/news/2025/10/18/israel-kills-11-palestinian-family-members-in-gazas-deadliest-truce-breach?traffic_source=rss",
+    "id_key": "ec3d53cd730948265bc09cfcf99214a591023dfce5d93a8d770a979eda51f494",
+    "summary": "Strike on civilian vehicle by Israeli military marks deadliest violation of eight-day ceasefire with Hamas.",
+    "ingested_utc": "2025-10-18T07:35:57Z"
+  },
+  {
+    "published_utc": "2025-10-18",
+    "retrieved_date": "2025-10-18",
     "retrieved_utc": "2025-10-18T07:25:18Z",
     "source": "Guardian_World",
     "title": "Chen Ning Yang, Chinese-American physicist and Nobel laureate, dies at 103",
@@ -10976,27 +10998,5 @@
     "id_key": "f343f8ce96a4059799c367f252942da745eeed86e04c72a44b5a81120ff1f4c9",
     "summary": "A trader dubbed \"Trump's insider\" opened a $120 million to $127 million Bitcoin short position at $111,386 ahead of a presidential announcement maintaining a 100% win rate after generating $190 million to $200 million in profits from October 11's market crash that triggered $19 billion in liquidations. The post Bitcoin Holding Strong, Yet Trump Insider Opens Massive $120M Short Position – New Crash Coming? appeared first on Cryptonews .",
     "ingested_utc": "2025-10-16T13:05:28Z"
-  },
-  {
-    "published_utc": "2025-10-16",
-    "retrieved_date": "2025-10-16",
-    "retrieved_utc": "2025-10-16T13:05:26Z",
-    "source": "CryptoBriefing",
-    "title": "Hyperliquid short whale moves 2,000 Bitcoin to Coinbase, signaling potential selling pressure",
-    "url": "https://cryptobriefing.com/hyperliquid-whale-moves-bitcoin-to-coinbase/",
-    "id_key": "edbe173ed35b4dd9ea4f151df60eaabb9256a6805df4166ba16c076d56b34c55",
-    "summary": "This move could increase market volatility and influence Bitcoin's price dynamics, affecting investor sentiment and trading strategies. The post Hyperliquid short whale moves 2,000 Bitcoin to Coinbase, signaling potential selling pressure appeared first on Crypto Briefing .",
-    "ingested_utc": "2025-10-16T13:05:26Z"
-  },
-  {
-    "published_utc": "2025-10-16",
-    "retrieved_date": "2025-10-16",
-    "retrieved_utc": "2025-10-16T13:05:25Z",
-    "source": "CryptoSlate",
-    "title": "Can Solana’s $11.6B staking reboot pull liquidity from Ethereum’s L2s?",
-    "url": "https://cryptoslate.com/can-solanas-11-6b-staking-reboot-pull-liquidity-from-ethereums-l2s/",
-    "id_key": "d5603cd1687b1f4c8ef1087b794fdcb43e58e02699a81303da98aed026295043",
-    "summary": "Nansen and Sanctum have launched a new liquid staking framework on Solana designed to make staking SOL as easy as swapping a token. The system, dubbed the “universal staking router”, links multiple liquid staking tokens (LSTs) such as mSOL, jitoSOL, and bSOL into one standardized route. Instead of users choosing individual validators or juggling different […] The post Can Solana’s $11.6B staking reboot pull liquidity from Ethereum’s L2s? appeared first on CryptoSlate .",
-    "ingested_utc": "2025-10-16T13:05:25Z"
   }
 ]
