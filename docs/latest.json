@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-10-18",
     "retrieved_date": "2025-10-18",
+    "retrieved_utc": "2025-10-18T16:36:25Z",
+    "source": "Engadget_All",
+    "title": "Court reduces damages Meta will get from spyware maker NSO Group but bans it from WhatsApp",
+    "url": "https://www.engadget.com/cybersecurity/court-reduces-damages-meta-will-get-from-spyware-maker-nso-group-but-bans-it-from-whatsapp-163016648.html?src=rss",
+    "id_key": "da3c1f57fb4b6049a233684ec96c203aafc22d23b2167cdc8401f89d00340a95",
+    "summary": "US District Judge Phyllis Hamilton has reduced the damages Meta is getting from the NSO Group from $167 million to $4 million, but she has also ordered the Israeli spyware maker to stop targeting WhatsApp. If you'll recall, Meta sued the NSO Group in 2019 over its Pegasus spyware, which it said was used to spy on 1,400 people from 20 countries, including journalists and human rights activists. Meta said at the time that Pegasus can infect targets' devices even without their participation by sending text messages with malicious codes to WhatsApp. Even a missed call is enough to infect somebody's device. According to Courthouse News Service , Hamilton reduced the damages because they would need to follow a legal framework designed to proportionate damages. However, she has also handed down a permanent injunction on the NSO Group's efforts to break into WhatsApp. In her decision, she took note of statements made by NSO's lawyers and its own CEO revealing that it hasn't stopped collecting WhatsApp messages and trying to get around the messaging app's security measures. The defendants previously said that the injunction Meta was requesting would \"put NSO’s entire enterprise at risk\" and \"force NSO out of business,\" since WhatsApp is one of the Pegasus spyware's main ways to infect targets' devices. \"Today’s ruling bans spyware maker NSO from ever targeting WhatsApp and our global users again,\" said Will Cathcart, Head of WhatsApp. \"We applaud this decision that comes after six years of litigation to hold NSO accountable for targeting members of civil society. It sets an important precedent that there are serious consequences to attacking an American company.\" Hamilton wrote that the proposed injunction requires the Israeli company to delete and destroy computer code related to Meta's platforms, and that she concluded that the provision is \"necessary to prevent future violations, especially given the undetectable nature of defendants’ technology.\" It's not quite clear how Meta will ensure that the NSO Group doesn't use WhatsApp to infect its users' devices again. Notably, the NSO Group was recently acquired by an American investment group that invested tens of millions of dollars into it to take controlling ownership. This article originally appeared on Engadget at https://www.engadget.com/cybersecurity/court-reduces-damages-meta-will-get-from-spyware-maker-nso-group-but-bans-it-from-whatsapp-163016648.html?src=rss",
+    "ingested_utc": "2025-10-18T16:36:25Z"
+  },
+  {
+    "published_utc": "2025-10-18",
+    "retrieved_date": "2025-10-18",
+    "retrieved_utc": "2025-10-18T16:33:38Z",
+    "source": "Guardian_World",
+    "title": "Israel has violated ceasefire 47 times and killed 38 Palestinians, says Gaza media office",
+    "url": "https://www.theguardian.com/world/2025/oct/18/israel-has-violated-ceasefire-47-times-and-killed-38-palestinians-says-gaza-media-office",
+    "id_key": "5ec7db479c495c53df48cfb43a7b5e9826f43a8d73368d035b3aaa89a83b4619",
+    "summary": "Authorities urge UN to intervene ‘to protect unarmed civilian populations’ after attack on bus that killed 11 Gaza’s media office has accused Israel of violating the ceasefire with Hamas 47 times since the truce came into effect in early October, killing 38 Palestinians and wounding another 143. “These violations have included crimes of direct gunfire against civilians, deliberate shelling and targeting, and the arrest of a number of civilians, reflecting the occupation’s continued policy of aggression despite the declared end of the war,” reads the statement. Continue reading...",
+    "ingested_utc": "2025-10-18T16:33:38Z"
+  },
+  {
+    "published_utc": "2025-10-18",
+    "retrieved_date": "2025-10-18",
+    "retrieved_utc": "2025-10-18T16:33:38Z",
+    "source": "Guardian_World",
+    "title": "No Kings protest live updates: New York and Atlanta kick off nationwide day of protest",
+    "url": "https://www.theguardian.com/us-news/live/2025/oct/18/anti-trump-no-kings-protests-updates",
+    "id_key": "87279ad40550e7c4e3561be708dafae5bd3f7cec83e6e2042a30f78e6ae70f8e",
+    "summary": "Bernie Sanders to headline rally in Washington DC as other Democratic officials lend support No Kings: what to know about the anti-Trump protests attracting millions Democratic officials across the US have posted in support of the No Kings protests. The Senate minority leader, Chuck Schumer, wrote on Saturday morning in a social media post : “Do not let Donald Trump and Republicans intimidate you into silence. That’s what they want to do. They’re afraid of the truth. Speak out, use your voice, and exercise your right to free speech.” “They have a ‘Hate America’ rally that’s scheduled for October 18 on the National Mall,” the House speaker, Mike Johnson , said on Fox News on Friday. “It’s all the pro-Hamas wing and, you know, the antifa people. They’re all coming out.” The Republican Minnesota congressman Tom Emmer said the party’s “terrorist wing” was holding the “Hate America” rally. “Democrats want to keep the government shut down to show all those people that are going to come here and express their hatred towards this country that they’re fighting President Trump,” said the House majority leader , Steve Scalise. The transportation secretary, Sean Duffy, embellished the story on Fox , referring to the demonstrations’ “paid protesters” and adding: “It begs the question who’s funding it.” Continue reading...",
+    "ingested_utc": "2025-10-18T16:33:38Z"
+  },
+  {
+    "published_utc": "2025-10-18",
+    "retrieved_date": "2025-10-18",
     "retrieved_utc": "2025-10-18T16:15:27Z",
     "source": "HackerNews_Top",
     "title": "Event Sourcing, CQRS and Micro Services: Real FinTech Example",
@@ -10965,38 +10998,5 @@
     "id_key": "fb18db7d9ab678422442c0ea7efe55ea31f08cacd4ffa7c413bad4994d34ef25",
     "summary": "Party tries to reassure its MPs about proposed scheme and gather ideas on how it could improve public services UK politics live – latest updates Ministers have launched a charm offensive to win over sceptical Labour MPs to back the digital ID scheme, asking MPs to offer ideas about how it could improve public services. The outreach is part of a broader loyalty and delivery drive to soothe tensions after a fractious few months for the government. Continue reading...",
     "ingested_utc": "2025-10-16T15:12:22Z"
-  },
-  {
-    "published_utc": "2025-10-16",
-    "retrieved_date": "2025-10-16",
-    "retrieved_utc": "2025-10-16T15:12:21Z",
-    "source": "Guardian_Business",
-    "title": "Head of IMF says risks in non-bank lending keep her awake at night",
-    "url": "https://www.theguardian.com/business/2025/oct/16/head-of-imf-says-risks-in-non-bank-lending-keep-her-awake-at-night",
-    "id_key": "4931f554953295cdedb3fcaded11a0a84d981d4a794b4f35818c0169af33088e",
-    "summary": "Kristalina Georgieva urges vigilance over ‘very significant shift of financing’ after collapse of Tricolor and First Brands The head of the International Monetary Fund has admitted that worrying about the risks building up in non-bank lending markets keeps her awake at night. Kristalina Georgieva on Thursday urged countries to pay more attention to the private credit market, after the failure of sub-prime auto lender Tricolor and the car parts supplier First Brands . Continue reading...",
-    "ingested_utc": "2025-10-16T15:12:21Z"
-  },
-  {
-    "published_utc": "2025-10-16",
-    "retrieved_date": "2025-10-16",
-    "retrieved_utc": "2025-10-16T14:54:53Z",
-    "source": "FinancialPost_Business",
-    "title": "Stocks Get AI Lift as Trump, Putin to Speak Today: Markets Wrap",
-    "url": "https://financialpost.com/pmn/business-pmn/stocks-get-tech-boost-as-tsmc-rekindles-ai-wagers-markets-wrap",
-    "id_key": "fc4bb042a1c2754b1c05cf569574b9c7ab2765ea43c0945f17c52bb37616464b",
-    "summary": "Wall Street traders brushed aside worries about a tech bubble to send stocks higher after a strong outlook from Taiwan Semiconductor Manufacturing Co. bolstered confidence in the artificial-intelligence boom.",
-    "ingested_utc": "2025-10-16T14:54:53Z"
-  },
-  {
-    "published_utc": "2025-10-16",
-    "retrieved_date": "2025-10-16",
-    "retrieved_utc": "2025-10-16T14:54:46Z",
-    "source": "TheStreet_Top",
-    "title": "Popular pub and bar chain files Chapter 11 bankruptcy",
-    "url": "https://www.thestreet.com/restaurants/popular-pub-and-bar-chain-files-chapter-11-bankruptcy",
-    "id_key": "15193e7c94e71c0c1ea80aeb2d4fb2e3cddbf0379edcfa21fbb46d895c09bdc5",
-    "summary": "In recent years, restaurants have had to walk a very fine line. To have mass appeal, chains need to offer a certain cool factor, along with good value. That's something that Chili's has managed to capture. There's nothing overly cool about the chain, but it has leaned into value which has sort of ...",
-    "ingested_utc": "2025-10-16T14:54:46Z"
   }
 ]
