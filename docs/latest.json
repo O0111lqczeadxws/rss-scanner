@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-10-18",
     "retrieved_date": "2025-10-18",
+    "retrieved_utc": "2025-10-18T07:10:29Z",
+    "source": "BBC_Business",
+    "title": "Families being priced out of London, Assembly told",
+    "url": "https://www.bbc.com/news/articles/c0l7pzx6602o?at_medium=RSS&at_campaign=rss",
+    "id_key": "63cb10e695948c1bb59cf2d657ca3601b3b6aa4a73cb196dd522acfc20db3795",
+    "summary": "There has been a drop in birth rates and the number of children living in London, experts say.",
+    "ingested_utc": "2025-10-18T07:10:29Z"
+  },
+  {
+    "published_utc": "2025-10-18",
+    "retrieved_date": "2025-10-18",
+    "retrieved_utc": "2025-10-18T07:10:28Z",
+    "source": "BBC_World",
+    "title": "Ohtani rewrites history to send Dodgers to World Series",
+    "url": "https://www.bbc.com/sport/baseball/articles/cy40p88wzelo?at_medium=RSS&at_campaign=rss",
+    "id_key": "e0ee88585f613facd9beade63eed202aa3e99c3337c14b65504c6c4024cc0cb2",
+    "summary": "Shohei Ohtani deliverers one of the greatest performances in baseball history as defending champions the Los Angeles Dodgers beat the Milwaukee Brewers to reach the World Series.",
+    "ingested_utc": "2025-10-18T07:10:28Z"
+  },
+  {
+    "published_utc": "2025-10-18",
+    "retrieved_date": "2025-10-18",
     "retrieved_utc": "2025-10-18T06:42:36Z",
     "source": "AlJazeera_All",
     "title": "Thousands evacuate Philippine coast as Tropical Storm Fengshen approaches",
@@ -10976,27 +10998,5 @@
     "id_key": "569a2ce6ece98f518dfb6a046fc79e71ab100ba345c735edac257636cb75831c",
     "summary": "Bitcoin Magazine Kenya’s New VASP Law: A No-BS Legal Guide for Bitcoin and Crypto Builders This is a clear, candid, and practical explainer for Kenyan Bitcoin and crypto company founders, lawyers, compliance officers, and informed readers seeking a concise legal summary of the Virtual Asset Service Providers Act — what it regulates, what it doesn't, and what you need to know to stay compliant whilst preserving your freedom to innovate. This post Kenya’s New VASP Law: A No-BS Legal Guide for Bitcoin and Crypto Builders first appeared on Bitcoin Magazine and is written by Robert Kirubi .",
     "ingested_utc": "2025-10-16T13:05:23Z"
-  },
-  {
-    "published_utc": "2025-10-16",
-    "retrieved_date": "2025-10-16",
-    "retrieved_utc": "2025-10-16T13:05:21Z",
-    "source": "Blockworks",
-    "title": "Figment acquires staking analytics firm Rated",
-    "url": "https://blockworks.co/news/figment-acquires-rated",
-    "id_key": "f8b4e9ff6ca69dcec9bc81dcf7c16678f1ca299a2f3622b8f4e59f2045e7ad7a",
-    "summary": "The move marks the first acquisition for the institutional staking outfit",
-    "ingested_utc": "2025-10-16T13:05:21Z"
-  },
-  {
-    "published_utc": "2025-10-16",
-    "retrieved_date": "2025-10-16",
-    "retrieved_utc": "2025-10-16T13:05:21Z",
-    "source": "Blockworks",
-    "title": "CME Group hits $900B in Q3 crypto derivatives as ETH leads surge",
-    "url": "https://blockworks.co/news/cme-group-hits-900b-in-q3-crypto-derivatives-as-eth-leads-surge",
-    "id_key": "cbb5dd60fa73b8c97ffb10becae01f87acbb86918ae19f42eede4d2153ec821f",
-    "summary": "CME Group logged $900B in crypto derivatives volume in Q3 2025",
-    "ingested_utc": "2025-10-16T13:05:21Z"
   }
 ]
