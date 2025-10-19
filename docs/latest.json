@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-10-19",
     "retrieved_date": "2025-10-19",
+    "retrieved_utc": "2025-10-19T07:49:51Z",
+    "source": "FT_Home",
+    "title": "US warns Hamas is planning attack on Palestinians in Gaza",
+    "url": "https://www.ft.com/content/dd5f0651-e410-4404-abe1-492a6a10a255",
+    "id_key": "84951d4b855bc4b7cdd59fd8eeeb3b8d17db0ac6cc11c580b21e929ce7cc1b0d",
+    "summary": "Militant group rejects allegations and says it will not violate ceasefire agreement",
+    "ingested_utc": "2025-10-19T07:49:51Z"
+  },
+  {
+    "published_utc": "2025-10-19",
+    "retrieved_date": "2025-10-19",
     "retrieved_utc": "2025-10-19T07:27:35Z",
     "source": "AlJazeera_All",
     "title": "Hamas rejects US claim on Gaza ceasefire violation as ‘Israeli propaganda’",
@@ -10986,17 +10997,6 @@
     "url": "https://financialpost.com/pmn/september-home-sales-up-5-as-real-estate-association-expects-strong-end-to-the-year-2",
     "id_key": "785cab30f65a2cc8c7ad3f76c0ea15f694aee7421ee6993d7b90f60bf8eadc25",
     "summary": "The Canadian Real Estate Association has upgraded its forecast for home sales in 2025, saying it now expects a softer decline this year as activity continues to rebound. It comes as September home sales rose 5.2 per cent from a year ago, marking the most activity for the month since 2021. There were 39,700 home […]",
-    "ingested_utc": "2025-10-16T17:13:20Z"
-  },
-  {
-    "published_utc": "2025-10-16",
-    "retrieved_date": "2025-10-16",
-    "retrieved_utc": "2025-10-16T17:13:20Z",
-    "source": "FinancialPost_Business",
-    "title": "Total Energy Services Inc. Extends Existing Credit Facilities",
-    "url": "https://financialpost.com/globe-newswire/total-energy-services-inc-extends-existing-credit-facilities",
-    "id_key": "0e76499d46cde0e8ba7ee0be4308801e7e9b84393d5487b9c04dcf5059c650cc",
-    "summary": "CALGARY, Alberta, Oct. 16, 2025 (GLOBE NEWSWIRE) — Total Energy Services Inc. (“Total Energy”) (TSX:TOT) announces that it has extended its $170 million revolving syndicated bank credit facilities (the “Credit Facility”) to January 10, 2029. Other than the extension of the maturity date, there were no changes to the terms and conditions of the Credit […]",
     "ingested_utc": "2025-10-16T17:13:20Z"
   }
 ]
