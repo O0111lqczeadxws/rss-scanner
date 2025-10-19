@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-10-19",
     "retrieved_date": "2025-10-19",
+    "retrieved_utc": "2025-10-19T17:11:25Z",
+    "source": "NYTimes_World",
+    "title": "Israel Suspends Aid and Strikes Gaza After Accusing Hamas of Violating Truce",
+    "url": "https://www.nytimes.com/2025/10/19/world/middleeast/israel-gaza-ceasefire.html",
+    "id_key": "0b66c6dd7e0475d1aed66254ec93e800733b1198b9aa988900416cc6a90488c9",
+    "summary": "Israel said Palestinian militants attacked its forces across cease-fire lines and launched a wave of attacks on Gaza. Both sides still say they are committed to the truce.",
+    "ingested_utc": "2025-10-19T17:11:25Z"
+  },
+  {
+    "published_utc": "2025-10-19",
+    "retrieved_date": "2025-10-19",
+    "retrieved_utc": "2025-10-19T17:09:12Z",
+    "source": "BBC_World",
+    "title": "Ex-Kenyan leader Raila Odinga buried after days of memorial events",
+    "url": "https://www.bbc.com/news/articles/cgjd6j3j099o?at_medium=RSS&at_campaign=rss",
+    "id_key": "c42a8c27820171c60c38c0ec4920856d924b2551b479d70aad27a307b49a3e7a",
+    "summary": "Supporters of the long-time opposition leaders have held several days of massive events to mark his death.",
+    "ingested_utc": "2025-10-19T17:09:12Z"
+  },
+  {
+    "published_utc": "2025-10-19",
+    "retrieved_date": "2025-10-19",
     "retrieved_utc": "2025-10-19T16:51:51Z",
     "source": "AlJazeera_All",
     "title": "Israeli strikes kill 15 in Gaza as both sides say the other breached truce",
@@ -10976,27 +10998,5 @@
     "id_key": "357a4a4f7862c8756219f6dfd78003ae889c1c0f4766916b134fe0d6031bf52b",
     "summary": "",
     "ingested_utc": "2025-10-16T20:50:00Z"
-  },
-  {
-    "published_utc": "2025-10-16",
-    "retrieved_date": "2025-10-16",
-    "retrieved_utc": "2025-10-16T20:48:17Z",
-    "source": "CryptoNews",
-    "title": "Bitpanda Expands to Latin America Through Partnership with Brazil’s Ondo Finance",
-    "url": "https://cryptonews.com/news/bitpanda-expands-to-latin-america-through-partnership-with-brazils-ondo-finance/",
-    "id_key": "ba3bd2bcf71e40e315da2e67fa2a3d259bdb6409cc42aa7213b9edc69df9cbb8",
-    "summary": "Bitpanda has expanded into Brazil through Onda Finance, its first Latin America partnership. Onda has used Bitpanda’s API-first infrastructure for trading, custody and liquidity, with stablecoin-led rollout, optional staking and savings, and BYOL compliance aligned to local rules. The post Bitpanda Expands to Latin America Through Partnership with Brazil’s Ondo Finance appeared first on Cryptonews .",
-    "ingested_utc": "2025-10-16T20:48:17Z"
-  },
-  {
-    "published_utc": "2025-10-16",
-    "retrieved_date": "2025-10-16",
-    "retrieved_utc": "2025-10-16T20:48:12Z",
-    "source": "BitcoinMagazine",
-    "title": "Bitcoin Mining Stocks Tumble: $BITF, $MARA, and $RIOT See Deep Red",
-    "url": "https://bitcoinmagazine.com/markets/bitcoin-mining-stocks-tumble",
-    "id_key": "b5f880fcf695fe9e04d8be58c25e98c733ae8a46a31ab84a02c2912cb7218984",
-    "summary": "Bitcoin Magazine Bitcoin Mining Stocks Tumble: $BITF, $MARA, and $RIOT See Deep Red Bitcoin mining and crypto stocks felt the pain today as the broader market sold off following Bitcoin’s third straight day of declines. This post Bitcoin Mining Stocks Tumble: $BITF, $MARA, and $RIOT See Deep Red first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
-    "ingested_utc": "2025-10-16T20:48:12Z"
   }
 ]
