@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-10-19",
     "retrieved_date": "2025-10-19",
+    "retrieved_utc": "2025-10-19T07:27:35Z",
+    "source": "AlJazeera_All",
+    "title": "Hamas rejects US claim on Gaza ceasefire violation as ‘Israeli propaganda’",
+    "url": "https://www.aljazeera.com/news/2025/10/19/us-claims-gaza-ceasefire-in-jeopardy-as-hamas-plans-attack?traffic_source=rss",
+    "id_key": "6fc14c4c80bcc6fd8e9e61885b5bfdbe61a5bbecf1f1928534c5dcbe357e29ce",
+    "summary": "US State Department claims Palestinian group planning attack against Gaza civilians 'in grave violation of ceasefire'.",
+    "ingested_utc": "2025-10-19T07:27:35Z"
+  },
+  {
+    "published_utc": "2025-10-19",
+    "retrieved_date": "2025-10-19",
+    "retrieved_utc": "2025-10-19T07:24:38Z",
+    "source": "BBC_World",
+    "title": "US warns Hamas is planning 'imminent' attack on Gaza civilians in breach of ceasefire",
+    "url": "https://www.bbc.com/news/articles/cm2elr16jjqo?at_medium=RSS&at_campaign=rss",
+    "id_key": "080c5b5e685a7821d50d4291691c5dbb89aae2dda60b86073a290f27a873338b",
+    "summary": "The US state department says the move would be a violation of the ceasefire deal, but did not give further details.",
+    "ingested_utc": "2025-10-19T07:24:38Z"
+  },
+  {
+    "published_utc": "2025-10-19",
+    "retrieved_date": "2025-10-19",
     "retrieved_utc": "2025-10-19T07:10:02Z",
     "source": "Guardian_World",
     "title": "Penalties for unpaid carers in benefits scandal must be halted, says Ed Davey",
@@ -10976,27 +10998,5 @@
     "id_key": "0e76499d46cde0e8ba7ee0be4308801e7e9b84393d5487b9c04dcf5059c650cc",
     "summary": "CALGARY, Alberta, Oct. 16, 2025 (GLOBE NEWSWIRE) — Total Energy Services Inc. (“Total Energy”) (TSX:TOT) announces that it has extended its $170 million revolving syndicated bank credit facilities (the “Credit Facility”) to January 10, 2029. Other than the extension of the maturity date, there were no changes to the terms and conditions of the Credit […]",
     "ingested_utc": "2025-10-16T17:13:20Z"
-  },
-  {
-    "published_utc": "2025-10-16",
-    "retrieved_date": "2025-10-16",
-    "retrieved_utc": "2025-10-16T17:13:14Z",
-    "source": "AlJazeera_All",
-    "title": "Police in Kenya fire tear gas to disperse mourners at Raila Odinga viewing",
-    "url": "https://www.aljazeera.com/news/2025/10/16/police-in-kenya-fire-tear-gas-to-disperse-mourners-at-raila-odinga-viewing?traffic_source=rss",
-    "id_key": "4e6e95f9f2f3f49ffa254d723e7d029c13aa0ecd246b6f37273e99d95f1fc552",
-    "summary": "At least three people were injured after security forces fired tear gas to disperse the crowds at Nairobi sports centre.",
-    "ingested_utc": "2025-10-16T17:13:14Z"
-  },
-  {
-    "published_utc": "2025-10-16",
-    "retrieved_date": "2025-10-16",
-    "retrieved_utc": "2025-10-16T17:13:14Z",
-    "source": "AlJazeera_All",
-    "title": "Israel’s relentless bombing of Gaza hinders recovery of captives’ bodies",
-    "url": "https://www.aljazeera.com/video/newsfeed/2025/10/16/israels-relentless-bombing-of-gaza-hinders-recovery-of-captives-bodies?traffic_source=rss",
-    "id_key": "ca2eedba03ced1af8d169a15b5e095632157a8dd4d4ae78dc2954d0e8ad0c9a7",
-    "summary": "Israel says Hamas is failing to meet commitments under Trump’s Gaza ceasefire plan.",
-    "ingested_utc": "2025-10-16T17:13:14Z"
   }
 ]
