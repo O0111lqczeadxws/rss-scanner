@@ -2,6 +2,50 @@
   {
     "published_utc": "2025-10-19",
     "retrieved_date": "2025-10-19",
+    "retrieved_utc": "2025-10-19T20:14:23Z",
+    "source": "AlJazeera_All",
+    "title": "Israeli strikes kill 42 in Gaza as both sides say the other breached truce",
+    "url": "https://www.aljazeera.com/news/2025/10/19/israeli-strikes-kill-15-in-gaza-as-both-sides-say-the-other-breached-truce?traffic_source=rss",
+    "id_key": "a3752be9c3ec28ed84d08de3b5544e0dd17789409c64313f346b14eaa13224fa",
+    "summary": "Hamas maintains it is abiding by ceasefire as Israel launches at least 20 air strikes on targets in southern Gaza.",
+    "ingested_utc": "2025-10-19T20:14:23Z"
+  },
+  {
+    "published_utc": "2025-10-19",
+    "retrieved_date": "2025-10-19",
+    "retrieved_utc": "2025-10-19T20:14:12Z",
+    "source": "ArsTechnica_All",
+    "title": "Something from “space” may have just struck a United Airlines flight over Utah",
+    "url": "https://arstechnica.com/space/2025/10/something-from-space-may-have-just-struck-a-united-airlines-flight-over-utah/",
+    "id_key": "94d087abe0b2f06bb18bdc71c55e8658281c51c463b520c3d8dbed62f2ebdefb",
+    "summary": "\"NTSB gathering radar, weather, flight recorder data.\"",
+    "ingested_utc": "2025-10-19T20:14:12Z"
+  },
+  {
+    "published_utc": "2025-10-19",
+    "retrieved_date": "2025-10-19",
+    "retrieved_utc": "2025-10-19T20:13:51Z",
+    "source": "NPR_Top",
+    "title": "Masked thieves steal 'priceless' jewels from the Louvre Museum",
+    "url": "https://www.npr.org/2025/10/19/nx-s1-5579509/thieves-steal-priceless-jewels-louvre",
+    "id_key": "d8fc404211bd745f76eb4d14be97ae1a2f59fd1d2dc99283230c473f28422d1b",
+    "summary": "French Interior Minister Laurent Nuñez called the heist \"a major, highly organized operation\" that lasted just seven minutes. Authorities were still drawing up the value of the stolen items.",
+    "ingested_utc": "2025-10-19T20:13:51Z"
+  },
+  {
+    "published_utc": "2025-10-19",
+    "retrieved_date": "2025-10-19",
+    "retrieved_utc": "2025-10-19T20:11:21Z",
+    "source": "BBC_World",
+    "title": "'Priceless' jewels stolen in raid on Louvre Museum in Paris",
+    "url": "https://www.bbc.com/news/articles/c78z53v43g1o?at_medium=RSS&at_campaign=rss",
+    "id_key": "849e19ce531952d16d209defbc5d61d5571de10637dec003ab27ea85f66e7d07",
+    "summary": "A masked gang targeted France's crown jewels during a brazen daylight raid.",
+    "ingested_utc": "2025-10-19T20:11:21Z"
+  },
+  {
+    "published_utc": "2025-10-19",
+    "retrieved_date": "2025-10-19",
     "retrieved_utc": "2025-10-19T19:50:26Z",
     "source": "HackerNews_Top",
     "title": "Could the XZ backdoor been detected with better Git/Deb packaging practices?",
@@ -10954,49 +10998,5 @@
     "id_key": "fc442267319283c674ca1f3592db6f60f9c281aae72dbcd193c56bc629df1468",
     "summary": "Copilot expands with an emphasis on creating and editing files, voice input.",
     "ingested_utc": "2025-10-16T21:35:58Z"
-  },
-  {
-    "published_utc": "2025-10-16",
-    "retrieved_date": "2025-10-16",
-    "retrieved_utc": "2025-10-16T21:33:41Z",
-    "source": "CryptoNews",
-    "title": "Ocean vs. Fetch.ai Turns Ugly: Inside the $84M ASI Token Scandal Tearing Crypto’s AI Giants Apart",
-    "url": "https://cryptonews.com/news/ocean-vs-fetch-ai-turns-ugly-inside-the-84m-asi-token-scandal-tearing-cryptos-ai-giants-apart/",
-    "id_key": "c27ec35188fc27377650452804156863026e3a16d85606a95d91206d58778a6f",
-    "summary": "Ocean Fetch.ai AI Token dispute has intensified as Ocean has exited the ASI Alliance and formal arbitration has begun. Accusations over 286M FET conversions, Binance’s deposit change, and price declines have unsettled governance and left holders seeking clarity. The post Ocean vs. Fetch.ai Turns Ugly: Inside the $84M ASI Token Scandal Tearing Crypto’s AI Giants Apart appeared first on Cryptonews .",
-    "ingested_utc": "2025-10-16T21:33:41Z"
-  },
-  {
-    "published_utc": "2025-10-16",
-    "retrieved_date": "2025-10-16",
-    "retrieved_utc": "2025-10-16T21:33:18Z",
-    "source": "Guardian_World",
-    "title": "Starmer condemns ‘wrong decision’ to ban Maccabi Tel Aviv fans from Aston Villa game",
-    "url": "https://www.theguardian.com/football/2025/oct/16/maccabi-tel-aviv-fans-banned-from-game-at-aston-villa-in-europa-league",
-    "id_key": "294a98443ea1da24d18c95dabbfbaf2a5594eec7e27d9966613a96e51af73738",
-    "summary": "Europa League match is classified ‘high risk’ by police Keir Starmer: ‘We will not tolerate antisemitism’ Fans of Maccabi Tel Aviv will not be allowed to attend the Europa League match at Aston Villa on 6 November owing to safety concerns. West Midlands police said they had classified the fixture as “high risk” based on “current intelligence and previous incidents, ­including ­violent clashes and hate crime offences that occurred during the 2024 Uefa Europa League match between Ajax and ­Maccabi Tel Aviv in Amsterdam ”. Continue reading...",
-    "ingested_utc": "2025-10-16T21:33:18Z"
-  },
-  {
-    "published_utc": "2025-10-16",
-    "retrieved_date": "2025-10-16",
-    "retrieved_utc": "2025-10-16T21:33:18Z",
-    "source": "Guardian_World",
-    "title": "Sam Fender wins 2025 Mercury prize for his album People Watching",
-    "url": "https://www.theguardian.com/music/2025/oct/16/mercury-prize-winner-sam-fender-people-watching",
-    "id_key": "57a332df4df944dcec2b2cfa372afebb98cd616b34e7a16ee263ef252bc5e8b1",
-    "summary": "Geordie singer-songwriter’s album reached No 1 on the UK album chart, and led to a series of stadium-sized concerts this summer Sam Fender is the winner of the 2025 Mercury prize, for his chart-topping album People Watching. Announcing the award, Sian Eleri, BBC radio DJ and one of the judges on the judging panel, said the album was characterised by “cohesion, character and ambition. It felt like a classic album, one that will take pride of place in record collections for years to come”. Continue reading...",
-    "ingested_utc": "2025-10-16T21:33:18Z"
-  },
-  {
-    "published_utc": "2025-10-16",
-    "retrieved_date": "2025-10-16",
-    "retrieved_utc": "2025-10-16T21:27:53Z",
-    "source": "FinancialPost_Business",
-    "title": "Labour Minister Piccini Must Resign Over Skills Development Slush Fund Report: CUPE Ontario",
-    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/labour-minister-piccini-must-resign-over-skills-development-slush-fund-report-cupe-ontario",
-    "id_key": "6c3a982fc663bc2e8c915bb2edd619f240ceb422e87ff52ccffcc830f9c8020b",
-    "summary": "– “Accountability isn’t optional, even for Ford Conservatives” – TORONTO — The Ford Conservatives have been marked by scandal in many forms, but recent revelations by Ontario’s auditor general about the government’s Skills Development Fund are more evidence of corruption at the highest levels, said CUPE Ontario, the public sector union demanding accountability from Labour […]",
-    "ingested_utc": "2025-10-16T21:27:53Z"
   }
 ]
