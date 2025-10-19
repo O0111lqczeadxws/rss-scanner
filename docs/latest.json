@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-10-19",
     "retrieved_date": "2025-10-19",
+    "retrieved_utc": "2025-10-19T20:32:46Z",
+    "source": "Engadget_All",
+    "title": "China claims the NSA conducted cyberattacks on its national time center",
+    "url": "https://www.engadget.com/cybersecurity/china-claims-the-nsa-conducted-cyberattacks-on-its-national-time-center-201852066.html?src=rss",
+    "id_key": "a73574b5aec7a2a25bddd01ecac8d29daea49d48a587ee6b73eab3f7deb8a218",
+    "summary": "As political tensions between the two global superpowers grow, China's State Security Ministry accused the US' National Security Agency of a cyberattack operation that took place between 2023 and 2024. As first reported by Reuters , the Chinese agency posted on WeChat that the NSA targeted the country's National Time Service Center. As part of the Chinese Academy of Sciences, the center is tasked with generating, maintaining and transmitting its national standard of time, which is provided to important sectors across the country, including communications, defense and finance. The state ministry said the operation used around 42 types of \"special cyberattack weapons\" to infiltrate the National Time Service Center which could have led to the disruption of network communications, financial systems and power supply. The WeChat post also claimed that the NSA exploited vulnerabilities in a foreign mobile phone brand's messaging system to steal sensitive info from staff devices, without naming the brand. The NSA has yet to respond to the accusation. On the other hand, the US Treasury Department said it was targeted by a \"China state-sponsored actor\" in a December cyberattack . This article originally appeared on Engadget at https://www.engadget.com/cybersecurity/china-claims-the-nsa-conducted-cyberattacks-on-its-national-time-center-201852066.html?src=rss",
+    "ingested_utc": "2025-10-19T20:32:46Z"
+  },
+  {
+    "published_utc": "2025-10-19",
+    "retrieved_date": "2025-10-19",
     "retrieved_utc": "2025-10-19T20:14:23Z",
     "source": "AlJazeera_All",
     "title": "Israeli strikes kill 42 in Gaza as both sides say the other breached truce",
@@ -10987,16 +10998,5 @@
     "id_key": "577db902eb1dcb095440abb271695d342b8c6cfae705c64a0db7f64213c8b16d",
     "summary": "TORONTO, Oct. 16, 2025 (GLOBE NEWSWIRE) — DPM Metals Inc. (TSX: DPM, ASX: DPM) (ARBN: 689370894) (“DPM” or “the Company”) announces that, as a result of a review (the “Review”) of the existing technical report on the Vareš Mine by staff of the Ontario Securities Commission (the “OSC”), the Company is issuing the following news […]",
     "ingested_utc": "2025-10-16T21:36:16Z"
-  },
-  {
-    "published_utc": "2025-10-16",
-    "retrieved_date": "2025-10-16",
-    "retrieved_utc": "2025-10-16T21:35:58Z",
-    "source": "ArsTechnica_All",
-    "title": "AI-powered features begin creeping deeper into the bedrock of Windows 11",
-    "url": "https://arstechnica.com/gadgets/2025/10/microsofts-vision-for-ai-pcs-looks-a-lot-like-another-crack-at-cortana/",
-    "id_key": "fc442267319283c674ca1f3592db6f60f9c281aae72dbcd193c56bc629df1468",
-    "summary": "Copilot expands with an emphasis on creating and editing files, voice input.",
-    "ingested_utc": "2025-10-16T21:35:58Z"
   }
 ]
