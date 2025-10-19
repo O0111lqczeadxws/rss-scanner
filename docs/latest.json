@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-10-19",
     "retrieved_date": "2025-10-19",
+    "retrieved_utc": "2025-10-19T18:16:16Z",
+    "source": "NYTimes_World",
+    "title": "Israel Strikes Gaza and Temporarily Halts Aid, Saying Hamas Broke Truce",
+    "url": "https://www.nytimes.com/2025/10/19/world/middleeast/israel-gaza-ceasefire.html",
+    "id_key": "9eef86a988386d8f835a6b7206aaf188f04a90445974f26937e9e7920a255af6",
+    "summary": "Israel launched a wave of attacks on Gaza after accusing Palestinian militants of attacking its forces across cease-fire lines. Both sides say they are still committed to the truce.",
+    "ingested_utc": "2025-10-19T18:16:16Z"
+  },
+  {
+    "published_utc": "2025-10-19",
+    "retrieved_date": "2025-10-19",
+    "retrieved_utc": "2025-10-19T18:14:03Z",
+    "source": "Guardian_World",
+    "title": "Palestinians in Gaza fear ceasefire ‘could collapse at any moment’",
+    "url": "https://www.theguardian.com/world/2025/oct/19/palestinians-in-gaza-fear-ceasefire-could-collapse-at-any-moment",
+    "id_key": "1c7bf9d066313d5a8bfbb961bd82524ce022e8d8a0ca8f57a04889f57b959b1f",
+    "summary": "Wave of Israeli airstrikes leave nine-day truce teetering as residents recall previous dashed peace hopes Middle East crisis – live updates For two years, Ismail Baba had dreamed of a ceasefire. The father of four had been displaced 11 times during the war in Gaza and was struggling to find adequate food for his children amid a worsening hunger crisis. When a ceasefire was announced last week, Baba thought he could finally relax. Though his home was still plagued by chaos, at least he knew that his family would not be struck by an Israeli bomb. The fleeting peace, however, was shattered this morning by a wave of Israeli airstrikes across Gaza, after Israel claimed Hamas militants targeted its troops in southern Gaza. Continue reading...",
+    "ingested_utc": "2025-10-19T18:14:03Z"
+  },
+  {
+    "published_utc": "2025-10-19",
+    "retrieved_date": "2025-10-19",
     "retrieved_utc": "2025-10-19T17:50:37Z",
     "source": "FinancialPost_Business",
     "title": "Five things to watch for in the Canadian business world in the coming week",
@@ -10976,27 +10998,5 @@
     "id_key": "9343f3fdc1ef182062c64f712bffdfa4c593f8469d9aafd2a9ac5a065e9ff7be",
     "summary": "Move is latest by justice department against US president’s critics",
     "ingested_utc": "2025-10-16T21:12:39Z"
-  },
-  {
-    "published_utc": "2025-10-16",
-    "retrieved_date": "2025-10-16",
-    "retrieved_utc": "2025-10-16T21:12:27Z",
-    "source": "NYTimes_World",
-    "title": "2 Dead After Kenyan Police Fire Bullets at Raila Odinga Memorial",
-    "url": "https://www.nytimes.com/2025/10/16/world/africa/kenya-police-raila-odinga-memorial.html",
-    "id_key": "db2d63a66c5fb8fbfeb5dfc59b0b6f5d8bb2b87f6f3148e92d380a4057748538",
-    "summary": "The deadly tumult was the latest example of officers’ using force to quell demonstrations in the country.",
-    "ingested_utc": "2025-10-16T21:12:27Z"
-  },
-  {
-    "published_utc": "2025-10-16",
-    "retrieved_date": "2025-10-16",
-    "retrieved_utc": "2025-10-16T21:12:26Z",
-    "source": "NYTimes_Business",
-    "title": "Trump Moves to Pay ICE Agents During Shutdown",
-    "url": "https://www.nytimes.com/2025/10/16/business/trump-ice-pay.html",
-    "id_key": "39dc771966ad937e6b0be6be66cc4e84929c441cbe4c2fe56536d3201d64e870",
-    "summary": "The move, funded by the recently enacted tax package, is Mr. Trump’s latest effort to pay some federal workers even though Congress has not approved a spending deal.",
-    "ingested_utc": "2025-10-16T21:12:26Z"
   }
 ]
