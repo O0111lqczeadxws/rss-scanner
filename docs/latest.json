@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-10-19",
     "retrieved_date": "2025-10-19",
+    "retrieved_utc": "2025-10-19T19:36:28Z",
+    "source": "HackerNews_Top",
+    "title": "The AI bubble is 17 times bigger than the dot-com bust",
+    "url": "https://www.cnn.com/2025/10/18/business/ai-bubble-analyst-nightcap",
+    "id_key": "1f0132a0212c640f4e92f2df44dc1f263c151847f75341434859ca61b097aca7",
+    "summary": "Comments",
+    "ingested_utc": "2025-10-19T19:36:28Z"
+  },
+  {
+    "published_utc": "2025-10-19",
+    "retrieved_date": "2025-10-19",
+    "retrieved_utc": "2025-10-19T19:33:12Z",
+    "source": "BBC_World",
+    "title": "Israel says it will return to ceasefire after Gaza strikes",
+    "url": "https://www.bbc.com/news/articles/cm2elr16jjqo?at_medium=RSS&at_campaign=rss",
+    "id_key": "f6cb04c34683e5c11b69b50b5288747d27c97c2a4453f7410505c3f98b66aa3d",
+    "summary": "Israel and Hamas accused one another of breaching the deal, which came into force on 10 October.",
+    "ingested_utc": "2025-10-19T19:33:12Z"
+  },
+  {
+    "published_utc": "2025-10-19",
+    "retrieved_date": "2025-10-19",
     "retrieved_utc": "2025-10-19T19:22:34Z",
     "source": "Guardian_World",
     "title": "Louvre heist: hunt on for thieves after eight ‘priceless’ jewellery pieces stolen",
@@ -10976,27 +10998,5 @@
     "id_key": "aa614ef215754f3e55aad1f3ee8afcc11c575d5d684f799c72dd40504900e5b0",
     "summary": "The charges come two months after the FBI executed a search warrant at Bolton's suburban Washington home.",
     "ingested_utc": "2025-10-16T21:27:13Z"
-  },
-  {
-    "published_utc": "2025-10-16",
-    "retrieved_date": "2025-10-16",
-    "retrieved_utc": "2025-10-16T21:27:05Z",
-    "source": "NYTimes_World",
-    "title": "Trump Warns Hamas of Strikes if Violence in Gaza Continues",
-    "url": "https://www.nytimes.com/2025/10/16/us/politics/trump-hamas-warnings-gaza-strikes.html",
-    "id_key": "9a47a3a9bf24f6a1e831f1c37ced988e654a9470ea65bbacacd36cc3e005d0e2",
-    "summary": "The president later clarified that the United States would not be involved in such an action.",
-    "ingested_utc": "2025-10-16T21:27:05Z"
-  },
-  {
-    "published_utc": "2025-10-16",
-    "retrieved_date": "2025-10-16",
-    "retrieved_utc": "2025-10-16T21:27:05Z",
-    "source": "NYTimes_World",
-    "title": "What’s Next for the Gaza Cease-Fire Plan",
-    "url": "https://www.nytimes.com/video/world/middleeast/100000010458240/whats-next-for-the-gaza-cease-fire-plan.html",
-    "id_key": "56ecc18bcf3af03b414267330a8eab4421f6336c261f585a07f5d7f807d744e4",
-    "summary": "Israel and Hamas have reached a cease-fire deal in Gaza, but the hard part starts now. David Sanger of The New York Times describes the major obstacles to further agreement about Gaza’s immediate future.",
-    "ingested_utc": "2025-10-16T21:27:05Z"
   }
 ]
