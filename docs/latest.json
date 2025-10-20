@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-10-20",
     "retrieved_date": "2025-10-20",
+    "retrieved_utc": "2025-10-20T19:37:19Z",
+    "source": "Nikkei_Asia_Top",
+    "title": "Yageo completes bid for Shibaura, capping lengthy takeover battle",
+    "url": "https://asia.nikkei.com/business/business-deals/yageo-completes-bid-for-shibaura-capping-lengthy-takeover-battle",
+    "id_key": "722a065533400a909c8eeaa3c7de93dc5e6255c3157ffe26812848d3f23222f9",
+    "summary": "",
+    "ingested_utc": "2025-10-20T19:37:19Z"
+  },
+  {
+    "published_utc": "2025-10-20",
+    "retrieved_date": "2025-10-20",
+    "retrieved_utc": "2025-10-20T19:33:37Z",
+    "source": "Blockworks",
+    "title": "ZachXBT links $3M XRP theft to wallet-draining phishing ring",
+    "url": "https://blockworks.co/news/3-million-xrp-theft",
+    "id_key": "3b2ca01f63ca186871c14506546d2ac20cc8b6d802c17daf707619747c8f072a",
+    "summary": "ZachXBT says $3 million worth of XRP from a crypto user in the US was laundered through Huione-linked OTC venues",
+    "ingested_utc": "2025-10-20T19:33:37Z"
+  },
+  {
+    "published_utc": "2025-10-20",
+    "retrieved_date": "2025-10-20",
     "retrieved_utc": "2025-10-20T19:29:09Z",
     "source": "FinancialPost_Business",
     "title": "F5, Inc. INVESTIGATION: Kirby McInerney LLP Announces Investigation Into Potential Securities Fraud on behalf of Investors (FFIV)",
@@ -10976,27 +10998,5 @@
     "id_key": "386ff7c0d8b31003da624e055d198962b1b8f76ab8f08eef089b5dca1d5e8eac",
     "summary": "VANCOUVER, British Columbia, Oct. 17, 2025 (GLOBE NEWSWIRE) — Koryx Copper Inc. (the “Company“) (TSX-V: KRY) (NSX: KYX) is pleased to announce the voting results of the Company’s special meeting of shareholders (the “Meeting“) held on October 15, 2025 to approve the transfer of the Company’s registered office and place of central administration to the […]",
     "ingested_utc": "2025-10-17T19:36:24Z"
-  },
-  {
-    "published_utc": "2025-10-17",
-    "retrieved_date": "2025-10-17",
-    "retrieved_utc": "2025-10-17T19:36:18Z",
-    "source": "AlJazeera_All",
-    "title": "Georgian police raid homes of former officials including ex-prime minister",
-    "url": "https://www.aljazeera.com/news/2025/10/17/georgian-police-raid-homes-of-former-officials-including-ex-prime-minister?traffic_source=rss",
-    "id_key": "d368492093507133db31ba7d3c5668611e51618572f46f6f11e2cab7eb586dd4",
-    "summary": "Authorities in Georgia have been clamping down on figures accused of trying to overthrow the government.",
-    "ingested_utc": "2025-10-17T19:36:18Z"
-  },
-  {
-    "published_utc": "2025-10-17",
-    "retrieved_date": "2025-10-17",
-    "retrieved_utc": "2025-10-17T19:36:18Z",
-    "source": "AlJazeera_All",
-    "title": "‘We fear for my father’s life’: Marwan Barghouti’s son to Al Jazeera",
-    "url": "https://www.aljazeera.com/video/newsfeed/2025/10/17/we-fear-for-my-fathers-life-marwan-barghoutis-son-to-al-jazeera?traffic_source=rss",
-    "id_key": "6298708c5934cf8c5ad662bd3c742c3ca5b29ccbf76624080dc9bbc6e3fd4e10",
-    "summary": "The son of imprisoned Palestinian political leader Marwan Barghouti says his family fears for their father’s life.",
-    "ingested_utc": "2025-10-17T19:36:18Z"
   }
 ]
