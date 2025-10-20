@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-10-20",
     "retrieved_date": "2025-10-20",
+    "retrieved_utc": "2025-10-20T11:37:57Z",
+    "source": "FinancialPost_Business",
+    "title": "Widespread AWS outage hits financial, consumer sites",
+    "url": "https://financialpost.com/technology/widespread-aws-outage-financial-consumer-sites",
+    "id_key": "3b8406e716b99c0dcb20d32b613910eb677995035605da7f26140ffc51aedbaa",
+    "summary": "Coinbase, Robinhood, Perplexity and Tottenham Hotspur are among those impacted",
+    "ingested_utc": "2025-10-20T11:37:57Z"
+  },
+  {
+    "published_utc": "2025-10-20",
+    "retrieved_date": "2025-10-20",
+    "retrieved_utc": "2025-10-20T11:35:06Z",
+    "source": "BitcoinMagazine",
+    "title": "How a 2014 Essay Shockingly Predicted the Era of Corporate Bitcoin Treasuries",
+    "url": "https://bitcoinmagazine.com/bitcoin-for-corporations/2014-bitcoin-essay-predicts-bitcoin-treasuries",
+    "id_key": "9bd4e3dd10edcf08ea9b3ae2c7cf5a4551f2ae535bd45227b2039f405b22c654",
+    "summary": "Bitcoin Magazine How a 2014 Essay Shockingly Predicted the Era of Corporate Bitcoin Treasuries In 2014, Pierre Rochard described how strong money would drive out weak. Eleven years later, corporations building bitcoin treasuries are proving him right. This post How a 2014 Essay Shockingly Predicted the Era of Corporate Bitcoin Treasuries first appeared on Bitcoin Magazine and is written by Nick Ward .",
+    "ingested_utc": "2025-10-20T11:35:06Z"
+  },
+  {
+    "published_utc": "2025-10-20",
+    "retrieved_date": "2025-10-20",
+    "retrieved_utc": "2025-10-20T11:34:48Z",
+    "source": "Guardian_World",
+    "title": "Weather tracker: Eight dead as Tropical Storm Fengshen hits Philippines",
+    "url": "https://www.theguardian.com/environment/2025/oct/20/weather-tracker-dead-as-tropical-storm-fengshen-hits-philippines",
+    "id_key": "b4857ce56cfdecf0d85d0235cf55f36c7245f2708b68db41197535bfd48f074f",
+    "summary": "Tens of thousands evacuated amid significant damage from intense rainfall and storm surge Eight people have died and 27,000 have been evacuated after Tropical Storm Fengshen hit the Philippines during the weekend. Fengshen made landfall from the western Pacific Ocean near the municipality of Gubat on the southern tip of the island of Luzon, and while it remains on the weaker side in terms of sustained winds, the intense rainfall and a storm surge have caused significant damage across the region. Anticipated waves of 2 metres (6ft) led the Philippines weather bureau, Pagasa, to issue a risk warning of moderate coastal flooding for the region. Twenty-seven thousand people were evacuated from the Albay province because of these warnings and moved to a safer area further inland. Despite the precautionary measures, five people died when a tree fell on to a house near Pitogo on Sunday morning. Continue reading...",
+    "ingested_utc": "2025-10-20T11:34:48Z"
+  },
+  {
+    "published_utc": "2025-10-20",
+    "retrieved_date": "2025-10-20",
     "retrieved_utc": "2025-10-20T11:29:10Z",
     "source": "TechCrunch_All",
     "title": "Amazon DNS outage breaks much of the internet",
@@ -10965,38 +10998,5 @@
     "id_key": "34a208f1e58e653399c12439a3472e2715fddc0524146d7b5ded2a317b0fce99",
     "summary": "Bitcoin extended its week-long decline, sliding to its lowest level since July as renewed US–China trade tensions and heavy fund outflows forced another wave of liquidations across crypto markets. According to CryptoSlate data, Bitcoin fell over 5% in the past 24 hours to as low as $103,300 after trading near $112,000 earlier in the week. […] The post Why Bitcoin price just plummeted under $104k to lowest level since June appeared first on CryptoSlate .",
     "ingested_utc": "2025-10-17T11:25:17Z"
-  },
-  {
-    "published_utc": "2025-10-17",
-    "retrieved_date": "2025-10-17",
-    "retrieved_utc": "2025-10-17T11:24:57Z",
-    "source": "Guardian_World",
-    "title": "US anti-vax stance to blame for continent-wide surge in measles, say experts",
-    "url": "https://www.theguardian.com/global-development/2025/oct/17/health-infectious-diseases-vaccination-measles-us-robert-kennedy-latin-america-antivax-blamed-cases-deaths-rise",
-    "id_key": "54ab89c2b32daa32309888ff66f90f7232c0a7faa8ea3d7e93717aa29c9bd0fc",
-    "summary": "The disease was eliminated across the Americas in 2024, but urgent vaccination drives are now under way as cases rise from Mexico to Bolivia after outbreaks farther north Governments across Latin America are stepping up efforts to vaccinate their populations against measles, as outbreaks in North America drive a 34-fold increase in the number of cases reported in the region this year. Measles cases have surged worldwide to a 25-year high, due to low vaccine coverage and the spread of misinformation about vaccine safety. However, there is added concern in parts of Latin America over unequal access to healthcare and the worrying situation in the US, which is facing its worst measles outbreak in decades following a reversal of vaccine policy led by Donald Trump’s health secretary, Robert F Kennedy Jr. Continue reading...",
-    "ingested_utc": "2025-10-17T11:24:57Z"
-  },
-  {
-    "published_utc": "2025-10-17",
-    "retrieved_date": "2025-10-17",
-    "retrieved_utc": "2025-10-17T11:24:57Z",
-    "source": "Guardian_World",
-    "title": "King Charles to be first reigning English monarch in 500 years to pray publicly with pope",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/17/king-charles-first-reigning-english-monarch-500-years-pray-publicly-pope",
-    "id_key": "465f98e8fa732877ef15926bbdbfef361bc2ec6b3ba58a51fa45a86972438d6f",
-    "summary": "Monarch will join Pope Leo XIV at an ecumenical service in Sistine Chapel during visit to the Vatican next month King Charles will become the first reigning English monarch since Henry VIII split from Rome in 1534 to pray publicly with a pope during his state visit to the Holy See next week. The king will join Pope Leo XIV at an ecumenical service in the Sistine Chapel during his visit with the queen to the Vatican on 22-23 October, a gesture regarded as a “significant moment” in relations between the Catholic church and the Church of England, of which Charles is supreme governor. Continue reading...",
-    "ingested_utc": "2025-10-17T11:24:57Z"
-  },
-  {
-    "published_utc": "2025-10-17",
-    "retrieved_date": "2025-10-17",
-    "retrieved_utc": "2025-10-17T11:24:57Z",
-    "source": "Guardian_World",
-    "title": "Government U-turns on support for bird-friendly swift bricks in new homes",
-    "url": "https://www.theguardian.com/environment/2025/oct/17/government-u-turns-on-support-for-bird-friendly-swift-bricks-in-new-homes",
-    "id_key": "d11e3f4cc6e0da458c5d4d3c071030d635a4d0a513d98dae899b90ea043581ce",
-    "summary": "Steve Reed previously said he was in favour of requiring one hollow brick for cavity-nesting creatures in every new-build The government is refusing to support a new amendment to install a swift brick in every new home, in a U-turn for Steve Reed after becoming housing secretary. As environment secretary, Reed told campaigner Hannah Bourne-Taylor she was “pushing at an open door” and he and others had wanted to add to the party’s manifesto her proposal that developers must include a £35 hollow brick in every new home. Continue reading...",
-    "ingested_utc": "2025-10-17T11:24:57Z"
   }
 ]
