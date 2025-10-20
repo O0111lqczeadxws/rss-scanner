@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-10-20",
     "retrieved_date": "2025-10-20",
+    "retrieved_utc": "2025-10-20T10:53:04Z",
+    "source": "NYTimes_World",
+    "title": "Australia Says Chinese Fighter Jet Released Flares Near Its Military Plane",
+    "url": "https://www.nytimes.com/2025/10/20/world/asia/china-fighter-jets-australia.html",
+    "id_key": "c9219def4c3ce89e4d1a3a1e7fab932a5e1ec6c50c5ae9344d202478c3e2039f",
+    "summary": "The incident in the South China Sea on Sunday highlights tension in a region where China is demonstrating its growing military capabilities.",
+    "ingested_utc": "2025-10-20T10:53:04Z"
+  },
+  {
+    "published_utc": "2025-10-20",
+    "retrieved_date": "2025-10-20",
+    "retrieved_utc": "2025-10-20T10:53:03Z",
+    "source": "NYTimes_Business",
+    "title": "Cargo Plane Slides Off Hong Kong Runway, Killing 2 Ground Crew",
+    "url": "https://www.nytimes.com/2025/10/19/world/asia/emirates-hong-kong-cargo-plane.html",
+    "id_key": "7e0bb69977c29a2186bc20595054b2f416d31d8c41433e277e6a9db940a320a6",
+    "summary": "The Boeing 747-400, arriving from Dubai, skidded off the runway after landing and fell into the sea, Hong Kong officials said.",
+    "ingested_utc": "2025-10-20T10:53:03Z"
+  },
+  {
+    "published_utc": "2025-10-20",
+    "retrieved_date": "2025-10-20",
+    "retrieved_utc": "2025-10-20T10:50:57Z",
+    "source": "Guardian_World",
+    "title": "Amazon Web Services outage hitting platforms around world ‘showing signs of recovery’",
+    "url": "https://www.theguardian.com/technology/2025/oct/20/amazon-web-services-aws-outage-hits-dozens-websites-apps",
+    "id_key": "323798b9c5e5d3755d8596c4b4b58c3664fac7aa0d33a14b1e96c86e34337bcd",
+    "summary": "Problem that originated in US and affected Snapchat and Ring among others appears to be IT issue rather than cyber-attack, says expert Business live – latest updates A major internet outage has hit dozens of websites and apps around the world, with users reporting trouble getting online after problems at Amazon’s cloud computing service. The affected platforms include Snapchat, Roblox, Signal and Duolingo as well as a host of Amazon-owned operations including its main retail site and the Ring doorbell company. Continue reading...",
+    "ingested_utc": "2025-10-20T10:50:57Z"
+  },
+  {
+    "published_utc": "2025-10-20",
+    "retrieved_date": "2025-10-20",
     "retrieved_utc": "2025-10-20T10:40:00Z",
     "source": "MIT_TechReview",
     "title": "Flowers of the future",
@@ -10965,38 +10998,5 @@
     "id_key": "895037641d63df0c157a7c4e3033c2d6c069b1087caac041159106c681805e6d",
     "summary": "Could this be a blueprint for the nation?",
     "ingested_utc": "2025-10-17T11:12:06Z"
-  },
-  {
-    "published_utc": "2025-10-17",
-    "retrieved_date": "2025-10-17",
-    "retrieved_utc": "2025-10-17T11:10:04Z",
-    "source": "CryptoNews",
-    "title": "Crypto Funding Surges Past $19B in 2025 as October Raises Hit $2.5B",
-    "url": "https://cryptonews.com/news/crypto-funding-surges-past-19b-in-2025-as-october-raises-hit-2-5b/",
-    "id_key": "29c8fc080f6df2ddb2f5228e1a37892c6126316aa13f8551a1c0904cc8714839",
-    "summary": "Crypto fundraising accelerated sharply in October, with 27 blockchain and digital asset companies securing more than $2.5 billion. The post Crypto Funding Surges Past $19B in 2025 as October Raises Hit $2.5B appeared first on Cryptonews .",
-    "ingested_utc": "2025-10-17T11:10:04Z"
-  },
-  {
-    "published_utc": "2025-10-17",
-    "retrieved_date": "2025-10-17",
-    "retrieved_utc": "2025-10-17T11:10:02Z",
-    "source": "Protos",
-    "title": "Ripple thinks its SPAC can break XRP stocks losing streak",
-    "url": "https://protos.com/ripple-thinks-its-spac-can-break-xrp-stocks-losing-streak/",
-    "id_key": "4ee4bf905a49cfd957c02a1c3af382e3bcb0c3a2205bc9de65368468eba221cf",
-    "summary": "The history of failed XRP DATs is long, and successes are almost non-existent. However, Ripple is excited about adding another to the list. The post Ripple thinks its SPAC can break XRP stocks losing streak appeared first on Protos .",
-    "ingested_utc": "2025-10-17T11:10:02Z"
-  },
-  {
-    "published_utc": "2025-10-17",
-    "retrieved_date": "2025-10-17",
-    "retrieved_utc": "2025-10-17T11:09:42Z",
-    "source": "Guardian_World",
-    "title": "China threatens UK with ‘consequences’ over delayed London mega embassy",
-    "url": "https://www.theguardian.com/world/2025/oct/17/china-accuses-uk-of-bad-faith-over-delayed-embassy-project",
-    "id_key": "79338b6d42e6b6c704349f9f424a462fc4e43e2111059b671158e51b42b09c9c",
-    "summary": "Diplomatic tensions escalate amid rows over planning hold-ups and collapse of spying trial UK politics live – latest updates Tensions between Britain and China have escalated after Beijing criticised further delays to a planning decision on its proposed “mega embassy” in London. China’s ministry of foreign affairs expressed “grave concern and strong dissatisfaction” after Steve Reed, the housing secretary, pushed back his final decision on the proposal until 10 December. Continue reading...",
-    "ingested_utc": "2025-10-17T11:09:42Z"
   }
 ]
