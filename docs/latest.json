@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-10-20",
     "retrieved_date": "2025-10-20",
+    "retrieved_utc": "2025-10-20T22:44:18Z",
+    "source": "TheStreet_Top",
+    "title": "More police agencies adopt AI, raising efficiency — and concern",
+    "url": "https://www.thestreet.com/technology/more-police-agencies-adopt-ai-raising-efficiency-and-concern",
+    "id_key": "0944e15bdef573f2ca1d9ba98e659f7d5634b69117a1626000bf925ad6913916",
+    "summary": "What would Joe Friday say? The legendary TV detective, portrayed by Jack Webb in the long-running show \"Dragnet,\" who famously wanted just the facts, would be shocked to see the impact artificial intelligence is having on modern-day crimefighting. Police departments have been making use of such ...",
+    "ingested_utc": "2025-10-20T22:44:18Z"
+  },
+  {
+    "published_utc": "2025-10-20",
+    "retrieved_date": "2025-10-20",
     "retrieved_utc": "2025-10-20T22:33:53Z",
     "source": "FinancialPost_Business",
     "title": "Outages like Amazon’s cloud services bound to repeat: experts",
@@ -10987,16 +10998,5 @@
     "id_key": "eec1db75a687229ea590fbb8e187bdfefd81b885a5d14b501257896a56277cb3",
     "summary": "The Xbox Ally X isn't the handheld console the name implies. But it's still sold out, despite debuting as fans rage against price increase to Game Pass.",
     "ingested_utc": "2025-10-18T08:16:09Z"
-  },
-  {
-    "published_utc": "2025-10-17",
-    "retrieved_date": "2025-10-18",
-    "retrieved_utc": "2025-10-18T06:39:36Z",
-    "source": "BBC_World",
-    "title": "Zelensky fails to secure Tomahawk missiles at talks with Trump",
-    "url": "https://www.bbc.com/news/articles/c93dqew8l3xo?at_medium=RSS&at_campaign=rss",
-    "id_key": "fefa080c6bbeeb711ea310091425d722aebc458d8f956ead1cd51472178ae2ff",
-    "summary": "Following the meeting, Trump calls for Kyiv and Moscow to \"stop where they are\" and end the war.",
-    "ingested_utc": "2025-10-18T06:39:36Z"
   }
 ]
