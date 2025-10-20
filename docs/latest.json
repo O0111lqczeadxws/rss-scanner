@@ -772,6 +772,17 @@
   {
     "published_utc": "2025-10-19",
     "retrieved_date": "2025-10-20",
+    "retrieved_utc": "2025-10-20T05:47:43Z",
+    "source": "BBC_Business",
+    "title": "Bankers on edge, a gilded cash room and US blaming China - my week with global finance elite",
+    "url": "https://www.bbc.com/news/articles/c3970pnlr0xo?at_medium=RSS&at_campaign=rss",
+    "id_key": "eeaaca1f1d694e81eed7b955fce30049af67885ec7d71195b3908bf4ad1e19b3",
+    "summary": "After five days talking to ministers, bankers and trade negotiators at the IMF, the BBC's Faisal Islam assesses the global outlook.",
+    "ingested_utc": "2025-10-20T05:47:43Z"
+  },
+  {
+    "published_utc": "2025-10-19",
+    "retrieved_date": "2025-10-20",
     "retrieved_utc": "2025-10-20T05:34:24Z",
     "source": "BBC_World",
     "title": "Stolen treasures, a crown dropped as thieves fled - and serious questions for Louvre security",
@@ -10987,16 +10998,5 @@
     "id_key": "2b89ea10441eb52a0bad0f44844adf3d66b922c7ab4510555c6ffd13aba11644",
     "summary": "While previous presidents have introduced policies that have helped supporters, such incidents are now more common and overt",
     "ingested_utc": "2025-10-17T04:16:33Z"
-  },
-  {
-    "published_utc": "2025-10-17",
-    "retrieved_date": "2025-10-17",
-    "retrieved_utc": "2025-10-17T04:16:18Z",
-    "source": "NYTimes_Business",
-    "title": "Trump Refiles $15 Billion Lawsuit Against The New York Times",
-    "url": "https://www.nytimes.com/2025/10/17/business/media/trump-lawsuit-new-york-times.html",
-    "id_key": "fb215afb783401dd004f438160b8fd4c00bef4cb0bde6bafb56ded2c69298b68",
-    "summary": "A federal judge had previously dismissed the complaint as unnecessarily lengthy and digressive. The president claims that The Times sought to defame him during the 2024 election.",
-    "ingested_utc": "2025-10-17T04:16:18Z"
   }
 ]
