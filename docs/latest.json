@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-10-20",
     "retrieved_date": "2025-10-20",
+    "retrieved_utc": "2025-10-20T23:37:00Z",
+    "source": "TheStreet_Top",
+    "title": "Walmart is selling a 'plush and cozy' cloud sectional sofa for $387",
+    "url": "https://www.thestreet.com/deals/fvbeaya-cloud-sectional-sofa-walmart-flash-sale",
+    "id_key": "142ff5eea4b51be2f00df26c70674c21cdf806e43410ff1ba61825a6126bd588",
+    "summary": "It's a \"relaxing spot to sink into after a long day.\"",
+    "ingested_utc": "2025-10-20T23:37:00Z"
+  },
+  {
+    "published_utc": "2025-10-20",
+    "retrieved_date": "2025-10-20",
     "retrieved_utc": "2025-10-20T23:29:30Z",
     "source": "FinancialPost_Business",
     "title": "Prabowo Begins Year Two With Cool Indonesia Growth, Silent Polls",
@@ -10987,16 +10998,5 @@
     "id_key": "af8b9b7460802383ef39215b2397b472a57b175d2869a00df0d3bad264dd8688",
     "summary": "",
     "ingested_utc": "2025-10-18T00:50:07Z"
-  },
-  {
-    "published_utc": "2025-10-18",
-    "retrieved_date": "2025-10-18",
-    "retrieved_utc": "2025-10-18T00:50:00Z",
-    "source": "FinancialPost_Business",
-    "title": "Kolibri Global Energy Inc. Provides Update Regarding Information Circular Disclosure",
-    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/kolibri-global-energy-inc-provides-update-regarding-information-circular-disclosure",
-    "id_key": "3e4cf6e780612f6336ef839f5062ed5b8a6c45981ff7d8ab2be8ec154e8eb1bc",
-    "summary": "THOUSAND OAKS, Calif. — Kolibri Global Energy Inc. (the “Company” or “Kolibri“) (TSX: KEI, NASDAQ: KGEI) wishes to provide an update to certain information contained in the management information circular and related materials (the “Circular”) filed on October 15, 2025 in connection with a special meeting of shareholders (the “Meeting”) called by the Company in […]",
-    "ingested_utc": "2025-10-18T00:50:00Z"
   }
 ]
