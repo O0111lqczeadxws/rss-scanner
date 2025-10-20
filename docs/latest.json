@@ -2,6 +2,105 @@
   {
     "published_utc": "2025-10-20",
     "retrieved_date": "2025-10-20",
+    "retrieved_utc": "2025-10-20T08:20:07Z",
+    "source": "HackerNews_Top",
+    "title": "AWS Multiple Services Down in us-east-1",
+    "url": "https://health.aws.amazon.com/health/status?ts=20251020",
+    "id_key": "69675feae3308f7f76de73321325d2b1cb7df5159e271932c3b55e24059d432b",
+    "summary": "Comments",
+    "ingested_utc": "2025-10-20T08:20:07Z"
+  },
+  {
+    "published_utc": "2025-10-20",
+    "retrieved_date": "2025-10-20",
+    "retrieved_utc": "2025-10-20T08:19:52Z",
+    "source": "FinancialPost_Business",
+    "title": "China’s Wind Industry Seeks Push to Double Capacity by 2030",
+    "url": "https://financialpost.com/pmn/business-pmn/chinas-wind-industry-seeks-push-to-double-capacity-by-2030",
+    "id_key": "0c3abfd67f164b61c4d80e0fe2a3ecbd74c474496421d2faf5045294d3a7d29f",
+    "summary": "China’s largest turbine makers are lobbying the government to install at least 120 gigawatts of wind power capacity in each of the next five years, an acceleration of the country’s energy transition that would more than double output by the end of the decade.",
+    "ingested_utc": "2025-10-20T08:19:52Z"
+  },
+  {
+    "published_utc": "2025-10-20",
+    "retrieved_date": "2025-10-20",
+    "retrieved_utc": "2025-10-20T08:19:52Z",
+    "source": "FinancialPost_Business",
+    "title": "Leading Global Businesses Unite to Launch Carbon Measures",
+    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/leading-global-businesses-unite-to-launch-carbon-measures",
+    "id_key": "827ac2b488af012004de4ea00824ea1117b1e1919086f215f93db0616cafbb6a",
+    "summary": "New coalition to advance global carbon accounting framework and champion market-based solutions that drive emissions reductions Amy Brachio, former Ernst & Young global vice chair and head of sustainability, named CEO NEW YORK — Carbon Measures, a new global coalition representing major businesses from diverse industries and geographies, launched today to establish a more accurate […]",
+    "ingested_utc": "2025-10-20T08:19:52Z"
+  },
+  {
+    "published_utc": "2025-10-20",
+    "retrieved_date": "2025-10-20",
+    "retrieved_utc": "2025-10-20T08:19:52Z",
+    "source": "FinancialPost_Business",
+    "title": "Entrepreneurs stay the course: 92% would choose this path again",
+    "url": "https://financialpost.com/globe-newswire/entrepreneurs-stay-the-course-92-would-choose-this-path-again",
+    "id_key": "6371402c6b62443c89c237eedee671e9c9db39d4076e0745131dbf84661a03cd",
+    "summary": "BDC unveils its first-ever Report on the State of Entrepreneurship during BDC Small Business Week™ Highlights from the national survey include: 74% of Canadian SMEs took steps to improve productivity this year; nearly one-third (30%) leveraged new technologies. While 86% report being in good health, 54% experienced emotional or mental exhaustion during the year. More […]",
+    "ingested_utc": "2025-10-20T08:19:52Z"
+  },
+  {
+    "published_utc": "2025-10-20",
+    "retrieved_date": "2025-10-20",
+    "retrieved_utc": "2025-10-20T08:19:28Z",
+    "source": "TechCrunch_All",
+    "title": "Scale AI alum raises $9M for AI serving critical industries in MENA",
+    "url": "https://techcrunch.com/2025/10/20/scale-ai-alum-raises-9m-for-ai-serving-critical-industries-in-mena/",
+    "id_key": "22feb91b9e4fe3ce10c4cbbb983fd14259224939e8f9069b70f695c2ca535aae",
+    "summary": "Bilal Abu-Ghazaleh had just moved to London few days before our call, splitting his time between there and Dubai. After nearly a decade in the U.S., including a stint at Scale AI, he’s bringing that experience to his next venture: 1001 AI , a company creating AI infrastructure for critical industries across the Middle East […]",
+    "ingested_utc": "2025-10-20T08:19:28Z"
+  },
+  {
+    "published_utc": "2025-10-20",
+    "retrieved_date": "2025-10-20",
+    "retrieved_utc": "2025-10-20T08:19:27Z",
+    "source": "TheVerge_All",
+    "title": "Major AWS outage takes down Fortnite, Alexa, Snapchat, and more",
+    "url": "https://www.theverge.com/news/802486/aws-outage-alexa-fortnite-snapchat-offline",
+    "id_key": "5f09f5b5c690c27c0dcad7a89dcbff5eb8384011b9695d29e92974689205fe93",
+    "summary": "Amazon Web Services (AWS) is currently experiencing a major outage that has taken down online services, including Amazon, Alexa, Snapchat, Fortnite, and more. The AWS status checker is reporting that multiple services are “impacted” by operational issues, and that the company is “investigating increased error rates and latencies for multiple AWS services in the US-EAST-1 […]",
+    "ingested_utc": "2025-10-20T08:19:27Z"
+  },
+  {
+    "published_utc": "2025-10-20",
+    "retrieved_date": "2025-10-20",
+    "retrieved_utc": "2025-10-20T08:17:58Z",
+    "source": "Erigon_Releases",
+    "title": "v3.2.1 \"Quirky Quests\"",
+    "url": "https://github.com/erigontech/erigon/releases/tag/v3.2.1",
+    "id_key": "92be04a23b3d4a215ff4589b69b9b57e752f302b2203bb24196deabda5181d9b",
+    "summary": "v3.2.1 is a bugfix release recommended for all users, especially validators. Fixes Fix validators producing bad blocks on Hoodi in #17487 by @mh0lt RPC: fix \"insufficient funds for gas * price + value\" error in traces retrieval for a specific block (Issues #16909 , #17232 ) in #17523 by @antonis19 RPC: fix no changes and filter not found in eth_getFilter* (Issue #17246 ) in #17350 by @canepat RPC: debug_traceCall fix avoid to trace sysContract (Issue #17220 ) in #17360 by @lupin012 CL: fix initial previous_version in fork_schedule (Issue #17262 ) in #17331 by @domiwei Improvements Ethereum mainnet default block gas limit is raised to 60M in #17321 by @yperbasis CL: Allow blob requests after Fusaka ( #17500 ) by @domiwei Full Changelog : v3.2.0...v3.2.1",
+    "ingested_utc": "2025-10-20T08:17:58Z"
+  },
+  {
+    "published_utc": "2025-10-20",
+    "retrieved_date": "2025-10-20",
+    "retrieved_utc": "2025-10-20T08:16:42Z",
+    "source": "CryptoNews",
+    "title": "Analyst Says Bitcoin Faces Tough Path as Long-Term Holders Keep Selling",
+    "url": "https://cryptonews.com/news/analyst-says-bitcoin-faces-tough-path-as-long-term-holders-keep-selling/",
+    "id_key": "7a4e1d5198c785e586b551250bd6c78cb7645657a4b7458cdb4c700adccd24cd",
+    "summary": "Long-term Bitcoin holders are cashing out, creating sustained sell pressure that’s slowing the market’s recovery. The post Analyst Says Bitcoin Faces Tough Path as Long-Term Holders Keep Selling appeared first on Cryptonews .",
+    "ingested_utc": "2025-10-20T08:16:42Z"
+  },
+  {
+    "published_utc": "2025-10-20",
+    "retrieved_date": "2025-10-20",
+    "retrieved_utc": "2025-10-20T08:16:19Z",
+    "source": "Guardian_World",
+    "title": "Hong Kong: two people reported killed after cargo plane skids off airport runway",
+    "url": "https://www.theguardian.com/world/2025/oct/20/hong-kong-cargo-plane-skids-off-airport-runway-people-killed",
+    "id_key": "713ceeb8f0b2d0965b3e5d8231c49004994b737d38473c2b39a86bfa7f0fddab",
+    "summary": "The northern runway at the airport was closed after the incident, say authorities A cargo plane has skidded off the runway into the sea while landing at Hong Kong International Airport, the city’s airport operator said on Monday, with two people reportedly confirmed dead. Photos taken after the accident showed a Boeing 747 cargo aircraft with AirACT livery partially submerged in water near the airport’s sea wall with an escape slide deployed and the nose and tail sections separated. Continue reading...",
+    "ingested_utc": "2025-10-20T08:16:19Z"
+  },
+  {
+    "published_utc": "2025-10-20",
+    "retrieved_date": "2025-10-20",
     "retrieved_utc": "2025-10-20T07:50:46Z",
     "source": "HackerNews_Top",
     "title": "Docker Systems Status: Full Service Disruption",
@@ -10899,104 +10998,5 @@
     "id_key": "a97740d98997833b7233c24da73cc65000f97dde812c830df237fe0547e8d215",
     "summary": "Culture secretary to speak to Home Office as minister says barring Israeli supporters is ‘utterly unacceptable’ UK politics live – latest updates Senior government officials will meet on Friday as they look to reverse a decision by West Midlands police to ban fans of the Israeli team Maccabi Tel Aviv from a European match at Aston Villa next month. Ian Murray, a minister in the culture department, said on Friday the decision to ban travelling supporters was “completely and utterly unacceptable” and that the culture secretary, Lisa Nandy, would meet officials from the Home Office and elsewhere to discuss it. Continue reading...",
     "ingested_utc": "2025-10-17T08:44:36Z"
-  },
-  {
-    "published_utc": "2025-10-17",
-    "retrieved_date": "2025-10-17",
-    "retrieved_utc": "2025-10-17T08:19:09Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "Nikkei Climate 1.5°C Target Index to add five stocks in regular review",
-    "url": "https://asia.nikkei.com/announcements/nikkei-climate-1.5-c-target-index-to-add-five-stocks-in-regular-review",
-    "id_key": "8b336b2489e06276b1f8ce8c7af3ea534af11db0b1497499a14f70f1153daee6",
-    "summary": "",
-    "ingested_utc": "2025-10-17T08:19:09Z"
-  },
-  {
-    "published_utc": "2025-10-17",
-    "retrieved_date": "2025-10-17",
-    "retrieved_utc": "2025-10-17T08:19:09Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "Japan can learn from South Korea's defiance of Trump's $350bn shakedown",
-    "url": "https://asia.nikkei.com/opinion/japan-can-learn-from-south-korea-s-defiance-of-trump-s-350bn-shakedown",
-    "id_key": "178d7ba37191f4ba51ce43d50c3a9614ef50adb10e922a93068d87099e9d9b62",
-    "summary": "",
-    "ingested_utc": "2025-10-17T08:19:09Z"
-  },
-  {
-    "published_utc": "2025-10-17",
-    "retrieved_date": "2025-10-17",
-    "retrieved_utc": "2025-10-17T08:19:02Z",
-    "source": "FinancialPost_Business",
-    "title": "Mongolia’s Prime Minister Unexpectedly Ousted by Parliament Vote",
-    "url": "https://financialpost.com/pmn/business-pmn/mongolias-prime-minister-unexpectedly-ousted-by-parliament-vote",
-    "id_key": "9a16397b43ec7883da090a692ba4927c806fc4f1dad8ffeb7cedd2f944835c3b",
-    "summary": "Mongolia’s parliament voted to dismiss Prime Minister Zandanshatar Gombojav after just four months in office, in a surprise shake-up within the ranks of the ruling party.",
-    "ingested_utc": "2025-10-17T08:19:02Z"
-  },
-  {
-    "published_utc": "2025-10-17",
-    "retrieved_date": "2025-10-17",
-    "retrieved_utc": "2025-10-17T08:19:02Z",
-    "source": "FinancialPost_Business",
-    "title": "Asian shares retreat after worries over bank lending pull Wall Street lower",
-    "url": "https://financialpost.com/pmn/asian-shares-retreat-after-worries-over-bank-lending-pull-wall-st-lower",
-    "id_key": "d90e77dc94e0f30c2630bec87f2a50edf2dd551db8ddc7085a05cdafb1505395",
-    "summary": "MANILA, Philippines (AP) — Asian shares skidded Friday following a retreat on Wall Street driven by concerns over banks’ loan portfolios. U.S. futures and oil prices also fell, while the price of gold climbed to over $4,383 an ounce as Washington and Beijing swapped harsh words over trade. Japan’s Nikkei 225 fell 1.4% to 47,582.15, […]",
-    "ingested_utc": "2025-10-17T08:19:02Z"
-  },
-  {
-    "published_utc": "2025-10-17",
-    "retrieved_date": "2025-10-17",
-    "retrieved_utc": "2025-10-17T08:18:56Z",
-    "source": "AlJazeera_All",
-    "title": "Israel does not want Marwan Barghouti as “partner for peace”",
-    "url": "https://www.aljazeera.com/video/quotable/2025/10/17/israel-does-not-want-marwan-barghouti-as-partner-for?traffic_source=rss",
-    "id_key": "1d7f77a1ab301ca2ca17a7d081c9d498a49418387cc7bd2e776d8af82516b234",
-    "summary": "Arab Barghouti on his father’s continued imprisonment despite the recent exchange of captives between Hamas and Israel.",
-    "ingested_utc": "2025-10-17T08:18:56Z"
-  },
-  {
-    "published_utc": "2025-10-17",
-    "retrieved_date": "2025-10-17",
-    "retrieved_utc": "2025-10-17T08:18:56Z",
-    "source": "AlJazeera_All",
-    "title": "Military leader Randrianirina sworn in as Madagascar’s new president",
-    "url": "https://www.aljazeera.com/news/2025/10/17/military-leader-randrianirina-sworn-in-as-madagascars-new-president?traffic_source=rss",
-    "id_key": "dec27e11478ba1ffb02484a36896d8cd854a963e57779997e2ba7b3f90b2ca72",
-    "summary": "Mass demonstrations in recent weeks over power and water shortages have killed more than 20 people.",
-    "ingested_utc": "2025-10-17T08:18:56Z"
-  },
-  {
-    "published_utc": "2025-10-17",
-    "retrieved_date": "2025-10-17",
-    "retrieved_utc": "2025-10-17T08:18:56Z",
-    "source": "AlJazeera_All",
-    "title": "Mongolian PM loses confidence vote, resigns after four months in office",
-    "url": "https://www.aljazeera.com/news/2025/10/17/mongolian-pm-loses-confidence-vote-resigns-after-four-months-in-office?traffic_source=rss",
-    "id_key": "495e1ec731e02da562341189840547354271204dfdddee2c4d935012b661a523",
-    "summary": "Politicians overwhelmingly vote to oust the Mongolian premier, four months after doing the same to his predecessor.",
-    "ingested_utc": "2025-10-17T08:18:56Z"
-  },
-  {
-    "published_utc": "2025-10-17",
-    "retrieved_date": "2025-10-17",
-    "retrieved_utc": "2025-10-17T08:16:10Z",
-    "source": "Guardian_World",
-    "title": "Orban to speak with Putin as Zelenskyy prepares for White House talks with Trump – Europe live",
-    "url": "https://www.theguardian.com/world/live/2025/oct/17/viktor-orban-vladimir-putin-volodymyr-zelenskyy-donald-trump-europe-latest-news-updates-russia-ukraine-war",
-    "id_key": "8d130636deade1a6469d68ce87a1c9c65e7b30e554e145907958ca8e5ae02fba",
-    "summary": "Trump has said that, after meeting Zelenskyy today, he will hold talks with Putin in Hungary After a visit to Beijing, Sweden’s foreign minister called on China on Friday to release Swedish citizen Gui Minhai from jail, continuing a long diplomatic standoff between the two countries over the Chinese-born bookseller. Gui, a Hong Kong-based publisher of books critical of China’s communist leaders, was handed a 10-year prison term by Beijing in 2020 for illegally providing intelligence overseas. Volodymyr Zelenskyy will head to the White House on Friday for a crucial meeting with Donald Trump , hours after the US president said he had agreed to another summit with Vladimir Putin in Budapest after a “very productive” call. The possible supply of US Tomahawk cruise missiles to Ukraine is expected to top the agenda during the Ukrainian president’s visit. Trump has repeatedly hinted in recent weeks that he may deliver Tomahawks, which would give Kyiv its longest-range weapon yet that would be capable of striking Moscow with accurate, destructive munitions. Zelenskyy said on Friday he has already met with US firm making Tomahawk missiles and Patriot systems that Kyiv has been requesting to ramp up defences against Russia. “We discussed Raytheon’s production capacity, potential avenues for our cooperation to strengthen Ukraine’s air defence and long-range capabilities, and the prospects for Ukrainian-American joint production,” Zelensky wrote on social media. Putin convened a meeting of Russia’s Security Council after a phone call with Trump, reported Russian news agencies on Friday. Kremlin aide Yuri Ushakov said that Putin provided a detailed briefing about the conversation to the powerful council. Trump and Putin agreed on Thursday to another summit on the war in Ukraine, a surprise move that came as Moscow feared fresh US military support for Kyiv. An explosive device detonated under the car of one of Italy’s leading investigative journalists that was parked outside his home, prompting condemnation Friday from prime minister Giorgia Meloni and others. No one was injured. Report, the investigative series on Italy’s state-run RAI3, said the explosion overnight destroyed the car of Sigfrido Ranucci and damaged a second family car and the house next to it in Pomezia, south of Rome. It said the blast was so powerful that it could have killed anyone passing by. Meloni expressed her solidarity with Ranucci, the lead anchor of Report, and condemned what she called “the serious act of intimidation he has suffered”. “Freedom and independence of information are essential values of our democracies, which we will continue to defend,” she said in a statement. Continue reading...",
-    "ingested_utc": "2025-10-17T08:16:10Z"
-  },
-  {
-    "published_utc": "2025-10-17",
-    "retrieved_date": "2025-10-17",
-    "retrieved_utc": "2025-10-17T08:16:10Z",
-    "source": "Guardian_World",
-    "title": "Ministers to explore reversing ban on Maccabi Tel Aviv fans attending UK match after PM’s criticism – politics live",
-    "url": "https://www.theguardian.com/politics/live/2025/oct/17/keir-starmer-uk-politics-latest-news-updates-maccabi-tel-aviv-fans-banned",
-    "id_key": "4ba2a5ff2fb2a1d7578940a601407cdbe96d264d9c4d16b9b5e4893a330e328e",
-    "summary": "Fans of the Israeli football team will not be allowed to attend the Europa League match at Aston Villa on 6 November owing to safety concerns Good morning. Yesterday it emerged that fans of Maccabi Tel Aviv will not be allowed to attend the Europa League match at Aston Villa on 6 November owing to safety concerns. The decision was taken by Birmingham’s safety advisory group, based on advice from the West Midlands police, who said the match would be “high risk” based on “current intelligence and previous incidents, ­including ­violent clashes and hate crime offences that occurred during the 2024 Uefa Europa League match between Ajax and ­Maccabi Tel Aviv in Amsterdam ”. There is more on the announcement here . The decision prompted widespread condemnation from political leaders. Keir Starmer said : This is the wrong decision. We will not tolerate antisemitism on our streets. This is a national disgrace. How have things come to this? A serious mistake by WM Police. You don’t tackle antisemitism by banning its victims. This decision must be reversed. From the moment that the match was announced, it was clear that there were latent safety risks that even our capable security and police authorities would not be able to fully manage. With so much hostility and uncertainty around the match, it was only right to take drastic measures. As Israel continues its assault on Gaza, killing thousands and devastating civilian infrastructure, sporting fixtures involving Israeli teams cannot be separated from the wider political context. Hosting such teams sends a message of normalisation and indifference to mass atrocities. [The decision is] just completely and utterly unacceptable, and the prime minister has said we will do everything we possibly can to resolve this issue. It’s an operational issue for the police, and government doesn’t get involved in operational issues for the police. Continue reading...",
-    "ingested_utc": "2025-10-17T08:16:10Z"
   }
 ]
