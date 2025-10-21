@@ -2,6 +2,72 @@
   {
     "published_utc": "2025-10-21",
     "retrieved_date": "2025-10-21",
+    "retrieved_utc": "2025-10-21T07:16:42Z",
+    "source": "Nikkei_Asia_Top",
+    "title": "Vietnam to increase income tax relief to boost economy",
+    "url": "https://asia.nikkei.com/economy/vietnam-to-increase-income-tax-relief-to-boost-economy",
+    "id_key": "913935e3e9eb2a5a2fdea76feaa060ab664b44452a969ac2fecc9d7b06c8785d",
+    "summary": "",
+    "ingested_utc": "2025-10-21T07:16:42Z"
+  },
+  {
+    "published_utc": "2025-10-21",
+    "retrieved_date": "2025-10-21",
+    "retrieved_utc": "2025-10-21T07:16:42Z",
+    "source": "Nikkei_Asia_Top",
+    "title": "Multibillion-dollar trade discrepancies put Pakistan data under IMF lens",
+    "url": "https://asia.nikkei.com/economy/multibillion-dollar-trade-discrepancies-put-pakistan-data-under-imf-lens",
+    "id_key": "599fb77330354e0a45253311d07bd442ad5f9d351193f60b837b2b74e7752dad",
+    "summary": "",
+    "ingested_utc": "2025-10-21T07:16:42Z"
+  },
+  {
+    "published_utc": "2025-10-21",
+    "retrieved_date": "2025-10-21",
+    "retrieved_utc": "2025-10-21T07:16:36Z",
+    "source": "FinancialPost_Business",
+    "title": "INNIO Secures Largest Order in Company History with VoltaGrid Delivering Power Generation for One of the World’s Largest Data Centers",
+    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/innio-secures-largest-order-in-company-history-with-voltagrid-delivering-power-generation-for-one-of-the-worlds-largest-data-centers",
+    "id_key": "c5ac245b12c87e9da1b7afb041403351b39a22ed7cdb195f75220d84e5ec6faa",
+    "summary": "INNIO to supply 2.3 gigawatts (GW) of power infrastructure, comprising 92 power packs of 25 megawatts (MW) each. Partnership with VoltaGrid drives the expansion of AI data centers through fast, flexible, and sustainable energy solutions. Collaboration enables VoltaGrid to seamlessly combine its power pack units with its large-scale portable data center power made up of […]",
+    "ingested_utc": "2025-10-21T07:16:36Z"
+  },
+  {
+    "published_utc": "2025-10-21",
+    "retrieved_date": "2025-10-21",
+    "retrieved_utc": "2025-10-21T07:16:36Z",
+    "source": "FinancialPost_Business",
+    "title": "Uganda Secures $2 Billion From World Bank After Funding Freeze",
+    "url": "https://financialpost.com/pmn/business-pmn/uganda-secures-2-billion-from-world-bank-after-funding-freeze",
+    "id_key": "0296ee44a895d142481729462fd6c4519fe7d679c4b83f27be6107d4e9612c28",
+    "summary": "The World Bank will lend more than $2 billion to Uganda, resuming concessional financing two years after halting support to the East African nation over its anti-LGBTQ laws.",
+    "ingested_utc": "2025-10-21T07:16:36Z"
+  },
+  {
+    "published_utc": "2025-10-21",
+    "retrieved_date": "2025-10-21",
+    "retrieved_utc": "2025-10-21T07:16:01Z",
+    "source": "FT_Home",
+    "title": "Japan stocks hit record as Sanae Takaichi becomes prime minister",
+    "url": "https://www.ft.com/content/c2a92ef6-5f9a-40c7-9846-58ade4db688d",
+    "id_key": "9f5f5b69bce9bb3d800e2e8f003b7a908e9381c91720508f7cbe27f5415f5087",
+    "summary": "‘Takaichi trade’ reflects optimism that ruling coalition will increase defence spending and cut some taxes",
+    "ingested_utc": "2025-10-21T07:16:01Z"
+  },
+  {
+    "published_utc": "2025-10-21",
+    "retrieved_date": "2025-10-21",
+    "retrieved_utc": "2025-10-21T07:13:22Z",
+    "source": "Guardian_World",
+    "title": "Gaza ceasefire live: JD Vance due in Israel as another hostage’s body returned",
+    "url": "https://www.theguardian.com/world/live/2025/oct/21/israel-gaza-ceasefire-jd-vance-hostages-hamas-netanyahu-latest-news-updates",
+    "id_key": "932d4687ad938a54c2088530657371087aaf49dd9776707371e96b8d06cfc8e2",
+    "summary": "US vice-president’s trip comes a day after two Trump envoys met Netanyahu; Israel allows Gaza aid deliveries to resume We are restarting our live coverage of the fragile ceasefire between Israel and Hamas, and the diplomatic efforts to try to maintain it. The 11-day ceasefire in Gaza was seriously undermined on Sunday after Israel launched waves of deadly airstrikes and cut off all aid into the territory “until further notice” after a reported attack by Hamas , which the militant group denied being involved in. Continue reading...",
+    "ingested_utc": "2025-10-21T07:13:22Z"
+  },
+  {
+    "published_utc": "2025-10-21",
+    "retrieved_date": "2025-10-21",
     "retrieved_utc": "2025-10-21T06:50:50Z",
     "source": "FinancialPost_Business",
     "title": "Treasury 10-Year Yields May Hit 3.75% on Oil Slide, Yardeni Says",
@@ -10932,71 +10998,5 @@
     "id_key": "730d5f323ed0c7f07b0a36224d52dbcfa5b1e2d98085362705d0c609de776ed3",
     "summary": "Israeli settlers and soldiers continue to terrorise Palestinian communities in preparation for annexation.",
     "ingested_utc": "2025-10-18T14:30:50Z"
-  },
-  {
-    "published_utc": "2025-10-18",
-    "retrieved_date": "2025-10-18",
-    "retrieved_utc": "2025-10-18T14:30:20Z",
-    "source": "NPR_Top",
-    "title": "Why are so many rich Americans investing in British soccer teams?",
-    "url": "https://www.npr.org/2025/10/18/nx-s1-5566691/rich-americans-investing-in-british-soccer",
-    "id_key": "7518698df2f1ee2afdaa23e982f1a37ff62dc51fe5c96a0feac39313e0aedd51",
-    "summary": "American millionaires and celebrities are buying up British soccer teams in record numbers.",
-    "ingested_utc": "2025-10-18T14:30:20Z"
-  },
-  {
-    "published_utc": "2025-10-18",
-    "retrieved_date": "2025-10-18",
-    "retrieved_utc": "2025-10-18T14:28:06Z",
-    "source": "Guardian_World",
-    "title": "Paramount Skydance to eliminate 2,000 US jobs – report",
-    "url": "https://www.theguardian.com/us-news/2025/oct/18/paramount-skydance-to-eliminate-2000-us-jobs",
-    "id_key": "018ba2b7e1d30afbc772b3bfb39ff6c6375d4ccb1d1b0656d452adb750402be2",
-    "summary": "Layoffs follow $8.4bn merger between Skydance Media and Paramount Global in August Paramount Skydance will begin mass layoffs the week of 27 October, eliminating about 2,000 US jobs as part of a $2bn cost-cutting plan under new chief executive David Ellison, Variety reported on Saturday. The layoffs follow the $8.4bn merger between Skydance Media and Paramount Global, which closed in August. Continue reading...",
-    "ingested_utc": "2025-10-18T14:28:06Z"
-  },
-  {
-    "published_utc": "2025-10-18",
-    "retrieved_date": "2025-10-18",
-    "retrieved_utc": "2025-10-18T14:09:31Z",
-    "source": "CryptoSlate",
-    "title": "Why the price of gold is rising while Bitcoin is struggling",
-    "url": "https://cryptoslate.com/gold-price-outshines-bitcoin-as-geopolitical-tensions-spike/",
-    "id_key": "6db89594bd90be3b52b6b86f5607e95cd4cb5c0db04f14b2d9c91b335ba51d96",
-    "summary": "For years, Bitcoin has been hailed as “digital gold,” a hedge against inflation and policy excess. Yet, as geopolitical tensions rise and trade disputes return to the headlines, the original store of value, gold, is stealing the spotlight. According to TradingView data, gold climbed to an all-time high of $4,376 per ounce on Oct. 17, […] The post Why the price of gold is rising while Bitcoin is struggling appeared first on CryptoSlate .",
-    "ingested_utc": "2025-10-18T14:09:31Z"
-  },
-  {
-    "published_utc": "2025-10-18",
-    "retrieved_date": "2025-10-18",
-    "retrieved_utc": "2025-10-18T13:49:45Z",
-    "source": "MarketWatch_Bulletins",
-    "title": "This secret ingredient of the economy says it's OK — and no recession is brewing",
-    "url": "https://www.marketwatch.com/bulletins/redirect/go?g=1dd1ae9c-b852-40bf-a0a2-f485e7cc6fe1&mod=mw_rss_bulletins",
-    "id_key": "3c54ddd06998fc4096020ec4792e1e932660f6c8f42c89899d270b5ff02857a7",
-    "summary": "",
-    "ingested_utc": "2025-10-18T13:49:45Z"
-  },
-  {
-    "published_utc": "2025-10-18",
-    "retrieved_date": "2025-10-18",
-    "retrieved_utc": "2025-10-18T13:48:00Z",
-    "source": "CryptoSlate",
-    "title": "How crypto-native leverage drove Bitcoin sell-off while ETFs barely flinched",
-    "url": "https://cryptoslate.com/how-crypto-native-leverage-drove-bitcoin-sell-off-while-etfs-barely-flinched/",
-    "id_key": "b54d13fa108720ed0db6a61631d0f61474ceb8f607bb2f30b42057fa8e57c602",
-    "summary": "JPMorgan attributes the recent Bitcoin (BTC) and Ethereum (ETH) sell-off to crypto-native leverage rather than institutional exits, noting that spot ETFs and CME futures absorbed minimal forced selling while perpetual futures markets faced sharp deleveraging across both assets. Bitcoin fell 13.1% from $122,316 on Oct. 3 to $106,329 by Oct. 17, while perpetual open interest […] The post How crypto-native leverage drove Bitcoin sell-off while ETFs barely flinched appeared first on CryptoSlate .",
-    "ingested_utc": "2025-10-18T13:48:00Z"
-  },
-  {
-    "published_utc": "2025-10-18",
-    "retrieved_date": "2025-10-18",
-    "retrieved_utc": "2025-10-18T13:22:36Z",
-    "source": "TheStreet_Top",
-    "title": "Analysts revamp AMD stock price after key conference",
-    "url": "https://www.thestreet.com/technology/analysts-revamp-amd-stock-price-after-key-conference",
-    "id_key": "a036a1d409a5c78e4fb52062c51178557d654992974c75b2f5bff917f6e701c6",
-    "summary": "AMD has been quite busy this month. It first revealed its agreement with OpenAI for 6 gigawatts of power for OpenAI's AI infrastructure across multiple generations of AMD Instinct GPUs. This agreement also included AMD issuing OpenAI a warrant for up to 160 million shares of AMD common stock, ...",
-    "ingested_utc": "2025-10-18T13:22:36Z"
   }
 ]
