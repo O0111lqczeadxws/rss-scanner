@@ -2,6 +2,116 @@
   {
     "published_utc": "2025-10-21",
     "retrieved_date": "2025-10-21",
+    "retrieved_utc": "2025-10-21T02:26:34Z",
+    "source": "FinancialPost_Business",
+    "title": "Streamlining Project Efficiency with Murata’s Pre-Installed Electrical Models in the Latest Versions of Cadence OrCAD X Capture™, Allegro X System Capture™ and AWR Design Environment™ (Microwave Office)",
+    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/streamlining-project-efficiency-with-muratas-pre-installed-electrical-models-in-the-latest-versions-of-cadence-orcad-x-capture-allegro-x-system-capture-and-awr-design-environment",
+    "id_key": "5ebc9f17394ae33e0ccce2e52a4a08b5b0c021bcd87f86078d64d012f79cc72d",
+    "summary": "KYOTO, Japan — Murata Manufacturing Co., Ltd. (TOKYO: 6981) (ISIN: JP3914400001) announces a significant collaboration with Cadence Design Systems, Inc., making product libraries directly accessible within Cadence’s leading Electronic Design Automation (EDA) tools. Murata’s selected inductor and capacitor products are now pre-installed in the latest versions of Cadence OrCAD X Capture™, Allegro X System Capture™ […]",
+    "ingested_utc": "2025-10-21T02:26:34Z"
+  },
+  {
+    "published_utc": "2025-10-21",
+    "retrieved_date": "2025-10-21",
+    "retrieved_utc": "2025-10-21T02:26:34Z",
+    "source": "FinancialPost_Business",
+    "title": "Cerro de Pasco Resources Announces Private Placements of up to $15 Million",
+    "url": "https://financialpost.com/globe-newswire/cerro-de-pasco-resources-announces-private-placements-of-up-to-15-million",
+    "id_key": "132e97db47c9df3822ea361874eea59b4d7c4fee2aa28f3da552f3b59f38f5eb",
+    "summary": "NOT FOR DISTRIBUTION TO UNITED STATES NEWSWIRE SERVICES OR FOR DISSEMINATION IN THE UNITED STATES MONTRÉAL, Oct. 20, 2025 (GLOBE NEWSWIRE) — Cerro de Pasco Resources Inc. (TSXV: CDPR) (OTCQB: GPPRF) (FRA: N8HP) (BVL:CDPR) (“CDPR” or the “Corporation”) is pleased to announce a commercially reasonable efforts private placement pursuant to an agreement with SCP Resource […]",
+    "ingested_utc": "2025-10-21T02:26:34Z"
+  },
+  {
+    "published_utc": "2025-10-21",
+    "retrieved_date": "2025-10-21",
+    "retrieved_utc": "2025-10-21T02:26:19Z",
+    "source": "Engadget_All",
+    "title": "Amazon's AWS outage knocked services like Alexa, Snapchat, Fortnite, Venmo and more offline",
+    "url": "https://www.engadget.com/big-tech/amazons-aws-outage-has-knocked-services-like-alexa-snapchat-fortnite-venmo-and-more-offline-142935812.html?src=rss",
+    "id_key": "1ec0984905a28bb47d4b68c8361595d5ce6e61ca0ef4fde0a521065f57b1a0dc",
+    "summary": "It felt like half of the internet was dealing with a hangover from the morning of October 19 to the early hours of October 20. A severe Amazon Web Services outage took out many, many websites, apps, games and other services that rely on Amazon’s cloud division to stay up and running. That included a long list of popular software like Venmo, Snapchat, Canva and Fortnite . Even Amazon's own assistant Alexa stuttered, and if you were wondering why the internet seemed to be against you — you weren't imagining it. The good news is that, Amazon announced by 6:53PM Eastern time on October 20 that it resolved the \"increased error rates and latencies for AWS Services.\" The company said it \"identified the trigger of the event as DNS resolution issues for the regional DynamoDB service endpoints.\" It ran into more problems as it tried to solve the outage, but it was eventually able to fix everything. \"By 3:01 PM, all AWS services returned to normal operations,\" it said. At about 4:30PM ET on October 20, things seemed to be returning back to normal. Apps like Venmo and Lyft, which were either slow to respond or completely nonresponsive before, were appearing to behave smoothly. As of 1:15PM ET on October 20, multiple services were unavailable, including asking Alexa for the weather or to turn off lights in your home. The Lyft app was also slower to respond than usual, and Venmo transactions were not completing. According to the AWS service health page at the time, Amazon was looking into \"increased error rates and latencies for multiple AWS services\" in the US-EAST-1 region (i.e. data centers in Northern Virginia) as of 3:11AM ET on Monday. By 5:01AM, AWS had figured out that a DNS resolution issue with its DynamoDB API was the cause of the outage. DynamoDB is a database that holds info for AWS clients. At about 12:08PM ET, the company posted a small statement that reiterated the above and added that the \"underlying DNS issue was fully mitigated at 2:24 AM PDT.\" According to the notice, some Amazon \"customers still continue to experience increased error rates with AWS services in the N. Virginia (us-east-1) Region due to issues with launching new EC2 instances.\" Amazon also said Amazon.com and Amazon subsidiaries, as well as AWS customer service support operations have been impacted. “Amazon had the data safely stored, but nobody else could find it for several hours, leaving apps temporarily separated from their data,” Mike Chapple, a teaching professor of IT, analytics and operations at University of Notre Dame, told CNN . “It’s as if large portions of the internet suffered temporary amnesia.” As of 6:35AM, AWS said it had fully mitigated the DNS issue and that \"most AWS Service operations are succeeding normally now.\" However, the knock-on effect caused issues with other AWS services, including EC2, a virtual machine service on which many companies build online applications. At 8:48AM, AWS said it was \"making progress on resolving the issue with new EC2 instance launches in the US-EAST-1 Region.\" It recommended that clients not tie new deployments to specific Availability Zones (i.e. one or more data centers in a given region) \"so that EC2 has flexibility\" in picking a zone that may be a better option. At 9:42AM, Amazon noted on the status page that although it had applied \"multiple mitigations\" across several Availability Zones in US-EAST-1, it was \"still experiencing elevated errors for new EC2 instance launches.\" As such, AWS was \"rate limiting new instance launches to aid recovery.\" The company added at 10:14AM that it was seeing \"significant API errors and connectivity issues across multiple services in the US-EAST-1 Region.\" Even once all the issues are resolved, AWS will have a significant backlog of requests and other factors to process, so it'll take some time for everything to recover. Many, many, many companies use US-EAST-1 for their AWS deployments, which is why it felt like half of the internet was knocked offline on Monday morning. As of mid-morning, tons of websites and other services were sluggish or offering up error messages. Outage reports for a broad swathe of services spiked on Down Detector. Along with Amazon's own services, users reported issues with the likes of banks, airlines, Disney+, Snapchat, Reddit, Lyft, Apple Music, Pinterest, Fortnite, Roblox and The New York Times — sorry to anyone whose Wordle streaks may be at risk. Sites like Reddit have posted their own status updates , and though they don't explicitly mention AWS, it's possible that the services' paths may cross somewhere in the pipelines. AWS offers a lot of useful features to clients, such as the ability for websites and apps to automatically scale compute and server capacity up and down as needed to handle ebbs and flows in traffic. It also has data centers around the world. That kind of infrastructure is attractive to companies that serve a global audience and need to stay online around the clock. As of mid-2025, it was estimated that AWS' share of the worldwide cloud infrastructure market was 30 percent. But incidents such as this highlight that relying on just a few providers to be the backbone of much of the internet is a bit of a problem. Update October 20, 2025, 9:21PM ET: This story has been updated with Amazon's latest update that says the issue has been resolved. Update, Oct 20 2025, 10:57AM ET: This story has been updated to include a short list of services affected in the intro. Update, Oct 20 2025, 11:17AM ET: This story has been updated to include a reference to Reddit's own status update website. Update, Oct 20 2025, 1:15PM ET: This story has been updated to include a paragraph reflecting the status of popular services like Lyft, Venmo and Alexa, based on our editors' personal experiences as of this time. Update, Oct 20 2025, 3:15PM ET: This story has been updated to include a short statement from Amazon describing a timeline of events, when the underlying issue was mitigated and what parts of Amazon have been impacted. Update, Oct 20 2025, 4:30PM ET: This story has been updated to reflect the status of services like Venmo and Lyft as of Monday afternoon. This article originally appeared on Engadget at https://www.engadget.com/big-tech/amazons-aws-outage-has-knocked-services-like-alexa-snapchat-fortnite-venmo-and-more-offline-142935812.html?src=rss",
+    "ingested_utc": "2025-10-21T02:26:19Z"
+  },
+  {
+    "published_utc": "2025-10-21",
+    "retrieved_date": "2025-10-21",
+    "retrieved_utc": "2025-10-21T02:25:49Z",
+    "source": "NYTimes_Business",
+    "title": "With SpaceX Behind Schedule, NASA Will Seek More Moon Lander Ideas",
+    "url": "https://www.nytimes.com/2025/10/20/science/nasa-moon-lander-spacex.html",
+    "id_key": "0a296696ef52723b35e879f1055becbc859076bd0ffc0d4d8416385692d30ab3",
+    "summary": "Blue Origin, owned by Jeff Bezos, and Lockheed Martin are among the contractors that may compete with Elon Musk’s company in the race back to the lunar surface.",
+    "ingested_utc": "2025-10-21T02:25:49Z"
+  },
+  {
+    "published_utc": "2025-10-21",
+    "retrieved_date": "2025-10-21",
+    "retrieved_utc": "2025-10-21T02:25:49Z",
+    "source": "NYTimes_Business",
+    "title": "Trump Hopes Argentina Can Help Bring Down Beef Prices",
+    "url": "https://www.nytimes.com/2025/10/20/us/politics/trump-argentina-beef.html",
+    "id_key": "172b39a5425d9ab1ce2bca0f4f3f27ffe4e153986eacac44b0a606f145328a0a",
+    "summary": "President Trump’s plan to import red meat runs counter to his philosophy of increasing domestic production, and has angered cattle ranchers in the United States.",
+    "ingested_utc": "2025-10-21T02:25:49Z"
+  },
+  {
+    "published_utc": "2025-10-21",
+    "retrieved_date": "2025-10-21",
+    "retrieved_utc": "2025-10-21T02:25:49Z",
+    "source": "NYTimes_Business",
+    "title": "Amazon’s AWS Disruption Creates Outages for Hundreds of Websites for Hours",
+    "url": "https://www.nytimes.com/2025/10/20/business/aws-down-internet-outage.html",
+    "id_key": "cdbcfe534930ac34028384b10812ccb7082731be53aab6fe059a0c0ad55a63d6",
+    "summary": "Amazon Web Services, a major provider of cloud services, cited a problem at its data center in Northern Virginia. The outage highlighted the fragility of global internet infrastructure.",
+    "ingested_utc": "2025-10-21T02:25:49Z"
+  },
+  {
+    "published_utc": "2025-10-21",
+    "retrieved_date": "2025-10-21",
+    "retrieved_utc": "2025-10-21T02:23:24Z",
+    "source": "Guardian_World",
+    "title": "Australia news live: Marles hails Rudd’s role in White House meeting as Turnbull praises former PM for ‘delivering the goods’",
+    "url": "https://www.theguardian.com/australia-news/live/2025/oct/21/australia-news-live-michaelia-cash-china-jet-raaf-prime-minister-anthony-albanese-donald-trump-white-house-critical-minerals-deal-ntwnfb",
+    "id_key": "182d42af1d68f708ce6458e5bdee67f5ae142dd74585ee92321ab7128fb9b276",
+    "summary": "Follow today’s news live Analysis: Diplomatic triumph or ‘capitulation’? Albanese found Donald Trump in a heavenly mood but the devil may be in the detail Get our breaking news email , free app or daily news podcast The foreign affairs minister was asked about Donald Trump ’s remark that he didn’t like the Australian ambassador, Kevin Rudd, and “probably never will” during the White House meeting early this morning. Trump made the testy remark, telling Rudd “I don’t like you either”, at the White House cabinet room table, prompting uncomfortable laughter. Penny Wong told RN the ambassador had done an “extremely good job” getting the meeting between the US president and Albanese: Look, I think those comments were clearly tongue-in-cheek. I’m very pleased that the meeting has been such a success. That is a good thing for our country. It’s extremely good to have this critical minerals deal backed in, and it’s extremely positive for the country to have the president so supportive of Aukus and the delivery of the submarines, which is an important capability for us. Kevin did an extremely good job not only in getting the meeting but doing the work on the critical minerals deal. And the meeting reflects the success of that work. Continue reading...",
+    "ingested_utc": "2025-10-21T02:23:24Z"
+  },
+  {
+    "published_utc": "2025-10-21",
+    "retrieved_date": "2025-10-21",
+    "retrieved_utc": "2025-10-21T02:23:24Z",
+    "source": "Guardian_World",
+    "title": "University of Arizona becomes seventh US college to reject Trump’s ‘compact’",
+    "url": "https://www.theguardian.com/us-news/2025/oct/20/university-of-arizona-rejects-trump-compact",
+    "id_key": "1455487cefd0d655ae7e137d3c0677d9c65de62bb65bbfad2fba665c21f0d5d1",
+    "summary": "Administration has pushed nine universities to sign a deal that seeks to make changes in line with conservative ideas The University of Arizona has become the seventh US university to reject a Trump administration proposal that would grant schools funding priority if they agreed to support the administration’s conservative agenda. The decision follows the administration’s push for nine universities to sign a “Compact for Academic Excellence in Higher Education,” which seeks to make sweeping changes to campus culture, hiring and admissions practices and foreign student enrollment. Demands from the Trump administration’s 10-point compact include reforms to the way race or ethnicity are used in admission and hiring practices, as well as a commitment to strict definitions of gender, among others. Continue reading...",
+    "ingested_utc": "2025-10-21T02:23:24Z"
+  },
+  {
+    "published_utc": "2025-10-21",
+    "retrieved_date": "2025-10-21",
+    "retrieved_utc": "2025-10-21T02:23:24Z",
+    "source": "Guardian_World",
+    "title": "Body of missing woman found buried behind abandoned Philadelphia school",
+    "url": "https://www.theguardian.com/us-news/2025/oct/20/philadelphia-missing-woman-body-kada-scott",
+    "id_key": "b39195de19eb191a6d01969ee9fe6631557088e1bba2a3d1964adc18ce8fde96",
+    "summary": "Kada Scott was missing for two weeks before anonymous tip led police to wooded area with remains in shallow grave Remains found buried in a wooded area behind an abandoned school are those of Kada Scott, a 23-year-old woman who had been missing for about two weeks, prosecutors in Philadelphia said on Monday. Authorities said an anonymous tip led police back to the area they previously searched and they found the remains in a shallow grave. DNA tests confirmed her identity. Continue reading...",
+    "ingested_utc": "2025-10-21T02:23:24Z"
+  },
+  {
+    "published_utc": "2025-10-21",
+    "retrieved_date": "2025-10-21",
+    "retrieved_utc": "2025-10-21T02:23:21Z",
+    "source": "BBC_World",
+    "title": "White House begins demolishing part of East Wing for Trump ballroom",
+    "url": "https://www.bbc.com/news/articles/ced6np51532o?at_medium=RSS&at_campaign=rss",
+    "id_key": "54ce7eecbb3dc243a1d89bf6ea4a745a3bdec09f969816fcf5659d3f95af8adc",
+    "summary": "Crews tore down a massive covered entryway and windows in the East Wing to make way for Trump's new event space.",
+    "ingested_utc": "2025-10-21T02:23:21Z"
+  },
+  {
+    "published_utc": "2025-10-21",
+    "retrieved_date": "2025-10-21",
     "retrieved_utc": "2025-10-21T00:55:53Z",
     "source": "Nikkei_Asia_Top",
     "title": "Japan taxi company to expand chauffeured-car service in India",
@@ -251,6 +361,28 @@
     "id_key": "2d88816d69bf0bcf82045a1453a9af67bdbcae991e248ad9c20c0e0316cdc9ee",
     "summary": "The tornado killed one construction worker on a building site, injured 10 others and left four in critical condition A tornado tore through districts north of Paris on Monday, toppling three construction cranes that killed one person and left four others with critical injuries, authorities said. The town of Ermont, about 20km (13 miles) north-east of Paris was worst hit by the sudden twister that caused damage across about 10 districts. Continue reading...",
     "ingested_utc": "2025-10-21T00:52:31Z"
+  },
+  {
+    "published_utc": "2025-10-20",
+    "retrieved_date": "2025-10-21",
+    "retrieved_utc": "2025-10-21T02:26:48Z",
+    "source": "HackerNews_Top",
+    "title": "AWS multiple services outage in us-east-1",
+    "url": "https://health.aws.amazon.com/health/status?ts=20251020",
+    "id_key": "442b7e199b11b3134779d4612309c6c37e20d361d4abf810bf2f206fbe11cdd9",
+    "summary": "Comments",
+    "ingested_utc": "2025-10-21T02:26:48Z"
+  },
+  {
+    "published_utc": "2025-10-20",
+    "retrieved_date": "2025-10-21",
+    "retrieved_utc": "2025-10-21T02:23:23Z",
+    "source": "Guardian_Business",
+    "title": "AWS outage: Amazon Web Services crash shows internet users ‘at mercy’ of too few providers, experts say",
+    "url": "https://www.theguardian.com/technology/2025/oct/20/amazon-web-services-aws-outage-hits-dozens-websites-apps",
+    "id_key": "838410f5590c10a3f181d4cd2be146ac923b025114f7e8e72fd37c3def80c7be",
+    "summary": "Crash that hit apps and websites around world demonstrates ‘urgent need for diversification in cloud computing’ Experts have warned of the perils of relying on a small number of companies for operating the global internet after a glitch at Amazon’s cloud computing service brought down apps and websites around the world. The affected platforms included Snapchat, Roblox, Signal and Duolingo as well as a host of Amazon-owned operations including its main retail site and the Ring doorbell company. Continue reading...",
+    "ingested_utc": "2025-10-21T02:23:23Z"
   },
   {
     "published_utc": "2025-10-20",
@@ -10866,137 +10998,5 @@
     "id_key": "2f159d890511cc023327dca619fa05457e6952002d2b8327b081e161ad56722e",
     "summary": "The contents of his late father's case led Antony Easton to uncover a rich and tragic history.",
     "ingested_utc": "2025-10-18T05:10:35Z"
-  },
-  {
-    "published_utc": "2025-10-18",
-    "retrieved_date": "2025-10-18",
-    "retrieved_utc": "2025-10-18T04:36:11Z",
-    "source": "HackerNews_Top",
-    "title": "The Unix Executable as a Smalltalk Method [pdf]",
-    "url": "https://programmingmadecomplicated.wordpress.com/wp-content/uploads/2025/10/onward25-jakubovic.pdf",
-    "id_key": "0c66213ae57d91052a945e28ec652d29dcc9541a9260b452e067c0fd993784bb",
-    "summary": "Comments",
-    "ingested_utc": "2025-10-18T04:36:11Z"
-  },
-  {
-    "published_utc": "2025-10-18",
-    "retrieved_date": "2025-10-18",
-    "retrieved_utc": "2025-10-18T04:15:26Z",
-    "source": "FT_Markets",
-    "title": "Royal London and M&G to enter Europe’s active ETF market",
-    "url": "https://www.ft.com/content/eb78e886-c552-41a2-a482-8fd8e09d2d54",
-    "id_key": "b917e93db67d4392c6be21bbcb57dc2583f42e0c9693aea307c80c286e11a831",
-    "summary": "Asset managers keen to expand into fast-growing market",
-    "ingested_utc": "2025-10-18T04:15:26Z"
-  },
-  {
-    "published_utc": "2025-10-18",
-    "retrieved_date": "2025-10-18",
-    "retrieved_utc": "2025-10-18T04:15:26Z",
-    "source": "FT_Markets",
-    "title": "HMRC steps up pursuit of unpaid tax on crypto gains",
-    "url": "https://www.ft.com/content/508ae3e5-5529-4851-ada4-04744716f116",
-    "id_key": "4a3e06159b3244724f0ebcf6b89d21eb6962cc74c1f63a96cbb26db99ca97968",
-    "summary": "UK tax authority more than doubles the number of ‘nudge’ letters sent to investors",
-    "ingested_utc": "2025-10-18T04:15:26Z"
-  },
-  {
-    "published_utc": "2025-10-18",
-    "retrieved_date": "2025-10-18",
-    "retrieved_utc": "2025-10-18T04:15:26Z",
-    "source": "FT_Markets",
-    "title": "The remarkable redemption of St James’s Place",
-    "url": "https://www.ft.com/content/4c62ab5a-1caa-4c06-a53f-56ae469d7c05",
-    "id_key": "cdef48330ee1d3828adcccfcca6a3a7bcc2529d44e489e8972dd4a0c9ab28d39",
-    "summary": "UK’s largest wealth manager has staged a turnaround and is attempting to attract advisers despite scrapping perks and fees",
-    "ingested_utc": "2025-10-18T04:15:26Z"
-  },
-  {
-    "published_utc": "2025-10-18",
-    "retrieved_date": "2025-10-18",
-    "retrieved_utc": "2025-10-18T04:15:13Z",
-    "source": "NYTimes_World",
-    "title": "10 Injured in Balcony Collapse in Cincinnati",
-    "url": "https://www.nytimes.com/2025/10/18/us/cincinnati-balcony-collapse.html",
-    "id_key": "3d236ca81647fd3f0e9efc6d21157ab87a9a13683daea7365458ed13eab02b96",
-    "summary": "People gathered at a house near the University of Cincinnati tumbled to the ground from a third-floor balcony, the fire department said. One person was in critical condition.",
-    "ingested_utc": "2025-10-18T04:15:13Z"
-  },
-  {
-    "published_utc": "2025-10-18",
-    "retrieved_date": "2025-10-18",
-    "retrieved_utc": "2025-10-18T04:15:13Z",
-    "source": "NYTimes_World",
-    "title": "The Spritzes and Carbonaras That Ate Italy",
-    "url": "https://www.nytimes.com/2025/10/18/world/europe/italy-tourism-restaurants.html",
-    "id_key": "4853205791ae7797b9edb0e1dea6a1481bf59d4784106677953394d41f61fc38",
-    "summary": "Tourism has turned some Italian streets into monochromatic eating zones. Some officials have banned the opening of new restaurants.",
-    "ingested_utc": "2025-10-18T04:15:13Z"
-  },
-  {
-    "published_utc": "2025-10-18",
-    "retrieved_date": "2025-10-18",
-    "retrieved_utc": "2025-10-18T04:13:01Z",
-    "source": "Guardian_World",
-    "title": "AI chatbots are hurting children, Australian education minister warns as anti-bullying plan announced",
-    "url": "https://www.theguardian.com/technology/2025/oct/18/ai-chatbots-are-hurting-children-australian-education-minister-warns-as-anti-bullying-plan-announced",
-    "id_key": "253276c54f8fcde4c07392167d0f62318de91501d01f77a0c8be4ea85a1577ff",
-    "summary": "Jason Clare says artificial intelligence is ‘supercharging bullying’ to a ‘terrifying’ extent Get our breaking news email , free app or daily news podcast A disturbing new trend of AI chatbots bullying children and even encouraging them to take their own lives has the Australian government very concerned. Speaking to media on Saturday, the federal education minister, Jason Clare, said artificial intelligence was “supercharging” bullying. Continue reading...",
-    "ingested_utc": "2025-10-18T04:13:01Z"
-  },
-  {
-    "published_utc": "2025-10-18",
-    "retrieved_date": "2025-10-18",
-    "retrieved_utc": "2025-10-18T03:40:09Z",
-    "source": "AlJazeera_All",
-    "title": "Kremlin envoy proposes ‘Putin-Trump tunnel’ to link Russia, US",
-    "url": "https://www.aljazeera.com/news/2025/10/18/kremlin-envoy-proposes-putin-trump-tunnel-to-link-russia-us?traffic_source=rss",
-    "id_key": "7a6b398715d60f969a4ba97bf1aeb00fc14f0e5c31746b2614e3b3370ec756dc",
-    "summary": "Siberia-Alaska link could 'unlock' resources and be built with Elon Musk's The Boring Company, says Kirill Dmitriev.",
-    "ingested_utc": "2025-10-18T03:40:09Z"
-  },
-  {
-    "published_utc": "2025-10-18",
-    "retrieved_date": "2025-10-18",
-    "retrieved_utc": "2025-10-18T03:07:43Z",
-    "source": "HackerNews_Top",
-    "title": "Show HN: ServiceRadar – open-source Network Observability Platform",
-    "url": "https://github.com/carverauto/serviceradar",
-    "id_key": "743163aeb7810342e08bd47ed13206cf17266be1c9368215e2f3a737b9a5e10d",
-    "summary": "Comments",
-    "ingested_utc": "2025-10-18T03:07:43Z"
-  },
-  {
-    "published_utc": "2025-10-18",
-    "retrieved_date": "2025-10-18",
-    "retrieved_utc": "2025-10-18T03:07:28Z",
-    "source": "FinancialPost_Business",
-    "title": "Westhaven Gold Provides Corporate Update",
-    "url": "https://financialpost.com/globe-newswire/westhaven-gold-provides-corporate-update-2",
-    "id_key": "ad0661dbc898588f6109597c217496e05f5187706bce9be18e1567dec411848a",
-    "summary": "VANCOUVER, British Columbia, Oct. 17, 2025 (GLOBE NEWSWIRE) — Westhaven Gold Corp. (TSX-V:WHN) announces the departure of VP Corporate Development & Investor Relations Sean Thompson from the Company. Gareth Thomas, Director of Westhaven stated “On behalf of the Board of Directors of Westhaven, I’d like to thank Sean for his important contributions to the Company […]",
-    "ingested_utc": "2025-10-18T03:07:28Z"
-  },
-  {
-    "published_utc": "2025-10-18",
-    "retrieved_date": "2025-10-18",
-    "retrieved_utc": "2025-10-18T03:07:22Z",
-    "source": "AlJazeera_All",
-    "title": "Lebanon court orders son of late Libyan leader Gaddafi freed on $11m bail",
-    "url": "https://www.aljazeera.com/news/2025/10/18/lebanon-court-orders-son-of-late-libyan-leader-gaddafi-freed-on-11m-bail?traffic_source=rss",
-    "id_key": "eb798091b92186ab07533bd1558af1738af110c7facc2e20d8e0d8cdcbc0e682",
-    "summary": "Hannibal Gaddafi, youngest son of Muammar Gaddafi, has been held for nearly a decade without trial in Lebanon.",
-    "ingested_utc": "2025-10-18T03:07:22Z"
-  },
-  {
-    "published_utc": "2025-10-18",
-    "retrieved_date": "2025-10-18",
-    "retrieved_utc": "2025-10-18T03:07:22Z",
-    "source": "AlJazeera_All",
-    "title": "India: How is the ethnic conflict in Manipur affecting ordinary citizens?",
-    "url": "https://www.aljazeera.com/video/101-east/2025/10/18/india-how-is-the-ethnic-conflict-in-manipur-affecting-ordinary-citizens?traffic_source=rss",
-    "id_key": "0aed2fb3ae7f5a80e3e51bcea1222f5e6d8f7f594b16b42c433d0b64d4ad92fe",
-    "summary": "101 East travels to northeast India, where a brutal civil war has killed hundreds and displaced tens of thousands.",
-    "ingested_utc": "2025-10-18T03:07:22Z"
   }
 ]
