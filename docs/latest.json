@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-10-21",
     "retrieved_date": "2025-10-21",
+    "retrieved_utc": "2025-10-21T06:50:50Z",
+    "source": "FinancialPost_Business",
+    "title": "Treasury 10-Year Yields May Hit 3.75% on Oil Slide, Yardeni Says",
+    "url": "https://financialpost.com/pmn/business-pmn/treasury-10-year-yields-may-hit-3-75-on-oil-slide-yardeni-says",
+    "id_key": "3f6617ba8a10ef9d71758d8804a228fb521cbeb95e044433c5d0754498ba9f9f",
+    "summary": "Falling oil prices may drive benchmark Treasury yields back to levels last seen more than a year ago, according to Wall Street research veteran Ed Yardeni.",
+    "ingested_utc": "2025-10-21T06:50:50Z"
+  },
+  {
+    "published_utc": "2025-10-21",
+    "retrieved_date": "2025-10-21",
+    "retrieved_utc": "2025-10-21T06:47:39Z",
+    "source": "Guardian_World",
+    "title": "October heat records broken across Australia as Sydney braces for temperatures way above the norm",
+    "url": "https://www.theguardian.com/environment/2025/oct/21/australia-weather-october-heat-records-sydney-birdsville-temperature-forecast",
+    "id_key": "0357c301f5b12bc0464773a4189faac12d69686031333bda6abca7fa3ae90762",
+    "summary": "Birdsville sets new high as BoM forecasts more record hot weather, with heatwave warnings in place in some states Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast October heat records have been broken in several states this week as authorities in New South Wales prepare for temperatures above the norm to hit Sydney and the east coast of Australia. The Queensland outback town of Birdsville broke a new record on Tuesday, hitting 46.1C at 2.28pm local time, according to the Bureau of Meteorology, making it the highest temperature recorded in the state in October. The state’s previous October record was 45.1C at Birdsville police station on 31 October 1995. Continue reading...",
+    "ingested_utc": "2025-10-21T06:47:39Z"
+  },
+  {
+    "published_utc": "2025-10-21",
+    "retrieved_date": "2025-10-21",
+    "retrieved_utc": "2025-10-21T06:47:39Z",
+    "source": "Guardian_World",
+    "title": "UK borrowing reaches five-year high for September at £20.2bn",
+    "url": "https://www.theguardian.com/business/2025/oct/21/uk-borrowing-high-september-debt-public-finances-rachel-reeves",
+    "id_key": "ea71123aea5d4ca9a3e84fd7a362966531f94ee6371c1dc6a3fac628debb47d5",
+    "summary": "Rising debt interest and welfare costs push public finances deeper into red before Rachel Reeves’s budget Business live – lates updates Government borrowing was the highest for five years in September after rising debt interest costs and higher welfare payments pushed the public finances deeper into the red. Figures from the Office for National Statistics (ONS) showed public sector net borrowing – the difference between public spending and income – hit £20.2bn last month, up £1.6bn from the same month last year and the highest September borrowing since 2020. Continue reading...",
+    "ingested_utc": "2025-10-21T06:47:39Z"
+  },
+  {
+    "published_utc": "2025-10-21",
+    "retrieved_date": "2025-10-21",
     "retrieved_utc": "2025-10-21T06:20:40Z",
     "source": "FinancialPost_Business",
     "title": "Baszucki Group Announces Six Recipients of the Metabolic Psychiatry Scholar Award for Emerging Scientific Leaders Advancing Mental Health Innovation",
@@ -977,6 +1010,17 @@
     "id_key": "2d88816d69bf0bcf82045a1453a9af67bdbcae991e248ad9c20c0e0316cdc9ee",
     "summary": "The tornado killed one construction worker on a building site, injured 10 others and left four in critical condition A tornado tore through districts north of Paris on Monday, toppling three construction cranes that killed one person and left four others with critical injuries, authorities said. The town of Ermont, about 20km (13 miles) north-east of Paris was worst hit by the sudden twister that caused damage across about 10 districts. Continue reading...",
     "ingested_utc": "2025-10-21T00:52:31Z"
+  },
+  {
+    "published_utc": "2025-10-20",
+    "retrieved_date": "2025-10-21",
+    "retrieved_utc": "2025-10-21T06:47:39Z",
+    "source": "Guardian_World",
+    "title": "White House’s East Wing partially demolished as work begins on Trump’s $250m ballroom",
+    "url": "https://www.theguardian.com/us-news/2025/oct/20/trump-white-house-ballroom-construction",
+    "id_key": "34a61f7385557c111ec69f28d1b1f06981656c85a9336e0cf4c199e387763be6",
+    "summary": "Ex-congressman calls major renovation ‘utter desecration’ as demolition in East Wing reportedly under way Construction crews have started demolishing part of the East Wing of the White House to make way for Donald Trump ’s planned ballroom, prompting widespread criticism on social media and beyond. One former lawmaker even called the renovation an “​​utter desecration”. Continue reading...",
+    "ingested_utc": "2025-10-21T06:47:39Z"
   },
   {
     "published_utc": "2025-10-20",
@@ -10954,49 +10998,5 @@
     "id_key": "a036a1d409a5c78e4fb52062c51178557d654992974c75b2f5bff917f6e701c6",
     "summary": "AMD has been quite busy this month. It first revealed its agreement with OpenAI for 6 gigawatts of power for OpenAI's AI infrastructure across multiple generations of AMD Instinct GPUs. This agreement also included AMD issuing OpenAI a warrant for up to 160 million shares of AMD common stock, ...",
     "ingested_utc": "2025-10-18T13:22:36Z"
-  },
-  {
-    "published_utc": "2025-10-18",
-    "retrieved_date": "2025-10-18",
-    "retrieved_utc": "2025-10-18T13:22:28Z",
-    "source": "Engadget_All",
-    "title": "Google has killed Privacy Sandbox",
-    "url": "https://www.engadget.com/cybersecurity/google-has-killed-privacy-sandbox-130029899.html?src=rss",
-    "id_key": "6ba60d7b5d4ab36db0e31911f00bdbc2142d9c74f20dc6dc2887d1596bfb9b24",
-    "summary": "Google's Privacy Sandbox is officially dead. In an update on the project's website, Google Vice President Anthony Chavez has announced that the company was sunsetting the remaining technologies developed for Sandbox due to their \"low levels of adoption.\" A spokesperson has confirmed to AdWeek that Google isn't just killing those technologies, it's retiring the whole initiative altogether. \"We will be continuing our work to improve privacy across Chrome, Android and the web, but moving away from the Privacy Sandbox branding,\" the spokesperson said. \"We're grateful to everyone who contributed to this initiative, and will continue to collaborate with the industry to develop and advance platform technologies that help support a healthy and thriving web.\" The company launched Privacy Sandbox in 2019 as a future replacement to third-party cookies. It's a set of open standards that are supposed to enable personalized ads without divulging identifying data. Over the years, Google's plans to deprecate third-party cookies got pushed back again and again due to a series of delays and regulatory hurdles. Specifically, both the UK's Competition and Markets Authority (CMA) and the US Department of Justice looked into the Privacy Sandbox out of concerns that it could harm smaller advertisers. In 2024, Google ultimately decided not to kill third-party cookies in Chrome and instead chose to roll out \"a new experience in Chrome that lets people make an informed choice that applies across their web browsing.\" Just this April, Google announced that it wasn't going to make any to changes to how third-party cookies work on the Chrome browser at all, and that it was going to \"maintain [its] current approach to offering users third-party cookie choice in Chrome.\" At the time, the company said that it was going to keep the Privacy Sandbox initiative alive, but things have clearly changed since then. Chavez wrote in the latest update that Google will \"continue to utilize learnings from the retired Privacy Sandbox technologies.\" This article originally appeared on Engadget at https://www.engadget.com/cybersecurity/google-has-killed-privacy-sandbox-130029899.html?src=rss",
-    "ingested_utc": "2025-10-18T13:22:28Z"
-  },
-  {
-    "published_utc": "2025-10-18",
-    "retrieved_date": "2025-10-18",
-    "retrieved_utc": "2025-10-18T13:22:26Z",
-    "source": "WIRED_All",
-    "title": "15 Best Heat Protectant Sprays for Wet and Dry Hair (2025)",
-    "url": "https://www.wired.com/gallery/the-best-heat-protectants-for-hair/",
-    "id_key": "1fdd1f39c6e580bc22e68a4e8e964e2d4cc00a4076469422cc98426c8c27e0ec",
-    "summary": "I've spent almost a year testing dozens of heat protectants for hair. Whether you’re blow-drying, curling, or straightening, these are the best formulas I've found.",
-    "ingested_utc": "2025-10-18T13:22:26Z"
-  },
-  {
-    "published_utc": "2025-10-18",
-    "retrieved_date": "2025-10-18",
-    "retrieved_utc": "2025-10-18T13:22:24Z",
-    "source": "TheVerge_All",
-    "title": "Easy Delivery Co. is a cozy, Lynchian dream",
-    "url": "https://www.theverge.com/games/800733/easy-delivery-co-review-steam",
-    "id_key": "4522344cb51b17d9ebe91ac2d4290f7239bc24446ce1d52965cddc1f68364e9d",
-    "summary": "I have been a fan of David Lynch ever since a friend's older brother interrupted a 13th birthday celebration to insist we all watch Eraserhead. In the realm of horror movies, it's a common way to be introduced to a seminal film: be it in a friend's basement, illicit underage viewings, or a stray recommendation […]",
-    "ingested_utc": "2025-10-18T13:22:24Z"
-  },
-  {
-    "published_utc": "2025-10-18",
-    "retrieved_date": "2025-10-18",
-    "retrieved_utc": "2025-10-18T13:19:36Z",
-    "source": "Guardian_World",
-    "title": "‘No one makes money from them’: with MTV channels switching off, is the music video under threat?",
-    "url": "https://www.theguardian.com/music/2025/oct/18/no-one-makes-money-from-them-with-mtv-channels-switching-off-is-the-music-video-under-threat",
-    "id_key": "f111c7564a77293f482b64139fb55abc4dc955733bd8de1a38ec713bc6dd61a4",
-    "summary": "Five MTV channels will close at the end of the year in the UK, leaving just one – which mostly plays reality TV. And with budgets pinched, directors say they are struggling The launch of MTV, in 1981, ushered in a new era of music. Showing music videos 24 hours a day, the television channel redefined artist marketing and launched the careers of artists such as Michael Jackson and Madonna, whose public personas became inseparable from the gripping, frequently controversial clips they produced to be played on the service. Now, that chapter of music history appears to be drawing to a close, with MTV’s parent company Paramount announcing last week that its five dedicated music channels in the UK – MTV Music, MTV 80s, MTV 90s, Club MTV and MTV Live – will cease broadcasting after 31 December. (The flagship MTV channel, which broadcasts reality programmes such as Catfish, The Hills and Geordie Shore, will remain in operation.) Continue reading...",
-    "ingested_utc": "2025-10-18T13:19:36Z"
   }
 ]
