@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-10-22",
     "retrieved_date": "2025-10-22",
+    "retrieved_utc": "2025-10-22T03:58:35Z",
+    "source": "Nikkei_Asia_Top",
+    "title": "Trump's ASEAN Summit attendance raises stakes for trade, security talks",
+    "url": "https://asia.nikkei.com/politics/international-relations/trump-s-asean-summit-attendance-raises-stakes-for-trade-security-talks",
+    "id_key": "15e85368d494784024e8d9405486f18d990f3afceaa957e5f3b7dddf7c7309a2",
+    "summary": "",
+    "ingested_utc": "2025-10-22T03:58:35Z"
+  },
+  {
+    "published_utc": "2025-10-22",
+    "retrieved_date": "2025-10-22",
+    "retrieved_utc": "2025-10-22T03:58:29Z",
+    "source": "FinancialPost_Business",
+    "title": "Japan’s exports and imports grow in September despite Trump’s tariffs",
+    "url": "https://financialpost.com/pmn/japans-exports-and-imports-grow-in-september-despite-trumps-tariffs",
+    "id_key": "08cf0f5eead362910645e4e87e1787b86ee98d98891be7f4797b6ed978317ef8",
+    "summary": "TOKYO (AP) — Japan’s exports grew 4.2% in September, according to government data Wednesday, on robust shipments to Asia that offset a decline in exports to the U.S., which were impacted by President Donald Trump’s tariffs. Japan’s exports to Asia jumped 9.2% last month compared to the same period a year earlier, according to Japanese […]",
+    "ingested_utc": "2025-10-22T03:58:29Z"
+  },
+  {
+    "published_utc": "2025-10-22",
+    "retrieved_date": "2025-10-22",
+    "retrieved_utc": "2025-10-22T03:55:59Z",
+    "source": "CoinJournal",
+    "title": "Crypto slump worsens as Bitcoin slips amid a broad market sell-off",
+    "url": "https://coinjournal.net/news/crypto-slump-worsens-as-bitcoin-slips-amid-a-broad-market-sell-off/",
+    "id_key": "4a33ec52fe368560315141c439c076af75383ff8a80118cceee8a940d30d7ac0",
+    "summary": "The crypto market’s October slump has worsened, with a 3 percent drop. Bitcoin slipped below 110,000 dollars and Ethereum fell below $3,900. The market has lost roughly $370 billion in value this month alone. The cryptocurrency market’s brutal October slump has worsened, with a fresh 3 percent drop sending Bitcoin below the key $110,000 level and […] The post Crypto slump worsens as Bitcoin slips amid a broad market sell-off appeared first on CoinJournal .",
+    "ingested_utc": "2025-10-22T03:55:59Z"
+  },
+  {
+    "published_utc": "2025-10-22",
+    "retrieved_date": "2025-10-22",
     "retrieved_utc": "2025-10-22T03:33:23Z",
     "source": "AlJazeera_All",
     "title": "Israel, Hamas return more bodies of captives under Gaza ceasefire deal",
@@ -625,6 +658,17 @@
     "id_key": "d052fa3e8c6e54d604a603710baf0e25deaa36d28cda2fa3d695b5cd2918ff35",
     "summary": "Paul Ingrassia says ‘unfortunately I do not have enough Republican votes at this time’ and withdraws nomination The Central Intelligence Agency is providing the bulk of the intelligence used to carry out the controversial lethal air strikes by the Trump administration against small, fast-going boats in the Caribbean Sea suspected of carrying drugs from Venezuela, according to three sources familiar with the operations. Experts say the agency’s central role means much of the evidence used to select which alleged smugglers to kill on the open sea will almost certainly remain secret. Continue reading...",
     "ingested_utc": "2025-10-22T00:53:46Z"
+  },
+  {
+    "published_utc": "2025-10-21",
+    "retrieved_date": "2025-10-22",
+    "retrieved_utc": "2025-10-22T03:58:21Z",
+    "source": "TheStreet_Top",
+    "title": "Popular pizza chain files bankruptcy in key market",
+    "url": "https://www.thestreet.com/restaurants/major-pizza-chain-suffers-major-bankruptcy-in-key-market",
+    "id_key": "cb173bbf76d589151257286e27f0e83a37cf35a3a9dde575fa594dba8329f1a0",
+    "summary": "It's never been easy going for restaurant operators, given that an estimated 20% of restaurants close their doors within the first year and up to half are shuttered by the five-year mark. But it's been particularly challenging for the dining industry since Covid lockdowns forced restaurants and ...",
+    "ingested_utc": "2025-10-22T03:58:21Z"
   },
   {
     "published_utc": "2025-10-21",
@@ -10954,49 +10998,5 @@
     "id_key": "982822965f88d50a51a40cf8f97c0d0ea82d4dcf8a12f1b208a42a070b2a08c7",
     "summary": "Rare handles could be priced at anywhere from $2,500 to over seven figures, X says.",
     "ingested_utc": "2025-10-20T14:13:54Z"
-  },
-  {
-    "published_utc": "2025-10-20",
-    "retrieved_date": "2025-10-20",
-    "retrieved_utc": "2025-10-20T14:13:53Z",
-    "source": "TheVerge_All",
-    "title": "Zocdoc CEO: ‘Dr. Google is going to be replaced by Dr. AI’",
-    "url": "https://www.theverge.com/podcast/801767/zocdoc-ceo-oliver-kharraz-ai-medical-healthcare-doctors",
-    "id_key": "19852b8981399cc026341f312f9533243fea8b18cade565c94a2c0487c7678f9",
-    "summary": "Today’s Decoder episode is a special one: I’m talking to Zocdoc CEO Oliver Kharraz, and we chatted live onstage at the TechFutures conference here in New York City. You’re almost certainly familiar with Zocdoc — it’s a platform that helps people find and book appointments with doctors. It’s a classic of the early app economy, […]",
-    "ingested_utc": "2025-10-20T14:13:53Z"
-  },
-  {
-    "published_utc": "2025-10-20",
-    "retrieved_date": "2025-10-20",
-    "retrieved_utc": "2025-10-20T14:13:53Z",
-    "source": "TheVerge_All",
-    "title": "These nonprofits lobbied to regulate OpenAI — then the subpoenas came",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/801994/openai-subpoenas-intimidation-tactics-nonprofits-elon-musk-restructuring",
-    "id_key": "fda1bb212fc4aec1d58b910dc3a6b168985ca5f5e8a008d12278b37fe40baf3c",
-    "summary": "On August 19th at 7:07PM, Tyler Johnston received a message from his roommate. A man, the text said, was knocking on their door with legal documents to serve. Johnston is the founder and sole employee of The Midas Project: a nonprofit that monitors the practices of \"leading AI companies to ensure transparency, privacy, and ethical […]",
-    "ingested_utc": "2025-10-20T14:13:53Z"
-  },
-  {
-    "published_utc": "2025-10-20",
-    "retrieved_date": "2025-10-20",
-    "retrieved_utc": "2025-10-20T14:13:53Z",
-    "source": "TheVerge_All",
-    "title": "Major AWS outage took down Fortnite, Alexa, Snapchat, and more",
-    "url": "https://www.theverge.com/news/802486/aws-outage-alexa-fortnite-snapchat-offline",
-    "id_key": "397da3ce59e8195486c551a6cb58bae0fabe03bce0603156abac549b767a275d",
-    "summary": "A major Amazon Web Services (AWS) outage took down multiple online services for around four hours this morning, including Amazon, Alexa, Snapchat, Fortnite, ChatGPT, Epic Games Store, Epic Online Services, and more. As of 6:35AM ET, the AWS status checker is reporting that “most AWS Service operations are succeeding normally now,” and some of the […]",
-    "ingested_utc": "2025-10-20T14:13:53Z"
-  },
-  {
-    "published_utc": "2025-10-20",
-    "retrieved_date": "2025-10-20",
-    "retrieved_utc": "2025-10-20T14:13:38Z",
-    "source": "FT_Home",
-    "title": "JPMorgan warns First Brands fallout driving up banks’ funding costs",
-    "url": "https://www.ft.com/content/0fb77ee9-622c-4cf1-bd77-8dd75d196b36",
-    "id_key": "0dd0b70f678313e5f951f0dc03db1b9269bec718acb09fc2c73713e35cc1ceb9",
-    "summary": "Concerns mount about hidden exposure to private capital firms and hedge funds in wake of credit market wobbles",
-    "ingested_utc": "2025-10-20T14:13:38Z"
   }
 ]
