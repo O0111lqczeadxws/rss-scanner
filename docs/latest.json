@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-10-23",
     "retrieved_date": "2025-10-23",
+    "retrieved_utc": "2025-10-23T23:50:34Z",
+    "source": "FinancialPost_Business",
+    "title": "Target is eliminating 1,800 corporate jobs as it looks to reclaim its lost lustre",
+    "url": "https://financialpost.com/pmn/target-is-eliminating-1800-corporate-jobs-as-it-looks-to-reclaim-its-lost-lustre",
+    "id_key": "c575cbe79a48235b5821e2f3ccd27533997bcbcdc832df981beac02447e466fd",
+    "summary": "Target said Thursday that it is eliminating about 1,800 corporate positions in an effort to streamline decision-making and accelerate initiatives to rebuild the flagging discount retailer’s customer base. About 1,000 employees are expected to receive layoff notices next week, and the company also plans to eliminate about 800 vacant jobs, a company spokesperson said. The […]",
+    "ingested_utc": "2025-10-23T23:50:34Z"
+  },
+  {
+    "published_utc": "2025-10-23",
+    "retrieved_date": "2025-10-23",
+    "retrieved_utc": "2025-10-23T23:50:26Z",
+    "source": "TheStreet_Top",
+    "title": "Will September CPI be above or below 3%?",
+    "url": "https://www.thestreet.com/economy/poll-will-september-cpi-be-above-or-below-3",
+    "id_key": "b704beb4d76f8c0ffae46328d9def73045751ef3bfc264d16360cc5a2c044e0c",
+    "summary": "This year, there has been much debate over how fast the Federal Reserve should cut interest rates to stabilize the jobs market, given inflation has been trending higher. So far, Fed Chairman Jerome Powell has taken a mostly wait-and-see approach to interest rates, only reducing them by a quarter ...",
+    "ingested_utc": "2025-10-23T23:50:26Z"
+  },
+  {
+    "published_utc": "2025-10-23",
+    "retrieved_date": "2025-10-23",
     "retrieved_utc": "2025-10-23T23:36:21Z",
     "source": "TheStreet_Top",
     "title": "Walmart is selling an outdoor security camera for $25 with an impressive AI feature",
@@ -10975,28 +10997,6 @@
     "url": "https://financialpost.com/pmn/business-pmn/ge-vernova-sees-gas-turbine-sales-to-hyperscalers-surging",
     "id_key": "9f66517cdfc19ca2e9dd7fe66365e31a9c2cae3eac00e53d49b74f8f5b4f9721",
     "summary": "GE Vernova Inc. expects an increasing amount of its natural gas turbines to be snapped up by big tech firms building data centers.",
-    "ingested_utc": "2025-10-22T14:16:20Z"
-  },
-  {
-    "published_utc": "2025-10-22",
-    "retrieved_date": "2025-10-22",
-    "retrieved_utc": "2025-10-22T14:16:20Z",
-    "source": "FinancialPost_Business",
-    "title": "Crypto Exchange Kraken Says Revenue Doubled in the Third Quarter",
-    "url": "https://financialpost.com/pmn/business-pmn/crypto-exchange-kraken-says-revenue-doubled-in-the-third-quarter",
-    "id_key": "2982e63ee8eb774c76b18c5e386d40b786da5e7163e53f09b3652476774dd71f",
-    "summary": "Cryptocurrency exchange Kraken says revenue more than doubled in the third quarter, as the company gears up for a public listing in the US next year.",
-    "ingested_utc": "2025-10-22T14:16:20Z"
-  },
-  {
-    "published_utc": "2025-10-22",
-    "retrieved_date": "2025-10-22",
-    "retrieved_utc": "2025-10-22T14:16:20Z",
-    "source": "FinancialPost_Business",
-    "title": "Saviynt Announces Integration with the CrowdStrike Falcon Platform",
-    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/saviynt-announces-integration-with-the-crowdstrike-falcon-platform",
-    "id_key": "a5aa26649302de68ff87dc55c800004b060634771d5a2be369025069ef57e896",
-    "summary": "LOS ANGELES — Saviynt today announced a new integration with the CrowdStrike Falcon® platform, now available on the CrowdStrike Marketplace. The bidirectional integration enables Saviynt to leverage CrowdStrike’s industry-leading endpoint, identity, and cloud telemetry to drive dynamic, risk-based access governance decisions, while CrowdStrike Falcon® Next-Gen SIEM ingests Saviynt identity data to deliver unified visibility, faster […]",
     "ingested_utc": "2025-10-22T14:16:20Z"
   }
 ]
