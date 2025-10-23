@@ -2,6 +2,72 @@
   {
     "published_utc": "2025-10-23",
     "retrieved_date": "2025-10-23",
+    "retrieved_utc": "2025-10-23T23:13:47Z",
+    "source": "HackerNews_Top",
+    "title": "How memory maps (MMAP) deliver faster file access in Go",
+    "url": "https://info.varnish-software.com/blog/how-memory-maps-mmap-deliver-25x-faster-file-access-in-go",
+    "id_key": "79ba49affbd325b3dd1f0a080af0492f9c10d9e784313adbddc5f552d14286f6",
+    "summary": "Comments",
+    "ingested_utc": "2025-10-23T23:13:47Z"
+  },
+  {
+    "published_utc": "2025-10-23",
+    "retrieved_date": "2025-10-23",
+    "retrieved_utc": "2025-10-23T23:13:47Z",
+    "source": "HackerNews_Top",
+    "title": "/Dev/null is an ACID compliant database",
+    "url": "https://jyu.dev/blog/why-dev-null-is-an-acid-compliant-database/",
+    "id_key": "1f50e93eb1bfc4e47a253515969c78f94a2b97972afd6e5a91bc91325c838975",
+    "summary": "Comments",
+    "ingested_utc": "2025-10-23T23:13:47Z"
+  },
+  {
+    "published_utc": "2025-10-23",
+    "retrieved_date": "2025-10-23",
+    "retrieved_utc": "2025-10-23T23:13:33Z",
+    "source": "FinancialPost_Business",
+    "title": "Xtract One Announces Fiscal 2025 Fourth Quarter and Full Year Results",
+    "url": "https://financialpost.com/globe-newswire/xtract-one-announces-fiscal-2025-fourth-quarter-and-full-year-results",
+    "id_key": "83110de4674273df78d2f20df6abe931e352d4b9e6ae6aeab35fbf607fe5841a",
+    "summary": "Total Backlog Climbs to Nearly $50 Million; Company Expects Revenue Acceleration in Fiscal 2026 TORONTO, Oct. 23, 2025 (GLOBE NEWSWIRE) — Xtract One Technologies Inc. (TSX: XTRA) (OTCQX: XTRAF) (FRA: 0PL) (“Xtract One” or the “Company”) a leading technology-driven threat detection and security solution that prioritizes the patron access experience by leveraging AI, today announced […]",
+    "ingested_utc": "2025-10-23T23:13:33Z"
+  },
+  {
+    "published_utc": "2025-10-23",
+    "retrieved_date": "2025-10-23",
+    "retrieved_utc": "2025-10-23T23:13:16Z",
+    "source": "WIRED_All",
+    "title": "Trump's Investment in Intel Is Paying Off",
+    "url": "https://www.wired.com/story/intel-earnings-chips-semiconductors-investment/",
+    "id_key": "b824481f035a21f00c4c0a8b1a0ed4a5b68daf851336d550de6fb6c585b1837b",
+    "summary": "The chipmaker reported higher-than-expected revenue on Thursday, and its stock price has risen more than 90 percent since August.",
+    "ingested_utc": "2025-10-23T23:13:16Z"
+  },
+  {
+    "published_utc": "2025-10-23",
+    "retrieved_date": "2025-10-23",
+    "retrieved_utc": "2025-10-23T23:10:35Z",
+    "source": "Guardian_World",
+    "title": "EU leaders fail to agree to use frozen Russian assets to defend Ukraine",
+    "url": "https://www.theguardian.com/world/2025/oct/23/zelenskyy-presses-for-eu-decision-on-using-russia-assets-to-defend-ukraine",
+    "id_key": "5723fcd00d555dd45ae7c5b2416df6001975a4f78830a81030d2520ac4156323",
+    "summary": "Belgium derails proposal to use billions located in Brussels to fund €140bn loan to Ukraine for its war effort EU leaders have swerved a decision on using Russia’s frozen assets to fund Ukraine’s defence, despite a plea from Volodymyr Zelenskyy to take swift action to make Moscow pay for its war. Hopes of agreeing a new way of funding Ukraine’s war effort were dashed after opposition from Belgium, which hosts most of the Russian central bank funds immobilised in the EU at the Brussels-based institution Euroclear. Continue reading...",
+    "ingested_utc": "2025-10-23T23:10:35Z"
+  },
+  {
+    "published_utc": "2025-10-23",
+    "retrieved_date": "2025-10-23",
+    "retrieved_utc": "2025-10-23T23:10:35Z",
+    "source": "Guardian_World",
+    "title": "Prostate cancer drug that can halve death risk to be offered to thousands in England",
+    "url": "https://www.theguardian.com/society/2025/oct/24/prostate-cancer-drug-darolutamide-to-be-offered-england-nhs",
+    "id_key": "1534223849ff7947e5f80c98e0d40e6c4124176323d825ebee101849a96e0389",
+    "summary": "At least 6,000 men a year with hormone-sensitive cancer to get access to darolutamide, which blocks growth with fewer side-effects Thousands of men with advanced prostate cancer in England are to be offered a drug that can halve the risk of death. In guidance published on Friday, the National Institute for Health and Care Excellence (Nice) gave the green light to darolutamide, which attacks the disease by starving cancer cells and has fewer side-effects than existing treatments. Continue reading...",
+    "ingested_utc": "2025-10-23T23:10:35Z"
+  },
+  {
+    "published_utc": "2025-10-23",
+    "retrieved_date": "2025-10-23",
     "retrieved_utc": "2025-10-23T22:44:23Z",
     "source": "HackerNews_Top",
     "title": "Memory Maps (MMAP) Deliver 25x Faster File Access in Go",
@@ -10932,71 +10998,5 @@
     "id_key": "92d4725e2a242f1e9c3ed991cd76168d37932aa186f9bb48fb6727a080913486",
     "summary": "The Liberal leader is trying to land a position that pleases everyone – but in doing so may end up with policy that is neither credible nor popular Get our breaking news email , free app or daily news podcast Coalition climate and energy policies are always the product of compromise, whereby the aspirations of the remaining climate-conscious MPs are watered down or sacrificed to preserve the internal peace. Scott Morrison committed to net zero by 2050, but in slogan only, while showering the Nationals with billions of dollars for regional Australia and an extra seat in cabinet . Continue reading...",
     "ingested_utc": "2025-10-22T14:15:15Z"
-  },
-  {
-    "published_utc": "2025-10-22",
-    "retrieved_date": "2025-10-22",
-    "retrieved_utc": "2025-10-22T14:15:15Z",
-    "source": "Guardian_World",
-    "title": "UK grooming gangs inquiry suffers fresh setback as another potential chair pulls out",
-    "url": "https://www.theguardian.com/society/2025/oct/22/grooming-gang-survivors-ministers-inquiry-shabana-mahmood",
-    "id_key": "50bc10d9933e687912e5c4cbf14f5956f1ede50fdc5497226bf1de7400ad389f",
-    "summary": "Jim Gamble, a former police chief and frontrunner for the role, withdraws amid growing discontent among survivors UK politics live – latest updates A frontrunner to chair the national grooming gangs inquiry has withdrawn amid growing discontent from survivors over the government’s handling of the process. Jim Gamble, a former head of the Child Exploitation and Online Protection Centre, is the second candidate to step down over the last two days, government sources have confirmed. Continue reading...",
-    "ingested_utc": "2025-10-22T14:15:15Z"
-  },
-  {
-    "published_utc": "2025-10-22",
-    "retrieved_date": "2025-10-22",
-    "retrieved_utc": "2025-10-22T14:14:47Z",
-    "source": "Arbitrum_Nitro_Releases",
-    "title": "Arbitrum Nitro v3.8.0-rc.16",
-    "url": "https://github.com/OffchainLabs/nitro/releases/tag/v3.8.0-rc.16",
-    "id_key": "7b49a052269316bdbdc1ad5ebc02b274ae62b470e787cc830629ed095371a4c0",
-    "summary": "This release is available as a Docker Image on Docker Hub at offchainlabs/nitro-node:TBD This Docker image specifies default flags in its entrypoint which should be replicated if you're overriding the entrypoint: /usr/local/bin/nitro --validation.wasm.allowed-wasm-module-roots /home/user/nitro-legacy/machines,/home/user/target/machines If you're running a validator without a split validation server (this will be true of most validators), you should instead use the image offchainlabs/nitro-node:TBD-validator which has the extra script /usr/local/bin/split-val-entry.sh as the entrypoint. Note This is a Release Candidate, and should only be used to upgrade nodes that are already running a previous release candidate. Special Note about ArbOS 50 Support Release v3.8.0-rc.16 is unrelated to ArbOS50. A future version of Nitro that supports ArbOS50 will eventually be mandatory if the DAO votes to adopt ArbOS50, but this will be addressed later. Special Note For Database Schema Nitro 3.8.0 changes the database schema, so once a database has been run with 3.8.0, the database can no longer be opened with Nitro 3.7.x. Schema Change ArbOS database schema version is updated to version 2. This is a one-way upgrade and nodes may not be downgraded to a pre-v3.8.0 release without restoring their database from a backup. What's Changed Fix external signer support User-facing Changes Port - Fix Fusaka Cell Proof support for external signers ( #3910 ): #3911 Full Changelog : v3.8.0-rc.15...v3.8.0-rc.16",
-    "ingested_utc": "2025-10-22T14:14:47Z"
-  },
-  {
-    "published_utc": "2025-10-22",
-    "retrieved_date": "2025-10-22",
-    "retrieved_utc": "2025-10-22T14:13:40Z",
-    "source": "Unchained",
-    "title": "IRON Token Jumps 160% After Coinbase CEO Teases ‘Private Transactions’ on Base",
-    "url": "https://unchainedcrypto.com/iron-token-jumps-160-after-coinbase-ceo-teases-private-transactions-on-base/",
-    "id_key": "10bb560b7aa977c6320405c9cf14f6a5c7266fb472f7196e628d7c4a1745a9ba",
-    "summary": "Coinbase CEO Brian Armstrong revealed that “private transactions” could soon be available on Base, the Ethereum layer 2 network incubated by Coinbase. “We acquired the Iron Fish team back in Mar 2025 to start working on this. More to share soon,” said Armstrong on X. Iron Fish is a privacy-focused ... The post IRON Token Jumps 160% After Coinbase CEO Teases ‘Private Transactions’ on Base appeared first on Unchained .",
-    "ingested_utc": "2025-10-22T14:13:40Z"
-  },
-  {
-    "published_utc": "2025-10-22",
-    "retrieved_date": "2025-10-22",
-    "retrieved_utc": "2025-10-22T14:13:34Z",
-    "source": "CryptoBriefing",
-    "title": "Robinhood lists BNB token",
-    "url": "https://cryptobriefing.com/robinhood-bnb-token-listing/",
-    "id_key": "907de7d579ace95ab626958048945736704cf0b02f29dacd0f19a5698d276dc2",
-    "summary": "Robinhood's BNB listing signifies increased US market access and interoperability, potentially boosting Binance's influence in the crypto space. The post Robinhood lists BNB token appeared first on Crypto Briefing .",
-    "ingested_utc": "2025-10-22T14:13:34Z"
-  },
-  {
-    "published_utc": "2025-10-22",
-    "retrieved_date": "2025-10-22",
-    "retrieved_utc": "2025-10-22T14:13:14Z",
-    "source": "Guardian_World",
-    "title": "‘Hogwash’ that Israel is a US client state, says Netanyahu",
-    "url": "https://www.theguardian.com/world/2025/oct/22/netanyahu-calls-israel-client-state-us-claim-hogwash",
-    "id_key": "aadadff80f3e64e0db6683fb91a867b2b92c546ad3bdb1876b55f393a0cad735",
-    "summary": "Israeli PM dismisses claims despite Washington providing estimated 68% of country’s foreign-sourced weapons Middle East crisis – live updates On the second day of a US diplomatic push in Israel aimed at shoring up the fragile Gaza ceasefire with Hamas, Israel’s prime minister, Benjamin Netanyahu, on Wednesday dismissed suggestions that his country is a client state of Washington, calling the idea “hogwash”. Despite the US providing an estimated 68% of Israel’s foreign-sourced weapons, in response to a question whether Israel was beholden to Washington, Netanyahu said: ‘‘I want to put it very clearly. One week they say that Israel controls the United States. A week later they say the United States controls Israel. This is hogwash.” Continue reading...",
-    "ingested_utc": "2025-10-22T14:13:14Z"
-  },
-  {
-    "published_utc": "2025-10-22",
-    "retrieved_date": "2025-10-22",
-    "retrieved_utc": "2025-10-22T14:13:14Z",
-    "source": "Guardian_World",
-    "title": "Gaza ceasefire could lead to more Israeli alliances in Middle East, Vance says at Netanyahu meeting – as it happened",
-    "url": "https://www.theguardian.com/world/live/2025/oct/22/israel-gaza-ceasefire-jd-vance-netanyahu-hamas-hostages-middle-east-latest-news-updates",
-    "id_key": "533060c93d08822d55bb5c448679a2715fa77e3a33c88cfedcd786ed6790be20",
-    "summary": "US vice president is in Israel for meeting with Israeli PM amid fragile Gaza ceasefire Israel has completed the identification of the bodies of two more hostages, prime minister Benjamin Netanyahu’s office said on Wednesday, the Associated Press (AP) reports. Authorities identified the deceased hostages as Arie Zalmanovich and Tamir Adar. Their bodies were transported in coffins by the Red Cross and handed over to the Israeli military in the Gaza Strip. A military ceremony attended by the chief rabbi of the Israel Defense Forces was planned for later in the day, Netanyahu’s office said. The two were killed in kibbutz Nir Oz during the 7 October 2023, attack by Hamas militants, which triggered the two-year war. Since the ceasefire began on 10 October, the remains of 15 hostages have been returned to Israel. Another 13 still need to be recovered in Gaza and handed over, a key element to the ceasefire agreement. Meanwhile, the burial of more than 50 Palestinians is set for Wednesday at a cemetery in Deir al-Balah, Gaza. The bodies were displayed outside Nasser hospital in Khan Younis ahead of burial. The 50 are among the 165 bodies of Palestinians that Israel has so far handed over. Continue reading...",
-    "ingested_utc": "2025-10-22T14:13:14Z"
   }
 ]
