@@ -2,6 +2,83 @@
   {
     "published_utc": "2025-10-23",
     "retrieved_date": "2025-10-23",
+    "retrieved_utc": "2025-10-23T11:29:32Z",
+    "source": "HackerNews_Top",
+    "title": "Egg prices vs. Consumer Price Index since 1980",
+    "url": "https://fred.stlouisfed.org/graph/?g=1Nm5b",
+    "id_key": "af00ca6ece1112553d8d659861c858505d5d0aaa5ce66dbb4a4bccbc2e7fda8c",
+    "summary": "Comments",
+    "ingested_utc": "2025-10-23T11:29:32Z"
+  },
+  {
+    "published_utc": "2025-10-23",
+    "retrieved_date": "2025-10-23",
+    "retrieved_utc": "2025-10-23T11:29:18Z",
+    "source": "FinancialPost_Business",
+    "title": "Blackstone Profit Surges 48% as ‘Deal Dam’ Begins to Break",
+    "url": "https://financialpost.com/pmn/business-pmn/blackstone-profit-surges-48-as-deal-dam-begins-to-break",
+    "id_key": "75d13d2196c1bb53b42bc3a42e7f0d04c5a3baf8ab849bb8f27e7fcff9ba09a5",
+    "summary": "The world’s largest alternative asset manager sent the strongest signal yet that dealmaking is coming back.",
+    "ingested_utc": "2025-10-23T11:29:18Z"
+  },
+  {
+    "published_utc": "2025-10-23",
+    "retrieved_date": "2025-10-23",
+    "retrieved_utc": "2025-10-23T11:29:18Z",
+    "source": "FinancialPost_Business",
+    "title": "BOE’s Dhingra Says Tariffs Will Hit Growth and Reduce Inflation",
+    "url": "https://financialpost.com/pmn/business-pmn/boes-dhingra-says-tariffs-will-hit-growth-and-reduce-inflation",
+    "id_key": "ce872112e469e01023b7a39265f9dfea1c2a3f67208f0bc3165ac33ec94f5ea0",
+    "summary": "Bank of England rate-setter Swati Dhingra said that US tariffs will drive growth and inflation lower as supply chains become less diverse.",
+    "ingested_utc": "2025-10-23T11:29:18Z"
+  },
+  {
+    "published_utc": "2025-10-23",
+    "retrieved_date": "2025-10-23",
+    "retrieved_utc": "2025-10-23T11:28:44Z",
+    "source": "FT_Home",
+    "title": "Reliance looks at halting oil purchases from sanctions-hit Russian supplier",
+    "url": "https://www.ft.com/content/94acd635-d772-4fae-99b7-f907ba3b0075",
+    "id_key": "768303613ad656a36639c2e350504d7cc718296de9e579b4436ec77a1c3274a9",
+    "summary": "Donald Trump has been putting pressure on New Delhi to stop importing crude from Moscow",
+    "ingested_utc": "2025-10-23T11:28:44Z"
+  },
+  {
+    "published_utc": "2025-10-23",
+    "retrieved_date": "2025-10-23",
+    "retrieved_utc": "2025-10-23T11:28:33Z",
+    "source": "NYTimes_World",
+    "title": "Drug-Smuggling Submarines on Display at Latin American Naval Base",
+    "url": "https://www.nytimes.com/2025/10/22/world/americas/drug-smuggling-submarines.html",
+    "id_key": "9f90aa2a082c23ea22c90e069a8e55616565afc029c6dd7079ae7804b835b87b",
+    "summary": "A display of confiscated vessels at a naval base in Ecuador offers a peek at why drug smuggling is so hard to stop.",
+    "ingested_utc": "2025-10-23T11:28:33Z"
+  },
+  {
+    "published_utc": "2025-10-23",
+    "retrieved_date": "2025-10-23",
+    "retrieved_utc": "2025-10-23T11:26:25Z",
+    "source": "Guardian_World",
+    "title": "Latest EU sanctions against Russia target liquified natural gas",
+    "url": "https://www.theguardian.com/world/2025/oct/23/latest-eu-sanctions-against-russia-target-liquified-natural-gas",
+    "id_key": "b0fad3178ed267880ca1748ce631afd7727b5222a44d6039131b0137a7faa910",
+    "summary": "Measures also add 117 shadow fleet vessels to list of those suspected of illegal oil shipments and banned from ports Europe live – latest updates The EU has agreed its 19th set of sanctions against Russia, including its first-ever measures targeting Russian liquified natural gas. The package, which also targets shadow fleet vessels that Russia uses to evade an oil price cap, was formally approved as EU leaders arrived in Brussels for talks on supporting Ukraine’s war effort. Continue reading...",
+    "ingested_utc": "2025-10-23T11:26:25Z"
+  },
+  {
+    "published_utc": "2025-10-23",
+    "retrieved_date": "2025-10-23",
+    "retrieved_utc": "2025-10-23T11:26:25Z",
+    "source": "Guardian_World",
+    "title": "Jess Phillips has full confidence of PM, says minister, after grooming gang survivors call for her to quit inquiry – UK politics live",
+    "url": "https://www.theguardian.com/politics/live/2025/oct/23/jess-phillips-grooming-gangs-inquiry-keir-starmer-labour-uk-politics-latest-news",
+    "id_key": "228a6e2a33dcb7bcab7b399f49d5e8875ea6e32737aa0014f2ceacae8b8fc005",
+    "summary": "The four survivors to quit the inquiry’s panel said they would only return if Phillips was removed Rachel Reeves has announced a £500m investment package for new homes and stronger transport links between Oxford and Cambridge as part of a bid to create “Europe’s Silicon Valley” in southern England, PA Media reports. PA says: The Cowley Branch railway line in Oxford will reopen with new stations in Littlemore and Cowley, which the Treasury said would support up to 10,000 new jobs. The investment will also go towards the development of affordable homes in Cambridge, with plans to launch a consultation on forming a new centrally led development corporation to support the growth of the city. Continue reading...",
+    "ingested_utc": "2025-10-23T11:26:25Z"
+  },
+  {
+    "published_utc": "2025-10-23",
+    "retrieved_date": "2025-10-23",
     "retrieved_utc": "2025-10-23T11:13:13Z",
     "source": "FinancialPost_Business",
     "title": "What Americans think about the environmental impact of AI, according to a new poll",
@@ -10921,82 +10998,5 @@
     "id_key": "a36d24276d11c25bb0f4f2a3f871d8b59677e13580d6fa112927ee6aef888aea",
     "summary": "Laker Jackson was wrongly identified as female at birth, but high school in Mesa won’t let him play basketball with boys An Arizona boy was reportedly barred from trying out for his school’s boys’ basketball team and instead ordered to play with the girls’ team after an error with his original birth certificate. Laker Jackson’s case is the latest to highlight the US’s ongoing debate over school athletics and gender identity amid increasing attempts by elected Republican leaders to ban transgender athletes from participating in sports. Continue reading...",
     "ingested_utc": "2025-10-21T20:34:26Z"
-  },
-  {
-    "published_utc": "2025-10-21",
-    "retrieved_date": "2025-10-21",
-    "retrieved_utc": "2025-10-21T20:34:25Z",
-    "source": "Guardian_Business",
-    "title": "Wegovy maker Novo Nordisk’s chair and six other board members step down",
-    "url": "https://www.theguardian.com/business/2025/oct/21/wegovy-maker-novo-nordisks-chair-and-six-other-board-members-step-down",
-    "id_key": "1c78a443386fbc96b34926156c955eff2c8928ca048068d0f27a256f4f0e84b9",
-    "summary": "Surprise shake-up follows row with majority shareholder, which seeks ‘extensive reconfiguration’ Business live – latest updates The chair of Wegovy maker Novo Nordisk, Helge Lund, and six other board members are stepping down in a surprise shake-up, after a row with the company’s majority shareholder. The Danish manufacturer of the blockbuster anti-obesity jab, and the diabetes drug Ozempic, said Lund, the vice-chair, Henrik Poulsen, and five independent board members would quit at an extraordinary meeting on 14 November. Continue reading...",
-    "ingested_utc": "2025-10-21T20:34:25Z"
-  },
-  {
-    "published_utc": "2025-10-21",
-    "retrieved_date": "2025-10-21",
-    "retrieved_utc": "2025-10-21T20:34:21Z",
-    "source": "BBC_World",
-    "title": "Gaza ceasefire deal going better than expected, Vance says",
-    "url": "https://www.bbc.com/news/articles/cd9k2dj37wqo?at_medium=RSS&at_campaign=rss",
-    "id_key": "f79f4a7da553c750f985543efad76929ac00695ec69f72036fe257efb1abc0e7",
-    "summary": "The US vice-president's visit comes after a flare-up of violence between Israel and Hamas that threatened to derail the 12-day-old truce.",
-    "ingested_utc": "2025-10-21T20:34:21Z"
-  },
-  {
-    "published_utc": "2025-10-21",
-    "retrieved_date": "2025-10-21",
-    "retrieved_utc": "2025-10-21T20:16:21Z",
-    "source": "FinancialPost_Business",
-    "title": "Bitfarms Announces Closing of US$500 Million of Convertible Senior Notes",
-    "url": "https://financialpost.com/globe-newswire/bitfarms-announces-closing-of-us500-million-of-convertible-senior-notes",
-    "id_key": "4b58aae4372728b0d5e470cefa055a6db05d92ef9ba7a1ee94fa9504269dec18",
-    "summary": "Opportunistic capital raise for general corporate purposes Bitfarms used cash on hand to purchase capped calls to offset economic dilution up to a cap of 125% premium to the last reported sale price of Bitfarms’ common shares on Nasdaq on the date of pricing TORONTO, Ontario and NEW YORK, Oct. 21, 2025 (GLOBE NEWSWIRE) — […]",
-    "ingested_utc": "2025-10-21T20:16:21Z"
-  },
-  {
-    "published_utc": "2025-10-21",
-    "retrieved_date": "2025-10-21",
-    "retrieved_utc": "2025-10-21T20:16:21Z",
-    "source": "FinancialPost_Business",
-    "title": "Odyssey Resources Grants Incentive Stock Options",
-    "url": "https://financialpost.com/globe-newswire/odyssey-resources-grants-incentive-stock-options",
-    "id_key": "61acc03b6abab94004e320bcb66e9c389419fd4a9fea22ae166d2bb312737d38",
-    "summary": "TORONTO, Oct. 21, 2025 (GLOBE NEWSWIRE) — Odyssey Resources Limited (“Odyssey” or the “Company”) (NEX: ODX.H) announces that it has granted an aggregate of 1,820,000 incentive stock options (“Options”) under the Company’s share option plan (the “Plan”) to certain directors and officers of the Company, as part of its long term incentive plan (the “Option […]",
-    "ingested_utc": "2025-10-21T20:16:21Z"
-  },
-  {
-    "published_utc": "2025-10-21",
-    "retrieved_date": "2025-10-21",
-    "retrieved_utc": "2025-10-21T20:16:21Z",
-    "source": "FinancialPost_Business",
-    "title": "Protein Industries Canada announces Tyler Groeneveld as new CEO",
-    "url": "https://financialpost.com/globe-newswire/protein-industries-canada-announces-tyler-groeneveld-as-new-ceo",
-    "id_key": "beaf2a98ccfa4b9447b6785cf80c99975fd273aee597b824e7cf63691adaeb64",
-    "summary": "Regina, Sask., Oct. 21, 2025 (GLOBE NEWSWIRE) — Protein Industries Canada is pleased to announce Tyler Groeneveld as its new Chief Executive Officer, effective Monday, October 27. Groeneveld previously served as Chair of Protein Industries Canada’s Board of Directors, bringing deep sector experience and organizational insight to the role. The CEO search committee, chaired by […]",
-    "ingested_utc": "2025-10-21T20:16:21Z"
-  },
-  {
-    "published_utc": "2025-10-21",
-    "retrieved_date": "2025-10-21",
-    "retrieved_utc": "2025-10-21T20:16:21Z",
-    "source": "FinancialPost_Business",
-    "title": "Trump administration pledges to speed some student loan forgiveness after lawsuit",
-    "url": "https://financialpost.com/pmn/trump-administration-pledges-to-speed-some-student-loan-forgiveness-after-lawsuit",
-    "id_key": "20a5381c483f34647e4d4c37e23d2d1d257e78281ac7a21bb9543be04712e99f",
-    "summary": "NEW YORK (AP) — The Trump administration has agreed to resume student loan forgiveness for an estimated 2.5 million borrowers who are enrolled in certain federal repayment plans following a lawsuit from the American Federation of Teachers. Under the agreement reached Friday between the teachers union and the administration, the Education Department will process loan […]",
-    "ingested_utc": "2025-10-21T20:16:21Z"
-  },
-  {
-    "published_utc": "2025-10-21",
-    "retrieved_date": "2025-10-21",
-    "retrieved_utc": "2025-10-21T20:16:15Z",
-    "source": "AlJazeera_All",
-    "title": "Israel’s Netanyahu fires national security chief Tzachi Hanegbi",
-    "url": "https://www.aljazeera.com/news/2025/10/21/israels-netanyahu-fires-national-security-chief-tzachi-hanegbi?traffic_source=rss",
-    "id_key": "e12cdd3e934bfdc2d59af86b6934538df4b981c9e30d6cdc8041bf9460931f0b",
-    "summary": "Netanyahu's office says he will appoint deputy head of the National Security Council, Gil Reich, as acting head.",
-    "ingested_utc": "2025-10-21T20:16:15Z"
   }
 ]
