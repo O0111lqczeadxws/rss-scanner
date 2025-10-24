@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-10-24",
     "retrieved_date": "2025-10-24",
+    "retrieved_utc": "2025-10-24T07:37:47Z",
+    "source": "BBC_Business",
+    "title": "Gold and tech sales drive strong retail sales",
+    "url": "https://www.bbc.com/news/articles/cdxrnz35k1no?at_medium=RSS&at_campaign=rss",
+    "id_key": "88dd1bf3d285be1418f51faa7fe818e7cb457a92f2139a662cecdb4a23aa2ce1",
+    "summary": "While food stores saw very little growth, good weather in July and August boosted clothing sales, according to the ONS.",
+    "ingested_utc": "2025-10-24T07:37:47Z"
+  },
+  {
+    "published_utc": "2025-10-24",
+    "retrieved_date": "2025-10-24",
     "retrieved_utc": "2025-10-24T07:31:07Z",
     "source": "Nikkei_Asia_Top",
     "title": "China's planners vow to 'consolidate and upgrade' manufacturing might",
@@ -10987,16 +10998,5 @@
     "id_key": "5cad18fdd35e29041d789b732d2723fc5544fbf311713f8a3bcc00db52231649",
     "summary": "HTX, advised by Justin Sun, is accused by the FCA of unlawful promotion of cryptoassets",
     "ingested_utc": "2025-10-22T16:45:03Z"
-  },
-  {
-    "published_utc": "2025-10-22",
-    "retrieved_date": "2025-10-22",
-    "retrieved_utc": "2025-10-22T16:44:50Z",
-    "source": "NYTimes_World",
-    "title": "Man Is Shot and Tent Set on Fire Outside Serbia’s Parliament",
-    "url": "https://www.nytimes.com/2025/10/22/world/europe/serbia-shots-fire-parliament-protest.html",
-    "id_key": "9cda6d0658c1a2a4f07d1dea0224f4d20dff78041be46edbaf8f44cee96e907b",
-    "summary": "A suspect was arrested after a blaze broke out among structures erected by supporters of President Aleksandar Vucic. Protests against his government have rumbled for months.",
-    "ingested_utc": "2025-10-22T16:44:50Z"
   }
 ]
