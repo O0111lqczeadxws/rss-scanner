@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-10-24",
     "retrieved_date": "2025-10-24",
+    "retrieved_utc": "2025-10-24T18:58:07Z",
+    "source": "Nikkei_Asia_Top",
+    "title": "'Takaichi trade' boosts Japan's space, nuclear fusion sectors",
+    "url": "https://asia.nikkei.com/business/markets/takaichi-trade-boosts-japan-s-space-nuclear-fusion-sectors",
+    "id_key": "8d391e1c49b48215e196dba6426ee9c8df513145ae16c31fba122128b448013e",
+    "summary": "",
+    "ingested_utc": "2025-10-24T18:58:07Z"
+  },
+  {
+    "published_utc": "2025-10-24",
+    "retrieved_date": "2025-10-24",
+    "retrieved_utc": "2025-10-24T18:57:32Z",
+    "source": "FT_Markets",
+    "title": "US sanctions threaten major blow to Russian oil groups Rosneft and Lukoil",
+    "url": "https://www.ft.com/content/17c52df8-f119-4d25-8869-df98c9386a9b",
+    "id_key": "7c68ec4a0d4f47c29b5c9d434faf8bb764caa7b17952066d64fc8c679b1035ff",
+    "summary": "Decision risks upending the industry by disrupting exports and forcing both companies to adapt",
+    "ingested_utc": "2025-10-24T18:57:32Z"
+  },
+  {
+    "published_utc": "2025-10-24",
+    "retrieved_date": "2025-10-24",
+    "retrieved_utc": "2025-10-24T18:57:02Z",
+    "source": "Guardian_World",
+    "title": "Ontario premier pauses ad criticizing Trump tariffs as US-Canada trade talks remain in limbo – live",
+    "url": "https://www.theguardian.com/us-news/live/2025/oct/24/donald-trump-trade-negotiations-canada-mark-carney-terminated-tariff-letitia-james-new-york-us-politics-live-news",
+    "id_key": "028100fc6c3d3aa9fab229004abf7c0efc9a7a8f0efb1f9bc6ef263fce10d657",
+    "summary": "The Ontario government paid for and produced the ad, which uses a 1987 speech by Ronald Reagan denouncing tariffs; Canadian prime minister says he wants to see progress on trade negotiations US and Canada spar over anti-Trump tariff ad that suspended trade talks The US secretary of state has confirmed Donald Trump’s announcement that all trade negotiations with Canada have been suspended. Marco Rubio spoke during a visit to a civil-military coordination centre in southern Israel. Continue reading...",
+    "ingested_utc": "2025-10-24T18:57:02Z"
+  },
+  {
+    "published_utc": "2025-10-24",
+    "retrieved_date": "2025-10-24",
     "retrieved_utc": "2025-10-24T18:48:17Z",
     "source": "HackerNews_Top",
     "title": "Protein Is a Trap and I Have Fallen into It, or Second Breakfast #19",
@@ -10965,38 +10998,5 @@
     "id_key": "5f77ad698c9d5bfc55d9614c7d193ffc5a0ffe800258874ee7969e66e2d32a54",
     "summary": "For sports fans, there's nothing as exciting as going to see your team play. But what was once an affordable form of entertainment is becoming increasingly more expensive and pricing some loyal fans out.",
     "ingested_utc": "2025-10-23T09:15:29Z"
-  },
-  {
-    "published_utc": "2025-10-23",
-    "retrieved_date": "2025-10-23",
-    "retrieved_utc": "2025-10-23T09:15:29Z",
-    "source": "NPR_Top",
-    "title": "Confused by the legal battles over troop deployments? Here's what to know",
-    "url": "https://www.npr.org/2025/10/23/nx-s1-5581553/national-guard-supreme-court-legal-cases",
-    "id_key": "783496d7a32dac232e404074f94f8389d18e33e933d385a8521b8b49d63c7e0a",
-    "summary": "Two significant legal actions — including a possible decision from the U.S. Supreme Court — are expected this week. While both would be preliminary, they could impact how courts weigh in on such cases going forward.",
-    "ingested_utc": "2025-10-23T09:15:29Z"
-  },
-  {
-    "published_utc": "2025-10-23",
-    "retrieved_date": "2025-10-23",
-    "retrieved_utc": "2025-10-23T09:15:29Z",
-    "source": "NPR_Top",
-    "title": "What Jared Kushner brings to the negotiating table in the Middle East",
-    "url": "https://www.npr.org/2025/10/23/nx-s1-5582806/jared-kushner-mideast-business-ceasefire",
-    "id_key": "247bcb1afe6bdec6524ae95832e2cdb952a2d20178f6a368ab2b269bc7ae7e2d",
-    "summary": "President Trump's son-in-law says his relationships in the Middle East helped him broker a deal between Hamas and Israel. But his business ties also present a potential conflict.",
-    "ingested_utc": "2025-10-23T09:15:29Z"
-  },
-  {
-    "published_utc": "2025-10-23",
-    "retrieved_date": "2025-10-23",
-    "retrieved_utc": "2025-10-23T09:15:22Z",
-    "source": "NYTimes_World",
-    "title": "A Pilgrim Route in Norway: Berries, Bogs and a Viking King",
-    "url": "https://www.nytimes.com/2025/10/23/travel/norway-pilgrimage-route-st-olav-ways.html",
-    "id_key": "ccb28d6e7fdabaa0377665df7af2403b18332261b042722051fc65ee98418f7f",
-    "summary": "Following one of the nine St. Olav Ways, a photographer trudged with soggy feet through tundras, forests and wetlands. Here’s what she saw.",
-    "ingested_utc": "2025-10-23T09:15:22Z"
   }
 ]
