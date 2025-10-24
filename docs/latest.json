@@ -2,6 +2,72 @@
   {
     "published_utc": "2025-10-24",
     "retrieved_date": "2025-10-24",
+    "retrieved_utc": "2025-10-24T20:35:10Z",
+    "source": "TheVerge_All",
+    "title": "Halo: Campaign Evolved is a gorgeous remake that debuts on PS5 and Xbox in 2026",
+    "url": "https://www.theverge.com/news/805174/halo-campaign-evolved-remake-xbox-ps5-release-date",
+    "id_key": "72cb600aa37e504071001a72a2c8d3260d600cc232b28bc924ea7d8aae5592d5",
+    "summary": "Halo Studios has created something special for the 25th anniversary of Halo next year. Halo: Campaign Evolved is a full remake of the original Combat Evolved that launched alongside Microsoft’s first Xbox console in 2001. It has a fully rebuilt campaign with 4K visuals, new weapons and vehicles, a four-player online co-op mode, and brand-new […]",
+    "ingested_utc": "2025-10-24T20:35:10Z"
+  },
+  {
+    "published_utc": "2025-10-24",
+    "retrieved_date": "2025-10-24",
+    "retrieved_utc": "2025-10-24T20:34:53Z",
+    "source": "NPR_Business",
+    "title": "What today's inflation report says about the economy -- and Social Security checks",
+    "url": "https://www.npr.org/2025/10/24/nx-s1-5584038/what-todays-inflation-report-says-about-the-economy-and-social-security-checks",
+    "id_key": "2adbc038720cc96da2876fc12e4d9b13f8d372311477ea93094d2d9ad0179a10",
+    "summary": "Because of the shutdown, the federal government is belatedly releasing new Consumer Price Index numbers, which the Social Security Administration needs to adjust for next year's benefits.",
+    "ingested_utc": "2025-10-24T20:34:53Z"
+  },
+  {
+    "published_utc": "2025-10-24",
+    "retrieved_date": "2025-10-24",
+    "retrieved_utc": "2025-10-24T20:34:53Z",
+    "source": "NPR_Business",
+    "title": "Western Union says its core business of money transfers in the U.S. is down",
+    "url": "https://www.npr.org/2025/10/24/nx-s1-5584062/western-union-says-its-core-business-of-money-transfers-in-the-u-s-is-down",
+    "id_key": "a5bd0951a144fcf75f2f8f043247ef1dde0ecbdf1114d5b271bb54cc7228c6b7",
+    "summary": "A core business line for Western Union is migrant workers in the U.S. sending money back home. An earnings call reflects a lot less of that since President Trump took office.",
+    "ingested_utc": "2025-10-24T20:34:53Z"
+  },
+  {
+    "published_utc": "2025-10-24",
+    "retrieved_date": "2025-10-24",
+    "retrieved_utc": "2025-10-24T20:34:03Z",
+    "source": "Optimism_Releases",
+    "title": "op-node/v1.16.0-rc.1: go: update op-geth import to include scr jovian timestamps (#18016)",
+    "url": "https://github.com/ethereum-optimism/optimism/releases/tag/op-node%2Fv1.16.0-rc.1",
+    "id_key": "22904c04eb5eecaa963612ade2196cdf9f461789c98ab2be943c732deed1eaed",
+    "summary": "go: update op-geth import to include scr jovian timestamps go mod tidy op-node: set jovian time in chains_test to match scr values go: update op-geth import to merge commit 96738d21616cd7c37101fd49234e361f70e7b64c",
+    "ingested_utc": "2025-10-24T20:34:03Z"
+  },
+  {
+    "published_utc": "2025-10-24",
+    "retrieved_date": "2025-10-24",
+    "retrieved_utc": "2025-10-24T20:32:59Z",
+    "source": "CryptoNews",
+    "title": "Rep. Maxine Waters Lambasts Trump’s CZ Pardon In Scathing Statement",
+    "url": "https://cryptonews.com/news/waters-criticizes-trumps-in-cz-pardon/",
+    "id_key": "7ca39392a61929d6bc22836ece9756cc6ff6e39e8bb73b09b39693381db2d206",
+    "summary": "Maxine Waters has criticized Donald Trump’s pardon of Binance founder CZ, noting his 2023 guilty plea and penalties. She has argued the move has raised investor protection concerns and renewed debate over Binance’s leadership and the possibility of CZ returning to an executive role. The post Rep. Maxine Waters Lambasts Trump’s CZ Pardon In Scathing Statement appeared first on Cryptonews .",
+    "ingested_utc": "2025-10-24T20:32:59Z"
+  },
+  {
+    "published_utc": "2025-10-24",
+    "retrieved_date": "2025-10-24",
+    "retrieved_utc": "2025-10-24T20:32:33Z",
+    "source": "BBC_World",
+    "title": "What's in Reagan advert that caused US-Canada trade talks collapse?",
+    "url": "https://www.bbc.com/news/articles/clyz1e201r8o?at_medium=RSS&at_campaign=rss",
+    "id_key": "b4cd33c0f2de0a9b03ed9e36237f5d35cab6812a703f734f8f93b3843cff4ff5",
+    "summary": "Comparing the controversial advert quoting Ronald Reagan on tariffs with his original address.",
+    "ingested_utc": "2025-10-24T20:32:33Z"
+  },
+  {
+    "published_utc": "2025-10-24",
+    "retrieved_date": "2025-10-24",
     "retrieved_utc": "2025-10-24T20:15:49Z",
     "source": "Nikkei_Asia_Top",
     "title": "Setouchi Triennale: Island-hopping for art lovers in Japan's Seto Inland Sea",
@@ -10932,71 +10998,5 @@
     "id_key": "9504a39faa022e942f13d47eb990bf7915dc94b8e085356408cff3d1286bf4e4",
     "summary": "The King should lean in to this moment as a chance for reform — and a wise prime minister would be advising him to do so",
     "ingested_utc": "2025-10-23T11:12:39Z"
-  },
-  {
-    "published_utc": "2025-10-23",
-    "retrieved_date": "2025-10-23",
-    "retrieved_utc": "2025-10-23T11:12:28Z",
-    "source": "NYTimes_World",
-    "title": "King Charles and Pope Leo Pray Together in Groundbreaking Moment",
-    "url": "https://www.nytimes.com/2025/10/23/world/europe/king-charles-pope-leo-praying.html",
-    "id_key": "bafad3099544ea160c3cafa592400495fa18bffd752f86fb5b525f69813864c4",
-    "summary": "The moment marked the first time that the leaders of the Catholic and Anglican churches had done so in years, offering a display of unity between the Christian faiths.",
-    "ingested_utc": "2025-10-23T11:12:28Z"
-  },
-  {
-    "published_utc": "2025-10-23",
-    "retrieved_date": "2025-10-23",
-    "retrieved_utc": "2025-10-23T11:12:27Z",
-    "source": "NYTimes_Business",
-    "title": "Oil Price Jumps on Trump’s Russia Sanctions",
-    "url": "https://www.nytimes.com/2025/10/23/business/oil-prices-russia-sanctions.html",
-    "id_key": "430cf54ea37a61a632a7e177a7e80a4bd451e17fe8f01831ff778d6e5b68bf1b",
-    "summary": "Traders are pondering whether the United States and its allies are finally getting serious about restricting Russian energy.",
-    "ingested_utc": "2025-10-23T11:12:27Z"
-  },
-  {
-    "published_utc": "2025-10-23",
-    "retrieved_date": "2025-10-23",
-    "retrieved_utc": "2025-10-23T11:10:17Z",
-    "source": "Guardian_World",
-    "title": "Revealed: police across US spread false rumors about Venezuelan gang threats",
-    "url": "https://www.theguardian.com/us-news/2025/oct/23/venezuela-tren-de-aragua-gang-police",
-    "id_key": "af60a020c32d7d5aa339c36436f9aa5df98cbcc97d5e385d75e8dc730a500aa7",
-    "summary": "Claim that Tren de Aragua planned to attack officers was widely shared – only for FBI to later acknowledge it was mistaken, internal files show An unverified rumor that Venezuelan gang members were preparing to kill police officers spread like wildfire through US law enforcement agencies last year, internal records reveal, only for federal officials to later quietly acknowledge the claim was mistaken. The intelligence report, which appears to have first been disseminated by a local New Mexico police department in July 2024, suggested that the Tren de Aragua (TdA) gang had directed its members to “fire on or attack” law enforcement. The vague assertion quickly traveled among law enforcement agencies. It even made its way into a formal proclamation by Texas governor Greg Abbott, and was repeated by Republican Congress members as evidence of the dangers of Venezuelan immigrants and Democrats’ border policies. Continue reading...",
-    "ingested_utc": "2025-10-23T11:10:17Z"
-  },
-  {
-    "published_utc": "2025-10-23",
-    "retrieved_date": "2025-10-23",
-    "retrieved_utc": "2025-10-23T11:10:17Z",
-    "source": "Guardian_World",
-    "title": "Palestinian women giving birth in rubble on roads, says senior UN official, as he compares Gaza to dystopian film – Middle East live",
-    "url": "https://www.theguardian.com/world/live/2025/oct/23/israel-west-bank-gaza-rubio-middle-east-latest-news-updates",
-    "id_key": "415116c99ab97719e401b74a2c543eae25ba3552d537a83aabbb4fc485037bf5",
-    "summary": "UN Population Fund director describes ‘sheer devastation’ in Gaza, saying no such thing as a ‘normal birth’ there Turkish peacekeeping forces will continue to help boost the Lebanese army’s capability under a renewed deployment mandate in Lebanon, Turkey’s defence ministry said on Thursday, reports Reuters. Turkey’s parliament passed a bill on Tuesday to renew the military’s deployment mandates in Syria and Iraq by three more years, and its deployment mandate under the UN Interim Force in Lebanon (Unifil) by two years. The ministry said in a statement: Efforts will continue to improve security conditions in the region, ensure stability and assist in the capacity building of the Lebanese armed forces, with the aim of establishing and maintaining peace in Lebanon. Continue reading...",
-    "ingested_utc": "2025-10-23T11:10:17Z"
-  },
-  {
-    "published_utc": "2025-10-23",
-    "retrieved_date": "2025-10-23",
-    "retrieved_utc": "2025-10-23T11:10:17Z",
-    "source": "Guardian_World",
-    "title": "Reform’s only Black branch chair quits over ‘harmful’ migration debate",
-    "url": "https://www.theguardian.com/politics/2025/oct/23/reform-only-black-branch-chair-quits-over-harmful-migration-debate",
-    "id_key": "f86252b902892a86c5f424f6062d3677aedb8c5b95b66fa6f252f5ce38396671",
-    "summary": "Exclusive: Neville Watson leaves amid concerns about weaponisation of religion and erosion of community relations UK politics live – latest updates The only Black branch chair of Reform UK has left the rightwing populist party, saying the tone of Britain’s migration debate is “doing more harm than good”. Neville Watson, from north London, told the Guardian he had not experienced any racism in Reform, where there were “a lot of good people”. However, the former leader of the party’s Enfield branch said he was alarmed by the growing influence of Christian nationalism – the hard-right movement that blends politics with fundamentalism. Continue reading...",
-    "ingested_utc": "2025-10-23T11:10:17Z"
-  },
-  {
-    "published_utc": "2025-10-23",
-    "retrieved_date": "2025-10-23",
-    "retrieved_utc": "2025-10-23T11:10:17Z",
-    "source": "Guardian_World",
-    "title": "Former Labour minister ran ‘shoddy and inadequate’ Covid testing firm, court hears",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/23/former-labour-minister-ran-shoddy-and-inadequate-covid-testing-firm-court-hears-shahid-malik",
-    "id_key": "2da4589d6d60c29894a2e5fb175ac9a4df55e0bde9a16c5d7e21256311f381df",
-    "summary": "Shahid Malik is one of five people on trial at Bradford crown court accused of fraudulent trading and public nuisance A former Labour minister ran a “shoddy and inadequate” Covid-19 testing company that made millions from the NHS test and trace service set up in response to the pandemic, a court has heard. Shahid Malik, who was a justice minister under Gordon Brown, is one of five people on trial at Bradford crown court accused of fraudulent trading and public nuisance. Continue reading...",
-    "ingested_utc": "2025-10-23T11:10:17Z"
   }
 ]
