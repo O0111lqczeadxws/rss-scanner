@@ -2,6 +2,61 @@
   {
     "published_utc": "2025-10-24",
     "retrieved_date": "2025-10-24",
+    "retrieved_utc": "2025-10-24T17:42:48Z",
+    "source": "WIRED_All",
+    "title": "This Upgraded SteelSeries Gaming Headset Is $80 Off",
+    "url": "https://www.wired.com/story/steelseries-arctis-nova-pro-deal-1025/",
+    "id_key": "bce74e081b544ae07b2516b706a8c5e6af4f4592d163046e46e39e307994df01",
+    "summary": "Serious gamers take note, the Arctis Nova Pro is feature-packed and ready for anything.",
+    "ingested_utc": "2025-10-24T17:42:48Z"
+  },
+  {
+    "published_utc": "2025-10-24",
+    "retrieved_date": "2025-10-24",
+    "retrieved_utc": "2025-10-24T17:42:02Z",
+    "source": "Guardian_World",
+    "title": "Virginia lawmakers aim to redraw maps to help Democrats gain seats in Congress",
+    "url": "https://www.theguardian.com/us-news/2025/oct/24/virginia-redistrict-maps-democrats",
+    "id_key": "70972c8ec8a680ce2ff6606b750d15aee48c1983b43de26289a573e9b0a7129d",
+    "summary": "State becomes second to attempt to redistrict to benefit Democrats in response to Republicans’ efforts to gain seats US politics live – latest updates Virginia has entered the national mid-cycle redistricting battle, with Democratic state lawmakers intent on redrawing the state’s congressional maps to deliver two or three additional Democrats to Washington. Virginia currently has a 6-5 split in its delegation, favoring Democrats by one member. Don Scott, the Democratic Virginia house speaker, sent a letter on Thursday to members alerting them to a reconvening of a special session to consider legislation. The letter does not explicitly state that redistricting is on the agenda, but national organizations said they have been informed that this is the case. Continue reading...",
+    "ingested_utc": "2025-10-24T17:42:02Z"
+  },
+  {
+    "published_utc": "2025-10-24",
+    "retrieved_date": "2025-10-24",
+    "retrieved_utc": "2025-10-24T17:41:37Z",
+    "source": "Optimism_Releases",
+    "title": "op-node/v1.14.3",
+    "url": "https://github.com/ethereum-optimism/optimism/releases/tag/op-node%2Fv1.14.3",
+    "id_key": "5b24d733cd3cc61efd8c536410cb81e17e2a3308e71690bd2e89ff0024a3b4ae",
+    "summary": "This release adds the worldchain-sepolia Isthmus activation time and improves robustness in the L1 beacon client. It also allows L2 chain configs to be passed to NewL1ChainConfig, which was previously preventing L3s from upgrading to a Fusaka compatible release. The corresponding op-geth release is v1.101603.2 What's Changed go: update op-geth import to include worldchain-sepolia isthmus time in #17987 update jovian upgrade transactions by @geoknee in #17971 op-node: revive async block processing timing log by @bitwiseguy in #17915 op-service: improve beacon client robustness by @joshklop in #17866 op-node: Fix gossip validation for Jovian blocks by @sebastianst in #17940 all: Update op-geth to use blobGasUsed field for DA footprint by @sebastianst in #17861 feat: implement Operator Fee Fix (Jovian) by @fakedev9999 in #17366 jovian: DA footprint block limit by @joshklop in #17466 op-node: allow for L2 chain configs to be passed to NewL1ChainConfig by @geoknee in #17799 op-node: Initialization Control Refactor by @axelKingsley in #17766 op-stack: Interfaced CLI Context by @axelKingsley in #17759 Full Changelog: op-node/v1.14.1...op-node/v1.14.3 🚢 Docker Image: https://us-docker.pkg.dev/oplabs-tools-artifacts/images/op-node:v1.14.3 New Contributors @fakedev9999 made their first contribution in #17366",
+    "ingested_utc": "2025-10-24T17:41:37Z"
+  },
+  {
+    "published_utc": "2025-10-24",
+    "retrieved_date": "2025-10-24",
+    "retrieved_utc": "2025-10-24T17:40:27Z",
+    "source": "CoinJournal",
+    "title": "Aster price risks dip below $1 despite major buyback plan",
+    "url": "https://coinjournal.net/news/aster-price-risks-dip-below-1-despite-major-buyback-plan/",
+    "id_key": "d840f2d99f26893f5da6a07d33d19811eea9feb7bc7e619d97eeda18e6ccc43d",
+    "summary": "The ASTER token is teetering near a critical support level of $1.03-$1.00. A potential drop below $1 risks triggering further declines to $0.90. The outlook is despite a buyback plan the Aster team announced on Friday. Aster DEX, a decentralized exchange backed by YZi Labs and linked to Binance co-founder Changpeng Zhao, has unveiled a […] The post Aster price risks dip below $1 despite major buyback plan appeared first on CoinJournal .",
+    "ingested_utc": "2025-10-24T17:40:27Z"
+  },
+  {
+    "published_utc": "2025-10-24",
+    "retrieved_date": "2025-10-24",
+    "retrieved_utc": "2025-10-24T17:40:25Z",
+    "source": "Protos",
+    "title": "Ledger faces backlash for charging fees on ‘free’ security upgrade",
+    "url": "https://protos.com/ledger-faces-backlash-for-charging-fees-on-free-security-upgrade/",
+    "id_key": "3d6d0b7c9f4915db3eea7f2b22d4edba03a96b4ef7aa1470db38929d95926d8e",
+    "summary": "Ledger fine print revealed that the “free” service would cost $10 per transaction or 0.05% of the amount transferred, on top of gas costs. The post Ledger faces backlash for charging fees on ‘free’ security upgrade appeared first on Protos .",
+    "ingested_utc": "2025-10-24T17:40:25Z"
+  },
+  {
+    "published_utc": "2025-10-24",
+    "retrieved_date": "2025-10-24",
     "retrieved_utc": "2025-10-24T17:32:32Z",
     "source": "AlJazeera_All",
     "title": "US rejects Hamas, UNRWA roles in Gaza as Israeli aid blockade persists",
@@ -10943,60 +10998,5 @@
     "id_key": "49b53231d5a0d98d731852a1eee6e9298aeaec7ef35b4d707b791acfaa36703b",
     "summary": "In-person services are returning after widespread closure of traditional bank branches.",
     "ingested_utc": "2025-10-23T06:48:05Z"
-  },
-  {
-    "published_utc": "2025-10-23",
-    "retrieved_date": "2025-10-23",
-    "retrieved_utc": "2025-10-23T06:20:22Z",
-    "source": "FinancialPost_Business",
-    "title": "Totogi generates 500,000 lines of production BSS Code in one day–live",
-    "url": "https://financialpost.com/globe-newswire/totogi-generates-500000-lines-of-production-bss-code-in-one-day-live",
-    "id_key": "975a9d5eaeba8c9c6f8cb140b472557694b7a2de1026c43881f89b7c99244254",
-    "summary": "Single forward-deployed engineer builds five core BSS modules from scratch at telecom industry forum DÜSSELDORF, Germany, Oct. 23, 2025 (GLOBE NEWSWIRE) — At TelecomTV’s AI-Native Telco Forum today, a single Totogi engineer is doing what the telco industry says is impossible: building a complete BSS from scratch in one day. Five core modules—CRM, product catalog, […]",
-    "ingested_utc": "2025-10-23T06:20:22Z"
-  },
-  {
-    "published_utc": "2025-10-23",
-    "retrieved_date": "2025-10-23",
-    "retrieved_utc": "2025-10-23T06:20:22Z",
-    "source": "FinancialPost_Business",
-    "title": "Asian shares retreat and crude prices soar $2 after Trump sanctions Russian oil giants",
-    "url": "https://financialpost.com/pmn/asian-shares-retreat-and-crude-prices-soar-2-after-trump-sanctions-russian-oil-giants",
-    "id_key": "b344958e3b905f176921ce11adecc018b460baade9019e59788e96a4cf685a6e",
-    "summary": "MANILA, Philippines (AP) — Shares were mostly lower in Asia on Thursday following a retreat on Wall Street, while crude prices jumped more than $2 after U.S. President Donald Trump announced sanctions on Russian oil giants. The sanctions against Rosneft and Lukoil are intended to drive Russian President Vladimir Putin to the negotiating table and […]",
-    "ingested_utc": "2025-10-23T06:20:22Z"
-  },
-  {
-    "published_utc": "2025-10-23",
-    "retrieved_date": "2025-10-23",
-    "retrieved_utc": "2025-10-23T06:20:15Z",
-    "source": "AlJazeera_All",
-    "title": "Louvre director recognises jewel theft failures, says she offered to resign",
-    "url": "https://www.aljazeera.com/news/2025/10/23/louvre-director-recognises-jewel-theft-failures-says-she-offered-to-resign?traffic_source=rss",
-    "id_key": "eb4bb93041e6c28159c136e9d2f8b944a462840d3492346448e070cf19993ca5",
-    "summary": "Laurence des Cars told France's Senate the heist exposed the museum's camera shortage and other security 'weaknesses'.",
-    "ingested_utc": "2025-10-23T06:20:15Z"
-  },
-  {
-    "published_utc": "2025-10-23",
-    "retrieved_date": "2025-10-23",
-    "retrieved_utc": "2025-10-23T06:20:03Z",
-    "source": "TechCrunch_All",
-    "title": "As China’s 996 culture spreads, South Korea’s tech sector grapples with 52-hour limit",
-    "url": "https://techcrunch.com/2025/10/22/as-chinas-996-culture-spreads-south-koreas-tech-sector-grapples-with-52-hour-limit/",
-    "id_key": "ced2d72966959bd3242fb3713e54b89678fa52fc3dc4b42ea61b9422c5ac0981",
-    "summary": "South Korea's 52-hour workweek cap is stricter than the U.S. and Singapore but more flexible than much of Europe. Still deep tech founders and investors worry it's too restrictive.",
-    "ingested_utc": "2025-10-23T06:20:03Z"
-  },
-  {
-    "published_utc": "2025-10-23",
-    "retrieved_date": "2025-10-23",
-    "retrieved_utc": "2025-10-23T06:17:41Z",
-    "source": "CryptoNews",
-    "title": "Crypto Lost 1,000 Jobs To AI Since ChatGPT Debut, Yet Hiring Recovered: A16z",
-    "url": "https://cryptonews.com/news/crypto-jobs-lost-to-ai-since-chatgpt-debut-yet-hiring-recovered-a16z/",
-    "id_key": "2fef485d1cfb60ffac85094a9c5b8ec6ed95b9c83ac0783026ce39f025a11e45",
-    "summary": "Crypto lost roughly 1,000 jobs to AI after ChatGPT’s debut but regained that talent from other sectors, according to A16z’s 2025 State of Crypto report. The post Crypto Lost 1,000 Jobs To AI Since ChatGPT Debut, Yet Hiring Recovered: A16z appeared first on Cryptonews .",
-    "ingested_utc": "2025-10-23T06:17:41Z"
   }
 ]
