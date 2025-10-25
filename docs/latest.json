@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-10-25",
     "retrieved_date": "2025-10-25",
+    "retrieved_utc": "2025-10-25T18:40:10Z",
+    "source": "NYTimes_World",
+    "title": "Judge Dismisses Most Claims Against Tate Brothers in Florida Lawsuit",
+    "url": "https://www.nytimes.com/2025/10/25/world/europe/andrew-tate-florida-charges.html",
+    "id_key": "c821e7a2836a8f46f4941a754cddb70fbdcf04ce8ac94f1f71deffd04475a4ee",
+    "summary": "Andrew Tate, an online influencer, and his brother Tristan, have been in a legal battle with a woman who accused them of harassing her after she gave testimony in Romania.",
+    "ingested_utc": "2025-10-25T18:40:10Z"
+  },
+  {
+    "published_utc": "2025-10-25",
+    "retrieved_date": "2025-10-25",
     "retrieved_utc": "2025-10-25T18:14:36Z",
     "source": "CryptoSlate",
     "title": "Fed opens a narrow payments door to stablecoin issuers, Arthur Hayes warns of bank fallout",
@@ -10987,16 +10998,5 @@
     "id_key": "37bbe2c4b47cd5817c20871e187b34c307d9a4ae519d17cda3b28e4aa10cb326",
     "summary": "Claimants said 36mn consumers would be entitled to damages of about £1.5bn",
     "ingested_utc": "2025-10-23T17:12:51Z"
-  },
-  {
-    "published_utc": "2025-10-23",
-    "retrieved_date": "2025-10-23",
-    "retrieved_utc": "2025-10-23T17:12:40Z",
-    "source": "NYTimes_Economy",
-    "title": "U.S. to Investigate China’s Compliance With 2020 Trade Deal",
-    "url": "https://www.nytimes.com/2025/10/23/business/economy/us-to-begin-investigation-into-chinas-compliance-with-2020-trade-deal.html",
-    "id_key": "73b6bca76016cb8c2dd7834769fe0d6f181d2e2e7f629246a0f84fc96b1cd39b",
-    "summary": "The Trump administration is preparing to file a trade investigation into China’s compliance with a 2020 trade deal, which could raise tensions ahead of a summit between the country’s leaders.",
-    "ingested_utc": "2025-10-23T17:12:40Z"
   }
 ]
