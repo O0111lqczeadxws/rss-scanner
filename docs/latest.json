@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-10-25",
     "retrieved_date": "2025-10-25",
+    "retrieved_utc": "2025-10-25T23:25:19Z",
+    "source": "Guardian_Business",
+    "title": "Trump raises tariffs on Canada by 10% in retaliation for anti-tariff TV ad",
+    "url": "https://www.theguardian.com/us-news/2025/oct/25/trump-tariffs-canada-ronald-reagan",
+    "id_key": "3d145dad142b645c40c6522dab922d49db4fa580e04cffb4770b36140eb7ef68",
+    "summary": "Move is response to ad sponsored by Ontario that referenced Ronald Reagan’s support for free trade Donald Trump announced on Saturday that he will raise US tariffs on Canada by 10% in retaliation for an anti-tariff advertisement sponsored by the Ontario government, which has further strained one of the world’s largest trade partnerships. The statement, posted on Trump’s Truth Social account, came after several days of public disputes over the ad, which referenced Ronald Reagan’s support for free trade and provoked the US president’s anger. Continue reading...",
+    "ingested_utc": "2025-10-25T23:25:19Z"
+  },
+  {
+    "published_utc": "2025-10-25",
+    "retrieved_date": "2025-10-25",
+    "retrieved_utc": "2025-10-25T23:25:17Z",
+    "source": "BBC_World",
+    "title": "'Brothers in the forest' - the fight to protect an isolated Amazon tribe",
+    "url": "https://www.bbc.com/news/articles/cjw92x915xlo?at_medium=RSS&at_campaign=rss",
+    "id_key": "0c453a55c6ed5c794e089f801f60420e9a48cf865ef77feb508ece92b9d343eb",
+    "summary": "Peru's Mashco Piro face a struggle to survive in the 21st Century, but locals want to help them.",
+    "ingested_utc": "2025-10-25T23:25:17Z"
+  },
+  {
+    "published_utc": "2025-10-25",
+    "retrieved_date": "2025-10-25",
     "retrieved_utc": "2025-10-25T23:13:16Z",
     "source": "FinancialPost_Business",
     "title": "CUPE 2269: Mediation Shows District of Squamish’s Words and Actions Don’t Align",
@@ -10976,27 +10998,5 @@
     "id_key": "ff0ce0c3d3591c71df003520ea80622034ccf6aa2074ed9c65702b8eedc9a276",
     "summary": "Victims' relatives and Northern Ireland's political leader condemn verdict over 1972 Derry massacre.",
     "ingested_utc": "2025-10-23T18:49:50Z"
-  },
-  {
-    "published_utc": "2025-10-23",
-    "retrieved_date": "2025-10-23",
-    "retrieved_utc": "2025-10-23T18:49:50Z",
-    "source": "AlJazeera_All",
-    "title": "Body of ‘breadwinner’ Thai captive held in Gaza returned home",
-    "url": "https://www.aljazeera.com/video/newsfeed/2025/10/23/body-of-breadwinner-thai-captive-held-in-gaza-returned-home?traffic_source=rss",
-    "id_key": "0c63ce50e673e627b157659701bb22c73242293a6bfe7815fed755fe68576c5f",
-    "summary": "The body of Sonthaya Oakkharasri, a Thai farm worker killed in Hamas’s Oct. 7 attack, was returned home to Thailand.",
-    "ingested_utc": "2025-10-23T18:49:50Z"
-  },
-  {
-    "published_utc": "2025-10-23",
-    "retrieved_date": "2025-10-23",
-    "retrieved_utc": "2025-10-23T18:49:49Z",
-    "source": "TheStreet_Top",
-    "title": "Target quietly rolls out something huge to lure back customers",
-    "url": "https://www.thestreet.com/retail/target-quietly-rolls-out-something-huge-to-lure-back-customers",
-    "id_key": "021e5621cf8af5f8aef80f942f3d82bd3739beb53cac2f84be761271eb1699e2",
-    "summary": "This has been a year of struggle for many retailers, but for Target (TGT), perhaps even more so. Challenges Target has shared with other retailers include a harsh economic climate, changes in customer behavior, high labor costs, inflation, and aggressive competition. However, Target ...",
-    "ingested_utc": "2025-10-23T18:49:49Z"
   }
 ]
