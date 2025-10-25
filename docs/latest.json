@@ -508,6 +508,17 @@
   {
     "published_utc": "2025-10-24",
     "retrieved_date": "2025-10-25",
+    "retrieved_utc": "2025-10-25T04:35:54Z",
+    "source": "NPR_World",
+    "title": "What killed Napoleon's army? Scientists find clues in DNA from fallen soldiers' teeth",
+    "url": "https://www.npr.org/sections/shots-health-news/2025/10/24/nx-s1-5582719/napoleon-war-russia-pathogens-disease-1812",
+    "id_key": "4ca77a90da195fa179b1587b8f435fa96d814651d7753175ed8fa4f05db976f4",
+    "summary": "In 1812, hundreds of thousands of men in Napoleon's army perished during their retreat from Russia. Researchers now believe a couple of unexpected pathogens may have helped hasten the soldiers' demise.",
+    "ingested_utc": "2025-10-25T04:35:54Z"
+  },
+  {
+    "published_utc": "2025-10-24",
+    "retrieved_date": "2025-10-25",
     "retrieved_utc": "2025-10-25T02:23:04Z",
     "source": "HackerNews_Top",
     "title": "Unlocking Free WiFi on British Airways",
@@ -10987,16 +10998,5 @@
     "id_key": "b2d02da6e36f281d2c4309351770351da3049f99d86538c772cf20b03b0aa252",
     "summary": "This is the ninth US strike on alleged drug boats near Latin America, and the second in the Pacific.",
     "ingested_utc": "2025-10-23T14:12:16Z"
-  },
-  {
-    "published_utc": "2025-10-23",
-    "retrieved_date": "2025-10-23",
-    "retrieved_utc": "2025-10-23T13:56:21Z",
-    "source": "TheStreet_Top",
-    "title": "Amazon just cracked the last mile: what it means for global retail",
-    "url": "https://www.thestreet.com/latest-news/amazon-just-cracked-the-last-mile-what-it-means-for-global-retail",
-    "id_key": "9c85748bfa0ed3fd535066b688cc4d9e8fe80daab08d1e032ef440027260ee3f",
-    "summary": "Amazon Now delivery hits the streets in Dubai — in minutes.",
-    "ingested_utc": "2025-10-23T13:56:21Z"
   }
 ]
