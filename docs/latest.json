@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-10-25",
     "retrieved_date": "2025-10-25",
+    "retrieved_utc": "2025-10-25T04:50:50Z",
+    "source": "AlJazeera_All",
+    "title": "Court finds Russia’s Wagner mercenary group behind UK arson attackers",
+    "url": "https://www.aljazeera.com/news/2025/10/25/russia-backed-arson-attack-ringleaders-handed-hefty-jail-sentences-in-uk?traffic_source=rss",
+    "id_key": "d519b81b3993101e138d0689ed97a9c4ff7c2ab38e1ec4fe3bdbff88ddfc7819",
+    "summary": "UK prosecutors said defendants planned a 'sustained campaign of terrorism and sabotage' backed by Russia's Wagner Group.",
+    "ingested_utc": "2025-10-25T04:50:50Z"
+  },
+  {
+    "published_utc": "2025-10-25",
+    "retrieved_date": "2025-10-25",
     "retrieved_utc": "2025-10-25T04:16:22Z",
     "source": "HackerNews_Top",
     "title": "Advice for New Principal Tech ICs (I.e., Notes to Myself)",
@@ -10987,16 +10998,5 @@
     "id_key": "c8b4d90715ac2e7d2c121a1593de8d6232d6d677a0f056ecfebbafbd6a4c3dfd",
     "summary": "Anne Keast-Butler says government and business must to work together to tackle future attacks as AI makes cybercrime easier Companies need to do more to mitigate the potential effects of cyber-attacks, the head of GCHQ has said, including making physical, paper copies of crisis plans to use if an attack brings down entire computer systems. “What are your contingency plans? Because attacks will get through,” said Anne Keast-Butler, who has headed GCHQ, the British government’s cyber and signals intelligence agency, since 2023. Continue reading...",
     "ingested_utc": "2025-10-23T14:12:20Z"
-  },
-  {
-    "published_utc": "2025-10-23",
-    "retrieved_date": "2025-10-23",
-    "retrieved_utc": "2025-10-23T14:12:16Z",
-    "source": "BBC_World",
-    "title": "US kills three in second strike on alleged drug boats in the Pacific",
-    "url": "https://www.bbc.com/news/articles/c98n54ek04go?at_medium=RSS&at_campaign=rss",
-    "id_key": "b2d02da6e36f281d2c4309351770351da3049f99d86538c772cf20b03b0aa252",
-    "summary": "This is the ninth US strike on alleged drug boats near Latin America, and the second in the Pacific.",
-    "ingested_utc": "2025-10-23T14:12:16Z"
   }
 ]
