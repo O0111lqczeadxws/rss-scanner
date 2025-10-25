@@ -596,6 +596,17 @@
   {
     "published_utc": "2025-10-24",
     "retrieved_date": "2025-10-25",
+    "retrieved_utc": "2025-10-25T05:32:38Z",
+    "source": "FT_Markets",
+    "title": "Who’s benefiting from Trump’s presidency?",
+    "url": "https://www.ft.com/content/8cbbf086-a0cd-45b3-9f34-d9fad236c554",
+    "id_key": "f51967c9b9d514f70d49a61c3e88341d6b9b723604997f3c65acb7826753810a",
+    "summary": "The companies and people who’ve reaped rewards in Trump’s second term",
+    "ingested_utc": "2025-10-25T05:32:38Z"
+  },
+  {
+    "published_utc": "2025-10-24",
+    "retrieved_date": "2025-10-25",
     "retrieved_utc": "2025-10-25T04:35:54Z",
     "source": "NPR_World",
     "title": "What killed Napoleon's army? Scientists find clues in DNA from fallen soldiers' teeth",
@@ -10987,16 +10998,5 @@
     "id_key": "bd36ac1598ed1878191f60d2d73dda2fa4d651a4bb5293ec04a2c32e26d79d47",
     "summary": "The Aave DAO is considering a proposal to institutionalize a $50 million annual buyback program for AAVE tokens, funded entirely through protocol-generated DeFi revenues. The initiative, spearheaded by the Aave Chan Initiative (ACI), seeks to make token repurchases a recurring part of Aave’s economic model. The proposal calls for weekly buybacks ... The post Aave DAO Considers $50 Million Annual Token Buyback Proposal appeared first on Unchained .",
     "ingested_utc": "2025-10-23T14:12:44Z"
-  },
-  {
-    "published_utc": "2025-10-23",
-    "retrieved_date": "2025-10-23",
-    "retrieved_utc": "2025-10-23T14:12:42Z",
-    "source": "CryptoNews",
-    "title": "Crypto Market Structure Bill Gains Bipartisan Momentum — Coinbase CEO Sees Progress by Thanksgiving",
-    "url": "https://cryptonews.com/news/crypto-market-structure-bill-gains-bipartisan-momentum-coinbase-ceo-sees-progress-by-thanksgiving/",
-    "id_key": "6cd6883d843b2f1b8faf9409b12d2eaf4d764ba688f51202c5d0ec8d63c4b3d2",
-    "summary": "The U.S. crypto market structure bill has seen renewed bipartisan support as Coinbase CEO Brian Armstrong has mentioned productive meetings with lawmakers as the legislation moves forward in the Senate. The post Crypto Market Structure Bill Gains Bipartisan Momentum — Coinbase CEO Sees Progress by Thanksgiving appeared first on Cryptonews .",
-    "ingested_utc": "2025-10-23T14:12:42Z"
   }
 ]
