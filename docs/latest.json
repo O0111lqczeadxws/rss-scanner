@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-10-25",
     "retrieved_date": "2025-10-25",
+    "retrieved_utc": "2025-10-25T15:37:53Z",
+    "source": "TheStreet_Top",
+    "title": "New tech solves every pet owner's worst nightmare",
+    "url": "https://www.thestreet.com/technology/new-tech-solves-every-pet-owners-worst-nightmare",
+    "id_key": "9ee3a9fcb8429b3e644119cb375f9bf79e78fa867a6772e0c8ced9a640602cfd",
+    "summary": "My daughter's cat, Bisous (that's French for \"kisses\") lurks by the front door morning, noon, and night. She is desperate to be outside, but it's not safe for her because we live in a place where coyotes also lurk morning, noon, and night. We do our absolute best to keep her inside, but she has ...",
+    "ingested_utc": "2025-10-25T15:37:53Z"
+  },
+  {
+    "published_utc": "2025-10-25",
+    "retrieved_date": "2025-10-25",
     "retrieved_utc": "2025-10-25T15:29:32Z",
     "source": "AlJazeera_All",
     "title": "Early voting begins in New York mayor’s race with Mamdani ahead in polls",
@@ -10987,16 +10998,5 @@
     "id_key": "0a259f6dc20341d19bbc7b2c5dfc13a2bde1d4e4f0964f731b89dfebc0110730",
     "summary": "The family of Adam Raine has filed an amended lawsuit against OpenAI. Raine died by suicide in April, and his family claims ChatGPT enabled the tragedy . The updated lawsuit accuses the company of weakening self-harm safeguards in the period leading up to Raine's death, according to Financial Times . In addition, the company reportedly asked for a list of attendees and documents from Raine's memorial service. The accusations in the amended lawsuit relate to GPT-4o, ChatGPT's default model in the months before Raine's suicide. The suit says OpenAI removed crucial protections by instructing it not to \"change or quit the conversation\" when discussing self-harm. The filing claims the company \"truncated safety testing\" due to competitive pressures. The lawsuit reportedly says OpenAI weakened its guardrails again in February. At that point, the company allegedly instructed GPT-4o to \"take care in risky situations\" and \"try to prevent imminent real-world harm\" rather than refusing to engage on the subject. The filing adds that the model still had a series of \"disallowed content.\" Intellectual property rights and the manipulation of political opinions were said to be included. Suicide wasn't. In addition, FT reports that OpenAI requested a complete list of attendees at Adam Raine's memorial. The company asked for \"all documents relating to memorial services or events in the honour of the decedent including but not limited to any videos or photographs taken, or eulogies given... as well as invitation or attendance lists or guestbooks.\" Lawyers for the Raine family described the request as \"unusual\" and \"intentional harassment.\" They speculated that OpenAI would subpoena \"everyone in Adam’s life.\" Engadget reached out to OpenAI for comment. We'll update this story if we hear back. After the initial lawsuit was reported, the company acknowledged GPT-4o's shortcomings in some distressing situations. OpenAI introduced ChatGPT parental controls soon after. In addition, it's exploring a system to identify teen users and automatically restrict their usage . The company says GPT-5 , the current default, is updated to better handle signs of distress. Raine's parents, Matthew and Maria Raine, claim Adam's use of ChatGPT shot up dramatically after the model's February updates. They say that, in January, he only had a few dozen chats with the model, 1.6 percent of which referred to self-harm. But they claim that in April, his use rose to 300 chats daily, with 17 percent regarding self-harm. The Raines first sued OpenAI in August. The wrongful death suit alleged that ChatGPT was aware of four suicide attempts before helping Adam plan his actual death. The filing says the company \"prioritized engagement over safety.\" Maria Raine concluded that \"ChatGPT killed my son.\" This article originally appeared on Engadget at https://www.engadget.com/ai/openai-reportedly-asked-for-memorial-guest-list-in-teen-suicide-case-163309269.html?src=rss",
     "ingested_utc": "2025-10-23T16:41:43Z"
-  },
-  {
-    "published_utc": "2025-10-23",
-    "retrieved_date": "2025-10-23",
-    "retrieved_utc": "2025-10-23T16:41:25Z",
-    "source": "FT_Home",
-    "title": "Can Trump stop India and China from buying Russian oil?",
-    "url": "https://www.ft.com/content/55738281-fa09-4d41-965c-decb83d371fa",
-    "id_key": "5e15f73534339461e03de28a1761eccdd4f9f9b033d61f914b4cc27595f9c8b3",
-    "summary": "US president’s measures are intended to bring Putin to the table but also risk stoking oil prices",
-    "ingested_utc": "2025-10-23T16:41:25Z"
   }
 ]
