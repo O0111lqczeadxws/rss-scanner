@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-10-25",
     "retrieved_date": "2025-10-25",
+    "retrieved_utc": "2025-10-25T23:50:00Z",
+    "source": "NYTimes_World",
+    "title": "What Is the ASEAN Summit, the First Event on Trump’s Tour of Asia?",
+    "url": "https://www.nytimes.com/2025/10/25/world/asia/what-is-asean-summit-trump.html",
+    "id_key": "077a3ce8443499bff38d13044c662e1b849068145dc457469f3204e4cbccacd1",
+    "summary": "President Trump is traveling to Malaysia for the event, his first destination in a nearly weeklong trip.",
+    "ingested_utc": "2025-10-25T23:50:00Z"
+  },
+  {
+    "published_utc": "2025-10-25",
+    "retrieved_date": "2025-10-25",
+    "retrieved_utc": "2025-10-25T23:47:51Z",
+    "source": "Guardian_World",
+    "title": "Texas officers heroically rescue baby pinned under car after overturn crash",
+    "url": "https://www.theguardian.com/us-news/2025/oct/25/texas-heroic-rescue-baby",
+    "id_key": "dc2f038759a666480a015ba8a187f050775c806fe521ada8e3050e649649d232",
+    "summary": "Fort Worth police share video of extraordinary effort by officers and motorists to pull car off baby and give CPR A baby is expected to make a full recovery and two Fort Worth police officers are being hailed as heroes after saving the infant, who was pinned under an overturned car after a crash on Texas’s Interstate 30 on Thursday morning. Fort Worth police said in a social media post that Sgt R Nichols and officer E Bounds responded to a crash around 9.30am where a woman and an infant had been in a collision that caused the infant to be ejected from the vehicle. Continue reading...",
+    "ingested_utc": "2025-10-25T23:47:51Z"
+  },
+  {
+    "published_utc": "2025-10-25",
+    "retrieved_date": "2025-10-25",
     "retrieved_utc": "2025-10-25T23:25:19Z",
     "source": "Guardian_Business",
     "title": "Trump raises tariffs on Canada by 10% in retaliation for anti-tariff TV ad",
@@ -10976,27 +10998,5 @@
     "id_key": "1329cf7029e1996a23346bb274ac4fc917b417fa06158c4938abe0272ca4d3e0",
     "summary": "Comments",
     "ingested_utc": "2025-10-23T18:50:11Z"
-  },
-  {
-    "published_utc": "2025-10-23",
-    "retrieved_date": "2025-10-23",
-    "retrieved_utc": "2025-10-23T18:49:56Z",
-    "source": "FinancialPost_Business",
-    "title": "MEDIA ADVISORY: CUPW Postal Workers Going Door-to-Door Over Mailbox Shutdown",
-    "url": "https://financialpost.com/globe-newswire/media-advisory-cupw-postal-workers-going-door-to-door-over-mailbox-shutdown",
-    "id_key": "a86c6dbce739ea60b76e4385de5f23acb539710018032c9dbad5988988753a46",
-    "summary": "TORONTO, Oct. 23, 2025 (GLOBE NEWSWIRE) — WHAT: Workers from the Canadian Union of Postal Workers will begin delivering notices door-to-door today in Toronto and Scarborough from CUPW offices. Postal Workers and their supporters will be assembling this morning to pick up and deliver notices informing residents that their home mailbox will be shut down […]",
-    "ingested_utc": "2025-10-23T18:49:56Z"
-  },
-  {
-    "published_utc": "2025-10-23",
-    "retrieved_date": "2025-10-23",
-    "retrieved_utc": "2025-10-23T18:49:50Z",
-    "source": "AlJazeera_All",
-    "title": "Court finds former British soldier not guilty in Bloody Sunday murder trial",
-    "url": "https://www.aljazeera.com/news/2025/10/23/court-finds-former-british-soldier-not-guilty-in-bloody-sunday-murder-trial?traffic_source=rss",
-    "id_key": "ff0ce0c3d3591c71df003520ea80622034ccf6aa2074ed9c65702b8eedc9a276",
-    "summary": "Victims' relatives and Northern Ireland's political leader condemn verdict over 1972 Derry massacre.",
-    "ingested_utc": "2025-10-23T18:49:50Z"
   }
 ]
