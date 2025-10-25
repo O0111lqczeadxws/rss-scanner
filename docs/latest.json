@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-10-25",
     "retrieved_date": "2025-10-25",
+    "retrieved_utc": "2025-10-25T11:36:25Z",
+    "source": "HackerNews_Top",
+    "title": "Advice for new principal tech ics (i.e., notes to myself)",
+    "url": "https://eugeneyan.com/writing/principal/",
+    "id_key": "0e0d8deea8d3e6c44591117d3d6033698fd9054df839cddec31d80244f9d6afc",
+    "summary": "Comments",
+    "ingested_utc": "2025-10-25T11:36:25Z"
+  },
+  {
+    "published_utc": "2025-10-25",
+    "retrieved_date": "2025-10-25",
+    "retrieved_utc": "2025-10-25T11:33:26Z",
+    "source": "Guardian_World",
+    "title": "At least four killed in Russian strikes overnight on Ukraine",
+    "url": "https://www.theguardian.com/world/2025/oct/25/russian-overnight-strikes-ukraine-zelenskyy-sanctions-oil",
+    "id_key": "8b20e4293860e95df953e8486207069267fae1b59a98fe3aece7702093f8ed3b",
+    "summary": "Attacks come after Volodymyr Zelenskyy appeals to US for long-range missiles and urges allies to expand sanctions on Russian oil Russian missile and drone attacks on Ukraine overnight killed at least four people and wounded 17 others, local officials said. In the capital, Kyiv, two people were killed and 13 wounded in a ballistic missile attack in the early hours of Saturday, Timur Tkachenko, head of Kyiv’s city military administration, said. Three of the wounded were hospitalised, according to Ukraine’s state emergency service. Continue reading...",
+    "ingested_utc": "2025-10-25T11:33:26Z"
+  },
+  {
+    "published_utc": "2025-10-25",
+    "retrieved_date": "2025-10-25",
     "retrieved_utc": "2025-10-25T11:23:11Z",
     "source": "Guardian_World",
     "title": "Argentina goes to polls amid economic crisis and Trump ‘interference’",
@@ -10976,27 +10998,5 @@
     "id_key": "5983240172c7ef1b22191a5b410a7d80a2505012168534cea106ddab040ae285",
     "summary": "Union is calling on Ottawa to hone its industrial strategy and prioritize buying from domestic manufacturers",
     "ingested_utc": "2025-10-23T15:15:17Z"
-  },
-  {
-    "published_utc": "2025-10-23",
-    "retrieved_date": "2025-10-23",
-    "retrieved_utc": "2025-10-23T15:15:08Z",
-    "source": "AlJazeera_All",
-    "title": "NBA’s Terry Rozier, Chauncey Billups arrested in sports bet probe",
-    "url": "https://www.aljazeera.com/sports/2025/10/23/nbas-terry-rozier-chauncey-billups-arrested-in-sports-bet-probe?traffic_source=rss",
-    "id_key": "e392f94bfd500e32829021ae84bcf70f3cd7b4271ac3c16f2ad34541e61f0a8c",
-    "summary": "Chauncey Billups's arrest was linked to an illegal poker operation tied to the Mafia, according to US media reports.",
-    "ingested_utc": "2025-10-23T15:15:08Z"
-  },
-  {
-    "published_utc": "2025-10-23",
-    "retrieved_date": "2025-10-23",
-    "retrieved_utc": "2025-10-23T15:15:07Z",
-    "source": "TheStreet_Top",
-    "title": "CPI inflation data arrives as Fed interest rate decision looms",
-    "url": "https://www.thestreet.com/fed/cpi-inflation-data-arrives-as-fed-interest-rate-decision-looms",
-    "id_key": "b1e5ee4d05946cfef61fc0821edc14b0ff86aeead0a8913d01930394e86c2e9a",
-    "summary": "We’re not the only ones flying a little bit blind these days, thanks to the government shutdown, which shows no signs of restoring federal services and paychecks nationwide. Interest rates for home equity, auto and student loans are also on this impaired radar screen. As are Federal Reserve ...",
-    "ingested_utc": "2025-10-23T15:15:07Z"
   }
 ]
