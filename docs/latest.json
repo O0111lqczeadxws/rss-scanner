@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-10-25",
     "retrieved_date": "2025-10-25",
+    "retrieved_utc": "2025-10-25T06:42:57Z",
+    "source": "AlJazeera_All",
+    "title": "Canadians pull Reagan advertisement after furious Trump halts trade talks",
+    "url": "https://www.aljazeera.com/news/2025/10/25/canadians-pull-reagan-advertisement-after-furious-trump-halts-trade-talks?traffic_source=rss",
+    "id_key": "951356f4c2d2ce7fc4fc7cea230f3870c70e45aa52683eb20ff641059b5ac490",
+    "summary": "Ontario to stop running advertisement featuring voice of US President Ronald Reagan saying that trade tariffs were a bad idea.",
+    "ingested_utc": "2025-10-25T06:42:57Z"
+  },
+  {
+    "published_utc": "2025-10-25",
+    "retrieved_date": "2025-10-25",
     "retrieved_utc": "2025-10-25T06:15:07Z",
     "source": "Guardian_World",
     "title": "Trump says he would be open to meeting Kim Jong-un as he embarks on whirlwind Asia tour",
@@ -10987,16 +10998,5 @@
     "id_key": "dc022c701f624db1d5f69932957b837aa2abce76209d02d89a354fad0afde33b",
     "summary": "The wait all year is almost over! In just 4 days, TechCrunch Disrupt 2025 takes over San Francisco's Moscone West and with it the future of tech. This is your final chance to join the founders, investors, and innovators shaping the future before ticket prices increase. Save up to $444 + 60% on a second pass now.",
     "ingested_utc": "2025-10-23T14:15:01Z"
-  },
-  {
-    "published_utc": "2025-10-23",
-    "retrieved_date": "2025-10-23",
-    "retrieved_utc": "2025-10-23T14:14:33Z",
-    "source": "NYTimes_Business",
-    "title": "U.S. Sanctions on Russian Oil Could Push India to Stop Buying It",
-    "url": "https://www.nytimes.com/2025/10/23/business/russia-india-oil-sanctions.html",
-    "id_key": "1bd0fad217cf12d1a74d57e04af01828dc5eab4bb692622fcd2677af4ed6e6be",
-    "summary": "The sanctions could break a diplomatic deadlock by making it more difficult for India to continue buying from Russia, a point of contention between President Trump and Narendra Modi.",
-    "ingested_utc": "2025-10-23T14:14:33Z"
   }
 ]
