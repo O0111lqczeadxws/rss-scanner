@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-10-26",
     "retrieved_date": "2025-10-26",
+    "retrieved_utc": "2025-10-26T17:39:52Z",
+    "source": "FinancialPost_Business",
+    "title": "Carney Pushes Back on Provinces Spoiling for a Fight With Trump",
+    "url": "https://financialpost.com/pmn/business-pmn/carney-pushes-back-on-provinces-spoiling-for-a-fight-with-trump",
+    "id_key": "1da63eef73f64d980414f0f0ecdd78e1aaa88325e28adf3c70959c97ba90420f",
+    "summary": "Canadian Prime Minister Mark Carney’s government appeared to distance itself from the Ontario premier’s interventions on trade following US President Donald Trump’s decision to increase tariffs because of an Ontario government television ad.",
+    "ingested_utc": "2025-10-26T17:39:52Z"
+  },
+  {
+    "published_utc": "2025-10-26",
+    "retrieved_date": "2025-10-26",
+    "retrieved_utc": "2025-10-26T17:39:44Z",
+    "source": "TheStreet_Top",
+    "title": "49-year-old favorite pizza chain files for Chapter 11 bankruptcy",
+    "url": "https://www.thestreet.com/restaurants/49-year-old-popular-pizza-chain-files-for-chapter-11-bankruptcy",
+    "id_key": "a7cbeee4e39c44f43170e6a411f159605728f5c04fffcedbe6ef1b35f25890b9",
+    "summary": "The pizza restaurant industry is one of the most competitive dining sectors in the U.S., with two pizza giants ranking among the Top 8 of all fast-food chains based on locations in 2025. Domino's had the sixth-most number of locations with 7,014, behind Subway (19,502), Starbucks (16,935), ...",
+    "ingested_utc": "2025-10-26T17:39:44Z"
+  },
+  {
+    "published_utc": "2025-10-26",
+    "retrieved_date": "2025-10-26",
+    "retrieved_utc": "2025-10-26T17:39:06Z",
+    "source": "NYTimes_World",
+    "title": "Hurricane Melissa Could Hit as One of Jamaica’s Strongest Storms Ever",
+    "url": "https://www.nytimes.com/2025/10/26/weather/jamaica-worst-storms-hurricane-melissa.html",
+    "id_key": "7b5a22bba68fa71570dc110173563978403b4b45e50b2c989d783aebc7f7d48d",
+    "summary": "Direct landfalls from big hurricanes are rare for Jamaica. Melissa could pummel the island as an “upper-end” Category 4 hurricane, forecasters said.",
+    "ingested_utc": "2025-10-26T17:39:06Z"
+  },
+  {
+    "published_utc": "2025-10-26",
+    "retrieved_date": "2025-10-26",
     "retrieved_utc": "2025-10-26T17:30:08Z",
     "source": "TheStreet_Top",
     "title": "49-year-old popular pizza chain files for Chapter 11 bankruptcy",
@@ -1428,6 +1461,17 @@
     "id_key": "104d0189a59c1136d86bafb0cd134af176268c0c15c61e121384f15af5f4a829",
     "summary": "This release signifies a WASM fraud proof consensus version, and is not a good version to run a node on WAVM Module Root : 0x2c54f6e9e378ba320ed9c713a1d9f067a572b1437e4f1c40b1a915d3066c04f2 This is a release candidate of a consensus release for ArbOS 50, including support for Fusaka. Full Changelog : consensus-v40...consensus-v50-rc.6",
     "ingested_utc": "2025-10-26T00:56:56Z"
+  },
+  {
+    "published_utc": "2025-10-25",
+    "retrieved_date": "2025-10-26",
+    "retrieved_utc": "2025-10-26T17:39:44Z",
+    "source": "TheStreet_Top",
+    "title": "Olive Garden launches deals as restaurant prices surge",
+    "url": "https://www.thestreet.com/retail/olive-garden-launches-bold-new-offer-as-restaurant-prices-surge",
+    "id_key": "b42cc05862996aeaadbf27d43a34b795d76a82ff5a676abcad99aca81665fe4d",
+    "summary": "Olive Garden is rolling out cost-saving menu changes, and the lower-priced choices can't come fast enough. Does this sound familiar? I recently went to dinner with my wife and another couple. It was nothing fancy—a casual dine-in brew pub-style eatery. Three of us had salads with protein. The ...",
+    "ingested_utc": "2025-10-26T17:39:44Z"
   },
   {
     "published_utc": "2025-10-25",
@@ -10954,49 +10998,5 @@
     "id_key": "849f6565b9312cec45094056019e4dd3d53e30d5bb06194e30c0fad0d33f8be3",
     "summary": "The race to make the Lego Game Boy play actual Game Boy games ended before it even began. The same day Lego officially launched the set, Natalie the Nerd revealed she'd already transformed it to play real Game Boy cartridges on real Game Boy chips. Turns out she's not stopping there! Natalie is now working […]",
     "ingested_utc": "2025-10-24T00:50:11Z"
-  },
-  {
-    "published_utc": "2025-10-23",
-    "retrieved_date": "2025-10-24",
-    "retrieved_utc": "2025-10-24T00:49:44Z",
-    "source": "NYTimes_Business",
-    "title": "Target to Cut 1,800 Corporate Jobs in Efficiency Drive",
-    "url": "https://www.nytimes.com/2025/10/23/business/target-job-cuts.html",
-    "id_key": "cfd9f2a46615f81f55f2060436f56bf542766733ecf70f81e6eefc0813006306",
-    "summary": "The retail chain’s incoming chief executive, who will take over in February, cited “too many layers and overlapping work” in a memo.",
-    "ingested_utc": "2025-10-24T00:49:44Z"
-  },
-  {
-    "published_utc": "2025-10-23",
-    "retrieved_date": "2025-10-24",
-    "retrieved_utc": "2025-10-24T00:47:39Z",
-    "source": "Guardian_World",
-    "title": "Trump backs down on sending federal troops to San Francisco for immigration crackdown",
-    "url": "https://www.theguardian.com/us-news/2025/oct/23/san-francisco-federal-immigration-operation",
-    "id_key": "673233332dd28a4221968856f3d06cc1079c44937c8b3e99b6fc7760c063affa",
-    "summary": "Protesters flood streets in show of resistance, as president calls off deployment after speaking with city’s mayor and Silicon Valley leaders Donald Trump canceled plans for a deployment of federal troops to San Francisco that had sparked widespread condemnation from California leaders and sent protesters flooding into the streets. The Bay Area region had been on edge after reports emerged on Wednesday that the Trump administration was poised to send more than 100 Customs and Border Protection (CBP) and other federal agents to the US Coast Guard base in Alameda, a city in the East Bay, as part of a large-scale immigration-enforcement plan. By early Thursday morning, hundreds of protesters had gathered outside the Coast Guard base, holding signs with slogans such as “No ICE or Troops in the Bay!”. Continue reading...",
-    "ingested_utc": "2025-10-24T00:47:39Z"
-  },
-  {
-    "published_utc": "2025-10-23",
-    "retrieved_date": "2025-10-23",
-    "retrieved_utc": "2025-10-23T23:50:34Z",
-    "source": "FinancialPost_Business",
-    "title": "Target is eliminating 1,800 corporate jobs as it looks to reclaim its lost lustre",
-    "url": "https://financialpost.com/pmn/target-is-eliminating-1800-corporate-jobs-as-it-looks-to-reclaim-its-lost-lustre",
-    "id_key": "c575cbe79a48235b5821e2f3ccd27533997bcbcdc832df981beac02447e466fd",
-    "summary": "Target said Thursday that it is eliminating about 1,800 corporate positions in an effort to streamline decision-making and accelerate initiatives to rebuild the flagging discount retailer’s customer base. About 1,000 employees are expected to receive layoff notices next week, and the company also plans to eliminate about 800 vacant jobs, a company spokesperson said. The […]",
-    "ingested_utc": "2025-10-23T23:50:34Z"
-  },
-  {
-    "published_utc": "2025-10-23",
-    "retrieved_date": "2025-10-23",
-    "retrieved_utc": "2025-10-23T23:50:26Z",
-    "source": "TheStreet_Top",
-    "title": "Will September CPI be above or below 3%?",
-    "url": "https://www.thestreet.com/economy/poll-will-september-cpi-be-above-or-below-3",
-    "id_key": "b704beb4d76f8c0ffae46328d9def73045751ef3bfc264d16360cc5a2c044e0c",
-    "summary": "This year, there has been much debate over how fast the Federal Reserve should cut interest rates to stabilize the jobs market, given inflation has been trending higher. So far, Fed Chairman Jerome Powell has taken a mostly wait-and-see approach to interest rates, only reducing them by a quarter ...",
-    "ingested_utc": "2025-10-23T23:50:26Z"
   }
 ]
