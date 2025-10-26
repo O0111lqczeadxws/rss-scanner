@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-10-26",
     "retrieved_date": "2025-10-26",
+    "retrieved_utc": "2025-10-26T13:40:27Z",
+    "source": "FT_Markets",
+    "title": "Markets brace as Argentines go to the polls",
+    "url": "https://www.ft.com/content/9492ca39-1cfe-451a-83df-ff4a340bbb15",
+    "id_key": "0ec549b2a921eea434c5388b43fe2ed15da3a8e622ce87ae117ee908df6af566",
+    "summary": "Midterm vote may determine whether President Javier Milei can end currency crisis and continue free market reforms",
+    "ingested_utc": "2025-10-26T13:40:27Z"
+  },
+  {
+    "published_utc": "2025-10-26",
+    "retrieved_date": "2025-10-26",
+    "retrieved_utc": "2025-10-26T13:40:26Z",
+    "source": "FT_Home",
+    "title": "M&S ends IT service desk contract with Indian provider after cyber attack",
+    "url": "https://www.ft.com/content/289ec371-2ed4-425a-9bd0-c34e6db397ba",
+    "id_key": "c62d14d9a40c2960183c27898ff26f4574630f2a69fc2e253d058e8d0b37e740",
+    "summary": "Tata Consultancy Services exonerated itself from being the source of the breach after an internal investigation",
+    "ingested_utc": "2025-10-26T13:40:26Z"
+  },
+  {
+    "published_utc": "2025-10-26",
+    "retrieved_date": "2025-10-26",
+    "retrieved_utc": "2025-10-26T13:38:03Z",
+    "source": "BBC_World",
+    "title": "Mystery donor gives $130m to US military to pay troops during shutdown",
+    "url": "https://www.bbc.com/news/articles/c891p1pez42o?at_medium=RSS&at_campaign=rss",
+    "id_key": "d5051471dff5ed7ec1d490e2066bb84cd10c398c89d9539a30e5274c87856d61",
+    "summary": "The Treasury Secretary says the US has enough for the next military payday, but can't pay service members after that.",
+    "ingested_utc": "2025-10-26T13:38:03Z"
+  },
+  {
+    "published_utc": "2025-10-26",
+    "retrieved_date": "2025-10-26",
     "retrieved_utc": "2025-10-26T13:24:38Z",
     "source": "TheEconomist_Finance",
     "title": "China’s secret stockpiles have been a great success—so far",
@@ -10965,38 +10998,5 @@
     "id_key": "4efa4f53451361445847baec6b5e6c13b2afe248a8a4428f496a925ddd97c8a4",
     "summary": "",
     "ingested_utc": "2025-10-23T22:13:55Z"
-  },
-  {
-    "published_utc": "2025-10-23",
-    "retrieved_date": "2025-10-23",
-    "retrieved_utc": "2025-10-23T22:13:41Z",
-    "source": "TheStreet_Top",
-    "title": "What are 'expensive' airports, and which airlines don't fly to them?",
-    "url": "https://www.thestreet.com/travel/what-are-expensive-airports-and-which-airlines-dont-fly-to-them",
-    "id_key": "6327da6535e701c24461ad6208bcaa9565a945f3b38f4d455caaf7265514fd82",
-    "summary": "Anyone who has ever looked at their flight ticket receipt in depth will realize the cost includes both the base fare and a long list of taxes and fees that vary across countries and specific airports. Often presented to customers as an airport tax that gets passed on to them, the landing fee is ...",
-    "ingested_utc": "2025-10-23T22:13:41Z"
-  },
-  {
-    "published_utc": "2025-10-23",
-    "retrieved_date": "2025-10-23",
-    "retrieved_utc": "2025-10-23T22:13:30Z",
-    "source": "ArsTechnica_All",
-    "title": "Lawsuit: Reddit caught Perplexity “red-handed” stealing data from Google results",
-    "url": "https://arstechnica.com/tech-policy/2025/10/reddit-sues-to-block-perplexity-from-scraping-google-search-results/",
-    "id_key": "47140bfa1ec26c5828bdd52b12d3624197a59e7211385c16ebf0d8660b69924f",
-    "summary": "Scraper accused of stealing Reddit content \"shocked\" by lawsuit.",
-    "ingested_utc": "2025-10-23T22:13:30Z"
-  },
-  {
-    "published_utc": "2025-10-23",
-    "retrieved_date": "2025-10-23",
-    "retrieved_utc": "2025-10-23T22:13:28Z",
-    "source": "TheVerge_All",
-    "title": "Nintendo&#8217;s chips make this Lego Game Boy upgrade kit the most authentic",
-    "url": "https://www.theverge.com/games/805673/nintendos-chips-make-this-lego-game-boy-upgrade-kit-the-most-authentic",
-    "id_key": "4a20a2310839b80a8e212766851d0c0c5547de07e8cfe1287eebecee4f18d121",
-    "summary": "The race to make the Lego Game Boy play actual Game Boy games ended before it even began. The same day Lego officially launched the set, Natalie the Nerd revealed she'd already transformed it to play real Game Boy cartridges on real Game Boy chips. Turns out she's not stopping there! Natalie is now working […]",
-    "ingested_utc": "2025-10-23T22:13:28Z"
   }
 ]
