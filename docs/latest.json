@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-10-26",
     "retrieved_date": "2025-10-26",
+    "retrieved_utc": "2025-10-26T15:48:00Z",
+    "source": "Guardian_World",
+    "title": "French police arrest two men over €88m Louvre jewel heist",
+    "url": "https://www.theguardian.com/world/2025/oct/26/two-men-reportedly-arrested-after-louvre-jewel-heist",
+    "id_key": "f72e7d435f36e7dca81c68ebaff9cd7bece48054abbfa9b43f4e88fd561be000",
+    "summary": "One man arrested at Charles de Gaulle airport and another just outside Paris, according to French media French police have arrested two suspects believed to have helped steal crown jewels worth an estimated €88m (£76m) from the Louvre museum in Paris, officials have said, a week after one of the country’s most spectacular heists in decades. The Paris public prosecutor confirmed media reports on Sunday that one man had been detained at about 10pm (8pm UK time) on Saturday at the capital’s Charles de Gaulle airport by officers from the armed robberies and serious burglaries squad. Continue reading...",
+    "ingested_utc": "2025-10-26T15:48:00Z"
+  },
+  {
+    "published_utc": "2025-10-26",
+    "retrieved_date": "2025-10-26",
     "retrieved_utc": "2025-10-26T15:36:45Z",
     "source": "CryptoBriefing",
     "title": "Bitcoin surges after US and China agree on key trade issues in Kuala Lumpur talks",
@@ -10987,16 +10998,5 @@
     "id_key": "f2f5228beb2556fad6ef7e87b27197fb5528b97a92bc7a137fddc3b030ec4090",
     "summary": "Comments",
     "ingested_utc": "2025-10-23T22:44:23Z"
-  },
-  {
-    "published_utc": "2025-10-23",
-    "retrieved_date": "2025-10-23",
-    "retrieved_utc": "2025-10-23T22:44:00Z",
-    "source": "TheStreet_Top",
-    "title": "159-year-old liquor brand faces Chapter 11 bankruptcy, asset sale",
-    "url": "https://www.thestreet.com/retail/159-year-old-liquor-brand-faces-chapter-11-bankruptcy-asset-sale",
-    "id_key": "d467cd4131f66466eaff4a581acbb1d0064685d44f33fd060b4fb5e6d3aec595",
-    "summary": "The company is a court-ordered receivership.Selling assets is part of its plan.A Chapter 11 bankruptcy filing, but not a Chapter 7 liquidation, remains an option. Very few brands trace their history back to the 1850s, and almost no brands exist that were literally created to right a historical ...",
-    "ingested_utc": "2025-10-23T22:44:00Z"
   }
 ]
