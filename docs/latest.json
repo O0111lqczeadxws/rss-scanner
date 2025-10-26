@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-10-26",
     "retrieved_date": "2025-10-26",
+    "retrieved_utc": "2025-10-26T06:42:25Z",
+    "source": "BBC_World",
+    "title": "Trump raises tariffs on Canadian goods over Reagan advert",
+    "url": "https://www.bbc.com/news/articles/cx2ljgrm78zo?at_medium=RSS&at_campaign=rss",
+    "id_key": "a4c4a4dd4144160b632f078842b94924fe395211e2603d4f15eb4de8b5f086db",
+    "summary": "Saying that airing the advert was a hostile act, Trump announces an additional 10% on top of his existing levies.",
+    "ingested_utc": "2025-10-26T06:42:25Z"
+  },
+  {
+    "published_utc": "2025-10-26",
+    "retrieved_date": "2025-10-26",
     "retrieved_utc": "2025-10-26T06:15:26Z",
     "source": "Guardian_World",
     "title": "Companies that donated to Labour awarded £138m in contracts, study finds",
@@ -10986,17 +10997,6 @@
     "url": "https://www.aljazeera.com/news/2025/10/23/we-do-not-agree-mexicos-claudia-sheinbaum-speaks-against-us-air-strikes?traffic_source=rss",
     "id_key": "fab7b18d2fa7df7e9a8addb85855d4f98f7a1a664303d6ecd2108b75925f836a",
     "summary": "Sheinbaum faces pressure from the Trump administration to crack down on drug trafficking across the US-Mexico border.",
-    "ingested_utc": "2025-10-23T20:15:06Z"
-  },
-  {
-    "published_utc": "2025-10-23",
-    "retrieved_date": "2025-10-23",
-    "retrieved_utc": "2025-10-23T20:15:06Z",
-    "source": "AlJazeera_All",
-    "title": "LIVE: Trump calls drug cartels ‘ISIS of the Western hemisphere’",
-    "url": "https://www.aljazeera.com/news/liveblog/2025/10/23/trump-live-mexicos-sheinbaum-rejects-us-strikes-on-alleged-drug-boats?traffic_source=rss",
-    "id_key": "f6f88df09f8e541b5db656b77aafde5e9feea05a0989905e3b9b3ecabb08ee64",
-    "summary": "Mexican President Claudia Sheinbaum says she does not agree with US strikes on boats off the coast of South America.",
     "ingested_utc": "2025-10-23T20:15:06Z"
   }
 ]
