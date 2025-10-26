@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-10-26",
     "retrieved_date": "2025-10-26",
+    "retrieved_utc": "2025-10-26T20:51:03Z",
+    "source": "Engadget_All",
+    "title": "OpenAI is reportedly working on an AI music-generation tool",
+    "url": "https://www.engadget.com/openai-is-reportedly-working-on-an-ai-music-generation-tool-204208186.html?src=rss",
+    "id_key": "e68e37ff74f2b86cc4dd27623d76db80074d4dcb990ad5001b8f05f5faad965d",
+    "summary": "According to a report from The Information , OpenAI is interested in developing a tool that could generate music from text and audio prompts, and has been working with students from The Juilliard School to help with creating training data. The company envisions something that could be used to generate guitar accompaniment for a vocal track, for example, or to add music to videos, sources with knowledge of the project told the publication. There's no word on how far into these efforts OpenAI is. According to one source that spoke to The Information , OpenAI enlisted the Juilliard students to annotate music scores, which could be used to train the AI. It wouldn't be the first time the company has explored music-generating AI , and it's something we're seeing more and more of elsewhere with other startups, like Suno and ElevenLabs , launching their own versions. AI spam is already cluttering up streaming platforms and, lest we forget, there was the whole The Velvet Sundown debacle . It's only the beginning. This article originally appeared on Engadget at https://www.engadget.com/openai-is-reportedly-working-on-an-ai-music-generation-tool-204208186.html?src=rss",
+    "ingested_utc": "2025-10-26T20:51:03Z"
+  },
+  {
+    "published_utc": "2025-10-26",
+    "retrieved_date": "2025-10-26",
     "retrieved_utc": "2025-10-26T20:44:10Z",
     "source": "AlJazeera_All",
     "title": "Gaza Tribunal calls for ‘Israeli perpetrators and enablers’ to face justice",
@@ -10987,16 +10998,5 @@
     "id_key": "41afc4e888e698921f7d9d2bf2d3112079b63584af39d1b4cb9ce3b0a243fbc9",
     "summary": "General Motors Co. and Stellantis NV will be forced to pay tariffs on some US-made vehicles they import for sale in Canada, after the companies decided to reduce assembly-line work at factories in Ontario.",
     "ingested_utc": "2025-10-24T00:50:32Z"
-  },
-  {
-    "published_utc": "2025-10-24",
-    "retrieved_date": "2025-10-24",
-    "retrieved_utc": "2025-10-24T00:50:23Z",
-    "source": "TheStreet_Top",
-    "title": "Another egg recall highlights salmonella risk",
-    "url": "https://www.thestreet.com/retail/another-egg-recall-highlights-salmonella-risk",
-    "id_key": "eeaa7fa6397d73e67ae5b1f97a1bed0968a46ca4b150e301793e432fc87f822e",
-    "summary": "First it was Costco’s Kirkland Prosecco, one of the company's top selling private-label products. Then came a wave of pharmaceutical recalls affecting generic drugs. Now, it’s eggs. The latest recall comes on the heels of a much more significant recall from earlier this year. While this recall has ...",
-    "ingested_utc": "2025-10-24T00:50:23Z"
   }
 ]
