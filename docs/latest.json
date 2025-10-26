@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-10-26",
     "retrieved_date": "2025-10-26",
+    "retrieved_utc": "2025-10-26T21:28:48Z",
+    "source": "FinancialPost_Business",
+    "title": "Transportation secretary says he will pull $160M from California over noncitizen truck licenses",
+    "url": "https://financialpost.com/pmn/transportation-secretary-says-hell-pull-160m-from-california-over-noncitizen-truck-licenses",
+    "id_key": "ffad8fd142ff8cca15ee68f0bcb61bb901a98678837fa6e24e723a1ef5bdf9a2",
+    "summary": "U.S. Transportation Secretary Sean Duffy warned Sunday that he is about make good on a threat to revoke millions in federal funds for California because he says the state is illegally issuing commercial driver’s licenses to noncitizens. In an appearance on Fox News Channel’s “Sunday Morning Futures,” Duffy said Gov. Gavin Newsom has refused to […]",
+    "ingested_utc": "2025-10-26T21:28:48Z"
+  },
+  {
+    "published_utc": "2025-10-26",
+    "retrieved_date": "2025-10-26",
+    "retrieved_utc": "2025-10-26T21:28:01Z",
+    "source": "NYTimes_Business",
+    "title": "Companies Have Shielded Buyers From Tariffs. But Not for Long.",
+    "url": "https://www.nytimes.com/2025/10/24/business/economy/companies-have-shielded-buyers-from-tariffs-but-not-for-long.html",
+    "id_key": "a5ee6f516a709bdd0232ca96b7110ff466f17729c0bf6e2f4bebf4f6c603aa21",
+    "summary": "Cars, toys and tea are among products set to get more expensive as tariffs weigh on corporate profits.",
+    "ingested_utc": "2025-10-26T21:28:01Z"
+  },
+  {
+    "published_utc": "2025-10-26",
+    "retrieved_date": "2025-10-26",
     "retrieved_utc": "2025-10-26T21:12:46Z",
     "source": "Nikkei_Asia_Top",
     "title": "BOJ early rate hike bets recede amid potential Trump, Takaichi impacts",
@@ -10976,27 +10998,5 @@
     "id_key": "fcaee812883695a9c1cf56eb6029d55fc70c9cec4745b69c1f5b105cc40c00eb",
     "summary": "",
     "ingested_utc": "2025-10-24T00:50:38Z"
-  },
-  {
-    "published_utc": "2025-10-24",
-    "retrieved_date": "2025-10-24",
-    "retrieved_utc": "2025-10-24T00:50:38Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "Bank Indonesia keeps its policy rate unchanged for first time in 4 months",
-    "url": "https://asia.nikkei.com/business/markets/bank-indonesia-keeps-its-policy-rate-unchanged-for-first-time-in-4-months",
-    "id_key": "469d5dbfc36f35d7fb07de6d2b2604e63156aa921554de75ad930acdbceb2323",
-    "summary": "",
-    "ingested_utc": "2025-10-24T00:50:38Z"
-  },
-  {
-    "published_utc": "2025-10-24",
-    "retrieved_date": "2025-10-24",
-    "retrieved_utc": "2025-10-24T00:50:32Z",
-    "source": "FinancialPost_Business",
-    "title": "Treasuries’ October Gains at Risk From CPI ‘Tipping Point’",
-    "url": "https://financialpost.com/pmn/business-pmn/treasuries-october-gains-at-risk-from-cpi-tipping-point",
-    "id_key": "1fdf2c76c3568cf7f2b3018d116080d44db998c5b4b6b9a912bced42e6339826",
-    "summary": "Data-starved bond traders risk seeing the October rally in Treasuries spoiled by the key inflation figures they’ve been waiting for.",
-    "ingested_utc": "2025-10-24T00:50:32Z"
   }
 ]
