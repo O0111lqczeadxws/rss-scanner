@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-10-26",
     "retrieved_date": "2025-10-26",
+    "retrieved_utc": "2025-10-26T20:14:53Z",
+    "source": "FinancialPost_Business",
+    "title": "Transportation secretary says he’ll pull $160M from California over noncitizen truck licenses",
+    "url": "https://financialpost.com/pmn/transportation-secretary-says-hell-pull-160m-from-california-over-noncitizen-truck-licenses",
+    "id_key": "4ef6c0c873fb2f9d068c822fecd609ab565510e8200788401a32091ad8c3a717",
+    "summary": "U.S. Transportation Secretary Sean Duffy warned Sunday that he’s about make good on a threat to revoke millions in federal funds for California because he says the state is illegally issuing commercial driver’s licenses to noncitizens. In an appearance on Fox News Channel’s “Sunday Morning Futures” Duffy said California Gov. Gavin Newsom has refused to […]",
+    "ingested_utc": "2025-10-26T20:14:53Z"
+  },
+  {
+    "published_utc": "2025-10-26",
+    "retrieved_date": "2025-10-26",
+    "retrieved_utc": "2025-10-26T20:11:51Z",
+    "source": "Guardian_World",
+    "title": "US airports report over 20 air traffic controller shortage triggers in one day",
+    "url": "https://www.theguardian.com/us-news/2025/oct/26/air-traffic-controller-shortages-shutdown",
+    "id_key": "c1eae8b7c5fc113201176cd09b4f278c338c86ff9b50aff8693b4d9171f3af08",
+    "summary": "Transportation secretary says figure is ‘one of the highest we’ve seen’ since 1 October as shutdown drags on US airports have reported more than 20 incidents of air traffic controller shortages on Saturday, said Sean Duffy, transportation secretary, in the latest sign of the government shutdown’s impact. A ground stop was issued by the agency at Los Angeles international airport due to the air traffic controller staffing shortages at around 11.30am ET (15.30 GMT). The restriction covered most of the southern California region and delays are likely when flights resume. Continue reading...",
+    "ingested_utc": "2025-10-26T20:11:51Z"
+  },
+  {
+    "published_utc": "2025-10-26",
+    "retrieved_date": "2025-10-26",
     "retrieved_utc": "2025-10-26T19:50:57Z",
     "source": "FinancialPost_Business",
     "title": "Boeing defense workers on strike in the Midwest reject the company’s latest contract offer",
@@ -1593,6 +1615,17 @@
     "id_key": "104d0189a59c1136d86bafb0cd134af176268c0c15c61e121384f15af5f4a829",
     "summary": "This release signifies a WASM fraud proof consensus version, and is not a good version to run a node on WAVM Module Root : 0x2c54f6e9e378ba320ed9c713a1d9f067a572b1437e4f1c40b1a915d3066c04f2 This is a release candidate of a consensus release for ArbOS 50, including support for Fusaka. Full Changelog : consensus-v40...consensus-v50-rc.6",
     "ingested_utc": "2025-10-26T00:56:56Z"
+  },
+  {
+    "published_utc": "2025-10-25",
+    "retrieved_date": "2025-10-26",
+    "retrieved_utc": "2025-10-26T20:14:44Z",
+    "source": "TheStreet_Top",
+    "title": "Costco's menu adds an iconic treat that McDonald's used to offer",
+    "url": "https://www.thestreet.com/retail/costco-tries-to-win-where-mcdonalds-failed",
+    "id_key": "4a4c19b9b1b10bb8826490f92a9e79202a096f53c468f757bb6f0372ce188e36",
+    "summary": "When I’m shopping at Costco, I tend to want to get in and out of the store as quickly as possible. That’s because I have very little patience for large crowds, which Costco tends to attract. Thankfully, as an Executive member, I’m now able to enter the store an hour early on weekdays. And so far, ...",
+    "ingested_utc": "2025-10-26T20:14:44Z"
   },
   {
     "published_utc": "2025-10-25",
@@ -10965,38 +10998,5 @@
     "id_key": "a5947c0c39c5312c41059398bcb6ff8040adc8e263acfb6455332ebed0a66078",
     "summary": "Outcome of byelection in historically Labour stronghold could mark historic shift in Welsh politics The Caerphilly byelection turnout was 50.43%, according to reports, with a total of 33,736 constituency ballot papers being included in the count. The turnout figure is being described as a historic high for a Senedd byelection and for a Welsh devolved byelection. I still feel so excited about the campaign that we ran, I think it’s been a really energetic campaign. I feel excited and frightened at the same time, and I wish there were a word for those things together, because there are two very starkly different scenarios ahead of us. Continue reading...",
     "ingested_utc": "2025-10-24T00:47:39Z"
-  },
-  {
-    "published_utc": "2025-10-23",
-    "retrieved_date": "2025-10-25",
-    "retrieved_utc": "2025-10-25T07:25:38Z",
-    "source": "BBC_Technology",
-    "title": "Tesla profits slide despite record revenue",
-    "url": "https://www.bbc.com/news/articles/cql9yqxllqdo?at_medium=RSS&at_campaign=rss",
-    "id_key": "c3010600964d3213fa7cda4cfdb7849f7dee7ee601a0591a385e316434a32548",
-    "summary": "Elon Musk's electric car maker reported record revenue as US buyers rushed to secure a key tax credit.",
-    "ingested_utc": "2025-10-25T07:25:38Z"
-  },
-  {
-    "published_utc": "2025-10-23",
-    "retrieved_date": "2025-10-25",
-    "retrieved_utc": "2025-10-25T02:23:04Z",
-    "source": "HackerNews_Top",
-    "title": "Context engineering is sleeping on the humble hyperlink",
-    "url": "https://mbleigh.dev/posts/context-engineering-with-links/",
-    "id_key": "ef26b3dc8e31a302b31fa72ca00b411626a1ecb82af305f1a0cec12230cab90e",
-    "summary": "Comments",
-    "ingested_utc": "2025-10-25T02:23:04Z"
-  },
-  {
-    "published_utc": "2025-10-23",
-    "retrieved_date": "2025-10-24",
-    "retrieved_utc": "2025-10-24T16:55:52Z",
-    "source": "TheStreet_Top",
-    "title": "159-year-old whiskey brand facing Chapter 11 bankruptcy, asset sale",
-    "url": "https://www.thestreet.com/retail/159-year-old-liquor-brand-faces-chapter-11-bankruptcy-asset-sale",
-    "id_key": "b3f224ea4ecf752b94e2281e6779b1c67babb3d11f3b7af16587149cc215a771",
-    "summary": "The company is under a court-ordered receivership.Selling assets is part of its plan.A Chapter 11 bankruptcy filing, but not a Chapter 7 liquidation, remains an option. Very few brands trace their history back to the 1850s, and almost no brands exist that were literally created to right a ...",
-    "ingested_utc": "2025-10-24T16:55:52Z"
   }
 ]
