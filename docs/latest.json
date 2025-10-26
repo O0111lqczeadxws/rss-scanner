@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-10-26",
     "retrieved_date": "2025-10-26",
+    "retrieved_utc": "2025-10-26T02:30:07Z",
+    "source": "FT_Home",
+    "title": "Trump to raise tariffs on Canada by 10% over Ontario’s Reagan ad",
+    "url": "https://www.ft.com/content/8e90d02c-13d6-4bad-8795-68a5c81f7aa6",
+    "id_key": "7e0fbc4669d356a41fbd127bb701a801660f7625a53eba85cf37483d18aab8ee",
+    "summary": "US president was angered by a television advertisement quoting former president’s disdain for import levies",
+    "ingested_utc": "2025-10-26T02:30:07Z"
+  },
+  {
+    "published_utc": "2025-10-26",
+    "retrieved_date": "2025-10-26",
+    "retrieved_utc": "2025-10-26T02:30:03Z",
+    "source": "NPR_Top",
+    "title": "Melissa expected to rapidly intensify into major hurricane in the Caribbean",
+    "url": "https://www.npr.org/2025/10/25/nx-s1-5586114/melissa-expected-to-rapidly-intensify-into-major-hurricane-in-the-caribbean",
+    "id_key": "829ef6915da6b6e1bbc4af30004ba0abf63caf860dda83b9e77fc4d89ecbc670",
+    "summary": "Cuba, the Dominican Republic, Haiti and Jamaica are bracing for Hurricane Melissa. The storm is expected to quickly grow into a powerful category 3 or stronger hurricane.",
+    "ingested_utc": "2025-10-26T02:30:03Z"
+  },
+  {
+    "published_utc": "2025-10-26",
+    "retrieved_date": "2025-10-26",
+    "retrieved_utc": "2025-10-26T02:27:41Z",
+    "source": "Guardian_World",
+    "title": "‘Ignorant’: former Labor MP condemns Minns government for threatening Blue Mountains protesters over historic site",
+    "url": "https://www.theguardian.com/australia-news/2025/oct/26/ignorant-former-labor-mp-condemns-minns-government-for-threatening-blue-mountains-protesters-over-historic-site",
+    "id_key": "2b8025a5c47e8ce5581374836219eddf182c1f81c95d10c0f0eca5da1242bd9e",
+    "summary": "Former home affairs minister Bob Debus, who served in the Rudd government, throws his support behind Clairvaux in Katoomba Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The state government has threatened to treat First Nations and environmental groups as trespassers if they continue to use a historic home in the Blue Mountains that was once an infamous “house of horrors” but was reclaimed as a community hub. But a former state and federal MP and stalwart of the Labor party has criticised the Minns government as “unethical” and “ignorant”, for enforcing the eviction of the groups from Clairvaux in Katoomba. Continue reading...",
+    "ingested_utc": "2025-10-26T02:27:41Z"
+  },
+  {
+    "published_utc": "2025-10-26",
+    "retrieved_date": "2025-10-26",
     "retrieved_utc": "2025-10-26T00:58:25Z",
     "source": "Nikkei_Asia_Top",
     "title": "Permanence of Japan-US alliance is not guaranteed, security experts warn",
@@ -196,6 +229,17 @@
     "id_key": "104d0189a59c1136d86bafb0cd134af176268c0c15c61e121384f15af5f4a829",
     "summary": "This release signifies a WASM fraud proof consensus version, and is not a good version to run a node on WAVM Module Root : 0x2c54f6e9e378ba320ed9c713a1d9f067a572b1437e4f1c40b1a915d3066c04f2 This is a release candidate of a consensus release for ArbOS 50, including support for Fusaka. Full Changelog : consensus-v40...consensus-v50-rc.6",
     "ingested_utc": "2025-10-26T00:56:56Z"
+  },
+  {
+    "published_utc": "2025-10-25",
+    "retrieved_date": "2025-10-26",
+    "retrieved_utc": "2025-10-26T02:30:35Z",
+    "source": "TheStreet_Top",
+    "title": "O'Reilly Auto Parts CEO sounds alarm on shift in customer behavior",
+    "url": "https://www.thestreet.com/automotive/oreilly-auto-parts-ceo-warns-consumers-will-see-change-in-stores",
+    "id_key": "577429bdb85a6de6809967fa2488a6a424224fd065bdc8c268429437aa2a6bfb",
+    "summary": "Last week, automotive parts supplier AutoZone gave a worrying update. The Memphis-based company reported an $80 million non-cash LIFO (last in, first out) charge in the previous quarter due to tariffs, and they expect that number to grow to $120 million in the current first fiscal quarter. After ...",
+    "ingested_utc": "2025-10-26T02:30:35Z"
   },
   {
     "published_utc": "2025-10-25",
@@ -10954,49 +10998,5 @@
     "id_key": "9069702d56b93034003ba978f18426a89b6c41f8ac5c84a4fbe05af5031f0d35",
     "summary": "Canadian Prime Minister Mark Carney hopes to meet Chinese President Xi Jinping on the sidelines of the Asia-Pacific Economic Cooperation summit next week as he tries to offset US tariffs by easing trade tensions with the world’s second-largest economy.",
     "ingested_utc": "2025-10-23T19:36:26Z"
-  },
-  {
-    "published_utc": "2025-10-23",
-    "retrieved_date": "2025-10-23",
-    "retrieved_utc": "2025-10-23T19:36:17Z",
-    "source": "TheStreet_Top",
-    "title": "Poll: Will September CPI be above or below 3%?",
-    "url": "https://www.thestreet.com/economy/poll-will-september-cpi-be-above-or-below-3",
-    "id_key": "ad5fae35dde85f51b57f040d9ef4fbc65521fc969471f4b5413ba2b42c179eb4",
-    "summary": "This year, there has been much debate over how fast the Federal Reserve should cut interest rates to stabilize the jobs market, given inflation has been trending higher. So far, Fed Chairman Jerome Powell has taken a mostly wait-and-see approach to interest rates, only reducing them by a quarter ...",
-    "ingested_utc": "2025-10-23T19:36:17Z"
-  },
-  {
-    "published_utc": "2025-10-23",
-    "retrieved_date": "2025-10-23",
-    "retrieved_utc": "2025-10-23T19:36:10Z",
-    "source": "TheEconomist_Finance",
-    "title": "Will America’s new sanctions on Russian oil force a peace deal?",
-    "url": "https://www.economist.com/finance-and-economics/2025/10/23/will-americas-new-sanctions-on-russian-oil-force-a-peace-deal",
-    "id_key": "ed66c576db45e9509de1bf226c777f6136abc2456b5fc5eecd3c3a3922f764f6",
-    "summary": "Donald Trump raises the pressure—but he may have to go further",
-    "ingested_utc": "2025-10-23T19:36:10Z"
-  },
-  {
-    "published_utc": "2025-10-23",
-    "retrieved_date": "2025-10-23",
-    "retrieved_utc": "2025-10-23T19:36:05Z",
-    "source": "TechCrunch_All",
-    "title": "US government accuses former L3Harris cyber boss of stealing trade secrets",
-    "url": "https://techcrunch.com/2025/10/23/u-s-government-accuses-former-l3harris-cyber-boss-of-stealing-trade-secrets/",
-    "id_key": "1fc7bcdb56a46121122fed1fc98635fd34028ca8226d750ee42b8085bc3af6f3",
-    "summary": "The U.S. Department of Justice accused Peter Williams, former general manager of L3Harris’ hacking division Trenchant, of stealing trade secrets and selling them to a buyer in Russia.",
-    "ingested_utc": "2025-10-23T19:36:05Z"
-  },
-  {
-    "published_utc": "2025-10-23",
-    "retrieved_date": "2025-10-23",
-    "retrieved_utc": "2025-10-23T19:35:36Z",
-    "source": "NYTimes_World",
-    "title": "Trump Says Israeli Annexation of West Bank Land ‘Won’t Happen’",
-    "url": "https://www.nytimes.com/2025/10/23/world/middleeast/trump-israel-west-bank-annexation.html",
-    "id_key": "0df7c7271615cca5f36064c841386ca8d3ec47c94950b96f23ae5abb6672c3e7",
-    "summary": "Vice President JD Vance also called symbolic votes in Israel’s Parliament to take territory a “very stupid political stunt.”",
-    "ingested_utc": "2025-10-23T19:35:36Z"
   }
 ]
