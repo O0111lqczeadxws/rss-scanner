@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-10-26",
     "retrieved_date": "2025-10-26",
+    "retrieved_utc": "2025-10-26T23:38:43Z",
+    "source": "AlJazeera_All",
+    "title": "UK journalist Sami Hamdi detained in US amid pro-Israel lobby pressure",
+    "url": "https://www.aljazeera.com/news/2025/10/26/uk-journalist-sami-hamdi-detained-in-us-amid-pro-israel-lobby-pressure?traffic_source=rss",
+    "id_key": "67a442a5176565c60c65da3b5735ccbc529400d0065605dfb64a36b71382218f",
+    "summary": "Far-right activist and Donald Trump ally Laura Loomer celebrates Hamdi’s detention as US gov't says he's in ICE custody.",
+    "ingested_utc": "2025-10-26T23:38:43Z"
+  },
+  {
+    "published_utc": "2025-10-26",
+    "retrieved_date": "2025-10-26",
     "retrieved_utc": "2025-10-26T23:30:09Z",
     "source": "HackerNews_Top",
     "title": "A definition of AGI",
@@ -10987,16 +10998,5 @@
     "id_key": "82bb49a8f6272a1d4054c983d22e9f1f86b3334fafbe2c60929191413cbca38e",
     "summary": "\"It looks like an expensive piece of furniture, but with an affordable price.\"",
     "ingested_utc": "2025-10-24T03:15:39Z"
-  },
-  {
-    "published_utc": "2025-10-24",
-    "retrieved_date": "2025-10-24",
-    "retrieved_utc": "2025-10-24T03:15:14Z",
-    "source": "FT_Markets",
-    "title": "Overseas renminbi lending surges as China steps up campaign to de-dollarise",
-    "url": "https://www.ft.com/content/4577100f-8b71-4647-8e7e-fead115d9552",
-    "id_key": "9ec27afd67a74deb8a58492605c4b3de408718c42cac7bd2edfc6dee72729a08",
-    "summary": "Beijing’s push for renminbi trade and investment will speed move from dollar-based to multi-polar monetary system, analysts say",
-    "ingested_utc": "2025-10-24T03:15:14Z"
   }
 ]
