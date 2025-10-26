@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-10-26",
     "retrieved_date": "2025-10-26",
+    "retrieved_utc": "2025-10-26T18:17:45Z",
+    "source": "HackerNews_Top",
+    "title": "Making the Electron Microscope",
+    "url": "https://www.asimov.press/p/electron-microscope",
+    "id_key": "26a60cf8396da37e6257c5b886fcc66588399b22d47884dbc89cab36c707d65e",
+    "summary": "Comments",
+    "ingested_utc": "2025-10-26T18:17:45Z"
+  },
+  {
+    "published_utc": "2025-10-26",
+    "retrieved_date": "2025-10-26",
+    "retrieved_utc": "2025-10-26T18:17:27Z",
+    "source": "AlJazeera_All",
+    "title": "US warship arrives in Trinidad and Tobago, near Venezuela",
+    "url": "https://www.aljazeera.com/news/2025/10/26/us-warship-arrives-in-trinidad-and-tobago-near-venezuela?traffic_source=rss",
+    "id_key": "20cda5e8bb56d8e5c7dc83a8baa36ff9a46775437fea30ad1dec5474ada198e1",
+    "summary": "USS Gravely's arrival comes as US military build-up in the region has increased tensions between Washington and Caracas.",
+    "ingested_utc": "2025-10-26T18:17:27Z"
+  },
+  {
+    "published_utc": "2025-10-26",
+    "retrieved_date": "2025-10-26",
     "retrieved_utc": "2025-10-26T17:50:42Z",
     "source": "TheStreet_Top",
     "title": "Wayfair is selling a microsuede sectional sofa for $360 that's mid-century cool",
@@ -10976,27 +10998,5 @@
     "id_key": "db3804d6cf1e44b0e403c50cf60880d0a4c9185c152bbd16d8446a9451f6a77b",
     "summary": "Berlin says Washington should not target subsidiaries of Russian oil company located in Germany",
     "ingested_utc": "2025-10-24T02:20:44Z"
-  },
-  {
-    "published_utc": "2025-10-23",
-    "retrieved_date": "2025-10-24",
-    "retrieved_utc": "2025-10-24T00:50:46Z",
-    "source": "HackerNews_Top",
-    "title": "How memory maps (mmap) deliver faster file access in Go",
-    "url": "https://info.varnish-software.com/blog/how-memory-maps-mmap-deliver-25x-faster-file-access-in-go",
-    "id_key": "1d96c341a119dc0c617a037df7b08bd0fb34e715cbac510f69e540cfc3c7239d",
-    "summary": "Comments",
-    "ingested_utc": "2025-10-24T00:50:46Z"
-  },
-  {
-    "published_utc": "2025-10-23",
-    "retrieved_date": "2025-10-24",
-    "retrieved_utc": "2025-10-24T00:50:46Z",
-    "source": "HackerNews_Top",
-    "title": "/dev/null is an ACID compliant database",
-    "url": "https://jyu.dev/blog/why-dev-null-is-an-acid-compliant-database/",
-    "id_key": "416b1364516627539521d1f0ff0004afb4b697462f101992342178eaac2258f3",
-    "summary": "Comments",
-    "ingested_utc": "2025-10-24T00:50:46Z"
   }
 ]
