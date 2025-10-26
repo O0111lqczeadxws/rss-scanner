@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-10-26",
     "retrieved_date": "2025-10-26",
+    "retrieved_utc": "2025-10-26T18:41:53Z",
+    "source": "TheStreet_Top",
+    "title": "Luxury hotel files for Chapter 11 bankruptcy",
+    "url": "https://www.thestreet.com/economy/luxury-hotel-files-for-chapter-11-bankruptcy",
+    "id_key": "39f41862d08f6ac7b67666477a0a66c155bad378a93ba4f3b88fc93b3427bb2e",
+    "summary": "Over the last year, several hotels have seen their financial problems reach a point where they had to file for bankruptcy. In September 2025, the company behind hotels such as the Tuscany and Hotel 27 in New York City suddenly filed for Chapter 11 bankruptcy and shut down operations. Guests with ...",
+    "ingested_utc": "2025-10-26T18:41:53Z"
+  },
+  {
+    "published_utc": "2025-10-26",
+    "retrieved_date": "2025-10-26",
     "retrieved_utc": "2025-10-26T18:17:45Z",
     "source": "HackerNews_Top",
     "title": "Making the Electron Microscope",
@@ -1516,6 +1527,28 @@
     "id_key": "104d0189a59c1136d86bafb0cd134af176268c0c15c61e121384f15af5f4a829",
     "summary": "This release signifies a WASM fraud proof consensus version, and is not a good version to run a node on WAVM Module Root : 0x2c54f6e9e378ba320ed9c713a1d9f067a572b1437e4f1c40b1a915d3066c04f2 This is a release candidate of a consensus release for ArbOS 50, including support for Fusaka. Full Changelog : consensus-v40...consensus-v50-rc.6",
     "ingested_utc": "2025-10-26T00:56:56Z"
+  },
+  {
+    "published_utc": "2025-10-25",
+    "retrieved_date": "2025-10-26",
+    "retrieved_utc": "2025-10-26T18:41:53Z",
+    "source": "TheStreet_Top",
+    "title": "Walmart makes a major purchase customers may not notice",
+    "url": "https://www.thestreet.com/retail/walmart-makes-bold-move-to-secure-its-future-benefit-customers",
+    "id_key": "a97ad891277a0782102af73ef82065ed3047abe3cfaf300837733ea140d48c91",
+    "summary": "If there's one thing Walmart is known for, it's everyday low prices and a vast selection of goods under the same roof. Walmart's reputation is such that the big-box giant could easily sit back, keep doing what it's doing, and continue enjoying a steady stream of revenue. But Walmart isn't the type ...",
+    "ingested_utc": "2025-10-26T18:41:53Z"
+  },
+  {
+    "published_utc": "2025-10-25",
+    "retrieved_date": "2025-10-26",
+    "retrieved_utc": "2025-10-26T18:41:53Z",
+    "source": "TheStreet_Top",
+    "title": "Costco adds Iconic breakfast treat to its in-store menu",
+    "url": "https://www.thestreet.com/retail/costco-tries-to-win-where-mcdonalds-failed",
+    "id_key": "e626ed7b5c8751f397a75be0dbc8778a5571afa2fe806e770f39343841f19d91",
+    "summary": "When I’m shopping at Costco, I tend to want to get in and out of the store as quickly as possible. That’s because I have very little patience for large crowds, which Costco tends to attract. Thankfully, as an Executive member, I’m now able to enter the store an hour early on weekdays. And so far, ...",
+    "ingested_utc": "2025-10-26T18:41:53Z"
   },
   {
     "published_utc": "2025-10-25",
@@ -10965,38 +10998,5 @@
     "id_key": "d37a97bc53f3b08d8e1c2c48552af7335de2d2e5887b4532c1114f7110ed50c7",
     "summary": "Vice President Vance's scathing remark came as he wrapped up an Israel trip, as the Trump administration attempts to keep up momentum on the U.S.-brokered ceasefire between Israel and Hamas in Gaza.",
     "ingested_utc": "2025-10-24T04:15:57Z"
-  },
-  {
-    "published_utc": "2025-10-23",
-    "retrieved_date": "2025-10-24",
-    "retrieved_utc": "2025-10-24T03:44:40Z",
-    "source": "FT_Markets",
-    "title": "Trump’s Russian oil sanctions hit India and China’s imports",
-    "url": "https://www.ft.com/content/94acd635-d772-4fae-99b7-f907ba3b0075",
-    "id_key": "92a84566c141483d1a5af4ee41fba82fa596b95c1a1e4ced93b8db1603c03418",
-    "summary": "Largest refineries look at curbing purchases after US measures aim to impede Putin’s war machine",
-    "ingested_utc": "2025-10-24T03:44:40Z"
-  },
-  {
-    "published_utc": "2025-10-23",
-    "retrieved_date": "2025-10-24",
-    "retrieved_utc": "2025-10-24T02:21:17Z",
-    "source": "FinancialPost_Business",
-    "title": "Target is eliminating 1,800 corporate jobs as it looks to reclaim its lost luster",
-    "url": "https://financialpost.com/pmn/target-is-eliminating-1800-corporate-jobs-as-it-looks-to-reclaim-its-lost-lustre",
-    "id_key": "21717e4feb18807da7dc473af4eeaabe290a3beb0b0ef271ad612710084d7a8e",
-    "summary": "Target said Thursday that it is eliminating about 1,800 corporate positions in an effort to streamline decision-making and accelerate initiatives to rebuild the flagging discount retailer’s customer base. About 1,000 employees are expected to receive layoff notices next week, and the company also plans to eliminate about 800 vacant jobs, a company spokesperson said. The […]",
-    "ingested_utc": "2025-10-24T02:21:17Z"
-  },
-  {
-    "published_utc": "2025-10-23",
-    "retrieved_date": "2025-10-24",
-    "retrieved_utc": "2025-10-24T02:20:44Z",
-    "source": "FT_Markets",
-    "title": "Germany races to secure US sanctions exemption for Rosneft refineries",
-    "url": "https://www.ft.com/content/0d9a5946-1cb6-4c0b-aa5b-7f5383dedef7",
-    "id_key": "db3804d6cf1e44b0e403c50cf60880d0a4c9185c152bbd16d8446a9451f6a77b",
-    "summary": "Berlin says Washington should not target subsidiaries of Russian oil company located in Germany",
-    "ingested_utc": "2025-10-24T02:20:44Z"
   }
 ]
