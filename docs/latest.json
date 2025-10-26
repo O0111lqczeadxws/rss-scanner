@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-10-26",
     "retrieved_date": "2025-10-26",
+    "retrieved_utc": "2025-10-26T21:50:42Z",
+    "source": "AlJazeera_All",
+    "title": "Israeli strikes kill three in Lebanon before army targets UN patrol",
+    "url": "https://www.aljazeera.com/news/2025/10/26/israeli-strikes-kill-three-in-lebanon-before-army-targets-un-patrol?traffic_source=rss",
+    "id_key": "c5238e0a85bf591902c51f0cc057137c599c3291b358252cc34ae9241b9eff30",
+    "summary": "Israel claims attacks were on Hezbollah members, as it also struck a UNIFIL patrol with a drone and tank fire.",
+    "ingested_utc": "2025-10-26T21:50:42Z"
+  },
+  {
+    "published_utc": "2025-10-26",
+    "retrieved_date": "2025-10-26",
+    "retrieved_utc": "2025-10-26T21:50:13Z",
+    "source": "NPR_World",
+    "title": "A grim legacy of war in Gaza as thousands are left to deal with amputations",
+    "url": "https://www.npr.org/2025/10/26/nx-s1-5575534/a-grim-legacy-of-war-in-gaza-as-thousands-are-left-to-deal-with-amputations",
+    "id_key": "c1d6bbc223e8fb585206af5153f72378d2f25f8367dc74fd8525cd67594ade93",
+    "summary": "Despite the ceasefire between Israel and Hamas, the two year-long war in Gaza has left a grim legacy – as well as tens of thousands killed, according to Gaza health authorities, about 170,000 have been wounded and many have lost limbs. Jane Arraf profiles a doctor who lost his leg after an aid truck hit him.",
+    "ingested_utc": "2025-10-26T21:50:13Z"
+  },
+  {
+    "published_utc": "2025-10-26",
+    "retrieved_date": "2025-10-26",
+    "retrieved_utc": "2025-10-26T21:50:13Z",
+    "source": "NPR_World",
+    "title": "Police arrest suspects in high-profile Louvre robbery",
+    "url": "https://www.npr.org/2025/10/26/nx-s1-5586627/police-arrest-suspects-in-high-profile-louvre-robbery",
+    "id_key": "d665c0053e75a7a00223293269b640e602f3724c91bda79f2285f45341815ba4",
+    "summary": "French police have arrested suspects in last week's daring Louvre heist, where thieves disguised as maintenance workers stole a collection of imperial-era jewels in under seven minutes.",
+    "ingested_utc": "2025-10-26T21:50:13Z"
+  },
+  {
+    "published_utc": "2025-10-26",
+    "retrieved_date": "2025-10-26",
     "retrieved_utc": "2025-10-26T21:36:27Z",
     "source": "TheStreet_Top",
     "title": "Wayfair is selling a $1,500 pair of wide manual recliners for only $580 right now",
@@ -10963,39 +10996,6 @@
     "title": "Trump's Taiwan tariff casts pall over non-chip industries",
     "url": "https://asia.nikkei.com/economy/trade-war/trump-tariffs/trump-s-taiwan-tariff-casts-pall-over-non-chip-industries",
     "id_key": "c0311a85dd87f0ff7e35dd6e96f272898f6c306b0d0fea408c786ae7b967c44a",
-    "summary": "",
-    "ingested_utc": "2025-10-24T00:50:38Z"
-  },
-  {
-    "published_utc": "2025-10-24",
-    "retrieved_date": "2025-10-24",
-    "retrieved_utc": "2025-10-24T00:50:38Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "Thai deputy finance minister resigns over scam links allegations",
-    "url": "https://asia.nikkei.com/politics/thai-deputy-finance-minister-resigns-over-scam-links-allegations",
-    "id_key": "51f7adbaf6bf33cd35bff0385d3d2afba5a01142f2cfac4292ccbd1bfb29bb92",
-    "summary": "",
-    "ingested_utc": "2025-10-24T00:50:38Z"
-  },
-  {
-    "published_utc": "2025-10-24",
-    "retrieved_date": "2025-10-24",
-    "retrieved_utc": "2025-10-24T00:50:38Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "Japan companies issue shorter dated bonds as rate hike looms",
-    "url": "https://asia.nikkei.com/business/markets/bonds/japan-companies-issue-shorter-dated-bonds-as-rate-hike-looms",
-    "id_key": "3d71008fe719253e586878b93ea635dda7a9cc815a6bb36ff36f320835fccb54",
-    "summary": "",
-    "ingested_utc": "2025-10-24T00:50:38Z"
-  },
-  {
-    "published_utc": "2025-10-24",
-    "retrieved_date": "2025-10-24",
-    "retrieved_utc": "2025-10-24T00:50:38Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "Japan machine tool makers bank on automation amid US tariffs",
-    "url": "https://asia.nikkei.com/business/business-trends/japan-machine-tool-makers-bank-on-automation-amid-us-tariffs",
-    "id_key": "9a46080b07c2ddb56f35a3eb3ae0ea41133654d0ee6899298da59b648787358f",
     "summary": "",
     "ingested_utc": "2025-10-24T00:50:38Z"
   }
