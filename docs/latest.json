@@ -2,6 +2,61 @@
   {
     "published_utc": "2025-10-26",
     "retrieved_date": "2025-10-26",
+    "retrieved_utc": "2025-10-26T10:13:39Z",
+    "source": "FinancialPost_Business",
+    "title": "How twin disasters reshaped Habitat for Humanity under CEO Jonathan Reckford in the past 20 years",
+    "url": "https://financialpost.com/pmn/how-twin-disasters-reshaped-habitat-for-humanity-under-ceo-jonathan-reckford-in-the-past-20-years",
+    "id_key": "b38ec47e548bfa4876a9357de340bf32103988a99bae94f967a32d332e872f61",
+    "summary": "Jonathan Reckford jokes that before he became CEO of Habitat for Humanity International he couldn’t really keep a job. In the two decades after he graduated from the University of North Carolina-Chapel Hill, Reckford had been a financial analyst at Goldman Sachs, coach of the Korean rowing team for the 1988 Olympics, and held executive […]",
+    "ingested_utc": "2025-10-26T10:13:39Z"
+  },
+  {
+    "published_utc": "2025-10-26",
+    "retrieved_date": "2025-10-26",
+    "retrieved_utc": "2025-10-26T10:13:33Z",
+    "source": "AlJazeera_All",
+    "title": "Several suspects in Louvre jewellery heist case arrested by French police",
+    "url": "https://www.aljazeera.com/news/2025/10/26/two-suspects-from-louvre-jewellery-heist-arrested-by-french-police-reports?traffic_source=rss",
+    "id_key": "5f03f18062b7f6e165e291bd1d5e44588120a9b24f28b6e99c03746de41756cc",
+    "summary": "This is a breaking news story.",
+    "ingested_utc": "2025-10-26T10:13:33Z"
+  },
+  {
+    "published_utc": "2025-10-26",
+    "retrieved_date": "2025-10-26",
+    "retrieved_utc": "2025-10-26T10:12:35Z",
+    "source": "Guardian_World",
+    "title": "Russia arrests Ukrainian biologist for backing curbs on Antarctic krill fishing",
+    "url": "https://www.theguardian.com/environment/2025/oct/26/russia-ukrainian-biologist-leonid-pshenichnov-arrest-treason-antarctic-krill-overfishing",
+    "id_key": "791497735a5572df3f7ef44183f82a17e11838f1a819e79a2c42246454f9fb2b",
+    "summary": "‘Trumped-up’ charges spark diplomatic row as scientists express fears for health of 70-year-old Leonid Pshenichnov Antarctic krill: how did a paperclip-sized crustacean cause a diplomatic row – and why are they so important? A diplomatic row has erupted over the “illegal” detention of one of Ukraine’s scientists, who has been accused by the Kremlin of undermining Russia’s industrial trawling for krill in Antarctica. Leonid Pshenichnov, 70, a Ukrainian biologist who is an expert on Antarctica, has a decades-long record of scientific research and contributions to conservation, including support for marine protected areas in the region. Continue reading...",
+    "ingested_utc": "2025-10-26T10:12:35Z"
+  },
+  {
+    "published_utc": "2025-10-26",
+    "retrieved_date": "2025-10-26",
+    "retrieved_utc": "2025-10-26T10:11:11Z",
+    "source": "CryptoNews",
+    "title": "Your Crypto Isn’t Safe Outside the Blockchain, Vitalik Buterin Warns",
+    "url": "https://cryptonews.com/news/your-crypto-isnt-safe-outside-the-blockchain-vitalik-buterin-warns/",
+    "id_key": "12fd1c9ed5d1815c596aa8ebfb0077347d2a04e7c47d9ccda91163d6e65e9393",
+    "summary": "Vitalik Buterin emphasized that blockchain's cryptographic safeguards protect on-chain funds from validator collusion but offer no protection for off-chain activities like oracles or restaking that depend on validator honesty rather than protocol enforcement. The post Your Crypto Isn’t Safe Outside the Blockchain, Vitalik Buterin Warns appeared first on Cryptonews .",
+    "ingested_utc": "2025-10-26T10:11:11Z"
+  },
+  {
+    "published_utc": "2025-10-26",
+    "retrieved_date": "2025-10-26",
+    "retrieved_utc": "2025-10-26T10:10:45Z",
+    "source": "Guardian_World",
+    "title": "Two men arrested after Louvre jewel heist",
+    "url": "https://www.theguardian.com/world/2025/oct/26/two-men-reportedly-arrested-after-louvre-jewel-heist",
+    "id_key": "df5ce88734737a76c96cdf6ff1d7d1648bb442f0570212ffcdd6c4cd3b57f72b",
+    "summary": "Two suspects in their 30s detained on Saturday evening in relation to €88m robbery, according to Paris prosecutor Two suspects have been arrested in relation to last Sunday’s heist at the Louvre museum in Paris, in which a gang of four men made off with crown jewels worth an estimated €88m (£76m), according to the Paris prosecutor. Citing police sources, Le Parisien newpaper said on Sunday that the men, both in their 30s and from Seine St-Denis outside the French capital, were detained on Saturday evening as part of an investigation by the Paris organised crime squad. Continue reading...",
+    "ingested_utc": "2025-10-26T10:10:45Z"
+  },
+  {
+    "published_utc": "2025-10-26",
+    "retrieved_date": "2025-10-26",
     "retrieved_utc": "2025-10-26T09:49:52Z",
     "source": "NYTimes_World",
     "title": "Police Make Arrests in Louvre Robbery, Authorities Say",
@@ -10943,60 +10998,5 @@
     "id_key": "fc06b600c7eb583b5480f29834a01d34ccf6c0af3a0292e8505d3335a42e9ea4",
     "summary": "Here’s what could be next for Netflix stock.",
     "ingested_utc": "2025-10-23T20:50:45Z"
-  },
-  {
-    "published_utc": "2025-10-23",
-    "retrieved_date": "2025-10-23",
-    "retrieved_utc": "2025-10-23T20:50:45Z",
-    "source": "TheStreet_Top",
-    "title": "Stock Market Today: Intel, Ford, Newmont Gold Round Out Solid Day for U.S. Markets",
-    "url": "https://www.thestreet.com/markets/stock-market-today-stocks-sink-oil-surges-after-u-s-imposes-new-russian-sanctions",
-    "id_key": "ecd9b45d32e3e157d9042c40772001132ce5b858933cad4e4e5ad95c3841a88d",
-    "summary": "Equities are rounding out a strong day of trading with a strong row of earnings",
-    "ingested_utc": "2025-10-23T20:50:45Z"
-  },
-  {
-    "published_utc": "2025-10-23",
-    "retrieved_date": "2025-10-23",
-    "retrieved_utc": "2025-10-23T20:50:37Z",
-    "source": "Engadget_All",
-    "title": "Strava pulls the plug on its Garmin lawsuit after just 21 days",
-    "url": "https://www.engadget.com/wearables/strava-pulls-the-plug-on-its-garmin-lawsuit-after-just-21-days-204255109.html?src=rss",
-    "id_key": "f286037929f0e77042a8d1302e4692cf724fe01f0b6e79a20604339a9bc3f51f",
-    "summary": "Strava's big attack on Garmin didn't last long. On Tuesday, the former filed paperwork to dismiss its patent infringement lawsuit against the latter, according to DC Rainmaker . The battle, which included a \"Setting the record straight\" Reddit post from Strava's chief product officer, lasted all of 21 days. The lawsuit accused Garmin of infringing on patents related to heat maps and segments. Strava asked the court to halt all sales of infringing Garmin products, which, according to its characterization, would have been, well, most of them. Strava Chief Product Officer Matt Salazar escalated the fight with an October 2 Reddit post . He said his company's legal maneuver was in response to Garmin API guidelines that \"required the Garmin logo to be present on every single activity post, screen, graph, image, sharing card, etc.\" Salazar wrote that Garmin \"wants to use Strava and every other partner as an advertising platform — they told us they care more about their marketing than your user experience.\" Those are fighting words, and Strava appeared to be digging in for a righteous and bitter battle against its partner. But now, it's essentially, \"Eh, never mind.\" Why the quick reversal? We reached out to Strava for comment, and we'll update this post if we hear back. But closed-door discussions between the companies, possibly including threats from Garmin to counter-sue, seem likely. Garmin has a stacked patent library and a strong record defending them in court. Besides, DC Rainmaker says Strava's case (especially the parts related to heat map patents) didn't appear to hold much water in the first place. Strava's initial move was all the more bizarre, considering how much its business model depends on activity data from Garmin devices. The two companies have a longstanding relationship, which you can imagine isn't so healthy at the moment. Losing access to Garmin's legion of devices could have been catastrophic to the San Francisco-based Strava, which plans to file an IPO next year. This article originally appeared on Engadget at https://www.engadget.com/wearables/strava-pulls-the-plug-on-its-garmin-lawsuit-after-just-21-days-204255109.html?src=rss",
-    "ingested_utc": "2025-10-23T20:50:37Z"
-  },
-  {
-    "published_utc": "2025-10-23",
-    "retrieved_date": "2025-10-23",
-    "retrieved_utc": "2025-10-23T20:50:34Z",
-    "source": "TechCrunch_All",
-    "title": "US accuses former L3Harris cyber boss of stealing and selling secrets to Russian buyer",
-    "url": "https://techcrunch.com/2025/10/23/u-s-government-accuses-former-l3harris-cyber-boss-of-stealing-trade-secrets/",
-    "id_key": "2c06c541270f7216a3d074b414ed6d1b8dd6b937e3ddd7facdd4efd950c6d43f",
-    "summary": "The U.S. Department of Justice accused Peter Williams, former general manager of L3Harris’ hacking division Trenchant, of stealing trade secrets and selling them to a buyer in Russia.",
-    "ingested_utc": "2025-10-23T20:50:34Z"
-  },
-  {
-    "published_utc": "2025-10-23",
-    "retrieved_date": "2025-10-23",
-    "retrieved_utc": "2025-10-23T20:50:33Z",
-    "source": "TheVerge_All",
-    "title": "Google is turning on the gas for its data centers",
-    "url": "https://www.theverge.com/news/805682/google-data-center-gas-power-plant-carbon-capture",
-    "id_key": "5db7229af6bf10d6992d36b687bf4452352b069660946cbe60da7e0aa408527f",
-    "summary": "Google’s latest pledge to support a new clean energy technology is… a gas project? To be precise, it’s a gas-fired power plant outfitted with filtering devices to capture its planet-heating carbon emissions. Is this just a polluting fossil fuel project in sheep’s clothing? Google just inked an agreement to support the development of a new […]",
-    "ingested_utc": "2025-10-23T20:50:33Z"
-  },
-  {
-    "published_utc": "2025-10-23",
-    "retrieved_date": "2025-10-23",
-    "retrieved_utc": "2025-10-23T20:48:15Z",
-    "source": "CryptoNews",
-    "title": "U.S. In ‘Excellent Position’ To Pass Crypto Market Structure Legislation This Year, David Sacks Says",
-    "url": "https://cryptonews.com/news/u-s-in-excellent-position-to-pass-crypto-market-structure-legislation-this-year-david-sacks-says/",
-    "id_key": "cac3752bf44db1cb2e758188468b1492c8b79eef01185ae4b3e68ca1277f100c",
-    "summary": "David Sacks has said the U.S. is in an excellent position to pass crypto market structure rules this year with bipartisan support. Senate Democrats have met industry CEOs, and Brian Armstrong has said Thanksgiving has been floated as a timeline, while some groups have voiced DeFi concerns in DC now. The post U.S. In ‘Excellent Position’ To Pass Crypto Market Structure Legislation This Year, David Sacks Says appeared first on Cryptonews .",
-    "ingested_utc": "2025-10-23T20:48:15Z"
   }
 ]
