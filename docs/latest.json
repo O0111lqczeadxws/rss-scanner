@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-10-26",
     "retrieved_date": "2025-10-26",
+    "retrieved_utc": "2025-10-26T19:50:57Z",
+    "source": "FinancialPost_Business",
+    "title": "Boeing defense workers on strike in the Midwest reject the company’s latest contract offer",
+    "url": "https://financialpost.com/pmn/boeing-defense-workers-on-strike-in-the-midwest-reject-the-companys-latest-contract-offer",
+    "id_key": "bde9e5b677e7adf2e74c876e22e2ca2c9968939350f9337a25789c23aefd17ed",
+    "summary": "Boeing workers at three Midwest plants where military aircraft and weapons are developed voted Sunday to reject the company’s latest contract offer and to continue a strike that started almost three months ago. The strike by about 3,200 machinists at the plants in the Missouri cities of St. Louis and St. Charles, and in Mascoutah, […]",
+    "ingested_utc": "2025-10-26T19:50:57Z"
+  },
+  {
+    "published_utc": "2025-10-26",
+    "retrieved_date": "2025-10-26",
     "retrieved_utc": "2025-10-26T19:26:01Z",
     "source": "FinancialPost_Business",
     "title": "Enabled Talent Launches from Brampton to Tap Into the World’s Largest Untapped Workforce",
@@ -10987,16 +10998,5 @@
     "id_key": "b3f224ea4ecf752b94e2281e6779b1c67babb3d11f3b7af16587149cc215a771",
     "summary": "The company is under a court-ordered receivership.Selling assets is part of its plan.A Chapter 11 bankruptcy filing, but not a Chapter 7 liquidation, remains an option. Very few brands trace their history back to the 1850s, and almost no brands exist that were literally created to right a ...",
     "ingested_utc": "2025-10-24T16:55:52Z"
-  },
-  {
-    "published_utc": "2025-10-23",
-    "retrieved_date": "2025-10-24",
-    "retrieved_utc": "2025-10-24T14:37:16Z",
-    "source": "CBC_Business",
-    "title": "Ottawa cuts number of American vehicles Stellantis and GM can import tariff-free",
-    "url": "https://www.cbc.ca/news/politics/ottawa-stellantis-gm-exemptions-american-imports-9.6950640?cmp=rss",
-    "id_key": "40be0d80b594eeb56dfdb6d571893bbb52d3ef4e3cefc79960340fa6a7fd28c1",
-    "summary": "The federal government is firing back at Stellantis and General Motors and cutting the number of tariff-free vehicles the automakers can import from the U.S. to sell in Canada.",
-    "ingested_utc": "2025-10-24T14:37:16Z"
   }
 ]
