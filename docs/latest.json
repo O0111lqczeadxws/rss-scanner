@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-10-26",
     "retrieved_date": "2025-10-26",
+    "retrieved_utc": "2025-10-26T16:37:05Z",
+    "source": "NYTimes_World",
+    "title": "Egypt Aids Search for Bodies of Dead Captives in Gaza",
+    "url": "https://www.nytimes.com/2025/10/26/world/middleeast/egypt-gaza-captives-bodies-search.html",
+    "id_key": "404e9d7a77a0c7ab3d2d8db30608421faa95705a9a5c72c205831c81bdb5be6a",
+    "summary": "The assistance is part of an international effort to reinforce the fragile cease-fire between Israel and Hamas.",
+    "ingested_utc": "2025-10-26T16:37:05Z"
+  },
+  {
+    "published_utc": "2025-10-26",
+    "retrieved_date": "2025-10-26",
     "retrieved_utc": "2025-10-26T16:15:09Z",
     "source": "Engadget_All",
     "title": "The next iPad Pro could be the first to get vapor chamber cooling",
@@ -10985,17 +10996,6 @@
     "title": "How memory maps (MMAP) deliver faster file access in Go",
     "url": "https://info.varnish-software.com/blog/how-memory-maps-mmap-deliver-25x-faster-file-access-in-go",
     "id_key": "79ba49affbd325b3dd1f0a080af0492f9c10d9e784313adbddc5f552d14286f6",
-    "summary": "Comments",
-    "ingested_utc": "2025-10-23T23:13:47Z"
-  },
-  {
-    "published_utc": "2025-10-23",
-    "retrieved_date": "2025-10-23",
-    "retrieved_utc": "2025-10-23T23:13:47Z",
-    "source": "HackerNews_Top",
-    "title": "/Dev/null is an ACID compliant database",
-    "url": "https://jyu.dev/blog/why-dev-null-is-an-acid-compliant-database/",
-    "id_key": "1f50e93eb1bfc4e47a253515969c78f94a2b97972afd6e5a91bc91325c838975",
     "summary": "Comments",
     "ingested_utc": "2025-10-23T23:13:47Z"
   }
