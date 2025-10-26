@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-10-26",
     "retrieved_date": "2025-10-26",
+    "retrieved_utc": "2025-10-26T23:12:34Z",
+    "source": "NYTimes_Business",
+    "title": "Japan Deals With the Price of Playing to Trump: $550 Billion",
+    "url": "https://www.nytimes.com/2025/10/26/business/japan-investment-trump-tariffs.html",
+    "id_key": "d14bfae5c28696a7a93d16fb32aa9dc289de8d67355f3db735fa9b45aa0a3f12",
+    "summary": "A new prime minister must decide whether to maintain the previous administration’s deferential negotiating strategy that secured a contentious trade deal.",
+    "ingested_utc": "2025-10-26T23:12:34Z"
+  },
+  {
+    "published_utc": "2025-10-26",
+    "retrieved_date": "2025-10-26",
+    "retrieved_utc": "2025-10-26T23:10:30Z",
+    "source": "Guardian_World",
+    "title": "US Boeing workers continue midwest strike after rejecting latest contract offer",
+    "url": "https://www.theguardian.com/us-news/2025/oct/26/boeing-workers-strike-midwest-reject-contract",
+    "id_key": "77eb62b4fbe232acd50c225ca251714c6682975e50bd9d495f1a9b22319550af",
+    "summary": "Nearly three-month strike includes 3,200 machinists at plants where military aircraft and weapons are developed Boeing workers at three midwest plants where military aircraft and weapons are developed voted Sunday to reject the company’s latest contract offer and to continue a strike that started almost three months ago . The strike by about 3,200 machinists at the plants in Mascoutah, Illinois , and the Missouri cities of St Louis and St Charles is smaller in scale than a walkout last year by 33,000 Boeing workers who assemble commercial jetliners but threatens to complicate the aerospace company’s progress in regaining its financial footing . Continue reading...",
+    "ingested_utc": "2025-10-26T23:10:30Z"
+  },
+  {
+    "published_utc": "2025-10-26",
+    "retrieved_date": "2025-10-26",
     "retrieved_utc": "2025-10-26T22:51:18Z",
     "source": "FinancialPost_Business",
     "title": "Perseus Mining September Quarter Report",
@@ -10976,27 +10998,5 @@
     "id_key": "ff170071b705e406b2656e5d3e4566914edf09ea00ece48de332fddbe74f023e",
     "summary": "The Trump administration is pushing regulators to dramatically accelerate the process of allowing the booming data-center sector to connect to power grids.",
     "ingested_utc": "2025-10-24T02:21:17Z"
-  },
-  {
-    "published_utc": "2025-10-24",
-    "retrieved_date": "2025-10-24",
-    "retrieved_utc": "2025-10-24T02:21:17Z",
-    "source": "FinancialPost_Business",
-    "title": "Japan’s Faster Inflation Highlights Need for Takaichi Response",
-    "url": "https://financialpost.com/pmn/business-pmn/japans-inflation-picks-up-highlighting-challenges-for-pm",
-    "id_key": "dc1d8fd12c5b04eff479ea6186b9bb148270a58c948a775bbe5640c18b36a4b4",
-    "summary": "Japan’s key price measure picked up pace on higher energy costs, keeping the Bank of Japan on track for further rate hikes and underscoring a key challenge facing new Prime Minister Sanae Takaichi.",
-    "ingested_utc": "2025-10-24T02:21:17Z"
-  },
-  {
-    "published_utc": "2025-10-24",
-    "retrieved_date": "2025-10-24",
-    "retrieved_utc": "2025-10-24T02:18:40Z",
-    "source": "CryptoNews",
-    "title": "Sen. Warren Slams Trump’s CZ Pardon Decision, While Supporters Rally Behind Binance Founder",
-    "url": "https://cryptonews.com/news/elizabeth-warren-slamps-president-trump-decision-to-pardon-changpeng-zhao/",
-    "id_key": "3f076f954c905dc00599daea6bb1bb725c88c3dde0ea397bcc0519ee8a80fe00",
-    "summary": "Sen. Elizabeth Warren condemned President Trump’s pardon of Binance founder Changpeng Zhao, calling it a clear case of political corruption. The post Sen. Warren Slams Trump’s CZ Pardon Decision, While Supporters Rally Behind Binance Founder appeared first on Cryptonews .",
-    "ingested_utc": "2025-10-24T02:18:40Z"
   }
 ]
