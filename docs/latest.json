@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-10-26",
     "retrieved_date": "2025-10-26",
+    "retrieved_utc": "2025-10-26T11:35:42Z",
+    "source": "NYTimes_World",
+    "title": "President Oversees Signing of Cambodia-Thailand Peace Pact",
+    "url": "https://www.nytimes.com/live/2025/10/25/us/trump-asia-news",
+    "id_key": "4e71da4a5989d1de85b5517f0f919ed1771e697208dedfc30ab6d5f4cead26bb",
+    "summary": "President Trump is on a nearly weeklong trip to Asia, which includes stops in Malaysia, Japan and South Korea. The biggest test lies ahead: talks with China’s leader, Xi Jinping.",
+    "ingested_utc": "2025-10-26T11:35:42Z"
+  },
+  {
+    "published_utc": "2025-10-26",
+    "retrieved_date": "2025-10-26",
     "retrieved_utc": "2025-10-26T11:25:56Z",
     "source": "AlJazeera_All",
     "title": "Arrests made by French police in Louvre jewellery heist: Paris prosecutor",
@@ -10987,16 +10998,5 @@
     "id_key": "e6d8dec170592fea83a2f488e3a278eb0b872aa3d5f0050d4f123d81ebbff852",
     "summary": "TORONTO and HOUSTON, Oct. 23, 2025 (GLOBE NEWSWIRE) — Medicenna Therapeutics Corp. (“Medicenna” or the “Company”) (TSX: MDNA, OTCQX: MDNAF), a clinical-stage immunotherapy company focused on the development of Superkines targeting cancer and autoimmune diseases, announced today that updated MDNA11 clinical data will be presented at the European Society for Medical Oncology (ESMO) Immuno-Oncology Congress […]",
     "ingested_utc": "2025-10-23T21:27:55Z"
-  },
-  {
-    "published_utc": "2025-10-23",
-    "retrieved_date": "2025-10-23",
-    "retrieved_utc": "2025-10-23T21:13:36Z",
-    "source": "HackerNews_Top",
-    "title": "Expanding Our Use of Google Cloud TPUs and Services",
-    "url": "https://www.anthropic.com/news/expanding-our-use-of-google-cloud-tpus-and-services",
-    "id_key": "68dbdc823eaac4fa7a3483c24c8c2ca9d48c611020083bfba0f3aea0af26927d",
-    "summary": "Comments",
-    "ingested_utc": "2025-10-23T21:13:36Z"
   }
 ]
