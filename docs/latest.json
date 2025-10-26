@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-10-26",
     "retrieved_date": "2025-10-26",
+    "retrieved_utc": "2025-10-26T17:50:42Z",
+    "source": "TheStreet_Top",
+    "title": "Wayfair is selling a microsuede sectional sofa for $360 that's mid-century cool",
+    "url": "https://www.thestreet.com/deals/george-oliver-brekyn-tufted-sectional-sofa-wayfair-sale",
+    "id_key": "e4ec0eb7f7d482dacae2dbd6e91ea081aa7b64bb7f1e5ccc1b8b19a86daa3fc2",
+    "summary": "One shopper called it the \"best couch ever.\"",
+    "ingested_utc": "2025-10-26T17:50:42Z"
+  },
+  {
+    "published_utc": "2025-10-26",
+    "retrieved_date": "2025-10-26",
+    "retrieved_utc": "2025-10-26T17:50:15Z",
+    "source": "FT_Home",
+    "title": "Did Ronald Reagan ‘love tariffs’ as Trump claims?",
+    "url": "https://www.ft.com/content/1e4afc0d-ab7e-4a2c-a02c-fe895c842b4e",
+    "id_key": "ece37ddd4bd08684e2ff9190f3f3be9f3713c34077d52f109dcbd5d39586de62",
+    "summary": "America’s 40th and 47th presidents both employed protectionist measures but in vastly different ways",
+    "ingested_utc": "2025-10-26T17:50:15Z"
+  },
+  {
+    "published_utc": "2025-10-26",
+    "retrieved_date": "2025-10-26",
+    "retrieved_utc": "2025-10-26T17:47:54Z",
+    "source": "Guardian_World",
+    "title": "Gavin Newsom confirms he is considering 2028 presidential run",
+    "url": "https://www.theguardian.com/us-news/2025/oct/26/gavin-newsom-2028-presidential-race",
+    "id_key": "a50dabefdeb8fe8580cf96abab1ebb4123153a75f8d3a8269769e5c858193b99",
+    "summary": "Democratic California governor and high-profile Trump critic plans to make decision after 2026 midterms Gavin Newsom , California ’s Democratic governor, told CBS News Sunday Morning he plans to make a decision on whether to run for president in 2028 once the 2026 midterm elections are over. “Yeah, I’d be lying otherwise,” Newsom said in response to a question on whether he would give serious thought to a White House bid after the 2026 elections. “I’d just be lying. And I’m not – I can’t do that.” Continue reading...",
+    "ingested_utc": "2025-10-26T17:47:54Z"
+  },
+  {
+    "published_utc": "2025-10-26",
+    "retrieved_date": "2025-10-26",
     "retrieved_utc": "2025-10-26T17:39:52Z",
     "source": "FinancialPost_Business",
     "title": "Carney Pushes Back on Provinces Spoiling for a Fight With Trump",
@@ -10965,38 +10998,5 @@
     "id_key": "416b1364516627539521d1f0ff0004afb4b697462f101992342178eaac2258f3",
     "summary": "Comments",
     "ingested_utc": "2025-10-24T00:50:46Z"
-  },
-  {
-    "published_utc": "2025-10-23",
-    "retrieved_date": "2025-10-24",
-    "retrieved_utc": "2025-10-24T00:50:46Z",
-    "source": "HackerNews_Top",
-    "title": "React Flow, open source libraries for node-based UIs with React or Svelte",
-    "url": "https://github.com/xyflow/xyflow",
-    "id_key": "c9d55f9b1f7bae8e7eb054927a2208f4cf8a978d1e01f896fd005d41fae06226",
-    "summary": "Comments",
-    "ingested_utc": "2025-10-24T00:50:46Z"
-  },
-  {
-    "published_utc": "2025-10-23",
-    "retrieved_date": "2025-10-24",
-    "retrieved_utc": "2025-10-24T00:50:32Z",
-    "source": "FinancialPost_Business",
-    "title": "British King Gold Project: Filing of NI43-101 Technical Report",
-    "url": "https://financialpost.com/globe-newswire/british-king-gold-project-filing-of-ni43-101-technical-report-2",
-    "id_key": "556e00db6f398414610e5d4539e40b2a356f7b4715dbe6e230e085138ed0772d",
-    "summary": "VANCOUVER, British Columbia, Oct. 23, 2025 (GLOBE NEWSWIRE) — Central Iron Ore Limited. (CIO – TSX.V) (“CIO” or “the Company”) is pleased to announce that is has filed a National Instrument 43-101 Technical Report Mineral Resource Estimate Update, British King Gold Project Western Australia. CIO is pleased to announce that it has filed an independent technical […]",
-    "ingested_utc": "2025-10-24T00:50:32Z"
-  },
-  {
-    "published_utc": "2025-10-23",
-    "retrieved_date": "2025-10-24",
-    "retrieved_utc": "2025-10-24T00:50:11Z",
-    "source": "TheVerge_All",
-    "title": "Nintendo&#8217;s chips let this Lego Game Boy upgrade kit play real cartridges",
-    "url": "https://www.theverge.com/games/805673/nintendos-chips-make-this-lego-game-boy-upgrade-kit-the-most-authentic",
-    "id_key": "849f6565b9312cec45094056019e4dd3d53e30d5bb06194e30c0fad0d33f8be3",
-    "summary": "The race to make the Lego Game Boy play actual Game Boy games ended before it even began. The same day Lego officially launched the set, Natalie the Nerd revealed she'd already transformed it to play real Game Boy cartridges on real Game Boy chips. Turns out she's not stopping there! Natalie is now working […]",
-    "ingested_utc": "2025-10-24T00:50:11Z"
   }
 ]
