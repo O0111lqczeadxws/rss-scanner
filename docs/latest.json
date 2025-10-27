@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-10-27",
     "retrieved_date": "2025-10-27",
+    "retrieved_utc": "2025-10-27T05:37:19Z",
+    "source": "FinancialPost_Business",
+    "title": "Asian shares gain Japan’s Nikkei tops 50,000 level, as Trump seeks trade deals",
+    "url": "https://financialpost.com/pmn/asian-shares-gain-japans-nikkei-tops-50000-level-as-trump-seeks-trade-deals",
+    "id_key": "d525dba3dc9f8edd2a9051663cafbb20368c06a168d8903217898308eeef3830",
+    "summary": "BANGKOK (AP) — Asian shares rallied and U.S. futures jumped Monday, with Japan’s benchmark Nikkei 225 topping 50,000 for the first time. Work on trade deals that might alleviate friction between the U.S., China and other major trading partners contributed to upbeat sentiment as U.S. President Donald Trump visited Malaysia for a summit of Southeast […]",
+    "ingested_utc": "2025-10-27T05:37:19Z"
+  },
+  {
+    "published_utc": "2025-10-27",
+    "retrieved_date": "2025-10-27",
+    "retrieved_utc": "2025-10-27T05:34:44Z",
+    "source": "CryptoNews",
+    "title": "Bitcoin Nears $116K as Stocks Rally on Signs of Thaw in US-China Trade Tensions",
+    "url": "https://cryptonews.com/news/bitcoin-price-stocks-rally-thaw-us-china-trade-tensions/",
+    "id_key": "e64e46addd0bb9e988d7d3654169cb6d4b05a5116056758472f73f2ed040fe09",
+    "summary": "Bitcoin neared $115,000 as easing US-China trade tensions lifted global risk appetite, driving gains across equities and major cryptocurrencies. The post Bitcoin Nears $116K as Stocks Rally on Signs of Thaw in US-China Trade Tensions appeared first on Cryptonews .",
+    "ingested_utc": "2025-10-27T05:34:44Z"
+  },
+  {
+    "published_utc": "2025-10-27",
+    "retrieved_date": "2025-10-27",
     "retrieved_utc": "2025-10-27T05:15:12Z",
     "source": "FT_Markets",
     "title": "The crypto policy paradox",
@@ -10976,27 +10998,5 @@
     "id_key": "2b2f41427aeb980e1f8ee954c0b266d5069442e15ea87a0a965afed05e5d3090",
     "summary": "Solana is making an institutional case built on real world asset inflows, changes in validator infrastructure, and zero downtime during the Oct. 20 AWS outage. The chain’s RWA footprint sits near the top of its range, blue-chip issuers have gone live natively on Solana rails, and validators are skewing toward bare-metal and diverse data centers, […] The post Is Solana ready for institutions? $700M real world assets and no downtime appeared first on CryptoSlate .",
     "ingested_utc": "2025-10-24T09:13:50Z"
-  },
-  {
-    "published_utc": "2025-10-24",
-    "retrieved_date": "2025-10-24",
-    "retrieved_utc": "2025-10-24T08:56:19Z",
-    "source": "NPR_Economy",
-    "title": "Cost of Living: Frightening Halloween candy costs",
-    "url": "https://www.npr.org/2025/10/24/nx-s1-5562028/cost-of-living-frightening-halloween-candy-costs",
-    "id_key": "942f5be00006c36db49e4b78e44ed284152e2320d341ace5abf5466bdee0855b",
-    "summary": "Federal data shows the price of chewing gum and candy are going up more than eight percent from a year ago. How do the price hikes affect this Halloween season?",
-    "ingested_utc": "2025-10-24T08:56:19Z"
-  },
-  {
-    "published_utc": "2025-10-24",
-    "retrieved_date": "2025-10-24",
-    "retrieved_utc": "2025-10-24T08:42:55Z",
-    "source": "FinancialPost_Business",
-    "title": "US Futures Rise Ahead of Key Inflation Reading: Markets Wrap",
-    "url": "https://financialpost.com/pmn/business-pmn/stocks-us-futures-rise-ahead-of-inflation-reading-markets-wrap",
-    "id_key": "10a5a57f749cf5c778aec028f9755102b54a31783c5d3be93a68bdf0b0f94343",
-    "summary": "US equity futures gained as trade tensions eased and investors stuck to bets on Federal Reserve interest-rate cuts ahead of a key inflation reading later Friday.",
-    "ingested_utc": "2025-10-24T08:42:55Z"
   }
 ]
