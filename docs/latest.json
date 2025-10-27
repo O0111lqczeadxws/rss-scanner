@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-10-27",
     "retrieved_date": "2025-10-27",
+    "retrieved_utc": "2025-10-27T11:40:13Z",
+    "source": "HackerNews_Top",
+    "title": "SETL Programming Language",
+    "url": "https://en.wikipedia.org/wiki/SETL",
+    "id_key": "058f074bdd28812def1892454b58ff162c62262fa21ccb4207254801bd1cb82e",
+    "summary": "Comments",
+    "ingested_utc": "2025-10-27T11:40:13Z"
+  },
+  {
+    "published_utc": "2025-10-27",
+    "retrieved_date": "2025-10-27",
+    "retrieved_utc": "2025-10-27T11:39:55Z",
+    "source": "TheStreet_Top",
+    "title": "Life Expectancy in Humans is Not Likely to Increase Much More",
+    "url": "https://www.thestreet.com/retirement/life-expectancy-in-humans-is-not-likely-to-increase-much-more",
+    "id_key": "c92bbf50eb290740e5d8bfca7c7ebcbc08c318744622c8b1f2495b816df02652",
+    "summary": "Broadcast Retirement Network's Jeffrey Snyder discusses whether science can extend human life with University of Chicago Illinois' S. Jay Olshansky, PhD. Jeffrey H. Snyder, Broadcast Retirement Network This morning on BRN, life expectancy in humans is not likely to increase much more. Joining ...",
+    "ingested_utc": "2025-10-27T11:39:55Z"
+  },
+  {
+    "published_utc": "2025-10-27",
+    "retrieved_date": "2025-10-27",
     "retrieved_utc": "2025-10-27T11:29:09Z",
     "source": "MarketWatch_Bulletins",
     "title": "Argentina ETF surges 16% after Javier Milei's party outperforms polls,",
@@ -10976,27 +10998,5 @@
     "id_key": "c2ad89a6048f9ff7394b37550cd45dbaba63f47f4339d0a6469e8d258fc412a8",
     "summary": "Increase was largely driven by a 4.1% increase in gasoline prices despite Trump’s campaign pledge to ‘end inflation’ Prices continued to rise in September, increasing at an annual rate of 3%, according to the latest government inflation report. The September 2025 consumer price index (CPI) was published approximately two weeks later than usual due to the federal government shutdown, which halted all Bureau of Labor Statistics operations. Continue reading...",
     "ingested_utc": "2025-10-24T13:07:14Z"
-  },
-  {
-    "published_utc": "2025-10-24",
-    "retrieved_date": "2025-10-24",
-    "retrieved_utc": "2025-10-24T13:05:39Z",
-    "source": "CryptoBriefing",
-    "title": "Bitcoin briefly surges past $112,000 following 3% inflation report",
-    "url": "https://cryptobriefing.com/bitcoin-surges-112000-inflation-report/",
-    "id_key": "1b0d9346df8e2aedcbccccfdd8e15924848ba9e98773998b8728a45bd27cb6ef",
-    "summary": "Bitcoin's sensitivity to inflation data underscores its role as a speculative asset, influencing investor strategies amid policy shifts. The post Bitcoin briefly surges past $112,000 following 3% inflation report appeared first on Crypto Briefing .",
-    "ingested_utc": "2025-10-24T13:05:39Z"
-  },
-  {
-    "published_utc": "2025-10-24",
-    "retrieved_date": "2025-10-24",
-    "retrieved_utc": "2025-10-24T13:05:39Z",
-    "source": "CryptoBriefing",
-    "title": "US CPI year-over-year growth in September lower than estimates at 3%",
-    "url": "https://cryptobriefing.com/us-cpi-growth-september-2024-lower-than-estimates/",
-    "id_key": "64f86127ae3e70a5662c7c991016e29218e27f00c625ec109ac06d7db6306271",
-    "summary": "Lower-than-expected CPI growth may ease Fed policy, boosting market confidence and supporting economic stability efforts. The post US CPI year-over-year growth in September lower than estimates at 3% appeared first on Crypto Briefing .",
-    "ingested_utc": "2025-10-24T13:05:39Z"
   }
 ]
