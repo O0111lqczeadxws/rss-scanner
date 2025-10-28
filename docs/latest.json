@@ -2,6 +2,116 @@
   {
     "published_utc": "2025-10-28",
     "retrieved_date": "2025-10-28",
+    "retrieved_utc": "2025-10-28T17:17:26Z",
+    "source": "HackerNews_Top",
+    "title": "Show HN: Dexto – Connect your AI Agents with real-world tools and data",
+    "url": "https://github.com/truffle-ai/dexto",
+    "id_key": "eb26459c24e23ce2852cb49a785fa0432369f108b3f98cfd6f4ffc783226b6fc",
+    "summary": "Comments",
+    "ingested_utc": "2025-10-28T17:17:26Z"
+  },
+  {
+    "published_utc": "2025-10-28",
+    "retrieved_date": "2025-10-28",
+    "retrieved_utc": "2025-10-28T17:17:26Z",
+    "source": "HackerNews_Top",
+    "title": "Our LLM-controlled office robot can't pass butter",
+    "url": "https://andonlabs.com/evals/butter-bench",
+    "id_key": "faa21354db99f7b6ea569e890b867a9700363d48720e8878f6d68a078e4ee6b4",
+    "summary": "Comments",
+    "ingested_utc": "2025-10-28T17:17:26Z"
+  },
+  {
+    "published_utc": "2025-10-28",
+    "retrieved_date": "2025-10-28",
+    "retrieved_utc": "2025-10-28T17:17:09Z",
+    "source": "TheStreet_Top",
+    "title": "Workers denied WFH option awarded millions from ex- employer",
+    "url": "https://www.thestreet.com/employment/workers-denied-wfh-option-awarded-millions-from-ex-employer",
+    "id_key": "c2d8553225cfddc885220f90ce55566829b63c2cbca8bec089df9c7fa4d10555",
+    "summary": "The current job landscape is much different than a few years ago. The Covid pandemic may feel like a lifetime ago for the tens of millions of workers who have since been forced to return to the office. The pandemic promised to usher in a new era of hybrid work after the pandemic economy seemingly ...",
+    "ingested_utc": "2025-10-28T17:17:09Z"
+  },
+  {
+    "published_utc": "2025-10-28",
+    "retrieved_date": "2025-10-28",
+    "retrieved_utc": "2025-10-28T17:17:01Z",
+    "source": "Engadget_All",
+    "title": "Google Chrome will finally default to secure HTTPS connections starting in April",
+    "url": "https://www.engadget.com/cybersecurity/google-chrome-will-finally-default-to-secure-https-connections-starting-in-april-170000603.html?src=rss",
+    "id_key": "36d7b8d8e8c2feae0e31920ff10f83e8162681dab67ce63cad4d8640300f466f",
+    "summary": "The transition to the more-secure HTTPS web protocol has plateaued, according to Google. As of 2020, 95 to 99 percent of navigations in Chrome use HTTPS. To help make it safer for users to click on links, Chrome will enable a setting called Always Use Secure Connections for public sites for all users by default. This will happen in October 2026 with the release of Chrome 154. The change will happen earlier for those who have switched on Enhanced Safe Browsing protections in Chrome. Google will enable Always Use Secure Connections by default in April when Chrome 147 drops. When this setting is on, Chrome will ask for your permission before it first accesses a public website that doesn't use HTTPS. Google has been moving in this direction for some time. Chrome started alerting users to unsecure HTTP websites in 2018 and it began defaulting to HTTPS in April 2021. The following year, it started offering Always Use Secure Connections on an opt-in basis. When HTTPS isn't used, an attacker can reroute the connection with relative ease and target a user with malware, social engineering attacks or other exploits. \"Attacks like this are not hypothetical — software to hijack navigations is readily available and attackers have previously used insecure HTTP to compromise user devices in a targeted attack,\" the Chrome team wrote in a blog post. \"Since attackers only need a single insecure navigation, they don't need to worry that many sites have adopted HTTPS — any single HTTP navigation may offer a foothold. What's worse, many plaintext HTTP connections today are entirely invisible to users, as HTTP sites may immediately redirect to HTTPS sites.\" Always Use Secure Connections is one of the Chrome team's attempts to mitigate such risks. HTTP connections still persist in navigations to private sites, such as local IP addresses and company intranets. It's complicated for a private site to obtain an HTTPS certificate (something Engadget has had since 2016 , fact fans), because the same private name can point to different hosts on multiple networks. For instance, many router manufacturers use \"192.168.0.1\" as a local IP address for accessing the hardware's admin panel. Still, HTTP navigations to private sites are inherently less risky than on the public web. They aren't entirely safe, but the only vector of attack for HTTP on private sites is from within the local network. This article originally appeared on Engadget at https://www.engadget.com/cybersecurity/google-chrome-will-finally-default-to-secure-https-connections-starting-in-april-170000603.html?src=rss",
+    "ingested_utc": "2025-10-28T17:17:01Z"
+  },
+  {
+    "published_utc": "2025-10-28",
+    "retrieved_date": "2025-10-28",
+    "retrieved_utc": "2025-10-28T17:16:59Z",
+    "source": "ArsTechnica_All",
+    "title": "Here’s how Slate Auto plans to handle repairs to its electric trucks",
+    "url": "https://arstechnica.com/cars/2025/10/slate-auto-announces-repair-network-access-to-superchargers/",
+    "id_key": "91e7d77af33e4e763657b2e5a323563b237468116404c0755494f82fbb63e3e0",
+    "summary": "The startup has partnered with RepairPal to service its affordable EV truck.",
+    "ingested_utc": "2025-10-28T17:16:59Z"
+  },
+  {
+    "published_utc": "2025-10-28",
+    "retrieved_date": "2025-10-28",
+    "retrieved_utc": "2025-10-28T17:16:57Z",
+    "source": "TheVerge_All",
+    "title": "Here are the price-matching policies for Best Buy, GameStop, and others",
+    "url": "https://www.theverge.com/21570383/price-matching-policy-apple-google-microsoft",
+    "id_key": "30d4ae5d86c6511a97b7d79ca505f93a795769a4903feaea2b773a6a22a4537a",
+    "summary": "Nothing is more frustrating than buying a new pair of headphones, an OLED TV, or a laptop just to find out that you could have gotten it for a lot cheaper somewhere else. That’s why, in order to keep customers happy and prevent them from shopping elsewhere, many retailers offer price-matching policies in which they […]",
+    "ingested_utc": "2025-10-28T17:16:57Z"
+  },
+  {
+    "published_utc": "2025-10-28",
+    "retrieved_date": "2025-10-28",
+    "retrieved_utc": "2025-10-28T17:16:31Z",
+    "source": "NYTimes_World",
+    "title": "Britain Plans to Convert Two Military Bases to House Asylum Seekers",
+    "url": "https://www.nytimes.com/2025/10/28/world/europe/britain-asylum-seekers.html",
+    "id_key": "f33af9ecc6248c163632700c408cbbd8a2883c1e5f13c02e2d21826ec205c0c3",
+    "summary": "The government has been under pressure to shut down hotels accommodating migrants as public anger rises.",
+    "ingested_utc": "2025-10-28T17:16:31Z"
+  },
+  {
+    "published_utc": "2025-10-28",
+    "retrieved_date": "2025-10-28",
+    "retrieved_utc": "2025-10-28T17:14:30Z",
+    "source": "CryptoSlate",
+    "title": "Watch these 4 tripwires to signal XRP price direction this week",
+    "url": "https://cryptoslate.com/waiting-on-xrp-to-pump-watch-these-3-tripwires-this-week/",
+    "id_key": "0e0c05a25f49e6da19d0b931424e88e71d6f186b250f74db6d5b127532cad012",
+    "summary": "XRP entered the final week of October with leverage rebuilt and a working beta to Bitcoin that can be applied to near-term ranges two weeks after the tariff shock. Aggregated XRP open interest sits near $4.4 billion and funding has normalized around neutral to slightly positive, a setup that historically favors outsized moves when shorts […] The post Watch these 4 tripwires to signal XRP price direction this week appeared first on CryptoSlate .",
+    "ingested_utc": "2025-10-28T17:14:30Z"
+  },
+  {
+    "published_utc": "2025-10-28",
+    "retrieved_date": "2025-10-28",
+    "retrieved_utc": "2025-10-28T17:14:10Z",
+    "source": "Guardian_World",
+    "title": "Hurricane Melissa: a visual guide to the strongest storm to hit Jamaica in almost two centuries",
+    "url": "https://www.theguardian.com/world/2025/oct/28/hurricane-melissa-a-visual-guide-to-the-strongest-storm-to-hit-jamaica-in-almost-two-centuries",
+    "id_key": "f3a490815cf947fba6c37744d65b11673160597968879b5a061760031ed1c966",
+    "summary": "Slow-moving giant about to make landfall and will linger over the island before slamming into Cuba Hurricane Melissa – latest updates Hurricane Melissa is close to hitting Jamaica as a catastrophic category 5 storm, the strongest to lash the island since record-keeping began in 1851. The slow-moving giant will make landfall on Tuesday afternoon local time and linger over the island, moving diagonally through it until heading on to slam into Cuba, with impacts also expected in Haiti and the Bahamas. Continue reading...",
+    "ingested_utc": "2025-10-28T17:14:10Z"
+  },
+  {
+    "published_utc": "2025-10-28",
+    "retrieved_date": "2025-10-28",
+    "retrieved_utc": "2025-10-28T17:14:10Z",
+    "source": "Guardian_World",
+    "title": "Netanyahu orders immediate ‘powerful strikes’ on Gaza in latest test of ceasefire",
+    "url": "https://www.theguardian.com/world/2025/oct/28/returned-body-parts-were-of-hostage-recovered-two-years-ago-israel-says",
+    "id_key": "f821291d24a27c870472cb2b8b3cb9bba3854b04f2d5b11dabd90c11e4a73a2d",
+    "summary": "Prime minister accuses Hamas of ‘clear violation’ of truce as far-right ministers clamour to resume war Israel’s prime minister, Benjamin Netanyahu, ordered the military to immediately carry out “powerful strikes” in Gaza, in the latest test for the increasingly shaky US-brokered ceasefire in the strip. Netanyahu ordered the strikes after an emergency meeting to discuss what he called Hamas violations of the ceasefire, amid clamour for a return to the war by far-right figures in the Israeli government. Continue reading...",
+    "ingested_utc": "2025-10-28T17:14:10Z"
+  },
+  {
+    "published_utc": "2025-10-28",
+    "retrieved_date": "2025-10-28",
     "retrieved_utc": "2025-10-28T17:00:17Z",
     "source": "FinancialPost_Business",
     "title": "Texas lawsuit against companies behind Tylenol asserts unproven claims of autism risk",
@@ -10888,115 +10998,5 @@
     "id_key": "1279c657ed664a711799530f8c3610eece202938f3b97e3ae6b90fb608071242",
     "summary": "Comments",
     "ingested_utc": "2025-10-27T01:00:20Z"
-  },
-  {
-    "published_utc": "2025-10-26",
-    "retrieved_date": "2025-10-27",
-    "retrieved_utc": "2025-10-27T01:00:03Z",
-    "source": "TheStreet_Top",
-    "title": "125-year-old tourist hotel files for Chapter 11 bankruptcy",
-    "url": "https://www.thestreet.com/economy/luxury-hotel-files-for-chapter-11-bankruptcy",
-    "id_key": "ce629bfbd2ce604a7480a89a68857e7e9ae681720783a5c6d9f36996fe9577a0",
-    "summary": "Over the last year, several hotels have seen their financial problems reach a point where they had to file for bankruptcy. In September 2025, the company behind hotels such as the Tuscany and Hotel 27 in New York City suddenly filed for Chapter 11 bankruptcy and shut down operations. Guests with ...",
-    "ingested_utc": "2025-10-27T01:00:03Z"
-  },
-  {
-    "published_utc": "2025-10-26",
-    "retrieved_date": "2025-10-27",
-    "retrieved_utc": "2025-10-27T00:59:36Z",
-    "source": "FT_Markets",
-    "title": "Markets braced as Argentines go to the polls",
-    "url": "https://www.ft.com/content/9492ca39-1cfe-451a-83df-ff4a340bbb15",
-    "id_key": "66293dc43b90ac7c797a60dc264eff770d203d7bc58ded5c105a915c25577064",
-    "summary": "Midterm vote may determine whether President Javier Milei can end currency crisis and continue free market reforms",
-    "ingested_utc": "2025-10-27T00:59:36Z"
-  },
-  {
-    "published_utc": "2025-10-26",
-    "retrieved_date": "2025-10-27",
-    "retrieved_utc": "2025-10-27T00:59:23Z",
-    "source": "NYTimes_World",
-    "title": "Japan’s New Leader Faces an Early Test: Winning Over Trump",
-    "url": "https://www.nytimes.com/2025/10/26/world/asia/japan-trump-takaichi.html",
-    "id_key": "31bb6ffa46892b0d5b4124cc96e1a1779eb5c900e868e24df229b8773ba61126",
-    "summary": "As Prime Minister Sanae Takaichi seeks reassurance from President Trump on trade and security, she will likely play up her ties to Shinzo Abe, a mutual friend.",
-    "ingested_utc": "2025-10-27T00:59:23Z"
-  },
-  {
-    "published_utc": "2025-10-26",
-    "retrieved_date": "2025-10-27",
-    "retrieved_utc": "2025-10-27T00:59:14Z",
-    "source": "MarketWatch_Bulletins",
-    "title": "Stock market faces a midweek double whammy. Here's what to watch.",
-    "url": "https://www.marketwatch.com/bulletins/redirect/go?g=9997843e-5fa1-42d4-a31b-1d327a6a54a4&mod=mw_rss_bulletins",
-    "id_key": "97b50a916e470842cc1e4abc0f433b357e17bee035255bf45a51cb0cafb4ccaa",
-    "summary": "",
-    "ingested_utc": "2025-10-27T00:59:14Z"
-  },
-  {
-    "published_utc": "2025-10-26",
-    "retrieved_date": "2025-10-27",
-    "retrieved_utc": "2025-10-27T00:57:06Z",
-    "source": "BBC_Business",
-    "title": "The striking Swedish workers taking on carmaker Tesla",
-    "url": "https://www.bbc.com/news/articles/c5y9082q0jjo?at_medium=RSS&at_campaign=rss",
-    "id_key": "8afcc4a25b196bd234122264ee849a6f8ee586a74d2d6f42270e444cd0268e38",
-    "summary": "The industrial action against the company's operation in Sweden has reached its second anniversary.",
-    "ingested_utc": "2025-10-27T00:57:06Z"
-  },
-  {
-    "published_utc": "2025-10-26",
-    "retrieved_date": "2025-10-26",
-    "retrieved_utc": "2025-10-26T23:51:17Z",
-    "source": "HackerNews_Top",
-    "title": "Are-we-fast-yet: Benchmark suite in Oberon, C++, C, Pascal, Micron and Luon",
-    "url": "https://github.com/rochus-keller/Are-we-fast-yet",
-    "id_key": "903fbdfd9250307f102bc5fede8e88e6fe9b57f537a0dfd913150c8f44472002",
-    "summary": "Comments",
-    "ingested_utc": "2025-10-26T23:51:17Z"
-  },
-  {
-    "published_utc": "2025-10-26",
-    "retrieved_date": "2025-10-26",
-    "retrieved_utc": "2025-10-26T23:48:23Z",
-    "source": "CryptoSlate",
-    "title": "Bitcoin retraces nearly half its losses from October crash amid Fed rate-cut expectations",
-    "url": "https://cryptoslate.com/bitcoin-retraces-nearly-half-its-losses-from-october-crash-amid-fed-rate-cut-expectations/",
-    "id_key": "01f37c157cd3aef326a9e3e09625cc3d42dbd94777a3b57e0fe02dbd8d1dd625",
-    "summary": "The price of Bitcoin (BTC) rebounded past the $112,000 resistance level over the weekend, trading at $113,724 at the time of writing, according to CryptoSlate data. Bitcoin’s price breached the $113,000 mark for the second time this week—on Oct. 21, BTC was trading at $113,678. The latest price movement has helped Bitcoin’s value recover nearly […] The post Bitcoin retraces nearly half its losses from October crash amid Fed rate-cut expectations appeared first on CryptoSlate .",
-    "ingested_utc": "2025-10-26T23:48:23Z"
-  },
-  {
-    "published_utc": "2025-10-26",
-    "retrieved_date": "2025-10-26",
-    "retrieved_utc": "2025-10-26T23:38:43Z",
-    "source": "AlJazeera_All",
-    "title": "UK journalist Sami Hamdi detained in US amid pro-Israel lobby pressure",
-    "url": "https://www.aljazeera.com/news/2025/10/26/uk-journalist-sami-hamdi-detained-in-us-amid-pro-israel-lobby-pressure?traffic_source=rss",
-    "id_key": "67a442a5176565c60c65da3b5735ccbc529400d0065605dfb64a36b71382218f",
-    "summary": "Far-right activist and Donald Trump ally Laura Loomer celebrates Hamdi’s detention as US gov't says he's in ICE custody.",
-    "ingested_utc": "2025-10-26T23:38:43Z"
-  },
-  {
-    "published_utc": "2025-10-26",
-    "retrieved_date": "2025-10-26",
-    "retrieved_utc": "2025-10-26T23:30:09Z",
-    "source": "HackerNews_Top",
-    "title": "A definition of AGI",
-    "url": "https://arxiv.org/abs/2510.18212",
-    "id_key": "e1a8a7576799e8665f33861ccff9c3afe6b7bbafa43978fc3bed0b6c4e3dbe71",
-    "summary": "Comments",
-    "ingested_utc": "2025-10-26T23:30:09Z"
-  },
-  {
-    "published_utc": "2025-10-26",
-    "retrieved_date": "2025-10-26",
-    "retrieved_utc": "2025-10-26T23:30:09Z",
-    "source": "HackerNews_Top",
-    "title": "Show HN: Helium Browser for Android with extensions support, based on Vanadium",
-    "url": "https://github.com/jqssun/android-helium-browser",
-    "id_key": "7bd1c2b6f3f30038b34b9c746af491a97005c920b3568c8cdc524645c6d645ab",
-    "summary": "Comments",
-    "ingested_utc": "2025-10-26T23:30:09Z"
   }
 ]
