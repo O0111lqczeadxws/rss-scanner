@@ -2,6 +2,72 @@
   {
     "published_utc": "2025-10-28",
     "retrieved_date": "2025-10-28",
+    "retrieved_utc": "2025-10-28T08:18:51Z",
+    "source": "CBC_Business",
+    "title": "The case for spending $500M on a single Toronto Blue Jay",
+    "url": "https://www.cbc.ca/news/business/blue-jays-vladimir-guerrero-worth-it-money-9.6955427?cmp=rss",
+    "id_key": "ab75454a411dd4815466fb65fbc5d066392aadd766d0986d72eefc4f243a345a",
+    "summary": "A blockbuster deal to lock in Vladimir Guerrero Jr. this past spring may have already led to financial windfalls for Toronto Blue Jays owner Rogers Communications, as the telecom, media and sports conglomerate is already reporting higher earnings chalked up, thanks in part to baseball success.",
+    "ingested_utc": "2025-10-28T08:18:51Z"
+  },
+  {
+    "published_utc": "2025-10-28",
+    "retrieved_date": "2025-10-28",
+    "retrieved_utc": "2025-10-28T08:18:44Z",
+    "source": "AlJazeera_All",
+    "title": "Hurricane Melissa live: Category 5 storm nears Jamaica, strongest this year",
+    "url": "https://www.aljazeera.com/news/liveblog/2025/10/28/hurricane-melissa-live-category-5-storm-nears-jamaica-strongest-this-year?traffic_source=rss",
+    "id_key": "526e929807798e599cce314ac74c79c15dca30188df9c5ac96b30ca852fba5d5",
+    "summary": "Category 5 storm is predicted to be the most destructive storm on record to hit the Caribbean island.",
+    "ingested_utc": "2025-10-28T08:18:44Z"
+  },
+  {
+    "published_utc": "2025-10-28",
+    "retrieved_date": "2025-10-28",
+    "retrieved_utc": "2025-10-28T08:18:44Z",
+    "source": "AlJazeera_All",
+    "title": "FIFA adds 1 million World Cup tickets for sale in second phase",
+    "url": "https://www.aljazeera.com/sports/2025/10/28/fifa-adds-1-million-world-cup-2026-tickets-for-sale-in-second-phase?traffic_source=rss",
+    "id_key": "6b5f17e98abfbc000eea83c16e698e5e985d47963c5c63345d7a3383b1b33f7f",
+    "summary": "Tickets are being made available via an early draw that allows host countries a domestic exclusivity time slot.",
+    "ingested_utc": "2025-10-28T08:18:44Z"
+  },
+  {
+    "published_utc": "2025-10-28",
+    "retrieved_date": "2025-10-28",
+    "retrieved_utc": "2025-10-28T08:18:12Z",
+    "source": "NPR_Top",
+    "title": "Weight loss drugs are bringing down the country's obesity rate, a survey shows",
+    "url": "https://www.npr.org/sections/shots-health-news/2025/10/28/nx-s1-5587805/glp-1-ozempic-zepbound-gallup-obesity-rate",
+    "id_key": "4e34a629f628a72921a3a5b348b9f3f06be61717d71c345a9f4f1f6da5f016ab",
+    "summary": "The Gallup National Health and Well-Being Index shows that GLP-1 weight loss drugs are having an effect: The U.S. obesity rate is at 37%, down from 39.9%.",
+    "ingested_utc": "2025-10-28T08:18:12Z"
+  },
+  {
+    "published_utc": "2025-10-28",
+    "retrieved_date": "2025-10-28",
+    "retrieved_utc": "2025-10-28T08:17:23Z",
+    "source": "Optimism_Releases",
+    "title": "op-contracts/v5.0.0",
+    "url": "https://github.com/ethereum-optimism/optimism/releases/tag/op-contracts%2Fv5.0.0",
+    "id_key": "02226ed502855ccb8b314f0db6b75899ff89453d2b67cf36181d94344f003801",
+    "summary": "This release adds support for configuring the minimum base fee and DA footprint gas scalar variables, which affect features activating with the Jovian hardfork. It also includes support for Go 1.24 in the Cannon fault proof VM. For details of individual contract versions and standard deployments, please see the below links in the superchain registry: Sepolia Mainnet New Contributors @wlawt made their first contribution in #17330 Full Changelog : op-contracts/v4.1.0...op-contracts/v5.0.0",
+    "ingested_utc": "2025-10-28T08:17:23Z"
+  },
+  {
+    "published_utc": "2025-10-28",
+    "retrieved_date": "2025-10-28",
+    "retrieved_utc": "2025-10-28T08:15:57Z",
+    "source": "BBC_Business",
+    "title": "These robots can clean, exercise - and care for you in old age. Would you trust them to?",
+    "url": "https://www.bbc.com/news/articles/c9wdzyyglq5o?at_medium=RSS&at_campaign=rss",
+    "id_key": "425309cc9c825c6650dde5030ee4814d3ecd8cd09a05ded4dc19cba9d56792d6",
+    "summary": "It sounds like something from a sci-fi film - but some scientists believe this clever new tech could help alleviate strains on the UK care system",
+    "ingested_utc": "2025-10-28T08:15:57Z"
+  },
+  {
+    "published_utc": "2025-10-28",
+    "retrieved_date": "2025-10-28",
     "retrieved_utc": "2025-10-28T07:50:32Z",
     "source": "FinancialPost_Business",
     "title": "Goldman Joins Peers Deepening Saudi Ties Despite Fiscal Strains",
@@ -10932,71 +10998,5 @@
     "id_key": "6ff04e024bfe5231d2ea5299d03a4e2db7fe4821914b9b88d8477aa0210d838c",
     "summary": "Incident occurred near a cafe in Indore on Thurday Local police have made an arrest, according to reports Two members of Australia’s Women’s World Cup team were “touched inappropriately” by a member of the public in India, Cricket Australia has said. The incident is understood to have occurred on Thursday in Indore, a day off for the team after their six-wicket victory over England . CA said in a statement: “We can confirm two members of the Australian women’s team were approached and touched inappropriately by a motorcyclist while walking to a cafe in Indore. The matter was reported by team security to police who are handling the matter.” Continue reading...",
     "ingested_utc": "2025-10-25T12:57:20Z"
-  },
-  {
-    "published_utc": "2025-10-25",
-    "retrieved_date": "2025-10-25",
-    "retrieved_utc": "2025-10-25T12:57:20Z",
-    "source": "Guardian_World",
-    "title": "Hadush Gerberslasie Kebatu manhunt live: Met police take over search for sex offender after London sighting",
-    "url": "https://www.theguardian.com/uk-news/live/2025/oct/25/hadush-gerberslasie-kebatu-manhunt-met-police-sex-offender-london-latest-news",
-    "id_key": "1e7b8fcc761e12bcf7eb8006d4b06906dcc7135613a8e928f212a8bc57c154a3",
-    "summary": "Commander James Conway says finding Kebatu, whose arrest sparked riots over the summer, is a ‘top priority’ At this moment, there is very little we know about how Hadush Kebatu came to be mistakenly released. Prison Service sources said the release was down to human error . I am shocked and appalled by the mistaken release of Hadush Kebatu. Frankly, I am at a loss to understand how such a grave error could occur. My thoughts are with the victim and her family at this deeply distressing time. They have shown immense courage, and they deserve our full support and protection. This is a serious failure of the justice system, and people will rightly be outraged. It is completely unacceptable. The public has a right to expect that those convicted of serious crimes remain securely in custody. Public safety must never be compromised. I sincerely hope Kebatu is located and returned to prison without delay. There must also be a full and transparent investigation into how this happened, and what safeguards will be put in place to ensure it never happens again.” Continue reading...",
-    "ingested_utc": "2025-10-25T12:57:20Z"
-  },
-  {
-    "published_utc": "2025-10-25",
-    "retrieved_date": "2025-10-25",
-    "retrieved_utc": "2025-10-25T12:57:20Z",
-    "source": "Guardian_World",
-    "title": "Labour’s new deputy leader Lucy Powell says she wants Starmer to succeed but party must change – as it happened",
-    "url": "https://www.theguardian.com/politics/live/2025/oct/25/new-labour-deputy-leader-lucy-powell-bridget-phillipson-uk-politics-latest-news-updates",
-    "id_key": "bb516528472383af9ecf2104ebf2eb3ad14844d55d15b749470c87a95e385a54",
-    "summary": "This blog is now closed, you can read more on this story here Lucy Powell has paid tribute to former Labour deputy leader Angela Rayner , saying she has some “big shoes to fill”, as she took to the stage to celebrate her win. Powell spoke about how “division and hate” has increased. She said the desire for change is “palpable”. Continue reading...",
-    "ingested_utc": "2025-10-25T12:57:20Z"
-  },
-  {
-    "published_utc": "2025-10-25",
-    "retrieved_date": "2025-10-25",
-    "retrieved_utc": "2025-10-25T12:57:20Z",
-    "source": "Guardian_World",
-    "title": "Suicides linked to domestic abuse should be investigated as potential homicides, say UK families",
-    "url": "https://www.theguardian.com/society/2025/oct/25/enforce-law-when-suicide-linked-to-domestic-violence-say-uk-campaigners",
-    "id_key": "c252b85be02b8970f610b68d5b3083b529610a951bba86afb8a348a2d865abce",
-    "summary": "Landmark meeting in Westminster hears from string of relatives who say they have been failed by justice system Every suicide in which the deceased has been a victim of domestic violence should be investigated as a potential homicide, according to calls by campaigners who want see abusers held to account for the devastating affect of their actions. The move is necessary because police and prosecutors are not doing enough to bring perpetrators to justice in cases of suicide after domestic abuse. In the UK and Ireland, Samaritans can be contacted on freephone 116 123, or email jo@samaritans.org or jo@samaritans.ie . In the US, you can call or text the National Suicide Prevention Lifeline on 988, chat on 988lifeline.org , or text HOME to 741741 to connect with a crisis counselor. In Australia, the crisis support service Lifeline is 13 11 14. Other international helplines can be found at befrienders.org Continue reading...",
-    "ingested_utc": "2025-10-25T12:57:20Z"
-  },
-  {
-    "published_utc": "2025-10-25",
-    "retrieved_date": "2025-10-25",
-    "retrieved_utc": "2025-10-25T12:22:01Z",
-    "source": "HackerNews_Top",
-    "title": "Advice for new principal tech ICs (i.e., notes to myself)",
-    "url": "https://eugeneyan.com/writing/principal/",
-    "id_key": "10ba8b0f136cb43e3d22b837fa3a5228cde3d0fd0a3235d42a4dfa03c0c00e31",
-    "summary": "Comments",
-    "ingested_utc": "2025-10-25T12:22:01Z"
-  },
-  {
-    "published_utc": "2025-10-25",
-    "retrieved_date": "2025-10-25",
-    "retrieved_utc": "2025-10-25T12:21:44Z",
-    "source": "AlJazeera_All",
-    "title": "Russian attacks on Ukraine kill 4 as Kyiv’s allies renew pressure on Moscow",
-    "url": "https://www.aljazeera.com/news/2025/10/25/russian-attacks-on-ukraine-kill-4-as-kyivs-allies-renew-pressure-on-moscow?traffic_source=rss",
-    "id_key": "56de8d5e4f28f4528b4e8d1a3b970ca2827441335dd9661a0497f6de801b64a8",
-    "summary": "Air raids hit Kyiv, Dnipropetrovsk region as Ukraine's allies expand sanctions on Russia.",
-    "ingested_utc": "2025-10-25T12:21:44Z"
-  },
-  {
-    "published_utc": "2025-10-25",
-    "retrieved_date": "2025-10-25",
-    "retrieved_utc": "2025-10-25T12:21:35Z",
-    "source": "Engadget_All",
-    "title": "How to unpair your Apple Watch from your iPhone",
-    "url": "https://www.engadget.com/wearables/how-to-unpair-your-apple-watch-from-your-iphone-120052222.html?src=rss",
-    "id_key": "b1a1c9fd9caac19da854baa76e53677be6c2205ac804d26a9663624e6a6a9421",
-    "summary": "If you’re moving on to a new Apple Watch , selling your current one or fixing some software hiccups, you’ll probably need to disconnect it from your iPhone. Apple calls this unpairing; it’s the step that wipes your watch, breaks the connection to your phone and removes Activation Lock so the next person can use it. The good news is that unpairing is straightforward whether you have your iPhone nearby or not. Here’s how it works, along with why you might want to disconnect your watch in the first place. How to disconnect Apple Watch using your iPhone The simplest way to unpair your Apple Watch is through your iPhone. Keep your iPhone and Apple Watch close together. Open the Apple Watch app on your iPhone. Navigate to the My Watch tab, then All Watches at the top. Tap the info button next to the watch you want to disconnect. Select Unpair Apple Watch , then select Unpair [your Apple Watch name]. If you have a cellular model, choose whether to keep or remove your cellular plan. Remove it if you’re selling or giving away the watch. Keep it if you plan to pair it again later Enter your Apple Account password when asked to turn off Activation Lock, then select Unpair . Your iPhone will create a backup before erasing the watch. When you set up a new Apple Watch, you can choose to restore from that backup and carry on with your data and settings intact. How to disconnect Apple Watch without your iPhone If you don’t have your paired iPhone with you, you can still reset your Apple Watch directly. This will wipe your data, but won’t create a backup and Activation Lock will remain, so keep that in mind if you want to save your information. On your Apple Watch, open Settings . Select General, then scroll down and select Reset . Select Erase All Content and Settings . Enter your passcode if prompted. For cellular models, choose whether to keep or remove your plan. Your watch will erase itself and restart as if it were brand new. Why you should disconnect your Apple Watch There are a few reasons you might want to unpair your Apple Watch. Maybe you’re upgrading to a new model and need to start fresh. Maybe you’re trading it in, selling it or handing it down to someone else. You might also need to disconnect your watch if you’re troubleshooting. Sometimes a clean reset is the easiest way to fix syncing issues, missed notifications or fitness data that isn’t updating. Whatever the reason, unpairing keeps your data safe, makes sure a backup is stored and disables Activation Lock. That last step is important because if you skip it, the next owner won’t be able to use the watch. What happens to your data when you disconnect your Apple Watch? When you unpair your Apple Watch using your iPhone, the watch creates a backup that includes app data, settings and most health and fitness information. This backup is stored on your iPhone and will transfer to iCloud if you have backups turned on. That makes it easy to restore everything on a new watch. If you reset from the watch without your iPhone, a backup is not created. Your data will be erased and the watch will be wiped clean, but Activation Lock remains. Activation Lock is tied to your Apple Account and helps keep your watch secure if it’s lost or stolen. It turns on automatically when you pair your watch with your iPhone. That’s why unpairing isn’t the same as a simple reset. You need the Apple Account and password associated with the watch to turn off Activation Lock. This article originally appeared on Engadget at https://www.engadget.com/wearables/how-to-unpair-your-apple-watch-from-your-iphone-120052222.html?src=rss",
-    "ingested_utc": "2025-10-25T12:21:35Z"
   }
 ]
