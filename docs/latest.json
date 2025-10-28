@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-10-28",
     "retrieved_date": "2025-10-28",
+    "retrieved_utc": "2025-10-28T07:50:32Z",
+    "source": "FinancialPost_Business",
+    "title": "Goldman Joins Peers Deepening Saudi Ties Despite Fiscal Strains",
+    "url": "https://financialpost.com/pmn/business-pmn/goldman-joins-peers-deepening-saudi-ties-despite-fiscal-strains",
+    "id_key": "9e9af9810bc4c57660b5c43af415b3e4d9cedc7d518bbe7b832625999bb296fa",
+    "summary": "Goldman Sachs Group Inc. aims to significantly expand its presence in Saudi Arabia, joining Wall Street peers looking to tap into the kingdom’s economic overhaul despite rising fiscal concerns.",
+    "ingested_utc": "2025-10-28T07:50:32Z"
+  },
+  {
+    "published_utc": "2025-10-28",
+    "retrieved_date": "2025-10-28",
+    "retrieved_utc": "2025-10-28T07:50:32Z",
+    "source": "FinancialPost_Business",
+    "title": "West Red Lake Gold Commences 5,000 Metre Drill Program at Rowan",
+    "url": "https://financialpost.com/globe-newswire/west-red-lake-gold-commences-5000-metre-drill-program-at-rowan",
+    "id_key": "5e27248cdbcb0a711140ded01f8ff8be916d53d049146f567bff1501af28c2e8",
+    "summary": "VANCOUVER, British Columbia, Oct. 28, 2025 (GLOBE NEWSWIRE) — West Red Lake Gold Mines Ltd. (“West Red Lake Gold” or “WRLG” or the “Company”) (TSXV: WRLG) (OTCQB: WRLGF) is pleased to announce the commencement of a fully funded infill and conversion drilling program at its 100% owned Rowan Project located in the Red Lake Gold […]",
+    "ingested_utc": "2025-10-28T07:50:32Z"
+  },
+  {
+    "published_utc": "2025-10-28",
+    "retrieved_date": "2025-10-28",
     "retrieved_utc": "2025-10-28T07:43:42Z",
     "source": "Nikkei_Asia_Top",
     "title": "US Treasury seeks 'sound monetary policy' from Japan amid weak yen",
@@ -10976,27 +10998,5 @@
     "id_key": "b1a1c9fd9caac19da854baa76e53677be6c2205ac804d26a9663624e6a6a9421",
     "summary": "If you’re moving on to a new Apple Watch , selling your current one or fixing some software hiccups, you’ll probably need to disconnect it from your iPhone. Apple calls this unpairing; it’s the step that wipes your watch, breaks the connection to your phone and removes Activation Lock so the next person can use it. The good news is that unpairing is straightforward whether you have your iPhone nearby or not. Here’s how it works, along with why you might want to disconnect your watch in the first place. How to disconnect Apple Watch using your iPhone The simplest way to unpair your Apple Watch is through your iPhone. Keep your iPhone and Apple Watch close together. Open the Apple Watch app on your iPhone. Navigate to the My Watch tab, then All Watches at the top. Tap the info button next to the watch you want to disconnect. Select Unpair Apple Watch , then select Unpair [your Apple Watch name]. If you have a cellular model, choose whether to keep or remove your cellular plan. Remove it if you’re selling or giving away the watch. Keep it if you plan to pair it again later Enter your Apple Account password when asked to turn off Activation Lock, then select Unpair . Your iPhone will create a backup before erasing the watch. When you set up a new Apple Watch, you can choose to restore from that backup and carry on with your data and settings intact. How to disconnect Apple Watch without your iPhone If you don’t have your paired iPhone with you, you can still reset your Apple Watch directly. This will wipe your data, but won’t create a backup and Activation Lock will remain, so keep that in mind if you want to save your information. On your Apple Watch, open Settings . Select General, then scroll down and select Reset . Select Erase All Content and Settings . Enter your passcode if prompted. For cellular models, choose whether to keep or remove your plan. Your watch will erase itself and restart as if it were brand new. Why you should disconnect your Apple Watch There are a few reasons you might want to unpair your Apple Watch. Maybe you’re upgrading to a new model and need to start fresh. Maybe you’re trading it in, selling it or handing it down to someone else. You might also need to disconnect your watch if you’re troubleshooting. Sometimes a clean reset is the easiest way to fix syncing issues, missed notifications or fitness data that isn’t updating. Whatever the reason, unpairing keeps your data safe, makes sure a backup is stored and disables Activation Lock. That last step is important because if you skip it, the next owner won’t be able to use the watch. What happens to your data when you disconnect your Apple Watch? When you unpair your Apple Watch using your iPhone, the watch creates a backup that includes app data, settings and most health and fitness information. This backup is stored on your iPhone and will transfer to iCloud if you have backups turned on. That makes it easy to restore everything on a new watch. If you reset from the watch without your iPhone, a backup is not created. Your data will be erased and the watch will be wiped clean, but Activation Lock remains. Activation Lock is tied to your Apple Account and helps keep your watch secure if it’s lost or stolen. It turns on automatically when you pair your watch with your iPhone. That’s why unpairing isn’t the same as a simple reset. You need the Apple Account and password associated with the watch to turn off Activation Lock. This article originally appeared on Engadget at https://www.engadget.com/wearables/how-to-unpair-your-apple-watch-from-your-iphone-120052222.html?src=rss",
     "ingested_utc": "2025-10-25T12:21:35Z"
-  },
-  {
-    "published_utc": "2025-10-25",
-    "retrieved_date": "2025-10-25",
-    "retrieved_utc": "2025-10-25T12:21:34Z",
-    "source": "WIRED_All",
-    "title": "Baseus Inspire XC1 Review: Excellent Open Earbuds",
-    "url": "https://www.wired.com/review/baseus-inspire-xc1/",
-    "id_key": "2f478103800f90eee18bff7c10d618eb0bbfc36636dcb767d5ea162f699415d0",
-    "summary": "These affordable open buds come with Bose-crafted sound.",
-    "ingested_utc": "2025-10-25T12:21:34Z"
-  },
-  {
-    "published_utc": "2025-10-25",
-    "retrieved_date": "2025-10-25",
-    "retrieved_utc": "2025-10-25T12:21:34Z",
-    "source": "WIRED_All",
-    "title": "The Best OTC Hearing Aids (2025), Tested and Reviewed",
-    "url": "https://www.wired.com/gallery/best-over-the-counter-hearing-aids/",
-    "id_key": "44945cc73f0dc1a8e21ebf7b64fc2802b6b67177a0797352480ee7fdc559d349",
-    "summary": "These WIRED-tested hearing aids are affordable alternatives to prescription devices. No doctor’s appointment necessary.",
-    "ingested_utc": "2025-10-25T12:21:34Z"
   }
 ]
