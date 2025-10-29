@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-10-29",
     "retrieved_date": "2025-10-29",
+    "retrieved_utc": "2025-10-29T07:44:06Z",
+    "source": "FinancialPost_Business",
+    "title": "BASF Beats on Auto Demand Offsetting Chemicals Decline",
+    "url": "https://financialpost.com/pmn/business-pmn/basf-beats-expectations-as-trade-worries-cap-chemical-demand",
+    "id_key": "7b9bc5c9d5f9b9d7709cc744579c37973a979a9f7cd79c33263d0cafb70898d4",
+    "summary": "BASF SE’s third-quarter earnings beat expectations as demand for its suite of automotive products helped offset declines elsewhere amid worsening geopolitical uncertainties.",
+    "ingested_utc": "2025-10-29T07:44:06Z"
+  },
+  {
+    "published_utc": "2025-10-29",
+    "retrieved_date": "2025-10-29",
     "retrieved_utc": "2025-10-29T07:32:26Z",
     "source": "Guardian_World",
     "title": "Hurricane Melissa live updates: storm makes landfall in Cuba; ‘extensive’ damage in parts of Jamaica",
@@ -10987,16 +10998,5 @@
     "id_key": "375c9f29bd5bcc0a5263bcbb88ac1ee2ab8bad3aba6225af36269fc3ca36ec26",
     "summary": "Instagram Threads is launching “ghost posts,” a new disappearing-posts feature that lets users share updates that automatically archive after 24 hours. The ephemeral option—rolling out globally on Monday—aims to encourage more casual, low-pressure sharing",
     "ingested_utc": "2025-10-27T16:17:42Z"
-  },
-  {
-    "published_utc": "2025-10-27",
-    "retrieved_date": "2025-10-27",
-    "retrieved_utc": "2025-10-27T16:17:41Z",
-    "source": "TheVerge_All",
-    "title": "Threads is getting disappearing posts",
-    "url": "https://www.theverge.com/news/806940/threads-disappearing-ghost-posts-launch",
-    "id_key": "643c8033ac880a2f36a377bb40e2351806ba7213591c28106d0e8e1ee643e632",
-    "summary": "Threads is launching a new feature called the “ghost post:” a post it will automatically archive after 24 hours. These posts will come in handy if you want to share a thought, but don’t want to keep it on your profile. It’s also a feature that users on X, formerly Twitter, have long requested, leading them […]",
-    "ingested_utc": "2025-10-27T16:17:41Z"
   }
 ]
