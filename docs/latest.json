@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-10-29",
     "retrieved_date": "2025-10-29",
+    "retrieved_utc": "2025-10-29T09:52:03Z",
+    "source": "FinancialPost_Business",
+    "title": "Actis Eyes Joining Saudi Tech Rush With Data Center Investment",
+    "url": "https://financialpost.com/pmn/business-pmn/actis-eyes-joining-saudi-tech-rush-with-data-center-investment",
+    "id_key": "7a37257fec5d67d41f70749f02acd0a38f2f81ef6fbd5a01d62c4e7f6e2514ca",
+    "summary": "Actis GP LLP is eyeing a possible investment in data centers in Saudi Arabia, a sector that’s assuming growing importance in the oil-rich kingdom’s economic diversification plans.",
+    "ingested_utc": "2025-10-29T09:52:03Z"
+  },
+  {
+    "published_utc": "2025-10-29",
+    "retrieved_date": "2025-10-29",
+    "retrieved_utc": "2025-10-29T09:51:14Z",
+    "source": "FT_Home",
+    "title": "Bessent’s top five picks to replace Powell",
+    "url": "https://www.ft.com/content/88c7be12-abc0-4ecf-8f39-9684b1fe95ca",
+    "id_key": "46914cf0cded2c084fab7b6c58f24f06ac6e06bb5f240fd0651959d8a015e9ca",
+    "summary": "Treasury secretary Scott Bessent has a shortlist of five candidates vying to replace Jay Powell",
+    "ingested_utc": "2025-10-29T09:51:14Z"
+  },
+  {
+    "published_utc": "2025-10-29",
+    "retrieved_date": "2025-10-29",
+    "retrieved_utc": "2025-10-29T09:51:10Z",
+    "source": "NPR_Top",
+    "title": "This furloughed IRS lawyer is living out his dream of being a hot dog vendor",
+    "url": "https://www.npr.org/2025/10/29/nx-s1-5589165/furloughed-federal-employee-hot-dog-stand",
+    "id_key": "17394651c0c70daad562c6987b56f88703b19c427b61f61017054dbafc30354d",
+    "summary": "While on furlough, Isaac Stein is fulfilling a childhood dream and passion project as a hot dog vendor.",
+    "ingested_utc": "2025-10-29T09:51:10Z"
+  },
+  {
+    "published_utc": "2025-10-29",
+    "retrieved_date": "2025-10-29",
     "retrieved_utc": "2025-10-29T09:35:30Z",
     "source": "FinancialPost_Business",
     "title": "Tecnotree Maintains Momentum with Sixth Consecutive Quarter of Profit and Cash Flow",
@@ -10965,38 +10998,5 @@
     "id_key": "91d4cb49d7a72baccddf4a7329010ff026123492f8ecc5d8188692410f1d9153",
     "summary": "The chain has closed hundreds of stores since 2013.It's likely to close more locations.A bankruptcy is not likely, since the chain has new ownership. During the Covid pandemic, there was a dark period where grocery stores ran out of toilet paper. Everyone remembers those days when people were ...",
     "ingested_utc": "2025-10-27T17:33:02Z"
-  },
-  {
-    "published_utc": "2025-10-27",
-    "retrieved_date": "2025-10-27",
-    "retrieved_utc": "2025-10-27T17:32:50Z",
-    "source": "TheVerge_All",
-    "title": "&#8216;There isn&#8217;t really another choice:&#8217; Signal chief explains why the encrypted messenger relies on AWS",
-    "url": "https://www.theverge.com/news/807147/signal-aws-outage-meredith-whittaker",
-    "id_key": "97cca1233c146d4e778de6058cb9b2369c0a58437be84cd367c30519281be54e",
-    "summary": "After last week’s major Amazon Web Services (AWS) outage took Signal along with it, Elon Musk was quick to criticize the encrypted messaging app’s reliance on big tech. But Signal president Meredith Whittaker argues that the company didn’t have any other choice but to use AWS or another major cloud provider. “The problem here is […]",
-    "ingested_utc": "2025-10-27T17:32:50Z"
-  },
-  {
-    "published_utc": "2025-10-27",
-    "retrieved_date": "2025-10-27",
-    "retrieved_utc": "2025-10-27T17:32:23Z",
-    "source": "NYTimes_World",
-    "title": "What Is the ASEAN Summit, the First Event on Trump’s Tour of Asia?",
-    "url": "https://www.nytimes.com/2025/10/25/world/asia/what-is-asean-summit-trump.html",
-    "id_key": "fefa5e8ed28555c0d393334c817daf44762b40ce495f78f0ef793641d086402b",
-    "summary": "President Trump is traveling to Malaysia for the event, his first destination in a nearly weeklong trip.",
-    "ingested_utc": "2025-10-27T17:32:23Z"
-  },
-  {
-    "published_utc": "2025-10-27",
-    "retrieved_date": "2025-10-27",
-    "retrieved_utc": "2025-10-27T17:30:36Z",
-    "source": "CryptoNews",
-    "title": "1inch and Innerworks Flip the Script on Hackers: Deploying AI-Powered Immune Layer",
-    "url": "https://cryptonews.com/news/1inch-and-innerworks-flip-the-script-on-hackers-deploying-ai-powered-immune-layer/",
-    "id_key": "33121cb43cfb8d119362c8cb051f533683573ffca14cf27f4cc25351f6ccaf93",
-    "summary": "1inch has expanded its security strategy through a collaboration with Innerworks, combining AI analysis with continuous ethical hacking to build adaptive defenses. The partnership advances DeFi safety by anticipating and neutralizing attacks before they impact users. The post 1inch and Innerworks Flip the Script on Hackers: Deploying AI-Powered Immune Layer appeared first on Cryptonews .",
-    "ingested_utc": "2025-10-27T17:30:36Z"
   }
 ]
