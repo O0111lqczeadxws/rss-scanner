@@ -2,6 +2,50 @@
   {
     "published_utc": "2025-10-29",
     "retrieved_date": "2025-10-29",
+    "retrieved_utc": "2025-10-29T04:05:30Z",
+    "source": "FinancialPost_Business",
+    "title": "Rivian CFO Says EV Maker Won’t Tap US Government Loan Until 2028",
+    "url": "https://financialpost.com/pmn/business-pmn/rivian-cfo-says-ev-maker-wont-tap-us-government-loan-until-2028",
+    "id_key": "285537fe7210ab2fbfb1772beeb80bd4e21f3d05bfc5d1bf17166b980249bd1c",
+    "summary": "Rivian Automotive Inc. expects to draw on a $6.6 billion US government loan after building a new plant in Georgia but before starting production in 2028, according to its chief financial officer.",
+    "ingested_utc": "2025-10-29T04:05:30Z"
+  },
+  {
+    "published_utc": "2025-10-29",
+    "retrieved_date": "2025-10-29",
+    "retrieved_utc": "2025-10-29T04:05:11Z",
+    "source": "TechCrunch_All",
+    "title": "LG Uplus is latest South Korean telco to confirm cybersecurity incident",
+    "url": "https://techcrunch.com/2025/10/28/lg-uplus-is-latest-south-korean-telco-to-confirm-cybersecurity-incident/",
+    "id_key": "f0433ada07f6e7ab1eed8c04c136d0dfa1e36d3ed3c18e9a2d0309031c3135fc",
+    "summary": "Korean telecom giant LG Uplus is the third major phone provider in the past six months to report a cybersecurity incident.",
+    "ingested_utc": "2025-10-29T04:05:11Z"
+  },
+  {
+    "published_utc": "2025-10-29",
+    "retrieved_date": "2025-10-29",
+    "retrieved_utc": "2025-10-29T04:05:10Z",
+    "source": "TheVerge_All",
+    "title": "Withings’ urine scanning health tracker is now available for $350",
+    "url": "https://www.theverge.com/news/808381/withings-u-scan-toilet-urine-test-health-nutrio-calci",
+    "id_key": "6114c217377165b96ae70f1e7bab8ab9a7a4d08dd7e3331d84ddfed6e44297b9",
+    "summary": "Withings first announced its U-Scan, a non-invasive device you install in your toilet to track various health metrics, at CES 2023 two years ago. Unlike Kohler’s Dekoda, which uses a camera to analyze your poop, the U-Scan detects and samples your urine, tests it using replaceable cartridges, and sends the results to the Withings app, […]",
+    "ingested_utc": "2025-10-29T04:05:10Z"
+  },
+  {
+    "published_utc": "2025-10-29",
+    "retrieved_date": "2025-10-29",
+    "retrieved_utc": "2025-10-29T04:02:26Z",
+    "source": "BBC_World",
+    "title": "Ben & Jerry's co-founder says Unilever blocked Palestine-themed ice cream",
+    "url": "https://www.bbc.com/news/articles/c1lqeqv9j9no?at_medium=RSS&at_campaign=rss",
+    "id_key": "6cf18c0500af5577cb126b94ae549876a48316221cb8b7eb378cce9139d86f2e",
+    "summary": "Ben Cohen says he will independently create the new watermelon flavour in support of \"permanent peace in Palestine\".",
+    "ingested_utc": "2025-10-29T04:02:26Z"
+  },
+  {
+    "published_utc": "2025-10-29",
+    "retrieved_date": "2025-10-29",
     "retrieved_utc": "2025-10-29T03:38:56Z",
     "source": "AlJazeera_All",
     "title": "As Trump and Xi near deal, few see letup in heated US-China rivalry",
@@ -10954,49 +10998,5 @@
     "id_key": "f78337fe4af2c82b519fc5a7fc1750f3f47135e1f9a396536bf9a4c755ef6cfc",
     "summary": "A Media Snippet accompanying this announcement is available by clicking on this link. TORONTO, Oct. 27, 2025 (GLOBE NEWSWIRE) — Ontario is facing a housing emergency. Projects are stalling, builders are cancelling developments, and families and individuals are being priced out of the market. As the provincial and federal governments prepare to release their fall […]",
     "ingested_utc": "2025-10-27T14:15:22Z"
-  },
-  {
-    "published_utc": "2025-10-27",
-    "retrieved_date": "2025-10-27",
-    "retrieved_utc": "2025-10-27T14:15:22Z",
-    "source": "FinancialPost_Business",
-    "title": "Front Row Insurance Brokers supports Banff Centre Mountain Film and Book Festival with $25,000 matching gift",
-    "url": "https://financialpost.com/globe-newswire/front-row-insurance-brokers-supports-banff-centre-mountain-film-and-book-festival-with-25000-matching-gift",
-    "id_key": "2ad6c16c97250eac22c0b2ca4453436e65bac5510875154373f28eace012c865",
-    "summary": "– Front Row Insurance Brokers (Front Row) is celebrating the festival’s 50th anniversary by contributing a $25,000 matching donation to the Banff Centre’s 50 for 50 campaign. The campaign is raising money for the Centre’s Artist Fund for emerging creators. – This year’s festival lineup highlights powerful themes of environmentalism, conservation and Indigenous perspectives. – […]",
-    "ingested_utc": "2025-10-27T14:15:22Z"
-  },
-  {
-    "published_utc": "2025-10-27",
-    "retrieved_date": "2025-10-27",
-    "retrieved_utc": "2025-10-27T14:15:14Z",
-    "source": "TheStreet_Top",
-    "title": "Top analyst calls 'kick in the pants' for S&P 500",
-    "url": "https://www.thestreet.com/investing/top-analyst-calls-kick-in-the-pants-for-sp-500",
-    "id_key": "0df8064dbc8d0d4b44cb4407f35a9635222684cd404371f48c78fd2d37f2a22c",
-    "summary": "Following its Oct. 24 close, the S&P 500 index is parked near 6,792, up on the week and continuing to flirt with record highs. Its three-month gain is also at a superb 8%, while the six-month trend stays clean and green. The recent spark has everything to do with the September CPI report, which ...",
-    "ingested_utc": "2025-10-27T14:15:14Z"
-  },
-  {
-    "published_utc": "2025-10-27",
-    "retrieved_date": "2025-10-27",
-    "retrieved_utc": "2025-10-27T14:15:03Z",
-    "source": "ArsTechnica_All",
-    "title": "New image-generating AIs are being used for fake expense reports",
-    "url": "https://arstechnica.com/ai/2025/10/ai-generated-receipts-make-submitting-fake-expenses-easier/",
-    "id_key": "8b93d7371f098d32439213a0249f140c3a8aec425bd514a67fd1319b795da078",
-    "summary": "Software provider AppZen said fake AI receipts accounted for about 14% of fraud attempts.",
-    "ingested_utc": "2025-10-27T14:15:03Z"
-  },
-  {
-    "published_utc": "2025-10-27",
-    "retrieved_date": "2025-10-27",
-    "retrieved_utc": "2025-10-27T14:15:01Z",
-    "source": "TheVerge_All",
-    "title": "‘Clinical-grade AI’: a new buzzy AI word that means absolutely nothing",
-    "url": "https://www.theverge.com/report/806887/clinical-grade-ai-buzzword",
-    "id_key": "bd0f09d06da5f4d6571ad6863a96524e0075339d2f6f7176f177b9d8f8f466f7",
-    "summary": "Earlier this month, Lyra Health announced a \"clinical-grade\" AI chatbot to help users with \"challenges\" like burnout, sleep disruptions, and stress. There are eighteen mentions of \"clinical\" in its press release, including \"clinically designed,\" \"clinically rigorous,\" and \"clinical training.\" For most people, myself included, \"clinical\" suggests \"medical.\" The problem is, it doesn't mean medical. In […]",
-    "ingested_utc": "2025-10-27T14:15:01Z"
   }
 ]
