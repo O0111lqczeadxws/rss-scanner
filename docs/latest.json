@@ -2,6 +2,83 @@
   {
     "published_utc": "2025-10-30",
     "retrieved_date": "2025-10-30",
+    "retrieved_utc": "2025-10-30T09:36:14Z",
+    "source": "Nikkei_Asia_Top",
+    "title": "Yen weakens to level not seen since February on BOJ's wage talk emphasis",
+    "url": "https://asia.nikkei.com/business/markets/currencies/yen-weakens-to-level-not-seen-since-february-on-boj-s-wage-talk-emphasis",
+    "id_key": "7fa3e80c2345798c183abad82593e9ceee2b3977c36cb156a79e37d94cf38bdc",
+    "summary": "",
+    "ingested_utc": "2025-10-30T09:36:14Z"
+  },
+  {
+    "published_utc": "2025-10-30",
+    "retrieved_date": "2025-10-30",
+    "retrieved_utc": "2025-10-30T09:36:05Z",
+    "source": "AlJazeera_All",
+    "title": "Civil society was “warning the international community for over a year”",
+    "url": "https://www.aljazeera.com/video/quotable/2025/10/30/civil-society-was-warning-the-international-community-for-over-a-year?traffic_source=rss",
+    "id_key": "5f1f08131e493605d698fb69b7997196892d0bd20e1ad2204f2aa8795d6a4aa7",
+    "summary": "Sudan specialist says the massacres taking place in the North Darfur should come as no surprise",
+    "ingested_utc": "2025-10-30T09:36:05Z"
+  },
+  {
+    "published_utc": "2025-10-30",
+    "retrieved_date": "2025-10-30",
+    "retrieved_utc": "2025-10-30T09:36:05Z",
+    "source": "AlJazeera_All",
+    "title": "Protests in Brazil after more than 100 killed in police raids",
+    "url": "https://www.aljazeera.com/video/newsfeed/2025/10/30/protests-in-brazil-after-more-than-100-killed-in-police-raids?traffic_source=rss",
+    "id_key": "41a1403bbfe4babfa0ed813bd66d7f18256b5f3955406190308ec5117cc3c23e",
+    "summary": "Protests broke out in Rio de Janeiro after police raids on drug gangs left at least 119 people dead.",
+    "ingested_utc": "2025-10-30T09:36:05Z"
+  },
+  {
+    "published_utc": "2025-10-30",
+    "retrieved_date": "2025-10-30",
+    "retrieved_utc": "2025-10-30T09:36:05Z",
+    "source": "AlJazeera_All",
+    "title": "Gaza residents fear more Israeli attacks, unable to rebuild their lives",
+    "url": "https://www.aljazeera.com/news/2025/10/30/gaza-residents-fear-more-israeli-attacks-unable-to-rebuild-their-lives?traffic_source=rss",
+    "id_key": "9a959148a79cb99458536dda00504fa567233f442c4fa593bccd8e4ad93e378d",
+    "summary": "Despite the US-brokered ceasefire between Israel and Hamas, Israeli attacks continue to kill Palestinians.",
+    "ingested_utc": "2025-10-30T09:36:05Z"
+  },
+  {
+    "published_utc": "2025-10-30",
+    "retrieved_date": "2025-10-30",
+    "retrieved_utc": "2025-10-30T09:34:41Z",
+    "source": "Nethermind_Releases",
+    "title": "1.35.1-rc",
+    "url": "https://github.com/NethermindEth/nethermind/releases/tag/1.35.1-rc",
+    "id_key": "0fe977ef35719ac384aa5ea605240a2bedbb1524d38a7fe8db0c48bb984ff915",
+    "summary": "Better message when eth_getFilterChanges is out of bounds ( #9451 )",
+    "ingested_utc": "2025-10-30T09:34:41Z"
+  },
+  {
+    "published_utc": "2025-10-30",
+    "retrieved_date": "2025-10-30",
+    "retrieved_utc": "2025-10-30T09:33:37Z",
+    "source": "CoinJournal",
+    "title": "Hong Kong’s SFC reviews digital asset treasuries as investor losses mount",
+    "url": "https://coinjournal.net/news/hong-kongs-sfc-reviews-digital-asset-treasuries-as-investor-losses-mount/",
+    "id_key": "d3b184b14a1c1dd000ccabbb40ec6b0be9b8eb7b06141b51a7fc43bdf0659e6d",
+    "summary": "Chairman Kelvin Wong warns of inflated DAT share prices. Boyaa Interactive and Ourgame International among affected firms. India and Australia also move to curb crypto-heavy listings. Hong Kong’s Securities and Futures Commission (SFC) has intensified its scrutiny of listed firms with digital asset treasuries (DATs) after findings suggested retail investors may have lost billions trading […] The post Hong Kong’s SFC reviews digital asset treasuries as investor losses mount appeared first on CoinJournal .",
+    "ingested_utc": "2025-10-30T09:33:37Z"
+  },
+  {
+    "published_utc": "2025-10-30",
+    "retrieved_date": "2025-10-30",
+    "retrieved_utc": "2025-10-30T09:33:36Z",
+    "source": "CryptoNews",
+    "title": "Wall Street’s Solana Bet Advances as Fidelity Updates ETF Filing",
+    "url": "https://cryptonews.com/news/wall-streets-solana-bet-advances-as-fidelity-updates-etf-filing/",
+    "id_key": "d2b355c8deccf407c46f744fe64849bb2be361c5554eb7a7875191e093a5b821",
+    "summary": "Fidelity pushes its Solana ETF toward launch with a full staking model and waived fees, entering a market where Bitwise and Grayscale have already captured significant institutional interest. The post Wall Street’s Solana Bet Advances as Fidelity Updates ETF Filing appeared first on Cryptonews .",
+    "ingested_utc": "2025-10-30T09:33:36Z"
+  },
+  {
+    "published_utc": "2025-10-30",
+    "retrieved_date": "2025-10-30",
     "retrieved_utc": "2025-10-30T09:16:10Z",
     "source": "Nikkei_Asia_Top",
     "title": "BOJ 'not behind the curve' says Gov. Ueda after standing pat",
@@ -10921,82 +10998,5 @@
     "id_key": "43355ccc49d469dc6313966823fa196d2d5e22d5888efa2ab4285ca7286a557e",
     "summary": "TORONTO, Oct. 28, 2025 (GLOBE NEWSWIRE) — Middlefield, on behalf of Discovery 2025 Short Duration LP (the “Partnership”), is pleased to announce the Partnership raised the maximum proceeds of $25 million upon its second & final closing of the initial public offering of Class A and Class F units. The objectives of the Partnership are […]",
     "ingested_utc": "2025-10-28T19:12:36Z"
-  },
-  {
-    "published_utc": "2025-10-28",
-    "retrieved_date": "2025-10-28",
-    "retrieved_utc": "2025-10-28T19:12:36Z",
-    "source": "FinancialPost_Business",
-    "title": "Colombia to Buy Gold From Small Miners to Curb Illegal Trade",
-    "url": "https://financialpost.com/pmn/business-pmn/colombia-to-buy-gold-from-small-miners-to-curb-illegal-trade",
-    "id_key": "cddf0eb660f5847483734d5fe06ee0e4480f24cfb326aa516aef180bc17489ea",
-    "summary": "Colombia’s government plans to start purchasing gold directly from small-scale producers in a bid to curb illegal activity and formalize an unregulated mining boom fueled by surging prices.",
-    "ingested_utc": "2025-10-28T19:12:36Z"
-  },
-  {
-    "published_utc": "2025-10-28",
-    "retrieved_date": "2025-10-28",
-    "retrieved_utc": "2025-10-28T19:12:17Z",
-    "source": "WIRED_All",
-    "title": "Donald Trump’s Truth Social Is Launching a Polymarket Competitor",
-    "url": "https://www.wired.com/story/trump-truth-social-launches-prediction-market/",
-    "id_key": "07fd7a93a45cef8cfa6cd831909648097fde3c4f50352d6a64fb0034af823f3a",
-    "summary": "As crypto-based prediction services attract a flood of attention and capital, the US president’s social media platform has announced plans to muscle in.",
-    "ingested_utc": "2025-10-28T19:12:17Z"
-  },
-  {
-    "published_utc": "2025-10-28",
-    "retrieved_date": "2025-10-28",
-    "retrieved_utc": "2025-10-28T19:12:16Z",
-    "source": "TechCrunch_All",
-    "title": "Netflix CTO announces interactive real-time voting for live content",
-    "url": "https://techcrunch.com/2025/10/28/netflix-cto-announces-interactive-real-time-voting-for-live-content/",
-    "id_key": "9da6fee4a6e031ba71dd047726ecf770f3247021892f15b30bccb2e663bcc16b",
-    "summary": "Viewers will be able to vote while watching live content to directly influence the outcome of what they're watching on their TV or mobile device.",
-    "ingested_utc": "2025-10-28T19:12:16Z"
-  },
-  {
-    "published_utc": "2025-10-28",
-    "retrieved_date": "2025-10-28",
-    "retrieved_utc": "2025-10-28T19:12:15Z",
-    "source": "TheVerge_All",
-    "title": "Amazon is ditching MMOs and cranking out party games",
-    "url": "https://www.theverge.com/news/808332/amazon-gaming-layoffs-mmo-aaa-first-party-games",
-    "id_key": "ae03fc91cdc082c553db7291c8598483f25db959a687b672790b31897104084b",
-    "summary": "As part of Amazon’s mass layoffs announced today, the company is making “significant” changes to its gaming division, including halting much of its work on first-party AAA MMOs, according to a memo from Steve Boom, VP of audio, Twitch, and games. “While we’re proud of our successes in first-party AAA game development and publishing, we […]",
-    "ingested_utc": "2025-10-28T19:12:15Z"
-  },
-  {
-    "published_utc": "2025-10-28",
-    "retrieved_date": "2025-10-28",
-    "retrieved_utc": "2025-10-28T19:12:15Z",
-    "source": "TheVerge_All",
-    "title": "The latest Apple TV 4K just received a rare $30 discount",
-    "url": "https://www.theverge.com/tech/808082/apple-tv-4k-third-gen-costco-deal-sale",
-    "id_key": "52e99811fbde80ae17a7e772fe3c70d1415f7c03644914c3d3a9aaddbeb27d0e",
-    "summary": "Apple’s 4K streaming device rarely goes on sale, but right now it’s available for its lowest price to date at Costco.com. Now through October 31st, Costco members can buy the third-gen Apple TV 4K online with an expanded 128GB of storage for just $119.99 ($30 off). If you’re not already a member, you can still […]",
-    "ingested_utc": "2025-10-28T19:12:15Z"
-  },
-  {
-    "published_utc": "2025-10-28",
-    "retrieved_date": "2025-10-28",
-    "retrieved_utc": "2025-10-28T19:11:53Z",
-    "source": "NPR_Top",
-    "title": "SNAP runs out of money Nov. 1. States are now figuring out how to feed millions of people",
-    "url": "https://www.npr.org/2025/10/28/g-s1-95189/snap-food-stamps-government-shutdown-november",
-    "id_key": "9d5c0ab5922313e60ea7a90d7cfc548c2554b887e63812e739755b7fce06ab82",
-    "summary": "As November looms, states are trying to sort what options they can offer beneficiaries to fill the gap in food assistance. Reporters from the NPR Network are covering the impact of this potential lapse in states across the country.",
-    "ingested_utc": "2025-10-28T19:11:53Z"
-  },
-  {
-    "published_utc": "2025-10-28",
-    "retrieved_date": "2025-10-28",
-    "retrieved_utc": "2025-10-28T19:11:38Z",
-    "source": "MarketWatch_Bulletins",
-    "title": "Inflation is quietly chipping away at most Americans’ main source of wealth",
-    "url": "https://www.marketwatch.com/bulletins/redirect/go?g=faeb9bf5-13bf-4c6a-aef9-46aa5ec2b1b4&mod=mw_rss_bulletins",
-    "id_key": "dd7176b3af9fe8e81f05cf91a9607524b486e79f5dd9428d3e0645a2d195aaf9",
-    "summary": "",
-    "ingested_utc": "2025-10-28T19:11:38Z"
   }
 ]
