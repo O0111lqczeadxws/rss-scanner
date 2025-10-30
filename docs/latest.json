@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-10-30",
     "retrieved_date": "2025-10-30",
+    "retrieved_utc": "2025-10-30T21:40:36Z",
+    "source": "HackerNews_Top",
+    "title": "If a pilot ejects, what is the autopilot programmed to do? (2018)",
+    "url": "https://aviation.stackexchange.com/questions/52862/if-a-pilot-ejects-what-is-the-autopilot-programmed-to-do",
+    "id_key": "e6c7b78c63df851df8d6b90db2d5cafe2ceb291105df24ce3ac40a58037b81b7",
+    "summary": "Comments",
+    "ingested_utc": "2025-10-30T21:40:36Z"
+  },
+  {
+    "published_utc": "2025-10-30",
+    "retrieved_date": "2025-10-30",
     "retrieved_utc": "2025-10-30T21:31:12Z",
     "source": "FinancialPost_Business",
     "title": "Bloom Energy Seeks $1.75 Billion Convertible After Stock Surge",
@@ -10987,16 +10998,5 @@
     "id_key": "8bae6d56bf5d3b8d68755e7ec1a0ac1f90962254aae6cb232d864ad44bb46dca",
     "summary": "Nearly three-quarters of Jamaica was without power, and the western half of the country was hit hardest. Blocked roads and communications outages were making it difficult to assess the destruction.",
     "ingested_utc": "2025-10-29T15:15:46Z"
-  },
-  {
-    "published_utc": "2025-10-29",
-    "retrieved_date": "2025-10-29",
-    "retrieved_utc": "2025-10-29T15:13:56Z",
-    "source": "CryptoNews",
-    "title": "Solana ETF Race Heats Up as Grayscale Joins Bitwise on Wall Street",
-    "url": "https://cryptonews.com/news/solana-etf-race-heats-up-as-grayscale-joins-bitwise-on-wall-street/",
-    "id_key": "695330d93e942950613cd1ce8d9fc0661768c24b423fff9fddf7d0cc26689849",
-    "summary": "Grayscale's Solana Trust ETF debuts on NYSE Arca with staking rewards and a 0.35% fee, entering a market where Bitwise already captured $69.5 million in first-day flows. The post Solana ETF Race Heats Up as Grayscale Joins Bitwise on Wall Street appeared first on Cryptonews .",
-    "ingested_utc": "2025-10-29T15:13:56Z"
   }
 ]
