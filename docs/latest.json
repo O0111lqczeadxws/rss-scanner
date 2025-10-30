@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-10-30",
     "retrieved_date": "2025-10-30",
+    "retrieved_utc": "2025-10-30T04:17:01Z",
+    "source": "Nikkei_Asia_Top",
+    "title": "Yen weakens 0.7% as BOJ holds rates steady",
+    "url": "https://asia.nikkei.com/business/markets/currencies/yen-weakens-0.7-as-boj-holds-rates-steady",
+    "id_key": "1106c40edb11b7014619865c7d79c0380e4e355e75058eba7f9beb6cdc806605",
+    "summary": "",
+    "ingested_utc": "2025-10-30T04:17:01Z"
+  },
+  {
+    "published_utc": "2025-10-30",
+    "retrieved_date": "2025-10-30",
+    "retrieved_utc": "2025-10-30T04:16:10Z",
+    "source": "NYTimes_World",
+    "title": "Syria’s Rocky Transition Brings New Waves of Displacement",
+    "url": "https://www.nytimes.com/2025/10/30/world/middleeast/syria-civil-war-displacement.html",
+    "id_key": "15ddab1c46ed26b6f207fd2acf6a5273d97d47258e5666f01b9e30f6d79667e3",
+    "summary": "More than 400,000 Syrians have been displaced in the year since the civil war ended, according to the United Nations, driven by a mix of sectarian violence, acts of revenge and property disputes.",
+    "ingested_utc": "2025-10-30T04:16:10Z"
+  },
+  {
+    "published_utc": "2025-10-30",
+    "retrieved_date": "2025-10-30",
+    "retrieved_utc": "2025-10-30T04:16:10Z",
+    "source": "NYTimes_World",
+    "title": "Inside the Louvre Jewel Heist That Shocked the World",
+    "url": "https://www.nytimes.com/2025/10/30/world/europe/inside-louvre-jewel-heist.html",
+    "id_key": "b482732fe2e07d145737cc5ca04bc3b00adaa9871ae878116e76e19ebb24f443",
+    "summary": "More than a week after thieves made off with treasures from the Louvre, a picture is emerging of a seemingly well-planned burglary that exploited security lapses at the museum and outpaced the police.",
+    "ingested_utc": "2025-10-30T04:16:10Z"
+  },
+  {
+    "published_utc": "2025-10-30",
+    "retrieved_date": "2025-10-30",
     "retrieved_utc": "2025-10-30T03:58:03Z",
     "source": "HackerNews_Top",
     "title": "IRCd service (2024)",
@@ -592,6 +625,17 @@
     "id_key": "9d9db569b66bb339ae0419725fc608d84e917ed9f6ba43f5d07c7be6bd8e8633",
     "summary": "Male Allies UK worries rise in chatbot ‘girlfriends’ will leave boys unable to socialise and respect boundaries The “hyper-personalised” nature of AI bots is drawing in teenage boys who now use them for therapy, companionship and relationships, according to research. A survey of boys in secondary schools by Male Allies UK found that just over a third said they were considering the idea of an AI friend, with growing concern about the rise of AI therapists and girlfriends. Continue reading...",
     "ingested_utc": "2025-10-30T00:54:43Z"
+  },
+  {
+    "published_utc": "2025-10-29",
+    "retrieved_date": "2025-10-30",
+    "retrieved_utc": "2025-10-30T04:13:56Z",
+    "source": "Guardian_World",
+    "title": "Centrist D66 party projected to win most seats in Dutch election",
+    "url": "https://www.theguardian.com/world/2025/oct/29/exit-poll-suggests-progressive-d66-party-will-become-largest-in-dutch-parliament",
+    "id_key": "963e5cc468b339c58759a3443ef0b776fe62939172fc988eb6cb6ef151891c6b",
+    "summary": "Result would pave the way for the Netherlands’ first out gay prime minister and end far-right populist Geert Wilders’ time in power The liberal-progressive D66 party was forecast to become the largest in the Dutch parliament, after a snap general election in which Geert Wilders’ far-right Freedom party was predicted to lose a third of its seats. With half of all votes counted early on Thursday, the centrist D66 party was projected to win 27 seats in the 150-seat assembly, beating the Freedom party on 25. Continue reading...",
+    "ingested_utc": "2025-10-30T04:13:56Z"
   },
   {
     "published_utc": "2025-10-29",
@@ -10954,49 +10998,5 @@
     "id_key": "321f2440756db768fd891eb0bd18e1e9a12137407ee16effedbe8d6a21a7a4af",
     "summary": "Monad launched its airdrop reveal for eligible community members. The Layer 1 blockchain, known for EVM compatibility and high performance. The post Monad announces Monad airdrop reveal is live for participants appeared first on Crypto Briefing .",
     "ingested_utc": "2025-10-28T16:57:35Z"
-  },
-  {
-    "published_utc": "2025-10-28",
-    "retrieved_date": "2025-10-28",
-    "retrieved_utc": "2025-10-28T16:57:35Z",
-    "source": "CryptoBriefing",
-    "title": "OceanPal announces $120M PIPE investment for NEAR-powered SovereignAI",
-    "url": "https://cryptobriefing.com/oceanpal-120m-pipe-near-sovereignai/",
-    "id_key": "be8dc6de6e99bae255232ab8c9e777c28113df4bd8a72c9e298bc12d7c432dd1",
-    "summary": "OceanPal closed a $120M PIPE transaction for SovereignAI, which will build an AI-cloud infrastructure using NVIDIA tech and powered by NEAR. The post OceanPal announces $120M PIPE investment for NEAR-powered SovereignAI appeared first on Crypto Briefing .",
-    "ingested_utc": "2025-10-28T16:57:35Z"
-  },
-  {
-    "published_utc": "2025-10-28",
-    "retrieved_date": "2025-10-28",
-    "retrieved_utc": "2025-10-28T16:47:14Z",
-    "source": "HackerNews_Top",
-    "title": "HOPL: The Human Only Public License",
-    "url": "https://vanderessen.com/posts/hopl/",
-    "id_key": "1c8889d1f3ecebca26a8c6825c20c53692a2b5a51f0b520ea8276b6c6e472ae2",
-    "summary": "Comments",
-    "ingested_utc": "2025-10-28T16:47:14Z"
-  },
-  {
-    "published_utc": "2025-10-28",
-    "retrieved_date": "2025-10-28",
-    "retrieved_utc": "2025-10-28T16:47:03Z",
-    "source": "FinancialPost_Business",
-    "title": "Canada is in a small club of countries with a AAA credit rating. How long can it last?",
-    "url": "https://financialpost.com/news/economy/canada-club-of-countries-with-aaa-credit-rating",
-    "id_key": "78dd651b9720e98b10ea7ae79a9d2f00c4c0f9f0aec1f9f805f0db4b17c69029",
-    "summary": "As part of the the Financial Post's Red Ink series, Alberta Central economist Charles St-Arnaud explores whether Canada really deserves its vaunted credit rating amid growing fiscal challenges",
-    "ingested_utc": "2025-10-28T16:47:03Z"
-  },
-  {
-    "published_utc": "2025-10-28",
-    "retrieved_date": "2025-10-28",
-    "retrieved_utc": "2025-10-28T16:47:03Z",
-    "source": "FinancialPost_Business",
-    "title": "Stock market bulls see S&P 500 rising above 7,000 as Magnificent 7 earnings loom",
-    "url": "https://financialpost.com/investing/stock-market-bulls-sp-500-mag-7-earnings",
-    "id_key": "ffa45bfdee727288cdd3f675269d8a01eba971421f3671685a118eb759520af5",
-    "summary": "The optimism will get a stiff test this week, as five of the tech behemoths report results",
-    "ingested_utc": "2025-10-28T16:47:03Z"
   }
 ]
