@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-10-31",
     "retrieved_date": "2025-10-31",
+    "retrieved_utc": "2025-10-31T07:40:54Z",
+    "source": "Nikkei_Asia_Top",
+    "title": "Five Hong Kong family offices unveil $100m fund eyeing private credit",
+    "url": "https://asia.nikkei.com/business/markets/wealth-management/five-hong-kong-family-offices-unveil-100m-fund-eyeing-private-credit",
+    "id_key": "b55378f6735bdb6b9898552d433c4fd8b8a592bd3a4b36b3b62c88184ed5cb30",
+    "summary": "",
+    "ingested_utc": "2025-10-31T07:40:54Z"
+  },
+  {
+    "published_utc": "2025-10-31",
+    "retrieved_date": "2025-10-31",
+    "retrieved_utc": "2025-10-31T07:37:54Z",
+    "source": "BBC_World",
+    "title": "Apartheid police assault killed Nobel laureate Luthuli, South Africa court rules",
+    "url": "https://www.bbc.com/news/articles/c874yqvdr13o?at_medium=RSS&at_campaign=rss",
+    "id_key": "135ce0cd494ac611a2451ffef0163c891b4426ad40304852a1f6f9d73fa69c31",
+    "summary": "The court sets aside the 1967 inquest that found that the anti-apartheid hero was hit by a goods train.",
+    "ingested_utc": "2025-10-31T07:37:54Z"
+  },
+  {
+    "published_utc": "2025-10-31",
+    "retrieved_date": "2025-10-31",
     "retrieved_utc": "2025-10-31T07:31:20Z",
     "source": "FinancialPost_Business",
     "title": "Shares in Asia mostly retreat despite Trump’s trade truce with Xi",
@@ -10976,27 +10998,5 @@
     "id_key": "c349da932512ed5d25d76d67a6d8825b923d8a48238ed4fc75330687401dab50",
     "summary": "A new benchmark measures how well AI agents can automate economically valuable chores. Human-level AI is still some ways off.",
     "ingested_utc": "2025-10-29T18:19:48Z"
-  },
-  {
-    "published_utc": "2025-10-29",
-    "retrieved_date": "2025-10-29",
-    "retrieved_utc": "2025-10-29T18:19:46Z",
-    "source": "TheVerge_All",
-    "title": "The Outer Worlds 2&#8217;s satire has a Microsoft-shaped problem",
-    "url": "https://www.theverge.com/entertainment/809022/the-outer-worlds-2-corporate-satire-interview-xbox",
-    "id_key": "db7673e0f1f9a01ef5aeb7cb345040fb5d89574f8780b45bc0770c8d60b28af7",
-    "summary": "Almost immediately in The Outer Worlds 2, the player receives news of a corporate shake-up: Auntie Cleo and Spacer's Choice, two of the in-game retail brands, have merged to form Auntie's Choice. Less a chain of stores and more a feudal power, Auntie's Choice manages its employees - serfs, really - with the cruelty of […]",
-    "ingested_utc": "2025-10-29T18:19:46Z"
-  },
-  {
-    "published_utc": "2025-10-29",
-    "retrieved_date": "2025-10-29",
-    "retrieved_utc": "2025-10-29T18:19:46Z",
-    "source": "TheVerge_All",
-    "title": "Anker’s fast 2-in-1 USB-C cable is less than $20 right now",
-    "url": "https://www.theverge.com/tech/809180/anker-140w-2-in-1-usb-c-cable-deal-sale",
-    "id_key": "06e11301cea6115a18dc18900fc108eba5ec146834c7dab000627500534e4526",
-    "summary": "The thing about carrying multiple devices is you usually end up hauling a nest of cables along with them. Now imagine trimming your kit down to a single, versatile cord that can provide power to your smartphone and laptop simultaneously. That’s where Anker’s 140W 2-in-1 USB-C to USB-C Cable comes in, and right now you […]",
-    "ingested_utc": "2025-10-29T18:19:46Z"
   }
 ]
