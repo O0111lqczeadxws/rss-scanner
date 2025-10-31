@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-10-31",
     "retrieved_date": "2025-10-31",
+    "retrieved_utc": "2025-10-31T07:31:20Z",
+    "source": "FinancialPost_Business",
+    "title": "Shares in Asia mostly retreat despite Trump’s trade truce with Xi",
+    "url": "https://financialpost.com/pmn/shares-in-asia-are-mixed-and-chinese-markets-fall-despite-trumps-trade-truce-with-xi",
+    "id_key": "5158dac451a3f5f67fc58ce0c7d4f6651da531037183db33cc5946c92b5fca5a",
+    "summary": "MANILA, Philippines (AP) — Asian shares were mostly lower Friday after U.S. stocks fell back following President Donald Trump’s meeting with China’s leader, Xi Jinping. Despite the two leaders’ agreement to extend a truce in the trade war between the two largest economies, Chinese markets declined on concerns over persisting tensions between Washington and Beijing. […]",
+    "ingested_utc": "2025-10-31T07:31:20Z"
+  },
+  {
+    "published_utc": "2025-10-31",
+    "retrieved_date": "2025-10-31",
+    "retrieved_utc": "2025-10-31T07:28:31Z",
+    "source": "Guardian_World",
+    "title": "Liberals hold cordial party room after public brawling but chasm on net zero remains",
+    "url": "https://www.theguardian.com/australia-news/2025/oct/31/liberals-sussan-ley-party-room-chasm-on-net-zero-remains",
+    "id_key": "97abe0f275076d8076f9f08ba177b165332271f2bcb32bbeb176c8ffa906cc5c",
+    "summary": "Regional and metropolitan MPs at loggerheads as members warned not to ‘verbal’ each other over the issue Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast After months of public and private brawling, the Liberals had what many described as a respectful, cordial and constructive meeting about net zero. Some participants joked that was almost news in itself. Continue reading...",
+    "ingested_utc": "2025-10-31T07:28:31Z"
+  },
+  {
+    "published_utc": "2025-10-31",
+    "retrieved_date": "2025-10-31",
     "retrieved_utc": "2025-10-31T07:14:29Z",
     "source": "FinancialPost_Business",
     "title": "Fresnillo to Acquire Probe Gold for C$780 Million",
@@ -10976,27 +10998,5 @@
     "id_key": "06e11301cea6115a18dc18900fc108eba5ec146834c7dab000627500534e4526",
     "summary": "The thing about carrying multiple devices is you usually end up hauling a nest of cables along with them. Now imagine trimming your kit down to a single, versatile cord that can provide power to your smartphone and laptop simultaneously. That’s where Anker’s 140W 2-in-1 USB-C to USB-C Cable comes in, and right now you […]",
     "ingested_utc": "2025-10-29T18:19:46Z"
-  },
-  {
-    "published_utc": "2025-10-29",
-    "retrieved_date": "2025-10-29",
-    "retrieved_utc": "2025-10-29T18:19:46Z",
-    "source": "TechCrunch_All",
-    "title": "Microsoft Azure is down, affecting 365, Xbox, Minecraft, and others",
-    "url": "https://techcrunch.com/2025/10/29/microsoft-azure-is-down-affecting-365-xbox-minecraft-and-others/",
-    "id_key": "bbc665cf370637eb83e6823579b1f1a9ee4c7de31a1eb9dba03da2d45494a30d",
-    "summary": "Microsoft Azure is facing a significant outage, with services affected like Microsoft 365, Xbox, and Minecraft.",
-    "ingested_utc": "2025-10-29T18:19:46Z"
-  },
-  {
-    "published_utc": "2025-10-29",
-    "retrieved_date": "2025-10-29",
-    "retrieved_utc": "2025-10-29T18:19:30Z",
-    "source": "FT_Home",
-    "title": "Fed signals it will halt QT as it cuts rates by a quarter point",
-    "url": "https://www.ft.com/content/dd938de1-f8c3-4e5f-b58b-412ac80579fd",
-    "id_key": "e4e48c5f26b4eebaa5a45c54763ca7fcaccf881460bbb7fa673b2a9717531d26",
-    "summary": "Moves ease funding conditions amid signs of stress in money markets and weakness in labour market",
-    "ingested_utc": "2025-10-29T18:19:30Z"
   }
 ]
