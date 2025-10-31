@@ -2,6 +2,61 @@
   {
     "published_utc": "2025-10-31",
     "retrieved_date": "2025-10-31",
+    "retrieved_utc": "2025-10-31T17:14:20Z",
+    "source": "Nikkei_Asia_Top",
+    "title": "Nearly 40% of top Japanese companies raise profit estimates amid AI boom",
+    "url": "https://asia.nikkei.com/business/companies/nearly-40-of-top-japanese-companies-raise-profit-estimates-amid-ai-boom",
+    "id_key": "96f90f3559a62fc846785c68140431e588412a600a7977998286c595885213c9",
+    "summary": "",
+    "ingested_utc": "2025-10-31T17:14:20Z"
+  },
+  {
+    "published_utc": "2025-10-31",
+    "retrieved_date": "2025-10-31",
+    "retrieved_utc": "2025-10-31T17:14:18Z",
+    "source": "FinancialPost_Business",
+    "title": "Blue Jays backers are basking in the World Series glow. How long will it last?",
+    "url": "https://financialpost.com/pmn/blue-jays-backers-are-basking-in-the-world-series-glow-how-long-will-it-last",
+    "id_key": "ea0a8a505d786ac5607b0e9441ffd6a45c2239100f7cfbdcd523f1cc62784734",
+    "summary": "TORONTO — When the Toronto Blue Jays started their playoff run, something more than a World Series was brewing. Tim Hortons, which has partnered with the baseball team for roughly 20 years, was working on turning its hot beverage cups blue and emblazoning them with a Jays logo. Almost immediately after their Oct. 12 release […]",
+    "ingested_utc": "2025-10-31T17:14:18Z"
+  },
+  {
+    "published_utc": "2025-10-31",
+    "retrieved_date": "2025-10-31",
+    "retrieved_utc": "2025-10-31T17:13:58Z",
+    "source": "TechCrunch_All",
+    "title": "AWS exceeds Wall Street’s expectations as demand for cloud infra remains high",
+    "url": "https://techcrunch.com/2025/10/31/aws-exceeds-wall-streets-expectations-as-demand-for-cloud-infra-remains-high/",
+    "id_key": "de82c8073477215d8604f3edd6408290bfd6915c03ec57d7b448a6468a00716f",
+    "summary": "AWS continues to see strong demand as companies gobble up its cloud infrastructure services in the age of AI.",
+    "ingested_utc": "2025-10-31T17:13:58Z"
+  },
+  {
+    "published_utc": "2025-10-31",
+    "retrieved_date": "2025-10-31",
+    "retrieved_utc": "2025-10-31T17:13:29Z",
+    "source": "NYTimes_Business",
+    "title": "As Government Shutdown Slows Air Traffic Training, These Schools Are Stepping In",
+    "url": "https://www.nytimes.com/2025/10/31/us/politics/air-traffic-control-training-shutdown.html",
+    "id_key": "1d62ba31511cdb9fd8f9b6cb808902a7a494d76429c558da2102fa4505831952",
+    "summary": "New programs cannot turn out the numbers needed to make up for the controller shortfall. But they hope to have a higher success rate than the Federal Aviation Agency’s official academy.",
+    "ingested_utc": "2025-10-31T17:13:29Z"
+  },
+  {
+    "published_utc": "2025-10-31",
+    "retrieved_date": "2025-10-31",
+    "retrieved_utc": "2025-10-31T17:11:41Z",
+    "source": "Protos",
+    "title": "DeFi karma: Garden hacked for $11M after bridging Lazarus’ loot",
+    "url": "https://protos.com/defi-karma-garden-hacked-for-11m-after-bridging-lazarus-loot/",
+    "id_key": "6c7cdd18abbbdd935e76f4179040c069413f223da8e59a2c1bbdbd7357f77056",
+    "summary": "Garden was criticized for profiting from proceeds of other hacks, which investigators claim make up a quarter of the bridge's volume. The post DeFi karma: Garden hacked for $11M after bridging Lazarus’ loot appeared first on Protos .",
+    "ingested_utc": "2025-10-31T17:11:41Z"
+  },
+  {
+    "published_utc": "2025-10-31",
+    "retrieved_date": "2025-10-31",
     "retrieved_utc": "2025-10-31T16:57:10Z",
     "source": "FinancialPost_Business",
     "title": "Meta, xAI starting trend for billions in off-balance sheet debt",
@@ -10943,60 +10998,5 @@
     "id_key": "15ddab1c46ed26b6f207fd2acf6a5273d97d47258e5666f01b9e30f6d79667e3",
     "summary": "More than 400,000 Syrians have been displaced in the year since the civil war ended, according to the United Nations, driven by a mix of sectarian violence, acts of revenge and property disputes.",
     "ingested_utc": "2025-10-30T04:16:10Z"
-  },
-  {
-    "published_utc": "2025-10-30",
-    "retrieved_date": "2025-10-30",
-    "retrieved_utc": "2025-10-30T04:16:10Z",
-    "source": "NYTimes_World",
-    "title": "Inside the Louvre Jewel Heist That Shocked the World",
-    "url": "https://www.nytimes.com/2025/10/30/world/europe/inside-louvre-jewel-heist.html",
-    "id_key": "b482732fe2e07d145737cc5ca04bc3b00adaa9871ae878116e76e19ebb24f443",
-    "summary": "More than a week after thieves made off with treasures from the Louvre, a picture is emerging of a seemingly well-planned burglary that exploited security lapses at the museum and outpaced the police.",
-    "ingested_utc": "2025-10-30T04:16:10Z"
-  },
-  {
-    "published_utc": "2025-10-30",
-    "retrieved_date": "2025-10-30",
-    "retrieved_utc": "2025-10-30T03:58:03Z",
-    "source": "HackerNews_Top",
-    "title": "IRCd service (2024)",
-    "url": "https://example.fi/blog/ircd.html",
-    "id_key": "a66b3e801f3bbc9f33b6d449c98e1d111a4712b09f5d79217a341a0a6573654d",
-    "summary": "Comments",
-    "ingested_utc": "2025-10-30T03:58:03Z"
-  },
-  {
-    "published_utc": "2025-10-30",
-    "retrieved_date": "2025-10-30",
-    "retrieved_utc": "2025-10-30T03:54:53Z",
-    "source": "Guardian_World",
-    "title": "Donald Trump praises ‘great’ Washington meeting with Anthony Albanese as leaders dine at Apec",
-    "url": "https://www.theguardian.com/australia-news/2025/oct/30/donald-trump-anthony-albanese-apec-dinner-gyeongju-south-korea",
-    "id_key": "5bd917637491e6f66f98b173e3073a2d6db1db9960175815c74ee6895e577266",
-    "summary": "US president tells reporters he and Australian PM ‘working on a lot of things together’ Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast After waiting a long time to meet Donald Trump, Anthony Albanese has now done so twice in 10 days, as his US counterpart talks up cooperation on rare earths and other issues. Albanese followed last week’s trip to Washington by sitting next to the US president on Wednesday evening at the Asia-Pacific Economic Cooperation (Apec) summit dinner in Gyeongju, South Korea. Continue reading...",
-    "ingested_utc": "2025-10-30T03:54:53Z"
-  },
-  {
-    "published_utc": "2025-10-30",
-    "retrieved_date": "2025-10-30",
-    "retrieved_utc": "2025-10-30T03:54:53Z",
-    "source": "Guardian_World",
-    "title": "Australia politics live: Bridget McKenzie accuses PM of ‘bullying’ Senate chamber as extended question time threatens to erupt",
-    "url": "https://www.theguardian.com/australia-news/live/2025/oct/30/anthony-albanese-donald-trump-meeting-murray-watt-epbc-nature-laws-press-club-parliament-labor-coalition-sussan-ley-ntwnfb",
-    "id_key": "0d1580bbdd1d94f056eb44c28ddce7640dec493998af871fe441859c6b75bc88",
-    "summary": "Follow updates live Get our breaking news email , free app or daily news podcast Australians should be ‘alarmed’ if Labor negotiates with Greens on environment bill I told you it would be environment-heavy didn’t I! I think Australians should be alarmed at the thought that Labor would go to the Greens and do a deal on this, because our country would be much worse off. Let’s look at the wealth of our nation and where that wealth has come from. Let’s look at where the money goes from mining into the coffers of state governments, and how they then deliver on hospitals and schools around their nation and infrastructure … We are a long way from doing a deal with Labor on this. Continue reading...",
-    "ingested_utc": "2025-10-30T03:54:53Z"
-  },
-  {
-    "published_utc": "2025-10-30",
-    "retrieved_date": "2025-10-30",
-    "retrieved_utc": "2025-10-30T03:54:50Z",
-    "source": "BBC_Business",
-    "title": "Tit-for-tat tariffs, a shaky truce and turmoil: How we got to the Trump-Xi meeting",
-    "url": "https://www.bbc.com/news/articles/c986j98qmj1o?at_medium=RSS&at_campaign=rss",
-    "id_key": "bcc4e942bc3f7d556b250ba0b473fb973ac33954a0f11e80a90c98b312550722",
-    "summary": "US President Donald Trump and Chinese leader Xi Jinping are meeting to discuss a trade deal.",
-    "ingested_utc": "2025-10-30T03:54:50Z"
   }
 ]
