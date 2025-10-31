@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-10-31",
     "retrieved_date": "2025-10-31",
+    "retrieved_utc": "2025-10-31T04:02:13Z",
+    "source": "FinancialPost_Business",
+    "title": "China’s factory activity contracts for 7th month, reflecting tariffs pressure on trade",
+    "url": "https://financialpost.com/pmn/chinas-factory-activity-contracts-for-7th-month-reflecting-tariffs-pressure-on-trade",
+    "id_key": "a43d16af0f53c323301be84ee1bca453c95e3aa5af3c26fd492dfeb97ec2dc38",
+    "summary": "HONG KONG (AP) — China’s factory activity contracted for the seventh consecutive month in October, the government said Friday, as a newly announced truce in the trade war between the U.S. and China offers some hope for a stronger recovery in exports. The official manufacturing purchasing managers index slipped to 49 in October from 49.8 […]",
+    "ingested_utc": "2025-10-31T04:02:13Z"
+  },
+  {
+    "published_utc": "2025-10-31",
+    "retrieved_date": "2025-10-31",
     "retrieved_utc": "2025-10-31T03:33:34Z",
     "source": "NYTimes_Business",
     "title": "JPMorgan Alerted U.S. to Epstein Transfers Involving Wall St. Figures",
@@ -10987,16 +10998,5 @@
     "id_key": "912350d3db2d011b0c041ef804b33736e1dd2027e80afacce4e669ac26e11ccc",
     "summary": "Statement follows FT reporting on crude purchases that had been transported on sanctioned vessels",
     "ingested_utc": "2025-10-29T17:17:29Z"
-  },
-  {
-    "published_utc": "2025-10-29",
-    "retrieved_date": "2025-10-29",
-    "retrieved_utc": "2025-10-29T17:15:19Z",
-    "source": "CryptoSlate",
-    "title": "Are Ethereum ETFs a price headwind?",
-    "url": "https://cryptoslate.com/are-ethereum-etfs-a-price-headwind/",
-    "id_key": "9676f8179b4f3b9c8c46f529251de96a1b332ad8ecbeed559d115638e20221d1",
-    "summary": "US-traded spot Ethereum exchange-traded funds (ETFs) recorded persistent outflows during late September and mid-October, periods that coincided with relative weakness in the ETH/BTC ratio. Yet, non-US inflows and continued staking growth blunted the price impact, suggesting the headwind is episodic rather than structural. The question of whether ETF redemptions drive Ether’s underperformance against Bitcoin requires […] The post Are Ethereum ETFs a price headwind? appeared first on CryptoSlate .",
-    "ingested_utc": "2025-10-29T17:15:19Z"
   }
 ]
