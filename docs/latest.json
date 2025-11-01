@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-11-01",
     "retrieved_date": "2025-11-01",
+    "retrieved_utc": "2025-11-01T20:39:21Z",
+    "source": "BBC_World",
+    "title": "Anger lingers in Serbia a year after train station tragedy",
+    "url": "https://www.bbc.com/news/articles/ckgkk841r4eo?at_medium=RSS&at_campaign=rss",
+    "id_key": "d50850d7787755c36b14c226c6c989072f8919517c2c8ff373d3c2886caca5f0",
+    "summary": "Novi Sad train station was a symbol of the new Serbia but the collapse showed nothing had changed.",
+    "ingested_utc": "2025-11-01T20:39:21Z"
+  },
+  {
+    "published_utc": "2025-11-01",
+    "retrieved_date": "2025-11-01",
+    "retrieved_utc": "2025-11-01T20:39:01Z",
+    "source": "Optimism_Releases",
+    "title": "op-node/v1.16.0 - Jovian Hardfork",
+    "url": "https://github.com/ethereum-optimism/optimism/releases/tag/op-node%2Fv1.16.0",
+    "id_key": "1d192d1332c8daa995509ce56de537a2eb563d40d0ae3a86fdc42d883651d9b2",
+    "summary": "Important This is a required upgrade if you are operating a node for an OP Chain that will be activating Jovian Jovian activates on the Sepolia Superchain Wed 12 Nov 2025 16:00:01 UTC ( 1762963201 ) Jovian will optimistically activate on the Mainnet Superchain Tue 25 Nov 2025 16:00:01 UTC ( 1764086401 ) as it contains the Jovian activation on these dates. This PR enumerates the chains which will activate Jovian at the timestamps above. It is mandatory to upgrade nodes for those chains before the corresponding dates above. 🤝 The corresponding mandatory op-geth release is v1.101603.3 . Chain operators also need to upgrade op-conductor to op-conductor/v0.9.0 . Warning Any chain currently using the operator fee feature should adjust their scalars before Jovian activates. What's Changed go: Update op-geth dependency to update Jovian timestamps by @sebastianst in #18048 op-acceptance-tests: various improvements to the Fusaka acceptance test by @joshklop in #17944 go: update op-geth import to include scr jovian timestamps by @bitwiseguy in #18016 op-e2e/actions: Add Jovian DA footprint test by @sebastianst in #17947 op-node/rollup: Drop non-empty batches for Jovian activation block by @sebastianst in #17984 🚢 Docker Image: https://us-docker.pkg.dev/oplabs-tools-artifacts/images/op-node:v1.16.0 Full Changelog : op-node/v1.14.3...op-node/v1.16.0",
+    "ingested_utc": "2025-11-01T20:39:01Z"
+  },
+  {
+    "published_utc": "2025-11-01",
+    "retrieved_date": "2025-11-01",
     "retrieved_utc": "2025-11-01T20:31:23Z",
     "source": "FinancialPost_Business",
     "title": "Egypt Unveils $1 Billion Grand Museum as a ‘Gift to the World’",
@@ -10976,27 +10998,5 @@
     "id_key": "1655bf51db1850f07b9541b093f97d500ec597148abe7a55c2c091f1be329af9",
     "summary": "Deal’s collapse could hurt CoreWeave plans to meet growth targets that have driven soaring stock price",
     "ingested_utc": "2025-10-30T15:15:42Z"
-  },
-  {
-    "published_utc": "2025-10-30",
-    "retrieved_date": "2025-10-30",
-    "retrieved_utc": "2025-10-30T15:15:42Z",
-    "source": "FT_Home",
-    "title": "VW warns of €5bn tariff impact after first loss since Covid",
-    "url": "https://www.ft.com/content/aae5d26f-605d-4868-9f77-f442de763653",
-    "id_key": "9407aea6d8d5f639b6815b3b63257aab5d097d3d120b89f723e27151facd1f01",
-    "summary": "Europe’s largest carmaker among hardest hit by Donald Trump’s trade war",
-    "ingested_utc": "2025-10-30T15:15:42Z"
-  },
-  {
-    "published_utc": "2025-10-30",
-    "retrieved_date": "2025-10-30",
-    "retrieved_utc": "2025-10-30T15:15:30Z",
-    "source": "NYTimes_Business",
-    "title": "Study Finds Evidence That Text-Based Therapy Eases Depression",
-    "url": "https://www.nytimes.com/2025/10/30/health/text-therapy-effectiveness.html",
-    "id_key": "aa0da887e24086b0625491a737278603b0887d07c54426511d2297f707afd038",
-    "summary": "A large-scale randomized trial of texting therapy concluded that its outcomes were as good as video sessions in treating depression.",
-    "ingested_utc": "2025-10-30T15:15:30Z"
   }
 ]
