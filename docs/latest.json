@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-11-01",
     "retrieved_date": "2025-11-01",
+    "retrieved_utc": "2025-11-01T23:47:17Z",
+    "source": "BBC_World",
+    "title": "300 million tourists just visited China's stunning Xinjiang region. There's a side they didn't see",
+    "url": "https://www.bbc.com/news/articles/c8x1rnnd5gjo?at_medium=RSS&at_campaign=rss",
+    "id_key": "ae54f50d548a2c94f80eb453e21c7475f4abbb76d9739c822ead25d5fdf39506",
+    "summary": "China has repackaged Xinjiang into a tourist haven, touting \"ethnic\" experiences that activists say it's trying to erase.",
+    "ingested_utc": "2025-11-01T23:47:17Z"
+  },
+  {
+    "published_utc": "2025-11-01",
+    "retrieved_date": "2025-11-01",
     "retrieved_utc": "2025-11-01T23:36:53Z",
     "source": "TheStreet_Top",
     "title": "Weekly Market Wrap: First Solar, Amazon lead,  Starbucks slips",
@@ -10987,16 +10998,5 @@
     "id_key": "bfe94e80e0038793a8da8b4183de7adec32f90f7f1ebee7c5b9c3a20b551bc09",
     "summary": "SEGG Media's initiative highlights the increasing corporate trend of leveraging digital assets for treasury management, potentially boosting market legitimacy. The post SEGG Media plans $300 million digital asset initiative, with initial emphasis on Bitcoin appeared first on Crypto Briefing .",
     "ingested_utc": "2025-10-30T15:51:45Z"
-  },
-  {
-    "published_utc": "2025-10-30",
-    "retrieved_date": "2025-10-30",
-    "retrieved_utc": "2025-10-30T15:51:24Z",
-    "source": "Guardian_World",
-    "title": "Prince and Princess of Wales win privacy case against Paris Match",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/30/prince-william-and-catherine-princess-of-wales-win-privacy-case-against-paris-match",
-    "id_key": "b1acbc6df097b23978d552c377565e8850f022c9f41bc8d6684a29189304c1a1",
-    "summary": "French magazine publishes judicial notice after publishing paparazzi images of family holiday in Alps The Prince and Princess of Wales have won a privacy case against a French magazine after it published paparazzi photographs of them and their children on a private family ski holiday, Kensington Palace said. William and Catherine launched legal action after their break was featured in Paris Match magazine in April, with a series of images documenting their activities with their children at a French resort in the Alps. Continue reading...",
-    "ingested_utc": "2025-10-30T15:51:24Z"
   }
 ]
