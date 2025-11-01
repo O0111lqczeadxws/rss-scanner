@@ -475,6 +475,17 @@
   {
     "published_utc": "2025-10-31",
     "retrieved_date": "2025-11-01",
+    "retrieved_utc": "2025-11-01T08:37:29Z",
+    "source": "HackerNews_Top",
+    "title": "Myths Programmers Believe about CPU Caches",
+    "url": "https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/",
+    "id_key": "2c9f64271767a318e9428bf9b27613be82e894b8d46583c29f2f57ec3718cff3",
+    "summary": "Comments",
+    "ingested_utc": "2025-11-01T08:37:29Z"
+  },
+  {
+    "published_utc": "2025-10-31",
+    "retrieved_date": "2025-11-01",
     "retrieved_utc": "2025-11-01T03:34:03Z",
     "source": "HackerNews_Top",
     "title": "S.A.R.C.A.S.M: Slightly Annoying Rubik's Cube Automatic Solving Machine",
@@ -10986,17 +10997,6 @@
     "url": "https://www.theguardian.com/us-news/2025/oct/30/illinois-ice-halloween-jb-pritzker",
     "id_key": "a5a0815c41a6d95e9c073d7b0fee6b1fa64473bb5bd7906b5fd9f908474a9ace",
     "summary": "JB Pritzker urges suspension of immigration crackdown to let children ‘spend Halloween weekend without fear’ JB Pritzker, the governor of Illinois, has urged the Trump administration to suspend its immigration crackdown in his state from Friday to Sunday, to allow children to “spend Halloween weekend without fear”. In a letter addressed to the homeland security secretary, Kristi Noem, and the heads of Immigration and Customs Enforcement ( ICE ) and Customs and Border Protection (CBP), Pritzker said federal agents were “ignoring their duty to protect the public and uphold the Constitution” by conducting raids and arrests in line with the US president’s mass deportation agenda . The Democrat said such raids had “endangered the lives of innocent community members and traumatized children”. Continue reading...",
-    "ingested_utc": "2025-10-30T13:05:46Z"
-  },
-  {
-    "published_utc": "2025-10-30",
-    "retrieved_date": "2025-10-30",
-    "retrieved_utc": "2025-10-30T13:05:46Z",
-    "source": "Guardian_World",
-    "title": "Senators demand answers on ICE’s use of full-body restraints on deportees",
-    "url": "https://www.theguardian.com/us-news/2025/oct/30/ice-full-body-restraints-democratic-senators",
-    "id_key": "79fe824329cde9bb23e597f3ba623952f81a13c91a02d9a5ab5fb6ef90ef2c23",
-    "summary": "Group of 11 Democratic senators has raised concerns about use of Wrap full-body restraints on US deportation flights A “near-total secrecy” surrounding deportation flights and the use of full-body restraints onboard is raising “serious human rights concerns”, a group of 11 Democratic US senators wrote in a letter on Thursday to top immigration officials. Senator Chris Van Hollen of Maryland called upon US Immigration and Customs Enforcement to provide a full accounting of its air operations and to stop using the black and yellow restraints known as the Wrap until the agency explains its policies for the device and resolves other questions about its use on immigration detainees. Continue reading...",
     "ingested_utc": "2025-10-30T13:05:46Z"
   }
 ]
