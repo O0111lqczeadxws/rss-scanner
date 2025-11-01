@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-11-01",
     "retrieved_date": "2025-11-01",
+    "retrieved_utc": "2025-11-01T15:50:10Z",
+    "source": "FinancialPost_Business",
+    "title": "Italian police seize $1.5B in assets from Campari’s controlling shareholder amid tax fraud probe",
+    "url": "https://financialpost.com/pmn/italian-police-seize-1-5b-in-assets-from-camparis-controlling-shareholder-amid-tax-fraud-probe",
+    "id_key": "805d3320e24a59168e04f4e6d75b5b9f5690c1e95346e6d7e0f4b051a7253c1f",
+    "summary": "MILAN (AP) — Italian tax police said they are seizing assets worth 1.29 billion euros ($1.5 billion) from a Luxembourg-based holding company’s shares in spirits maker Campari Group as part of a fraud investigation. Luxembourg-based Lagfin is the controlling shareholder of Campari, which was founded in 1860 and is one of the largest players in […]",
+    "ingested_utc": "2025-11-01T15:50:10Z"
+  },
+  {
+    "published_utc": "2025-11-01",
+    "retrieved_date": "2025-11-01",
     "retrieved_utc": "2025-11-01T15:36:21Z",
     "source": "NYTimes_World",
     "title": "In One Jamaican Town, Hurricane Melissa Left Behind Floodwaters and Dead Livestock",
@@ -10987,16 +10998,5 @@
     "id_key": "7b623a7a2508a1c6128a1315f7afc40589568d91e1a6df7e5c6d2eaeafc180f1",
     "summary": "With the land mass of the United Kingdom making up 93,723 square miles, the country's smaller size means that almost all transatlantic flights from North America go through one of the major airports in London. But amid growing demand for direct access to smaller European cities, all three major ...",
     "ingested_utc": "2025-10-30T14:14:02Z"
-  },
-  {
-    "published_utc": "2025-10-30",
-    "retrieved_date": "2025-10-30",
-    "retrieved_utc": "2025-10-30T14:13:53Z",
-    "source": "Engadget_All",
-    "title": "US and China agree to one-year pause on punitive tariffs",
-    "url": "https://www.engadget.com/big-tech/us---china-trade-talks-see-one-year-pause-on-punitive-tariffs-140550358.html?src=rss",
-    "id_key": "44a2554c1cb4d490aa74ea5bf571d277f3b1495b3ca362580403a17220f06fa7",
-    "summary": "Donald Trump and China’s leader, Xi Jinping, have agreed to a one-year pause on the punitive Trump-instated tariffs that are at the heart of the ongoing trade war between the two superpowers. Among the issues discussed when the two leaders met face-to-face in the South Korean city of Busan were China’s chokehold on rare earth metals and the export restrictions on NVIDIA’s AI chips. Trump had previously made some characteristically explosive threats that he would impose new 100 percent tariffs on imports from China as a retaliation to Xi’s tightening grip on rare earths, the processing of which is almost entirely controlled by China. These materials are essential for manufacturing everything from smartphones and EVs to military equipment. As part of the (for now) temporary truce, China reportedly agreed to pause the new measures for the next 12 months in exchange for Trump lowering Chinese tariffs by 10 percent. According to The New York Times , Trump said he had discussed semiconductors during his talks with Xi, and “did not rule out” the possibility of allowing NVIDIA to sell AI chips to China. The American company was allowed to resume selling its H20 chips in China in July after an initial ban earlier in the year, only for Beijing to reportedly respond by instructing its largest tech companies not to do business until a national security review had been completed. The leaders did not discuss the possible availability of Blackwell chips — NVIDIA’s most advanced AI chip to date that is currently in development and possibly a motivating factor in China’s apparent indifference to the H20 architecture — at their meeting in South Korea. There was also no resolution on TikTok and its future in the US. The last we heard , the Trump administration claimed to be close to agreement that would see the US gain majority ownership of the Chinese-owned social media giant where it was operating on home soil, but nothing has been finalized at the time of writing. This article originally appeared on Engadget at https://www.engadget.com/big-tech/us---china-trade-talks-see-one-year-pause-on-punitive-tariffs-140550358.html?src=rss",
-    "ingested_utc": "2025-10-30T14:13:53Z"
   }
 ]
