@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-11-01",
     "retrieved_date": "2025-11-01",
+    "retrieved_utc": "2025-11-01T20:50:30Z",
+    "source": "FinancialPost_Business",
+    "title": "BOE Set to Hold Rates as UK Budget Looms Over Decision",
+    "url": "https://financialpost.com/pmn/business-pmn/boe-set-to-hold-rates-as-uk-budget-looms-over-decision",
+    "id_key": "fa06d7b9195f23b6135570b038ede0578f3f5726ac6c703e5cd5b82e8a189290",
+    "summary": "The Bank of England is expected to skip an interest-rate cut on Thursday, further slowing the once-a-quarter pace to policy easing that it’s maintained for more than a year.",
+    "ingested_utc": "2025-11-01T20:50:30Z"
+  },
+  {
+    "published_utc": "2025-11-01",
+    "retrieved_date": "2025-11-01",
     "retrieved_utc": "2025-11-01T20:39:21Z",
     "source": "BBC_World",
     "title": "Anger lingers in Serbia a year after train station tragedy",
@@ -10987,16 +10998,5 @@
     "id_key": "599bf878baa1442cfa4a711781836ec20ebc2ca414774e4c343f2ba0fc511681",
     "summary": "A number of US government agencies are backing a potential move by the Commerce Department to ban TP-Link routers, according to The Washington Post . Multiple sources familiar with internal deliberations spoke with the publication on the condition of anonymity, including a former senior Defense Department official. A months-long interagency process involving the Departments of Homeland Security, Justice and Defense took place this summer to consider the sweeping move. Investigations into the company stemming from national security concerns have been taking place since at least last year. At the heart of the potential ban is a concern that TP-Link retains ties to China, despite splitting from Chinese corporation TP-Link Technologies to become a standalone entity in 2022. A spokesperson for TP-Link denied any Chinese ties, saying \"any adverse action against TP-Link would have no impact on China, but would harm an American company.\" US officials told The Washington Post they are concerned because under Chinese law, TP-Link must comply with Chinese intelligence agency requests and may even be pressured to push malicious software updates to its devices. US-based TP-Link Systems said the company is “not subject to the direction of the PRC intel apparatus.” TP-Link routers are among the most popular in the United States, with the company claiming 36 percent of US market share. Earlier this year however, former American cybersecurity official Rob Joyce testified before Congress that TP-Link’s market share was roughly 60 percent, thanks in part to selling its equipment below cost in order to drive out competition. The potential ban of TP-Link products is another in a long list of bureaucratic moves or discussions that have come against the backdrop of trade negotiations between the US and China. While a potential breakthrough in these talks was achieved today, a source for The Washington Post said a ban on TP-Link products remains a bargaining chip for the administration. This article originally appeared on Engadget at https://www.engadget.com/cybersecurity/us-government-is-getting-closer-to-banning-tp-link-routers-145528317.html?src=rss",
     "ingested_utc": "2025-10-30T15:16:00Z"
-  },
-  {
-    "published_utc": "2025-10-30",
-    "retrieved_date": "2025-10-30",
-    "retrieved_utc": "2025-10-30T15:15:42Z",
-    "source": "FT_Home",
-    "title": "Shareholders reject $9bn CoreWeave offer for Core Scientific",
-    "url": "https://www.ft.com/content/da774fa0-aaee-435c-835f-f9fde7465b4e",
-    "id_key": "1655bf51db1850f07b9541b093f97d500ec597148abe7a55c2c091f1be329af9",
-    "summary": "Deal’s collapse could hurt CoreWeave plans to meet growth targets that have driven soaring stock price",
-    "ingested_utc": "2025-10-30T15:15:42Z"
   }
 ]
