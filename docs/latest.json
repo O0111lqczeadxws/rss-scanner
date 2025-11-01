@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-11-01",
     "retrieved_date": "2025-11-01",
+    "retrieved_utc": "2025-11-01T23:36:53Z",
+    "source": "TheStreet_Top",
+    "title": "Weekly Market Wrap: First Solar, Amazon lead,  Starbucks slips",
+    "url": "https://www.thestreet.com/investing/stocks/weekly-market-wrap-first-solar-amazon-lead-starbucks-slips",
+    "id_key": "4510369e24f9a37574f869e8844bab7dd3a1e514cf5de2b6728462cc4aeabc03",
+    "summary": "An overall mixed week in terms of the major indices’ performances and the stock market’s reaction to earnings from big tech companies. The S&P 500 was up 0.71% this week, buoyed by Amazon and Robinhood’s gains on Friday.The tech-heavy Nasdaq Composite, up 2.2% over the week, was led strongly by ...",
+    "ingested_utc": "2025-11-01T23:36:53Z"
+  },
+  {
+    "published_utc": "2025-11-01",
+    "retrieved_date": "2025-11-01",
     "retrieved_utc": "2025-11-01T23:28:43Z",
     "source": "FT_Home",
     "title": "Two arrested after ‘multiple’ stabbings on train north of London",
@@ -10987,16 +10998,5 @@
     "id_key": "b1acbc6df097b23978d552c377565e8850f022c9f41bc8d6684a29189304c1a1",
     "summary": "French magazine publishes judicial notice after publishing paparazzi images of family holiday in Alps The Prince and Princess of Wales have won a privacy case against a French magazine after it published paparazzi photographs of them and their children on a private family ski holiday, Kensington Palace said. William and Catherine launched legal action after their break was featured in Paris Match magazine in April, with a series of images documenting their activities with their children at a French resort in the Alps. Continue reading...",
     "ingested_utc": "2025-10-30T15:51:24Z"
-  },
-  {
-    "published_utc": "2025-10-30",
-    "retrieved_date": "2025-10-30",
-    "retrieved_utc": "2025-10-30T15:51:21Z",
-    "source": "BBC_World",
-    "title": "Israel receives coffins Hamas says contain two Gaza hostages' bodies",
-    "url": "https://www.bbc.com/news/articles/c4gj90j2g8jo?at_medium=RSS&at_campaign=rss",
-    "id_key": "03c8fddf0cad984eed7a1c91db68cb61ecf0872aecf133a1acd4217400f8ab11",
-    "summary": "The government says the bodies were transferred by the Red Cross to Israeli forces in Gaza, who will take them to experts for identification.",
-    "ingested_utc": "2025-10-30T15:51:21Z"
   }
 ]
