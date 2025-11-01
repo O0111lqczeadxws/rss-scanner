@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-11-01",
     "retrieved_date": "2025-11-01",
+    "retrieved_utc": "2025-11-01T19:11:00Z",
+    "source": "HackerNews_Top",
+    "title": "Powell – unlike the dotcom boom, AI spending isn't a bubble",
+    "url": "https://fortune.com/2025/10/29/powell-says-ai-is-not-a-bubble-unlike-dot-com-federal-reserve-interest-rates/",
+    "id_key": "9ae2bcedc2a937660e82c2250a3c1eb6ab0f4f618373b731e1e4eb6f1965420e",
+    "summary": "Comments",
+    "ingested_utc": "2025-11-01T19:11:00Z"
+  },
+  {
+    "published_utc": "2025-11-01",
+    "retrieved_date": "2025-11-01",
+    "retrieved_utc": "2025-11-01T19:10:09Z",
+    "source": "FT_Home",
+    "title": "Carney says he apologised to Trump over Reagan anti-tariff ad",
+    "url": "https://www.ft.com/content/3508b519-94f0-4ff9-a151-9d1a90dbdc08",
+    "id_key": "d1a8409486ce9421d4e4041c9a4c7788a35a7f3a36c3bd161727a9d3782f1dc7",
+    "summary": "The US president cancelled trade talks and raised levies over the television campaign launched by Ontario",
+    "ingested_utc": "2025-11-01T19:10:09Z"
+  },
+  {
+    "published_utc": "2025-11-01",
+    "retrieved_date": "2025-11-01",
     "retrieved_utc": "2025-11-01T18:49:14Z",
     "source": "Guardian_World",
     "title": "Flights delayed across US amid air traffic controller shortages as shutdown drags on",
@@ -10976,27 +10998,5 @@
     "id_key": "ede47835eb56a1f1ed2f9a5ad59c88fcd3478bd4b9293a5075daf78a64cc0a1f",
     "summary": "Europe’s largest automaker said that a shortage of semiconductors could further hurt productivity.",
     "ingested_utc": "2025-10-30T14:53:59Z"
-  },
-  {
-    "published_utc": "2025-10-30",
-    "retrieved_date": "2025-10-30",
-    "retrieved_utc": "2025-10-30T14:52:11Z",
-    "source": "CryptoBriefing",
-    "title": "Hyperliquid sees largest single liquidation order at $21.4M in BTC-USD",
-    "url": "https://cryptobriefing.com/hyperliquid-largest-btc-usd-liquidation-21m/",
-    "id_key": "b487c07287aa2ddb85e39c5cad17152b6927f9cada48471daf1ef3b2d93c8525",
-    "summary": "Hyperliquid's role in high-volume trading underscores the risks of leverage in volatile crypto markets, impacting traders and market stability. The post Hyperliquid sees largest single liquidation order at $21.4M in BTC-USD appeared first on Crypto Briefing .",
-    "ingested_utc": "2025-10-30T14:52:11Z"
-  },
-  {
-    "published_utc": "2025-10-30",
-    "retrieved_date": "2025-10-30",
-    "retrieved_utc": "2025-10-30T14:51:52Z",
-    "source": "Guardian_World",
-    "title": "Xi-Trump meeting: America has discovered that bullies can be bullied back",
-    "url": "https://www.theguardian.com/us-news/2025/oct/30/trump-xi-jinping-meeting-us-china-price-confrontation",
-    "id_key": "f7165d689bc337058e41be6cb40e1eb8b2f882b43c5fc00147ff125686e75571",
-    "summary": "Outcome appears closer to truce than durable peace but outline of broader diplomatic relationship is visible Five key takeaways from Trump-Xi meeting When Donald Trump launched his trade war against China in April, threatening tariffs as high as 145%, the Chinese government said it would never bow to blackmail and vowed to “fight to the end”. The question now is whether the consensus reached between Trump and Xi Jinping in Busan, South Korea, on Thursday means that the fight really has come to an end, and if so on whose terms. Continue reading...",
-    "ingested_utc": "2025-10-30T14:51:52Z"
   }
 ]
