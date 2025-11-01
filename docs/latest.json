@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-11-01",
     "retrieved_date": "2025-11-01",
+    "retrieved_utc": "2025-11-01T04:16:11Z",
+    "source": "FinancialPost_Business",
+    "title": "A Vermont cycling apparel company is trying to survive Trump’s tariffs. Will the Supreme Court help?",
+    "url": "https://financialpost.com/pmn/a-vermont-cycling-apparel-company-is-trying-to-survive-trumps-tariffs-will-the-supreme-court-help",
+    "id_key": "89b064172a3740594e2b1738c08f819066153e603fd3f5d1c127eaf776029f3b",
+    "summary": "BURLINGTON, Vt. (AP) — From the moment President Donald Trump imposed tariffs on nearly every country, Nik Holm feared the company he leads might not survive. Terry Precision Cycling has made it 40 years with a product line specifically for women, navigating a tough early market, thin profit margins and a pandemic-era boom and bust. […]",
+    "ingested_utc": "2025-11-01T04:16:11Z"
+  },
+  {
+    "published_utc": "2025-11-01",
+    "retrieved_date": "2025-11-01",
     "retrieved_utc": "2025-11-01T03:57:58Z",
     "source": "Nikkei_Asia_Top",
     "title": "China's Xi and South Korea's Lee to hold 1st summit as APEC nears end",
@@ -10987,16 +10998,5 @@
     "id_key": "1ff471a34f8f989ea134b1933d111de95d1c024315963c67c35514a074059327",
     "summary": "Hi! In today’s edition: 💳 Mastercard nears $2B Zerohash acquisition 📉 Bitcoin ETFs see $470M outflows after Fed rate cut 🪙 Trump memecoin firm eyes Republic.com buyout 📊 Ondo expands tokenized stocks to BNB Chain TL;DR Mastercard is in talks to acquire stablecoin infrastructure provider Zerohash for $2 billion, the ... The post What Happened in Crypto Today: Mastercard May Buy Zerohash in $2 Billion Stablecoin Push appeared first on Unchained .",
     "ingested_utc": "2025-10-30T12:22:25Z"
-  },
-  {
-    "published_utc": "2025-10-30",
-    "retrieved_date": "2025-10-30",
-    "retrieved_utc": "2025-10-30T12:22:24Z",
-    "source": "CoinJournal",
-    "title": "How a Bangkok arrest cracked open the $31 million FINTOCH crypto fraud",
-    "url": "https://coinjournal.net/news/how-a-bangkok-arrest-cracked-open-the-31-million-fintoch-crypto-fraud/",
-    "id_key": "3c4ac0a64e13b63d8fa23f4b0489882457e2d827a452036e68f79f8dc710f605",
-    "summary": "The FINTOCH platform falsely claimed ties to Morgan Stanley and promised 1% daily returns. Investigators found $31.6 million in USDT moved across Binance Smart Chain, Tron, and Ethereum. Liang lived alone in a luxury Bangkok home, where police found an illegal firearm. Thai and Chinese authorities have arrested a Chinese national in Bangkok linked to […] The post How a Bangkok arrest cracked open the $31 million FINTOCH crypto fraud appeared first on CoinJournal .",
-    "ingested_utc": "2025-10-30T12:22:24Z"
   }
 ]
