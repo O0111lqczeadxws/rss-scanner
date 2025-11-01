@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-11-01",
     "retrieved_date": "2025-11-01",
+    "retrieved_utc": "2025-11-01T19:25:11Z",
+    "source": "HackerNews_Top",
+    "title": "US will not send officials to COP30 climate talks",
+    "url": "https://www.reuters.com/sustainability/cop/us-will-not-send-officials-cop30-climate-talks-white-house-says-2025-10-31/",
+    "id_key": "2a94f0bb308fe96c4de8c395a7568bc1aa14a8a85e8772674d80fca9e39cb7cf",
+    "summary": "Comments",
+    "ingested_utc": "2025-11-01T19:25:11Z"
+  },
+  {
+    "published_utc": "2025-11-01",
+    "retrieved_date": "2025-11-01",
+    "retrieved_utc": "2025-11-01T19:25:11Z",
+    "source": "HackerNews_Top",
+    "title": "Czech police forced to turn off facial recognition cameras at the Prague airport",
+    "url": "https://edri.org/our-work/czech-police-forced-to-turn-off-facial-recognition-cameras-at-the-prague-airport-thanks-to-the-ai-act/",
+    "id_key": "8a7e506d57b264e744e62e2912e4aa23fe3e0aebc426d5908b7469072257c352",
+    "summary": "Comments",
+    "ingested_utc": "2025-11-01T19:25:11Z"
+  },
+  {
+    "published_utc": "2025-11-01",
+    "retrieved_date": "2025-11-01",
+    "retrieved_utc": "2025-11-01T19:21:56Z",
+    "source": "Guardian_World",
+    "title": "Centrelink threatening payment suspensions at rate of five a minute, new analysis suggests",
+    "url": "https://www.theguardian.com/australia-news/2025/nov/02/centrelink-payment-2025-payments-suspended-cancellations-mutual-obligation",
+    "id_key": "760d3776c52f30842d8ebd511dfc9cd1a63ca511a85d9a30335381649fbfa56b",
+    "summary": "Exclusive: As jobseekers continue to have payments suspended, advocates call for the regime to be stopped until it’s proven to be lawful Get our breaking news email , free app or daily news podcast Centrelink has been issuing payment suspension notices to jobseekers and those on disability support pensions at a rate of more than five a minute, new analysis suggests, amid concerns over the legality of the troubled system. In total, government data collated by the Antipoverty Centre shows there were 2,683,605 suspension actions between June 2024 and July 2025. Continue reading...",
+    "ingested_utc": "2025-11-01T19:21:56Z"
+  },
+  {
+    "published_utc": "2025-11-01",
+    "retrieved_date": "2025-11-01",
     "retrieved_utc": "2025-11-01T19:11:00Z",
     "source": "HackerNews_Top",
     "title": "Powell – unlike the dotcom boom, AI spending isn't a bubble",
@@ -10965,38 +10998,5 @@
     "id_key": "9870754fb5506d6befa633419047c223f779914deed214799f09d22b78e3ad26",
     "summary": "\"This machine has everything.\"",
     "ingested_utc": "2025-10-30T14:54:38Z"
-  },
-  {
-    "published_utc": "2025-10-30",
-    "retrieved_date": "2025-10-30",
-    "retrieved_utc": "2025-10-30T14:54:28Z",
-    "source": "ArsTechnica_All",
-    "title": "Falling panel prices lead to global solar boom, except for the US",
-    "url": "https://arstechnica.com/science/2025/10/theres-a-global-boom-in-solar-except-in-the-united-states/",
-    "id_key": "0dd3ac925ad16909f079b8079c7522ae40c50576b8532d5c69bfa4e72368b3cb",
-    "summary": "The economic case for solar power is stronger than ever.",
-    "ingested_utc": "2025-10-30T14:54:28Z"
-  },
-  {
-    "published_utc": "2025-10-30",
-    "retrieved_date": "2025-10-30",
-    "retrieved_utc": "2025-10-30T14:54:26Z",
-    "source": "TheVerge_All",
-    "title": "Logitech’s wireless vertical mouse has never been cheaper at $50",
-    "url": "https://www.theverge.com/tech/809926/logitech-lift-webcams-desktop-speakers-nanoleaf-deal-sale",
-    "id_key": "d1149b34b3af87030b0018700ceadeb38051c87c154ee6ecc7d91b8bf68ab986",
-    "summary": "If your wrist or forearm aches every time you use your computer, the chances are good that you’d benefit from using a vertical mouse, like the Logitech Lift wireless mouse. This ergonomically-friendly device has been marked down to its cheapest-ever price today at Amazon, where it’s selling for $49.99 (originally $79.99) in black or white […]",
-    "ingested_utc": "2025-10-30T14:54:26Z"
-  },
-  {
-    "published_utc": "2025-10-30",
-    "retrieved_date": "2025-10-30",
-    "retrieved_utc": "2025-10-30T14:53:59Z",
-    "source": "NYTimes_Business",
-    "title": "Volkswagen, Hit by Tariffs, Reports $1.5 Billion Loss and Warns of Chip Shortage",
-    "url": "https://www.nytimes.com/2025/10/30/business/volkswagen-tariffs-chip-shortages.html",
-    "id_key": "ede47835eb56a1f1ed2f9a5ad59c88fcd3478bd4b9293a5075daf78a64cc0a1f",
-    "summary": "Europe’s largest automaker said that a shortage of semiconductors could further hurt productivity.",
-    "ingested_utc": "2025-10-30T14:53:59Z"
   }
 ]
