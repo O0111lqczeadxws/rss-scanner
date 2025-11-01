@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-11-01",
     "retrieved_date": "2025-11-01",
+    "retrieved_utc": "2025-11-01T05:41:11Z",
+    "source": "BBC_Business",
+    "title": "China to loosen chip export ban to Europe after Netherlands row",
+    "url": "https://www.bbc.com/news/articles/cly44qwgnx0o?at_medium=RSS&at_campaign=rss",
+    "id_key": "cb482a3e948eace6a9b80f6a5130c5c92f88536ba34f639d9c68a6b49381f5b9",
+    "summary": "EU-China chip disputes alarmed carmakers amid concerns it could halt global car productions",
+    "ingested_utc": "2025-11-01T05:41:11Z"
+  },
+  {
+    "published_utc": "2025-11-01",
+    "retrieved_date": "2025-11-01",
     "retrieved_utc": "2025-11-01T05:13:54Z",
     "source": "AlJazeera_All",
     "title": "Demonstrators call for governor’s resignation after deadly Rio police raid",
@@ -10987,16 +10998,5 @@
     "id_key": "4ac285e5cb54d62369d5f939b409d4bbb25d92d71cc936c6b5b512294ad7b0fd",
     "summary": "FTSE 100 energy company boosted by gas trading rebound and launch of Canada LNG project",
     "ingested_utc": "2025-10-30T12:24:33Z"
-  },
-  {
-    "published_utc": "2025-10-30",
-    "retrieved_date": "2025-10-30",
-    "retrieved_utc": "2025-10-30T12:24:21Z",
-    "source": "NYTimes_World",
-    "title": "Israel’s Ultra-Orthodox Set For ‘March of the Million’ Against Military Draft",
-    "url": "https://www.nytimes.com/2025/10/30/world/middleeast/israel-ultra-orthodox-demonstration-military-draft.html",
-    "id_key": "9575a947e495131bb538b54a0e4063ec5da5ca10f6ef49c032faf65d0e9ef1a8",
-    "summary": "Mass demonstrations are planned in Jerusalem on Thursday against efforts to end a decades-old exemption from military service for Israel’s Haredi religious students.",
-    "ingested_utc": "2025-10-30T12:24:21Z"
   }
 ]
