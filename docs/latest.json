@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-11-01",
     "retrieved_date": "2025-11-01",
+    "retrieved_utc": "2025-11-01T17:47:26Z",
+    "source": "Guardian_World",
+    "title": "Man killed in South Yorkshire helicopter crash named as Peter Smith",
+    "url": "https://www.theguardian.com/world/2025/nov/01/man-killed-in-south-yorkshire-helicopter-crash-named-as-peter-smith",
+    "id_key": "c8533081eb0e3481c0f673323df0ec9c7c62a680038b69ccd9dc0666d5032349",
+    "summary": "Seventy-year-old, who died in incident near Bentley, said by family to be ‘a beloved husband, father and grandfather’ A man who was killed in a helicopter crash in Doncaster , South Yorkshire on Thursday has been named by his family as Peter Smith. The family described Smith, 70, as “a beloved husband, father and grandfather” and said they were “all devastated by this sudden loss”, in a statement released by South Yorkshire police. Continue reading...",
+    "ingested_utc": "2025-11-01T17:47:26Z"
+  },
+  {
+    "published_utc": "2025-11-01",
+    "retrieved_date": "2025-11-01",
     "retrieved_utc": "2025-11-01T17:35:37Z",
     "source": "BBC_World",
     "title": "UK aid for Hurricane Melissa reaches Jamaica as Britons to be evacuated",
@@ -10987,16 +10998,5 @@
     "id_key": "0e5b3bbd810b752d44dc8678185ebdf5661ccaa2a8e27332d217821777d010db",
     "summary": "‘Contract for difference’ providers using high-pressure sales techniques to persuade clients to abandon protections, FCA says",
     "ingested_utc": "2025-10-30T14:37:13Z"
-  },
-  {
-    "published_utc": "2025-10-30",
-    "retrieved_date": "2025-10-30",
-    "retrieved_utc": "2025-10-30T14:37:12Z",
-    "source": "FT_Home",
-    "title": "Reeves may be forced to repay £38,000 in rent after breaching housing rules",
-    "url": "https://www.ft.com/content/b1edcd6e-7629-4240-b01c-3ad651fd24ee",
-    "id_key": "e2bb20f82343d5c6b5595109bfc79a3c75cbf9aa7039ef663fa7314b3f2d4a0d",
-    "summary": "Southwark council rules allow tenants to reclaim rent paid on unlicensed properties",
-    "ingested_utc": "2025-10-30T14:37:12Z"
   }
 ]
