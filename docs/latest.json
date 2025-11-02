@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-11-02",
     "retrieved_date": "2025-11-02",
+    "retrieved_utc": "2025-11-02T19:35:18Z",
+    "source": "NYTimes_World",
+    "title": "Defense Lawyers Demand Dismissal of Abuse Case Against Israeli Soldiers",
+    "url": "https://www.nytimes.com/2025/11/02/world/middleeast/abuse-case-israeli-soldiers-dismissal.html",
+    "id_key": "fd49ced73d64f89d886ad2c2059ff35eca369ad31136812b85a86fb1be000572",
+    "summary": "The chief legal officer of Israel’s military resigned after authorizing the leak of a video in the case involving grave abuse of a Palestinian detainee. That further politicized a fraught case.",
+    "ingested_utc": "2025-11-02T19:35:18Z"
+  },
+  {
+    "published_utc": "2025-11-02",
+    "retrieved_date": "2025-11-02",
     "retrieved_utc": "2025-11-02T19:25:03Z",
     "source": "AlJazeera_All",
     "title": "Drinking water in Tehran could run dry in two weeks, Iranian official says",
@@ -10987,16 +10998,5 @@
     "id_key": "e7220f6b9e31e8e350dab499231f397e97cbc471db95f2d9025a49e4803cb553",
     "summary": "",
     "ingested_utc": "2025-10-30T20:51:22Z"
-  },
-  {
-    "published_utc": "2025-10-30",
-    "retrieved_date": "2025-10-30",
-    "retrieved_utc": "2025-10-30T20:49:36Z",
-    "source": "CryptoBriefing",
-    "title": "Coinbase reports major net income growth in Q3 2025 amid increased trading volumes",
-    "url": "https://cryptobriefing.com/coinbase-q3-2025-net-income-growth/",
-    "id_key": "e220ce735d1011f5cbb05b6851de8f517de28e6764cc218f44562af7b0356825",
-    "summary": "Coinbase posts $432.6M Q3 profit as crypto volatility lifts trading volumes amid Trumps pro-crypto policies and market sell-offs. The post Coinbase reports major net income growth in Q3 2025 amid increased trading volumes appeared first on Crypto Briefing .",
-    "ingested_utc": "2025-10-30T20:49:36Z"
   }
 ]
