@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-11-02",
     "retrieved_date": "2025-11-02",
+    "retrieved_utc": "2025-11-02T21:33:06Z",
+    "source": "Guardian_World",
+    "title": "Cambridgeshire train stabbings: ‘heroic’ rail staff member fighting for life after tackling attacker",
+    "url": "https://www.theguardian.com/uk-news/2025/nov/02/cambridgeshire-train-stabbings-heroic-lner-staff-member-suffered-life-threatening-injuries",
+    "id_key": "b58d2f24e15eef15f9fe44acd39f29bac6ce733c0f2d047132a84ce093210be5",
+    "summary": "British Transport Police say LNER worker ‘undoubtedly saved lives’ as suspect remains in custody A “heroic” rail staff member who intervened in a mass stabbing to save the lives of high-speed train passengers suffered life-threatening injuries, police said on Sunday, as a suspect remains in custody. The member of LNER staff was recorded on CCTV attempting to stop the attacker as the train travelled between Peterborough and Huntingdon in Cambridgeshire, British Transport Police said. Additional reporting: Harry Taylor and Vikram Dodd Continue reading...",
+    "ingested_utc": "2025-11-02T21:33:06Z"
+  },
+  {
+    "published_utc": "2025-11-02",
+    "retrieved_date": "2025-11-02",
     "retrieved_utc": "2025-11-02T21:27:42Z",
     "source": "TechCrunch_All",
     "title": "Google pulls Gemma from AI Studio after Senator Blackburn accuses model of defamation",
@@ -10986,17 +10997,6 @@
     "url": "https://www.nytimes.com/2025/10/30/world/xi-trump-trade-talks.html",
     "id_key": "f63d99ef4ae9f4655c9c7edb892e37b77d00da89cf1c1db21339e194c4706cd0",
     "summary": "Xi Jinping secured concessions from Donald Trump in exchange for returning to the status quo.",
-    "ingested_utc": "2025-10-30T21:30:25Z"
-  },
-  {
-    "published_utc": "2025-10-30",
-    "retrieved_date": "2025-10-30",
-    "retrieved_utc": "2025-10-30T21:30:25Z",
-    "source": "NYTimes_World",
-    "title": "Trump’s Call to Resume Nuclear Testing After Decades Revives a Cold War Debate",
-    "url": "https://www.nytimes.com/2025/10/30/us/politics/trump-nuclear-testing-cold-war.html",
-    "id_key": "66a7b5d86cf05e4451464712e40cb1e19c73dc0ce7284969393060e2605a761f",
-    "summary": "President Trump explained the order by saying other, unnamed nations were testing their own nuclear weapons, even though no country has tested since 2017.",
     "ingested_utc": "2025-10-30T21:30:25Z"
   }
 ]
