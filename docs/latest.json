@@ -2,6 +2,50 @@
   {
     "published_utc": "2025-11-02",
     "retrieved_date": "2025-11-02",
+    "retrieved_utc": "2025-11-02T06:18:52Z",
+    "source": "FT_Home",
+    "title": "The new hot job in AI: forward-deployed engineers",
+    "url": "https://www.ft.com/content/91002071-7874-4cb7-9245-08ca0571c408",
+    "id_key": "6e6826585353e88a1f907f186007cc762d919f24798501207e2b37c9466d1b85",
+    "summary": "OpenAI, Anthropic and Cohere have stepped up hiring for specialists to help businesses adopt their AI models",
+    "ingested_utc": "2025-11-02T06:18:52Z"
+  },
+  {
+    "published_utc": "2025-11-02",
+    "retrieved_date": "2025-11-02",
+    "retrieved_utc": "2025-11-02T06:18:48Z",
+    "source": "NPR_Top",
+    "title": "10 people hospitalized after UK train stabbing attack, 9 with life-threatening injuries",
+    "url": "https://www.npr.org/2025/11/02/nx-s1-5594754/10-people-hospitalized-after-uk-train-stabbing-attack-9-with-life-threatening-injuries",
+    "id_key": "6e802ab950d997bd4183a9984649db96fbe22f83f3124a0c0354160f55b4c86a",
+    "summary": "British police said 10 people have been hospitalized, nine with life-threatening injuries, following a mass stabbing attack on a London-bound train Saturday evening, and that counter-terrorism police are supporting the investigation.",
+    "ingested_utc": "2025-11-02T06:18:48Z"
+  },
+  {
+    "published_utc": "2025-11-02",
+    "retrieved_date": "2025-11-02",
+    "retrieved_utc": "2025-11-02T06:18:48Z",
+    "source": "NPR_Top",
+    "title": "US carries out new strike in Caribbean, killing 3 alleged drug smugglers",
+    "url": "https://www.npr.org/2025/11/02/nx-s1-5594753/us-strike-caribbean-kills-3-drug-smugglers",
+    "id_key": "1bc4f3416e35d7973f6640265271417e68b6318808c7337ae88cf1db7d034d43",
+    "summary": "The U.S. military has carried out another lethal strike on alleged drug smugglers in the Caribbean Sea.",
+    "ingested_utc": "2025-11-02T06:18:48Z"
+  },
+  {
+    "published_utc": "2025-11-02",
+    "retrieved_date": "2025-11-02",
+    "retrieved_utc": "2025-11-02T06:16:24Z",
+    "source": "BBC_World",
+    "title": "Britons evacuated from Jamaica as UK sends Hurricane Melissa aid",
+    "url": "https://www.bbc.com/news/articles/cvg441qyv2xo?at_medium=RSS&at_campaign=rss",
+    "id_key": "0358f160ba55db8fc626685ec9e2ae0f98d96561a67505d1e1f4d0267a9b9e4e",
+    "summary": "Foreign Secretary Yvette Cooper has said the UK's first chartered flight from Jamaica to the UK will arrive on Sunday.",
+    "ingested_utc": "2025-11-02T06:16:24Z"
+  },
+  {
+    "published_utc": "2025-11-02",
+    "retrieved_date": "2025-11-02",
     "retrieved_utc": "2025-11-02T05:50:34Z",
     "source": "AlJazeera_All",
     "title": "Israeli air strike kills four in Lebanon, straining fragile ceasefire",
@@ -10954,49 +10998,5 @@
     "id_key": "cd76784b3f3bc42ef46572cc4d94b027f7b08d30e62007541154427b9cd3453c",
     "summary": "The Trump administration is going to restrict the number of refugees it admits to just 7,500 next year The Trump administration is going to restrict the number of refugees it admits into the United States next year to the token level of just 7,500 – and those spots will mostly be filled by white South Africans. The low number represents a dramatic drop after the US previously allowed in hundreds of thousands of people fleeing war and persecution from around the world. Continue reading...",
     "ingested_utc": "2025-10-30T17:11:06Z"
-  },
-  {
-    "published_utc": "2025-10-30",
-    "retrieved_date": "2025-10-30",
-    "retrieved_utc": "2025-10-30T16:58:52Z",
-    "source": "HackerNews_Top",
-    "title": "Ventoy: Create bootable USB drive for ISO/WIM/IMG/VHD(x)/EFI Files",
-    "url": "https://github.com/ventoy/Ventoy",
-    "id_key": "449cf0c070aa72061700fb22e2341af1da4dc7a9d00ab98c1b93461c1beaf272",
-    "summary": "Comments",
-    "ingested_utc": "2025-10-30T16:58:52Z"
-  },
-  {
-    "published_utc": "2025-10-30",
-    "retrieved_date": "2025-10-30",
-    "retrieved_utc": "2025-10-30T16:58:35Z",
-    "source": "TheStreet_Top",
-    "title": "CoreWeave just kicked open a billion-dollar door",
-    "url": "https://www.thestreet.com/technology/coreweave-just-kicked-open-a-billion-dollar-door",
-    "id_key": "824fc9f9b0c57a2041c4639449016bd963578d69148ec77cf2c2155e5e94f077",
-    "summary": "CoreWeave (CRWV) spent the bulk of 2025 in fast-forward. The Nvidia (NVDA)-backed AI cloud has effectively leveraged GPU scarcity into a bona fide business model, offering a one-stop solution that combines capacity, software, and support for customers seeking on-demand, high-performance AI ...",
-    "ingested_utc": "2025-10-30T16:58:35Z"
-  },
-  {
-    "published_utc": "2025-10-30",
-    "retrieved_date": "2025-10-30",
-    "retrieved_utc": "2025-10-30T16:58:26Z",
-    "source": "Engadget_All",
-    "title": "Mixed Reality Link for Windows 11 and Meta Quest headsets is now available to everyone",
-    "url": "https://www.engadget.com/ar-vr/mixed-reality-link-for-windows-11-and-meta-quest-headsets-is-now-available-to-everyone-165545794.html?src=rss",
-    "id_key": "9ba3ff671d0fdd6b5ef3d10ab424b0d6e68b1c1df20cf3e49d0381ea47205b87",
-    "summary": "Immersive productivity for Windows 11 is now available on the Meta Quest 3 and 3S with the latest release of Meta's Horizon OS. The feature, called Mixed Reality Link, was available on a limited basis after public previews began last year. The Windows virtual desktop experience is now rolling out to all users. After installing Mixed Reality Link on their Windows 11 PC, users will pair the machine with their Meta Quest headsets. Mixed Reality Link also supports portable, cloud-based solutions such as Windows 365 Cloud PC, Azure Virtual Desktop, Microsoft Dev Box and others. The virtual environment, which displays the equivalent of multiple high-resolution monitors, is similar to the Apple Vision Pro . The stark difference in cost between the headsets makes this a far more approachable virtual working tool for the average consumer. The Meta Quest 3S starts at $300, while the Apple Vision Pro comes out of the gate at a hefty $3,500. Facebook parent company Meta has been investing heavily in virtual reality and augmented reality technology. The company recently teased a futuristic VR headset that it says will offer VR experiences “indistinguishable from the physical world” as well as Ray-Ban smart glasses with Meta AI live translation and 3K video recording. This article originally appeared on Engadget at https://www.engadget.com/ar-vr/mixed-reality-link-for-windows-11-and-meta-quest-headsets-is-now-available-to-everyone-165545794.html?src=rss",
-    "ingested_utc": "2025-10-30T16:58:26Z"
-  },
-  {
-    "published_utc": "2025-10-30",
-    "retrieved_date": "2025-10-30",
-    "retrieved_utc": "2025-10-30T16:58:25Z",
-    "source": "WIRED_All",
-    "title": "ICE Wants to Build a Shadow Deportation Network in Texas",
-    "url": "https://www.wired.com/story/ice-is-building-a-24-7-shadow-transportation-network-across-texas/",
-    "id_key": "9e98d5a7e7240a0ef57a844b8ba25dc61fb3971d6f2770928349005b73c8f8c7",
-    "summary": "A new ICE proposal outlines a 24/7 transport operation run by armed contractors—turning Texas into the logistical backbone of an industrialized deportation machine.",
-    "ingested_utc": "2025-10-30T16:58:25Z"
   }
 ]
