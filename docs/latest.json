@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-11-02",
     "retrieved_date": "2025-11-02",
+    "retrieved_utc": "2025-11-02T22:13:24Z",
+    "source": "AlJazeera_All",
+    "title": "Colombia’s ELN rebels face US drug threats amid push for peace talks",
+    "url": "https://www.aljazeera.com/news/2025/11/2/colombias-eln-rebels-face-us-drug-threats-amid-push-for-peace-talks?traffic_source=rss",
+    "id_key": "6bd34d51aa5c9953dd4aa2f695d627b895224c67bd2093f61766ac04b84b52c0",
+    "summary": "The US focus on drugs and nearby Venezuela brings an international dimension to what was an internal Colombian conflict.",
+    "ingested_utc": "2025-11-02T22:13:24Z"
+  },
+  {
+    "published_utc": "2025-11-02",
+    "retrieved_date": "2025-11-02",
+    "retrieved_utc": "2025-11-02T22:10:49Z",
+    "source": "CryptoSlate",
+    "title": "The quantum computing threat Bitcoin can’t ignore",
+    "url": "https://cryptoslate.com/the-quantum-computing-threat-bitcoin-cant-ignore/",
+    "id_key": "d7514dcfab0fc542873b947ead1fadaba3e792de67701c970bd7e4b63183c532",
+    "summary": "Quantum computing is no longer just science fiction or the stuff of cypherpunk paranoia; it’s officially a front-page threat for the world’s first stateless money. If you ever thought Satoshi’s creation was immune to existential risk, think again. The latest round of Bitcoiners and cryptographers in the Human Rights Foundation (HRF)’s latest report would like […] The post The quantum computing threat Bitcoin can’t ignore appeared first on CryptoSlate .",
+    "ingested_utc": "2025-11-02T22:10:49Z"
+  },
+  {
+    "published_utc": "2025-11-02",
+    "retrieved_date": "2025-11-02",
     "retrieved_utc": "2025-11-02T21:50:47Z",
     "source": "HackerNews_Top",
     "title": "Paris Had a Moving Sidewalk in 1900, and a Thomas Edison Film Captured It",
@@ -10976,27 +10998,5 @@
     "id_key": "209402d6533d9c01d861fc63c3262fd5f5d7e4a7c9f5e06752fd8eb60b26712c",
     "summary": "SAN FRANCISCO (AP) — Apple’s iPhone sales growth decelerated during its summertime quarter, but the company still delivered financial results that exceeded analyst projections while the trendsetting company continued to catch up to its Big Tech peers in the artificial intelligence race. The performance announced Thursday was driven largely by strong initial demand for the […]",
     "ingested_utc": "2025-10-30T21:31:12Z"
-  },
-  {
-    "published_utc": "2025-10-30",
-    "retrieved_date": "2025-10-30",
-    "retrieved_utc": "2025-10-30T21:31:06Z",
-    "source": "AlJazeera_All",
-    "title": "UN officials condemn ‘horrifying’ mass killings in Sudan as RSF advances",
-    "url": "https://www.aljazeera.com/news/2025/10/30/un-officials-condemn-horrifying-mass-killings-in-sudan-as-rsf-advances?traffic_source=rss",
-    "id_key": "7e550f8a8499b49ff9bc27070f9a7c2b228fec2ccc93f9c143292f700000373a",
-    "summary": "Aid workers in the region fear the situation will deteriorate as food and medical supplies dwindle.",
-    "ingested_utc": "2025-10-30T21:31:06Z"
-  },
-  {
-    "published_utc": "2025-10-30",
-    "retrieved_date": "2025-10-30",
-    "retrieved_utc": "2025-10-30T21:30:55Z",
-    "source": "WIRED_All",
-    "title": "WIRED Roundup: AI Psychosis, Missing FTC Files, and Google Bedbugs",
-    "url": "https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-ai-psychosis-ftc-files-google-bedbugs/",
-    "id_key": "00acbfa7ab45d16861855a25ea4db24f7fd7740b35cc421cb27a0f48b5b72a31",
-    "summary": "In this episode of Uncanny Valley, we run through the top stories of the week and look closely at complaints to the FTC alleging that ChatGPT led them or loved ones into AI psychosis.",
-    "ingested_utc": "2025-10-30T21:30:55Z"
   }
 ]
