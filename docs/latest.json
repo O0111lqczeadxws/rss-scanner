@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-11-02",
     "retrieved_date": "2025-11-02",
+    "retrieved_utc": "2025-11-02T20:40:50Z",
+    "source": "FT_Home",
+    "title": "A welcome revival of the Dutch political centre",
+    "url": "https://www.ft.com/content/37f287ad-78f1-483a-8981-772b9e0bdbe5",
+    "id_key": "be1e35c8111117092ab224283e74415fae39e97b0fd9ec36136e8b64594aab38",
+    "summary": "The liberal D66 are the big winners of the Netherlands election. So is Europe",
+    "ingested_utc": "2025-11-02T20:40:50Z"
+  },
+  {
+    "published_utc": "2025-11-02",
+    "retrieved_date": "2025-11-02",
     "retrieved_utc": "2025-11-02T20:32:21Z",
     "source": "HackerNews_Top",
     "title": "React-Native-Godot",
@@ -10986,17 +10997,6 @@
     "url": "https://www.ft.com/content/7e4e5c42-6b67-4e92-aaec-4c5714f672f6",
     "id_key": "656c324e8e943576b71d19b8691254055e1938ed0a8f277dc088aaf621554d0a",
     "summary": "Tech giant reports record annual profits as smartphone sales and services income pick up",
-    "ingested_utc": "2025-10-30T21:13:33Z"
-  },
-  {
-    "published_utc": "2025-10-30",
-    "retrieved_date": "2025-10-30",
-    "retrieved_utc": "2025-10-30T21:13:33Z",
-    "source": "FT_Home",
-    "title": "Amazon rebounds as AI demand powers bumper cloud unit sales",
-    "url": "https://www.ft.com/content/71e29546-661e-4c9f-b401-0428585fbc42",
-    "id_key": "99577d7abb4146bf9ae76efb33cee2920193831960300915fa7301b51ac91546",
-    "summary": "Shares jump after ecommerce giant says web services division is growing at fastest pace in three years",
     "ingested_utc": "2025-10-30T21:13:33Z"
   }
 ]
