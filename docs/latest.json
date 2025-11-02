@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-11-02",
     "retrieved_date": "2025-11-02",
+    "retrieved_utc": "2025-11-02T11:35:56Z",
+    "source": "WIRED_All",
+    "title": "Ray-Ban Meta Gen 2 Review: Upgraded Glasses, Bad Vibes",
+    "url": "https://www.wired.com/review/ray-ban-meta-gen-2-glasses/",
+    "id_key": "f728a3c14b1fd3c6c69d417892e999c147b991f76ecdf421e8c487c830c50d2c",
+    "summary": "Meta's new display-less smart glasses are quite good, but the vibes are off.",
+    "ingested_utc": "2025-11-02T11:35:56Z"
+  },
+  {
+    "published_utc": "2025-11-02",
+    "retrieved_date": "2025-11-02",
+    "retrieved_utc": "2025-11-02T11:35:39Z",
+    "source": "FT_Home",
+    "title": "Police say ‘nothing to suggest’ Cambridgeshire train stabbings were terrorism",
+    "url": "https://www.ft.com/content/ebad259e-222b-48c1-9312-fa33b62add31",
+    "id_key": "ca3edcd53b4248904105a5e8f04dfc221bed59b6b3f9223ed8348edaa0effa61",
+    "summary": "Two suspects under arrest are both British nationals born in the UK",
+    "ingested_utc": "2025-11-02T11:35:39Z"
+  },
+  {
+    "published_utc": "2025-11-02",
+    "retrieved_date": "2025-11-02",
     "retrieved_utc": "2025-11-02T11:25:40Z",
     "source": "FT_Home",
     "title": "Police say ‘nothing to suggest’ Cambridgeshire train stabbing was terrorism",
@@ -10976,27 +10998,5 @@
     "id_key": "0ce96e794d5bfddf5dd8bf52635a328dbe6e2da9503df0364fc8454ff57c379e",
     "summary": "A witness says residents brought down body after body - some mutilated - after the massive police raid which has left at least 120 dead.",
     "ingested_utc": "2025-10-30T18:16:10Z"
-  },
-  {
-    "published_utc": "2025-10-30",
-    "retrieved_date": "2025-10-30",
-    "retrieved_utc": "2025-10-30T17:51:11Z",
-    "source": "FinancialPost_Business",
-    "title": "NBA approves $10 billion Lakers sale to Mark Walter",
-    "url": "https://financialpost.com/news/nba-owners-lakers-sale-mark-walter",
-    "id_key": "9e08a0801f14d6f17fa52e8dbcec62f382ca62f3724abe36fffbd9f5d5998c8c",
-    "summary": "The price tag is the largest ever in a control sale of a sports franchise",
-    "ingested_utc": "2025-10-30T17:51:11Z"
-  },
-  {
-    "published_utc": "2025-10-30",
-    "retrieved_date": "2025-10-30",
-    "retrieved_utc": "2025-10-30T17:51:11Z",
-    "source": "FinancialPost_Business",
-    "title": "American farmers welcome China’s promise to buy their soybean but this deal doesn’t solve everything",
-    "url": "https://financialpost.com/pmn/american-farmers-welcome-chinas-promise-to-buy-their-soybean-but-this-deal-doesnt-solve-everything",
-    "id_key": "a4a9b75aec889bf01e3891bdb45c7d105824822d1eb6b8b3acd01c932efc8920",
-    "summary": "OMAHA, Neb. (AP) — American farmers welcomed China’s promise to buy some of their soybeans, but they cautioned this won’t solve all their problems as they continue to deal with soaring prices for fertilizer, tractors, repair parts and seeds. The Chinese promise to buy at least 25 million metric tons of soybeans annually for next […]",
-    "ingested_utc": "2025-10-30T17:51:11Z"
   }
 ]
