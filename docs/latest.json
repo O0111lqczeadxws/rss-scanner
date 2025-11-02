@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-11-02",
     "retrieved_date": "2025-11-02",
+    "retrieved_utc": "2025-11-02T23:50:43Z",
+    "source": "FinancialPost_Business",
+    "title": "Tomingley Drilling Discovers New Mineralisation at McLeans",
+    "url": "https://financialpost.com/globe-newswire/tomingley-drilling-discovers-new-mineralisation-at-mcleans",
+    "id_key": "f6d55506db7a0f923870515f4715d31365e9b1709582ce1d8a85161bbc6eb817",
+    "summary": "Underground core drilling at Tomingley is focused on defining extensions to resources as well as improving confidence of Inferred Resources at McLeans and the Western Monzodiorite domain at Roswell. Both McLeans and the Western Monzodiorite are immediately adjacent to existing underground infrastructure. Underground drilling comprising of 9 diamond holes for a total of 3,247 […]",
+    "ingested_utc": "2025-11-02T23:50:43Z"
+  },
+  {
+    "published_utc": "2025-11-02",
+    "retrieved_date": "2025-11-02",
     "retrieved_utc": "2025-11-02T23:29:43Z",
     "source": "FinancialPost_Business",
     "title": "Toymaker Gears Up for Supreme Court Fight Over Trump’s Tariffs",
@@ -10987,16 +10998,5 @@
     "id_key": "77e0550fe4a398cc1fe8c58d2f942974afd9fb16c4bc09ec01a4c3a13b798d9c",
     "summary": "Shooting at vehicle in Ontario comes as Trump officials attempt to step up deportation operations across US US Immigration and Customs Enforcement agents were involved in a shooting in southern California on Thursday, prompting a federal investigation. The Department of Homeland Security said in a statement that ICE officers were conducting a vehicle stop in Ontario when another driver, who was not the target, approached. Officers ordered the driver to leave the area, according to the statement. Continue reading...",
     "ingested_utc": "2025-10-30T22:11:11Z"
-  },
-  {
-    "published_utc": "2025-10-30",
-    "retrieved_date": "2025-10-30",
-    "retrieved_utc": "2025-10-30T21:50:11Z",
-    "source": "AlJazeera_All",
-    "title": "US Justice Department places prosecutors on leave for January 6 reference",
-    "url": "https://www.aljazeera.com/news/2025/10/30/us-justice-department-places-prosecutors-on-leave-for-january-6-reference?traffic_source=rss",
-    "id_key": "906a0ad5d1ea95be0470037d03874faed77d8ce92a832031193c709376b27294",
-    "summary": "The prosecutors reportedly called the Trump supporters who participated in the January 6 attack a 'mob of rioters'.",
-    "ingested_utc": "2025-10-30T21:50:11Z"
   }
 ]
