@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-11-02",
     "retrieved_date": "2025-11-02",
+    "retrieved_utc": "2025-11-02T17:47:42Z",
+    "source": "Guardian_World",
+    "title": "Rail unions call for more protection for staff and travellers after Cambridgeshire train stabbings",
+    "url": "https://www.theguardian.com/uk-news/2025/nov/02/rail-unions-call-for-more-protection-for-staff-travellers-cambridgeshire-train-stabbings",
+    "id_key": "3e43ac93f438b003ae7d5eefb39af0b3c779d7adf4c6b60002f97457b86a5f7d",
+    "summary": "Incident casts spotlight on transport safety, after budget cuts affecting police numbers and staffing Rail unions have called for more protection for staff and passengers after the mass stabbings attack on an LNER train in Cambridgeshire. The incident has cast a fresh spotlight on transport safety, after budget cuts affecting police numbers and rail staffing. While details are still unfolding, the actions of onboard crew appear to have played a significant part in limiting the number and severity of casualties. Continue reading...",
+    "ingested_utc": "2025-11-02T17:47:42Z"
+  },
+  {
+    "published_utc": "2025-11-02",
+    "retrieved_date": "2025-11-02",
     "retrieved_utc": "2025-11-02T17:39:50Z",
     "source": "HackerNews_Top",
     "title": "At the end you use Git bisect",
@@ -1901,6 +1912,17 @@
     "id_key": "797cf19cd401fc2323a7481a8ef4f57a43ed236d7b3907aa0512a883265f195e",
     "summary": "The wit and wisdom of the superstar ex-US president make him the best candidate – too bad he can’t run “It’s not as if we didn’t see some of this coming,” said Barack Obama , a note of bleak humour in his voice. “I will admit it’s worse than even I expected, but I did warn y’all!” The crowd at a sports arena in Norfolk, Virginia, half-laughed and half-groaned. “I did,” Obama added. “You can run the tape.” Continue reading...",
     "ingested_utc": "2025-11-02T00:56:39Z"
+  },
+  {
+    "published_utc": "2025-11-01",
+    "retrieved_date": "2025-11-02",
+    "retrieved_utc": "2025-11-02T17:47:40Z",
+    "source": "BBC_Business",
+    "title": "Police seize €1.3bn from Campari owner over alleged tax evasion",
+    "url": "https://www.bbc.com/news/articles/cpq11v5d1rno?at_medium=RSS&at_campaign=rss",
+    "id_key": "c10d61a038a4e7d906005605ce12f71831257e6c2df48e6a9cc7c21f5d4c5685",
+    "summary": "The spirit manufacturer's parent firm is accused of failing to declare a similar amount in tax during a merger.",
+    "ingested_utc": "2025-11-02T17:47:40Z"
   },
   {
     "published_utc": "2025-11-01",
@@ -10976,27 +10998,5 @@
     "id_key": "a135cda5d08bc6e02b72031b7c9c0b19eb75b7ccddf150b3a82b029cfc17b140",
     "summary": "NEW YORK — Mind Medicine (MindMed) Inc. (NASDAQ: MNMD) (the “Company” or “MindMed”), a late-stage clinical biopharmaceutical company developing novel product candidates to treat brain health disorders, today announced that it will host a live webcast at 4:30 p.m. EST on Thursday, November 6, 2025 to report financial results for the third quarter ended September […]",
     "ingested_utc": "2025-10-30T20:15:54Z"
-  },
-  {
-    "published_utc": "2025-10-30",
-    "retrieved_date": "2025-10-30",
-    "retrieved_utc": "2025-10-30T20:15:39Z",
-    "source": "TheStreet_Top",
-    "title": "Spirit Airlines sees flights into this city plummet by nearly half",
-    "url": "https://www.thestreet.com/travel/spirit-airlines-sees-flights-into-this-city-plummet-by-nearly-half",
-    "id_key": "18d22640f26a2893284b028fa109a61dcb9c8b5a90f986005c3343d84aa5bd56",
-    "summary": "While the full picture of just how much travel into the United States has fallen under the Trump administration will become clearer when the numbers for all of 2025 are calculated, one city on the west side of the country has seen a particularly dramatic dropoff. The most recent numbers released by ...",
-    "ingested_utc": "2025-10-30T20:15:39Z"
-  },
-  {
-    "published_utc": "2025-10-30",
-    "retrieved_date": "2025-10-30",
-    "retrieved_utc": "2025-10-30T20:15:28Z",
-    "source": "ArsTechnica_All",
-    "title": "Canva’s new Affinity app is free to use but locks AI features behind a subscription",
-    "url": "https://arstechnica.com/gadgets/2025/10/canvas-new-affinity-app-is-free-to-use-but-locks-ai-features-behind-a-subscription/",
-    "id_key": "3dd01bc6da82fa580c7fdc7c5d952608eaf0784ad1b4a5bb83634194d3d66bb5",
-    "summary": "Updated app is \"free forever,\" but perpetually licensed Affinity apps are gone.",
-    "ingested_utc": "2025-10-30T20:15:28Z"
   }
 ]
