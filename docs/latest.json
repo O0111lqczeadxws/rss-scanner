@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-11-03",
     "retrieved_date": "2025-11-03",
+    "retrieved_utc": "2025-11-03T04:05:12Z",
+    "source": "CoinJournal",
+    "title": "Bitcoin holds $110k as cautious calm returns to crypto markets",
+    "url": "https://coinjournal.net/news/bitcoin-holds-110k-as-cautious-calm-returns-to-crypto-markets/",
+    "id_key": "556768f2e33ec4bb5aaabbb9f5b068d95c40da46d58e7603eab1eb526f41c581",
+    "summary": "Bitcoin is trading steadily around $110,300 as markets consolidate. Traders have largely paused adding new risk after the recent Fed meeting. Bitcoin dominance has risen to approximately 60% of the total crypto market. With Bitcoin holding steady above the key $110,000 level as traders consolidate positions and reassess risk following last week’s hawkish signals from […] The post Bitcoin holds $110k as cautious calm returns to crypto markets appeared first on CoinJournal .",
+    "ingested_utc": "2025-11-03T04:05:12Z"
+  },
+  {
+    "published_utc": "2025-11-03",
+    "retrieved_date": "2025-11-03",
+    "retrieved_utc": "2025-11-03T04:04:45Z",
+    "source": "BBC_World",
+    "title": "At least eight dead after magnitude-6.3 earthquake hits Afghanistan",
+    "url": "https://www.bbc.com/news/articles/c8jrw12d3edo?at_medium=RSS&at_campaign=rss",
+    "id_key": "96ac93744fd55f045f886344cbf0365a5f522760290935f54bee7684aa0a7291",
+    "summary": "The quake struck near Mazar-e Sharif, one of Afghanistan's largest cities, in the early hours of Monday.",
+    "ingested_utc": "2025-11-03T04:04:45Z"
+  },
+  {
+    "published_utc": "2025-11-03",
+    "retrieved_date": "2025-11-03",
     "retrieved_utc": "2025-11-03T03:44:53Z",
     "source": "Nikkei_Asia_Top",
     "title": "Hong Kong's embattled New World to issue up to $1.9bn in securities",
@@ -10976,27 +10998,5 @@
     "id_key": "5032cf134b1b95a5701150687637f36132b3fa8dc217928260cd37afb1345c14",
     "summary": "NPR alleges that CPB unlawfully yanked away a planned three-year contract worth $36 million in the face of intense pressure from the White House to sever ties with the radio network.",
     "ingested_utc": "2025-10-31T07:13:49Z"
-  },
-  {
-    "published_utc": "2025-10-30",
-    "retrieved_date": "2025-10-31",
-    "retrieved_utc": "2025-10-31T05:36:00Z",
-    "source": "FT_Markets",
-    "title": "Federal Reserve plans to reduce banking supervision staff",
-    "url": "https://www.ft.com/content/279a535b-aa3d-4974-8466-f6b7402fdd12",
-    "id_key": "7df8fb3114771a4aec067cedf7c2ffbd07dc338c0228a561cecaa571f1340b5f",
-    "summary": "Proposal highlights Trump administration’s push to deregulate financial industry",
-    "ingested_utc": "2025-10-31T05:36:00Z"
-  },
-  {
-    "published_utc": "2025-10-30",
-    "retrieved_date": "2025-10-31",
-    "retrieved_utc": "2025-10-31T03:34:23Z",
-    "source": "CBC_Business",
-    "title": "MEG meeting on Cenovus deal postponed another week",
-    "url": "https://www.cbc.ca/news/canada/calgary/meg-meeting-on-cenovus-deal-postponed-another-week-9.6960085?cmp=rss",
-    "id_key": "bf9bf6eb050d27c0176d758a73ca0ee7d01c62f43e92c852704fc10381658a30",
-    "summary": "MEG board chair James McFarland twice paused the meeting Thursday to address a last-minute \"regulatory inquiry\" before adjourning it until Nov. 6.",
-    "ingested_utc": "2025-10-31T03:34:23Z"
   }
 ]
