@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-11-03",
     "retrieved_date": "2025-11-03",
+    "retrieved_utc": "2025-11-03T23:40:09Z",
+    "source": "TheStreet_Top",
+    "title": "Warren Buffett’s Berkshire quietly moves $6 billion off the table",
+    "url": "https://www.thestreet.com/investing/warren-buffetts-berkshire-quietly-moves-6-billion-off-the-table",
+    "id_key": "c590d9e9ae73d23266a68d23b8da81035572baaedd91130603b6784f6def65e8",
+    "summary": "Warren Buffett isn’t one to flinch often, but Berkshire Hathaway’s (BRK.A, BRK.B) latest move turned heads. The company quietly sold $6.1 billion in stock in Q3, with the company’s balance sheet looking a lot less like a shopping spree and more like a waiting room. Berkshire’s profits still came in ...",
+    "ingested_utc": "2025-11-03T23:40:09Z"
+  },
+  {
+    "published_utc": "2025-11-03",
+    "retrieved_date": "2025-11-03",
     "retrieved_utc": "2025-11-03T23:31:11Z",
     "source": "CBC_Business",
     "title": "Questrade secures approval to launch a bank in Canada",
@@ -5810,6 +5821,17 @@
   {
     "published_utc": "2025-11-02",
     "retrieved_date": "2025-11-03",
+    "retrieved_utc": "2025-11-03T23:40:09Z",
+    "source": "TheStreet_Top",
+    "title": "Costco has secret stores most members have never seen",
+    "url": "https://www.thestreet.com/retail/costco-has-secret-stores-youve-never-seen-heres-what-they-offer",
+    "id_key": "83b0c5228aadfd112b734efdf3899afdc8806732016b1073bc7146ac89ec975b",
+    "summary": "Costco operates more than just its traditional warehouse stores, even though many members may not know that. The chain, of course, has experimented with a store in Alaska that just sells furniture and appliances. Costco also plans to open a gas station without a connected warehouse in Mission ...",
+    "ingested_utc": "2025-11-03T23:40:09Z"
+  },
+  {
+    "published_utc": "2025-11-02",
+    "retrieved_date": "2025-11-03",
     "retrieved_utc": "2025-11-03T18:19:36Z",
     "source": "TheStreet_Top",
     "title": "As Palantir rolls on, rivals are worth a second look",
@@ -10976,27 +10998,5 @@
     "id_key": "9f1d24789adaa9132a9da75afe9d63e7837e5b168877b286f76825f3f6dc230e",
     "summary": "Reporters blocked from key White House area without prior approval, citing structural changes and security concerns.",
     "ingested_utc": "2025-10-31T23:13:43Z"
-  },
-  {
-    "published_utc": "2025-10-31",
-    "retrieved_date": "2025-10-31",
-    "retrieved_utc": "2025-10-31T23:11:22Z",
-    "source": "CryptoNews",
-    "title": "Fed Crushes Caitlin Long’s Crypto Bank’s 5-Year Bid for Master Account",
-    "url": "https://cryptonews.com/news/fed-crushes-caitlin-long-crypto-bank-master-account-appeal/",
-    "id_key": "b60bc64c2417cf3e91c0f7127d9e923a47f793f0176c1ac465061689223869d2",
-    "summary": "An appeals court has ruled the Federal Reserve has discretion to reject access to its payment rails, ending a multi-year effort to secure the Custodia Bank master account. The post Fed Crushes Caitlin Long’s Crypto Bank’s 5-Year Bid for Master Account appeared first on Cryptonews .",
-    "ingested_utc": "2025-10-31T23:11:22Z"
-  },
-  {
-    "published_utc": "2025-10-31",
-    "retrieved_date": "2025-10-31",
-    "retrieved_utc": "2025-10-31T23:11:18Z",
-    "source": "CryptoSlate",
-    "title": "Does Bitcoin Power Law model still work in 2025 after S2F failed?",
-    "url": "https://cryptoslate.com/does-the-bitcoin-power-law-model-still-hold-after-stock-to-flow-failed/",
-    "id_key": "d090e333008842a4238e5284c9d4b1cad4a1502e1845b836759cb5748db24179",
-    "summary": "With S2F in the rearview, the live power-law channel indicates that BTC is roughly 20% below fair value, but ETF flows could push it to either extreme. Bitbo’s implementation of Giovanni Santostasi’s model places the price near $109,700, the fair value near $136,100, the support near $48,300, and the resistance near $491,800, which frames the current cycle […] The post Does Bitcoin Power Law model still work in 2025 after S2F failed? appeared first on CryptoSlate .",
-    "ingested_utc": "2025-10-31T23:11:18Z"
   }
 ]
