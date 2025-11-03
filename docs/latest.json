@@ -2,6 +2,105 @@
   {
     "published_utc": "2025-11-03",
     "retrieved_date": "2025-11-03",
+    "retrieved_utc": "2025-11-03T19:12:07Z",
+    "source": "TheStreet_Top",
+    "title": "Amazon's bestselling artificial Christmas tree is on sale for only $68, and 'it looks so realistic'",
+    "url": "https://www.thestreet.com/deals/best-choice-products-artificial-christmas-tree-amazon-sale",
+    "id_key": "9283f467ea9b40d7feb9523bc3f025e758e884cddd727e2590de6e280a7fe37b",
+    "summary": "More than 3,000 shoppers have given this holiday decor a perfect five-star rating.",
+    "ingested_utc": "2025-11-03T19:12:07Z"
+  },
+  {
+    "published_utc": "2025-11-03",
+    "retrieved_date": "2025-11-03",
+    "retrieved_utc": "2025-11-03T19:11:57Z",
+    "source": "WIRED_All",
+    "title": "WIRED Roundup: Alpha School, Grokipedia, and Real Estate AI Videos",
+    "url": "https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-alpha-school-grokipedia-real-estate-ai-videos/",
+    "id_key": "2f094b414cd2941e8c980e18ceba7ab1f585b737665a1dccc4741e504e7be1ec",
+    "summary": "In this episode of Uncanny Valley, we run through the top stories of the week and dive into why the promise of a tech-forward school in Texas with software instead of teachers fell apart.",
+    "ingested_utc": "2025-11-03T19:11:57Z"
+  },
+  {
+    "published_utc": "2025-11-03",
+    "retrieved_date": "2025-11-03",
+    "retrieved_utc": "2025-11-03T19:11:55Z",
+    "source": "TheVerge_All",
+    "title": "Google’s TV Streamer (4K) is down to its best price to date ahead of Black Friday",
+    "url": "https://www.theverge.com/tech/812562/google-tv-streamer-4k-black-friday-2025-deal-sale",
+    "id_key": "f11a6681ff6c9047b4f5ba3bf9e769190671b06b8b111c190f6287e0c037b51f",
+    "summary": "With everything from the next Knives Out movie to the final season of Stranger Things on the way, there’s going to be a ton of great stuff to stream in the coming weeks. And if you want to watch it all in glorious 4K resolution, Google’s TV Streamer (4K) is a great streaming device that’s […]",
+    "ingested_utc": "2025-11-03T19:11:55Z"
+  },
+  {
+    "published_utc": "2025-11-03",
+    "retrieved_date": "2025-11-03",
+    "retrieved_utc": "2025-11-03T19:11:55Z",
+    "source": "TheVerge_All",
+    "title": "Apple TV&#8217;s new name now comes with a new sound",
+    "url": "https://www.theverge.com/news/812644/apple-tv-sound-video-mnemonic-finneas-rebrand-name-plus",
+    "id_key": "96426a7b70a12d243beb6c4041c5d23c781e126fd4436cfadb682d7dc67c4b1b",
+    "summary": "Apple has shared a new intro sound and video that will accompany things you watch on the newly-renamed Apple TV streaming service. Apple rebranded Apple TV Plus to just Apple TV last month, and the previous intro prominently highlighted the plus, so it makes sense that Apple made a new version to accompany the updated […]",
+    "ingested_utc": "2025-11-03T19:11:55Z"
+  },
+  {
+    "published_utc": "2025-11-03",
+    "retrieved_date": "2025-11-03",
+    "retrieved_utc": "2025-11-03T19:10:47Z",
+    "source": "Optimism_Releases",
+    "title": "op-node/v1.16.0",
+    "url": "https://github.com/ethereum-optimism/optimism/releases/tag/op-node%2Fv1.16.0",
+    "id_key": "f0ac1f223fcef1116709cbaa1ebd9e94f289b405f301ad53ff940b63df7677bc",
+    "summary": "Warning DO NOT USE THIS RELEASE. The Jovian activation timestamps are being updated in a new release. What's Changed go: Update op-geth dependency to update Jovian timestamps by @sebastianst in #18048 op-acceptance-tests: various improvements to the Fusaka acceptance test by @joshklop in #17944 go: update op-geth import to include scr jovian timestamps by @bitwiseguy in #18016 op-e2e/actions: Add Jovian DA footprint test by @sebastianst in #17947 op-node/rollup: Drop non-empty batches for Jovian activation block by @sebastianst in #17984 🚢 Docker Image: https://us-docker.pkg.dev/oplabs-tools-artifacts/images/op-node:v1.16.0 Full Changelog : op-node/v1.14.3...op-node/v1.16.0",
+    "ingested_utc": "2025-11-03T19:10:47Z"
+  },
+  {
+    "published_utc": "2025-11-03",
+    "retrieved_date": "2025-11-03",
+    "retrieved_utc": "2025-11-03T19:09:39Z",
+    "source": "BitcoinMagazine",
+    "title": "Btrust Names Bitcoin Core Contributor Abubakar Nur Khalil as New CEO",
+    "url": "https://bitcoinmagazine.com/builders/btrust-names-abubakar-nur-khalil-ceo",
+    "id_key": "e29a6ce6a3d5e908d804384cc9bf5c5f4db38070ed0449e6fa73e988e46c3804",
+    "summary": "Bitcoin Magazine Btrust Names Bitcoin Core Contributor Abubakar Nur Khalil as New CEO After a stint as interim CEO, Abubakar Nur Khalil is officially Btrust's new chief executive officer. This post Btrust Names Bitcoin Core Contributor Abubakar Nur Khalil as New CEO first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
+    "ingested_utc": "2025-11-03T19:09:39Z"
+  },
+  {
+    "published_utc": "2025-11-03",
+    "retrieved_date": "2025-11-03",
+    "retrieved_utc": "2025-11-03T19:09:22Z",
+    "source": "Guardian_World",
+    "title": "French taxi driver cleared of stealing from David Lammy after fare dispute",
+    "url": "https://www.theguardian.com/politics/2025/nov/03/french-taxi-driver-david-lammy-fare-dispute",
+    "id_key": "868e74ea82a92f6262b5f0365993e0fe2fce64ab5eff337057d38ca615fa6444",
+    "summary": "Nassim Mimun, who left with Lammy’s and his wife’s bags after ‘tone escalated’, acquitted due to lack of evidence A French taxi driver accused of stealing money and luggage from David Lammy has been acquitted due to lack of evidence, a prosecutor said. Nassim Mimun, 40, drove the deputy prime minister and his wife, Nicola Green, more than 600km (370 miles) from Forli, near Bologna in northern Italy, to the ski resort of Flaine in the French Alps on 11 April. Continue reading...",
+    "ingested_utc": "2025-11-03T19:09:22Z"
+  },
+  {
+    "published_utc": "2025-11-03",
+    "retrieved_date": "2025-11-03",
+    "retrieved_utc": "2025-11-03T19:09:22Z",
+    "source": "Guardian_World",
+    "title": "City watchdog ‘nakedly’ siding with lenders on car finance redress, MPs say",
+    "url": "https://www.theguardian.com/business/2025/nov/03/car-finance-redress-scheme-shows-city-watchdog-nakedly-siding-with-lenders-mps-say",
+    "id_key": "204ec0b6c54ec776f7aa31794d464dbcc69f0e5dea830c949a632945dd906bfe",
+    "summary": "Cross-party group says Financial Conduct Authority had been ‘patently influenced’ by concerns over profits The City regulator has “nakedly taken the side of lenders” in its planned compensation scheme for car loan victims and has been “patently influenced” by concerns over profits, a group of cross-party MPs have claimed. The All-Party Parliamentary Group (APPG) on Fair Banking joined a growing chorus of critics concerned about the Financial Conduct Authority’s (FCA) proposed redress scheme, which is meant to compensate borrowers who were overcharged as a result of commission arrangements between lenders and car dealers. Continue reading...",
+    "ingested_utc": "2025-11-03T19:09:22Z"
+  },
+  {
+    "published_utc": "2025-11-03",
+    "retrieved_date": "2025-11-03",
+    "retrieved_utc": "2025-11-03T19:09:22Z",
+    "source": "Guardian_World",
+    "title": "New York mayoral candidates campaign across city in final push before election",
+    "url": "https://www.theguardian.com/us-news/2025/nov/03/new-york-city-mayoral-race-mamdani-cuomo",
+    "id_key": "8e75d7ceea5a812b14d24a970b4afa542d7b6bd33bfd9b75a8250dcfd4f2dd87",
+    "summary": "Zohran Mamdani walked across Brooklyn Bridge while Andrew Cuomo headed to the Bronx The candidates for New York City mayor spent a frantic final day campaigning across the city, as voters prepare to head to the polls on Tuesday in one of the most closely watched races in the city’s history. Zohran Mamdani, the race’s frontrunner, whose campaign has been centered on affordability, has maintained a commanding lead, with most polls showing him leading by double digits . Continue reading...",
+    "ingested_utc": "2025-11-03T19:09:22Z"
+  },
+  {
+    "published_utc": "2025-11-03",
+    "retrieved_date": "2025-11-03",
     "retrieved_utc": "2025-11-03T18:57:07Z",
     "source": "HackerNews_Top",
     "title": "Why Engineers Can't Be Rational About Programming Languages",
@@ -10899,104 +10998,5 @@
     "id_key": "7f96a365a1e0d42c68bf28943e39628451fb53ce2cc819351664b31eefe42f4f",
     "summary": "Bitcoin Magazine Steak ’n Shake Launches First-Ever Strategic Bitcoin Reserve Steak ’n Shake is making history as the first major restaurant to create a Strategic Bitcoin Reserve, adding all Bitcoin payments to its SBR and taking a bold step into cryptocurrency adoption. This post Steak ’n Shake Launches First-Ever Strategic Bitcoin Reserve first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
     "ingested_utc": "2025-10-31T18:17:23Z"
-  },
-  {
-    "published_utc": "2025-10-31",
-    "retrieved_date": "2025-10-31",
-    "retrieved_utc": "2025-10-31T18:17:23Z",
-    "source": "BitcoinMagazine",
-    "title": "Tenth Circuit Hands Fed a Win: Custodia Denied Master Account in Blow to Crypto Sovereignty,  Dissent Brings the Heat",
-    "url": "https://bitcoinmagazine.com/legal/tenth-circuit-hands-fed-a-win-custodia-denied-master-account-in-blow-to-crypto-sovereignty-dissent-brings-the-heat",
-    "id_key": "7b92b4c0156d9e7233a3c54fe0992fb2232e45dd5b819adc6c584d3f10c13287",
-    "summary": "Bitcoin Magazine Tenth Circuit Hands Fed a Win: Custodia Denied Master Account in Blow to Crypto Sovereignty, Dissent Brings the Heat A Tenth Circuit judge panel upholds the Federal Reserve's right to discretion in approving or denying master account access in Custodia case. This post Tenth Circuit Hands Fed a Win: Custodia Denied Master Account in Blow to Crypto Sovereignty, Dissent Brings the Heat first appeared on Bitcoin Magazine and is written by Colin Crossman .",
-    "ingested_utc": "2025-10-31T18:17:23Z"
-  },
-  {
-    "published_utc": "2025-10-31",
-    "retrieved_date": "2025-10-31",
-    "retrieved_utc": "2025-10-31T18:17:06Z",
-    "source": "Guardian_World",
-    "title": "‘How do you rebuild all this?’ Black River residents assess damage after Hurricane Melissa",
-    "url": "https://www.theguardian.com/world/2025/oct/31/black-river-jamaica-residents-assess-damage-after-hurricane-melissa",
-    "id_key": "60bc7cf04d15e39b89af41cbab3f04cbb1c2c0bc029a900ec6a585762f536c6c",
-    "summary": "People of Jamaican coastal town described as storm’s ground zero are traumatised and desperate for help It is a treacherous journey to Black River, a coastal town in Jamaica’s southwestern parish of St Elizabeth, which this week bore the brunt of Hurricane Melissa, one of the strongest Atlantic hurricanes on record. Uprooted trees and lamp-posts, rubble from landslides, huge potholes and miles of thick, slippery silt from severe flooding have turned the route into a dangerous obstacle course. But most daunting is the water that you encounter as you pass through communities that overnight have become rivers. Continue reading...",
-    "ingested_utc": "2025-10-31T18:17:06Z"
-  },
-  {
-    "published_utc": "2025-10-31",
-    "retrieved_date": "2025-10-31",
-    "retrieved_utc": "2025-10-31T18:17:06Z",
-    "source": "Guardian_World",
-    "title": "Judge rules suspending Snap food aid during shutdown is likely to be unlawful, in blow to Trump officials’ plans – live",
-    "url": "https://www.theguardian.com/us-news/live/2025/oct/31/donald-trump-filibuster-shutdown-snap-food-refugees-drug-boats-latest-news-updates",
-    "id_key": "0dcf660d8471eff8af72476f703158b24280d1bbdf6d99205cd3a68a277f2098",
-    "summary": "Federal court ruling comes hours before more than 40 million Americans could lose food stamps benefits Trump calls on Republicans to abolish the Senate filibuster rule What is the filibuster and why is Trump against it? How will shutdown affect your access to food or health insurance US House Speaker Mike Johnson reiterated this morning that he will not bring the chamber back into session until the government shutdown ends. Speaking to Fox News on Friday, Johnson said: “We are anxious to get the house back to regular legislative session, but we have to get the lights turned back on. Chuck Schumer and the Democrats in the Senate have got to reopen the government. Again, it’s the most fundamental responsibility of congress is to have the government operate and work for the people. That’s the number one priority right now and we cannot deviate from that.” Continue reading...",
-    "ingested_utc": "2025-10-31T18:17:06Z"
-  },
-  {
-    "published_utc": "2025-10-31",
-    "retrieved_date": "2025-10-31",
-    "retrieved_utc": "2025-10-31T18:17:06Z",
-    "source": "Guardian_World",
-    "title": "US electricity bills increased by 11% in Trump’s second term, data shows",
-    "url": "https://www.theguardian.com/us-news/2025/oct/31/us-electricity-bills-increased-trump",
-    "id_key": "2fbae073b49369c7ee48d2e222a56b07ba64d081d8237692e988d4e1b8cfd08e",
-    "summary": "New analysis prompts letter to Trump from Elizabeth Warren: ‘Your administration has no answers for families hit by high energy costs’ Donald Trump promised to slash US electricity bills, but they have increased by 11% since he retook the White House, new data shows. Democratic lawmakers highlighted the figures in a letter sent to Donald Trump on Friday. “Your administration has no explanations for its failures and no answers for American families that are hit hard by high energy costs, and it continues to actively pursue policies to make this cost crisis worse,” reads the missive, led by Elizabeth Warren , the Massachusetts senator. Continue reading...",
-    "ingested_utc": "2025-10-31T18:17:06Z"
-  },
-  {
-    "published_utc": "2025-10-31",
-    "retrieved_date": "2025-10-31",
-    "retrieved_utc": "2025-10-31T18:17:06Z",
-    "source": "Guardian_World",
-    "title": "JP Morgan warned US of $1bn in Epstein transactions possibly related to human trafficking",
-    "url": "https://www.theguardian.com/business/2025/oct/31/jp-morgan-jeffrey-epstein-transactions",
-    "id_key": "ae0eb1574e642ba6f5e7835a325d62e742aa7f28f04fc8b4fc431eefd5799c31",
-    "summary": "Bank says it alerted US of ‘suspicious’ transactions just weeks after paedophile was found dead in New York jail cell JP Morgan warned the US government about more than $1bn in transactions linked to Jeffrey Epstein that were possibly related to reports of human trafficking, new documents confirm. The largest bank in the US filed a suspicious activity report (SAR) in 2019, just weeks after Epstein was found dead in a New York jail cell, about transactions linked to the paedophile financier and prominent business figures. It also flagged wire transfers made by Epstein to Russian banks. Continue reading...",
-    "ingested_utc": "2025-10-31T18:17:06Z"
-  },
-  {
-    "published_utc": "2025-10-31",
-    "retrieved_date": "2025-10-31",
-    "retrieved_utc": "2025-10-31T18:17:03Z",
-    "source": "BBC_World",
-    "title": "More than 60,000 flee Sudanese city after its capture by RSF militia, says UN",
-    "url": "https://www.bbc.com/news/articles/c0qppe4vdevo?at_medium=RSS&at_campaign=rss",
-    "id_key": "913b734cfc672f7222873a8a48df78c546105ece11151fb455a8244ba03de478",
-    "summary": "El-Fasher is under the control of paramilitaries accused of mass executions and crimes against humanity.",
-    "ingested_utc": "2025-10-31T18:17:03Z"
-  },
-  {
-    "published_utc": "2025-10-31",
-    "retrieved_date": "2025-10-31",
-    "retrieved_utc": "2025-10-31T17:51:37Z",
-    "source": "TheStreet_Top",
-    "title": "Here’s what needs to happen for a December rate cut",
-    "url": "https://www.thestreet.com/video/heres-what-needs-to-happen-for-a-december-rate-cut",
-    "id_key": "6a219abeb7a8e41f4f1991e4d3e63554059cb902105c47c568e41b3ea487d77c",
-    "summary": "Ben Emons, Founder and CIO of FedWatch Advisors, breaks down the data and economic signals the Fed will watch before deciding on a rate cut this December.",
-    "ingested_utc": "2025-10-31T17:51:37Z"
-  },
-  {
-    "published_utc": "2025-10-31",
-    "retrieved_date": "2025-10-31",
-    "retrieved_utc": "2025-10-31T17:51:28Z",
-    "source": "Engadget_All",
-    "title": "DJI’s Neo 2 selfie drone has LiDAR for obstacle avoidance",
-    "url": "https://www.engadget.com/cameras/djis-neo-2-selfie-drone-has-lidar-for-obstacle-avoidance-174700215.html?src=rss",
-    "id_key": "cee7757a689e7c258309ec654f36ae9d84fcbdfc61fc7b033746f693eaf8b7b8",
-    "summary": "DJI just announced the Neo 2 selfie drone , a follow-up to last year's original. This upgraded model includes a whole lot of new features. Just make sure to set DJI's website to Hong Kong/China to see images and specs. Perhaps the biggest upgrade here is the inclusion of LiDAR sensors for obstacle avoidance. The LiDAR is paired with downward-looking infrared sensors so it should be much safer as the drone follows you during flight. It still has integrated guards to protect the propellers, but the new obstacle avoidance system adds some more peace of mind. The drone also now allows for gesture controls, which is handy when filming quickly-moving selfie videos. Users can adjust position and distance by moving their hands around. It still supports motion controllers and DJI's RC-N3 remote controller. DJI The max speed has been increased to nearly 27MPH, which is much faster than the original's follow speed. DJI told The Verge that the drone is better at handling difficult weather conditions, as it can maintain a stable hover in winds up to around 24MPH. The battery life is better, with a larger 1606mAh rechargeable battery that gets up to 19 minutes of use per charge. The original got around 14 to 17 minutes per charge . The camera now uses a dual-axis gimbal for improved stability, though has the same half-inch sensor of the original. However, the field of view has been widened and it can capture 4K footage at up to 60FPS. This goes up to 100FPS when the drone is being piloted manually. The internal storage has been boosted all the way up to 49GB, from 22GB. All of these upgrades have made the drone slightly heavier than the original, at 151 grams compared to 135 grams. If the battery life and speed are better, then the added weight doesn't really matter in my eyes. The bad news? The Neo 2 is currently only available in China. We called the original \"the best $200 drone ever made\" so we hope DJI goes for a wider release as soon as possible. The good news? The price should remain relatively similar, as it costs 1,499 Chinese Yuan. This translates to $211 in US dollars. However, we have no idea how or if tariffs will impact this pricing. This article originally appeared on Engadget at https://www.engadget.com/cameras/djis-neo-2-selfie-drone-has-lidar-for-obstacle-avoidance-174700215.html?src=rss",
-    "ingested_utc": "2025-10-31T17:51:28Z"
-  },
-  {
-    "published_utc": "2025-10-31",
-    "retrieved_date": "2025-10-31",
-    "retrieved_utc": "2025-10-31T17:44:41Z",
-    "source": "FinancialPost_Business",
-    "title": "TFI International dims forecast as tariffs damage freight demand in trucking",
-    "url": "https://financialpost.com/pmn/tfi-international-dims-forecast-as-tariffs-damage-freight-demand-in-trucking",
-    "id_key": "cb52ca62c28f5069d68f334a8949b54efcf6b7d33e1103fb64fca7879e79fa2b",
-    "summary": "MONTREAL — The cross-border trade war has thrown up a big roadblock for trucking company TFI International Inc., which saw year-over-year profits plunge by a third in its latest quarter and prompted a lower-than-expected financial forecast for the rest of 2025. The ongoing uncertainty surrounding tariffs and potential trade deals have had a “big effect” […]",
-    "ingested_utc": "2025-10-31T17:44:41Z"
   }
 ]
