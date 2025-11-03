@@ -2,6 +2,61 @@
   {
     "published_utc": "2025-11-03",
     "retrieved_date": "2025-11-03",
+    "retrieved_utc": "2025-11-03T05:35:56Z",
+    "source": "FT_Home",
+    "title": "The UK bank bashing must stop",
+    "url": "https://www.ft.com/content/b5708992-7c0e-46c2-a277-c99056d1df8f",
+    "id_key": "1ddd5f85a22eccdc41e847e2cc5bc008611db2c2408b221fad079bdc41e60e2e",
+    "summary": "If Britain is serious about growth, it needs strong lenders with the capacity to reinvest in financing the economy",
+    "ingested_utc": "2025-11-03T05:35:56Z"
+  },
+  {
+    "published_utc": "2025-11-03",
+    "retrieved_date": "2025-11-03",
+    "retrieved_utc": "2025-11-03T05:35:56Z",
+    "source": "FT_Home",
+    "title": "Businesses press Supreme Court to strike down Trump’s emergency tariff power",
+    "url": "https://www.ft.com/content/c9202a56-f348-49b5-ae97-5f0507f8304a",
+    "id_key": "1eb05c11cd44722c74f2f02ca9c4806e2b0eb466e62aef11c3ec220a5cda0ca9",
+    "summary": "About 40 briefs have been filed challenging signature policy ahead of showpiece hearing",
+    "ingested_utc": "2025-11-03T05:35:56Z"
+  },
+  {
+    "published_utc": "2025-11-03",
+    "retrieved_date": "2025-11-03",
+    "retrieved_utc": "2025-11-03T05:35:45Z",
+    "source": "NYTimes_World",
+    "title": "A Massacre Unfolding in Sudan",
+    "url": "https://www.nytimes.com/2025/11/02/world/darfur-sudan-ukraine-jamaica-japan.html",
+    "id_key": "8c9fce080543c12b2b27a5f4bcd3547e1c3c020a36f3ec233df8c3147272ab49",
+    "summary": "My colleague Declan Walsh writes about the humanitarian crisis in Darfur — and how the world is now largely looking away.",
+    "ingested_utc": "2025-11-03T05:35:45Z"
+  },
+  {
+    "published_utc": "2025-11-03",
+    "retrieved_date": "2025-11-03",
+    "retrieved_utc": "2025-11-03T05:33:35Z",
+    "source": "Guardian_World",
+    "title": "Australia politics live: Bridget McKenzie says ditching net zero emissions is in the ‘national interest’",
+    "url": "https://www.theguardian.com/australia-news/live/2025/nov/03/australia-politics-live-nationals-net-zero-liberals-labor-bulk-billing-optus-sussan-ley-anthony-albanese-question-time",
+    "id_key": "bb390c52f72ae89ef7b0b0b1bcae452e74c485e1a797266e9467e0af4e054cbd",
+    "summary": "Follow today’s news live Push for Ley to dump net zero emissions pledge as some Liberals fear ‘tail is wagging the dog’ Get our breaking news email , free app or daily news podcast Mortgage arrears fall at Westpac after rate cuts Mortgage holders are enjoying a reprieve from relentless cost of living pressures, as the number of home owners falling behind on their repayments falls. Notwithstanding the relief from interest rates, challenges remain, with inflation and unemployment increasing in recent months. Globally, uncertainty remains but this is an opportunity for Australia and we are in a good position to work through any impacts from events such as the ongoing geopolitical and trade tensions. I never started this process seeking to fail. I want to succeed, and that means we’ve all got to work together. And the way we have been constructively working together – obviously, there’s some noise here and noise there – but the way we have been working constructively together, I’m very confident that we’ll be able to reach a position which means we can all continue to work together in the best interests of the nation. Continue reading...",
+    "ingested_utc": "2025-11-03T05:33:35Z"
+  },
+  {
+    "published_utc": "2025-11-03",
+    "retrieved_date": "2025-11-03",
+    "retrieved_utc": "2025-11-03T05:33:32Z",
+    "source": "BBC_World",
+    "title": "At least 12 dead after magnitude-6.3 earthquake hits Afghanistan",
+    "url": "https://www.bbc.com/news/articles/c8jrw12d3edo?at_medium=RSS&at_campaign=rss",
+    "id_key": "fcc1c03670e62887263ee3bdb9aa35e217490a8853f1f9d122efa48919344dc8",
+    "summary": "The quake struck near Mazar-e Sharif, one of Afghanistan's largest cities, in the early hours of Monday.",
+    "ingested_utc": "2025-11-03T05:33:32Z"
+  },
+  {
+    "published_utc": "2025-11-03",
+    "retrieved_date": "2025-11-03",
     "retrieved_utc": "2025-11-03T05:16:07Z",
     "source": "FinancialPost_Business",
     "title": "Abu Dhabi hosts oil summit as OPEC+ halts production hikes planned for first quarter of 2026",
@@ -504,6 +559,17 @@
     "id_key": "b0ad4b9fddf3a9844423b72c628add81dc02805b3a4b4862c3676e78b48ba8e0",
     "summary": "The top US court will decide if many of Trump's tariffs are legal in a case with major implications for presidential power and billions of dollars.",
     "ingested_utc": "2025-11-03T00:56:00Z"
+  },
+  {
+    "published_utc": "2025-11-02",
+    "retrieved_date": "2025-11-03",
+    "retrieved_utc": "2025-11-03T05:36:43Z",
+    "source": "HackerNews_Top",
+    "title": "New Prompt Injection Papers: Agents Rule of Two and the Attacker Moves Second",
+    "url": "https://simonwillison.net/2025/Nov/2/new-prompt-injection-papers/",
+    "id_key": "483d3e17b75d89c20d3bb47524502499b5c2c5adcf16a2f4aa54a8676e8a48c4",
+    "summary": "Comments",
+    "ingested_utc": "2025-11-03T05:36:43Z"
   },
   {
     "published_utc": "2025-11-02",
@@ -10930,72 +10996,6 @@
     "title": "Trump cuts China fentanyl tariff to 10% as Xi delays rare-earth controls",
     "url": "https://asia.nikkei.com/economy/trade-war/trump-cuts-china-fentanyl-tariff-to-10-as-xi-delays-rare-earth-controls",
     "id_key": "fd178b57932fc079bc3c8b2b8ca378343fd70730b0818bba9e0b47bea1bb3d9d",
-    "summary": "",
-    "ingested_utc": "2025-10-31T00:55:42Z"
-  },
-  {
-    "published_utc": "2025-10-31",
-    "retrieved_date": "2025-10-31",
-    "retrieved_utc": "2025-10-31T00:55:42Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "BOJ 'not behind the curve' says Gov. Ueda after standing pat",
-    "url": "https://asia.nikkei.com/economy/bank-of-japan/boj-not-behind-the-curve-says-gov.-ueda-after-standing-pat",
-    "id_key": "4df385795f2062c76a3f80e7f075be16ab4bb386d859ce82070ecffc296591f3",
-    "summary": "",
-    "ingested_utc": "2025-10-31T00:55:42Z"
-  },
-  {
-    "published_utc": "2025-10-31",
-    "retrieved_date": "2025-10-31",
-    "retrieved_utc": "2025-10-31T00:55:42Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "India's solar tariffs offset subsidies, push up energy prices",
-    "url": "https://asia.nikkei.com/business/energy/india-s-solar-tariffs-offset-subsidies-push-up-energy-prices",
-    "id_key": "04aaf3c238994154406d956576e599d89882c908d21938994f2fc2c8c5c20ee9",
-    "summary": "",
-    "ingested_utc": "2025-10-31T00:55:42Z"
-  },
-  {
-    "published_utc": "2025-10-31",
-    "retrieved_date": "2025-10-31",
-    "retrieved_utc": "2025-10-31T00:55:42Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "UK and Vietnam upgrade strategic partnership, champion free trade",
-    "url": "https://asia.nikkei.com/politics/international-relations/uk-and-vietnam-upgrade-strategic-partnership-champion-free-trade",
-    "id_key": "19615229f881fbf0b0f5aa302fb923a90ccb8a6bf29ef8a34ada6e5ecc7dc98e",
-    "summary": "",
-    "ingested_utc": "2025-10-31T00:55:42Z"
-  },
-  {
-    "published_utc": "2025-10-31",
-    "retrieved_date": "2025-10-31",
-    "retrieved_utc": "2025-10-31T00:55:42Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "Mass Maoist surrender signals potential end to India's longest insurgency",
-    "url": "https://asia.nikkei.com/politics/mass-maoist-surrender-signals-potential-end-to-india-s-longest-insurgency",
-    "id_key": "5ef77ee805083cccf151bdb18384b6351654c51ac2a34ada893ad9f0607491bb",
-    "summary": "",
-    "ingested_utc": "2025-10-31T00:55:42Z"
-  },
-  {
-    "published_utc": "2025-10-31",
-    "retrieved_date": "2025-10-31",
-    "retrieved_utc": "2025-10-31T00:55:42Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "Trump's Malaysia, Cambodia deals link tariff cuts to political loyalty",
-    "url": "https://asia.nikkei.com/economy/trade-war/trump-tariffs/trump-s-malaysia-cambodia-deals-link-tariff-cuts-to-political-loyalty2",
-    "id_key": "a7822da0ed35ee2bf54fedd47a3771739691dd3afc61fd8e0bf1f56695c250dd",
-    "summary": "",
-    "ingested_utc": "2025-10-31T00:55:42Z"
-  },
-  {
-    "published_utc": "2025-10-31",
-    "retrieved_date": "2025-10-31",
-    "retrieved_utc": "2025-10-31T00:55:42Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "Nikkei to launch Shareholder Return Stock Index on Nov. 4",
-    "url": "https://asia.nikkei.com/announcements/nikkei-to-launch-shareholder-return-stock-index-on-nov.-4",
-    "id_key": "e4d94ab9208d67e942b40c4436c3fded89941af05eb15d1c5cb74e71f7998256",
     "summary": "",
     "ingested_utc": "2025-10-31T00:55:42Z"
   }
