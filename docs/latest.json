@@ -2,6 +2,105 @@
   {
     "published_utc": "2025-11-04",
     "retrieved_date": "2025-11-04",
+    "retrieved_utc": "2025-11-04T07:33:31Z",
+    "source": "Nikkei_Asia_Top",
+    "title": "J&J chief voices optimism about mitigating Trump tariff impact",
+    "url": "https://asia.nikkei.com/editor-s-picks/interview/j-j-chief-voices-optimism-about-mitigating-trump-tariff-impact",
+    "id_key": "bb9fbc739fe8aa10a95faca3c6998f86ebbdfa467cde30405c7e552e7bffd791",
+    "summary": "",
+    "ingested_utc": "2025-11-04T07:33:31Z"
+  },
+  {
+    "published_utc": "2025-11-04",
+    "retrieved_date": "2025-11-04",
+    "retrieved_utc": "2025-11-04T07:32:47Z",
+    "source": "FT_Home",
+    "title": "Norway’s oil fund to vote against Elon Musk’s $1tn pay deal at Tesla",
+    "url": "https://www.ft.com/content/bf6e3961-e1b6-4406-afd8-98bdd91d8130",
+    "id_key": "52ce7d05d17ee0c323a867fc112a7af222848c5f4d782549c7142a8accf47e4c",
+    "summary": "World’s largest sovereign wealth fund is a top-10 investor at US electric vehicle maker",
+    "ingested_utc": "2025-11-04T07:32:47Z"
+  },
+  {
+    "published_utc": "2025-11-04",
+    "retrieved_date": "2025-11-04",
+    "retrieved_utc": "2025-11-04T07:31:45Z",
+    "source": "Nethermind_Releases",
+    "title": "1.35.1-rc: Change rlp limits and add logs (#9631)",
+    "url": "https://github.com/NethermindEth/nethermind/releases/tag/1.35.1-rc",
+    "id_key": "0ab7a2eb66ff2ba986dc622e697b8e6a3b7933db333c771442725583ff0a4649",
+    "summary": "log rlp guard messages Adding stack trace Increase receipts limit to 1024 fix for stack trace try fix multiline fix whitespace try fix More logs and potential fixes log fix Revert \"More logs and potential fixes\"This reverts commit ec71c87 .# Conflicts:# src/Nethermind/Nethermind.Network/MessageSerializationService.csRevert \"log fix\"This reverts commit b3b1f5f . Revert \"More logs and potential fixes\" This reverts commit ec71c87 . try weird fix Revert \"try weird fix\" This reverts commit 0bdfb3d . revert packages.json simplify log Don't abbreviate ForkchoiceStateV1 hashes revert spammy ForkchoiceStateV1 Fix missed dispose on StorageRange in ProgressTracker fix test",
+    "ingested_utc": "2025-11-04T07:31:45Z"
+  },
+  {
+    "published_utc": "2025-11-04",
+    "retrieved_date": "2025-11-04",
+    "retrieved_utc": "2025-11-04T07:30:47Z",
+    "source": "CoinJournal",
+    "title": "Kraken expands regulated derivatives in Europe with Bitcoin and Ethereum collateral",
+    "url": "https://coinjournal.net/news/kraken-expands-regulated-derivatives-in-europe-with-bitcoin-and-ethereum-collateral/",
+    "id_key": "e83a96953c1273a788d7a89ff8e6e19180097634c0b30a240338e85090a8c1b1",
+    "summary": "The feature applies to more than 150 perpetual futures markets available to European users. The exchange operates under MiCA and MiFID II regulations, with oversight from Ireland and Cyprus. Kraken’s third-quarter revenue rose by 50% to $648 million following its acquisition of NinjaTrader. Kraken has expanded its regulated derivatives offering in the European Union, allowing […] The post Kraken expands regulated derivatives in Europe with Bitcoin and Ethereum collateral appeared first on CoinJournal .",
+    "ingested_utc": "2025-11-04T07:30:47Z"
+  },
+  {
+    "published_utc": "2025-11-04",
+    "retrieved_date": "2025-11-04",
+    "retrieved_utc": "2025-11-04T07:30:12Z",
+    "source": "Guardian_World",
+    "title": "Police and protesters both claim they were ‘set upon’ as pepper spray deployed outside Sydney weapons expo",
+    "url": "https://www.theguardian.com/world/2025/nov/04/ten-arrested-as-police-pepper-spray-protesters-who-tried-to-blockade-sydney-weapons-expo",
+    "id_key": "7e69d050108e3b9cfef1e10669d8b4a7527bda5afb136ed2c4c5ed2e62946a41",
+    "summary": "Thirteen arrested during demonstration with both police and protesters reporting injuries Get our breaking news email , free app or daily news podcast Thirteen people have been arrested after an allegedly violent confrontation between New South Wales police and protesters outside a state government-sponsored defence conference in Sydney. Both police officers and protesters were allegedly injured at Palestine Action Group’s demonstration on Tuesday outside the Indo Pacific International Maritime Exposition at the International Convention Centre (ICC) in Darling Harbour, amid criticism that Israel’s largest weapons companies were attending the event. Continue reading...",
+    "ingested_utc": "2025-11-04T07:30:12Z"
+  },
+  {
+    "published_utc": "2025-11-04",
+    "retrieved_date": "2025-11-04",
+    "retrieved_utc": "2025-11-04T07:30:12Z",
+    "source": "Guardian_World",
+    "title": "Federal corruption watchdog investigating about 40 matters – as it happened",
+    "url": "https://www.theguardian.com/australia-news/live/2025/nov/04/australia-politics-live-keating-trump-anthony-albanese-sussan-ley-david-littleproud-net-zero-policy-coalition-question-time-energy-policy-ntwnfb",
+    "id_key": "9c485054cbbe0326cc61473b4d38f9be894d4387e6f83473f656b92d8279c7e3",
+    "summary": "This blog is now closed ‘Not over’: Liberal MPs fearing calamity in city electorates launch rearguard action to salvage net zero policy Get our breaking news email , free app or daily news podcast Melissa McIntosh wants Liberals to ‘get their act together’ Internal divisions haven’t stopped Coalition MPs fronting up to their morning interviews today, including shadow communications minister Melissa McIntosh , who tells ABC RN Breakfast the public want her party to “get their act together”. This is not an ideological thing that we don’t believe in climate change or any of that sort of stuff. They’re just really struggling. Their power prices are up … Dan Tehan has been very consultative with colleagues for weeks now, and there’s been a number of working groups, a number of meetings, a number of sessions for people to be involved with I think we’ll come to a position relatively soon. At the moment all [Liberals] seem to care about is their own political prospects, which are heading to oblivion if they continue to behave this way. I don’t think [Ley’s] been particularly impressive herself, to be honest, but, you know, people want the conservative side of politics to have a policy platform. We’ve seen in Victoria for many years what happens when you don’t have an effective Opposition. What you have is a poor government that can do what it likes and Australians deserve better. They need to have an effective Opposition. So I would hope that the Coalition can pull itself together in some shape or form so it can do that. Continue reading...",
+    "ingested_utc": "2025-11-04T07:30:12Z"
+  },
+  {
+    "published_utc": "2025-11-04",
+    "retrieved_date": "2025-11-04",
+    "retrieved_utc": "2025-11-04T07:30:12Z",
+    "source": "Guardian_World",
+    "title": "‘Beating, torturing, killing’: freed Palestinian author on life in Israeli jails",
+    "url": "https://www.theguardian.com/world/2025/nov/04/freed-palestinian-author-nasser-abu-srour-israel-prisons-gaza-war",
+    "id_key": "678ef0cafca7b7f00d5f55acb53d4e593e32afb1a18a4131e20bef6cae3d8cbd",
+    "summary": "Nasser Abu Srour says prisons became like ‘another front’ in Gaza war and tells of struggle to adjust to life outside A celebrated Palestinian author who was freed last month after more than 32 years in Israeli prisons has said the use of torture increased dramatically during his last two years of captivity as Israel came to treat its jails as another front in the Gaza war. Nasser Abu Srour, whose prison memoir has been translated into seven languages and is tipped to win a major international literary prize this month, was among more than 150 Palestinians serving life sentences who were freed as part of the US-brokered Gaza ceasefire and then immediately exile to Egypt, where most remain in limbo. Continue reading...",
+    "ingested_utc": "2025-11-04T07:30:12Z"
+  },
+  {
+    "published_utc": "2025-11-04",
+    "retrieved_date": "2025-11-04",
+    "retrieved_utc": "2025-11-04T07:30:12Z",
+    "source": "Guardian_World",
+    "title": "Third of British farmers made no profit in past year, report finds",
+    "url": "https://www.theguardian.com/environment/2025/nov/04/third-of-british-farmers-made-no-profit-in-past-year-report-finds",
+    "id_key": "fe81c26ee9ca8a6cc0cc456b1973162942c9650ce1a808703d3df3febe65f340",
+    "summary": "Only 14% of farmers surveyed for Farmdex report had 10% or more profit margin amid drop in subsidies since Brexit A third of British farmers are making a loss or breaking even as they struggle with the loss of subsidies and looming inheritance tax changes, a report on post-Brexit farming has found. Only 14% of farmers surveyed for McCain Foods’ inaugural Farmdex report said they made 10% or more profit in the past year. In fact, many are making no profit at all, with 35% of the farmers reporting making a loss or breaking even. Continue reading...",
+    "ingested_utc": "2025-11-04T07:30:12Z"
+  },
+  {
+    "published_utc": "2025-11-04",
+    "retrieved_date": "2025-11-04",
+    "retrieved_utc": "2025-11-04T07:30:09Z",
+    "source": "BBC_World",
+    "title": "Moment Philippines floods move shipping containers",
+    "url": "https://www.bbc.com/news/videos/cpwvnrqjgnvo?at_medium=RSS&at_campaign=rss",
+    "id_key": "a2be09e8655bd1f71657c98b329a4452b4491c929db694c370d60c35fd32894d",
+    "summary": "Typhoon Kalmaegi left one person in Cebu province leaving as residents sought shelter on rooftops.",
+    "ingested_utc": "2025-11-04T07:30:09Z"
+  },
+  {
+    "published_utc": "2025-11-04",
+    "retrieved_date": "2025-11-04",
     "retrieved_utc": "2025-11-04T07:15:16Z",
     "source": "FinancialPost_Business",
     "title": "Pulsar Helium Announces Definitive Agreement to Acquire Major Minnesota Land Position to the West of Topaz Project",
@@ -1032,6 +1131,17 @@
     "id_key": "29f4b59f8b78520ef70f26cf47d1b1990f12f7f040477ab605ac6587f9aaf583",
     "summary": "But some people said borrowing from their nearest and dearest had affected those relationships.",
     "ingested_utc": "2025-11-04T00:53:24Z"
+  },
+  {
+    "published_utc": "2025-11-03",
+    "retrieved_date": "2025-11-04",
+    "retrieved_utc": "2025-11-04T07:33:21Z",
+    "source": "TheStreet_Top",
+    "title": "Redfin forecast predicts key mortgage rate move on horizon",
+    "url": "https://www.thestreet.com/real-estate/redfin-predicts-major-mortgage-rate-change-coming-soon",
+    "id_key": "45bf496b63462f84e318d43be011ab74f2c5bc036becba9ffb28ef1bdbec0368",
+    "summary": "Since mortgage rates began to increase sharply in 2022, individuals seeking to buy and sell homes have closely monitored the Federal Reserve — both in its actions regarding monetary policy and in its words, which often signal its thinking about future plans. That is because there is a correlation ...",
+    "ingested_utc": "2025-11-04T07:33:21Z"
   },
   {
     "published_utc": "2025-11-03",
@@ -10888,115 +10998,5 @@
     "id_key": "c5f5affad305dc508e742eef06dcb62a6b4c5772b08d3022ba7d37ec2f52abb7",
     "summary": "Police say Ki-Shawn Crumity, 26, met girl through Snapchat, and charged him with human trafficking and sexual assault A 13-year-old Louisiana girl who went missing after meeting a man online was found alive in a box at his home several states away in Pennsylvania – along with evidence that she had been sexually assaulted, according to authorities. Ki-Shawn Crumity, 26, faces charges of human trafficking, sexual assault, unlawful contact with a minor and corruption of a child after police in Pittsburgh said they arrested him on Thursday. He is one of at least three men who had been arrested as of Saturday amid an investigation involving law enforcement agencies in multiple states. Continue reading...",
     "ingested_utc": "2025-11-01T16:11:42Z"
-  },
-  {
-    "published_utc": "2025-11-01",
-    "retrieved_date": "2025-11-01",
-    "retrieved_utc": "2025-11-01T15:50:10Z",
-    "source": "FinancialPost_Business",
-    "title": "Italian police seize $1.5B in assets from Campari’s controlling shareholder amid tax fraud probe",
-    "url": "https://financialpost.com/pmn/italian-police-seize-1-5b-in-assets-from-camparis-controlling-shareholder-amid-tax-fraud-probe",
-    "id_key": "805d3320e24a59168e04f4e6d75b5b9f5690c1e95346e6d7e0f4b051a7253c1f",
-    "summary": "MILAN (AP) — Italian tax police said they are seizing assets worth 1.29 billion euros ($1.5 billion) from a Luxembourg-based holding company’s shares in spirits maker Campari Group as part of a fraud investigation. Luxembourg-based Lagfin is the controlling shareholder of Campari, which was founded in 1860 and is one of the largest players in […]",
-    "ingested_utc": "2025-11-01T15:50:10Z"
-  },
-  {
-    "published_utc": "2025-11-01",
-    "retrieved_date": "2025-11-01",
-    "retrieved_utc": "2025-11-01T15:36:21Z",
-    "source": "NYTimes_World",
-    "title": "In One Jamaican Town, Hurricane Melissa Left Behind Floodwaters and Dead Livestock",
-    "url": "https://www.nytimes.com/2025/10/31/world/americas/hurricane-melissa-jamaica-flooding.html",
-    "id_key": "083438eb973f550a98a49103ee9e32b25ff782ec871d75183f873c2281591e5f",
-    "summary": "The Category 5 storm ravaged western Jamaica and drenched the small community of New River, where residents were coping with a massive clean up. At least 19 people have died nationwide, officials said.",
-    "ingested_utc": "2025-11-01T15:36:21Z"
-  },
-  {
-    "published_utc": "2025-11-01",
-    "retrieved_date": "2025-11-01",
-    "retrieved_utc": "2025-11-01T15:34:09Z",
-    "source": "BBC_World",
-    "title": "Woman charged over Louvre jewellery heist",
-    "url": "https://www.bbc.com/news/articles/cvgkk1mkg0po?at_medium=RSS&at_campaign=rss",
-    "id_key": "939ed64ce0283478b5baa5f78b13d19e0061002463faf6f114ed40843eef6d2e",
-    "summary": "Prosecutors say two men have already \"partially recognised\" their involvement in the museum theft.",
-    "ingested_utc": "2025-11-01T15:34:09Z"
-  },
-  {
-    "published_utc": "2025-11-01",
-    "retrieved_date": "2025-11-01",
-    "retrieved_utc": "2025-11-01T15:29:09Z",
-    "source": "FinancialPost_Business",
-    "title": "Buffett’s Berkshire Cash Hits Record $382 Billion, Earnings Soar",
-    "url": "https://financialpost.com/pmn/business-pmn/buffetts-berkshire-cash-hits-record-382-billion-earnings-soar",
-    "id_key": "2a6e56f11b504bca7abead04ea0d5d90cc0c691e2783d4179aa7f59d067e4184",
-    "summary": "Berkshire Hathaway Inc.’s cash pile soared to $381.7 billion in the third quarter, a fresh record, and operating earnings surged 34% at Chief Executive Officer Warren Buffett’s conglomerate.",
-    "ingested_utc": "2025-11-01T15:29:09Z"
-  },
-  {
-    "published_utc": "2025-11-01",
-    "retrieved_date": "2025-11-01",
-    "retrieved_utc": "2025-11-01T15:29:08Z",
-    "source": "FinancialPost_Business",
-    "title": "Carbon capture pipelines have struggled to advance. A project in Nebraska found success",
-    "url": "https://financialpost.com/pmn/carbon-capture-pipelines-have-struggled-to-advance-a-project-in-nebraska-found-success",
-    "id_key": "ce192e533ef7906a4cd141dc95f83ec0600006394252f2c51df0d9998c64783d",
-    "summary": "BISMARCK, N.D. (AP) — A multi-state carbon capture pipeline began operating in September, reducing emissions from Midwest ethanol plants and carrying that carbon dioxide gas to be forever buried underground in Wyoming — an achievement after years of complaints, lawsuits and legislation blocked similar efforts by other companies. Other projects prompted intense opposition, including one […]",
-    "ingested_utc": "2025-11-01T15:29:08Z"
-  },
-  {
-    "published_utc": "2025-11-01",
-    "retrieved_date": "2025-11-01",
-    "retrieved_utc": "2025-11-01T15:28:04Z",
-    "source": "Guardian_World",
-    "title": "Trump’s immigration raids continue through Halloween in Chicago and Los Angeles",
-    "url": "https://www.theguardian.com/us-news/2025/nov/01/trump-immigration-chicago-los-angeles-halloween",
-    "id_key": "4fbfc4bacd9259b5e7153fb2c223313d6926ac63b8f8d7ab33dfdc85a6af620b",
-    "summary": "In Chicago suburb, protesters confronted ICE agents, whom Evanston mayor said ‘assaulted’ residents Donald Trump’s immigration crackdown continued on Halloween night as federal agents were seen in Chicago and Los Angeles on the holiday, according to multiple reports. In Chicago, where the president has unleashed military troops to assist Immigration and Customs Enforcement (ICE) as agents carry out arrests and push back against protesters, several people were arrested on Friday. ICE agents descended on the city and its suburbs as part of their operations, and protesters were also detained during clashes with law enforcement. Continue reading...",
-    "ingested_utc": "2025-11-01T15:28:04Z"
-  },
-  {
-    "published_utc": "2025-11-01",
-    "retrieved_date": "2025-11-01",
-    "retrieved_utc": "2025-11-01T15:12:13Z",
-    "source": "AlJazeera_All",
-    "title": "Canada’s Carney says he apologised to Trump over Reagan anti-tariff ad",
-    "url": "https://www.aljazeera.com/news/2025/11/1/canadas-carney-says-he-apologised-to-trump-over-reagan-anti-tariff-ad?traffic_source=rss",
-    "id_key": "e86e290209bc50f7912f522cfe6d1e8d4eabab90c65817a44e9a9cac94c6d441",
-    "summary": "Canadian PM says anti-tariff ad featuring Ronald Reagan 'offended' Trump, who has since cut off trade talks with Canada.",
-    "ingested_utc": "2025-11-01T15:12:13Z"
-  },
-  {
-    "published_utc": "2025-11-01",
-    "retrieved_date": "2025-11-01",
-    "retrieved_utc": "2025-11-01T15:12:12Z",
-    "source": "TheStreet_Top",
-    "title": "Southwest Airlines' latest change means some can’t fly anymore",
-    "url": "https://www.thestreet.com/travel/southwest-airlines-latest-change-means-some-cant-fly-anymore",
-    "id_key": "1e14e7588d7df308cd89c0fe1922509683dd3c6a89714a6167ae002478ead330",
-    "summary": "Southwest Airlines was once known for its amazing customer service. In fact, JD Power’s 2025 North American Airline Satisfaction Study revealed that Southwest “ranks highest in customer satisfaction in the economy/basic economy segment for a fourth consecutive year.” Southwest Airlines may soon ...",
-    "ingested_utc": "2025-11-01T15:12:12Z"
-  },
-  {
-    "published_utc": "2025-11-01",
-    "retrieved_date": "2025-11-01",
-    "retrieved_utc": "2025-11-01T15:09:44Z",
-    "source": "CryptoSlate",
-    "title": "Why Ray Dalio says gold is the safest money",
-    "url": "https://cryptoslate.com/why-ray-dalio-says-gold-is-the-safest-money/",
-    "id_key": "c68998eaa00eaa8be94b96268b0c8cb403ec4b25c6a85622f50d1cb24dee7e74",
-    "summary": "Ray Dalio has always loved a good macro plot, but this time he kept it strictly metal. Last week on X, the founder of Bridgewater Associates, argued that gold isn’t just a shiny relic; it’s the single safest form of money, with a track record that leaves modern fiat in the dust. His reasoning? Gold […] The post Why Ray Dalio says gold is the safest money appeared first on CryptoSlate .",
-    "ingested_utc": "2025-11-01T15:09:44Z"
-  },
-  {
-    "published_utc": "2025-11-01",
-    "retrieved_date": "2025-11-01",
-    "retrieved_utc": "2025-11-01T15:09:27Z",
-    "source": "Guardian_World",
-    "title": "Chelsea defender Wesley Fofana gets driving ban for speeding on hard shoulder",
-    "url": "https://www.theguardian.com/world/2025/nov/01/chelsea-defender-wesley-fofana-gets-driving-ban-for-speeding-on-hard-shoulder",
-    "id_key": "969afc5ded5b1c165596c81354a06fe7f94006eae587fe45d16c6776eda8dfd0",
-    "summary": "Footballer pleads guilty to one count of driving dangerously after his offence was caught on camera A Chelsea footballer who was caught on camera speeding down the hard shoulder of a busy A road his Lamborghini, has been handed a lengthy driving ban. Wesley Fofana, 24, pleaded guilty at North East Surrey magistrates court to one count of driving dangerously on 20 April along the A3 Esher bypass, in Hook, Surrey. The incident came to light after another motorist captured the footage on a dashcam and reported it to the police. Continue reading...",
-    "ingested_utc": "2025-11-01T15:09:27Z"
   }
 ]
