@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-11-04",
     "retrieved_date": "2025-11-04",
+    "retrieved_utc": "2025-11-04T10:56:08Z",
+    "source": "TheStreet_Top",
+    "title": "Walmart is selling a $600 treadmill for only $296 right now",
+    "url": "https://www.thestreet.com/deals/winfita-3-5hp-incline-treadmill-walmart-flash-sale",
+    "id_key": "32d612733b5da566f41d6ab3a2fbbf1729d0ab7a1bc9f337022b5337317a281f",
+    "summary": "The treadmill has over 64 preset workout options, Bluetooth speakers, and a charging port.",
+    "ingested_utc": "2025-11-04T10:56:08Z"
+  },
+  {
+    "published_utc": "2025-11-04",
+    "retrieved_date": "2025-11-04",
+    "retrieved_utc": "2025-11-04T10:55:55Z",
+    "source": "TheVerge_All",
+    "title": "Nintendo is raising its Switch 2 sales expectations",
+    "url": "https://www.theverge.com/news/813025/nintendo-switch-2-sales-september-2025-earnings",
+    "id_key": "3af4c59e1ce691045af5c314151eb1ecae42e919ed0b9e6d91b318669d074947",
+    "summary": "The Switch 2’s popularity has exceeded even Nintendo’s anticipations, with the company raising its sales forecast for the console by more than 25 percent. In its latest earnings release, covering April 1st to September 30th, Nintendo now predicts that it’ll sell 19 million Switch 2 units by March 2026, compared to its previous forecast of […]",
+    "ingested_utc": "2025-11-04T10:55:55Z"
+  },
+  {
+    "published_utc": "2025-11-04",
+    "retrieved_date": "2025-11-04",
+    "retrieved_utc": "2025-11-04T10:53:38Z",
+    "source": "CryptoNews",
+    "title": "Vitalik Buterin Calls for Scrapping Ethereum’s ‘Most ZK-Unfriendly’ Feature",
+    "url": "https://cryptonews.com/news/vitalik-buterin-calls-for-scrapping-ethereums-most-zk-unfriendly-feature/",
+    "id_key": "f2b0e74e27b96a4dfa5213dd4bf610cad5306e136de184019d4b2d922e2b98c6",
+    "summary": "Vitalik Buterin advocates scrapping Ethereum's modular exponentiation precompile, a feature he originally designed, as it creates verification bottlenecks up to 50 times worse than standard operations in zero-knowledge proof generation. The post Vitalik Buterin Calls for Scrapping Ethereum’s ‘Most ZK-Unfriendly’ Feature appeared first on Cryptonews .",
+    "ingested_utc": "2025-11-04T10:53:38Z"
+  },
+  {
+    "published_utc": "2025-11-04",
+    "retrieved_date": "2025-11-04",
     "retrieved_utc": "2025-11-04T10:43:13Z",
     "source": "HackerNews_Top",
     "title": "Bloom filters are good for search that does not scale",
@@ -10965,38 +10998,5 @@
     "id_key": "f218f1cad08d7562b1e82c67823bec4b4ee3ec0131175c43a4e7f6227ba65511",
     "summary": "Comments",
     "ingested_utc": "2025-11-03T13:54:30Z"
-  },
-  {
-    "published_utc": "2025-11-01",
-    "retrieved_date": "2025-11-03",
-    "retrieved_utc": "2025-11-03T13:41:20Z",
-    "source": "Guardian_Business",
-    "title": "Rise in UK Thanksgivings driven by growing appetite for US foods, retailers say",
-    "url": "https://www.theguardian.com/lifeandstyle/2025/nov/01/rise-in-uk-thanksgiving-celebrations-driven-by-growing-appetite-for-us-foods-retailers-say",
-    "id_key": "c4a88dab6e5da81121ce5d3f2f13f42450013413662e60221a841b0080bf74f4",
-    "summary": "Growing UK American expat numbers also helping boost sales and bookings for a holiday once seen mainly in films Thanksgiving was once a holiday Britons knew only from American films, but a growing appetite for US cuisine, from Southern-style comfort food to pumpkin pie, is driving a rise in UK celebrations. Retailers and restaurants are reporting increased sales and bookings in the run-up to the American holiday, boosted by British enthusiasm for US flavours and a rising number of American expats now living in the UK. Continue reading...",
-    "ingested_utc": "2025-11-03T13:41:20Z"
-  },
-  {
-    "published_utc": "2025-11-01",
-    "retrieved_date": "2025-11-02",
-    "retrieved_utc": "2025-11-02T17:47:40Z",
-    "source": "BBC_Business",
-    "title": "Police seize €1.3bn from Campari owner over alleged tax evasion",
-    "url": "https://www.bbc.com/news/articles/cpq11v5d1rno?at_medium=RSS&at_campaign=rss",
-    "id_key": "c10d61a038a4e7d906005605ce12f71831257e6c2df48e6a9cc7c21f5d4c5685",
-    "summary": "The spirit manufacturer's parent firm is accused of failing to declare a similar amount in tax during a merger.",
-    "ingested_utc": "2025-11-02T17:47:40Z"
-  },
-  {
-    "published_utc": "2025-11-01",
-    "retrieved_date": "2025-11-02",
-    "retrieved_utc": "2025-11-02T12:21:18Z",
-    "source": "NPR_World",
-    "title": "2 more suspects are charged in the Louvre jewel heist",
-    "url": "https://www.npr.org/2025/11/01/nx-s1-5594194/suspects-charged-louvre-jewel-heist-paris",
-    "id_key": "3cb8d6d4da8e19d328bf71ee1a5f7a573c243255f0bd238d51bd99c39c2fc271",
-    "summary": "A man and a woman, both in their late 30s, were charged with organized crime and being an accomplice, respectively. In total, four people have been charged in connection to the brazen theft.",
-    "ingested_utc": "2025-11-02T12:21:18Z"
   }
 ]
