@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-11-05",
     "retrieved_date": "2025-11-05",
+    "retrieved_utc": "2025-11-05T05:51:54Z",
+    "source": "Nikkei_Asia_Top",
+    "title": "Toyota reports 7% net profit drop for April-September amid Trump tariffs",
+    "url": "https://asia.nikkei.com/business/automobiles/toyota-reports-7-net-profit-drop-for-april-september-amid-trump-tariffs",
+    "id_key": "d46f8bf9f6aa8c0b205011185e55abb16693cdde2cd436ef66d083e705c9ad11",
+    "summary": "",
+    "ingested_utc": "2025-11-05T05:51:54Z"
+  },
+  {
+    "published_utc": "2025-11-05",
+    "retrieved_date": "2025-11-05",
+    "retrieved_utc": "2025-11-05T05:51:33Z",
+    "source": "TheVerge_All",
+    "title": "Epic and Google agree to settle their lawsuit and change Android’s fate globally",
+    "url": "https://www.theverge.com/policy/813991/epic-google-proposed-settlement",
+    "id_key": "5596eeca35defadb7b200e4d2a42043caaa8d63a0998c63caae2da0f013f65b8",
+    "summary": "Just when we thought Epic v. Google might be over, just one Supreme Court rejection away from a complete victory for Epic, both sides have agreed to settle Tuesday evening. And if Judge James Donato, who ordered Google to crack open Android for third-party stores, agrees to the changes, it might turn Epic’s victory into […]",
+    "ingested_utc": "2025-11-05T05:51:33Z"
+  },
+  {
+    "published_utc": "2025-11-05",
+    "retrieved_date": "2025-11-05",
+    "retrieved_utc": "2025-11-05T05:48:58Z",
+    "source": "Guardian_World",
+    "title": "Academics say their net zero costing is being ‘misrepresented’ after Nationals repeat $9tn claim",
+    "url": "https://www.theguardian.com/australia-news/2025/nov/05/academics-criticise-misrepresented-costing-of-net-zero-after-nationals-repeat-9tn-claim",
+    "id_key": "336c8c90c8a9d0cc36765ef919ffdea08868bd527e161dea91a3af767d166b22",
+    "summary": "Researchers behind report cited by some in the Coalition say their work is based on various assumptions – largely involving cost to overseas customers, not Australians Follow our Australia news live blog for latest updates Sign up for climate and environment editor Adam Morton’s free Clear Air newsletter here University energy researchers say their modelling of the economics of Australia reaching net zero greenhouse gas emissions – used by the Nationals and some Liberal MPs as part of a justification to drop the goal – has been misrepresented. The Nationals leader, David Littleproud, has repeatedly claimed that reaching net zero greenhouse gas emissions would “cost Australians $9tn”, pointing to the work of Net Zero Australia (NZA). Continue reading...",
+    "ingested_utc": "2025-11-05T05:48:58Z"
+  },
+  {
+    "published_utc": "2025-11-05",
+    "retrieved_date": "2025-11-05",
     "retrieved_utc": "2025-11-05T05:36:08Z",
     "source": "TechCrunch_All",
     "title": "Goldman Sachs doubles down on MoEngage in new round to fuel global expansion",
@@ -10965,38 +10998,5 @@
     "id_key": "fbe94214e0a3ec6ed49c798d2d58b210e91daee3b4eae21f158caa774b995ff3",
     "summary": "The Grammy-winning reggae singer says the storm was \"very frightening, especially for my young kids\".",
     "ingested_utc": "2025-11-03T17:42:04Z"
-  },
-  {
-    "published_utc": "2025-11-03",
-    "retrieved_date": "2025-11-03",
-    "retrieved_utc": "2025-11-03T17:13:47Z",
-    "source": "FinancialPost_Business",
-    "title": "Mining giant Anglo American faces class action appeal over alleged lead poisoning in Zambia",
-    "url": "https://financialpost.com/pmn/mining-giant-anglo-american-faces-class-action-appeal-over-alleged-lead-poisoning-in-zambia",
-    "id_key": "a77ca5f0f8ba29f120960993c94b66c98bf36a5d719630c7a6f0a991b93ba657",
-    "summary": "CAPE TOWN, South Africa (AP) — An appeal hearing opened Monday in South Africa on whether a subsidiary of British-based mining company Anglo American PLC was responsible for lead poisoning over decades that affected around 140,000 people in Zambia. The class action by women and children asks South Africa’s Supreme Court of Appeal to overturn […]",
-    "ingested_utc": "2025-11-03T17:13:47Z"
-  },
-  {
-    "published_utc": "2025-11-03",
-    "retrieved_date": "2025-11-03",
-    "retrieved_utc": "2025-11-03T17:13:47Z",
-    "source": "FinancialPost_Business",
-    "title": "B2Gold’s Operations at the Fekola Complex in Mali Continue Unimpeded",
-    "url": "https://financialpost.com/globe-newswire/b2golds-operations-at-the-fekola-complex-in-mali-continue-unimpeded",
-    "id_key": "27d55b0d5d6b1d05ea6b2a1a2470c651ee4c28e8a71725f2687604509cae819e",
-    "summary": "VANCOUVER, British Columbia, Nov. 03, 2025 (GLOBE NEWSWIRE) — B2Gold Corp. (TSX: BTO, NYSE AMERICAN: BTG, NSX: B2G) (“B2Gold” or the “Company) announces that operations at the Fekola Complex in Mali continue to operate uninterrupted, and all permits and licenses remain in good standing with the State of Mali. Milling and mining activities at the […]",
-    "ingested_utc": "2025-11-03T17:13:47Z"
-  },
-  {
-    "published_utc": "2025-11-03",
-    "retrieved_date": "2025-11-03",
-    "retrieved_utc": "2025-11-03T17:13:24Z",
-    "source": "TechCrunch_All",
-    "title": "Pine Labs aims to take Indian fintech global even as it cuts valuation for IPO",
-    "url": "https://techcrunch.com/2025/11/03/pine-labs-aims-to-take-indian-fintech-global-even-as-it-cuts-valuation-for-ipo/",
-    "id_key": "844e310087d85507109171ef620565efafe84b1daf50ddc3cc11a00291600bcf",
-    "summary": "The Indian fintech already has a presence in 20 countries worldwide.",
-    "ingested_utc": "2025-11-03T17:13:24Z"
   }
 ]
