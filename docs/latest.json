@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-11-06",
     "retrieved_date": "2025-11-06",
+    "retrieved_utc": "2025-11-06T10:51:44Z",
+    "source": "BBC_World",
+    "title": "Israel says Hamas returned body of dead Tanzanian hostage",
+    "url": "https://www.bbc.com/news/articles/cgjdwje0ywdo?at_medium=RSS&at_campaign=rss",
+    "id_key": "49802ec109f15aa4bc20570d2ad140d5fb607c7f433de02fb25dc9e5cf7d6c96",
+    "summary": "Joshua Mollel, a 21-year-old agriculture student, was killed at Kibbutz Nir Oz during the Hamas-led 7 October 2023 attack on Israel.",
+    "ingested_utc": "2025-11-06T10:51:44Z"
+  },
+  {
+    "published_utc": "2025-11-06",
+    "retrieved_date": "2025-11-06",
     "retrieved_utc": "2025-11-06T10:41:15Z",
     "source": "WIRED_All",
     "title": "Mark Zuckerberg Opened an Illegal School at His Palo Alto Compound. His Neighbors Revolted",
@@ -10987,16 +10998,5 @@
     "id_key": "f5ac5f23e6466c87aee70a4d5eb18b055a5d11d82c6aa1fa4a4a0d2c8d9b754d",
     "summary": "",
     "ingested_utc": "2025-11-04T20:36:55Z"
-  },
-  {
-    "published_utc": "2025-11-04",
-    "retrieved_date": "2025-11-04",
-    "retrieved_utc": "2025-11-04T20:36:40Z",
-    "source": "BBC_World",
-    "title": "Zelensky visits troops near embattled front line town of Pokrovsk",
-    "url": "https://www.bbc.com/news/articles/c0mxk9yw3n4o?at_medium=RSS&at_campaign=rss",
-    "id_key": "896cba72774e808ff057202033e798f013d5316d71fe81c870238872efa7f214",
-    "summary": "Fierce battles are taking place in the Donetsk town that Russia has been trying to occupy for over a year.",
-    "ingested_utc": "2025-11-04T20:36:40Z"
   }
 ]
