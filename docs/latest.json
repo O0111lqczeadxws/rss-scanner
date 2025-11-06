@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-11-06",
     "retrieved_date": "2025-11-06",
+    "retrieved_utc": "2025-11-06T05:51:41Z",
+    "source": "FinancialPost_Business",
+    "title": "Asian shares advance after solid earnings and economic reports updates lift Wall Street",
+    "url": "https://financialpost.com/pmn/asian-shares-advance-after-solid-earnings-and-economic-reports-updates-lift-wall-street",
+    "id_key": "eff49e833186b20a1eeb2bac4d0881dd1185aa3f2079114f3a9cb730f115ff33",
+    "summary": "BANGKOK (AP) — Shares bounced back Thursday in Asia after Wall Street got a boost from upbeat economic updates and a steady flow of quarterly reports from U.S. companies. U.S. futures were little changed and oil prices advanced. In Tokyo, the Nikkei 225 gained 1.5% to 50,959.14. Shares in Nissan Motor Co. gained 1.3% after […]",
+    "ingested_utc": "2025-11-06T05:51:41Z"
+  },
+  {
+    "published_utc": "2025-11-06",
+    "retrieved_date": "2025-11-06",
+    "retrieved_utc": "2025-11-06T05:51:41Z",
+    "source": "FinancialPost_Business",
+    "title": "Reeves Sees Reward in Keeping Lid on UK Inflation in Budget",
+    "url": "https://financialpost.com/pmn/business-pmn/reeves-sees-reward-in-keeping-lid-on-uk-inflation-in-budget",
+    "id_key": "c5634d2c0b869f6d449a3c3c59c8f47f801de74a58c09b73dc80f1f205c284f2",
+    "summary": "Rachel Reeves stands to be the biggest beneficiary of her own efforts to bring down UK inflation and help with the cost of living in this month’s budget — but only if she gets it right.",
+    "ingested_utc": "2025-11-06T05:51:41Z"
+  },
+  {
+    "published_utc": "2025-11-06",
+    "retrieved_date": "2025-11-06",
+    "retrieved_utc": "2025-11-06T05:51:05Z",
+    "source": "FT_Home",
+    "title": "US adds ‘poison pills’ to Asia trade pacts to counter China",
+    "url": "https://www.ft.com/content/73f2dc53-b222-4244-b503-ef00e31b501e",
+    "id_key": "4f5296b5020d25a69513713c05975591be696cbf6c5e3126333e041b57173862",
+    "summary": "Conditions inserted by Washington into tariff deals with Cambodia and Malaysia seen as ‘loyalty test’",
+    "ingested_utc": "2025-11-06T05:51:05Z"
+  },
+  {
+    "published_utc": "2025-11-06",
+    "retrieved_date": "2025-11-06",
     "retrieved_utc": "2025-11-06T05:36:26Z",
     "source": "Nikkei_Asia_Top",
     "title": "Singapore's DBS and UOB show profits sliding amid interest rate cuts",
@@ -10965,38 +10998,5 @@
     "id_key": "423d09b5f8bbf813a96ee979506353066f505e3dbf504384d19df5bc257cc29d",
     "summary": "Hundreds of polls will take place one year into Donald Trump’s second term",
     "ingested_utc": "2025-11-04T18:50:34Z"
-  },
-  {
-    "published_utc": "2025-11-04",
-    "retrieved_date": "2025-11-04",
-    "retrieved_utc": "2025-11-04T18:50:22Z",
-    "source": "NYTimes_Business",
-    "title": "Right-Wing Chatbots Turbocharge America’s Political and Cultural Wars",
-    "url": "https://www.nytimes.com/2025/11/04/business/right-wing-chatbots-gab-arya-chatgpt-gemini.html",
-    "id_key": "3942c893ade1a13ca39104c4ec0ccb72ec9798bfe15227bcacc93b42854c5265",
-    "summary": "Once pitched as dispassionate tools to answer your questions, A.I. chatbots are now programmed to reflect the biases of their creators.",
-    "ingested_utc": "2025-11-04T18:50:22Z"
-  },
-  {
-    "published_utc": "2025-11-04",
-    "retrieved_date": "2025-11-04",
-    "retrieved_utc": "2025-11-04T18:48:45Z",
-    "source": "CoinMetrics_Blog",
-    "title": "Improvements to Open Interest Data",
-    "url": "https://coinmetrics.io/product-announcements/improvements-to-open-interest-data/",
-    "id_key": "9fa20dfde08383388a6b50ce9e313ee11faede8cc7615ab3cce2e538115948c6",
-    "summary": "We would like to announce several important improvements to the accuracy and consistency of our open interest data across futures and options markets. 1. Standardized Option Contract Units Previously, Deribit Options and Binance Options reported open interest in units of the underlying asset instead of reporting it in the widely-held industry convention of reporting it […] The post Improvements to Open Interest Data appeared first on Coin Metrics .",
-    "ingested_utc": "2025-11-04T18:48:45Z"
-  },
-  {
-    "published_utc": "2025-11-04",
-    "retrieved_date": "2025-11-04",
-    "retrieved_utc": "2025-11-04T18:48:31Z",
-    "source": "CryptoBriefing",
-    "title": "Bitcoin falls below $100,000 for first time since June",
-    "url": "https://cryptobriefing.com/bitcoin-falls-below-100000-for-first-time-since-june/",
-    "id_key": "c109e35583a836a443cc0311d8e890dbb5f5cf5d6ba7961224c2c83b169fafae",
-    "summary": "Bitcoin's dip below $100,000 signals potential for further declines, highlighting vulnerabilities in market sentiment and technical stability. The post Bitcoin falls below $100,000 for first time since June appeared first on Crypto Briefing .",
-    "ingested_utc": "2025-11-04T18:48:31Z"
   }
 ]
