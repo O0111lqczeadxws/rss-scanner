@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-11-07",
     "retrieved_date": "2025-11-07",
+    "retrieved_utc": "2025-11-07T07:47:15Z",
+    "source": "Guardian_World",
+    "title": "Qantas business lounge passenger set on fire after power bank explodes in his pocket",
+    "url": "https://www.theguardian.com/business/2025/nov/07/qantas-business-lounge-passenger-set-on-fire-after-power-bank-explodes-pocket",
+    "id_key": "61e013c8bb66af4605ee896c22069af432146bcc18da594b8f9ddeac6dbb4656",
+    "summary": "About 150 people evacuated from Melbourne airport lounge after device overheats and ignites, burning the man’s leg and fingers Get our breaking news email , free app or daily news podcast Qantas says it has reopened its business class lounge at Melbourne airport after it was evacuated due to a passenger being set on fire by an exploding power bank in his pocket. The man was in the lounge in the airport’s international terminal on Thursday morning when the overheated power bank ignited, burning his leg and fingers and creating smoke in the room. Continue reading...",
+    "ingested_utc": "2025-11-07T07:47:15Z"
+  },
+  {
+    "published_utc": "2025-11-07",
+    "retrieved_date": "2025-11-07",
     "retrieved_utc": "2025-11-07T07:42:31Z",
     "source": "HackerNews_Top",
     "title": "A File Format Uncracked for 20 Years",
@@ -1164,6 +1175,17 @@
     "id_key": "745b8be41954c9da6aab86e8df9511aa17fc1807e94fd2261b7471a1cff47553",
     "summary": "BBC Verify tracks how the RSF killed unarmed people in a massacre that humanitarian officials believe left 2,000 dead.",
     "ingested_utc": "2025-11-07T00:53:47Z"
+  },
+  {
+    "published_utc": "2025-11-06",
+    "retrieved_date": "2025-11-07",
+    "retrieved_utc": "2025-11-07T07:47:13Z",
+    "source": "BBC_Business",
+    "title": "Boeing criminal case linked to deadly 737 crashes dropped",
+    "url": "https://www.bbc.com/news/articles/c891k875x3qo?at_medium=RSS&at_campaign=rss",
+    "id_key": "afefab7470dd0fd7db87aabbad2f047b098fad1313ee42c049f990cf2d60adff",
+    "summary": "The judge said he did not believe the decision was in the public interest but he did not have authority to deny the request.",
+    "ingested_utc": "2025-11-07T07:47:13Z"
   },
   {
     "published_utc": "2025-11-06",
@@ -10976,27 +10998,5 @@
     "id_key": "3f765cefc990681d7da925d387ba1db1c8fd5595fece1c736f860ef080ec8d98",
     "summary": "American forces are unlikely to be able to end a decades-long insurgency in Africa’s most populous country, despite President Trump’s order, officials said.",
     "ingested_utc": "2025-11-05T18:50:52Z"
-  },
-  {
-    "published_utc": "2025-11-05",
-    "retrieved_date": "2025-11-05",
-    "retrieved_utc": "2025-11-05T18:49:00Z",
-    "source": "CoinJournal",
-    "title": "Lido adopts Chainlink CCIP to secure cross-chain wstETH transfers across 16+ blockchains",
-    "url": "https://coinjournal.net/news/lido-adopts-chainlink-ccip-to-secure-cross-chain-wsteth-transfers-across-16-blockchains/",
-    "id_key": "cb2852a03d45da648259c1b437271903e52f86d6c08967a80e914d97a6180ab5",
-    "summary": "Lido is integrating Chainlink’s interoperability standard to power wrapped Staked Ether (wstETH) transfers. The Chainlink cross-chain interoperability protocol (CCIP) is now the official cross-chain infrastructure for wstETH. wstETH will implement CCIP on supported chains in stages. Lido, a leading liquid staking protocol on Ethereum, has announced a strategic partnership with Chainlink. The protocol has adopted […] The post Lido adopts Chainlink CCIP to secure cross-chain wstETH transfers across 16+ blockchains appeared first on CoinJournal .",
-    "ingested_utc": "2025-11-05T18:49:00Z"
-  },
-  {
-    "published_utc": "2025-11-05",
-    "retrieved_date": "2025-11-05",
-    "retrieved_utc": "2025-11-05T18:48:59Z",
-    "source": "CryptoNews",
-    "title": "Bitcoin Breaks Key Support Level That Confirmed the 2022 Bear Market: CryptoQuant",
-    "url": "https://cryptonews.com/news/bitcoin-breaks-key-support-level-that-confirmed-the-2022-bear-market-cryptoquant/",
-    "id_key": "4ee6fe43ce7a66014629ff76d867757f87837479db7d666dc4680e9903a0bd20",
-    "summary": "Bitcoin has traded below the 365-day moving average and under the $100K area, while CryptoQuant’s Bull Score Index has reached zero. On-chain bands and network valuation levels have indicated downside risks toward prior cycle zones. The post Bitcoin Breaks Key Support Level That Confirmed the 2022 Bear Market: CryptoQuant appeared first on Cryptonews .",
-    "ingested_utc": "2025-11-05T18:48:59Z"
   }
 ]
