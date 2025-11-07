@@ -2,6 +2,83 @@
   {
     "published_utc": "2025-11-07",
     "retrieved_date": "2025-11-07",
+    "retrieved_utc": "2025-11-07T07:32:51Z",
+    "source": "HackerNews_Top",
+    "title": "JermCAD: Browser-Based CAD Software",
+    "url": "https://github.com/jeremyaboyd/jerm-cad",
+    "id_key": "efec2e888523553d1893a6482016072b6c211a2a58789523bf118957f4dbe415",
+    "summary": "Comments",
+    "ingested_utc": "2025-11-07T07:32:51Z"
+  },
+  {
+    "published_utc": "2025-11-07",
+    "retrieved_date": "2025-11-07",
+    "retrieved_utc": "2025-11-07T07:32:43Z",
+    "source": "Nikkei_Asia_Top",
+    "title": "Mitsubishi Heavy ups order forecast on data center power demand",
+    "url": "https://asia.nikkei.com/business/aerospace-defense-industries/mitsubishi-heavy-ups-order-forecast-on-data-center-power-demand",
+    "id_key": "e6bffc58c12bc5e875511cf3306dd83b9d5816994cd4fc9d5383f66d8c875a3e",
+    "summary": "",
+    "ingested_utc": "2025-11-07T07:32:43Z"
+  },
+  {
+    "published_utc": "2025-11-07",
+    "retrieved_date": "2025-11-07",
+    "retrieved_utc": "2025-11-07T07:32:35Z",
+    "source": "AlJazeera_All",
+    "title": "Syria’s al-Sharaa pledges commitment to climate goals at COP30",
+    "url": "https://www.aljazeera.com/news/2025/11/7/syrias-al-sharaa-pledges-commitment-to-climate-goals-at-cop30?traffic_source=rss",
+    "id_key": "f65c8f563e98818b37befdf9ba02ca1ade99fc2216e6751d82edd3a4ea7c75f5",
+    "summary": "Appearance at Amazon summit comes before talks with Trump in Washington after UN Security Council lifted sanctions.",
+    "ingested_utc": "2025-11-07T07:32:35Z"
+  },
+  {
+    "published_utc": "2025-11-07",
+    "retrieved_date": "2025-11-07",
+    "retrieved_utc": "2025-11-07T07:32:09Z",
+    "source": "FT_Markets",
+    "title": "Hungary looks to Trump for sanctions exemption",
+    "url": "https://www.ft.com/content/80d6f91b-1369-4da0-93a9-05d4994498d0",
+    "id_key": "c7f4b934d00d8cead9d73888311f224de4a1260bd8742f86502fbd2dc91987c3",
+    "summary": "Hungary’s prime minister will ask for relief from Russian oil sanctions in White House visit.",
+    "ingested_utc": "2025-11-07T07:32:09Z"
+  },
+  {
+    "published_utc": "2025-11-07",
+    "retrieved_date": "2025-11-07",
+    "retrieved_utc": "2025-11-07T07:32:08Z",
+    "source": "FT_Home",
+    "title": "China’s exports fall for first time since ‘liberation day’ trade tariffs",
+    "url": "https://www.ft.com/content/28c01c84-7415-4595-97a0-ffb79ee462bf",
+    "id_key": "2de15689a82e862d0d1551efd9b1cdce1111618e62429ef5eb111489eaf2faf3",
+    "summary": "Unexpected decline comes even as President Donald Trump and Chinese leader Xi Jinping seal a truce",
+    "ingested_utc": "2025-11-07T07:32:08Z"
+  },
+  {
+    "published_utc": "2025-11-07",
+    "retrieved_date": "2025-11-07",
+    "retrieved_utc": "2025-11-07T07:30:04Z",
+    "source": "CryptoNews",
+    "title": "South Korea May Revisit Sanctions on North Korea After US Links Crypto Theft to Weapons Funding",
+    "url": "https://cryptonews.com/news/south-korea-may-revisit-sanctions-on-north-korea-after-us-links-crypto-theft-to-weapons-funding/",
+    "id_key": "cd7f93a15d28cce27caa40e4b8f19d209aac0c17c16ca0b1a27a9fbb32470039",
+    "summary": "South Korea is weighing a review of its sanctions policy after the US linked North Korea’s crypto theft operations to weapons funding. The post South Korea May Revisit Sanctions on North Korea After US Links Crypto Theft to Weapons Funding appeared first on Cryptonews .",
+    "ingested_utc": "2025-11-07T07:30:04Z"
+  },
+  {
+    "published_utc": "2025-11-07",
+    "retrieved_date": "2025-11-07",
+    "retrieved_utc": "2025-11-07T07:29:40Z",
+    "source": "BBC_Business",
+    "title": "ITV in talks to sell television business to Sky",
+    "url": "https://www.bbc.com/news/articles/czxk7j87xd0o?at_medium=RSS&at_campaign=rss",
+    "id_key": "52506a456164ebeb419f5c0a4828986958ae28e682db78ea975d76024fb90e23",
+    "summary": "The talks focus on ITV's Media and Entertainment division, which include its TV channels as well as its streaming service, ITV X.",
+    "ingested_utc": "2025-11-07T07:29:40Z"
+  },
+  {
+    "published_utc": "2025-11-07",
+    "retrieved_date": "2025-11-07",
     "retrieved_utc": "2025-11-07T07:14:49Z",
     "source": "FinancialPost_Business",
     "title": "Notice of Results and Investor Presentation",
@@ -1043,6 +1120,17 @@
     "id_key": "745b8be41954c9da6aab86e8df9511aa17fc1807e94fd2261b7471a1cff47553",
     "summary": "BBC Verify tracks how the RSF killed unarmed people in a massacre that humanitarian officials believe left 2,000 dead.",
     "ingested_utc": "2025-11-07T00:53:47Z"
+  },
+  {
+    "published_utc": "2025-11-06",
+    "retrieved_date": "2025-11-07",
+    "retrieved_utc": "2025-11-07T07:32:09Z",
+    "source": "FT_Markets",
+    "title": "Gunvor drops $22bn bid for Lukoil assets after US moves to block deal",
+    "url": "https://www.ft.com/content/19e5e9ce-781b-450f-aac0-f11bb404fb9b",
+    "id_key": "6f7375b274cc5084360aab692c2527996e9536ec946e83533487eb0f2eed032b",
+    "summary": "Treasury calls Swiss trader ‘Kremlin’s puppet’ and says it would block its licence to operate",
+    "ingested_utc": "2025-11-07T07:32:09Z"
   },
   {
     "published_utc": "2025-11-06",
@@ -10910,93 +10998,5 @@
     "id_key": "e98ff59ce1b09bf9b3467568c3609b93e85abe490cad5f38f747a69d64485fd6",
     "summary": "Scottish Police Federation questions whether public inquiry was necessary into death in custody in 2015 The lawyer for the family of Sheku Bayoh, whose death in custody is the subject of a stalled public inquiry, has criticised “speculation and delusions of grandeur” from the Scottish Police Federation after suggestions that the investigation could be downgraded to a fatal accident inquiry. At a press conference on Wednesday, the federation’s general secretary, David Kennedy, and lawyer Peter Watson questioned whether a public inquiry had been necessary when a fatal accident inquiry – similar to an inquest in England and Wales – was already mandatory for deaths in custody. Continue reading...",
     "ingested_utc": "2025-11-05T18:47:57Z"
-  },
-  {
-    "published_utc": "2025-11-05",
-    "retrieved_date": "2025-11-05",
-    "retrieved_utc": "2025-11-05T18:47:57Z",
-    "source": "Guardian_World",
-    "title": "Ed Sheeran takes partial credit for move to overhaul music teaching in England",
-    "url": "https://www.theguardian.com/education/2025/nov/05/ed-sheeran-takes-partial-credit-for-move-to-overhaul-music-teaching-in-england",
-    "id_key": "74fe3a678e9fa585ef313d09e6e29a137f81fc292b790fef481658be7bbb2c3a",
-    "summary": "Singer says changes reflect points raised in open letter to PM organised by his foundation with over 600 signatures Ed Sheeran has taken partial credit for the government’s move to overhaul the teaching of music in England’s state schools, shortly after being mentioned by the education secretary in parliament. The Department for Education (DfE) said it wanted to broaden the appeal of music education “to give every child a strong start in the subject” and boost the creative subjects taken at GCSEs as part of its wider changes to England’s national curriculum. Continue reading...",
-    "ingested_utc": "2025-11-05T18:47:57Z"
-  },
-  {
-    "published_utc": "2025-11-05",
-    "retrieved_date": "2025-11-05",
-    "retrieved_utc": "2025-11-05T18:47:57Z",
-    "source": "Guardian_World",
-    "title": "Met police issue statement with more information about missing Algerian prisoner – as it happened",
-    "url": "https://www.theguardian.com/politics/live/2025/nov/05/david-lammy-pmqs-rachel-reeves-tax-system-news-updates-uk-politics-live",
-    "id_key": "84d19bfff24563045c4702f131e08148d5c9c073340cb421d8066f66da7694cc",
-    "summary": "This blog is now closed, you can read more on this story here David Lammy starts by saying the PM is in Brazil. He says the thoughts of all MPs are still with the victims of the appalling attacks in Huntingdon and Peterborough, where, he says, he was at school for seven years. Continue reading...",
-    "ingested_utc": "2025-11-05T18:47:57Z"
-  },
-  {
-    "published_utc": "2025-11-05",
-    "retrieved_date": "2025-11-05",
-    "retrieved_utc": "2025-11-05T18:47:57Z",
-    "source": "Guardian_World",
-    "title": "Zohran Mamdani announces all-female transition team as he prepares for New York mayoralty",
-    "url": "https://www.theguardian.com/us-news/2025/nov/05/zohran-mamdani-transition-team",
-    "id_key": "9990f3b2a5179ee287a5a3e76c5d0138c4e4753d6dbcbe0d3b27f71fe607abca",
-    "summary": "Team includes Lina Khan, the FTC commissioner under Biden, and other Democratic former city officials US politics live – latest updates Zohran Mamdani ’s incoming administration began taking shape on Wednesday as the New York City mayor-elect announced a transition team to help enact what he called the city’s most ambitious policy platform in a generation, vowing to get right to work when he takes office on 1 January. Speaking at a morning press conference in Queens, the 34-year-old democratic socialist revealed an all-female transition team led by Elana Leopold as executive director. It also includes co-chairs Maria Torres-Springer, the former first deputy mayor; Lina Khan, the former federal trade commission chair; the United Way’s president and CEO, Grace Bonilla; and the former deputy mayor for health and human services Melanie Hartzog. Continue reading...",
-    "ingested_utc": "2025-11-05T18:47:57Z"
-  },
-  {
-    "published_utc": "2025-11-05",
-    "retrieved_date": "2025-11-05",
-    "retrieved_utc": "2025-11-05T18:20:16Z",
-    "source": "FinancialPost_Business",
-    "title": "First civil trial over 737 Max crash in Ethiopia begins, even as Boeing settles three more lawsuits",
-    "url": "https://financialpost.com/pmn/first-civil-trial-over-737-max-crash-in-ethiopia-begins-even-as-boeing-settles-three-more-lawsuits",
-    "id_key": "3f17d3aa05b443821c44e8c57246db5fa50540c89da063a8bf73b0cb9d0d159d",
-    "summary": "CHICAGO (AP) — The first civil trial over a Boeing 737 Max crash in Ethiopia more than six years ago opened Wednesday before a federal court jury that was asked to decide how much the American aerospace company must pay to the family of one of the 157 victims. The eight-person jury in Chicago, where […]",
-    "ingested_utc": "2025-11-05T18:20:16Z"
-  },
-  {
-    "published_utc": "2025-11-05",
-    "retrieved_date": "2025-11-05",
-    "retrieved_utc": "2025-11-05T18:20:09Z",
-    "source": "AlJazeera_All",
-    "title": "Philippines begins cleanup as Typhoon Kalmaegi death toll hits 85",
-    "url": "https://www.aljazeera.com/news/2025/11/5/philippines-begins-cleanup-as-typhoon-kalmaegi-death-toll-hits-85?traffic_source=rss",
-    "id_key": "d05a13070a44d2054b9fd66f8f9c6260186ed4de661a9a51846bb30926bdbfa1",
-    "summary": "Residents say powerful storm brought 'raging' flash floods that destroyed homes, overturned cars and blocked streets.",
-    "ingested_utc": "2025-11-05T18:20:09Z"
-  },
-  {
-    "published_utc": "2025-11-05",
-    "retrieved_date": "2025-11-05",
-    "retrieved_utc": "2025-11-05T18:20:09Z",
-    "source": "AlJazeera_All",
-    "title": "Mamdani’s win raises hopes of change in Uganda, the land of his birth",
-    "url": "https://www.aljazeera.com/news/2025/11/5/mamdanis-win-raises-hopes-of-change-in-uganda-the-land-of-his-birth?traffic_source=rss",
-    "id_key": "2250a68f395c35bb23b27765592a969ae02d2604bc4be607c98976ff330af385",
-    "summary": "Zohran Mamdani's New York City win inspires people in Uganda, ruled by an authoritarian president for nearly 40 years.",
-    "ingested_utc": "2025-11-05T18:20:09Z"
-  },
-  {
-    "published_utc": "2025-11-05",
-    "retrieved_date": "2025-11-05",
-    "retrieved_utc": "2025-11-05T18:20:08Z",
-    "source": "TheStreet_Top",
-    "title": "This mindset hack could make you a better investor",
-    "url": "https://www.thestreet.com/video/this-mindset-hack-could-make-you-a-better-investor",
-    "id_key": "18ed829fe1011e091bf307c330041f9800e09960d0233919cacdfe721f7f348a",
-    "summary": "Rhett Power, author, \"Headamentals\" breaks down a three-step mindset trick to make more confident investing choices.",
-    "ingested_utc": "2025-11-05T18:20:08Z"
-  },
-  {
-    "published_utc": "2025-11-05",
-    "retrieved_date": "2025-11-05",
-    "retrieved_utc": "2025-11-05T18:20:08Z",
-    "source": "TheStreet_Top",
-    "title": "The small money habits that actually make you rich",
-    "url": "https://www.thestreet.com/video/the-small-money-habits-that-actually-make-you-rich",
-    "id_key": "9dab2e178b348a5bdac29611514697ea644a100706b572bdfa243f9347970700",
-    "summary": "Haley Sacks, a.k.a. Mrs. Dow Jones, shares the simple money practices that can turn anyone into a “future rich person.”",
-    "ingested_utc": "2025-11-05T18:20:08Z"
   }
 ]
