@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-11-07",
     "retrieved_date": "2025-11-07",
+    "retrieved_utc": "2025-11-07T05:36:09Z",
+    "source": "FinancialPost_Business",
+    "title": "The Budget New Car Has Disappeared in Germany",
+    "url": "https://financialpost.com/pmn/business-pmn/the-budget-new-car-has-disappeared-in-germany",
+    "id_key": "4ed0a032fb4cb5f06cca1c86041559a749d9903f0c37a6ed133765c49d26e289",
+    "summary": "Car prices have risen faster than wages, making them unaffordable for many and sowing frustration.",
+    "ingested_utc": "2025-11-07T05:36:09Z"
+  },
+  {
+    "published_utc": "2025-11-07",
+    "retrieved_date": "2025-11-07",
+    "retrieved_utc": "2025-11-07T05:35:34Z",
+    "source": "FT_Markets",
+    "title": "US stocks slide as tech jitters return",
+    "url": "https://www.ft.com/content/a05ce491-9b32-4de9-b878-b34805a861a3",
+    "id_key": "65d022d7bfabf2d78752abd210d56abaa9547e96dc17da17073350f016c1ce90",
+    "summary": "Weak private sector jobs data adds to nerves over elevated valuations for AI-linked companies",
+    "ingested_utc": "2025-11-07T05:35:34Z"
+  },
+  {
+    "published_utc": "2025-11-07",
+    "retrieved_date": "2025-11-07",
+    "retrieved_utc": "2025-11-07T05:35:33Z",
+    "source": "FT_Home",
+    "title": "EU demands UK pay into budget as part of relationship ‘reset’",
+    "url": "https://www.ft.com/content/89635a56-1436-498c-bded-f185342ad619",
+    "id_key": "87a27bfee1ab34de190049ba6fc0b97d8df8837443af26e01d857ecf70e30de0",
+    "summary": "Growing tension between London and Brussels just six months after summit set out to build stronger ties",
+    "ingested_utc": "2025-11-07T05:35:33Z"
+  },
+  {
+    "published_utc": "2025-11-07",
+    "retrieved_date": "2025-11-07",
     "retrieved_utc": "2025-11-07T05:14:58Z",
     "source": "FT_Markets",
     "title": "Orbán to seek approval from Trump to continue importing Russian oil",
@@ -10965,38 +10998,5 @@
     "id_key": "26f3a3766bfb3170d932240869ad7e13a43f201f32c9566e6b95a53f4efd9e7a",
     "summary": "From Nov. 5-Dec. 3, every eligible client who opts in and trades $1 (or its equivalent in another currency) will earn one sweepstakes entry to win 1 BTC. The post Your next $1 trade could win you a whole bitcoin appeared first on Kraken Blog .",
     "ingested_utc": "2025-11-05T17:49:45Z"
-  },
-  {
-    "published_utc": "2025-11-05",
-    "retrieved_date": "2025-11-05",
-    "retrieved_utc": "2025-11-05T17:49:04Z",
-    "source": "CryptoNews",
-    "title": "Ripple Announces $500M Investment Round Led by Fortress and Citadel Securities",
-    "url": "https://cryptonews.com/news/ripple-announces-500m-investment-round-led-by-fortress-and-citadel-securities/",
-    "id_key": "5e8436cb73da2f425da7159239f52f6584a7b683717b176c62345a45c193b3e8",
-    "summary": "Ripple has announced a $500M round at a $40B valuation, following a $1B tender offer, as institutions have participated across payments, custody, stablecoins, and prime brokerage. Licenses and acquisitions have supported growth in Ripple Payments and RLUSD adoption. The post Ripple Announces $500M Investment Round Led by Fortress and Citadel Securities appeared first on Cryptonews .",
-    "ingested_utc": "2025-11-05T17:49:04Z"
-  },
-  {
-    "published_utc": "2025-11-05",
-    "retrieved_date": "2025-11-05",
-    "retrieved_utc": "2025-11-05T17:48:02Z",
-    "source": "Guardian_World",
-    "title": "Louvre heist suspect is social media star and former museum security guard, reports say",
-    "url": "https://www.theguardian.com/world/2025/nov/05/louvre-heist-suspect-is-social-media-star-and-former-museum-security-guard-reports-say",
-    "id_key": "92ec4ad0d0ee88c000d0c6fa19f9dae9af8a316a048ffc21057154f629ad09c2",
-    "summary": "The individual, identified as Abdoulaye N, is one of four suspects being held for the theft of jewels worth tens of millions of pounds One of the men arrested on suspicion of stealing €88m (£77m) of crown jewels from the Louvre museum is a minor social media star with a passion for motorbikes who has worked as a security guard at the Pompidou centre, French media have reported. Identified by justice officials as Abdoulaye N, the 39-year-old man was arrested at his home in Aubervilliers, the suburb north of Paris where he was born, six days after the 19 October heist. He faces charges of organised theft and criminal conspiracy. Continue reading...",
-    "ingested_utc": "2025-11-05T17:48:02Z"
-  },
-  {
-    "published_utc": "2025-11-05",
-    "retrieved_date": "2025-11-05",
-    "retrieved_utc": "2025-11-05T17:48:02Z",
-    "source": "Guardian_World",
-    "title": "Lancashire’s Reform-run council plans to close care homes and day centres",
-    "url": "https://www.theguardian.com/politics/2025/nov/05/lancashires-reform-run-council-plans-to-close-care-homes-to-save-4m-a-year",
-    "id_key": "02354c4e2fac2d13455bebd7137afc43deb0823622184dd7a6c829691eb975b8",
-    "summary": "Questions about potential conflict of interest as council’s Reform cabinet member for social care owns private care company Lancashire’s Reform-run council has been accused of “selling off the family silver” with plans to save £4m a year by closing five council-run care homes and five day centres and moving residents into the private sector. One of the care home residents, a 92-year-old woman, said she would leave only by “being forcibly removed or in a box”. Continue reading...",
-    "ingested_utc": "2025-11-05T17:48:02Z"
   }
 ]
