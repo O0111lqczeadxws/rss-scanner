@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-11-07",
     "retrieved_date": "2025-11-07",
+    "retrieved_utc": "2025-11-07T09:51:11Z",
+    "source": "Nikkei_Asia_Top",
+    "title": "Mitsubishi Heavy boosts order forecast on data center power demand",
+    "url": "https://asia.nikkei.com/business/aerospace-defense-industries/mitsubishi-heavy-boosts-order-forecast-on-data-center-power-demand",
+    "id_key": "5bbe50cfd575892706f870427fec8a1a20f2d07e4afa722b65387356381c8626",
+    "summary": "",
+    "ingested_utc": "2025-11-07T09:51:11Z"
+  },
+  {
+    "published_utc": "2025-11-07",
+    "retrieved_date": "2025-11-07",
+    "retrieved_utc": "2025-11-07T09:48:05Z",
+    "source": "Guardian_World",
+    "title": "ITV shares soar as it holds talks to sell television business to Sky",
+    "url": "https://www.theguardian.com/business/2025/nov/07/itv-shares-surge-comcast-talks-television-business-sale",
+    "id_key": "a5f4bc2b3ce015364b4b4f5ac362c37beec022fda18d0504e360839e1744ae13",
+    "summary": "US telecom giant Comcast looks to buy media and entertainment arm for £1.6bn but not programme-maker ITV Studios • Business live – latest updates ITV has told the market it is in preliminary talks to sell its broadcasting arm to the parent company of Sky in a £1.6bn deal, sending shares soaring s high as 18% in early trading. Comcast, the US telecom company which also owns NBCUniversal, is looking to snap up ITV’s media and entertainment arm, which includes its free-to-air TV channels in the UK, as well as its ITVX streaming platform. Continue reading...",
+    "ingested_utc": "2025-11-07T09:48:05Z"
+  },
+  {
+    "published_utc": "2025-11-07",
+    "retrieved_date": "2025-11-07",
     "retrieved_utc": "2025-11-07T09:35:07Z",
     "source": "AlJazeera_All",
     "title": "Belgium’s Liege airport temporarily halts flights after new drone sighting",
@@ -10976,27 +10998,5 @@
     "id_key": "f2571e57193ca14dbb3e380cece5627368c87c390f8ba0b775eddb093b656958",
     "summary": "Resident doctors in England will strike for five days next week after saying the health secretary’s latest offer was too limited Wes Streeting has failed in an attempt to end the long-running resident doctors’ dispute with a new offer to them, which means their five-day strike next week is set to go ahead. The health secretary tabled a new offer to resident – formerly junior – doctors in England on Wednesday in a move intended to avoid that walkout – their 13th. Continue reading...",
     "ingested_utc": "2025-11-05T19:26:15Z"
-  },
-  {
-    "published_utc": "2025-11-05",
-    "retrieved_date": "2025-11-05",
-    "retrieved_utc": "2025-11-05T19:14:01Z",
-    "source": "HackerNews_Top",
-    "title": "Why aren't smart people happier?",
-    "url": "https://www.theseedsofscience.pub/p/why-arent-smart-people-happier",
-    "id_key": "dc18b49ab6dbb1d1b6fc90b335622f66cc7260049cb632c70f088011b13c2ace",
-    "summary": "Comments",
-    "ingested_utc": "2025-11-05T19:14:01Z"
-  },
-  {
-    "published_utc": "2025-11-05",
-    "retrieved_date": "2025-11-05",
-    "retrieved_utc": "2025-11-05T19:13:52Z",
-    "source": "FinancialPost_Business",
-    "title": "THEON receives first order for multi-sensor gimbals from a European Defense Prime, and announces acquisition of 30% of ShockEOS with an option to reach majority shareholding",
-    "url": "https://financialpost.com/globe-newswire/theon-receives-first-order-for-multi-sensor-gimbals-from-a-european-defense-prime-and-announces-acquisition-of-30-of-shockeos-with-an-option-to-reach-majority-shareholding",
-    "id_key": "dd41af71d1a0799b63a32e332257c1f7dc83bb0dce913875162fd653d0996412",
-    "summary": "PRESS RELEASE Bloomberg (THEON:NA) / Reuters (THEON.AS) 5 November 2025 – Theon International Plc (THEON) is pleased to announce the evolution of the €10 million investment announced in October 2024 for developing new platform-based products. As a result of a joint engineering collaboration between THEON and Shock EO Systems Ltd (ShockEOS) R&D teams over the […]",
-    "ingested_utc": "2025-11-05T19:13:52Z"
   }
 ]
