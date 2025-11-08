@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-11-08",
     "retrieved_date": "2025-11-08",
+    "retrieved_utc": "2025-11-08T10:51:31Z",
+    "source": "HackerNews_Top",
+    "title": "GPT-OSS 120B Runs at 3000 tokens/sec on Cerebras",
+    "url": "https://www.cerebras.ai/blog/openai-gpt-oss-120b-runs-fastest-on-cerebras",
+    "id_key": "72a237e0dd7d90ccb6488ab51bf4b8dda99838cfcdd6d844703295a9b4f280c7",
+    "summary": "Comments",
+    "ingested_utc": "2025-11-08T10:51:31Z"
+  },
+  {
+    "published_utc": "2025-11-08",
+    "retrieved_date": "2025-11-08",
+    "retrieved_utc": "2025-11-08T10:47:48Z",
+    "source": "Guardian_World",
+    "title": "Woman stabbed in neck in ‘unprovoked attack’ in Birmingham city centre",
+    "url": "https://www.theguardian.com/uk-news/2025/nov/08/woman-stabbed-in-neck-in-unprovoked-attack-in-birmingham-city-centre",
+    "id_key": "56d7610719caf6c2498cfc658ff2eee141b3237528c75f69d3fda61d901559d8",
+    "summary": "Police arrest a man in his 20s near to the scene as woman remains in hospital in critical condition A woman is in critical condition after she was stabbed in the neck in what police believe was “an unprovoked attack”. West Midlands police were called to Smallbrook Queensway, in Birmingham city centre, shortly before 9pm on Friday after reports of a stabbing. Continue reading...",
+    "ingested_utc": "2025-11-08T10:47:48Z"
+  },
+  {
+    "published_utc": "2025-11-08",
+    "retrieved_date": "2025-11-08",
     "retrieved_utc": "2025-11-08T10:34:58Z",
     "source": "FinancialPost_Business",
     "title": "USTR Greer Talks Trade With Swiss as Swatch CEO Blasts Approach",
@@ -10976,27 +10998,5 @@
     "id_key": "91a6a3ad2f94a5c0c6481379f31a460cc0ef9a44c4c61f7ab290b2a6ccf488e0",
     "summary": "Ring is introducing a new AI-powered feature that consolidates multiple alerts from a camera about a single event into one notification. Single Event Alert is launching on November 6th and is designed to reduce the barrage of notifications from a video doorbell or camera. Building on Ring’s AI Video Descriptions that send a summary of […]",
     "ingested_utc": "2025-11-06T15:16:28Z"
-  },
-  {
-    "published_utc": "2025-11-06",
-    "retrieved_date": "2025-11-06",
-    "retrieved_utc": "2025-11-06T15:16:13Z",
-    "source": "FT_Home",
-    "title": "AI pioneers claim human-level general intelligence is already here",
-    "url": "https://www.ft.com/content/5f2f411c-3600-483b-bee8-4f06473ecdc0",
-    "id_key": "ab905957fe242c0b97c725e49bf9536a9f66cf0645228c435f820b859c7ee1a7",
-    "summary": "Tech leaders say systems now rival human intelligence in key tasks, further fuelling the superintelligence debate",
-    "ingested_utc": "2025-11-06T15:16:13Z"
-  },
-  {
-    "published_utc": "2025-11-06",
-    "retrieved_date": "2025-11-06",
-    "retrieved_utc": "2025-11-06T15:14:11Z",
-    "source": "CryptoSlate",
-    "title": "How Zohran Mamdani’s victory impacts New York’s crypto future",
-    "url": "https://cryptoslate.com/zohran-mamdanis-victory-tests-nycs-crypto-identity/",
-    "id_key": "164c8aed4690b677ddfe23cbf208ad2bbe8ae468ec6bf17b4c6b17daac44f40d",
-    "summary": "Zohran Mamdani’s win has put New York’s crypto sector on edge, raising questions about how a mayor critical of both Wall Street and digital-asset wealth will steer the city. On Nov. 4, the 34-year-old Democrat defeated former New York Governor Andrew Cuomo in a race that had gripped prediction markets for months. Mamdani’s ascent is […] The post How Zohran Mamdani’s victory impacts New York’s crypto future appeared first on CryptoSlate .",
-    "ingested_utc": "2025-11-06T15:14:11Z"
   }
 ]
