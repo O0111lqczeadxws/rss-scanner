@@ -2,6 +2,50 @@
   {
     "published_utc": "2025-11-08",
     "retrieved_date": "2025-11-08",
+    "retrieved_utc": "2025-11-08T07:13:44Z",
+    "source": "AlJazeera_All",
+    "title": "LIVE: Israeli air raids, demolitions hit Gaza despite ceasefire with Hamas",
+    "url": "https://www.aljazeera.com/news/liveblog/2025/11/8/live-israeli-air-raids-demolitions-hit-gaza-despite-ceasefire-with-hamas?traffic_source=rss",
+    "id_key": "a702037c325072da9c9ba25c4ed648899cdbbae2a9c5bdad5d75ff1e167dedae",
+    "summary": "Israeli army carries out more demolitions of residential buildings east of Khan Younis in the southern Gaza Strip.",
+    "ingested_utc": "2025-11-08T07:13:44Z"
+  },
+  {
+    "published_utc": "2025-11-08",
+    "retrieved_date": "2025-11-08",
+    "retrieved_utc": "2025-11-08T07:13:13Z",
+    "source": "NPR_Top",
+    "title": "UPS and FedEx grounding MD-11 planes following deadly Kentucky crash",
+    "url": "https://www.npr.org/2025/11/08/g-s1-97052/ups-fedex-ground-md-11-planes",
+    "id_key": "1ad8bbeb7c57f5883ff8a776a2f619c9ca8b2db5c7540e00bbef1d71c2c3be26",
+    "summary": "UPS and FedEx will ground their fleets of McDonnell Douglas MD-11 planes \"out of an abundance of caution\" following a deadly crash at the UPS global aviation hub in Kentucky.",
+    "ingested_utc": "2025-11-08T07:13:13Z"
+  },
+  {
+    "published_utc": "2025-11-08",
+    "retrieved_date": "2025-11-08",
+    "retrieved_utc": "2025-11-08T07:13:06Z",
+    "source": "NYTimes_World",
+    "title": "4 Arrested Over Disruption of Israeli Orchestra’s Concert",
+    "url": "https://www.nytimes.com/2025/11/07/arts/music/israel-philharmonic-concert-arrests-france.html",
+    "id_key": "0c5b9736e79396ebbeb9ab9fe62f749d3e5c0a745e795ecfed2b883618ded40b",
+    "summary": "Several audience members shouted or lit flares as the Israel Philharmonic Orchestra performed in Paris. After the concert, the ensemble received 10 minutes of applause and played the Israeli national anthem.",
+    "ingested_utc": "2025-11-08T07:13:06Z"
+  },
+  {
+    "published_utc": "2025-11-08",
+    "retrieved_date": "2025-11-08",
+    "retrieved_utc": "2025-11-08T07:12:47Z",
+    "source": "Guardian_World",
+    "title": "Former Met police officer accused of using sex workers while on duty",
+    "url": "https://www.theguardian.com/uk-news/2025/nov/08/former-met-police-officer-accused-of-using-sex-workers-while-on-duty",
+    "id_key": "495e38d2eaa6dde7ff8a2212e9a8529706efd77b4998fafd3db36f9922e7641f",
+    "summary": "Exclusive: Imran Patel, who resigned last year after reports about his conduct, is being investigated by the IOPC A former Metropolitan police officer allegedly used sex workers while on duty in the midst of a major investigation into behavioural standards, the Guardian can reveal. Britain’s largest police force has been described as “institutionally misogynistic” after widespread claims that a “toxic” sexist culture has been allowed to thrive for decades. Continue reading...",
+    "ingested_utc": "2025-11-08T07:12:47Z"
+  },
+  {
+    "published_utc": "2025-11-08",
+    "retrieved_date": "2025-11-08",
     "retrieved_utc": "2025-11-08T06:42:22Z",
     "source": "BBC_World",
     "title": "Trump gives Hungary one-year exemption from Russian energy sanctions",
@@ -10954,49 +10998,5 @@
     "id_key": "5c66187eccb4365972f25fab7b1376c55a3ff24be5945b80eea9e3f5b4836921",
     "summary": "Google released Gemini’s Deep Research feature in March, a few months after unveiling the tool, giving you the capability to ask the AI chatbot to create comprehensive reports on complex topics. Deep Research uses sources from the web to write reports for you, but now a new update also allows it to pull information from your Gmail, Docs, Drive and Chat. Google says it’s one of the tool’s most requested features, and you’ll be able to take advantage of it in Gemini, even if you’re not paying for a subscription. With Google’s latest update, Deep Research is now able to use your emails, all the Slides, Docs, Sheets and PDFs in your Drive, as well your chat history as references. That translates to a more personalized report, since Gemini wouldn’t just be using sources from the web. If you ask it to write a marketing analysis for you, for instance, it will take into account your notes, any document your team has written or any back-and-forth between you and your colleagues on email. It can cross-reference information from your account with public data to make, say, comparison spreadsheets for competitor analysis. Take note that you will be able to control which Google service to link to, if you’re uneasy about giving Gemini access to all your information. When you click on the Deep Research tool in Gemini, you’ll see a drop-down menu where you can tick on Search, Gmail, Drive and Chat individually. At the moment, the feature is only available on desktop, but it will make its way to mobile devices “in the coming days.” This article originally appeared on Engadget at https://www.engadget.com/google-gemini-can-now-do-deep-research-on-your-gmail-and-drive-data-143000300.html?src=rss",
     "ingested_utc": "2025-11-06T14:38:28Z"
-  },
-  {
-    "published_utc": "2025-11-06",
-    "retrieved_date": "2025-11-06",
-    "retrieved_utc": "2025-11-06T14:38:10Z",
-    "source": "FT_Markets",
-    "title": "JPMorgan hit with record fine from German finance watchdog",
-    "url": "https://www.ft.com/content/fd511cbc-d04f-43ea-aa15-e17ef96803af",
-    "id_key": "056be35f014b171224ce5e405664a7df6116163096977a99b661ecae04d32ae4",
-    "summary": "BaFin imposes its highest ever penalty of €45mn on European arm of Wall Street bank",
-    "ingested_utc": "2025-11-06T14:38:10Z"
-  },
-  {
-    "published_utc": "2025-11-06",
-    "retrieved_date": "2025-11-06",
-    "retrieved_utc": "2025-11-06T14:38:09Z",
-    "source": "FT_Home",
-    "title": "Struggling UK prisons need more staff, not more paperwork",
-    "url": "https://www.ft.com/content/6d4920ba-c906-44fd-8efd-b0c49dd6b747",
-    "id_key": "3008f6e3d445710c8781619fd501a7cfc1fb61373acd7c70641513cf1e35c9c7",
-    "summary": "Mistaken releases are bound to occur with sentencing guidelines in flux and guards overworked and undertrained",
-    "ingested_utc": "2025-11-06T14:38:09Z"
-  },
-  {
-    "published_utc": "2025-11-06",
-    "retrieved_date": "2025-11-06",
-    "retrieved_utc": "2025-11-06T14:38:09Z",
-    "source": "FT_Home",
-    "title": "Nancy Pelosi to retire from politics",
-    "url": "https://www.ft.com/content/bc2c9e12-27fb-41c4-a406-b49e0a5b69c1",
-    "id_key": "080f29ecdafeedf2d69e006b1f76786261fc9262fb15ce02e590aa41fda36c30",
-    "summary": "US Democratic party titan will stand down after nearly 40 years",
-    "ingested_utc": "2025-11-06T14:38:09Z"
-  },
-  {
-    "published_utc": "2025-11-06",
-    "retrieved_date": "2025-11-06",
-    "retrieved_utc": "2025-11-06T14:37:58Z",
-    "source": "NYTimes_World",
-    "title": "Her Research Could Improve Training For Service Dogs",
-    "url": "https://www.nytimes.com/2025/11/06/science/lost-science-hecht-service-dogs.html",
-    "id_key": "50552ef4b5b55e6755bae1ee9880f8f6b7d834e62d9f734c275bdf69a2380230",
-    "summary": "“This is a type of science that has an impact that most people could see in their homes,” said Erin Hecht, a canine researcher at Harvard. “Now there’s just no money.”",
-    "ingested_utc": "2025-11-06T14:37:58Z"
   }
 ]
