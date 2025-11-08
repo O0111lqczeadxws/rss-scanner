@@ -2,6 +2,94 @@
   {
     "published_utc": "2025-11-08",
     "retrieved_date": "2025-11-08",
+    "retrieved_utc": "2025-11-08T13:24:53Z",
+    "source": "Engadget_All",
+    "title": "12 steps you can take right now to be safer online",
+    "url": "https://www.engadget.com/cybersecurity/12-steps-you-can-take-right-now-to-be-safer-online-130008335.html?src=rss",
+    "id_key": "bcb11bc37748c0ef4b34043d715e3039f94057441f4f0b97464fd0f55393b830",
+    "summary": "There's a fundamental question you can ask of both the internet and real life: \"How do I enjoy my time here without taking unnecessary risks?\" In grass-touching meatspace, you can cut out processed foods, carry pepper spray and avoid skydiving without a partner. But the best methods for staying safe online aren't as intuitive. The internet is a massive town square where people are constantly bellowing deeply personal facts about themselves. It's no surprise that it's become a breeding ground for scams, theft and other criminal activity. Given the breadth of dangers, it may feel easier to throw up your hands and say that whatever happens will happen. I'm here to tell you, though, that cybersecurity doesn't have to be complex, difficult or time-consuming. You don't need to be a hacker to foil a hacker — you only have to take advantage of simple tips and free apps designed to make you safer online. Whether you commit to all 12 detailed here or only focus on one, you'll be much more secure for it. 1. Install security updates immediately One of the most important things you can do to ensure your digital security is to install all software updates as soon as they become available on your devices. When you see the notification, don't wait — train yourself to download the update immediately. Not all software updates are about security, but the ones that are form your best line of defense against technical hacks. When developers discover a flaw that can be exploited, they ship an update to fix it. By the time the flaw gets patched, chances are very high that hackers also know about it, so any time lost means you could be the next to get exploited. As you go down this list, you'll learn that cybersecurity threats are less technical than you think. To counter the ones that are, however, there's nothing more important you can do than install security updates. 2. Use strong passwords Weak, easily guessed passwords are one of the most frequent causes of data breaches and malware attacks. If a password is one of the ten or so most common, an attacker may be able to guess it with no other information. If it's connected to you — your birthday, say, or mother's maiden name — it may be guessable from information anyone can look up online. Even if your password is a random string of characters, it might still be guessable if it's too short. Hackers can use programs to guess all possible combinations and try each one on a target account. The longer a password is, the more exponentially difficult it is to guess. SEAN GLADWELL via Getty Images That means you need passwords that are both long and meaningless to you. You might rightly complain that these are bastards to remember, but you're in luck: password managers can do that for you. A password manager app or browser extension can create passwords when you need them, store them securely and fill them in automatically. All you have to remember is the one master password that unlocks all the others. 3. Set up two-factor authentication Even the strongest password might get revealed through no fault of your own, like if it's stored without encryption and leaked in a data breach. That's why it helps to have two-factor authentication (2FA), also known as multi-factor authentication (MFA), as a second secure layer on every account. You probably already know 2FA as the irritating extra step that makes you go get your phone — but that's not the only way to do it. Many apps, including Google and Apple, now let you log in through passkeys . These not only don't require you to enter a code or password, but use asymmetric encryption, sharing credentials between your device and the service that runs the passkeys. It's a lot quicker for you, and leaves nothing to steal. 4. Back everything up Ransomware and its cousins are a growth industry within the cybercrime economy. These attacks corrupt your files or lock you out of them until you pay a fee to get them back. The easiest way to foil a ransomware attack, or to clear any other kind of malware off a device, is to restore the entire system from the most recent backup. To make sure you actually have a backup, experts recommend the 3-2-1 rule: three different backups, on two different types of storage, with at least one physically distant from the main system. For example, you could have one backup on another device in your house, one in the cloud and one on a portable hard drive. Automatic backup services can save disk images for you at set intervals so you don't have to remember to do it yourself. 5. Learn to spot social engineering Despite all the technobabble flying around the cybersecurity world, a great many scams and hacks are accomplished through methods a 19th-century con artist would recognize. Scammers pose as experts or authority figures to gain your trust, and use frightening language to bypass your critical thinking. Ticking clocks, emotional manipulation and fake identities are all in the toolbox. Alex Cristi via Getty Images Take phishing, in which hackers trick you into giving up your information willingly. A typical phishing email might pose as a bank, credit bureau or other authoritative service. In red letters, it may demand your bank password or social security number to immediately fix an irregularity with your account. Other common approaches include warning you about speeding tickets you never incurred or sending receipts for subscriptions you never bought. Social engineering attacks are constantly evolving, but they often fall back on the same strategies. The best way to foil them is to take a deep breath every time you receive a frightening email or text message, then research it in detail: look up the email address, check the visual design to make sure the sender is who they claim to be, and ask yourself if there's any way the message could be true. I highly recommend working through this phishing quiz — it's tough, but fair, and extremely educational. 6. Always check links before clicking This is a companion to the previous tip. Social engineering scams don't always try to get you to give up information yourself. They also get you to click on links that put secret malware on your device — like keyloggers that watch you type your passwords or ransomware programs that corrupt your files. If you're ever not sure about an email attachment or a link you're being asked to click, copy the link (without opening it) and paste it into a URL checker like this one from NordVPN . These free tools can tell you if a link is associated with any known malware domains. Sam Chapman for Engadget You can also mouse over any link, then look at the bottom-left of your browser to see what URL it will take you to. If an email is from your bank, any links within it should go to your bank's website. If it's going anywhere else, especially to an unidentifiable string of characters, be suspicious. 7. Don't overshare Over the last two decades, lots of us have gotten into the habit of dumping all sorts of personal information on social media. This trend has supercharged the scam economy. It may seem harmless to broadcast the names of your kids or the dates you'll be on vacation, but every piece of data you put into the world makes it easier for a stranger to get hooks into you. For example, \"grandparent scams\" are on the rise right now. Grifters contact a target, usually a senior, pretending to be their grandchild. They'll claim to be in a crisis and need money fast. The more information they have on their target, the more convincing their tale of woe will be. Social media is a prime place to study a potential victim. Oversharing can also be a compounding problem. If you use weak passwords, your public information can be used to guess your credentials or answer your security questions. So, if you don't have a password manager yet, think twice before you engage with that quiz post on Facebook that asks for the name of your childhood pet. 8. Use a VPN I'm a big booster of virtual private networks (VPNs), but it's important to be realistic about what they can and can't do. Even the best VPNs aren't total cybersecurity solutions — you can't just set one and assume you're safe forever. A VPN can't protect you if you use easily guessed passwords, for example, or click on a malware link. It's about hiding your identity, not making you invulnerable. So what can a VPN do? In short, it replaces your IP address (a fingerprint that identifies you online) with another IP address, belonging to a server owned by the VPN. The VPN server does business with the internet on your behalf, while its conversations with your device are encrypted so it can't be traced back to you. Sam Chapman for Engadget This means no third party can connect your online actions with your real-world identity. Nobody will be harvesting data on the websites you visit to sell to advertisers, nor building a file on you that an unscrupulous government might misuse. VPNs also protect you from fake public Wi-Fi networks set up by cybercriminals — even if a hacker tricks you with a man-in-the-middle attack, they can't do much without your real IP address. Many top VPNs, including my top pick Proton VPN , include ad blockers that can also keep cookies and tracking pixels from latching onto you. So, even if a VPN can't do everything, you'll be far safer and more private with one than without one. If you don’t want to pay for a new subscription right now, I've also compiled a list of the best free VPNs that are actually safe to use. 9. Run regular virus scans The most important time to look for malware is when you're downloading a file from the internet. Not only can unwanted apps hitch rides on seemingly safe files, but links can start downloads in secret, even if you don't think they're meant to be downloading anything. A solid antivirus program can catch malware as it arrives on your system, and if it's uncertain, can lock suspicious files in quarantine until it knows whether they're safe or not. Dedicated antivirus apps are sometimes even capable of catching malware that hasn't been seen or used yet. AV software uses machine learning to identify the common patterns of malware, filtering out new viruses that behave like old ones. But what about malware that's already gotten through the perimeter? An antivirus app can also check your computer at set intervals in search of unwanted apps, including those that might be masquerading as system files. Windows computers now come pre-installed with Windows Defender, which is enough to handle most of these tasks, but I recommend at least one anti-malware program on any device. 10. Use email maskers and private search engines If you're concerned about your information being misused or mishandled, remember that the less you put out into the world, the less danger you're in. Keeping your private data off social media is one important step, but there are other ways your data gets disseminated — and other options for responding. For example, you often need an email address to sign up for an online account. If you use your real email, your contact information is now floating around online, increasing the chance of someone using it to scam you (or at least adding you to mailing lists you never signed up for). To stay safe, use an email masker. These services give you a fake email address you can use to create accounts, which automatically forwards messages to your real address. Sam Chapman for Engadget Search engines, especially Google, are also notorious for building profiles on users by watching the terms they search for. You can dodge that by switching to a private search engine like DuckDuckGo , which doesn't track anything you do — it's funded by non-targeted ad sales on its search results pages, not by selling your data to brokers. 11. Use a data removal service Speaking of data brokers: unfortunately, if you've been on the internet at any point in the last 10 years without taking intense precautions, your data is probably in the hands of at least one business that makes money by hoarding and selling it. These data brokers range from public-facing, people-search sites to private backend dealers. Data brokers are poorly regulated and lax about safety. The longer one has your personal information, the more likely it is to leak. The good news is that most brokers (though not all of them) are legally required to delete your data if you ask them to. However, there are a lot of data brokers out there, and they really want to keep your data. Each one makes opting out harder than uninstalling a Norton product — and hundreds of them may have files on you. To make the process easier, you can use a data removal service like DeleteMe or Surfshark VPN's partner service Incogni. 12. Practice physical security Let's close out the list by getting a little old school. I've already discussed how many online scams depend on classic con artistry to work. By the same token, physical infiltration and smash-and-grab tactics still pose a threat to cybersecurity. It doesn't take too much imagination to see how this could work. If you leave your laptop or phone unattended in public, for example, someone might insert a flash drive that loads malware onto the system. In one illustrative case, a thief in the Minneapolis area would loiter in bars, watch people unlock their phones, then steal those phones and unlock them himself. I'm not saying you need to be paranoid every second you're in public. Just use the same level of caution you'd use to protect your car. Lock your phone with a biometric key so only you can open it, and make sure not to leave any device lying around if it can access your online accounts. And at work, be careful not to let anyone into a secure area if they don't have the proper credentials. This article originally appeared on Engadget at https://www.engadget.com/cybersecurity/12-steps-you-can-take-right-now-to-be-safer-online-130008335.html?src=rss",
+    "ingested_utc": "2025-11-08T13:24:53Z"
+  },
+  {
+    "published_utc": "2025-11-08",
+    "retrieved_date": "2025-11-08",
+    "retrieved_utc": "2025-11-08T13:24:53Z",
+    "source": "Engadget_All",
+    "title": "A Pizza Delivery is a dreamy indie adventure that tests your will to press on",
+    "url": "https://www.engadget.com/a-pizza-delivery-is-a-dreamy-indie-adventure-that-tests-your-will-to-press-on-130000842.html?src=rss",
+    "id_key": "6e8476e15f0369a6a3c9020fd2491408687f0d9bfed163a23191fd9a88824fa3",
+    "summary": "Nothing brings people together in uncertain times quite like food. Get to talking and laughing and reminiscing over a meal, and suddenly things don't seem so bleak anymore, even if only temporarily. A Pizza Delivery is all about rediscovering the spark through these little moments of human connection — just strangers bonding over a slice of pizza, and regaining a bit of hope in the process. It's wistful and heartfelt in a kind of vague, nonspecific way, with some beautiful scenery and an atmospheric soundtrack to really hammer home the vibes. Still, while A Pizza Delivery feels close to achieving its goals, it could use more polishing to fully get there. It's not a bad way to spend a couple of hours on a cozy evening in, but you'll have to look past the parts where it's a little broken. A Pizza Delivery begins with its main character, B, delivering a pizza to an apartment in a strange building in the middle of nowhere. Then a pay phone outside rings, and B's boss tells her there's just one last delivery she has to make. But, there's a spare pizza pie in her scooter's cargo box too, to share slices with anyone else she comes across during the journey. The place B has found herself in is not normal reality, but \"a space where people go when they are stuck in life, feeling empty and unfulfilled.\" Each area seems its own wholly distinct little world: an empty city, a broken down factory that sits beneath dancing auroras, a prairie where a sole cottage stands among a smattering of sunflowers. You must explore the ins and outs of each area to help get B to her final destination and piece together her story, collecting items and solving some light puzzles to unlock whatever comes next. What this game really has going for it is the mood. There's a kind of Wristcutters: A Love Story feeling to the whole thing that I couldn't help but latch onto. The offbeat, crestfallen characters you encounter each have their own sad story to tell, but after a bit of conversation and a slice of pizza, they're off to (hopefully) make a fresh start and reclaim their lives. The general sense is that B will have the same opportunity if she can push through and complete her mission. And we did get there in the end, but there were some serious hiccups along the way. Controlling B's scooter is a somewhat clunky experience, and if you make the mistake of dismounting while it's still moving, B will end up stuck in a cursed, floating arabesque that won't let up for an indeterminable amount of time. I found myself repeatedly trapped in this broken position when trying to switch from riding the scooter to walking. The alternative is to come to a full stop and wait out the subsequent animation, which involves B very slowly parking and engaging the kickstand. A still from A Pizza Delivery showing a blizzard scene, with the character seen trudging through low visibility toward the red light of a pay phone Dolores Entertainment Most of the puzzles were fairly easy to figure out, but one in which B has to trudge through a blizzard seemed to have no rhyme or reason behind it and almost made me rage-quit the game. Instead, I stepped away for a few hours and came back to it later, and only made it out after an extremely frustrating 45 minutes or so of wandering aimlessly, repeatedly going out of bounds and getting kicked back to the start of the area. Early in the game, you pick up a compass that would seem to be the solution to this puzzle, as the instructions are all direction-based. But, you can't actually use the compass, and trying to navigate based on the way it's oriented in your inventory doesn't help. B's story didn't entirely come together for me like I hoped either. Even after collecting all of the memory items, her background felt incomplete. I found myself wishing I knew more about her and what got her to this place once she was finally on her way to leaving it. But I don't regret sticking it out. The ending was ultimately a touching reward and pretty darn uplifting. A Pizza Delivery is available now for PS5, Xbox Series X/S and PC. This article originally appeared on Engadget at https://www.engadget.com/a-pizza-delivery-is-a-dreamy-indie-adventure-that-tests-your-will-to-press-on-130000842.html?src=rss",
+    "ingested_utc": "2025-11-08T13:24:53Z"
+  },
+  {
+    "published_utc": "2025-11-08",
+    "retrieved_date": "2025-11-08",
+    "retrieved_utc": "2025-11-08T13:24:53Z",
+    "source": "Engadget_All",
+    "title": "Halo Infinite will get its last major content update on November 18",
+    "url": "https://www.engadget.com/gaming/halo-infinite-will-get-its-last-major-content-update-on-november-18-130000955.html?src=rss",
+    "id_key": "edb6f3a586cb20314611d1d25a674466a18a3be41eee6c166badaceb2f757082",
+    "summary": "The next major update for Halo Infinite will also be its last. Halo Studios, which is part of Microsoft’s Xbox Game Studios, has announced that it’s rolling out Operation: Infinite on November 18. It’s going to be the last major update for the first-person shooter, because the whole team will now be focusing on the “multiple Halo titles” under development. Xbox previously announced that it’s releasing Halo: Campaign Evolved , a remake of the first game in the franchise, Halo: Combat Evolved , sometime in 2026. It will be available for the Xbox, PC and PS5. According to unverified reports , Halo Studios is also working on a new multiplayer live service project similar to Fortnite . Operation: Infinite will double the earning rate for Career Rank and Spartan Points. The final free Operation Pass will have no expiration date and will unlock three new armor sets. Upgrading to the 100-tier Premium Pass will give players the chance to unlock “five more unique armor sets, six weapon models and over 30 exclusive Spartan customizations.” The last major update will also add a new asymmetrical map for select Ranked modes. While Operation: Infinite is the game’s last major update, Halo Infinite will still have a rotating selection of daily and weekly challenges, as well as a new slate of Ranked Seasons for those who want to keep playing it. This article originally appeared on Engadget at https://www.engadget.com/gaming/halo-infinite-will-get-its-last-major-content-update-on-november-18-130000955.html?src=rss",
+    "ingested_utc": "2025-11-08T13:24:53Z"
+  },
+  {
+    "published_utc": "2025-11-08",
+    "retrieved_date": "2025-11-08",
+    "retrieved_utc": "2025-11-08T13:24:22Z",
+    "source": "NYTimes_Business",
+    "title": "Debt Has Entered the A.I. Boom",
+    "url": "https://www.nytimes.com/2025/11/08/business/dealbook/debt-has-entered-the-ai-boom.html",
+    "id_key": "f878a94bdb3dc207037e4928f1ee5f791ad5312affc5a89b396f18cfa89cb2e5",
+    "summary": "To fund heavy spending on infrastructure for artificial intelligence, companies have leveraged a growing list of complex debt-financing options.",
+    "ingested_utc": "2025-11-08T13:24:22Z"
+  },
+  {
+    "published_utc": "2025-11-08",
+    "retrieved_date": "2025-11-08",
+    "retrieved_utc": "2025-11-08T13:21:34Z",
+    "source": "Guardian_Business",
+    "title": "Joy Reid on her ouster from MSNBC: ‘In this moment, not being a part of corporate media is a gift’",
+    "url": "https://www.theguardian.com/us-news/2025/nov/08/joy-reid-msnbc",
+    "id_key": "abb15b257f705819c4d5e96e056e17f8f8e0126179e3d5d24e07dcd7c0274c2e",
+    "summary": "After the ex-host of the ReidOut was forced out in February, she launched her own streaming show on YouTube Joy Reid hosted the 7pm hour on MSNBC for nearly five years, providing a daily dose of progressive energy and verve that led into the network’s primetime programming. Then, in late February, Reid was suddenly forced out, and her show, The ReidOut, was cancelled as part of a broader programming shakeup at the network. Reid has since launched her own streaming show, The Joy Reid Show, and has a few things to say about the mainstream media she was once part of. Now that it’s been eight months since you were abruptly fired by MSNBC, how do you view your departure? Continue reading...",
+    "ingested_utc": "2025-11-08T13:21:34Z"
+  },
+  {
+    "published_utc": "2025-11-08",
+    "retrieved_date": "2025-11-08",
+    "retrieved_utc": "2025-11-08T13:21:34Z",
+    "source": "Guardian_World",
+    "title": "Guyana in turmoil after opposition leader arrested and faces US extradition",
+    "url": "https://www.theguardian.com/world/2025/nov/08/guyana-azruddin-nazar-mohamed-arrested-us-extradition",
+    "id_key": "377b5f783842fe942166cf6036f49ac508e694c2ccf2be4ebe8489b21edfe2d6",
+    "summary": "Azruddin Mohamed had emerged as a surprise contender in the presidential election and claims political persecution Guyana has been thrown into political turmoil following the arrest and possible extradition to the United States of the country’s main opposition leader just two months after he emerged as the surprise contender in the presidential election that kept incumbent Irfaan Ali in power. Azruddin Mohamed, 38, and his father, Nazar Mohamed, 73, two of Guyana’s wealthiest figures thanks to their gold mining empire, were arrested on 31 October in the capital, Georgetown, in response to a formal extradition request from the US government. Continue reading...",
+    "ingested_utc": "2025-11-08T13:21:34Z"
+  },
+  {
+    "published_utc": "2025-11-08",
+    "retrieved_date": "2025-11-08",
+    "retrieved_utc": "2025-11-08T13:21:34Z",
+    "source": "Guardian_World",
+    "title": "Maha movement helps to kill bill seeking US food-safety rollbacks",
+    "url": "https://www.theguardian.com/us-news/2025/nov/08/maha-food-safety-laws-us",
+    "id_key": "260f60123f75d526f4e1b3ace788754739af24332255912f950123e257ec97d4",
+    "summary": "Public health advocates praise rewrite of legislation backed by big-food influence operation AFIT A bipartisan group of public health advocates have defeated a proposal to kill state food safety laws that was pushed by what some critics have called a “faux Maha” big-food influence operation. The industry-funded group, called Americans for Ingredient Transparency (AFIT), suggests it is part of a grassroots Make America Healthy Again (Maha) movement, but opponents say it is waging a campaign on behalf of big food companies that Maha figures typically criticizes – ConAgra, Coca-Cola, PepsiCo, Hormel, and Nestlé among other food giants. Continue reading...",
+    "ingested_utc": "2025-11-08T13:21:34Z"
+  },
+  {
+    "published_utc": "2025-11-08",
+    "retrieved_date": "2025-11-08",
+    "retrieved_utc": "2025-11-08T13:21:31Z",
+    "source": "BBC_World",
+    "title": "US to boycott G20 in South Africa, Trump says",
+    "url": "https://www.bbc.com/news/articles/ckgzek4rl8lo?at_medium=RSS&at_campaign=rss",
+    "id_key": "e2995c3658936f1283510952a7eb6c4f214bc367625bcf7468388cc31a9eef79",
+    "summary": "Trump says no US official will be sent to the summit over discredited claims that Afrikaners are being persecuted.",
+    "ingested_utc": "2025-11-08T13:21:31Z"
+  },
+  {
+    "published_utc": "2025-11-08",
+    "retrieved_date": "2025-11-08",
     "retrieved_utc": "2025-11-08T13:01:03Z",
     "source": "AlJazeera_All",
     "title": "Israeli attacks kill two in Lebanon as EU urges it to respect the ceasefire",
@@ -1285,6 +1373,17 @@
     "id_key": "d26d7bbe33b8b7726b7fe525fb3088922526f8324c6076d549ca8bbd292bded4",
     "summary": "Footage shows commotion inside vehicle in Massachusetts as desperate woman in passenger seat tries to awaken man US Immigration and Customs Enforcement (ICE) is facing fierce questions after a video that appeared to show a man falling unconscious during an arrest while clutching a small child went viral, and officials accused the man of faking a medical emergency to stop the arrest of his wife. The footage , obtained by the Boston Globe, shows a frantic commotion inside a vehicle in Fitchburg, Massachusetts, on Thursday. A desperate woman in the passenger seat tries to awaken the man in the driver’s seat, with a crying child in the middle. People can be heard shouting: “He’s having a seizure.” An officer can be seen trying to pull the passengers from the vehicle, while a Fitchburg police officer orders the crowd to “back up” repeatedly. Continue reading...",
     "ingested_utc": "2025-11-08T00:50:05Z"
+  },
+  {
+    "published_utc": "2025-11-07",
+    "retrieved_date": "2025-11-08",
+    "retrieved_utc": "2025-11-08T13:25:01Z",
+    "source": "TheStreet_Top",
+    "title": "Scott Galloway fires searing criticism at Big Tech, housing market",
+    "url": "https://www.thestreet.com/technology/scott-galloway-fires-scathing-slam-at-ai-big-tech",
+    "id_key": "b390759384606572f41925a179645b8c6b770852b25096754e3d3125cd6656c9",
+    "summary": "Significant research conducted in recent years has revealed the risks associated with social media use among children and adolescents. For one, the U.S. Department of Health and Human Services (HHS) emphasizes the fact that young people who spend more than three hours a day on social media face an ...",
+    "ingested_utc": "2025-11-08T13:25:01Z"
   },
   {
     "published_utc": "2025-11-07",
@@ -10899,104 +10998,5 @@
     "id_key": "c9ea493d3675c52718ab5b7ef67d30a748f1924428f3f28dce39cad2e7a40d31",
     "summary": "Deputy PM accused of being ‘dishonest’ and his performance at PMQs ‘a disgrace’ by Tory MPs David Lammy , the deputy PM and justice secretary, has welcomed the fact that Billy Smith is back in custody, but described the spike in release mistakes as “unacceptable”. According to PA Media, Lammy said: William Smith is back in custody. The spike in mistaken releases is unacceptable. We’re modernising prison systems – replacing paper with digital tools to cut errors. Continue reading...",
     "ingested_utc": "2025-11-06T16:15:17Z"
-  },
-  {
-    "published_utc": "2025-11-06",
-    "retrieved_date": "2025-11-06",
-    "retrieved_utc": "2025-11-06T16:15:17Z",
-    "source": "Guardian_World",
-    "title": "King Charles officially strips Andrew of HRH style and prince title",
-    "url": "https://www.theguardian.com/uk-news/2025/nov/06/andrew-hrh-style-prince-title-officially-removed-king-charles",
-    "id_key": "99724f8f25facf887a18af57550e4472559772014c79db02f12040a2aa084098",
-    "summary": "Mountbatten Windsor is no longer entitled to use the terms and has been erased from roll of peerage King Charles has officially stripped the former Duke of York, now Andrew Mountbatten Windsor, of his HRH style and his prince title. Charles formally made the changes, which were announced a week ago, by issuing a letters patent under the Great Seal of the Realm, which the Crown Office published in the Gazette, the UK’s official public record. Continue reading...",
-    "ingested_utc": "2025-11-06T16:15:17Z"
-  },
-  {
-    "published_utc": "2025-11-06",
-    "retrieved_date": "2025-11-06",
-    "retrieved_utc": "2025-11-06T16:15:16Z",
-    "source": "Guardian_Business",
-    "title": "How could Tropical Forest Forever fund proposed at Cop30 tackle climate crisis?",
-    "url": "https://www.theguardian.com/environment/2025/nov/06/tropical-forest-forever-fund-proposed-cop30-tackle-climate-change",
-    "id_key": "515f68ee00d93da21344c38b69fd1a7656f99ac6ef2d97cbeacdaf973256ee7a",
-    "summary": "Scheme aims to raise $125bn to invest in bonds, with returns used to reward countries that preserve their forests As a battle-scarred veteran of the war against nature, Garo Batmanian has spent 45 years trying to defend the Amazon rainforest. For most of that time, the resistance he leads has been outfunded and outgunned by those who profit from destruction. The most Batmanian felt he could achieve was to slow the advance of the chainsaws and tractors. But the director-general of Brazil’s forest service feels there could be a chance at the Cop30 climate summit in Belém, Brazil, next week, not just of an even fight, but perhaps a victory. There is one condition: world governments must rally behind an initiative being launched by the host nation – the Tropical Forest Forever Facility (TFFF). Continue reading...",
-    "ingested_utc": "2025-11-06T16:15:16Z"
-  },
-  {
-    "published_utc": "2025-11-06",
-    "retrieved_date": "2025-11-06",
-    "retrieved_utc": "2025-11-06T15:55:28Z",
-    "source": "FinancialPost_Business",
-    "title": "Ghost job postings can be hard to spot but there are signs. Should you still apply?",
-    "url": "https://financialpost.com/pmn/ghost-job-postings-can-be-hard-to-spot-but-there-are-signs-should-you-still-apply",
-    "id_key": "2831a803c5ad27aac75c0590f2fe63d8a75b74866e632a7effb8aaa9e3ad27fd",
-    "summary": "You tailored your cover letter to the job listing, polished your resume and completed a long online form to apply for a job _ only to find out later that the company never had any intention of filling the role in the first place. Ghost jobs — vacancies advertised online but without any intention of […]",
-    "ingested_utc": "2025-11-06T15:55:28Z"
-  },
-  {
-    "published_utc": "2025-11-06",
-    "retrieved_date": "2025-11-06",
-    "retrieved_utc": "2025-11-06T15:55:28Z",
-    "source": "FinancialPost_Business",
-    "title": "Bombardier Opens Door to Defense M&A as Nations Boost Spending",
-    "url": "https://financialpost.com/pmn/business-pmn/bombardier-opens-door-to-defense-ma-as-nations-boost-spending",
-    "id_key": "2d7229f2ec9248d51f2adf23091e423c855707bb859f988ff32b8c2ea80b353d",
-    "summary": "Canadian jet manufacturer Bombardier Inc. is considering mergers and acquisitions in the defense sector, seeking to capitalize on governments’ plans to spend heavily to rearm their militaries.",
-    "ingested_utc": "2025-11-06T15:55:28Z"
-  },
-  {
-    "published_utc": "2025-11-06",
-    "retrieved_date": "2025-11-06",
-    "retrieved_utc": "2025-11-06T15:55:28Z",
-    "source": "FinancialPost_Business",
-    "title": "BST Global Launches 2026 AI + Data Impact Survey for the AEC Industry",
-    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/bst-global-launches-2026-ai-data-impact-survey-for-the-aec-industry",
-    "id_key": "d740bda39c63a99a91128112580379cca3f2d83a9427a68224a84128dfdb5975",
-    "summary": "TAMPA, Fla. — BST Global, the leading provider of AI-powered project intelligence™ solutions for the AEC industry, has launched its second annual global AI + Data Survey. Seeking insights from technology and data leaders of architecture, engineering and environmental consultancies around the world, the survey will be available until 11:59 p.m. ET, December 31, 2025. […]",
-    "ingested_utc": "2025-11-06T15:55:28Z"
-  },
-  {
-    "published_utc": "2025-11-06",
-    "retrieved_date": "2025-11-06",
-    "retrieved_utc": "2025-11-06T15:55:28Z",
-    "source": "FinancialPost_Business",
-    "title": "EchoStar Takes $16.5 Billion Charge, Sells More Spectrum",
-    "url": "https://financialpost.com/pmn/business-pmn/echostar-takes-16-5-billion-charge-sells-more-spectrum",
-    "id_key": "6739938be9d2a04f46e8a08fda9601d74f4e17cecbe45b96c55df2ca8ae0eb37",
-    "summary": "EchoStar Corp. reported a $16.5 billion impairment charge and agreed to sell more spectrum licenses to Elon Musk’s SpaceX for $2.6 billion as it works to unwind parts of its 5G wireless network.",
-    "ingested_utc": "2025-11-06T15:55:28Z"
-  },
-  {
-    "published_utc": "2025-11-06",
-    "retrieved_date": "2025-11-06",
-    "retrieved_utc": "2025-11-06T15:55:21Z",
-    "source": "AlJazeera_All",
-    "title": "Palestinian girl draws anime cartoons to portray Gaza’s suffering",
-    "url": "https://www.aljazeera.com/video/newsfeed/2025/11/6/palestinian-girl-draws-anime-cartoons-to-portray-gazas-suffering?traffic_source=rss",
-    "id_key": "6f9fa71d9ccfa2d8752ea494adf65e84b5a44aa08315a0fece1dc41f5669188e",
-    "summary": "A 16-year-old Palestinian girl in Gaza is using art as an outlet for her trauma and grief from Israel’s war.",
-    "ingested_utc": "2025-11-06T15:55:21Z"
-  },
-  {
-    "published_utc": "2025-11-06",
-    "retrieved_date": "2025-11-06",
-    "retrieved_utc": "2025-11-06T15:55:20Z",
-    "source": "TheStreet_Top",
-    "title": "BofA sees consumer pain increasing from controversial economic policy",
-    "url": "https://www.thestreet.com/economy/bofa-sees-consumer-pain-increasing-from-controversial-economic-policy",
-    "id_key": "c23aa2fb2c957da7590b64ee21228794dd937e4ebc4f5ed864a78126063ac01c",
-    "summary": "In 2024, then-presidential candidate Donald Trump made inflation the centerpiece of his campaign. The \"price of eggs\" being too high became a rallying cry against the incumbent presidential administration as Trump seized on a very real pain point for many Americans. January: 3%February: 2.8%March: ...",
-    "ingested_utc": "2025-11-06T15:55:20Z"
-  },
-  {
-    "published_utc": "2025-11-06",
-    "retrieved_date": "2025-11-06",
-    "retrieved_utc": "2025-11-06T15:55:09Z",
-    "source": "TechCrunch_All",
-    "title": "Mastodon’s latest software update brings quote posts to all server operators",
-    "url": "https://techcrunch.com/2025/11/06/mastodons-latest-software-update-brings-quote-posts-to-all-server-operators/",
-    "id_key": "e6d2547ee60b8b493604900fe39853d90b07da1739e2942c128c8968d0e6a61f",
-    "summary": "Mastodon's latest software version brings quote posts with added controls to all servers.",
-    "ingested_utc": "2025-11-06T15:55:09Z"
   }
 ]
