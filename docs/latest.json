@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-11-08",
     "retrieved_date": "2025-11-08",
+    "retrieved_utc": "2025-11-08T03:58:40Z",
+    "source": "HackerNews_Top",
+    "title": "Cerebras Code now supports GLM 4.6 at 1000 tokens/sec",
+    "url": "https://www.cerebras.ai/code",
+    "id_key": "d5d982d268a1ad22af5acd65bb19ec1e9eb55d4d6d55bc2f25758c5035bef43e",
+    "summary": "Comments",
+    "ingested_utc": "2025-11-08T03:58:40Z"
+  },
+  {
+    "published_utc": "2025-11-08",
+    "retrieved_date": "2025-11-08",
     "retrieved_utc": "2025-11-08T03:19:13Z",
     "source": "FinancialPost_Business",
     "title": "Canacol Energy Ltd Provides Information on Arbitration Process",
@@ -10986,17 +10997,6 @@
     "url": "https://financialpost.com/globe-newswire/quebec-city-area-record-high-transactions-in-october-amid-a-tight-market",
     "id_key": "c8b175f5689c0ea4d2e57589eaeb052d96757a4d3a27665705bcccce6adfe86f",
     "summary": "With 1,031 transactions, the Quebec City area residential market recorded a 16 per cent increase in sales in October 2025 — a historic high for this month. Sales growth was widespread across all sectors and property types. Plexes saw sales rise by 24 per cent, single-family homes by 19 per cent, and condominiums by 6 […]",
-    "ingested_utc": "2025-11-06T14:15:45Z"
-  },
-  {
-    "published_utc": "2025-11-06",
-    "retrieved_date": "2025-11-06",
-    "retrieved_utc": "2025-11-06T14:15:45Z",
-    "source": "FinancialPost_Business",
-    "title": "The Montreal Real Estate Market Maintained its Momentum in October, Despite the Decline in Condominium Sales",
-    "url": "https://financialpost.com/globe-newswire/the-montreal-real-estate-market-maintained-its-momentum-in-october-despite-the-decline-in-condominium-sales",
-    "id_key": "f619a70e20cb89161b4ca269c6f6d7b4a3bbf333928fd16d9d7fc3abf3c4ef88",
-    "summary": "With 3,968 transactions, the residential market in the Montreal metropolitan area recorded a 5 per cent increase in sales, making this the fourth-best October since 2000. Five of the six major sectors posted higher sales, with the exception of Laval, which edged down by 1 per cent. By property type, single-family home sales rose by […]",
     "ingested_utc": "2025-11-06T14:15:45Z"
   }
 ]
