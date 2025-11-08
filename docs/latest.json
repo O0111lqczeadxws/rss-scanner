@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-11-08",
     "retrieved_date": "2025-11-08",
+    "retrieved_utc": "2025-11-08T08:35:17Z",
+    "source": "BBC_World",
+    "title": "Israel says body of Lior Rudaeff has been returned from Gaza",
+    "url": "https://www.bbc.com/news/articles/cwykw15dx56o?at_medium=RSS&at_campaign=rss",
+    "id_key": "18eea6c54c90d99e37568d26a1830e2ecbb576cfead686fc122d7a4c05b0c094",
+    "summary": "Lior Rudaeff died defending Nir Yitzhak kibbutz during the Hamas attack on 7 October 2023, the Israeli military said.",
+    "ingested_utc": "2025-11-08T08:35:17Z"
+  },
+  {
+    "published_utc": "2025-11-08",
+    "retrieved_date": "2025-11-08",
     "retrieved_utc": "2025-11-08T08:17:34Z",
     "source": "AlJazeera_All",
     "title": "Ukraine’s FM says over 1,400 Africans recruited to fight for Russia in war",
@@ -10986,17 +10997,6 @@
     "url": "https://financialpost.com/investing/retail-investors-stocks-2026-jpmorgan",
     "id_key": "e2f043e7cc623a34eb8482aa2537555372f5189e15b0ce01c1f1a20cd1a205d0",
     "summary": "The S&P 500 index has just notched its sixth month of gains, the longest winning streak since 2021",
-    "ingested_utc": "2025-11-06T14:38:45Z"
-  },
-  {
-    "published_utc": "2025-11-06",
-    "retrieved_date": "2025-11-06",
-    "retrieved_utc": "2025-11-06T14:38:45Z",
-    "source": "FinancialPost_Business",
-    "title": "Nodal Exchange Achieves New Trading Volume Records in October 2025",
-    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/nodal-exchange-achieves-new-trading-volume-records-in-october-2025",
-    "id_key": "deb25042f43899e8d5472f20d30233ed70b565997132d1bbe8d1a5c678312115",
-    "summary": "WASHINGTON — Nodal Exchange set a calendar month record for October 2025 with 313.8 million MWh, up 5% from October 2024. Nodal achieved a year-to-date record with January – October 2025 traded power futures volume of 2.652 billion MWh, up 2% from 2.600 billion MWh during the same period in 2024. Nodal continues to be […]",
     "ingested_utc": "2025-11-06T14:38:45Z"
   }
 ]
