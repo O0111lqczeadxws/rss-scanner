@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-11-08",
     "retrieved_date": "2025-11-08",
+    "retrieved_utc": "2025-11-08T07:50:20Z",
+    "source": "NYTimes_Business",
+    "title": "UPS and FedEx Ground MD-11 Cargo Planes After Louisville Crash",
+    "url": "https://www.nytimes.com/2025/11/08/us/ups-fedex-cargo-planes-grounded.html",
+    "id_key": "c2916b1c0ffe2ddfcc7c142fa53622bfc9937c860098ae4d9228e3132f058d5a",
+    "summary": "The cargo airlines said they had taken the step to immediately ground the fleets on the recommendation of the plane’s manufacturer.",
+    "ingested_utc": "2025-11-08T07:50:20Z"
+  },
+  {
+    "published_utc": "2025-11-08",
+    "retrieved_date": "2025-11-08",
     "retrieved_utc": "2025-11-08T07:37:17Z",
     "source": "AlJazeera_All",
     "title": "Hamas returns latest captive body to Israel",
@@ -10986,17 +10997,6 @@
     "url": "https://financialpost.com/pmn/business-pmn/feds-goolsbee-says-hes-uneasy-about-rate-cuts-without-data",
     "id_key": "c8a8bec2744b22cd43736272815ba9a2b3b61825b2c6f09f9f7f6f5884baa36d",
     "summary": "Federal Reserve Bank of Chicago President Austan Goolsbee said a lack of inflation data during the government shutdown makes him more uneasy about continuing interest-rate cuts.",
-    "ingested_utc": "2025-11-06T14:38:45Z"
-  },
-  {
-    "published_utc": "2025-11-06",
-    "retrieved_date": "2025-11-06",
-    "retrieved_utc": "2025-11-06T14:38:45Z",
-    "source": "FinancialPost_Business",
-    "title": "Merz Backs EU Tariff Plan to Help Europe’s Ailing Steelmakers",
-    "url": "https://financialpost.com/pmn/business-pmn/merz-backs-eu-tariff-plan-to-help-europes-ailing-steelmakers",
-    "id_key": "90dc170291d01a961d24aeeca3c89022b1d6b6cda710483ad1269fe372d8b52e",
-    "summary": "German Chancellor Friedrich Merz threw his support behind proposed European Union tariffs to shield the continent’s ailing steelmakers and reiterated his government’s commitment to securing steel production and jobs in Europe’s biggest economy.",
     "ingested_utc": "2025-11-06T14:38:45Z"
   }
 ]
