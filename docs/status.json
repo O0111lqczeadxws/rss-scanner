@@ -1,7 +1,7 @@
 {
-  "started_utc": "2025-11-08T16:34:04Z",
-  "ended_utc": "2025-11-08T16:38:11Z",
-  "new_items_this_run": 8,
+  "started_utc": "2025-11-08T16:49:27Z",
+  "ended_utc": "2025-11-08T16:53:31Z",
+  "new_items_this_run": 5,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
@@ -57,7 +57,7 @@
     "MarketWatch_Bulletins": 0,
     "MarketWatch_PersonalFinance": 0,
     "NYTimes_Business": 0,
-    "NYTimes_World": 1,
+    "NYTimes_World": 0,
     "NYTimes_Economy": 1,
     "NYTimes_Technology": 0,
     "CNN_Top": 0,
@@ -66,7 +66,7 @@
     "NPR_Economy": 0,
     "NPR_World": 0,
     "NPR_Technology": 0,
-    "FT_Home": 1,
+    "FT_Home": 0,
     "FT_Markets": 0,
     "CNBC_Top": 0,
     "CNBC_Markets": 0,
@@ -78,7 +78,7 @@
     "TheEconomist_Business": 0,
     "TheEconomist_Finance": 1,
     "Investopedia_Latest": 0,
-    "TheStreet_Top": 2,
+    "TheStreet_Top": 1,
     "AlJazeera_All": 0,
     "AlJazeera_Economy": 0,
     "FinancialPost_Business": 1,
@@ -92,7 +92,7 @@
   "errors": [
     {
       "source": "https://feeds.reuters.com/reuters/businessNews",
-      "error": "fetch error: HTTPSConnectionPool(host='feeds.reuters.com', port=443): Max retries exceeded with url: /reuters/businessNews (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7fd2622ea1d0>: Failed to resolve 'feeds.reuters.com' ([Errno -2] Name or service not known)\"))"
+      "error": "fetch error: HTTPSConnectionPool(host='feeds.reuters.com', port=443): Max retries exceeded with url: /reuters/businessNews (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f7c830ce010>: Failed to resolve 'feeds.reuters.com' ([Errno -2] Name or service not known)\"))"
     },
     {
       "source": "Reuters_Business",
@@ -100,7 +100,7 @@
     },
     {
       "source": "https://feeds.reuters.com/reuters/worldNews",
-      "error": "fetch error: HTTPSConnectionPool(host='feeds.reuters.com', port=443): Max retries exceeded with url: /reuters/worldNews (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7fd2622fb550>: Failed to resolve 'feeds.reuters.com' ([Errno -2] Name or service not known)\"))"
+      "error": "fetch error: HTTPSConnectionPool(host='feeds.reuters.com', port=443): Max retries exceeded with url: /reuters/worldNews (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f7c830db350>: Failed to resolve 'feeds.reuters.com' ([Errno -2] Name or service not known)\"))"
     },
     {
       "source": "Reuters_World",
@@ -108,7 +108,7 @@
     },
     {
       "source": "https://feeds.reuters.com/reuters/marketsNews",
-      "error": "fetch error: HTTPSConnectionPool(host='feeds.reuters.com', port=443): Max retries exceeded with url: /reuters/marketsNews (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7fd2622eb390>: Failed to resolve 'feeds.reuters.com' ([Errno -2] Name or service not known)\"))"
+      "error": "fetch error: HTTPSConnectionPool(host='feeds.reuters.com', port=443): Max retries exceeded with url: /reuters/marketsNews (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f7c830db250>: Failed to resolve 'feeds.reuters.com' ([Errno -2] Name or service not known)\"))"
     },
     {
       "source": "Reuters_Markets",
@@ -164,7 +164,7 @@
     },
     {
       "source": "https://blog.optimism.io/rss/",
-      "error": "fetch error: HTTPSConnectionPool(host='blog.optimism.io', port=443): Max retries exceeded with url: /rss/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7fd2620f18d0>: Failed to resolve 'blog.optimism.io' ([Errno -5] No address associated with hostname)\"))"
+      "error": "fetch error: HTTPSConnectionPool(host='blog.optimism.io', port=443): Max retries exceeded with url: /rss/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f7c830f8c10>: Failed to resolve 'blog.optimism.io' ([Errno -5] No address associated with hostname)\"))"
     },
     {
       "source": "Optimism_Blog",
@@ -188,7 +188,7 @@
     },
     {
       "source": "https://blog.dydx.exchange/feed",
-      "error": "fetch error: HTTPSConnectionPool(host='blog.dydx.exchange', port=443): Max retries exceeded with url: /feed (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7fd2620d9790>: Failed to resolve 'blog.dydx.exchange' ([Errno -5] No address associated with hostname)\"))"
+      "error": "fetch error: HTTPSConnectionPool(host='blog.dydx.exchange', port=443): Max retries exceeded with url: /feed (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f7c830ccb10>: Failed to resolve 'blog.dydx.exchange' ([Errno -5] No address associated with hostname)\"))"
     },
     {
       "source": "dYdX_Blog",
@@ -196,7 +196,7 @@
     },
     {
       "source": "Gemini_Blog",
-      "error": "<unknown>:452:1720098: junk after document element"
+      "error": "<unknown>:452:1719314: junk after document element"
     },
     {
       "source": "https://www.circle.com/blog/rss.xml",
@@ -212,7 +212,7 @@
     },
     {
       "source": "https://blog.metamask.io/rss/",
-      "error": "fetch error: HTTPSConnectionPool(host='blog.metamask.io', port=443): Max retries exceeded with url: /rss/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7fd2620fd590>: Failed to resolve 'blog.metamask.io' ([Errno -5] No address associated with hostname)\"))"
+      "error": "fetch error: HTTPSConnectionPool(host='blog.metamask.io', port=443): Max retries exceeded with url: /rss/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f7c82f09dd0>: Failed to resolve 'blog.metamask.io' ([Errno -5] No address associated with hostname)\"))"
     },
     {
       "source": "MetaMask_Blog",
@@ -355,7 +355,7 @@
     "entries_seen": 1541,
     "too_old": 460,
     "dup_title_url": 108,
-    "dup_id": 455
+    "dup_id": 458
   },
   "limits": {
     "skip_older_days": 10,
@@ -368,6 +368,6 @@
   },
   "processed": {
     "file": "data/processed/2025-11-08.jsonl",
-    "appended_new": 6
+    "appended_new": 3
   }
 }
