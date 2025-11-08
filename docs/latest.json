@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-11-08",
     "retrieved_date": "2025-11-08",
+    "retrieved_utc": "2025-11-08T20:28:51Z",
+    "source": "Guardian_World",
+    "title": "More than 1,000 flights canceled on second day of cuts tied to government shutdown",
+    "url": "https://www.theguardian.com/us-news/2025/nov/08/flight-cancellations-government-shutdown",
+    "id_key": "66749409f19c1b30d595dfacbeba553bb94f6fc5f8b964e3187787efd24c41e0",
+    "summary": "Charlotte, North Carolina, has the most cancellations – at 120 – as industry experts say other sectors might also feel effects US airlines again canceled more than 1,000 flights on Saturday, the second day of the Federal Aviation Administration’s order to reduce air traffic because of the government shutdown . So far, the slowdown at many of the nation’s busiest airports hasn’t caused widespread disruptions. But it has deepened the impact felt by what is now the nation’s longest federal shutdown. Continue reading...",
+    "ingested_utc": "2025-11-08T20:28:51Z"
+  },
+  {
+    "published_utc": "2025-11-08",
+    "retrieved_date": "2025-11-08",
     "retrieved_utc": "2025-11-08T20:14:47Z",
     "source": "HackerNews_Top",
     "title": "Near mid-air collision at LAX between American Airlines and ITA [video]",
@@ -10987,16 +10998,5 @@
     "id_key": "087fbb480de90b57f1e503ffc2f9729a07821401193b87a718f3bd307ffc08f6",
     "summary": "Christmas Island facility would support naval surveillance in strategic Indo-Pacific waters.",
     "ingested_utc": "2025-11-06T18:20:33Z"
-  },
-  {
-    "published_utc": "2025-11-06",
-    "retrieved_date": "2025-11-06",
-    "retrieved_utc": "2025-11-06T18:20:32Z",
-    "source": "TheVerge_All",
-    "title": "The latest Blink Video Doorbell is over 50 percent off",
-    "url": "https://www.theverge.com/tech/815637/blink-video-doorbell-second-generation-early-black-friday-deal-sale",
-    "id_key": "a78b41a9621b1dc0279b6c88410c5d2639b278469081374079582675f73c5004",
-    "summary": "With Black Friday and the holiday season approaching, packages will start piling up, making now a good time to take steps to protect your doorstep from porch pirates. Thankfully, multiple retailers are already offering early Black Friday discounts on smart security devices to help you keep tabs on deliveries, with Amazon’s and Best Buy’s deal […]",
-    "ingested_utc": "2025-11-06T18:20:32Z"
   }
 ]
