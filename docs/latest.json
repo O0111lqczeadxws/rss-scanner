@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-11-08",
     "retrieved_date": "2025-11-08",
+    "retrieved_utc": "2025-11-08T15:31:25Z",
+    "source": "AlJazeera_All",
+    "title": "Tottenham and Manchester United both score stoppage-time goals in 2-2 draw",
+    "url": "https://www.aljazeera.com/sports/2025/11/8/tottenham-and-manchester-united-both-score-stoppage-time-goals-in-2-2-draw?traffic_source=rss",
+    "id_key": "40ed7394a0e72c9ff9e0734cd15975735cb34ce7c3b0442519351a6742f49903",
+    "summary": "De Ligt salvages point for United in a frantic finale as both sides miss chance to go second in the Premier League.",
+    "ingested_utc": "2025-11-08T15:31:25Z"
+  },
+  {
+    "published_utc": "2025-11-08",
+    "retrieved_date": "2025-11-08",
+    "retrieved_utc": "2025-11-08T15:31:24Z",
+    "source": "TheStreet_Top",
+    "title": "127-year-old jewelry chain closing forever, no bankruptcy",
+    "url": "https://www.thestreet.com/retail/127-year-old-jewelry-chain-closing-forever-no-bankruptcy",
+    "id_key": "66de0743f05d5bd3aec4f7edfec6bc0c559816415e49c39fc3a121f16eb0cb22",
+    "summary": "The chain has been called the \"Tiffany's of the South.\"It's also a Tiffany's dealer.The stores will be open until inthe ventory has been sold off. While hundred-year-old U.S. businesses are incredibly rare, businesses that go out by their own choice might be even rarer. Usually, time catches up ...",
+    "ingested_utc": "2025-11-08T15:31:24Z"
+  },
+  {
+    "published_utc": "2025-11-08",
+    "retrieved_date": "2025-11-08",
+    "retrieved_utc": "2025-11-08T15:30:25Z",
+    "source": "Guardian_World",
+    "title": "Tanzania police arrest opposition party official after deadly election protests",
+    "url": "https://www.theguardian.com/world/2025/nov/08/tanzania-officials-seek-arrest-key-opposition-figures-fatal-election-protests--samia-suluhu-hassan-",
+    "id_key": "0489c5fd74ba3fa00ef6b8da0fb8c3a4c3110c9b9aede2b667b2f43351c2525d",
+    "summary": "Chadema party says deputy secretary general arrested and calls election of incumbent president fraudulent Tanzanian authorities have detained a senior official from the main opposition party Chadema amid a spate of arrests in connection to deadly protests during elections last week. More than 1,000 people were killed by security forces during the demonstrations, according to Chadema and human rights bodies. The Tanzanian government has said these figures were exaggerated but did not give its own figures. Continue reading...",
+    "ingested_utc": "2025-11-08T15:30:25Z"
+  },
+  {
+    "published_utc": "2025-11-08",
+    "retrieved_date": "2025-11-08",
     "retrieved_utc": "2025-11-08T15:14:14Z",
     "source": "FinancialPost_Business",
     "title": "Trump, Reeling from Election Night, Tightens Focus on Midterms",
@@ -10965,38 +10998,5 @@
     "id_key": "50ed88709261c0e4ffea418154a8938a78a369ab1ee6de709beaa797c25454f8",
     "summary": "Release notes Important This release replaces v1.35.1 and is mandatory for all node operators. It includes the Ethereum Mainnet Fusaka hard fork configuration (Osaka, BPO1, and BPO2 forks). All nodes must upgrade to this version before the Fusaka hard fork activation on December 3, 2025 at 9:49:11 PM to stay in sync. Overview This release activates the Ethereum Mainnet Fusaka hard fork, which introduces the Osaka, BPO1, and BPO2 upgrades. Version 1.35.2 replaces 1.35.1 to ensure compatibility with Fusaka across all networks. What’s Changed Mainnet Osaka, BPO1, BPO2 forks by @Marchhill in #9615 Full Changelog https://github.com/NethermindEth/nethermind/compare/1.35.1…1.35.2",
     "ingested_utc": "2025-11-06T17:00:57Z"
-  },
-  {
-    "published_utc": "2025-11-06",
-    "retrieved_date": "2025-11-06",
-    "retrieved_utc": "2025-11-06T16:59:59Z",
-    "source": "CoinJournal",
-    "title": "Morpho Network (MORPHO) suffers service interruption as users face rendering issues",
-    "url": "https://coinjournal.net/news/morpho-network-morpho-suffers-service-interruption-as-users-face-rendering-issues/",
-    "id_key": "2f48f70cdd3a79872d48ce588e2fe3525801641624dc8999996ca2ac72f65b59",
-    "summary": "Morpho faced a brief outage on Nov. 6, hitting indexers, backend systems, and the app UI. Core lending/borrowing stayed online, but users struggled to load dashboards and live data. Backend and indexers are restored, though frontend rendering remains impaired. As bears thrive amid broader market indecisiveness, decentralized lending protocol Morpho suffered a momentary service disruption […] The post Morpho Network (MORPHO) suffers service interruption as users face rendering issues appeared first on CoinJournal .",
-    "ingested_utc": "2025-11-06T16:59:59Z"
-  },
-  {
-    "published_utc": "2025-11-06",
-    "retrieved_date": "2025-11-06",
-    "retrieved_utc": "2025-11-06T16:59:56Z",
-    "source": "Protos",
-    "title": "Stream Finance meltdown: winners and losers in DeFi ‘risk curator’ reckoning",
-    "url": "https://protos.com/stream-finance-meltdown-winners-and-losers-in-defi-risk-curator-reckoning/",
-    "id_key": "1988f22ab74f823ce49d3ae9729af54f19ababee385c83ffeee6dc8b4501d3a2",
-    "summary": "The recent depeg of Stream Finance's xUSD has led to concerns over the health of an interwoven ecosystem of similar high-yield vaults. The post Stream Finance meltdown: winners and losers in DeFi ‘risk curator’ reckoning appeared first on Protos .",
-    "ingested_utc": "2025-11-06T16:59:56Z"
-  },
-  {
-    "published_utc": "2025-11-06",
-    "retrieved_date": "2025-11-06",
-    "retrieved_utc": "2025-11-06T16:59:32Z",
-    "source": "Guardian_World",
-    "title": "‘Iconic, heroic, trailblazing’: Democrats praise Pelosi’s work after she announces plan to retire – US politics live",
-    "url": "https://www.theguardian.com/us-news/live/2025/nov/06/donald-trump-government-shutdown-venezuela-senate-vote-us-politics-live-news-updates",
-    "id_key": "11b2fb646993537ad35518f7d146002ac90e20390d140c7208ecf1bc68cd845e",
-    "summary": "House minority leader Hakeem Jeffries calls Pelosi ‘greatest Speaker of all time’ as she announces she will stand down in 2027 Nancy Pelosi, a force on Capitol Hill for decades, to retire from Congress It’s now day 37 of the ongoing government shutdown, the longest on record, with both parties continuing to blame the other for the lapse in funding. For his part, Donald Trump has turned his attention to the filibuster – the procedural mechanism that requires 60 votes in the Senate to end debate on a piece of legislation and bring it to the floor for a vote. He’s hammered home his wishes on Truth Social, and in front of lawmakers at a White House breakfast on Tuesday. Continue reading...",
-    "ingested_utc": "2025-11-06T16:59:32Z"
   }
 ]
