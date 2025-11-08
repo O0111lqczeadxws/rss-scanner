@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-11-08",
     "retrieved_date": "2025-11-08",
+    "retrieved_utc": "2025-11-08T09:14:32Z",
+    "source": "FinancialPost_Business",
+    "title": "Deadly Russian Air Barrage Triggers Ukrainian Power Outages",
+    "url": "https://financialpost.com/pmn/business-pmn/deadly-russian-air-barrage-triggers-ukrainian-power-outages",
+    "id_key": "5ba28e81873c7ad69e82e6e9043fd496a1ddca842fe05c2661a0b07d4718d9a2",
+    "summary": "A massive Russian drone and missile barrage on Ukrainian energy facilities and other targets triggered emergency power cuts and killed at least two people overnight, officials said.",
+    "ingested_utc": "2025-11-08T09:14:32Z"
+  },
+  {
+    "published_utc": "2025-11-08",
+    "retrieved_date": "2025-11-08",
     "retrieved_utc": "2025-11-08T08:54:44Z",
     "source": "AlJazeera_All",
     "title": "Philippines braces for Typhoon Fung-wong after earlier storm kills over 200",
@@ -10987,16 +10998,5 @@
     "id_key": "b5564eaacb2a3f767b31338940559acf6c01befcbe36ebd06ed7ef2c32a62337",
     "summary": "Circle reverses USDC gun ban following political pressure, updating its terms of service to permit legal firearm purchases with its stablecoin, sparking debate on stablecoin neutrality The post Circle Caves to Political Pressure, Reverses USDC Gun Purchasing Ban appeared first on Cryptonews .",
     "ingested_utc": "2025-11-06T14:52:28Z"
-  },
-  {
-    "published_utc": "2025-11-06",
-    "retrieved_date": "2025-11-06",
-    "retrieved_utc": "2025-11-06T14:51:24Z",
-    "source": "BBC_Business",
-    "title": "Will Bank of England governor play Santa or Scrooge on interest rates?",
-    "url": "https://www.bbc.com/news/articles/cy0y34dxl7lo?at_medium=RSS&at_campaign=rss",
-    "id_key": "076c204fd5e5b9b51ee5b563e35e86ff2de157c6c748cc623a94b07e7077ace1",
-    "summary": "The interest rate decision was made by the narrowest of margins, meaning all eyes are now on the Bank's December meeting.",
-    "ingested_utc": "2025-11-06T14:51:24Z"
   }
 ]
