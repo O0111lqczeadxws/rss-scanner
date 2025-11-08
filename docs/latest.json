@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-11-08",
     "retrieved_date": "2025-11-08",
+    "retrieved_utc": "2025-11-08T06:42:22Z",
+    "source": "BBC_World",
+    "title": "Trump gives Hungary one-year exemption from Russian energy sanctions",
+    "url": "https://www.bbc.com/news/articles/cp85dvnkpv4o?at_medium=RSS&at_campaign=rss",
+    "id_key": "eebaf3a97d8973f0c624bba3e48a0ea62f158d5e1580017c048961fe3532995d",
+    "summary": "The opt-out comes despite the US increasing pressure on allies to sever economic ties with Russia.",
+    "ingested_utc": "2025-11-08T06:42:22Z"
+  },
+  {
+    "published_utc": "2025-11-08",
+    "retrieved_date": "2025-11-08",
+    "retrieved_utc": "2025-11-08T06:42:22Z",
+    "source": "BBC_World",
+    "title": "Serbia clears the way for controversial Trump-linked property plan",
+    "url": "https://www.bbc.com/news/articles/c1e3q6g5n00o?at_medium=RSS&at_campaign=rss",
+    "id_key": "eaa3f6929a910b6b80dc192f4bcf14214dfe8745babf82ee964c88124ce16891",
+    "summary": "The president's son-in-law wants to build a hotel on the ruins of the former Yugoslav Army headquarters.",
+    "ingested_utc": "2025-11-08T06:42:22Z"
+  },
+  {
+    "published_utc": "2025-11-08",
+    "retrieved_date": "2025-11-08",
     "retrieved_utc": "2025-11-08T06:16:51Z",
     "source": "CryptoBriefing",
     "title": "Ethereum joins Bitcoin in recording third-largest weekly ETF outflow at $508M",
@@ -10976,27 +10998,5 @@
     "id_key": "50552ef4b5b55e6755bae1ee9880f8f6b7d834e62d9f734c275bdf69a2380230",
     "summary": "“This is a type of science that has an impact that most people could see in their homes,” said Erin Hecht, a canine researcher at Harvard. “Now there’s just no money.”",
     "ingested_utc": "2025-11-06T14:37:58Z"
-  },
-  {
-    "published_utc": "2025-11-06",
-    "retrieved_date": "2025-11-06",
-    "retrieved_utc": "2025-11-06T14:36:12Z",
-    "source": "CryptoNews",
-    "title": "Buy Bitcoin Now or Miss Out Forever, Says Standard Chartered Crypto Guru",
-    "url": "https://cryptonews.com/news/buy-bitcoin-now-or-miss-out-forever-says-standard-chartered-crypto-guru/",
-    "id_key": "8b4bd8775b0529a4434993cacacf10352388a0318b2b77fb0c9ecc5cdb40ca55",
-    "summary": "Standard Chartered's Geoffrey Kendrick declares Bitcoin's recent dip below $100,000 could be the last opportunity to buy at these levels, proposing a three-phase entry strategy as the cryptocurrency tests its 50-week moving average support. The post Buy Bitcoin Now or Miss Out Forever, Says Standard Chartered Crypto Guru appeared first on Cryptonews .",
-    "ingested_utc": "2025-11-06T14:36:12Z"
-  },
-  {
-    "published_utc": "2025-11-06",
-    "retrieved_date": "2025-11-06",
-    "retrieved_utc": "2025-11-06T14:36:12Z",
-    "source": "CryptoNews",
-    "title": "How a Tiny Rounding Error Ignited Balancer’s $128M Multi-Chain DeFi Exploit",
-    "url": "https://cryptonews.com/news/balancer-dexploit-rounding-error-128m-loss/",
-    "id_key": "7373f4f675f601f37fb61801a2be5e75c87bcec40088bdf7aef7db93477aa648",
-    "summary": "DeFi protocol Balancer has traced its $128 million multi-chain exploit to a rounding bug in its swap logic, prompting emergency pauses and fund recovery efforts. The post How a Tiny Rounding Error Ignited Balancer’s $128M Multi-Chain DeFi Exploit appeared first on Cryptonews .",
-    "ingested_utc": "2025-11-06T14:36:12Z"
   }
 ]
