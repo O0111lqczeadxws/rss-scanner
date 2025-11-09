@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-11-09",
     "retrieved_date": "2025-11-09",
+    "retrieved_utc": "2025-11-09T19:51:19Z",
+    "source": "AlJazeera_All",
+    "title": "Ukraine drone strikes throw power supplies into disarray in Russian cities",
+    "url": "https://www.aljazeera.com/news/2025/11/9/ukraines-retaliatory-drone-strikes-disrupt-power-in-two-russian-cities?traffic_source=rss",
+    "id_key": "2712a5b1f468c3fd72ba7016086c8cae0b0a1ba42cf6b83246934f39a301c3e6",
+    "summary": "Tit-for-tat attacks on energy facilities continue after Russia launched 'massive strikes' on Ukraine.",
+    "ingested_utc": "2025-11-09T19:51:19Z"
+  },
+  {
+    "published_utc": "2025-11-09",
+    "retrieved_date": "2025-11-09",
+    "retrieved_utc": "2025-11-09T19:50:36Z",
+    "source": "NYTimes_World",
+    "title": "Hamas Hands Over Body of Hadar Goldin, Israeli Soldier Held Since 2014",
+    "url": "https://www.nytimes.com/2025/11/09/world/middleeast/hamas-hadar-goldin-israel.html",
+    "id_key": "e0b8155111f717cee1ca8bed3afb7b94f7548930649394e68dc4f0de3bb9e418",
+    "summary": "Hamas returned to Israel the remains of Lt. Hadar Goldin, who was killed in a 2014 war in Gaza.",
+    "ingested_utc": "2025-11-09T19:50:36Z"
+  },
+  {
+    "published_utc": "2025-11-09",
+    "retrieved_date": "2025-11-09",
     "retrieved_utc": "2025-11-09T19:36:49Z",
     "source": "TheVerge_All",
     "title": "YouTube TV, ESPN, and Disney: the latest on the blackout",
@@ -10976,27 +10998,5 @@
     "id_key": "346ff0c8c1d016b1cb7201c7d60507dab39ed91a6f11eec9e849e6140b2ba5ea",
     "summary": "",
     "ingested_utc": "2025-11-07T00:56:47Z"
-  },
-  {
-    "published_utc": "2025-11-07",
-    "retrieved_date": "2025-11-07",
-    "retrieved_utc": "2025-11-07T00:56:47Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "Japan's trading houses talk up US investments in nod to Trump tariff deal",
-    "url": "https://asia.nikkei.com/business/business-trends/japan-s-trading-houses-talk-up-us-investments-in-nod-to-trump-tariff-deal",
-    "id_key": "4fe7bc74ab3ff14dd872e7457ce2fbeae61422b4d5655bea92b112b6560325ad",
-    "summary": "",
-    "ingested_utc": "2025-11-07T00:56:47Z"
-  },
-  {
-    "published_utc": "2025-11-07",
-    "retrieved_date": "2025-11-07",
-    "retrieved_utc": "2025-11-07T00:56:45Z",
-    "source": "FinancialPost_Business",
-    "title": "Gunvor Scraps Lukoil Deal After US Calls It Kremlin ‘Puppet’",
-    "url": "https://financialpost.com/pmn/business-pmn/gunvor-scraps-lukoil-deal-after-us-calls-it-kremlin-puppet",
-    "id_key": "07f5572a338624b84426caad83db66a5fe1da4e9a89b0524086aebd061f4f776",
-    "summary": "Commodity trader Gunvor Group has withdrawn its offer for the international assets of sanctioned Russian oil producer Lukoil PJSC after the US Treasury Department called it “the Kremlin’s puppet” and said the oil and gas trader would never get a license.",
-    "ingested_utc": "2025-11-07T00:56:45Z"
   }
 ]
