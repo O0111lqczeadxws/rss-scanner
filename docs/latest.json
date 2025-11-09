@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-11-09",
     "retrieved_date": "2025-11-09",
+    "retrieved_utc": "2025-11-09T06:48:19Z",
+    "source": "NPR_Top",
+    "title": "Nearly a million people evacuate as Super Typhoon Fung-wong threatens the Philippines",
+    "url": "https://www.npr.org/2025/11/09/g-s1-97091/nearly-a-million-people-evacuate-as-super-typhoon-fung-wong-threatens-the-philippines",
+    "id_key": "f07d5857655216a50903b0066f3889dc6ae12df5380a3942675c12547bec77f1",
+    "summary": "Super Typhoon Fung-wong, the biggest storm to threaten the Philippines this year, started battering the country's northeastern coast ahead of landfall on Sunday.",
+    "ingested_utc": "2025-11-09T06:48:19Z"
+  },
+  {
+    "published_utc": "2025-11-09",
+    "retrieved_date": "2025-11-09",
+    "retrieved_utc": "2025-11-09T06:48:12Z",
+    "source": "NYTimes_World",
+    "title": "Philippines Braces for Typhoon Fung-Wong, While Still Reeling From the Last Storm",
+    "url": "https://www.nytimes.com/2025/11/09/world/asia/philippines-typhoon-fung-wong.html",
+    "id_key": "75493a92c17653ec795bf00f49b7ee47c7633ef88328254fb2e50ee51173015e",
+    "summary": "Typhoon Fung-wong is heading for the main island of Luzon, causing tens of thousands to be evacuated after another storm killed more than 200 last week.",
+    "ingested_utc": "2025-11-09T06:48:12Z"
+  },
+  {
+    "published_utc": "2025-11-09",
+    "retrieved_date": "2025-11-09",
+    "retrieved_utc": "2025-11-09T06:46:22Z",
+    "source": "CryptoBriefing",
+    "title": "US Treasury and IRS quietly expand tax breaks for the ultrawealthy and crypto giants: NYT",
+    "url": "https://cryptobriefing.com/tax-breaks-ultrawealthy-crypto/",
+    "id_key": "8f8d931012adb74268d5bbd99a0920d3081c4166a169a43cb6922a9382f7f0fd",
+    "summary": "The expanded tax breaks may exacerbate income inequality and strain public finances, raising questions about fiscal sustainability and fairness. The post US Treasury and IRS quietly expand tax breaks for the ultrawealthy and crypto giants: NYT appeared first on Crypto Briefing .",
+    "ingested_utc": "2025-11-09T06:46:22Z"
+  },
+  {
+    "published_utc": "2025-11-09",
+    "retrieved_date": "2025-11-09",
     "retrieved_utc": "2025-11-09T06:15:59Z",
     "source": "Guardian_World",
     "title": "Victoria police re-enact single gunshot heard hour after Dezi Freeman fled into Porepunkah bushland",
@@ -493,6 +526,17 @@
     "id_key": "26a635ff1a403ea76f40998b6ac03b369af864e0ad5d3764e0118a3cc2bf97af",
     "summary": "Thousands more flights have been delayed or cancelled as the reduction of air travel capacity continues during the federal government shutdown.",
     "ingested_utc": "2025-11-09T00:56:26Z"
+  },
+  {
+    "published_utc": "2025-11-08",
+    "retrieved_date": "2025-11-09",
+    "retrieved_utc": "2025-11-09T06:48:22Z",
+    "source": "NPR_Technology",
+    "title": "Immigration agents have new technology to identify and track people",
+    "url": "https://www.npr.org/2025/11/08/nx-s1-5585691/ice-facial-recognition-immigration-tracking-spyware",
+    "id_key": "4c60f92d096510dfec5edf4fd7d67a263811fd9cf6eb9596d62da16cf395229d",
+    "summary": "The Department of Homeland Security is adopting powerful new tools to monitor noncitizens. Privacy advocates are worried they erode privacy rights for all Americans.",
+    "ingested_utc": "2025-11-09T06:48:22Z"
   },
   {
     "published_utc": "2025-11-08",
@@ -10954,49 +10998,5 @@
     "id_key": "e8b9b89d366ea4ad3affed2eea36d6ace769a8c04503abd7a965a8aaf219c161",
     "summary": "Last August, Kuxiu debuted a MagSafe battery that can do more than just wirelessly charge your phone. The company’s K1 wireless power bank featured a unique design that split and swiveled 90-degrees to reveal a second wireless charger for the Apple Watch or AirPods. Kuxiu’s new K1 Ultra does the exact same thing, but now […]",
     "ingested_utc": "2025-11-06T19:51:05Z"
-  },
-  {
-    "published_utc": "2025-11-06",
-    "retrieved_date": "2025-11-06",
-    "retrieved_utc": "2025-11-06T19:51:05Z",
-    "source": "TheVerge_All",
-    "title": "The best early Black Friday deals we’ve found so far on laptops, TVs, and more",
-    "url": "https://www.theverge.com/tech/814345/black-friday-best-early-deals-2025",
-    "id_key": "f413669be69f4a0a0957904e65fe18cd9aa03b1e08d7aaa71f5cf468addc60c6",
-    "summary": "Black Friday is the most anticipated day of the year for bargain hunters. While there’s still some time to go before November 28th, we’re already starting to see a selection of early discounts, allowing you to get a jump on your holiday shopping. Right now, for instance, you can get nearly 50 percent off select […]",
-    "ingested_utc": "2025-11-06T19:51:05Z"
-  },
-  {
-    "published_utc": "2025-11-06",
-    "retrieved_date": "2025-11-06",
-    "retrieved_utc": "2025-11-06T19:51:05Z",
-    "source": "TechCrunch_All",
-    "title": "Sora for Android saw nearly half a million installs on its first day",
-    "url": "https://techcrunch.com/2025/11/06/sora-for-android-saw-nearly-half-a-million-installs-on-its-first-day/",
-    "id_key": "789a3f61b401026a14c26309d0f69200a2a48a0a8cc03f9c7671f0c220c429a0",
-    "summary": "Sora's Android launch is off to an auspicious start, new data shows.",
-    "ingested_utc": "2025-11-06T19:51:05Z"
-  },
-  {
-    "published_utc": "2025-11-06",
-    "retrieved_date": "2025-11-06",
-    "retrieved_utc": "2025-11-06T19:50:38Z",
-    "source": "NYTimes_World",
-    "title": "Ed Moloney, Chronicler of the Troubles in Northern Ireland, Dies at 77",
-    "url": "https://www.nytimes.com/2025/11/06/world/europe/ed-moloney-dead.html",
-    "id_key": "708dac81a744097581366e1f4c108070864092a85e723f958757f34a066f2fb6",
-    "summary": "He wrote a history of the Irish Republican Army and directed a project that secretly collected oral histories of paramilitary fighters.",
-    "ingested_utc": "2025-11-06T19:50:38Z"
-  },
-  {
-    "published_utc": "2025-11-06",
-    "retrieved_date": "2025-11-06",
-    "retrieved_utc": "2025-11-06T19:47:49Z",
-    "source": "Guardian_World",
-    "title": "Australia news live: John Hewson savages Sussan Ley’s Liberal leadership; 9,500 new university places",
-    "url": "https://www.theguardian.com/australia-news/live/2025/nov/07/australia-news-live-sussan-ley-coalition-liberals-nationals-leadership-senate-anthony-albanese-labor-net-zero-ntwnfb",
-    "id_key": "aedb8b63105e6315b862056269ddf780771a1c7515dc15a03e9068fc7d7e684f",
-    "summary": "Former party leader says his latest successor has not shown strong enough character. Follow today’s news live Get our breaking news email , free app or daily news podcast Good morning and welcome to our live news blog. I’m Martin Farrer with the top overnight stories and then it will be Nick Visser to get you through to the end of the week. Sussan Ley’s leadership of the Liberal party has been has been savaged by one of her predecessors, John Hewson , for lacking clear strategy as the party grapples with infighting and demoralising polling. More coming up. Continue reading...",
-    "ingested_utc": "2025-11-06T19:47:49Z"
   }
 ]
