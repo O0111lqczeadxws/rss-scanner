@@ -673,6 +673,17 @@
   {
     "published_utc": "2025-11-08",
     "retrieved_date": "2025-11-09",
+    "retrieved_utc": "2025-11-09T08:33:41Z",
+    "source": "BBC_World",
+    "title": "US cleaning woman shot dead after arriving at wrong home",
+    "url": "https://www.bbc.com/news/articles/ce3k5qv21g1o?at_medium=RSS&at_campaign=rss",
+    "id_key": "bcc64fc92a826ca6290b46a94d0949ceb3848df71d95f10618fcaa56aadbe3e8",
+    "summary": "Police say they found Maria Florinda Rios Perez, 32, dead after she was shot on the front porch of a home in an Indianapolis suburb.",
+    "ingested_utc": "2025-11-09T08:33:41Z"
+  },
+  {
+    "published_utc": "2025-11-08",
+    "retrieved_date": "2025-11-09",
     "retrieved_utc": "2025-11-09T08:13:20Z",
     "source": "BBC_Business",
     "title": "Trump calls for probe of meat packers over beef prices",
@@ -10987,16 +10998,5 @@
     "id_key": "b554ee80f316a6688a67823e5b8b6e0fb5b8b872c4ce477b5dec611f89382a6b",
     "summary": "A bipartisan group of US senators is urging Hungary to stop buying Russian energy as that country’s prime minister, Viktor Orban prepares to meet with President Donald Trump in Washington on Friday.",
     "ingested_utc": "2025-11-06T20:16:44Z"
-  },
-  {
-    "published_utc": "2025-11-06",
-    "retrieved_date": "2025-11-06",
-    "retrieved_utc": "2025-11-06T20:16:37Z",
-    "source": "TheStreet_Top",
-    "title": "Amazon is selling a $200 4K dash cam for just $52 ahead of Black Friday",
-    "url": "https://www.thestreet.com/deals/lensuge-4k-dash-cam-amazon-sale",
-    "id_key": "88c1ddf6035caa91bc027cc499609a56816e6e737e80a72ee9e591feb5135f63",
-    "summary": "\"I feel so much more secure and protected, both while driving and when my car is parked.\"",
-    "ingested_utc": "2025-11-06T20:16:37Z"
   }
 ]
