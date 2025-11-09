@@ -2,6 +2,61 @@
   {
     "published_utc": "2025-11-09",
     "retrieved_date": "2025-11-09",
+    "retrieved_utc": "2025-11-09T03:35:31Z",
+    "source": "HackerNews_Top",
+    "title": "Tabloid: The Clickbait Headline Programming Language",
+    "url": "https://tabloid.vercel.app/",
+    "id_key": "777bbdd1310b5d0eae31a3bbbf9d393f1397a777a34cd74677c170e4e859e336",
+    "summary": "Comments",
+    "ingested_utc": "2025-11-09T03:35:31Z"
+  },
+  {
+    "published_utc": "2025-11-09",
+    "retrieved_date": "2025-11-09",
+    "retrieved_utc": "2025-11-09T03:35:31Z",
+    "source": "HackerNews_Top",
+    "title": "Syntax and Semantics of Programming Languages (1995)",
+    "url": "https://homepage.cs.uiowa.edu/~slonnegr/plf/Book/",
+    "id_key": "abe93d1427e2e0a43653af775f1d575e0587f3de26c2f6871f964ee32c708aac",
+    "summary": "Comments",
+    "ingested_utc": "2025-11-09T03:35:31Z"
+  },
+  {
+    "published_utc": "2025-11-09",
+    "retrieved_date": "2025-11-09",
+    "retrieved_utc": "2025-11-09T03:35:23Z",
+    "source": "Nikkei_Asia_Top",
+    "title": "Indian film rekindles debate over Taj Mahal's history",
+    "url": "https://asia.nikkei.com/politics/indian-film-rekindles-debate-over-taj-mahal-s-history",
+    "id_key": "5f5b2ec3be330994c3d8fb8d05e7fc95ba7b62b17c923be9734cce4f12cc9c89",
+    "summary": "",
+    "ingested_utc": "2025-11-09T03:35:23Z"
+  },
+  {
+    "published_utc": "2025-11-09",
+    "retrieved_date": "2025-11-09",
+    "retrieved_utc": "2025-11-09T03:32:25Z",
+    "source": "Guardian_World",
+    "title": "Nearly 1,500 flights canceled on second day of cuts tied to government shutdown",
+    "url": "https://www.theguardian.com/us-news/2025/nov/08/flight-cancellations-government-shutdown",
+    "id_key": "f3319d36fbb50075e259d05dc015ed9a317e504ea28d25570f24a6b11218fc42",
+    "summary": "Charlotte, North Carolina, has the most cancellations – at 120 – as industry experts say other sectors might also feel effects US airlines canceled 1,460 flights on Saturday, the second day of the Federal Aviation Administration’s (FAA) order to reduce air traffic because of the government shutdown . So far, the slowdown at many of the nation’s busiest airports hasn’t caused widespread disruptions. But it has deepened the impact felt by what is now the nation’s longest federal shutdown. Continue reading...",
+    "ingested_utc": "2025-11-09T03:32:25Z"
+  },
+  {
+    "published_utc": "2025-11-09",
+    "retrieved_date": "2025-11-09",
+    "retrieved_utc": "2025-11-09T03:32:21Z",
+    "source": "BBC_World",
+    "title": "Storm declared 'super typhoon' as it hits Philippines",
+    "url": "https://www.bbc.com/news/articles/cq509yj82y8o?at_medium=RSS&at_campaign=rss",
+    "id_key": "93639b4a95ac9497ac6757bf09b968bb9df013e42cca7459a2c2c1bcec40e7d5",
+    "summary": "Typhoon Fung Wong is already bringing \"life threatening conditions\" to one eastern island, with widespread disruption expected later.",
+    "ingested_utc": "2025-11-09T03:32:21Z"
+  },
+  {
+    "published_utc": "2025-11-09",
+    "retrieved_date": "2025-11-09",
     "retrieved_utc": "2025-11-09T02:33:54Z",
     "source": "HackerNews_Top",
     "title": "Judge says Education Dept partisan out-of-office emails violated First Amendment",
@@ -251,6 +306,17 @@
     "id_key": "26a635ff1a403ea76f40998b6ac03b369af864e0ad5d3764e0118a3cc2bf97af",
     "summary": "Thousands more flights have been delayed or cancelled as the reduction of air travel capacity continues during the federal government shutdown.",
     "ingested_utc": "2025-11-09T00:56:26Z"
+  },
+  {
+    "published_utc": "2025-11-08",
+    "retrieved_date": "2025-11-09",
+    "retrieved_utc": "2025-11-09T03:35:31Z",
+    "source": "HackerNews_Top",
+    "title": "GPT-5-Codex-Mini – A more compact and cost-efficient version of GPT-5-Codex",
+    "url": "https://github.com/openai/codex/releases/tag/rust-v0.56.0",
+    "id_key": "5770339baa449288df71af0fa1988191ee7700123a294f18b3a3d52e1c3cca5a",
+    "summary": "Comments",
+    "ingested_utc": "2025-11-09T03:35:31Z"
   },
   {
     "published_utc": "2025-11-08",
@@ -10932,71 +10998,5 @@
     "id_key": "a4c4391c808496d966d5c6ebabf2e04d1df722d88ef9c94164fc65144488e1d6",
     "summary": "The Games section is one of the highlights of reading The New York Times , and Wordle has been one of the crowning successes for the team since acquiring it in 2022. Now, fans of the popular word game can create their own custom puzzles. The publication announced today that its All Access and Games subscribers have the option to make World challenges of their own to send to friends and family. The custom puzzles must be four to seven letters long, and the creator can opt to include a clue. The puzzle will get a custom URL for sharing, and a subscription isn't required for people to play an original Wordle challenge. Wordle creation is available on the Times' mobile apps for both iOS and Android as well as in mobile web and desktop browsers. It's a fun idea and a cute way for follow word nerds to entertain (and possibly torment) each other. This article originally appeared on Engadget at https://www.engadget.com/gaming/the-new-york-times-is-letting-you-create-your-own-wordle-puzzles-185429249.html?src=rss",
     "ingested_utc": "2025-11-06T19:13:26Z"
-  },
-  {
-    "published_utc": "2025-11-06",
-    "retrieved_date": "2025-11-06",
-    "retrieved_utc": "2025-11-06T19:13:06Z",
-    "source": "FT_Home",
-    "title": "Comcast holds talks about acquiring ITV’s television business",
-    "url": "https://www.ft.com/content/1dc356c0-4eb5-42ea-9a7b-8b579de01892",
-    "id_key": "21f1e656bb9523fec4d1c64ec2064a66fea4e2fdc2af4269ed369342ce6cd932",
-    "summary": "US media giant sees potential to create a leading streaming service in the UK",
-    "ingested_utc": "2025-11-06T19:13:06Z"
-  },
-  {
-    "published_utc": "2025-11-06",
-    "retrieved_date": "2025-11-06",
-    "retrieved_utc": "2025-11-06T19:13:06Z",
-    "source": "FT_Home",
-    "title": "Reeves considers less dramatic cut to cash Isa allowance",
-    "url": "https://www.ft.com/content/289775ee-d2ec-434f-8989-f37232dac60c",
-    "id_key": "4ac8d0f3c7219776b33500db745194eab2248ae457fb7a4b7209a4c61b73236b",
-    "summary": "The government is also encouraging Isa providers to revamp their stocks-and-shares savings products",
-    "ingested_utc": "2025-11-06T19:13:06Z"
-  },
-  {
-    "published_utc": "2025-11-06",
-    "retrieved_date": "2025-11-06",
-    "retrieved_utc": "2025-11-06T19:13:06Z",
-    "source": "FT_Home",
-    "title": "Israel carries out wave of strikes on Lebanon",
-    "url": "https://www.ft.com/content/d8bbd5d1-b72e-4803-bf29-b42f81ab7a34",
-    "id_key": "abf3286b6dbea725fcff6eef46547b1cbafa712882fda1886e8fe19dea188ec2",
-    "summary": "Escalation of Israeli attacks has sparked fears of renewed hostilities with Hizbollah",
-    "ingested_utc": "2025-11-06T19:13:06Z"
-  },
-  {
-    "published_utc": "2025-11-06",
-    "retrieved_date": "2025-11-06",
-    "retrieved_utc": "2025-11-06T19:13:02Z",
-    "source": "NPR_Top",
-    "title": "White House strikes deals for lower prices on obesity drugs",
-    "url": "https://www.npr.org/sections/shots-health-news/2025/11/06/nx-s1-5599122/wegovy-zepbound-price-deal",
-    "id_key": "1f63dd66dbe99f630c2e789dd622a8a86c08245b7e9568d47946bda635b5b343",
-    "summary": "Medicare beneficiaries will soon be able to get obesity and Type 2 diabetes drugs for a $50 copay. But there are some limitations.",
-    "ingested_utc": "2025-11-06T19:13:02Z"
-  },
-  {
-    "published_utc": "2025-11-06",
-    "retrieved_date": "2025-11-06",
-    "retrieved_utc": "2025-11-06T19:13:02Z",
-    "source": "NPR_Top",
-    "title": "A former teacher shot her 6-year-old student wins a $10 million jury verdict",
-    "url": "https://www.npr.org/2025/11/06/g-s1-96830/child-shot-elementary-teacher-lawsuit-newport-news-virginia",
-    "id_key": "c592703f7dd0b570a435f92ad792c7e475d44528c80d82a3bc41020776cdeabf",
-    "summary": "Abby Zwerner's lawsuit that accused an administrator of ignoring warnings that a child had a gun at Newport News, Va., school that day. A bullet damaged her left hand and remains in her chest.",
-    "ingested_utc": "2025-11-06T19:13:02Z"
-  },
-  {
-    "published_utc": "2025-11-06",
-    "retrieved_date": "2025-11-06",
-    "retrieved_utc": "2025-11-06T19:12:55Z",
-    "source": "NYTimes_World",
-    "title": "What Scientists Are Learning From Brain Organoids",
-    "url": "https://www.nytimes.com/2025/11/06/science/brain-organoids-neurons.html",
-    "id_key": "19c9550a836171d1aec9d28ed4a9979cc7acabfc622ce6a0ae280704876d3e11",
-    "summary": "Lab-grown “reductionist replicas” of the human brain are helping scientists understand fetal development and cognitive disorders, including autism. But ethical questions loom.",
-    "ingested_utc": "2025-11-06T19:12:55Z"
   }
 ]
