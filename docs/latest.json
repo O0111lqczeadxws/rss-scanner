@@ -2,6 +2,61 @@
   {
     "published_utc": "2025-11-09",
     "retrieved_date": "2025-11-09",
+    "retrieved_utc": "2025-11-09T17:29:55Z",
+    "source": "TheStreet_Top",
+    "title": "Nearly 200 grocery stores key to US soldiers closing",
+    "url": "https://www.thestreet.com/retail/us-military-faces-no-paychecks-key-stores-closing-down",
+    "id_key": "2dc371ed8b127c41d4a6e910eae3ac5e00e9b5f8d22af349d20753aa00a544e2",
+    "summary": "Active military have been paid so far during the government shutdown.That could change later in November.Stores that serve the military will likely shut down after Thanksgiving. Support for the United States military is relatively the same across political lines. \"Similar shares of Republicans ...",
+    "ingested_utc": "2025-11-09T17:29:55Z"
+  },
+  {
+    "published_utc": "2025-11-09",
+    "retrieved_date": "2025-11-09",
+    "retrieved_utc": "2025-11-09T17:29:47Z",
+    "source": "Engadget_All",
+    "title": "Apple is reportedly working on more satellite features for iPhone",
+    "url": "https://www.engadget.com/mobile/smartphones/apple-is-reportedly-working-on-more-satellite-features-for-iphone-172151203.html?src=rss",
+    "id_key": "773cf270c0b7c5037512a30ad097025f6e06882fd29fb390327519d03810ed73",
+    "summary": "Your iPhone may soon be able to do more than call for emergency help and send messages via satellite, according to the latest Power On newsletter . Bloomberg 's Mark Gurman reported that Apple is planning to expand on satellite features available on iPhones. Apple introduced the ability to send and receive texts with the Messages via Satellite feature last year, but is reportedly looking to enhance this with the option to send photos too. Beyond texting, Apple wants to enable 5G NTN support on its iPhones, which allows cell towers to get a coverage boost by tapping into satellites, according to Gurman. For anyone who needs directions in a remote area without a cellular or Wi-Fi connection, Apple reportedly has plans to introduce satellite connectivity to Apple Maps . Along with these upgrades, Gurman reported that Apple is looking into \"natural usage\" improvements where users won't have to point their iPhones towards the sky to connect to a satellite network. Instead, an iPhone could stay connected even when there's no clear view of the sky, like in indoor environments. On the developer side of things, Gurman said that Apple is also working on an API that allows app makers to add satellite connections. There's no timeline for when these rumored satellite features will go live, but Apple previously waited a couple of years between introducing Emergency SOS via Satellite in 2022 and Messages via Satellite with the release of iOS 18. This article originally appeared on Engadget at https://www.engadget.com/mobile/smartphones/apple-is-reportedly-working-on-more-satellite-features-for-iphone-172151203.html?src=rss",
+    "ingested_utc": "2025-11-09T17:29:47Z"
+  },
+  {
+    "published_utc": "2025-11-09",
+    "retrieved_date": "2025-11-09",
+    "retrieved_utc": "2025-11-09T17:29:27Z",
+    "source": "FT_Home",
+    "title": "Officials warn of big hit to air travel and GDP as US government shutdown drags on",
+    "url": "https://www.ft.com/content/8780f61f-e40d-4e5c-8867-49cdd75d29a7",
+    "id_key": "eb7d35f6c6608ff6707728ed0e1a8058813560289913a0b70a026874380d3a62",
+    "summary": "Trump administration says flights will slow to a ‘trickle’ with no end in sight to budget impasse",
+    "ingested_utc": "2025-11-09T17:29:27Z"
+  },
+  {
+    "published_utc": "2025-11-09",
+    "retrieved_date": "2025-11-09",
+    "retrieved_utc": "2025-11-09T17:29:15Z",
+    "source": "NYTimes_World",
+    "title": "Hamas Hands Over Body of Israeli Soldier Held Since 2014",
+    "url": "https://www.nytimes.com/2025/11/09/world/middleeast/hamas-hadar-goldin-israel.html",
+    "id_key": "0a02078b04af4b98472305fb3fdc4acc2c01ead6e4fcdaddf9b915bd4471dc99",
+    "summary": "Hamas returned to Israel the remains of Lt. Hadar Goldin, who was killed in a 2014 war in Gaza.",
+    "ingested_utc": "2025-11-09T17:29:15Z"
+  },
+  {
+    "published_utc": "2025-11-09",
+    "retrieved_date": "2025-11-09",
+    "retrieved_utc": "2025-11-09T17:26:53Z",
+    "source": "Guardian_World",
+    "title": "Trump weighs giving Americans $2,000 from tariff revenues in bid for support",
+    "url": "https://www.theguardian.com/us-news/2025/nov/09/trump-tariffs-refund",
+    "id_key": "bad5b4ee997aee6778bc34d481006c2e70ff56e76ffb175acc449272ea3fbf01",
+    "summary": "Congressional approval would likely be required for plan to take effect, an idea Trump has floated before Donald Trump on Sunday mused about giving most Americans $2,000 funded by tariff revenues collected by the president’s administration – an evident bid to rally public support on the issue. “A dividend of at least $2000 a person (not including high income people!) will be paid to everyone,” Trump wrote on his Truth Social platform on Sunday. Continue reading...",
+    "ingested_utc": "2025-11-09T17:26:53Z"
+  },
+  {
+    "published_utc": "2025-11-09",
+    "retrieved_date": "2025-11-09",
     "retrieved_utc": "2025-11-09T17:12:15Z",
     "source": "HackerNews_Top",
     "title": "The Principles of Diffusion Models",
@@ -10943,60 +10998,5 @@
     "id_key": "1427d76b9b6a524f8baf23b208f78c4598150beb1236e39f8aadf4f358595b86",
     "summary": "Tech giant denies building secret AI data center, says focus is subsea infrastructure.",
     "ingested_utc": "2025-11-07T04:17:18Z"
-  },
-  {
-    "published_utc": "2025-11-06",
-    "retrieved_date": "2025-11-07",
-    "retrieved_utc": "2025-11-07T03:30:47Z",
-    "source": "BBC_Business",
-    "title": "Conservative justices sharply question Trump tariffs in high-stakes hearing",
-    "url": "https://www.bbc.com/news/articles/c4gp3nj5nj3o?at_medium=RSS&at_campaign=rss",
-    "id_key": "878d50223a97b366b8989fd8a6b7922d1cbbd43ad8f16b50b106535ab341069b",
-    "summary": "If the court rules against Trump's tariffs, it could force the US to refund some of the billions it has collected.",
-    "ingested_utc": "2025-11-07T03:30:47Z"
-  },
-  {
-    "published_utc": "2025-11-06",
-    "retrieved_date": "2025-11-07",
-    "retrieved_utc": "2025-11-07T02:29:24Z",
-    "source": "HackerNews_Top",
-    "title": "The secret campaign to silence critics of a hospital real estate empire",
-    "url": "https://www.motherjones.com/politics/2025/10/medical-properties-trust-mpt-steward-health-care-ed-aldag-secret-campaign-critics-surveillance-reit/",
-    "id_key": "4c86a15de6a2a9ec9463b0ff7f9d8089dfa024148b20556fb579603e0f4f7345",
-    "summary": "Comments",
-    "ingested_utc": "2025-11-07T02:29:24Z"
-  },
-  {
-    "published_utc": "2025-11-06",
-    "retrieved_date": "2025-11-07",
-    "retrieved_utc": "2025-11-07T02:29:07Z",
-    "source": "AlJazeera_All",
-    "title": "Cowboy’s American football player Marshawn Kneeland dies at 24",
-    "url": "https://www.aljazeera.com/sports/2025/11/6/american-football-player-marshawn-kneeland-dies-at-24?traffic_source=rss",
-    "id_key": "41474287ee55e293a30dcf635eb78cd130f066027cf0179a9b1d34d91de25ca8",
-    "summary": "Marshawn Kneeland, a second-year player, had scored his first career touchdown Monday.",
-    "ingested_utc": "2025-11-07T02:29:07Z"
-  },
-  {
-    "published_utc": "2025-11-06",
-    "retrieved_date": "2025-11-07",
-    "retrieved_utc": "2025-11-07T00:56:11Z",
-    "source": "FT_Markets",
-    "title": "Crypto exchange Coinbase fined €21.5mn by Ireland’s central bank",
-    "url": "https://www.ft.com/content/21f15153-5f72-4860-97be-74b6c1ad0a60",
-    "id_key": "0d3fd54b67507fb0720c5d816ba8ea906f7f75692a423cc9223f8452e8e42308",
-    "summary": "Group failed to properly monitor trades potentially linked to child sex exploitation, drug trafficking and money laundering",
-    "ingested_utc": "2025-11-07T00:56:11Z"
-  },
-  {
-    "published_utc": "2025-11-06",
-    "retrieved_date": "2025-11-07",
-    "retrieved_utc": "2025-11-07T00:54:24Z",
-    "source": "CoinMetrics_Blog",
-    "title": "SOTM  October 30 – November 5, 2025",
-    "url": "https://coinmetrics.io/state-of-the-market/sotm-october-30-november-5-2025/",
-    "id_key": "2027565091dc1722df6c59b8510dead86efa706524bcb24c84db9c644b176a22",
-    "summary": "Bitcoin Falls Below $100K | Bitwise and Grayscale Launch Solana Spot ETFs | Ripple Raises $500M at $40B Valuation | Balancer Suffers Smart Contract Exploit Ethereum’s Fusaka Upgrade Set for December 3rd The post SOTM October 30 – November 5, 2025 appeared first on Coin Metrics .",
-    "ingested_utc": "2025-11-07T00:54:24Z"
   }
 ]
