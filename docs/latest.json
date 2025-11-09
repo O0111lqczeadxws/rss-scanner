@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-11-09",
     "retrieved_date": "2025-11-09",
+    "retrieved_utc": "2025-11-09T20:43:17Z",
+    "source": "Engadget_All",
+    "title": "How to adjust the Liquid Glass effect in iOS 26.1",
+    "url": "https://www.engadget.com/mobile/smartphones/how-to-adjust-the-liquid-glass-effect-in-ios-261-203634681.html?src=rss",
+    "id_key": "bad805af3da8cdd0cb8f0c713d1a7c420cdd75bf15d533f99948e7fac6fbfc54",
+    "summary": "Apple's latest iterative update for iPhones brings a welcome change for those who aren't a fan of its Liquid Glass design overhaul. After user complaints that the Liquid Glass' translucent design was hard to read, Apple introduced a compromise in iOS 26's fourth beta that allowed for a more frosted look as well as a Reduce Transparency option buried in the Accessibility settings. Now, Apple is making this Liquid Glass toggle available for all iPhone users with iOS 26.1. What is Liquid Glass? Apple debuted Liquid Glass at WWDC 2025 as its major visual redesign, which prompted a lot of comparisons to Windows Vista . Everything from switches and sliders to sidebars and panels would imitate glass, so that users can see the underlying colors and content. While some iPhone users liked the fluidity and freshness, others said the transparent look often created legibility issues, caused lag from the animations and led to eye strain over extended periods of time. How to reduce the Liquid Glass effect To access the new Liquid Glass toggle, make sure your iPhone is updated to iOS 26.1 . You can check which version you're by navigating to Settings, then General, then Software Update. After you confirmed that you're on the most recent iOS, you can go back into Settings, then Display & Brightness. From there, you'll find a new setting for Liquid Glass that lets you choose between \"Clear\" or \"Tinted.\" The Clear option is Apple's original vision for Liquid Glass with see-through controls, while the Tinted option \"increases opacity and adds more contrast.\" You can preview the differences between the two choices in the Liquid Glass setting before you commit to one. When in use, the Tinted option switches to the same frosted look first seen by iOS beta testers, which adds a more solid background to panels that have been Liquid Glass-ified. It's important to note that there are only two options and Apple didn't instead opt for a slider to adjust opacity. However, Apple is leaning more into customizability with its operating systems, as indicated by its recently introduced Spatial Scenes feature. This article originally appeared on Engadget at https://www.engadget.com/mobile/smartphones/how-to-adjust-the-liquid-glass-effect-in-ios-261-203634681.html?src=rss",
+    "ingested_utc": "2025-11-09T20:43:17Z"
+  },
+  {
+    "published_utc": "2025-11-09",
+    "retrieved_date": "2025-11-09",
     "retrieved_utc": "2025-11-09T20:33:34Z",
     "source": "HackerNews_Top",
     "title": "The Sega Master System",
@@ -10985,17 +10996,6 @@
     "title": "India sees blockbuster IPO month in October as deals topped $5bn",
     "url": "https://asia.nikkei.com/business/markets/ipo/india-sees-blockbuster-ipo-month-in-october-as-deals-topped-5bn",
     "id_key": "584ad43c600da9a24ab31814067c358478b856b19a0df0ee4c7cf1b628c06fb2",
-    "summary": "",
-    "ingested_utc": "2025-11-07T00:56:47Z"
-  },
-  {
-    "published_utc": "2025-11-07",
-    "retrieved_date": "2025-11-07",
-    "retrieved_utc": "2025-11-07T00:56:47Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "Huawei EV partner Seres falls flat in Hong Kong listing",
-    "url": "https://asia.nikkei.com/business/companies/huawei-ev-partner-seres-falls-flat-in-hong-kong-listing",
-    "id_key": "e7ec1d90fe05970fa86e3c4e2d9ad4245b7e3a990788832af202c3bd7efc2db4",
     "summary": "",
     "ingested_utc": "2025-11-07T00:56:47Z"
   }
