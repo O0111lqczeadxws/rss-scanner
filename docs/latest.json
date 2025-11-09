@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-11-09",
     "retrieved_date": "2025-11-09",
+    "retrieved_utc": "2025-11-09T18:40:36Z",
+    "source": "HackerNews_Top",
+    "title": "Drilling Down on Uncle Sam's Proposed TP-Link Ban",
+    "url": "https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/",
+    "id_key": "4e32dfb2fbe0c7e27da5548ab62c7e494730ff4db723844e438be8684c3c8a07",
+    "summary": "Comments",
+    "ingested_utc": "2025-11-09T18:40:36Z"
+  },
+  {
+    "published_utc": "2025-11-09",
+    "retrieved_date": "2025-11-09",
+    "retrieved_utc": "2025-11-09T18:40:17Z",
+    "source": "TheStreet_Top",
+    "title": "Nearly 200 essential grocery, department stores closing",
+    "url": "https://www.thestreet.com/retail/us-military-faces-no-paychecks-key-stores-closing-down",
+    "id_key": "f1f3f4c41924fbe516ac3738ad83cd323872788f5478bf7bcfba97af288bb9e3",
+    "summary": "Active military have been paid so far during the government shutdown.That could change later in November.Stores that serve the military will likely shut down after Thanksgiving. Support for the United States military is relatively the same across political lines. \"Similar shares of Republicans ...",
+    "ingested_utc": "2025-11-09T18:40:17Z"
+  },
+  {
+    "published_utc": "2025-11-09",
+    "retrieved_date": "2025-11-09",
+    "retrieved_utc": "2025-11-09T18:39:36Z",
+    "source": "NYTimes_World",
+    "title": "Super Typhoon Fung-wong Hits Philippines Days After Last Storm",
+    "url": "https://www.nytimes.com/2025/11/09/world/asia/philippines-typhoon-fung-wong.html",
+    "id_key": "c021fd59af1339c0aa81e015225856f023a7fbe61a97c9825379081babe26a4c",
+    "summary": "Typhoon Fung-wong made landfall on the main island of Luzon, prompting the evacuation of more than one million people, just days after an earlier storm killed over 200.",
+    "ingested_utc": "2025-11-09T18:39:36Z"
+  },
+  {
+    "published_utc": "2025-11-09",
+    "retrieved_date": "2025-11-09",
     "retrieved_utc": "2025-11-09T18:17:30Z",
     "source": "FT_Home",
     "title": "BBC boss Tim Davie resigns",
@@ -10965,38 +10998,5 @@
     "id_key": "745b8be41954c9da6aab86e8df9511aa17fc1807e94fd2261b7471a1cff47553",
     "summary": "BBC Verify tracks how the RSF killed unarmed people in a massacre that humanitarian officials believe left 2,000 dead.",
     "ingested_utc": "2025-11-07T00:53:47Z"
-  },
-  {
-    "published_utc": "2025-11-06",
-    "retrieved_date": "2025-11-07",
-    "retrieved_utc": "2025-11-07T21:11:12Z",
-    "source": "NPR_Economy",
-    "title": "Is your electric bill going up? AI is partly to blame",
-    "url": "https://www.npr.org/2025/11/06/nx-s1-5597971/electricity-bills-utilities-ai",
-    "id_key": "e094baeb565202970207c8b6a8b27f7ff40ead0cc7bd6ba411c31b49d864de6b",
-    "summary": "Across the country, demand for electricity is on the rise — and so is the price of electric power.",
-    "ingested_utc": "2025-11-07T21:11:12Z"
-  },
-  {
-    "published_utc": "2025-11-06",
-    "retrieved_date": "2025-11-07",
-    "retrieved_utc": "2025-11-07T14:14:30Z",
-    "source": "TheStreet_Top",
-    "title": "Bank of America shares troubling new jobs data",
-    "url": "https://www.thestreet.com/employment/bank-of-america-jobs-data-sheds-troubling-light-on-economy",
-    "id_key": "428d20e97d6581a3baf6bbea17b446fda3b05e9a7907f51f6e6e1994f9b23b29",
-    "summary": "The U.S. economy seems healthy on the surface, but cracks in the jobs market have formed, suggesting many Americans aren't doing nearly as well as you might think. Before the government shutdown in Washington, D.C., the Bureau of Labor Statistics reported that unemployment had risen to 4.3% in ...",
-    "ingested_utc": "2025-11-07T14:14:30Z"
-  },
-  {
-    "published_utc": "2025-11-06",
-    "retrieved_date": "2025-11-07",
-    "retrieved_utc": "2025-11-07T13:40:32Z",
-    "source": "TheStreet_Top",
-    "title": "Huge housing contractor files Chapter 7 bankruptcy, liquidating",
-    "url": "https://www.thestreet.com/retail/sudden-chapter-7-bankruptcy-puts-homeowners-deposits-at-risk",
-    "id_key": "134c4058641e1cca338d0e972f0a0ce312be52278461b296fb7d182d112efecc",
-    "summary": "The national home renovation company operates under many names.It shut down with no warning.Homeowners who paid a deposit may lose that money. Imagine paying a company to remodel your home and they take a deposit, then stop returning phone calls. At first, you assume they're just busy, or maybe ...",
-    "ingested_utc": "2025-11-07T13:40:32Z"
   }
 ]
