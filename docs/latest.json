@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-11-10",
     "retrieved_date": "2025-11-10",
+    "retrieved_utc": "2025-11-10T03:44:53Z",
+    "source": "NYTimes_World",
+    "title": "Second Migrant Child Dies on ‘Reverse Migration’ Boat Route",
+    "url": "https://www.nytimes.com/2025/11/09/world/americas/migrant-child-drowns-panama.html",
+    "id_key": "528c79d08b4067f918f5ac2d73935570bc0941521e8a638db17eb1a775dc2ad9",
+    "summary": "A 3-year-old from Colombia died when a boat carrying migrants back to South America capsized off Panama’s Caribbean Coast, an official said. Another child drowned on the same migrant route in February.",
+    "ingested_utc": "2025-11-10T03:44:53Z"
+  },
+  {
+    "published_utc": "2025-11-10",
+    "retrieved_date": "2025-11-10",
+    "retrieved_utc": "2025-11-10T03:43:00Z",
+    "source": "CryptoNews",
+    "title": "Asia Market Open: Bitcoin, Global Markets Climb as US Shutdown Negotiations Show Signs of Progress",
+    "url": "https://cryptonews.com/news/asia-market-open-bitcoin-global-markets-climb-as-us-shutdown-negotiations-show-signs-of-progress/",
+    "id_key": "5515d760b952b775e8babbe85ebf3842a3912deb7e59ec36cd8fc308a5a0bc71",
+    "summary": "Bitcoin climbed past $106,000 and Asian stocks rose as the US Senate moved closer to ending the historic government shutdown. The post Asia Market Open: Bitcoin, Global Markets Climb as US Shutdown Negotiations Show Signs of Progress appeared first on Cryptonews .",
+    "ingested_utc": "2025-11-10T03:43:00Z"
+  },
+  {
+    "published_utc": "2025-11-10",
+    "retrieved_date": "2025-11-10",
+    "retrieved_utc": "2025-11-10T03:43:00Z",
+    "source": "CoinJournal",
+    "title": "Bitcoin soars past $105K after Trump’s $2,000 tariff payout promise ignites crypto rally",
+    "url": "https://coinjournal.net/news/bitcoin-soars-past-105k-after-trumps-2000-tariff-payout-promise-ignites-crypto-rally/",
+    "id_key": "ca20e8d2894091905877d742632fc7fd5ced01ae50364cd2ad35be900997e5b8",
+    "summary": "Trump’s tariff payout plan sparks brief crypto rally. Bitcoin hits $105K; Ethereum rebounds above $3,600. ETF inflows signal tentative institutional re-entry. President Trump’s Sunday announcement promising at least $2,000 in tariff-funded payouts to most Americans jolted crypto out of its weekend doldrums. Bitcoin rocketed to $105,000 while Ethereum climbed back above $3,600, as traders suddenly […] The post Bitcoin soars past $105K after Trump’s $2,000 tariff payout promise ignites crypto rally appeared first on CoinJournal .",
+    "ingested_utc": "2025-11-10T03:43:00Z"
+  },
+  {
+    "published_utc": "2025-11-10",
+    "retrieved_date": "2025-11-10",
     "retrieved_utc": "2025-11-10T02:48:17Z",
     "source": "HackerNews_Top",
     "title": "Show HN: DroidDock – A sleek macOS app for browsing Android device files via ADB",
@@ -10965,38 +10998,5 @@
     "id_key": "5299e9badee518d02f1209dd5c175fa7b1b854d5fd3084a66850b0f45174b42d",
     "summary": "Mass crackdown on migrants follows deal signed with the EU to stem migration from source countries in Africa.",
     "ingested_utc": "2025-11-07T06:52:39Z"
-  },
-  {
-    "published_utc": "2025-11-07",
-    "retrieved_date": "2025-11-07",
-    "retrieved_utc": "2025-11-07T06:52:13Z",
-    "source": "FT_Markets",
-    "title": "Pressure on the Fed",
-    "url": "https://www.ft.com/content/5fe466e5-75b9-4923-a236-f76bdce69f48",
-    "id_key": "348865fc13cb5a3b0cf1567c31c45e2ded2e724864e9631f4e2c36e9637d7b43",
-    "summary": "More on why the central bank’s balance sheet is likely to grow again, and soon",
-    "ingested_utc": "2025-11-07T06:52:13Z"
-  },
-  {
-    "published_utc": "2025-11-07",
-    "retrieved_date": "2025-11-07",
-    "retrieved_utc": "2025-11-07T06:52:12Z",
-    "source": "FT_Home",
-    "title": "Orbán to seek approval from Trump to continue importing Russian oil",
-    "url": "https://www.ft.com/content/a5d78c25-1bc5-4932-b4dd-c82cd1f8a7d5",
-    "id_key": "2b6e6f3fbb60d718951ddfbff9b6550af1cbf32393647249c0e3a9a9963d3c1b",
-    "summary": "Hungarian prime minister to push for exemptions from US sanctions during White House meeting on Friday",
-    "ingested_utc": "2025-11-07T06:52:12Z"
-  },
-  {
-    "published_utc": "2025-11-07",
-    "retrieved_date": "2025-11-07",
-    "retrieved_utc": "2025-11-07T06:52:08Z",
-    "source": "NPR_Top",
-    "title": "Boeing won't face criminal charge over 737 Max crashes that killed hundreds of people",
-    "url": "https://www.npr.org/2025/11/07/nx-s1-5601593/boeing-737-max-crashes",
-    "id_key": "1194c99836225f65b1982a44f99464ced1be46f812fa441f0252f124e53342ca",
-    "summary": "As part of a deal to dismiss the case, Boeing agreed to pay or invest an additional $1.1 billion in fines, compensation for the crash victims' families, and internal safety and quality measures.",
-    "ingested_utc": "2025-11-07T06:52:08Z"
   }
 ]
