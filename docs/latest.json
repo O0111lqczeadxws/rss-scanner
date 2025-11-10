@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-11-10",
     "retrieved_date": "2025-11-10",
+    "retrieved_utc": "2025-11-10T06:54:00Z",
+    "source": "AlJazeera_All",
+    "title": "Philippines assesses damage after deadly Typhoon Fung-wong",
+    "url": "https://www.aljazeera.com/news/2025/11/10/philippines-assesses-damage-after-deadly-typhoon-fung-wong?traffic_source=rss",
+    "id_key": "e61548263350d49e9e84ff2a6f81a27b4ec79b1013753745c11c116ae19b761a",
+    "summary": "Powerful storm set off floods and landslides, killing at least two and displacing 1.4 million .",
+    "ingested_utc": "2025-11-10T06:54:00Z"
+  },
+  {
+    "published_utc": "2025-11-10",
+    "retrieved_date": "2025-11-10",
+    "retrieved_utc": "2025-11-10T06:51:25Z",
+    "source": "CryptoNews",
+    "title": "Tether-Backed Rumble Agrees to Acquire Germany’s Northern Data in All-Share Deal",
+    "url": "https://cryptonews.com/news/rumble-northern-data-acquisition-all-share-deal-tether-advertising-partnership/",
+    "id_key": "283c0d629d8824c3bff0fb1ee5326107408085714e15fb6378b0033242a77864",
+    "summary": "Rumble agreed to buy Germany’s Northern Data in an all-share deal to expand its cloud and AI infrastructure with one of Europe’s largest Nvidia GPU networks. The post Tether-Backed Rumble Agrees to Acquire Germany’s Northern Data in All-Share Deal appeared first on Cryptonews .",
+    "ingested_utc": "2025-11-10T06:51:25Z"
+  },
+  {
+    "published_utc": "2025-11-10",
+    "retrieved_date": "2025-11-10",
     "retrieved_utc": "2025-11-10T06:22:33Z",
     "source": "Nikkei_Asia_Top",
     "title": "Japan's Kirin burnishes green credentials on Sri Lanka's tea plantations",
@@ -10976,27 +10998,5 @@
     "id_key": "09fa69d44936b673dde68e2f1246acb6adad9c9a89c0c10390fd2bacbcee065e",
     "summary": "About 300,000 UNRWA pupils have been deprived of a formal education since Israel's war on Gaza began in October 2023.",
     "ingested_utc": "2025-11-07T08:49:28Z"
-  },
-  {
-    "published_utc": "2025-11-07",
-    "retrieved_date": "2025-11-07",
-    "retrieved_utc": "2025-11-07T08:49:28Z",
-    "source": "AlJazeera_All",
-    "title": "China’s third aircraft carrier, the Fujian, enters military service",
-    "url": "https://www.aljazeera.com/news/2025/11/7/chinas-third-aircraft-carrier-the-fujian-enters-military-service?traffic_source=rss",
-    "id_key": "e101f6d32ea56608b2422990e3d207f463f52309a7247de5012342725cb9368c",
-    "summary": "The Fujian is considered a symbol of Chinese President Xi Jinping's overhaul and rapid expansion of China's military.",
-    "ingested_utc": "2025-11-07T08:49:28Z"
-  },
-  {
-    "published_utc": "2025-11-07",
-    "retrieved_date": "2025-11-07",
-    "retrieved_utc": "2025-11-07T08:49:27Z",
-    "source": "TheStreet_Top",
-    "title": "Stock Market Today: U.S. Stock Futures Rise After Week-Long Tech Struggle",
-    "url": "https://www.thestreet.com/latest-news/stock-market-today-u-s-stock-futures-rise-after-week-long-tech-struggle",
-    "id_key": "e6fa89bc9675ccbef64e4b63e3c41753190d86493aefc09abc7c67f5e14b3f54",
-    "summary": "This live blog is refreshed periodically throughout the day with the latest updates from the market.To find the latest Stock Market Today threads, click here. Happy Friday. This is TheStreet’s Stock Market Today for Nov. 7, 2025. You can follow the latest updates on the market ...",
-    "ingested_utc": "2025-11-07T08:49:27Z"
   }
 ]
