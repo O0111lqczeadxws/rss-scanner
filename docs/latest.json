@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-11-10",
     "retrieved_date": "2025-11-10",
+    "retrieved_utc": "2025-11-10T07:47:52Z",
+    "source": "Guardian_World",
+    "title": "Weather tracker: Typhoon Fung-Wong becomes second in a week to hit the Philippines",
+    "url": "https://www.theguardian.com/environment/2025/nov/10/weather-tracker-typhoon-fung-wong-philippines",
+    "id_key": "f57e955bdd5b460ebdb73e001083b4b982cd0e4cf46a40444db9e406b5f07e77",
+    "summary": "Weather system triggers warnings for dangerous storm surges, while a cold spell in Florida prompts fears of falling iguanas Typhoon Fung-Wong, locally known as Uwan, is the second in a week to affect the Philippines after making landfall on Sunday evening. The weather system prompted warnings for heavy rainfall and life-threatening storm surges across much of the country, with sustained winds of 115mph (185 km/h) and gusts of about 140mph recorded on Sunday by the national meteorological agency. By the time Fung-Wong moves past the Philippines early this week, more than 200mm of rainfall is expected to have fallen on Luzon, the country’s most populous island. Continue reading...",
+    "ingested_utc": "2025-11-10T07:47:52Z"
+  },
+  {
+    "published_utc": "2025-11-10",
+    "retrieved_date": "2025-11-10",
     "retrieved_utc": "2025-11-10T07:40:53Z",
     "source": "CryptoNews",
     "title": "Bitcoin Spot ETFs Record Third-Largest Weekly Outflow – Is Short-Term Correction Ahead?",
@@ -10987,16 +10998,5 @@
     "id_key": "466bab7441395318c976fa74ca155e83fb6e3adf34cd6c194f6a01b64b56f50f",
     "summary": "",
     "ingested_utc": "2025-11-07T09:15:23Z"
-  },
-  {
-    "published_utc": "2025-11-07",
-    "retrieved_date": "2025-11-07",
-    "retrieved_utc": "2025-11-07T09:15:22Z",
-    "source": "CBC_Business",
-    "title": "Low prices are hurting the oil sector, but Canada has a few advantages",
-    "url": "https://www.cbc.ca/news/canada/calgary/low-oil-prices-canada-oilpatch-9.6969484?cmp=rss",
-    "id_key": "a608423bb8412d7baf360bdc6c7583b94521cd719cc91aab925fded7356a53f0",
-    "summary": "Canadian oil producers are grappling with low commodity prices, but analysts say the sector is buoyed by certain advantages unique to this side of the border.",
-    "ingested_utc": "2025-11-07T09:15:22Z"
   }
 ]
