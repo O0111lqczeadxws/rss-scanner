@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-11-10",
     "retrieved_date": "2025-11-10",
+    "retrieved_utc": "2025-11-10T04:08:08Z",
+    "source": "Nikkei_Asia_Top",
+    "title": "Super typhoon Fung-wong batters Philippines, forcing 1m to evacuate",
+    "url": "https://asia.nikkei.com/economy/natural-disasters/super-typhoon-fung-wong-batters-philippines-forcing-1m-to-evacuate",
+    "id_key": "b152ae39af1619da750c40278ff87cc09f2e569b7247c4ef176c7f0a32784df2",
+    "summary": "",
+    "ingested_utc": "2025-11-10T04:08:08Z"
+  },
+  {
+    "published_utc": "2025-11-10",
+    "retrieved_date": "2025-11-10",
     "retrieved_utc": "2025-11-10T03:44:53Z",
     "source": "NYTimes_World",
     "title": "Second Migrant Child Dies on ‘Reverse Migration’ Boat Route",
@@ -394,6 +405,17 @@
     "id_key": "e1cb9a9f28d08b77080b6c0b747bd8d37d127b9f8c2b34ca224338783ddef802",
     "summary": "Fall reported by Royal Institution of Chartered Surveyors as UN calls for accelerated action in buildings sector to meet global climate goals The growth in global demand for “green” office buildings has slowed after Donald Trump’s assault on environmental protection policies caused a slump in interest in the US, according to a survey of construction industry professionals. Building occupiers and investors across North America and South America expressed significantly lower growth in demand for green commercial buildings, a shift that “seems to be in response to a change in US policy focus”, according to a survey of members of the Royal Institution of Chartered Surveyors (Rics). Reported demand across the rest of the world also fell, albeit not as sharply. Continue reading...",
     "ingested_utc": "2025-11-10T00:56:35Z"
+  },
+  {
+    "published_utc": "2025-11-09",
+    "retrieved_date": "2025-11-10",
+    "retrieved_utc": "2025-11-10T04:07:30Z",
+    "source": "NPR_World",
+    "title": "Nearly a million people evacuate as Super Typhoon Fung-wong threatens the Philippines",
+    "url": "https://www.npr.org/2025/11/09/g-s1-97091/nearly-a-million-people-evacuate-as-super-typhoon-fung-wong-threatens-the-philippines",
+    "id_key": "d0677732f0aeba49daa9455dee5f302d7a4785e9001a92c8a3218efd9238773e",
+    "summary": "Super Typhoon Fung-wong, the biggest storm to threaten the Philippines this year, started battering the country's northeastern coast ahead of landfall on Sunday.",
+    "ingested_utc": "2025-11-10T04:07:30Z"
   },
   {
     "published_utc": "2025-11-09",
@@ -10976,27 +10998,5 @@
     "id_key": "fd17aaec3fd6f2950531e5866ad6a6fc1a22a5c78fbb18bfad65f90b039492ae",
     "summary": "British households are heading into a new kind of energy crisis: bills are rising even as wholesale power and gas prices are falling.",
     "ingested_utc": "2025-11-07T06:52:46Z"
-  },
-  {
-    "published_utc": "2025-11-07",
-    "retrieved_date": "2025-11-07",
-    "retrieved_utc": "2025-11-07T06:52:39Z",
-    "source": "AlJazeera_All",
-    "title": "LIVE: Israel vows to destroy all Hamas tunnels in Gaza as attacks continue",
-    "url": "https://www.aljazeera.com/news/liveblog/2025/11/7/live-israel-vows-to-destroy-all-hamas-tunnels-in-gaza-as-attacks-continue?traffic_source=rss",
-    "id_key": "6c776335fa4001ee2811f72d8f008a3aee3c2f45a90fa263d231b43223e33113",
-    "summary": "US president says Gaza ceasefire 'working out very well' despite deadly Israeli attacks and severe aid restrictions.",
-    "ingested_utc": "2025-11-07T06:52:39Z"
-  },
-  {
-    "published_utc": "2025-11-07",
-    "retrieved_date": "2025-11-07",
-    "retrieved_utc": "2025-11-07T06:52:39Z",
-    "source": "AlJazeera_All",
-    "title": "Inside Mauritania’s mass deportation campaign targeting African migrants",
-    "url": "https://www.aljazeera.com/features/2025/11/7/inside-mauritania-mass-deportation-campaign-targeting-african-migrants?traffic_source=rss",
-    "id_key": "5299e9badee518d02f1209dd5c175fa7b1b854d5fd3084a66850b0f45174b42d",
-    "summary": "Mass crackdown on migrants follows deal signed with the EU to stem migration from source countries in Africa.",
-    "ingested_utc": "2025-11-07T06:52:39Z"
   }
 ]
