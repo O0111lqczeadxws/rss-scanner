@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-11-10",
     "retrieved_date": "2025-11-10",
+    "retrieved_utc": "2025-11-10T07:32:36Z",
+    "source": "NYTimes_World",
+    "title": "A Million Evacuated as Typhoon Fung-Wong Hit the Philippines",
+    "url": "https://www.nytimes.com/2025/11/10/world/asia/typhoon-fung-wong-philippines-evacuation.html",
+    "id_key": "bb49d6a2a1621494354b277788657622e5cc174ad8d0369e1960654fce33b2d7",
+    "summary": "Grabbing children and leaving their homes behind, residents evacuated before Typhoon Fung-wong hit.",
+    "ingested_utc": "2025-11-10T07:32:36Z"
+  },
+  {
+    "published_utc": "2025-11-10",
+    "retrieved_date": "2025-11-10",
     "retrieved_utc": "2025-11-10T07:15:37Z",
     "source": "FinancialPost_Business",
     "title": "State Street and Albilad Capital Sign Strategic Agreement",
@@ -10987,16 +10998,5 @@
     "id_key": "6f6ffbd838775fc06e690c3d97bfd9e8a02df88474a9a5c60274cc11621f666e",
     "summary": "VANCOUVER — There is no computer at the Wongs’ Benevolent Association in Vancouver’s Chinatown. Everything is done by mail, from paying utility bills to contacting members for an event, just as it was when the Chinese community organization was founded in 1912, said vice-president Jeffrey Wong. “We actually stamp and print out invitations and write […]",
     "ingested_utc": "2025-11-07T09:15:21Z"
-  },
-  {
-    "published_utc": "2025-11-07",
-    "retrieved_date": "2025-11-07",
-    "retrieved_utc": "2025-11-07T09:15:14Z",
-    "source": "AlJazeera_All",
-    "title": "Explosion at mosque in Indonesia’s Jakarta injures more than 50, police say",
-    "url": "https://www.aljazeera.com/news/2025/11/7/explosion-at-mosque-in-indonesias-jakarta-injures-more-than-50-police-say?traffic_source=rss",
-    "id_key": "c9f1bb13f2e2d0f1cfae5f784d58bfdfdca46b6d11a3a097072cd1eba4770acf",
-    "summary": "Injured are taken to hospital after an explosion occurred during Friday prayers at a mosque inside a school complex.",
-    "ingested_utc": "2025-11-07T09:15:14Z"
   }
 ]
