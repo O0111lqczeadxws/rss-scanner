@@ -2,6 +2,61 @@
   {
     "published_utc": "2025-11-11",
     "retrieved_date": "2025-11-11",
+    "retrieved_utc": "2025-11-11T21:14:37Z",
+    "source": "HackerNews_Top",
+    "title": "Meticulous (YC S21) is hiring to redefine software dev",
+    "url": "https://jobs.ashbyhq.com/meticulous/3197ae3d-bb26-4750-9ed7-b830f640515e",
+    "id_key": "d3ce579592bfc4f16431cd1df5be0fef54d35b451a7a5f6ad8b952babba11c95",
+    "summary": "Comments",
+    "ingested_utc": "2025-11-11T21:14:37Z"
+  },
+  {
+    "published_utc": "2025-11-11",
+    "retrieved_date": "2025-11-11",
+    "retrieved_utc": "2025-11-11T21:13:37Z",
+    "source": "NYTimes_World",
+    "title": "Women in Power, and on the Right",
+    "url": "https://www.nytimes.com/2025/11/11/world/women-leaders-right-g7-pakistan-attack.html",
+    "id_key": "90bb1595a62cc4e440d7e0ba07c8cc40971a1ba12b48c048282c09fd3cbbcf19",
+    "summary": "Two G7 countries now have female leaders, and they have something in common.",
+    "ingested_utc": "2025-11-11T21:13:37Z"
+  },
+  {
+    "published_utc": "2025-11-11",
+    "retrieved_date": "2025-11-11",
+    "retrieved_utc": "2025-11-11T21:13:37Z",
+    "source": "NYTimes_World",
+    "title": "Trump Threatened to Sue the BBC for $1 Billion. What Are His Chances?",
+    "url": "https://www.nytimes.com/2025/11/11/world/europe/trump-bbc-lawsuit-hurdles.html",
+    "id_key": "ec79a9bd59f955a1305f27ad7eb76ed50854defaee1d65af9d9f1a40688a7113",
+    "summary": "Legal experts say President Trump’s litigation track record offers both hope and warning to the British public broadcaster, which he has threatened with a $1 billion suit.",
+    "ingested_utc": "2025-11-11T21:13:37Z"
+  },
+  {
+    "published_utc": "2025-11-11",
+    "retrieved_date": "2025-11-11",
+    "retrieved_utc": "2025-11-11T21:13:29Z",
+    "source": "MarketWatch_Bulletins",
+    "title": "Dow closes at new record high, while Nasdaq falls as investors sell tech stocks",
+    "url": "https://www.marketwatch.com/bulletins/redirect/go?g=61b57a98-947c-4047-8f7b-63fb7a725aa9&mod=mw_rss_bulletins",
+    "id_key": "fd417c5b28ad6171593606174a68c8a26d5e503017608a4c6fda40971a1b077d",
+    "summary": "",
+    "ingested_utc": "2025-11-11T21:13:29Z"
+  },
+  {
+    "published_utc": "2025-11-11",
+    "retrieved_date": "2025-11-11",
+    "retrieved_utc": "2025-11-11T21:10:50Z",
+    "source": "Guardian_World",
+    "title": "California police intervene as ICE agent in plain clothes points gun at woman",
+    "url": "https://www.theguardian.com/us-news/2025/nov/11/california-police-intervene-ice-agent",
+    "id_key": "e495ca0551947c5c4dc96a86c7fe91f53effa838284f5ae50eb91c955e815ff0",
+    "summary": "Agent said woman was following and filming him, but officer said he couldn’t assist if no crime was committed A US Immigration and Customs Enforcement (ICE) agent briefly held at gunpoint a woman whom he claimed was following him, prompting a southern California police officer to intervene, authorities said. The police department in Fullerton, a city in Orange county almost 30 miles (48km) from Los Angeles, said that on Sunday one of its officers had just finished taking an incarcerated person to a county jail when he saw two vehicles stopped in an intersection in Santa Ana. Continue reading...",
+    "ingested_utc": "2025-11-11T21:10:50Z"
+  },
+  {
+    "published_utc": "2025-11-11",
+    "retrieved_date": "2025-11-11",
     "retrieved_utc": "2025-11-11T20:52:47Z",
     "source": "TheStreet_Top",
     "title": "This or That: Mastering your money mindset",
@@ -10943,60 +10998,5 @@
     "id_key": "acb33ec3cc41320e8d5bcfcf33b1e2fa8ebd4d01fa859641f4e775e38b7e9572",
     "summary": "Follow up to the hour updates on what is happening in crypto today, November 10. Market movements, crypto news, and more! The post [LIVE] Crypto News Today: Latest Updates for Nov. 10, 2025 – Crypto Market Rebounds as BTC Reclaims $105K; ETH Jumps 7% in Broad Sector Rally appeared first on Cryptonews .",
     "ingested_utc": "2025-11-10T04:39:05Z"
-  },
-  {
-    "published_utc": "2025-11-10",
-    "retrieved_date": "2025-11-10",
-    "retrieved_utc": "2025-11-10T04:38:40Z",
-    "source": "BBC_World",
-    "title": "Seven dead after migrant boat sinks near Thai-Malaysia border",
-    "url": "https://www.bbc.com/news/articles/cd7rp5zj484o?at_medium=RSS&at_campaign=rss",
-    "id_key": "754f2a6b5a6fb9947d5515ceea82c29f4c63fea90037b0af436a5cc4f01b7193",
-    "summary": "Hundreds of Rohingyas, who fled Myanmar in hopes of a better life in Malaysia, remain missing.",
-    "ingested_utc": "2025-11-10T04:38:40Z"
-  },
-  {
-    "published_utc": "2025-11-10",
-    "retrieved_date": "2025-11-10",
-    "retrieved_utc": "2025-11-10T04:08:08Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "Super typhoon Fung-wong batters Philippines, forcing 1m to evacuate",
-    "url": "https://asia.nikkei.com/economy/natural-disasters/super-typhoon-fung-wong-batters-philippines-forcing-1m-to-evacuate",
-    "id_key": "b152ae39af1619da750c40278ff87cc09f2e569b7247c4ef176c7f0a32784df2",
-    "summary": "",
-    "ingested_utc": "2025-11-10T04:08:08Z"
-  },
-  {
-    "published_utc": "2025-11-10",
-    "retrieved_date": "2025-11-10",
-    "retrieved_utc": "2025-11-10T03:44:53Z",
-    "source": "NYTimes_World",
-    "title": "Second Migrant Child Dies on ‘Reverse Migration’ Boat Route",
-    "url": "https://www.nytimes.com/2025/11/09/world/americas/migrant-child-drowns-panama.html",
-    "id_key": "528c79d08b4067f918f5ac2d73935570bc0941521e8a638db17eb1a775dc2ad9",
-    "summary": "A 3-year-old from Colombia died when a boat carrying migrants back to South America capsized off Panama’s Caribbean Coast, an official said. Another child drowned on the same migrant route in February.",
-    "ingested_utc": "2025-11-10T03:44:53Z"
-  },
-  {
-    "published_utc": "2025-11-10",
-    "retrieved_date": "2025-11-10",
-    "retrieved_utc": "2025-11-10T03:43:00Z",
-    "source": "CryptoNews",
-    "title": "Asia Market Open: Bitcoin, Global Markets Climb as US Shutdown Negotiations Show Signs of Progress",
-    "url": "https://cryptonews.com/news/asia-market-open-bitcoin-global-markets-climb-as-us-shutdown-negotiations-show-signs-of-progress/",
-    "id_key": "5515d760b952b775e8babbe85ebf3842a3912deb7e59ec36cd8fc308a5a0bc71",
-    "summary": "Bitcoin climbed past $106,000 and Asian stocks rose as the US Senate moved closer to ending the historic government shutdown. The post Asia Market Open: Bitcoin, Global Markets Climb as US Shutdown Negotiations Show Signs of Progress appeared first on Cryptonews .",
-    "ingested_utc": "2025-11-10T03:43:00Z"
-  },
-  {
-    "published_utc": "2025-11-10",
-    "retrieved_date": "2025-11-10",
-    "retrieved_utc": "2025-11-10T03:43:00Z",
-    "source": "CoinJournal",
-    "title": "Bitcoin soars past $105K after Trump’s $2,000 tariff payout promise ignites crypto rally",
-    "url": "https://coinjournal.net/news/bitcoin-soars-past-105k-after-trumps-2000-tariff-payout-promise-ignites-crypto-rally/",
-    "id_key": "ca20e8d2894091905877d742632fc7fd5ced01ae50364cd2ad35be900997e5b8",
-    "summary": "Trump’s tariff payout plan sparks brief crypto rally. Bitcoin hits $105K; Ethereum rebounds above $3,600. ETF inflows signal tentative institutional re-entry. President Trump’s Sunday announcement promising at least $2,000 in tariff-funded payouts to most Americans jolted crypto out of its weekend doldrums. Bitcoin rocketed to $105,000 while Ethereum climbed back above $3,600, as traders suddenly […] The post Bitcoin soars past $105K after Trump’s $2,000 tariff payout promise ignites crypto rally appeared first on CoinJournal .",
-    "ingested_utc": "2025-11-10T03:43:00Z"
   }
 ]
