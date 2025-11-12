@@ -2,6 +2,105 @@
   {
     "published_utc": "2025-11-12",
     "retrieved_date": "2025-11-12",
+    "retrieved_utc": "2025-11-12T22:35:04Z",
+    "source": "FinancialPost_Business",
+    "title": "Fastenal Company & Edmonton Oilers Enter Multi-Year Agreement",
+    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/fastenal-company-edmonton-oilers-enter-multi-year-agreement",
+    "id_key": "e10274a0876d53d767f680ca2282ee039e33189a4696f28c46d31ebf000c6da6",
+    "summary": "WINONA, Minn. — Fastenal Company (Nasdaq: FAST), a global leader in supply chain solutions and industrial distribution, has entered into an agreement to form a multi-year partnership with the Edmonton Oilers. The agreement makes Fastenal the preferred MRO (maintenance, repair, and operations) supply partner of Rogers Place, reflecting Fastenal’s growing partnership with the NHL and […]",
+    "ingested_utc": "2025-11-12T22:35:04Z"
+  },
+  {
+    "published_utc": "2025-11-12",
+    "retrieved_date": "2025-11-12",
+    "retrieved_utc": "2025-11-12T22:34:57Z",
+    "source": "AlJazeera_All",
+    "title": "Iraqi PM al-Sudani’s coalition comes first in parliamentary election",
+    "url": "https://www.aljazeera.com/news/2025/11/12/iraqi-pm-al-sudanis-coalition-comes-first-in-parliamentary-election?traffic_source=rss",
+    "id_key": "308b28a3204fb03de55ff6b9268fcd744ece214fc9519abb790c5178deb7b5af",
+    "summary": "With no clear majority, formation of next government will require intensive deal-making among strongest blocs.",
+    "ingested_utc": "2025-11-12T22:34:57Z"
+  },
+  {
+    "published_utc": "2025-11-12",
+    "retrieved_date": "2025-11-12",
+    "retrieved_utc": "2025-11-12T22:34:56Z",
+    "source": "TheStreet_Top",
+    "title": "Macy's is selling an Ugg bedding set for under $100 as part of its early Black Friday sale",
+    "url": "https://www.thestreet.com/deals/ugg-alamitos-bedding-set-macys-sale-black-friday-2025",
+    "id_key": "ac6e1edf041785fa6a2242e6cef2beb48a81224b5c6e4824cc450c162648521f",
+    "summary": "\"It keeps you nice and warm during cold winter nights.\"",
+    "ingested_utc": "2025-11-12T22:34:56Z"
+  },
+  {
+    "published_utc": "2025-11-12",
+    "retrieved_date": "2025-11-12",
+    "retrieved_utc": "2025-11-12T22:34:44Z",
+    "source": "TheVerge_All",
+    "title": "The best budget robot vacuums",
+    "url": "https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop",
+    "id_key": "340f2b047bf0aa74d4de79f1d0efee7944bcd921012752794ab087da0839909e",
+    "summary": "Today’s robot vacuums are becoming a bit like cars: with all the features, upgrades, and fancy trimmings available these days, it’s easy to forget that they can just be simple machines that get us from point A to point B. Yes, some bots blow hot air on their bums (mop pads), deftly navigate dog poop, […]",
+    "ingested_utc": "2025-11-12T22:34:44Z"
+  },
+  {
+    "published_utc": "2025-11-12",
+    "retrieved_date": "2025-11-12",
+    "retrieved_utc": "2025-11-12T22:34:44Z",
+    "source": "TechCrunch_All",
+    "title": "Cybersecurity firm Deepwatch lays off dozens, citing move to ‘accelerate’ AI investment",
+    "url": "https://techcrunch.com/2025/11/12/cybersecurity-firm-deepwatch-lays-off-dozens-citing-move-to-accelerate-ai-investment/",
+    "id_key": "40ef75926359cd711f4b76abc70d33f444cafa688220e32f52d8a5510b935bb6",
+    "summary": "Deepwatch’s CEO told TechCrunch that the layoffs allow the company to accelerate investments in “AI and automation.”",
+    "ingested_utc": "2025-11-12T22:34:44Z"
+  },
+  {
+    "published_utc": "2025-11-12",
+    "retrieved_date": "2025-11-12",
+    "retrieved_utc": "2025-11-12T22:33:32Z",
+    "source": "Arbitrum_Nitro_Releases",
+    "title": "Arbitrum Nitro v3.8.0",
+    "url": "https://github.com/OffchainLabs/nitro/releases/tag/v3.8.0",
+    "id_key": "0a7df6562479ee24062ba88d12be01251d6d50836df185796445b45c256e8873",
+    "summary": "This release has many bug fixes and improvements. This is not a mandatory upgrade, but any nodes running v3.8.0-rc.* versions are highly encouraged to upgrade. This release is available as a Docker Image on Docker Hub at offchainlabs/nitro-node:v3.8.0-62c0aa7 This Docker image specifies default flags in its entrypoint which should be replicated if you're overriding the entrypoint: /usr/local/bin/nitro --validation.wasm.allowed-wasm-module-roots /home/user/nitro-legacy/machines,/home/user/target/machines Special Note about ArbOS 50 Support Release v3.8.0 is unrelated to ArbOS50. A future version of Nitro that supports ArbOS50 will eventually be mandatory if the DAO votes to adopt ArbOS50, but this will be addressed later. Special Note For Database Schema Nitro 3.8.0 changes the database schema, so once a database has been run with 3.8.0, the database can no longer be opened with Nitro 3.7.x. Schema Change ArbOS database schema version is updated to version 2. This is a one-way upgrade and nodes may not be downgraded to a pre-v3.8.0 release without restoring their database from a backup. Configuration Changes nitro --node.batch-poster.data-poster.post-4844-blobs has been removed, now detected automatically --node.bold.strategy has been removed, should use --node.staker.strategy instead --node.data-availability.rpc-aggregator.enable-chunked-store has been removed --node.data-availability.rpc-aggregator.max-store-chunk-body-size has been removed --node.staker.data-poster.blob-tx-replacement-times has been removed --node.staker.data-poster.max-blob-tx-tip-cap-gwei has been removed --node.staker.data-poster.min-blob-tx-tip-cap-gwei has been removed --node.staker.data-poster.post-4844-blobs has been removed, now detected automatically datool --url changed to --server-url User-Facing Changs Allow same prevTimestamp in eth_simulateV1: #3535 Add GetNativeTokenManagementFrom precompile to ArbOwnerPublic: #3534 Fix EIP 2537 in nitro enable it as part of arbos 50 dia: #3492 Implement EIP-7825: #3545 Update EIP-7910 implementation: #3571 Handle --node.staker.strategy and --node.bold.strategy appropriately: #3582 Remove deprecated AnyTrust db storage service: #3701 Internal Highlights fix(backend): fix error handling and add comprehensive tests: #3510 Optimize sender address derivation: #3518 Don't log error if unable to return expired nonce cache failure: #3486 Add multi-dimensional gas collector: #3453 Refactor move multigascollector to arbos: #3524 Add debug flag to enable deep copy of backlog msgs: #3519 Merge geth v1.16.0: #3523 Use the parent chain for BlobFeePerByte instead of an RPC call: #3531 fix acquiring redis lock in batch poster: #3511 Merge geth v1.16.1: #3528 Account multi-gas in StartTxHook: #3533 Return False When Checking if Deposit Tx Type Has Poster Costs: #3536 Merge geth v1.16.2: #3537 Improve CPU performance when processing blocks: #3541 fix that arbos didnt get updated for l1 calldata price: #3470 Support passing multi gas by value: #3543 Skip block size cap for arbitrum chains: #3544 Record only specific targets needed for stylus: #3416 Remove rust nightly dependency: #3546 Enable arbos 50: #3547 Treat precompile code as empty during delegation after arbos 50: #3549 Enable ArbOS 50 in system tests: #3550 Add consensus v41 to Dockerfile: #3555 prover: remove unnecessary wasm exports: #3554 Move the MaxTxGas limit enforcement: #3557 Add support for consensus v50 to Docker: #3551 Store single-gas in multi-gas collector: #3552 fix: correct error aggregation for multi-target compile results: #3532 fix: prevent HTTP response body leaks in restful DAS client: #3558 Instrument multi-gas in StylusPrograms (just for getBytes32): #3539 fix: correct rightshift linter documentation: #3562 Update gammazero dependency: #3565 Update go version to 1.24.x across github workflows: #3567 Merge geth v1.16.3: #3568 Multigas: support geth multigas api changes: #3569 Add suppoort for Consensus V50 (rc.3) to Docker: #3574 fix: Correctly count struct fields in the structinit linter: #3579 Fix PublishedMachine tests to handle cases when latest release is behind latest ArbOS: #3581 Multigas: Instrument GasChargingHook with multi-gas: #3576 Run execution-spec-tests in nightly CI: #3577 Fix: Return proper error on non-200 in RestfulDasClient.ExpirationPolicy: #3585 Move output dir setup to constructor; make Start launch-only: #3578 Small fixes related to DA: #3591 fix: Make structinit linter work cross packages: #3586 Test Genesis assertion on nitro init: #3570 Update Rust to 1.88.0: #3553 CustomDA core Arbitrator & WASM infra: #3548 Remove redundant Background context initialization in poster_test: #3595 Include msg.SetCodeAuthorizations field when constructing arbitrum.TransactionArgs: #3598 Fail instead of panic when building second node if first node was not built with L1: #3601 Turn bold into a sub-package of nitro: #3599 Unify DAS interfaces: #3593 Add to chain_info: feed-signed: #3583 Update the implementation of EIP-7825: #3589 Fix l1 pricing state field order: #3602 Multigas: Add multi gas to transaction receipt and remove collector: #3594 bugfix: genesis validation without l1 reader: #3607 Extract streaming protocol (sender): #3603 Hide multi-gas behind feature flag: #3613 Fix race in DAS chunk assembly by adding per-batch locking: #3588 Arbos50 block gaslimit: #3606 bold/e2e: fix Anvil startup race causing RPC hangs in end-to-end tests: #3612 Fix ProduceBlockAdvanced handling of txs that don't need sequencing hooks: #3627 Extract streaming protocol (receiver): #3625 Gas floor: #3618 Multigas: Fix api.go to use new evm.Create signature: #3630 Add suppoort for Consensus V50 (rc.4) to Docker: #3638 Make sure to retry fast confirmation on failure: #3640 fix: recreate-missing-state-from panic: #3464 Add FloorGasAdditionalTokens to floor-gas computation: #3642 Fix redefining of staker related metrics: #3592 Multigas: Fix api.go to use new callcode/delegatecall/staticcall signatures: #3635 Instrument multi-gas in account HostIOs: #3645 fix: use RLock instead of Lock in CollectMachineHashes for concurrent…: #3632 fix: extract SerializedChainConfig from json directly: #3636 Remove unnecessary alias imports: #3637 Fix goroutine loop variable capture in sequencer shutdown forwarding: #3623 fix: Docker and tool version checks for accurate reporting: #3643 Account for multi-gas in transaction intrinsic gas: #3639 batch_posting report: fix addition of batchExtraGas: #3654 Fix some tests: #3657 stylus target: infer support of previous sse versions from more advanced ones: #3649 test(programs): wire cranelift flag through compileNative in testcompile: #3634 Reduce error message to trace: #3660 arbos: Instrument multi-gas in emitLog HostIO: #3646 Fix data race in LocalFileStorageService pruning goroutine: #3659 fix(fuzz): validate --fuzzcache-path against fuzzcachepath, not binpath: #3656 Fix DAS server http.Server.Addr and add graceful shutdown timeout: #3673 Data stream improvements: #3661 Revert change to the server address: #3677 arbos: Instrument multi-gas in create HostIO: #3672 fix: correct safe-wait delta calculation in edge tracker and transact: #3633 arbos: Instrument multi-gas in doCall HostIO: #3663 Fix underflow inside the gas charging hook: #3688 fix sendroot generation for genesis generator: #3686 enable ReadHeaderTimeout config and add tests: #3683 Remove the quadrupling of MaxPerBlockGasLimit: #3692 fix: expected hash in parent-chain linkage error: #3628 Detailed batch post report: #3696 Move funding common accounts to genesis block for L1: #3682 Revert #3700 : #3711 arbos: Fixup log messages in attributeWasmComputation: #3709 remove no-op OS-specific prerequisites block in check-build.sh: #3675 fix: missing reassignment of rivals when recording creation times in block snapshot: #3619 fix(events): use stable subscription ids and remove by id: #3563 System tests should use BOLD contracts by default: #3690 Fix timer leaks in transaction streamer retry logic: #3717 arbos: Instrument multi-gas in setTrieSlots HostIO: #3713 fix: correct error message formatting in blockchain and genesis generator: #3722 Interpolate the RUN_URL in Slack notification: #3723 fix: use Counter for nonceFailureCache overflow metric: #3648 Close HTTP response body to prevent connection leaks in REST URL list fetcher: #3715 Fix secondary beacon URL parsing in BlobClient: #3721 fix(solimpl): correct UpperChild zero-check to use UpperChildId: #3703 Add multi-dimensional gas metrics: #3726 Instrument multi-gas in precompiles: #3729 Refactor caller context creationi and remove redundant argument: #3733 Merge v1.16.4: #3734 timeboost: replace time.After in loop with cancellable timer to prevent leaks: #3728 feat(nitro-val): implement ValidationNodeConfig.Validate with logging and persistent checks: #3735 remove: delete unused HashPlusInt function from arbos/util: #3730 Add support for consensus-v50-rc.5 to Dockerfile: #3744 Remove Double Account Creation in BoLD Challenge Tests: #3746 Add DA proof support to daprovider interface: #3600 Refactor consensus-execution sync to push sync data: #3538 update arbdb schema version to 2: #3759 Extend CodeCov operations in CI: #3749 rpcclient: respect context cancellation during reconnect wait: #3751 Support multi-dimensional resource constraints: #3755 fix: Close response body on non-200 Beacon REST responses to prevent connection leaks: #3756 DataPoster: Verify external-signer transaction is signed by the expected address: #3731 Hardening: fix CloseExec race, secure chunk-size tests, enforce gci: #3747 fix: IP address string conversion in connection limiter: #3762 DataStreaming: Fix last-chunk size validation when totalSize is a multiple of chunkSize: #3732 feature(das): make trie iterators robust to stray files: #3739 Import data streaming changes: #3770 Fix falkiness in TestTimeboostBulkBlockMetadataAPI: #3781 Remove pre sylus validation: #3785 tests: Assert multi gas in system tests: #3752 Consolidate gotestsum to run all packages at once for CI performance gains: #3743 Add flag to enable cell proofs for fusaka: #3788 Fix stylus multi-gas test: #3795 Fix precision on the calculation of the backlog cost and the l1 gas p…: #3777 Change MaxArbosVersionSupported to 40: #3800 Fix backward incompatible data-streaming protocol change: #3802 Backport Correct the order TransactionStreamer and PopulateFeedBacklog ( #3812 ): #3813 Reject Estimates for BoLD Txs that Exceed Fusaka's Max Tx Gas Cap ( #3 …: #3815 Add support for new beacon chain /blobs endpoint: #3831 For L3 on arbitrum return false for shouldEnableCellProofs instread of erroring out: #3827 don't open freezer for wasm and arbitrumdata databases : #3832 misleading blob-related dataposter config to v3.8.x-release: #3833 Toggle rpc endpoint used on errors: #3837 Fix out of bounds config access in dataposter: #3839 getNextBlockToRead does not deped on FillInBatchGasField ( #3851 ): #3864 Fix broadcast client shutdown deadlock: #3885 Turn off feed-signed flag for sepolia ( #3891 ): #3895 Fix fast confirm not working for EOA on pre - bold ( #3902 ): #3903 Add hardcoded transaction hash and gas for ArbSepolia ( #3876 , #3901 ): #3904 identify already exists errors correctly while creating assertions ( #3875 ): #3878 Fix Fusaka Cell Proof support for external signers ( #3910 ): #3911 remove lock when setting finality data ( #3916 ): #3921 update sepolia contract address ( #3917 ): #3922 Fix PopulateFeedBacklog implementation ( #3953 ): #3955 Remove internal daprovider server for AnyTrust: #3956 Remove redundant DataStreamer retry mechanism: #3957 Full Changelog : v3.7.6...v3.8.0",
+    "ingested_utc": "2025-11-12T22:33:32Z"
+  },
+  {
+    "published_utc": "2025-11-12",
+    "retrieved_date": "2025-11-12",
+    "retrieved_utc": "2025-11-12T22:32:25Z",
+    "source": "CryptoNews",
+    "title": "China’s DeepSeek AI Predicts the Price of XRP, Solana, Zcash by the End of 2025",
+    "url": "https://cryptonews.com/news/chinas-deepseek-ai-predicts-the-price-of-xrp-solana-zcash-by-the-end-of-2025/",
+    "id_key": "40ced0f0330253577adb56868e4d86f649a0f45a50ec41e6a131a44ab950ba36",
+    "summary": "DeepSeek AI Predicts that XRP, Solana, and Zcash have shown renewed upside potential into year-end. A recent Fed rate cut and a rebound after a month-long pullback have supported risk-taking, with onchain and technical context favoring altcoins over prior Bitcoin-led cycles. The post China’s DeepSeek AI Predicts the Price of XRP, Solana, Zcash by the End of 2025 appeared first on Cryptonews .",
+    "ingested_utc": "2025-11-12T22:32:25Z"
+  },
+  {
+    "published_utc": "2025-11-12",
+    "retrieved_date": "2025-11-12",
+    "retrieved_utc": "2025-11-12T22:31:23Z",
+    "source": "Guardian_World",
+    "title": "Australia news live: Scamps says net zero backdown ‘signals the death knell of the Liberal party’; aurora lights up sky in solar storm",
+    "url": "https://www.theguardian.com/australia-news/live/2025/nov/13/australia-news-live-liberals-energy-policy-dan-tehan-sussan-ley-net-zero-emissions-climate-change-labor-anthony-albanese-aurora-australis-ntwnfb",
+    "id_key": "49a275d31c6a5565581088d28a1eb932efd7b7013dbea13dc7ebb40e5aa12a9f",
+    "summary": "Shadow cabinet will hear the proposals at 9am before Sussan Ley makes a public announcement. Follow today’s news live Get our breaking news email , free app or daily news podcast Teal independent MP Sophie Scamps said the Coalition’s position on net zero policies signals the “death knell” of the Liberal party as Sussan Ley appears poised to dump emissions targets . Scamps appears on the Today Show this morning, where she was asked about apparent wins yesterday in Canberra by conservatives looking to dump the net zero targets. I think it signals the death knell of the Liberal party. They’ve been led around by the nose by the likes of Barnaby Joyce and Gina Rinehart for way too long. We have been facing climate change, which is the issue of our era, and the Liberal party and the Nats have failed to act now for 25 years. Not only have they failed to act, but they’ve also failed to lead and they’ve obstructed action on this. What we see the Coalition is the same conflict, the same climate chaos, the same leadership wars which has defined them on this issue for, you know, what is it, 15 more years. What is the consequence? Well, we’ve seen it. The consequence is higher energy prices … What we need is policy certainty. That’s what the Albanese government is giving. The Coalition still haven’t learned – the climate wars and leadership contests have become fused in their minds for almost 15 years and it all continues. Continue reading...",
+    "ingested_utc": "2025-11-12T22:31:23Z"
+  },
+  {
+    "published_utc": "2025-11-12",
+    "retrieved_date": "2025-11-12",
+    "retrieved_utc": "2025-11-12T22:31:23Z",
+    "source": "Guardian_World",
+    "title": "Real estate agents face $110,000 fine for underquoting under proposed laws in NSW",
+    "url": "https://www.theguardian.com/australia-news/2025/nov/12/nsw-underquoting-laws-real-estate-agents-face-110000-fine",
+    "id_key": "24f546e393082d225823fc90949228a736150c6aa1bdf22d44f0516f4205633f",
+    "summary": "Labor is consulting with the property sector as it drafts legislation to stamp out misleading price estimates Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Real estate agents in New South Wales could be fined $110,000 or more if caught underquoting properties under proposed laws intended to stamp out misleading price estimates and increase transparency for buyers. The Minns Labor government has started consultation with the property sector as it prepares to draft legislation to enact tougher underquoting laws, which it expects to introduce to parliament next year. Continue reading...",
+    "ingested_utc": "2025-11-12T22:31:23Z"
+  },
+  {
+    "published_utc": "2025-11-12",
+    "retrieved_date": "2025-11-12",
     "retrieved_utc": "2025-11-12T22:14:57Z",
     "source": "WIRED_All",
     "title": "DHS Kept Chicago Police Records for Months in Violation of Domestic Espionage Rules",
@@ -10899,104 +10998,5 @@
     "id_key": "5e2d6c5c6d37c300bf4957ee8427d1f5eb825ca010e764ce2227cd5cf011dde6",
     "summary": "Dyson is holding an early Black Friday sale on vacuums and related products. Sure, Black Friday isn't for another month, but who are we to turn down a fantastic deal? To that end, the Dyson V9 Motorbar cordless vacuum is on sale for just $270 , which is a discount of $330. That's more than half off. Dyson devices are all over our list of the best cordless vacuums , and for good reason. The company makes effective products. The V9 Motorbar has been designed to clean all floor types, in addition to upholstery. It's also been engineered to squeeze into tight spots, which is great for hitting those oft-neglected parts of the home. The suction power is on point and the battery lasts for 40 minutes before requiring a charge. That's just enough time to vacuum a standard-sized home if you don't stop for too many breaks. The V9 is getting a bit long-in-the-tooth. If you want a newer model, the V11 Extra is on sale for $400 , which is a discount of $260. This one boosts the suction power and increases the battery life to 60 minutes. The early Black Friday sale isn't just for cordless vacuums. The 360 Vis Nav robot vacuum is on sale right now for $500 , which is a massive discount of $500. This is one of our favorite robot vacuums , primarily because of its incredible suction power. This article originally appeared on Engadget at https://www.engadget.com/deals/dyson-black-friday-deals-save-hundreds-on-cordless-and-robot-vacuums-173533593.html?src=rss",
     "ingested_utc": "2025-11-11T11:13:29Z"
-  },
-  {
-    "published_utc": "2025-11-11",
-    "retrieved_date": "2025-11-11",
-    "retrieved_utc": "2025-11-11T11:13:08Z",
-    "source": "NPR_Top",
-    "title": "A suicide bomber targets an Islamabad court, killing 12 people and wounding 27",
-    "url": "https://www.npr.org/2025/11/11/nx-s1-5605375/a-suicide-bomber-targets-an-islamabad-court-killing-12-people-and-wounding-27",
-    "id_key": "5097376c341644583b2df6538127e62ca37ff7e799befc5ef4186f6767325341",
-    "summary": "No group immediately claimed responsibility for the explosion, which also wounded at least 27 people, but Pakistan has struggled over the past months with a resurgent Pakistani Taliban.",
-    "ingested_utc": "2025-11-11T11:13:08Z"
-  },
-  {
-    "published_utc": "2025-11-11",
-    "retrieved_date": "2025-11-11",
-    "retrieved_utc": "2025-11-11T11:13:00Z",
-    "source": "NYTimes_World",
-    "title": "Explosion in Pakistan’s Capital Kills at Least 12",
-    "url": "https://www.nytimes.com/2025/11/11/world/africa/pakistan-explosion-islamabad.html",
-    "id_key": "23f23367847416f0647f95382f6884f16ac9e6fe073f5e970af0b71ea077998c",
-    "summary": "A military official accused the Pakistani Taliban of staging the attack, which took place near a courthouse in Islamabad.",
-    "ingested_utc": "2025-11-11T11:13:00Z"
-  },
-  {
-    "published_utc": "2025-11-11",
-    "retrieved_date": "2025-11-11",
-    "retrieved_utc": "2025-11-11T11:12:40Z",
-    "source": "BBC_Business",
-    "title": "Vinted users lash out over sizing changes",
-    "url": "https://www.bbc.com/news/articles/c87421v7lzro?at_medium=RSS&at_campaign=rss",
-    "id_key": "34f68ec1112a7ca1ed1f90ae8a8b0c49609b06759fdd016c6c27919dd4e172d2",
-    "summary": "The popular second-hand shopping app has changed how size are listed.",
-    "ingested_utc": "2025-11-11T11:12:40Z"
-  },
-  {
-    "published_utc": "2025-11-11",
-    "retrieved_date": "2025-11-11",
-    "retrieved_utc": "2025-11-11T11:11:13Z",
-    "source": "CryptoNews",
-    "title": "Uniswap Could Go Parabolic With Fee Switch Activation, Says CryptoQuant CEO",
-    "url": "https://cryptonews.com/news/uniswap-could-go-parabolic-with-fee-switch-activation-says-cryptoquant-ceo/",
-    "id_key": "bc9a376a57213f9b411fd52ce6abdd0a49c02474d344913a315743a59fe84447",
-    "summary": "Uniswap's historic fee switch proposal would funnel protocol revenues into UNI token burns while eliminating interface fees, marking a fundamental shift in DeFi tokenomics as regulatory headwinds ease. The post Uniswap Could Go Parabolic With Fee Switch Activation, Says CryptoQuant CEO appeared first on Cryptonews .",
-    "ingested_utc": "2025-11-11T11:11:13Z"
-  },
-  {
-    "published_utc": "2025-11-11",
-    "retrieved_date": "2025-11-11",
-    "retrieved_utc": "2025-11-11T11:11:13Z",
-    "source": "CryptoNews",
-    "title": "America’s Crypto ETFs Get Green Light to Share Staking Rewards to Millions of Investors",
-    "url": "https://cryptonews.com/news/americas-crypto-etfs-get-green-light-to-share-staking-rewards-to-millions-of-investors/",
-    "id_key": "219852c4c12c805c4765119b783295f5fd47fbb27e1588ea9849e17466bbabb7",
-    "summary": "Treasury Department and IRS issue guidance permitting crypto ETFs to stake proof-of-stake tokens and distribute rewards to retail investors, marking a regulatory shift from the previous administration's securities concerns. The post America’s Crypto ETFs Get Green Light to Share Staking Rewards to Millions of Investors appeared first on Cryptonews .",
-    "ingested_utc": "2025-11-11T11:11:13Z"
-  },
-  {
-    "published_utc": "2025-11-11",
-    "retrieved_date": "2025-11-11",
-    "retrieved_utc": "2025-11-11T10:54:54Z",
-    "source": "AlJazeera_All",
-    "title": "‘Suicide blast’ outside Islamabad court in Pakistan kills at least 12",
-    "url": "https://www.aljazeera.com/news/2025/11/11/blast-outside-islamabad-court-in-pakistan-injures-at-least-eight?traffic_source=rss",
-    "id_key": "e902be1bb50660a6dd0b3c849fb949bbb634a8c0de3f867f52632e76681b8bf7",
-    "summary": "Explosion occurred near the entrance of the district court, which is typically crowded with a large number of people.",
-    "ingested_utc": "2025-11-11T10:54:54Z"
-  },
-  {
-    "published_utc": "2025-11-11",
-    "retrieved_date": "2025-11-11",
-    "retrieved_utc": "2025-11-11T10:54:26Z",
-    "source": "FT_Home",
-    "title": "UK unemployment rate rises more than expected to 5%",
-    "url": "https://www.ft.com/content/cabfdcd8-393e-4bba-b802-38fc8f8b09c1",
-    "id_key": "f4a9de3c6e323ac5cf4629f2cb29ffc961f9b57b7295cb4de8a2f569c41a593e",
-    "summary": "Figures are a setback for government ahead of high-stakes Budget",
-    "ingested_utc": "2025-11-11T10:54:26Z"
-  },
-  {
-    "published_utc": "2025-11-11",
-    "retrieved_date": "2025-11-11",
-    "retrieved_utc": "2025-11-11T10:52:07Z",
-    "source": "BBC_World",
-    "title": "Suicide bombing in Islamabad kills 12, says Pakistan's interior minister",
-    "url": "https://www.bbc.com/news/articles/cp3x6102p3ko?at_medium=RSS&at_campaign=rss",
-    "id_key": "32a0a98e5ca91e00ae825ad2e679e0c0cce29a443c8ba1fba7366620fd6ff174",
-    "summary": "Mohsin Naqvi says the bomber tried to gain entry to a court complex, but was unable to get inside.",
-    "ingested_utc": "2025-11-11T10:52:07Z"
-  },
-  {
-    "published_utc": "2025-11-11",
-    "retrieved_date": "2025-11-11",
-    "retrieved_utc": "2025-11-11T10:52:07Z",
-    "source": "BBC_World",
-    "title": "New 'Lucifer' bee with devil-like horns found in Australia",
-    "url": "https://www.bbc.com/news/articles/c051yjv90dmo?at_medium=RSS&at_campaign=rss",
-    "id_key": "68f70cffd4255d5963278b6362e5762da6824080cad040740387ef17104711e0",
-    "summary": "The native bee was found near a rare wildflower, prompting scientists to call for the area to be protected.",
-    "ingested_utc": "2025-11-11T10:52:07Z"
   }
 ]
