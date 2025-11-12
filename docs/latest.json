@@ -2,6 +2,61 @@
   {
     "published_utc": "2025-11-12",
     "retrieved_date": "2025-11-12",
+    "retrieved_utc": "2025-11-12T06:53:53Z",
+    "source": "Nikkei_Asia_Top",
+    "title": "Australia and Indonesia conclude negotiations on new security treaty",
+    "url": "https://asia.nikkei.com/politics/international-relations/indo-pacific/australia-and-indonesia-conclude-negotiations-on-new-security-treaty",
+    "id_key": "eec391288a21b42afa9244272036c84df35577f8e4fe3d22d6f867e29f132b2c",
+    "summary": "",
+    "ingested_utc": "2025-11-12T06:53:53Z"
+  },
+  {
+    "published_utc": "2025-11-12",
+    "retrieved_date": "2025-11-12",
+    "retrieved_utc": "2025-11-12T06:53:52Z",
+    "source": "FinancialPost_Business",
+    "title": "Stocks, Bonds Rise as US Data Spurs Rate-Cut Bets: Markets Wrap",
+    "url": "https://financialpost.com/pmn/business-pmn/stocks-bonds-rise-as-us-data-spurs-rate-cut-bets-markets-wrap",
+    "id_key": "af7df9c404e871701154a8de9b32239c400b90919a95879b0c6f6a7ba3268a79",
+    "summary": "Asian stocks advanced alongside Treasuries after softer US jobs data strengthened bets on a Federal Reserve interest-rate cut.",
+    "ingested_utc": "2025-11-12T06:53:52Z"
+  },
+  {
+    "published_utc": "2025-11-12",
+    "retrieved_date": "2025-11-12",
+    "retrieved_utc": "2025-11-12T06:53:45Z",
+    "source": "AlJazeera_All",
+    "title": "Russia loses legal battle to build embassy near Australia’s Parliament",
+    "url": "https://www.aljazeera.com/news/2025/11/12/russia-loses-legal-battle-to-build-embassy-near-australias-parliament?traffic_source=rss",
+    "id_key": "10e5acb7bcd9b35c4d777af776735ae1ab34b63b48c58db827851edf4300784a",
+    "summary": "Australia's High Court says government acted within its rights when it passed a law revoking 99-year lease for site.",
+    "ingested_utc": "2025-11-12T06:53:45Z"
+  },
+  {
+    "published_utc": "2025-11-12",
+    "retrieved_date": "2025-11-12",
+    "retrieved_utc": "2025-11-12T06:53:12Z",
+    "source": "NPR_Top",
+    "title": "Space forecasters say severe solar storms could hit Earth and trigger auroras",
+    "url": "https://www.npr.org/2025/11/12/g-s1-97533/solar-storms-auroras",
+    "id_key": "926178c113ce5bed42583bc5f4c07d77e0ee74a57ce040274c0e95c89e15b54e",
+    "summary": "The sun has burped out bursts of energy called coronal mass ejections that could reach Earth Tuesday night. Forecasters said the vibrant displays could be visible across much of the northern U.S.",
+    "ingested_utc": "2025-11-12T06:53:12Z"
+  },
+  {
+    "published_utc": "2025-11-12",
+    "retrieved_date": "2025-11-12",
+    "retrieved_utc": "2025-11-12T06:50:14Z",
+    "source": "Guardian_World",
+    "title": "Australia news live: Dan Tehan and Sussan Ley to reveal Liberals’ net zero emissions position tomorrow after shadow cabinet meeting",
+    "url": "https://www.theguardian.com/australia-news/live/2025/nov/12/australia-news-live-fossil-fuel-lending-banks-net-zero-emissions-coalition-sussan-ley-liberals-nationals-anthony-albanese-labor-ntwnfb",
+    "id_key": "90f7e71423bea65fb862c239c3ebcf6cae0d95681bdeff6148d1a4d32e255e64",
+    "summary": "Follow today’s news live Get our breaking news email , free app or daily news podcast Removing CO 2 from atmosphere vital to avoid catastrophic tipping points, leading scientist says Removing carbon from the atmosphere will be necessary to avoid catastrophic tipping points, one of the world’s leading scientists has warned, as even in the best-case scenario the world will heat by about 1.7C. Continue reading...",
+    "ingested_utc": "2025-11-12T06:50:14Z"
+  },
+  {
+    "published_utc": "2025-11-12",
+    "retrieved_date": "2025-11-12",
     "retrieved_utc": "2025-11-12T06:21:16Z",
     "source": "Nikkei_Asia_Top",
     "title": "VinFast opens door to EV era in Vietnam",
@@ -1065,6 +1120,17 @@
     "id_key": "1899dbb74c137b76f32bab47c1e50dab6af6dbb9d18b5f01a1a6e2cf48915c02",
     "summary": "The justices, anticipating the shutdown will end soon, avoid substantive legal ruling about whether lower-court orders to keep full Snap payments going amid shutdown are correct Top House Democrats vow to oppose shutdown bill over healthcare funding As the supreme court deliberates on the fate of Donald Trump’s sweeping tariffs – which he maintains are a matter of “national security” as justices appeared skeptical during oral arguments on the case last week – the president said that the US would be forced to hand “in excess of three trillion dollars” if the levies are scrapped, in a late night post on Truth Social. He added: It would not be possible to ever make up for that kind of a ‘drubbing.’ That would truly become an insurmountable National Security Event, and devastating to the future of our Country – Possibly non-sustainable! Continue reading...",
     "ingested_utc": "2025-11-12T00:54:43Z"
+  },
+  {
+    "published_utc": "2025-11-11",
+    "retrieved_date": "2025-11-12",
+    "retrieved_utc": "2025-11-12T06:53:14Z",
+    "source": "NPR_World",
+    "title": "Senate approves legislation to end shutdown. And, where climate change efforts stand",
+    "url": "https://www.npr.org/2025/11/11/g-s1-97364/up-first-newsletter-house-returns-government-shutdown-cop30",
+    "id_key": "41850d099c195360463877a9fb130a7e11ce148d097e433f11b7fb485644e09f",
+    "summary": "The House returns to vote on a bipartisan bill that could end the government shutdown. And, at the COP30, data show the world is still far from meeting its climate goals.",
+    "ingested_utc": "2025-11-12T06:53:14Z"
   },
   {
     "published_utc": "2025-11-11",
@@ -10932,71 +10998,5 @@
     "id_key": "139a7d2eb8c053a22160efa451fa97a8c5d36d1bc9d6f84bdf92f06fef7c73cf",
     "summary": "Blue Origin says it is aiming for another attempt as soon as Wednesday as competition with Musk’s SpaceX intensifies Blue Origin, the space company owned by billionaire Jeff Bezos, was forced on Sunday to postpone the anticipated launch of its New Glenn rocket due to unfavorable weather conditions in Cape Canaveral, Florida. Rain and a ground system issue caused delays that were followed by cumulus cloud cover as the 88-minute launch window closed, leaving managers with the only option of pushing back the rocket’s planned second mission. Competition between Blue Origin and Elon Musk’s SpaceX has been intensifying in recent months. Continue reading...",
     "ingested_utc": "2025-11-10T15:13:53Z"
-  },
-  {
-    "published_utc": "2025-11-10",
-    "retrieved_date": "2025-11-10",
-    "retrieved_utc": "2025-11-10T15:13:53Z",
-    "source": "Guardian_World",
-    "title": "Trump pardons Giuliani, Meadows and others over plot to steal 2020 election",
-    "url": "https://www.theguardian.com/us-news/2025/nov/10/trump-pardons-giuliani-meadows-2020-election",
-    "id_key": "a02415551bf01de14843b884e88a5fde9f033c4659db4792f064095f6c1b320b",
-    "summary": "Federal clemency towards president’s close allies largely symbolic as some still face legal exposure at state level Rudy Giuliani and Mark Meadows , both close former political allies of Donald Trump, are among scores of people pardoned by the president over the weekend for their roles in a plot to steal the 2020 election. The maneuver is in effect symbolic, given it only applies in the federal justice system and not in state courts where Giuliani, Meadows and the others continue facing legal peril. The acts of clemency were announced in a post late on Sunday to X by US pardon attorney Ed Martin , covers 77 people said to have been the architects and agents of the scheme to install fake Republican electors in several battleground states, which would have falsely declared Trump their winner instead of the actual victor: Joe Biden. Continue reading...",
-    "ingested_utc": "2025-11-10T15:13:53Z"
-  },
-  {
-    "published_utc": "2025-11-10",
-    "retrieved_date": "2025-11-10",
-    "retrieved_utc": "2025-11-10T15:13:53Z",
-    "source": "Guardian_World",
-    "title": "Trump threatens BBC with legal action over edit of speech in documentary",
-    "url": "https://www.theguardian.com/us-news/2025/nov/10/trump-bbc-legal-action",
-    "id_key": "1ae38c04dbe45c5b018eaeb6b201b99c1735e89094bb892d9f0a52fba06a2857",
-    "summary": "Leaked BBC report said film had ‘completely misled’ viewers by splicing two parts of January 6 speech together Donald Trump has threatened legal action against the BBC and welcomed the resignations of two of its most senior figures after a campaign against the broadcaster that reached fever pitch over criticism that its flagship documentary programme in 2024 used a misleading edit of a Trump speech. Reacting to the resignations of the BBC director general, Tim Davie, and its News CEO, Deborah Turness, who stepped down on Sunday , the US president praised the rightwing Telegraph newspaper, which this month published a leaked internal report by a former BBC standards adviser alleging failings in the broadcaster’s coverage, including on transgender issues, Gaza and the edit of a Trump speech from January 6 during the Capitol Hill insurrection. Continue reading...",
-    "ingested_utc": "2025-11-10T15:13:53Z"
-  },
-  {
-    "published_utc": "2025-11-10",
-    "retrieved_date": "2025-11-10",
-    "retrieved_utc": "2025-11-10T15:13:49Z",
-    "source": "BBC_World",
-    "title": "Former French president Sarkozy released from prison after three weeks",
-    "url": "https://www.bbc.com/news/articles/cm2eppqd2nyo?at_medium=RSS&at_campaign=rss",
-    "id_key": "b11c916cc736dd1796ddcf5967776fd4214698bb108cc533738d77ae54940e95",
-    "summary": "The former French president was jailed in October for conspiring to fund his election campaign with money from late Libyan dictator Muammar Gaddafi.",
-    "ingested_utc": "2025-11-10T15:13:49Z"
-  },
-  {
-    "published_utc": "2025-11-10",
-    "retrieved_date": "2025-11-10",
-    "retrieved_utc": "2025-11-10T13:56:17Z",
-    "source": "FinancialPost_Business",
-    "title": "Xtract One Closes $11.5M Bought Deal Public Offering",
-    "url": "https://financialpost.com/globe-newswire/xtract-one-closes-11-5m-bought-deal-public-offering",
-    "id_key": "406a106039838be863c8b5c462444453b0ca5eba6cd8ebbac630dc1cacf814ec",
-    "summary": "Over-Allotment Option Exercised in Full THIS NEWS RELEASE IS INTENDED FOR DISTRIBUTION IN CANADA ONLY AND IS NOT INTENDED FOR DISTRIBUTION TO UNITED STATES NEWSWIRE SERVICES OR DISSEMINATION IN THE UNITED STATES. TORONTO, Nov. 10, 2025 (GLOBE NEWSWIRE) — Xtract One Technologies Inc. (TSX: XTRA) (OTCQX: XTRAF) (FRA: 0PL) (“Xtract One” or the “Company”) announces […]",
-    "ingested_utc": "2025-11-10T13:56:17Z"
-  },
-  {
-    "published_utc": "2025-11-10",
-    "retrieved_date": "2025-11-10",
-    "retrieved_utc": "2025-11-10T13:56:00Z",
-    "source": "Engadget_All",
-    "title": "Black Friday Apple deals include the Mac mini M4 for $100 off",
-    "url": "https://www.engadget.com/deals/black-friday-apple-deals-include-the-mac-mini-m4-for-100-off-150749530.html?src=rss",
-    "id_key": "be5f8e1eb65f7d3711f6c159d0eae93338e027a92f74fe7c0e201ad0ce6f52e3",
-    "summary": "It's a good idea to look for Black Friday Apple deals this time of year if you're thinking about upgrading an aging laptop or picking up a pair of AirPods or an Apple Watch as a gift. One of the best discounts we're tracking at the moment is on the M4-powered Mac Mini desktop — it's $100 off right now, down from $599 to $499. That applies to the 16GB of RAM/256GB SSD model, and it's pretty close to its all-time-low price. We gave the Mac mini M4 a 90 in our review , in part, because it packs an incredible amount of power into such a small design. It also has front facing USB-C and headphone ports, a first for the Mac mini lineup. Plus, it starts with 16GB of RAM, an upgrade from its predecessors. However, if you want more memory or storage, the other Mac Mini M4 models are also on sale. You can get 16GB of RAM and 512GB of SSD for $690, down from $799. Then there's the option for 24GB of RAM and 512GB of SSD at $890, down from $999. Plus, if you want to bundle in three years of AppleCare+, each model ends up being about $100 cheaper than normal. If you're looking to build a desktop setup from scratch, there's a small but notable discount on Apple's Magic Trackpad as well. It's down to $120, which is only seven percent off its usual price but it's the cheapest we've seen it. This article originally appeared on Engadget at https://www.engadget.com/deals/black-friday-apple-deals-include-the-mac-mini-m4-for-100-off-150749530.html?src=rss",
-    "ingested_utc": "2025-11-10T13:56:00Z"
-  },
-  {
-    "published_utc": "2025-11-10",
-    "retrieved_date": "2025-11-10",
-    "retrieved_utc": "2025-11-10T13:55:42Z",
-    "source": "FT_Markets",
-    "title": "Senegal’s foreign bonds plunge as government rules out restructuring",
-    "url": "https://www.ft.com/content/84f9676a-f135-4cc4-a21d-f8769d59c1d0",
-    "id_key": "1a3a9082d72fcdd70964bd0a1905f21ef538021abd07ab90d1052b5a5989108d",
-    "summary": "West African nation has become a test of IMF’s ability to deal with hidden debt and secure relief from creditors to support bailouts",
-    "ingested_utc": "2025-11-10T13:55:42Z"
   }
 ]
