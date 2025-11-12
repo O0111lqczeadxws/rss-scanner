@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-11-12",
     "retrieved_date": "2025-11-12",
+    "retrieved_utc": "2025-11-12T09:53:09Z",
+    "source": "Nikkei_Asia_Top",
+    "title": "Japan GDP rises at annualized 0.1% pace in September: JCER",
+    "url": "https://asia.nikkei.com/economy/japan-gdp-rises-at-annualized-0.1-pace-in-september-jcer",
+    "id_key": "d71919895542fec4522ee2dc5a17ba6fe06cbe5ca2f66c5a306ab1da1657d6d2",
+    "summary": "",
+    "ingested_utc": "2025-11-12T09:53:09Z"
+  },
+  {
+    "published_utc": "2025-11-12",
+    "retrieved_date": "2025-11-12",
+    "retrieved_utc": "2025-11-12T09:52:32Z",
+    "source": "NPR_World",
+    "title": "USS Gerald R. Ford heads to Caribbean amid major U.S. military buildup near Venezuela",
+    "url": "https://www.npr.org/2025/11/12/nx-s1-5606005/uss-gerald-r-ford-heads-to-caribbean-amid-major-u-s-military-buildup-near-venezuela",
+    "id_key": "b1308234bc17b7e8ac0c4b9a230fbdc2c458185fcd2d9aae33e5599a7a0fdee7",
+    "summary": "The world's largest aircraft carrier, the USS Gerald R. Ford, is en route to the Caribbean Sea as U.S. forces expand operations near Venezuela, where recent strikes have killed at least 76 people.",
+    "ingested_utc": "2025-11-12T09:52:32Z"
+  },
+  {
+    "published_utc": "2025-11-12",
+    "retrieved_date": "2025-11-12",
+    "retrieved_utc": "2025-11-12T09:52:30Z",
+    "source": "NPR_Business",
+    "title": "Kansas county to pay over $3 million for illegal police raid on local newspaper",
+    "url": "https://www.npr.org/2025/11/12/nx-s1-5606352/kansas-county-to-pay-over-3-million-for-illegal-police-raid-on-local-newspaper",
+    "id_key": "77ac366ae88a0886227da69cc8785c6914e978b7f09111a6f3945cc0f9169d1c",
+    "summary": "A county in rural Kansas has agreed to pay just over $3 million and apologize for a 2023 police raid on a small-town newspaper. The raid sparked an uproar over press freedom.",
+    "ingested_utc": "2025-11-12T09:52:30Z"
+  },
+  {
+    "published_utc": "2025-11-12",
+    "retrieved_date": "2025-11-12",
     "retrieved_utc": "2025-11-12T09:37:49Z",
     "source": "FinancialPost_Business",
     "title": "Oil’s Billion-Barrel Buildup at Sea Points to Sanctions Stress",
@@ -10965,38 +10998,5 @@
     "id_key": "8f9c1d349b5c3433742edb3359ba04999a69f220cb3ae49641d22e88d766f3cc",
     "summary": "AI and quantum technologies are dramatically reconfiguring how cybersecurity functions, redefining the speed and scale with which digital defenders and their adversaries can operate. The weaponization of AI tools for cyberattacks is already proving a worthy opponent to current defenses. From reconnaissance to ransomware, cybercriminals can automate attacks faster than ever before with AI. This…",
     "ingested_utc": "2025-11-10T15:17:38Z"
-  },
-  {
-    "published_utc": "2025-11-10",
-    "retrieved_date": "2025-11-10",
-    "retrieved_utc": "2025-11-10T15:17:30Z",
-    "source": "FinancialPost_Business",
-    "title": "Greenland Resources Announces Financing From EIT RawMaterials, Which Is Co-Funded by the EU",
-    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/greenland-resources-announces-financing-from-eit-rawmaterials-which-is-co-funded-by-the-eu",
-    "id_key": "b4243a6e61b49f544f16038a1565d9cd73e8e953d4d417d55f6f3f3cb5e46d7a",
-    "summary": "TORONTO — Greenland Resources Inc. (Cboe CA:MOLY, FSE:M0LY) (“Greenland Resources” or the “Company”) is pleased to announce that it has today entered into an agreement (the “Financial Sustainability Agreement”) with EIT RawMaterials GmbH, a public-private partnership co-funded by the European Union under Horizon Europe, the EU’s key funding program for research and innovation, pursuant to […]",
-    "ingested_utc": "2025-11-10T15:17:30Z"
-  },
-  {
-    "published_utc": "2025-11-10",
-    "retrieved_date": "2025-11-10",
-    "retrieved_utc": "2025-11-10T15:17:30Z",
-    "source": "FinancialPost_Business",
-    "title": "Tres Thompson joins Meltwater as Chief Financial Officer",
-    "url": "https://financialpost.com/globe-newswire/tres-thompson-joins-meltwater-as-chief-financial-officer",
-    "id_key": "051d8d4dd59695ae214d1374dc1bfbb973d1af661fa850b9ccfca1cda9460610",
-    "summary": "SAN FRANCISCO, Nov. 10, 2025 (GLOBE NEWSWIRE) — Meltwater, a leading global provider of media, social, and consumer intelligence, today announced the appointment of Tres Thompson as Chief Financial Officer (CFO). With over 35 years of experience in accounting, finance, and operational leadership within both privately held and publicly traded technology companies, Thompson brings a […]",
-    "ingested_utc": "2025-11-10T15:17:30Z"
-  },
-  {
-    "published_utc": "2025-11-10",
-    "retrieved_date": "2025-11-10",
-    "retrieved_utc": "2025-11-10T15:17:30Z",
-    "source": "FinancialPost_Business",
-    "title": "Altman Solon Selects Mindbreeze to Power Knowledge Management and Collaboration Across the Organization",
-    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/altman-solon-selects-mindbreeze-to-power-knowledge-management-and-collaboration-across-the-organization",
-    "id_key": "67ccc9fc983bae06d40e258b7b0d9ab314a0d1e46c5b36080f32b7ffd3052345",
-    "summary": "CHICAGO — Mindbreeze, a leading global provider of AI-based knowledge management solutions, today announced that Altman Solon, the world’s largest strategy consulting firm focused exclusively on telecommunications, media, and technology (TMT), has purchased Mindbreeze InSpire. The collaboration began in July 2025 with a trial of the Mindbreeze Insight Workplace, designed to unify Altman Solon’s SharePoint […]",
-    "ingested_utc": "2025-11-10T15:17:30Z"
   }
 ]
