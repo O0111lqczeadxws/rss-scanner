@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-11-13",
     "retrieved_date": "2025-11-13",
+    "retrieved_utc": "2025-11-13T11:30:56Z",
+    "source": "TheStreet_Top",
+    "title": "Walmart is selling a $780 memory-foam mattress for just $395 ahead of Black Friday",
+    "url": "https://www.thestreet.com/deals/egohome-dy-black-14-inch-queen-memory-foam-mattress-walmart-flash-sale",
+    "id_key": "e7bc5b3c57e4067a5975795868d65cde1a68386031c2b30cbaaf365d6f190541",
+    "summary": "Save a whopping $385 on an incredible queen-sized mattress this holiday.",
+    "ingested_utc": "2025-11-13T11:30:56Z"
+  },
+  {
+    "published_utc": "2025-11-13",
+    "retrieved_date": "2025-11-13",
+    "retrieved_utc": "2025-11-13T11:28:10Z",
+    "source": "Guardian_World",
+    "title": "Police and crime commissioners to be abolished, government to announce",
+    "url": "https://www.theguardian.com/uk-news/2025/nov/13/police-and-commissioners-to-be-abolished-government-to-announce",
+    "id_key": "3064ffb220c05c13f2545835a97635ffb3aefe1b0037e29655c0921d352cf04a",
+    "summary": "System introduced in 2012 across England and Wales has faced criticism from police chiefs UK politics live – latest updates The controversial system of police and crime commissioners is to be abolished by the government, the Guardian has learned. Under the system, introduced under the Conservatives, all 43 police forces covering local areas across England and Wales had to answer to an elected official. Continue reading...",
+    "ingested_utc": "2025-11-13T11:28:10Z"
+  },
+  {
+    "published_utc": "2025-11-13",
+    "retrieved_date": "2025-11-13",
+    "retrieved_utc": "2025-11-13T11:28:10Z",
+    "source": "Guardian_World",
+    "title": "‘Whatever it takes’: Starbucks workers launch US strike and call for boycott",
+    "url": "https://www.theguardian.com/business/2025/nov/13/starbucks-workers-launch-strike",
+    "id_key": "fa91e05100f8d7e35ae7bb8546c1e215dbafbc610b37198751785794a35d7fa9",
+    "summary": "Unfair labor practice strike on ‘red cup day’ in over 25 cities comes amid stagnant negotiations with coffee chain Hundreds of Starbucks workers are set to strike in more than 25 cities across the US today amid stagnant negotiations with the world’s largest coffee chain over a first union contract. On the company’s annual “red cup day”, hailing the start of the lucrative holiday season, Starbucks Workers United is launching an unfair labor practice (ULP) strike, with rallies planned in locations including New York City; Philadelphia, Pennsylvania; Chicago, Illinois; Columbus, Ohio; and Anaheim, California. Continue reading...",
+    "ingested_utc": "2025-11-13T11:28:10Z"
+  },
+  {
+    "published_utc": "2025-11-13",
+    "retrieved_date": "2025-11-13",
     "retrieved_utc": "2025-11-13T11:14:53Z",
     "source": "MIT_TechReview",
     "title": "Google is still aiming for its “moonshot” 2030 energy goals",
@@ -2154,6 +2187,17 @@
     "id_key": "744dd701f71560d7ef55f9dfd80b516c5e6e01ae270167ce1ed7526c1319cc7d",
     "summary": "Mike Johnson, the House speaker, had prevented the representative from taking her seat after a special election Arizona Democrat Adelita Grijalva was sworn in by Mike Johnson , the US House speaker, on Wednesday, ending a contentious seven-week standoff that prevented the incoming representative from taking her seat and clearing the path for a vote to release the Jeffrey Epstein files. House Democrats burst into applause on the House floor when Grijalva took the oath of office during a ceremonial swearing in, shortly before the chamber was poised to take up legislation that would end the longest federal government shutdown in US history. The ceremony comes seven weeks after Grijalva won a late September special election to succeed her father, the longtime representative Raúl Grijalva, who died in March. Continue reading...",
     "ingested_utc": "2025-11-13T00:54:34Z"
+  },
+  {
+    "published_utc": "2025-11-12",
+    "retrieved_date": "2025-11-13",
+    "retrieved_utc": "2025-11-13T11:28:28Z",
+    "source": "CryptoSlate",
+    "title": "Is the CFTC about take over crypto regulation from the SEC?",
+    "url": "https://cryptoslate.com/congress-wants-clarity-again-does-the-new-senate-draft-finally-settle-sec-vs-cftc-turf/",
+    "id_key": "d632360b5310655ec5297df5ed85cc45679e2e787e0934ede0219b3d995efa33",
+    "summary": "Washington has long wrestled with who should police digital assets. The Digital Asset Market Clarity Act of 2025 passed the House this summer, but the Senate had not acted. Now, two Senate committees have released competing drafts, each promising regulatory order. These drafts create a new jurisdictional map poised to reshape everything from Bitcoin spot […] The post Is the CFTC about take over crypto regulation from the SEC? appeared first on CryptoSlate .",
+    "ingested_utc": "2025-11-13T11:28:28Z"
   },
   {
     "published_utc": "2025-11-12",
@@ -10954,49 +10998,5 @@
     "id_key": "fb330952324093adfe6708494beeb38d5fb96a7ad4fe83128a06989ec4409108",
     "summary": "",
     "ingested_utc": "2025-11-11T19:28:23Z"
-  },
-  {
-    "published_utc": "2025-11-11",
-    "retrieved_date": "2025-11-11",
-    "retrieved_utc": "2025-11-11T19:27:49Z",
-    "source": "Arbitrum_Nitro_Releases",
-    "title": "Arbitrum Nitro v3.9.0-rc.2",
-    "url": "https://github.com/OffchainLabs/nitro/releases/tag/v3.9.0-rc.2",
-    "id_key": "76f778d1508deb42df1b7be022aa248c46cc009658672141b417de77a2af085b",
-    "summary": "This release is available as a Docker Image on Docker Hub at offchainlabs/nitro-node:TBD This Docker image specifies default flags in its entrypoint which should be replicated if you're overriding the entrypoint: /usr/local/bin/nitro --validation.wasm.allowed-wasm-module-roots /home/user/nitro-legacy/machines,/home/user/target/machines If you're running a validator without a split validation server (this will be true of most validators), you should instead use the image offchainlabs/nitro-node:TBD-validator which has the extra script /usr/local/bin/split-val-entry.sh as the entrypoint. Internal Highlights Remove internal daprovider server for AnyTrust: #3992 Full Changelog : v3.9.0-rc.1...v3.9.0-rc.2",
-    "ingested_utc": "2025-11-11T19:27:49Z"
-  },
-  {
-    "published_utc": "2025-11-11",
-    "retrieved_date": "2025-11-11",
-    "retrieved_utc": "2025-11-11T19:26:45Z",
-    "source": "CoinJournal",
-    "title": "Lisk (LSK) token price has soared 62%: here’s what is fueling the rally",
-    "url": "https://coinjournal.net/news/lisk-lsk-token-price-has-soared-62-heres-what-is-fueling-the-rally/",
-    "id_key": "d3b4adc53bd2cfd3d91c2e143ee7faaba4a0f693d089992ffa463d5f53065549",
-    "summary": "The Lisk (LSK) token has surged 62% amid altcoin rotation and ecosystem growth. The key support lies at $0.2574, while the immediate resistance lies between $0.3372 and $0.4591. The breakout has coincided with a dramatic surge in Lisk open interest. Lisk (LSK) has captured the attention of crypto investors today as the token experienced a […] The post Lisk (LSK) token price has soared 62%: here’s what is fueling the rally appeared first on CoinJournal .",
-    "ingested_utc": "2025-11-11T19:26:45Z"
-  },
-  {
-    "published_utc": "2025-11-11",
-    "retrieved_date": "2025-11-11",
-    "retrieved_utc": "2025-11-11T19:26:45Z",
-    "source": "CoinJournal",
-    "title": "Cardano enters the global payments arena with Wirex’s multi-chain ADA card",
-    "url": "https://coinjournal.net/news/cardano-enters-the-global-payments-arena-with-wirexs-multi-chain-ada-card/",
-    "id_key": "27a04a273938297b58b38e16096bd62a5cf164f8e9a3c6ba91fd4674c70be41f",
-    "summary": "Cardano and Wirex launch an ADA card supporting 685+ crypto assets. Users can earn up to 8% cashback and access DeFi features. Non-custodial and RWA yield upgrades planned for 2026. Cardano has taken a decisive step toward real-world utility with the launch of its first-ever ADA card, developed in partnership with global fintech firm Wirex […] The post Cardano enters the global payments arena with Wirex’s multi-chain ADA card appeared first on CoinJournal .",
-    "ingested_utc": "2025-11-11T19:26:45Z"
-  },
-  {
-    "published_utc": "2025-11-11",
-    "retrieved_date": "2025-11-11",
-    "retrieved_utc": "2025-11-11T19:26:44Z",
-    "source": "CryptoNews",
-    "title": "Transak Expands Stablecoin Payments with 6 New US State Licenses Amid Fragmented Rules",
-    "url": "https://cryptonews.com/news/transak-6-us-stablecoin-licenses/",
-    "id_key": "1810bc148282d754da8af0a8eabc3ef47583b198bece70d8f647782dc13fedad",
-    "summary": "Transak has secured six new U.S. MTLs, bringing its total to 10 and supporting stablecoin transactions and fiat-to-crypto conversions. With 19 applications pending, it has set a target of full 50-state coverage within 12–18 months and has prepared to roll out ACH after adding wires in August 2025. The post Transak Expands Stablecoin Payments with 6 New US State Licenses Amid Fragmented Rules appeared first on Cryptonews .",
-    "ingested_utc": "2025-11-11T19:26:44Z"
   }
 ]
