@@ -2,6 +2,61 @@
   {
     "published_utc": "2025-11-13",
     "retrieved_date": "2025-11-13",
+    "retrieved_utc": "2025-11-13T17:51:53Z",
+    "source": "NYTimes_Economy",
+    "title": "Canada-U.S. Travel Drops for 10th Month Amid Trump Tariff Tensions",
+    "url": "https://www.nytimes.com/2025/11/13/us/canada-us-travel-decline-flights.html",
+    "id_key": "7112e3c7335847c110227e140812deb55ac932ee969fe91c97a4a2e3df43f8f2",
+    "summary": "The drop has been reflected in air and car travel, according to Canadian statistics. Tensions over tariffs placed by the Trump administration spurred calls for Canadians to spend their money at home.",
+    "ingested_utc": "2025-11-13T17:51:53Z"
+  },
+  {
+    "published_utc": "2025-11-13",
+    "retrieved_date": "2025-11-13",
+    "retrieved_utc": "2025-11-13T17:51:52Z",
+    "source": "NYTimes_Business",
+    "title": "How Unemployment Can Take a Toll on Our Mental Health",
+    "url": "https://www.nytimes.com/2025/11/12/well/mind/unemployment-mental-health.html",
+    "id_key": "3710851f35027fdd0e963c609ebc60a1ceb3f2ab224279e8ba99b193b9488a28",
+    "summary": "The emotional impact of unemployment can be profound, experts say — but speaking up about it and building a support system can help.",
+    "ingested_utc": "2025-11-13T17:51:52Z"
+  },
+  {
+    "published_utc": "2025-11-13",
+    "retrieved_date": "2025-11-13",
+    "retrieved_utc": "2025-11-13T17:50:02Z",
+    "source": "Protos",
+    "title": "CHART: Donald Trump’s presidency hasn’t helped bitcoin",
+    "url": "https://protos.com/chart-donald-trumps-presidency-hasnt-helped-bitcoin/",
+    "id_key": "aea563e98079db2f5ed39db2d67f3a578ba4376703dbd71a7051e45eb0423c95",
+    "summary": "Donald Trump and his administration have embraced BTC, but that hasn't translated to an increase in price. The post CHART: Donald Trump’s presidency hasn’t helped bitcoin appeared first on Protos .",
+    "ingested_utc": "2025-11-13T17:50:02Z"
+  },
+  {
+    "published_utc": "2025-11-13",
+    "retrieved_date": "2025-11-13",
+    "retrieved_utc": "2025-11-13T17:50:01Z",
+    "source": "CryptoBriefing",
+    "title": "Bitcoin faces sell-side pressure as long-term holders sell 815K BTC in 30 days",
+    "url": "https://cryptobriefing.com/bitcoin-sell-pressure-long-term-holders-sell-815k-btc-30-days/",
+    "id_key": "d2074315d68715ad187da43359f0767e3e90a2f528228c250068299296d00f6a",
+    "summary": "Long-term Bitcoin holders sell 815,000 BTC in 30 days, intensifying market supply and pressuring prices amid sluggish buying demand. The post Bitcoin faces sell-side pressure as long-term holders sell 815K BTC in 30 days appeared first on Crypto Briefing .",
+    "ingested_utc": "2025-11-13T17:50:01Z"
+  },
+  {
+    "published_utc": "2025-11-13",
+    "retrieved_date": "2025-11-13",
+    "retrieved_utc": "2025-11-13T17:49:42Z",
+    "source": "Guardian_World",
+    "title": "Cop30 live: ‘We will exterminate ourselves’ if we keep extracting fossil fuels, activists say",
+    "url": "https://www.theguardian.com/environment/live/2025/nov/13/cop30-live-calls-for-just-transition-plan-grow-as-report-warns-world-on-track-for-26c-of-heating",
+    "id_key": "04d1e66fefde3fab1d87af65dda2d775a5328d62f717c1fa0e595f7302fd2222",
+    "summary": "Climate Action Tracker report finds pledges made in past year have not cut the forecast for global heating More than half of all delegation members at Cop30 have withheld or obscured details of their affiliations , potentially concealing conflicts of interest and undermining trust in the Cop process, warns Transparency International. According to the campaign group’s examination of the UNFCCC’s official list of registered participants, 54% of participants in national delegations either did not disclose the type of affiliation they have or selected a vague category such as “Guest” or “Other”. Yet, at Cop30, thousands of delegates still do not share enough information, most from within national delegations. If Cop30 is indeed the Cop of truth, the lresidency and the UNFCCC Secretariat should now commit to reviewing and strengthening participant disclosure rules ahead of future summits, ensuring integrity and accountability at every level. Continue reading...",
+    "ingested_utc": "2025-11-13T17:49:42Z"
+  },
+  {
+    "published_utc": "2025-11-13",
+    "retrieved_date": "2025-11-13",
     "retrieved_utc": "2025-11-13T17:37:47Z",
     "source": "FinancialPost_Business",
     "title": "JAKALA takes part in IESE’s Futuro Digital event, presenting Spain’s first corporate AI success stories",
@@ -10943,60 +10998,5 @@
     "id_key": "538e67fce25e94aa123f926e39fe602543c11c9b4e99ad023847cfcc886885ae",
     "summary": "Internal party memo says ‘trust has been lost’ as US president reiterates threat of legal action against corporation Trump to sue BBC – latest updates Reform UK has pulled out of a BBC documentary about the party amid a row over the broadcaster’s editing of a Donald Trump speech. The film, which was due to be called the Rise of Reform and would have been presented by Laura Kuenssberg, was being made by an independent production company, October Films. Continue reading...",
     "ingested_utc": "2025-11-12T08:18:56Z"
-  },
-  {
-    "published_utc": "2025-11-12",
-    "retrieved_date": "2025-11-12",
-    "retrieved_utc": "2025-11-12T08:18:53Z",
-    "source": "BBC_World",
-    "title": "Watch: Protesters clash with security at COP30 climate talks in Brazil",
-    "url": "https://www.bbc.com/news/videos/c4gkyx4r190o?at_medium=RSS&at_campaign=rss",
-    "id_key": "47852f80694b54a09efbe8b65951c139491446b9c0890ad5a7841284e35777b7",
-    "summary": "Demonstrators, some wearing traditional indigenous dress, broke through security lines of the UN climate summit.",
-    "ingested_utc": "2025-11-12T08:18:53Z"
-  },
-  {
-    "published_utc": "2025-11-12",
-    "retrieved_date": "2025-11-12",
-    "retrieved_utc": "2025-11-12T08:17:26Z",
-    "source": "CryptoNews",
-    "title": "Coinbase Business Launches in Singapore, Bringing USDC Payments, Crypto Tools to Startups",
-    "url": "https://cryptonews.com/news/coinbase-business-launches-in-singapore-bringing-usdc-payments-crypto-tools-to-startups/",
-    "id_key": "22ccfea6f625f0767da6fc63dc6e5f1b6d562b9d2fd3bba5249027a1cd7660b1",
-    "summary": "Coinbase has expanded its reach beyond the United States with the official launch of Coinbase Business in Singapore. The post Coinbase Business Launches in Singapore, Bringing USDC Payments, Crypto Tools to Startups appeared first on Cryptonews .",
-    "ingested_utc": "2025-11-12T08:17:26Z"
-  },
-  {
-    "published_utc": "2025-11-12",
-    "retrieved_date": "2025-11-12",
-    "retrieved_utc": "2025-11-12T07:50:28Z",
-    "source": "Guardian_World",
-    "title": "New sleeper services will run from Paris to Berlin next year",
-    "url": "https://www.theguardian.com/travel/2025/nov/12/new-european-sleeper-service-berlin-vienna",
-    "id_key": "185a28859abc3dd616ead58614e142ce799776b8abdc00622df4e1c5a91b04b4",
-    "summary": "European Sleeper will operate the new service from March 2026, replacing the Nightjet train that is being axed next month The resurgence of sleeper trains on the continent hit a kink in the tracks in September, when the Austrian state operator ÖBB announced that it would be axing its two Nightjet services – Paris to Vienna and Paris to Berlin – from 14 December. ÖBB cited the French government’s ending of subsidies, dealing a blow to the night-train renaissance . However, there is light at the end of the tunnel. European Sleeper has told the Guardian that it will be taking over the route from Paris to Berlin, with the first train to run on 26 March 2026. The train will operate three times a week with departures likely to be from Paris Gare du Nord on Tuesday, Thursday and Sunday evenings and the return service from Berlin Hauptbahnhof and Ostbahnhof on Monday, Wednesday and Friday. The current Nightjet service departs Paris Gare de l’Est just after 7pm and winds east via Strasbourg, Frankfurt, Erfurt and Halle before arriving in Berlin around 8.30am. European Sleeper intends to make the journey via Brussels, with precise route details and timings currently being confirmed with infrastructure managers in France, Belgium and Germany. Continue reading...",
-    "ingested_utc": "2025-11-12T07:50:28Z"
-  },
-  {
-    "published_utc": "2025-11-12",
-    "retrieved_date": "2025-11-12",
-    "retrieved_utc": "2025-11-12T07:48:34Z",
-    "source": "BBC_World",
-    "title": "Serbia's energy reliance on Russia comes unstuck facing US oil sanctions",
-    "url": "https://www.bbc.com/news/articles/c8032k0exnmo?at_medium=RSS&at_campaign=rss",
-    "id_key": "90f7765c914cbc2a396c0ccd7ddc5a88d71c3ad82886486c9cbaba10f73a18af",
-    "summary": "President Vucic has traded barbs with the Kremlin amid differences over gas supplies and Serbia's arms trade.",
-    "ingested_utc": "2025-11-12T07:48:34Z"
-  },
-  {
-    "published_utc": "2025-11-12",
-    "retrieved_date": "2025-11-12",
-    "retrieved_utc": "2025-11-12T07:44:26Z",
-    "source": "AlJazeera_All",
-    "title": "Australia, Indonesia agree to upgraded defence pact",
-    "url": "https://www.aljazeera.com/news/2025/11/12/australia-indonesia-agree-to-upgraded-defence-pact?traffic_source=rss",
-    "id_key": "8eb7491cbf96f09809263ed5750ab53e42307f568ec9bb4817d7515d99a6cafb",
-    "summary": "The security pact, to be signed in January, pledges both countries to consult each other on security concerns.",
-    "ingested_utc": "2025-11-12T07:44:26Z"
   }
 ]
