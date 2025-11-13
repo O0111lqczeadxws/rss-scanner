@@ -2,6 +2,72 @@
   {
     "published_utc": "2025-11-13",
     "retrieved_date": "2025-11-13",
+    "retrieved_utc": "2025-11-13T08:49:22Z",
+    "source": "AlJazeera_All",
+    "title": "Can Trump dole out $2,000 tariff dividends, direct healthcare payments?",
+    "url": "https://www.aljazeera.com/news/2025/11/13/can-trump-dole-out-2000-tariff-dividends-direct-healthcare-payments?traffic_source=rss",
+    "id_key": "981010800b7383726a6797a90c81cbd1bfb926c94d43af74c29f01f8c4265488",
+    "summary": "Trump floats the idea of tariff dividends, direct healthcare payments and extending mortgages up to 50 years.",
+    "ingested_utc": "2025-11-13T08:49:22Z"
+  },
+  {
+    "published_utc": "2025-11-13",
+    "retrieved_date": "2025-11-13",
+    "retrieved_utc": "2025-11-13T08:48:55Z",
+    "source": "FT_Home",
+    "title": "US drew $900mn from IMF account as Argentina debt payment loomed",
+    "url": "https://www.ft.com/content/273085f7-90e7-4187-b30d-5fac132147b5",
+    "id_key": "44e14527b9bddac196d3813f722e7be247405556a88364ed66395e34909ff65c",
+    "summary": "Buenos Aires’s reserves rose by the same margin as Washington seeks to bolster Javier Milei’s government",
+    "ingested_utc": "2025-11-13T08:48:55Z"
+  },
+  {
+    "published_utc": "2025-11-13",
+    "retrieved_date": "2025-11-13",
+    "retrieved_utc": "2025-11-13T08:48:01Z",
+    "source": "Arbitrum_Nitro_Releases",
+    "title": "Arbitrum Nitro v3.9.0",
+    "url": "https://github.com/OffchainLabs/nitro/releases/tag/v3.9.0",
+    "id_key": "56d88ad4cd43bf0af1f14ab1824757eab2809434c456402576ff75d5ed6cf231",
+    "summary": "This release adds support for ArbOS50, all nodes are required to upgrade before ArbOS50 is enabled on each respective chain. This release is available as a Docker Image on Docker Hub at offchainlabs/nitro-node:TBD This Docker image specifies default flags in its entrypoint which should be replicated if you're overriding the entrypoint: /usr/local/bin/nitro --validation.wasm.allowed-wasm-module-roots /home/user/nitro-legacy/machines,/home/user/target/machines If you're running a validator without a split validation server (this will be true of most validators), you should instead use the image offchainlabs/nitro-node:TBD-validator which has the extra script /usr/local/bin/split-val-entry.sh as the entrypoint (no need to override the default entrypoint). Configuration Changes --execution.rpc.state-scheme has been removed What's Changed Added support for ArbOS50 and various bug fixes and improvements. User-facing Changes Add support for new beacon chain /blobs endpoint: #3830 Add OverwriteContractCode method to ArbDebug precompile: #3867 Optional graceful shutdown if block hash from feed mismatches with locally computed one: #3859 Allow archive mode for path scheme: #3932 Internal Highlights Hide blob-related DataPoster config in some contexts: #3810 Correct the order TransactionStreamer and PopulateFeedBacklog: #3812 avoid unnecessary warnings from sequencer expectedSurplus mechanism: #3784 Add a BoLD system test that uses external signer: #3753 Enable EIP7883 and EIP7823 for Arbos50: #3807 make stylus usage of result more consistent: #3809 Reject Estimates for BoLD Txs that Exceed Fusaka's Max Tx Gas Cap: #3814 mel: rename DelayedMessagedSeen to DelayedMessagesSeen: #3789 stabilize database conversion test: #3783 For L3 on arbitrum return false for shouldEnableCellProofs instread of erroring out: #3825 don't open freezer for wasm and arbitrumdata databases: #3828 Toggle blobs rpc endpoint used on errors: #3834 Fix out of bounds config access in dataposter: #3838 update testnode pin: #3736 getNextBlockToRead does not depend on FillInBatchGasField: #3851 Add linter for imposible json omitempty: #3849 Prevent HTTP connection reuse in BlobClient error recovery: #3811 Use structured logging for startup error: #3840 Add test for \"Regression in v3.8.x PopulateFeedBacklog depends on un-started InboxReader\": #3847 Exclude BatchDataStats from feed for old ArbOS versions: #3853 Don't treat error as fatal when signature behavior fails: #3852 Add gas constraints to L2 Pricing storage: #3861 Identify already exists errors correctly while creating assertions: #3875 Fix broadcast client shutdown deadlock: #3882 Turn off feed-signed flag for sepolia: #3891 DA client: use streaming optionally: #3884 validator api: json unit test: #3894 Compute gas price based on multiple constraints: #3872 During the ArbOS 50 Upgrade also SetMaxWASMStackDepth 22k: #3888 Make 'chain is catching up to the execution state' logs info level: #3869 Add hardcoded transaction hash for ArbSepolia: #3876 Add option to pull Chain Configs in parent.go from a json file: #3856 Avoid races in system_tests changing config by making the changes atomic: #3829 Update gas in hardcoded transaction hash for arbSepolia: #3901 Fix fast confirm not working for EOA on pre - bold: #3902 Unify ExecutionClient interface: remove unnecessary context: #3883 Add proof enhancer system with customda enhancers: #3750 Pin cbindgen to version 0.24.3: #3905 Show more details in failed blob fetch logs: #3881 Rewrite SequencingHooks as an interface and don't stop sequencing on large transactions: #3821 Fix unknown multi-gas: #3906 Prevent nil deref in downloadFile when checking HTTPResponse on error: #3842 Script behavior for safer execution and error handling: #3823 Check multi-dimensional gas in block re-execution: #3791 Fix SCW initialization bug in staker: #3695 Fix Fusaka Cell Proof support for external signers: #3910 Arbos version getter: #3893 Replace period with inertia in multi constraints: #3913 remove lock when setting finality data: #3916 update sepolia contract address: #3917 Add precompiles for Multi-Constraint Pricer: #3860 Full ReferenceDA implementation: #3873 Make TestEthSyncing not flaky: #3920 Test enable and disable multi constraint pricer: #3919 Add support for consensus v50 (rc.6) to Docker: #3925 Test that batch poster actually posts blobs to L1: #3918 Change memory limit warning to error for block_validator: #3938 Add comment about extra Multi-Constraint pricer read cost: #3943 Update check-build.sh: #3937 Fix PopulateFeedBacklog implementation: #3953 Remove redundant DataStreamer retry mechanism: #3959 Address a bunch of new lint errors: #3944 Fix tests anytrust legacy fallback and signing: #3930 Bump github.com/consensys/gnark-crypto from 0.18.0 to 0.18.1: #3934 Check for failures during state initialization: #3898 Transient nonce too high should not log error right away: #3939 Add tx streamer message processing duration metric: #3698 Enhance Promise API: #3899 Fix datool rpc client opts: #3963 Added periodic log during FindLastAvailableState: #3951 Update geth pin to include pathdb rpc changes + enabling pathdb archival mode for tests + added tests: #3945 Add execution.caching.pathdb-max-diff-layers config option: #3966 Fix ValidationInput exhaustive initialization: #3924 Add cmd-line tool to simulate the l2pricing model: #3970 Investigate and fix flakey go-tests Build step: #3971 Add support for consensus-v50 to docker: #3984 Set max ArbOS version to v50: #3986 Remove internal daprovider server for AnyTrust: #3992 Add back split-val-entry: #3999 Full Changelog : v3.8.0...v3.9.0",
+    "ingested_utc": "2025-11-13T08:48:01Z"
+  },
+  {
+    "published_utc": "2025-11-13",
+    "retrieved_date": "2025-11-13",
+    "retrieved_utc": "2025-11-13T08:46:37Z",
+    "source": "Guardian_World",
+    "title": "‘I’d do it all again,’ says Dutch minister at heart of car chip standoff with China",
+    "url": "https://www.theguardian.com/business/2025/nov/13/netherlands-china-nexperia-row-global-car-industry",
+    "id_key": "b29dc9e15bedfaf93aab34ce20e1ad6029d18a88c0be35f7ad23d6ea65be1ce0",
+    "summary": "Exclusive: Vincent Karremans says row with Beijing that threatened global car production is ‘wake-up call’ to west A bitter battle over the future of a Chinese-owned chipmaker in the Netherlands that threatened to cripple the global car industry is a “wake-up call to Europe and the west”, the minister at the heart of the row has warned. The six-week standoff between the EU and Beijing over Nexperia and its vital supplies of automotive semiconductors has served up a sobering lesson to world leaders over their dependency on China, says Vincent Karremans. Continue reading...",
+    "ingested_utc": "2025-11-13T08:46:37Z"
+  },
+  {
+    "published_utc": "2025-11-13",
+    "retrieved_date": "2025-11-13",
+    "retrieved_utc": "2025-11-13T08:46:37Z",
+    "source": "Guardian_World",
+    "title": "If No 10 briefer is found Keir Starmer will sack them, minister says",
+    "url": "https://www.theguardian.com/politics/2025/nov/13/if-no-10-briefer-found-keir-starmer-will-sack-them-minister-says",
+    "id_key": "5d9fd50b0dc4f61274f5b4d2fcc4b7a5d08b9abd5003f6bcd461dc971ee1b07f",
+    "summary": "Ed Miliband says PM would not have backed attacks on Wes Streeting but briefing is ‘longstanding aspect of politics’ Ed Miliband has said he was certain Keir Starmer would sack whoever had briefed against Wes Streeting, after a chaotic 48 hours in which No 10 launched an operation to shore up the prime minister against an anticipated leadership challenge. The prime minister apologised to the health secretary in a phone call with him late on Wednesday. Starmer is facing mounting calls to sack his chief of staff, Morgan McSweeney, over the row. Continue reading...",
+    "ingested_utc": "2025-11-13T08:46:37Z"
+  },
+  {
+    "published_utc": "2025-11-13",
+    "retrieved_date": "2025-11-13",
+    "retrieved_utc": "2025-11-13T08:46:33Z",
+    "source": "BBC_World",
+    "title": "South Sudan leader sacks powerful Vice-President Bol Mel",
+    "url": "https://www.bbc.com/news/articles/ceq0e7q7vl8o?at_medium=RSS&at_campaign=rss",
+    "id_key": "efd74c5679c9cf4c72aeabb5317cceaf0a7316671d5a7d997e8e4d91c156f842",
+    "summary": "Bol Mel, who is sanctioned by the US for alleged corruption, had been tipped as Kiir's successor.",
+    "ingested_utc": "2025-11-13T08:46:33Z"
+  },
+  {
+    "published_utc": "2025-11-13",
+    "retrieved_date": "2025-11-13",
     "retrieved_utc": "2025-11-13T08:18:38Z",
     "source": "Engadget_All",
     "title": "Our favorite 2025 advent calendars from Lego, Pokémon, Funko Pop, Magna-Tiles and more",
@@ -10932,71 +10998,5 @@
     "id_key": "adfdcdf3afcfa0de3cca1aee3aa22d5f65f2897b73b009bc760f8cf5e460d8f1",
     "summary": "Ethereum exchange supply hit multi-month lows, indicating substantial accumulation. Solana price weakens as bears threaten a move below $163 – $165. ZEC lost 25% the past 24 hours after robust gains over the previous few sessions. Cryptocurrencies displayed mixed performances on Tuesday, with most tokens losing momentum after yesterday’s gains. The value of all digital […] The post Altcoins: ETH supply hits record lows, SOL price at key juncture, ZEC dips 25% appeared first on CoinJournal .",
     "ingested_utc": "2025-11-11T16:15:40Z"
-  },
-  {
-    "published_utc": "2025-11-11",
-    "retrieved_date": "2025-11-11",
-    "retrieved_utc": "2025-11-11T16:14:45Z",
-    "source": "Guardian_World",
-    "title": "House to take up stopgap funding bill to end shutdown after Senate approval leaves Democrats split – US politics live",
-    "url": "https://www.theguardian.com/us-news/live/2025/nov/11/donald-trump-us-government-shutdown-senate-democrats-republicans-politics-live-news-updates",
-    "id_key": "3026cfe7dbbc950af6fc5607dbb1513959ac279c747daa7063f7b81d60a5d0fb",
-    "summary": "Deal will now head to the House but many Democrats are enraged with minority leader Chuck Schumer and colleagues who supported the measure How US senators voted on the shutdown-ending budget bill US flight cancellations and delays to get worse even if shutdown ends As the supreme court deliberates on the fate of Donald Trump’s sweeping tariffs – which he maintains are a matter of “national security” as justices appeared skeptical during oral arguments on the case last week – the president said that the US would be forced to hand “in excess of three trillion dollars” if the levies are scrapped, in a late night post on Truth Social. He added: It would not be possible to ever make up for that kind of a ‘drubbing.’ That would truly become an insurmountable National Security Event, and devastating to the future of our Country – Possibly non-sustainable! Continue reading...",
-    "ingested_utc": "2025-11-11T16:14:45Z"
-  },
-  {
-    "published_utc": "2025-11-11",
-    "retrieved_date": "2025-11-11",
-    "retrieved_utc": "2025-11-11T15:53:57Z",
-    "source": "FinancialPost_Business",
-    "title": "A global oil glut is looming, but these forces could turn it around",
-    "url": "https://financialpost.com/commodities/energy/oil-gas/what-driving-oil-markets-prices",
-    "id_key": "3d4cd21ff9bdef4db2cf89d13fc3354eb7de5ed3808de04e8a5f451635f914f3",
-    "summary": "Watch Rory Johnston on what is driving crude markets and prices right now",
-    "ingested_utc": "2025-11-11T15:53:57Z"
-  },
-  {
-    "published_utc": "2025-11-11",
-    "retrieved_date": "2025-11-11",
-    "retrieved_utc": "2025-11-11T15:53:57Z",
-    "source": "FinancialPost_Business",
-    "title": "Red Sea Global Announces the Opening of AMAALA: The World’s New Coastal Lifestyle Destination",
-    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/red-sea-global-announces-the-opening-of-amaala-the-worlds-new-coastal-lifestyle-destination",
-    "id_key": "e515c3054cef34b2cdaac944d5b53b21fa9ec97d92966ccd29e0bfad3385bd63",
-    "summary": "With spectacular resorts, an exclusive yacht club, and world-leading marine life institute, RSG’s latest destination sets new global standards for holistic wellness and environmental stewardship RIYADH, Saudi Arabia — Red Sea Global (RSG), the real estate developer and pioneer of regenerative tourism, announced the highly anticipated opening of AMAALA Triple Bay during the inaugural […]",
-    "ingested_utc": "2025-11-11T15:53:57Z"
-  },
-  {
-    "published_utc": "2025-11-11",
-    "retrieved_date": "2025-11-11",
-    "retrieved_utc": "2025-11-11T15:53:57Z",
-    "source": "FinancialPost_Business",
-    "title": "Bond Acquires Armadillo – A Leading UK Relationship Marketing Agency",
-    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/bond-acquires-armadillo-a-leading-uk-relationship-marketing-agency",
-    "id_key": "f803aa5dc0f73d16634b46d480b1fdfe046677d15a5d8622cc3619854a6d36ad",
-    "summary": "Combined Offering of Loyalty, Customer Intelligence, AI-Powered Personalization and CRM Will Accelerate Customer Growth for Clients DENVER — Bond, the leading customer intelligence-driven engagement company backed by Mountaingate Capital, has acquired Armadillo, an award-winning UK CRM agency. The acquisition further strengthens Bond’s ability to help global brands activate intelligence across nearly 200 million consumer profiles […]",
-    "ingested_utc": "2025-11-11T15:53:57Z"
-  },
-  {
-    "published_utc": "2025-11-11",
-    "retrieved_date": "2025-11-11",
-    "retrieved_utc": "2025-11-11T15:53:57Z",
-    "source": "FinancialPost_Business",
-    "title": "Swiss Billionaires Pivotal in Wooing Trump Ahead of Tariff Deal",
-    "url": "https://financialpost.com/pmn/business-pmn/swiss-billionaires-pivotal-in-wooing-trump-ahead-of-tariff-deal",
-    "id_key": "86a27f1635bff742f4a4c5dea1f0246d7809b5a9a6675db89aecad70e67e5e20",
-    "summary": "As Switzerland closes in on a deal with the US to lower tariffs on the country, it will owe thanks to some of its richest executives who played a key role in wooing President Donald Trump.",
-    "ingested_utc": "2025-11-11T15:53:57Z"
-  },
-  {
-    "published_utc": "2025-11-11",
-    "retrieved_date": "2025-11-11",
-    "retrieved_utc": "2025-11-11T15:53:51Z",
-    "source": "AlJazeera_All",
-    "title": "Pakistan says ‘India proxies’ behind Islamabad bombing: What we know so far",
-    "url": "https://www.aljazeera.com/news/2025/11/11/pakistan-says-india-proxies-behind-islamabad-bombing-what-we-know-so-far?traffic_source=rss",
-    "id_key": "45b6374cca4207ff386427e8fc6fa7f2ab5da1b85a7e949547b095d19aa84b28",
-    "summary": "'Suicide' blast at court complex kills 12, injures more than 30, a day after a deadly explosion in the Indian capital.",
-    "ingested_utc": "2025-11-11T15:53:51Z"
   }
 ]
