@@ -739,6 +739,17 @@
   {
     "published_utc": "2025-11-14",
     "retrieved_date": "2025-11-15",
+    "retrieved_utc": "2025-11-15T06:47:56Z",
+    "source": "FT_Home",
+    "title": "The soaring price of a steak",
+    "url": "https://www.ft.com/content/779851b3-4d56-4b90-baf1-851097c1ec88",
+    "id_key": "497c4a0874febe575e05a5689deaae182e41dad47f8b5e51e10fe4416a50c88d",
+    "summary": "Beef costs have risen sharply in many countries, adding to the pressure on living standards and bringing Donald Trump into conflict with ranchers",
+    "ingested_utc": "2025-11-15T06:47:56Z"
+  },
+  {
+    "published_utc": "2025-11-14",
+    "retrieved_date": "2025-11-15",
     "retrieved_utc": "2025-11-15T04:37:40Z",
     "source": "TheStreet_Top",
     "title": "Scott Galloway channels Warren Buffett; outlines major U.S. plan",
@@ -10986,17 +10997,6 @@
     "url": "https://www.theguardian.com/world/live/2025/nov/13/volodymyr-zelenskyy-ukraine-russia-corruption-brussels-news-updates-europe-live",
     "id_key": "71a5648f17c4858567d40549a95e808ff33bff8867677974ccf47bf74fe35103",
     "summary": "Yulia Svyrydenko says government will conduct major audit of Energoatom and other state-owned firms in bid to fight corruption allegations A bitter battle over the future of a Chinese-owned chipmaker in the Netherlands that threatened to cripple the global car industry is a “wake-up call to Europe and the west”, the minister at the heart of the row has warned. The six-week standoff between the EU and Beijing over Nexperia and its vital supplies of automotive semiconductors has served up a sobering lesson to world leaders over their dependency on China, says Vincent Karremans. Continue reading...",
-    "ingested_utc": "2025-11-13T15:49:58Z"
-  },
-  {
-    "published_utc": "2025-11-13",
-    "retrieved_date": "2025-11-13",
-    "retrieved_utc": "2025-11-13T15:49:58Z",
-    "source": "Guardian_World",
-    "title": "Two-thirds of women in UK military have been sexually harassed in past year, survey finds",
-    "url": "https://www.theguardian.com/uk-news/2025/nov/13/women-uk-military-sexual-harassment-assault-mod-survey",
-    "id_key": "43393403cd2facfd65b4e587dada8badee5f4e7131f3a3b16311ec74612b7eef",
-    "summary": "Official MoD survey also finds nearly one in 10 have been subject to non-consensual sexual activity, and a third have been groped or touched Nearly one in 10 women serving in the British military have been subjected to an assault or other non-consensual sexual activity in the previous year, according to the first official survey of sexual harassment across the armed forces. A third said they had been groped or touched in a way that made them feel uncomfortable, according to the Ministry of Defence , and two-thirds reported at least one form of sexual harassment or sexualised behaviour, proportions significantly higher than their male counterparts across the army, navy and air force. Continue reading...",
     "ingested_utc": "2025-11-13T15:49:58Z"
   }
 ]
