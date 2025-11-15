@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-11-15",
     "retrieved_date": "2025-11-15",
+    "retrieved_utc": "2025-11-15T23:27:16Z",
+    "source": "Guardian_World",
+    "title": "Teenager charged with murder after death of girl, 17, in South Wales",
+    "url": "https://www.theguardian.com/uk-news/2025/nov/15/teenager-charged-with-after-death-of-girl-17-in-south-wales",
+    "id_key": "d37f33e79dc0cc2ca51cd586391fd7bd9b3e3a61b5313f1372a9a1f28cb5c9c6",
+    "summary": "Gwent police name victim as Lainie Williams and have charged Cameron Cheng, 18, a British national A teenager has been charged with murder after a 17-year-old girl was killed in South Wales. The girl, named as Lainie Williams, was pronounced dead at the scene, Gwent police said. Continue reading...",
+    "ingested_utc": "2025-11-15T23:27:16Z"
+  },
+  {
+    "published_utc": "2025-11-15",
+    "retrieved_date": "2025-11-15",
     "retrieved_utc": "2025-11-15T23:14:10Z",
     "source": "HackerNews_Top",
     "title": "Nevada Governor's office covered up Boring Co safety violations",
@@ -10987,16 +10998,5 @@
     "id_key": "fc11c165cc5dad8ed4e7b0a70c8887b5624ed7282c8fa7f1ad6f008db7afba02",
     "summary": "More than 3,000 workers who make fighter jets and weapons in the St. Louis area have been on strike for over three months.",
     "ingested_utc": "2025-11-13T20:16:03Z"
-  },
-  {
-    "published_utc": "2025-11-13",
-    "retrieved_date": "2025-11-13",
-    "retrieved_utc": "2025-11-13T20:15:55Z",
-    "source": "MarketWatch_Bulletins",
-    "title": "Dow losing over 750 points, Nasdaq shedding around 2.5% in final hour — live",
-    "url": "https://www.marketwatch.com/bulletins/redirect/go?g=a961af08-b594-4d1e-9355-c2c43ad1350b&mod=mw_rss_bulletins",
-    "id_key": "48de048983cd4cf9567ff1038f9daf579af67332650293b680cd84b5b621cc9f",
-    "summary": "",
-    "ingested_utc": "2025-11-13T20:15:55Z"
   }
 ]
