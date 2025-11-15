@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-11-15",
     "retrieved_date": "2025-11-15",
+    "retrieved_utc": "2025-11-15T22:50:42Z",
+    "source": "FinancialPost_Business",
+    "title": "China Climate Advisers Warn Trade Barriers Hinder Emission Goals",
+    "url": "https://financialpost.com/pmn/business-pmn/china-climate-advisers-warn-trade-barriers-hinder-emission-goals",
+    "id_key": "98da412cae5b2771abea2ffb7c2d94fe6d07244e2a5d7be3df73d7feab472ac2",
+    "summary": "Members of the team representing China at the COP30 summit said trade rules and restrictions, including US President Donald Trump’s tariffs and measures adopted by the EU, are undermining global efforts to limit warming and are weakening climate ambition.",
+    "ingested_utc": "2025-11-15T22:50:42Z"
+  },
+  {
+    "published_utc": "2025-11-15",
+    "retrieved_date": "2025-11-15",
+    "retrieved_utc": "2025-11-15T22:50:34Z",
+    "source": "TheStreet_Top",
+    "title": "Walmart is selling a $400 cordless stick vacuum for just $110 ahead of Black Friday",
+    "url": "https://www.thestreet.com/deals/inse-cordless-stick-vacuum-walmart-sale-black-friday-2025",
+    "id_key": "7fdeb01c84a5e5a81fd0347a083e0b6703ae33b90ff710236f35ca9b0b65061a",
+    "summary": "\"This [vacuum] does just as well for less than half the price.\"",
+    "ingested_utc": "2025-11-15T22:50:34Z"
+  },
+  {
+    "published_utc": "2025-11-15",
+    "retrieved_date": "2025-11-15",
+    "retrieved_utc": "2025-11-15T22:50:07Z",
+    "source": "FT_Home",
+    "title": "UK to curtail asylum seekers’ automatic right to accommodation",
+    "url": "https://www.ft.com/content/83b677d0-23f8-4769-9c97-02451794985e",
+    "id_key": "f952f4609704d1216d034f6243bbb3cf0932c56c181a387fd89679bd453fb8cc",
+    "summary": "Home secretary says Britain’s ‘generosity’ is ‘drawing illegal migrants’",
+    "ingested_utc": "2025-11-15T22:50:07Z"
+  },
+  {
+    "published_utc": "2025-11-15",
+    "retrieved_date": "2025-11-15",
     "retrieved_utc": "2025-11-15T22:38:08Z",
     "source": "Guardian_World",
     "title": "UK government set to make support for asylum seekers ‘discretionary’",
@@ -10965,38 +10998,5 @@
     "id_key": "fded17d877f269c07350bf2b34035fa5c754937b37d0c7d2041b917a1b93f892",
     "summary": "Berlin has agreed a new military service plan to boost troop numbers to 260,000 by 2035.",
     "ingested_utc": "2025-11-13T20:13:41Z"
-  },
-  {
-    "published_utc": "2025-11-13",
-    "retrieved_date": "2025-11-13",
-    "retrieved_utc": "2025-11-13T20:13:41Z",
-    "source": "BBC_World",
-    "title": "Israel receives body Hamas says belongs to hostage",
-    "url": "https://www.bbc.com/news/articles/czxnerkx5pgo?at_medium=RSS&at_campaign=rss",
-    "id_key": "506354fc85dead78ad6a2eb4895e4bd097f7a5e66e637b5f64def2ef4a0b3b7f",
-    "summary": "Confirmation of the remains would mean that only three deceased hostages' bodies now remain in Gaza.",
-    "ingested_utc": "2025-11-13T20:13:41Z"
-  },
-  {
-    "published_utc": "2025-11-13",
-    "retrieved_date": "2025-11-13",
-    "retrieved_utc": "2025-11-13T20:13:41Z",
-    "source": "BBC_World",
-    "title": "Deadly Rio police raid failed to loosen gang's iron grip, residents say",
-    "url": "https://www.bbc.com/news/articles/c62012e6g9lo?at_medium=RSS&at_campaign=rss",
-    "id_key": "c85e8378d1f7e18be976a9fceb849734d2d6f799553b8cb8e89a19cf7ab8e6cc",
-    "summary": "More than 120 people were killed in the raid which targeted the Comando Vermelho criminal gang.",
-    "ingested_utc": "2025-11-13T20:13:41Z"
-  },
-  {
-    "published_utc": "2025-11-13",
-    "retrieved_date": "2025-11-13",
-    "retrieved_utc": "2025-11-13T19:50:35Z",
-    "source": "FinancialPost_Business",
-    "title": "Brookfield Corp. leans into AI for growth with US$178 billion in ready capital",
-    "url": "https://financialpost.com/pmn/brookfield-corp-leans-into-ai-for-growth-with-us178-billion-in-ready-capital",
-    "id_key": "d64861cd108c6e15e4f12f22e41dd09f564e161d721d86de9e1edcfe57273c32",
-    "summary": "TORONTO — The scale of demand for energy and infrastructure to support AI growth is leading Brookfield Corp. to invest most of its time and money on the sector, the company says. “Most of the capital deployment, and the focus that we have today, is around building the backbone infrastructure to support the buildout of […]",
-    "ingested_utc": "2025-11-13T19:50:35Z"
   }
 ]
