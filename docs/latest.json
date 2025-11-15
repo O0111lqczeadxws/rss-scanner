@@ -2,6 +2,83 @@
   {
     "published_utc": "2025-11-15",
     "retrieved_date": "2025-11-15",
+    "retrieved_utc": "2025-11-15T14:12:14Z",
+    "source": "TheStreet_Top",
+    "title": "Goldman Sachs unveils stock market forecast through 2035",
+    "url": "https://www.thestreet.com/investing/goldman-sachs-unveils-stock-market-forecast-through-2035",
+    "id_key": "48ef4ad2a9a7f24e5d9961ea15b17d2f2d091ae8c333aecc295b4c32f5952213",
+    "summary": "Goldman Sachs has quietly dropped a rare stock market forecast, which stretches all the way to 2035, while delivering a twist most U.S. investors won’t love. Following a decade that has been defined by tech-fueled gains along with expanding valuations, Goldman feels the next decade will look ...",
+    "ingested_utc": "2025-11-15T14:12:14Z"
+  },
+  {
+    "published_utc": "2025-11-15",
+    "retrieved_date": "2025-11-15",
+    "retrieved_utc": "2025-11-15T14:12:06Z",
+    "source": "Engadget_All",
+    "title": "Amazon Black Friday deals: Pick up the Fire TV Stick 4K Max for only $35",
+    "url": "https://www.engadget.com/deals/amazon-black-friday-deals-pick-up-the-fire-tv-stick-4k-max-for-only-35-132100145.html?src=rss",
+    "id_key": "d3665340e1f7a4c3a8564dc5cb818a5b90a5b20b407fbf380665807b2f8e3a2e",
+    "summary": "Amazon Black Friday deals almost always include discounts on Fire TV devices and Fire TV sets . This year is no different, and some of the best discounts bring Fire TV streaming dongles down to near record-low prices. Case in point: the Fire TV Stick 4K Max is 41 percent off and down to only $35. The Fire TV Stick 4K Max is one of Engadget's favorite streaming devices . The stick supports a solid mix of advanced technologies for its price: Dolby Vision, Dolby Atmos, 4K and HDR10+. As long as the rest of your entertainment setup can handle it, you'll get a high-quality picture and sound. It also supports Wi-Fi 6E , enabling better, faster connectivity with compatible routers. The 4K Max has the fastest processor of any Amazon Fire TV Stick, so expect zippy navigation. It also supports Amazon's Ambient Experience. This mode displays art (like on Samsung's The Frame ) while the device is in standby. It's also a solid choice for gaming: It supports Xbox cloud streaming and works well as a retro game emulator , too. The UI is where Amazon appears to be subsidizing the device's low cost. Expect to see loads of Prime Video content promos, along with other ads. But for $35 (compared to its MSRP of $60), you may find it easier to justify that tradeoff. Also on sale is Amazon's Fire TV Stick HD , our pick for the best budget streaming stick. This model doesn't support 4K; instead, it limits you to 1080p at 60 fps. At $18 for Black Friday, it's certainly cheap. But if you have a 4K TV (or plan to soon), you may want to consider the slightly more expensive model. This article originally appeared on Engadget at https://www.engadget.com/deals/amazon-black-friday-deals-pick-up-the-fire-tv-stick-4k-max-for-only-35-132100145.html?src=rss",
+    "ingested_utc": "2025-11-15T14:12:06Z"
+  },
+  {
+    "published_utc": "2025-11-15",
+    "retrieved_date": "2025-11-15",
+    "retrieved_utc": "2025-11-15T14:12:06Z",
+    "source": "Engadget_All",
+    "title": "OpenAI says ChatGPT will listen if you tell it not to use em dashes",
+    "url": "https://www.engadget.com/ai/openai-says-chatgpt-will-listen-if-you-tell-it-not-to-use-em-dashes-140000927.html?src=rss",
+    "id_key": "d62e7eec8e8b0d6cd48c5b6526f251d6434dc986510357da8ddcf84aeab40f97",
+    "summary": "You may now have to scrutinize what you read on the internet (and event on print ) more closely to determine if it’s the product of AI. Sam Altman has revealed on X that if you tell ChatGPT not to use em dashes in your custom instructions, the chatbot will now finally listen to you. Previously, ChatGPT would ignore your instruction and continue using em dashes even if you tell it not to. Small-but-happy win: If you tell ChatGPT not to use em-dashes in your custom instructions, it finally does what it's supposed to do! — Sam Altman (@sama) November 14, 2025 People are treating the presence of em dashes, especially if they’re used in abundance, as one of the biggest tells if something was written by large language models. Of course, just because a piece of text uses em dashes doesn’t mean it was actually written by AI, but people have become suspicious of any writing that uses the punctuation mark. It’s not quite clear while generative AI models have the tendency to pepper the text they generate with em dashes. LLMs are trained on a vast number of books and online content, such as scientific papers, posts on public forums and articles like this. It’s possible that punctuation mark appears so often in training materials and isn’t flagged by AI trainers as something that the LLM should avoid using. This article originally appeared on Engadget at https://www.engadget.com/ai/openai-says-chatgpt-will-listen-if-you-tell-it-not-to-use-em-dashes-140000927.html?src=rss",
+    "ingested_utc": "2025-11-15T14:12:06Z"
+  },
+  {
+    "published_utc": "2025-11-15",
+    "retrieved_date": "2025-11-15",
+    "retrieved_utc": "2025-11-15T14:12:05Z",
+    "source": "WIRED_All",
+    "title": "Analog Photography: The Beginner’s Guide to Film Cameras (2025)",
+    "url": "https://www.wired.com/story/film-photography-beginners-guide/",
+    "id_key": "1673ea774b4263493356ce0d8fdd440929aa33a32323deac551e608d7c00ffeb",
+    "summary": "Which film camera should you get? Which films are the best? We demystify the world of analog photography to help you get started.",
+    "ingested_utc": "2025-11-15T14:12:05Z"
+  },
+  {
+    "published_utc": "2025-11-15",
+    "retrieved_date": "2025-11-15",
+    "retrieved_utc": "2025-11-15T14:12:02Z",
+    "source": "TheVerge_All",
+    "title": "Framework’s franken-laptop is back with big chip upgrades and familiar frustrations",
+    "url": "https://www.theverge.com/tech/821420/framework-laptop-16-2025-nvidia-rtx5070-review",
+    "id_key": "64e84b5fbe9551d246918ca65dff2ff72a6894cd502c24fb4d5ece8ee4aa03ce",
+    "summary": "Framework did it again. It promised modular, upgradeable, and user-repairable laptops where other manufacturers dare not venture or have outright failed. And it's delivered. The 2025 version of the Framework Laptop 16 comes with not only new AMD Ryzen AI CPU options, but also Wi-Fi 7, a more powerful USB-C charger, redesigned cooling, and a […]",
+    "ingested_utc": "2025-11-15T14:12:02Z"
+  },
+  {
+    "published_utc": "2025-11-15",
+    "retrieved_date": "2025-11-15",
+    "retrieved_utc": "2025-11-15T14:09:49Z",
+    "source": "CryptoSlate",
+    "title": "At $96k, nearly 99% of BTC investors accumulating in past 155 days are holding at a loss",
+    "url": "https://cryptoslate.com/at-96k-nearly-99-of-btc-investors-accumulating-in-past-155-days-are-holding-at-a-loss/",
+    "id_key": "1da346cc7122711382bbe18d022cce2c08e4bd5a91adaa8c52d5a27268b2ee85",
+    "summary": "As the BTC price tumbles below $100,000, Glassnode would like to share a depressing stat. If you’ve been stacking sats anytime since late spring, it’s fair to say the honeymoon is officially on pause. With Bitcoin trading at $96,000, a whopping 99% of investors who bought in the past 155 days are in the red. […] The post At $96k, nearly 99% of BTC investors accumulating in past 155 days are holding at a loss appeared first on CryptoSlate .",
+    "ingested_utc": "2025-11-15T14:09:49Z"
+  },
+  {
+    "published_utc": "2025-11-15",
+    "retrieved_date": "2025-11-15",
+    "retrieved_utc": "2025-11-15T14:09:49Z",
+    "source": "CryptoBriefing",
+    "title": "Cardano founder Charles Hoskinson and Scaramucci’s firm invest in Trump-linked American Bitcoin in a $220M round",
+    "url": "https://cryptobriefing.com/scaramucci-220m-bitcoin-mining-investment/",
+    "id_key": "86b6cdc6b191671e7b84693f3a72fc7faed1dc4f139090187e7ccb6ffdddd122",
+    "summary": "The investment highlights Bitcoin's growing institutional appeal and potential to transcend political affiliations, fostering broader crypto adoption. The post Cardano founder Charles Hoskinson and Scaramucci’s firm invest in Trump-linked American Bitcoin in a $220M round appeared first on Crypto Briefing .",
+    "ingested_utc": "2025-11-15T14:09:49Z"
+  },
+  {
+    "published_utc": "2025-11-15",
+    "retrieved_date": "2025-11-15",
     "retrieved_utc": "2025-11-15T13:50:06Z",
     "source": "FT_Home",
     "title": "US economic outlook obscured by shutdown-triggered data gap",
@@ -10921,82 +10998,5 @@
     "id_key": "bb4cd45595dde0911cd13cfb7f368987a880db75432c0cdec132bd80771dcff5",
     "summary": "Canary Capital’s spot XRP ETF surpassed $36 million in trading volume within its first three hours on Nov. 13, positioning the fund as a contender for the strongest exchange-traded fund debut of 2025. The XRPC traded at $25.74 as of 4:43 P.M. UTC, generating volume equivalent to 63% of Bitwise’s Solana ETF (BSOL) first-day performance, […] The post First spot XRP ETF is LIVE: Recording $36M volume on debut, challenges BSOL record appeared first on CryptoSlate .",
     "ingested_utc": "2025-11-13T17:34:53Z"
-  },
-  {
-    "published_utc": "2025-11-13",
-    "retrieved_date": "2025-11-13",
-    "retrieved_utc": "2025-11-13T17:34:35Z",
-    "source": "Guardian_World",
-    "title": "EU court rules non-alcoholic drinks cannot be called gin",
-    "url": "https://www.theguardian.com/business/2025/nov/13/eu-court-bans-calling-non-alcoholic-drinks-gin",
-    "id_key": "70bd49c45e3d0be5cd63bf2864f8381ae3d154821fde0b70a6a4cf8864aadbcd",
-    "summary": "Judges in Luxembourg say EU law prohibits use of term ‘non-alcoholic gin’, in case brought by German lobby group The makers of spirits may be raising a toast to the European judges of Luxembourg after the EU’s court ruled that non-alcoholic drinks cannot be called gin. Only spirit drinks based on ethyl alcohol flavoured by juniper berries with a minimum alcoholic strength of 37.5% by volume can be known as gin, the court said in a judgment issued on Thursday. Continue reading...",
-    "ingested_utc": "2025-11-13T17:34:35Z"
-  },
-  {
-    "published_utc": "2025-11-13",
-    "retrieved_date": "2025-11-13",
-    "retrieved_utc": "2025-11-13T17:34:35Z",
-    "source": "Guardian_World",
-    "title": "Oklahoma governor spares life of death row inmate just before scheduled lethal injection",
-    "url": "https://www.theguardian.com/us-news/2025/nov/13/tremane-wood-clemency-oklahoma",
-    "id_key": "6ce06a2bb5abbe3eb054986afdcb4c1a62829aa9f2f647447c4422938e988dfd",
-    "summary": "Republican Kevin Stitt commuted Tremane Wood’s death sentence to life in prison for 2002 murder of Ronnie Wipf After a controversial trial, an Oklahoma man makes a final plea to avoid execution Tremane Wood, the 46-year-old death row inmate who faced execution today in Oklahoma , has had his life spared just minutes before he was set to receive a lethal injection. Kevin Stitt, the state’s Republican governor, accepted the Oklahoma pardon and parole board’s recommendation that Wood’s sentence be commuted to life in prison without parole. It is just the second time during Stitt’s nearly seven years as governor that he has granted clemency. Continue reading...",
-    "ingested_utc": "2025-11-13T17:34:35Z"
-  },
-  {
-    "published_utc": "2025-11-13",
-    "retrieved_date": "2025-11-13",
-    "retrieved_utc": "2025-11-13T17:34:32Z",
-    "source": "BBC_Business",
-    "title": "Guests ejected mid-stay from bankrupt hotel chain Sonder",
-    "url": "https://www.bbc.com/news/articles/c364yg7g351o?at_medium=RSS&at_campaign=rss",
-    "id_key": "d7afeb9c91ccc5209436179cd5bb2f49a49510ba2f375a92921abf29a99e1453",
-    "summary": "Sonder guests have complained that they had to leave their accommodation as the firm files for a sudden bankruptcy.",
-    "ingested_utc": "2025-11-13T17:34:32Z"
-  },
-  {
-    "published_utc": "2025-11-13",
-    "retrieved_date": "2025-11-13",
-    "retrieved_utc": "2025-11-13T17:15:28Z",
-    "source": "HackerNews_Top",
-    "title": "BAML is hiring compilers/rust engineers (YC W23)",
-    "url": "https://github.com/BoundaryML/baml/tree/canary/jobs",
-    "id_key": "7a59b459137a5ea62490d1c26c39a4f6416af50fe0873e94966760be7c41a7e8",
-    "summary": "Comments",
-    "ingested_utc": "2025-11-13T17:15:28Z"
-  },
-  {
-    "published_utc": "2025-11-13",
-    "retrieved_date": "2025-11-13",
-    "retrieved_utc": "2025-11-13T17:15:18Z",
-    "source": "FinancialPost_Business",
-    "title": "Americas Gold and Silver Announces Upsize of ‘Bought Deal’ Private Placement to US$115 Million",
-    "url": "https://financialpost.com/globe-newswire/americas-gold-and-silver-announces-upsize-of-bought-deal-private-placement-to-us115-million",
-    "id_key": "137e4f46fbd854aa1534064d1b190fd56afc47727b1c2baab7db5e10375e6122",
-    "summary": "NOT FOR DISTRIBUTION TO U.S. NEWS WIRE SERVICESOR FOR DISSEMINATION IN THE UNITED STATES TORONTO, Nov. 13, 2025 (GLOBE NEWSWIRE) — Americas Gold and Silver Corporation (TSX: USA) (NYSE American: USAS) (“Americas” or the “Company”) is pleased to announce that as a result of strong investor demand, the Company has amended its agreement with a […]",
-    "ingested_utc": "2025-11-13T17:15:18Z"
-  },
-  {
-    "published_utc": "2025-11-13",
-    "retrieved_date": "2025-11-13",
-    "retrieved_utc": "2025-11-13T17:15:18Z",
-    "source": "FinancialPost_Business",
-    "title": "MarketWatch Names eXp Realty CEO Leo Pareja to The 2025 MarketWatch 25, Recognizing Visionary Leaders Shaping How We Live, Work, Spend and Invest",
-    "url": "https://financialpost.com/globe-newswire/marketwatch-names-exp-realty-ceo-leo-pareja-to-the-2025-marketwatch-25-recognizing-visionary-leaders-shaping-how-we-live-work-spend-and-invest",
-    "id_key": "6eda727869ea3ca9f682c1db330c192ab6890ad54dd19a7ec6ee70cf2755928b",
-    "summary": "Recognition reflects eXp’s people-first approach and growing influence BELLINGHAM, Wash., Nov. 13, 2025 (GLOBE NEWSWIRE) — eXp Realty®, “the most agent-centric™ real estate brokerage on the planet,” and the core subsidiary of eXp World Holdings, Inc. (Nasdaq: EXPI), announced that CEO Leo Pareja was named to The 2025 MarketWatch 25, the outlet’s annual list celebrating […]",
-    "ingested_utc": "2025-11-13T17:15:18Z"
-  },
-  {
-    "published_utc": "2025-11-13",
-    "retrieved_date": "2025-11-13",
-    "retrieved_utc": "2025-11-13T17:15:11Z",
-    "source": "AlJazeera_All",
-    "title": "Journalist Sami Hamdi arrives in London after 2 weeks in ICE detention",
-    "url": "https://www.aljazeera.com/video/newsfeed/2025/11/13/journalist-sami-hamdi-arrives-in-london-after-2-weeks-in-ice-detention?traffic_source=rss",
-    "id_key": "11e393fd62530fa36652083b1ac91b30e0ddebe90b19f34eea393f77ce0bd52a",
-    "summary": "British Muslim journalist and political commentator Sami Hamdi has arrived in London after being held by ICE.",
-    "ingested_utc": "2025-11-13T17:15:11Z"
   }
 ]
