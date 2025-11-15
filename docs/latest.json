@@ -1465,6 +1465,17 @@
   {
     "published_utc": "2025-11-14",
     "retrieved_date": "2025-11-15",
+    "retrieved_utc": "2025-11-15T14:32:28Z",
+    "source": "TheStreet_Top",
+    "title": "Scott Galloway channels Warren Buffett; outlines major US plan",
+    "url": "https://www.thestreet.com/personal-finance/scott-galloway-channels-warren-buffett-in-major-u-s-action-plan",
+    "id_key": "5c7edbde8f31a203493fbb90e30e45f4ec9947a056eee21f56bf1fdf957abeb4",
+    "summary": "There's a story that Warren Buffett once created a chart detailing the tax burdens of the people working in his office. He had asked each employee to calculate a fraction: The numerator was the amount they paid in federal income tax plus payroll taxes for Social Security and Medicare, and the ...",
+    "ingested_utc": "2025-11-15T14:32:28Z"
+  },
+  {
+    "published_utc": "2025-11-14",
+    "retrieved_date": "2025-11-15",
     "retrieved_utc": "2025-11-15T13:41:21Z",
     "source": "NPR_Business",
     "title": "Better late than never: The delayed September jobs report will be out next week",
@@ -10987,16 +10998,5 @@
     "id_key": "a8da39bb539ef50b63cfa51e07b7348cbbc28e09696b73fc4829d78169acc69c",
     "summary": "Quant (QNT) price hovers near $88 after bouncing off $79. The altcoin could eye the psychological $100 mark, helped by multiple likely tailwinds. QNT has retested and broken above the 50-day exponential moving average. Quant (QNT) changes hands near $88 after bouncing off lows of $79 and touching highs of $93, with QNT likely to […] The post Quant price retests key level: Can QNT breach $100 next? appeared first on CoinJournal .",
     "ingested_utc": "2025-11-13T17:34:57Z"
-  },
-  {
-    "published_utc": "2025-11-13",
-    "retrieved_date": "2025-11-13",
-    "retrieved_utc": "2025-11-13T17:34:53Z",
-    "source": "CryptoSlate",
-    "title": "First spot XRP ETF is LIVE: Recording $36M volume on debut, challenges BSOL record",
-    "url": "https://cryptoslate.com/first-spot-xrp-etf-is-live-recording-36m-volume-on-debut-challenges-bsol-record/",
-    "id_key": "bb4cd45595dde0911cd13cfb7f368987a880db75432c0cdec132bd80771dcff5",
-    "summary": "Canary Capital’s spot XRP ETF surpassed $36 million in trading volume within its first three hours on Nov. 13, positioning the fund as a contender for the strongest exchange-traded fund debut of 2025. The XRPC traded at $25.74 as of 4:43 P.M. UTC, generating volume equivalent to 63% of Bitwise’s Solana ETF (BSOL) first-day performance, […] The post First spot XRP ETF is LIVE: Recording $36M volume on debut, challenges BSOL record appeared first on CryptoSlate .",
-    "ingested_utc": "2025-11-13T17:34:53Z"
   }
 ]
