@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-11-15",
     "retrieved_date": "2025-11-15",
+    "retrieved_utc": "2025-11-15T11:36:10Z",
+    "source": "TheStreet_Top",
+    "title": "AT&T data breach class action settlement could pay customers $7,500",
+    "url": "https://www.thestreet.com/technology/att-data-breach-class-action-settlement-could-pay-customers-7500",
+    "id_key": "1911bd3e66018922eabf9ed4bcca4f4eca3bfa01fa665fc49f0a7e0029ccf5c0",
+    "summary": "When it comes to giving tech companies our data, we have a certain amount of trust that they will protect it. After all, we give them our most personal information, including Social Security numbers and passwords, with the expectation that they will keep it safe. Most of the time, that trust goes ...",
+    "ingested_utc": "2025-11-15T11:36:10Z"
+  },
+  {
+    "published_utc": "2025-11-15",
+    "retrieved_date": "2025-11-15",
+    "retrieved_utc": "2025-11-15T11:36:00Z",
+    "source": "WIRED_All",
+    "title": "A Major Leak Spills a Chinese Hacking Contractor’s Tools and Targets",
+    "url": "https://www.wired.com/story/major-leak-spills-chinese-hacking-contractor-tools-targets/",
+    "id_key": "2297271457eb99b52187888f243505e378fe3a0677d7c331587b5a599b4a4037",
+    "summary": "Plus: State-sponsored AI hacking is here, Google hosts a CBP face recognition app, and more of the week’s top security news.",
+    "ingested_utc": "2025-11-15T11:36:00Z"
+  },
+  {
+    "published_utc": "2025-11-15",
+    "retrieved_date": "2025-11-15",
     "retrieved_utc": "2025-11-15T11:26:45Z",
     "source": "FinancialPost_Business",
     "title": "Solaria Said to Hire Goldman Sachs to Seek Data Center Partner",
@@ -10975,28 +10997,6 @@
     "url": "https://techcrunch.com/2025/11/13/firefighters-received-chemical-burns-at-elon-musks-boring-company-construction-site/",
     "id_key": "ccb2713f0b2849e9c763162a0e33cf4ecb5d7b01507d44f49bcf3a8017fbb82f",
     "summary": "The firefighters had to be treated at a hospital and received permanent scars, according to a report from Fortune. But the Boring Company was not fined after it met with state officials.",
-    "ingested_utc": "2025-11-13T16:44:12Z"
-  },
-  {
-    "published_utc": "2025-11-13",
-    "retrieved_date": "2025-11-13",
-    "retrieved_utc": "2025-11-13T16:44:12Z",
-    "source": "TechCrunch_All",
-    "title": "Google takes on Pinterest with a dedicated ‘inspirational’ images tab in its mobile app",
-    "url": "https://techcrunch.com/2025/11/13/google-takes-on-pinterest-with-a-dedicated-inspirational-images-tab-in-its-mobile-app/",
-    "id_key": "a20f34084def3c712b0da042adc7b40178a819ae2c37855acb4d384ab99ea7b9",
-    "summary": "The company is adding an \"Images\" icon at the bottom of Google's Search app for iOS and Android devices that will display images personalized to the user's interests.",
-    "ingested_utc": "2025-11-13T16:44:12Z"
-  },
-  {
-    "published_utc": "2025-11-13",
-    "retrieved_date": "2025-11-13",
-    "retrieved_utc": "2025-11-13T16:44:12Z",
-    "source": "TechCrunch_All",
-    "title": "Tesla Powerwall 2 recall expands to US after reports of fires",
-    "url": "https://techcrunch.com/2025/11/13/tesla-powerwall-2-recall-expands-to-us-after-reports-of-fires/",
-    "id_key": "0be234888789d439753e651c1d7746e384de54d271a75e5985bd7af184a60119",
-    "summary": "The U.S. Consumer Product Safety Commission has received 22 reports of overheating, smoking, or burning Tesla Powerwall 2 home batteries. The company will replace defective units.",
     "ingested_utc": "2025-11-13T16:44:12Z"
   }
 ]
