@@ -1927,6 +1927,17 @@
   {
     "published_utc": "2025-11-14",
     "retrieved_date": "2025-11-15",
+    "retrieved_utc": "2025-11-15T17:49:55Z",
+    "source": "NPR_World",
+    "title": "Chile's election sets up a stark left–right showdown",
+    "url": "https://www.npr.org/2025/11/14/nx-s1-5605831/chile-election-kast-jara",
+    "id_key": "e537c797aa04a54edac217b9c9d720ec088ee2cd01fb02c1178cc806b2b6dec3",
+    "summary": "Chile heads to the polls on Sunday, in a fiercely polarized election that mirrors the region's struggles with crime, inflation, and economic stagnation.",
+    "ingested_utc": "2025-11-15T17:49:55Z"
+  },
+  {
+    "published_utc": "2025-11-14",
+    "retrieved_date": "2025-11-15",
     "retrieved_utc": "2025-11-15T17:29:46Z",
     "source": "TheStreet_Top",
     "title": "Scott Galloway cites Warren Buffett; makes major U.S. action case",
@@ -10986,17 +10997,6 @@
     "url": "https://financialpost.com/globe-newswire/beagle-and-american-estate-and-trust-partner-to-streamline-401k-to-self-directed-ira-rollovers",
     "id_key": "1d582122beb740aac381b1fab50788f14be959176807be1b7019acbb47179e84",
     "summary": "Partnership enables efficient discovery and transfer of retirement assets into self-directed accounts for alternative investment opportunities LAS VEGAS, Nov. 13, 2025 (GLOBE NEWSWIRE) — Beagle, the leading platform for finding and managing forgotten 401(k) accounts, and American Estate & Trust (AET), a Nevada-chartered trust company specializing in self-directed retirement account custody, today announced a strategic […]",
-    "ingested_utc": "2025-11-13T18:50:58Z"
-  },
-  {
-    "published_utc": "2025-11-13",
-    "retrieved_date": "2025-11-13",
-    "retrieved_utc": "2025-11-13T18:50:58Z",
-    "source": "FinancialPost_Business",
-    "title": "AT&T reached a $177M data breach settlement. What consumers should know about claiming their money",
-    "url": "https://financialpost.com/pmn/att-reached-a-177m-data-breach-settlement-what-consumers-should-know-about-claiming-their-money",
-    "id_key": "780976fcce6c0961d5d5b8de37b6bb1c3273e267d8182e4bc8488d552e095fc5",
-    "summary": "NEW YORK (AP) — AT&T has reached a combined $177 million settlement over two data breaches. And impacted consumers have a little over a month left to file a claim for their chunk of the money. Several lawsuits emerged across the U.S. — and were later consolidated — after AT&T notified millions of customers that […]",
     "ingested_utc": "2025-11-13T18:50:58Z"
   }
 ]
