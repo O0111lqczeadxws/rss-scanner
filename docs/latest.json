@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-11-15",
     "retrieved_date": "2025-11-15",
+    "retrieved_utc": "2025-11-15T19:36:22Z",
+    "source": "HackerNews_Top",
+    "title": "FBI Director Waived Polygraph Security Screening for Three Senior Staff",
+    "url": "https://www.propublica.org/article/fbi-kash-patel-dan-bongino-waived-polygraph",
+    "id_key": "d2e96cd0f10d22356afd6ea252fbae2109fa28d4717520afcea75b99a77956f3",
+    "summary": "Comments",
+    "ingested_utc": "2025-11-15T19:36:22Z"
+  },
+  {
+    "published_utc": "2025-11-15",
+    "retrieved_date": "2025-11-15",
+    "retrieved_utc": "2025-11-15T19:35:52Z",
+    "source": "TheVerge_All",
+    "title": "Tim Cook could step down as Apple CEO next year",
+    "url": "https://www.theverge.com/news/821691/tim-cook-step-down-apple-ceo-next-year",
+    "id_key": "9af05f58f801fba1a391c47a62e21a08e8ee09df228eff3f37d1e3802ea879a2",
+    "summary": "According to the Financial Times, Tim Cook could step down as Apple CEO as early as next year. And the board has started to seriously work out a succession plan. FT says that John Ternus, Apple’s senior vice-president of hardware engineering, is considered the frontrunner for the position. Cook, who turned 65 recently, has been […]",
+    "ingested_utc": "2025-11-15T19:35:52Z"
+  },
+  {
+    "published_utc": "2025-11-15",
+    "retrieved_date": "2025-11-15",
     "retrieved_utc": "2025-11-15T19:25:26Z",
     "source": "HackerNews_Top",
     "title": "AWS Deprecates Two Dozen Services (Most of Which You've Never Heard Of)",
@@ -10976,27 +10998,5 @@
     "id_key": "b1374f675ca58a8e21a1326a21e611365c0e331790eb9de67160ae0380859753",
     "summary": "Doritos and Cheetos are getting a makeover. PepsiCo said Thursday it’s launching toned-down versions of its bright orange snacks that won’t have any artificial colors or flavors. Doritos and Cheetos Simply NKD will hit store shelves on Dec. 1. It’s part of a broader shift underway at PepsiCo, which announced in April that it would […]",
     "ingested_utc": "2025-11-13T19:12:26Z"
-  },
-  {
-    "published_utc": "2025-11-13",
-    "retrieved_date": "2025-11-13",
-    "retrieved_utc": "2025-11-13T19:12:26Z",
-    "source": "FinancialPost_Business",
-    "title": "CPP Investment Board revamps growth equity after uneven returns",
-    "url": "https://financialpost.com/investing/cpp-investment-board-revamps-growth-equity-uneven-returns",
-    "id_key": "a09735c752f2fa0c1e071643ffb6a917f65e5fd97b97912e259df213a6a3c56d",
-    "summary": "Team has dramatically slowed the rate of new direct investments following a period of soft returns, say sources",
-    "ingested_utc": "2025-11-13T19:12:26Z"
-  },
-  {
-    "published_utc": "2025-11-13",
-    "retrieved_date": "2025-11-13",
-    "retrieved_utc": "2025-11-13T19:12:18Z",
-    "source": "TheStreet_Top",
-    "title": "Major game studio Ubisoft stuns investors with last-minute earnings delay, share halt",
-    "url": "https://www.thestreet.com/entertainment/major-game-studio-stuns-investors-with-last-minute-earnings-delay-share-halt",
-    "id_key": "eaab3b4c6e88fc21604774b2b1266c8beb35d60aa857ee30ea28732204917a7e",
-    "summary": "Ubisoft made the decision to delay its earnings and request a halt of its shares just minutes before its expected report.",
-    "ingested_utc": "2025-11-13T19:12:18Z"
   }
 ]
