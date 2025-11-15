@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-11-15",
     "retrieved_date": "2025-11-15",
+    "retrieved_utc": "2025-11-15T11:26:45Z",
+    "source": "FinancialPost_Business",
+    "title": "Solaria Said to Hire Goldman Sachs to Seek Data Center Partner",
+    "url": "https://financialpost.com/pmn/business-pmn/solaria-said-to-hire-goldman-sachs-to-seek-data-center-partner",
+    "id_key": "795800cb72627bfd5d998a00b14d24fe1581c8c33131d686cd6af7c4e7dfbe98",
+    "summary": "Spanish solar developer Solaria Energia y Medio Ambiente SA has hired Goldman Sachs Group Inc. to find a financial partner for a newly created European data center platform, according to a person with knowledge of the matter.",
+    "ingested_utc": "2025-11-15T11:26:45Z"
+  },
+  {
+    "published_utc": "2025-11-15",
+    "retrieved_date": "2025-11-15",
     "retrieved_utc": "2025-11-15T11:12:03Z",
     "source": "FinancialPost_Business",
     "title": "With the rise of AI ‘slop,’ Canada’s creative sector sets sights on licensing regime",
@@ -10987,16 +10998,5 @@
     "id_key": "0be234888789d439753e651c1d7746e384de54d271a75e5985bd7af184a60119",
     "summary": "The U.S. Consumer Product Safety Commission has received 22 reports of overheating, smoking, or burning Tesla Powerwall 2 home batteries. The company will replace defective units.",
     "ingested_utc": "2025-11-13T16:44:12Z"
-  },
-  {
-    "published_utc": "2025-11-13",
-    "retrieved_date": "2025-11-13",
-    "retrieved_utc": "2025-11-13T16:43:55Z",
-    "source": "FT_Home",
-    "title": "Wall Street stocks slide as tech jitters return",
-    "url": "https://www.ft.com/content/36211977-d032-401d-a15c-9404d547c3b1",
-    "id_key": "f8bd448ce6e8ddd253b30dc80b43b410179616c74296598d4dba621ca9bd074d",
-    "summary": "Sharp decline for Nasdaq Composite comes as investors brace for flood of economic data after government shutdown ends",
-    "ingested_utc": "2025-11-13T16:43:55Z"
   }
 ]
