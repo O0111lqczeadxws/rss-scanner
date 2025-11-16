@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-11-16",
     "retrieved_date": "2025-11-16",
+    "retrieved_utc": "2025-11-16T21:23:55Z",
+    "source": "HackerNews_Top",
+    "title": "I have recordings proving Coinbase knew about breach months before disclosure",
+    "url": "https://jonathanclark.com/posts/coinbase-breach-timeline.html",
+    "id_key": "2f8d910eb46b7bdd08a9cf4db4032381064128799cfca65010963e5e6214a140",
+    "summary": "Comments",
+    "ingested_utc": "2025-11-16T21:23:55Z"
+  },
+  {
+    "published_utc": "2025-11-16",
+    "retrieved_date": "2025-11-16",
+    "retrieved_utc": "2025-11-16T21:23:55Z",
+    "source": "HackerNews_Top",
+    "title": "The Pragmatic Programmer: 20th Anniversary Edition",
+    "url": "https://www.ahalbert.com/technology/2023/12/19/the_pragmatic_programmer.html",
+    "id_key": "c392ff4e5dcf6f17e1016fae85f1787a0bfe92473d6541e2a82137f5eac511da",
+    "summary": "Comments",
+    "ingested_utc": "2025-11-16T21:23:55Z"
+  },
+  {
+    "published_utc": "2025-11-16",
+    "retrieved_date": "2025-11-16",
     "retrieved_utc": "2025-11-16T20:51:05Z",
     "source": "HackerNews_Top",
     "title": "I have recordings proving Coinbase knew about breach 4 months before disclosure",
@@ -10976,27 +10998,5 @@
     "id_key": "54ce718b6a595b34f2747c9efb3103c7b5cc3f8f8abd105b03e158d2af7d4afa",
     "summary": "The rapid liquidation highlights the volatility and risks in crypto markets, potentially undermining investor confidence and market stability. The post $300M in crypto longs liquidated in the past hour as Bitcoin falls to $97K appeared first on Crypto Briefing .",
     "ingested_utc": "2025-11-14T05:12:44Z"
-  },
-  {
-    "published_utc": "2025-11-14",
-    "retrieved_date": "2025-11-14",
-    "retrieved_utc": "2025-11-14T05:12:44Z",
-    "source": "CryptoBriefing",
-    "title": "BlackRock’s IBIT sells 2,610 Bitcoin valued at $257M",
-    "url": "https://cryptobriefing.com/blackrock-clients-sell-bitcoin-2610/",
-    "id_key": "994ee60bdbc67fc5db0e18bbf089b86066eb5c74622c26134dfed50c65477686",
-    "summary": "Institutional Bitcoin sales highlight shifting market dynamics and investor sentiment, potentially impacting future crypto asset management strategies. The post BlackRock’s IBIT sells 2,610 Bitcoin valued at $257M appeared first on Crypto Briefing .",
-    "ingested_utc": "2025-11-14T05:12:44Z"
-  },
-  {
-    "published_utc": "2025-11-14",
-    "retrieved_date": "2025-11-14",
-    "retrieved_utc": "2025-11-14T05:12:25Z",
-    "source": "Guardian_World",
-    "title": "The UK wants to emulate Denmark’s hardline asylum model – but what does it actually look like?",
-    "url": "https://www.theguardian.com/world/2025/nov/14/the-uk-wants-to-emulate-denmarks-hardline-asylum-model-but-what-does-it-actually-look-like",
-    "id_key": "052f89e701e2cebf9362277fbeb82eecb77ed91eb61420154eb13dd0b77c3d7f",
-    "summary": "Denmark has slashed asylum numbers by granting only short-term status and by targeting ‘ghettoes’, which critics say has damaged the country’s values Of all the measures introduced to deter people from seeking asylum in Denmark over the last decade, it is the impermanence of refugees’ status that is often cited as the most effective. Before 2015, refugees in Denmark were initially allowed to stay for between five and seven years, after which their residence permits would automatically become permanent. But 10 years ago, when more than a million people arrived in Europe fleeing conflict and repression, largely from Syria, Afghanistan, Iraq and Eritrea, the Danish government dramatically changed the rules. Continue reading...",
-    "ingested_utc": "2025-11-14T05:12:25Z"
   }
 ]
