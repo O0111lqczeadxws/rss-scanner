@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-11-16",
     "retrieved_date": "2025-11-16",
+    "retrieved_utc": "2025-11-16T23:30:38Z",
+    "source": "HackerNews_Top",
+    "title": "Call Me Maybe: Eavesdropping encrypted LTE calls with ReVoLTE (2020)",
+    "url": "https://montsecure.com/research/revolte-attack/",
+    "id_key": "59bac6a355ea63d22b0821370202abd7c4026934c85bb4b13bb3bed4e97323a2",
+    "summary": "Comments",
+    "ingested_utc": "2025-11-16T23:30:38Z"
+  },
+  {
+    "published_utc": "2025-11-16",
+    "retrieved_date": "2025-11-16",
+    "retrieved_utc": "2025-11-16T23:29:35Z",
+    "source": "MarketWatch_Bulletins",
+    "title": "U.S. stock futures little changed as investors anxiously await Nvidia earnings",
+    "url": "https://www.marketwatch.com/bulletins/redirect/go?g=2cd0710b-4264-4940-a156-c492dce0765b&mod=mw_rss_bulletins",
+    "id_key": "222b5f80df9a0c8368d80408a542674ed5afbfd2f2d91962070dd03057fd02f0",
+    "summary": "",
+    "ingested_utc": "2025-11-16T23:29:35Z"
+  },
+  {
+    "published_utc": "2025-11-16",
+    "retrieved_date": "2025-11-16",
     "retrieved_utc": "2025-11-16T23:13:59Z",
     "source": "HackerNews_Top",
     "title": "Goldman Sachs asks in biotech Report: Is curing patients a sustainable business?",
@@ -10976,27 +10998,5 @@
     "id_key": "e013cb019f7d2602a794753dcfaac83144cb0ff365e45edc7a46977a220c059c",
     "summary": "Third Point LLC’s Dan Loeb said he remains confident on the outlook for US markets and isn’t worried about the Federal Reserve’s rate path, he told attendees at the annual Sohn Australia conference in Sydney on Friday.",
     "ingested_utc": "2025-11-14T05:51:45Z"
-  },
-  {
-    "published_utc": "2025-11-14",
-    "retrieved_date": "2025-11-14",
-    "retrieved_utc": "2025-11-14T05:51:38Z",
-    "source": "AlJazeera_All",
-    "title": "‘Massive enemy attack’: Russia pounds Ukraine’s Kyiv, killing one",
-    "url": "https://www.aljazeera.com/news/2025/11/14/massive-enemy-attack-russia-pounds-ukraines-kyiv-killing-one?traffic_source=rss",
-    "id_key": "cff3d0f303956cea567105514a268ac4c66d94b87b945178b8a3e17ee29535d9",
-    "summary": "The Ukrainian capital's Mayor Vitaly Klitschko says a pregnant woman is among several injured and hospitalised.",
-    "ingested_utc": "2025-11-14T05:51:38Z"
-  },
-  {
-    "published_utc": "2025-11-14",
-    "retrieved_date": "2025-11-14",
-    "retrieved_utc": "2025-11-14T05:51:38Z",
-    "source": "AlJazeera_All",
-    "title": "South Africa lets 153 Palestinians disembark following 12-hour plane ordeal",
-    "url": "https://www.aljazeera.com/news/2025/11/14/south-africa-lets-153-palestinians-disembark-following-12-hour-plane-ordeal?traffic_source=rss",
-    "id_key": "3b36b05981084396fe4bfc36e1daa2fbae4b906ac78db7f9c600877eca7044d2",
-    "summary": "Chartered plane carrying group of Palestinian passengers was second to land in South Africa in recent weeks.",
-    "ingested_utc": "2025-11-14T05:51:38Z"
   }
 ]
