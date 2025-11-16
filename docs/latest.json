@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-11-16",
     "retrieved_date": "2025-11-16",
+    "retrieved_utc": "2025-11-16T11:36:20Z",
+    "source": "TheStreet_Top",
+    "title": "Peter Thiel dumps top AI stock, stirring bubble fears",
+    "url": "https://www.thestreet.com/investing/peter-thiel-dumps-top-ai-stock-stirring-bubble-fears",
+    "id_key": "35332542c33bccd63c61bd969ef331b00d475b9f5b2d232543da13f468b10721",
+    "summary": "Billionaire Peter Thiel’s latest 13F didn’t show off a mere trim, but a full-blown exit from AI bellwether Nvidia (NVDA). It comes at a surprising point when Wall Street’s been busy declaring the chipmaker as virtually untouchable. Although Nvidia recently surpassed a $5 trillion valuation, ...",
+    "ingested_utc": "2025-11-16T11:36:20Z"
+  },
+  {
+    "published_utc": "2025-11-16",
+    "retrieved_date": "2025-11-16",
     "retrieved_utc": "2025-11-16T11:26:38Z",
     "source": "FT_Home",
     "title": "Blue Owl private credit fund merger leaves some investors facing 20% hit",
@@ -10987,16 +10998,5 @@
     "id_key": "de513e6cac0f61492ede1ac97334997b50996920bb282c3fb26779d7e7cc4b15",
     "summary": "After several successful launches this year, Project Kuiper has its official name: Amazon Leo. It’s a nod to the term Low-Earth Orbit (LEO), which refers to orbits at an altitude of 1,200 miles (2,000 kilometers) or less. That’s the region where Amazon’s constellation of 153 satellites orbit. The original code name referred to the Kuiper […]",
     "ingested_utc": "2025-11-13T22:35:41Z"
-  },
-  {
-    "published_utc": "2025-11-13",
-    "retrieved_date": "2025-11-13",
-    "retrieved_utc": "2025-11-13T22:35:21Z",
-    "source": "NPR_Economy",
-    "title": "The government can now get back to measuring the economy with shutdown over",
-    "url": "https://www.npr.org/2025/11/13/nx-s1-5608007/the-government-can-now-get-back-to-measuring-the-economy-with-shutdown-over",
-    "id_key": "120f5ff28176ef17ae1f5c250ead1b3fca0841e8696e6215b958fc7367b17857",
-    "summary": "Now that the government shutdown is over, federal number crunchers are back at work. It could take time, though, to make up for the jobs reports and inflation scorecards we missed in the last 6 weeks.",
-    "ingested_utc": "2025-11-13T22:35:21Z"
   }
 ]
