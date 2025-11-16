@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-11-16",
     "retrieved_date": "2025-11-16",
+    "retrieved_utc": "2025-11-16T11:26:38Z",
+    "source": "FT_Home",
+    "title": "Blue Owl private credit fund merger leaves some investors facing 20% hit",
+    "url": "https://www.ft.com/content/8c953f6d-3d30-4657-bda1-ba4c2911c8d8",
+    "id_key": "4bb622a8d392d2fd3ac716f21a3676aa283810da0842735f03912f0502e22d52",
+    "summary": "Asset manager blocks redemptions from one of its first private debt vehicles targeting wealthy individuals",
+    "ingested_utc": "2025-11-16T11:26:38Z"
+  },
+  {
+    "published_utc": "2025-11-16",
+    "retrieved_date": "2025-11-16",
     "retrieved_utc": "2025-11-16T11:12:09Z",
     "source": "AlJazeera_All",
     "title": "Thousands march in Brazil town hosting COP30 for climate justice",
@@ -845,6 +856,17 @@
     "id_key": "2294a34d7a801fd9d2bd154011605f2ad47d247257dc6d26b9cc79266525518a",
     "summary": "Local reports say targets include church parishioners doing yard work and workers hanging Christmas lights Federal immigration officers on Saturday began a sweep through Charlotte, the largest city in North Carolina, federal officials confirmed. Local media reports said that among the locations targeted by masked federal agents was a church in east Charlotte, where an arrest was made while about 15 to 20 church members were doing yard work on the property. Continue reading...",
     "ingested_utc": "2025-11-16T00:57:55Z"
+  },
+  {
+    "published_utc": "2025-11-15",
+    "retrieved_date": "2025-11-16",
+    "retrieved_utc": "2025-11-16T11:26:39Z",
+    "source": "FT_Markets",
+    "title": "Ex-Fed official to face ethics inquiry over stock trades",
+    "url": "https://www.ft.com/content/368c2f6c-0fb7-425f-a299-0f827da23529",
+    "id_key": "0cd81c7c102178cecc9fe6bd8238fec9910ac27ca0f65a70d7be444c5c1adf8b",
+    "summary": "Central bank’s officers declined to approve transactions disclosed by Adriana Kugler, who resigned in August",
+    "ingested_utc": "2025-11-16T11:26:39Z"
   },
   {
     "published_utc": "2025-11-15",
@@ -10976,27 +10998,5 @@
     "id_key": "120f5ff28176ef17ae1f5c250ead1b3fca0841e8696e6215b958fc7367b17857",
     "summary": "Now that the government shutdown is over, federal number crunchers are back at work. It could take time, though, to make up for the jobs reports and inflation scorecards we missed in the last 6 weeks.",
     "ingested_utc": "2025-11-13T22:35:21Z"
-  },
-  {
-    "published_utc": "2025-11-13",
-    "retrieved_date": "2025-11-13",
-    "retrieved_utc": "2025-11-13T22:35:13Z",
-    "source": "NYTimes_World",
-    "title": "BBC Apologizes to Trump Over Film Edit but Declines to Pay Compensation",
-    "url": "https://www.nytimes.com/2025/11/13/world/europe/bbc-apology-trump.html",
-    "id_key": "03ff27c232173e0fc4071de0f135f1e1babac045cb5616f82c40d36adb3eb754",
-    "summary": "The BBC said it would not rebroadcast a misleadingly edited documentary but added, “We strongly disagree there is a basis for a defamation claim.”",
-    "ingested_utc": "2025-11-13T22:35:13Z"
-  },
-  {
-    "published_utc": "2025-11-13",
-    "retrieved_date": "2025-11-13",
-    "retrieved_utc": "2025-11-13T22:33:24Z",
-    "source": "CryptoNews",
-    "title": "Trump Signs Bill Ending Longest Government Shutdown In U.S. History",
-    "url": "https://cryptonews.com/news/trump-signs-bill-ending-longest-government-shutdown-in-u-s-history/",
-    "id_key": "c61a3fd8b34ec87625c34f4ec41637fe22d2724902348c0e17396db910052b46",
-    "summary": "Donald Trump has signed a bill ending the longest Government shutdown. Funding has covered agencies through January, a mid-December vote on health care tax credits has been set, and senators have released a crypto draft expanding CFTC oversight. Kevin Hassett has estimated 60,000 private jobs lost. The post Trump Signs Bill Ending Longest Government Shutdown In U.S. History appeared first on Cryptonews .",
-    "ingested_utc": "2025-11-13T22:33:24Z"
   }
 ]
