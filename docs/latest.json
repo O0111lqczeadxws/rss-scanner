@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-11-17",
     "retrieved_date": "2025-11-17",
+    "retrieved_utc": "2025-11-17T19:12:31Z",
+    "source": "HackerNews_Top",
+    "title": "Show HN: Building WebSocket in Apache Iggy with Io_uring and Completion Based IO",
+    "url": "https://iggy.apache.org/blogs/2025/11/17/websocket-io-uring/",
+    "id_key": "78c93f95f92e5c1c9bd1f172c58011bb298ff69d038b1dd49d22561b67864b80",
+    "summary": "Comments",
+    "ingested_utc": "2025-11-17T19:12:31Z"
+  },
+  {
+    "published_utc": "2025-11-17",
+    "retrieved_date": "2025-11-17",
     "retrieved_utc": "2025-11-17T18:58:39Z",
     "source": "HackerNews_Top",
     "title": "EEG-based neurofeedback in athletes and non-athletes",
@@ -10987,16 +10998,5 @@
     "id_key": "3403d1c7c0415ee334a70cdceb8b412300211149c1737b2a5139e5075b8a120f",
     "summary": "After defeating the US Securities and Exchange Commission over the status of XRP, Ripple has made a puzzling move: it’s not rushing to go public. Instead, the company is staying private. This choice says more about the uneasy fit between crypto firms and public markets than about Ripple’s finances. In July 2023, the court ruled […] The post Ripple won the fight—now it’s ghosting Wall Street despite a $40B IPO valuation appeared first on CryptoSlate .",
     "ingested_utc": "2025-11-14T21:11:22Z"
-  },
-  {
-    "published_utc": "2025-11-14",
-    "retrieved_date": "2025-11-14",
-    "retrieved_utc": "2025-11-14T21:11:03Z",
-    "source": "Guardian_World",
-    "title": "Man charged after ‘fake admiral’ seen at Remembrance Sunday event",
-    "url": "https://www.theguardian.com/uk-news/2025/nov/14/man-charged-after-fake-admiral-seen-at-remembrance-sunday-event",
-    "id_key": "fc568562ef6e0e44438aa11b91cc7549daecd90ca538fd2ec48085a571abb2b4",
-    "summary": "Jonathan Carley, 64, charged with unlawfully wearing uniform of armed forces A man has been charged has been charged over allegedly dressing up as an admiral during a Remembrance Sunday event. North Wales police said they made an arrest after a man was spotted wearing “the uniform and medals of a high-ranking navy officer” during a wreath-laying service in Llandudno, Conwy, on Sunday 9 November. Continue reading...",
-    "ingested_utc": "2025-11-14T21:11:03Z"
   }
 ]
