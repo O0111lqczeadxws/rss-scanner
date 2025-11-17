@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-11-17",
     "retrieved_date": "2025-11-17",
+    "retrieved_utc": "2025-11-17T04:55:13Z",
+    "source": "Nikkei_Asia_Top",
+    "title": "Thailand's Q3 GDP growth slips to 4-year low as exports slow",
+    "url": "https://asia.nikkei.com/economy/thailand-s-q3-gdp-growth-slips-to-4-year-low-as-exports-slow",
+    "id_key": "1326ee4c9ef60d3c60da3853017f4a2abc215f50d20cd82d6b47ff0742fc6acf",
+    "summary": "",
+    "ingested_utc": "2025-11-17T04:55:13Z"
+  },
+  {
+    "published_utc": "2025-11-17",
+    "retrieved_date": "2025-11-17",
     "retrieved_utc": "2025-11-17T04:41:07Z",
     "source": "FT_Home",
     "title": "Trump backs vote to release Epstein files",
@@ -592,6 +603,17 @@
     "id_key": "68ee1c4f13160ad80a5f8da0aa5fcc9d1d5659eb418f57e3970667a8f66f4262",
     "summary": "When the BBC's Zoe Kleinman spoke about going through perimenopause she got a huge response.",
     "ingested_utc": "2025-11-17T00:55:38Z"
+  },
+  {
+    "published_utc": "2025-11-16",
+    "retrieved_date": "2025-11-17",
+    "retrieved_utc": "2025-11-17T04:54:35Z",
+    "source": "NPR_World",
+    "title": "Hundreds of thousands rally in Manila against flood-control corruption scandal",
+    "url": "https://www.npr.org/2025/11/16/nx-s1-5610370/hundreds-of-thousands-rally-in-manila-against-flood-control-corruption-scandal",
+    "id_key": "275b2ae46dc74d9123c426818ca604d59cf7adf72ea160125648297f3a154fa8",
+    "summary": "Hundreds of thousands of Filipinos gathered Sunday in the capital in the largest rally so far to demand accountability for a flood-control corruption scandal that has implicated powerful members of Congress and top government officials.",
+    "ingested_utc": "2025-11-17T04:54:35Z"
   },
   {
     "published_utc": "2025-11-16",
@@ -10976,27 +10998,5 @@
     "id_key": "d4b42bb1bd14fcf39deabe397e2960b6ff2a3f7c61a49044b05d20f6ba7fe9af",
     "summary": "Reaction follows Wall Street’s worst day in a month and unprecedented slump in investment in China Business live – latest updates Global markets have fallen after a tech sell-off that fuelled Wall Street’s worst day in a month and weak economic data in China showing an unprecedented slump in investment. The FTSE 100 fell by 1.1% on opening, shedding about 100 points, as bellwether banking stocks tumbled. Barclays, Lloyds and NatWest slumped by between 3% and 3.5%. Continue reading...",
     "ingested_utc": "2025-11-14T09:51:18Z"
-  },
-  {
-    "published_utc": "2025-11-14",
-    "retrieved_date": "2025-11-14",
-    "retrieved_utc": "2025-11-14T09:49:51Z",
-    "source": "CoinJournal",
-    "title": "Ireland becomes DeFi gateway as Aave Labs wins MiCA approval for fiat-crypto bridge",
-    "url": "https://coinjournal.net/news/ireland-becomes-defi-gateway-as-aave-labs-wins-mica-approval-for-fiat-crypto-bridge/",
-    "id_key": "9c5de6ab1c7922e806d80bac3a1bcf9177d37679f02531f2e7a323684baab224",
-    "summary": "The Central Bank of Ireland granted the licence through Aave’s local subsidiary. Push allows users to convert euros to crypto assets, including GHO, with no fees. Ireland is emerging as a hub for regulated decentralised finance in Europe. Decentralised finance infrastructure took a decisive step into Europe’s regulated fintech ecosystem as Aave Labs secured authorisation […] The post Ireland becomes DeFi gateway as Aave Labs wins MiCA approval for fiat-crypto bridge appeared first on CoinJournal .",
-    "ingested_utc": "2025-11-14T09:49:51Z"
-  },
-  {
-    "published_utc": "2025-11-14",
-    "retrieved_date": "2025-11-14",
-    "retrieved_utc": "2025-11-14T09:37:11Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "Scandal sends Philippine peso lower, hunt for the next Labubu",
-    "url": "https://asia.nikkei.com/spotlight/podcast/podcast-news-roundup/scandal-sends-philippine-peso-lower-hunt-for-the-next-labubu",
-    "id_key": "a248af227cee098500b13ca1e23a57cb9ecb55bd26ca794c3f543d05cfbc7671",
-    "summary": "",
-    "ingested_utc": "2025-11-14T09:37:11Z"
   }
 ]
