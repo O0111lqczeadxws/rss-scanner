@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-11-17",
     "retrieved_date": "2025-11-17",
+    "retrieved_utc": "2025-11-17T19:36:41Z",
+    "source": "TheStreet_Top",
+    "title": "Stock Market Today: Crypto, Recent IPOs, and Nasdaq Hammered As Market Sell Off Continues",
+    "url": "https://www.thestreet.com/latest-news/stock-market-today-sp-500-nasdaq-futures-reverse-course-ahead-of-market-open",
+    "id_key": "2d0051a7da8e7de2fcffa9bb7b010f757bd39640ae676c3e77dbabf7a5477870",
+    "summary": "This live blog is refreshed periodically throughout the day with the latest updates from the market.To find the latest Stock Market Today threads, click here. Happy Monday. This is TheStreet’s Stock Market Today for Nov. 17, 2025. You can follow the latest updates on the market ...",
+    "ingested_utc": "2025-11-17T19:36:41Z"
+  },
+  {
+    "published_utc": "2025-11-17",
+    "retrieved_date": "2025-11-17",
     "retrieved_utc": "2025-11-17T19:29:39Z",
     "source": "HackerNews_Top",
     "title": "Show HN: ESPectre – Motion detection based on Wi-Fi spectre analysis",
@@ -10987,16 +10998,5 @@
     "id_key": "bdcc0089c3861163ad1d29835b835a9be297f90eb83d0077fd1f9f9f4d1b20ec",
     "summary": "Investigations come as Donald Trump’s own links to the late child sex offender roil his supporters",
     "ingested_utc": "2025-11-14T21:30:55Z"
-  },
-  {
-    "published_utc": "2025-11-14",
-    "retrieved_date": "2025-11-14",
-    "retrieved_utc": "2025-11-14T21:30:02Z",
-    "source": "Optimism_Releases",
-    "title": "op-node/v1.16.2 Mainnet Fusaka Readiness & Jovian",
-    "url": "https://github.com/ethereum-optimism/optimism/releases/tag/op-node%2Fv1.16.2",
-    "id_key": "d31bbffe38d48f94a72e3552f60e49cbb6b34922cec5d29b64fc3a0b9d6a3a07",
-    "summary": "Warning This is an essential release for the following chains due to Jovian timestamp changes : Bob, Lyra, Mint, Orderly, and Polynomial This release only updates Jovian timestamps for the chains listed above. It is optional for all other chains. 🤝 The corresponding op-geth release is v1.101603.5 . Full Changelog : op-node/v1.16.1...op-node/v1.16.2 🚢 Docker Image: https://us-docker.pkg.dev/oplabs-tools-artifacts/images/op-node:v1.16.2",
-    "ingested_utc": "2025-11-14T21:30:02Z"
   }
 ]
