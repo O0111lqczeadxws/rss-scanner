@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-11-17",
     "retrieved_date": "2025-11-17",
+    "retrieved_utc": "2025-11-17T21:51:11Z",
+    "source": "TheStreet_Top",
+    "title": "Home Depot update on customer behavior looms",
+    "url": "https://www.thestreet.com/retail/home-depots-update-on-customer-behavior-looms",
+    "id_key": "213cb4e5d5917d8a07456d5060bf948194e070cb2a223ee31ce3ff68f973616f",
+    "summary": "Home Depot has struggled this year as higher prices and a downbeat housing market have crimped demand from customers. Inflation has rebounded in the wake of the Trump administration's tariffs, with the Consumer Price Index inflation rate reaching 3% in September, up from 2.3% in April, before most ...",
+    "ingested_utc": "2025-11-17T21:51:11Z"
+  },
+  {
+    "published_utc": "2025-11-17",
+    "retrieved_date": "2025-11-17",
+    "retrieved_utc": "2025-11-17T21:51:01Z",
+    "source": "WIRED_All",
+    "title": "Valar Atomics Says It's the First Nuclear Startup to Achieve Criticality",
+    "url": "https://www.wired.com/story/valar-atomics-says-its-the-first-nuclear-startup-to-achieve-criticality/",
+    "id_key": "4b671585f87b0f148b1c25fc5b6e2159a7732c7b22fd3b2a655cf16bf6985715",
+    "summary": "A Trump administration pilot program aims for three nuclear startups to reach a key milestone by July 4, 2026. Valar Atomics says it's the first to do so—but it had some help.",
+    "ingested_utc": "2025-11-17T21:51:01Z"
+  },
+  {
+    "published_utc": "2025-11-17",
+    "retrieved_date": "2025-11-17",
     "retrieved_utc": "2025-11-17T21:43:44Z",
     "source": "FinancialPost_Business",
     "title": "AIRE Launches Internal AI-Powered Engagement Assistant to Automate Lead Management and Streamline Mortgage Workflow",
@@ -10976,27 +10998,5 @@
     "id_key": "2b21cf8889ec1ed731bdb234669b23710cbbb4a34162f9cf95f68dd45a960c1a",
     "summary": "President Trump's executive order comes after voters in off-year elections this month cited economic concerns as their top issue, resulting in big wins for Democrats in races in Virginia and New Jersey.",
     "ingested_utc": "2025-11-15T00:55:08Z"
-  },
-  {
-    "published_utc": "2025-11-14",
-    "retrieved_date": "2025-11-14",
-    "retrieved_utc": "2025-11-14T23:51:01Z",
-    "source": "HackerNews_Top",
-    "title": "Linear algebra explains why some words are effectively untranslatable",
-    "url": "https://aethermug.com/posts/linear-algebra-explains-why-some-words-are-effectively-untranslatable",
-    "id_key": "97e3dcf5b786b2133937fdd0db55a9184a949320f02a43ec907655a9bcef811d",
-    "summary": "Comments",
-    "ingested_utc": "2025-11-14T23:51:01Z"
-  },
-  {
-    "published_utc": "2025-11-14",
-    "retrieved_date": "2025-11-14",
-    "retrieved_utc": "2025-11-14T23:41:19Z",
-    "source": "FinancialPost_Business",
-    "title": "Aberdeen Announces Management Addition",
-    "url": "https://financialpost.com/globe-newswire/aberdeen-announces-management-addition",
-    "id_key": "f37f35aeab2127c5e8626c5390a6e6d6396d95143bcda5a5b523c2dd2380cbed",
-    "summary": "TORONTO, Nov. 14, 2025 (GLOBE NEWSWIRE) — ABERDEEN INTERNATIONAL INC. (“Aberdeen” or the “Company”) (TSX: AAB, F:A8H, OTC:AABVF) is pleased to announce the appointment of Stephen Woodhead as the Chief Financial Officer of the Company, effective immediately. Mr. Woodhead is a graduate of the University of Cape Town and a member of the South African Institute […]",
-    "ingested_utc": "2025-11-14T23:41:19Z"
   }
 ]
