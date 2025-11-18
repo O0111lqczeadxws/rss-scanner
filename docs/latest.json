@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-11-18",
     "retrieved_date": "2025-11-18",
+    "retrieved_utc": "2025-11-18T23:38:55Z",
+    "source": "FinancialPost_Business",
+    "title": "What Trump Quitting the Energy Transition Means for the World",
+    "url": "https://financialpost.com/pmn/business-pmn/what-trump-quitting-the-energy-transition-means-for-the-world",
+    "id_key": "8429785b323fa3036b5074f9efbb5cca64390eff9d1d0f9e6418868dee04727e",
+    "summary": "The world has reached a hinge moment in the energy transition. Leaps in technology are making it possible to cut emissions faster and more cheaply than ever. At the same time, US President Donald Trump is reversing efforts to decarbonize the world’s second- biggest polluter.",
+    "ingested_utc": "2025-11-18T23:38:55Z"
+  },
+  {
+    "published_utc": "2025-11-18",
+    "retrieved_date": "2025-11-18",
+    "retrieved_utc": "2025-11-18T23:38:36Z",
+    "source": "TheVerge_All",
+    "title": "Cloudflare shows massive internet outages aren’t a matter of if — but when",
+    "url": "https://www.theverge.com/news/823562/cloudflare-outage-wake-up-call-websites",
+    "id_key": "b87ecccec273fb8a0c1cc0b59ec75b5c908da4889357fd125c6224c0c19ee88d",
+    "summary": "Cloudflare has become the latest web infrastructure giant to collapse in the span of a month, replacing entire sites, including X, ChatGPT, Spotify, Canva, and even the outage-tracking DownDetector, with an error message for hours this morning. It's the latest in a string of outages that Mehdi Daoudi, CEO and co-founder of the internet performance […]",
+    "ingested_utc": "2025-11-18T23:38:36Z"
+  },
+  {
+    "published_utc": "2025-11-18",
+    "retrieved_date": "2025-11-18",
+    "retrieved_utc": "2025-11-18T23:36:24Z",
+    "source": "CryptoNews",
+    "title": "Best New Meme Coin to Buy Today – 18 November",
+    "url": "https://cryptonews.com/news/best-new-meme-coin-to-buy-today-18-november/",
+    "id_key": "5b368f2ba6a63059c5be282d9faa695ca6732f54bdf03a1a0ff9713374004576",
+    "summary": "While the crypto market has struggled, PEPENODE has raised funds through its presale and has introduced mine-to-earn nodes, high staking APY and meme coin rewards, positioning itself among the best new tokens for traders seeking alternative opportunities into 2026. The post Best New Meme Coin to Buy Today – 18 November appeared first on Cryptonews .",
+    "ingested_utc": "2025-11-18T23:36:24Z"
+  },
+  {
+    "published_utc": "2025-11-18",
+    "retrieved_date": "2025-11-18",
     "retrieved_utc": "2025-11-18T23:31:31Z",
     "source": "HackerNews_Top",
     "title": "Monotype font licencing shake-down",
@@ -10965,38 +10998,5 @@
     "id_key": "0c26ee9b8a49d8fd3d9724a84bc830b1a2e152b2fac069178be998f8a78e0400",
     "summary": "The EV failed to match the 2018 stunt, damaging the stairway in the process.",
     "ingested_utc": "2025-11-17T14:38:26Z"
-  },
-  {
-    "published_utc": "2025-11-17",
-    "retrieved_date": "2025-11-17",
-    "retrieved_utc": "2025-11-17T14:38:25Z",
-    "source": "TechCrunch_All",
-    "title": "Jeff Bezos reportedly returns to the trenches as co-CEO of new AI startup, Project Prometheus",
-    "url": "https://techcrunch.com/2025/11/17/jeff-bezos-reportedly-returns-to-the-trenches-as-co-ceo-of-new-ai-startup-project-prometheus/",
-    "id_key": "f934260d06e921b18b37f77f3aaf9c702d1cad7d99fb195df78c5eab8b6c9275",
-    "summary": "Amazon's founder Jeff Bezos seems to be getting his hands dirty once again: the billionaire is partly backing a new AI startup called Project Prometheus that has raised $6.2 billion in funding, and will take on duties as co-chief executive.",
-    "ingested_utc": "2025-11-17T14:38:25Z"
-  },
-  {
-    "published_utc": "2025-11-17",
-    "retrieved_date": "2025-11-17",
-    "retrieved_utc": "2025-11-17T14:38:09Z",
-    "source": "FT_Markets",
-    "title": "India agrees first big LPG purchases from US amid stalled trade talks",
-    "url": "https://www.ft.com/content/b560299f-d153-400e-9599-6ba25a29993e",
-    "id_key": "02fe0cadeeea17f668e5b6e54fdd6df951c690028d7aeaa5063d58ca6f331353",
-    "summary": "‘Historic’ pledge to source around 10% of LPG imports from US Gulf Coast comes as New Delhi seeks relief from Trump tariffs",
-    "ingested_utc": "2025-11-17T14:38:09Z"
-  },
-  {
-    "published_utc": "2025-11-17",
-    "retrieved_date": "2025-11-17",
-    "retrieved_utc": "2025-11-17T14:37:56Z",
-    "source": "NYTimes_World",
-    "title": "What Russian Activists Do When They Can’t Criticize Putin",
-    "url": "https://www.nytimes.com/2025/11/17/world/europe/russia-politics-opposition.html",
-    "id_key": "e023f103da4745972652176b925edb7ab4e46f657acc9e981cfc399450c10c46",
-    "summary": "Opposition-minded Russians who remain in the country are trying to keep politically active in whatever causes they can, whether that’s recycling, clean air or parking.",
-    "ingested_utc": "2025-11-17T14:37:56Z"
   }
 ]
