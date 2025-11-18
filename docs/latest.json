@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-11-18",
     "retrieved_date": "2025-11-18",
+    "retrieved_utc": "2025-11-18T19:36:05Z",
+    "source": "AlJazeera_All",
+    "title": "Saudi Crown Prince: Don’t let Osama bin Laden sour US-Saudi relations",
+    "url": "https://www.aljazeera.com/video/newsfeed/2025/11/18/saudi-crown-prince-dont-let-osama-bin-laden-sour-us-saudi-relations?traffic_source=rss",
+    "id_key": "647baf1da797e1a18dfc679c9fc0307a45f539dcf61be5fddd1396b38d549d32",
+    "summary": "Saudi Crown Prince Mohammed bin Salman said Osama bin Laden led the 9/11 attacks to destroy US-Saudi relations.",
+    "ingested_utc": "2025-11-18T19:36:05Z"
+  },
+  {
+    "published_utc": "2025-11-18",
+    "retrieved_date": "2025-11-18",
+    "retrieved_utc": "2025-11-18T19:35:54Z",
+    "source": "ArsTechnica_All",
+    "title": "New Windows 11 AI agents can work in the background but create new security risks",
+    "url": "https://arstechnica.com/gadgets/2025/11/new-windows-11-ai-agents-can-work-in-the-background-but-create-new-security-risks/",
+    "id_key": "66d213d517917ec6ea733c8d8a89deeb4fb7b69ab6c8052bb573e19182ea188c",
+    "summary": "Agents with read/write access to your files create big security, privacy issues.",
+    "ingested_utc": "2025-11-18T19:35:54Z"
+  },
+  {
+    "published_utc": "2025-11-18",
+    "retrieved_date": "2025-11-18",
     "retrieved_utc": "2025-11-18T19:28:27Z",
     "source": "FinancialPost_Business",
     "title": "Brazil’s central bank shuts down $16-billion bank following federal fraud investigation",
@@ -10976,27 +10998,5 @@
     "id_key": "f47f157e6e5c636f07c3ad25190a14cbc2984c632043fd602fa252392a2daab2",
     "summary": "Bitcoin steadied on Monday after a sharp weekend decline that pushed the world’s largest cryptocurrency to new local lows near $93,000, according to a Nov. 17 research note from Laser Digital’s Derivatives Trading Desk. The post Bitcoin Rebounds After Weekend Selloff as Laser Digital Flags Short-Squeeze Risk appeared first on Cryptonews .",
     "ingested_utc": "2025-11-17T11:11:35Z"
-  },
-  {
-    "published_utc": "2025-11-17",
-    "retrieved_date": "2025-11-17",
-    "retrieved_utc": "2025-11-17T11:11:14Z",
-    "source": "Guardian_World",
-    "title": "Weather tracker: Storm Claudia brings more flooding to Portugal and Spain",
-    "url": "https://www.theguardian.com/environment/2025/nov/17/weather-tracker-storm-claudia-more-flooding-portugal-spain",
-    "id_key": "e4b9e4892faf0c738f02b1ed657462c5eb6e46c1449fa652df9587096cee14e5",
-    "summary": "Heavy rainfall hit Galicia region first before slowly moving across western parts of the Iberian peninsula Portugal and Spain are again recovering from flooding after Storm Claudia brought heavy rain and strong winds last week. The storm developed from an area of low pressure that had earlier driven early season cold and snowy conditions through eastern parts of Canada and the north-eastern US through early November. The system tracked eastwards across the Atlantic during the second weekend of November before slowing and stalling to the north-west of the Iberian peninsula, caught in the trough of an increasingly amplified, or wavy, jet stream. Spain’s meteorological service AEMET named the storm last Monday before the arrival of several bouts of heavy rainfall, which slowly pushed through during the rest of the week. Continue reading...",
-    "ingested_utc": "2025-11-17T11:11:14Z"
-  },
-  {
-    "published_utc": "2025-11-17",
-    "retrieved_date": "2025-11-17",
-    "retrieved_utc": "2025-11-17T11:11:14Z",
-    "source": "Guardian_World",
-    "title": "France’s birds start to show signs of recovery after bee-harming pesticide ban",
-    "url": "https://www.theguardian.com/environment/2025/nov/17/france-wildlife-insect-bird-numbers-rise-neonicotinoid-pesticide-ban-aoe",
-    "id_key": "1a02bc7a37cc4405912ed54b9a6233f4d76a48255641060e9319e5a7f41a4772",
-    "summary": "Analysis shows small hike in populations of insect-eating species after 2018 ruling, but full recovery may take decades Insect-eating bird populations in France appear to be making a tentative recovery after a ban on bee-harming pesticides, according to the first study to examine how wildlife is returning in Europe. Neonicotinoids are the world’s most common class of insecticides, widely used in agriculture and for flea control in pets. By 2022, four years after the European Union banned neonicotinoid use in fields , researchers observed that France’s population of insect-eating birds had increased by 2%-3%. These included blackbirds, blackcaps and chaffinches, which feed on insects as adults and as chicks. Continue reading...",
-    "ingested_utc": "2025-11-17T11:11:14Z"
   }
 ]
