@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-11-18",
     "retrieved_date": "2025-11-18",
+    "retrieved_utc": "2025-11-18T08:49:29Z",
+    "source": "FinancialPost_Business",
+    "title": "FlyDubai orders 150 Airbus A321neo aircraft, expanding its fleet beyond Boeing for the first time",
+    "url": "https://financialpost.com/pmn/abu-dhabis-etihad-orders-16-airbus-aircraft-at-dubai-air-show",
+    "id_key": "ef3c5a3e65a142d39840130ddd682884b9c00d1693555f90015e1ac457e61683",
+    "summary": "DUBAI, United Arab Emirates (AP) — FlyDubai, the lower-cost sister airline to long-haul carrier Emirates, announced an order Tuesday for 150 Airbus A321neo aircraft at the Dubai Air Show — a major purchase that will see the carrier for the first time expand its fleet beyond Boeing. Airbus and FlyDubai offered no value for the […]",
+    "ingested_utc": "2025-11-18T08:49:29Z"
+  },
+  {
+    "published_utc": "2025-11-18",
+    "retrieved_date": "2025-11-18",
+    "retrieved_utc": "2025-11-18T08:48:56Z",
+    "source": "FT_Markets",
+    "title": "Dulux owner AkzoNobel in $25bn merger with paint rival",
+    "url": "https://www.ft.com/content/b6836bc9-24d2-4175-950f-d9470c6442d9",
+    "id_key": "33e73adfcc700af696e82a12070316520b187c1df7ca57a7b8037fedaad50cdc",
+    "summary": "Combined business to have single New York listing and dual headquarters in Amsterdam and Philadelphia",
+    "ingested_utc": "2025-11-18T08:48:56Z"
+  },
+  {
+    "published_utc": "2025-11-18",
+    "retrieved_date": "2025-11-18",
+    "retrieved_utc": "2025-11-18T08:46:38Z",
+    "source": "Guardian_World",
+    "title": "StubHub and Viagogo among eight firms investigated over pricing practices",
+    "url": "https://www.theguardian.com/business/2025/nov/18/stubhub-viagogo-pricing-practices-cma",
+    "id_key": "8283864a404dd04a797015bdd539b4565420c173de96f8e74b551cca0a40277c",
+    "summary": "Competition watchdog raises concerns about additional fees at checkout and ‘pressure selling’ Business live – latest updates Britain’s competition watchdog has begun investigations into eight companies about their online pricing practices, expressing concern over additional fees and sales tactics such as “drip pricing” and “pressure selling”. The Competition and Markets Authority (CMA) said it was looking into the ticket sellers StubHub and Viagogo; AA Driving School and BSM Driving School; the US gym chain Gold’s Gym; and the retailers Wayfair, Appliances Direct and Marks Electrical. Continue reading...",
+    "ingested_utc": "2025-11-18T08:46:38Z"
+  },
+  {
+    "published_utc": "2025-11-18",
+    "retrieved_date": "2025-11-18",
     "retrieved_utc": "2025-11-18T08:19:45Z",
     "source": "Nikkei_Asia_Top",
     "title": "A new Quad is needed to capsize China's hold on global shipping",
@@ -10965,38 +10998,5 @@
     "id_key": "d2e96cd0f10d22356afd6ea252fbae2109fa28d4717520afcea75b99a77956f3",
     "summary": "Comments",
     "ingested_utc": "2025-11-15T19:36:22Z"
-  },
-  {
-    "published_utc": "2025-11-15",
-    "retrieved_date": "2025-11-15",
-    "retrieved_utc": "2025-11-15T19:35:52Z",
-    "source": "TheVerge_All",
-    "title": "Tim Cook could step down as Apple CEO next year",
-    "url": "https://www.theverge.com/news/821691/tim-cook-step-down-apple-ceo-next-year",
-    "id_key": "9af05f58f801fba1a391c47a62e21a08e8ee09df228eff3f37d1e3802ea879a2",
-    "summary": "According to the Financial Times, Tim Cook could step down as Apple CEO as early as next year. And the board has started to seriously work out a succession plan. FT says that John Ternus, Apple’s senior vice-president of hardware engineering, is considered the frontrunner for the position. Cook, who turned 65 recently, has been […]",
-    "ingested_utc": "2025-11-15T19:35:52Z"
-  },
-  {
-    "published_utc": "2025-11-15",
-    "retrieved_date": "2025-11-15",
-    "retrieved_utc": "2025-11-15T19:25:26Z",
-    "source": "HackerNews_Top",
-    "title": "AWS Deprecates Two Dozen Services (Most of Which You've Never Heard Of)",
-    "url": "https://www.lastweekinaws.com/blog/aws-deprecates-two-dozen-services-most-of-which-youve-never-heard-of/",
-    "id_key": "3718b4bbc0d7428506316a65448e6e96667e44cef5027668dbb540757d8a53c8",
-    "summary": "Comments",
-    "ingested_utc": "2025-11-15T19:25:26Z"
-  },
-  {
-    "published_utc": "2025-11-15",
-    "retrieved_date": "2025-11-15",
-    "retrieved_utc": "2025-11-15T19:24:35Z",
-    "source": "NPR_Top",
-    "title": "U.S. official says the 'table is being set' for possible military action against Venezuela",
-    "url": "https://www.npr.org/2025/11/15/nx-s1-5609888/aircraft-carrier-caribbean-venezuela-military-action",
-    "id_key": "ef9b93d947fdaad03486cb10140cf7cf273509f2cb71880e795ef5520278f0b5",
-    "summary": "The country's largest aircraft carrier is expected to join thousands of service members in the northern Caribbean Sunday. But it's unclear if President Trump will use military force.",
-    "ingested_utc": "2025-11-15T19:24:35Z"
   }
 ]
