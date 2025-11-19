@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-11-19",
     "retrieved_date": "2025-11-19",
+    "retrieved_utc": "2025-11-19T04:55:49Z",
+    "source": "NYTimes_World",
+    "title": "Where Mao’s Peasants Tilled the Soil, Tourists Now Pay for the View",
+    "url": "https://www.nytimes.com/2025/11/18/world/asia/china-mao-red-tourism.html",
+    "id_key": "a56652410b174808b73acae64628257af983b27417164524792d40fd1def42c6",
+    "summary": "Decades ago, a Chinese village became an official symbol of revolutionary “self-reliance.” The slogan hasn’t changed, but nearly everything else has.",
+    "ingested_utc": "2025-11-19T04:55:49Z"
+  },
+  {
+    "published_utc": "2025-11-19",
+    "retrieved_date": "2025-11-19",
     "retrieved_utc": "2025-11-19T04:46:07Z",
     "source": "FinancialPost_Business",
     "title": "KKR Opens Abu Dhabi Office in Deepening Foray Into Middle East",
@@ -10987,16 +10998,5 @@
     "id_key": "a036d5d07328113e1d25da8476fc044566b2cf796a04f6d893265efc64c21628",
     "summary": "The Canadian Real Estate Association says the number of residential properties that changed hands in October was lower compared to a year ago, as prices also fell.",
     "ingested_utc": "2025-11-17T17:01:05Z"
-  },
-  {
-    "published_utc": "2025-11-17",
-    "retrieved_date": "2025-11-17",
-    "retrieved_utc": "2025-11-17T17:01:04Z",
-    "source": "FinancialPost_Business",
-    "title": "CD&R Lines Up $7.9 Billion Cross-Border Deal for Sealed Air",
-    "url": "https://financialpost.com/pmn/business-pmn/cdr-lines-up-7-9-billion-cross-border-deal-for-sealed-air",
-    "id_key": "8e78dbc12016973a0102540848d3f9233b29fe498a002bfa7edfecf18f691668",
-    "summary": "JPMorgan Chase & Co. and Bank of America Corp. are among a group of banks involved in a $7.9 billion cross-border debt financing backing Clayton Dubilier & Rice’s acquisition of Sealed Air, the packaging company best known for creating Bubble Wrap.",
-    "ingested_utc": "2025-11-17T17:01:04Z"
   }
 ]
