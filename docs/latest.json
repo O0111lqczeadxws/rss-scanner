@@ -2,6 +2,138 @@
   {
     "published_utc": "2025-11-19",
     "retrieved_date": "2025-11-19",
+    "retrieved_utc": "2025-11-19T05:37:09Z",
+    "source": "FinancialPost_Business",
+    "title": "China’s diesel trucks are shifting to electric. This could change global LNG and diesel demand.",
+    "url": "https://financialpost.com/pmn/chinas-diesel-trucks-are-shifting-to-electric-this-could-change-global-lng-and-diesel-demand",
+    "id_key": "ce6d4a0bddbb77c3399d43beb424f6dcb4e542564817d8979c67231abff90aed",
+    "summary": "HANOI, Vietnam (AP) — China is replacing its diesel trucks with electric models faster than expected, potentially reshaping global fuel demand and the future of heavy transport. In 2020, nearly all new trucks in China ran on diesel. By the first half of 2025, battery-powered trucks accounted for 22% of new heavy truck sales, up […]",
+    "ingested_utc": "2025-11-19T05:37:09Z"
+  },
+  {
+    "published_utc": "2025-11-19",
+    "retrieved_date": "2025-11-19",
+    "retrieved_utc": "2025-11-19T05:37:09Z",
+    "source": "FinancialPost_Business",
+    "title": "Vance and Rubio Offer Clues to Trump’s Foreign Policy — and the 2028 Race",
+    "url": "https://financialpost.com/pmn/business-pmn/vance-and-rubio-offer-clues-to-trumps-foreign-policy-and-the-2028-race",
+    "id_key": "75df51a162760ccf5e2823784f8356abe68d6cb851053e30dab2b2ffb96dc560",
+    "summary": "The US vice president and secretary of state have divergent styles. Both are building credentials on the world stage as potential successors to Trump.",
+    "ingested_utc": "2025-11-19T05:37:09Z"
+  },
+  {
+    "published_utc": "2025-11-19",
+    "retrieved_date": "2025-11-19",
+    "retrieved_utc": "2025-11-19T05:37:02Z",
+    "source": "AlJazeera_All",
+    "title": "Scotland beat Denmark 4-2 to book first World Cup spot since 1998",
+    "url": "https://www.aljazeera.com/news/2025/11/19/scotland-beats-denmark-4-2-to-book-first-world-cup-spot-since-1998?traffic_source=rss",
+    "id_key": "6802832cc8769b03e2b21cd466ac2f3593d7dd4ff13cfc2823ea46a8253332e8",
+    "summary": "Denmark needed just a draw for automatic qualification. Now they must fight for a spot through playoffs.",
+    "ingested_utc": "2025-11-19T05:37:02Z"
+  },
+  {
+    "published_utc": "2025-11-19",
+    "retrieved_date": "2025-11-19",
+    "retrieved_utc": "2025-11-19T05:36:53Z",
+    "source": "Engadget_All",
+    "title": "Cloudflare outage was not caused by a cyber attack",
+    "url": "https://www.engadget.com/cybersecurity/cloudflare-outage-was-not-caused-by-a-cyber-attack-053000551.html?src=rss",
+    "id_key": "8e1fc05c56a29e839e74a3247310925194e9f0e68e6859a59ce5eb2d3533b0f8",
+    "summary": "Cloudflare wrongly suspected that the widespread outage that took numerous websites offline on November 18 was caused by a DDoS attack, the company’s CEO has admitted. In his blog post that breaks down what happened, however, Matthew Prince explained that after realizing their mistake, his team was able to fix the issue. “The issue was not caused, directly or indirectly, by a cyber attack or malicious activity of any kind,” he wrote. It was instead caused by a change to its database systems’ permissions, which led to an issue with a file used by its Bot Management system. The company’s Bot Management system uses a machine learning model to score bots for every request they make when they crawl Cloudflare’s network. Its clients rely on those bot scores to decide whether to allow or to block specific bots from accessing their websites. One the uses of having bot scores is being able to block AI companies’ bots so they can’t use a website’s content to train their LLMs. In July, Cloudflare launched an experiment called “ pay per crawl, ” which allows website owners to let an AI bot crawl their pages if they get paid for access. Prince said the model relies on a “feature” configuration file to make a prediction on whether a bot request was automated or not. The feature file is refreshed every few minutes, and a change in the underlying mechanism generating that file caused a change in its size that triggered the error. “As a result, HTTP 5xx error codes were returned by the core proxy system that handles traffic processing for our customers, for any traffic that depended on the bots module,” Prince wrote. This recent event has been Cloudflare’s worst outage in years. The company said it hasn’t had an outage that has “caused the majority of core traffic to stop flowing through [its] network” since 2019. Prince apologized for the issue on behalf of his team. On November 18 Cloudflare experienced a service outage, triggered by an issue with a Bot Management feature, impacting multiple Cloudflare services. Here's a detailed breakdown of what happened. https://t.co/7WArlr5ghI — Cloudflare (@Cloudflare) November 18, 2025 This article originally appeared on Engadget at https://www.engadget.com/cybersecurity/cloudflare-outage-was-not-caused-by-a-cyber-attack-053000551.html?src=rss",
+    "ingested_utc": "2025-11-19T05:36:53Z"
+  },
+  {
+    "published_utc": "2025-11-19",
+    "retrieved_date": "2025-11-19",
+    "retrieved_utc": "2025-11-19T05:36:34Z",
+    "source": "FT_Markets",
+    "title": "US tech stocks slide as traders fret over ‘frothy’ AI valuations",
+    "url": "https://www.ft.com/content/72c35b5a-f75f-493d-ba86-a35d8d1f3490",
+    "id_key": "b7f6f8b6663fb20d2e6e533ba1d7be83a90ad9d16b2fad225ac9ca80026d8c09",
+    "summary": "Nasdaq lower as heavyweights including Nvidia and Microsoft sustain steep falls",
+    "ingested_utc": "2025-11-19T05:36:34Z"
+  },
+  {
+    "published_utc": "2025-11-19",
+    "retrieved_date": "2025-11-19",
+    "retrieved_utc": "2025-11-19T05:36:33Z",
+    "source": "FT_Home",
+    "title": "Iranian nuclear experts held second covert meeting with Russian weapons institute",
+    "url": "https://www.ft.com/content/1312a12a-5404-4cb2-adc0-b11db118b079",
+    "id_key": "bfc84696b543d0fecf132e0e8b44a4e1865cfd70772a34bf7b0f9d1c8c90facd",
+    "summary": "US claims meeting is part of an effort by Tehran to acquire sensitive military technologies from Moscow",
+    "ingested_utc": "2025-11-19T05:36:33Z"
+  },
+  {
+    "published_utc": "2025-11-19",
+    "retrieved_date": "2025-11-19",
+    "retrieved_utc": "2025-11-19T05:36:33Z",
+    "source": "FT_Home",
+    "title": "Elon Musk returns to the White House at dinner for Saudi crown prince",
+    "url": "https://www.ft.com/content/5f957852-a3ab-49bd-950c-ae9bb16817dd",
+    "id_key": "6def4365e1d18ef4e130e1218012a7c9cf382539c33f3c5c277d8789158e2b4d",
+    "summary": "Billionaire’s appearance at black-tie event for Mohammed bin Salman signals improving relations with Donald Trump",
+    "ingested_utc": "2025-11-19T05:36:33Z"
+  },
+  {
+    "published_utc": "2025-11-19",
+    "retrieved_date": "2025-11-19",
+    "retrieved_utc": "2025-11-19T05:36:33Z",
+    "source": "FT_Home",
+    "title": "FCA pension scheme invests less in UK stocks than private sector peers",
+    "url": "https://www.ft.com/content/8af8baa6-7da6-4a2b-8ffd-e3a2f24c59b2",
+    "id_key": "4d8d6bf0a1d040eeeea23eb2ca094dc5f54522d55946cefc41241601b237a9b3",
+    "summary": "Low allocation comes as the government and FCA encourage fund managers to put more money in domestic market",
+    "ingested_utc": "2025-11-19T05:36:33Z"
+  },
+  {
+    "published_utc": "2025-11-19",
+    "retrieved_date": "2025-11-19",
+    "retrieved_utc": "2025-11-19T05:36:33Z",
+    "source": "FT_Home",
+    "title": "Wimbledon debenture tickets set to secure exemption from UK resale crackdown",
+    "url": "https://www.ft.com/content/7e9d6388-a6ab-49ea-b001-29c81b773624",
+    "id_key": "88a2c1c25067fdbef59c57fbf75c476cd956887a72c9757ebc82acfe3657f6a0",
+    "summary": "Organisers of the tennis tournament warned that a price cap would damage its funding model",
+    "ingested_utc": "2025-11-19T05:36:33Z"
+  },
+  {
+    "published_utc": "2025-11-19",
+    "retrieved_date": "2025-11-19",
+    "retrieved_utc": "2025-11-19T05:34:33Z",
+    "source": "CryptoNews",
+    "title": "Asia Market Open: Bitcoin Climbs Back From Sub-$90K Drop While Stocks Struggle For Traction",
+    "url": "https://cryptonews.com/news/bitcoin-price-recovers-stocks-struggle-asia-market-open/",
+    "id_key": "7a6d77263048dc57886bc758b035bd50e344a8e042e8c5f6fb30b3de8229d0ec",
+    "summary": "Bitcoin edged higher in Asia after a brief drop below $90K, though it remains down 26% from its October peak and has erased all its gains for the year. The post Asia Market Open: Bitcoin Climbs Back From Sub-$90K Drop While Stocks Struggle For Traction appeared first on Cryptonews .",
+    "ingested_utc": "2025-11-19T05:34:33Z"
+  },
+  {
+    "published_utc": "2025-11-19",
+    "retrieved_date": "2025-11-19",
+    "retrieved_utc": "2025-11-19T05:34:31Z",
+    "source": "CryptoBriefing",
+    "title": "BlackRock’s IBIT bleeds $523M in its biggest one-day outflow",
+    "url": "https://cryptobriefing.com/blackrock-clients-sell-513m-bitcoin/",
+    "id_key": "b1205b204eba0c6e27ef0aeb05359d4e1299008246301023e8e1af9ae6d0ebf4",
+    "summary": "Institutional rebalancing amid market volatility signals a cautious stance on crypto, impacting asset managers' strategies and investor confidence. The post BlackRock’s IBIT bleeds $523M in its biggest one-day outflow appeared first on Crypto Briefing .",
+    "ingested_utc": "2025-11-19T05:34:31Z"
+  },
+  {
+    "published_utc": "2025-11-19",
+    "retrieved_date": "2025-11-19",
+    "retrieved_utc": "2025-11-19T05:34:12Z",
+    "source": "Guardian_World",
+    "title": "Hugh Marks decries ‘opportunistic’ attacks on the ABC – but concedes broadcaster blew it with Bluey",
+    "url": "https://www.theguardian.com/media/2025/nov/19/hugh-marks-decries-opportunistic-attacks-on-the-abc-but-concedes-broadcaster-blew-it-with-bluey",
+    "id_key": "d4de4a1696d67d0473cfba8bc84c9c7834b88b09469954c91e1745b9e3431706",
+    "summary": "ABC managing director tells National Press Club comparisons between BBC program edit and Four Corners episode are not legitimate Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The ABC managing director, Hugh Marks, has slammed attacks on the ABC as “opportunistic” as it faces accusations its Four Corners program distorted a speech by Donald Trump on 6 January 2021, but he said there are lessons to learn from the BBC’s error. The ABC has faced pressure from Sky News Australia and The Australian who have called the treatment of the speech in a Four Corners episode, an “almost identical act of deception” as the edit of a BBC program that led to multiple high-level resignations at the British public broadcaster. Continue reading...",
+    "ingested_utc": "2025-11-19T05:34:12Z"
+  },
+  {
+    "published_utc": "2025-11-19",
+    "retrieved_date": "2025-11-19",
     "retrieved_utc": "2025-11-19T05:15:33Z",
     "source": "FinancialPost_Business",
     "title": "Russian Oil Cargoes Race to India as Sanctions Deadline Nears",
@@ -977,6 +1109,17 @@
     "id_key": "e367766a577a45f5634c8e40658ad84797eb53b95575ce600e701d4cf4829584",
     "summary": "President says ‘I don’t care when the Senate passes the House Bill’ after it agrees to unanimous consent request to pass act as soon as legislation arrives from House House passes bill to release Epstein files with near-unanimous support How did your representative vote on releasing the Epstein files? The Harvard professor and economist Larry Summers said he would be stepping back from public life after documents released by the House oversight committee revealed email exchanges between Summers and the convicted sex offender Jeffrey Epstein , who called himself Summers’ “wing man”. Politico reported on Monday that Summers, a former treasury secretary, expressed deep regret for past messages with Epstein. Continue reading...",
     "ingested_utc": "2025-11-19T00:54:16Z"
+  },
+  {
+    "published_utc": "2025-11-18",
+    "retrieved_date": "2025-11-19",
+    "retrieved_utc": "2025-11-19T05:36:34Z",
+    "source": "FT_Markets",
+    "title": "Meta wins US case that threatened split with WhatsApp and Instagram",
+    "url": "https://www.ft.com/content/f3206cf5-82d3-4b38-9999-907448b5a6d0",
+    "id_key": "ee71c65ad1c7fd41f6950b38bf19b1dd0841e5abd79a5ecc3ea83e4b8925d712",
+    "summary": "Social media group has beaten antitrust suit brought by the Federal Trade Commission",
+    "ingested_utc": "2025-11-19T05:36:34Z"
   },
   {
     "published_utc": "2025-11-18",
@@ -10855,148 +10998,5 @@
     "id_key": "19ca1b1209d06ba82283303e7119aeb0d79fafe4492967f83184f63b1b3c7390",
     "summary": "CALGARY, Alberta — Digital Commerce Bank (“DCBank”) proudly announces the launch of Interac e-Transfer® Cards as the first bank to bring this new and innovative product to market, allowing Canadians to bring creativity, personality, and meaning to the simple act of sending money. Integration of this new feature into web or mobile-based products is simple […]",
     "ingested_utc": "2025-11-17T17:52:10Z"
-  },
-  {
-    "published_utc": "2025-11-17",
-    "retrieved_date": "2025-11-17",
-    "retrieved_utc": "2025-11-17T17:51:54Z",
-    "source": "Engadget_All",
-    "title": "The Game Awards 2025 nominees include Clair Obscur, Hollow Knight: Silksong and Hades 2",
-    "url": "https://www.engadget.com/gaming/the-game-awards-2025-nominees-include-clair-obscur-hollow-knight-silksong-and-hades-2-173626649.html?src=rss",
-    "id_key": "d126a99a5031d4d8acc2194f5f3235895e11f47a016804c6ea1a21251d92b405",
-    "summary": "We won't have to wait too much longer to find out which game will follow the wonderful Astro Bot 's triumph at last year's edition of The Game Awards. The 2025 ceremony takes place on December 11 at the Peacock Theater in Los Angeles. In between a cavalcade of video game trailers and announcements, the show will squeeze in some actual awards. We now know what the contenders for The Game Awards 2025 are after Monday's announcement of the nominees. Those vying for the top prize of game of the year are: Clair Obscur: Expedition 33 - Sandfall Interactive/Kepler Interactive Death Stranding 2: On The Beach - Kojima Productions/Sony Interactive Entertainment Donkey Kong Bananza - Nintendo EPD/Nintendo Hades II - Supergiant Games Hollow Knight: Silksong - Team Cherry Kingdom Come: Deliverance II - Warhorse Studios/Deep Silver Half of those are also up for game of the year at the Indie Game Awards . Those three games ( Clair Obscur, Hades II and Hollow Knight: Silksong ) are up for the best independent game award at this ceremony as well, alongside Absolum , Ball x Pit and Blue Prince . With 12 nods in total — including three in the best performance category — Clair Obscur isn’t just the most-nominated game this year. It’s the most-nominated game in the 12-year history of the ceremony. Death Stranding 2 and Ghost of Yōtei have eight nods each, Hades II has seven and Silksong has five. Sony Interactive Entertainment leads the way among publishers with 19 nominations. Here are the most nominated games at #TheGameAwards 2025. ⁰Clair Obscur: Expedition 33 is the most nominated game in TGA history with 12 total nominations. pic.twitter.com/bn4KjSDuoP — The Game Awards (@thegameawards) November 17, 2025 A whole bunch of high-profile games missed out on nominations for the main award. However, the likes of Arc Raiders, Indiana Jones and the Great Circle, Mario Kart World, Assassin’s Creed Shadows, Elden Ring: Nightreign, Battlefield 6, Split Fiction, Monster Hunter Wilds and Silent Hill f have picked up nods in other categories. It’s neat to see games like Consume Me, Despelote , Rematch and Dispatch pick up nominations this year too. Meanwhile, Marvel’s Deadpool VR , a game that isn’t even out until tomorrow, picked up a nod. Fan voting for this year's edition of The Game Awards starts today on the TGA website and social platforms. Public ballots account for 10 percent of the final vote, with a jury comprising dozens of media outlets accounting for the remaining 90 percent. The nominees for the players’ voice award — the only one determined entirely by fans — will be announced on December 1. The Game Awards (which is under fire over its handling of the discontinued Future Class program) will be streaming across a wide variety of platforms, including Prime Video for the first time. As ever, we'll be on top of all of the big news from the event, so stay tuned to Engadget for all the juicy details. Place your bets now on what will be announced. Maybe, just maybe, we'll get a glimpse of Half-Life 3 ? This article originally appeared on Engadget at https://www.engadget.com/gaming/the-game-awards-2025-nominees-include-clair-obscur-hollow-knight-silksong-and-hades-2-173626649.html?src=rss",
-    "ingested_utc": "2025-11-17T17:51:54Z"
-  },
-  {
-    "published_utc": "2025-11-17",
-    "retrieved_date": "2025-11-17",
-    "retrieved_utc": "2025-11-17T17:51:52Z",
-    "source": "WIRED_All",
-    "title": "A Collision With Space Debris Leaves 3 Chinese Astronauts Stranded in Orbit",
-    "url": "https://www.wired.com/story/three-astronauts-are-stuck-on-chinas-space-station-without-a-safe-ride-home/",
-    "id_key": "feded4f5731c82c29d6f2f9bf94a7f25acc5ed770923ab9913180be5240fe1b4",
-    "summary": "The only craft docked at Tiangong space station has been damaged and “does not meet the release conditions for a safe manned return.”",
-    "ingested_utc": "2025-11-17T17:51:52Z"
-  },
-  {
-    "published_utc": "2025-11-17",
-    "retrieved_date": "2025-11-17",
-    "retrieved_utc": "2025-11-17T17:49:30Z",
-    "source": "CryptoSlate",
-    "title": "Why Ethereum’s current 35% whale sell-off may be its most bullish signal",
-    "url": "https://cryptoslate.com/why-ethereums-current-35-sell-off-may-be-its-most-bullish-signal/",
-    "id_key": "57a7506e191f420b60b6b07164bddfaf16f841b68dc3ad564c86fa4def491541",
-    "summary": "Ethereum is undergoing its most significant transition since its August peak. A sharp, double-digit correction of more than 35% since Oct. 6 has triggered a crisis of conviction, ripping through the speculative layers of the market and forcing a wave of liquidations. However, the on-chain story is not a simple collapse. It is a large-scale […] The post Why Ethereum’s current 35% whale sell-off may be its most bullish signal appeared first on CryptoSlate .",
-    "ingested_utc": "2025-11-17T17:49:30Z"
-  },
-  {
-    "published_utc": "2025-11-17",
-    "retrieved_date": "2025-11-17",
-    "retrieved_utc": "2025-11-17T17:49:30Z",
-    "source": "CryptoBriefing",
-    "title": "Figment and OpenTrade launch new stablecoin yield product",
-    "url": "https://cryptobriefing.com/stablecoin-yield-product-figment-opentrade/",
-    "id_key": "6977c703b857ea3cc985876d093a933d7e47738ed4092cf0dbb9ca87ed54f355",
-    "summary": "The collaboration could drive increased stablecoin adoption and innovation in yield products, enhancing investor confidence and market growth. The post Figment and OpenTrade launch new stablecoin yield product appeared first on Crypto Briefing .",
-    "ingested_utc": "2025-11-17T17:49:30Z"
-  },
-  {
-    "published_utc": "2025-11-17",
-    "retrieved_date": "2025-11-17",
-    "retrieved_utc": "2025-11-17T17:49:11Z",
-    "source": "Guardian_World",
-    "title": "Donald Trump is ‘panicking’ after trying and failing ‘to kill our Jeffrey Epstein investigation’, says top Democrat – live",
-    "url": "https://www.theguardian.com/us-news/live/2025/nov/17/donald-trump-jeffrey-epstein-files-republicans-democrats-world-cup-us-politics-live-news-updates",
-    "id_key": "65fa125c07f5abb54b03c742930a29dbec909a88a32aa85165eb07c8bb6c79b5",
-    "summary": "Robert Garcia, ranking member of House oversight committee, says president has ‘realized he is about to lose this Epstein vote’ and calls for release of files Trump urges Republicans to vote for release of Epstein files in surprise U-turn US Border Patrol officials said they had arrested 81 people over five hours in Charlotte, North Carolina, on Saturday, the first day of the targeted operation. The crackdown involving federal agents was only announced last week. Mass deportation and strict enforcement of immigration laws have been a key part of Trump’s agenda since returning to office this year. Continue reading...",
-    "ingested_utc": "2025-11-17T17:49:11Z"
-  },
-  {
-    "published_utc": "2025-11-17",
-    "retrieved_date": "2025-11-17",
-    "retrieved_utc": "2025-11-17T17:37:42Z",
-    "source": "HackerNews_Top",
-    "title": "Cities Panic over Having to Release Mass Surveillance Recordings",
-    "url": "https://www.nakedcapitalism.com/2025/11/cities-panic-over-having-to-release-mass-surveillance-recordings.html",
-    "id_key": "dff9cf29185adf65fe15185490a00861ba0dee66bb99aa9d074fd5043873853d",
-    "summary": "Comments",
-    "ingested_utc": "2025-11-17T17:37:42Z"
-  },
-  {
-    "published_utc": "2025-11-17",
-    "retrieved_date": "2025-11-17",
-    "retrieved_utc": "2025-11-17T17:37:31Z",
-    "source": "FinancialPost_Business",
-    "title": "World Is Off Course on Pledge to Rein In Heat-Trapping Methane",
-    "url": "https://financialpost.com/pmn/business-pmn/world-is-off-course-on-pledge-to-rein-in-heat-trapping-methane",
-    "id_key": "9f04e5ce7ca17b0b207cb3d746321cf3aaff9dddf5ad9cd9abcc9f4a07ad62e0",
-    "summary": "The world remains far behind global commitments to slash methane, according to a United Nations assessment that underscores the need for rapid, aggressive work to stifle emissions of the super pollutant.",
-    "ingested_utc": "2025-11-17T17:37:31Z"
-  },
-  {
-    "published_utc": "2025-11-17",
-    "retrieved_date": "2025-11-17",
-    "retrieved_utc": "2025-11-17T17:37:11Z",
-    "source": "TechCrunch_All",
-    "title": "Sequoia-backed fintech Aspora will let Indian diaspora pay bills back home",
-    "url": "https://techcrunch.com/2025/11/17/sequoia-backed-fintech-aspora-will-let-indian-diaspora-pay-bills-back-home/",
-    "id_key": "fa7e39cda0d16ea892f79ce8e00ac3068197ce6e8a3a5adeb78a5812d65fbea7",
-    "summary": "UK-based Aspora, which has focused on remittances, will let non-resident Indians pay bills back home.",
-    "ingested_utc": "2025-11-17T17:37:11Z"
-  },
-  {
-    "published_utc": "2025-11-17",
-    "retrieved_date": "2025-11-17",
-    "retrieved_utc": "2025-11-17T17:36:53Z",
-    "source": "FT_Home",
-    "title": "US probes firms that borrowed $400mn from private credit giant HPS",
-    "url": "https://www.ft.com/content/a9e7bfa0-1e60-4bf4-b403-d566c3ca8644",
-    "id_key": "95129853ee517d66068aa9a567f8290b01d8205a0b8f461ba67c987e696d7ceb",
-    "summary": "BlackRock-owned lender has accused companies controlled by Bankim Brahmbhatt of ‘brazen’ fraud",
-    "ingested_utc": "2025-11-17T17:36:53Z"
-  },
-  {
-    "published_utc": "2025-11-17",
-    "retrieved_date": "2025-11-17",
-    "retrieved_utc": "2025-11-17T17:34:49Z",
-    "source": "CryptoBriefing",
-    "title": "Dormant Bitcoin supply wakes up with 4,668 BTC on the move",
-    "url": "https://cryptobriefing.com/dormant-bitcoin-holders-mobilize-4668-btc-after-3-5-years/",
-    "id_key": "406a1114a7727bbe35b19fca2ded923b0118ea00c33581dfb69b8e8359d4a481",
-    "summary": "Long-term Bitcoin holders' activity may signal shifts in market sentiment, influencing investment strategies and potential market volatility. The post Dormant Bitcoin supply wakes up with 4,668 BTC on the move appeared first on Crypto Briefing .",
-    "ingested_utc": "2025-11-17T17:34:49Z"
-  },
-  {
-    "published_utc": "2025-11-17",
-    "retrieved_date": "2025-11-17",
-    "retrieved_utc": "2025-11-17T17:34:30Z",
-    "source": "Guardian_World",
-    "title": "Foreign state services behind Polish rail sabotage, says minister – as it happened",
-    "url": "https://www.theguardian.com/world/live/2025/nov/17/ukraine-russia-france-poland-zelenskyy-macron-eu-europe-news-latest-updates",
-    "id_key": "32e8995e20dfffa52ac97cf99f016e227ce997a8fe672b8b4eb5a4c50b6c7677",
-    "summary": "Security services minister Tomasz Siemoniak says explosion was not the work of ‘a gang of metal thieves’. This live blog is closed Back to Poland, the country’s interior minister is hosting an emergency meeting on the train incidents, with transport, justice ministers, police and representatives of security services all attending. “Poland is facing acts of sabotage unprecedented in its most recent history,” Marcin Kierwiński said in a social media post . Continue reading...",
-    "ingested_utc": "2025-11-17T17:34:30Z"
-  },
-  {
-    "published_utc": "2025-11-17",
-    "retrieved_date": "2025-11-17",
-    "retrieved_utc": "2025-11-17T17:34:30Z",
-    "source": "Guardian_World",
-    "title": "GWR train fitted with F1 tech for two-month superfast wifi trial",
-    "url": "https://www.theguardian.com/business/2025/nov/17/gwr-train-f1-technology-superfast-wifi-trial-5g-satellites",
-    "id_key": "94670d15d780ff5216bbfa7c674275020cb938e208e50e198a6668e8b164b604",
-    "summary": "Tryout of system, which switches between signals from 5G masts to low-earth orbit satellites, could lead to wider rollout Train wifi in the UK, long a source of frustration for passengers, is about to get radically faster – for a lucky few at least. A two-month trial has begun on one Great Western Railway (GWR) train, fitted with technology from Formula One that switches between the signals from 5G masts to low-earth orbit satellites to provide almost seamless, superfast wifi. Continue reading...",
-    "ingested_utc": "2025-11-17T17:34:30Z"
-  },
-  {
-    "published_utc": "2025-11-17",
-    "retrieved_date": "2025-11-17",
-    "retrieved_utc": "2025-11-17T17:18:53Z",
-    "source": "FinancialPost_Business",
-    "title": "Ford taps Amazon to let shoppers buy its used cars online",
-    "url": "https://financialpost.com/transportation/autos/ford-taps-amazon-shoppers-buy-used-cars-online",
-    "id_key": "a0229735810ad29f51ab9eb4458f9a6b0589f6836e8c00e52b447f4c7b0dac74",
-    "summary": "The Amazon search tool will enable buyers to see a vehicle’s service history and condition reports before purchase",
-    "ingested_utc": "2025-11-17T17:18:53Z"
   }
 ]
