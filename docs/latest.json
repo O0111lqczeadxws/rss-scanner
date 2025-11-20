@@ -2,6 +2,83 @@
   {
     "published_utc": "2025-11-20",
     "retrieved_date": "2025-11-20",
+    "retrieved_utc": "2025-11-20T17:52:40Z",
+    "source": "HackerNews_Top",
+    "title": "Launch HN: Poly (YC S22) – Cursor for Files",
+    "url": "https://news.ycombinator.com/item?id=45995394",
+    "id_key": "e72dcf6ba9ca8f8130c9d64419aa26e2a4b9b52f1753691232fd98f58e4cb527",
+    "summary": "Comments",
+    "ingested_utc": "2025-11-20T17:52:40Z"
+  },
+  {
+    "published_utc": "2025-11-20",
+    "retrieved_date": "2025-11-20",
+    "retrieved_utc": "2025-11-20T17:52:30Z",
+    "source": "FinancialPost_Business",
+    "title": "Lobster boats must keep using tracking devices for government observation, court rules",
+    "url": "https://financialpost.com/pmn/lobster-boats-must-keep-using-tracking-devices-for-government-observation-court-rules",
+    "id_key": "528f7dc17ce21e8ec4ac4859b4a94fa12634e1fbb26a72412b10a6997e004c49",
+    "summary": "PORTLAND, Maine (AP) — The U.S. government can continue requiring America’s lobster fishing boats to use electronic tracking devices to collect data, a federal appeals court has ruled, denying claims by some in the industry that the monitoring amounts to unreasonable search and seizure. Fishing regulators began requiring federally permitted lobstermen to install electronic tracking […]",
+    "ingested_utc": "2025-11-20T17:52:30Z"
+  },
+  {
+    "published_utc": "2025-11-20",
+    "retrieved_date": "2025-11-20",
+    "retrieved_utc": "2025-11-20T17:52:30Z",
+    "source": "FinancialPost_Business",
+    "title": "Banking regulator proposes to ease lending rules for Canadian banks",
+    "url": "https://financialpost.com/fp-finance/banking/banking-regulator-proposes-banks-ease-lending-rules",
+    "id_key": "e21fd07f9e6ac9d6ac1a0040dd8a9c092b300726a39425192c3e7d2dab6a95c4",
+    "summary": "The proposed loosening of rules comes at a time when Ottawa is looking to boost competition in the financial sector",
+    "ingested_utc": "2025-11-20T17:52:30Z"
+  },
+  {
+    "published_utc": "2025-11-20",
+    "retrieved_date": "2025-11-20",
+    "retrieved_utc": "2025-11-20T17:52:23Z",
+    "source": "TheStreet_Top",
+    "title": "TSA changes during Trump’s presidency: A timeline",
+    "url": "https://www.thestreet.com/travel/a-timeline-of-tsa-changes-during-trumps-presidency",
+    "id_key": "b6ac9197f0681feb8d9d469c56d71ac243dd85af8b8a824b34f1d0529a5ea3b5",
+    "summary": "2025 has been a year of change—and a busy one—for the Transportation Security Administration, or the TSA, as the federal agency is better-known to bleary-eyed air travelers. The young agency, which was created in the direct aftermath of the airplane-hijacking 9/11 attacks on the World Trade ...",
+    "ingested_utc": "2025-11-20T17:52:23Z"
+  },
+  {
+    "published_utc": "2025-11-20",
+    "retrieved_date": "2025-11-20",
+    "retrieved_utc": "2025-11-20T17:52:14Z",
+    "source": "Engadget_All",
+    "title": "Android Quick Share now works with Apple's AirDrop feature on Pixel 10 phones",
+    "url": "https://www.engadget.com/mobile/android-quick-share-now-works-with-apples-airdrop-feature-on-pixel-10-phones-173646458.html?src=rss",
+    "id_key": "2cb7a18455f5809d898d39ad886b747364d7fe824f94aa5903fef5f81d4c6790",
+    "summary": "Count this as the latest unexpected detente between Apple and Google. Today, Google announced that the Pixel 10 series of phones can use Android Quick Share with the iPhone’s AirDrop feature, meaning it’ll be much easier to shoot files and photos between the two platforms. While this feature is currently limited to Pixel 10 series phones, Google says it is looking to expand the feature to other devices. Google dropped details on how it made this work from a privacy and security standpoint in its technical blog if you want to get into the nitty-gritty. But functionally, it sounds like this will work the same as Quick Share currently does. The receiving Apple device (this will work with iPads and Macs as well as iPhones) needs to set their Airdrop visibility preferences to “anyone for 10 minutes.” This means that people outside of your contact list will be able to initiate an AirDrop or Quick Share transfer. From there, the Pixel 10 user should be able to see the receiving Apple device when they go to share things via Quick Share as normal. Google also notes that Android devices can receive files from Apple devices that are using AirDrop. They’ll just need to make sure their Quick Share visibility settings are similarly set to “everyone for 10 minutes” or that they’re in “receive” mode on the Quick Share page. It’s not clear if Apple was involved in making this new feature work or if Google did this all on its own. Apple hasn’t released a corresponding post on its own newsroom. If Apple wasn’t involved, the obvious question is whethere or not they’ll treat this as a security breach and release a software update that undos Google’s work. And if they do, it’s entirely possible that we’re going to head down another long road of the company’s bickering about security versus openness. We’ve reached out to Apple and Google to get more details and will update this post if we learn anything. This article originally appeared on Engadget at https://www.engadget.com/mobile/android-quick-share-now-works-with-apples-airdrop-feature-on-pixel-10-phones-173646458.html?src=rss",
+    "ingested_utc": "2025-11-20T17:52:14Z"
+  },
+  {
+    "published_utc": "2025-11-20",
+    "retrieved_date": "2025-11-20",
+    "retrieved_utc": "2025-11-20T17:52:14Z",
+    "source": "Engadget_All",
+    "title": "Black Friday Apple deals: AirPods 4 are on sale for their lowest price ever",
+    "url": "https://www.engadget.com/deals/black-friday-apple-deals-airpods-4-are-on-sale-for-their-lowest-price-ever-162917197.html?src=rss",
+    "id_key": "b9d48d25809e6c9e4a84007cd7c9f1cba4ad295246127632496d7f044a934551",
+    "summary": "Apple's AirPods 4 have dropped back down to a record low price in an Amazon Black Friday deal. If you aren't looking for active noise cancellation, the model without ANC is a steal at 34 percent off, bringing it down to just $85 from its usual price of $130. The Apple AirPods 4 are the best budget AirPods you can get in 2025, with Apple's H2 audio chip to support some of the more advanced audio features from more expensive models. They offer Voice Isolation, Personalized Spatial Audio with dynamic head tracking and more. If you get the model without active noise cancellation, you won't have features like Transparency Mode and Conversation Awareness, or Apple's hearing health tools. But, the entry-level model still offers great sound quality for the price. This model also features the redesigned shape, which makes for a more comfortable and secure fit so you don't have to worry about them falling out of your ears. A force sensor on the stem allows for basic touch controls, including play and pause, play next track, previous track and answer a call. You can also summon Siri by pressing and holding the stem. You can expect to get up to 5 hours of battery life on a charge with the non-ANC model, and up to 30 hours using the USB-C charging case. Elsewhere when it comes to Black Friday AirPods deals, you can pick up the AirPods 4 with ANC for only $110, and the new AirPods Pro 3 for $220. This article originally appeared on Engadget at https://www.engadget.com/deals/black-friday-apple-deals-airpods-4-are-on-sale-for-their-lowest-price-ever-162917197.html?src=rss",
+    "ingested_utc": "2025-11-20T17:52:14Z"
+  },
+  {
+    "published_utc": "2025-11-20",
+    "retrieved_date": "2025-11-20",
+    "retrieved_utc": "2025-11-20T17:52:12Z",
+    "source": "ArsTechnica_All",
+    "title": "Google’s latest swing at Chromebook gaming is a free year of GeForce Now",
+    "url": "https://arstechnica.com/gaming/2025/11/googles-latest-swing-at-chromebook-gaming-is-a-free-year-of-geforce-now/",
+    "id_key": "fbd8d05ffc7cf37dc7be00f8e0799394ff062b5fee36dd6fdbe1f0f3cdcadc4d",
+    "summary": "GeForce Now Fast Pass is a new service tier exclusively for Chromebooks.",
+    "ingested_utc": "2025-11-20T17:52:12Z"
+  },
+  {
+    "published_utc": "2025-11-20",
+    "retrieved_date": "2025-11-20",
     "retrieved_utc": "2025-11-20T17:45:46Z",
     "source": "HackerNews_Top",
     "title": "Show HN: Tangent – Open-source security data pipeline",
@@ -10921,82 +10998,5 @@
     "id_key": "efb8fe5b5b6dc0cf8d073d257330994847e8b3e97386ed41fdd51b951b8c5d7c",
     "summary": "Venezuela's President Nicolás Maduro has survived U.S. sanctions, economic meltdown and widespread protests. Now he faces a U.S. armada off his country's coast, so how does he hang on to power?",
     "ingested_utc": "2025-11-19T10:15:38Z"
-  },
-  {
-    "published_utc": "2025-11-19",
-    "retrieved_date": "2025-11-19",
-    "retrieved_utc": "2025-11-19T10:15:38Z",
-    "source": "NPR_World",
-    "title": "Saudi Arabian embassy spokesperson talks about the crown prince's visit with Trump",
-    "url": "https://www.npr.org/2025/11/19/nx-s1-5612484/saudi-arabian-embassy-spokesperson-talks-about-the-crown-princes-visit-with-trump",
-    "id_key": "195474e0111d3aa84ff99fb0cc241803a57b22d7c3a880577a005033fc239312",
-    "summary": "NPR's Leila Fadel asks a spokesperson for the Saudi Arabian embassy in Washington, D.C., whether Crown Prince Mohammed bin Salman sees his White House visit as a success.",
-    "ingested_utc": "2025-11-19T10:15:38Z"
-  },
-  {
-    "published_utc": "2025-11-19",
-    "retrieved_date": "2025-11-19",
-    "retrieved_utc": "2025-11-19T10:15:36Z",
-    "source": "NPR_Top",
-    "title": "3 massive changes you'll see as the climate careens toward tipping points",
-    "url": "https://www.npr.org/2025/11/19/nx-s1-5593087/climate-tipping-points-cop30-brazil-coral-glaciers-carbon",
-    "id_key": "4dd41de2943d1b2d30aa8542f6e9b6b5d6c5354b9b10a5f6bf5feff2987a69fa",
-    "summary": "Scientists are increasingly concerned that the planet is headed for massive, irreversible changes due to global warming. In some cases, those changes have already begun.",
-    "ingested_utc": "2025-11-19T10:15:36Z"
-  },
-  {
-    "published_utc": "2025-11-19",
-    "retrieved_date": "2025-11-19",
-    "retrieved_utc": "2025-11-19T10:15:36Z",
-    "source": "NPR_Top",
-    "title": "Friendsgiving 101: A history of the made-up holiday and how to celebrate it",
-    "url": "https://www.npr.org/2025/11/19/nx-s1-5605483/friendsgiving-thanksgiving-friends-history-tips",
-    "id_key": "e4bce79bf3caf37716c1466ce3f822794ee0695a56cffb60fd11782ac71a1952",
-    "summary": "The word's definition may be obvious, but Friendsgiving can mean different things to different people. Here are expert tips for how to celebrate it.",
-    "ingested_utc": "2025-11-19T10:15:36Z"
-  },
-  {
-    "published_utc": "2025-11-19",
-    "retrieved_date": "2025-11-19",
-    "retrieved_utc": "2025-11-19T10:15:36Z",
-    "source": "NPR_Top",
-    "title": "Poll: Democrats have biggest advantage for control of Congress in 8 years",
-    "url": "https://www.npr.org/2025/11/19/nx-s1-5611088/poll-democrats-republicans-trump-approval-inflation",
-    "id_key": "02998244b62ddac40b02cdee022f2837a6ff699d21d529d01c78aae2817800b7",
-    "summary": "A new NPR/PBS News/Marist poll shows some major warning signs for President Trump and Republicans ahead of the 2026 midterm elections as Americans want the president to focus on lowering prices.",
-    "ingested_utc": "2025-11-19T10:15:36Z"
-  },
-  {
-    "published_utc": "2025-11-19",
-    "retrieved_date": "2025-11-19",
-    "retrieved_utc": "2025-11-19T10:15:28Z",
-    "source": "NYTimes_Business",
-    "title": "Nvidia and Walmart Could Ease Wall St.’s Jitters. Or Make Them Worse.",
-    "url": "https://www.nytimes.com/2025/11/19/business/stock-market-nvidia-walmart-earnings.html",
-    "id_key": "a6a122530353e1c243bec4132e4b28c53a3248d028308e7b91f8857f0ae99b26",
-    "summary": "After four consecutive down days, the stock market is looking increasingly queasy. Earnings reports from Nvidia, Walmart and Target could hint at what’s ahead.",
-    "ingested_utc": "2025-11-19T10:15:28Z"
-  },
-  {
-    "published_utc": "2025-11-19",
-    "retrieved_date": "2025-11-19",
-    "retrieved_utc": "2025-11-19T10:15:28Z",
-    "source": "NYTimes_Business",
-    "title": "For Victims of Sexual Assault on Cruise Ships, Justice Can Be Elusive",
-    "url": "https://www.nytimes.com/2025/11/19/travel/cruise-lines-sexual-assault.html",
-    "id_key": "bdb3beaf19a633b9c04e0bf4b104ad9c81efa440270227b3dbb3f869751c9f56",
-    "summary": "As cruise travel hits record demand, cases of sexual assault have also risen. Many accusers learn that the rights they had on land don’t always apply.",
-    "ingested_utc": "2025-11-19T10:15:28Z"
-  },
-  {
-    "published_utc": "2025-11-19",
-    "retrieved_date": "2025-11-19",
-    "retrieved_utc": "2025-11-19T10:13:43Z",
-    "source": "CoinJournal",
-    "title": "Crypto.com launches SOL App Campaign with $20K ETH reward pool",
-    "url": "https://coinjournal.net/news/crypto-com-launches-sol-app-campaign-with-20k-eth-reward-pool/",
-    "id_key": "9ebfbd94c15e516369003517d5975a949b6cfd3efcf6c0c4c60b77b0f4c459c4",
-    "summary": "The campaign runs between 19 November and 3 December. Eligible users should buy or deposit SOL worth over $50 using the Crypto.com App. The top 2,000 participants will receive $10 in ETH each. While the broader market seeks footing, with Bitcoin at $90,000, Crypto.com has announced a remarkable opportunity for its users. The exchange took […] The post Crypto.com launches SOL App Campaign with $20K ETH reward pool appeared first on CoinJournal .",
-    "ingested_utc": "2025-11-19T10:13:43Z"
   }
 ]
