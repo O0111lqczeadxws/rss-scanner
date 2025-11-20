@@ -2,6 +2,94 @@
   {
     "published_utc": "2025-11-20",
     "retrieved_date": "2025-11-20",
+    "retrieved_utc": "2025-11-20T20:51:25Z",
+    "source": "HackerNews_Top",
+    "title": "We are replacing OOP with something worse",
+    "url": "https://blog.jsbarretto.com/post/actors",
+    "id_key": "0ba85b372c0d4a9fd7e7639d9de7566ff887e5a7f3262bf3303b628200fec185",
+    "summary": "Comments",
+    "ingested_utc": "2025-11-20T20:51:25Z"
+  },
+  {
+    "published_utc": "2025-11-20",
+    "retrieved_date": "2025-11-20",
+    "retrieved_utc": "2025-11-20T20:51:09Z",
+    "source": "AlJazeera_All",
+    "title": "Sony, Warner and Universal sign AI music licensing deals with startup Klay",
+    "url": "https://www.aljazeera.com/economy/2025/11/20/sony-warner-and-universal-sign-ai-music-licensing-deals-with-startup-klay?traffic_source=rss",
+    "id_key": "e23b2ae1253c205777ecb34328f88dae89562063d002d494e527a7c3c453d148",
+    "summary": "AI-generated music has been flooding streaming services and there is a wave of AI singers and bands that don't exist.",
+    "ingested_utc": "2025-11-20T20:51:09Z"
+  },
+  {
+    "published_utc": "2025-11-20",
+    "retrieved_date": "2025-11-20",
+    "retrieved_utc": "2025-11-20T20:50:58Z",
+    "source": "ArsTechnica_All",
+    "title": "Microsoft makes Zork I, II, and III open source under MIT License",
+    "url": "https://arstechnica.com/gaming/2025/11/microsoft-makes-zork-i-ii-and-iii-open-source-under-mit-license/",
+    "id_key": "6c5ccfcc80e4067fc730f53436a0802743f5eebe25b1e191339cdd0b9e98a153",
+    "summary": "Microsoft's Open Source Programs Office worked with Jason Scott to do it.",
+    "ingested_utc": "2025-11-20T20:50:58Z"
+  },
+  {
+    "published_utc": "2025-11-20",
+    "retrieved_date": "2025-11-20",
+    "retrieved_utc": "2025-11-20T20:50:58Z",
+    "source": "ArsTechnica_All",
+    "title": "Scientists found the key to accurate Maya eclipse tables",
+    "url": "https://arstechnica.com/science/2025/11/study-how-the-maya-created-such-accurate-eclipse-tables/",
+    "id_key": "3e99dee7fdcc1e4a9f48fae90ab41bf229def8a9dff44c8998df6e836464977a",
+    "summary": "Eclipse tables in the Dresden Codex were based on lunar tables and adjusted for slippage over time.",
+    "ingested_utc": "2025-11-20T20:50:58Z"
+  },
+  {
+    "published_utc": "2025-11-20",
+    "retrieved_date": "2025-11-20",
+    "retrieved_utc": "2025-11-20T20:50:58Z",
+    "source": "WIRED_All",
+    "title": "Got a Pixel 10? Google’s Android Phone Can Now Share Files With Apple’s AirDrop",
+    "url": "https://www.wired.com/story/pixel-10-can-now-share-files-with-apples-airdrop/",
+    "id_key": "44b173bf89164acd2361d9948066596166e93db61a654ae2e44568231fbabc7c",
+    "summary": "You can now share deets (and other digital treats) across the mobile divide.",
+    "ingested_utc": "2025-11-20T20:50:58Z"
+  },
+  {
+    "published_utc": "2025-11-20",
+    "retrieved_date": "2025-11-20",
+    "retrieved_utc": "2025-11-20T20:50:30Z",
+    "source": "NYTimes_World",
+    "title": "Trump to Send U.S. Official to G20 in South Africa After All",
+    "url": "https://www.nytimes.com/2025/11/20/world/africa/south-africa-trump-g20-turnaround.html",
+    "id_key": "5dbcbc279128855a8a5bbd54f73cea21296b1c297496fc879a6e255a444bcb15",
+    "summary": "The South African president suggested Washington had decided to participate in the summit, despite an earlier claim of a boycott.",
+    "ingested_utc": "2025-11-20T20:50:30Z"
+  },
+  {
+    "published_utc": "2025-11-20",
+    "retrieved_date": "2025-11-20",
+    "retrieved_utc": "2025-11-20T20:48:28Z",
+    "source": "CryptoSlate",
+    "title": "Andrew Tate loses everything on Hyperliquid: Inside his leveraged crypto liquidation meltdown",
+    "url": "https://cryptoslate.com/inside-andrew-tates-total-crypto-liquidation-meltdown-from-leverage-trading/",
+    "id_key": "dac4aa117038528bb8753cb341b5e9f8f8a5c840cd1cce2144a699c53837af1d",
+    "summary": "Andrew Tate deposited $727,000 into Hyperliquid over the past year, took no withdrawals, and lost the entire stack through a relentless series of leveraged liquidations that culminated on Nov. 18, when his account hit zero. Per Arkham’s on-chain ledger, even the roughly $75,000 in referral commissions Tate earned from bringing traders onto the platform was […] The post Andrew Tate loses everything on Hyperliquid: Inside his leveraged crypto liquidation meltdown appeared first on CryptoSlate .",
+    "ingested_utc": "2025-11-20T20:48:28Z"
+  },
+  {
+    "published_utc": "2025-11-20",
+    "retrieved_date": "2025-11-20",
+    "retrieved_utc": "2025-11-20T20:48:10Z",
+    "source": "Guardian_World",
+    "title": "‘Gobsmacking’ solar farm that could power AI datacentres ‘possibly unparalleled’ in Australia or world",
+    "url": "https://www.theguardian.com/australia-news/2025/nov/20/artificial-intelligence-data-centre-australia-solar-farm-possibly-unparalleled",
+    "id_key": "b43b1bc581e552cd093460061da1e56038d160f5e13c90c09e42827c5db53170",
+    "summary": "SunCable says massive energy project proposed in NT could position Australia as global leader but critics are concerned about scale Sign up for climate and environment editor Adam Morton’s free Clear Air newsletter here Follow our Australia news live blog for latest updates Energy company SunCable says a massive solar farm it has proposed building in the Northern Territory could power an AI datacentre precinct in the region to position Australia as a global leader in “green industrial development”. The development would be Australia’s largest solar farm and would generate up to 20GW of electricity, or 10 times the output of a large coal-fired station. It would add to the company’s plans to build a 12,000ha solar farm at Powell Creek Station, south of Elliott, as part of its proposed Australia-Asia Power Link project. Sign up to get climate and environment editor Adam Morton’s Clear Air column as a free newsletter Continue reading...",
+    "ingested_utc": "2025-11-20T20:48:10Z"
+  },
+  {
+    "published_utc": "2025-11-20",
+    "retrieved_date": "2025-11-20",
     "retrieved_utc": "2025-11-20T20:37:53Z",
     "source": "Engadget_All",
     "title": "ChatGPT group chats roll out to everyone",
@@ -10910,93 +10998,5 @@
     "id_key": "db49e60a910f60d6549dd8e61db7ac20f57dc8f2323ec6088c593badea65be97",
     "summary": "This live blog is refreshed periodically throughout the day with the latest updates from the market.To find the latest Stock Market Today threads, click here. Happy Wednesday. This is TheStreet’s Stock Market Today for Nov. 19, 2025. You can follow the latest updates on the market ...",
     "ingested_utc": "2025-11-19T13:45:55Z"
-  },
-  {
-    "published_utc": "2025-11-19",
-    "retrieved_date": "2025-11-19",
-    "retrieved_utc": "2025-11-19T13:45:46Z",
-    "source": "Engadget_All",
-    "title": "Get up to 75 percent off Proton VPN two-year plans with these Black Friday VPN deals",
-    "url": "https://www.engadget.com/deals/get-up-to-75-percent-off-proton-vpn-two-year-plans-with-these-black-friday-vpn-deals-153737058.html?src=rss",
-    "id_key": "8778d7a53b918169bae73232b4effe0625b181b055da59423f883b30b073e909",
-    "summary": "A VPN subscription can make for a good holiday gift. Everyone could do with having a VPN to help protect their online activity from prying eyes (and, perhaps, access more things to watch from their favorite streaming services). It's something useful that a gift recipient may have never realized they needed. Of course, you may be looking for a great deal on a VPN yourself, and the Black Friday discount for Proton VPN is nothing to sniff at. You can get two years of access to the VPN Plus tier of the service for $59.76, which works out to $2.49 per month. That's a discount of 75 percent compared with the regular price of $10 per month. Overall, you'd save $180. Proton VPN is our pick for the best VPN overall because it checks all of the boxes it needs to. There is a free plan with unlimited data, but with that you can only connect to servers in a few countries and the connection might not be fast enough for you to watch anything from your preferred streaming service's library in that locale. The VPN Plus tier unlocks a lot more options, such as the ability to connect to 15,000 servers across more than 120 countries and simultaneous protection for up to 15 devices. The apps are well-designed — Proton has clients for Windows, Mac, iOS and Android — and it's easy to find a feature or setting you're looking for. In our testing, Proton VPN Plus had a relatively small impact on browsing speeds. Our download speeds dropped by 12 percent and uploads by 4 percent, while the global average ping remained below 300 ms (which is especially impressive if you're connecting to a server on the other side of the planet). Perhaps, most importantly, though, it's Proton's commitment to privacy that helps make its VPN an easy recommendation. There's a no-logs policy, meaning it does not log user activity or any identifiable characteristics of devices that connect to the VPN. Proton's servers use full-disk encryption to bolster privacy as well. Proton VPN is not the only service to offer a Black Friday VPN deal this year, of course. There are plenty of others available on services we like. Here are the best of the bunch if you're looking for an alternative to Proton VPN. Surfshark One (24 months + 3 free months) for $59.13 (88 percent off): A VPN is great, but it's not enough to protect your data all on its own. Surfshark One adds several apps that boost your security beyond just VPN service, including Surfshark Antivirus (scans devices and downloads for malware) and Surfshark Alert (alerts you whenever your sensitive information shows up in a data breach), plus Surfshark Search and Alternative ID from the tier below. This extra-low deal gives you 88 percent off all those features. NordVPN Plus (24 months + 3 free months) for $105.03 (74 percent off): NordVPN has taken 74 percent off its Plus subscription for Black Friday. For only a little more, you get a powerful ad and tracker blocker that can also catch malware downloads, plus access to the NordPass password manager. A Plus plan also adds a data breach scanner that checks the dark web for your sensitive information. CyberGhost (24 months + 4 free months) for $56.94 (84 percent off): CyberGhost has some of the best automation you'll see on any VPN. With its Smart Rules system, you can determine how its apps respond to different types of Wi-Fi networks, with exceptions for specific networks you know by name. Typically, you can set it to auto-connect, disconnect or send you a message asking what to do. CyberGhost's other best feature is its streaming servers — I've found both better video quality and more consistent unblocking when I use them on streaming sites. Private Internet Access (36 months + 4 free months) for $79.20 (83 percent off): Private Internet Access (PIA) is giving out the best available price right now on a VPN I'd recommend using. With this deal, you can get 40 months of PIA for just under $2 per month — an 83 percent discount on its monthly price. Despite being so cheap, PIA has plenty of features, coming with its own DNS servers, a built-in ad blocker and automation powers to rival CyberGhost. However, internet speeds can fluctuate while you're connected. This article originally appeared on Engadget at https://www.engadget.com/deals/get-up-to-75-percent-off-proton-vpn-two-year-plans-with-these-black-friday-vpn-deals-153737058.html?src=rss",
-    "ingested_utc": "2025-11-19T13:45:46Z"
-  },
-  {
-    "published_utc": "2025-11-19",
-    "retrieved_date": "2025-11-19",
-    "retrieved_utc": "2025-11-19T13:45:46Z",
-    "source": "Engadget_All",
-    "title": "Unity games are coming to Fortnite",
-    "url": "https://www.engadget.com/gaming/unity-games-are-coming-to-fortnite-133000076.html?src=rss",
-    "id_key": "1471ec23bdf762b9bbe3aefae93aa24673f88c7893e42154db25f989a50d8089",
-    "summary": "Unity and Epic Games, the creators of today’s biggest video game engines, have announced a partnership that will make Unity games available in Fortnite . Epic has allowed creators to publish their own experiences (or “islands”) within Fortnite since 2018, and the number of experiences has grown considerably over the recent years. In 2024 , 198,000 islands were published within the game, double the number from the previous year. This partnership has the potential to grow Fortnite experiences even further by welcoming Unity developers and can give existing developers more freedom. “Just like the early days of the web, we believe that companies need to work together in order to build the open metaverse in a way that’s interoperable and fair,” said Tim Sweeney, the CEO of Epic Games, in a statement. “Working alongside Unity we’re helping developers build fun games, reach bigger audiences, and find success.” Sweeney announced the partnership with Unity CEO Matt Bromberg at Unity’s annual developer conference. They said that developers will be able to publish games that use Unity’s game engine on Fortnite sometime next year. The companies promised to announce more details and exact timing in the future. Just announced at Unity’s Unite 2025 show in Barcelona: Unity has built an amazing new networking protocol enabling Unity games to come into Fortnite next year. This will enable an incredible variety of games to reach a new audience in new ways! https://t.co/varnV2ybCu — Tim Sweeney (@TimSweeneyEpic) November 19, 2025 In addition, Unity has announced that the cross-platform commerce management dashboard it launched in October will support Unreal Engine. The dashboard allows developers to manage pricing and promotions across websites and stores for mobile and PC from one place. It will start supporting Unreal Engine in early 2026. This article originally appeared on Engadget at https://www.engadget.com/gaming/unity-games-are-coming-to-fortnite-133000076.html?src=rss",
-    "ingested_utc": "2025-11-19T13:45:46Z"
-  },
-  {
-    "published_utc": "2025-11-19",
-    "retrieved_date": "2025-11-19",
-    "retrieved_utc": "2025-11-19T13:45:46Z",
-    "source": "Engadget_All",
-    "title": "The Apple Watch SE 3 hits a record-low price for Black Friday",
-    "url": "https://www.engadget.com/deals/the-apple-watch-se-3-hits-a-record-low-price-for-black-friday-133057844.html?src=rss",
-    "id_key": "115f5cb3d68a764570a195567602d0ff6d7b3a1389a9003028dcb7239a562494",
-    "summary": "Black Friday is almost here, but you can already save on some sought-after tech. Case in point: the new Apple Watch SE 3 . Apple's most affordable smartwatch is even cheaper right now, down to just $200. We consider this to be the best budget Apple Watch , and arguably the best smartwatch for folks who have never owned one before. The latest version runs on the same chipset found in the new flagship models, and it has most of the same fitness and workout tracking features you'll find in those more expensive devices as well. The SE 3 also now has an always-on display, making it easier to glance down throughout the day to check the time or see activity stats without moving your wrist, and fast-charging support makes it a more viable sleep tracker. Just plop it down on its charger for a bit at the end of the day and put it back on to monitor your sleep overnight. Also discounted is the flagship Apple Watch Series 11 , which is $50 off and down to $350. We consider it to be the best smartwatch , period, thanks to its longer battery life, thin and light design, comprehensive health and fitness tracking features and extra perks like gesture control. This article originally appeared on Engadget at https://www.engadget.com/deals/the-apple-watch-se-3-hits-a-record-low-price-for-black-friday-133057844.html?src=rss",
-    "ingested_utc": "2025-11-19T13:45:46Z"
-  },
-  {
-    "published_utc": "2025-11-19",
-    "retrieved_date": "2025-11-19",
-    "retrieved_utc": "2025-11-19T13:45:29Z",
-    "source": "FT_Markets",
-    "title": "‘Baby Shark’ still has teeth",
-    "url": "https://www.ft.com/content/218223d4-e04b-4fe3-9398-52ce7558a38d",
-    "id_key": "c248443aa46cda5f72760ea89bf13eaf245141c6d138d4a4a045f4da72a3b6f0",
-    "summary": "Pinkfong’s success highlights how small, digital-native studios could disrupt the traditional media sector",
-    "ingested_utc": "2025-11-19T13:45:29Z"
-  },
-  {
-    "published_utc": "2025-11-19",
-    "retrieved_date": "2025-11-19",
-    "retrieved_utc": "2025-11-19T13:45:28Z",
-    "source": "FT_Home",
-    "title": "Russian spy ship targeted RAF pilots with lasers, says UK defence secretary",
-    "url": "https://www.ft.com/content/de280e51-7189-43b9-b278-2c95179f53d2",
-    "id_key": "ed55fee7fb74cfd4a91292967745bb3f8f5e0bbe52f81e482f455e914018a8f2",
-    "summary": "John Healey warns that Britain’s rules of engagement have been changed in response to Yantar’s activities",
-    "ingested_utc": "2025-11-19T13:45:28Z"
-  },
-  {
-    "published_utc": "2025-11-19",
-    "retrieved_date": "2025-11-19",
-    "retrieved_utc": "2025-11-19T13:45:28Z",
-    "source": "FT_Home",
-    "title": "UK offers 1% of Brussels’ €6.7bn demand to join EU defence fund",
-    "url": "https://www.ft.com/content/169928bf-4e07-4288-bc04-eebd1b763ae7",
-    "id_key": "ff07d7253a67edaaad626d9889d9b12e2d149ac1ebf67d186f73cc7790932c5c",
-    "summary": "Move raises questions about whether deal can be done before November 30 deadline",
-    "ingested_utc": "2025-11-19T13:45:28Z"
-  },
-  {
-    "published_utc": "2025-11-19",
-    "retrieved_date": "2025-11-19",
-    "retrieved_utc": "2025-11-19T13:45:16Z",
-    "source": "NYTimes_Business",
-    "title": "Trump’s Tariffs Sent Trade Plummeting in August",
-    "url": "https://www.nytimes.com/2025/11/19/us/politics/trumps-tariffs-trade-data.html",
-    "id_key": "94f7dc8a5178e61587d94ee9ba45c12cd2e77fd08366094e3bad775b31b61c2e",
-    "summary": "The steep tariffs President Trump issued in August led to a significant contraction in imports and the trade deficit, newly released data shows.",
-    "ingested_utc": "2025-11-19T13:45:16Z"
-  },
-  {
-    "published_utc": "2025-11-19",
-    "retrieved_date": "2025-11-19",
-    "retrieved_utc": "2025-11-19T13:45:16Z",
-    "source": "NYTimes_Business",
-    "title": "The C.E.O.s Who Came to Dinner (With the Saudi Crown Prince)",
-    "url": "https://www.nytimes.com/2025/11/19/business/dealbook/saudi-arabia-ceos-deals.html",
-    "id_key": "6f61f068699467eb20e1a04c7ead20b3cb985a8599962e8c925afd3078834466",
-    "summary": "The presence of business leaders at a White House event for Crown Prince Mohammed bin Salman underscores a deepening of U.S. and Saudi ties.",
-    "ingested_utc": "2025-11-19T13:45:16Z"
   }
 ]
