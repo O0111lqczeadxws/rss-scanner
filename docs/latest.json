@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-11-20",
     "retrieved_date": "2025-11-20",
+    "retrieved_utc": "2025-11-20T21:39:07Z",
+    "source": "Engadget_All",
+    "title": "Microsoft has open sourced the Zork trilogy of text games",
+    "url": "https://www.engadget.com/gaming/microsoft-has-open-sourced-the-zork-trilogy-of-text-games-213519368.html?src=rss",
+    "id_key": "0375f5e71fe5314ca518f6a7346f60ebe80d0b690ecf677176416344f3e10e00",
+    "summary": "Preservation has become a pressing topic for games in this era of digital-only releases and games-as-a-service. So it's wonderful to have a big win in archiving a trio of seminal text games for the ages. Microsoft announced today that the code for Zork , Zork II and Zork III will be made available open source under the MIT License. The company's Open Source Programs Office, Xbox and Activision all contributed to the effort. \"The goal is not to modernize Zork but to preserve it as a space for exploration and education,\" Microsoft team members wrote in the blog post sharing the news. They're works well-worth studying. The first Zork was a milestone moment for parser games that still inspires the present-day interactive fiction community. Not only was it a unique experience of narrative and puzzles, but the accomplishments of the Z-Machine virtual machine it ran on helped make Zork easily available to players on multiple platforms during the rise of personal computers in the 1990s. There are still modern Z-Machine interpreters out there (or you can buy and play all three Zork titles the normal way thanks to the similarly preservation-minded folks at Good Old Games). The code for many famous text games made by Infocom was released on GitHub in 2019 , but the rights still technically belonged to Activision, which could have issued a takedown. This move keeps the code for this iconic Zork games available for the ages. This article originally appeared on Engadget at https://www.engadget.com/gaming/microsoft-has-open-sourced-the-zork-trilogy-of-text-games-213519368.html?src=rss",
+    "ingested_utc": "2025-11-20T21:39:07Z"
+  },
+  {
+    "published_utc": "2025-11-20",
+    "retrieved_date": "2025-11-20",
     "retrieved_utc": "2025-11-20T21:31:50Z",
     "source": "FinancialPost_Business",
     "title": "SmartStop’s Bliss Edwards Named National Winner in the 2025 Canadian Women in Real Estate Awards",
@@ -10987,16 +10998,5 @@
     "id_key": "055e07cf2b1c2ea299aa266992e71d0db9b52f2f3bb9d3f671d8850d97c93e8e",
     "summary": "Black Friday deals have come for Sony gear, and that means you can get some of the best noise-cancelling headphones on the market for less. The still-excellent WH-1000XM5 wireless headphones are down to $250, which is the lowest price we've seen them. Yes, the latest model, the XM6 , have technically replaced these in Sony's lineup. But if the latest flagships are out of your price range, these former Engadget favorites are well worth considering at this heavily reduced price. We awarded the WH-1000XM5 a score of 95 in our 2022 review , praising the supremely comfortable redesign, sound quality and powerful ANC. Battery life is also very respectable at 30 hours. We found the punchy bass an improvement over their predecessors, and the overall sound deeper and more immersive than the M4 headphones. As for noise-canceling, Sony’s decision to double the number of microphones and processors used for ANC means an improvement in blocking higher frequency sounds, such as human voices. They aren’t entirely baby scream-proof, but then few headphones are. Naturally, the WH-1000XM6 that this year replaced the M5 as Sony’s flagship model offers even better sound quality and noise cancellation, while remaining extremely comfortable throughout long listening sessions. But they’re also a lot more expensive at $450, and if you’re deal-hunting this Black Friday, the WH-1000XM5 headphones are the ones to go for. This article originally appeared on Engadget at https://www.engadget.com/deals/sonys-wh-1000xm5-headphones-are-cheaper-than-ever-in-this-black-friday-deal-124434716.html?src=rss",
     "ingested_utc": "2025-11-19T14:14:43Z"
-  },
-  {
-    "published_utc": "2025-11-19",
-    "retrieved_date": "2025-11-19",
-    "retrieved_utc": "2025-11-19T14:14:40Z",
-    "source": "TechCrunch_All",
-    "title": "Security startup Guardio nabs $80M from ION Crossover Partners",
-    "url": "https://techcrunch.com/2025/11/19/security-startup-guardio-nabs-80m-from-ion-crossover-partners/",
-    "id_key": "8f63b845cdd9bc34a29b14e8ddfce51b351efa950710a99f3d585c9d248237f2",
-    "summary": "Guardio is leveraging its experience building browser extensions and apps that scan for malicious and phishing sites to build a tool that looks for artifacts in code and websites made with vibe coding tools.",
-    "ingested_utc": "2025-11-19T14:14:40Z"
   }
 ]
