@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-11-20",
     "retrieved_date": "2025-11-20",
+    "retrieved_utc": "2025-11-20T23:41:21Z",
+    "source": "TheStreet_Top",
+    "title": "Kroger, Target, Walgreens push tough retail theft, shoplifting rules",
+    "url": "https://www.thestreet.com/retail/kroger-target-walgreens-push-for-law-on-organized-retail-crime",
+    "id_key": "33cc54e6f3b0ff1944be1211e35936e3471b79207d7b72ffc7254717e6c9ab02",
+    "summary": "In many cases, the retail shopping experience has become unpleasant. When you walk into a Target or a Walgreens and find the items you need in a locked cabinet that requires waiting for an employee to get what you need, it's easier to just jump onto your phone and order the item from Amazon. ...",
+    "ingested_utc": "2025-11-20T23:41:21Z"
+  },
+  {
+    "published_utc": "2025-11-20",
+    "retrieved_date": "2025-11-20",
+    "retrieved_utc": "2025-11-20T23:41:12Z",
+    "source": "Engadget_All",
+    "title": "Sales of a teddy bear were suspended because of its sexually explicit AI",
+    "url": "https://www.engadget.com/ai/sales-of-a-teddy-bear-were-suspended-because-of-its-sexually-explicit-ai-233127354.html?src=rss",
+    "id_key": "54b026cd1dbf1547b117c983aed6463cfea0d3b0f48ae8f107c34e38f4a551c7",
+    "summary": "FoloToy, a company selling AI-enabled toys, suspended sales of its products after a consumer safety report showed there were few restrictions around what its toys would talk about, CNN writes . The report, put together by the US Public Interest Research Group Education Fund , found that FoloToy's products would discuss everything from sexually explicit topics like BDSM to \"advice on where a child can find matches or knives.\" The toys, including a teddy bear named \"Kumma,\" a panda named \"Momo,\" anthropomorphic rabbits named \"Fofo\" and a dancing ”Little Cactus ,” all appear to use OpenAI's GPT-4o model to respond naturally to children's questions and comments. FoloToy also specifically advertises the ability to customize each toy’s voice, and a \"Parent Dashboard\" where parents or guardians can \"monitor [their] child's experience.\" FoloToy's AI-enabled Little Cactus toy. Folotoy Missing from that setup was apparently any kind of hard limits on subjects the toys would respond to. \"We were surprised to find how quickly Kumma would take a single sexual topic we introduced into the conversation and run with it, simultaneously escalating in graphic detail while introducing new sexual concepts of its own,\" the report said. In response, FoloToy has opted to suspend sales of its products while it conducts \"a company-wide, end-to-end safety audit across all products,\" the company shared in a statement with the PIRG Education Fund. The company’s reasoning for suspending sales might be a bit more complicated, however. NPR reports that OpenAI actually revoked FoloToy’s access to its models. \"We suspended this developer for violating our policies,\" OpenAI said in an email to NPR . \"Our usage policies prohibit any use of our services to exploit, endanger, or sexualize anyone under 18 years old.” Given GPT-4o's well-documented sycophantic qualities , it's perhaps not surprising that FoloToy's teddy bear eagerly responded to any subject as long as it kept the conversation going. One of the things OpenAI tried to address with the release of GPT-5 was the safety downsides of an AI yes-man, though it ultimately made GPT-4o available again after customers complained about the new model's lack of personality. The company has also rolled out parental controls to ChatGPT to try and mitigate the negative impacts of children using its AI, though it's difficult to say how much of a difference they've made. Notably, OpenAI is interested in getting into the toy business itself. The company announced a partnership with Mattel in June 2025, to help \"reimagine how fans can experience and interact with [Mattel's] cherished brands,\" though both companies will presumably try and prevent their AI toys from discussing sexual kinks. This article originally appeared on Engadget at https://www.engadget.com/ai/sales-of-a-teddy-bear-were-suspended-because-of-its-sexually-explicit-ai-233127354.html?src=rss",
+    "ingested_utc": "2025-11-20T23:41:12Z"
+  },
+  {
+    "published_utc": "2025-11-20",
+    "retrieved_date": "2025-11-20",
+    "retrieved_utc": "2025-11-20T23:38:43Z",
+    "source": "CryptoNews",
+    "title": "Best Altcoin Coin to Buy During the Crypto Crash – 20 November",
+    "url": "https://cryptonews.com/news/best-altcoin-coin-to-buy-during-the-crypto-crash-20-november/",
+    "id_key": "dbd79f6b74802d8105f676f50ead5329d5def20fd364d05ada0af169c5f26dcd",
+    "summary": "Amid AI bubble concerns, Bitcoin has returned to $91,000 and major altcoins have slipped, while PEPENODE’s mine-to-earn presale has raised $2.17 million and has been framed as the best altcoin coin for traders expecting a potential crypto rebound into 2026. The post Best Altcoin Coin to Buy During the Crypto Crash – 20 November appeared first on Cryptonews .",
+    "ingested_utc": "2025-11-20T23:38:43Z"
+  },
+  {
+    "published_utc": "2025-11-20",
+    "retrieved_date": "2025-11-20",
     "retrieved_utc": "2025-11-20T23:31:25Z",
     "source": "FinancialPost_Business",
     "title": "Molson Coors Beverage Company Announces Regular Quarterly Dividend",
@@ -10964,39 +10997,6 @@
     "url": "https://financialpost.com/globe-newswire/the-biotech-sector-is-seeing-a-major-boost-from-programmable-cell-therapies-in-chronic-disease-care",
     "id_key": "9f042f3d5344b97c085539cc1c35179021a5a5d04634fb3d60d777f42e4164bb",
     "summary": "Issued on behalf of Avant Technologies Inc. VANCOUVER, British Columbia, Nov. 19, 2025 (GLOBE NEWSWIRE) — USA News Group News Commentary – The autologous cell therapy market surpassed $10.1 billion in 2025 as biotechnology companies race to commercialize therapies that read, replace, and rewrite cellular behavior to combat age-related diseases and metabolic disorders. The cell […]",
-    "ingested_utc": "2025-11-19T15:16:15Z"
-  },
-  {
-    "published_utc": "2025-11-19",
-    "retrieved_date": "2025-11-19",
-    "retrieved_utc": "2025-11-19T15:16:15Z",
-    "source": "FinancialPost_Business",
-    "title": "Synthio Labs Raises $5 Million to Build the Voice AI Operating System for Life Sciences Customer Engagement",
-    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/synthio-labs-raises-5-million-to-build-the-voice-ai-operating-system-for-life-sciences-customer-engagement",
-    "id_key": "b85f1b691a5067bbae75b232ff8bcba6c5b635f3de096d672d6affa7afdeb3cb",
-    "summary": "SAN FRANCISCO — Synthio Labs, a clinical-grade voice AI company transforming how life sciences organisations engage clinicians and patients, today announced that it has raised $5 million in seed funding. The round was led by Elevation Capital with participation from 1984 Ventures, Peak XV Partners, Y Combinator, and several strategic angels from the global healthcare […]",
-    "ingested_utc": "2025-11-19T15:16:15Z"
-  },
-  {
-    "published_utc": "2025-11-19",
-    "retrieved_date": "2025-11-19",
-    "retrieved_utc": "2025-11-19T15:16:15Z",
-    "source": "FinancialPost_Business",
-    "title": "Brazil joint venture partner receives regulatory approval",
-    "url": "https://financialpost.com/globe-newswire/brazil-joint-venture-partner-receives-regulatory-approval",
-    "id_key": "e9720479d6a72bc3ab44aee92757a0794758727466d3202cdb502083d4e347f3",
-    "summary": "THIS NEWS RELEASE IS NOT FOR DISSEMINATION OR DISTRIBUTION IN THE UNITED STATES OF AMERICA TO UNITED STATES NEWSWIRE SERVICES OR UNITED STATES PERSONS CALGARY, Alberta, Nov. 19, 2025 (GLOBE NEWSWIRE) — Questerre Energy Corporation (“Questerre” or the “Company”) (TSX,OSE:QEC) reported today that Nice Capital Holdings Ltda. (“Nice”), a member of the Nimofast Group (“Nimofast’), […]",
-    "ingested_utc": "2025-11-19T15:16:15Z"
-  },
-  {
-    "published_utc": "2025-11-19",
-    "retrieved_date": "2025-11-19",
-    "retrieved_utc": "2025-11-19T15:16:15Z",
-    "source": "FinancialPost_Business",
-    "title": "Marks & Spencer Launches Re:Spark to Ignite Renewable Electricity Adoption Across Its Fashion Supply Chain",
-    "url": "https://financialpost.com/globe-newswire/marks-spencer-launches-respark-to-ignite-renewable-electricity-adoption-across-its-fashion-supply-chain",
-    "id_key": "e0805acf1225245b9235222af58ea99c3d2c69b980ffcc5db4db51ac5a57550a",
-    "summary": "Marks & Spencer, a major British multinational retailer, has today announced the launch of RE:Spark, a new supply chain decarbonization programme developed in partnership with Schneider Electric, a global energy technology leader. The announcement was unveiled at Schneider Electric’s Innovation Summit North America in Las Vegas, convening more than 2,500 business leaders and market innovators to accelerate […]",
     "ingested_utc": "2025-11-19T15:16:15Z"
   }
 ]
