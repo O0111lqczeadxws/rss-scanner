@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-11-20",
     "retrieved_date": "2025-11-20",
+    "retrieved_utc": "2025-11-20T11:30:32Z",
+    "source": "FinancialPost_Business",
+    "title": "Germany on Track for Growth in Fourth Quarter, Bundesbank Says",
+    "url": "https://financialpost.com/pmn/business-pmn/germany-on-track-for-growth-in-fourth-quarter-bundesbank-says",
+    "id_key": "443aef3e6f97bd49b1856485a74b6cdc27cd2f37b17c4c8df84a48cb1fc81efd",
+    "summary": "Germany’s economy may return to growth in the final three months of the year as the volatility created by US tariffs subsides, according to the Bundesbank.",
+    "ingested_utc": "2025-11-20T11:30:32Z"
+  },
+  {
+    "published_utc": "2025-11-20",
+    "retrieved_date": "2025-11-20",
+    "retrieved_utc": "2025-11-20T11:29:59Z",
+    "source": "FT_Home",
+    "title": "The bull case for 2026",
+    "url": "https://www.ft.com/content/a519e240-d6b2-44a1-a97a-5a67c133142c",
+    "id_key": "5710da0e474da0e58f222cbf6fa13d89f807db68ddd2dc563e49d71eed74d5fe",
+    "summary": "And the bitcoin meltdown",
+    "ingested_utc": "2025-11-20T11:29:59Z"
+  },
+  {
+    "published_utc": "2025-11-20",
+    "retrieved_date": "2025-11-20",
+    "retrieved_utc": "2025-11-20T11:27:34Z",
+    "source": "Guardian_World",
+    "title": "‘We could have asked ChatGPT’: students fight back over course taught by AI",
+    "url": "https://www.theguardian.com/education/2025/nov/20/university-of-staffordshire-course-taught-in-large-part-by-ai-artificial-intelligence",
+    "id_key": "ed8f8e911d28e57461fedcb313e57fb48e3beb508b27b79f57a8197d7257c155",
+    "summary": "Staffordshire students say signs material was AI-generated included suspicious file names and rogue voiceover accent Students at the University of Staffordshire have said they feel “robbed of knowledge and enjoyment” after a course they hoped would launch their digital careers turned out to be taught in large part by AI. James and Owen were among 41 students who took a coding module at Staffordshire last year, hoping to change careers through a government-funded apprenticeship programme designed to help them become cybersecurity experts or software engineers. Continue reading...",
+    "ingested_utc": "2025-11-20T11:27:34Z"
+  },
+  {
+    "published_utc": "2025-11-20",
+    "retrieved_date": "2025-11-20",
     "retrieved_utc": "2025-11-20T11:14:20Z",
     "source": "FinancialPost_Business",
     "title": "Vena Earns Repeat Recognition as One of Canada’s Most Admired Corporate Cultures",
@@ -10965,38 +10998,5 @@
     "id_key": "5a53da5e24fa2a0b40a97a6415ca7c8e55e262178bdc6cd208afcbc04f81157d",
     "summary": "Saudi Crown Prince Mohammed bin Salman promised to invest almost a trillion dollars in new deals with the US.",
     "ingested_utc": "2025-11-18T21:51:12Z"
-  },
-  {
-    "published_utc": "2025-11-18",
-    "retrieved_date": "2025-11-18",
-    "retrieved_utc": "2025-11-18T21:51:12Z",
-    "source": "AlJazeera_All",
-    "title": "House passes bill demanding government release Epstein files",
-    "url": "https://www.aljazeera.com/video/newsfeed/2025/11/18/house-passes-bill-demanding-government-release-epstein-files?traffic_source=rss",
-    "id_key": "07283470c63169c230ab9c383abf3acac6976010c2ab197e177aabd139d38f7d",
-    "summary": "The US House of Representatives voted 427 to 1 to release documents related to sexual offender Jeffrey Epstein.",
-    "ingested_utc": "2025-11-18T21:51:12Z"
-  },
-  {
-    "published_utc": "2025-11-18",
-    "retrieved_date": "2025-11-18",
-    "retrieved_utc": "2025-11-18T21:51:12Z",
-    "source": "AlJazeera_All",
-    "title": "MBS: No normalisation with Israel without path to Palestinian statehood",
-    "url": "https://www.aljazeera.com/video/newsfeed/2025/11/18/mbs-no-normalisation-with-israel-without-path-to-palestinian-statehood?traffic_source=rss",
-    "id_key": "7116373aaca54cf23ed6323dce908719dee7372c642b5fe2abda8e312df9ee4b",
-    "summary": "Saudi Crown Prince Mohammed bin Salman says Riyadh sought to join Trump’s Abraham Accords to normalise ties with Israel.",
-    "ingested_utc": "2025-11-18T21:51:12Z"
-  },
-  {
-    "published_utc": "2025-11-18",
-    "retrieved_date": "2025-11-18",
-    "retrieved_utc": "2025-11-18T21:51:11Z",
-    "source": "TheStreet_Top",
-    "title": "Macy’s is selling a $272 Lenox 12-piece dinnerware set for only $71, just in time for Thanksgiving dinner",
-    "url": "https://www.thestreet.com/deals/lenox-bay-colors-12-piece-dinnerware-set-macys-sale-black-friday-2025",
-    "id_key": "7ede36def91977f20a98bd24e5af88464231166b9acb07f1f2b314cd1fe43263",
-    "summary": "Set your table with these \"stunning\" plates and bowls at a steal.",
-    "ingested_utc": "2025-11-18T21:51:11Z"
   }
 ]
