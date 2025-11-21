@@ -2,6 +2,105 @@
   {
     "published_utc": "2025-11-21",
     "retrieved_date": "2025-11-21",
+    "retrieved_utc": "2025-11-21T03:33:25Z",
+    "source": "NYTimes_Business",
+    "title": "Anxiety Over A.I. Spending Returns to Global Markets",
+    "url": "https://www.nytimes.com/2025/11/20/business/stocks-ai-global.html",
+    "id_key": "f9648c1d8cefb2c33da7a83d2e2a145ed1773bbb9017740ced47264c794a6a9e",
+    "summary": "A sharp reversal in Asian stocks, after a rally fueled by Nvidia’s strong earnings, underscores how fears of an A.I. bubble are driving broad market swings.",
+    "ingested_utc": "2025-11-21T03:33:25Z"
+  },
+  {
+    "published_utc": "2025-11-21",
+    "retrieved_date": "2025-11-21",
+    "retrieved_utc": "2025-11-21T03:33:06Z",
+    "source": "Guardian_World",
+    "title": "Australia news live: Twitch added to under-16s social media ban; Tropical Cyclone Fina forecast to cross NT coast by Saturday morning",
+    "url": "https://www.theguardian.com/australia-news/live/2025/nov/21/australia-news-live-mark-dreyfus-republic-anthony-albanese-g20-south-africa-eu-trade-deal-nt-cyclone-darwin-airlines-powerbank-ban-nsw-politics-leadership-kellie-sloane-ntwnfb",
+    "id_key": "9a284bddc664eb6018623322e1bb74bdbcd4f9ca895922f476f1cf5135a4aa4e",
+    "summary": "Follow today’s news live Wieambilla police shooting: coroner delivers findings into Train family killings of three people on remote Queensland property Get our breaking news email , free app or daily news podcast Government urging those in Fina’s path to stay up-to-date and heed warnings Kristy McBain , the federal minister for emergency management, said officials are urging people to “prioritise their safety” and heed cyclone warnings and advice. We’ve been working really closely with the Northern Territory government on the pre-deployment of assets, but it is really important that people listen to those warnings and they’ll be continually updated. … But these things are a little bit unpredictable at this stage. So we’re just asking people to be aware. Fina is forecast to further intensify to a severe tropical cyclone during Sunday afternoon in the southern Timor Sea. There continues to remain a chance that it could reach category 3 intensity earlier, during late Friday or early Saturday as it moves into the Van Diemen Gulf. Continue reading...",
+    "ingested_utc": "2025-11-21T03:33:06Z"
+  },
+  {
+    "published_utc": "2025-11-21",
+    "retrieved_date": "2025-11-21",
+    "retrieved_utc": "2025-11-21T03:33:06Z",
+    "source": "Guardian_World",
+    "title": "Wieambilla police shooting not ‘terrorism’ but driven by Train family’s shared ‘delusions’, Queensland coroner finds",
+    "url": "https://www.theguardian.com/australia-news/2025/nov/21/wieambilla-qld-police-shooting-inquest-coroner-report-findings-queensland-ntwnfb",
+    "id_key": "eb02e91f55fcc3695ba58093bc87fb3a12d738d4f331808bd29e3d48a238622d",
+    "summary": "Coroner’s report into deaths of Rachel McCrow, Matthew Arnold and Alan Dare released following five-day inquest Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast A Queensland coroner has found that the three members of the Train family behind the 2022 Wieambilla shootings were not terrorists, but instead killed two police officers and a neighbour due to their shared “persecutory” delusions. Officers Rachel McCrow and Matthew Arnold were killed by the trio of conspiracy theorists at the remote property about 270km west of Brisbane on 12 December 2022. Continue reading...",
+    "ingested_utc": "2025-11-21T03:33:06Z"
+  },
+  {
+    "published_utc": "2025-11-21",
+    "retrieved_date": "2025-11-21",
+    "retrieved_utc": "2025-11-21T03:32:45Z",
+    "source": "CardanoNode_Releases",
+    "title": "10.5.2",
+    "url": "https://github.com/IntersectMBO/cardano-node/releases/tag/10.5.2",
+    "id_key": "c523002246f0efb2fefb4057e24e61280d3577050c371344e3115217a64d202a",
+    "summary": "This is a bugfix release addressing an issue with hash sizes and an issue in the networking stack concerning peer selection, where under some conditions the periodic churn mechanism may not meet its design intent and fail to demote sufficiently many warm peers. In turn, further sampling of active peers from this pool may not be sufficiently diverse over longer time frames. It is recommended for SPO's to upgrade to this release. This fixes a bug found with cardano-ignite : a tool for managing Cardano testnets with multiple stake pools distributed across different simulated regions. It is mandatory that SPO's upgrade to this version promptly Technical Specification Minimum System Requirements An Intel or AMD x86 processor with two or more cores, at 1.6GHz or faster (2GHz or faster for a stake pool or relay) Or, for MacOS, an Apple Silicon (M1, M2, M3 or M4) processor 24GB of RAM when running with the InMemory backend, 8GB when running with the OnDisk backend (pending confirmation) 300GB of free storage (350GB recommended for future growth) Platforms Linux 64-bit (Ubuntu 20.04 LTS, 22.04 LTS, 24.04 LTS; Mint 20, 21, 21.1, 21.2, 21.3, 22, 22.1; Debian 11, 12) Windows 64-bit (10, 11) MacOS 10.15, 11 (Big Sur), 12 (Monterey), 13 (Ventura), 14 (Sonoma), 15 (Sequioa) GHC/Cabal supported versions GHC 9.6 Cabal 3.8/3.12 Supported roles Platform Block Production Relay Client (Desktop) Linux 🟢 🟢 🟢 Windows 🟥 🟥 🟢 MacOS 🟥 🟥 🟢 Downloads TBD Pre-release configuration files Docker Image Documentation Cardano Node documentation For details about changes to configuration for UTxO-HD please refer to the Consensus docs on UTxO-HD The getting started guide may also be helpful for general queries. Networking options and related changes are listed on the P2P section Cardano CLI Internal API docs for ledger , consensus and network Compatibility matrix Sign-off Role Approval Technical Steering Committee (Intersect) 🟥 Product Committee (Intersect) 🟢 Test Engineer 🟥 Performance Engineer 🟥 Site Reliability Engineer 🟢 Release Engineer 🟥 Note: all checkmarks weren't availabe, but we deemed it worth publishing so SPOs stuck on preview could start upgrading. Legend 🟢 - signed / agreed / supported 🟥 - not agreed / unsupported",
+    "ingested_utc": "2025-11-21T03:32:45Z"
+  },
+  {
+    "published_utc": "2025-11-21",
+    "retrieved_date": "2025-11-21",
+    "retrieved_utc": "2025-11-21T03:31:26Z",
+    "source": "CryptoBriefing",
+    "title": "Shanghai Composite Index falls 1.5% to one-month low",
+    "url": "https://cryptobriefing.com/shanghai-composite-index-falls-one-month-low/",
+    "id_key": "7ac86f82ce229fb15d4055198a501842a582f132aefc3345006bea51de8095a2",
+    "summary": "The decline signals potential investor uncertainty and challenges in China's economic recovery despite policy support and stimulus efforts. The post Shanghai Composite Index falls 1.5% to one-month low appeared first on Crypto Briefing .",
+    "ingested_utc": "2025-11-21T03:31:26Z"
+  },
+  {
+    "published_utc": "2025-11-21",
+    "retrieved_date": "2025-11-21",
+    "retrieved_utc": "2025-11-21T03:31:06Z",
+    "source": "Guardian_World",
+    "title": "Australia news live: coroner delivers Wieambilla inquest findings saying police Glocks ‘woefully inadequate’ in ambush",
+    "url": "https://www.theguardian.com/australia-news/live/2025/nov/21/australia-news-live-mark-dreyfus-republic-anthony-albanese-g20-south-africa-eu-trade-deal-nt-cyclone-darwin-airlines-powerbank-ban-nsw-politics-leadership-kellie-sloane-ntwnfb",
+    "id_key": "1f7b1a329b12dd48605034ffe0f1359c8121ed274ba67f7bb47d40de2f1e9b7b",
+    "summary": "Follow today’s news live Wieambilla police shooting: coroner delivers findings into Train family killings of three people on remote Queensland property Get our breaking news email , free app or daily news podcast Government urging those in Fina’s path to stay up-to-date and heed warnings Kristy McBain , the federal minister for emergency management, said officials are urging people to “prioritise their safety” and heed cyclone warnings and advice. We’ve been working really closely with the Northern Territory government on the pre-deployment of assets, but it is really important that people listen to those warnings and they’ll be continually updated. … But these things are a little bit unpredictable at this stage. So we’re just asking people to be aware. Fina is forecast to further intensify to a severe tropical cyclone during Sunday afternoon in the southern Timor Sea. There continues to remain a chance that it could reach category 3 intensity earlier, during late Friday or early Saturday as it moves into the Van Diemen Gulf. Continue reading...",
+    "ingested_utc": "2025-11-21T03:31:06Z"
+  },
+  {
+    "published_utc": "2025-11-21",
+    "retrieved_date": "2025-11-21",
+    "retrieved_utc": "2025-11-21T03:31:06Z",
+    "source": "Guardian_World",
+    "title": "Man becomes first to be convicted of hate speech against trans people in NSW",
+    "url": "https://www.theguardian.com/australia-news/2025/nov/21/man-becomes-first-to-be-convicted-of-hate-speech-against-trans-people-in-nsw-ntwnfb",
+    "id_key": "abfc2f375f1e6c752a38dba121a4893af0086045f947a7a97ed5031c1100455d",
+    "summary": "Man sentenced to community correction order after pleading guilty to threatening or inciting violence on grounds of gender identity Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast A New South Wales man who called for violence and created an “invitation on social media for a genocide” has become the state’s first person to be convicted of hate speech against transgender people. Thomas Fordham, 27, was on Wednesday sentenced to a 12-month community correction order for the offence in Sydney’s Central local court, with magistrate Christopher Halburd acknowledging his “multitude” of mental health conditions. Continue reading...",
+    "ingested_utc": "2025-11-21T03:31:06Z"
+  },
+  {
+    "published_utc": "2025-11-21",
+    "retrieved_date": "2025-11-21",
+    "retrieved_utc": "2025-11-21T03:31:06Z",
+    "source": "Guardian_World",
+    "title": "White House walks back Trump’s suggestion of executing Democrats, stands by ‘piggy’ insult to reporter– as it happened",
+    "url": "https://www.theguardian.com/us-news/live/2025/nov/20/donald-trump-jeffrey-epstein-justice-department-zohran-mamdani-news-updates-us-politics-live",
+    "id_key": "d07970144bad1a1f7ca26ebab38969c95fa962f0f45bbcd84d07b6cc38e05408",
+    "summary": "This live blog is now closed. Trump news at a glance: president says Democrats should be arrested for ‘seditious behavior’, drawing outrage The Trump administration presented a new plan to roll back regulations in the Endangered Species Act (ESA) on Wednesday, a move experts fear will accelerate the extinction crisis if adopted. The proposed changes would allow the federal government more power to weigh economic impact against habitat designations, remove safeguards against future events – including the impacts from the climate crisis – and rescind the “blanket rule” that automatically grants threatened species the same protections as those designated as endangered. Continue reading...",
+    "ingested_utc": "2025-11-21T03:31:06Z"
+  },
+  {
+    "published_utc": "2025-11-21",
+    "retrieved_date": "2025-11-21",
+    "retrieved_utc": "2025-11-21T03:31:03Z",
+    "source": "BBC_World",
+    "title": "Cuter and closer: Raccoons may be on their way to becoming America's next pet",
+    "url": "https://www.bbc.com/news/articles/c1j8j48e5z2o?at_medium=RSS&at_campaign=rss",
+    "id_key": "46ff95b0dc35f32e4feaf64107666c24329a28d55c6053946ee925fb6757f619",
+    "summary": "The rubbish raiders are showing reductions in snout length, a sign of early domestication, researchers say.",
+    "ingested_utc": "2025-11-21T03:31:03Z"
+  },
+  {
+    "published_utc": "2025-11-21",
+    "retrieved_date": "2025-11-21",
     "retrieved_utc": "2025-11-21T02:29:28Z",
     "source": "Nikkei_Asia_Top",
     "title": "Singapore hikes 2025 GDP growth forecast to 'around 4%' as exports surge",
@@ -10899,104 +10998,5 @@
     "id_key": "debc7c6c478509bfda40958e40b497f7bacbf62c2dd2f4535dda6c4f3b5d4878",
     "summary": "US sanctions on Russia’s biggest oil companies have added to fears of shortages from refinery shutdowns",
     "ingested_utc": "2025-11-19T17:17:46Z"
-  },
-  {
-    "published_utc": "2025-11-19",
-    "retrieved_date": "2025-11-19",
-    "retrieved_utc": "2025-11-19T17:15:42Z",
-    "source": "CryptoNews",
-    "title": "Altcoin Season Pockets: MYX, Starknet And AB Rise In Extreme Fear",
-    "url": "https://cryptonews.com/news/altcoin-season-pockets-myx-starknet-and-ab-rise-in-extreme-fear/",
-    "id_key": "bf639a157694ce757ff8dc3f2b57d727e313ca159e61c20b37440eaec51ebe70",
-    "summary": "Altcoin season has remained narrow as MYX Finance, Starknet and AB have advanced against weak sentiment, with Bitcoin near $91,000 and the Crypto Fear and Greed Index near yearly lows, showing that capital has favored a few incentive-driven themes over broad altcoin participation. The post Altcoin Season Pockets: MYX, Starknet And AB Rise In Extreme Fear appeared first on Cryptonews .",
-    "ingested_utc": "2025-11-19T17:15:42Z"
-  },
-  {
-    "published_utc": "2025-11-19",
-    "retrieved_date": "2025-11-19",
-    "retrieved_utc": "2025-11-19T17:15:40Z",
-    "source": "CryptoBriefing",
-    "title": "Grayscale set to launch XRP trust ETF",
-    "url": "https://cryptobriefing.com/grayscale-xrp-trust-etf-launch/",
-    "id_key": "e5710b72437ae823833a33e3a4bc6ad64f7e00fbf1670f8d6041a9f447d203a0",
-    "summary": "Grayscale's move to launch an XRP ETF could enhance mainstream adoption and regulatory acceptance of cryptocurrency investments. The post Grayscale set to launch XRP trust ETF appeared first on Crypto Briefing .",
-    "ingested_utc": "2025-11-19T17:15:40Z"
-  },
-  {
-    "published_utc": "2025-11-19",
-    "retrieved_date": "2025-11-19",
-    "retrieved_utc": "2025-11-19T17:15:40Z",
-    "source": "CryptoBriefing",
-    "title": "Polymarket shows 50% odds of Bitcoin reaching $85K in November",
-    "url": "https://cryptobriefing.com/polymarket-bitcoin-85k-odds-november/",
-    "id_key": "0a6ff53acde016907882ae4825deab1d90661a5e1d06c22a0e2f271ba40ac5ec",
-    "summary": "Polymarket gives 50% odds of Bitcoin hitting $85K in November as BTC falls below $90K amid broader market weakness. The post Polymarket shows 50% odds of Bitcoin reaching $85K in November appeared first on Crypto Briefing .",
-    "ingested_utc": "2025-11-19T17:15:40Z"
-  },
-  {
-    "published_utc": "2025-11-19",
-    "retrieved_date": "2025-11-19",
-    "retrieved_utc": "2025-11-19T17:15:22Z",
-    "source": "Guardian_World",
-    "title": "Ticket touts’ worst nightmare has finally come true in the UK",
-    "url": "https://www.theguardian.com/money/2025/nov/19/ticket-touts-worst-nightmare-has-finally-come-true-in-the-uk",
-    "id_key": "843ca7999cb89687398f3948e4ec677d2adea32a73193b1a968e29c73f3b4aae",
-    "summary": "Government has officially announced ban on reselling for profit, described by minister as ‘no-brainer’ Last May, in a dimly lit basement beneath London’s South Bank, the UK’s most prolific ticket touts gathered to discuss Labour’s plan to effectively put them out of business. One seasoned ticket “trader” pleaded with colleagues to help fund a war chest to lobby against the party’s election manifesto pledge to ban reselling tickets for profit. Continue reading...",
-    "ingested_utc": "2025-11-19T17:15:22Z"
-  },
-  {
-    "published_utc": "2025-11-19",
-    "retrieved_date": "2025-11-19",
-    "retrieved_utc": "2025-11-19T17:15:22Z",
-    "source": "Guardian_World",
-    "title": "Reform UK councillor suspended over WhatsApp group featuring extremist posts",
-    "url": "https://www.theguardian.com/politics/2025/nov/19/reform-uk-councillor-suspended-over-whatsapp-group-featuring-extremist-posts",
-    "id_key": "63f5779d869f56f6302734bbd7d165ca6aafefed6142a4bb3ba17eab5ec5532b",
-    "summary": "Tom Pickup confirms he was member of group in which one participant allegedly called for ‘mass Islam genocide’ A Reform UK councillor has been suspended for participating in a WhatsApp group where members allegedly called for a “mass Islam genocide”. Tom Pickup, who was elected to Lancashire county council in May, confirmed to the Guardian he was a member of the group set up by a rightwing activist. Continue reading...",
-    "ingested_utc": "2025-11-19T17:15:22Z"
-  },
-  {
-    "published_utc": "2025-11-19",
-    "retrieved_date": "2025-11-19",
-    "retrieved_utc": "2025-11-19T17:15:21Z",
-    "source": "Guardian_World",
-    "title": "Divide over fossil fuels phaseout can be bridged, Cop30 president says",
-    "url": "https://www.theguardian.com/environment/2025/nov/19/divide-over-fossil-fuels-phaseout-can-be-bridged-cop30-president-says",
-    "id_key": "f96d804614f7796bdae0ab93a9029a778dee7a25f6ed7a8bf9c44debe5ffe655",
-    "summary": "Exclusive: André Corrêa do Lago says rise of clean energy must be acknowledged and rich countries need to do more Cop30 live –latest updates Cop30: click here for full Guardian coverage of climate talks in Brazil Oil-producing countries need to acknowledge the rise of clean energy, and rich countries will have to provide more assurances on finance if the chasm between negotiating nations at Cop30 is to be bridged, the president of the summit has said. André Corrêa do Lago, the veteran Brazilian climate diplomat in charge of the talks, said: “Developing countries are looking at developed countries as countries that could be much more generous in supporting them to be more sustainable. They could offer more finance, and technology.” Continue reading...",
-    "ingested_utc": "2025-11-19T17:15:21Z"
-  },
-  {
-    "published_utc": "2025-11-19",
-    "retrieved_date": "2025-11-19",
-    "retrieved_utc": "2025-11-19T17:15:18Z",
-    "source": "BBC_World",
-    "title": "'I won't be silenced' says French anti-drugs activist after murders of two brothers",
-    "url": "https://www.bbc.com/news/articles/cz6n6j0d3xpo?at_medium=RSS&at_campaign=rss",
-    "id_key": "e0e251136087f90ade2ed5c64ac9df5fd69dcafb2a4fc12234b3611fad76ae95",
-    "summary": "Drugs gangs have a grip on Marseille, but Amine Kessaci says he has \"no choice but to fight\" after the violent deaths of his brothers.",
-    "ingested_utc": "2025-11-19T17:15:18Z"
-  },
-  {
-    "published_utc": "2025-11-19",
-    "retrieved_date": "2025-11-19",
-    "retrieved_utc": "2025-11-19T17:00:41Z",
-    "source": "HackerNews_Top",
-    "title": "Outdated Samsung handset linked to fatal emergency call failure in Australia",
-    "url": "https://www.theregister.com/2025/11/18/samsung_emergency_call_failure/",
-    "id_key": "8fd8ba496664055e33b455e224d589bca6a66d0954cba597205f919e17361eb7",
-    "summary": "Comments",
-    "ingested_utc": "2025-11-19T17:00:41Z"
-  },
-  {
-    "published_utc": "2025-11-19",
-    "retrieved_date": "2025-11-19",
-    "retrieved_utc": "2025-11-19T17:00:31Z",
-    "source": "FinancialPost_Business",
-    "title": "Humber River Health 10th Anniversary Event Raises Over $2.55 Million to Power the Next Decade of Innovation and Patient-Centered Care",
-    "url": "https://financialpost.com/globe-newswire/humber-river-health-10th-anniversary-event-raises-over-2-55-million-to-power-the-next-decade-of-innovation-and-patient-centered-care",
-    "id_key": "d1d8a5927862c13047818907fae88c934867884be8f6fdf8c5c43333ff002a19",
-    "summary": "TORONTO, Nov. 19, 2025 (GLOBE NEWSWIRE) — On Friday, November 14, more than 800 guests came together to party with a purpose at The International Centre for a dazzling night of celebration, generosity, and inspiration at Humber River Health Foundation’s Sapphire Soirée, marking 10 years of innovation, compassion, and community care at Humber River Health’s Wilson […]",
-    "ingested_utc": "2025-11-19T17:00:31Z"
   }
 ]
