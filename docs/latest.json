@@ -8108,6 +8108,17 @@
   },
   {
     "published_utc": "2025-11-19",
+    "retrieved_date": "2025-11-21",
+    "retrieved_utc": "2025-11-21T04:52:40Z",
+    "source": "BBC_Business",
+    "title": "On the front line of Europe's standoff with Russia's sanction-busting shadow fleet",
+    "url": "https://www.bbc.com/news/articles/cz91dk0l50no?at_medium=RSS&at_campaign=rss",
+    "id_key": "cbb37fd8b1b9fc2ef75423e7d526a5d12b3f0c39ba1081933686d34bf52de583",
+    "summary": "With Europe imposing sanctions on Moscow, there has been a growing network of vessels sailing without a valid flag from Russia through European waters.",
+    "ingested_utc": "2025-11-21T04:52:40Z"
+  },
+  {
+    "published_utc": "2025-11-19",
     "retrieved_date": "2025-11-20",
     "retrieved_utc": "2025-11-20T17:17:28Z",
     "source": "TheStreet_Top",
@@ -10987,16 +10998,5 @@
     "id_key": "86ac3a0276cb9ac1de59847bd992bdd6861f38572451738eed9ef2f087eea158",
     "summary": "Bitcoin Magazine Kraken Files for IPO After $800 Million Fundraising at $20 Billion Valuation Kraken filed confidentially for a U.S. IPO through Payward, Inc. after an $800 million fundraising that valued the exchange at $20 billion. This post Kraken Files for IPO After $800 Million Fundraising at $20 Billion Valuation first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
     "ingested_utc": "2025-11-19T17:41:41Z"
-  },
-  {
-    "published_utc": "2025-11-19",
-    "retrieved_date": "2025-11-19",
-    "retrieved_utc": "2025-11-19T17:41:40Z",
-    "source": "Blockworks",
-    "title": "We should give everybody unrestricted access to leveraged perpetuals for stocks",
-    "url": "https://blockworks.co/news/everybody-leveraged-perpetuals-stocks",
-    "id_key": "3c9fdeef1b828eb7ed0c73d450d928f92d10040cc9278421c04a2122df166bef",
-    "summary": "MegaETH’s mainnet beta launch is imminent; meanwhile, equity perpetuals markets accelerate across HIP-3 providers",
-    "ingested_utc": "2025-11-19T17:41:40Z"
   }
 ]
