@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-11-21",
     "retrieved_date": "2025-11-21",
+    "retrieved_utc": "2025-11-21T07:50:28Z",
+    "source": "FinancialPost_Business",
+    "title": "UK Energy Bills to Rise Slightly Driven by Higher Policy Costs",
+    "url": "https://financialpost.com/pmn/business-pmn/uk-energy-bills-to-rise-slightly-driven-by-higher-policy-costs",
+    "id_key": "754471b1b942127d42bf623bf201a5d8cf7f592b8f865061ca7450297970f560",
+    "summary": "UK energy bills will rise slightly in January, with the cost of government policy continuing to keep bills high even as wholesale energy prices fall.",
+    "ingested_utc": "2025-11-21T07:50:28Z"
+  },
+  {
+    "published_utc": "2025-11-21",
+    "retrieved_date": "2025-11-21",
+    "retrieved_utc": "2025-11-21T07:49:56Z",
+    "source": "FT_Markets",
+    "title": "Reliance stops buying Russian crude at major refinery to comply with US sanctions",
+    "url": "https://www.ft.com/content/92e3e6c6-62d2-4c98-8af0-8bac2768592e",
+    "id_key": "77d76c33f28acf45ed8bd11c47b581fb449c922a37e05a198b4e8ffff663c2e5",
+    "summary": "India’s oil purchases from Russia are chokepoint between Washington and New Delhi",
+    "ingested_utc": "2025-11-21T07:49:56Z"
+  },
+  {
+    "published_utc": "2025-11-21",
+    "retrieved_date": "2025-11-21",
+    "retrieved_utc": "2025-11-21T07:48:56Z",
+    "source": "Erigon_Releases",
+    "title": "v3.3.0-rc.2",
+    "url": "https://github.com/erigontech/erigon/releases/tag/v3.3.0-rc.2",
+    "id_key": "63b8d6e4946f51efac2bf00d77bf4adadf6b320db68da3ca4dd0117f0caa487c",
+    "summary": "[r3.3] rpc: fix eth_simulateV1 no contract logs with traceTransfers (…",
+    "ingested_utc": "2025-11-21T07:48:56Z"
+  },
+  {
+    "published_utc": "2025-11-21",
+    "retrieved_date": "2025-11-21",
     "retrieved_utc": "2025-11-21T07:34:35Z",
     "source": "AlJazeera_All",
     "title": "Israel plans to seize major Roman-era historical site in occupied West Bank",
@@ -10965,38 +10998,5 @@
     "id_key": "244d3011890003dd617755f262048e6bcbd0c47853dbf890abac6cadcb34c22b",
     "summary": "The upgrade introduces unified Liquidity Hubs to replace fragmented markets. Spokes introduces modular lending setups with independent risks. V4 aims to enhance capital efficiency and open new grounds for developers. Lending protocol Aave is preparing for one of its most ground-breaking upgrades. Two days after unveiling a mobile savings app, the team has released the […] The post Aave rolls out V4 testnet with developer preview of upcoming “Pro” experience appeared first on CoinJournal .",
     "ingested_utc": "2025-11-19T18:47:25Z"
-  },
-  {
-    "published_utc": "2025-11-19",
-    "retrieved_date": "2025-11-19",
-    "retrieved_utc": "2025-11-19T18:47:21Z",
-    "source": "CryptoSlate",
-    "title": "Bitcoin to $73k? Be prepared with the price levels to watch during a bear market",
-    "url": "https://cryptoslate.com/bitcoin-to-73k-be-prepared-with-the-price-levels-to-watch-during-a-bear-market/",
-    "id_key": "c0b3b6f05b30a41688f3ccc0a381b2a6f03b18d35114faab34b6a4442280c967",
-    "summary": "Bitcoin is quietly walking its way down the liquidity staircase, and the next solid step sits around $85,000. That number is not coming from a Fibonacci retracement, a moving average crossover, or any other technical analysis ‘gold standard.’ It comes from my simple grid of horizontal bands, grounded in factors that actually move markets: order-book […] The post Bitcoin to $73k? Be prepared with the price levels to watch during a bear market appeared first on CryptoSlate .",
-    "ingested_utc": "2025-11-19T18:47:21Z"
-  },
-  {
-    "published_utc": "2025-11-19",
-    "retrieved_date": "2025-11-19",
-    "retrieved_utc": "2025-11-19T18:47:21Z",
-    "source": "CryptoBriefing",
-    "title": "Cypherpunk Technologies adds $18M to Zcash holdings",
-    "url": "https://cryptobriefing.com/cypherpunk-technologies-zcash-acquisition-2025/",
-    "id_key": "687d1ee95dd15c7cfa1ab0a304737f8126b155a0c72a0b73dce378ba10893239",
-    "summary": "Cypherpunk Technologies acquires $18M in Zcash holdings, emphasizing its pivot to privacy-focused crypto and treasury strategies. The post Cypherpunk Technologies adds $18M to Zcash holdings appeared first on Crypto Briefing .",
-    "ingested_utc": "2025-11-19T18:47:21Z"
-  },
-  {
-    "published_utc": "2025-11-19",
-    "retrieved_date": "2025-11-19",
-    "retrieved_utc": "2025-11-19T18:47:21Z",
-    "source": "CryptoBriefing",
-    "title": "Strategy stock drops 10% amid Bitcoin volatility and trader debate",
-    "url": "https://cryptobriefing.com/microstrategy-shares-drop-bitcoin-volatility/",
-    "id_key": "e6a24fe2dec253ab3503be56cad8a6ad3a869962d44b59d587e59fb8721556dd",
-    "summary": "The drop highlights the risks of heavy crypto exposure, potentially affecting investor confidence and stability in related sectors. The post Strategy stock drops 10% amid Bitcoin volatility and trader debate appeared first on Crypto Briefing .",
-    "ingested_utc": "2025-11-19T18:47:21Z"
   }
 ]
