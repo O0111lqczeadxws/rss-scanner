@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-11-21",
     "retrieved_date": "2025-11-21",
+    "retrieved_utc": "2025-11-21T18:57:01Z",
+    "source": "TechCrunch_All",
+    "title": "CrowdStrike fires ‘suspicious insider’ who passed information to hackers",
+    "url": "https://techcrunch.com/2025/11/21/crowdstrike-fires-suspicious-insider-who-passed-information-to-hackers/",
+    "id_key": "dd83100be7501db2af381b29c74cf04c5e0fde759b4fb2c174fd7f3a7891fdc6",
+    "summary": "Cybersecurity giant CrowdStrike denied it had been hacked following claims from a hacker group, which leaked screenshots from inside CrowdStrike's network.",
+    "ingested_utc": "2025-11-21T18:57:01Z"
+  },
+  {
+    "published_utc": "2025-11-21",
+    "retrieved_date": "2025-11-21",
+    "retrieved_utc": "2025-11-21T18:56:39Z",
+    "source": "NPR_Top",
+    "title": "South Africa hosts G20 as tensions with U.S. flare amid boycott",
+    "url": "https://www.npr.org/2025/11/21/nx-s1-5615174/south-africa-g20-us-boycott",
+    "id_key": "710a5c85a178a65b81520e18bf66a2e1203c873ab234107724c1a42f8b4ac792",
+    "summary": "The U.S. boycotts South Africa's G20 summit, sparking a diplomatic spat and throwing the global gathering into turmoil.",
+    "ingested_utc": "2025-11-21T18:56:39Z"
+  },
+  {
+    "published_utc": "2025-11-21",
+    "retrieved_date": "2025-11-21",
     "retrieved_utc": "2025-11-21T18:47:57Z",
     "source": "FinancialPost_Business",
     "title": "Trump tariff cut may ease pain for U.S. coffee and beef lovers",
@@ -10976,27 +10998,5 @@
     "id_key": "077b6b3977fb31e1cac4de87c9bdc1f7038aaea587be24875d99e6f0db24baf9",
     "summary": "Investigators are examining whether the family of four from Germany, including two children, died from exposure to a toxic chemical found in their hotel room.",
     "ingested_utc": "2025-11-20T09:35:48Z"
-  },
-  {
-    "published_utc": "2025-11-20",
-    "retrieved_date": "2025-11-20",
-    "retrieved_utc": "2025-11-20T09:33:55Z",
-    "source": "CoinJournal",
-    "title": "Bitcoin just hit a critical point: analysts split between $85K crash and $250K surge",
-    "url": "https://coinjournal.net/news/bitcoin-just-hit-a-critical-point-analysts-split-between-85k-crash-and-250k-surge/",
-    "id_key": "e2338660571c0ddad78437872e66981b38335ba199379af433bbf722d03f1ca8",
-    "summary": "Bitcoin trades near $92K amid mixed signals from ETFs and tech markets. Hoskinson and Saylor predict a strong BTC rebound despite recent losses. ETF outflows and macro risks could, however, push BTC toward $85K support. While Bitcoin price has recovered from the low of $88,540 hit on November 19, the question is whether it will […] The post Bitcoin just hit a critical point: analysts split between $85K crash and $250K surge appeared first on CoinJournal .",
-    "ingested_utc": "2025-11-20T09:33:55Z"
-  },
-  {
-    "published_utc": "2025-11-20",
-    "retrieved_date": "2025-11-20",
-    "retrieved_utc": "2025-11-20T09:16:35Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "TechnoPro Holdings to be removed from JPX-Nikkei Index 400",
-    "url": "https://asia.nikkei.com/announcements/technopro-holdings-to-be-removed-from-jpx-nikkei-index-400",
-    "id_key": "16c4a27c506419a5eb41d934d36365f6ae5c5d22db60a800964a1a48a529e0be",
-    "summary": "",
-    "ingested_utc": "2025-11-20T09:16:35Z"
   }
 ]
