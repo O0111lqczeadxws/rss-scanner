@@ -816,6 +816,17 @@
   {
     "published_utc": "2025-11-21",
     "retrieved_date": "2025-11-22",
+    "retrieved_utc": "2025-11-22T09:50:23Z",
+    "source": "NYTimes_Economy",
+    "title": "A Tap-to-Pay Society Is Leaving These New Yorkers Behind",
+    "url": "https://www.nytimes.com/2025/11/21/nyregion/cashless-economy.html",
+    "id_key": "9af450628fece46699c4107c82e56e9e33769d7146f6e7ca944ac19da47b54cc",
+    "summary": "As fewer people carry cash, vendors, street performers and people experiencing homelessness and unemployment are at a disadvantage.",
+    "ingested_utc": "2025-11-22T09:50:23Z"
+  },
+  {
+    "published_utc": "2025-11-21",
+    "retrieved_date": "2025-11-22",
     "retrieved_utc": "2025-11-22T06:18:53Z",
     "source": "TheStreet_Top",
     "title": "Dave Ramsey sends strong message on buying and selling homes",
@@ -7294,6 +7305,72 @@
   },
   {
     "published_utc": "2025-11-20",
+    "retrieved_date": "2025-11-22",
+    "retrieved_utc": "2025-11-22T09:50:24Z",
+    "source": "NYTimes_Technology",
+    "title": "Family Affair: Commerce Secretary’s Sons Cash In on A.I. Frenzy",
+    "url": "https://www.nytimes.com/2025/11/20/us/politics/howard-lutnick-family-ai.html",
+    "id_key": "0313aec2123293c87f1145ebd976195ada0fd303c9edabebd600aab7bbab46e9",
+    "summary": "Howard Lutnick is helping push data center projects. His family companies are profiting from them.",
+    "ingested_utc": "2025-11-22T09:50:24Z"
+  },
+  {
+    "published_utc": "2025-11-20",
+    "retrieved_date": "2025-11-22",
+    "retrieved_utc": "2025-11-22T09:50:23Z",
+    "source": "NYTimes_World",
+    "title": "Is Scalp Care the New Big Beauty Trend?",
+    "url": "https://www.nytimes.com/2025/11/20/style/scalp-care-beauty-trends-2025.html",
+    "id_key": "672bdef7303ab00a1fcdd05c228e891bb284f9245c7b377c36639c01cdb3df01",
+    "summary": "Consumers are increasingly fixating on their scalps, turning to head spas, pricey treatments and products to combat thin hair and irritation.",
+    "ingested_utc": "2025-11-22T09:50:23Z"
+  },
+  {
+    "published_utc": "2025-11-20",
+    "retrieved_date": "2025-11-22",
+    "retrieved_utc": "2025-11-22T09:50:23Z",
+    "source": "NYTimes_Economy",
+    "title": "September Jobs Report Injects More Uncertainty Into Fed’s December Decision",
+    "url": "https://www.nytimes.com/2025/11/20/business/economy/jobs-report-september-inflation-fed-rates.html",
+    "id_key": "c093047208b53413092fa66af8a254bdd05969912d96f326273242838496d900",
+    "summary": "Policymakers at the central bank are at odds over the need to cut interest rates for a third straight meeting, as inflation picks up again and the labor market slows down.",
+    "ingested_utc": "2025-11-22T09:50:23Z"
+  },
+  {
+    "published_utc": "2025-11-20",
+    "retrieved_date": "2025-11-22",
+    "retrieved_utc": "2025-11-22T09:50:23Z",
+    "source": "NYTimes_Economy",
+    "title": "Job Gains Disguise Weakness Beyond Service Industries",
+    "url": "https://www.nytimes.com/2025/11/20/business/economy/jobs-report-september.html",
+    "id_key": "289984350d74221348332130b005579432839172847fba7250d09e518a880927",
+    "summary": "The unemployment rate rose in September as more people looked for jobs, according to data delayed by the government shutdown.",
+    "ingested_utc": "2025-11-22T09:50:23Z"
+  },
+  {
+    "published_utc": "2025-11-20",
+    "retrieved_date": "2025-11-22",
+    "retrieved_utc": "2025-11-22T09:50:23Z",
+    "source": "NYTimes_Economy",
+    "title": "Delayed Jobs Data to Give Snapshot of a Labor Market Under Stress",
+    "url": "https://www.nytimes.com/live/2025/business/jobs-report-economy/jobs-data-labor-market",
+    "id_key": "c5aa0524499fe20420c930a9190f355ae8c4591d0bf459f00330ae431d06d6f4",
+    "summary": "Economists expect that employment growth was anemic in September, before the government shutdown delayed data collection.",
+    "ingested_utc": "2025-11-22T09:50:23Z"
+  },
+  {
+    "published_utc": "2025-11-20",
+    "retrieved_date": "2025-11-22",
+    "retrieved_utc": "2025-11-22T09:50:23Z",
+    "source": "NYTimes_Economy",
+    "title": "After Shutdown, Labor Department Says Some Data is Gone for Good",
+    "url": "https://www.nytimes.com/2025/11/19/business/economy/labor-department-economy-data-october.html",
+    "id_key": "8d9968979b78745b4c9ddc5d9fafb42e801766ba02e99c579bf53c4dc5c56095",
+    "summary": "Surveys were delayed and some cannot be collected at all, officials said, further complicating the Federal Reserve’s decision on interest rates next month.",
+    "ingested_utc": "2025-11-22T09:50:23Z"
+  },
+  {
+    "published_utc": "2025-11-20",
     "retrieved_date": "2025-11-21",
     "retrieved_utc": "2025-11-21T20:15:45Z",
     "source": "WIRED_All",
@@ -10921,82 +10998,5 @@
     "id_key": "40fccefcd7d622088b17f07ff5e0ce18c006936e91025f00301020eba0dcb08c",
     "summary": "Exxon Mobil Corp. lifted a force majeure on its Rovuma liquefied natural gas project in Mozambique as security concerns subside, a key step toward sanctioning the development and committing construction funds.",
     "ingested_utc": "2025-11-20T15:37:42Z"
-  },
-  {
-    "published_utc": "2025-11-20",
-    "retrieved_date": "2025-11-20",
-    "retrieved_utc": "2025-11-20T15:37:42Z",
-    "source": "FinancialPost_Business",
-    "title": "Kelowna Women’s Shelter and Central Okanagan Elizabeth Fry Society Call on the Okanagan Community to Stand Up Against Domestic Violence",
-    "url": "https://financialpost.com/globe-newswire/kelowna-womens-shelter-and-central-okanagan-elizabeth-fry-society-call-on-the-okanagan-community-to-stand-up-against-domestic-violence",
-    "id_key": "fcda12bc4878656ea69065964a9e940360ca7e5c59ef930d83aa2cadb3336221",
-    "summary": "KELOWNA, British Columbia, Nov. 20, 2025 (GLOBE NEWSWIRE) — As November 1 marks the beginning of Domestic Violence Awareness Month (DVAM), the Kelowna Women’s Shelter (KWS) and the Central Okanagan Elizabeth Fry Society (COEFS) are calling on the Okanagan community to deepen its understanding about domestic violence and its impacts. The key learning is that […]",
-    "ingested_utc": "2025-11-20T15:37:42Z"
-  },
-  {
-    "published_utc": "2025-11-20",
-    "retrieved_date": "2025-11-20",
-    "retrieved_utc": "2025-11-20T15:37:42Z",
-    "source": "FinancialPost_Business",
-    "title": "Lebanon’s most wanted drug trafficker taken into custody, authorities say",
-    "url": "https://financialpost.com/pmn/lebanons-most-wanted-drug-trafficker-taken-into-custody-authorities-say",
-    "id_key": "0f6df1319369d511de56f28d6e3bf8b99875825751f7e74dc55b54764aa41d7e",
-    "summary": "BEIRUT (AP) — Lebanon’s most wanted drug trafficker was arrested Thursday after years on the run, authorities said. Noah Zeiter was taken into custody during a raid near the eastern city of Baalbeck, according to a high-ranking military official. Zeiter eventually turned himself in to military intelligence after a standoff. The official spoke on condition […]",
-    "ingested_utc": "2025-11-20T15:37:42Z"
-  },
-  {
-    "published_utc": "2025-11-20",
-    "retrieved_date": "2025-11-20",
-    "retrieved_utc": "2025-11-20T15:37:42Z",
-    "source": "FinancialPost_Business",
-    "title": "SMK Law: Leave and Certification Granted in Anaergia Inc. Securities Class Action",
-    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/smk-law-leave-and-certification-granted-in-anaergia-inc-securities-class-action",
-    "id_key": "7361ff852ceb4c4d2011e38667452aebd9d3e41eaed8c19f3ce33d06dea38ed1",
-    "summary": "TORONTO — The Ontario Superior Court of Justice has granted leave pursuant to section 138.8 of the Ontario Securities Act to commence a secondary market misrepresentation action against Anaergia Inc., Andrew Benedek, and Hani El-Kaissi. The Court also certified the action as a class proceeding against these defendants. The certified action alleges misrepresentations in the […]",
-    "ingested_utc": "2025-11-20T15:37:42Z"
-  },
-  {
-    "published_utc": "2025-11-20",
-    "retrieved_date": "2025-11-20",
-    "retrieved_utc": "2025-11-20T15:37:42Z",
-    "source": "FinancialPost_Business",
-    "title": "Cenovus announces closing of $2.6 billion offering of senior notes and redemption of select notes",
-    "url": "https://financialpost.com/globe-newswire/cenovus-announces-closing-of-2-6-billion-offering-of-senior-notes-and-redemption-of-select-notes",
-    "id_key": "1330d43e7a84a7e73b5009bb7e876005f8e5db7dfc305af09fd35579e592b185",
-    "summary": "CALGARY, Alberta, Nov. 20, 2025 (GLOBE NEWSWIRE) — Cenovus Energy Inc. (TSX: CVE) (NYSE: CVE) has completed a public offering in Canada and the United States of $2.6 billion in senior notes comprised of $650 million of 4.250% senior unsecured notes due 2033, $550 million of 4.600% senior unsecured notes due 2035, US$500 million of […]",
-    "ingested_utc": "2025-11-20T15:37:42Z"
-  },
-  {
-    "published_utc": "2025-11-20",
-    "retrieved_date": "2025-11-20",
-    "retrieved_utc": "2025-11-20T15:37:35Z",
-    "source": "AlJazeera_All",
-    "title": "Video shows the moment a bridge is swept away by floodwaters in Vietnam",
-    "url": "https://www.aljazeera.com/video/newsfeed/2025/11/20/video-shows-the-moment-a-bridge-is-swept-away-by-floodwaters-in-vietnam?traffic_source=rss",
-    "id_key": "9b2b4befca4017528c5fe4643fcc773e1f1c1ea74fa2536616e8c84a75881ffb",
-    "summary": "A surge of flooding is overwhelming parts of south-central Vietnam, with a bridge connecting two villages falling apart.",
-    "ingested_utc": "2025-11-20T15:37:35Z"
-  },
-  {
-    "published_utc": "2025-11-20",
-    "retrieved_date": "2025-11-20",
-    "retrieved_utc": "2025-11-20T15:37:34Z",
-    "source": "TheStreet_Top",
-    "title": "Kroger, Target, Walgreens push for law on organized retail crime",
-    "url": "https://www.thestreet.com/retail/kroger-target-walgreens-push-for-law-on-organized-retail-crime",
-    "id_key": "b122d0b83e651f6f6fd9b6074e1bd6af0141ec5a0d69bfbac3a73c941e87c76b",
-    "summary": "In many cases, the retail shopping experience has become unpleasant. When you walk into a Target or a Walgreens and find the items you need in a locked cabinet that requires waiting for an employee to get what you need, it's easier to just jump onto your phone and order the item from Amazon. ...",
-    "ingested_utc": "2025-11-20T15:37:34Z"
-  },
-  {
-    "published_utc": "2025-11-20",
-    "retrieved_date": "2025-11-20",
-    "retrieved_utc": "2025-11-20T15:37:34Z",
-    "source": "TheStreet_Top",
-    "title": "Essential food, drug industry company files Chapter 11 bankruptcy",
-    "url": "https://www.thestreet.com/retail/global-food-and-drug-industry-company-files-chapter-11-bankruptcy",
-    "id_key": "73a8dacafc9a1e9d06fd16c1b7cf651abe5eb10f0c94c3d3ef32f1877479324f",
-    "summary": "Since the 1980s, people have debated the environmental impact of packaging. Much of that debate focused on fast-food chains using styrofoam, but in recent years, the discussion has also involved Amazon and its propensity to use larger boxes than needed for the items it ships. Most companies that ...",
-    "ingested_utc": "2025-11-20T15:37:34Z"
   }
 ]
