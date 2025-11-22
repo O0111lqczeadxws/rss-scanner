@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-11-22",
     "retrieved_date": "2025-11-22",
+    "retrieved_utc": "2025-11-22T19:51:12Z",
+    "source": "Nikkei_Asia_Top",
+    "title": "Japan plans bunkers with 2 weeks' supplies on islands near Taiwan",
+    "url": "https://asia.nikkei.com/politics/defense/japan-plans-bunkers-with-2-weeks-supplies-on-islands-near-taiwan",
+    "id_key": "ab934c4c71225a40c79ef31a638ae662157d29a347f5e0cefd51660eedc381da",
+    "summary": "",
+    "ingested_utc": "2025-11-22T19:51:12Z"
+  },
+  {
+    "published_utc": "2025-11-22",
+    "retrieved_date": "2025-11-22",
+    "retrieved_utc": "2025-11-22T19:49:25Z",
+    "source": "Guardian_World",
+    "title": "Tatiana Schlossberg, granddaughter of JFK, announces terminal cancer diagnosis",
+    "url": "https://www.theguardian.com/us-news/2025/nov/22/tatiana-schlossberg-jfk-terminal-cancer",
+    "id_key": "725728cb26e09097189a651da8a3f3957304cac43588edaab99b05daf00aa1c6",
+    "summary": "Journalist, daughter of Caroline Kennedy and Edwin Schlossberg, reveals she has acute myeloid leukemia Tatiana Schlossberg, a journalist and the granddaughter of John F Kennedy, disclosed on Saturday that she has been diagnosed with terminal cancer, saying her doctor informed her that she has less than a year left to live. The environmental writer also addressed her cousin, Robert F Kennedy Jr , criticizing the influence his policies as secretary of health and human services have had on her experience with the illness. Continue reading...",
+    "ingested_utc": "2025-11-22T19:49:25Z"
+  },
+  {
+    "published_utc": "2025-11-22",
+    "retrieved_date": "2025-11-22",
     "retrieved_utc": "2025-11-22T19:24:01Z",
     "source": "Guardian_World",
     "title": "‘Cannot believe it’s still happening’: readers respond to ‘heartbreaking’ domestic violence homicides",
@@ -10976,27 +10998,5 @@
     "id_key": "d0c29f8971fd5d523033cf7323f7589e2b398e5be44b6390fd172ef1c9a0874c",
     "summary": "In one of her very few interviews since the museum heist, Laurence des Cars said the plan would increase much-needed security, but critics say it is too focused on new construction.",
     "ingested_utc": "2025-11-20T18:51:24Z"
-  },
-  {
-    "published_utc": "2025-11-20",
-    "retrieved_date": "2025-11-20",
-    "retrieved_utc": "2025-11-20T18:49:13Z",
-    "source": "CoinJournal",
-    "title": "Record Financial brings instant royalty payouts onchain via Avalanche",
-    "url": "https://coinjournal.net/news/record-financial-brings-instant-royalty-payouts-onchain-via-avalanche/",
-    "id_key": "72b06050ed334785684b6dc134e205c07b5c70abe995105088382a1f5a3d9bfb",
-    "summary": "Avalanche is set to power a new era of royalty payments on-chain. The blockchain platform is partnering with Record Financial, a pioneering technology firm in the music industry. Collaboration will allow Record to harness the power of blockchain to deliver instant, verifiable payouts. The Avalanche team announced its collaboration with Record on Thursday, a move […] The post Record Financial brings instant royalty payouts onchain via Avalanche appeared first on CoinJournal .",
-    "ingested_utc": "2025-11-20T18:49:13Z"
-  },
-  {
-    "published_utc": "2025-11-20",
-    "retrieved_date": "2025-11-20",
-    "retrieved_utc": "2025-11-20T18:49:13Z",
-    "source": "CoinJournal",
-    "title": "Coinbase rolls out Ethereum-backed loans for users to borrow USDC without selling",
-    "url": "https://coinjournal.net/news/coinbase-rolls-out-ethereum-backed-loans-for-users-to-borrow-usdc-without-selling/",
-    "id_key": "d38289136000c0f6596af326853e2176efcdef432f7afe1d3659e7e2e734b8b4",
-    "summary": "Ether holders on the exchange can borrow up to $1M in USDC using ETH as collateral. That ensures access to liquidity/cash without selling their holdings. The service is available in all US states, excluding New York. Leading exchange Coinbase has introduced a new feature that will likely reduce selling pressure amid the current broader crypto […] The post Coinbase rolls out Ethereum-backed loans for users to borrow USDC without selling appeared first on CoinJournal .",
-    "ingested_utc": "2025-11-20T18:49:13Z"
   }
 ]
