@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-11-22",
     "retrieved_date": "2025-11-22",
+    "retrieved_utc": "2025-11-22T22:13:52Z",
+    "source": "FinancialPost_Business",
+    "title": "US Retail Sales Are Proving Resilient While Risks Mount",
+    "url": "https://financialpost.com/pmn/business-pmn/us-retail-sales-are-proving-resilient-while-risks-mount",
+    "id_key": "20be4503b0dbad9529330e804e29d85b2923981b1058b7c0ff9f70ac73ba9c3e",
+    "summary": "US retail sales growth likely moderated a touch in September, capping an otherwise solid quarter of spending by consumers who are nonetheless frustrated by high prices and anxious about job security.",
+    "ingested_utc": "2025-11-22T22:13:52Z"
+  },
+  {
+    "published_utc": "2025-11-22",
+    "retrieved_date": "2025-11-22",
+    "retrieved_utc": "2025-11-22T22:13:04Z",
+    "source": "NYTimes_Business",
+    "title": "‘Wicked: For Good’ Takes Flight at Box Office, Expected to Make Over $150 Million",
+    "url": "https://www.nytimes.com/2025/11/22/business/media/wicked-for-good-box-office.html",
+    "id_key": "1ee4a3b040c51dec9703d003f7d3d4c3696d9dbe6b131fefa726e9f1330fc016",
+    "summary": "The movie is expected to take in about $151.5 million from Friday through Sunday, earning 35 percent more than the first installment last year.",
+    "ingested_utc": "2025-11-22T22:13:04Z"
+  },
+  {
+    "published_utc": "2025-11-22",
+    "retrieved_date": "2025-11-22",
+    "retrieved_utc": "2025-11-22T22:10:42Z",
+    "source": "Guardian_World",
+    "title": "News live: Darwin hospital roof collapses as Tropical Cyclone Fina brings heavy rains; Australia signs G20 statement backing Paris Agreement",
+    "url": "https://www.theguardian.com/australia-news/live/2025/nov/23/severe-tropical-cyclone-fina-darwin-nt-bom-cop30-fossil-fuel-transition-g20-climate-declaration-ntwnfb",
+    "id_key": "9779cb73d22e5e326019b1ae3240f44a2b85be1e5099916442adbf083ba31973",
+    "summary": "Top End residents told to stay sheltered at home until authorities give the all-clear. Follow updates live Get our breaking news email , free app or daily news podcast Even though the worst of the storm has passed, authorities say residents should stay in their shelters until given the all clear. The bureau of meterology in its latest advice states: [The Northern Territory Emergency Service] NTES advises people about southern Bathurst Island and very exposed coastal locations around the Cox Peninsula, should stay calm and remain in a secure shelter while the destructive winds continue. Do not venture outside. Heed the advice and follow the instructions of Emergency Services personnel and local authorities. NTES advises people about the central and western Tiwi Islands, and elsewhere between Daly River Mouth to Cape Hotham, including Darwin, should shelter in a safe place. Continue reading...",
+    "ingested_utc": "2025-11-22T22:10:42Z"
+  },
+  {
+    "published_utc": "2025-11-22",
+    "retrieved_date": "2025-11-22",
     "retrieved_utc": "2025-11-22T21:50:55Z",
     "source": "FinancialPost_Business",
     "title": "Plan for $20 million firefighter training center near the site of Ohio derailment revived",
@@ -10965,38 +10998,5 @@
     "id_key": "a7a7f7f748792aa497101269b6b7168cee9ea6c2de0db01ddbd60f0fb9fa2f06",
     "summary": "Comments",
     "ingested_utc": "2025-11-20T18:52:26Z"
-  },
-  {
-    "published_utc": "2025-11-20",
-    "retrieved_date": "2025-11-20",
-    "retrieved_utc": "2025-11-20T18:52:26Z",
-    "source": "HackerNews_Top",
-    "title": "Show HN: Tangent – Security log pipeline powered by WASM",
-    "url": "https://github.com/telophasehq/tangent",
-    "id_key": "5e954f1a208a691f37ca45c1b879e9abe6d79d8f3ae0b6cd01cf21bb6f575357",
-    "summary": "Comments",
-    "ingested_utc": "2025-11-20T18:52:26Z"
-  },
-  {
-    "published_utc": "2025-11-20",
-    "retrieved_date": "2025-11-20",
-    "retrieved_utc": "2025-11-20T18:52:16Z",
-    "source": "FinancialPost_Business",
-    "title": "Crypto market extends slide with Bitcoin dropping below US$87,000",
-    "url": "https://financialpost.com/fp-finance/cryptocurrency/crypto-market-extends-slide-bitcoin-drop",
-    "id_key": "5e539d2dab4486f8b244cbe1a995ccb799e741e4580d703d2982d551fe433ebb",
-    "summary": "Cryptocurrencies remain trapped in a self-contained purge of leverage and fading retail demand",
-    "ingested_utc": "2025-11-20T18:52:16Z"
-  },
-  {
-    "published_utc": "2025-11-20",
-    "retrieved_date": "2025-11-20",
-    "retrieved_utc": "2025-11-20T18:52:09Z",
-    "source": "AlJazeera_All",
-    "title": "Mamdani says he will ‘stand up for New Yorkers’ in Trump meeting",
-    "url": "https://www.aljazeera.com/news/2025/11/20/mamdani-says-he-will-stand-up-for-new-yorkers-in-trump-meeting?traffic_source=rss",
-    "id_key": "bf6b7b9298deafa6bd379f36961548c4226f813813b62ab214935b74f178f7c5",
-    "summary": "New York mayor-elect says he 'will meet with anyone' to push forward his affordability agenda for the largest US city.",
-    "ingested_utc": "2025-11-20T18:52:09Z"
   }
 ]
