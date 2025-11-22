@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-11-22",
     "retrieved_date": "2025-11-22",
+    "retrieved_utc": "2025-11-22T05:50:33Z",
+    "source": "AlJazeera_All",
+    "title": "US warns civilian flights as military activity around Venezuela increases",
+    "url": "https://www.aljazeera.com/news/2025/11/22/us-warns-civilian-flights-as-military-activity-around-venezuela-increases?traffic_source=rss",
+    "id_key": "e77bc4af524f00cb94b80495ae65b95a18cd158714162fa56493b831b2c362f2",
+    "summary": "US aviation administration issues warning amid 'worsening security' and growing 'military activity' around Venezuela.",
+    "ingested_utc": "2025-11-22T05:50:33Z"
+  },
+  {
+    "published_utc": "2025-11-22",
+    "retrieved_date": "2025-11-22",
     "retrieved_utc": "2025-11-22T05:33:30Z",
     "source": "Guardian_World",
     "title": "Marjorie Taylor Greene to resign from Congress in January amid fallout with Trump",
@@ -10986,17 +10997,6 @@
     "url": "https://cryptobriefing.com/bitwise-xrp-etf-launch-nyse/",
     "id_key": "4f06caa6ab0f3ca9fe8f4172fc9cd9377df397b155cf3ccdedc573b8b853c27e",
     "summary": "The launch of the XRP ETF could accelerate mainstream adoption of digital assets, potentially reshaping global financial systems. The post XRP ETF from Bitwise starts trading on NYSE with initial fee waiver appeared first on Crypto Briefing .",
-    "ingested_utc": "2025-11-20T15:13:12Z"
-  },
-  {
-    "published_utc": "2025-11-20",
-    "retrieved_date": "2025-11-20",
-    "retrieved_utc": "2025-11-20T15:13:12Z",
-    "source": "CryptoBriefing",
-    "title": "MegaETH to launch USDC pre-deposits bridge with $250M cap for USDM",
-    "url": "https://cryptobriefing.com/megaeth-usdc-bridge-launch-250m-usdm-predeposit/",
-    "id_key": "2cdfb89179d831fe476821429921f5df56966181e57487f4bd7262641b374ded",
-    "summary": "MegaETH opens $250M USDC pre-deposit bridge; users get USDM and rewards based on deposit size ahead of mainnet launch. The post MegaETH to launch USDC pre-deposits bridge with $250M cap for USDM appeared first on Crypto Briefing .",
     "ingested_utc": "2025-11-20T15:13:12Z"
   }
 ]
