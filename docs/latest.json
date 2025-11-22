@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-11-22",
     "retrieved_date": "2025-11-22",
+    "retrieved_utc": "2025-11-22T04:36:14Z",
+    "source": "BBC_World",
+    "title": "The Christian converts the US is deporting back to Iran",
+    "url": "https://www.bbc.com/news/articles/cdege0k962do?at_medium=RSS&at_campaign=rss",
+    "id_key": "55c8ffb1ea121a26f54440b560c70a6ef254251f2264918047fe776120ec1a30",
+    "summary": "While Donald Trump admonishes Nigeria for persecuting Christians, Christian converts tell the BBC they live in fear of being deported to Iran from the US.",
+    "ingested_utc": "2025-11-22T04:36:14Z"
+  },
+  {
+    "published_utc": "2025-11-22",
+    "retrieved_date": "2025-11-22",
     "retrieved_utc": "2025-11-22T03:29:02Z",
     "source": "HackerNews_Top",
     "title": "Microsoft Will Preload Windows 11 File Explorer to Fix Bad Performance",
@@ -10987,16 +10998,5 @@
     "id_key": "98cb2a210f65f09ea11e687bf9a83d8f689c2f00edf8eea85d627fd1a7219b84",
     "summary": "Comments",
     "ingested_utc": "2025-11-20T14:51:55Z"
-  },
-  {
-    "published_utc": "2025-11-20",
-    "retrieved_date": "2025-11-20",
-    "retrieved_utc": "2025-11-20T14:51:39Z",
-    "source": "AlJazeera_All",
-    "title": "The Netherlands suspends takeover of Nexperia, easing tensions with China",
-    "url": "https://www.aljazeera.com/economy/2025/11/20/the-netherlands-suspends-takeover-of-nexperia-easing-tensions-with-china?traffic_source=rss",
-    "id_key": "0cf36d23e3946310d4cea1df16bd28adc1cc0853252087ef530122d93fdc412a",
-    "summary": "Dutch government's decision to relinquish control of chipmaker comes after major disruption to automotive supply chains.",
-    "ingested_utc": "2025-11-20T14:51:39Z"
   }
 ]
