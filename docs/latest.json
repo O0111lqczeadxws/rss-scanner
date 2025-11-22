@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-11-22",
     "retrieved_date": "2025-11-22",
+    "retrieved_utc": "2025-11-22T04:51:22Z",
+    "source": "CardanoNode_Releases",
+    "title": "10.5.3",
+    "url": "https://github.com/IntersectMBO/cardano-node/releases/tag/10.5.3",
+    "id_key": "c8cb5b74a9a1458c22e9cb22885fe0fb0afcc7a1198edd6c7943fabf4a3bd4ac",
+    "summary": "IMPORTANT If you're building from source you must upgrade to libblst 0.3.14 . This is a bugfix release addressing an issue with hash sizes and an issue in the networking stack concerning peer selection. In the diffusion layer under some conditions, the periodic churn mechanism may not meet its design intent and fail to demote sufficiently many warm peers. In turn, further sampling of active peers from this pool may not be sufficiently diverse over longer time frames. This networking deficiency was discovered with cardano-ignite : a tool for managing Cardano testnets with multiple stake pools distributed across different simulated regions. All node users running versions 10.3.1 through 10.5.1, including SPOs, must upgrade to this version promptly. Technical Specification Minimum System Requirements An Intel or AMD x86 processor with two or more cores, at 1.6GHz or faster (2GHz or faster for a stake pool or relay) Or, for MacOS, an Apple Silicon (M1, M2, M3 or M4) processor 24GB of RAM when running with the InMemory backend, 8GB when running with the OnDisk backend (pending confirmation) 300GB of free storage (350GB recommended for future growth) Platforms Linux 64-bit (Ubuntu 20.04 LTS, 22.04 LTS, 24.04 LTS; Mint 20, 21, 21.1, 21.2, 21.3, 22, 22.1; Debian 11, 12) Windows 64-bit (10, 11) MacOS 10.15, 11 (Big Sur), 12 (Monterey), 13 (Ventura), 14 (Sonoma), 15 (Sequioa) GHC/Cabal supported versions GHC 9.6 Cabal 3.8/3.12 Supported roles Platform Block Production Relay Client (Desktop) Linux 🟢 🟢 🟢 Windows 🟥 🟥 🟢 MacOS 🟥 🟥 🟢 Downloads Release configuration files Docker Image Documentation Cardano Node documentation For details about changes to configuration for UTxO-HD please refer to the Consensus docs on UTxO-HD The getting started guide may also be helpful for general queries. Networking options and related changes are listed on the P2P section Cardano CLI Internal API docs for ledger , consensus and network Compatibility matrix Sign-off Role Approval Technical Steering Committee (Intersect) 🟢 Product Committee (Intersect) 🟢 Test Engineer 🟢 Performance Engineer 🟢 Site Reliability Engineer 🟢 Release Engineer 🟢 Note: all checkmarks weren't available, but we deemed it worth publishing so SPOs stuck on preview could start upgrading. Legend 🟢 - signed / agreed / supported 🟥 - not agreed / unsupported",
+    "ingested_utc": "2025-11-22T04:51:22Z"
+  },
+  {
+    "published_utc": "2025-11-22",
+    "retrieved_date": "2025-11-22",
     "retrieved_utc": "2025-11-22T04:36:14Z",
     "source": "BBC_World",
     "title": "The Christian converts the US is deporting back to Iran",
@@ -471,6 +482,17 @@
     "id_key": "38573c000182981095bc6c6caf6d50f73e52b785f0cdecf6d9c33dec4ac89e00",
     "summary": "President and mayor-elect refused to be drawn into talking about their differences despite repeated attempts to nudge them into conflict Trump and Mamdani form an unlikely alliance at White House meeting Robert Garcia , the ranking member on the House oversight committee, has sent a letter to the US attorney general, Pam Bondi , urging the justice department to release the complete trove of files related to Jeffrey Epstein, despite the newly launched investigation into several Democrats’ ties to the late sex offender. “There is already a concern President Trump will attempt, on dubious legal grounds, to exploit a provision which allows DoJ to withhold information relevant to ongoing investigations,” Garcia wrote. Continue reading...",
     "ingested_utc": "2025-11-22T00:51:45Z"
+  },
+  {
+    "published_utc": "2025-11-21",
+    "retrieved_date": "2025-11-22",
+    "retrieved_utc": "2025-11-22T04:49:43Z",
+    "source": "BBC_World",
+    "title": "Tracking build-up of US military planes and warships near Venezuela",
+    "url": "https://www.bbc.com/news/articles/c7810w37vwdo?at_medium=RSS&at_campaign=rss",
+    "id_key": "8b948b3b9bd85fc84e4eb281d5f289390d83ee1aca47348022e6bea4fb3167b4",
+    "summary": "The US has justified its air and naval campaign as necessary to fight drug smuggling into the US.",
+    "ingested_utc": "2025-11-22T04:49:43Z"
   },
   {
     "published_utc": "2025-11-21",
@@ -10976,27 +10998,5 @@
     "id_key": "923d3f0ee46ca6165123928924ae8fa16ffed5346096dd86e75198ce0c3572ef",
     "summary": "Brendan Carr, head of FCC, asks if programme ever aired in US which is seen as key to any future litigation A US media regulator led by a close ally of Donald Trump is examining whether an edition of the BBC’s Panorama broke US regulations in the way it edited one of the president’s speeches. The Federal Communications Commission (FCC), led by Brendan Carr, has written to the BBC’s outgoing director general, Tim Davie, asking whether the programme was ever aired in the US. Continue reading...",
     "ingested_utc": "2025-11-20T15:12:53Z"
-  },
-  {
-    "published_utc": "2025-11-20",
-    "retrieved_date": "2025-11-20",
-    "retrieved_utc": "2025-11-20T15:12:53Z",
-    "source": "Guardian_World",
-    "title": "Epstein survivors urge justice department to ‘do the right thing’ and release complete files – US politics live",
-    "url": "https://www.theguardian.com/us-news/live/2025/nov/20/donald-trump-jeffrey-epstein-justice-department-zohran-mamdani-news-updates-us-politics-live",
-    "id_key": "afea1f4c1bf92d6a7e087bb2938da706239cec271609a1d85908ba469bbb5ba0",
-    "summary": "Several survivors of late sex offender’s abuse urge department to ‘not withhold information’ as ongoing probes at Trump’s behest could limit what is released The Trump administration presented a new plan to roll back regulations in the Endangered Species Act (ESA) on Wednesday, a move experts fear will accelerate the extinction crisis if adopted. The proposed changes would allow the federal government more power to weigh economic impact against habitat designations, remove safeguards against future events – including the impacts from the climate crisis – and rescind the “blanket rule” that automatically grants threatened species the same protections as those designated as endangered. Continue reading...",
-    "ingested_utc": "2025-11-20T15:12:53Z"
-  },
-  {
-    "published_utc": "2025-11-20",
-    "retrieved_date": "2025-11-20",
-    "retrieved_utc": "2025-11-20T14:51:55Z",
-    "source": "HackerNews_Top",
-    "title": "Firefox 147 Will Support the XDG Base Directory Specification",
-    "url": "https://www.phoronix.com/news/Firefox-147-XDG-Base-Directory",
-    "id_key": "98cb2a210f65f09ea11e687bf9a83d8f689c2f00edf8eea85d627fd1a7219b84",
-    "summary": "Comments",
-    "ingested_utc": "2025-11-20T14:51:55Z"
   }
 ]
