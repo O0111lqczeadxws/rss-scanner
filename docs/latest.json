@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-11-23",
     "retrieved_date": "2025-11-23",
+    "retrieved_utc": "2025-11-23T11:36:05Z",
+    "source": "TheStreet_Top",
+    "title": "Amazon's Black Friday deal drops the $400 5-camera Blink outdoor security system to just $160",
+    "url": "https://www.thestreet.com/deals/blink-outdoor-4-wireless-5-camera-system-amazon-sale-black-friday-2025",
+    "id_key": "fcd0428797b48812865371db95945324318fc79ba754d0d1266afb4b7a2b659e",
+    "summary": "\"I love that the cameras are completely wireless, so I could place them exactly where I wanted outside.\"",
+    "ingested_utc": "2025-11-23T11:36:05Z"
+  },
+  {
+    "published_utc": "2025-11-23",
+    "retrieved_date": "2025-11-23",
+    "retrieved_utc": "2025-11-23T11:35:05Z",
+    "source": "BBC_World",
+    "title": "Seven arrested in India after police crack $800,000 bank heist",
+    "url": "https://www.bbc.com/news/articles/cy8j4m45yx2o?at_medium=RSS&at_campaign=rss",
+    "id_key": "95b3a1c29a3e1793dc2397f4f320414a03d3935456492ce9a6965627c7636cbd",
+    "summary": "Armed men posing as bank officials robbed a van transporting cash between bank branches in Bengaluru city.",
+    "ingested_utc": "2025-11-23T11:35:05Z"
+  },
+  {
+    "published_utc": "2025-11-23",
+    "retrieved_date": "2025-11-23",
     "retrieved_utc": "2025-11-23T11:25:00Z",
     "source": "Guardian_Business",
     "title": "China has brought millions out of poverty. The US has not – by choice",
@@ -10976,27 +10998,5 @@
     "id_key": "b98311a428819f7ae31246ec4f8f8cac6d196640195873fc12a9553abba19c05",
     "summary": "Great and good pay tribute in Washington but honouring of former vice-president was an exercise in omission You suspected that Maga had not conquered the Washington national cathedral when Bill Kristol was spotted at a men’s urinal conversing with Chris Wallace. You knew it for sure when James Carville, Anthony Fauci and Rachel Maddow were seen sitting close to one another in the nave. The funeral of the 46th US vice-president, Dick Cheney, who died earlier this month aged 84, was a throwback to a less raucous and rancorous time. Ex-presidents and vice-presidents, Democratic and Republican, made small talk, but Donald Trump, who spent Thursday crying treason and calling for Democrats to be put to death, and his deputy JD Vance were not invited. Continue reading...",
     "ingested_utc": "2025-11-20T22:11:34Z"
-  },
-  {
-    "published_utc": "2025-11-20",
-    "retrieved_date": "2025-11-20",
-    "retrieved_utc": "2025-11-20T21:51:14Z",
-    "source": "HackerNews_Top",
-    "title": "GitHut – Programming Languages and GitHub",
-    "url": "https://githut.info/",
-    "id_key": "f0100e3f88be5c078636bbfe090d7b610b65e004000e1e2eab9349c310f56816",
-    "summary": "Comments",
-    "ingested_utc": "2025-11-20T21:51:14Z"
-  },
-  {
-    "published_utc": "2025-11-20",
-    "retrieved_date": "2025-11-20",
-    "retrieved_utc": "2025-11-20T21:50:56Z",
-    "source": "TheStreet_Top",
-    "title": "Stock Market Today: S&P 500 Closest At Lowest Point Since September Despite Nvidia's Strong Earnings",
-    "url": "https://www.thestreet.com/latest-news/stock-market-today-nasdaq-sp-500-leaps-over-1-in-premarket-after-nvidias-strong-showing",
-    "id_key": "aae3016a332f2bc9c7351ee67d7ff1bdfd982e8335f51a77aa9728ed6d5439dd",
-    "summary": "The Nasdaq popped more than 2% to start the day. Those gains have been erased, despite strong Nvidia earnings and optimistic jobs data.",
-    "ingested_utc": "2025-11-20T21:50:56Z"
   }
 ]
