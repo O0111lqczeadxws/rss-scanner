@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-11-23",
     "retrieved_date": "2025-11-23",
+    "retrieved_utc": "2025-11-23T07:31:10Z",
+    "source": "AlJazeera_All",
+    "title": "Ukraine, E3 to start Geneva talks; Rubio rejects Russia ‘wish list’ claim",
+    "url": "https://www.aljazeera.com/news/2025/11/23/ukraine-e3-to-start-geneva-talks-rubio-rejects-russia-wish-list-claim?traffic_source=rss",
+    "id_key": "e50c9f7fbbcdd3d5959566dd48442ce99a73e8cba114397998a4870431c1e6e9",
+    "summary": "Stakeholders are gathering to start negotiations based on a text that the EU believes mostly favours Russian demands.",
+    "ingested_utc": "2025-11-23T07:31:10Z"
+  },
+  {
+    "published_utc": "2025-11-23",
+    "retrieved_date": "2025-11-23",
     "retrieved_utc": "2025-11-23T07:14:37Z",
     "source": "Nikkei_Asia_Top",
     "title": "Election in Malaysia's Sabah, India GDP, Thai motor show",
@@ -10986,17 +10997,6 @@
     "url": "https://arstechnica.com/science/2025/11/study-how-the-maya-created-such-accurate-eclipse-tables/",
     "id_key": "3e99dee7fdcc1e4a9f48fae90ab41bf229def8a9dff44c8998df6e836464977a",
     "summary": "Eclipse tables in the Dresden Codex were based on lunar tables and adjusted for slippage over time.",
-    "ingested_utc": "2025-11-20T20:50:58Z"
-  },
-  {
-    "published_utc": "2025-11-20",
-    "retrieved_date": "2025-11-20",
-    "retrieved_utc": "2025-11-20T20:50:58Z",
-    "source": "WIRED_All",
-    "title": "Got a Pixel 10? Google’s Android Phone Can Now Share Files With Apple’s AirDrop",
-    "url": "https://www.wired.com/story/pixel-10-can-now-share-files-with-apples-airdrop/",
-    "id_key": "44b173bf89164acd2361d9948066596166e93db61a654ae2e44568231fbabc7c",
-    "summary": "You can now share deets (and other digital treats) across the mobile divide.",
     "ingested_utc": "2025-11-20T20:50:58Z"
   }
 ]
