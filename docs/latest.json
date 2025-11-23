@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-11-23",
     "retrieved_date": "2025-11-23",
+    "retrieved_utc": "2025-11-23T05:16:06Z",
+    "source": "FT_Markets",
+    "title": "Oil majors return to Libya as Tripoli launches first exploration auction in 18 years",
+    "url": "https://www.ft.com/content/0ce8d859-50c4-49a0-920e-f9691a3a145e",
+    "id_key": "b545b8ac84d9e6c476728dbd252820d38db7b7356e4b930bd1f959f01dd2253a",
+    "summary": "Officials have been visiting Washington to drum up interest",
+    "ingested_utc": "2025-11-23T05:16:06Z"
+  },
+  {
+    "published_utc": "2025-11-23",
+    "retrieved_date": "2025-11-23",
+    "retrieved_utc": "2025-11-23T05:15:54Z",
+    "source": "NYTimes_World",
+    "title": "In Russian-Occupied Mariupol, Everything Ukrainian Must Go",
+    "url": "https://www.nytimes.com/2025/11/23/world/europe/russia-ukraine-mariupol.html",
+    "id_key": "2c99719913d4374c2b4003b2de57ad5948804f258afabfeb43f7640a16de5f68",
+    "summary": "Russia is remaking Mariupol, which was devastated by a brutal siege in 2022. Ukrainians seeking to move back are finding it hard to recognize the city, or to reclaim their property.",
+    "ingested_utc": "2025-11-23T05:15:54Z"
+  },
+  {
+    "published_utc": "2025-11-23",
+    "retrieved_date": "2025-11-23",
     "retrieved_utc": "2025-11-23T04:59:02Z",
     "source": "BBC_World",
     "title": "US insists it authored Ukraine peace plan ahead of talks on ending war",
@@ -10976,27 +10998,5 @@
     "id_key": "1ad649448fff4a35e8f0cfd2040184ea19f3a2e3d8369e03ab8d80c7ada7751f",
     "summary": "Former US presidents and national figures convene to honour man who leaves fraught legacy, but Trump was notably absent.",
     "ingested_utc": "2025-11-20T20:16:59Z"
-  },
-  {
-    "published_utc": "2025-11-20",
-    "retrieved_date": "2025-11-20",
-    "retrieved_utc": "2025-11-20T20:16:58Z",
-    "source": "TheStreet_Top",
-    "title": "Stock Market Today: Nasdaq, S&P 500 Selloff Continues Despite Strong Nvidia Earnings",
-    "url": "https://www.thestreet.com/latest-news/stock-market-today-nasdaq-sp-500-leaps-over-1-in-premarket-after-nvidias-strong-showing",
-    "id_key": "6c9e920e63499bc9bc9a504ab841e630f26a1ff3bb0b7c282c33db1d12fb607d",
-    "summary": "The Nasdaq popped more than 2% to start the day. Those gains have been erased, despite strong Nvidia earnings and optimistic jobs data.",
-    "ingested_utc": "2025-11-20T20:16:58Z"
-  },
-  {
-    "published_utc": "2025-11-20",
-    "retrieved_date": "2025-11-20",
-    "retrieved_utc": "2025-11-20T20:16:50Z",
-    "source": "Engadget_All",
-    "title": "Meta ordered to pay €479 million to Spanish media outlets",
-    "url": "https://www.engadget.com/big-tech/meta-ordered-to-pay-%E2%82%AC479-million-to-spanish-media-outlets-201000460.html?src=rss",
-    "id_key": "481eaf775d2937064f681852ca054de8f2534bdf0cf4caaad745746e6cb7650b",
-    "summary": "Stop me if you've heard this one before: Meta has been fined for unlawfully processing user data to gain a market advantage . On Thursday, Reuters reported that a Madrid court ordered the company to pay €479 million ($552 million) in damages to 87 Spanish media outlets. The fine stems from the company changing its legal grounds for harvesting personal data after new regulations took effect. The court found that Meta's data collection practices violated the EU's General Data Protection Regulation (GDPR) — and, by extension, Spanish antitrust law. After the GDPR took effect in 2018, the company changed its legal grounds for collecting data on Facebook and Instagram from user consent to \"necessity for the performance of a contract.\" Regulators later ruled against that justification, and Meta reverted to user consent as its basis in 2023. But Spanish digital media outlets sued for damages, leading to today's fine. The court ruled that Meta gained a \"significant competitive advantage\" by processing user data that way. The court calculated the penalty as a percentage of the company's ad revenue over the five years it used the unlawful rationale. \"The illicit treatment of this enormous quantity of personal data meant Meta had an advantage that Spanish online media could not match,\" the Madrid court wrote in a statement (via The Associated Press ). \"Meta's actions harmed the online advertising revenues of Spanish digital media outlets.\" Meta contested the penalty and says it will appeal. \"This is a baseless claim that lacks any evidence of alleged harm and wilfully ignores how the online advertising industry works,\" the company wrote in a statement to Reuters . \"Meta complies with all applicable laws and has provided clear choices, transparent information and given users a range of tools to control their experience on our services.\" This article originally appeared on Engadget at https://www.engadget.com/big-tech/meta-ordered-to-pay-%E2%82%AC479-million-to-spanish-media-outlets-201000460.html?src=rss",
-    "ingested_utc": "2025-11-20T20:16:50Z"
   }
 ]
