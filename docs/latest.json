@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-11-23",
     "retrieved_date": "2025-11-23",
+    "retrieved_utc": "2025-11-23T08:39:38Z",
+    "source": "AlJazeera_All",
+    "title": "Israeli jets bomb villages across Lebanon despite ceasefire",
+    "url": "https://www.aljazeera.com/video/newsfeed/2025/11/23/israeli-jets-bomb-villages-across-lebanon-despite-ceasefire?traffic_source=rss",
+    "id_key": "c5d0b7c2a4689f59b8c481bc26d7305242dce40d12d5561b93a71174bbaeef36",
+    "summary": "Israeli fighter jets have bombed across Lebanon, killing at least two people and injuring several others.",
+    "ingested_utc": "2025-11-23T08:39:38Z"
+  },
+  {
+    "published_utc": "2025-11-23",
+    "retrieved_date": "2025-11-23",
+    "retrieved_utc": "2025-11-23T08:37:02Z",
+    "source": "CryptoNews",
+    "title": "Bitcoin ETFs See Third-Largest Weekly Outflow at $1.2B Despite Friday Rebound",
+    "url": "https://cryptonews.com/news/bitcoin-etfs-see-third-largest-weekly-outflow-at-1-2b-despite-friday-rebound/",
+    "id_key": "79c1e5d7a56d88060a0753976f785c9e950d3969dba4cebf84f104605c8046ec",
+    "summary": "Bitcoin ETFs saw nearly $1.2 billion in weekly outflows, marking their third-largest withdrawal event since launch. The post Bitcoin ETFs See Third-Largest Weekly Outflow at $1.2B Despite Friday Rebound appeared first on Cryptonews .",
+    "ingested_utc": "2025-11-23T08:37:02Z"
+  },
+  {
+    "published_utc": "2025-11-23",
+    "retrieved_date": "2025-11-23",
     "retrieved_utc": "2025-11-23T08:17:37Z",
     "source": "Engadget_All",
     "title": "EcoFlow Black Friday deals include up to 52 percent off portable power stations",
@@ -10976,27 +10998,5 @@
     "id_key": "b5fa49c74345aeda5cc826345bd16a178b7bae4492ccb5c8bd25072794345168",
     "summary": "Soldiers from more than 20 countries, diplomats and aid workers are based at the Civil-Military Coordination Centre (CMCC).",
     "ingested_utc": "2025-11-20T21:11:17Z"
-  },
-  {
-    "published_utc": "2025-11-20",
-    "retrieved_date": "2025-11-20",
-    "retrieved_utc": "2025-11-20T20:51:25Z",
-    "source": "HackerNews_Top",
-    "title": "We are replacing OOP with something worse",
-    "url": "https://blog.jsbarretto.com/post/actors",
-    "id_key": "0ba85b372c0d4a9fd7e7639d9de7566ff887e5a7f3262bf3303b628200fec185",
-    "summary": "Comments",
-    "ingested_utc": "2025-11-20T20:51:25Z"
-  },
-  {
-    "published_utc": "2025-11-20",
-    "retrieved_date": "2025-11-20",
-    "retrieved_utc": "2025-11-20T20:51:09Z",
-    "source": "AlJazeera_All",
-    "title": "Sony, Warner and Universal sign AI music licensing deals with startup Klay",
-    "url": "https://www.aljazeera.com/economy/2025/11/20/sony-warner-and-universal-sign-ai-music-licensing-deals-with-startup-klay?traffic_source=rss",
-    "id_key": "e23b2ae1253c205777ecb34328f88dae89562063d002d494e527a7c3c453d148",
-    "summary": "AI-generated music has been flooding streaming services and there is a wave of AI singers and bands that don't exist.",
-    "ingested_utc": "2025-11-20T20:51:09Z"
   }
 ]
