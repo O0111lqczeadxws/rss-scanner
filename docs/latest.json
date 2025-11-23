@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-11-23",
     "retrieved_date": "2025-11-23",
+    "retrieved_utc": "2025-11-23T21:40:05Z",
+    "source": "TheVerge_All",
+    "title": "About This Account reveals the scale of X’s foreign troll problem",
+    "url": "https://www.theverge.com/news/827298/about-this-account-reveals-the-scale-of-xs-foreign-troll-problem",
+    "id_key": "a3bc9df637e0ff982d65d88453628a23e1d261195fc285f2a1609eb5b1a4da54",
+    "summary": "It’s long been known that X (and Twitter before it) is a major venue for foreign influence campaigns to meddle in American politics. Much of the focus has been on Russian troll farms, which the US government has targeted on several occasions. But the launch of X’s About This Account feature may have revealed the […]",
+    "ingested_utc": "2025-11-23T21:40:05Z"
+  },
+  {
+    "published_utc": "2025-11-23",
+    "retrieved_date": "2025-11-23",
+    "retrieved_utc": "2025-11-23T21:37:07Z",
+    "source": "Guardian_World",
+    "title": "David Cameron reveals prostate cancer diagnosis and calls for targeted screening",
+    "url": "https://www.theguardian.com/politics/2025/nov/23/david-cameron-reveals-he-has-prostate-cancer-and-calls-for-targeted-screening",
+    "id_key": "a00dffde9abc951caff38cd1b2e8d8efdb86c9227c3b780247575b8e10638b65",
+    "summary": "Former prime minister says he wants to join ranks of those pressing for more checks on men who may have disease David Cameron has revealed he was treated for prostate cancer as he called for a targeted screening programme. The former prime minister told the Times: “I want to, as it were, come out. I want to add my name to the long list of people calling for a targeted screening programme. Continue reading...",
+    "ingested_utc": "2025-11-23T21:37:07Z"
+  },
+  {
+    "published_utc": "2025-11-23",
+    "retrieved_date": "2025-11-23",
     "retrieved_utc": "2025-11-23T21:13:40Z",
     "source": "Nikkei_Asia_Top",
     "title": "East Asia to see biggest growth for US IPOs next year, says Nasdaq",
@@ -2374,6 +2396,17 @@
     "id_key": "3114694c4c7d00263a9a1d02163a3c6ae37cd25d54335d28eb484c9d084d612c",
     "summary": "While the US escalates a military threat in nearby waters, Venezuelans say the real enemy of the people is a sharp rise in food prices.",
     "ingested_utc": "2025-11-23T03:04:01Z"
+  },
+  {
+    "published_utc": "2025-11-22",
+    "retrieved_date": "2025-11-23",
+    "retrieved_utc": "2025-11-23T21:39:38Z",
+    "source": "NYTimes_Technology",
+    "title": "Cryptology Group Held an Election, but Can’t Decrypt the Results",
+    "url": "https://www.nytimes.com/2025/11/21/world/cryptography-group-lost-election-results.html",
+    "id_key": "3f9a4f163fc54827970a7beb219ef73ea2292f6093413af28224aa1f0a735f99",
+    "summary": "A global group of researchers was unable to read the vote tally, after an official lost one of three secret code keys needed to unlock a hyper-secure election system.",
+    "ingested_utc": "2025-11-23T21:39:38Z"
   },
   {
     "published_utc": "2025-11-22",
@@ -10965,38 +10998,5 @@
     "id_key": "71df5ad97884d3326dbd38aea122eca9614167a380536f9102a97234bc035479",
     "summary": "A sanctioned Russian oil tanker made a U-turn on the way to Venezuela after a US warship intersected its route near the country’s coast, according to Bloomberg tanker tracking, raising questions about whether Washington could step in to curtail Moscow’s energy aid to Caracas.",
     "ingested_utc": "2025-11-21T04:02:14Z"
-  },
-  {
-    "published_utc": "2025-11-21",
-    "retrieved_date": "2025-11-21",
-    "retrieved_utc": "2025-11-21T04:02:14Z",
-    "source": "FinancialPost_Business",
-    "title": "‘Rental Family’ spotlights real-life Japanese businesses that offer fill-in relatives, friends",
-    "url": "https://financialpost.com/pmn/rental-family-spotlights-real-life-japanese-businesses-that-offer-fill-in-relatives-friends",
-    "id_key": "657437870985dd01a60d438a69149c274038527f2cf6b9ada63a01cb4c6d19bb",
-    "summary": "TOKYO (AP) — Ryuichi Ichinokawa’s life could be right out of the movie “Rental Family” as the founder nearly two decades ago of the Heart Project business in Japan, which he bills as a surrogate attendance service complete with furnishing of extras and family members. He has hired dozens of people to act like reporters […]",
-    "ingested_utc": "2025-11-21T04:02:14Z"
-  },
-  {
-    "published_utc": "2025-11-21",
-    "retrieved_date": "2025-11-21",
-    "retrieved_utc": "2025-11-21T04:01:38Z",
-    "source": "FT_Markets",
-    "title": "US tech stocks slide as jolt of volatility hits Wall Street",
-    "url": "https://www.ft.com/content/2c0bb19c-7c64-453f-95ab-c0f54a184089",
-    "id_key": "47e701ac1ca086374ce2e3a38264d6cd7eaa499c53a33683b27688cc17805baf",
-    "summary": "Nasdaq surrenders gains of more than 2% in most volatile session since April’s market ructions",
-    "ingested_utc": "2025-11-21T04:01:38Z"
-  },
-  {
-    "published_utc": "2025-11-21",
-    "retrieved_date": "2025-11-21",
-    "retrieved_utc": "2025-11-21T03:59:20Z",
-    "source": "CryptoNews",
-    "title": "U.S. Authorities Offer $15 Million Reward In Ex Olympian Ryan Wedding’s Crypto-Linked Trafficking Case",
-    "url": "https://cryptonews.com/news/u-s-authorities-offer-15-million-reward-for-ex-olympians-crypto-linked-trafficking-scheme/",
-    "id_key": "38d558b09e6520cb7933725256eba472f798f12ef7d74ea4f54f62d40d4d8e4c",
-    "summary": "Former Olympic snowboarder Ryan Wedding is facing criminal charges for orchestrating an crypto-related international drug trafficking shceme, according to new indictments unsealed this week by the Justice Department.U.S. Authorities Up Reward Money In Shocking Olympian CaseAccording to a November 19 press release from the DOJ, Wedding is charged with overseeing the criminal enterprise as well […] The post U.S. Authorities Offer $15 Million Reward In Ex Olympian Ryan Wedding’s Crypto-Linked Trafficking Case appeared first on Cryptonews .",
-    "ingested_utc": "2025-11-21T03:59:20Z"
   }
 ]
