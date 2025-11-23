@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-11-23",
     "retrieved_date": "2025-11-23",
+    "retrieved_utc": "2025-11-23T15:37:19Z",
+    "source": "Guardian_World",
+    "title": "Trump says Ukraine has ‘zero gratitude’ for peace plan amid international talks",
+    "url": "https://www.theguardian.com/world/2025/nov/23/trump-ukraine-zero-gratitude-peace-plan-international-talks",
+    "id_key": "1026fafe112b796375b99570a26cfec4643aa32df3f9e02d4a0dab19e621e5e0",
+    "summary": "US president appears to roll back from demand Zelenskyy sign by Thursday amid claims Russia authored the text Donald Trump on Sunday claimed Ukraine had shown no gratitude for US efforts to end the war, as American, Ukrainian and international negotiators met in Switzerland to discuss the “peace plan” that would involve significant concessions to Moscow from Kyiv. Poland’s president, Donald Tusk, asked where Trump’s “peace plan” came from, after an apparent admission by the US secretary of state, Marco Rubio, that the text was originally drafted by Moscow. Continue reading...",
+    "ingested_utc": "2025-11-23T15:37:19Z"
+  },
+  {
+    "published_utc": "2025-11-23",
+    "retrieved_date": "2025-11-23",
     "retrieved_utc": "2025-11-23T15:31:31Z",
     "source": "HackerNews_Top",
     "title": "Top MAGA Influencers on X/Twitter Accidentally Unmasked as Foreign Trolls",
@@ -10986,17 +10997,6 @@
     "url": "https://www.nytimes.com/live/2025/business/jobs-report-economy/jobs-data-labor-market",
     "id_key": "c5aa0524499fe20420c930a9190f355ae8c4591d0bf459f00330ae431d06d6f4",
     "summary": "Economists expect that employment growth was anemic in September, before the government shutdown delayed data collection.",
-    "ingested_utc": "2025-11-22T09:50:23Z"
-  },
-  {
-    "published_utc": "2025-11-20",
-    "retrieved_date": "2025-11-22",
-    "retrieved_utc": "2025-11-22T09:50:23Z",
-    "source": "NYTimes_Economy",
-    "title": "After Shutdown, Labor Department Says Some Data is Gone for Good",
-    "url": "https://www.nytimes.com/2025/11/19/business/economy/labor-department-economy-data-october.html",
-    "id_key": "8d9968979b78745b4c9ddc5d9fafb42e801766ba02e99c579bf53c4dc5c56095",
-    "summary": "Surveys were delayed and some cannot be collected at all, officials said, further complicating the Federal Reserve’s decision on interest rates next month.",
     "ingested_utc": "2025-11-22T09:50:23Z"
   }
 ]
