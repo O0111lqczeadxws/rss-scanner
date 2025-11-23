@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-11-23",
     "retrieved_date": "2025-11-23",
+    "retrieved_utc": "2025-11-23T07:47:40Z",
+    "source": "BBC_World",
+    "title": "Vietnam floods leave at least 90 dead and 12 missing",
+    "url": "https://www.bbc.com/news/articles/cwywl8g31g7o?at_medium=RSS&at_campaign=rss",
+    "id_key": "3c7f844fb93993ba68e865d2b214efe026028c5c20961a693b0778d1130bf353",
+    "summary": "Days of torrential rain leaves vast swathes of the country inundated and facing landslides.",
+    "ingested_utc": "2025-11-23T07:47:40Z"
+  },
+  {
+    "published_utc": "2025-11-23",
+    "retrieved_date": "2025-11-23",
     "retrieved_utc": "2025-11-23T07:31:10Z",
     "source": "AlJazeera_All",
     "title": "Ukraine, E3 to start Geneva talks; Rubio rejects Russia ‘wish list’ claim",
@@ -10986,17 +10997,6 @@
     "url": "https://arstechnica.com/gaming/2025/11/microsoft-makes-zork-i-ii-and-iii-open-source-under-mit-license/",
     "id_key": "6c5ccfcc80e4067fc730f53436a0802743f5eebe25b1e191339cdd0b9e98a153",
     "summary": "Microsoft's Open Source Programs Office worked with Jason Scott to do it.",
-    "ingested_utc": "2025-11-20T20:50:58Z"
-  },
-  {
-    "published_utc": "2025-11-20",
-    "retrieved_date": "2025-11-20",
-    "retrieved_utc": "2025-11-20T20:50:58Z",
-    "source": "ArsTechnica_All",
-    "title": "Scientists found the key to accurate Maya eclipse tables",
-    "url": "https://arstechnica.com/science/2025/11/study-how-the-maya-created-such-accurate-eclipse-tables/",
-    "id_key": "3e99dee7fdcc1e4a9f48fae90ab41bf229def8a9dff44c8998df6e836464977a",
-    "summary": "Eclipse tables in the Dresden Codex were based on lunar tables and adjusted for slippage over time.",
     "ingested_utc": "2025-11-20T20:50:58Z"
   }
 ]
