@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-11-23",
     "retrieved_date": "2025-11-23",
+    "retrieved_utc": "2025-11-23T23:41:15Z",
+    "source": "HackerNews_Top",
+    "title": "µcad: New open source programming language that can generate 2D sketches and 3D",
+    "url": "https://microcad.xyz/",
+    "id_key": "1cf790f234dd65973ef5f502636d975a62a763a2608dec7464ec5f4b0c3c1dea",
+    "summary": "Comments",
+    "ingested_utc": "2025-11-23T23:41:15Z"
+  },
+  {
+    "published_utc": "2025-11-23",
+    "retrieved_date": "2025-11-23",
+    "retrieved_utc": "2025-11-23T23:40:31Z",
+    "source": "FT_Home",
+    "title": "Surge in Israeli settler violence shakes West Bank",
+    "url": "https://www.ft.com/content/6bc55472-7868-4bf7-875e-42004aad0637",
+    "id_key": "44814604758e85aa124c4d006a26d0c6c9c30397ec61911b66ada80507b10515",
+    "summary": "Attacks on Palestinians in the territory spiral to highest level in nearly two decades",
+    "ingested_utc": "2025-11-23T23:40:31Z"
+  },
+  {
+    "published_utc": "2025-11-23",
+    "retrieved_date": "2025-11-23",
     "retrieved_utc": "2025-11-23T23:31:24Z",
     "source": "Engadget_All",
     "title": "Two Playdate games about cheese, and spooky campfire stories with a twist",
@@ -10976,27 +10998,5 @@
     "id_key": "3326d4d654993c25f4ebe06ea660c80afadb923c57c35285ff31c6d356269613",
     "summary": "As some lawmakers press U.S. universities to curtail ties with China, a postdoctoral student’s prosecution raises questions about how big the danger actually is.",
     "ingested_utc": "2025-11-21T05:14:58Z"
-  },
-  {
-    "published_utc": "2025-11-21",
-    "retrieved_date": "2025-11-21",
-    "retrieved_utc": "2025-11-21T05:13:06Z",
-    "source": "CryptoNews",
-    "title": "[LIVE] Crypto News Today: Latest Updates for Nov. 21, 2025 – Bitcoin Falls Below $86,000 as Medium-Term Holders Dump; Crypto Market Cap Down 6%",
-    "url": "https://cryptonews.com/news/live-crypto-news-today-latest-updates-for-nov-21-2025/",
-    "id_key": "222dee4f0ce9cd9f6c351938a9072c17e518ffb32cb2077534d53e7266c4ad3b",
-    "summary": "Follow up to the hour updates on what is happening in crypto today, November 21. Market movements, crypto news, and more! The post [LIVE] Crypto News Today: Latest Updates for Nov. 21, 2025 – Bitcoin Falls Below $86,000 as Medium-Term Holders Dump; Crypto Market Cap Down 6% appeared first on Cryptonews .",
-    "ingested_utc": "2025-11-21T05:13:06Z"
-  },
-  {
-    "published_utc": "2025-11-21",
-    "retrieved_date": "2025-11-21",
-    "retrieved_utc": "2025-11-21T05:13:04Z",
-    "source": "CryptoBriefing",
-    "title": "BlackRock’s IBIT sells $355M in Bitcoin",
-    "url": "https://cryptobriefing.com/bitcoin-etf-outflows-blackrock-ibit-355-m/",
-    "id_key": "3c373cceaedc96d6398231e81ff4188e80775b3acd580c172ba832ce3306ad5d",
-    "summary": "Significant Bitcoin outflows from major ETFs may signal investor caution, potentially impacting market stability and future cryptocurrency investments. The post BlackRock’s IBIT sells $355M in Bitcoin appeared first on Crypto Briefing .",
-    "ingested_utc": "2025-11-21T05:13:04Z"
   }
 ]
