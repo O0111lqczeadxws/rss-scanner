@@ -2,6 +2,105 @@
   {
     "published_utc": "2025-11-24",
     "retrieved_date": "2025-11-24",
+    "retrieved_utc": "2025-11-24T03:57:01Z",
+    "source": "HackerNews_Top",
+    "title": "B-Trees: Why Every Database Uses Them",
+    "url": "https://mehmetgoekce.substack.com/p/b-trees-why-every-database-uses-them",
+    "id_key": "1aa50bbd5f57ce23faba0ee9a998c60291e3534f178859ca863b4f21be18dd77",
+    "summary": "Comments",
+    "ingested_utc": "2025-11-24T03:57:01Z"
+  },
+  {
+    "published_utc": "2025-11-24",
+    "retrieved_date": "2025-11-24",
+    "retrieved_utc": "2025-11-24T03:57:01Z",
+    "source": "HackerNews_Top",
+    "title": "A ncurses-based command line torrent client for high performance",
+    "url": "https://github.com/rakshasa/rtorrent",
+    "id_key": "4efc485e017137b08859609bc78864520aaeb69abce93726d1d064e8f91800c1",
+    "summary": "Comments",
+    "ingested_utc": "2025-11-24T03:57:01Z"
+  },
+  {
+    "published_utc": "2025-11-24",
+    "retrieved_date": "2025-11-24",
+    "retrieved_utc": "2025-11-24T03:56:44Z",
+    "source": "AlJazeera_All",
+    "title": "Hamas meet Egypt’s spy chief, says Israel’s attacks on Gaza threaten truce",
+    "url": "https://www.aljazeera.com/news/2025/11/24/hamas-meet-egypts-spy-chief-says-israels-attacks-on-gaza-threaten-truce?traffic_source=rss",
+    "id_key": "b2f118ab44433ef818fce7957e433a80fd674ff5fb0fd6ea77f6219a7e0f817f",
+    "summary": "Meeting in Cairo comes as Palestinians in Gaza held funerals for the dozens of people killed in Israel's latest attacks.",
+    "ingested_utc": "2025-11-24T03:56:44Z"
+  },
+  {
+    "published_utc": "2025-11-24",
+    "retrieved_date": "2025-11-24",
+    "retrieved_utc": "2025-11-24T03:56:02Z",
+    "source": "NYTimes_Business",
+    "title": "‘Wicked: For Good’ Takes Flight at Box Office, Expected to Make Over $150 Million",
+    "url": "https://www.nytimes.com/2025/11/22/business/media/wicked-for-good-box-office.html",
+    "id_key": "4c62f78c2224c21932dc60e14ea4de1d1f16a3204c327507cbd699765bdf734f",
+    "summary": "The movie is expected to take in about $150 million from Friday through Sunday, earning 34 percent more than the first installment last year.",
+    "ingested_utc": "2025-11-24T03:56:02Z"
+  },
+  {
+    "published_utc": "2025-11-24",
+    "retrieved_date": "2025-11-24",
+    "retrieved_utc": "2025-11-24T03:55:10Z",
+    "source": "Erigon_Releases",
+    "title": "v3.3.0-rc.2",
+    "url": "https://github.com/erigontech/erigon/releases/tag/v3.3.0-rc.2",
+    "id_key": "03e7a97bf503369d97c933bf7c3fab3c8abe78c0d0f9f0073914087b2cd38cac",
+    "summary": "[3.3.0] – 2025-11-17 Added Support of historical eth_getProof ( #12984 ). It requires --prune.experimental.include-commitment-history flag. Look our new Docs and HelpCenter: https://docs.erigon.tech/ RPC Endpoints eth_simulateV1 : Complete implementation of Ethereum simulation API with support for state overrides, blob transactions, block overrides, and historical state roots ( #15771 ) eth_createAccessList : StateOverrides parameter support ( #17653 ) Support for eth_call with blockOverrides ( #17261 ) trace_filter : Block tags support ( #17238 ) debug_traceTransaction : Self-destruct operation validation (EIP 6780) ( #17728 ) Consensus & Execution EIP-7928: BlockAccessList type support ( #17544 ) EIP-7934: EstimateGas capped by MaxTxnGasLimit in Osaka ( #17251 ) EIP-7702 transaction support in (r *Receipt) decodeTyped ( #17412 ) Rewrite bytecode support for post-Merge blocks ( #17770 ) Caplin (Consensus Layer) Get blobs support (Fusaka compatibility) ( #17829 ) Changed RPC Improvements eth_getTransactionReceipt : Pre-Byzantium transaction handling ( #17479 , #17509 ) eth_estimateGas : Improved handling with StateOverrides ( #17914 , #17295 ) debug_traceCall : System contract execution support ( #17339 ) Blob transaction and blob base fee override support ( #17313 ) Execution Engine Experimental Parallel Exec ( #16922 ) MAX_PENDING_PARTIALS_PER_WITHDRAWALS_SWEEP for Gnosis ( #17501 ) Reduce goroutines amount produced by BitTorrent library ( #17765 ) Up base image to Go 1.25-trixie ( #17837 ) Removed PoW mining was removed in #17813 , which resulted in --chain=dev not being able to produce new blocks. Going forward we'll either sunset --chain=dev or switch it to mock CL (see #14753 ). If you need --chain=dev , please use Erigon 3.2 Holesky network support removed ( #17685 ) eth/67 protocol support removed ( #17318 ) SkipAnalysis VM optimization removed ( #17217 ) Full Changelog : v3.2.2...v3.3.0",
+    "ingested_utc": "2025-11-24T03:55:10Z"
+  },
+  {
+    "published_utc": "2025-11-24",
+    "retrieved_date": "2025-11-24",
+    "retrieved_utc": "2025-11-24T03:53:47Z",
+    "source": "CryptoBriefing",
+    "title": "Franklin Templeton’s XRP ETF receives NYSE listing approval",
+    "url": "https://cryptobriefing.com/franklin-templeton-xrp-etf-receives-nyse-listing-approval/",
+    "id_key": "b80a9b32ef2e6d3dc5382944e1ffb389f07850b418c87202a342bf8849a643b9",
+    "summary": "The approval signals growing institutional acceptance of crypto assets, potentially boosting market confidence and attracting more investors. The post Franklin Templeton’s XRP ETF receives NYSE listing approval appeared first on Crypto Briefing .",
+    "ingested_utc": "2025-11-24T03:53:47Z"
+  },
+  {
+    "published_utc": "2025-11-24",
+    "retrieved_date": "2025-11-24",
+    "retrieved_utc": "2025-11-24T03:53:27Z",
+    "source": "Guardian_World",
+    "title": "Australia politics live: Marles says ‘knives sharpening’ in Coalition as opposition targets climate and energy policy in question time",
+    "url": "https://www.theguardian.com/australia-news/live/2025/nov/24/australia-politics-live-sussan-ley-andrew-hastie-liberal-leadership-libspill-labor-environment-nature-law-senate-greens-coalition-climate-crisis-ntwnfb",
+    "id_key": "87b24c4c38aa47185a47e2eeea5cc1cdbe1da7ac86198712c058be82132b2845",
+    "summary": "Follow today’s news live ‘Culture cringe’: experts dismiss Coalition claims Chris Bowen cannot remain minister while leading Cop31 negotiations Get our breaking news email , free app or daily news podcast Jumping back to Murray Watt : the environment minister was asked on ABC News Breakfast a little earlier about the extreme price hike on the Bureau of Meteorology’s website redesign. The environment minister says he’s looking forward to more transparency and cultural change in the bureau. We have had a new CEO of the BoM start only a fortnight ago. I met with him on his very first day to outline my concerns and my request for him to get on top of this. I’ve met with him again – twice in his first two weeks – so I’m looking forward to a bit of a change in the culture and the approach of the BoM. It’s a matter for them why they chose to provide that figure rather than a broader figure. But there’s no doubt that there have been increases in the cost of this website as it’s been developed. One of the things that I’ve asked the new CEO of the BoM to get on top of is, what happened here? The scope of the new environmental protection authority, the definition of “net gain”, and the definition of “unacceptable impacts” are in the top three. There are very many other measures that the minister needs to look at in order to come back to us with those amendments so we can find a pathway forward. We’ll take the government’s amendments on their merit and make sure that we deliver, as a Coalition, good outcomes for jobs, in particular, across our country, to make sure that there is certainty around investment and productivity. Continue reading...",
+    "ingested_utc": "2025-11-24T03:53:27Z"
+  },
+  {
+    "published_utc": "2025-11-24",
+    "retrieved_date": "2025-11-24",
+    "retrieved_utc": "2025-11-24T03:53:27Z",
+    "source": "Guardian_World",
+    "title": "‘Beautiful to look at and wonderful to live in’: new pattern designs could be next art deco or red brick classics",
+    "url": "https://www.theguardian.com/artanddesign/2025/nov/24/australia-housing-nsw-council-new-architecture-pattern-books-art-deco-red-brick-classics",
+    "id_key": "4576e52d41f76afc51293bed1b086a7b407fb81be898285a969c7d452512afe5",
+    "summary": "Competition-winning apartment building plans should be approved twice as quickly by NSW councils, and will be three to six storeys high Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Airy Scandinavian interiors, shaded balconies, light-filled courtyards – could these be Sydney’s next art deco apartment blocks or red brick walk-ups ? The New South Wales government has launched nine new mid-rise apartment building pattern book designs, which it hopes will support the construction of 112,000 homes in the “missing middle” over the next five years, through its controversial low and mid-rise (LMR) reforms . Continue reading...",
+    "ingested_utc": "2025-11-24T03:53:27Z"
+  },
+  {
+    "published_utc": "2025-11-24",
+    "retrieved_date": "2025-11-24",
+    "retrieved_utc": "2025-11-24T03:53:27Z",
+    "source": "Guardian_World",
+    "title": "‘Culture cringe’: experts dismiss Coalition claims Chris Bowen cannot remain minister while leading Cop31 negotiations",
+    "url": "https://www.theguardian.com/environment/2025/nov/24/experts-dismiss-coalition-claims-bowen-cannot-remain-minister-cop31-negotiations",
+    "id_key": "c10a24f0066564426e1d9b6c01356f640ff2cbb72b8bf0fb42e56a35146fa424",
+    "summary": "Opposition claims key diplomatic role at next year’s conference in Turkey would make Bowen a ‘part-time minister’ while Australians face inflated energy prices Follow our Australia news live blog for latest updates Sign up for climate and environment editor Adam Morton’s free Clear Air newsletter here Experts have dismissed claims Chris Bowen cannot remain a senior minister while playing a leading role in international climate negotiations, with one describing the argument as evidence of an Australian “culture cringe”. Australia failed in its long-running bid to co-host the Cop31 climate summit with Pacific nations next year after Turkey refused to withdraw from the consensus process despite limited support. Sign up to get climate and environment editor Adam Morton’s Clear Air column as a free newsletter Continue reading...",
+    "ingested_utc": "2025-11-24T03:53:27Z"
+  },
+  {
+    "published_utc": "2025-11-24",
+    "retrieved_date": "2025-11-24",
     "retrieved_utc": "2025-11-24T02:54:12Z",
     "source": "HackerNews_Top",
     "title": "Passing the Torch – My Last Root DNSSEC KSK Ceremony as Crypto Officer 4",
@@ -10899,104 +10998,5 @@
     "id_key": "86d987b57df509b3a3b5667f4d2e7796a7642d6007d8c2ec86f3ac39daac2fdc",
     "summary": "Prime minister says Reform UK leader has ‘questions to answer’ about alleged comments at school which included songs about Holocaust Keir Starmer has accused Nigel Farage of being “spineless” when it comes to tackling racism in his party after the Guardian revealed allegations he made xenophobic and antisemitic comments while he was at school. The prime minister said the Reform UK leader had “questions to answer” about the comments and chants alleged, which included songs about the Holocaust and accusations of bullying towards ethnic minority schoolboys. Continue reading...",
     "ingested_utc": "2025-11-21T08:19:10Z"
-  },
-  {
-    "published_utc": "2025-11-21",
-    "retrieved_date": "2025-11-21",
-    "retrieved_utc": "2025-11-21T08:19:08Z",
-    "source": "BBC_Business",
-    "title": "Households face unexpected rise in energy prices in new year",
-    "url": "https://www.bbc.com/news/articles/c2lplg7d9ewo?at_medium=RSS&at_campaign=rss",
-    "id_key": "8d320c5e14ddedacfde63a10c5b79415dc06699447fcb0c935ebae035f3dd7f5",
-    "summary": "Regulator Ofgem says a change in the price cap in January means a 0.2% increase in gas and electricity prices.",
-    "ingested_utc": "2025-11-21T08:19:08Z"
-  },
-  {
-    "published_utc": "2025-11-21",
-    "retrieved_date": "2025-11-21",
-    "retrieved_utc": "2025-11-21T08:17:36Z",
-    "source": "CoinJournal",
-    "title": "Bitcoin price forecast: Is Bitcoin heading for $80k?",
-    "url": "https://coinjournal.net/news/bitcoin-price-forecast-is-bitcoin-heading-for-80k/",
-    "id_key": "dbcc06f9e2f6de4f04580a8a6aabdb2d7c9026b045e7aea786a387795ace89a4",
-    "summary": "Key takeaways BTC is down 7% in the last 24 hours and is now trading around $81k per coin. The leading cryptocurrency could drop towards the $80k level if the bearish trend continues. BTC continues to underperform The cryptocurrency market has continued its poor performance in November. Bitcoin has lost 9.6% of its value in […] The post Bitcoin price forecast: Is Bitcoin heading for $80k? appeared first on CoinJournal .",
-    "ingested_utc": "2025-11-21T08:17:36Z"
-  },
-  {
-    "published_utc": "2025-11-21",
-    "retrieved_date": "2025-11-21",
-    "retrieved_utc": "2025-11-21T08:17:35Z",
-    "source": "CryptoNews",
-    "title": "U.S. Bitcoin ETFs Log $903M in Outflows, Ethereum ETFs Bleed Another $262M amid Market Bloodbath",
-    "url": "https://cryptonews.com/news/u-s-bitcoin-etfs-log-903m-in-outflows-ethereum-etfs-bleed-another-262m-amid-market-bloodbath/",
-    "id_key": "8c85972cb78447a36eaa95d810bc6aa00b7eef38cf2ba077cead564c001f754c",
-    "summary": "Bitcoin spot ETFs witnessed a total net outflow of $903 million on November 20, while Ethereum ETFs bled $262 million in outflows. The post U.S. Bitcoin ETFs Log $903M in Outflows, Ethereum ETFs Bleed Another $262M amid Market Bloodbath appeared first on Cryptonews .",
-    "ingested_utc": "2025-11-21T08:17:35Z"
-  },
-  {
-    "published_utc": "2025-11-21",
-    "retrieved_date": "2025-11-21",
-    "retrieved_utc": "2025-11-21T08:17:35Z",
-    "source": "CryptoNews",
-    "title": "MSCI May Exclude Digital Asset Treasury Firms, Putting “Meaningful Pressure” on the Sector",
-    "url": "https://cryptonews.com/news/msci-may-exclude-digital-asset-treasury-firms-putting-meaningful-pressure-on-the-sector/",
-    "id_key": "0442c4cb598577c168d75c1ac2fdb95658403fcee1cca186db1053dddac47647",
-    "summary": "MSCI is considering removing Bitcoin-heavy treasury companies from its major indexes, which could force billions in passive fund outflows. The post MSCI May Exclude Digital Asset Treasury Firms, Putting “Meaningful Pressure” on the Sector appeared first on Cryptonews .",
-    "ingested_utc": "2025-11-21T08:17:35Z"
-  },
-  {
-    "published_utc": "2025-11-21",
-    "retrieved_date": "2025-11-21",
-    "retrieved_utc": "2025-11-21T08:17:14Z",
-    "source": "Guardian_World",
-    "title": "Three-metre giant oarfish, ‘palace messenger’ of doom, washes up on Tasmanian beach",
-    "url": "https://www.theguardian.com/environment/2025/nov/21/giant-oarfish-washes-up-on-tasmanian-beach",
-    "id_key": "c7d9d76a26d07711640508142463b56d4e18e55992d7b2d80b67aab395dd6a1c",
-    "summary": "The enormous, serpentine fish, regarded in Japanese folklore as a herald of disaster, usually live deep below the surface and are only sighted when sick or dying Get our breaking news email , free app or daily news podcast It was a beautiful warm day in north-west Tasmania when a fish with a reputation as a harbinger of doom washed ashore. Tony Cheesman, who lives in the seaside town of Penguin, was walking his two dogs, Ronan and Custard, along the beach at Preservation Bay on Friday morning when something silvery and surrounded by gulls grabbed his attention. Continue reading...",
-    "ingested_utc": "2025-11-21T08:17:14Z"
-  },
-  {
-    "published_utc": "2025-11-21",
-    "retrieved_date": "2025-11-21",
-    "retrieved_utc": "2025-11-21T08:17:14Z",
-    "source": "Guardian_World",
-    "title": "UK retail sales drop unexpectedly as shoppers await Black Friday and budget",
-    "url": "https://www.theguardian.com/business/2025/nov/21/uk-retail-sales-drop-black-friday-budget",
-    "id_key": "2dc42d0aeab34df0b855dbee160c4789218483c6f6ddc0831500615b0fb72a23",
-    "summary": "Supermarkets, clothing stores and online mail order firms suffer sales declines as consumers delay purchases Business live – latest updates Sales at UK retailers slumped unexpectedly last month as shoppers waited for Black Friday deals, and uncertainty over the upcoming budget dampened consumer confidence. Retail sales fell 1.1% month on month in October, the first fall since May, according to official figures from the Office for National Statistics (ONS). Economists had been expecting sales growth to be flat on the previous month. Continue reading...",
-    "ingested_utc": "2025-11-21T08:17:14Z"
-  },
-  {
-    "published_utc": "2025-11-21",
-    "retrieved_date": "2025-11-21",
-    "retrieved_utc": "2025-11-21T08:17:11Z",
-    "source": "BBC_Business",
-    "title": "Energy prices to edge up in January as temperatures plunge",
-    "url": "https://www.bbc.com/news/articles/c2lplg7d9ewo?at_medium=RSS&at_campaign=rss",
-    "id_key": "310d1db3e0a16076c5e9d1f9585012af8fc24269beec80194bf72b135ce0e94d",
-    "summary": "Regulator Ofgem says a change in the price cap in January means a 0.2% increase in gas and electricity prices.",
-    "ingested_utc": "2025-11-21T08:17:11Z"
-  },
-  {
-    "published_utc": "2025-11-21",
-    "retrieved_date": "2025-11-21",
-    "retrieved_utc": "2025-11-21T08:17:11Z",
-    "source": "BBC_Business",
-    "title": "How much gas and electricity does a typical household use?",
-    "url": "https://www.bbc.com/news/articles/cdd29v8mp9jo?at_medium=RSS&at_campaign=rss",
-    "id_key": "005e886c7a2dfbfc5f368c336b54c3bf5933b11a59c77edd386f0ff9b57ac805",
-    "summary": "Typical gas and electricity bills are forecast to fall slightly from January when a new energy price cap began.",
-    "ingested_utc": "2025-11-21T08:17:11Z"
-  },
-  {
-    "published_utc": "2025-11-21",
-    "retrieved_date": "2025-11-21",
-    "retrieved_utc": "2025-11-21T07:50:28Z",
-    "source": "FinancialPost_Business",
-    "title": "UK Energy Bills to Rise Slightly Driven by Higher Policy Costs",
-    "url": "https://financialpost.com/pmn/business-pmn/uk-energy-bills-to-rise-slightly-driven-by-higher-policy-costs",
-    "id_key": "754471b1b942127d42bf623bf201a5d8cf7f592b8f865061ca7450297970f560",
-    "summary": "UK energy bills will rise slightly in January, with the cost of government policy continuing to keep bills high even as wholesale energy prices fall.",
-    "ingested_utc": "2025-11-21T07:50:28Z"
   }
 ]
