@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-11-25",
     "retrieved_date": "2025-11-25",
+    "retrieved_utc": "2025-11-25T11:51:01Z",
+    "source": "FT_Home",
+    "title": "UK sugar tax to be extended to more soft drinks and milkshakes",
+    "url": "https://www.ft.com/content/0bd20642-fa27-4826-99bb-e186b6a3360b",
+    "id_key": "54ffd160b18abe9ea0c18cd2c0aa4054b6599f67a28dca54ec1bf657c39b49ca",
+    "summary": "Move comes after brands change recipes to avoid levy",
+    "ingested_utc": "2025-11-25T11:51:01Z"
+  },
+  {
+    "published_utc": "2025-11-25",
+    "retrieved_date": "2025-11-25",
+    "retrieved_utc": "2025-11-25T11:48:48Z",
+    "source": "CryptoBriefing",
+    "title": "Metaplanet raises $130M to buy more Bitcoin and expand income operations",
+    "url": "https://cryptobriefing.com/metaplanet-acquiring-130m-bitcoin/",
+    "id_key": "903042950be6bb8c530f7794b87317c4603d2527e217e1b264e630d1eb80efa5",
+    "summary": "Metaplanet's strategy underscores the increasing trend of institutional Bitcoin adoption, potentially influencing global corporate treasury practices. The post Metaplanet raises $130M to buy more Bitcoin and expand income operations appeared first on Crypto Briefing .",
+    "ingested_utc": "2025-11-25T11:48:48Z"
+  },
+  {
+    "published_utc": "2025-11-25",
+    "retrieved_date": "2025-11-25",
     "retrieved_utc": "2025-11-25T11:41:47Z",
     "source": "TheStreet_Top",
     "title": "\"Wicked: For Good\" box office shocks Disney, critics",
@@ -10976,27 +10998,5 @@
     "id_key": "449f0df3ebc2a3f9f6ba272b7c0340cc49e6a0fbd1ff8569121f1aa8f4aa98f2",
     "summary": "Scholar Mahmood Mamdani says Palestinian rights helped motivate his son Zohran’s run for New York City mayor.",
     "ingested_utc": "2025-11-22T21:30:33Z"
-  },
-  {
-    "published_utc": "2025-11-22",
-    "retrieved_date": "2025-11-22",
-    "retrieved_utc": "2025-11-22T21:29:19Z",
-    "source": "NPR_Top",
-    "title": "U.N. climate talks end without agreement on phasing out fossil fuels",
-    "url": "https://www.npr.org/2025/11/22/nx-s1-5615207/u-n-climate-talks-end-cop30-brazil",
-    "id_key": "6ae767b6af73acf40af73f31f01e9b3729dd8c271c248bbe5aefd5c1ebb75919",
-    "summary": "Dozens of countries had called for a clear \"roadmap\" to transition away from the use of coal, oil and gas. The U.S. did not participate in the negotiations.",
-    "ingested_utc": "2025-11-22T21:29:19Z"
-  },
-  {
-    "published_utc": "2025-11-22",
-    "retrieved_date": "2025-11-22",
-    "retrieved_utc": "2025-11-22T21:29:11Z",
-    "source": "NYTimes_Business",
-    "title": "A.I. Toy Bear Speaks of Sex, Knives and Pills, Consumer Group Warns",
-    "url": "https://www.nytimes.com/2025/11/22/us/folotoy-ai-bear-suspended-explicit-advice.html",
-    "id_key": "a03d65ba42115b63d1777d9f489808a0d7be8e2471f2d2a6b1a737c31266599d",
-    "summary": "The chatter left startled adults unsure whether they heard correctly. Testers warned that interactive toys like this one could allow children to stray into inappropriate exchanges.",
-    "ingested_utc": "2025-11-22T21:29:11Z"
   }
 ]
