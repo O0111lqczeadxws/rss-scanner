@@ -2,6 +2,116 @@
   {
     "published_utc": "2025-11-26",
     "retrieved_date": "2025-11-26",
+    "retrieved_utc": "2025-11-26T20:16:10Z",
+    "source": "FinancialPost_Business",
+    "title": "Adonis Launches Its Holiday Campaign and Unveils a Revamped Selection of Festive Culinary Options",
+    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/adonis-launches-its-holiday-campaign-and-unveils-a-revamped-selection-of-festive-culinary-options",
+    "id_key": "85a3bc41af509d0a6d4a7ab7ec284532c2d1e9c9323ff94a813a42a02c876c86",
+    "summary": "Starting today, customers can enjoy a wide variety of ready-to-eat dishes, festive platters, full-course dinners and authentic specialties for under $20 per person. MONTRÉAL — As the holiday season approaches, Adonis markets is launching its 2025 Christmas campaign across its stores in Québec and Ontario. Known for its Mediterranean roots, imported specialties and extensive food […]",
+    "ingested_utc": "2025-11-26T20:16:10Z"
+  },
+  {
+    "published_utc": "2025-11-26",
+    "retrieved_date": "2025-11-26",
+    "retrieved_utc": "2025-11-26T20:15:54Z",
+    "source": "Engadget_All",
+    "title": "The 22 best gift ideas for the remote worker in your life",
+    "url": "https://www.engadget.com/computing/accessories/the-22-best-gift-ideas-for-the-remote-worker-in-your-life-140037336.html?src=rss",
+    "id_key": "e43e46d590ffc099d93d80d22938a3629336b008d77c898873b2f5ca3feefa6b",
+    "summary": "For many folks, working from home is simply the new normal. If you’re looking to treat someone who spends most of their time in the home office, this holiday season is as good a time as any to make their daily routine a little more convenient. As a collection of remote workers ourselves, we at Engadget have rounded up a few gift ideas that should add a bit more delight to the WFH life. Best gifts for remote workers Check out the rest of our gift ideas here. This article originally appeared on Engadget at https://www.engadget.com/computing/accessories/the-22-best-gift-ideas-for-the-remote-worker-in-your-life-140037336.html?src=rss",
+    "ingested_utc": "2025-11-26T20:15:54Z"
+  },
+  {
+    "published_utc": "2025-11-26",
+    "retrieved_date": "2025-11-26",
+    "retrieved_utc": "2025-11-26T20:15:53Z",
+    "source": "WIRED_All",
+    "title": "Jeff Bezos' New AI Venture Quietly Acquired an Agentic Computing Startup",
+    "url": "https://www.wired.com/story/jeff-bezos-new-ai-company-acquired-agentic-computing-startup/",
+    "id_key": "6344962ebf79f40ee335a134b4834da2325775b4b793ead52dc84d54a9474ab3",
+    "summary": "Project Prometheus has raised over $6 billion in funding and hired over 100 employees, a handful of whom joined through its acquisition of General Agents, according to records and sources.",
+    "ingested_utc": "2025-11-26T20:15:53Z"
+  },
+  {
+    "published_utc": "2025-11-26",
+    "retrieved_date": "2025-11-26",
+    "retrieved_utc": "2025-11-26T20:15:50Z",
+    "source": "TheVerge_All",
+    "title": "Pentagon contractors want to blow up military right to repair",
+    "url": "https://www.theverge.com/news/830715/military-contractors-right-to-repair-ndaa-data-as-a-service",
+    "id_key": "fd94bb6b908fdb996f4efb7b2dc9c09b83ddb6d6f5211375cb4713c35dd576d4",
+    "summary": "Military contractors are trying to thwart a widely-supported right-to-repair provision in the annual defense policy bill — and their efforts may pay off. A source familiar with the negotiations tells The Verge that there are significant concerns that the bill’s right-to-repair language will be replaced by a “data-as-a-service” model, potentially requiring the Department of Defense […]",
+    "ingested_utc": "2025-11-26T20:15:50Z"
+  },
+  {
+    "published_utc": "2025-11-26",
+    "retrieved_date": "2025-11-26",
+    "retrieved_utc": "2025-11-26T20:15:15Z",
+    "source": "MarketWatch_Bulletins",
+    "title": "Dow, S&P 500, Nasdaq on pace for 4th straight day of gains in final hour — live",
+    "url": "https://www.marketwatch.com/bulletins/redirect/go?g=1c387b03-a78b-4bcf-8648-f8f4ad982927&mod=mw_rss_bulletins",
+    "id_key": "810637e921770add86e21c752d3646fcfb7ab2580945c2592b7190e53ba706ca",
+    "summary": "",
+    "ingested_utc": "2025-11-26T20:15:15Z"
+  },
+  {
+    "published_utc": "2025-11-26",
+    "retrieved_date": "2025-11-26",
+    "retrieved_utc": "2025-11-26T20:14:39Z",
+    "source": "Arbitrum_Nitro_Releases",
+    "title": "Arbitrum Nitro v3.9.3",
+    "url": "https://github.com/OffchainLabs/nitro/releases/tag/v3.9.3",
+    "id_key": "9ff2de4fbe889d71bec22d7e10052d255ecef318da91eeb5b063b62bda430856",
+    "summary": "This is an optional release for mainnet, but all ArbSepolia node operators must upgrade to Nitro v3.9.3 before the ArbOS 51 network upgrade on ArbSepolia, scheduled for December 1st, 2025, at 17:00 UTC (12:00 PM ET). This release is available as a Docker Image on Docker Hub at offchainlabs/nitro-node:TBD This Docker image specifies default flags in its entrypoint which should be replicated if you're overriding the entrypoint: /usr/local/bin/nitro --validation.wasm.allowed-wasm-module-roots /home/user/nitro-legacy/machines,/home/user/target/machines If you're running a validator without a split validation server (this will be true of most validators), you should instead use the image offchainlabs/nitro-node:TBD-validator which has the extra script /usr/local/bin/split-val-entry.sh as the entrypoint (no need to override the default entrypoint). What's Changed Support for ArbOS51 User-facing Changes Fix retryable gas calculation bug and add ArbOS51 version ( #4047 ): #4068 Add support for ArbOS51: #4073 Internal Highlights stop block metdata fetcher when node stops: #4021 Full Changelog : v3.9.2...v3.9.3",
+    "ingested_utc": "2025-11-26T20:14:39Z"
+  },
+  {
+    "published_utc": "2025-11-26",
+    "retrieved_date": "2025-11-26",
+    "retrieved_utc": "2025-11-26T20:13:30Z",
+    "source": "CryptoSlate",
+    "title": "Struggling to sleep? You’re not alone – How Bitcoin’s recent price crash is affecting other traders IRL",
+    "url": "https://cryptoslate.com/bitcoins-recent-decline-fuels-sleep-nights-among-traders/",
+    "id_key": "2c9df7c350a76685dc56f168a9b76125caa5e4a4f3bb5dcca91c3ebbbb19b9c5",
+    "summary": "Bitcoin’s recent slide below $80,000 has triggered a wave of sleep disruption across the retail trading community, according to a new report from CEX.io. The flagship digital asset has since rebounded to about $88,000, but the roughly 31% drawdown from its recent peak left many investors monitoring prices through the night. This behavior has moved […] The post Struggling to sleep? You’re not alone – How Bitcoin’s recent price crash is affecting other traders IRL appeared first on CryptoSlate .",
+    "ingested_utc": "2025-11-26T20:13:30Z"
+  },
+  {
+    "published_utc": "2025-11-26",
+    "retrieved_date": "2025-11-26",
+    "retrieved_utc": "2025-11-26T20:13:12Z",
+    "source": "Guardian_World",
+    "title": "Two national guard members shot near White House – live",
+    "url": "https://www.theguardian.com/us-news/live/2025/nov/26/us-politics-latest-news-pete-hegseth-donald-trump-marjorie-taylor-greene-mark-kelly",
+    "id_key": "83ae6243347839a52bde4f0e0b9cd058b093df87fa5cae1cc49ba82d527e09f9",
+    "summary": "Incident near Farragut North metro station leaves two national guard members shot, a source told the Associated Press Two US national guard soldiers shot near White House in Washington DC Bloomberg’s scoop showing how Trump aide Steve Witkoff coached the Kremlin on the best way to get into Trump’s good graces is extraordinary for what it tells us about Witkoff’s dubious loyalties, and the Kremlin’s potential influence over US negotiation efforts. But equally interesting is the leaked material itself and where it may have come from. The story covers two intercepted phone calls : one between Witkoff and top Kremlin aide Yuri Ushakov, and another between Ushakov and Kirill Dmitriev, who has been deeply involved in negotiations with the Trump White House. Continue reading...",
+    "ingested_utc": "2025-11-26T20:13:12Z"
+  },
+  {
+    "published_utc": "2025-11-26",
+    "retrieved_date": "2025-11-26",
+    "retrieved_utc": "2025-11-26T20:13:12Z",
+    "source": "Guardian_World",
+    "title": "Two US national guard soldiers reportedly shot near White House in Washington DC",
+    "url": "https://www.theguardian.com/us-news/2025/nov/26/national-guard-soldiers-shot-washington-dc",
+    "id_key": "a94c1095f80082cccc08a173e88ca1c657ec1a31dd4fc448df8904361cb2f8e3",
+    "summary": "Conditions of two soldiers isn’t immediately known after incident, and emergency vehicles were seen responding in the area US politics live – latest updates Two US national guard soldiers were shot on Wednesday near the White House and their conditions aren’t immediately known, according to a law enforcement official not authorized to discuss the matter publicly, who spoke to AP on condition of anonymity. The incident happened near the Farragut metro station and comes amid a controversial deployment of troops to the US capital city ordered by the Trump administration. Continue reading...",
+    "ingested_utc": "2025-11-26T20:13:12Z"
+  },
+  {
+    "published_utc": "2025-11-26",
+    "retrieved_date": "2025-11-26",
+    "retrieved_utc": "2025-11-26T20:13:09Z",
+    "source": "BBC_World",
+    "title": "Soldiers seize power in Guinea-Bissau and detain the president",
+    "url": "https://www.bbc.com/news/articles/c0edww3qgq2o?at_medium=RSS&at_campaign=rss",
+    "id_key": "2d4208a97ae761fe0672185b86d9e795b0a4ceb978b3d706aced0c0f4f32e00e",
+    "summary": "The military takeover comes as the West African nation was awaiting the results of Sunday's election.",
+    "ingested_utc": "2025-11-26T20:13:09Z"
+  },
+  {
+    "published_utc": "2025-11-26",
+    "retrieved_date": "2025-11-26",
     "retrieved_utc": "2025-11-26T19:50:53Z",
     "source": "HackerNews_Top",
     "title": "Widespread service disruptions reported as major platforms go down worldwide",
@@ -10888,115 +10998,5 @@
     "id_key": "937801c16aa4c3ab376cf43eb1671bf2d67101ad27503c487a7e4169bbb4d629",
     "summary": "Couple who married in Germany had their right to a ‘normal family life’ impeded, court of justice finds Europe live – latest updates The EU’s highest court has ruled that same-sex marriages must be respected throughout the bloc and rebuked Poland for refusing to recognise a marriage between two of its citizens that took place in Germany. The court said on Tuesday that Poland had been wrong in not recognising the marriage of the couple when they moved back to Poland, on the grounds that Polish law does not allow marriage between people of the same sex. Continue reading...",
     "ingested_utc": "2025-11-25T11:11:15Z"
-  },
-  {
-    "published_utc": "2025-11-25",
-    "retrieved_date": "2025-11-25",
-    "retrieved_utc": "2025-11-25T10:56:04Z",
-    "source": "CardanoNode_Releases",
-    "title": "10.5.1",
-    "url": "https://github.com/IntersectMBO/cardano-node/releases/tag/10.5.1",
-    "id_key": "c0c99684b3e5fe5aa48e1269e805eef3c01aebc74fd66c2a3b2186144c183b5f",
-    "summary": "Node 10.5.1 provides a number of improvements over node 10.5.0 . In particular, the Tracing system fixes the slotsMissed_int metric, while networking improvements include Windows socket fixes, reduced caching time of DNS lookup errors, refined PeerSharing configuration behavior (see networking changes below for details), and the deprecation of --non-producer-node in favor of --start-as-non-producer-node command line switch for starting the node. This release also removes a number of irrelevant binaries from the Node artifacts and adds tx-generator . Benchmarking reports relevant to the 10.5.1 release can be found in this post on Cardano Updates . System testing results for the 10.5.1 release can be found on the corresponding tag testing page . Please note the changed default behavior for PeerSharing for relay nodes, but not for block producers. This reflects the recommendations for mainnet usage -- mainnet block producers may not meet the Praos performance guarantees if PeerSharing is enabled and IP will also be leaked, but this is not an issue for relays. Known issues There is a known bug when starting from a Byron snapshot. The node will reject the snapshot and replay the chain from the start. However the time it takes to replay the Byron era is small, and very few users are expected to need to start the node from a Byron snapshot. Therefore the issue will be fixed in 10.6.0. Technical Specification Minimum System Requirements An Intel or AMD x86 processor with two or more cores, at 1.6GHz or faster (2GHz or faster for a stake pool or relay) Or, for MacOS, an Apple Silicon (M1, M2, M3 or M4) processor 24GB of RAM when running with the InMemory backend, 8GB when running with the OnDisk backend (pending confirmation) 300GB of free storage (350GB recommended for future growth) Platforms Linux 64-bit (Ubuntu 20.04 LTS, 22.04 LTS, 24.04 LTS; Mint 20, 21, 21.1, 21.2, 21.3, 22, 22.1; Debian 11, 12) Windows 64-bit (10, 11) MacOS 10.15, 11 (Big Sur), 12 (Monterey), 13 (Ventura), 14 (Sonoma), 15 (Sequioa) GHC/Cabal supported versions GHC 9.6 Cabal 3.8/3.12 Supported roles Platform Block Production Relay Client (Desktop) Linux 🟢 🟢 🟢 Windows 🟥 🟥 🟢 MacOS 🟥 🟥 🟢 Downloads Pre-release configuration files Docker Image Documentation Cardano Node documentation For details about changes to configuration for UTxO-HD please refer to the Consensus docs on UTxO-HD The getting started guide may also be helpful for general queries. Networking options and related changes are listed on the P2P section Cardano CLI Internal API docs for ledger , consensus and network Compatibility matrix Sign-off Role Approval Technical Steering Committee (Intersect) 🟢 Product Committee (Intersect) 🟢 Test Engineer 🟢 Performance Engineer 🟢 Site Reliability Engineer 🟢 Release Engineer 🟢 Legend 🟢 - signed / agreed / supported 🟥 - not agreed / unsupported Changelogs Node Some irrelevant binaries have been removed from the release binary artifacts, and tx-generator added. Tracing New Tracing System: fixed slotsMissed_int metric Consensus No changes Ledger No changes Network Fixed an issue on Windows: setting unsupported Windows socket option which resulted in connections being torn down Lowered the time of caching DNS lookup errors to at most 15 minutes Allow PeerSharing in InitiatorOnlyDiffusionMode The default value of PeerSharing configuration parameter depends on whether the node is configured as a block producer (= PeerSharingDisabled ) or a relay (= PeerSharingEnabled ) for normal operations. For this purpose, the node is considered a BP if any of the protocol files are present at startup. The default can be overridden by explicitly setting the PeerSharing key in the configuration file to the desired value. CLI No changes API No changes Submit API No changes Plutus No changes Detailed Changelogs Individual packages' changelogs Package changelogs Package Version Changelog Win32-network 0.2.0.1 ChangeLog.md base-deriving-via 0.1.0.2 CHANGELOG.md byron-spec-chain 1.0.1.0 CHANGELOG.md byron-spec-ledger 1.1.0.0 CHANGELOG.md cardano-api 10.16.3.0 CHANGELOG.md cardano-binary 1.7.1.0 CHANGELOG.md cardano-cli 10.11.0.0 CHANGELOG.md cardano-crypto-class 2.2.2.0 CHANGELOG.md cardano-crypto-praos 2.2.1.0 CHANGELOG.md cardano-crypto-test 1.6.0.0 CHANGELOG.md cardano-crypto-tests 2.2.1.0 CHANGELOG.md cardano-crypto-wrapper 1.6.0.0 CHANGELOG.md cardano-data 1.2.4.0 CHANGELOG.md cardano-git-rev 0.2.2.0 cardano-ledger-allegra 1.7.0.0 CHANGELOG.md cardano-ledger-alonzo 1.13.0.0 CHANGELOG.md cardano-ledger-alonzo-test 1.3.1.0 CHANGELOG.md cardano-ledger-api 1.11.0.0 CHANGELOG.md cardano-ledger-babbage 1.11.0.0 CHANGELOG.md cardano-ledger-babbage-test 1.3.1.0 CHANGELOG.md cardano-ledger-binary 1.6.0.0 CHANGELOG.md cardano-ledger-byron 1.1.0.0 CHANGELOG.md cardano-ledger-byron-test 1.5.2.1 CHANGELOG.md cardano-ledger-conway 1.19.0.0 CHANGELOG.md cardano-ledger-conway-test 1.3.1.0 CHANGELOG.md cardano-ledger-core 1.17.0.0 CHANGELOG.md cardano-ledger-mary 1.8.0.0 CHANGELOG.md cardano-ledger-shelley 1.16.0.0 CHANGELOG.md cardano-ledger-shelley-ma-test 1.3.0.0 CHANGELOG.md cardano-ledger-shelley-test 1.6.0.0 CHANGELOG.md cardano-lmdb 0.4.0.3 CHANGELOG.md cardano-lmdb-simple 0.8.0.1 CHANGELOG.md cardano-ping 0.8.0.1 CHANGELOG.md cardano-prelude 0.2.1.0 ChangeLog.md cardano-prelude-test 0.1.0.5 cardano-protocol-tpraos 1.4.0.0 CHANGELOG.md cardano-slotting 0.2.0.0 CHANGELOG.md cardano-strict-containers 0.1.4.0 CHANGELOG.md contra-tracer 0.1.0.1 cuddle 0.3.2.1 CHANGELOG.md diff-containers 1.3.0.0 CHANGELOG.md ekg-forward 0.9 CHANGELOG.md fingertree-rm 1.0.0.4 CHANGELOG.md heapwords 0.1.0.2 CHANGELOG.md iohk-monitoring 0.2.1.1 lobemo-backend-aggregation 0.1.0.0 lobemo-backend-ekg 0.2.0.0 lobemo-backend-monitoring 0.1.0.0 lobemo-backend-trace-forwarder 0.1.0.0 lobemo-scribe-systemd 0.1.0.0 measures 0.1.0.2 CHANGELOG.md monoidal-synchronisation 0.1.0.6 CHANGELOG.md network-mux 0.8.0.1 CHANGELOG.md non-integral 1.0.0.0 CHANGELOG.md optparse-applicative-fork 0.18.1.0 CHANGELOG.md ouroboros-consensus 0.27.0.0 CHANGELOG.md ouroboros-consensus-cardano 0.25.1.0 CHANGELOG.md ouroboros-consensus-diffusion 0.23.0.0 CHANGELOG.md ouroboros-consensus-protocol 0.12.0.0 CHANGELOG.md ouroboros-network 0.21.3.0 CHANGELOG.md ouroboros-network-api 0.14.1.0 CHANGELOG.md ouroboros-network-framework 0.18.0.2 CHANGELOG.md ouroboros-network-mock 0.1.1.2 CHANGELOG.md ouroboros-network-protocols 0.14.0.2 CHANGELOG.md ouroboros-network-testing 0.8.1.0 CHANGELOG.md plutus-core 1.45.0.0 CHANGELOG.md plutus-ledger-api 1.45.0.0 CHANGELOG.md plutus-tx 1.45.0.0 CHANGELOG.md plutus-tx-plugin 1.45.0.0 CHANGELOG.md prettyprinter-configurable 1.36.0.0 quickcheck-monoids 0.1.0.1 CHANGELOG.md set-algebra 1.1.0.3 CHANGELOG.md small-steps 1.1.1.0 CHANGELOG.md sop-extras 0.4.0.0 CHANGELOG.md strict-checked-vars 0.2.0.0 CHANGELOG.md strict-sop-core 0.1.3.0 CHANGELOG.md tracer-transformers 0.1.0.4 typed-protocols 0.3.0.0 CHANGELOG.md typed-protocols-cborg 0.3.0.0 CHANGELOG.md typed-protocols-examples 0.5.0.0 typed-protocols-stateful 0.3.0.0 typed-protocols-stateful-cborg 0.3.0.0 ChangeLog.md validation-selective 0.2.0.0.0.0.0.0.1 CHANGELOG.md vector-map 1.1.0.0 CHANGELOG.md",
-    "ingested_utc": "2025-11-25T10:56:04Z"
-  },
-  {
-    "published_utc": "2025-11-25",
-    "retrieved_date": "2025-11-25",
-    "retrieved_utc": "2025-11-25T10:54:28Z",
-    "source": "Guardian_World",
-    "title": "Peak pizza? Domino’s boss ousted after launching shift towards chicken",
-    "url": "https://www.theguardian.com/business/2025/nov/25/dominos-pizza-boss-ousted-chicken-andrew-rennie",
-    "id_key": "927605e5b8f1647d9342f92ebb2d837e65331a0ed5e3f9854273bf0becfeab7e",
-    "summary": "Firm says Andrew Rennie is departing ‘by mutual agreement’ but it is thought he faced tensions with the board Business live – latest updates The boss of Domino’s Pizza Group who suggested the UK may have reached peak pizza as he expanded the chain into fried chicken has been ousted after tensions with its board. Andrew Rennie is leaving after just two years at the helm, and will be replaced on an interim basis by the company’s chief operating officer, Nicola Frampton, while Domino’s searches for a new leader. Continue reading...",
-    "ingested_utc": "2025-11-25T10:54:28Z"
-  },
-  {
-    "published_utc": "2025-11-25",
-    "retrieved_date": "2025-11-25",
-    "retrieved_utc": "2025-11-25T10:45:10Z",
-    "source": "MIT_TechReview",
-    "title": "Aligning VMware migration with business continuity",
-    "url": "https://www.technologyreview.com/2025/11/25/1128173/aligning-vmware-migration-with-business-continuity/",
-    "id_key": "62dec1e398591ab2c3c34bbd11bfeef4fd4ebcb571ef8842a8b6e2f3e20c74f0",
-    "summary": "For decades, business continuity planning meant preparing for anomalous events like hurricanes, floods, tornadoes, or regional power outages. In anticipation of these rare disasters, IT teams built playbooks, ran annual tests, crossed their fingers, and hoped they’d never have to use them. In recent years, an even more persistent threat has emerged. Cyber incidents, particularly…",
-    "ingested_utc": "2025-11-25T10:45:10Z"
-  },
-  {
-    "published_utc": "2025-11-25",
-    "retrieved_date": "2025-11-25",
-    "retrieved_utc": "2025-11-25T10:45:00Z",
-    "source": "FinancialPost_Business",
-    "title": "HCLTech Signs Strategic Collaboration Agreement With AWS to Accelerate Financial Services Industry Transformation With AI and Core Modernization",
-    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/hcltech-signs-strategic-collaboration-agreement-with-aws-to-accelerate-financial-services-industry-transformation-with-ai-and-core-modernization",
-    "id_key": "f73635b6361cf90a916d9abfd22fa8a3d66ea7144b9722530822b3eca590ae48",
-    "summary": "NEW YORK & NOIDA, India — HCLTech, a leading global technology company, today announced that it has signed a strategic collaboration agreement with Amazon Web Services (AWS) to accelerate innovation in the financial services industry through autonomous, AI-powered solutions. The collaboration brings together HCLTech’s deep domain expertise and AWS to deliver transformative outcomes for financial […]",
-    "ingested_utc": "2025-11-25T10:45:00Z"
-  },
-  {
-    "published_utc": "2025-11-25",
-    "retrieved_date": "2025-11-25",
-    "retrieved_utc": "2025-11-25T10:44:43Z",
-    "source": "WIRED_All",
-    "title": "11 Best Down Comforters (2025), Tested in Our Homes in Every Season",
-    "url": "https://www.wired.com/gallery/best-down-comforters/",
-    "id_key": "09eebdbccc94bfa457877caf9ecbeef456dbe3fc8a382b11545ebde3274c27ef",
-    "summary": "The best down comforters keep you cozy and comfortable no matter the season. After sleep-testing multiple options, our top pick is the Premium from Quince.",
-    "ingested_utc": "2025-11-25T10:44:43Z"
-  },
-  {
-    "published_utc": "2025-11-25",
-    "retrieved_date": "2025-11-25",
-    "retrieved_utc": "2025-11-25T10:44:07Z",
-    "source": "MarketWatch_Bulletins",
-    "title": "Analysts muse whether Jack Dorsey is Satoshi after enigmatic response",
-    "url": "https://www.marketwatch.com/bulletins/redirect/go?g=1184167d-cc57-4e2b-8a3b-419fd061b941&mod=mw_rss_bulletins",
-    "id_key": "902f7f40244f7855c1009803e2166445bf100b65979236cc603273cbe2152c54",
-    "summary": "",
-    "ingested_utc": "2025-11-25T10:44:07Z"
-  },
-  {
-    "published_utc": "2025-11-25",
-    "retrieved_date": "2025-11-25",
-    "retrieved_utc": "2025-11-25T10:42:22Z",
-    "source": "CryptoNews",
-    "title": "Crypto VC Funding Surges to $4.65B in Q3, Second-Highest Since FTX",
-    "url": "https://cryptonews.com/news/crypto-vc-funding-surges-to-4-65b-in-q3-second-highest-since-ftx/",
-    "id_key": "50ec0eadc33ba40d412e603b0cb6dca5f86e5c993741bc3fb514fd83520e0730",
-    "summary": "Crypto venture funding roared back in the third quarter, hitting $4.65 billion, the second-highest level since the collapse of FTX. The post Crypto VC Funding Surges to $4.65B in Q3, Second-Highest Since FTX appeared first on Cryptonews .",
-    "ingested_utc": "2025-11-25T10:42:22Z"
-  },
-  {
-    "published_utc": "2025-11-25",
-    "retrieved_date": "2025-11-25",
-    "retrieved_utc": "2025-11-25T10:42:22Z",
-    "source": "CryptoNews",
-    "title": "Canadian Family Sexually Assaulted in $1.6M Bitcoin Wrench Attack — Attacker Handed 7 Years",
-    "url": "https://cryptonews.com/news/canada-bitcoin-wrench-attack-sentence/",
-    "id_key": "4965fec973c34d115d234316152bb95ae0d27d76dd164930b51db5f2f14edad1",
-    "summary": "Tsz Wing Boaz Chan pleaded guilty in the 13.5-hour Bitcoin wrench attack that tortured a Canadian family and stole US$1.6M, and has been sentenced to 7 years. The post Canadian Family Sexually Assaulted in $1.6M Bitcoin Wrench Attack — Attacker Handed 7 Years appeared first on Cryptonews .",
-    "ingested_utc": "2025-11-25T10:42:22Z"
-  },
-  {
-    "published_utc": "2025-11-25",
-    "retrieved_date": "2025-11-25",
-    "retrieved_utc": "2025-11-25T10:42:18Z",
-    "source": "CryptoSlate",
-    "title": "Dogecoin ETF debut flops with no inflow revealing concerning market reality",
-    "url": "https://cryptoslate.com/dogecoin-etf-debut-flops-with-no-inflow-revealing-concerning-market-reality/",
-    "id_key": "a31966f8185665f00b96774356e3cd7403d942f9aead4e90b0740c721821933c",
-    "summary": "Wall Street has finally built a bridge to the internet’s most famous meme coin, but on day one, no one crossed it. On Nov. 24, Grayscale’s Dogecoin ETF (GDOG) began trading on the NYSE Arca without logging a single unit of net creation, a stark signal that the appetite for “meme-beta” in a regulated wrapper […] The post Dogecoin ETF debut flops with no inflow revealing concerning market reality appeared first on CryptoSlate .",
-    "ingested_utc": "2025-11-25T10:42:18Z"
-  },
-  {
-    "published_utc": "2025-11-25",
-    "retrieved_date": "2025-11-25",
-    "retrieved_utc": "2025-11-25T10:42:00Z",
-    "source": "Guardian_World",
-    "title": "Graham Thorpe’s widow says he would be alive if ECB had offered more support",
-    "url": "https://www.theguardian.com/sport/2025/nov/25/graham-thorpe-widow-ecb-cricket",
-    "id_key": "9c20ee0f7b7681ca69722453eaeb10da47b915d41505d9d035c08bfc9c08ee55",
-    "summary": "Cricketer killed himself after period of depression Widow said remote support offered was ‘woeful’ Graham Thorpe’s widow believes he would still be alive if there had been more support from the England and Wales Cricket Board after he left his coaching role with the governing body. Thorpe – one of the most respected batters of his generation and England’s assistant coach as recently as 2021 – killed himself last August following a long battle with anxiety and depression. In the UK, Samaritans can be contacted on 116 123 and the domestic abuse helpline is 0808 2000 247. In Australia, the crisis support service Lifeline is on 13 11 14 and the national family violence counselling service is on 1800 737 732. In the US, the suicide prevention lifeline is at 988 and the domestic violence hotline is 1-800-799-SAFE (7233). Other international helplines can be found via www.befrienders.org Continue reading...",
-    "ingested_utc": "2025-11-25T10:42:00Z"
   }
 ]
