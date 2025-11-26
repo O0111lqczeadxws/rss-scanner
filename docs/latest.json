@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-11-26",
     "retrieved_date": "2025-11-26",
+    "retrieved_utc": "2025-11-26T23:40:55Z",
+    "source": "TheVerge_All",
+    "title": "This $1,400 Steam Machine alternative houses a tiny desktop GPU",
+    "url": "https://www.theverge.com/games/831106/minisforum-g1-pro-mini-pc-price-release-date",
+    "id_key": "748f3c17d263281c2280fd79ed3c2e4eb0a33f74c45a04ee8d6fdce49ab69905",
+    "summary": "What if Valve’s Steam Machine were a 3.8-liter tower instead of a 3.8-liter cube, with a desktop-grade Nvidia RTX 5060 GPU instead of an AMD RX 7600 — plus a more powerful CPU and many faster ports? Well, it’d cost you nearly $1,500 and be called the Minisforum AtomMan G1 Pro. Minisforum is one of […]",
+    "ingested_utc": "2025-11-26T23:40:55Z"
+  },
+  {
+    "published_utc": "2025-11-26",
+    "retrieved_date": "2025-11-26",
+    "retrieved_utc": "2025-11-26T23:40:07Z",
+    "source": "Guardian_World",
+    "title": "Judges allow North Carolina to use Republican-drawn congressional map",
+    "url": "https://www.theguardian.com/us-news/2025/nov/26/north-carolina-congressional-map",
+    "id_key": "d053d5ddf58ad40bd84ab27f4e83abbe9e9a162299c08cd818d26063f809841d",
+    "summary": "New map takes aim at state’s only swing sweat and gives Republicans chance to flip seat as part of Trump campaign A federal three-judge panel on Wednesday allowed North Carolina to use a redrawn congressional map aimed at flipping a seat to Republicans as part of Donald Trump’s multi-state redistricting campaign ahead of the 2026 elections. The new map takes aim at North Carolina’s only swing seat, currently held by Democrat Don Davis, an African American who represents more than 20 counties in the state’s north-east. The first district has been represented by Black members of Congress continuously for more than 30 years. Continue reading...",
+    "ingested_utc": "2025-11-26T23:40:07Z"
+  },
+  {
+    "published_utc": "2025-11-26",
+    "retrieved_date": "2025-11-26",
     "retrieved_utc": "2025-11-26T23:31:43Z",
     "source": "HackerNews_Top",
     "title": "Running Unsupported iOS on Deprecated Devices",
@@ -10976,27 +10998,5 @@
     "id_key": "41c5dacc225a9b9f9e345be17b9600ed5b895de6c741e0deb0fce208559924d1",
     "summary": "From flagship and budget to flipping and folding, Samsung’s Galaxy range spans the breadth of the smartphone cosmos. WIRED’s here to help you make your choice.",
     "ingested_utc": "2025-11-25T13:48:04Z"
-  },
-  {
-    "published_utc": "2025-11-25",
-    "retrieved_date": "2025-11-25",
-    "retrieved_utc": "2025-11-25T13:48:02Z",
-    "source": "TheVerge_All",
-    "title": "Aluminium OS will be Google’s take on Android for PC",
-    "url": "https://www.theverge.com/news/828595/google-aluminium-os-android-pc-chromeos-ai",
-    "id_key": "110f1118867568d9f7016684d58824767bf4e1086ae58d52a906db0c4b2cc936",
-    "summary": "We know a little more about Google’s long-gestating plans to combine the best parts of Android and ChromeOS into a single OS thanks to a job listing for a product manager to work on “Aluminium OS.” The job ad describes it as “a new operating system built with Artificial Intelligence (AI) at the core.” Android […]",
-    "ingested_utc": "2025-11-25T13:48:02Z"
-  },
-  {
-    "published_utc": "2025-11-25",
-    "retrieved_date": "2025-11-25",
-    "retrieved_utc": "2025-11-25T13:47:43Z",
-    "source": "NPR_Business",
-    "title": "We're shopping our feelings this Black Friday. Here are 3 things to know",
-    "url": "https://www.npr.org/2025/11/25/nx-s1-5618279/black-friday-sales-deals",
-    "id_key": "f7c19181112d72ea3c464403154532af0ab255665c538e40e4048a7a9e57688b",
-    "summary": "Signs are pointing to deeper discounts this Black Friday, as stores try to coax anxious shoppers into splurging.",
-    "ingested_utc": "2025-11-25T13:47:43Z"
   }
 ]
