@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-11-27",
     "retrieved_date": "2025-11-27",
+    "retrieved_utc": "2025-11-27T21:39:45Z",
+    "source": "HackerNews_Top",
+    "title": "LinkedIn is loud, and corporate is hell",
+    "url": "https://ramones.dev/posts/linkedin-is-loud/",
+    "id_key": "1325033757c59a77ca182137dbbf2a90bd0c217e13c14372daf2cb9e7c0874d9",
+    "summary": "Comments",
+    "ingested_utc": "2025-11-27T21:39:45Z"
+  },
+  {
+    "published_utc": "2025-11-27",
+    "retrieved_date": "2025-11-27",
+    "retrieved_utc": "2025-11-27T21:38:49Z",
+    "source": "NYTimes_World",
+    "title": "Louvre Raising Ticket Prices for Non-European Visitors",
+    "url": "https://www.nytimes.com/2025/11/27/world/europe/louvre-higher-ticket-prices.html",
+    "id_key": "76f6249d8a14431727dfbdef650d72feefb03107d676dd8caeccd24d6fd848e4",
+    "summary": "From Jan. 14, visitors to the museum from outside the European Economic Area will pay 45 percent more for entry to help finance its ambitious renovation plan.",
+    "ingested_utc": "2025-11-27T21:38:49Z"
+  },
+  {
+    "published_utc": "2025-11-27",
+    "retrieved_date": "2025-11-27",
     "retrieved_utc": "2025-11-27T21:30:48Z",
     "source": "FinancialPost_Business",
     "title": "Western Pacific Trust Company Announces Appointment of Vice-President, Operations",
@@ -10976,27 +10998,5 @@
     "id_key": "28f7ec717ecd0694bc3149b40d898d7b8381716144a94362d98931f36f9b8da5",
     "summary": "The resurgence in Bitcoin ETF inflows suggests renewed investor confidence and potential long-term growth in crypto investment products. The post Bitcoin ETFs attract $129M, led by Fidelity’s FBTC appeared first on Crypto Briefing .",
     "ingested_utc": "2025-11-26T05:34:13Z"
-  },
-  {
-    "published_utc": "2025-11-26",
-    "retrieved_date": "2025-11-26",
-    "retrieved_utc": "2025-11-26T05:15:35Z",
-    "source": "FinancialPost_Business",
-    "title": "Judge’s footnote on immigration agents using AI raises accuracy and privacy concerns",
-    "url": "https://financialpost.com/pmn/judges-footnote-on-immigration-agents-using-ai-raises-accuracy-and-privacy-concerns",
-    "id_key": "83c83d5447423200849581e1ce6f720c9252f920810fffc634f42c6f7a41d06a",
-    "summary": "Tucked in a two-sentence footnote in a voluminous court opinion, a federal judge recently called out immigration agents using artificial intelligence to write use-of-force reports, raising concerns that it could lead to inaccuracies and further erode public confidence in how police have handled the immigration crackdown in the Chicago area and ensuing protests. U.S. District […]",
-    "ingested_utc": "2025-11-26T05:15:35Z"
-  },
-  {
-    "published_utc": "2025-11-26",
-    "retrieved_date": "2025-11-26",
-    "retrieved_utc": "2025-11-26T05:15:35Z",
-    "source": "FinancialPost_Business",
-    "title": "Sellers in other countries struggle to maintain US customers as holiday shopping season starts",
-    "url": "https://financialpost.com/pmn/sellers-in-other-countries-struggle-to-maintain-us-customers-as-holiday-shopping-season-starts",
-    "id_key": "e9be2d49843ad33f54b63cd49e724c25a9b8752b4741d0c27b5ca882618df2d0",
-    "summary": "NEW YORK (AP) — At Fleece & Harmony, a woolen mill and yarn shop in bucolic Belfast, Prince Edward Island, in Canada, owner Kim Doherty used to be able to send yarn skeins to U.S. customers across the border with little fanfare. The yarn orders usually met an import tax exemption for packages valued at […]",
-    "ingested_utc": "2025-11-26T05:15:35Z"
   }
 ]
