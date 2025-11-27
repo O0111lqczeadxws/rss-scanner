@@ -2,6 +2,50 @@
   {
     "published_utc": "2025-11-27",
     "retrieved_date": "2025-11-27",
+    "retrieved_utc": "2025-11-27T19:28:08Z",
+    "source": "FinancialPost_Business",
+    "title": "Steel industry says Carney is moving in the right direction, but needs to pick up the pace",
+    "url": "https://financialpost.com/commodities/steel-producers-cheer-carney-policies-but-fault-pace-reach",
+    "id_key": "042bd33a7f5687f44d8464303b886aadf520238fd2e50def5a123a750d29f6a0",
+    "summary": "Sector undergoing fundamental restructuring as market shifts away from United States and its tariffs",
+    "ingested_utc": "2025-11-27T19:28:08Z"
+  },
+  {
+    "published_utc": "2025-11-27",
+    "retrieved_date": "2025-11-27",
+    "retrieved_utc": "2025-11-27T19:25:33Z",
+    "source": "CoinJournal",
+    "title": "Crypto ETP provider Bitcoin Capital launches a BONK ETP on SIX Swiss Exchange",
+    "url": "https://coinjournal.net/news/crypto-etp-provider-bitcoin-capital-launches-a-bonk-etp-on-six-swiss-exchange/",
+    "id_key": "c5df2320d8c6539a141104364e27ee6209fe3ec7c99b7916f931e6962b871c1c",
+    "summary": "BONK ETP launches on SIX, giving European investors regulated access to the crypto. BONK price jumps by 3.5%, outperforming broader crypto amid technical rebound. Institutional demand may boost liquidity and tighten the circulating supply. Swiss crypto ETP provider Bitcoin Capital has launched a regulated exchange-traded product (ETP) for the Solana-based meme coin BONK on Switzerland’s […] The post Crypto ETP provider Bitcoin Capital launches a BONK ETP on SIX Swiss Exchange appeared first on CoinJournal .",
+    "ingested_utc": "2025-11-27T19:25:33Z"
+  },
+  {
+    "published_utc": "2025-11-27",
+    "retrieved_date": "2025-11-27",
+    "retrieved_utc": "2025-11-27T19:25:32Z",
+    "source": "CryptoNews",
+    "title": "Bitcoin Above $91K Eases Stress – But Depth, Flows and Stablecoins Still Call the Shots",
+    "url": "https://cryptonews.com/news/bitcoin-above-91000-but-the-turn-remains-unproven/",
+    "id_key": "8ceecc1adf5cdb5aee3226812b09d305a411cb59d662724c4ef724efcee8f6c1",
+    "summary": "Bitcoin has traded near $91,700, easing last week’s stress but leaving sentiment in fear, as traders watch ETF creations and redemptions, spot liquidity, funding levels and net stablecoin issuance to judge whether price strength has turned into a more durable recovery above $90,000. The post Bitcoin Above $91K Eases Stress – But Depth, Flows and Stablecoins Still Call the Shots appeared first on Cryptonews .",
+    "ingested_utc": "2025-11-27T19:25:32Z"
+  },
+  {
+    "published_utc": "2025-11-27",
+    "retrieved_date": "2025-11-27",
+    "retrieved_utc": "2025-11-27T19:25:08Z",
+    "source": "BBC_Business",
+    "title": "BBC joins officers on criminal network raids",
+    "url": "https://www.bbc.com/news/videos/cqxq87nz3j2o?at_medium=RSS&at_campaign=rss",
+    "id_key": "b8f0328f9dd89688b5cf97c86ff89801739696095bad3f4b4531076cfb984d67",
+    "summary": "Three men have been arrested in dawn raids following a BBC News investigation into organised crime gangs operating on the High Street.",
+    "ingested_utc": "2025-11-27T19:25:08Z"
+  },
+  {
+    "published_utc": "2025-11-27",
+    "retrieved_date": "2025-11-27",
     "retrieved_utc": "2025-11-27T19:12:36Z",
     "source": "FinancialPost_Business",
     "title": "The Crump Group’s Jesse Stratton Named One of the 2025 Generation Next Award Winners by Canadian Grocer",
@@ -10954,49 +10998,5 @@
     "id_key": "1b4b0b75213628a80ef1be215d933f1c6a799fcc79ba3c3c59c47c0177490033",
     "summary": "Thomas King said he felt “ripped in half” on learning he had no Indigenous ancestry. The Canadian author has dedicated his career to writing about Indigenous people.",
     "ingested_utc": "2025-11-26T02:32:40Z"
-  },
-  {
-    "published_utc": "2025-11-26",
-    "retrieved_date": "2025-11-26",
-    "retrieved_utc": "2025-11-26T02:32:32Z",
-    "source": "MarketWatch_Bulletins",
-    "title": "Personal-finance superstar Priceless Tay on how to nail retirement success",
-    "url": "https://www.marketwatch.com/bulletins/redirect/go?g=2dfb65e5-1661-4b27-9436-fbb5f8b01afc&mod=mw_rss_bulletins",
-    "id_key": "51efed99086c796eef5af5ae91a38aef2e123d21f159d83967e5fe19620f2636",
-    "summary": "",
-    "ingested_utc": "2025-11-26T02:32:32Z"
-  },
-  {
-    "published_utc": "2025-11-26",
-    "retrieved_date": "2025-11-26",
-    "retrieved_utc": "2025-11-26T02:31:47Z",
-    "source": "Erigon_Releases",
-    "title": "v3.3.0-rc.2",
-    "url": "https://github.com/erigontech/erigon/releases/tag/v3.3.0-rc.2",
-    "id_key": "98aaecf4aafe0a2bab553cb4977adb23de0b101745eff3b982cde9d2c0f7ef2b",
-    "summary": "Added Support of historical eth_getProof ( #12984 ). It requires --prune.include-commitment-history flag. Look our new Docs and HelpCenter: https://docs.erigon.tech/ RPC Endpoints eth_simulateV1 : Complete implementation of Ethereum simulation API with support for state overrides, blob transactions, block overrides, and historical state roots ( #15771 ) eth_createAccessList : StateOverrides parameter support ( #17653 ) Support for eth_call with blockOverrides ( #17261 ) trace_filter : Block tags support ( #17238 ) debug_traceTransaction : Self-destruct operation validation (EIP 6780) ( #17728 ) Consensus & Execution EIP-7928: BlockAccessList type support ( #17544 ) EIP-7934: EstimateGas capped by MaxTxnGasLimit in Osaka ( #17251 ) EIP-7702 transaction support in (r *Receipt) decodeTyped ( #17412 ) Rewrite bytecode support for post-Merge blocks ( #17770 ) Caplin (Consensus Layer) Get blobs support (Fusaka compatibility) ( #17829 ) Changed RPC Improvements eth_getTransactionReceipt : Pre-Byzantium transaction handling ( #17479 , #17509 ) eth_estimateGas : Improved handling with StateOverrides ( #17914 , #17295 ) debug_traceCall : System contract execution support ( #17339 ) Blob transaction and blob base fee override support ( #17313 ) Execution Engine Experimental Parallel Exec ( #16922 ) MAX_PENDING_PARTIALS_PER_WITHDRAWALS_SWEEP for Gnosis ( #17501 ) Reduce goroutines amount produced by BitTorrent library ( #17765 ) Up base image to Go 1.25-trixie ( #17837 ) Removed PoW mining was removed in #17813 , which resulted in --chain=dev not being able to produce new blocks. Going forward we'll either sunset --chain=dev or switch it to mock CL (see #14753 ). If you need --chain=dev , please use Erigon 3.2 Holesky network support removed ( #17685 ) eth/67 protocol support removed ( #17318 ) SkipAnalysis VM optimization removed ( #17217 ) Full Changelog : v3.2.2...v3.3.0",
-    "ingested_utc": "2025-11-26T02:31:47Z"
-  },
-  {
-    "published_utc": "2025-11-26",
-    "retrieved_date": "2025-11-26",
-    "retrieved_utc": "2025-11-26T02:30:49Z",
-    "source": "CryptoNews",
-    "title": "Donald Trump Approval Rating Lower Than His First Term, New Poll Shows",
-    "url": "https://cryptonews.com/news/trump-disapproval-rating-higher-than-his-first-term-new-poll-shows/",
-    "id_key": "c15e4a49fb1518aec14397412097694d927380fe419ee4146e8ac31acc634b09",
-    "summary": "The approval rating of U.S. President Donald Trump is now lower than it was during his first term in the Oval Office, a new YouGov poll this week shows.Donald Trump Approval Rating Sees New LowsAccording to the poll published on November 25, Trump’s net approval rating stands at negative 19%.Likewise, just 38% of those surveyed […] The post Donald Trump Approval Rating Lower Than His First Term, New Poll Shows appeared first on Cryptonews .",
-    "ingested_utc": "2025-11-26T02:30:49Z"
-  },
-  {
-    "published_utc": "2025-11-26",
-    "retrieved_date": "2025-11-26",
-    "retrieved_utc": "2025-11-26T02:30:47Z",
-    "source": "CryptoBriefing",
-    "title": "Bank of Japan may signal December interest rate hike, sources say",
-    "url": "https://cryptobriefing.com/boj-may-signal-december-rate-hike/",
-    "id_key": "a8c772864a683c980a06a15564b7412ea865fbcaacfa8c00fdce4d89cd1c0566",
-    "summary": "A December rate hike by the Bank of Japan could stabilize the yen and address inflation, impacting global markets and economic policies. The post Bank of Japan may signal December interest rate hike, sources say appeared first on Crypto Briefing .",
-    "ingested_utc": "2025-11-26T02:30:47Z"
   }
 ]
