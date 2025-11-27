@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-11-27",
     "retrieved_date": "2025-11-27",
+    "retrieved_utc": "2025-11-27T23:40:16Z",
+    "source": "Guardian_World",
+    "title": "Trump administration to review status of refugees in wake of Washington DC shooting",
+    "url": "https://www.theguardian.com/us-news/2025/nov/26/washington-national-guard-shooting-suspect",
+    "id_key": "eade44bb8cea0980f0fe05c48a6c8a9f94793042ce140586f48a8437f750bc92",
+    "summary": "Immigration director says green cards for people from certain countries will also be re-examined Trump administration officials say they are undertaking a broad re-examination of asylum cases and green cards issued to citizens of certain countries, after the shooting of two national guard members near the White House in Washington DC on Wednesday. The Department of Homeland Security (DHS) named the suspect in the shooting as Rahmanullah Lakanwal, a 29-year-old Afghan national who entered the US under a policy set up under Joe Biden after the US withdrawal from Afghanistan in 2021 and continued under Donald Trump. Continue reading...",
+    "ingested_utc": "2025-11-27T23:40:16Z"
+  },
+  {
+    "published_utc": "2025-11-27",
+    "retrieved_date": "2025-11-27",
     "retrieved_utc": "2025-11-27T23:31:43Z",
     "source": "HackerNews_Top",
     "title": "A Programmer-Friendly I/O Abstraction Over io_uring and kqueue",
@@ -10987,16 +10998,5 @@
     "id_key": "983302b03f86c5866b7a80ed7651090710385415a910306fc35785b8e7906cc2",
     "summary": "The commercial robotaxi service launched last year. Now, the human safety operator is gone.",
     "ingested_utc": "2025-11-26T07:15:33Z"
-  },
-  {
-    "published_utc": "2025-11-26",
-    "retrieved_date": "2025-11-26",
-    "retrieved_utc": "2025-11-26T07:15:32Z",
-    "source": "TheVerge_All",
-    "title": "Uber’s robotaxi service in UAE now includes fully driverless vehicles",
-    "url": "https://www.theverge.com/news/828685/uber-weride-robotaxi-fully-driverless-uae",
-    "id_key": "bb473aa13c19b5703b0964c8439c28b92b9b5e80c2e613cc5adc4e2fdb2f38e1",
-    "summary": "Uber and WeRide are now deploying fully driverless vehicles as part of its robotaxi service in the United Arab Emarites. Customers in Abu Dhabi who request an UberX or Uber Comfort may be matched with a fully autonomous WeRide vehicle if the route is part of the company’s service area. Uber and Chinese autonomous vehicle […]",
-    "ingested_utc": "2025-11-26T07:15:32Z"
   }
 ]
