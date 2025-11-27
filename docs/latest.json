@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-11-27",
     "retrieved_date": "2025-11-27",
+    "retrieved_utc": "2025-11-27T17:50:43Z",
+    "source": "AlJazeera_All",
+    "title": "What was behind the coup in Guinea-Bissau days after the election?",
+    "url": "https://www.aljazeera.com/video/inside-story/2025/11/27/what-was-behind-the-coup-in-guinea-bissau-days-after-the-election?traffic_source=rss",
+    "id_key": "ef83bd62fdd525f8b01c2fea582df4d132730cb2d6f744c70f6ecf9cc1f16d27",
+    "summary": "Military takeover follows others in the region in recent years.",
+    "ingested_utc": "2025-11-27T17:50:43Z"
+  },
+  {
+    "published_utc": "2025-11-27",
+    "retrieved_date": "2025-11-27",
     "retrieved_utc": "2025-11-27T17:44:08Z",
     "source": "HackerNews_Top",
     "title": "Pakistan says rooftop solar output to exceed grid demand in some hubs next year",
@@ -10987,16 +10998,5 @@
     "id_key": "eca43a940ca89fcfb8a3ee1c0bafc5f2aab5796ce89570c48c0081bb5b0a740b",
     "summary": "The new location feature suggested that some influencer accounts are based thousands of miles away from the countries they weigh in on. But X has explained very little about the data and how it works.",
     "ingested_utc": "2025-11-26T07:15:15Z"
-  },
-  {
-    "published_utc": "2025-11-25",
-    "retrieved_date": "2025-11-26",
-    "retrieved_utc": "2025-11-26T03:39:04Z",
-    "source": "NPR_World",
-    "title": "X's new location feature sparks controversy, but is the data reliable?",
-    "url": "https://www.npr.org/2025/11/25/nx-s1-5619239/x-maga-influencers-location",
-    "id_key": "56c715534ee0baf77bccf739e8abc7b44f1bea000566ce7f9f64f59468cd03d7",
-    "summary": "The new location feature suggested that some influencer accounts are based thousands of miles away from the countries they weigh in on. But X has explained very little about the data and how it works.",
-    "ingested_utc": "2025-11-26T03:39:04Z"
   }
 ]
