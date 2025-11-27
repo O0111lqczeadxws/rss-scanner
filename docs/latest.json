@@ -728,6 +728,17 @@
   {
     "published_utc": "2025-11-26",
     "retrieved_date": "2025-11-27",
+    "retrieved_utc": "2025-11-27T05:53:02Z",
+    "source": "AlJazeera_All",
+    "title": "Two US National Guardsmen injured in Washington, DC, shooting",
+    "url": "https://www.aljazeera.com/news/2025/11/26/two-national-guard-troops-shot-in-us-capital?traffic_source=rss",
+    "id_key": "a055ccebf2a1f59d7a2ec3d7a05df4a8964ea918ce90fd62dec056d44bd9b140",
+    "summary": "Police say they have one suspect in custody as Donald Trump promises 'very steep price' for perpetrator of shooting.",
+    "ingested_utc": "2025-11-27T05:53:02Z"
+  },
+  {
+    "published_utc": "2025-11-26",
+    "retrieved_date": "2025-11-27",
     "retrieved_utc": "2025-11-27T05:37:45Z",
     "source": "FT_Markets",
     "title": "Vanguard plans to buy more gilts as UK Budget calms investor nerves",
@@ -10987,16 +10998,5 @@
     "id_key": "599e76b09caaae9834d948c42f9634c992ac5e6691a215def6ec7e64c992e10e",
     "summary": "Show at Cauldeen primary school in Inverness had included a scene explaining hardship faced by Syrian refugees A primary school in Scotland has cancelled its Christmas show after receiving “racist and abusive” messages because it featured sympathy towards Syrian refugees. The decision by Cauldeen primary school in Inverness follows rising tensions at other schools in Scotland over adult English classes being targeted by far-right demonstrators, which has also led to events being cancelled. Continue reading...",
     "ingested_utc": "2025-11-25T15:14:34Z"
-  },
-  {
-    "published_utc": "2025-11-25",
-    "retrieved_date": "2025-11-25",
-    "retrieved_utc": "2025-11-25T15:14:31Z",
-    "source": "BBC_World",
-    "title": "Popemobile becomes a mobile health clinic for Gaza children",
-    "url": "https://www.bbc.com/news/videos/cwyg1r1nkldo?at_medium=RSS&at_campaign=rss",
-    "id_key": "66bcd7615ae5d733e588ac480e1f60686bcb305732ff0ea24692e397f06849ab",
-    "summary": "The vehicle had transported the late Pope Francis on a visit to Bethlehem in 2014.",
-    "ingested_utc": "2025-11-25T15:14:31Z"
   }
 ]
