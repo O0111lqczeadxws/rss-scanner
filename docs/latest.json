@@ -2,6 +2,61 @@
   {
     "published_utc": "2025-11-28",
     "retrieved_date": "2025-11-28",
+    "retrieved_utc": "2025-11-28T22:51:12Z",
+    "source": "HackerNews_Top",
+    "title": "Electron vs. Tauri",
+    "url": "https://www.dolthub.com/blog/2025-11-13-electron-vs-tauri/",
+    "id_key": "df4cfc1753144a30a2139904a2f5af86cedb42b059b8e81c23175c5daae88355",
+    "summary": "Comments",
+    "ingested_utc": "2025-11-28T22:51:12Z"
+  },
+  {
+    "published_utc": "2025-11-28",
+    "retrieved_date": "2025-11-28",
+    "retrieved_utc": "2025-11-28T22:51:01Z",
+    "source": "FinancialPost_Business",
+    "title": "Purpose Investments Announces Change of Investment Objective for Certain Funds and Implementation of Staking in Purpose Ether ETF",
+    "url": "https://financialpost.com/globe-newswire/purpose-investments-announces-change-of-investment-objective-for-certain-funds-and-implementation-of-staking-in-purpose-ether-etf",
+    "id_key": "05e8dc8a7bc4b6b1e5347ee932efd9696b7979a05b002c226663e5242ba12311",
+    "summary": "TORONTO, Nov. 28, 2025 (GLOBE NEWSWIRE) — Purpose Investments Inc. announced today that it will proceed with changing the investment objectives for Purpose Bitcoin Yield ETF (TSX: BTCY) and Purpose Ether Yield ETF (TSX: ETHY) to permit the use of leverage through cash borrowing of up to 33% of the respective fund’s unlevered net asset […]",
+    "ingested_utc": "2025-11-28T22:51:01Z"
+  },
+  {
+    "published_utc": "2025-11-28",
+    "retrieved_date": "2025-11-28",
+    "retrieved_utc": "2025-11-28T22:48:21Z",
+    "source": "CryptoNews",
+    "title": "Best Crypto to Buy Now 28 November – XRP, Dogecoin, Shiba Inu",
+    "url": "https://cryptonews.com/news/best-crypto-to-buy-now-28-november-xrp-dogecoin-shiba-inu/",
+    "id_key": "43e012de718f3d66266e8294b91dae10ca62f526b88dca415c4dbe840f6fc23e",
+    "summary": "Bitcoin has slipped from its peak while long-term crypto holders have stayed confident and analysts have tracked renewed interest in XRP, Dogecoin, Shiba Inu and presale project Bitcoin Hyper, as ETFs, Layer-2 tools and regulation talks have reshaped market expectations. The post Best Crypto to Buy Now 28 November – XRP, Dogecoin, Shiba Inu appeared first on Cryptonews .",
+    "ingested_utc": "2025-11-28T22:48:21Z"
+  },
+  {
+    "published_utc": "2025-11-28",
+    "retrieved_date": "2025-11-28",
+    "retrieved_utc": "2025-11-28T22:47:58Z",
+    "source": "Guardian_World",
+    "title": "Jetstar cancels domestic flights across Australia after global Airbus A320 recall",
+    "url": "https://www.theguardian.com/business/2025/nov/29/jetstar-cancel-domestic-flights-australia-global-airbus-a320-recall",
+    "id_key": "4f4371520e85456ff6c8edbcdf6956b0e89ebf16a3bac82d7f84976b328e2ccf",
+    "summary": "Immediate software upgrade ordered by Airbus after US mid-air incident threatens airport chaos across Australia Get our breaking news email , free app or daily news podcast Jetstar has grounded some of its Airbus fleet and cancelled domestic flights across Australia after the aerospace manufacturer issued a global recall of its A320 fleet. Airbus said on Friday it was ordering an immediate software change on many of its bestselling A320 family of aircraft, a narrow-body plane which is also used by Virgin Australia and Qantas. Continue reading...",
+    "ingested_utc": "2025-11-28T22:47:58Z"
+  },
+  {
+    "published_utc": "2025-11-28",
+    "retrieved_date": "2025-11-28",
+    "retrieved_utc": "2025-11-28T22:47:55Z",
+    "source": "BBC_World",
+    "title": "Guinea-Bissau's coup called a 'sham' by West African political figures",
+    "url": "https://www.bbc.com/news/articles/cz0nlxlr87go?at_medium=RSS&at_campaign=rss",
+    "id_key": "86b34e8ced8c88638a14ba3c5d366d5cc106bfadcb0b491a11adcc29c35f02ac",
+    "summary": "Senegal's prime minister and Nigeria's former leader say they do not believe the military takeover was genuine.",
+    "ingested_utc": "2025-11-28T22:47:55Z"
+  },
+  {
+    "published_utc": "2025-11-28",
+    "retrieved_date": "2025-11-28",
     "retrieved_utc": "2025-11-28T22:34:48Z",
     "source": "Nikkei_Asia_Top",
     "title": "Japan's Osaka Gas inks agreement to buy US biomethane",
@@ -10943,60 +10998,5 @@
     "id_key": "751c9c5b4c18a16c814cd51ecf941ae8d6bb02fa7fee5b42c639d68745ac3f51",
     "summary": "This release doesn't have any disk-format changes (only software features). We have new Docs and HelpCenter: https://docs.erigon.tech/ Support of historical eth_getProof ( #12984 ). It requires --prune.include-commitment-history flag. RPC eth_simulateV1 : Complete implementation of Ethereum simulation API with support for state overrides, blob transactions, block overrides, and historical state roots ( #15771 ) eth_createAccessList : StateOverrides parameter support ( #17653 ) eth_call support blockOverrides ( #17261 ) trace_filter : Block tags support ( #17238 ) debug_traceTransaction : Self-destruct operation validation (EIP 6780) ( #17728 ) eth_getTransactionReceipt : Pre-Byzantium transaction handling ( #17479 , #17509 ) eth_estimateGas : Improved handling with StateOverrides ( #17914 , #17295 ) debug_traceCall : System contract execution support ( #17339 ) Blob transaction and blob base fee override support ( #17313 ) Consensus & Execution EIP-7928: BlockAccessList type support ( #17544 ) EIP-7934: EstimateGas capped by MaxTxnGasLimit in Osaka ( #17251 ) EIP-7702 transaction support in (r *Receipt) decodeTyped ( #17412 ) Rewrite bytecode support for post-Merge blocks ( #17770 ) Changed Execution Engine Experimental Parallel Exec ( #16922 ) MAX_PENDING_PARTIALS_PER_WITHDRAWALS_SWEEP for Gnosis ( #17501 ) Reduce goroutines amount produced by BitTorrent library ( #17765 ) Up base image to Go 1.25-trixie ( #17837 ) Removed PoW mining was removed in #17813 , which resulted in --chain=dev not being able to produce new blocks. Going forward we'll either sunset --chain=dev or switch it to mock CL (see #14753 ). If you need --chain=dev , please use Erigon 3.2 Holesky network support removed ( #17685 ) eth/67 protocol support removed ( #17318 ) SkipAnalysis VM optimization removed ( #17217 ) Full Changelog : v3.2.3...v3.3.0",
     "ingested_utc": "2025-11-27T02:27:51Z"
-  },
-  {
-    "published_utc": "2025-11-27",
-    "retrieved_date": "2025-11-27",
-    "retrieved_utc": "2025-11-27T02:26:49Z",
-    "source": "CryptoBriefing",
-    "title": "Elon Musk’s SpaceX moves 1,163 Bitcoin worth $105M",
-    "url": "https://cryptobriefing.com/spacex-bitcoin-transfer-wallet-november/",
-    "id_key": "9b6dae481d362a703ba1da1df2b10af17ac844c935fa124832a7f06fce034f16",
-    "summary": "SpaceX's Bitcoin movements highlight the growing trend of major corporations managing significant crypto assets, impacting market dynamics. The post Elon Musk’s SpaceX moves 1,163 Bitcoin worth $105M appeared first on Crypto Briefing .",
-    "ingested_utc": "2025-11-27T02:26:49Z"
-  },
-  {
-    "published_utc": "2025-11-27",
-    "retrieved_date": "2025-11-27",
-    "retrieved_utc": "2025-11-27T02:26:30Z",
-    "source": "Guardian_World",
-    "title": "Barnaby Joyce expected to announce defection to One Nation as Nationals colleagues make last-ditch appeals",
-    "url": "https://www.theguardian.com/australia-news/2025/nov/27/barnaby-joyce-nationals-defection-one-nation",
-    "id_key": "c8b3e5ebae40a142a928d31beef5986ec8d732b4b8d4e9bfe010f04b7c41a20c",
-    "summary": "Former leader Michael McCormack says he spent an hour with Joyce on Wednesday and gave him his pitch to remain in the fold Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Barnaby Joyce should “reflect on what the National party gave him”, colleague Michael McCormack says, as speculation increases that the maverick New England MP will quit the party on Thursday afternoon to switch to One Nation. Sources in the Nationals and One Nation expect an announcement from Joyce, the former deputy prime minister, after weeks of speculation he was planning to make the move . It has been speculated Joyce could make his announcement before question time in parliament, during a section for short constituency statements. Continue reading...",
-    "ingested_utc": "2025-11-27T02:26:30Z"
-  },
-  {
-    "published_utc": "2025-11-27",
-    "retrieved_date": "2025-11-27",
-    "retrieved_utc": "2025-11-27T02:26:30Z",
-    "source": "Guardian_World",
-    "title": "Police identify suspect in national guard shooting as Afghan man",
-    "url": "https://www.theguardian.com/us-news/2025/nov/26/washington-national-guard-shooting-suspect",
-    "id_key": "5f3f34bb6425bbb5c3577193fddec66bec6e7eed8debc80f066437571001bcc0",
-    "summary": "Person suspected of shooting two national guard troops near White House identified as Rahmanullah Lakanwal The suspected gunman in the shooting of two national guard members on Wednesday near the White House has been identified as Rahmanullah Lakanwal, an Afghan man, according to law enforcement officials. Lakanwal is said to have entered the United States in September 2021, and been living in Washington state, law enforcement officials told the Associated Press and other outlets. Continue reading...",
-    "ingested_utc": "2025-11-27T02:26:30Z"
-  },
-  {
-    "published_utc": "2025-11-27",
-    "retrieved_date": "2025-11-27",
-    "retrieved_utc": "2025-11-27T02:26:30Z",
-    "source": "Guardian_World",
-    "title": "Two national guard members in critical condition after Washington DC shooting",
-    "url": "https://www.theguardian.com/us-news/2025/nov/26/national-guard-soldiers-shot-washington-dc",
-    "id_key": "e094aed70c3d28380387efb437aae39550ca02b1eae79a85c13d55cee5e3b2d6",
-    "summary": "Suspect in custody after two West Virginia guard members shot in ‘targeted’ incident, Washington mayor says US politics live – latest updates Two West Virginia national guard members shot near the White House are in critical condition. The incident happened near the Farragut West metro station and comes amid a controversial deployment of troops to the capital ordered by the Trump administration. FBI director Kash Patel, Washington mayor Muriel Bowser and other officials confirmed in a press conference that both the guardsmen were in hospital in critical condition. Continue reading...",
-    "ingested_utc": "2025-11-27T02:26:30Z"
-  },
-  {
-    "published_utc": "2025-11-27",
-    "retrieved_date": "2025-11-27",
-    "retrieved_utc": "2025-11-27T00:56:31Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "Japan shipping groups, shipbuilders unite on next-gen vessels",
-    "url": "https://asia.nikkei.com/business/transportation/japan-shipping-groups-shipbuilders-unite-on-next-gen-vessels",
-    "id_key": "8754c7d3dcec25ab2c7ada3863fa7bf91bd3eb1ba974173bb8e0d5612150c464",
-    "summary": "",
-    "ingested_utc": "2025-11-27T00:56:31Z"
   }
 ]
