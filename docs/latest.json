@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-11-28",
     "retrieved_date": "2025-11-28",
+    "retrieved_utc": "2025-11-28T23:30:22Z",
+    "source": "NYTimes_World",
+    "title": "Trump Announces Pardon for Honduran Ex-President Convicted in Drug Case",
+    "url": "https://www.nytimes.com/2025/11/28/world/americas/trump-pardon-honduras-hernandez.html",
+    "id_key": "d5ff6be5f38234f1c25fb74d9c44200c84a5267b9c07f2f90b96f71ae45b9e83",
+    "summary": "President Trump said he would pardon Juan Orlando Hernández, who prosecutors said partnered with cocaine traffickers as Honduras’s president and is serving a 45-year sentence.",
+    "ingested_utc": "2025-11-28T23:30:22Z"
+  },
+  {
+    "published_utc": "2025-11-28",
+    "retrieved_date": "2025-11-28",
     "retrieved_utc": "2025-11-28T23:14:09Z",
     "source": "FinancialPost_Business",
     "title": "This TSX stock may rise highest among TD’s initial top picks for 2026",
@@ -10987,16 +10998,5 @@
     "id_key": "18a33343c300433e669f1328515d80c4cd524d39f15f0c63dc51f33411d0bbe2",
     "summary": "VANCOUVER, British Columbia, Nov. 26, 2025 (GLOBE NEWSWIRE) — Fortuna Mining Corp. (NYSE: FSM | TSX: FVI) is pleased to announce that, in accordance with National Instrument 43-101 – Standards of Disclosure for Mineral Projects, it has filed the technical report entitled “Diamba Sud Gold Project, Kédougou Region, Senegal”, with an effective date of October […]",
     "ingested_utc": "2025-11-27T02:29:32Z"
-  },
-  {
-    "published_utc": "2025-11-27",
-    "retrieved_date": "2025-11-27",
-    "retrieved_utc": "2025-11-27T02:29:24Z",
-    "source": "TheStreet_Top",
-    "title": "Stock Market News: Campbell’s in hot soup, Robinhood's bets pays off, and Dell gains",
-    "url": "https://www.thestreet.com/investing/stocks/stock-market-campbells-in-hot-soup-robinhoods-bets-pays-off-and-dell-gains",
-    "id_key": "17f42371ab87acab058d0ebd44db6862d2e60296b885ab61f520360bb7c84d13",
-    "summary": "The holiday season is here, and the enthusiasm of the long weekend was reflected in the market gains, which advanced for a third consecutive day on Wednesday, November 26, 2025. The S&P 500 rose 0.7% today, buoyed by a significant surge in Robinhood's stock.The tech-heavy Nasdaq Composite rose ...",
-    "ingested_utc": "2025-11-27T02:29:24Z"
   }
 ]
