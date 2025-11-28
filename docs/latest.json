@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-11-28",
     "retrieved_date": "2025-11-28",
+    "retrieved_utc": "2025-11-28T05:53:16Z",
+    "source": "HackerNews_Top",
+    "title": "Migrating to Positron, a next-generation data science IDE for Python and R",
+    "url": "https://posit.co/blog/positron-migration-guides",
+    "id_key": "76d271e939d4f099e6067bed9631e92f2c12dbb788e1cd7a04ad3f2614a2c9d1",
+    "summary": "Comments",
+    "ingested_utc": "2025-11-28T05:53:16Z"
+  },
+  {
+    "published_utc": "2025-11-28",
+    "retrieved_date": "2025-11-28",
+    "retrieved_utc": "2025-11-28T05:53:16Z",
+    "source": "HackerNews_Top",
+    "title": "GitLab scan finds 17,000 secrets in public repos, leading to $9000+ in bounties",
+    "url": "https://trufflesecurity.com/blog/scanning-5-6-million-public-gitlab-repositories-for-secrets",
+    "id_key": "d1c7862f9f878e1a496b86bf76b434174d28215f99d0710c02e5402a68f465ed",
+    "summary": "Comments",
+    "ingested_utc": "2025-11-28T05:53:16Z"
+  },
+  {
+    "published_utc": "2025-11-28",
+    "retrieved_date": "2025-11-28",
+    "retrieved_utc": "2025-11-28T05:53:06Z",
+    "source": "FinancialPost_Business",
+    "title": "Britain’s Aspiring Professionals Feel the Sting of Reeves’ Budget",
+    "url": "https://financialpost.com/pmn/business-pmn/britains-aspiring-professionals-feel-the-sting-of-reeves-budget",
+    "id_key": "3beb9c487fee60f8ad7d4788590e3dda4d55737e373ba2b42d7e91411f18a45a",
+    "summary": "They’re highly paid, gaining power and influence — and about to get a reality check on their own personal balance sheets.",
+    "ingested_utc": "2025-11-28T05:53:06Z"
+  },
+  {
+    "published_utc": "2025-11-28",
+    "retrieved_date": "2025-11-28",
     "retrieved_utc": "2025-11-28T05:37:59Z",
     "source": "FinancialPost_Business",
     "title": "VSO Unveils VCP v1.0, a First-of-Its-Kind Cryptographic Audit Protocol to Restore Trust in AI-Driven Markets",
@@ -10965,38 +10998,5 @@
     "id_key": "bc2ee3df5c4cf3a222f134eab388c2d6be84a87aefed3cc372c8c0ddd86a5c40",
     "summary": "A delivery driver posted a TikTok alleging she had been sexually assaulted by a customer. The deepfakes that followed reveal a growing digital blackface problem.",
     "ingested_utc": "2025-11-26T11:41:00Z"
-  },
-  {
-    "published_utc": "2025-11-26",
-    "retrieved_date": "2025-11-26",
-    "retrieved_utc": "2025-11-26T11:41:00Z",
-    "source": "WIRED_All",
-    "title": "What's the Best Red Light Therapy Mask for Your Skin in 2025?",
-    "url": "https://www.wired.com/story/led-face-masks-and-red-light-therapy/",
-    "id_key": "dc0d718e89a551aae4ca216229def9468bb14c6d48788f2d2139d103b75fb471",
-    "summary": "The LED devices we'd actually buy with our own money.",
-    "ingested_utc": "2025-11-26T11:41:00Z"
-  },
-  {
-    "published_utc": "2025-11-26",
-    "retrieved_date": "2025-11-26",
-    "retrieved_utc": "2025-11-26T11:40:12Z",
-    "source": "Guardian_World",
-    "title": "Budget 2025 live: Rachel Reeves to set out tax and spending changes after PMQs",
-    "url": "https://www.theguardian.com/uk-news/live/2025/nov/26/budget-2025-rachel-reeves-tax-cash-isa-minimum-wage-latest-news-updates",
-    "id_key": "3c4b59839cc2b53a10d7e673165d6e4963753b10c87af00e7cd4f74baa23ed7d",
-    "summary": "Chancellor to deliver fiscal statement, billed as decisive moment for fate of Starmer government, at 12.30pm Tax, pensions, savings: what to expect in the budget Reeves’s high-stakes budget in five key charts Could you do better than Reeves? Play our game Paul Nowak , the TUC general secretary, has rejected the concerns raised by the Resolution Foundation (see 9.54am ) about the rise in the minimum wage rates. Asked about the thinktank’s comments, Nowak told Times Radio: I don’t accept those concerns ... First of all, that recommendation is based on the Low Pay Commission, which brings together employers, unions, independent experts, they’re tasked with making a recommendation on the minimum wage, which balances getting money into people’s pockets and the impact on unemployment. Continue reading...",
-    "ingested_utc": "2025-11-26T11:40:12Z"
-  },
-  {
-    "published_utc": "2025-11-26",
-    "retrieved_date": "2025-11-26",
-    "retrieved_utc": "2025-11-26T11:40:12Z",
-    "source": "Guardian_World",
-    "title": "Former Royal Marine pleads guilty to injuring 29 people at Liverpool FC parade",
-    "url": "https://www.theguardian.com/uk-news/2025/nov/26/former-royal-marine-paul-doyle-pleads-guilty-to-injuring-29-people-at-liverpool-fc-parade",
-    "id_key": "d8e2835069d2672f37f4cfd8882ecd655013cc4a0453afbb7c02638d8abceae0",
-    "summary": "Paul Doyle who drove into a crowd of celebrating football fans in May, changes plea unexpectedly A former Royal Marine has pleaded guilty on the first day of his trial to injuring 29 people, including two babies, by ploughing his car through crowds at a Liverpool FC victory parade. Paul Doyle, 54, deliberately drove his Ford Titanium Galaxy at football fans after tailgating an ambulance down a packed road that was closed to non-emergency service vehicles on 26 May. Continue reading...",
-    "ingested_utc": "2025-11-26T11:40:12Z"
   }
 ]
