@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-11-29",
     "retrieved_date": "2025-11-29",
+    "retrieved_utc": "2025-11-29T11:36:30Z",
+    "source": "AlJazeera_All",
+    "title": "The human cost of the Philippines’ flood-control corruption scandal",
+    "url": "https://www.aljazeera.com/video/101-east/2025/11/29/the-human-cost-of-the-philippines-flood-control-corruption-scandal?traffic_source=rss",
+    "id_key": "fc6c066cc720e33c6d4fafd5f5dce786948da321072f952c7c149eb7c34578d4",
+    "summary": "101 East investigates rampant alleged corruption in flood-control projects in one of Asia’s most typhoon-prone countries",
+    "ingested_utc": "2025-11-29T11:36:30Z"
+  },
+  {
+    "published_utc": "2025-11-29",
+    "retrieved_date": "2025-11-29",
     "retrieved_utc": "2025-11-29T11:28:48Z",
     "source": "HackerNews_Top",
     "title": "Belgian Police exposed using botnets to manipulate EU data law impact assessment",
@@ -10987,16 +10998,5 @@
     "id_key": "4cde855f7796bb6cd85f69c34d6e868e034b1289850b8e0c7d90b866697c28fd",
     "summary": "WIRED brought 10 of the most popular artificial Christmas trees into a studio and got three interior designers to pick the best through blind judging. For extra trimming, we checked in on how those trees fared once they were taken home and decorated.",
     "ingested_utc": "2025-11-27T10:16:31Z"
-  },
-  {
-    "published_utc": "2025-11-27",
-    "retrieved_date": "2025-11-27",
-    "retrieved_utc": "2025-11-27T10:16:11Z",
-    "source": "NPR_World",
-    "title": "At least 44 killed, hundreds missing after Hong Kong high-rise blaze",
-    "url": "https://www.npr.org/2025/11/27/nx-s1-5622059/at-least-44-killed-hundreds-missing-after-hong-kong-high-rise-blaze",
-    "id_key": "09bc101f65b5d11ee7b62634f1e2f0e274eb5d4655fd38bef661628acb514f15",
-    "summary": "A massive fire tore through a high-rise housing complex in Hong Kong on Wednesday. Authorities say at least 44 people have died in the fire and 279 people are still missing.",
-    "ingested_utc": "2025-11-27T10:16:11Z"
   }
 ]
