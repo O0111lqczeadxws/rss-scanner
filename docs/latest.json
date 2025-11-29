@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-11-29",
     "retrieved_date": "2025-11-29",
+    "retrieved_utc": "2025-11-29T21:39:48Z",
+    "source": "HackerNews_Top",
+    "title": "Joe Armstrong interviews Alan Kay (2016) [video]",
+    "url": "https://www.youtube.com/watch?v=fhOHn9TClXY",
+    "id_key": "a6a21e95ca5a62717ad5184472ea464e322a7f40d408d0f18d8d8f074fec3371",
+    "summary": "Comments",
+    "ingested_utc": "2025-11-29T21:39:48Z"
+  },
+  {
+    "published_utc": "2025-11-29",
+    "retrieved_date": "2025-11-29",
     "retrieved_utc": "2025-11-29T21:30:55Z",
     "source": "HackerNews_Top",
     "title": "Baboon: Data Modeling with Automatic Evolutions and tagless binary codecs",
@@ -10987,16 +10998,5 @@
     "id_key": "7a83c2fa4ba01017281ecf9b32dd8fcde000f7207499db1ca26b0499a23af730",
     "summary": "Windows users are transitioning to Windows 11 at a slower rate than the upgrade to Windows 10. Microsoft’s 10-year-old operating system, which just hit the end of support phase, is still proving popular among consumers and businesses. Dell revealed this week that around 500 million machines are capable of upgrading to Windows 11, but are […]",
     "ingested_utc": "2025-11-27T14:37:33Z"
-  },
-  {
-    "published_utc": "2025-11-27",
-    "retrieved_date": "2025-11-27",
-    "retrieved_utc": "2025-11-27T14:37:19Z",
-    "source": "FT_Home",
-    "title": "SEC probes Jefferies over First Brands",
-    "url": "https://www.ft.com/content/86d90ce5-5800-4514-a757-f46a38aa521d",
-    "id_key": "b5ffecf6b8f133c8ef3293249cfdd6ec7fbe5a2c42b713613ee84d79fab9807c",
-    "summary": "US securities watchdog is questioning what investors were told about exposure to the now-collapsed car parts group",
-    "ingested_utc": "2025-11-27T14:37:19Z"
   }
 ]
