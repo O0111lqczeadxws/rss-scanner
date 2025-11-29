@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-11-29",
     "retrieved_date": "2025-11-29",
+    "retrieved_utc": "2025-11-29T21:30:55Z",
+    "source": "HackerNews_Top",
+    "title": "Baboon: Data Modeling with Automatic Evolutions and tagless binary codecs",
+    "url": "https://github.com/7mind/baboon",
+    "id_key": "abff7c6e800e897ef2cfa390587abe6c1a21da6079f0aef46f4974da6d29b7bd",
+    "summary": "Comments",
+    "ingested_utc": "2025-11-29T21:30:55Z"
+  },
+  {
+    "published_utc": "2025-11-29",
+    "retrieved_date": "2025-11-29",
     "retrieved_utc": "2025-11-29T21:13:33Z",
     "source": "Nikkei_Asia_Top",
     "title": "Thailand, Vietnam, Indonesia grapple with damage from record heavy rains",
@@ -10987,16 +10998,5 @@
     "id_key": "b5ffecf6b8f133c8ef3293249cfdd6ec7fbe5a2c42b713613ee84d79fab9807c",
     "summary": "US securities watchdog is questioning what investors were told about exposure to the now-collapsed car parts group",
     "ingested_utc": "2025-11-27T14:37:19Z"
-  },
-  {
-    "published_utc": "2025-11-27",
-    "retrieved_date": "2025-11-27",
-    "retrieved_utc": "2025-11-27T14:37:15Z",
-    "source": "NPR_Top",
-    "title": "Mamdani and Trump made nice. NYC immigrants are still on edge",
-    "url": "https://www.npr.org/2025/11/27/nx-s1-5607073/mamdani-and-trump-made-nice-nyc-immigrants-are-still-on-edge",
-    "id_key": "21a326d98b86f5ecfdf305b172d7d65d5c04ad02550c393323b7ea6b9946d089",
-    "summary": "The incoming Mayor of New York City has had a volatile relationship with President Trump. They recently had a surprisingly cordial meeting. New Yorkers say they are still feeling on edge.",
-    "ingested_utc": "2025-11-27T14:37:15Z"
   }
 ]
