@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-11-29",
     "retrieved_date": "2025-11-29",
+    "retrieved_utc": "2025-11-29T09:43:45Z",
+    "source": "FinancialPost_Business",
+    "title": "Russia, Ukraine Trade Strikes Amid Stepped-Up US Peace Efforts",
+    "url": "https://financialpost.com/pmn/business-pmn/russia-ukraine-trade-strikes-amid-stepped-up-us-peace-efforts",
+    "id_key": "d912312b50d97cdb07498766cfde387500d279d7bef6b3120bb8da14620a2d43",
+    "summary": "Russia and Ukraine traded air strikes overnight with a missile barrage directed at Kyiv while a Russian oil refinery was set on fire, as the US ramps up pressure to secure a peace deal in the almost four-year-old war.",
+    "ingested_utc": "2025-11-29T09:43:45Z"
+  },
+  {
+    "published_utc": "2025-11-29",
+    "retrieved_date": "2025-11-29",
+    "retrieved_utc": "2025-11-29T09:42:55Z",
+    "source": "NYTimes_World",
+    "title": "Russia Bombards Ukraine for Nearly 10 Hours in a Deadly Assault",
+    "url": "https://www.nytimes.com/2025/11/29/world/europe/ukraine-kyiv-missiles.html",
+    "id_key": "14f7845e49fc5e1b898b7b9a18df159a5bf869b382c34d6ed85b62cfb564e48d",
+    "summary": "The attack came as U.S. officials were expected to hold peace talks with Ukrainian and Russian officials in the coming days.",
+    "ingested_utc": "2025-11-29T09:42:55Z"
+  },
+  {
+    "published_utc": "2025-11-29",
+    "retrieved_date": "2025-11-29",
     "retrieved_utc": "2025-11-29T09:33:27Z",
     "source": "FinancialPost_Business",
     "title": "South Africa’s ‘Everything Rally’ Hinges on Economic Promises",
@@ -10976,27 +10998,5 @@
     "id_key": "1d272c946de9511118dfdc22ed37c1028e80d5fefccfdbf8d9374ce4c3a80024",
     "summary": "Cathie Wood expects the liquidity squeeze pressuring crypto and AI markets to reverse within weeks through three Federal Reserve policy shifts, as ARK Invest deploys over $93 million in a single day buying beaten-down digital asset stocks. The post Cathie Wood Predicts Crypto Liquidity Crunch Will Reverse Within Weeks appeared first on Cryptonews .",
     "ingested_utc": "2025-11-27T09:14:07Z"
-  },
-  {
-    "published_utc": "2025-11-27",
-    "retrieved_date": "2025-11-27",
-    "retrieved_utc": "2025-11-27T09:13:46Z",
-    "source": "Guardian_World",
-    "title": "OBR says ‘external person’ may be behind early release of budget report as cyber security expert brought in – UK politics live",
-    "url": "https://www.theguardian.com/politics/live/2025/nov/27/rachel-reeves-budget-2025-mansion-tax-labour-keir-starmer-conservatives-uk-politics-latest-news-updates",
-    "id_key": "489e22131defaef5d6b1030c60a4decd11a92688b3b5ab91c68da3a0c270327b",
-    "summary": "The former head of the UK’s National Cyber Security Centre will be involved in the OBR’s investigation into what happened Ask the Guardian your budget questions Robinson finished the interview by asking if Reeves would rule out tax rises in next year’s budget. Reeves said she would not speculate on that. Continue reading...",
-    "ingested_utc": "2025-11-27T09:13:46Z"
-  },
-  {
-    "published_utc": "2025-11-27",
-    "retrieved_date": "2025-11-27",
-    "retrieved_utc": "2025-11-27T09:13:43Z",
-    "source": "BBC_World",
-    "title": "South Africa hits back after Trump says US won't invite it for G20 next year",
-    "url": "https://www.bbc.com/news/articles/cq8dq47j5y8o?at_medium=RSS&at_campaign=rss",
-    "id_key": "b703f13cb0d26bf1370882455ffa28714c9493f50fb251cdce5435d516d11f3f",
-    "summary": "The US boycotted the G20 summit in Johannesburg over widely discredited claims of persecution of the white minority.",
-    "ingested_utc": "2025-11-27T09:13:43Z"
   }
 ]
