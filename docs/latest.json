@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-11-29",
     "retrieved_date": "2025-11-29",
+    "retrieved_utc": "2025-11-29T22:33:38Z",
+    "source": "BBC_World",
+    "title": "Ukraine hits tankers in Black Sea in escalation against Russia",
+    "url": "https://www.bbc.com/news/articles/cp9ky5z2gx0o?at_medium=RSS&at_campaign=rss",
+    "id_key": "1b7480987586d242b5c178eb5162826de7927b28e1b6fb54be660a394ad8768c",
+    "summary": "The two ships stuck by drones were thought to be used to bypass Western sanctions on Russia.",
+    "ingested_utc": "2025-11-29T22:33:38Z"
+  },
+  {
+    "published_utc": "2025-11-29",
+    "retrieved_date": "2025-11-29",
     "retrieved_utc": "2025-11-29T22:13:49Z",
     "source": "AlJazeera_All",
     "title": "Guinea-Bissau’s deposed president travels to Congo’s Brazzaville: Reports",
@@ -10987,16 +10998,5 @@
     "id_key": "7ad2e1adbf582e69fb433a57c01f6890d087ee0f7c82dd7baf08e033a73c5768",
     "summary": "Senior figure allegedly referred to customers buying ‘highly processed food’ and denigrated Indian employees Business live – latest updates Campbell’s has dismissed an executive who allegedly referred to the soup company’s products as being made for “poor people” and denigrated its Indian employees. Martin Bally, who was the vice-president of Campbell’s information technology department, was recorded making the alleged comments by another employee. Continue reading...",
     "ingested_utc": "2025-11-27T14:51:54Z"
-  },
-  {
-    "published_utc": "2025-11-27",
-    "retrieved_date": "2025-11-27",
-    "retrieved_utc": "2025-11-27T14:37:54Z",
-    "source": "FinancialPost_Business",
-    "title": "CF Energy Announces Financial Results For the Three-month and Nine-month periods ended September 30, 2025",
-    "url": "https://financialpost.com/globe-newswire/cf-energy-announces-financial-results-for-the-three-month-and-nine-month-periods-ended-september-30-2025",
-    "id_key": "0266781fa96cc107077aed870c9e68f051bc00d04bf370d1cfb8fc0c6bcbaf83",
-    "summary": "TORONTO, Nov. 27, 2025 (GLOBE NEWSWIRE) — CF Energy Corp. (TSX-V: CFY) (“CF Energy” or the “Company”, together with its subsidiaries, the “Group”), an energy provider in the People’s Republic of China (the ”PRC” or “China”), announces that the Company has filed its unaudited interim consolidated financial results for the three-month and nine-month periods ended […]",
-    "ingested_utc": "2025-11-27T14:37:54Z"
   }
 ]
