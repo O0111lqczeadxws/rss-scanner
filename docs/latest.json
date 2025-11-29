@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-11-29",
     "retrieved_date": "2025-11-29",
+    "retrieved_utc": "2025-11-29T23:14:00Z",
+    "source": "AlJazeera_All",
+    "title": "Tunisia police arrest opposition figure Chaima Issa during protest",
+    "url": "https://www.aljazeera.com/news/2025/11/29/tunisia-police-arrrest-opposition-figure-chaima-issa-during-protest?traffic_source=rss",
+    "id_key": "033f5736cc616c2484de5b7274d6c5de5919ce0391365644cd27170832d8e765",
+    "summary": "Arrest comes after appeals court handed jail terms to opposition leaders, businessmen and lawyers.",
+    "ingested_utc": "2025-11-29T23:14:00Z"
+  },
+  {
+    "published_utc": "2025-11-29",
+    "retrieved_date": "2025-11-29",
+    "retrieved_utc": "2025-11-29T23:13:47Z",
+    "source": "TheVerge_All",
+    "title": "Anker’s handy little 3-port charger is just 35 bucks",
+    "url": "https://www.theverge.com/gadgets/833697/anker-prime-charger-67w-3-port",
+    "id_key": "33851c575eeef7265d47b5307963dd29fd0a6dc759c17c25f32f8efbb6cada64",
+    "summary": "Earlier this year, I decided to level up my travel game and invest in a charger to bring on trips, rather than raiding my desk outlets every time I packed. I needed a multitasker, something that could power my MacBook Air, charge my phone, and accommodate the random USB-A cord I always seem to need […]",
+    "ingested_utc": "2025-11-29T23:13:47Z"
+  },
+  {
+    "published_utc": "2025-11-29",
+    "retrieved_date": "2025-11-29",
+    "retrieved_utc": "2025-11-29T23:13:00Z",
+    "source": "Guardian_World",
+    "title": "Six dead and dozens wounded in Russian attack on Ukraine",
+    "url": "https://www.theguardian.com/world/2025/nov/29/deadly-russian-attack-on-kyiv-cuts-power-to-half-of-city",
+    "id_key": "c6f512b9635031facff2126366d44644b7bab2b5b09ae2362263820634c48156",
+    "summary": "Strike on Kyiv cuts power to half of city amid Moscow’s campaign to break civil resistance by attacking energy grid Six people were killed and dozens were wounded by a Russian drone and missile attack on Ukraine. Nearly 600 drones and 36 rockets were fired into the country in an attack that its president, Volodymyr Zelenskyy, said highlighted Ukraine’s need for western help with air defence, as well as other financial and political support. Continue reading...",
+    "ingested_utc": "2025-11-29T23:13:00Z"
+  },
+  {
+    "published_utc": "2025-11-29",
+    "retrieved_date": "2025-11-29",
     "retrieved_utc": "2025-11-29T22:51:14Z",
     "source": "TheStreet_Top",
     "title": "Las Vegas Strip resort quietly triples down on added fees",
@@ -10965,38 +10998,5 @@
     "id_key": "7a1568ac0d5f368fa14ef721bfa5233f47a8050d88fe43c4faddab2ce160f600",
     "summary": "From the snack cupboard to the coffee machine",
     "ingested_utc": "2025-11-27T14:54:32Z"
-  },
-  {
-    "published_utc": "2025-11-27",
-    "retrieved_date": "2025-11-27",
-    "retrieved_utc": "2025-11-27T14:52:15Z",
-    "source": "CryptoNews",
-    "title": "History Says Thanksgiving Is Bearish for Bitcoin — Can This Year Be Different?",
-    "url": "https://cryptonews.com/news/history-says-thanksgiving-is-bearish-for-bitcoin-will-this-time-be-different/",
-    "id_key": "e863608df6d411ff6be9fc991d1ff68e50a89a6be97ef4f1ce2ac772dd38f02a",
-    "summary": "Bitcoin has rebounded more than 13% into Thanksgiving, reviving hopes that this year could break the holiday’s bearish pattern. The post History Says Thanksgiving Is Bearish for Bitcoin — Can This Year Be Different? appeared first on Cryptonews .",
-    "ingested_utc": "2025-11-27T14:52:15Z"
-  },
-  {
-    "published_utc": "2025-11-27",
-    "retrieved_date": "2025-11-27",
-    "retrieved_utc": "2025-11-27T14:52:15Z",
-    "source": "CryptoNews",
-    "title": "Major Exchanges “Alarmed” as SEC Eyes Tokenized Stock Exemptions — Here’s Why",
-    "url": "https://cryptonews.com/news/major-exchanges-oppose-sec-tokenized-stock-exemptions/",
-    "id_key": "a2d63702bca261312d2d2ac5c969a00f1aae92eeb10cf1f6094a9652f378c2bb",
-    "summary": "The SEC is facing pushback from major exchanges including Nasdaq, Cboe, and CME over proposals that could allow crypto firms to offer tokenized stocks under relaxed regulatory conditions The post Major Exchanges “Alarmed” as SEC Eyes Tokenized Stock Exemptions — Here’s Why appeared first on Cryptonews .",
-    "ingested_utc": "2025-11-27T14:52:15Z"
-  },
-  {
-    "published_utc": "2025-11-27",
-    "retrieved_date": "2025-11-27",
-    "retrieved_utc": "2025-11-27T14:52:12Z",
-    "source": "CryptoSlate",
-    "title": "How long can miners hold out as revenue hits record lows while Bitcoin’s security is at record highs?",
-    "url": "https://cryptoslate.com/how-long-can-bitcoins-hashrate-hold-as-miners-shut-down-across-the-sector/",
-    "id_key": "8f65e09f8903a48950dc9fda4afbb2650b957b166fc5f158abc2dc6f370e2a18",
-    "summary": "Bitcoin’s hashrate is near record levels, yet miner revenue per unit of compute has fallen to record lows, pushing the network into a ‘high-security, low-profitability’ phase. While the network’s hashrate has pinned itself above the one-zettahash watermark, which is a record for aggregate computing power, the revenue underpinning that security has disintegrated to historic lows. […] The post How long can miners hold out as revenue hits record lows while Bitcoin’s security is at record highs? appeared first on CryptoSlate .",
-    "ingested_utc": "2025-11-27T14:52:12Z"
   }
 ]
