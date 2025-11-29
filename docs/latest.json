@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-11-29",
     "retrieved_date": "2025-11-29",
+    "retrieved_utc": "2025-11-29T08:39:10Z",
+    "source": "Guardian_World",
+    "title": "Sri Lanka death toll from floods and landslides reaches 123",
+    "url": "https://www.theguardian.com/world/2025/nov/28/death-toll-sri-lanka-hit-by-rising-flood-waters",
+    "id_key": "a8bb44d9f0aecc2ca3013c7f78222781f462337c7479dee603d3b314cc19e05e",
+    "summary": "Another 130 missing after heavy rains from Cyclone Ditwah while almost 44,000 evacuated to temporary shelters amid rescue operations Torrential rains and floods triggered by Cyclone Ditwah have killed 123 people across Sri Lanka so far, with another 130 still missing, the Disaster Management Centre (DCM) said on Saturday. Director general Sampath Kotuwegoda said relief operations were underway with 43,995 people moved to state-run welfare centres after their homes were destroyed in the week-long heavy rains. Continue reading...",
+    "ingested_utc": "2025-11-29T08:39:10Z"
+  },
+  {
+    "published_utc": "2025-11-29",
+    "retrieved_date": "2025-11-29",
     "retrieved_utc": "2025-11-29T08:18:15Z",
     "source": "Nikkei_Asia_Top",
     "title": "Kansai Airport aims to increase Japanese food options right up to departure",
@@ -10987,16 +10998,5 @@
     "id_key": "631e9ccb12962f1c1120b2c0df472ff6c5dc03888a75c4760c15677fbaa4f6ea",
     "summary": "This release doesn't have any disk-format changes (only software features). We have new Docs and HelpCenter: https://docs.erigon.tech/ Support of historical eth_getProof ( #12984 ). It requires --prune.include-commitment-history flag. RPC eth_simulateV1 : Complete implementation of Ethereum simulation API with support for state overrides, blob transactions, block overrides, and historical state roots ( #15771 ) eth_createAccessList : StateOverrides parameter support ( #17653 ) eth_call support blockOverrides ( #17261 ) trace_filter : Block tags support ( #17238 ) debug_traceTransaction : Self-destruct operation validation (EIP 6780) ( #17728 ) eth_getTransactionReceipt : Pre-Byzantium transaction handling ( #17479 , #17509 ) eth_estimateGas : Improved handling with StateOverrides ( #17914 , #17295 ) debug_traceCall : System contract execution support ( #17339 ) Blob transaction and blob base fee override support ( #17313 ) Consensus & Execution EIP-7928: BlockAccessList type support ( #17544 ) EIP-7934: EstimateGas capped by MaxTxnGasLimit in Osaka ( #17251 ) EIP-7702 transaction support in (r *Receipt) decodeTyped ( #17412 ) Rewrite bytecode support for post-Merge blocks ( #17770 ) Changed Execution Engine Experimental Parallel Exec ( #16922 ) MAX_PENDING_PARTIALS_PER_WITHDRAWALS_SWEEP for Gnosis ( #17501 ) Reduce goroutines amount produced by BitTorrent library ( #17765 ) Up base image to Go 1.25-trixie ( #17837 ) Removed PoW mining was removed in #17813 , which resulted in --chain=dev not being able to produce new blocks. Going forward we'll either sunset --chain=dev or switch it to mock CL (see #14753 ). If you need --chain=dev , please use Erigon 3.2 Holesky network support removed ( #17685 ) eth/67 protocol support removed ( #17318 ) SkipAnalysis VM optimization removed ( #17217 ) Full Changelog : v3.2.3...v3.3.0",
     "ingested_utc": "2025-11-27T08:49:00Z"
-  },
-  {
-    "published_utc": "2025-11-27",
-    "retrieved_date": "2025-11-27",
-    "retrieved_utc": "2025-11-27T08:48:01Z",
-    "source": "CryptoBriefing",
-    "title": "Upbit discloses $37M hack on Solana network, pledges to cover customer losses",
-    "url": "https://cryptobriefing.com/upbit-36m-hack-solana-coverage/",
-    "id_key": "3dbab843c92ab3d5a0af6cc76e628ff88f228149295a8705b0ec15556a2ac8a4",
-    "summary": "The hack underscores the vulnerabilities in blockchain networks, prompting exchanges to bolster security measures and customer trust initiatives. The post Upbit discloses $37M hack on Solana network, pledges to cover customer losses appeared first on Crypto Briefing .",
-    "ingested_utc": "2025-11-27T08:48:01Z"
   }
 ]
