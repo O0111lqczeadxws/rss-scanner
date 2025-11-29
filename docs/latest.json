@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-11-29",
     "retrieved_date": "2025-11-29",
+    "retrieved_utc": "2025-11-29T09:33:27Z",
+    "source": "FinancialPost_Business",
+    "title": "South Africa’s ‘Everything Rally’ Hinges on Economic Promises",
+    "url": "https://financialpost.com/pmn/business-pmn/south-africas-everything-rally-hinges-on-economic-promises",
+    "id_key": "844ecc2d4098aea91bcdd88bf1e0b205fc35207de836b407e7548e0b9cd2cbad",
+    "summary": "The searing rally across South African assets this year risks running out of steam unless economic growth picks up enough to make a dent in the nation’s sky-high unemployment rate.",
+    "ingested_utc": "2025-11-29T09:33:27Z"
+  },
+  {
+    "published_utc": "2025-11-29",
+    "retrieved_date": "2025-11-29",
     "retrieved_utc": "2025-11-29T09:14:44Z",
     "source": "FinancialPost_Business",
     "title": "Consumers should do their research before giving in to Travel Tuesday temptation",
@@ -10987,16 +10998,5 @@
     "id_key": "b703f13cb0d26bf1370882455ffa28714c9493f50fb251cdce5435d516d11f3f",
     "summary": "The US boycotted the G20 summit in Johannesburg over widely discredited claims of persecution of the white minority.",
     "ingested_utc": "2025-11-27T09:13:43Z"
-  },
-  {
-    "published_utc": "2025-11-27",
-    "retrieved_date": "2025-11-27",
-    "retrieved_utc": "2025-11-27T08:50:27Z",
-    "source": "TheStreet_Top",
-    "title": "See whether Aldi is open on Thanksgiving",
-    "url": "https://www.thestreet.com/retail/see-whether-aldi-is-open-on-thanksgiving",
-    "id_key": "f7e6c75f72b5946f7723fcda8a7fd1210dc2473a9d685c109c5a6f30d8ceee31",
-    "summary": "No matter how much planning you do and how many extra grocery runs you make in the days leading up to Thanksgiving, there's always that one item you somehow need for the big meal. Maybe you discover mid-prep that someone used the last drop of whipping cream in her morning coffee, or someone else ...",
-    "ingested_utc": "2025-11-27T08:50:27Z"
   }
 ]
