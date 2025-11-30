@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-11-30",
     "retrieved_date": "2025-11-30",
+    "retrieved_utc": "2025-11-30T19:51:06Z",
+    "source": "HackerNews_Top",
+    "title": "You Want Microservices, but Do You Need Them?",
+    "url": "https://www.docker.com/blog/do-you-really-need-microservices/",
+    "id_key": "f63714a32f7b834b201a40cbae85053e38442f860200d886cd5e27bb7c954b94",
+    "summary": "Comments",
+    "ingested_utc": "2025-11-30T19:51:06Z"
+  },
+  {
+    "published_utc": "2025-11-30",
+    "retrieved_date": "2025-11-30",
+    "retrieved_utc": "2025-11-30T19:47:53Z",
+    "source": "BBC_World",
+    "title": "Dignitas founder dies by assisted suicide aged 92, group says",
+    "url": "https://www.bbc.com/news/articles/c79x8x82gy4o?at_medium=RSS&at_campaign=rss",
+    "id_key": "b1eba459c399093ea82cfb52b1d3d641de5d1148429237715391c161f2199079",
+    "summary": "Ludwig Minelli founded the group in 1998, which has since helped thousands of people to die.",
+    "ingested_utc": "2025-11-30T19:47:53Z"
+  },
+  {
+    "published_utc": "2025-11-30",
+    "retrieved_date": "2025-11-30",
     "retrieved_utc": "2025-11-30T19:36:14Z",
     "source": "Engadget_All",
     "title": "Cyber Monday Lego deals are here: Up to 50 percent off on Star Wars, Disney, Harry Potter and more toy sets",
@@ -10976,27 +10998,5 @@
     "id_key": "7a43e17b6675fefa79f6ef57b6738ec37f56f0a3de8258db814b7717536db87e",
     "summary": "",
     "ingested_utc": "2025-11-28T00:55:43Z"
-  },
-  {
-    "published_utc": "2025-11-28",
-    "retrieved_date": "2025-11-28",
-    "retrieved_utc": "2025-11-28T00:55:43Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "Northern Japan nuclear power plant nears approval for restart",
-    "url": "https://asia.nikkei.com/business/energy/northern-japan-nuclear-power-plant-nears-approval-for-restart",
-    "id_key": "e1b336d0366995c9029191bf5614b5c4df7168fcb728e3f13703422a25ed0c4d",
-    "summary": "",
-    "ingested_utc": "2025-11-28T00:55:43Z"
-  },
-  {
-    "published_utc": "2025-11-28",
-    "retrieved_date": "2025-11-28",
-    "retrieved_utc": "2025-11-28T00:55:41Z",
-    "source": "FinancialPost_Business",
-    "title": "Tokyo Inflation Beats Forecast, Keeping BOJ on Rate Hike Path",
-    "url": "https://financialpost.com/pmn/business-pmn/tokyo-inflation-beats-forecast-keeping-boj-on-rate-hike-path",
-    "id_key": "0b0c89d5e51f74ccc9ab7eea0bc7e92ca06bc5b3959e52306f5e70cf326c04c0",
-    "summary": "Tokyo’s inflation held steady in November, keeping the Bank of Japan on track for an interest rate hike in coming months.",
-    "ingested_utc": "2025-11-28T00:55:41Z"
   }
 ]
