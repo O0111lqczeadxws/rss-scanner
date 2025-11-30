@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-11-30",
     "retrieved_date": "2025-11-30",
+    "retrieved_utc": "2025-11-30T11:36:12Z",
+    "source": "TheStreet_Top",
+    "title": "Walmart's got a great early Cyber Monday deal on a $47 orthopedic dog bed for just $18",
+    "url": "https://www.thestreet.com/deals/ophanie-35-inch-orthopedic-dog-bed-walmart-cyber-monday-2025",
+    "id_key": "214c0abe3ee569f1888a07355f3401cfe0a97280d20c56ed17e163edd94cbda9",
+    "summary": "\"The bed is the perfect size and very nice to look at.\"",
+    "ingested_utc": "2025-11-30T11:36:12Z"
+  },
+  {
+    "published_utc": "2025-11-30",
+    "retrieved_date": "2025-11-30",
     "retrieved_utc": "2025-11-30T11:25:19Z",
     "source": "Guardian_World",
     "title": "Illegal weight-loss drugs being sold in UK by firms with high Trustpilot scores",
@@ -10986,17 +10997,6 @@
     "url": "https://financialpost.com/pmn/black-friday-what-time-do-stores-open-2",
     "id_key": "c3bdec3b5a45e23dd9cc069fccb91bd24c24508b6a57a385848f9b5133d1e8aa",
     "summary": "Black Friday has become something of an anachronism in the e-commerce era. The day after Thanksgiving marks the official start of the holiday shopping season, but retailers already have spent weeks flooding their websites and customers’ email inboxes with early Black Friday offers. While sales trends have been shifting, the best bargains may still be […]",
-    "ingested_utc": "2025-11-27T17:43:58Z"
-  },
-  {
-    "published_utc": "2025-11-27",
-    "retrieved_date": "2025-11-27",
-    "retrieved_utc": "2025-11-27T17:43:58Z",
-    "source": "FinancialPost_Business",
-    "title": "Canada, Alberta Ink Deal to Unlock Oil Pipeline, Build Carbon Capture",
-    "url": "https://financialpost.com/pmn/business-pmn/canada-alberta-ink-deal-to-unlock-oil-pipeline-build-carbon-capture",
-    "id_key": "9c9810cb366fb4646a060c5771489168bf8816b5a634b4d5259726ca95ba8e8c",
-    "summary": "Prime Minister Mark Carney unveiled a sweeping energy plan with the province of Alberta that paves the way for a new oil pipeline, a massive carbon capture project and the construction of nuclear power for data centers.",
     "ingested_utc": "2025-11-27T17:43:58Z"
   }
 ]
