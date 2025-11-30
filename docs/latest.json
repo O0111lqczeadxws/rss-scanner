@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-11-30",
     "retrieved_date": "2025-11-30",
+    "retrieved_utc": "2025-11-30T18:56:22Z",
+    "source": "AlJazeera_All",
+    "title": "Chelsea vs Arsenal 1-1: English Premier League",
+    "url": "https://www.aljazeera.com/sports/liveblog/2025/11/30/live-chelsea-vs-arsenal-english-premier-league-2?traffic_source=rss",
+    "id_key": "553267c5a7dab3ce8e62df37e83accf854820185719da67babea23cb11cdd6d8",
+    "summary": "Follow the build-up, analysis and live text commentary of the game as Chelsea host Arsenal at Stamford Bridge.",
+    "ingested_utc": "2025-11-30T18:56:22Z"
+  },
+  {
+    "published_utc": "2025-11-30",
+    "retrieved_date": "2025-11-30",
     "retrieved_utc": "2025-11-30T18:46:10Z",
     "source": "HackerNews_Top",
     "title": "ETH-Zurich: Digital Design and Computer Architecture; 227-0003-10L, Spring, 2025",
@@ -10987,16 +10998,5 @@
     "id_key": "d2a6eeece5b3c00e4dfc029d7e02949de3a0063f69da834ce1015b2f92465430",
     "summary": "In its deal with Alberta, Canada will scrap emissions cap on the oil and gas sector, among other moves.",
     "ingested_utc": "2025-11-28T04:02:49Z"
-  },
-  {
-    "published_utc": "2025-11-27",
-    "retrieved_date": "2025-11-28",
-    "retrieved_utc": "2025-11-28T02:29:16Z",
-    "source": "HackerNews_Top",
-    "title": "A programmer-friendly I/O abstraction over io_uring and kqueue (2022)",
-    "url": "https://tigerbeetle.com/blog/2022-11-23-a-friendly-abstraction-over-iouring-and-kqueue/",
-    "id_key": "3a380e70adb28258a3e0a42f6cd126bf0a525d97161b3654bf614208437b5053",
-    "summary": "Comments",
-    "ingested_utc": "2025-11-28T02:29:16Z"
   }
 ]
