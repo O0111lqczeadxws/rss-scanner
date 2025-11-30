@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-11-30",
     "retrieved_date": "2025-11-30",
+    "retrieved_utc": "2025-11-30T04:54:45Z",
+    "source": "AlJazeera_All",
+    "title": "Tens of thousands rally in Europe, demanding justice over Israel’s Gaza war",
+    "url": "https://www.aljazeera.com/news/2025/11/30/tens-of-thousands-march-in-europe-denouncing-israels-genocide-in-gaza?traffic_source=rss",
+    "id_key": "1a78a9e59a30a87f9026223c86308e20b3470f06042883d0324ed274c6aae6eb",
+    "summary": "Solidarity demonstrations with Palestinians come as the death toll from Israel's war on Gaza crosses 70,000.",
+    "ingested_utc": "2025-11-30T04:54:45Z"
+  },
+  {
+    "published_utc": "2025-11-30",
+    "retrieved_date": "2025-11-30",
     "retrieved_utc": "2025-11-30T04:30:35Z",
     "source": "FinancialPost_Business",
     "title": "Lomiko Metals Announces Management Change",
@@ -10987,16 +10998,5 @@
     "id_key": "60e659dbf25d5deebd81556f88aef09c165cb91b14e0490544034cf315d33a3c",
     "summary": "Luigi Lovaglio served with notice by Milan prosecutors in probe linked to Mediobanca takeover",
     "ingested_utc": "2025-11-27T15:52:20Z"
-  },
-  {
-    "published_utc": "2025-11-27",
-    "retrieved_date": "2025-11-27",
-    "retrieved_utc": "2025-11-27T15:52:07Z",
-    "source": "NYTimes_World",
-    "title": "Rocket Attack on Iraqi Gas Field Cuts Power to Most of Kurdistan",
-    "url": "https://www.nytimes.com/2025/11/27/world/middleeast/rocket-attack-iraq-power-kurdistan.html",
-    "id_key": "93e396b2f1921f089be58c2cdd6e048f2f96a8e32d967ba5438c3caf91bdc7e9",
-    "summary": "The strike is the latest in a string of attacks on energy infrastructure in Iraq’s northern Kurdish region, which some regional authorities have privately blamed on Iran-affiliated militias.",
-    "ingested_utc": "2025-11-27T15:52:07Z"
   }
 ]
