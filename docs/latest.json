@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-11-30",
     "retrieved_date": "2025-11-30",
+    "retrieved_utc": "2025-11-30T23:48:07Z",
+    "source": "Guardian_World",
+    "title": "Trump invites families of national guard members who were shot to White House",
+    "url": "https://www.theguardian.com/us-news/2025/nov/30/trump-invites-white-house-national-guard-dc-shooting-victim-families",
+    "id_key": "739335a9d8daf242790b7e913d55b76231ce04deb944ed1b758120d7644e1282",
+    "summary": "President plans to honor Sarah Beckstrom, who was fatally shot, as well as Andrew Wolfe, who is in critical condition Donald Trump said on Sunday that he invited the family of a national guard member fatally shot last week to the White House, adding that he spoke to her parents and they were “devastated”. US army specialist Sarah Beckstrom, 20, was killed in a shooting on Wednesday in Washington DC. Her fellow service member, US air force staff Sgt Andrew Wolfe, 24, remains hospitalized in critical condition. Vigils across West Virginia have taken place in their memory. Continue reading...",
+    "ingested_utc": "2025-11-30T23:48:07Z"
+  },
+  {
+    "published_utc": "2025-11-30",
+    "retrieved_date": "2025-11-30",
     "retrieved_utc": "2025-11-30T23:41:10Z",
     "source": "TheVerge_All",
     "title": "My favorite snore-blocking sleepbuds are down to a new low price for Cyber Monday",
@@ -10987,16 +10998,5 @@
     "id_key": "3f40fa97b7b59ff518fec5cb03904a6e0d032e35fb03204e5c902d9fa6c1c3ae",
     "summary": "Police say a man in his early 20s was found in Blacktown with gunshot wounds to his neck, chest and leg A man has died and two others are in custody after a daylight shooting on a suburban street in Sydney. Police were called to Carinya Street, Blacktown, at about 11.50am on Friday following reports of a public place shooting. Continue reading...",
     "ingested_utc": "2025-11-28T04:43:55Z"
-  },
-  {
-    "published_utc": "2025-11-28",
-    "retrieved_date": "2025-11-28",
-    "retrieved_utc": "2025-11-28T04:28:18Z",
-    "source": "FinancialPost_Business",
-    "title": "Oil in Worst Monthly Run Since 2023 as Glitch Halts US Futures",
-    "url": "https://financialpost.com/pmn/business-pmn/oil-in-worst-monthly-run-since-2023-with-opec-ukraine-in-focus",
-    "id_key": "20a3f91b6f2e7a0312c04dac999ddc84eb0c96a09abb7ef3c10f66397c6f6779",
-    "summary": "Oil headed for the longest run of monthly losses in more than two years, as traders looked ahead to an OPEC+ meeting this weekend and gauged US-led efforts to end the conflict in Ukraine.",
-    "ingested_utc": "2025-11-28T04:28:18Z"
   }
 ]
