@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-12-01",
     "retrieved_date": "2025-12-01",
+    "retrieved_utc": "2025-12-01T06:56:51Z",
+    "source": "Nikkei_Asia_Top",
+    "title": "BYD launches plug-in hybrid SUV in Japan, challenging rivals on price",
+    "url": "https://asia.nikkei.com/business/automobiles/electric-vehicles/byd-launches-plug-in-hybrid-suv-in-japan-challenging-rivals-on-price",
+    "id_key": "6ddc9f5348cb3ac4240cce7633af2999fe1cb340feae930425adf263ae118b94",
+    "summary": "",
+    "ingested_utc": "2025-12-01T06:56:51Z"
+  },
+  {
+    "published_utc": "2025-12-01",
+    "retrieved_date": "2025-12-01",
+    "retrieved_utc": "2025-12-01T06:54:14Z",
+    "source": "CryptoNews",
+    "title": "Grayscale to Launch First US Spot Chainlink ETF This Week, Says Nate Geraci",
+    "url": "https://cryptonews.com/news/grayscale-to-launch-first-us-spot-chainlink-etf-this-week-says-nate-geraci/",
+    "id_key": "ff2f0acf11af418d987fa2302b340206bc9ff77c5f1ae9a5ca99fd9ad0d0f277",
+    "summary": "Grayscale plans to launch the first US spot Chainlink ETF this week, converting its private LINK trust into a publicly traded fund. The post Grayscale to Launch First US Spot Chainlink ETF This Week, Says Nate Geraci appeared first on Cryptonews .",
+    "ingested_utc": "2025-12-01T06:54:14Z"
+  },
+  {
+    "published_utc": "2025-12-01",
+    "retrieved_date": "2025-12-01",
+    "retrieved_utc": "2025-12-01T06:54:14Z",
+    "source": "CryptoNews",
+    "title": "Elon Musk Predicts the Death of Money, Suggests Energy-Based Bitcoin Will Survive",
+    "url": "https://cryptonews.com/news/elon-musk-predicts-death-of-money-bitcoin-energy-based-will-survive/",
+    "id_key": "812a66e13f769bef3a0528004036f3c9657282ffb50ef97828a5f0025d3996d8",
+    "summary": "Elon Musk says money will eventually disappear as energy becomes the main measure of value and power in a world where abundance makes currency irrelevant. The post Elon Musk Predicts the Death of Money, Suggests Energy-Based Bitcoin Will Survive appeared first on Cryptonews .",
+    "ingested_utc": "2025-12-01T06:54:14Z"
+  },
+  {
+    "published_utc": "2025-12-01",
+    "retrieved_date": "2025-12-01",
     "retrieved_utc": "2025-12-01T06:23:26Z",
     "source": "FinancialPost_Business",
     "title": "Ipsen mourns the passing of Henri Beaufour, a founding family Board member",
@@ -10965,38 +10998,5 @@
     "id_key": "7c7e1d44d8af1b92875038e95444aff7726ea2361c45d891237647d5eab5a2e1",
     "summary": "Chicago-based exchange handles futures tied to interest rates, Treasuries, energy and equities",
     "ingested_utc": "2025-11-28T09:15:52Z"
-  },
-  {
-    "published_utc": "2025-11-28",
-    "retrieved_date": "2025-11-28",
-    "retrieved_utc": "2025-11-28T09:13:47Z",
-    "source": "CryptoBriefing",
-    "title": "CME Group futures go dark following major data center disruption",
-    "url": "https://cryptobriefing.com/cme-group-halts-futures-trading-technical-issues/",
-    "id_key": "869d8806ecb250b80d59442bce2388cb185fe5b77b3ba9676df62b6a5e24865e",
-    "summary": "The disruption highlights vulnerabilities in financial infrastructure, potentially affecting market stability and investor confidence globally. The post CME Group futures go dark following major data center disruption appeared first on Crypto Briefing .",
-    "ingested_utc": "2025-11-28T09:13:47Z"
-  },
-  {
-    "published_utc": "2025-11-28",
-    "retrieved_date": "2025-11-28",
-    "retrieved_utc": "2025-11-28T09:13:46Z",
-    "source": "CryptoSlate",
-    "title": "BlackRock’s IBIT is graduating to mega-cap options — opening the door to bank-grade products in your brokerage",
-    "url": "https://cryptoslate.com/blackrocks-ibit-is-graduating-to-mega-cap-options-opening-the-door-to-bank-grade-products-in-your-brokerage/",
-    "id_key": "5bf4b60bc6ce6a86b4f0bbeaf701f03e1585baf73dc747089df782d621bc2cd2",
-    "summary": "On Nov. 26, Nasdaq’s International Securities Exchange quietly triggered one of the most important developments in Bitcoin’s financial integration. The trading platform asked the US Securities and Exchange Commission (SEC) to raise the position limit on BlackRock’s iShares Bitcoin Trust (IBIT) options from 250,000 contracts to one million. On the surface, the proposal looks procedural. […] The post BlackRock’s IBIT is graduating to mega-cap options — opening the door to bank-grade products in your brokerage appeared first on CryptoSlate .",
-    "ingested_utc": "2025-11-28T09:13:46Z"
-  },
-  {
-    "published_utc": "2025-11-28",
-    "retrieved_date": "2025-11-28",
-    "retrieved_utc": "2025-11-28T09:13:28Z",
-    "source": "Guardian_World",
-    "title": "Labour MPs attack Starmer U-turn over workers’ rights as ‘complete betrayal’",
-    "url": "https://www.theguardian.com/politics/2025/nov/28/labour-mps-attack-starmer-u-turn-over-workers-rights-as-complete-betrayal",
-    "id_key": "69199e4c2374008f3d267a4a1f6c927fb306a5c7e991b1bbe29d85b41d81b2ca",
-    "summary": "Former minister says ditching plan for day-one protection against unfair dismissal ‘definitely is a manifesto breach’ Keir Starmer is facing backbench anger after ministers abandoned plans to give workers day-one protection against unfair dismissal, a U-turn that breaches the Labour manifesto. MPs including a former minister who spearheaded the employment rights bill with the former deputy leader Angela Rayner have voiced concerns over the climbdown announced by the government. Continue reading...",
-    "ingested_utc": "2025-11-28T09:13:28Z"
   }
 ]
