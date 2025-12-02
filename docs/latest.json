@@ -2,6 +2,72 @@
   {
     "published_utc": "2025-12-02",
     "retrieved_date": "2025-12-02",
+    "retrieved_utc": "2025-12-02T11:44:49Z",
+    "source": "FinancialPost_Business",
+    "title": "Gunvor’s New CEO Says Profits Have Rebounded From Bad First Half",
+    "url": "https://financialpost.com/pmn/business-pmn/gunvors-new-ceo-says-profits-have-rebounded-from-bad-first-half",
+    "id_key": "0848d583a0060df7193f3b84dd629573c7570c65ad941ab35b4209dd7889a09d",
+    "summary": "The new head of Gunvor Group — the energy merchant which announced a staff buyout on Monday — said earnings have rebounded from a poor first half amid better trading opportunities and strong oil-refining margins.",
+    "ingested_utc": "2025-12-02T11:44:49Z"
+  },
+  {
+    "published_utc": "2025-12-02",
+    "retrieved_date": "2025-12-02",
+    "retrieved_utc": "2025-12-02T11:44:41Z",
+    "source": "TheStreet_Top",
+    "title": "88-year-old restaurant chain closes all locations, no bankruptcy",
+    "url": "https://www.thestreet.com/restaurants/88-year-old-restaurant-chain-closes-all-locations-no-bankruptcy",
+    "id_key": "dd36942a872ecfd78ae29208f2db97a9d6b166d8ed9e9f446529598e7e89386b",
+    "summary": "Once popular buffet chains were fading in the restaurant sector when the Covid-19 pandemic prompted dining establishments to adopt stricter food safety guidelines. Food safety awareness during the Covid-19 pandemic also changed consumers' attitudes toward dining, which led to the demise of several ...",
+    "ingested_utc": "2025-12-02T11:44:41Z"
+  },
+  {
+    "published_utc": "2025-12-02",
+    "retrieved_date": "2025-12-02",
+    "retrieved_utc": "2025-12-02T11:44:31Z",
+    "source": "WIRED_All",
+    "title": "Melinda French Gates on Secrets: ‘Live a Truthful Life, Then You Don’t Have Any’",
+    "url": "https://www.wired.com/story/the-big-interview-podcast-melinda-french-gates/",
+    "id_key": "3be0be42fbb80eb56239f2fd29c006f6dca72c7d5286393be5ae935852e76cbe",
+    "summary": "On this week’s episode of The Big Interview podcast, the philanthropist offers her insights on billionaire donors, kids on phones, and the importance of women’s health care.",
+    "ingested_utc": "2025-12-02T11:44:31Z"
+  },
+  {
+    "published_utc": "2025-12-02",
+    "retrieved_date": "2025-12-02",
+    "retrieved_utc": "2025-12-02T11:44:28Z",
+    "source": "TheVerge_All",
+    "title": "Microsoft&#8217;s latest Windows 11 update improves and breaks dark mode",
+    "url": "https://www.theverge.com/news/836199/microsoft-windows-11-file-explorer-white-screen-flash-bug",
+    "id_key": "c6dd1ffd3311fb953263b59a8f1a6e1416dacceecb6343c7b07017df1ad93db5",
+    "summary": "You can’t make this up. Microsoft shipped a Windows 11 update yesterday that is supposed to make dark mode more consistent, with dialogs in File Explorer finally getting a dark mode for actions like copying, moving, or deleting files and folders. You get all that, but Microsoft will also treat you with a giant white […]",
+    "ingested_utc": "2025-12-02T11:44:28Z"
+  },
+  {
+    "published_utc": "2025-12-02",
+    "retrieved_date": "2025-12-02",
+    "retrieved_utc": "2025-12-02T11:44:14Z",
+    "source": "FT_Home",
+    "title": "Police raid EU diplomatic arm in College of Europe fraud probe",
+    "url": "https://www.ft.com/content/01abaad7-6c47-4895-8656-b1861460a8f4",
+    "id_key": "6b54024255f92b2020f0e98eda9cc75fc2fb6d6f71f06deb6ae02bcd005a949c",
+    "summary": "Belgian authorities detained three suspects after ‘strong suspicions’ of wrongdoing in award of contract",
+    "ingested_utc": "2025-12-02T11:44:14Z"
+  },
+  {
+    "published_utc": "2025-12-02",
+    "retrieved_date": "2025-12-02",
+    "retrieved_utc": "2025-12-02T11:42:01Z",
+    "source": "CoinJournal",
+    "title": "Regulators ramp up US stablecoin rules as GENIUS Act takes effect",
+    "url": "https://coinjournal.net/news/regulators-ramp-up-us-stablecoin-rules-as-genius-act-takes-effect/",
+    "id_key": "88abed6b2312114c836973b6b0b7c36366776ec3f4b82fe3bace867de1995dc6",
+    "summary": "A second FDIC rule on prudential requirements will follow early next year. The FDIC will supervise bank subsidiaries issuing payment stablecoins. Guidance on tokenised deposits is under development. US regulators are moving quickly to build the country’s new stablecoin supervision system, with federal agencies preparing detailed rulemaking as the GENIUS Act begins to shape policy. […] The post Regulators ramp up US stablecoin rules as GENIUS Act takes effect appeared first on CoinJournal .",
+    "ingested_utc": "2025-12-02T11:42:01Z"
+  },
+  {
+    "published_utc": "2025-12-02",
+    "retrieved_date": "2025-12-02",
     "retrieved_utc": "2025-12-02T11:33:34Z",
     "source": "FinancialPost_Business",
     "title": "TRX Gold Reports Q4 and Year-End 2025 Results",
@@ -10932,71 +10998,5 @@
     "id_key": "16e87f3b1e5c4182db14fbc8a286eb71049742bba84082becf475804b31c56ed",
     "summary": "\"These stack so nicely in one small area.\"",
     "ingested_utc": "2025-11-30T10:51:00Z"
-  },
-  {
-    "published_utc": "2025-11-30",
-    "retrieved_date": "2025-11-30",
-    "retrieved_utc": "2025-11-30T10:35:43Z",
-    "source": "NYTimes_World",
-    "title": "Deadly Floods in Indonesia Leave Hundreds Missing",
-    "url": "https://www.nytimes.com/2025/11/30/world/asia/flooding-indonesia-thailand-southeast-asia.html",
-    "id_key": "10dcee088d5fcbb5f593996baa1ad0afa96ed9978cf6f338a9dcc6d118d49ef6",
-    "summary": "Hundreds of people have been killed and millions displaced as extreme weather has ravaged Southeast Asia this month. Indonesia’s heavy rain was linked to two tropical cyclones.",
-    "ingested_utc": "2025-11-30T10:35:43Z"
-  },
-  {
-    "published_utc": "2025-11-30",
-    "retrieved_date": "2025-11-30",
-    "retrieved_utc": "2025-11-30T10:14:45Z",
-    "source": "FinancialPost_Business",
-    "title": "AI-assisted shopping is the talk of the holiday shopping season",
-    "url": "https://financialpost.com/pmn/ai-assisted-shopping-is-the-talk-of-the-holiday-shopping-season",
-    "id_key": "8167e30b6c0be82cd673c172c8c275bfc707df732e1a01ecc0a5cb9ea55613fc",
-    "summary": "NEW YORK (AP) — Major retail chains and tech companies are offering new or updated artificial intelligence tools in time for the holiday shopping season, hoping to give consumers an easier gift-buying experience and themselves an augmented share of online spending. Although AI-powered purchases are in early stages, the shopping assistants and agents rolled out […]",
-    "ingested_utc": "2025-11-30T10:14:45Z"
-  },
-  {
-    "published_utc": "2025-11-30",
-    "retrieved_date": "2025-11-30",
-    "retrieved_utc": "2025-11-30T10:14:38Z",
-    "source": "AlJazeera_All",
-    "title": "Thousands of anti-corruption protesters in Manila say Marcos must resign",
-    "url": "https://www.aljazeera.com/video/newsfeed/2025/11/30/thousands-of-anti-corruption-protesters-in-manila-say-marcos-must-resign?traffic_source=rss",
-    "id_key": "00f912dc3bdaeb35c9657820df6822521cf36b4ea8027146bd5231f549907104",
-    "summary": "Tens of thousands of anti-corruption protesters in the Philippines call for President Ferdinand Marcos Jr to resign.",
-    "ingested_utc": "2025-11-30T10:14:38Z"
-  },
-  {
-    "published_utc": "2025-11-30",
-    "retrieved_date": "2025-11-30",
-    "retrieved_utc": "2025-11-30T10:14:29Z",
-    "source": "Engadget_All",
-    "title": "Nintendo Switch 2 Black Friday deals are still live: Big savings on Switch games and accessories, plus the best Switch 2 bundles for the holiday shopping season",
-    "url": "https://www.engadget.com/deals/nintendo-switch-2-black-friday-deals-are-still-live-big-savings-on-switch-games-and-accessories-plus-the-best-switch-2-bundles-for-the-holiday-shopping-season-155223014.html?src=rss",
-    "id_key": "e1bc44de7376e3507903cd28edb98635579789512b5a0b72ab905071cfd26e97",
-    "summary": "Nintendo gear is always sought after during the holiday shopping season, but this year likely more so than others. The Nintendo Switch 2 is the console launch of 2025 and it will undoubtedly be at the top of many wish lists for both kids and adults alike. If you were hoping to save a bit on the console during the Black Friday shopping season, you may be disappointed. The Nintendo Black Friday sale was announced earlier this month, and unsurprisingly, there aren't a lot of true \"deals\" to be had. This is typical of Nintendo — legit Nintendo Black Friday deals are hard to come by even in the best Black Friday gaming deals — but there are ways to at least get the best value for your money if you're going to pick up a Switch 2 before the year is out. As has been the case for many years, the marquee Nintendo deals for the holidays come in the form of console bundles. When the Switch 2 launched earlier this year, it was available as just the console only for $449 or bundled with Mario Kart World for $499 . Both options are still available now. Considering the games by themselves cost $70 each, you do save a bit by picking up a console bundle. you can pick up the console and its bundles at most retailers including Amazon , Walmart , Best Buy and others. Nintendo Switch game deals When it comes to deals on Nintendo Switch 2 games, the Nintendo eShop will have Cyber Deals starting on November 20, running through December 3. The shop will feature \"holiday offers on select games,\" so it appears we'll all just have to go to the online store on November 20 to see the games on offer. Starting on November 23, select retailers will have discounts on some physical Switch games including Princess Peach: Showtime! , Luigi’s Mansion 3 and Kirby’s Return to Dream Land Deluxe . Those will each be $40, while other games like Super Mario Odyssey, Nintendo Switch Sports , Paper Mario: The Thousand-Year Door and Splatoon 3 will be $30. Nintendo Switch accessory deals Switch 2 accessories were conspicuously absent from the announced deals, but there's always a chance they'll receive discounts from third-party retailers like Amazon , Walmart and Best Buy . A handful of official Nintendo accessories made it onto our best Switch 2 accessories list, but you can find plenty of good ones from other manufacturers as well. If you're keen on getting a first-party accessory, though, for yourself or as a gift for someone else, here's where you can find some of the most popular ones. Joy-Con 2 bundle Amazon Walmart GameStop Best Buy Nintendo Switch 2 Pro Controller Amazon Walmart GameStop Best Buy Nintendo Switch 2 Camera Amazon Walmart GameStop Best Buy Nintendo Hori Nintendo Switch 2 Piranha Plant Camera Amazon Best Buy Joy-Con 2 Wheels (set of 2) Amazon Walmart GameStop Best Buy Nintendo More Nintendo Black Friday deals Even if you can't get huge discounts on Nintendo consoles or new games this year, that doesn't mean you can't find decent deals on other Nintendo gear. There are plenty of great ideas for gifts for the Nintendo fan in your life , and Engadget's Sam Rutherford got to see a bunch of them in person when he attended Nintendo's holiday showcase. From collectibles to clothing to plushies and holiday decor, there's really a ton to choose from — but you may want to pace yourself if you're also a Nintendo fan finding things that you want to pick up for yourself in the process of looking for good gifts. Here are just some of the best Nintendo gift ideas that you can look out for during Black Friday and Cyber Monday. This article originally appeared on Engadget at https://www.engadget.com/deals/nintendo-switch-2-black-friday-deals-are-still-live-big-savings-on-switch-games-and-accessories-plus-the-best-switch-2-bundles-for-the-holiday-shopping-season-155223014.html?src=rss",
-    "ingested_utc": "2025-11-30T10:14:29Z"
-  },
-  {
-    "published_utc": "2025-11-30",
-    "retrieved_date": "2025-11-30",
-    "retrieved_utc": "2025-11-30T10:14:27Z",
-    "source": "WIRED_All",
-    "title": "Best Black Friday Christmas Tree Deals (and Lights, Too) of 2025",
-    "url": "https://www.wired.com/story/black-friday-christmas-tree-deals/",
-    "id_key": "f295cad62d85ac32a23ad6f195d0a70c8763846dcbee96232d737b2f6311a149",
-    "summary": "Still need some holiday decor? Don't skip these sales on artificial trees, smart string lights, and permanent outdoor lights.",
-    "ingested_utc": "2025-11-30T10:14:27Z"
-  },
-  {
-    "published_utc": "2025-11-30",
-    "retrieved_date": "2025-11-30",
-    "retrieved_utc": "2025-11-30T10:13:56Z",
-    "source": "NYTimes_World",
-    "title": "India Is a Rising Power, but Its Capital Is a Lethal Gas Chamber",
-    "url": "https://www.nytimes.com/2025/11/30/world/asia/india-delhi-pollution.html",
-    "id_key": "397af474f12caa65319a1b54b0dedfab05f369842e3610fe64be185e40825f59",
-    "summary": "With little being done to clean the skies over New Delhi, the huge city struggles with its toxic air.",
-    "ingested_utc": "2025-11-30T10:13:56Z"
   }
 ]
