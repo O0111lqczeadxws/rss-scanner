@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-12-03",
     "retrieved_date": "2025-12-03",
+    "retrieved_utc": "2025-12-03T11:44:41Z",
+    "source": "FinancialPost_Business",
+    "title": "RBC Beats Estimates on Capital Markets, Wealth Management",
+    "url": "https://financialpost.com/pmn/business-pmn/rbc-beats-estimates-on-capital-markets-wealth-management",
+    "id_key": "09424492cf207b78ed6b7d86362c4f228d0250ca6ffc631e56bcdafe5126e1fe",
+    "summary": "Royal Bank of Canada topped estimates on strong results in its capital-markets and wealth-management divisions, capping off a year that saw elevated trading activity and a return to dealmaking in the US.",
+    "ingested_utc": "2025-12-03T11:44:41Z"
+  },
+  {
+    "published_utc": "2025-12-03",
+    "retrieved_date": "2025-12-03",
+    "retrieved_utc": "2025-12-03T11:44:41Z",
+    "source": "FinancialPost_Business",
+    "title": "Germany Faces a Growing Power Gap as Delays Hit New Gas Projects",
+    "url": "https://financialpost.com/pmn/business-pmn/germany-faces-a-growing-power-gap-as-delays-hit-new-gas-projects",
+    "id_key": "0879138a16884c1fef1bc37e6a28ba28150c0d02d6c68b6ac2839e9a730f63eb",
+    "summary": "Germany is heading toward a potential power shortfall of 10 to 24 gigawatts in 2030 during high-demand periods as it closes generation faster than it builds replacements — a gap analysts say has to be bridged.",
+    "ingested_utc": "2025-12-03T11:44:41Z"
+  },
+  {
+    "published_utc": "2025-12-03",
+    "retrieved_date": "2025-12-03",
+    "retrieved_utc": "2025-12-03T11:44:23Z",
+    "source": "WIRED_All",
+    "title": "A Fentanyl Vaccine Is About to Get Its First Major Test",
+    "url": "https://www.wired.com/story/a-fentanyl-vaccine-is-about-to-get-its-first-major-test/",
+    "id_key": "4619c5d1209625d348b5d38b7710d61ce3e917a53d58f51ce59b937b967adcc9",
+    "summary": "ARMR Sciences of New York is trialing a vaccine in the Netherlands to protect against fentanyl-related overdose and death.",
+    "ingested_utc": "2025-12-03T11:44:23Z"
+  },
+  {
+    "published_utc": "2025-12-03",
+    "retrieved_date": "2025-12-03",
     "retrieved_utc": "2025-12-03T11:33:19Z",
     "source": "FinancialPost_Business",
     "title": "India Taps Coal Plants to Make Room For More Solar in The Grid",
@@ -10965,38 +10998,5 @@
     "id_key": "b30ac8b53b3597c9c8da7f76c581e0e88e86be7515fd0b6fbf881d8f36c42724",
     "summary": "US president sent a ‘blunt message’ to his South American counterpart, sources say Analysis: Trump’s pardon of Honduras’s ex-president shows counter-drug effort is ‘based on lies and hypocrisy’ How US campaign against Venezuela has unfolded US politics – live updates Donald Trump reportedly gave Nicolás Maduro an ultimatum to relinquish power immediately during their recent call – but Venezuela’s authoritarian leader declined, demanding a “global amnesty” for himself and allies. On Sunday, the US president confirmed the call had taken place, telling reporters: “I wouldn’t say it went well or badly, it was a phone call.” Continue reading...",
     "ingested_utc": "2025-12-01T18:55:07Z"
-  },
-  {
-    "published_utc": "2025-12-01",
-    "retrieved_date": "2025-12-01",
-    "retrieved_utc": "2025-12-01T18:22:33Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "Qatar sovereign fund, KKR to buy into IPO of Japan's SBI Shinsei Bank",
-    "url": "https://asia.nikkei.com/business/finance/qatar-sovereign-fund-kkr-to-buy-into-ipo-of-japan-s-sbi-shinsei-bank",
-    "id_key": "16ed869eb7b8786bf580755a70d0dea5d02ea9747789bc68b7db1304e744e2d8",
-    "summary": "",
-    "ingested_utc": "2025-12-01T18:22:33Z"
-  },
-  {
-    "published_utc": "2025-12-01",
-    "retrieved_date": "2025-12-01",
-    "retrieved_utc": "2025-12-01T18:22:30Z",
-    "source": "FinancialPost_Business",
-    "title": "Argentina Notches First LNG Sales Deal as Shale Patch Booms",
-    "url": "https://financialpost.com/pmn/business-pmn/argentina-notches-first-lng-sales-deal-as-shale-patch-booms",
-    "id_key": "e9f6445dac009c5fd914c1af93d9145b167ee43951d03b866f19d73ab6df4b7d",
-    "summary": "Argentina has secured its first agreement for long-term sales of liquefied natural gas, a key step in its bid to become a global supplier of the fuel as drilling ramps up in its Vaca Muerta shale patch.",
-    "ingested_utc": "2025-12-01T18:22:30Z"
-  },
-  {
-    "published_utc": "2025-12-01",
-    "retrieved_date": "2025-12-01",
-    "retrieved_utc": "2025-12-01T18:22:30Z",
-    "source": "FinancialPost_Business",
-    "title": "Media Advisory: Inuit-led Infrastructure Project Advances Canada’s Arctic Sovereignty",
-    "url": "https://financialpost.com/globe-newswire/media-advisory-inuit-led-infrastructure-project-advances-canadas-arctic-sovereignty",
-    "id_key": "fed02ab67bd70e85e552c894c7b61fe6087aad3064837e9258de95338d297baf",
-    "summary": "Press Conference – Tuesday, December 2, 2025 – 11:00 AM (Parliamentary Press Gallery, 135-B West Block) Iqaluit, Nunavut, Dec. 01, 2025 (GLOBE NEWSWIRE) — The Qikiqtarjuaq Deep Sea Port Project is a strategic piece of Arctic infrastructure in Nunavut that will significantly enhance Canada’s Arctic accessibility, operational preparedness, and sovereignty. Project partners are in Ottawa […]",
-    "ingested_utc": "2025-12-01T18:22:30Z"
   }
 ]
