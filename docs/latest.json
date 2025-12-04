@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-12-04",
     "retrieved_date": "2025-12-04",
+    "retrieved_utc": "2025-12-04T10:57:37Z",
+    "source": "NYTimes_World",
+    "title": "Ruined Rice Fields and Broken Rail Lines: Sri Lanka Counts Cost of Cyclone",
+    "url": "https://www.nytimes.com/2025/12/04/world/asia/sri-lanka-cyclone-flood-damage.html",
+    "id_key": "c251a0cf2edd02996db3ac0a25d3c5fd25387d7d5a04e1162ce719d814e5c57d",
+    "summary": "Officials estimate the damage runs into billions of dollars, a headache for the island nation just recovering from an economic crash.",
+    "ingested_utc": "2025-12-04T10:57:37Z"
+  },
+  {
+    "published_utc": "2025-12-04",
+    "retrieved_date": "2025-12-04",
+    "retrieved_utc": "2025-12-04T10:55:46Z",
+    "source": "CryptoNews",
+    "title": "Strategy Sets $1.44B Buffer for Bitcoin Bear Market Risk: CryptoQuant",
+    "url": "https://cryptonews.com/news/strategy-1-44b-usd-buffer-bitcoin-bear-market/",
+    "id_key": "8ae9d086bc4b035889176f9709b3289b415f0955cf75df9d8f9e11ef2816497b",
+    "summary": "Michael Saylor’s Strategy (MSTR) has set aside a $1.44 billion USD buffer, according to CryptoQuant, signaling preparation for a potential prolonged Bitcoin downturn. The post Strategy Sets $1.44B Buffer for Bitcoin Bear Market Risk: CryptoQuant appeared first on Cryptonews .",
+    "ingested_utc": "2025-12-04T10:55:46Z"
+  },
+  {
+    "published_utc": "2025-12-04",
+    "retrieved_date": "2025-12-04",
+    "retrieved_utc": "2025-12-04T10:55:43Z",
+    "source": "CryptoSlate",
+    "title": "American Bitcoin plunged 50% during a crypto rally, exposing a fatal flaw in the “Trump proxy” trade",
+    "url": "https://cryptoslate.com/american-bitcoin-plunged-50-during-a-crypto-rally-exposing-a-fatal-flaw-in-the-trump-proxy-trade/",
+    "id_key": "2180ee5af2ef61f95d602684b47327f2e452e83b08fe2dd6a59863547f7ee9dd",
+    "summary": "Bitcoin (BTC) clawed back from $86,286 on Dec. 2 to $93,324 as of press time, up by 8%, while the Trump family’s American Bitcoin (ABTC) shares tumbled. The BTC price increase can be attributed to improved macro conditions and Vanguard’s opening of crypto ETF access to tens of millions of clients. At the same time, […] The post American Bitcoin plunged 50% during a crypto rally, exposing a fatal flaw in the “Trump proxy” trade appeared first on CryptoSlate .",
+    "ingested_utc": "2025-12-04T10:55:43Z"
+  },
+  {
+    "published_utc": "2025-12-04",
+    "retrieved_date": "2025-12-04",
     "retrieved_utc": "2025-12-04T10:46:12Z",
     "source": "FinancialPost_Business",
     "title": "European Stocks Gain as Fed Rate Cut Hopes Boost Sentiment",
@@ -10965,38 +10998,5 @@
     "id_key": "17a5c3ace787fb2045b065fad2766b683295eee2c1ff13ae9ade38f08dc7ed1c",
     "summary": "Ethereum’s Fusaka upgrade activates Dec. 3, deploying a suite of changes designed to increase rollup throughput, tighten gas markets, and add native support for passkey-style signatures. The fork introduces PeerDAS data-availability sampling, doubles the default block gas limit, and prepares the network for blob-only parameter expansions scheduled for later this month and January. Fusaka is […] The post Ethereum gets huge mainnet upgrade tomorrow – Here’s why you should care about ETH’s ‘sloping side road’ appeared first on CryptoSlate .",
     "ingested_utc": "2025-12-02T15:37:43Z"
-  },
-  {
-    "published_utc": "2025-12-02",
-    "retrieved_date": "2025-12-02",
-    "retrieved_utc": "2025-12-02T15:37:22Z",
-    "source": "BBC_World",
-    "title": "Nigeria grants asylum to Guinea-Bissau presidential candidate after coup",
-    "url": "https://www.bbc.com/news/articles/ce3wq2zznz1o?at_medium=RSS&at_campaign=rss",
-    "id_key": "6241e0efd00e4db1085528d5152d0ae704c8093db13fafcfec805656ddf5b24c",
-    "summary": "Nigeria says it is sheltering Fernando Dias in its embassy in Bissau, citing an imminent threat to his life.",
-    "ingested_utc": "2025-12-02T15:37:22Z"
-  },
-  {
-    "published_utc": "2025-12-02",
-    "retrieved_date": "2025-12-02",
-    "retrieved_utc": "2025-12-02T15:37:22Z",
-    "source": "BBC_World",
-    "title": "Costco sues Trump administration for 'full refund' of tariffs",
-    "url": "https://www.bbc.com/news/articles/c3r78peyzzlo?at_medium=RSS&at_campaign=rss",
-    "id_key": "fb99e0ea10b9c799e559aedb0ce8ca89aa0eb1c57dff5754bcecee1d8885537f",
-    "summary": "Two lower courts have already ruled against President Trump's use of emergency powers to impose tariffs.",
-    "ingested_utc": "2025-12-02T15:37:22Z"
-  },
-  {
-    "published_utc": "2025-12-02",
-    "retrieved_date": "2025-12-02",
-    "retrieved_utc": "2025-12-02T15:37:22Z",
-    "source": "BBC_World",
-    "title": "Zambian-American influencer sentenced to 18 months for hate speech",
-    "url": "https://www.bbc.com/news/articles/cvgqnklqge7o?at_medium=RSS&at_campaign=rss",
-    "id_key": "92ea6fd851105560f7baeb854515c305624883cf1b6045d9384a85f62197e09f",
-    "summary": "Known as \"One Boss Lady\", Ethel Chisono Edwards has become known for her rants about the president.",
-    "ingested_utc": "2025-12-02T15:37:22Z"
   }
 ]
