@@ -2,6 +2,83 @@
   {
     "published_utc": "2025-12-04",
     "retrieved_date": "2025-12-04",
+    "retrieved_utc": "2025-12-04T22:35:30Z",
+    "source": "FinancialPost_Business",
+    "title": "Xenon Pharmaceuticals Reports Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)",
+    "url": "https://financialpost.com/globe-newswire/xenon-pharmaceuticals-reports-inducement-grants-under-nasdaq-listing-rule-5635c4-7",
+    "id_key": "ae243be44077f31e949cfaeb69300db47f0e901c5539452700e7ecfaee09cdff",
+    "summary": "VANCOUVER, British Columbia and BOSTON, Dec. 04, 2025 (GLOBE NEWSWIRE) — Xenon Pharmaceuticals Inc. (Nasdaq: XENE), a neuroscience-focused biopharmaceutical company dedicated to drug discovery, clinical development, and commercialization of life-changing therapeutics for patients in need, today announced equity inducement grants to five new non-officer employees consisting of an aggregate of 39,250 share options. All of […]",
+    "ingested_utc": "2025-12-04T22:35:30Z"
+  },
+  {
+    "published_utc": "2025-12-04",
+    "retrieved_date": "2025-12-04",
+    "retrieved_utc": "2025-12-04T22:35:24Z",
+    "source": "AlJazeera_All",
+    "title": "Real Betis vs Barcelona: La Liga preview – teams, start, lineups",
+    "url": "https://www.aljazeera.com/sports/2025/12/4/real-betis-vs-barcelona-la-liga-teams-start-lineups?traffic_source=rss",
+    "id_key": "f032a04126700f8fc98178f31ce79e52e4da08f436179d1b784055589330d1ba",
+    "summary": "Table-topping Barcelona look to move four points clear of Real Madrid but Real Betis eye their own La Liga ambitions.",
+    "ingested_utc": "2025-12-04T22:35:24Z"
+  },
+  {
+    "published_utc": "2025-12-04",
+    "retrieved_date": "2025-12-04",
+    "retrieved_utc": "2025-12-04T22:35:23Z",
+    "source": "TheStreet_Top",
+    "title": "Amazon is selling a $700 Breville espresso machine for just $550 for a limited time",
+    "url": "https://www.thestreet.com/deals/breville-barista-express-espresso-machine-bes870xl-amazon-sale",
+    "id_key": "6b0220a3311be6f50e54328245ceecee5e8312e99f3db8e8c235b3c54d1b7aa6",
+    "summary": "\"If you are in the market for a semi-automatic espresso maker, you can't beat this machine.\"",
+    "ingested_utc": "2025-12-04T22:35:23Z"
+  },
+  {
+    "published_utc": "2025-12-04",
+    "retrieved_date": "2025-12-04",
+    "retrieved_utc": "2025-12-04T22:35:11Z",
+    "source": "TheVerge_All",
+    "title": "Nintendo’s Switch 2 Mario Kart bundle is on sale at Amazon again for $50 off",
+    "url": "https://www.theverge.com/gadgets/836519/nintendo-switch-2-mario-kart-world-bundle-walmart-deal",
+    "id_key": "0d3240276b467fe64ddd83bf91f17d992c4c2e256585797f92f97a8f400aedcc",
+    "summary": "One of the biggest surprises of Cyber Monday was the terrific discount we saw on the Nintendo Switch 2 Mario Kart World bundle, which dropped in price by $50. We expected the price to return to normal once the shopping holiday ended, but to our surprise, it’s still going strong two days later. Several major […]",
+    "ingested_utc": "2025-12-04T22:35:11Z"
+  },
+  {
+    "published_utc": "2025-12-04",
+    "retrieved_date": "2025-12-04",
+    "retrieved_utc": "2025-12-04T22:34:03Z",
+    "source": "Arbitrum_Nitro_Releases",
+    "title": "Arbitrum Nitro v3.9.4-rc.2",
+    "url": "https://github.com/OffchainLabs/nitro/releases/tag/v3.9.4-rc.2",
+    "id_key": "c3e90f92c89f8d5ba41a5c372b6eca2614ba26f600a6bdf22403524869b97871",
+    "summary": "Nitro v3.9.4 is an optional release, only minor updates on top of v3.9.3 . This release is available as a Docker Image on Docker Hub at offchainlabs/nitro-node:TBD This Docker image specifies default flags in its entrypoint which should be replicated if you're overriding the entrypoint: /usr/local/bin/nitro --validation.wasm.allowed-wasm-module-roots /home/user/nitro-legacy/machines,/home/user/target/machines Important for any chains still on ArbOS40: If you're running a validator without a split validation server (this will be true of most validators), you should instead use the image offchainlabs/nitro-node:TBD-validator which has the extra script /usr/local/bin/split-val-entry.sh as the entrypoint (no need to override the default entrypoint). Configuration Changes What's Changed Fix to store blobs locally post fusaka, and add disk reader that can use locally stored blobs. Also, remove legacy blob functionality that is no longer needed now that Fusaka is live. User-facing Changes v3.9.x post fusaka blob backports: #4113 Full Changelog : v3.9.4-rc.1...v3.9.4-rc.2",
+    "ingested_utc": "2025-12-04T22:34:03Z"
+  },
+  {
+    "published_utc": "2025-12-04",
+    "retrieved_date": "2025-12-04",
+    "retrieved_utc": "2025-12-04T22:32:55Z",
+    "source": "CryptoNews",
+    "title": "New ChatGPT AI Predicts the Price of XRP, Bitcoin, Solana by the End of 2025",
+    "url": "https://cryptonews.com/news/new-chatgpt-ai-predicts-the-price-of-xrp-bitcoin-solana-by-the-end-of-2025/",
+    "id_key": "06884c9e5435655e0be7fd5d24b975d0ae37066e4d8f492db7bca14d6546aaf8",
+    "summary": "ChatGPT has issued data-driven forecasts for XRP, Bitcoin and Solana, describing wide December ranges from sub-dollar XRP and $75,000 BTC to potential rallies toward $15 XRP, $230,000 BTC and $1,200 SOL, while Maxi Doge has pursued growth through a staking presale. The post New ChatGPT AI Predicts the Price of XRP, Bitcoin, Solana by the End of 2025 appeared first on Cryptonews .",
+    "ingested_utc": "2025-12-04T22:32:55Z"
+  },
+  {
+    "published_utc": "2025-12-04",
+    "retrieved_date": "2025-12-04",
+    "retrieved_utc": "2025-12-04T22:32:33Z",
+    "source": "Guardian_World",
+    "title": "Australia news live: properties lost as Tasmania’s Dolphin Sands bushfire continues to burn; ‘severe’ heatwave hits NSW",
+    "url": "https://www.theguardian.com/australia-news/live/2025/dec/05/australia-news-live-skydivers-strike-aukus-review-anika-wells-travel-social-media-age-ban-coalition-labor-ntwnfb",
+    "id_key": "c0190fc217864b3a266989790a9dea17fbc1892caaf0b7e2402034bba6ad6042",
+    "summary": "Bushfires rage in Tasmania with firefighting efforts focused on Dolphin Sands area and Glenlusk, near Hobart. Follow today’s news live Get our breaking news email , free app or daily news podcast The Victorian government’s controversial “adult time for violent crime” bill has passed parliament without amendment. The bill, which will move serious crimes committed by children as young as 14 from the children’s court to adult courts, passed at about 6pm on Thursday with the support of the Coalition. I’m pleased these laws can now be put in place as soon as possible to protect Victorians. There are no easy solutions to youth crime, and the best approach is always to stop crime before it starts. But we absolutely need serious consequences for violent youth crime to protect the community now. Continue reading...",
+    "ingested_utc": "2025-12-04T22:32:33Z"
+  },
+  {
+    "published_utc": "2025-12-04",
+    "retrieved_date": "2025-12-04",
     "retrieved_utc": "2025-12-04T22:13:29Z",
     "source": "Nikkei_Asia_Top",
     "title": "Japan long-term bond yields hit 18-year high on inflation expectations",
@@ -10921,82 +10998,5 @@
     "id_key": "e8dfea954b2ee9dfb5e983c549e7d1192c7973c30a69fbfad534008e4b4b3118",
     "summary": "Are you tired of feeling safe and happy all the time? Is your daily life overrun by feelings of security, contentment and peace? Do you want an escape from all of the oppressive niceness around you? Well, look no further — these are the games for you. Here, we’ve collected more than a dozen of the most evocative and disturbing horror games in recent memory. These selections cover a wide range of genres and styles, but each one comes with at least a tinge of unsettling terror. So take a peek, find your game, and prepare your skeleton for some fresh air because you’re about to jump out of your skin. Best horror games Check out our entire Best Games series including the best Nintendo Switch games , the best PS5 games , the best Xbox games , the best PC games and the best free games you can play today. This article originally appeared on Engadget at https://www.engadget.com/gaming/best-horror-games-120029388.html?src=rss",
     "ingested_utc": "2025-12-03T10:17:28Z"
-  },
-  {
-    "published_utc": "2025-12-03",
-    "retrieved_date": "2025-12-03",
-    "retrieved_utc": "2025-12-03T10:17:05Z",
-    "source": "NPR_Top",
-    "title": "Democrats seek limits on who can serve as immigration judges amid mass layoffs",
-    "url": "https://www.npr.org/2025/12/03/g-s1-100085/immigration-judges-congress-democrats",
-    "id_key": "488cfab34edfabf7658d40a6de2364d8b788903474e9b3e25f221592993c4e8b",
-    "summary": "The legislation comes after the White House authorized up to 600 military lawyers to be temporary immigration judges and scrapped requirements for them to have immigration law experience.",
-    "ingested_utc": "2025-12-03T10:17:05Z"
-  },
-  {
-    "published_utc": "2025-12-03",
-    "retrieved_date": "2025-12-03",
-    "retrieved_utc": "2025-12-03T10:16:58Z",
-    "source": "NYTimes_World",
-    "title": "Visiting Turkey and Lebanon, Pope Leo Echoed Francis’s Message, Not His Style",
-    "url": "https://www.nytimes.com/2025/12/03/world/europe/pope-leo-first-trip-francis-turkey-lebanon.html",
-    "id_key": "b01a18e6d094bafa25a3e98b21451d5fff075c19a9439f893008cd54daae9df9",
-    "summary": "Traveling through the Mideast, Leo XIV channeled many of his predecessor’s messages. Leo’s deliberate manner differed from Francis.",
-    "ingested_utc": "2025-12-03T10:16:58Z"
-  },
-  {
-    "published_utc": "2025-12-03",
-    "retrieved_date": "2025-12-03",
-    "retrieved_utc": "2025-12-03T10:16:57Z",
-    "source": "NYTimes_Business",
-    "title": "Fed Pick Puts Pressure on Bessent to Deliver for Trump",
-    "url": "https://www.nytimes.com/2025/12/03/us/politics/fed-chair-bessent-hassett.html",
-    "id_key": "a6cdf04c0ee152a29bf85717826a755f1de16fdea4b8c2fecbc9f63f154e5a75",
-    "summary": "Treasury Secretary Scott Bessent, who is leading the search for the next Federal Reserve chair, could face President Trump’s wrath if the person chosen does not quickly lower interest rates.",
-    "ingested_utc": "2025-12-03T10:16:57Z"
-  },
-  {
-    "published_utc": "2025-12-03",
-    "retrieved_date": "2025-12-03",
-    "retrieved_utc": "2025-12-03T10:16:57Z",
-    "source": "NYTimes_Business",
-    "title": "Bitcoin’s Sky-High Prices Have Not Panned Out",
-    "url": "https://www.nytimes.com/2025/12/03/technology/cryptocurrencies-tumble-trump-rally.html",
-    "id_key": "d630af0cd6eb5653bcb17805e753f9ae58571c03cb6ccda48b33764b2797ad7a",
-    "summary": "Bitcoin has plunged more than 30 percent and Ether is down around 40 percent in recent months, as gains from President Trump’s pro-crypto policies evaporated.",
-    "ingested_utc": "2025-12-03T10:16:57Z"
-  },
-  {
-    "published_utc": "2025-12-03",
-    "retrieved_date": "2025-12-03",
-    "retrieved_utc": "2025-12-03T10:16:57Z",
-    "source": "NYTimes_Business",
-    "title": "Ahead of Tariff Ruling, Businesses Race to Secure Refunds",
-    "url": "https://www.nytimes.com/2025/12/03/business/supreme-court-tariff-ruling-refunds.html",
-    "id_key": "4b1e537cb06c91f4dbc33c71a7cbcd4ed816150a768b4da129255ab7caee0df4",
-    "summary": "The Supreme Court has not yet ruled on the legality of President Trump’s sweeping tariffs, but some companies aren’t waiting to try to secure a speedy and substantial payout.",
-    "ingested_utc": "2025-12-03T10:16:57Z"
-  },
-  {
-    "published_utc": "2025-12-03",
-    "retrieved_date": "2025-12-03",
-    "retrieved_utc": "2025-12-03T10:16:39Z",
-    "source": "Guardian_World",
-    "title": "​’Pretty obvious’ Putin does not want peace in Ukraine, Nato foreign ministers warn - Europe live",
-    "url": "https://www.theguardian.com/world/live/2025/dec/03/nato-vladimir-putin-russia-rejects-ukraine-peace-deal-volodymyr-zelenskyy-europe-live-latest-news-updates",
-    "id_key": "161b998a02519d7d86f3c314bb133f8d4e3f58271b54a9b4d6cb75128a593f39",
-    "summary": "Comments come after Putin rejected peace deal after US talks and warned that Russia is ‘ready’ for war with Europe Ukrainian president Volodymyr Zelenskyy has pledged to “work constructively in pursuit of a real peace,” as he continues Ukraine’s diplomatic offensive today, with his security advisor, Rustem Umerov, meeting with the European national security advisors in Brussels. In a post on X , he said that Umerov will be joined by the chief of the general staff Andrii Hnatov , with the meetings aimed at ensuring “ongoing coordination with partners.” Continue reading...",
-    "ingested_utc": "2025-12-03T10:16:39Z"
-  },
-  {
-    "published_utc": "2025-12-03",
-    "retrieved_date": "2025-12-03",
-    "retrieved_utc": "2025-12-03T10:14:48Z",
-    "source": "Guardian_World",
-    "title": "Leaked memo reveals US veterans affairs officials vetting non-citizen workers",
-    "url": "https://www.theguardian.com/us-news/2025/dec/03/us-veterans-affairs-database-immigration",
-    "id_key": "cec48ff76e59bc219119c38f95a7ca57f86e47332de401b61c429c29445e399a",
-    "summary": "Exclusive: Compilation of data to be shared with ‘appropriate agencies’ prompts fears of immigration crackdown The Department of Veterans Affairs (VA) is in the process of creating an urgent and massive new internal database of non-US citizens who are “employed or affiliated” with the government department, a sensitive memo leaked to the Guardian has revealed – prompting alarm within the sprawling agency over a potential immigration crackdown. A VA spokesperson confirmed to the Guardian that the department would share some of the data it is now gathering with other federal agencies, including for immigration enforcement purposes. Continue reading...",
-    "ingested_utc": "2025-12-03T10:14:48Z"
   }
 ]
