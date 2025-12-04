@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-12-04",
     "retrieved_date": "2025-12-04",
+    "retrieved_utc": "2025-12-04T19:44:08Z",
+    "source": "FinancialPost_Business",
+    "title": "Goldman-Backed Brazil Data Center Explores Power Supply Options",
+    "url": "https://financialpost.com/pmn/business-pmn/goldman-backed-brazil-data-center-explores-power-supply-options",
+    "id_key": "fdc59649233b89d7ef66751a0038bbe5b367aebc3f5035af3ddc80ebcfbd45b8",
+    "summary": "Brazil’s biggest utility is exploring options to guarantee the power supply for a $50 billion data center project aimed at putting Rio de Janeiro at the forefront of artificial intelligence in Latin America.",
+    "ingested_utc": "2025-12-04T19:44:08Z"
+  },
+  {
+    "published_utc": "2025-12-04",
+    "retrieved_date": "2025-12-04",
+    "retrieved_utc": "2025-12-04T19:44:01Z",
+    "source": "TheStreet_Top",
+    "title": "U.S. layoffs are pandemic-era bad",
+    "url": "https://www.thestreet.com/employment/u-s-layoffs-are-pandemic-era-bad",
+    "id_key": "f5dcbf9103a1d5782310e62fbbcc9e614517e9e473ffa8185e5ef0041e717865",
+    "summary": "According to the September U.S. government unemployment report, the job market is seeing mixed results. Bureau of Labor Statistics' August data showed a slight uptick in the unemployment rate to 4.3% for the third consecutive month, as employers added just 22,000 new jobs. The September ...",
+    "ingested_utc": "2025-12-04T19:44:01Z"
+  },
+  {
+    "published_utc": "2025-12-04",
+    "retrieved_date": "2025-12-04",
     "retrieved_utc": "2025-12-04T19:33:23Z",
     "source": "HackerNews_Top",
     "title": "Show HN: Onlyrecipe 2.0 – I added all features HN requested – 4 years later",
@@ -10976,27 +10998,5 @@
     "id_key": "ec1af6445654103400d7ef030fe30a01e4de3f51b9631ec35414fbe16d2df544",
     "summary": "Follow today’s news live Bruce Lehrmann loses appeal in defamation case that found he raped Brittany Higgins Get our breaking news email , free app or daily news podcast More on the eSafety commissioner’s letter to a US lawmaker Julie Inman Grant told senators that Australians expect companies providing services into Australia to abide by Australian laws. She also pointed out that since the Wakeley church stabbing case that X challenged in the court and eSafety ended up dropping, the agency had accepted geo-blocking Australian users from seeing the posts as compliance with Australian law. So the conclusion is nothing that we do here with the Online Safety Act affects anything that an American platform will serve to Americans. So no, it does not impinge upon Americans’ freedom of speech. I am just in the process of sending that to the chairman right now. I think out of respect for him – when he sent me his letter, he sent it concurrently, it appears, to Sky News – I prefer to send it official to official. Continue reading...",
     "ingested_utc": "2025-12-03T04:05:33Z"
-  },
-  {
-    "published_utc": "2025-12-03",
-    "retrieved_date": "2025-12-03",
-    "retrieved_utc": "2025-12-03T03:45:46Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "Beijing's key uranium miner soars over 200% in $628m Shenzhen listing",
-    "url": "https://asia.nikkei.com/business/markets/ipo/beijing-s-key-uranium-miner-soars-over-200-in-628m-shenzhen-listing",
-    "id_key": "c69177002a07e7ff306925422b38cb64f02c91cc442c1b1545f7d4f8f60a7976",
-    "summary": "",
-    "ingested_utc": "2025-12-03T03:45:46Z"
-  },
-  {
-    "published_utc": "2025-12-03",
-    "retrieved_date": "2025-12-03",
-    "retrieved_utc": "2025-12-03T03:45:46Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "Nine Japanese, two American firms sue US government for tariff refunds",
-    "url": "https://asia.nikkei.com/spotlight/trump-administration/nine-japanese-two-american-firms-sue-us-government-for-tariff-refunds",
-    "id_key": "11090015b7daaf64859e1cd4a34b5a10bdfb9a46cc80f82dc113e449bafd0403",
-    "summary": "",
-    "ingested_utc": "2025-12-03T03:45:46Z"
   }
 ]
