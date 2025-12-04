@@ -2,6 +2,50 @@
   {
     "published_utc": "2025-12-04",
     "retrieved_date": "2025-12-04",
+    "retrieved_utc": "2025-12-04T05:38:07Z",
+    "source": "TheStreet_Top",
+    "title": "Jean Chatzky sounds alarm on 401(k) plans, Social Security",
+    "url": "https://www.thestreet.com/retirement/jean-chatzky-sounds-alarm-on-social-security-401ks",
+    "id_key": "5dfbfc27390102a7ab3d335ca7c64cacb340950764de82818b56c0b6af155f75",
+    "summary": "Millions of Americans are either retired or are preparing for retirement, and many are actively planning to take care of their financial needs while aspiring to live their retirement dreams. Jean Chatzky, personal finance bestselling author and former financial editor of NBC's \"Today\" show, sees an ...",
+    "ingested_utc": "2025-12-04T05:38:07Z"
+  },
+  {
+    "published_utc": "2025-12-04",
+    "retrieved_date": "2025-12-04",
+    "retrieved_utc": "2025-12-04T05:37:40Z",
+    "source": "FT_Home",
+    "title": "Why the Taliban is coming in from the cold",
+    "url": "https://www.ft.com/content/ae886e91-c601-4019-a712-323fa94efbb4",
+    "id_key": "71f67b78e15af2b1dca65b773b7e147b0a49e02d909d63e937239c9270ef6bed",
+    "summary": "Isolated since 2021, the Islamist group is now rebuilding ties with many countries, despite a fierce dispute with former patron Pakistan",
+    "ingested_utc": "2025-12-04T05:37:40Z"
+  },
+  {
+    "published_utc": "2025-12-04",
+    "retrieved_date": "2025-12-04",
+    "retrieved_utc": "2025-12-04T05:35:13Z",
+    "source": "Guardian_World",
+    "title": "Hong Kong fire death toll rises to 159 as officials order citywide scaffolding net removal",
+    "url": "https://www.theguardian.com/news/2025/dec/04/hong-kong-fire-death-toll-protective-netting-remove",
+    "id_key": "1acb30197e3632cabfe7cbcfa3a033b9bfc134f66089b534c0aeb3843ead0ab2",
+    "summary": "Police say number of dead may still be revised as ‘suspected human bones’ found during search require forensic testing The death toll in Hong Kong’s apartment complex fire has risen to 159 as officials ordered all scaffolding mesh in the city to be removed by Saturday. The blaze that last week engulfed Wang Fuk Court in the city’s northern Tai Po district has become the world’s deadliest residential building fire since 1980. Continue reading...",
+    "ingested_utc": "2025-12-04T05:35:13Z"
+  },
+  {
+    "published_utc": "2025-12-04",
+    "retrieved_date": "2025-12-04",
+    "retrieved_utc": "2025-12-04T05:35:10Z",
+    "source": "BBC_World",
+    "title": "Israel identifies hostage remains as Thai national",
+    "url": "https://www.bbc.com/news/articles/cd6x2j4g3z7o?at_medium=RSS&at_campaign=rss",
+    "id_key": "65f70aceb7b4556a38a29f6bf62ab5a8372fb1c536320e3f25f723644b462ef8",
+    "summary": "The remains, which Hamas and Palestinian Islamic Jihad say were found in northern Gaza, will be taken to Tel Aviv for forensic tests.",
+    "ingested_utc": "2025-12-04T05:35:10Z"
+  },
+  {
+    "published_utc": "2025-12-04",
+    "retrieved_date": "2025-12-04",
     "retrieved_utc": "2025-12-04T05:15:46Z",
     "source": "FT_Markets",
     "title": "The UK stock market concentration problem",
@@ -702,6 +746,17 @@
     "id_key": "f0eca075b573bc0fe99b01ab1424a9a4d6b549d4266a82bd521f3dc5d048e713",
     "summary": "Chancellor Rachel Reeves has given her \"full support\" to a review of security processes around the lead-up to the Budget.",
     "ingested_utc": "2025-12-04T00:55:26Z"
+  },
+  {
+    "published_utc": "2025-12-03",
+    "retrieved_date": "2025-12-04",
+    "retrieved_utc": "2025-12-04T05:38:08Z",
+    "source": "AlJazeera_All",
+    "title": "Ghislaine Maxwell to seek release from prison: Court filing",
+    "url": "https://www.aljazeera.com/news/2025/12/3/ghislaine-maxwell-to-seek-release-from-prison-court-filing?traffic_source=rss",
+    "id_key": "94a5411925d051aea7d36a9a2fc58ece68c4d803ad84cf2c6e569b0e150fb156",
+    "summary": "Her petition comes after President Donald Trump signed law requiring the release of records related to Jeffrey Epstein.",
+    "ingested_utc": "2025-12-04T05:38:08Z"
   },
   {
     "published_utc": "2025-12-03",
@@ -10943,60 +10998,5 @@
     "id_key": "59c3c70573ff484431b29fde64a88145e1a1f9202699e38a57308dec4e1dff8f",
     "summary": "Defense secretary shares anecdote in The War on Warriors and rails against ‘rules and regulations’ governing war Pete Hegseth, the US defense secretary, told soldiers under his command in Iraq to ignore legal advice about when they were permitted to kill enemy combatants under their rules of engagement. The anecdote is contained in a book Hegseth wrote last year in which he also repeatedly railed against the constraints placed on “American warfighters” by the laws of war and the Geneva conventions. Continue reading...",
     "ingested_utc": "2025-12-02T13:48:24Z"
-  },
-  {
-    "published_utc": "2025-12-02",
-    "retrieved_date": "2025-12-02",
-    "retrieved_utc": "2025-12-02T13:48:24Z",
-    "source": "Guardian_World",
-    "title": "New York City bill aims to ban toxic ‘forever chemicals’ in firefighting gear",
-    "url": "https://www.theguardian.com/us-news/2025/dec/02/nyc-firefighters-pfas-forever-chemicals-bill",
-    "id_key": "bbf1e6b3409fdf0fb3c7fbe4ec3a9e5e9f6a5f971d3b99b617afb62099ba9c67",
-    "summary": "Approval of legislation to ban Pfas would be major win for advocates pushing for safer gear alternatives across US A new bill proposed in the New York city council would ban the use of toxic Pfas “forever chemicals” in protective gear worn by the city’s 11,000 firefighters. The New York fire department is the nation’s largest firefighting force, and approval of the legislation would mark a major win for advocates who are pushing for safer “turnout gear” alternatives across the US. Massachusetts and Connecticut last year became the first states to ban the use of Pfas in turnout gear, and Illinois enacted a ban this year. Continue reading...",
-    "ingested_utc": "2025-12-02T13:48:24Z"
-  },
-  {
-    "published_utc": "2025-12-02",
-    "retrieved_date": "2025-12-02",
-    "retrieved_utc": "2025-12-02T13:13:09Z",
-    "source": "FinancialPost_Business",
-    "title": "Europe Is Nearing Deal to End Russian Fossil Fuels Imports",
-    "url": "https://financialpost.com/pmn/business-pmn/europe-is-nearing-deal-to-end-russian-fossil-fuels-imports",
-    "id_key": "e878a63419eee07b1129725456b383930345e5d8df6f78611aaa676b7413c9cb",
-    "summary": "The European Union is closing in on a deal to phase out Russian fossil fuels, a move that will embed into law the end of the bloc’s reliance on its former top energy supplier.",
-    "ingested_utc": "2025-12-02T13:13:09Z"
-  },
-  {
-    "published_utc": "2025-12-02",
-    "retrieved_date": "2025-12-02",
-    "retrieved_utc": "2025-12-02T13:13:09Z",
-    "source": "FinancialPost_Business",
-    "title": "Laurentian Bank announces split sale to Fairstone Bank and National Bank",
-    "url": "https://financialpost.com/pmn/laurentian-bank-announces-split-sale-to-fairstone-bank-and-national-bank",
-    "id_key": "0d59c4957741959c3314009ba71fff67a17a7b26c3ec3ad948c11df0bf50e5bd",
-    "summary": "MONTREAL — Laurentian Bank is being split up and sold, its commercial operations going to Fairstone Bank of Canada in a $1.9 billion deal while National Bank is buying the retail and small business segment for roughly book value. The deal is the culmination of years of struggles at the more than 175-year-old bank to […]",
-    "ingested_utc": "2025-12-02T13:13:09Z"
-  },
-  {
-    "published_utc": "2025-12-02",
-    "retrieved_date": "2025-12-02",
-    "retrieved_utc": "2025-12-02T13:13:09Z",
-    "source": "FinancialPost_Business",
-    "title": "Liberty Announces up to $5.2m Life Financing",
-    "url": "https://financialpost.com/globe-newswire/liberty-announces-up-to-5-2m-life-financing",
-    "id_key": "404492eef9d7fb490a66935fc391447e20cf330fd561fcdd94408fb75ae3c075",
-    "summary": "NOT FOR DISTRIBUTION TO U.S. NEWSWIRES OR DISSEMINATION IN THE UNITED STATES WILMINGTON, Mass., Dec. 02, 2025 (GLOBE NEWSWIRE) — Liberty Defense Holdings Ltd. (“Liberty” or the “Company”) (TSXV: SCAN, OTCQB: LDDFF, FSE:E30), a leading technology provider of AI-based next generation detection solutions for concealed weapons and threats, is pleased to announce that it is […]",
-    "ingested_utc": "2025-12-02T13:13:09Z"
-  },
-  {
-    "published_utc": "2025-12-02",
-    "retrieved_date": "2025-12-02",
-    "retrieved_utc": "2025-12-02T13:13:09Z",
-    "source": "FinancialPost_Business",
-    "title": "Rocscience Completes Acquisition of Aquanty to Strengthen Leadership in Water Resources and Hydroclimate Analytics",
-    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/rocscience-completes-acquisition-of-aquanty-to-strengthen-leadership-in-water-resources-and-hydroclimate-analytics",
-    "id_key": "aa13932844de125850c2911993c24528efbac8a9191bd694df52205a9b63c425",
-    "summary": "TORONTO — Rocscience, a global leader in geotechnical and engineering software solutions, proudly announces the successful completion of its acquisition of Aquanty Inc., a pioneering Canadian water science and technology firm specializing in cutting-edge hydrogeological computer modelling software and services across a broad range of industrial sectors. Aquanty’s flagship product, HydroGeoSphere, is a fully integrated […]",
-    "ingested_utc": "2025-12-02T13:13:09Z"
   }
 ]
