@@ -2,6 +2,116 @@
   {
     "published_utc": "2025-12-05",
     "retrieved_date": "2025-12-05",
+    "retrieved_utc": "2025-12-05T03:46:17Z",
+    "source": "Nikkei_Asia_Top",
+    "title": "Philippine coconut farmers remain downbeat despite US tariff reprieve",
+    "url": "https://asia.nikkei.com/economy/trade-war/trump-tariffs/philippine-coconut-farmers-remain-downbeat-despite-us-tariff-reprieve",
+    "id_key": "9fa256cf7c9feacf13f14cea4232234ea931b4b4bae7dae0a15822faceb5610d",
+    "summary": "",
+    "ingested_utc": "2025-12-05T03:46:17Z"
+  },
+  {
+    "published_utc": "2025-12-05",
+    "retrieved_date": "2025-12-05",
+    "retrieved_utc": "2025-12-05T03:46:15Z",
+    "source": "FinancialPost_Business",
+    "title": "Slower Philippines Inflation Supports Another Rate Cut",
+    "url": "https://financialpost.com/pmn/business-pmn/slower-philippines-inflation-supports-another-rate-cut",
+    "id_key": "7897c9a0227edca09f85e4ade8753e66e55a35ac71dfc8666fb85bbb6598fbc4",
+    "summary": "Philippine inflation slowed in November, supporting another cut in the central bank’s benchmark interest rate next week as a graft scandal hits consumer and investor confidence.",
+    "ingested_utc": "2025-12-05T03:46:15Z"
+  },
+  {
+    "published_utc": "2025-12-05",
+    "retrieved_date": "2025-12-05",
+    "retrieved_utc": "2025-12-05T03:45:37Z",
+    "source": "NPR_Top",
+    "title": "Grand jury rejects new mortgage fraud indictment against New York Attorney General Letitia James",
+    "url": "https://www.npr.org/2025/12/04/nx-s1-5634017/grand-jury-rejects-new-mortgage-fraud-indictment-against-new-york-attorney-general-letitia-james",
+    "id_key": "b00b0ad2fcbd4ef852a0117c3d66232a7bb6680e2d69cdfc099977e9beda3fe5",
+    "summary": "Thursday's failed indictment against James is the latest setback for the Justice Department in its bid to prosecute the frequent political target of the Republican president.",
+    "ingested_utc": "2025-12-05T03:45:37Z"
+  },
+  {
+    "published_utc": "2025-12-05",
+    "retrieved_date": "2025-12-05",
+    "retrieved_utc": "2025-12-05T03:44:47Z",
+    "source": "Arbitrum_Nitro_Releases",
+    "title": "Arbitrum Nitro v3.9.4-rc.2",
+    "url": "https://github.com/OffchainLabs/nitro/releases/tag/v3.9.4-rc.2",
+    "id_key": "cc4e92d5e7581cbd4a4be2918ab3d0f2674c14d31a482116599355d89f776e1d",
+    "summary": "Nitro v3.9.4 is an optional release, only minor updates on top of v3.9.3 . This release is available as a Docker Image on Docker Hub at offchainlabs/nitro-node:v3.9.4-rc.2-7f582c3 This Docker image specifies default flags in its entrypoint which should be replicated if you're overriding the entrypoint: /usr/local/bin/nitro --validation.wasm.allowed-wasm-module-roots /home/user/nitro-legacy/machines,/home/user/target/machines Important for any chains still on ArbOS40: If you're running a validator without a split validation server (this will be true of most validators), you should instead use the image offchainlabs/nitro-node:v3.9.4-rc.2-7f582c3-validator which has the extra script /usr/local/bin/split-val-entry.sh as the entrypoint (no need to override the default entrypoint). Configuration Changes --node.batch-poster.data-poster.enable-cell-proofs has been removed --parent-chain.blob-client.use-legacy-endpoint has been removed What's Changed Fix to store blobs locally post fusaka, and add disk reader that can use locally stored blobs. Also, remove legacy blob functionality that is no longer needed now that Fusaka is live. User-facing Changes Remove legacy blob support, store blobs locally: #4113 Full Changelog : v3.9.4-rc.1...v3.9.4-rc.2",
+    "ingested_utc": "2025-12-05T03:44:47Z"
+  },
+  {
+    "published_utc": "2025-12-05",
+    "retrieved_date": "2025-12-05",
+    "retrieved_utc": "2025-12-05T03:43:41Z",
+    "source": "CryptoNews",
+    "title": "Asia Market Open: Bitcoin Holds Near $92k, Equities Slip On Fresh Economic Signals",
+    "url": "https://cryptonews.com/news/bitcoin-price-92k-equities-slip-fresh-economic-signals-asia-market-open/",
+    "id_key": "062c80ed6c48deff01067c968551083203dab80ada3ddea5ea12a29b7f89da3b",
+    "summary": "Bitcoin hovered just below $92,000 as resilient whale buying and rising odds of a Fed rate cut kept bullish bets alive despite mixed global market signals. The post Asia Market Open: Bitcoin Holds Near $92k, Equities Slip On Fresh Economic Signals appeared first on Cryptonews .",
+    "ingested_utc": "2025-12-05T03:43:41Z"
+  },
+  {
+    "published_utc": "2025-12-05",
+    "retrieved_date": "2025-12-05",
+    "retrieved_utc": "2025-12-05T03:43:38Z",
+    "source": "CryptoBriefing",
+    "title": "Tom Lee’s BitMine may have scooped up another 41,946 ETH",
+    "url": "https://cryptobriefing.com/bitmine-ethereum-acquisition-moves/",
+    "id_key": "a66f1c9679d72f2724da531170a27b4fb8ceec487288d75dc1e1a602b3001d11",
+    "summary": "BitMine's aggressive ETH acquisition strategy could significantly influence Ethereum's market dynamics and its role in future financial systems. The post Tom Lee’s BitMine may have scooped up another 41,946 ETH appeared first on Crypto Briefing .",
+    "ingested_utc": "2025-12-05T03:43:38Z"
+  },
+  {
+    "published_utc": "2025-12-05",
+    "retrieved_date": "2025-12-05",
+    "retrieved_utc": "2025-12-05T03:43:20Z",
+    "source": "Guardian_World",
+    "title": "Supreme court allows Texas to use new congressional map favoring Republicans in 2026 elections – as it happened",
+    "url": "https://www.theguardian.com/us-news/live/2025/dec/04/us-politics-live-donald-trump-latest-news-updates-democrats-republicans",
+    "id_key": "39d4fa874ed4c772e3b9872a0a17315e1995f008265f67bc6028632ef32d9957",
+    "summary": "This live blog is now closed. Trump news at a glance: US supreme court gives Texas win in national redistricting battle Among the beneficiaries of Donald Trump ’s pardons and commutations, there is a group that legal experts and political scientists see as some of the clearest evidence of how such actions undermine the rule of law: those who were released from prison and again arrested for different alleged crimes . During his first term, Trump issued 237 acts of clemency – including to someone who was a predatory lender and drug smuggler and to another who ran a Ponzi scheme. Since taking office again, Trump has issued more than 1,600, most for people involved in the January 6 attack on Congress. Continue reading...",
+    "ingested_utc": "2025-12-05T03:43:20Z"
+  },
+  {
+    "published_utc": "2025-12-05",
+    "retrieved_date": "2025-12-05",
+    "retrieved_utc": "2025-12-05T03:43:19Z",
+    "source": "Guardian_World",
+    "title": "Patient police say they have recovered Fabergé pendant from man accused of swallowing it",
+    "url": "https://www.theguardian.com/world/2025/dec/05/police-say-recovered-faberge-pendant-after-new-zealand-man-allegedly-swallowed-it",
+    "id_key": "dd0a78d9067c54a249a02d4ac9e093f8c68fa3cc1c116c1c9431e59aeacbc09e",
+    "summary": "Six days after alleged incident, evidence emerges without requiring medical intervention, New Zealand police say Police say they have recovered a Fabergé egg pendant from a man accused of swallowing the item in a jewellery story. New Zealand police have spent six days monitoring every bowel movement of the suspect, a spokesperson said, and the NZ$33,000 ($19,000) James Bond Octopussy pendant was recovered from his gastrointestinal tract on Thursday night by natural means, without requiring medical intervention. Continue reading...",
+    "ingested_utc": "2025-12-05T03:43:19Z"
+  },
+  {
+    "published_utc": "2025-12-05",
+    "retrieved_date": "2025-12-05",
+    "retrieved_utc": "2025-12-05T03:43:19Z",
+    "source": "Guardian_World",
+    "title": "Australia news live: SA Liberal leader Vincent Tarzia steps down; emergency warning for bushfire near Dubbo",
+    "url": "https://www.theguardian.com/australia-news/live/2025/dec/05/australia-news-live-skydivers-strike-aukus-review-anika-wells-travel-social-media-age-ban-coalition-labor-ntwnfb",
+    "id_key": "37692127c3e67e63427a2cf033e6745d74f7d878e8c61b49486d80e6a4facd9b",
+    "summary": "Meanwhile Tasmania’s Dolphin Sands and surrounding areas remain a bushfire watch and act area. Follow today’s news live Get our breaking news email , free app or daily news podcast The Victorian government’s controversial “adult time for violent crime” bill has passed parliament without amendment. The bill, which will move serious crimes committed by children as young as 14 from the children’s court to adult courts, passed at about 6pm on Thursday with the support of the Coalition. I’m pleased these laws can now be put in place as soon as possible to protect Victorians. There are no easy solutions to youth crime, and the best approach is always to stop crime before it starts. But we absolutely need serious consequences for violent youth crime to protect the community now. Continue reading...",
+    "ingested_utc": "2025-12-05T03:43:19Z"
+  },
+  {
+    "published_utc": "2025-12-05",
+    "retrieved_date": "2025-12-05",
+    "retrieved_utc": "2025-12-05T03:43:19Z",
+    "source": "Guardian_World",
+    "title": "Man from high-profile Melbourne family found guilty of raping woman while pretending to be her boyfriend",
+    "url": "https://www.theguardian.com/australia-news/2025/dec/05/high-profile-man-melbourne-guilty-raping-woman-pretending-boyfriend-ntwnfb",
+    "id_key": "70e5be7b9aebf959357481c99bce84172fcdef48802e7f60f4b799776bb0df58",
+    "summary": "Jurors return verdicts on two rape charges in Victorian trial of man who cannot be identified for legal reasons Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast A man from a high-profile family has been found guilty of raping a woman inside his own home. The man, who cannot be identified for legal reasons, denied the two rape charges and took the case to trial in the Victorian county court. Continue reading...",
+    "ingested_utc": "2025-12-05T03:43:19Z"
+  },
+  {
+    "published_utc": "2025-12-05",
+    "retrieved_date": "2025-12-05",
     "retrieved_utc": "2025-12-05T02:48:09Z",
     "source": "HackerNews_Top",
     "title": "The Ofcom Files, Part 4: Ofcom Rides Again",
@@ -10888,115 +10998,5 @@
     "id_key": "e0a741a932d5ba3eb11fa55e0956a55253bfac6276d319578ce9935233d039a5",
     "summary": "This article has been disseminated on behalf of MAX Power Mining Corp. and may include a paid advertisement. AUSTIN, Texas, Dec. 03, 2025 (GLOBE NEWSWIRE) — MiningNewsWire: Global electricity demand is reaching a pivotal turning point. The International Energy Agency (IEA) now projects that global data-center electricity use will almost double by 2030, with AI-focused facilities […]",
     "ingested_utc": "2025-12-03T13:50:56Z"
-  },
-  {
-    "published_utc": "2025-12-03",
-    "retrieved_date": "2025-12-03",
-    "retrieved_utc": "2025-12-03T13:50:56Z",
-    "source": "FinancialPost_Business",
-    "title": "Identity Becomes the Prime Target for Cybercriminals: Regula Highlights Five Incidents That Shaped 2025’s Threat Landscape",
-    "url": "https://financialpost.com/globe-newswire/identity-becomes-the-prime-target-for-cybercriminals-regula-highlights-five-incidents-that-shaped-2025s-threat-landscape",
-    "id_key": "b0f653b03cc30131a6db60457df6d98f49897af194e245fc66a2a42b473c3e2c",
-    "summary": "RESTON, Va., Dec. 03, 2025 (GLOBE NEWSWIRE) — Regula, a global developer of identity verification (IDV) solutions and forensic devices, has released an analysis of five major 2025 cyber incidents showing a clear shift: identity data — from ID photos and biometrics to login credentials — is becoming the main target for attackers. The cases — […]",
-    "ingested_utc": "2025-12-03T13:50:56Z"
-  },
-  {
-    "published_utc": "2025-12-03",
-    "retrieved_date": "2025-12-03",
-    "retrieved_utc": "2025-12-03T13:50:56Z",
-    "source": "FinancialPost_Business",
-    "title": "Soligenix Inc. (NASDAQ: SNGX) Innovative Platform Provides Novel Treatment for Underserved CTCL Space",
-    "url": "https://financialpost.com/globe-newswire/soligenix-inc-nasdaq-sngx-innovative-platform-provides-novel-treatment-for-underserved-ctcl-space",
-    "id_key": "1516885b01446377830f1dde834197f7fabc12db440997707587f42e35d82217",
-    "summary": "NEW YORK, Dec. 03, 2025 (GLOBE NEWSWIRE) — via BioMedWire: — Soligenix Inc. (NASDAQ: SNGX) today announces its placement in an editorial published by BioMedWire (“BMW”), one of 75+ brands within the Dynamic Brand Portfolio@IBN (InvestorBrandNetwork), a specialized communications platform with a focus on financial news and content distribution for private and public companies and the investment community. […]",
-    "ingested_utc": "2025-12-03T13:50:56Z"
-  },
-  {
-    "published_utc": "2025-12-03",
-    "retrieved_date": "2025-12-03",
-    "retrieved_utc": "2025-12-03T13:50:56Z",
-    "source": "FinancialPost_Business",
-    "title": "Versus Systems to Collaborate with LiftMedia to Launch Audience-Enhancing Digital Out-of-Home Experiences Across Key Markets",
-    "url": "https://financialpost.com/globe-newswire/versus-systems-to-collaborate-with-liftmedia-to-launch-audience-enhancing-digital-out-of-home-experiences-across-key-markets",
-    "id_key": "98ace0c82eb20a4cf2329dc0dc72da1faca3cd36ce439cfc9d708937d1843e0a",
-    "summary": "MIAMI, Dec. 03, 2025 (GLOBE NEWSWIRE) — Versus Systems Inc. (“Versus” or the “Company”) (Nasdaq: VS) today announced a new initiative with LiftMedia LDA., to leverage Versus Systems’ proprietary interactive engagement tools within Digital Out-of-Home (DOOH) screen environments to monetize user interaction, generate audience engagement, and increase customer participation across key markets in the Iberian […]",
-    "ingested_utc": "2025-12-03T13:50:56Z"
-  },
-  {
-    "published_utc": "2025-12-03",
-    "retrieved_date": "2025-12-03",
-    "retrieved_utc": "2025-12-03T13:50:56Z",
-    "source": "FinancialPost_Business",
-    "title": "Xenon Announces Investor Webinar Highlighting Azetukalner and Epilepsy Data from AES 2025",
-    "url": "https://financialpost.com/globe-newswire/xenon-announces-investor-webinar-highlighting-azetukalner-and-epilepsy-data-from-aes-2025",
-    "id_key": "2f2c168c32cd2c1bc06c1808c27b4a61ff405f6895081f0331cd545f492e888e",
-    "summary": "VANCOUVER, British Columbia and BOSTON, Dec. 03, 2025 (GLOBE NEWSWIRE) — Xenon Pharmaceuticals Inc. (Nasdaq: XENE), a neuroscience-focused biopharmaceutical company dedicated to drug discovery, clinical development and commercialization of life-changing therapeutics for patients in need, today announced that the company will host an investor webinar focused on its data presentations at the American Epilepsy Society […]",
-    "ingested_utc": "2025-12-03T13:50:56Z"
-  },
-  {
-    "published_utc": "2025-12-03",
-    "retrieved_date": "2025-12-03",
-    "retrieved_utc": "2025-12-03T13:50:56Z",
-    "source": "FinancialPost_Business",
-    "title": "Qualus Acquires Transmission and Distribution Engineering Subsidiary of Mammoth Energy",
-    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/qualus-acquires-transmission-and-distribution-engineering-subsidiary-of-mammoth-energy",
-    "id_key": "faed97ff6f2d89866f1c19e92893cdba7813d692081b3ddb72822dba5115c3e2",
-    "summary": "ORLANDO, Fla. — Qualus Corporation (“Qualus”), a leading pure-play power solutions firm and innovator at the forefront of power infrastructure transformation, announced it has acquired Aquawolf, the transmission and distribution engineering subsidiary of Mammoth Energy focused on high-voltage transmission infrastructure. This acquisition adds to Qualus’ strong transmission and distribution engineering expertise with new offices in […]",
-    "ingested_utc": "2025-12-03T13:50:56Z"
-  },
-  {
-    "published_utc": "2025-12-03",
-    "retrieved_date": "2025-12-03",
-    "retrieved_utc": "2025-12-03T13:50:56Z",
-    "source": "FinancialPost_Business",
-    "title": "Ryan Specialty Completes Acquisition of Canadian MGU Stewart Specialty Risk Underwriting",
-    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/ryan-specialty-completes-acquisition-of-canadian-mgu-stewart-specialty-risk-underwriting",
-    "id_key": "b827a6473634631e07bf22154209e6ec6b8ddf6b24a44026d9436600bda3fa2d",
-    "summary": "CHICAGO — Ryan Specialty (NYSE: RYAN) (“Ryan Specialty”), a leading international specialty insurance firm, is pleased to announce that it has completed the acquisition of Stewart Specialty Risk Underwriting Ltd. (“SSRU”). SSRU is a managing general underwriter (“MGU”) based in Toronto, Canada specializing in underwriting large-account, high-hazard property and casualty solutions. SSRU is a part […]",
-    "ingested_utc": "2025-12-03T13:50:56Z"
-  },
-  {
-    "published_utc": "2025-12-03",
-    "retrieved_date": "2025-12-03",
-    "retrieved_utc": "2025-12-03T13:50:50Z",
-    "source": "AlJazeera_All",
-    "title": "Street sports help Palestinians cope with trauma",
-    "url": "https://www.aljazeera.com/video/newsfeed/2025/12/3/street-sports-help-palestinians-cope-with-trauma?traffic_source=rss",
-    "id_key": "aacfc4d7d472b01fe46238f84657e786a65378deefce72c44a7967b9d21e276a",
-    "summary": "Israel's devastating war has stopped most sports in Gaza, but Al Jazeera's Tareq Abu Azzoum shows us a volleyball game.",
-    "ingested_utc": "2025-12-03T13:50:50Z"
-  },
-  {
-    "published_utc": "2025-12-03",
-    "retrieved_date": "2025-12-03",
-    "retrieved_utc": "2025-12-03T13:50:50Z",
-    "source": "AlJazeera_All",
-    "title": "Bomb kills three Pakistani police officers close to Afghan border",
-    "url": "https://www.aljazeera.com/news/2025/12/3/bomb-kills-three-pakistani-police-officers-close-to-afghan-border?traffic_source=rss",
-    "id_key": "db1e082edc978c0b4438d440c2005f56401a300b0959ca0c746bd5cbc8020b52",
-    "summary": "Blast comes a day after an attack claimed by the Pakistan Taliban, amid surging tensions with Kabul over the group.",
-    "ingested_utc": "2025-12-03T13:50:50Z"
-  },
-  {
-    "published_utc": "2025-12-03",
-    "retrieved_date": "2025-12-03",
-    "retrieved_utc": "2025-12-03T13:50:50Z",
-    "source": "AlJazeera_All",
-    "title": "Lebanon and Israel talks raise hope of more robust, expanded truce",
-    "url": "https://www.aljazeera.com/news/2025/12/3/lebanon-and-israel-talks-raise-hope-of-more-robust-expanded-truce?traffic_source=rss",
-    "id_key": "fef7a448753215e8c5b57cc5c01d176f88ab0b7557ce3aed9f150494a393daf9",
-    "summary": "Israeli PM's office said talks are an initial bid 'to establish a basis for a relationship and economic cooperation'.",
-    "ingested_utc": "2025-12-03T13:50:50Z"
-  },
-  {
-    "published_utc": "2025-12-03",
-    "retrieved_date": "2025-12-03",
-    "retrieved_utc": "2025-12-03T13:50:49Z",
-    "source": "TheStreet_Top",
-    "title": "A major airport is cracking down on anyone dropping off travelers by car",
-    "url": "https://www.thestreet.com/travel/a-major-airport-is-cracking-down-on-anyone-dropping-off-travelers-by-car",
-    "id_key": "1ac8650a46d26cabf88bafa87cc0925d52c79526185c129742bab3cdd1dc3e9f",
-    "summary": "Even though the Brexit withdrawal of the United Kingdom from the European Union was officially finalized in 2021, London Heathrow Airport (LHR) is still officially considered the busiest airport in Europe, as a major hub for both transatlantic travel and flights across the continent. The 83.9 ...",
-    "ingested_utc": "2025-12-03T13:50:49Z"
   }
 ]
