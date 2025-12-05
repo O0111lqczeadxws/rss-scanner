@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-12-05",
     "retrieved_date": "2025-12-05",
+    "retrieved_utc": "2025-12-05T04:58:08Z",
+    "source": "HackerNews_Top",
+    "title": "Fast trigram based code search",
+    "url": "https://github.com/sourcegraph/zoekt",
+    "id_key": "3e2ee028abde4620f421da51e24133c4a33d1855de321f946255e35b80a10ac5",
+    "summary": "Comments",
+    "ingested_utc": "2025-12-05T04:58:08Z"
+  },
+  {
+    "published_utc": "2025-12-05",
+    "retrieved_date": "2025-12-05",
+    "retrieved_utc": "2025-12-05T04:57:08Z",
+    "source": "NYTimes_World",
+    "title": "Deadly Attacks in Gaza Test Cease-Fire as Body of Another Captive Is Returned",
+    "url": "https://www.nytimes.com/2025/12/04/world/middleeast/gaza-strikes-ceasefire.html",
+    "id_key": "db27d15db563c11a956049b2bb5c0c141ff14c88c02d0b1069777f23c36d7606",
+    "summary": "Israel launched a military strike after it said Hamas militants attacked its soldiers, the latest clashes in the two months since a truce was signed.",
+    "ingested_utc": "2025-12-05T04:57:08Z"
+  },
+  {
+    "published_utc": "2025-12-05",
+    "retrieved_date": "2025-12-05",
+    "retrieved_utc": "2025-12-05T04:55:12Z",
+    "source": "CryptoNews",
+    "title": "[LIVE] Crypto News Today: Latest Updates for Dec. 05, 2025 – Bitcoin Trades Below $93K as PayFi and DeFi Lead Market Declines",
+    "url": "https://cryptonews.com/news/live-crypto-news-today-latest-updates-for-dec-05-2025-bitcoin-breaks-under-93k-as-payfi-and-defi-lead-market-declines/",
+    "id_key": "f04fd3c9810e647a610e31aa0f88084c46038d94364c09987dea384d3e70a409",
+    "summary": "Follow up to the hour updates on what is happening in crypto today, December 05. Market movements, crypto news, and more! The post [LIVE] Crypto News Today: Latest Updates for Dec. 05, 2025 – Bitcoin Trades Below $93K as PayFi and DeFi Lead Market Declines appeared first on Cryptonews .",
+    "ingested_utc": "2025-12-05T04:55:12Z"
+  },
+  {
+    "published_utc": "2025-12-05",
+    "retrieved_date": "2025-12-05",
     "retrieved_utc": "2025-12-05T04:44:26Z",
     "source": "Nikkei_Asia_Top",
     "title": "India delivers rate cut despite rupee weakness and resilient growth",
@@ -10965,38 +10998,5 @@
     "id_key": "259b2f2bc558523764e44978a62dbfae393633130bb276481a98e0b49a2b33dd",
     "summary": "Superhuman, the AI-powered mail app, is heading in a more agentic direction with its latest update. Its \"write with AI\" feature, which you could previously activate when drafting an email, now works across your inbox, calendar, and the web. This means it can now pull in information from other emails or research a topic online. The AI will think for as long as it needs before responding to a prompt and will open its Ask AI tool if it needs clarification. Ask AI now lives in a left sidebar when you’re on desktop, so it’s always accessible should you need to draft a note, ask a question or quickly schedule a meeting without digging around in your emails. You can also now check your Ask AI history on iOS and desktop for previous conversations. Write with AI is also now available on Android, which will soon gain the other new features too. Superhuman Superhuman was acquired by Grammarly earlier this year, with the latter recently rebranding so all of its AI apps now sit under the Superhuman umbrella. The mail service is seemingly primarily targeted at business rather than consumers, with its most advanced version of Write with AI and Ask AI being included in Business and Enterprise plans. The more basic standard version of Write with AI is rolled into the Starter plan for desktop and mobile. Superman is promising further agentic updates in the near future. This article originally appeared on Engadget at https://www.engadget.com/ai/superhuman-formerly-grammarly-has-some-ai-updates-for-its-superhuman-mail-app-140017716.html?src=rss",
     "ingested_utc": "2025-12-03T14:16:05Z"
-  },
-  {
-    "published_utc": "2025-12-03",
-    "retrieved_date": "2025-12-03",
-    "retrieved_utc": "2025-12-03T14:16:02Z",
-    "source": "TechCrunch_All",
-    "title": "Autolane is building ‘air traffic control’ for autonomous vehicles",
-    "url": "https://techcrunch.com/2025/12/03/autolane-is-building-air-traffic-control-for-autonomous-vehicles/",
-    "id_key": "dba35f5f581997800d843097087227eb40ac9a200fd5a80532e160890a9782f9",
-    "summary": "And the Palo Alto-based startup has raised $7.4 million to do that.",
-    "ingested_utc": "2025-12-03T14:16:02Z"
-  },
-  {
-    "published_utc": "2025-12-03",
-    "retrieved_date": "2025-12-03",
-    "retrieved_utc": "2025-12-03T14:16:01Z",
-    "source": "TheVerge_All",
-    "title": "India&#8217;s government backs down after Apple refuses order to preinstall app",
-    "url": "https://www.theverge.com/news/837209/india-sanchar-saathi-app-requirement-dropped",
-    "id_key": "c6613a89229c89c51e929641d851f5bab4c8f4fd0f900aaf94ab7bf26cced04f",
-    "summary": "India’s government retreated less than a week after sending a private order to smartphone manufacturers instructing them to preload a state-backed app on all phones in the region. The reversal comes after industry sources told Reuters that Apple planned to refuse to comply with the order. Sanchar Saathi is a security app operated by India’s […]",
-    "ingested_utc": "2025-12-03T14:16:01Z"
-  },
-  {
-    "published_utc": "2025-12-03",
-    "retrieved_date": "2025-12-03",
-    "retrieved_utc": "2025-12-03T14:16:01Z",
-    "source": "TheVerge_All",
-    "title": "This keyboard and trackball combo are for the tinkerers",
-    "url": "https://www.theverge.com/tech/819894/zsa-voyager-keyboard-navigator-trackball-mechanical-ergonomic",
-    "id_key": "cb9618bed890575c58bc4e6610276e65e8c8895f28edd34e1c960d58368f7f57",
-    "summary": "Do you love to tinker with your keyboard layout? Do you love trackballs and think that one that attaches magnetically to your keyboard would be the coolest thing ever? Are you willing to completely blow up your setup in pursuit of possibly huge - or possibly marginal - gains in comfort or efficiency? Then I […]",
-    "ingested_utc": "2025-12-03T14:16:01Z"
   }
 ]
