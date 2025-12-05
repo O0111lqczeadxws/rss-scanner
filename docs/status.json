@@ -1,7 +1,7 @@
 {
-  "started_utc": "2025-12-05T20:13:42Z",
-  "ended_utc": "2025-12-05T20:17:17Z",
-  "new_items_this_run": 11,
+  "started_utc": "2025-12-05T20:35:41Z",
+  "ended_utc": "2025-12-05T20:39:09Z",
+  "new_items_this_run": 8,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
@@ -18,8 +18,8 @@
     "MarketWatch_Top": 0,
     "MarketWatch_MarketPulse": 0,
     "Blockworks": 0,
-    "BitcoinMagazine": 1,
-    "CryptoSlate": 0,
+    "BitcoinMagazine": 0,
+    "CryptoSlate": 1,
     "CryptoBriefing": 0,
     "Protos": 0,
     "CryptoNews": 0,
@@ -45,7 +45,7 @@
     "Tether_Blog": 0,
     "MetaMask_Blog": 0,
     "Erigon_Releases": 0,
-    "Nethermind_Releases": 1,
+    "Nethermind_Releases": 0,
     "Lighthouse_Releases": 0,
     "Teku_Releases": 0,
     "Besu_Releases": 0,
@@ -54,7 +54,7 @@
     "PolygonEdge_Releases": 0,
     "CardanoNode_Releases": 0,
     "MarketWatch_RealTime": 0,
-    "MarketWatch_Bulletins": 0,
+    "MarketWatch_Bulletins": 1,
     "MarketWatch_PersonalFinance": 0,
     "NYTimes_Business": 0,
     "NYTimes_World": 0,
@@ -74,14 +74,14 @@
     "TechCrunch_All": 0,
     "ArsTechnica_All": 0,
     "WIRED_All": 0,
-    "Engadget_All": 0,
+    "Engadget_All": 2,
     "TheEconomist_Business": 0,
     "TheEconomist_Finance": 0,
     "Investopedia_Latest": 0,
-    "TheStreet_Top": 1,
+    "TheStreet_Top": 2,
     "AlJazeera_All": 0,
     "AlJazeera_Economy": 0,
-    "FinancialPost_Business": 6,
+    "FinancialPost_Business": 0,
     "CBC_Business": 0,
     "Nikkei_Asia_Top": 0,
     "WorldBank_News": 0,
@@ -131,16 +131,8 @@
       "error": "fatal parse failure"
     },
     {
-      "source": "https://unchainedcrypto.com/feed/",
-      "error": "fetch error: HTTP 415"
-    },
-    {
-      "source": "Unchained",
-      "error": "fatal parse failure"
-    },
-    {
       "source": "https://www.bankless.com/rss",
-      "error": "fetch error: HTTP 415"
+      "error": "fetch error: HTTP 404"
     },
     {
       "source": "Bankless",
@@ -200,7 +192,7 @@
     },
     {
       "source": "Gemini_Blog",
-      "error": "<unknown>:453:1774152: junk after document element"
+      "error": "<unknown>:453:1774524: junk after document element"
     },
     {
       "source": "https://www.circle.com/blog/rss.xml",
@@ -347,19 +339,19 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 563,
+    "passed_keywords": 568,
     "passed_allowlist": 0,
-    "failed_all_filters": 490
+    "failed_all_filters": 496
   },
   "stats": {
     "feeds_total": 97,
-    "feeds_error": 25,
+    "feeds_error": 24,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 1548,
-    "too_old": 495,
+    "entries_seen": 1560,
+    "too_old": 496,
     "dup_title_url": 97,
-    "dup_id": 455
+    "dup_id": 463
   },
   "limits": {
     "skip_older_days": 10,
@@ -372,6 +364,6 @@
   },
   "processed": {
     "file": "data/processed/2025-12-05.jsonl",
-    "appended_new": 8
+    "appended_new": 6
   }
 }
