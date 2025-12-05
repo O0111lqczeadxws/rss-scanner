@@ -1,7 +1,7 @@
 {
-  "started_utc": "2025-12-05T23:39:13Z",
-  "ended_utc": "2025-12-05T23:42:40Z",
-  "new_items_this_run": 4,
+  "started_utc": "2025-12-05T23:47:38Z",
+  "ended_utc": "2025-12-05T23:51:12Z",
+  "new_items_this_run": 0,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
@@ -22,7 +22,7 @@
     "CryptoSlate": 0,
     "CryptoBriefing": 0,
     "Protos": 0,
-    "CryptoNews": 1,
+    "CryptoNews": 0,
     "CoinJournal": 0,
     "Unchained": 0,
     "Bankless": 0,
@@ -66,7 +66,7 @@
     "NPR_Economy": 0,
     "NPR_World": 0,
     "NPR_Technology": 0,
-    "FT_Home": 1,
+    "FT_Home": 0,
     "FT_Markets": 0,
     "CNBC_Top": 0,
     "CNBC_Markets": 0,
@@ -81,13 +81,13 @@
     "TheStreet_Top": 0,
     "AlJazeera_All": 0,
     "AlJazeera_Economy": 0,
-    "FinancialPost_Business": 1,
+    "FinancialPost_Business": 0,
     "CBC_Business": 0,
     "Nikkei_Asia_Top": 0,
     "WorldBank_News": 0,
     "OECD_Newsroom": 0,
     "MIT_TechReview": 0,
-    "HackerNews_Top": 1
+    "HackerNews_Top": 0
   },
   "errors": [
     {
@@ -131,8 +131,16 @@
       "error": "fatal parse failure"
     },
     {
+      "source": "https://unchainedcrypto.com/feed/",
+      "error": "fetch error: HTTP 415"
+    },
+    {
+      "source": "Unchained",
+      "error": "fatal parse failure"
+    },
+    {
       "source": "https://www.bankless.com/rss",
-      "error": "fetch error: HTTP 404"
+      "error": "fetch error: HTTP 415"
     },
     {
       "source": "Bankless",
@@ -192,7 +200,7 @@
     },
     {
       "source": "Gemini_Blog",
-      "error": "<unknown>:453:1775231: junk after document element"
+      "error": "<unknown>:453:1775620: junk after document element"
     },
     {
       "source": "https://www.circle.com/blog/rss.xml",
@@ -339,19 +347,19 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 575,
+    "passed_keywords": 569,
     "passed_allowlist": 0,
-    "failed_all_filters": 489
+    "failed_all_filters": 485
   },
   "stats": {
     "feeds_total": 97,
-    "feeds_error": 24,
+    "feeds_error": 25,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 1562,
+    "entries_seen": 1552,
     "too_old": 498,
     "dup_title_url": 101,
-    "dup_id": 470
+    "dup_id": 468
   },
   "limits": {
     "skip_older_days": 10,
@@ -364,6 +372,6 @@
   },
   "processed": {
     "file": "data/processed/2025-12-05.jsonl",
-    "appended_new": 4
+    "appended_new": 0
   }
 }
