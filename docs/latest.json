@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-12-05",
     "retrieved_date": "2025-12-05",
+    "retrieved_utc": "2025-12-05T05:53:55Z",
+    "source": "FinancialPost_Business",
+    "title": "Verdure Targets More Sales of Securities Backed by Rooftop Solar",
+    "url": "https://financialpost.com/pmn/business-pmn/verdure-targets-more-sales-of-securities-backed-by-rooftop-solar",
+    "id_key": "c1e58c7bc53551e21ceb31cb519a6e0b0030dcac80242ace4555fb3fac6e93f9",
+    "summary": "Verdure Fund, which last month sold South Africa’s first securities backed by loans made to small-scale solar power facilities, plans further sales, starting with an issuance in the first quarter of next year.",
+    "ingested_utc": "2025-12-05T05:53:55Z"
+  },
+  {
+    "published_utc": "2025-12-05",
+    "retrieved_date": "2025-12-05",
+    "retrieved_utc": "2025-12-05T05:53:08Z",
+    "source": "NYTimes_World",
+    "title": "How Israel’s Settlement Surge in the West Bank Is Displacing Palestinians",
+    "url": "https://www.nytimes.com/2025/12/04/world/middleeast/israel-west-bank-settlements-palestinians.html",
+    "id_key": "b39eeb2faac5d69c50d1baf0b596ce405f558ff36edb5b13c71a9ffd0b1dfa61",
+    "summary": "The Israeli government authorized 22 settlements in May, the largest expansion in decades, and Palestinian families are now being forced from their homes.",
+    "ingested_utc": "2025-12-05T05:53:08Z"
+  },
+  {
+    "published_utc": "2025-12-05",
+    "retrieved_date": "2025-12-05",
     "retrieved_utc": "2025-12-05T05:38:21Z",
     "source": "HackerNews_Top",
     "title": "Netflix in exclusive talks to buy HBO",
@@ -10976,27 +10998,5 @@
     "id_key": "c24a62baf5a41fafbbfe563bf382bc0970443343b1c46b39789ab20550995d20",
     "summary": "AUSTIN, Texas — SmartestEnergy US, part of a global energy company helping businesses navigate the energy transition, has selected GridBeyond, a global smart energy company, as its technology partner to optimize battery energy storage systems (BESS) in the ERCOT market. The strategic partnership will leverage GridBeyond’s advanced price forecasting, bid optimization, and trading services for […]",
     "ingested_utc": "2025-12-03T14:41:47Z"
-  },
-  {
-    "published_utc": "2025-12-03",
-    "retrieved_date": "2025-12-03",
-    "retrieved_utc": "2025-12-03T14:41:47Z",
-    "source": "FinancialPost_Business",
-    "title": "Vanguard will now allow crypto ETFs on its platform",
-    "url": "https://financialpost.com/investing/vanguard-allow-crypto-etfs",
-    "id_key": "cdabfc4777ca8f3c2adb4382587038754b1808356bbfdf2e74687fd9d6a1b93d",
-    "summary": "The firm won’t be creating its own digital inventory anytime soon and funds tied to memecoins will remain excluded",
-    "ingested_utc": "2025-12-03T14:41:47Z"
-  },
-  {
-    "published_utc": "2025-12-03",
-    "retrieved_date": "2025-12-03",
-    "retrieved_utc": "2025-12-03T14:41:31Z",
-    "source": "Engadget_All",
-    "title": "Amazon halts AI anime dub 'beta' after widespread ridicule",
-    "url": "https://www.engadget.com/entertainment/amazon-halts-ai-anime-dub-beta-after-widespread-ridicule-141501051.html?src=rss",
-    "id_key": "17431d96a741e3abf0b8a916acc37c80d69d91221edc31da12c54d8de2ab301c",
-    "summary": "Amazon appears to have quietly removed its truly terrible AI-generated English dubs for several anime shows currently streaming on Prime Video, following widespread (and entirely fair) ridicule from viewers and industry professionals. AI dubs were recently added to Banana Fish , No Game , No Life and Vinland Saga , where they were labeled \"AI beta\" in the Languages section of the app. As shows that previously only offered English subtitles, the option of a dub for those who prefer it could have been seen as a win for Amazon. But it quickly became clear that the dubs were unspeakably bad, completely devoid of any emotion or convincing intonation in dramatic moments. Particularly awful clips of the AI English dub for Banana Fish soon started circulating on social media, and the National Association of Voice Actors released a statement in which it branded the dubs \"AI slop.\" In his own statement , voice actor Daman Mills called the AI-generated dub for Banana Fish a \"massive insult to us as performers.\" In a post on X, which at the time of writing has been liked 14,000 times, he said: \"Voice Actors deserve the same level of respect as on camera performers. Anime already pays talent very little. Dub production costs shouldn’t make a dent in these companies’ pocket books. Using AI for a dub of a show that released nearly 8 YEARS AGO AND HAD NO RUSHED SCHEDULE just spits in our faces, has infuriated the consumer, and completely destroys the art.\" Amazon's AI English Dub for Banana Fish is hilariously bad at times. #BANANAFISH pic.twitter.com/CtiE47W4yh — Otaku Spirit (@OtakuSpirited) November 29, 2025 Decision-makers at Amazon apparently noted the backlash, as the English dub options no longer show up, as acknowledged by Mills and others yesterday. An AI-generated Spanish dub for Vinland Saga appears to have survived the silent cull, but otherwise it’s back to Japanese language-only and subtitles for the other shows. The company is clearly committed to introducing more AI to Prime Video — along with its various other services — despite this latest public shaming. It launched an \"AI-aided\" dubbing program for Prime Video earlier this year, piloting English and Latin American Spanish dubs in 12 licensed series and movies on Prime Video in March. Last month, it also introduced video recaps that summarize shows’ \"most pertinent plot points\" using generative AI. The feature is currently in beta for select English language Prime Original shows in the US. This article originally appeared on Engadget at https://www.engadget.com/entertainment/amazon-halts-ai-anime-dub-beta-after-widespread-ridicule-141501051.html?src=rss",
-    "ingested_utc": "2025-12-03T14:41:31Z"
   }
 ]
