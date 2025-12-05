@@ -1,30 +1,30 @@
 {
-  "started_utc": "2025-12-05T15:51:46Z",
-  "ended_utc": "2025-12-05T15:55:18Z",
-  "new_items_this_run": 10,
+  "started_utc": "2025-12-05T16:14:58Z",
+  "ended_utc": "2025-12-05T16:18:39Z",
+  "new_items_this_run": 21,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
     "Reuters_World": 0,
     "Reuters_Markets": 0,
-    "BBC_World": 0,
+    "BBC_World": 1,
     "BBC_Business": 0,
     "BBC_Technology": 0,
     "Guardian_Business": 0,
-    "Guardian_World": 2,
+    "Guardian_World": 3,
     "WSJ_US_Business": 0,
     "WSJ_World": 0,
     "WSJ_Markets": 0,
     "MarketWatch_Top": 0,
     "MarketWatch_MarketPulse": 0,
-    "Blockworks": 0,
-    "BitcoinMagazine": 0,
+    "Blockworks": 1,
+    "BitcoinMagazine": 1,
     "CryptoSlate": 0,
     "CryptoBriefing": 0,
     "Protos": 0,
-    "CryptoNews": 1,
-    "CoinJournal": 0,
-    "Unchained": 0,
+    "CryptoNews": 0,
+    "CoinJournal": 1,
+    "Unchained": 1,
     "Bankless": 0,
     "CoinGecko_Blog": 0,
     "CoinMetrics_Blog": 0,
@@ -56,29 +56,29 @@
     "MarketWatch_RealTime": 0,
     "MarketWatch_Bulletins": 0,
     "MarketWatch_PersonalFinance": 0,
-    "NYTimes_Business": 0,
-    "NYTimes_World": 1,
+    "NYTimes_Business": 1,
+    "NYTimes_World": 0,
     "NYTimes_Economy": 0,
-    "NYTimes_Technology": 0,
+    "NYTimes_Technology": 1,
     "CNN_Top": 0,
     "NPR_Top": 0,
     "NPR_Business": 0,
     "NPR_Economy": 0,
     "NPR_World": 0,
     "NPR_Technology": 0,
-    "FT_Home": 1,
+    "FT_Home": 0,
     "FT_Markets": 0,
     "CNBC_Top": 0,
     "CNBC_Markets": 0,
-    "TheVerge_All": 1,
-    "TechCrunch_All": 0,
-    "ArsTechnica_All": 0,
+    "TheVerge_All": 2,
+    "TechCrunch_All": 1,
+    "ArsTechnica_All": 1,
     "WIRED_All": 0,
     "Engadget_All": 1,
     "TheEconomist_Business": 0,
     "TheEconomist_Finance": 0,
     "Investopedia_Latest": 0,
-    "TheStreet_Top": 0,
+    "TheStreet_Top": 2,
     "AlJazeera_All": 0,
     "AlJazeera_Economy": 0,
     "FinancialPost_Business": 2,
@@ -87,7 +87,7 @@
     "WorldBank_News": 0,
     "OECD_Newsroom": 0,
     "MIT_TechReview": 0,
-    "HackerNews_Top": 0
+    "HackerNews_Top": 1
   },
   "errors": [
     {
@@ -192,7 +192,7 @@
     },
     {
       "source": "Gemini_Blog",
-      "error": "<unknown>:453:1773791: junk after document element"
+      "error": "<unknown>:453:1773971: junk after document element"
     },
     {
       "source": "https://www.circle.com/blog/rss.xml",
@@ -255,6 +255,14 @@
       "error": "fatal parse failure"
     },
     {
+      "source": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "error": "fetch error: HTTP 404"
+    },
+    {
+      "source": "NYTimes_World",
+      "error": "fatal parse failure"
+    },
+    {
       "source": "https://rss.cnn.com/rss/cnn_topstories.rss",
       "error": "fetch error: HTTPSConnectionPool(host='rss.cnn.com', port=443): Max retries exceeded with url: /rss/cnn_topstories.rss (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)')))"
     },
@@ -287,16 +295,8 @@
       "error": "fatal parse failure"
     },
     {
-      "source": "https://www.aljazeera.com/xml/rss/all.xml",
-      "error": "fetch error: HTTP 403"
-    },
-    {
-      "source": "AlJazeera_All",
-      "error": "fatal parse failure"
-    },
-    {
       "source": "https://www.aljazeera.com/xml/rss/section/economy.xml",
-      "error": "fetch error: HTTP 403"
+      "error": "fetch error: HTTP 404"
     },
     {
       "source": "AlJazeera_Economy",
@@ -347,19 +347,19 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 548,
+    "passed_keywords": 528,
     "passed_allowlist": 0,
-    "failed_all_filters": 480
+    "failed_all_filters": 477
   },
   "stats": {
     "feeds_total": 97,
     "feeds_error": 25,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 1525,
-    "too_old": 497,
-    "dup_title_url": 94,
-    "dup_id": 444
+    "entries_seen": 1500,
+    "too_old": 495,
+    "dup_title_url": 88,
+    "dup_id": 419
   },
   "limits": {
     "skip_older_days": 10,
@@ -372,6 +372,6 @@
   },
   "processed": {
     "file": "data/processed/2025-12-05.jsonl",
-    "appended_new": 10
+    "appended_new": 21
   }
 }
