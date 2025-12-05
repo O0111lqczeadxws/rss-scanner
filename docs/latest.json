@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-12-05",
     "retrieved_date": "2025-12-05",
+    "retrieved_utc": "2025-12-05T07:48:50Z",
+    "source": "CryptoNews",
+    "title": "Woori Bank Becomes First in Korea to Display Bitcoin Prices in Trading Room",
+    "url": "https://cryptonews.com/news/woori-bank-becomes-first-in-korea-to-display-bitcoin-prices-in-trading-room/",
+    "id_key": "ba713843268e38f4ee9666340cb769149e76187412d3373c115c62cb14e06cd8",
+    "summary": "Woori Bank is the first Korean commercial bank to display Bitcoin prices in its main trading room. The post Woori Bank Becomes First in Korea to Display Bitcoin Prices in Trading Room appeared first on Cryptonews .",
+    "ingested_utc": "2025-12-05T07:48:50Z"
+  },
+  {
+    "published_utc": "2025-12-05",
+    "retrieved_date": "2025-12-05",
     "retrieved_utc": "2025-12-05T07:36:55Z",
     "source": "Nikkei_Asia_Top",
     "title": "Vietnam's Masan Consumer to list on Ho Chi Minh City bourse",
@@ -10987,16 +10998,5 @@
     "id_key": "cbbffe9cffb3ae2730a317a0ce373ed4f13cf178f96d28d4d6abf19fe6d47f52",
     "summary": "Deutsche Bank just dropped the boldest stock-market prediction on Wall Street, based on a fairly simple idea. The bank’s chief U.S. equity strategist, Bankim “Binky” Chadha, believes the bull market still has legs, but companies beyond the usual suspects (Mag 7) will need to start pulling ...",
     "ingested_utc": "2025-12-03T15:17:54Z"
-  },
-  {
-    "published_utc": "2025-12-03",
-    "retrieved_date": "2025-12-03",
-    "retrieved_utc": "2025-12-03T15:17:45Z",
-    "source": "Engadget_All",
-    "title": "Amazon rolls out a find-a-scene Alexa+ feature for Prime Video",
-    "url": "https://www.engadget.com/ai/amazon-rolls-out-a-find-a-scene-alexa-feature-for-prime-video-150557530.html?src=rss",
-    "id_key": "9765f5f06fee15fd2dbcb46ce7892b1fec342f3a3feb953b2396bae84658e17f",
-    "summary": "Amazon is rolling out a new Alexa+ feature on Fire TV that can take you to a specific moment in a given movie on Prime Video based on a natural language voice command. The company says that, when you describe a certain scene, quote or character action, Alexa+ can start playing that part of the film. The company previewed this feature at its Devices and Services event in September. According to Amazon, you can say something like “Jump to the card scene in Love Actually \" or “Jump to the Ozdust ballroom scene in Wicked with Glinda,” to quickly get to that moment. Alexa+ can apparently figure out which movie you're referring to if you don't say the title. So if you say, for instance, “Jump to the scene when John McClane says ‘come out to the coast, we’ll get together, have a few laughs,’” Prime Video will start playing that bit in Die Hard where McClane is in an air duct. To make this work, Alexa+ uses \"visual understanding\" and captions to determine what's happening in each scene so it can take you to the one you're looking for. It's all processed through the X-Ray feature in Prime Video. As with Alexa+, it's built on Amazon Bedrock and it harnesses large language models such as Amazon Nova and Anthropic Claude. Alexa+ has indexed tens of thousands of scenes across thousands of movies on Prime Video so far, including many that you can purchase or rent. Amazon plans to expand this feature to more films and scenes, as well as TV shows, in the near future. While this is pretty interesting from a tech perspective and how Amazon’s able to make it work, I’d be interested to know how many people actually end up using it. This isn’t how most people who genuinely love cinema watch movies — maybe just start at the beginning of a film and take it from there? Besides, if you really want to watch a specific scene, YouTube exists. This article originally appeared on Engadget at https://www.engadget.com/ai/amazon-rolls-out-a-find-a-scene-alexa-feature-for-prime-video-150557530.html?src=rss",
-    "ingested_utc": "2025-12-03T15:17:45Z"
   }
 ]
