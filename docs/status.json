@@ -1,7 +1,7 @@
 {
-  "started_utc": "2025-12-05T16:43:34Z",
-  "ended_utc": "2025-12-05T16:47:16Z",
-  "new_items_this_run": 10,
+  "started_utc": "2025-12-05T16:57:16Z",
+  "ended_utc": "2025-12-05T17:00:50Z",
+  "new_items_this_run": 8,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
@@ -10,8 +10,8 @@
     "BBC_World": 0,
     "BBC_Business": 0,
     "BBC_Technology": 0,
-    "Guardian_Business": 1,
-    "Guardian_World": 0,
+    "Guardian_Business": 0,
+    "Guardian_World": 1,
     "WSJ_US_Business": 0,
     "WSJ_World": 0,
     "WSJ_Markets": 0,
@@ -67,21 +67,21 @@
     "NPR_World": 0,
     "NPR_Technology": 0,
     "FT_Home": 0,
-    "FT_Markets": 0,
+    "FT_Markets": 1,
     "CNBC_Top": 0,
     "CNBC_Markets": 0,
-    "TheVerge_All": 2,
+    "TheVerge_All": 0,
     "TechCrunch_All": 1,
     "ArsTechnica_All": 0,
     "WIRED_All": 0,
-    "Engadget_All": 2,
+    "Engadget_All": 0,
     "TheEconomist_Business": 0,
     "TheEconomist_Finance": 0,
     "Investopedia_Latest": 0,
     "TheStreet_Top": 1,
     "AlJazeera_All": 0,
     "AlJazeera_Economy": 0,
-    "FinancialPost_Business": 1,
+    "FinancialPost_Business": 2,
     "CBC_Business": 0,
     "Nikkei_Asia_Top": 0,
     "WorldBank_News": 0,
@@ -192,7 +192,7 @@
     },
     {
       "source": "Gemini_Blog",
-      "error": "<unknown>:453:1774028: junk after document element"
+      "error": "<unknown>:453:1773880: junk after document element"
     },
     {
       "source": "https://www.circle.com/blog/rss.xml",
@@ -350,8 +350,8 @@
     "feeds_http_error": 0,
     "entries_seen": 1550,
     "too_old": 495,
-    "dup_title_url": 92,
-    "dup_id": 454
+    "dup_title_url": 90,
+    "dup_id": 458
   },
   "limits": {
     "skip_older_days": 10,
@@ -364,6 +364,6 @@
   },
   "processed": {
     "file": "data/processed/2025-12-05.jsonl",
-    "appended_new": 10
+    "appended_new": 8
   }
 }
