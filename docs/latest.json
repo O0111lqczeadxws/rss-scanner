@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-12-05",
     "retrieved_date": "2025-12-05",
+    "retrieved_utc": "2025-12-05T09:38:14Z",
+    "source": "FinancialPost_Business",
+    "title": "Crypto Exchange HashKey Is Said to Take Investor Orders for Hong Kong IPO Next Week",
+    "url": "https://financialpost.com/pmn/business-pmn/crypto-exchange-hashkey-is-said-to-take-investor-orders-for-hong-kong-ipo-next-week",
+    "id_key": "a93a6ebc59e7f98d07093393eecf10559bd5c4d4f8d95a7d7e38f9b7eb547206",
+    "summary": "Cryptocurrency-exchange operator HashKey Holdings Ltd. is set to start taking investor orders as soon as next week for its Hong Kong initial public offering, according to people familiar with the matter.",
+    "ingested_utc": "2025-12-05T09:38:14Z"
+  },
+  {
+    "published_utc": "2025-12-05",
+    "retrieved_date": "2025-12-05",
+    "retrieved_utc": "2025-12-05T09:35:39Z",
+    "source": "CoinJournal",
+    "title": "Italy orders non-compliant VASPs to exit as MiCAR rules kick in",
+    "url": "https://coinjournal.net/news/italy-orders-non-compliant-vasps-to-exit-as-micar-rules-kick-in/",
+    "id_key": "15c2d179dede38e51d4c8737e3d840c4812e938b7fd4aa6a427e2dd3b56d1a60",
+    "summary": "Consob has urged VASPs to secure CASP approval or shut down by December 30, 2025. This comes as the deadline for transitioning to new MiCAR policies approaches. Unauthorised operators will halt their services and return user assets. Italy’s financial regulator Consob has issued an urgent call to digital assets investors and operators as the nation […] The post Italy orders non-compliant VASPs to exit as MiCAR rules kick in appeared first on CoinJournal .",
+    "ingested_utc": "2025-12-05T09:35:39Z"
+  },
+  {
+    "published_utc": "2025-12-05",
+    "retrieved_date": "2025-12-05",
     "retrieved_utc": "2025-12-05T09:17:19Z",
     "source": "HackerNews_Top",
     "title": "Is Cloudflare Down Again? Also, DownDetector/Claude.ai/LinkedIn?",
@@ -1428,6 +1450,17 @@
     "id_key": "96955df632d6903a55af4dd1d66e0ae950477662902a4bc1e9fc14c15bbbd365",
     "summary": "The widow and daughter of Jonathan Armstrong tell the BBC about the toll the Horizon scandal took on his health.",
     "ingested_utc": "2025-12-05T00:56:08Z"
+  },
+  {
+    "published_utc": "2025-12-04",
+    "retrieved_date": "2025-12-05",
+    "retrieved_utc": "2025-12-05T09:35:13Z",
+    "source": "BBC_World",
+    "title": "Trump hails 'historic' peace deal between DR Congo and Rwanda",
+    "url": "https://www.bbc.com/news/articles/cjrjn88jqn4o?at_medium=RSS&at_campaign=rss",
+    "id_key": "04214b6d2d7ca9696bd511fd4ca6f4e91c991d8a162fc482c54c7678ebdcb393",
+    "summary": "The US president hopes that a peace deal will pave the way for greater American investment in the resource-rich region.",
+    "ingested_utc": "2025-12-05T09:35:13Z"
   },
   {
     "published_utc": "2025-12-04",
@@ -10964,39 +10997,6 @@
     "url": "https://financialpost.com/fp-work/women-don-fake-mustaches-linkedin-fight",
     "id_key": "993c5f5348eb20e5b1030ab8e16f77ed3690e9808b51ffb6e2ba5c88f9c30a43",
     "summary": "Users who saw their engagement spike are calling for transparency about how the algorithm works to elevate profiles",
-    "ingested_utc": "2025-12-03T15:40:13Z"
-  },
-  {
-    "published_utc": "2025-12-03",
-    "retrieved_date": "2025-12-03",
-    "retrieved_utc": "2025-12-03T15:40:13Z",
-    "source": "FinancialPost_Business",
-    "title": "Telus hits pause on dividend increases, expects free cash flow to grow",
-    "url": "https://financialpost.com/pmn/telus-hits-pause-on-dividend-increases-expects-free-cash-flow-to-grow",
-    "id_key": "c4685c975fac8a58ff3dc38a094b153ef06a3ec725fad005eaa05134ff9b77aa",
-    "summary": "Telus Corp. is hitting pause on its dividend growth plan until it says its share price reflects its growth prospects. The company said Wednesday it will continue to pay a quarterly dividend of 41.84 cents per share. The current payment gives it an annual yield of nearly 9.2 per cent, based on its share price […]",
-    "ingested_utc": "2025-12-03T15:40:13Z"
-  },
-  {
-    "published_utc": "2025-12-03",
-    "retrieved_date": "2025-12-03",
-    "retrieved_utc": "2025-12-03T15:40:13Z",
-    "source": "FinancialPost_Business",
-    "title": "Integrated Power Services (IPS) Acquires ENA Electronics Inc.",
-    "url": "https://financialpost.com/globe-newswire/integrated-power-services-ips-acquires-ena-electronics-inc",
-    "id_key": "0f140b7d69109876b13ada04378a1447500a150c7e0e613d87a813bed49ea490",
-    "summary": "Enhancing Power Management Aftermarket Service Portfolio With Reverse Engineering Capabilities, Renewable Expertise & More Greenville, SC, Dec. 03, 2025 (GLOBE NEWSWIRE) — Integrated Power Services (IPS), a world-class provider of electrical, mechanical, and power management systems, has acquired ENA Electronics Inc. (ENA), a leader in the wind and solar energy industry, effective, November 26, 2025. “IPS is […]",
-    "ingested_utc": "2025-12-03T15:40:13Z"
-  },
-  {
-    "published_utc": "2025-12-03",
-    "retrieved_date": "2025-12-03",
-    "retrieved_utc": "2025-12-03T15:40:13Z",
-    "source": "FinancialPost_Business",
-    "title": "Toronto home sales fall 15.8% as buyers wait out economic uncertainty",
-    "url": "https://financialpost.com/real-estate/toronto-home-sales-buyers-wait-economic-uncertainty",
-    "id_key": "44bd61c3f67082c208ee9aec16bb4e592bd43e5ec097bfc099d09a08d3d88017",
-    "summary": "The average selling price for the month came in at $1,039,458",
     "ingested_utc": "2025-12-03T15:40:13Z"
   }
 ]
