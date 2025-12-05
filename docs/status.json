@@ -1,7 +1,7 @@
 {
-  "started_utc": "2025-12-05T15:35:24Z",
-  "ended_utc": "2025-12-05T15:38:54Z",
-  "new_items_this_run": 12,
+  "started_utc": "2025-12-05T15:51:46Z",
+  "ended_utc": "2025-12-05T15:55:18Z",
+  "new_items_this_run": 10,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
@@ -11,7 +11,7 @@
     "BBC_Business": 0,
     "BBC_Technology": 0,
     "Guardian_Business": 0,
-    "Guardian_World": 0,
+    "Guardian_World": 2,
     "WSJ_US_Business": 0,
     "WSJ_World": 0,
     "WSJ_Markets": 0,
@@ -22,7 +22,7 @@
     "CryptoSlate": 0,
     "CryptoBriefing": 0,
     "Protos": 0,
-    "CryptoNews": 0,
+    "CryptoNews": 1,
     "CoinJournal": 0,
     "Unchained": 0,
     "Bankless": 0,
@@ -56,38 +56,38 @@
     "MarketWatch_RealTime": 0,
     "MarketWatch_Bulletins": 0,
     "MarketWatch_PersonalFinance": 0,
-    "NYTimes_Business": 1,
-    "NYTimes_World": 0,
+    "NYTimes_Business": 0,
+    "NYTimes_World": 1,
     "NYTimes_Economy": 0,
     "NYTimes_Technology": 0,
     "CNN_Top": 0,
-    "NPR_Top": 1,
+    "NPR_Top": 0,
     "NPR_Business": 0,
-    "NPR_Economy": 1,
+    "NPR_Economy": 0,
     "NPR_World": 0,
     "NPR_Technology": 0,
     "FT_Home": 1,
     "FT_Markets": 0,
     "CNBC_Top": 0,
     "CNBC_Markets": 0,
-    "TheVerge_All": 0,
+    "TheVerge_All": 1,
     "TechCrunch_All": 0,
     "ArsTechnica_All": 0,
     "WIRED_All": 0,
-    "Engadget_All": 0,
+    "Engadget_All": 1,
     "TheEconomist_Business": 0,
     "TheEconomist_Finance": 0,
     "Investopedia_Latest": 0,
-    "TheStreet_Top": 3,
+    "TheStreet_Top": 0,
     "AlJazeera_All": 0,
     "AlJazeera_Economy": 0,
-    "FinancialPost_Business": 4,
-    "CBC_Business": 0,
+    "FinancialPost_Business": 2,
+    "CBC_Business": 1,
     "Nikkei_Asia_Top": 0,
     "WorldBank_News": 0,
     "OECD_Newsroom": 0,
     "MIT_TechReview": 0,
-    "HackerNews_Top": 1
+    "HackerNews_Top": 0
   },
   "errors": [
     {
@@ -192,7 +192,7 @@
     },
     {
       "source": "Gemini_Blog",
-      "error": "<unknown>:453:1773881: junk after document element"
+      "error": "<unknown>:453:1773791: junk after document element"
     },
     {
       "source": "https://www.circle.com/blog/rss.xml",
@@ -287,8 +287,16 @@
       "error": "fatal parse failure"
     },
     {
+      "source": "https://www.aljazeera.com/xml/rss/all.xml",
+      "error": "fetch error: HTTP 403"
+    },
+    {
+      "source": "AlJazeera_All",
+      "error": "fatal parse failure"
+    },
+    {
       "source": "https://www.aljazeera.com/xml/rss/section/economy.xml",
-      "error": "fetch error: HTTP 404"
+      "error": "fetch error: HTTP 403"
     },
     {
       "source": "AlJazeera_Economy",
@@ -339,19 +347,19 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 555,
+    "passed_keywords": 548,
     "passed_allowlist": 0,
-    "failed_all_filters": 499
+    "failed_all_filters": 480
   },
   "stats": {
     "feeds_total": 97,
-    "feeds_error": 24,
+    "feeds_error": 25,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 1550,
-    "too_old": 496,
-    "dup_title_url": 93,
-    "dup_id": 450
+    "entries_seen": 1525,
+    "too_old": 497,
+    "dup_title_url": 94,
+    "dup_id": 444
   },
   "limits": {
     "skip_older_days": 10,
@@ -364,6 +372,6 @@
   },
   "processed": {
     "file": "data/processed/2025-12-05.jsonl",
-    "appended_new": 12
+    "appended_new": 10
   }
 }
