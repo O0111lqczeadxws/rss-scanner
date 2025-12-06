@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-12-06",
     "retrieved_date": "2025-12-06",
+    "retrieved_utc": "2025-12-06T19:49:50Z",
+    "source": "BBC_World",
+    "title": "US National Park Service removes free entry on MLK Day and Juneteenth",
+    "url": "https://www.bbc.com/news/articles/cr7l4n89lr1o?at_medium=RSS&at_campaign=rss",
+    "id_key": "ecc352880e70e71dea99e339f132f949cc2e3da7cfa645a346501e3ce16270bf",
+    "summary": "The Trump administration is adding Flag Day, which is also President Trump's birthday, to its list of fee-free entry days at national parks.",
+    "ingested_utc": "2025-12-06T19:49:50Z"
+  },
+  {
+    "published_utc": "2025-12-06",
+    "retrieved_date": "2025-12-06",
+    "retrieved_utc": "2025-12-06T19:47:53Z",
+    "source": "Guardian_World",
+    "title": "Gunmen kill at least 12 people including three-year-old in hostel in South Africa",
+    "url": "https://www.theguardian.com/world/2025/dec/06/gunmen-kill-pretoria-south-african-hostel",
+    "id_key": "43a2899ea93f71f3bf4cfeb4d33343dae7a22f032534a98e69d478e714263726",
+    "summary": "Police launch ‘manhunt’ after 25 people are shot in early morning in township attack west of Pretoria Gunmen have stormed into a hostel in South Africa’s capital and killed at least 12 people, including a three-year-old child, and injured more than a dozen others. Police said they had launched a “manhunt” for three people and were investigating whether the killings were linked to a bar within the hostel that may have been selling alcohol illegally. Continue reading...",
+    "ingested_utc": "2025-12-06T19:47:53Z"
+  },
+  {
+    "published_utc": "2025-12-06",
+    "retrieved_date": "2025-12-06",
     "retrieved_utc": "2025-12-06T19:35:45Z",
     "source": "NYTimes_World",
     "title": "Israel Backed Gazans to Oppose Hamas. For One, It Ended Violently.",
@@ -10976,27 +10998,5 @@
     "id_key": "0a797365e43e0f6a4ba570be68b649b510e7c987414c3865fc2d5a8fa3db6ea0",
     "summary": "Privacy stalwart Nicholas Merrill spent a decade fighting an FBI surveillance order. Now he wants to sell you phone service—without knowing almost anything about you.",
     "ingested_utc": "2025-12-04T17:19:05Z"
-  },
-  {
-    "published_utc": "2025-12-04",
-    "retrieved_date": "2025-12-04",
-    "retrieved_utc": "2025-12-04T17:19:03Z",
-    "source": "TheVerge_All",
-    "title": "Amazon is reportedly ready to drop its USPS deal if negotiations fall through",
-    "url": "https://www.theverge.com/news/838255/amazon-usps-delivery-contract-2026",
-    "id_key": "eebc423959910c9782911c1a6217f762dd4b2342b129917900174b06102d9bc7",
-    "summary": "After over 30 years, Amazon may be cutting ties with the United States Postal Service as it looks to expand its own delivery network, as reported by The Washington Post. The outlet, owned by Amazon founder Jeff Bezos, cites anonymous sources who said negotiations between Amazon and Trump-appointed USPS Postmaster General David Steiner have reportedly […]",
-    "ingested_utc": "2025-12-04T17:19:03Z"
-  },
-  {
-    "published_utc": "2025-12-04",
-    "retrieved_date": "2025-12-04",
-    "retrieved_utc": "2025-12-04T17:19:03Z",
-    "source": "TechCrunch_All",
-    "title": "California’s ban on self-driving trucks could soon be over",
-    "url": "https://techcrunch.com/2025/12/04/californias-ban-on-self-driving-trucks-could-soon-be-over/",
-    "id_key": "3e6f2a3827c06abe6d62d526708556cecf960dea55870c4ec6fb7cd7fd748443",
-    "summary": "Revised rules in California would allow self-driving trucks to test on public highways. The rules also close a loophole allowing police to issue tickets for driverless vehicles.",
-    "ingested_utc": "2025-12-04T17:19:03Z"
   }
 ]
