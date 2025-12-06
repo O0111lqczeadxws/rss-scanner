@@ -1,7 +1,7 @@
 {
-  "started_utc": "2025-12-06T20:48:17Z",
-  "ended_utc": "2025-12-06T20:51:48Z",
-  "new_items_this_run": 0,
+  "started_utc": "2025-12-06T21:10:09Z",
+  "ended_utc": "2025-12-06T21:13:41Z",
+  "new_items_this_run": 1,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
@@ -19,7 +19,7 @@
     "MarketWatch_MarketPulse": 0,
     "Blockworks": 0,
     "BitcoinMagazine": 0,
-    "CryptoSlate": 0,
+    "CryptoSlate": 1,
     "CryptoBriefing": 0,
     "Protos": 0,
     "CryptoNews": 0,
@@ -192,7 +192,7 @@
     },
     {
       "source": "Gemini_Blog",
-      "error": "<unknown>:453:1798972: junk after document element"
+      "error": "<unknown>:453:1798290: junk after document element"
     },
     {
       "source": "https://www.circle.com/blog/rss.xml",
@@ -339,9 +339,9 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 539,
+    "passed_keywords": 536,
     "passed_allowlist": 0,
-    "failed_all_filters": 487
+    "failed_all_filters": 490
   },
   "stats": {
     "feeds_total": 97,
@@ -351,7 +351,7 @@
     "entries_seen": 1533,
     "too_old": 507,
     "dup_title_url": 86,
-    "dup_id": 453
+    "dup_id": 449
   },
   "limits": {
     "skip_older_days": 10,
@@ -364,6 +364,6 @@
   },
   "processed": {
     "file": "data/processed/2025-12-06.jsonl",
-    "appended_new": 0
+    "appended_new": 1
   }
 }
