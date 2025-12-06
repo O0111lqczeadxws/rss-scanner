@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-12-06",
     "retrieved_date": "2025-12-06",
+    "retrieved_utc": "2025-12-06T17:41:33Z",
+    "source": "NPR_Top",
+    "title": "7 deaths and hundreds of injuries are linked to faulty Abbott glucose monitors",
+    "url": "https://www.npr.org/2025/12/06/g-s1-101082/abbott-glucose-monitor-deaths-recall-freestyle-libre",
+    "id_key": "22b69a2df63ccd1ee3eb5a6e81b51e1fde24d91f3261a0e253a78cec3b9d65a3",
+    "summary": "About 3 million glucose monitoring sensors were potentially affected by a production error that caused incorrect low glucose readings.",
+    "ingested_utc": "2025-12-06T17:41:33Z"
+  },
+  {
+    "published_utc": "2025-12-06",
+    "retrieved_date": "2025-12-06",
     "retrieved_utc": "2025-12-06T17:32:14Z",
     "source": "TheStreet_Top",
     "title": "Fidelity managers reveal top AI stocks for 2026",
@@ -10987,16 +10998,5 @@
     "id_key": "88aafc3ebe41ee615b6eb66f215ffa2cbbe4bf578b3b60232c019183beacec7c",
     "summary": "Comments",
     "ingested_utc": "2025-12-04T16:54:34Z"
-  },
-  {
-    "published_utc": "2025-12-04",
-    "retrieved_date": "2025-12-04",
-    "retrieved_utc": "2025-12-04T16:54:24Z",
-    "source": "FinancialPost_Business",
-    "title": "At 901 King West, first impressions matter. Crown Realty Partners",
-    "url": "https://financialpost.com/globe-newswire/at-901-king-west-first-impressions-matter-crown-realty-partners",
-    "id_key": "cfda8c575ee9d61f8c2d78ce2a0aa8c5f217221e2fb1352b6ca9f2c644d3a923",
-    "summary": "TORONTO, Dec. 04, 2025 (GLOBE NEWSWIRE) — Crown Realty Partners and Bentall Green Oak unveil hospitality-centric lobby at 901 King West, Toronto – a reimagined entrance that sets a new tone for arrival and tenant experience. Thoughtfully designed by Superkül and built by Index Construction the modern lobby centers around a public art installation by Mark Gomes, transforming the atrium into a space where art, architecture, […]",
-    "ingested_utc": "2025-12-04T16:54:24Z"
   }
 ]
