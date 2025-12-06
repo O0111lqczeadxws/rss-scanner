@@ -2,6 +2,50 @@
   {
     "published_utc": "2025-12-06",
     "retrieved_date": "2025-12-06",
+    "retrieved_utc": "2025-12-06T14:51:31Z",
+    "source": "HackerNews_Top",
+    "title": "Kidney Recipient Dies After Transplant from Organ Donor Who Had Rabies",
+    "url": "https://www.nytimes.com/2025/12/06/health/rabies-death-skunk-kidney-transplant.html",
+    "id_key": "5b4f183fb3ed24c65706e3cffe28f8f0a63aa254507850657e9c68791b74fc17",
+    "summary": "Comments",
+    "ingested_utc": "2025-12-06T14:51:31Z"
+  },
+  {
+    "published_utc": "2025-12-06",
+    "retrieved_date": "2025-12-06",
+    "retrieved_utc": "2025-12-06T14:51:13Z",
+    "source": "TheStreet_Top",
+    "title": "Closed beverage facility revived by rival after abrupt shutdown",
+    "url": "https://www.thestreet.com/retail/closed-beverage-facility-revived-by-rival-after-abrupt-shutdown-arizona",
+    "id_key": "dedc83fd7e700f078123a4236e43996a60ae47ccc52d47dd3f10f7951afa5304",
+    "summary": "As the cost of daily necessities continues to rise and federal policy changes tighten eligibility for key assistance programs, many households are feeling increased pressure on their budgets and finding it harder to meet their basic needs. According to Capital One Shopping, U.S. ...",
+    "ingested_utc": "2025-12-06T14:51:13Z"
+  },
+  {
+    "published_utc": "2025-12-06",
+    "retrieved_date": "2025-12-06",
+    "retrieved_utc": "2025-12-06T14:50:33Z",
+    "source": "NYTimes_World",
+    "title": "11 People Killed in Mass Shooting at Illegal Tavern in South Africa",
+    "url": "https://www.nytimes.com/2025/12/06/world/africa/south-africa-shooting.html",
+    "id_key": "0de8d844650f0f7a0073748722dee15a9f1962402ee709b9b57696400bbb6231",
+    "summary": "The police said they were searching for three assailants who opened fire, shooting 25 people. A 3-year-old boy was among the dead, while 14 survivors were being treated in the hospital.",
+    "ingested_utc": "2025-12-06T14:50:33Z"
+  },
+  {
+    "published_utc": "2025-12-06",
+    "retrieved_date": "2025-12-06",
+    "retrieved_utc": "2025-12-06T14:48:02Z",
+    "source": "Guardian_World",
+    "title": "Zelenskyy to meet Starmer at Downing Street to discuss US draft peace deal",
+    "url": "https://www.theguardian.com/uk-news/2025/dec/06/zelenskyy-to-meet-starmer-at-downing-street-to-discuss-us-draft-peace-deal",
+    "id_key": "258cfbe366f66d95e544db246fa68282bb97c441e34870670ca55532568a7569",
+    "summary": "Emmanuel Macron and Friedrich Merz will also be present for talks on guaranteeing Ukraine’s postwar security Volodymyr Zelenskyy will visit Downing Street on Monday for an in-person meeting with Keir Starmer, Emmanuel Macron and Friedrich Merz in a show of support for Ukraine. Starmer will use the meeting with the leaders from Ukraine, France and Germany to discuss the ongoing talks between US and Ukrainian officials aimed at finding an agreement on guaranteeing Ukraine’s postwar security. Continue reading...",
+    "ingested_utc": "2025-12-06T14:48:02Z"
+  },
+  {
+    "published_utc": "2025-12-06",
+    "retrieved_date": "2025-12-06",
     "retrieved_utc": "2025-12-06T14:44:10Z",
     "source": "FinancialPost_Business",
     "title": "Protagonist and Takeda Present Longer-Term Data at ASH 2025 Showing Rusfertide Delivers Durable Response and Hematocrit Control in Polycythemia Vera",
@@ -1373,6 +1417,28 @@
     "id_key": "92a7b6adc783c184cfdf023000b9f0fb5c011b22a76daff496cf183f6c37437b",
     "summary": "Joint statement comes as Trump pushes Kyiv and Moscow on US-mediated proposal to end nearly four years of war Donald Trump’s advisers and Ukrainian officials said Friday they’ll meet for a third day of talks after making progress on creating a security framework for postwar Ukraine and are urging Russia to commit to peace. The officials, who met for a second day in Florida on Friday, issued a joint statement that offered broad brushstrokes about the progress they say that’s been made as Trump pushes Kyiv and Moscow to agree to a US-mediated proposal to end nearly four years of war. Continue reading...",
     "ingested_utc": "2025-12-06T00:53:11Z"
+  },
+  {
+    "published_utc": "2025-12-05",
+    "retrieved_date": "2025-12-06",
+    "retrieved_utc": "2025-12-06T14:51:13Z",
+    "source": "TheStreet_Top",
+    "title": "Amazon AWS re:Invent sends signal for Nvidia rival",
+    "url": "https://www.thestreet.com/investing/stocks/amazon-aws-message-signals-major-moment-for-nvidia-rival",
+    "id_key": "ca6a0d022b30106e019232470292e436d02a5ed1ef3cb9ed32cbf9defbf4b629",
+    "summary": "Nvidia has dominated the AI landscape since ChatGPT's launch broke the internet, kicking off a tidal wave of research into AI apps, including chatbots and AI agents. Its graphic processing units, or GPUs, are ideally suited for handling the heavy workloads associated with training and running AI ...",
+    "ingested_utc": "2025-12-06T14:51:13Z"
+  },
+  {
+    "published_utc": "2025-12-05",
+    "retrieved_date": "2025-12-06",
+    "retrieved_utc": "2025-12-06T14:48:00Z",
+    "source": "BBC_Business",
+    "title": "Netflix to buy Warner Bros film and streaming businesses for $72bn",
+    "url": "https://www.bbc.com/news/articles/ce91x2jm5pjo?at_medium=RSS&at_campaign=rss",
+    "id_key": "b9d41a855ff2c4ed390fdb3b261263bdb1f94c60197f474790946b44c6dda17a",
+    "summary": "The major Hollywood deal means Netflix will takeover ownership of franchises including Harry Potter and Game of Thrones.",
+    "ingested_utc": "2025-12-06T14:48:00Z"
   },
   {
     "published_utc": "2025-12-05",
@@ -10932,71 +10998,5 @@
     "id_key": "f751de76203687ad6dd925687bd846e6d55c4b321bbd571fa855586642890a76",
     "summary": "Yasser Abu Shabab, a Bedouin man in his 30s, was at the center of an Israeli project in Gaza to build up anti-Hamas militias.",
     "ingested_utc": "2025-12-04T15:55:28Z"
-  },
-  {
-    "published_utc": "2025-12-04",
-    "retrieved_date": "2025-12-04",
-    "retrieved_utc": "2025-12-04T15:53:37Z",
-    "source": "CryptoNews",
-    "title": "Bitcoin Near $92K Steadies Market as Curve, Bittensor and Avalanche Lead Altcoin Rotation",
-    "url": "https://cryptonews.com/news/altcoin-season-shows-early-signs-of-stability-as-fear-index-rises-to-27/",
-    "id_key": "39532875dcbfed7ad28e328bc5dbb872865c6145529c7fb99dffdbe9bd64fc43",
-    "summary": "Bitcoin has traded near $92,000 as the Fear and Greed Index has risen from extreme fear, easing liquidations and allowing selective rotation into CRV, TAO and AVAX, where deeper liquidity and active development have supported a steadier market structure. The post Bitcoin Near $92K Steadies Market as Curve, Bittensor and Avalanche Lead Altcoin Rotation appeared first on Cryptonews .",
-    "ingested_utc": "2025-12-04T15:53:37Z"
-  },
-  {
-    "published_utc": "2025-12-04",
-    "retrieved_date": "2025-12-04",
-    "retrieved_utc": "2025-12-04T15:53:34Z",
-    "source": "CryptoBriefing",
-    "title": "Brad Garlinghouse says Bitcoin could top $180,000 by end of 2026",
-    "url": "https://cryptobriefing.com/bitcoin-price-prediction-2026/",
-    "id_key": "a22f7f745cf28d734e371397e06a45df060338b3969088cc40326ec009e533d8",
-    "summary": "Garlinghouse's prediction highlights growing institutional interest and regulatory clarity as key drivers for Bitcoin's long-term growth. The post Brad Garlinghouse says Bitcoin could top $180,000 by end of 2026 appeared first on Crypto Briefing .",
-    "ingested_utc": "2025-12-04T15:53:34Z"
-  },
-  {
-    "published_utc": "2025-12-04",
-    "retrieved_date": "2025-12-04",
-    "retrieved_utc": "2025-12-04T15:53:16Z",
-    "source": "Guardian_World",
-    "title": "Farage attacks BBC over racism allegations and claims some fellow pupils say he was ‘offensive’ but not racist – UK politics live",
-    "url": "https://www.theguardian.com/politics/live/2025/dec/04/reform-uk-nigel-farage-richard-tice-keir-starmer-kemi-badenoch-uk-politics-live-news-updates",
-    "id_key": "959d500208c1e8549efb8191e8d1b4afb6c2fc9aad855ee76ae205a3e88d76bb",
-    "summary": "Reform leader claims he has had letters of support over racism allegations, but that those letters also described some of his comments as offensive Nigel Farage, the Reform UK leader, said that in Essex county council elections were postponed. He said district councils were being replaced with a new “pretty amorphous unitary authority”. Because of that, the area also needed “a clear elected figure”, a mayor, he said. Fahnbulleh said the government wanted to create strong, unitary councils. He said that would be a difficult concept for Reform UK to understand, “given the absolute shambles that we’re seeing in the councils that they control”. The government had a moral and a legal obligation to honour its side of the bargain Continue reading...",
-    "ingested_utc": "2025-12-04T15:53:16Z"
-  },
-  {
-    "published_utc": "2025-12-04",
-    "retrieved_date": "2025-12-04",
-    "retrieved_utc": "2025-12-04T15:40:38Z",
-    "source": "FinancialPost_Business",
-    "title": "Toronto Residents Say City’s Reliance on Land Transfer Tax Is Fueling the Housing Affordability Crisis",
-    "url": "https://financialpost.com/globe-newswire/toronto-residents-say-citys-reliance-on-land-transfer-tax-is-fueling-the-housing-affordability-crisis",
-    "id_key": "0a0127fa8731140acf37489762db2b0b345661e9991228dd1820533da2b96cc8",
-    "summary": "New polling shows growing frustration as Council considers yet another MLTT hike TORONTO, Dec. 04, 2025 (GLOBE NEWSWIRE) — As Toronto City Council considers a proposal to increase the Municipal Land Transfer Tax (MLTT) on higher-value homes, new Ipsos polling conducted for the Toronto Regional Real Estate Board (TRREB) shows that 416 residents are deeply […]",
-    "ingested_utc": "2025-12-04T15:40:38Z"
-  },
-  {
-    "published_utc": "2025-12-04",
-    "retrieved_date": "2025-12-04",
-    "retrieved_utc": "2025-12-04T15:40:31Z",
-    "source": "TheStreet_Top",
-    "title": "109-year-old grocery chain makes major cuts ahead of holiday season",
-    "url": "https://www.thestreet.com/employment/109-year-old-grocery-chain-makes-major-cuts-ahead-of-holiday-season-albertsons-united-supermarkets",
-    "id_key": "4f4d05189ad0b2e7d8f3fe31e0c64d3f823d52767fcc7c74a223e256c736228e",
-    "summary": "With inflation continuing to raise the cost of everyday essentials and federal policy changes tightening eligibility for SNAP, millions of Americans are struggling to meet their basic needs. These pressures are now extending beyond households and into the corporate world, forcing many ...",
-    "ingested_utc": "2025-12-04T15:40:31Z"
-  },
-  {
-    "published_utc": "2025-12-04",
-    "retrieved_date": "2025-12-04",
-    "retrieved_utc": "2025-12-04T15:40:31Z",
-    "source": "AlJazeera_All",
-    "title": "Has the Pentagon really exonerated Pete Hegseth over Signal leaks?",
-    "url": "https://www.aljazeera.com/news/2025/12/4/has-the-pentagon-really-exonerated-pete-hegseth-over-signal-leaks?traffic_source=rss",
-    "id_key": "5fb9b8cc145a183e46c872a725b954d39700e73468390d0cc7777dda0576663a",
-    "summary": "US defense secretary was accused of putting military personnel in danger when he used messaging app to discuss strikes.",
-    "ingested_utc": "2025-12-04T15:40:31Z"
   }
 ]
