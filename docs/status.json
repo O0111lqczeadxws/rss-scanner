@@ -1,6 +1,6 @@
 {
-  "started_utc": "2025-12-06T07:47:39Z",
-  "ended_utc": "2025-12-06T07:51:06Z",
+  "started_utc": "2025-12-06T08:14:42Z",
+  "ended_utc": "2025-12-06T08:18:13Z",
   "new_items_this_run": 0,
   "total_in_latest": 1000,
   "by_source": {
@@ -192,7 +192,7 @@
     },
     {
       "source": "Gemini_Blog",
-      "error": "<unknown>:453:1798724: junk after document element"
+      "error": "<unknown>:453:1798476: junk after document element"
     },
     {
       "source": "https://www.circle.com/blog/rss.xml",
@@ -339,9 +339,9 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 545,
+    "passed_keywords": 544,
     "passed_allowlist": 0,
-    "failed_all_filters": 484
+    "failed_all_filters": 485
   },
   "stats": {
     "feeds_total": 97,
@@ -350,7 +350,7 @@
     "feeds_http_error": 0,
     "entries_seen": 1529,
     "too_old": 500,
-    "dup_title_url": 89,
+    "dup_title_url": 88,
     "dup_id": 456
   },
   "limits": {
