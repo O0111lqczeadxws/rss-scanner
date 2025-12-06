@@ -2,6 +2,50 @@
   {
     "published_utc": "2025-12-06",
     "retrieved_date": "2025-12-06",
+    "retrieved_utc": "2025-12-06T03:33:35Z",
+    "source": "HackerNews_Top",
+    "title": "EU hits X with €120M fine for breaching the Digital Services Act",
+    "url": "https://www.dw.com/en/eu-imposes-120-million-fine-on-elon-musks-x-for-breaking-digital-rules/a-75033724",
+    "id_key": "8a3cb73b6ee59391ec609d8ae9c1b1941d89776aef09a79be682230024884c80",
+    "summary": "Comments",
+    "ingested_utc": "2025-12-06T03:33:35Z"
+  },
+  {
+    "published_utc": "2025-12-06",
+    "retrieved_date": "2025-12-06",
+    "retrieved_utc": "2025-12-06T03:31:49Z",
+    "source": "Erigon_Releases",
+    "title": "v3.3.1: [3.3] Torrent client fixes (#18179)",
+    "url": "https://github.com/erigontech/erigon/releases/tag/v3.3.1",
+    "id_key": "3c11bcbbf5c2c94e7376bfc5438e41736526e0a8085bba069371c8d44229ad9b",
+    "summary": "Pulls minimal fix for thrashing in the announce code caused when there's a lot of already completed torrents added. Should fix erigontech/erigon-qa#320 and #18162 . Also fixes a rate limiter bug I mentioned to @AskAlexSharov , and an ancient spammy log line. I minimized the fix identified on the development branch of anacrolix/torrent, if this isn't enough I can just pull the full fix. The 3.3 changes: https://github.com/anacrolix/torrent/compare/downstreams/erigon/release/3.3...erigon/release/3.3?expand=1 .",
+    "ingested_utc": "2025-12-06T03:31:49Z"
+  },
+  {
+    "published_utc": "2025-12-06",
+    "retrieved_date": "2025-12-06",
+    "retrieved_utc": "2025-12-06T03:30:24Z",
+    "source": "Guardian_World",
+    "title": "Suspected smuggling boat struck twice by military was reportedly moving drugs to South American country, not US –as it happened",
+    "url": "https://www.theguardian.com/us-news/live/2025/dec/05/trump-pete-hegseth-signal-politics-updates",
+    "id_key": "5f46763d8c2d2d0975122c7f7f4a19fa09d60f2e3c574c072a8a5864be5e7601",
+    "summary": "This live blog is now closed. Trump news at a glance: list of countries under US travel ban set to grow Lauren Gambino and Melody Schreiber After a delay and an unusually contentious meeting , a federal vaccine advisory panel is expected to vote today whether to change the longstanding recommendation that all newborns be immunized against hepatitis B. Continue reading...",
+    "ingested_utc": "2025-12-06T03:30:24Z"
+  },
+  {
+    "published_utc": "2025-12-06",
+    "retrieved_date": "2025-12-06",
+    "retrieved_utc": "2025-12-06T03:30:24Z",
+    "source": "Guardian_World",
+    "title": "San Diego agrees to pay $30m to family of boy, 16, shot dead by police",
+    "url": "https://www.theguardian.com/us-news/2025/dec/05/san-diego-settlement-konoa-wilson-police",
+    "id_key": "031d2b43ec94610cfe28551197d83c80b8d6c8a9e609557ac16644f11ac3f3fc",
+    "summary": "Settlement one of US’s largest and comes after officer killed Konoa Wilson, who was running from teen shooting at him The city of San Diego has agreed to pay a $30m settlement to the family of Konoa Wilson, the 16-year-old boy fatally shot in the back by a police officer while running away after narrowly missing another shooting by an unknown third party at a train station. The payout is the result of the wrongful death lawsuit Wilson’s family filed against the city in June, claiming the officer who shot the teen acted with “racial violence”. Wilson is half Black, family attorneys said. Continue reading...",
+    "ingested_utc": "2025-12-06T03:30:24Z"
+  },
+  {
+    "published_utc": "2025-12-06",
+    "retrieved_date": "2025-12-06",
     "retrieved_utc": "2025-12-06T02:28:26Z",
     "source": "FinancialPost_Business",
     "title": "Russia’s Vital Oil Trade With India Is Down, But Not Out",
@@ -10954,49 +10998,5 @@
     "id_key": "89ee2b772b470c49c6eb9537d9815390639dc69bba22aa7fda0a06802f74b8a7",
     "summary": "Lord Evans of Watford and other directors of investment firm deny claims made in lawsuits they say are ‘meritless’ A peer suspended by the House of Lords for breaking lobbying rules is now facing claims that he received at least $1m (£760,000) from an allegedly corrupt deal. Lord Evans of Watford, a longtime Labour peer, was found last week by the House of Lords watchdog to have broken its rules four times after undercover reporting by the Guardian, and will be suspended for five months. Continue reading...",
     "ingested_utc": "2025-12-04T13:13:06Z"
-  },
-  {
-    "published_utc": "2025-12-04",
-    "retrieved_date": "2025-12-04",
-    "retrieved_utc": "2025-12-04T13:13:06Z",
-    "source": "Guardian_World",
-    "title": "Water plant that caused Tunbridge Wells supply failure was given risk notice in 2024",
-    "url": "https://www.theguardian.com/environment/2025/dec/04/south-east-water-plant-tunbridge-wells-supply-failure-risk-notice",
-    "id_key": "09fbe6ca057005ef3ecba8d34273feed090a07b26c18e0d285269e7444b33fb1",
-    "summary": "Watchdog investigating South East Water contamination issue had previously warned of potential health danger UK politics live – latest updates A water treatment centre that failed and led to tens of thousands of people in Tunbridge Wells being cut off from the supply had previously been served a warning by the regulator over bacteria and pesticide contamination risks. The Kent town is under a boil water notice after residents’ water supplies were cut on Saturday. South East Water has told residents the water from their taps is unsuitable for drinking, giving to pets, brushing teeth, washing children , or bathing in with an open wound. Continue reading...",
-    "ingested_utc": "2025-12-04T13:13:06Z"
-  },
-  {
-    "published_utc": "2025-12-04",
-    "retrieved_date": "2025-12-04",
-    "retrieved_utc": "2025-12-04T13:13:06Z",
-    "source": "Guardian_World",
-    "title": "‘Alligator Alcatraz’ detainees face human rights violations, report alleges | First Thing",
-    "url": "https://www.theguardian.com/us-news/2025/dec/04/first-thing-alligator-alcatraz-detainees-human-rights-violations-amnesty-report-alleges",
-    "id_key": "7887a2fdf62f2bb320e4861da9249ca788ba82dc53a983b60c4c3e4225760d25",
-    "summary": "Amnesty finds detainees at Florida facility were shackled and left outside in metal cage. Plus, how the dollar-store industry overcharges consumers Good morning. Detainees at the notorious Florida immigration jail known as “Alligator Alcatraz” were shackled inside a 2ft-high metal cage and left outside without water for up to a day at a time, a shocking report published on Thursday by Amnesty International alleges. Didn’t a judge order the facility to shut down? A federal judge in August ordered it to close after a wave of criticism and a lawsuit by environmental groups. However, by October, the facility was operating again with hundreds of detainees after two Trump-appointed appellate court judges – one whose husband has close ties to the Republican governor Ron DeSantis – blocked the closure ruling. Has the state of Florida responded to the allegations? The press secretary to DeSantis told the Guardian the allegations were “fabrications” and part of a “politically motivated attack”. Why have they released these photos now? It’s unclear. Even though the images do not reveal anything new, they keep the pressure on the Trump administration ahead of a 19 December deadline for the justice department to release files, as per the Epstein Files Transparency Act , signed 19 November. Continue reading...",
-    "ingested_utc": "2025-12-04T13:13:06Z"
-  },
-  {
-    "published_utc": "2025-12-04",
-    "retrieved_date": "2025-12-04",
-    "retrieved_utc": "2025-12-04T13:11:24Z",
-    "source": "Protos",
-    "title": "Trump hints at Kevin Hassett as top pick for federal chair",
-    "url": "https://protos.com/trump-hints-at-kevin-hassett-as-top-pick-for-federal-chair/",
-    "id_key": "bc0b41d335cf34869e17c2d8693982d8872c462e32e977d85d7d8113a3268eba",
-    "summary": "Jerome Powell is finishing up his final months as chairman of the Federal Reserve. Donald Trump’s top pick is crypto bull Kevin Hassett. The post Trump hints at Kevin Hassett as top pick for federal chair appeared first on Protos .",
-    "ingested_utc": "2025-12-04T13:11:24Z"
-  },
-  {
-    "published_utc": "2025-12-04",
-    "retrieved_date": "2025-12-04",
-    "retrieved_utc": "2025-12-04T13:11:23Z",
-    "source": "CryptoBriefing",
-    "title": "Aster reveals 2026 roadmap with layer 1 launch and community-driven upgrades",
-    "url": "https://cryptobriefing.com/aster-dex-2026-roadmap-layer1-upgrades-tokenized-assets/",
-    "id_key": "d03d1d64620c2e6eaa722c35a978d75d55e3c5ad17b7d7a8bea63c358427d145",
-    "summary": "Aster's 2026 roadmap could significantly enhance decentralized finance by fostering user-driven innovation and expanding real-world asset integration. The post Aster reveals 2026 roadmap with layer 1 launch and community-driven upgrades appeared first on Crypto Briefing .",
-    "ingested_utc": "2025-12-04T13:11:23Z"
   }
 ]
