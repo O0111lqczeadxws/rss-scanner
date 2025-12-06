@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-12-06",
     "retrieved_date": "2025-12-06",
+    "retrieved_utc": "2025-12-06T05:36:02Z",
+    "source": "Nikkei_Asia_Top",
+    "title": "The secrets behind the Mazda MX-5 Miata's decades-long success",
+    "url": "https://asia.nikkei.com/business/automobiles/the-secrets-behind-the-mazda-mx-5-miata-s-decades-long-success",
+    "id_key": "8d15fcf85a0e875831b16a95b942a23bc2398f90953cc486cd90b58776122991",
+    "summary": "",
+    "ingested_utc": "2025-12-06T05:36:02Z"
+  },
+  {
+    "published_utc": "2025-12-06",
+    "retrieved_date": "2025-12-06",
     "retrieved_utc": "2025-12-06T05:14:49Z",
     "source": "FT_Markets",
     "title": "Leaders and laggards in a strong year for FTSE 100 stocks",
@@ -10986,17 +10997,6 @@
     "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/varicent-unveils-ai-native-architecture-at-the-inaugural-unlock-innovation-forum",
     "id_key": "722c2cfd7030ab2d12e14b6f61f708013bfe2ea5ff2927946d7e3d19f29e1532",
     "summary": "TORONTO — Varicent, the leader in Sales Performance Management, today showcased new progress in its AI-native architecture, revealing updates that reshape how the Varicent Platform handles sales planning, incentive design, data preparation, and inquiry management. Introduced at the company’s inaugural Unlock Innovation Forum, the updates reflect Varicent’s ongoing work to build AI into the structure […]",
-    "ingested_utc": "2025-12-04T13:14:18Z"
-  },
-  {
-    "published_utc": "2025-12-04",
-    "retrieved_date": "2025-12-04",
-    "retrieved_utc": "2025-12-04T13:14:18Z",
-    "source": "FinancialPost_Business",
-    "title": "Smarsh Awarded a 2025 AWS Partner Award",
-    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/smarsh-awarded-a-2025-aws-partner-award",
-    "id_key": "f6eeac95497fc0c1109c0db3a4411e68791e9392a7e88c204d62b562448d4c54",
-    "summary": "Recognition underscores Smarsh’s market leadership in helping financial institutions modernize securely, unlock the full value of AI, and strengthen global risk oversight. PORTLAND, Ore. — Smarsh, the global leader in communications intelligence, today announced it is a recipient of a 2025 Geo and Global AWS Partner Award, recognizing leaders around the globe that are playing […]",
     "ingested_utc": "2025-12-04T13:14:18Z"
   }
 ]
