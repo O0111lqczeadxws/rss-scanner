@@ -1,13 +1,13 @@
 {
-  "started_utc": "2025-12-06T09:30:14Z",
-  "ended_utc": "2025-12-06T09:33:56Z",
-  "new_items_this_run": 2,
+  "started_utc": "2025-12-06T09:40:42Z",
+  "ended_utc": "2025-12-06T09:44:21Z",
+  "new_items_this_run": 0,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
     "Reuters_World": 0,
     "Reuters_Markets": 0,
-    "BBC_World": 1,
+    "BBC_World": 0,
     "BBC_Business": 0,
     "BBC_Technology": 0,
     "Guardian_Business": 0,
@@ -22,7 +22,7 @@
     "CryptoSlate": 0,
     "CryptoBriefing": 0,
     "Protos": 0,
-    "CryptoNews": 1,
+    "CryptoNews": 0,
     "CoinJournal": 0,
     "Unchained": 0,
     "Bankless": 0,
@@ -192,7 +192,7 @@
     },
     {
       "source": "Gemini_Blog",
-      "error": "<unknown>:453:1798538: junk after document element"
+      "error": "<unknown>:453:1798662: junk after document element"
     },
     {
       "source": "https://www.circle.com/blog/rss.xml",
@@ -351,7 +351,7 @@
     "entries_seen": 1539,
     "too_old": 500,
     "dup_title_url": 89,
-    "dup_id": 457
+    "dup_id": 459
   },
   "limits": {
     "skip_older_days": 10,
@@ -364,6 +364,6 @@
   },
   "processed": {
     "file": "data/processed/2025-12-06.jsonl",
-    "appended_new": 2
+    "appended_new": 0
   }
 }
