@@ -1,6 +1,6 @@
 {
-  "started_utc": "2025-12-06T23:37:43Z",
-  "ended_utc": "2025-12-06T23:41:12Z",
+  "started_utc": "2025-12-06T23:47:28Z",
+  "ended_utc": "2025-12-06T23:50:59Z",
   "new_items_this_run": 2,
   "total_in_latest": 1000,
   "by_source": {
@@ -11,7 +11,7 @@
     "BBC_Business": 0,
     "BBC_Technology": 0,
     "Guardian_Business": 0,
-    "Guardian_World": 1,
+    "Guardian_World": 2,
     "WSJ_US_Business": 0,
     "WSJ_World": 0,
     "WSJ_Markets": 0,
@@ -87,7 +87,7 @@
     "WorldBank_News": 0,
     "OECD_Newsroom": 0,
     "MIT_TechReview": 0,
-    "HackerNews_Top": 1
+    "HackerNews_Top": 0
   },
   "errors": [
     {
@@ -192,7 +192,7 @@
     },
     {
       "source": "Gemini_Blog",
-      "error": "<unknown>:453:1798527: junk after document element"
+      "error": "<unknown>:453:1798415: junk after document element"
     },
     {
       "source": "https://www.circle.com/blog/rss.xml",
