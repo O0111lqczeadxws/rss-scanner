@@ -1,7 +1,7 @@
 {
-  "started_utc": "2025-12-06T03:53:43Z",
-  "ended_utc": "2025-12-06T03:57:10Z",
-  "new_items_this_run": 1,
+  "started_utc": "2025-12-06T04:13:41Z",
+  "ended_utc": "2025-12-06T04:17:13Z",
+  "new_items_this_run": 2,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
@@ -87,7 +87,7 @@
     "WorldBank_News": 0,
     "OECD_Newsroom": 0,
     "MIT_TechReview": 0,
-    "HackerNews_Top": 1
+    "HackerNews_Top": 2
   },
   "errors": [
     {
@@ -159,6 +159,14 @@
       "error": "fatal parse failure"
     },
     {
+      "source": "https://medium.com/feed/aave",
+      "error": "fetch error: HTTP 429"
+    },
+    {
+      "source": "Aave_Blog",
+      "error": "fatal parse failure"
+    },
+    {
       "source": "https://blog.optimism.io/rss/",
       "error": "fetch error: HTTPSConnectionPool(host='blog.optimism.io', port=443): Max retries exceeded with url: /rss/ (Caused by NameResolutionError(\"HTTPSConnection(host='blog.optimism.io', port=443): Failed to resolve 'blog.optimism.io' ([Errno -5] No address associated with hostname)\"))"
     },
@@ -192,7 +200,7 @@
     },
     {
       "source": "Gemini_Blog",
-      "error": "<unknown>:453:1798600: junk after document element"
+      "error": "<unknown>:453:1798662: junk after document element"
     },
     {
       "source": "https://www.circle.com/blog/rss.xml",
@@ -339,19 +347,19 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 574,
+    "passed_keywords": 573,
     "passed_allowlist": 0,
-    "failed_all_filters": 488
+    "failed_all_filters": 489
   },
   "stats": {
     "feeds_total": 97,
-    "feeds_error": 24,
+    "feeds_error": 25,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 1562,
-    "too_old": 500,
+    "entries_seen": 1552,
+    "too_old": 490,
     "dup_title_url": 101,
-    "dup_id": 472
+    "dup_id": 470
   },
   "limits": {
     "skip_older_days": 10,
@@ -364,6 +372,6 @@
   },
   "processed": {
     "file": "data/processed/2025-12-06.jsonl",
-    "appended_new": 1
+    "appended_new": 2
   }
 }
