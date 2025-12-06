@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-12-06",
     "retrieved_date": "2025-12-06",
+    "retrieved_utc": "2025-12-06T17:13:05Z",
+    "source": "HackerNews_Top",
+    "title": "Infisical (YC W23) Is Hiring Engineers to Build the Modern OSS Security Stack",
+    "url": "https://www.ycombinator.com/companies/infisical/jobs/2pwGcK9-senior-full-stack-engineer-us-canada",
+    "id_key": "4d5742ac17f81e902071c6dd29b22e0a692fa09eaa8b447d2d390c8438921417",
+    "summary": "Comments",
+    "ingested_utc": "2025-12-06T17:13:05Z"
+  },
+  {
+    "published_utc": "2025-12-06",
+    "retrieved_date": "2025-12-06",
+    "retrieved_utc": "2025-12-06T17:12:54Z",
+    "source": "FinancialPost_Business",
+    "title": "French, German and UK Leaders to Meet Zelenskiy on Monday",
+    "url": "https://financialpost.com/pmn/business-pmn/french-german-and-uk-leaders-to-meet-zelenskiy-on-monday",
+    "id_key": "ad6a426e9a8bc9b712c097581cc934f78382b4607cf8a77ca36d353f6c0aed32",
+    "summary": "The leaders of France, Germany and the UK will meet with Ukrainian President Volodymyr Zelenskiy in London on Monday to discuss US efforts to reach a peace deal after Russia carried out another round of massive attacks.",
+    "ingested_utc": "2025-12-06T17:12:54Z"
+  },
+  {
+    "published_utc": "2025-12-06",
+    "retrieved_date": "2025-12-06",
     "retrieved_utc": "2025-12-06T16:54:51Z",
     "source": "AlJazeera_All",
     "title": "Syria’s al-Sharaa promises peace and unity in face of Israeli aggression",
@@ -10976,27 +10998,5 @@
     "id_key": "e90403d3d4353141ef992f9e0b8c13dd7269059e1d17956f4a0dc7d1b62010a0",
     "summary": "TORONTO, Dec. 04, 2025 (GLOBE NEWSWIRE) — FirstService Corporation (TSX: FSV; NASDAQ: FSV) (“FirstService“) announced today that its Board of Directors has declared a quarterly cash dividend on the outstanding Common Shares of US$0.275 per Common Share. The dividend is payable on January 7, 2026 to holders of Common Shares of record at the close […]",
     "ingested_utc": "2025-12-04T16:54:24Z"
-  },
-  {
-    "published_utc": "2025-12-04",
-    "retrieved_date": "2025-12-04",
-    "retrieved_utc": "2025-12-04T16:54:18Z",
-    "source": "AlJazeera_All",
-    "title": "Trump news live: Congo, Rwanda leaders visit White House in push for peace",
-    "url": "https://www.aljazeera.com/news/liveblog/2025/12/4/trump-news-live-congo-rwanda-leaders-visit-white-house-in-push-for-peace?traffic_source=rss",
-    "id_key": "6dae97e64e406ac0a58adff5dee2b8562970277326d560a934589892f9364408",
-    "summary": "US President Donald Trump will meet leaders of the Democratic Republic of Congo and Rwanda in Washington.",
-    "ingested_utc": "2025-12-04T16:54:18Z"
-  },
-  {
-    "published_utc": "2025-12-04",
-    "retrieved_date": "2025-12-04",
-    "retrieved_utc": "2025-12-04T16:54:18Z",
-    "source": "AlJazeera_All",
-    "title": "Another devastating Israeli strike on Lebanon captured on video",
-    "url": "https://www.aljazeera.com/video/newsfeed/2025/12/4/another-devastating-israeli-strike-on-lebanon-captured-on-video?traffic_source=rss",
-    "id_key": "fa0a187e2832636b5fc2fddd7cb2a9821e177dd9f489a820e3c0046633428bc6",
-    "summary": "Video captured an Israeli strike destroying a building in southern Lebanon, this time in al-Majadel.",
-    "ingested_utc": "2025-12-04T16:54:18Z"
   }
 ]
