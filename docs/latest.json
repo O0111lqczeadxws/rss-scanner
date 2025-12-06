@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-12-06",
     "retrieved_date": "2025-12-06",
+    "retrieved_utc": "2025-12-06T16:16:08Z",
+    "source": "AlJazeera_All",
+    "title": "South Africa shooting leaves 12 dead, including young child: Police",
+    "url": "https://www.aljazeera.com/news/2025/12/6/south-africa-shooting-leaves-12-dead-including-young-child-police?traffic_source=rss",
+    "id_key": "7b44b83cb5ef65f16f9a1a11fc124d086a6c39ec0a77f1e3f7b7e76a66f65f46",
+    "summary": "Police say 25 people were shot at 'illegal' bar in hostel in Pretoria, with three children among the dead.",
+    "ingested_utc": "2025-12-06T16:16:08Z"
+  },
+  {
+    "published_utc": "2025-12-06",
+    "retrieved_date": "2025-12-06",
+    "retrieved_utc": "2025-12-06T16:15:56Z",
+    "source": "TheVerge_All",
+    "title": "The tech world is sleeping on the most exciting Bluetooth feature in years",
+    "url": "https://www.theverge.com/report/839245/auracast-marketing-jbl-lg-samsung-google",
+    "id_key": "a60a537366a9d8fea7e842066c0ed54a5c12994a3c1cc13803959658168ed107",
+    "summary": "It's been a few years since the official introduction of the Bluetooth technology Auracast, which allows devices like earbuds, headphones, speakers, and hearing aids to connect to a single source without the need for pairing. Like a radio picks up your local radio stations, all you have to do is connect to the right broadcast. […]",
+    "ingested_utc": "2025-12-06T16:15:56Z"
+  },
+  {
+    "published_utc": "2025-12-06",
+    "retrieved_date": "2025-12-06",
     "retrieved_utc": "2025-12-06T15:50:37Z",
     "source": "TheStreet_Top",
     "title": "Nostalgic social media app makes unexpected comeback after 8 years",
@@ -10976,27 +10998,5 @@
     "id_key": "80f329e8d1ad79e4ef19067e88d6f7ecd5faa998b5f1d3a56b93de78f29e778c",
     "summary": "While TikTok is already known for its recommendation algorithm, which is able to target users with highly personalized content, the addition of a Nearby Feed gives it the ability to display even more relevant content to its users.",
     "ingested_utc": "2025-12-04T16:54:05Z"
-  },
-  {
-    "published_utc": "2025-12-04",
-    "retrieved_date": "2025-12-04",
-    "retrieved_utc": "2025-12-04T16:53:50Z",
-    "source": "FT_Markets",
-    "title": "Lead developer of major Scottish carbon capture project to sell stake",
-    "url": "https://www.ft.com/content/9192bbce-d364-454d-9488-849b46a5dadb",
-    "id_key": "1d3da02daa6adc3fbbd5f9cb6d25353e86ebbc54c8fa98183b0a61d22ff1b090",
-    "summary": "Decision raises questions about project’s future and fuels concern over declining industrial base",
-    "ingested_utc": "2025-12-04T16:53:50Z"
-  },
-  {
-    "published_utc": "2025-12-04",
-    "retrieved_date": "2025-12-04",
-    "retrieved_utc": "2025-12-04T16:53:39Z",
-    "source": "NYTimes_Technology",
-    "title": "A.I. Deal Making Is Getting Faster",
-    "url": "https://www.nytimes.com/2025/12/04/technology/ai-deal-making-faster.html",
-    "id_key": "e72d580387ed240766b9732ed69f48d543d2a714c232b3f89df9e92db9d7ff0b",
-    "summary": "Investors are deciding within 15 minutes whether to shovel millions into A.I. start-ups and taking entrepreneurs weight lifting and rock climbing to get deals done.",
-    "ingested_utc": "2025-12-04T16:53:39Z"
   }
 ]
