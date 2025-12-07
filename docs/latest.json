@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-12-07",
     "retrieved_date": "2025-12-07",
+    "retrieved_utc": "2025-12-07T19:28:04Z",
+    "source": "FinancialPost_Business",
+    "title": "Government waives part of a Biden-era fine against Southwest Airlines",
+    "url": "https://financialpost.com/pmn/government-waives-part-of-a-biden-era-fine-against-southwest-airlines",
+    "id_key": "567bd020e1827b8203add2f86a02cd3ad751005aaa1560fddaa5f0c8c1312c52",
+    "summary": "The U.S. Department of Transportation is waiving part of a fine assessed against Southwest Airlines after the company canceled thousands of flights during a winter storm in 2022. Under a 2023 settlement reached by the Biden administration, Southwest agreed to a $140 million civil penalty. The government said at the time that the penalty was […]",
+    "ingested_utc": "2025-12-07T19:28:04Z"
+  },
+  {
+    "published_utc": "2025-12-07",
+    "retrieved_date": "2025-12-07",
+    "retrieved_utc": "2025-12-07T19:27:57Z",
+    "source": "AlJazeera_All",
+    "title": "Russia welcomes Trump’s revised US security strategy",
+    "url": "https://www.aljazeera.com/news/2025/12/7/russia-welcomes-trumps-revised-us-security-strategy?traffic_source=rss",
+    "id_key": "01c48a62a81e4c6bccc041515ab358c8010f3c55849866662d5e778034a04814",
+    "summary": "A Kremlin spokesperson said that the changes 'correspond in many ways to our vision'.",
+    "ingested_utc": "2025-12-07T19:27:57Z"
+  },
+  {
+    "published_utc": "2025-12-07",
+    "retrieved_date": "2025-12-07",
     "retrieved_utc": "2025-12-07T19:11:48Z",
     "source": "Engadget_All",
     "title": "OpenAI’s head of ChatGPT says posts appearing to show in-app ads are ‘not real or not ads’",
@@ -10976,27 +10998,5 @@
     "id_key": "bc85bc2e0ae1b1e242586d6016ad55a3fe7ccc22a7c39db95af731c5f06a30fd",
     "summary": "Crypto market cap has held at $3.24T ahead of the FOMC as traders weigh Fed rate cuts and new altcoin ETFs, while PEPENODE has been presented as the best new meme coin for virtual mining nodes and high staking yields into 2026. The post Best New Meme Coin to Buy Today – 4 December appeared first on Cryptonews .",
     "ingested_utc": "2025-12-04T23:41:48Z"
-  },
-  {
-    "published_utc": "2025-12-04",
-    "retrieved_date": "2025-12-04",
-    "retrieved_utc": "2025-12-04T23:41:45Z",
-    "source": "CryptoSlate",
-    "title": "Bitcoin is quietly becoming the ultimate expert witness, forcing judges to accept a new standard of truth",
-    "url": "https://cryptoslate.com/bitcoin-is-quietly-becoming-the-ultimate-expert-witness-forcing-judges-to-accept-a-new-standard-of-truth/",
-    "id_key": "01c39aa1ed9cfe78485f020418a491d0bea314a972c9a93b830ded69e9711586",
-    "summary": "The year is 2075. The judge does not ask for a deed. She asks for a transaction ID. The landlord’s lawyer queues up a Bitcoin transaction from fifteen years earlier that moved a token representing the property. The tenant’s lawyer concedes the transaction exists, yet claims the signature was obtained under duress. Everyone in the […] The post Bitcoin is quietly becoming the ultimate expert witness, forcing judges to accept a new standard of truth appeared first on CryptoSlate .",
-    "ingested_utc": "2025-12-04T23:41:45Z"
-  },
-  {
-    "published_utc": "2025-12-04",
-    "retrieved_date": "2025-12-04",
-    "retrieved_utc": "2025-12-04T23:33:46Z",
-    "source": "HackerNews_Top",
-    "title": "CUDA-l2: Surpassing cuBLAS performance for matrix multiplication through RL",
-    "url": "https://github.com/deepreinforce-ai/CUDA-L2",
-    "id_key": "0c7baafe164903c0daaf8f39f0b237b2a38957665c3cae0e5e52861b7d898c4c",
-    "summary": "Comments",
-    "ingested_utc": "2025-12-04T23:33:46Z"
   }
 ]

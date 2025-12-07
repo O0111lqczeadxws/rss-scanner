@@ -1,6 +1,6 @@
 {
-  "started_utc": "2025-12-07T19:08:41Z",
-  "ended_utc": "2025-12-07T19:12:15Z",
+  "started_utc": "2025-12-07T19:24:29Z",
+  "ended_utc": "2025-12-07T19:28:15Z",
   "new_items_this_run": 2,
   "total_in_latest": 1000,
   "by_source": {
@@ -57,7 +57,7 @@
     "MarketWatch_Bulletins": 0,
     "MarketWatch_PersonalFinance": 0,
     "NYTimes_Business": 0,
-    "NYTimes_World": 1,
+    "NYTimes_World": 0,
     "NYTimes_Economy": 0,
     "NYTimes_Technology": 0,
     "CNN_Top": 0,
@@ -74,14 +74,14 @@
     "TechCrunch_All": 0,
     "ArsTechnica_All": 0,
     "WIRED_All": 0,
-    "Engadget_All": 1,
+    "Engadget_All": 0,
     "TheEconomist_Business": 0,
     "TheEconomist_Finance": 0,
     "Investopedia_Latest": 0,
     "TheStreet_Top": 0,
-    "AlJazeera_All": 0,
+    "AlJazeera_All": 1,
     "AlJazeera_Economy": 0,
-    "FinancialPost_Business": 0,
+    "FinancialPost_Business": 1,
     "CBC_Business": 0,
     "Nikkei_Asia_Top": 0,
     "WorldBank_News": 0,
@@ -131,8 +131,16 @@
       "error": "fatal parse failure"
     },
     {
+      "source": "https://unchainedcrypto.com/feed/",
+      "error": "fetch error: HTTP 415"
+    },
+    {
+      "source": "Unchained",
+      "error": "fatal parse failure"
+    },
+    {
       "source": "https://www.bankless.com/rss",
-      "error": "fetch error: HTTP 404"
+      "error": "fetch error: HTTP 415"
     },
     {
       "source": "Bankless",
@@ -192,7 +200,7 @@
     },
     {
       "source": "Gemini_Blog",
-      "error": "<unknown>:453:1797762: junk after document element"
+      "error": "<unknown>:453:1797700: junk after document element"
     },
     {
       "source": "https://www.circle.com/blog/rss.xml",
@@ -339,19 +347,19 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 524,
+    "passed_keywords": 518,
     "passed_allowlist": 0,
-    "failed_all_filters": 490
+    "failed_all_filters": 486
   },
   "stats": {
     "feeds_total": 97,
-    "feeds_error": 24,
+    "feeds_error": 25,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 1535,
+    "entries_seen": 1525,
     "too_old": 521,
     "dup_title_url": 82,
-    "dup_id": 440
+    "dup_id": 434
   },
   "limits": {
     "skip_older_days": 10,
