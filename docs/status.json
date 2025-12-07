@@ -1,17 +1,17 @@
 {
-  "started_utc": "2025-12-07T14:10:27Z",
-  "ended_utc": "2025-12-07T14:13:54Z",
-  "new_items_this_run": 9,
+  "started_utc": "2025-12-07T14:30:30Z",
+  "ended_utc": "2025-12-07T14:33:59Z",
+  "new_items_this_run": 5,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
     "Reuters_World": 0,
     "Reuters_Markets": 0,
-    "BBC_World": 1,
+    "BBC_World": 0,
     "BBC_Business": 0,
     "BBC_Technology": 0,
     "Guardian_Business": 0,
-    "Guardian_World": 4,
+    "Guardian_World": 1,
     "WSJ_US_Business": 0,
     "WSJ_World": 0,
     "WSJ_Markets": 0,
@@ -63,7 +63,7 @@
     "CNN_Top": 0,
     "NPR_Top": 0,
     "NPR_Business": 0,
-    "NPR_Economy": 0,
+    "NPR_Economy": 1,
     "NPR_World": 0,
     "NPR_Technology": 0,
     "FT_Home": 1,
@@ -74,15 +74,15 @@
     "TechCrunch_All": 0,
     "ArsTechnica_All": 0,
     "WIRED_All": 0,
-    "Engadget_All": 1,
+    "Engadget_All": 0,
     "TheEconomist_Business": 0,
     "TheEconomist_Finance": 0,
     "Investopedia_Latest": 0,
-    "TheStreet_Top": 0,
-    "AlJazeera_All": 2,
+    "TheStreet_Top": 1,
+    "AlJazeera_All": 0,
     "AlJazeera_Economy": 0,
     "FinancialPost_Business": 0,
-    "CBC_Business": 0,
+    "CBC_Business": 1,
     "Nikkei_Asia_Top": 0,
     "WorldBank_News": 0,
     "OECD_Newsroom": 0,
@@ -192,7 +192,7 @@
     },
     {
       "source": "Gemini_Blog",
-      "error": "<unknown>:453:1797700: junk after document element"
+      "error": "<unknown>:453:1797762: junk after document element"
     },
     {
       "source": "https://www.circle.com/blog/rss.xml",
@@ -341,17 +341,17 @@
     ],
     "passed_keywords": 517,
     "passed_allowlist": 0,
-    "failed_all_filters": 495
+    "failed_all_filters": 496
   },
   "stats": {
     "feeds_total": 97,
     "feeds_error": 24,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 1533,
+    "entries_seen": 1534,
     "too_old": 521,
-    "dup_title_url": 80,
-    "dup_id": 428
+    "dup_title_url": 82,
+    "dup_id": 430
   },
   "limits": {
     "skip_older_days": 10,
@@ -364,6 +364,6 @@
   },
   "processed": {
     "file": "data/processed/2025-12-07.jsonl",
-    "appended_new": 9
+    "appended_new": 5
   }
 }
