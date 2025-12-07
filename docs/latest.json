@@ -541,6 +541,17 @@
   {
     "published_utc": "2025-12-06",
     "retrieved_date": "2025-12-07",
+    "retrieved_utc": "2025-12-07T08:37:06Z",
+    "source": "BBC_Business",
+    "title": "Iceland boss Richard Walker to become Labour peer, sources say",
+    "url": "https://www.bbc.com/news/articles/c246znlmnyzo?at_medium=RSS&at_campaign=rss",
+    "id_key": "adb73f03fea91588b369e0ea63dd6f46ab4422cffe16c0af465bde6e5452caee",
+    "summary": "The supermarket chair quit the Conservative Party to throw his support behind Sir Keir Starmer.",
+    "ingested_utc": "2025-12-07T08:37:06Z"
+  },
+  {
+    "published_utc": "2025-12-06",
+    "retrieved_date": "2025-12-07",
     "retrieved_utc": "2025-12-07T03:01:06Z",
     "source": "TheStreet_Top",
     "title": "Costco Executive Members suffer surprising hassle",
@@ -10987,16 +10998,5 @@
     "id_key": "f014e01e25a0f58a783373ae2b5c614500f19fe8b56aafd819b65f0e406801cd",
     "summary": "Apex Natural Gas, owned by hedge fund giant Citadel, has agreed to buy natural gas assets in Texas for about $430 million from billionaire Dallas Cowboys owner Jerry Jones’ Comstock Resources Inc., people familiar with the matter said.",
     "ingested_utc": "2025-12-04T19:33:12Z"
-  },
-  {
-    "published_utc": "2025-12-04",
-    "retrieved_date": "2025-12-04",
-    "retrieved_utc": "2025-12-04T19:33:04Z",
-    "source": "TheStreet_Top",
-    "title": "Amazon is selling a $1,300 modular sectional sofa for $759 that's luxurious and spacious",
-    "url": "https://www.thestreet.com/deals/homyhomey-modular-sectional-sofa-amazon-sale",
-    "id_key": "f865c0c338f66e716c982ef6c96334064634859a0ebf2501faffc064b48e8283",
-    "summary": "Shoppers are calling it their new favorite spot in the house.",
-    "ingested_utc": "2025-12-04T19:33:04Z"
   }
 ]
