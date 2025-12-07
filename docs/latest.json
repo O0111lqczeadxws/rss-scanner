@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-12-07",
     "retrieved_date": "2025-12-07",
+    "retrieved_utc": "2025-12-07T19:11:48Z",
+    "source": "Engadget_All",
+    "title": "OpenAI’s head of ChatGPT says posts appearing to show in-app ads are ‘not real or not ads’",
+    "url": "https://www.engadget.com/ai/openais-head-of-chatgpt-says-posts-appearing-to-show-in-app-ads-are-not-real-or-not-ads-190454584.html?src=rss",
+    "id_key": "eb18ac5f220148e2fe562e47c7fe10fe950dc5aff4caf5c5f0283d467697f706",
+    "summary": "Those might not exactly be ads you're seeing on ChatGPT, at least according to OpenAI. Nick Turley, OpenAI's head of ChatGPT, clarified the confusion around potential ads appearing with the AI chatbot. In a post on X , Turley said \"there are no live tests for ads\" and that \"any screenshots you've seen are either not real or not ads.\" The OpenAI exec's explanation comes after another post from former xAI employee Benjamin De Kraker on X that has gained traction, which featured a screenshot showing an option to shop at Target within a ChatGPT conversation. OpenAI's Daniel McAuley responded to the post, arguing that it's not an ad but rather an example of app integration that the company announced in October. However, the company's chief research officer, Mark Chen, also replied on X that they \"fell short\" in this case, adding that \"anything that feels like an ad needs to be handled with care.\" \"We’ve turned off this kind of suggestion while we improve the model’s precision,\" Chen wrote on X. \"We’re also looking at better controls so you can dial this down or off if you don’t find it helpful.\" There's still a lot of uncertainty about whether OpenAI will introduce ads to ChatGPT, but in November, someone discovered code in a beta version of the ChatGPT app on Android that made several mentions of ads. Even in Turley's post debunking the inclusion of live ads, the OpenAI exec added that \"if we do pursue ads, we’ll take a thoughtful approach.\" Turley also posted that \"people trust ChatGPT and anything we do will be designed to respect that.\" This article originally appeared on Engadget at https://www.engadget.com/ai/openais-head-of-chatgpt-says-posts-appearing-to-show-in-app-ads-are-not-real-or-not-ads-190454584.html?src=rss",
+    "ingested_utc": "2025-12-07T19:11:48Z"
+  },
+  {
+    "published_utc": "2025-12-07",
+    "retrieved_date": "2025-12-07",
+    "retrieved_utc": "2025-12-07T19:11:18Z",
+    "source": "NYTimes_World",
+    "title": "Benin Coup Attempt to Oust Talon Has Been Foiled, Interior Minister Says",
+    "url": "https://www.nytimes.com/2025/12/07/world/africa/benin-coup-shots-military-africa.html",
+    "id_key": "e056101b23147d524828507cc2a2de0a3cb255157ce9d4255a28155a5888d9e9",
+    "summary": "A spokesman said 14 members of the military had been arrested, though much remained unclear. The West African country’s president was said to be safe but had not made an appearance by Sunday night.",
+    "ingested_utc": "2025-12-07T19:11:18Z"
+  },
+  {
+    "published_utc": "2025-12-07",
+    "retrieved_date": "2025-12-07",
     "retrieved_utc": "2025-12-07T18:45:25Z",
     "source": "Nikkei_Asia_Top",
     "title": "Mitsui to boost LNG output in Australia, first new project in 5 years",
@@ -10976,27 +10998,5 @@
     "id_key": "0c7baafe164903c0daaf8f39f0b237b2a38957665c3cae0e5e52861b7d898c4c",
     "summary": "Comments",
     "ingested_utc": "2025-12-04T23:33:46Z"
-  },
-  {
-    "published_utc": "2025-12-04",
-    "retrieved_date": "2025-12-04",
-    "retrieved_utc": "2025-12-04T23:33:36Z",
-    "source": "FinancialPost_Business",
-    "title": "More people are using food banks as inflation grows, Manitoba report says",
-    "url": "https://financialpost.com/pmn/more-people-are-using-food-banks-as-inflation-grows-manitoba-report-says",
-    "id_key": "f835d4c1e56da25ba7f6a5bf01b3588957d2c3252916765a9053684764ed7c07",
-    "summary": "WINNIPEG — The number of Manitobans using food banks has risen sharply as people struggle with the escalating cost of living, a report released Thursday by Harvest Manitoba said. The group, which represents food banks across the province, says the number of people using food banks has grown by 150 per cent in five years, […]",
-    "ingested_utc": "2025-12-04T23:33:36Z"
-  },
-  {
-    "published_utc": "2025-12-04",
-    "retrieved_date": "2025-12-04",
-    "retrieved_utc": "2025-12-04T23:33:19Z",
-    "source": "WIRED_All",
-    "title": "Trump Wants to Trade Fuel Economy for Cheaper Cars. But It Might Not Work",
-    "url": "https://www.wired.com/story/trump-fuel-economy-standards-rollback-might-not-work/",
-    "id_key": "09bf6f89209620f5a3cbc74d86a6783885ce9c3cdc26dbc311dfe64720d1b53a",
-    "summary": "By rolling back auto industry fuel efficiency goals, US president Donald Trump hopes to make new cars cheaper. But prices won't drop for years, and consumers will spend more on gas in the meantime.",
-    "ingested_utc": "2025-12-04T23:33:19Z"
   }
 ]
