@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-12-07",
     "retrieved_date": "2025-12-07",
+    "retrieved_utc": "2025-12-07T23:30:02Z",
+    "source": "MarketWatch_Bulletins",
+    "title": "U.S. stock futures flat as investors await Fed meeting — and likely a rate cut",
+    "url": "https://www.marketwatch.com/bulletins/redirect/go?g=45bd3c5b-cf73-4535-9c38-c7844f585287&mod=mw_rss_bulletins",
+    "id_key": "c6db803dc4040b33b1a6fd6f447b6f29871d60f18ea9f8c4b39599b812321d2b",
+    "summary": "",
+    "ingested_utc": "2025-12-07T23:30:02Z"
+  },
+  {
+    "published_utc": "2025-12-07",
+    "retrieved_date": "2025-12-07",
     "retrieved_utc": "2025-12-07T23:14:02Z",
     "source": "FinancialPost_Business",
     "title": "Sonrotoclax Data at ASH 2025 Confirm Foundational Potential Across B-cell Malignancies",
@@ -10987,16 +10998,5 @@
     "id_key": "ad24ae88fab48b12eb2c2255f40459479b0c39136898094500f45a222c7c1452",
     "summary": "The president trumpeted a peace pact in a meeting with the two countries’ leaders that includes incentives for U.S. access to minerals. Fighting in eastern Congo has continued in the months since an earlier agreement.",
     "ingested_utc": "2025-12-05T00:58:30Z"
-  },
-  {
-    "published_utc": "2025-12-05",
-    "retrieved_date": "2025-12-05",
-    "retrieved_utc": "2025-12-05T00:56:29Z",
-    "source": "CryptoBriefing",
-    "title": "Rep. Marjorie Taylor Greene increases Bitcoin exposure during market dip",
-    "url": "https://cryptobriefing.com/marjorie-greene-bitcoin-exposure/",
-    "id_key": "7c00dcd741977972c1882b713a5563704b0ad707646b0d723a4fda51696b95ed",
-    "summary": "Increased Bitcoin investments by lawmakers may signal growing institutional acceptance and influence future regulatory and market dynamics. The post Rep. Marjorie Taylor Greene increases Bitcoin exposure during market dip appeared first on Crypto Briefing .",
-    "ingested_utc": "2025-12-05T00:56:29Z"
   }
 ]
