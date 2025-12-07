@@ -1,6 +1,6 @@
 {
-  "started_utc": "2025-12-07T04:26:36Z",
-  "ended_utc": "2025-12-07T04:30:19Z",
+  "started_utc": "2025-12-07T04:49:00Z",
+  "ended_utc": "2025-12-07T04:52:34Z",
   "new_items_this_run": 1,
   "total_in_latest": 1000,
   "by_source": {
@@ -11,7 +11,7 @@
     "BBC_Business": 0,
     "BBC_Technology": 0,
     "Guardian_Business": 0,
-    "Guardian_World": 0,
+    "Guardian_World": 1,
     "WSJ_US_Business": 0,
     "WSJ_World": 0,
     "WSJ_Markets": 0,
@@ -20,7 +20,7 @@
     "Blockworks": 0,
     "BitcoinMagazine": 0,
     "CryptoSlate": 0,
-    "CryptoBriefing": 1,
+    "CryptoBriefing": 0,
     "Protos": 0,
     "CryptoNews": 0,
     "CoinJournal": 0,
@@ -131,8 +131,16 @@
       "error": "fatal parse failure"
     },
     {
+      "source": "https://unchainedcrypto.com/feed/",
+      "error": "fetch error: HTTP 415"
+    },
+    {
+      "source": "Unchained",
+      "error": "fatal parse failure"
+    },
+    {
       "source": "https://www.bankless.com/rss",
-      "error": "fetch error: HTTP 404"
+      "error": "fetch error: HTTP 415"
     },
     {
       "source": "Bankless",
@@ -192,7 +200,7 @@
     },
     {
       "source": "Gemini_Blog",
-      "error": "<unknown>:453:1797480: junk after document element"
+      "error": "<unknown>:453:1797525: junk after document element"
     },
     {
       "source": "https://www.circle.com/blog/rss.xml",
@@ -339,19 +347,19 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 535,
+    "passed_keywords": 527,
     "passed_allowlist": 0,
-    "failed_all_filters": 489
+    "failed_all_filters": 487
   },
   "stats": {
     "feeds_total": 97,
-    "feeds_error": 24,
+    "feeds_error": 25,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 1534,
+    "entries_seen": 1524,
     "too_old": 510,
-    "dup_title_url": 85,
-    "dup_id": 449
+    "dup_title_url": 84,
+    "dup_id": 442
   },
   "limits": {
     "skip_older_days": 10,
