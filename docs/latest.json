@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-12-07",
     "retrieved_date": "2025-12-07",
+    "retrieved_utc": "2025-12-07T19:50:41Z",
+    "source": "HackerNews_Top",
+    "title": "A geothermal amoeba sets a new upper temperature limit for eukaryotes",
+    "url": "https://www.biorxiv.org/content/10.1101/2025.11.24.690213v1.full",
+    "id_key": "c21e66df92ec784b83af5cc302dedd63dcef78ea09809062518d9fae52bfa035",
+    "summary": "Comments",
+    "ingested_utc": "2025-12-07T19:50:41Z"
+  },
+  {
+    "published_utc": "2025-12-07",
+    "retrieved_date": "2025-12-07",
+    "retrieved_utc": "2025-12-07T19:49:53Z",
+    "source": "NPR_Top",
+    "title": "Defense Department is reviewing boat strike video for possible release, Hegseth says",
+    "url": "https://www.npr.org/2025/12/07/nx-s1-5636662/hegseth-venezuela-boat-strike-video",
+    "id_key": "24df8b3b458bfb637a612fdaed6b63f7957aa9eb597558c8d83b3e9ff485df24",
+    "summary": "In a speech on Saturday, Defense Secretary Pete Hegseth defended the strikes, saying: \"President Trump can and will take decisive military action as he sees fit to defend our nation's interests.\"",
+    "ingested_utc": "2025-12-07T19:49:53Z"
+  },
+  {
+    "published_utc": "2025-12-07",
+    "retrieved_date": "2025-12-07",
     "retrieved_utc": "2025-12-07T19:28:04Z",
     "source": "FinancialPost_Business",
     "title": "Government waives part of a Biden-era fine against Southwest Airlines",
@@ -1758,6 +1780,17 @@
     "id_key": "8ac51010ff926d578452ad5afc3a1fff971be764a888c991d6fed62615e65042",
     "summary": "At event in California, US defense secretary says Trump has power to take military action ‘as he sees fit’ Pete Hegseth on Saturday doubled down on his defense of US military strikes on alleged drug cartel boats in the Caribbean, arguing that Donald Trump has the power to take military action “as he sees fit” and dismissing concerns that the strikes violate international law. Hegseth spoke on Saturday at the Ronald Reagan presidential library in Simi Valley, California, amid growing scrutiny over the legality of the attacks and his leadership of the Pentagon . Continue reading...",
     "ingested_utc": "2025-12-07T01:01:09Z"
+  },
+  {
+    "published_utc": "2025-12-06",
+    "retrieved_date": "2025-12-07",
+    "retrieved_utc": "2025-12-07T19:49:54Z",
+    "source": "NPR_Business",
+    "title": "Waymo will recall software after its self-driving cars passed stopped school buses",
+    "url": "https://www.npr.org/2025/12/06/nx-s1-5635614/waymo-school-buses-recall",
+    "id_key": "42ce1850663856b4a18c0e013d7aac17224701ebd3374d5918c71456ef081a03",
+    "summary": "Waymo is issuing a software recall for its self-driving cars after reports the company's autonomous vehicles failed to stop for school buses.",
+    "ingested_utc": "2025-12-07T19:49:54Z"
   },
   {
     "published_utc": "2025-12-06",
@@ -10965,38 +10998,5 @@
     "id_key": "0453d7f3f43aca2c1d0296ce674c3ab75e5b4cb67fd2c94eef062334d66cd7ed",
     "summary": "Bushfires in Tasmania with firefighting efforts focused on Dolphin Sands area and Glenlusk, near Hobart. Follow today’s news live Get our breaking news email , free app or daily news podcast The Victorian government’s controversial “adult time for violent crime” bill has passed parliament without amendment. The bill, which will move serious crimes committed by children as young as 14 from the children’s court to adult courts, passed at about 6pm on Thursday with the support of the Coalition. I’m pleased these laws can now be put in place as soon as possible to protect Victorians. There are no easy solutions to youth crime, and the best approach is always to stop crime before it starts. But we absolutely need serious consequences for violent youth crime to protect the community now. Continue reading...",
     "ingested_utc": "2025-12-04T23:43:19Z"
-  },
-  {
-    "published_utc": "2025-12-04",
-    "retrieved_date": "2025-12-04",
-    "retrieved_utc": "2025-12-04T23:43:19Z",
-    "source": "Guardian_World",
-    "title": "Court hears Maurene Comey was fired as retaliation against ex-FBI chief father",
-    "url": "https://www.theguardian.com/us-news/2025/dec/04/maurene-comey-fired-prosecutor-court-retaliation",
-    "id_key": "fd2efd9430141863c58a526cdb33fb7a4605026db9ad3224066c1c5932616268",
-    "summary": "Daughter of James Comey was dismissed by Trump justice department from job as prosecutor in New York Maurene Comey , the federal prosecutor who helmed criminal cases against Jeffrey Epstein and Ghislaine Maxwell, appeared at Manhattan federal court on Thursday, in a lawsuit claiming she was fired as political retaliation against her father, James Comey. Comey was terminated in July, shortly after the federal trial of Sean “Diddy” Combs, whose prosecution she led; he was found guilty of prostitution-related crimes. Comey’s lawsuit contends that Donald Trump’s justice department axed her without explanation or cause, and instead simply cited “article 2 of the United States constitution and the laws of the United States” in an email. Continue reading...",
-    "ingested_utc": "2025-12-04T23:43:19Z"
-  },
-  {
-    "published_utc": "2025-12-04",
-    "retrieved_date": "2025-12-04",
-    "retrieved_utc": "2025-12-04T23:43:19Z",
-    "source": "Guardian_World",
-    "title": "US supreme court approves redrawn Texas congressional maps",
-    "url": "https://www.theguardian.com/us-news/2025/dec/04/us-supreme-court-texas-congressional-maps",
-    "id_key": "9497a7c1221274d1f2b43f05b60f8ffa6c25bd7f260f98b6e3b7fcfa4114d8cc",
-    "summary": "Major win for Trump as justices reject lower-court ruling that found maps had been racially gerrymandered Texas can use a redrawn congressional map that adds as many as five Republican-friendly seats, the supreme court has ruled, giving Donald Trump and the GOP a major win in their push to add Republican congressional seats ahead of next year’s midterm elections. The supreme court’s decision came after a 2-1 ruling from a three-judge panel striking down Texas’s new map in November. The majority found the state had likely sorted voters based on their race – an unlawful practice called racial gerrymandering – when they adopted the new maps. The majority ordered the state to use the maps it had adopted after the 2020 census for next year’s election. Continue reading...",
-    "ingested_utc": "2025-12-04T23:43:19Z"
-  },
-  {
-    "published_utc": "2025-12-04",
-    "retrieved_date": "2025-12-04",
-    "retrieved_utc": "2025-12-04T23:41:48Z",
-    "source": "CryptoNews",
-    "title": "Best New Meme Coin to Buy Today – 4 December",
-    "url": "https://cryptonews.com/news/uk-budget-confirms-new-crypto-reporting-rules-from-january-1/",
-    "id_key": "bc85bc2e0ae1b1e242586d6016ad55a3fe7ccc22a7c39db95af731c5f06a30fd",
-    "summary": "Crypto market cap has held at $3.24T ahead of the FOMC as traders weigh Fed rate cuts and new altcoin ETFs, while PEPENODE has been presented as the best new meme coin for virtual mining nodes and high staking yields into 2026. The post Best New Meme Coin to Buy Today – 4 December appeared first on Cryptonews .",
-    "ingested_utc": "2025-12-04T23:41:48Z"
   }
 ]

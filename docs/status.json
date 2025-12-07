@@ -1,7 +1,7 @@
 {
-  "started_utc": "2025-12-07T19:33:13Z",
-  "ended_utc": "2025-12-07T19:36:44Z",
-  "new_items_this_run": 0,
+  "started_utc": "2025-12-07T19:47:12Z",
+  "ended_utc": "2025-12-07T19:50:42Z",
+  "new_items_this_run": 3,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
@@ -61,8 +61,8 @@
     "NYTimes_Economy": 0,
     "NYTimes_Technology": 0,
     "CNN_Top": 0,
-    "NPR_Top": 0,
-    "NPR_Business": 0,
+    "NPR_Top": 1,
+    "NPR_Business": 1,
     "NPR_Economy": 0,
     "NPR_World": 0,
     "NPR_Technology": 0,
@@ -87,7 +87,7 @@
     "WorldBank_News": 0,
     "OECD_Newsroom": 0,
     "MIT_TechReview": 0,
-    "HackerNews_Top": 0
+    "HackerNews_Top": 1
   },
   "errors": [
     {
@@ -192,7 +192,7 @@
     },
     {
       "source": "Gemini_Blog",
-      "error": "<unknown>:453:1797700: junk after document element"
+      "error": "<unknown>:453:1797570: junk after document element"
     },
     {
       "source": "https://www.circle.com/blog/rss.xml",
@@ -350,8 +350,8 @@
     "feeds_http_error": 0,
     "entries_seen": 1535,
     "too_old": 521,
-    "dup_title_url": 82,
-    "dup_id": 441
+    "dup_title_url": 81,
+    "dup_id": 439
   },
   "limits": {
     "skip_older_days": 10,
@@ -364,6 +364,6 @@
   },
   "processed": {
     "file": "data/processed/2025-12-07.jsonl",
-    "appended_new": 0
+    "appended_new": 3
   }
 }
