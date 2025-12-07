@@ -1,7 +1,7 @@
 {
-  "started_utc": "2025-12-07T23:36:51Z",
-  "ended_utc": "2025-12-07T23:40:19Z",
-  "new_items_this_run": 1,
+  "started_utc": "2025-12-07T23:47:42Z",
+  "ended_utc": "2025-12-07T23:51:12Z",
+  "new_items_this_run": 0,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
@@ -78,7 +78,7 @@
     "TheEconomist_Business": 0,
     "TheEconomist_Finance": 0,
     "Investopedia_Latest": 0,
-    "TheStreet_Top": 1,
+    "TheStreet_Top": 0,
     "AlJazeera_All": 0,
     "AlJazeera_Economy": 0,
     "FinancialPost_Business": 0,
@@ -192,7 +192,7 @@
     },
     {
       "source": "Gemini_Blog",
-      "error": "<unknown>:453:1797514: junk after document element"
+      "error": "<unknown>:453:1797576: junk after document element"
     },
     {
       "source": "https://www.circle.com/blog/rss.xml",
@@ -351,7 +351,7 @@
     "entries_seen": 1536,
     "too_old": 522,
     "dup_title_url": 80,
-    "dup_id": 447
+    "dup_id": 448
   },
   "limits": {
     "skip_older_days": 10,
@@ -364,6 +364,6 @@
   },
   "processed": {
     "file": "data/processed/2025-12-07.jsonl",
-    "appended_new": 1
+    "appended_new": 0
   }
 }
