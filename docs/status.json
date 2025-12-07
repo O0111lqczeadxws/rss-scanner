@@ -1,7 +1,7 @@
 {
-  "started_utc": "2025-12-07T10:32:08Z",
-  "ended_utc": "2025-12-07T10:35:44Z",
-  "new_items_this_run": 5,
+  "started_utc": "2025-12-07T10:47:39Z",
+  "ended_utc": "2025-12-07T10:51:09Z",
+  "new_items_this_run": 2,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
@@ -22,7 +22,7 @@
     "CryptoSlate": 0,
     "CryptoBriefing": 0,
     "Protos": 0,
-    "CryptoNews": 4,
+    "CryptoNews": 0,
     "CoinJournal": 0,
     "Unchained": 0,
     "Bankless": 0,
@@ -79,7 +79,7 @@
     "TheEconomist_Finance": 0,
     "Investopedia_Latest": 0,
     "TheStreet_Top": 0,
-    "AlJazeera_All": 0,
+    "AlJazeera_All": 1,
     "AlJazeera_Economy": 0,
     "FinancialPost_Business": 0,
     "CBC_Business": 0,
@@ -192,7 +192,7 @@
     },
     {
       "source": "Gemini_Blog",
-      "error": "<unknown>:453:1797525: junk after document element"
+      "error": "<unknown>:453:1797886: junk after document element"
     },
     {
       "source": "https://www.circle.com/blog/rss.xml",
@@ -339,9 +339,9 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 537,
+    "passed_keywords": 538,
     "passed_allowlist": 0,
-    "failed_all_filters": 485
+    "failed_all_filters": 483
   },
   "stats": {
     "feeds_total": 97,
@@ -349,9 +349,9 @@
     "feeds_timeout": 0,
     "feeds_http_error": 0,
     "entries_seen": 1532,
-    "too_old": 510,
+    "too_old": 511,
     "dup_title_url": 85,
-    "dup_id": 447
+    "dup_id": 451
   },
   "limits": {
     "skip_older_days": 10,
@@ -364,6 +364,6 @@
   },
   "processed": {
     "file": "data/processed/2025-12-07.jsonl",
-    "appended_new": 5
+    "appended_new": 2
   }
 }
