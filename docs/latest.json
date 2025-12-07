@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-12-07",
     "retrieved_date": "2025-12-07",
+    "retrieved_utc": "2025-12-07T16:53:59Z",
+    "source": "AlJazeera_All",
+    "title": "The Road to Damascus",
+    "url": "https://www.aljazeera.com/video/featured-documentaries/2025/12/7/the-road-to-damascus-2?traffic_source=rss",
+    "id_key": "fc73ff130445bcc7707ee5b28cdb7799af9fd101d1bed7a666b7f12ada10ec59",
+    "summary": "The Road to Damascus documents the lightning offensive that toppled the al-Assad regime.",
+    "ingested_utc": "2025-12-07T16:53:59Z"
+  },
+  {
+    "published_utc": "2025-12-07",
+    "retrieved_date": "2025-12-07",
     "retrieved_utc": "2025-12-07T16:39:06Z",
     "source": "TheStreet_Top",
     "title": "Analysis: Why 'cheap stocks to buy now' is the wrong investing idea",
@@ -10987,16 +10998,5 @@
     "id_key": "296da871b15bc7336d1689a6f1a5559d89a7d6e05b6eb8d4679100274b165360",
     "summary": "Amazon has over 200 million subscribers to its Prime service spread across 23 different countries, according to Search Logistics. Millions pay $14.99 per month or $139 per year for this service because of the unparalleled convenience it provides. Recently, Amazon revealed it would add yet another ...",
     "ingested_utc": "2025-12-04T22:52:16Z"
-  },
-  {
-    "published_utc": "2025-12-04",
-    "retrieved_date": "2025-12-04",
-    "retrieved_utc": "2025-12-04T22:51:49Z",
-    "source": "FT_Markets",
-    "title": "EU to review tariffs on Volkswagen’s EVs made in China",
-    "url": "https://www.ft.com/content/675d3729-972b-4f35-9daf-5dc2c1d1f480",
-    "id_key": "114302c3c4a278165f2105c3c7fc0997b336a5cc3fc09d30d800d4a1eaf687b0",
-    "summary": "Move could offer German carmaker respite from anti-subsidy measures",
-    "ingested_utc": "2025-12-04T22:51:49Z"
   }
 ]
