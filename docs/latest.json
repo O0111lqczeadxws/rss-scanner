@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-12-07",
     "retrieved_date": "2025-12-07",
+    "retrieved_utc": "2025-12-07T07:15:01Z",
+    "source": "AlJazeera_All",
+    "title": "What has Germany’s position been on Israel’s genocide in Gaza?",
+    "url": "https://www.aljazeera.com/news/2025/12/7/what-has-germanys-position-been-on-israels-genocide-in-gaza?traffic_source=rss",
+    "id_key": "d876894b1e133f9928ef29484ad01c86eef1c9212d2a90b2cbd549460d2b2477",
+    "summary": "Germany is Israel’s second-largest arms supplier, fifth-largest export partner, and one of its staunchest supporters.",
+    "ingested_utc": "2025-12-07T07:15:01Z"
+  },
+  {
+    "published_utc": "2025-12-07",
+    "retrieved_date": "2025-12-07",
     "retrieved_utc": "2025-12-07T06:50:07Z",
     "source": "Nikkei_Asia_Top",
     "title": "ADB Outlook, Australia social media ban, Meesho listing",
@@ -10987,16 +10998,5 @@
     "id_key": "2c064bf8a4828217a55cbeeb0929bb857a24a7ccaa58b47e5e91023480eda1f9",
     "summary": "Bombs were placed near Republican and Democratic party HQs in Washington night before US Capitol attack US authorities on Thursday made an arrest in connection with pipe bombs that were planted outside the headquarters of both the Democratic and Republican parties in Washington DC on the eve of 6 January 2021. Explosive devices were placed at night and then, on the afternoon of 6 January , the US Capitol attack occurred, when a mob of Donald Trump’s supporters stormed Congress in an effort to prevent the certification of Joe Biden’s win in the 2020 presidential election. Continue reading...",
     "ingested_utc": "2025-12-04T19:30:01Z"
-  },
-  {
-    "published_utc": "2025-12-04",
-    "retrieved_date": "2025-12-04",
-    "retrieved_utc": "2025-12-04T19:16:00Z",
-    "source": "HackerNews_Top",
-    "title": "PyTogether: Collaborative lightweight real-time Python IDE for teachers/learners",
-    "url": "https://github.com/SJRiz/pytogether",
-    "id_key": "974f114967f503cbb1fad2b71887ed1c870238ab5d377320825eb9c62ebaf250",
-    "summary": "Comments",
-    "ingested_utc": "2025-12-04T19:16:00Z"
   }
 ]
