@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-12-07",
     "retrieved_date": "2025-12-07",
+    "retrieved_utc": "2025-12-07T03:59:07Z",
+    "source": "AlJazeera_All",
+    "title": "Japan accuses Chinese jets of directing fire-control radar at its aircraft",
+    "url": "https://www.aljazeera.com/news/2025/12/7/japan-accuses-chinese-jets-of-directing-fire-control-radar-at-its-aircraft?traffic_source=rss",
+    "id_key": "56ef536a1b051abd7bec66b5da47c8e44b07defecae889116a38f5dd69d4de0f",
+    "summary": "Japan condemns incidents near Okinawa as 'dangerous' and says it has lodged a 'strong protest' with China.",
+    "ingested_utc": "2025-12-07T03:59:07Z"
+  },
+  {
+    "published_utc": "2025-12-07",
+    "retrieved_date": "2025-12-07",
+    "retrieved_utc": "2025-12-07T03:57:37Z",
+    "source": "Erigon_Releases",
+    "title": "v3.3.1 - Rocky Romp",
+    "url": "https://github.com/erigontech/erigon/releases/tag/v3.3.1",
+    "id_key": "b798664db3986c04761307f3d6cd462211bac28b95a900cc7ab1c55c57903762",
+    "summary": "We have new Docs and HelpCenter: https://docs.erigon.tech/ Support of historical eth_getProof ( #12984 ). It requires --prune.include-commitment-history flag. RPC rpc: fix txpool_content crash: unknown by @canepat in #18120 CL Caplin: Simplified peer refreshing ( #18123 ) by @domiwei in #18152 TxPool txpool: remove double PopWorst() in pending pool overflow by @AskAlexSharov in #18159 Sync Torrent client fixes by @anacrolix in #18179 Full Changelog : v3.3.0...v3.3.1",
+    "ingested_utc": "2025-12-07T03:57:37Z"
+  },
+  {
+    "published_utc": "2025-12-07",
+    "retrieved_date": "2025-12-07",
+    "retrieved_utc": "2025-12-07T03:56:14Z",
+    "source": "Guardian_World",
+    "title": "Australia news live: NSW Central Coast ‘not out of the woods yet’ as bushfire conditions ease; more platforms could be added after under-16 social media ban begins, Wells says",
+    "url": "https://www.theguardian.com/australia-news/live/2025/dec/07/australia-news-live-nsw-bushfire-central-coast-upper-hunter-chris-minns-anthony-albanese-anika-wells-social-media-ban-syria-refugees-tasmania-dolphin-sands-labor-coalition-ntwnfb",
+    "id_key": "17c16e5db551bdc6bb13fca45cdb17ac74e70e2aa7bc18ec14672e6f5003cdb1",
+    "summary": "At least 12 homes have been destroyed on the Central Coast as more than 75 bushfires burn across New South Wales. Follow the day’s news live Get our breaking news email , free app or daily news podcast Albanese has also defended a $100k expense for communications minister Anika Wells , a staffer and a public servant to join the prime minister and foreign minister Penny Wong in New York for a United Nations meeting. Anika Wells was doing her job as the communications minister who is in charge of this world-leading, world-leading legislation, passed with bipartisan support, to give credit to Peter Dutton when he was opposition leader. And it was an important event. And it wasn’t just the event there, it was then the follow-up of people wanting to have meetings, have discussions, how is this going to work? What can we do to get buy-in here? When you’ve got Australia, a middle power, taking on these global giants. There’s family reunion entitlements, all of the travel within guidelines. I’m saying it was within entitlements and Anika Wells was working on that trip as sports minister, participating the lifting up of para-sport. But we’ve said very clearly that this won’t be perfect. Just like chances last night was Saturday night, somewhere in Australia, somewhere under 18s got a drink in a pub. But it’s the right thing to do for society to express its views, its judgement about what is appropriate. Continue reading...",
+    "ingested_utc": "2025-12-07T03:56:14Z"
+  },
+  {
+    "published_utc": "2025-12-07",
+    "retrieved_date": "2025-12-07",
     "retrieved_utc": "2025-12-07T03:01:23Z",
     "source": "HackerNews_Top",
     "title": "Eurydice: a Rust to C compiler (yes)",
@@ -10965,38 +10998,5 @@
     "id_key": "d5036cdab1e9c8aba8bcd4d074e649bc383538368f4bd563d3f47b5232ab0ff7",
     "summary": "Funding Part of Advanced Research Projects Agency-Energy (ARPA-E) program to eliminate waste of essential minerals and increase domestic resiliency WOBURN, Mass. — Phoenix Tailings announced that it has been selected to receive $1.6 million in funding from the U.S. Department of Energy Advanced Research Projects Agency-Energy (ARPA-E). The funding is part of the Realize Energy-rich […]",
     "ingested_utc": "2025-12-04T18:56:24Z"
-  },
-  {
-    "published_utc": "2025-12-04",
-    "retrieved_date": "2025-12-04",
-    "retrieved_utc": "2025-12-04T18:56:24Z",
-    "source": "FinancialPost_Business",
-    "title": "Russia bans Snapchat, FaceTime: report",
-    "url": "https://financialpost.com/news/russia-bans-snapchat-facetime-report",
-    "id_key": "c30b19973c6286618be4d273e8e4130e1b77072967ab9399b643be7b29e1002a",
-    "summary": "Russia has stepped up restrictions on foreign services since the state launched a national 'super app'",
-    "ingested_utc": "2025-12-04T18:56:24Z"
-  },
-  {
-    "published_utc": "2025-12-04",
-    "retrieved_date": "2025-12-04",
-    "retrieved_utc": "2025-12-04T18:56:24Z",
-    "source": "FinancialPost_Business",
-    "title": "The Rise of AI Reasoning Models Comes With a Big Energy Tradeoff",
-    "url": "https://financialpost.com/pmn/business-pmn/the-rise-of-ai-reasoning-models-comes-with-a-big-energy-tradeoff",
-    "id_key": "f40bf7d821e0bd27f33bc0e3fc692a453ce3c4b038bd8e910856342e5f150416",
-    "summary": "Nearly all leading artificial intelligence developers are focused on building AI models that mimic the way humans reason, but new research shows these cutting-edge systems can be far more energy intensive, adding to concerns about AI’s strain on power grids.",
-    "ingested_utc": "2025-12-04T18:56:24Z"
-  },
-  {
-    "published_utc": "2025-12-04",
-    "retrieved_date": "2025-12-04",
-    "retrieved_utc": "2025-12-04T18:56:18Z",
-    "source": "AlJazeera_All",
-    "title": "From Mogadishu to Minneapolis, Somalis reject Trump’s bigoted remarks",
-    "url": "https://www.aljazeera.com/news/2025/12/4/from-mogadishu-to-minneapolis-somalis-reject-trumps-bigoted-remarks?traffic_source=rss",
-    "id_key": "3cfa8dd69021ee27318b71dddcd6e4ac5caf86069556ebd63756eb4a4651bd43",
-    "summary": "Minnesota legislator Omar Fateh says Trump's 'disgraceful' comments are meant as 'political theatre' to rally his base.",
-    "ingested_utc": "2025-12-04T18:56:18Z"
   }
 ]
