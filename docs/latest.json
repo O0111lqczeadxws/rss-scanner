@@ -1663,6 +1663,28 @@
   {
     "published_utc": "2025-12-06",
     "retrieved_date": "2025-12-07",
+    "retrieved_utc": "2025-12-07T18:18:33Z",
+    "source": "TheStreet_Top",
+    "title": "Macy’s sees holiday shopping red flags",
+    "url": "https://www.thestreet.com/retail/macys-sees-shift-in-customer-behavior-ahead-of-holidays",
+    "id_key": "9f05ac925308700dea74bfb96fca8d69d7b64b6c49398df0dfee9ddda415ebf7",
+    "summary": "Macy's is cautious about the holiday season as shoppers switch gears.",
+    "ingested_utc": "2025-12-07T18:18:33Z"
+  },
+  {
+    "published_utc": "2025-12-06",
+    "retrieved_date": "2025-12-07",
+    "retrieved_utc": "2025-12-07T18:18:02Z",
+    "source": "NPR_Business",
+    "title": "7 deaths and hundreds of injuries are linked to faulty Abbott glucose monitors",
+    "url": "https://www.npr.org/2025/12/06/g-s1-101082/abbott-glucose-monitor-deaths-recall-freestyle-libre",
+    "id_key": "77eaa9591968194c6a3be27ce3ec481705bab000d370b4666c1ade5160124fc7",
+    "summary": "About 3 million glucose monitoring sensors were potentially affected by a production error that caused incorrect low glucose readings.",
+    "ingested_utc": "2025-12-07T18:18:02Z"
+  },
+  {
+    "published_utc": "2025-12-06",
+    "retrieved_date": "2025-12-07",
     "retrieved_utc": "2025-12-07T16:39:06Z",
     "source": "TheStreet_Top",
     "title": "Fidelity pros reveal top AI stocks for 2026 (it's not just Nvidia)",
@@ -10975,28 +10997,6 @@
     "url": "https://financialpost.com/globe-newswire/optiva-receives-final-order-approving-arrangement-with-qvantel",
     "id_key": "7f1e469cc7774342669a496933db4ff788ca48992b85eb4bec05f222498750c7",
     "summary": "TORONTO, Dec. 04, 2025 (GLOBE NEWSWIRE) — Optiva Inc. (TSX: OPT) (“Optiva“) today announced the receipt of the final order of the Ontario Superior Court of Justice (Commercial List) dated December 2, 2025, (the “Final Order“) with respect to the previously-announced plan of arrangement transaction (the “Arrangement“) involving Qvantel Oy (the “Purchaser“). The Final Order […]",
-    "ingested_utc": "2025-12-04T23:15:04Z"
-  },
-  {
-    "published_utc": "2025-12-04",
-    "retrieved_date": "2025-12-04",
-    "retrieved_utc": "2025-12-04T23:15:04Z",
-    "source": "FinancialPost_Business",
-    "title": "Faulty glucose monitors linked to 7 deaths and more than 700 injuries, FDA warns",
-    "url": "https://financialpost.com/pmn/faulty-glucose-monitors-linked-to-7-deaths-and-more-than-700-injuries-fda-warns",
-    "id_key": "a6dc4d5c6535c835fb817766fd3e2afd610a339773c19657e3b93d821e5cce11",
-    "summary": "The U.S. Food and Drug Administration is warning people to stop using certain types of glucose monitor sensors after the company that makes them, Abbott Diabetes Care, said the devices were linked to seven deaths and more than 700 injuries. Certain FreeStyle Libre 3 and FreeStyle Libre 3 Plus sensors may provide incorrect low glucose […]",
-    "ingested_utc": "2025-12-04T23:15:04Z"
-  },
-  {
-    "published_utc": "2025-12-04",
-    "retrieved_date": "2025-12-04",
-    "retrieved_utc": "2025-12-04T23:15:04Z",
-    "source": "FinancialPost_Business",
-    "title": "Asia Eyes Cautious Open as US Stocks Tread Water: Markets Wrap",
-    "url": "https://financialpost.com/pmn/business-pmn/asia-eyes-cautious-open-as-us-stocks-tread-water-markets-wrap",
-    "id_key": "9ae4f19514e33c4bb05540ff51e67ed9a307e55e36c497b42ba6a56426d4df8a",
-    "summary": "Asian equities were set for a mixed start as a lackluster day on Wall Street weighed on tech stocks and bonds and halted a rebound in Bitcoin ahead of next week’s Federal Reserve decision.",
     "ingested_utc": "2025-12-04T23:15:04Z"
   }
 ]
