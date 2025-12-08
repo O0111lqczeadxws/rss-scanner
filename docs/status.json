@@ -1,17 +1,17 @@
 {
-  "started_utc": "2025-12-08T21:36:29Z",
-  "ended_utc": "2025-12-08T21:40:38Z",
-  "new_items_this_run": 23,
+  "started_utc": "2025-12-08T22:12:05Z",
+  "ended_utc": "2025-12-08T22:15:42Z",
+  "new_items_this_run": 16,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
     "Reuters_World": 0,
     "Reuters_Markets": 0,
     "BBC_World": 0,
-    "BBC_Business": 1,
+    "BBC_Business": 0,
     "BBC_Technology": 0,
     "Guardian_Business": 0,
-    "Guardian_World": 4,
+    "Guardian_World": 2,
     "WSJ_US_Business": 0,
     "WSJ_World": 0,
     "WSJ_Markets": 0,
@@ -20,9 +20,9 @@
     "Blockworks": 0,
     "BitcoinMagazine": 0,
     "CryptoSlate": 0,
-    "CryptoBriefing": 0,
+    "CryptoBriefing": 2,
     "Protos": 0,
-    "CryptoNews": 0,
+    "CryptoNews": 1,
     "CoinJournal": 0,
     "Unchained": 0,
     "Bankless": 0,
@@ -56,32 +56,32 @@
     "MarketWatch_RealTime": 0,
     "MarketWatch_Bulletins": 1,
     "MarketWatch_PersonalFinance": 0,
-    "NYTimes_Business": 0,
+    "NYTimes_Business": 1,
     "NYTimes_World": 1,
     "NYTimes_Economy": 0,
     "NYTimes_Technology": 0,
     "CNN_Top": 0,
-    "NPR_Top": 2,
+    "NPR_Top": 0,
     "NPR_Business": 0,
     "NPR_Economy": 0,
     "NPR_World": 0,
     "NPR_Technology": 0,
     "FT_Home": 0,
-    "FT_Markets": 0,
+    "FT_Markets": 1,
     "CNBC_Top": 0,
     "CNBC_Markets": 0,
     "TheVerge_All": 0,
-    "TechCrunch_All": 1,
-    "ArsTechnica_All": 0,
-    "WIRED_All": 0,
-    "Engadget_All": 0,
-    "TheEconomist_Business": 1,
+    "TechCrunch_All": 0,
+    "ArsTechnica_All": 1,
+    "WIRED_All": 1,
+    "Engadget_All": 1,
+    "TheEconomist_Business": 0,
     "TheEconomist_Finance": 0,
     "Investopedia_Latest": 0,
-    "TheStreet_Top": 3,
-    "AlJazeera_All": 2,
+    "TheStreet_Top": 2,
+    "AlJazeera_All": 0,
     "AlJazeera_Economy": 0,
-    "FinancialPost_Business": 6,
+    "FinancialPost_Business": 1,
     "CBC_Business": 0,
     "Nikkei_Asia_Top": 0,
     "WorldBank_News": 0,
@@ -191,8 +191,12 @@
       "error": "fatal parse failure"
     },
     {
+      "source": "https://www.gemini.com/blog/rss",
+      "error": "fetch error: HTTP 404"
+    },
+    {
       "source": "Gemini_Blog",
-      "error": "<unknown>:453:1801630: junk after document element"
+      "error": "fatal parse failure"
     },
     {
       "source": "https://www.circle.com/blog/rss.xml",
@@ -279,14 +283,6 @@
       "error": "fatal parse failure"
     },
     {
-      "source": "https://www.wired.com/feed/rss",
-      "error": "fetch error: HTTPSConnectionPool(host='www.wired.com', port=443): Read timed out. (read timeout=12)"
-    },
-    {
-      "source": "WIRED_All",
-      "error": "fatal parse failure"
-    },
-    {
       "source": "https://www.investopedia.com/feed",
       "error": "fetch error: HTTP 404"
     },
@@ -347,19 +343,19 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 527,
+    "passed_keywords": 542,
     "passed_allowlist": 0,
-    "failed_all_filters": 479
+    "failed_all_filters": 515
   },
   "stats": {
     "feeds_total": 97,
     "feeds_error": 25,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 1515,
+    "entries_seen": 1566,
     "too_old": 509,
-    "dup_title_url": 86,
-    "dup_id": 418
+    "dup_title_url": 85,
+    "dup_id": 441
   },
   "limits": {
     "skip_older_days": 10,
@@ -372,6 +368,6 @@
   },
   "processed": {
     "file": "data/processed/2025-12-08.jsonl",
-    "appended_new": 23
+    "appended_new": 16
   }
 }
