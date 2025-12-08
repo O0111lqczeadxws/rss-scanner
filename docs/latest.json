@@ -2,6 +2,72 @@
   {
     "published_utc": "2025-12-08",
     "retrieved_date": "2025-12-08",
+    "retrieved_utc": "2025-12-08T19:13:30Z",
+    "source": "HackerNews_Top",
+    "title": "Collecting 10k hours of neuro data in our basement",
+    "url": "https://condu.it/thought/10k-hours",
+    "id_key": "a72a295a71d2568102ae4bc4c711eb300e5b8ca0a266903300b45971bdff0ff9",
+    "summary": "Comments",
+    "ingested_utc": "2025-12-08T19:13:30Z"
+  },
+  {
+    "published_utc": "2025-12-08",
+    "retrieved_date": "2025-12-08",
+    "retrieved_utc": "2025-12-08T19:13:13Z",
+    "source": "TheStreet_Top",
+    "title": "Ford CEO Jim Farley has a stark warning for Europe",
+    "url": "https://www.thestreet.com/automotive/ford-ceo-jim-farley-has-a-stark-warning-for-europe",
+    "id_key": "9369215967072f67e03ace527e64388f2087cad61440b301e1409baecf199ac5",
+    "summary": "The European auto industry is in bad shape, at least according to the assessments of two U.S.-based international conglomerates. European lawmakers are expected to unveil their new draft proposal for an environmental law on Wednesday, and executives from Stellantis and Ford are contributing their ...",
+    "ingested_utc": "2025-12-08T19:13:13Z"
+  },
+  {
+    "published_utc": "2025-12-08",
+    "retrieved_date": "2025-12-08",
+    "retrieved_utc": "2025-12-08T19:13:04Z",
+    "source": "WIRED_All",
+    "title": "For the First Time, Mutations in a Single Gene Have Been Linked to Mental Illness",
+    "url": "https://www.wired.com/story/mutations-in-a-single-gene-have-been-linked-to-mental-illness/",
+    "id_key": "d3d02055096eb521281aafb64a5221f33b6a364b7ab253b7dd5c3a45a3336da1",
+    "summary": "Research links variations in the gene GRIN2A to a higher risk of developing schizophrenia and other forms of mental illness.",
+    "ingested_utc": "2025-12-08T19:13:04Z"
+  },
+  {
+    "published_utc": "2025-12-08",
+    "retrieved_date": "2025-12-08",
+    "retrieved_utc": "2025-12-08T19:13:02Z",
+    "source": "TechCrunch_All",
+    "title": "Petco’s security lapse affected customers’ SSNs, driver’s licenses, and more",
+    "url": "https://techcrunch.com/2025/12/08/petcos-security-lapse-affected-customers-ssns-drivers-licenses-and-more/",
+    "id_key": "e570206bebcae0455a330d1eeec7b9fb825ba76c0a77feefb16297efa622d106",
+    "summary": "Petco said the exposure was due to an error in an application, and that it is notifying victims’ whose data was affected.",
+    "ingested_utc": "2025-12-08T19:13:02Z"
+  },
+  {
+    "published_utc": "2025-12-08",
+    "retrieved_date": "2025-12-08",
+    "retrieved_utc": "2025-12-08T19:13:01Z",
+    "source": "TheVerge_All",
+    "title": "Anthropic is bringing Claude Code to Slack",
+    "url": "https://www.theverge.com/news/839817/anthropic-claude-code-slack-integration",
+    "id_key": "ba14b7bd54449c93e2d282cf7796da645c1b1a82505183d6329e510f47f39e79",
+    "summary": "Slack users can now access Anthropic's Claude Code directly in Slack by tagging Claude on coding-related messages and threads. The new feature is launching today in beta as a research preview. When Claude is tagged, it will now automatically scan the message to see if it's a coding task and, if so, route it to […]",
+    "ingested_utc": "2025-12-08T19:13:01Z"
+  },
+  {
+    "published_utc": "2025-12-08",
+    "retrieved_date": "2025-12-08",
+    "retrieved_utc": "2025-12-08T19:10:41Z",
+    "source": "CryptoBriefing",
+    "title": "XRP spot ETFs near $1B AUM amid sustained institutional demand",
+    "url": "https://cryptobriefing.com/xrp-spot-etf-institutional-demand/",
+    "id_key": "9a6046a792d3dda811b8976948331f5d04582d007f1474ef8c367e3c175a9d03",
+    "summary": "XRP spot ETF inflows approach $1 billion, marking rapid institutional adoption and strong investor demand for regulated crypto exposure. The post XRP spot ETFs near $1B AUM amid sustained institutional demand appeared first on Crypto Briefing .",
+    "ingested_utc": "2025-12-08T19:10:41Z"
+  },
+  {
+    "published_utc": "2025-12-08",
+    "retrieved_date": "2025-12-08",
     "retrieved_utc": "2025-12-08T18:54:13Z",
     "source": "FinancialPost_Business",
     "title": "Three things to know about Air Transat flight suspensions ahead of strike deadline",
@@ -9572,6 +9638,17 @@
   {
     "published_utc": "2025-12-05",
     "retrieved_date": "2025-12-08",
+    "retrieved_utc": "2025-12-08T19:12:37Z",
+    "source": "NYTimes_Technology",
+    "title": "How Batteries Got Cheaper and Made the Electric Grid More Reliable",
+    "url": "https://www.nytimes.com/2025/12/05/business/energy-environment/battery-prices-electric-grids.html",
+    "id_key": "3caa5a47114589291ad1597381da88f887f0f87d7c32b3c765b1349e97715b52",
+    "summary": "An early grid battery was installed in the Atacama Desert in Chile 15 years ago. Now, as prices have tumbled, they are increasingly being used around the world.",
+    "ingested_utc": "2025-12-08T19:12:37Z"
+  },
+  {
+    "published_utc": "2025-12-05",
+    "retrieved_date": "2025-12-08",
     "retrieved_utc": "2025-12-08T18:53:26Z",
     "source": "NYTimes_Technology",
     "title": "Netflix to Buy Warner Bros in $83 Billion Deal",
@@ -10921,82 +10998,5 @@
     "id_key": "628d6c64e4842ba8d85ad1f9453b603994463b1c3a33439e542de8939d20ff00",
     "summary": "The debut game from Liquid Swords will arrive in early 2026, it was announced at today's PC Gaming Show. Samson: A Tyndalston Story is billed as \"a consequence-heavy noir action game\" by its developer, and focuses on the eponymous Samson McCray, a man who's got himself into serious debt in a city that doesn’t seem particularly forgiving. The debut trailer doesn’t give too much away in terms of story, but I’m getting gritty Max Payne-y vibes. Combat looks crunchy and visceral, and it sounds like Liquid Swords is going for an oppressive atmosphere. \"Samson is built on a simple, brutal truth: every day costs you,\" writes the studio in a press release. \"Debt grows with interest, and time works against you. Each job burns a limited pool of Action Points and every decision shifts how the city treats you—there are no do-overs. You move forward because standing still makes everything worse.\" Liquid Swords has been teasing its first game for a while. The studio has some serious pedigree, being founded in 2020 by Christofer Sundberg, who created the Just Cause franchise when he was at Avalanche Studios. Developers who previously worked on Mad Max and the Battlefield series have also joined Sundberg at Liquid Swords, and the studio says it drew on its collective experience in combat systems, systemic design, animation and action-oriented storytelling to create Samson . Just Cause was an open-world series, but it sounds like Samson will be a more focused experience, possibly reflected by its $25 price tag. At the beginning of the year, the studio laid off an undisclosed number of employees, something it said was necessary to ensure its “long-term sustainability” amid challenging industry conditions. Samson: A Tyndalston Story launches in early 2026 on Steam and the Epic Games Store. We don't yet know if it's coming to console as well. Correction, December 5 2025, 3:25PM ET: This story originally misspelled Christofer Sundberg's name. We apologize for the error. This article originally appeared on Engadget at https://www.engadget.com/gaming/pc/liquid-swords-debut-title-is-a-25-noir-action-game-coming-next-year-215544328.html?src=rss",
     "ingested_utc": "2025-12-05T20:38:42Z"
-  },
-  {
-    "published_utc": "2025-12-05",
-    "retrieved_date": "2025-12-05",
-    "retrieved_utc": "2025-12-05T20:38:05Z",
-    "source": "MarketWatch_Bulletins",
-    "title": "‘China’s Nvidia’ enjoys warm post-IPO market reception",
-    "url": "https://www.marketwatch.com/bulletins/redirect/go?g=2401a674-1753-4b60-b647-4414e0c1fb69&mod=mw_rss_bulletins",
-    "id_key": "ea37c08b48b43fad3b12e35964013488115d6494ded3c5ce7c4c3333f4dec479",
-    "summary": "",
-    "ingested_utc": "2025-12-05T20:38:05Z"
-  },
-  {
-    "published_utc": "2025-12-05",
-    "retrieved_date": "2025-12-05",
-    "retrieved_utc": "2025-12-05T20:36:18Z",
-    "source": "CryptoSlate",
-    "title": "Bitcoin thieves stole $1.1B using fake bird noises: Now Malaysia hunts heat signatures from the sky",
-    "url": "https://cryptoslate.com/bitcoin-thieves-quietly-stole-1-1b-using-fake-bird-noises-now-malaysia-hunts-heat-signatures-from-the-sky/",
-    "id_key": "85ced8713a21ddcd9580140d0eb259594c291ad13dc12c89a060c4cdd2cee9e7",
-    "summary": "In Malaysia’s illegal Bitcoin (BTC) mining hotspots, the hunt begins in the sky. Drones buzz over rows of shops and abandoned houses, sweeping for pockets of unexpected heat, which is the thermal signature of machines that shouldn’t be running. On the ground, police carry handheld sensors that sniff out irregular power use. Sometimes the pursuit […] The post Bitcoin thieves stole $1.1B using fake bird noises: Now Malaysia hunts heat signatures from the sky appeared first on CryptoSlate .",
-    "ingested_utc": "2025-12-05T20:36:18Z"
-  },
-  {
-    "published_utc": "2025-12-05",
-    "retrieved_date": "2025-12-05",
-    "retrieved_utc": "2025-12-05T20:17:06Z",
-    "source": "FinancialPost_Business",
-    "title": "Cycurion, Inc. Announces Closing of $6.0 Million Private Placement Priced At-the-Market Under Nasdaq Rules with a Single Institutional Investor",
-    "url": "https://financialpost.com/globe-newswire/cycurion-inc-announces-closing-of-6-0-million-private-placement-priced-at-the-market-under-nasdaq-rules-with-a-single-institutional-investor",
-    "id_key": "e4790e34712ac1ba4170ad6acd5482b9422e49f9c31d7ea8d837971fcf8bf159",
-    "summary": "MCLEAN, Va., Dec. 05, 2025 (GLOBE NEWSWIRE) — Cycurion, Inc. (“Cycurion” or the “Company”) (NASDAQ: CYCU), a publicly traded leader in technology and staffing solutions for the public sector, today announced the closing of its previously announced private placement with a single institutional investor for the purchase and sale of 1,657,460 shares of common stock […]",
-    "ingested_utc": "2025-12-05T20:17:06Z"
-  },
-  {
-    "published_utc": "2025-12-05",
-    "retrieved_date": "2025-12-05",
-    "retrieved_utc": "2025-12-05T20:17:06Z",
-    "source": "FinancialPost_Business",
-    "title": "Real or fake? Researchers to develop tool that would help courts spot AI evidence",
-    "url": "https://financialpost.com/pmn/real-or-fake-researchers-to-develop-tool-that-would-help-courts-spot-ai-evidence",
-    "id_key": "fb67cf97b959525e4c05b34709c73bbb07afc92049326f41096256ddfb9d3626",
-    "summary": "TORONTO — As artificial intelligence makes it easier for anyone to doctor — or even fabricate — videos, photos and other types of evidence, a group of researchers in Canada is aiming to help the courts sort through what’s real or fake. The team, which includes technologists and legal scholars based in universities in Ontario […]",
-    "ingested_utc": "2025-12-05T20:17:06Z"
-  },
-  {
-    "published_utc": "2025-12-05",
-    "retrieved_date": "2025-12-05",
-    "retrieved_utc": "2025-12-05T20:17:06Z",
-    "source": "FinancialPost_Business",
-    "title": "CI Financial Corp. Announces Pricing of €1.10 Billion Million Private Offering of Notes",
-    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/ci-financial-corp-announces-pricing-of-e1-10-billion-million-private-offering-of-notes",
-    "id_key": "72ba078fe8a5c2071116b9176a81a9269073109e77e59708fae3e84bc643f8b8",
-    "summary": "TORONTO — CI Financial Corp. (“CI” or the “Company”) today announced that it has successfully priced a private offering (the “Offering”) of €1.10 billion aggregate principal amount of its 4.625% notes due 2031 (the “Notes”). The Offering is expected to close on December 12, 2025, subject to satisfaction of customary closing conditions. CI intends to […]",
-    "ingested_utc": "2025-12-05T20:17:06Z"
-  },
-  {
-    "published_utc": "2025-12-05",
-    "retrieved_date": "2025-12-05",
-    "retrieved_utc": "2025-12-05T20:17:06Z",
-    "source": "FinancialPost_Business",
-    "title": "Notable early reaction to Netflix’s deal to acquire Warner Bros.",
-    "url": "https://financialpost.com/pmn/notable-early-reaction-to-netflixs-deal-to-acquire-warner-bros",
-    "id_key": "433583d8a01e5bff74b81e6fc45f3c6aeb1c4b686532a86b1bccafa82f63e8b0",
-    "summary": "NEW YORK (AP) — Netflix’s $72 billion deal to acquire Warner Bros. studio and its film and television operations drew quick reactions Friday. Film and television industry entities including guilds and the lobbying group for movie theater owners criticized the deal, warning it would harm consumers and cinema owners. In announcing the deal, Warner Bros. […]",
-    "ingested_utc": "2025-12-05T20:17:06Z"
-  },
-  {
-    "published_utc": "2025-12-05",
-    "retrieved_date": "2025-12-05",
-    "retrieved_utc": "2025-12-05T20:17:06Z",
-    "source": "FinancialPost_Business",
-    "title": "JPMorgan Announces Cash Distributions for the JPMorgan ETFs",
-    "url": "https://financialpost.com/globe-newswire/jpmorgan-announces-cash-distributions-for-the-jpmorgan-etfs-14",
-    "id_key": "c10fc4fbe2b687d4550dae92a646299c99b5122792effdd5787d91e1d83d4d88",
-    "summary": "TORONTO, Dec. 05, 2025 (GLOBE NEWSWIRE) — J. P. Morgan Asset Management (JPMAM)* today announced the final November 2025 cash distributions for the below listed JPMorgan ETFs. The JPMorgan ETFs trade on the Toronto Stock Exchange (TSX). Unitholders of record on December 12, 2025 will receive cash distributions payable on December 18, 2025. Details of […]",
-    "ingested_utc": "2025-12-05T20:17:06Z"
   }
 ]
