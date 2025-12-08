@@ -1,7 +1,7 @@
 {
-  "started_utc": "2025-12-08T11:41:04Z",
-  "ended_utc": "2025-12-08T11:44:44Z",
-  "new_items_this_run": 5,
+  "started_utc": "2025-12-08T11:48:56Z",
+  "ended_utc": "2025-12-08T11:52:28Z",
+  "new_items_this_run": 1,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
@@ -20,10 +20,10 @@
     "Blockworks": 0,
     "BitcoinMagazine": 0,
     "CryptoSlate": 0,
-    "CryptoBriefing": 1,
+    "CryptoBriefing": 0,
     "Protos": 0,
-    "CryptoNews": 2,
-    "CoinJournal": 1,
+    "CryptoNews": 0,
+    "CoinJournal": 0,
     "Unchained": 0,
     "Bankless": 0,
     "CoinGecko_Blog": 0,
@@ -54,7 +54,7 @@
     "PolygonEdge_Releases": 0,
     "CardanoNode_Releases": 0,
     "MarketWatch_RealTime": 0,
-    "MarketWatch_Bulletins": 0,
+    "MarketWatch_Bulletins": 1,
     "MarketWatch_PersonalFinance": 0,
     "NYTimes_Business": 0,
     "NYTimes_World": 0,
@@ -64,7 +64,7 @@
     "NPR_Top": 0,
     "NPR_Business": 0,
     "NPR_Economy": 0,
-    "NPR_World": 1,
+    "NPR_World": 0,
     "NPR_Technology": 0,
     "FT_Home": 0,
     "FT_Markets": 0,
@@ -341,7 +341,7 @@
     ],
     "passed_keywords": 532,
     "passed_allowlist": 0,
-    "failed_all_filters": 505
+    "failed_all_filters": 506
   },
   "stats": {
     "feeds_total": 97,
@@ -349,9 +349,9 @@
     "feeds_timeout": 0,
     "feeds_http_error": 0,
     "entries_seen": 1552,
-    "too_old": 515,
+    "too_old": 514,
     "dup_title_url": 83,
-    "dup_id": 444
+    "dup_id": 448
   },
   "limits": {
     "skip_older_days": 10,
@@ -364,6 +364,6 @@
   },
   "processed": {
     "file": "data/processed/2025-12-08.jsonl",
-    "appended_new": 5
+    "appended_new": 1
   }
 }
