@@ -1,17 +1,17 @@
 {
-  "started_utc": "2025-12-08T07:17:17Z",
-  "ended_utc": "2025-12-08T07:21:04Z",
-  "new_items_this_run": 7,
+  "started_utc": "2025-12-08T07:41:38Z",
+  "ended_utc": "2025-12-08T07:45:14Z",
+  "new_items_this_run": 1,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
     "Reuters_World": 0,
     "Reuters_Markets": 0,
-    "BBC_World": 1,
+    "BBC_World": 0,
     "BBC_Business": 0,
     "BBC_Technology": 0,
     "Guardian_Business": 0,
-    "Guardian_World": 3,
+    "Guardian_World": 0,
     "WSJ_US_Business": 0,
     "WSJ_World": 0,
     "WSJ_Markets": 0,
@@ -22,7 +22,7 @@
     "CryptoSlate": 0,
     "CryptoBriefing": 0,
     "Protos": 0,
-    "CryptoNews": 0,
+    "CryptoNews": 1,
     "CoinJournal": 0,
     "Unchained": 0,
     "Bankless": 0,
@@ -79,11 +79,11 @@
     "TheEconomist_Finance": 0,
     "Investopedia_Latest": 0,
     "TheStreet_Top": 0,
-    "AlJazeera_All": 1,
+    "AlJazeera_All": 0,
     "AlJazeera_Economy": 0,
-    "FinancialPost_Business": 1,
+    "FinancialPost_Business": 0,
     "CBC_Business": 0,
-    "Nikkei_Asia_Top": 1,
+    "Nikkei_Asia_Top": 0,
     "WorldBank_News": 0,
     "OECD_Newsroom": 0,
     "MIT_TechReview": 0,
@@ -131,6 +131,14 @@
       "error": "fatal parse failure"
     },
     {
+      "source": "https://coinjournal.net/news/feed/",
+      "error": "fetch error: HTTP 502"
+    },
+    {
+      "source": "CoinJournal",
+      "error": "fatal parse failure"
+    },
+    {
       "source": "https://www.bankless.com/rss",
       "error": "fetch error: HTTP 404"
     },
@@ -156,14 +164,6 @@
     },
     {
       "source": "Uniswap_Blog",
-      "error": "fatal parse failure"
-    },
-    {
-      "source": "https://medium.com/feed/aave",
-      "error": "fetch error: HTTP 429"
-    },
-    {
-      "source": "Aave_Blog",
       "error": "fatal parse failure"
     },
     {
@@ -347,19 +347,19 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 538,
+    "passed_keywords": 529,
     "passed_allowlist": 0,
-    "failed_all_filters": 486
+    "failed_all_filters": 488
   },
   "stats": {
     "feeds_total": 97,
     "feeds_error": 25,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 1532,
-    "too_old": 508,
-    "dup_title_url": 84,
-    "dup_id": 447
+    "entries_seen": 1535,
+    "too_old": 518,
+    "dup_title_url": 85,
+    "dup_id": 443
   },
   "limits": {
     "skip_older_days": 10,
@@ -372,6 +372,6 @@
   },
   "processed": {
     "file": "data/processed/2025-12-08.jsonl",
-    "appended_new": 7
+    "appended_new": 1
   }
 }
