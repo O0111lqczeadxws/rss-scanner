@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-12-08",
     "retrieved_date": "2025-12-08",
+    "retrieved_utc": "2025-12-08T11:33:10Z",
+    "source": "AlJazeera_All",
+    "title": "Inside Syria’s fight to identify the disappeared",
+    "url": "https://www.aljazeera.com/features/2025/12/8/inside-syrias-fight-to-identify-the?traffic_source=rss",
+    "id_key": "1e9b3b7d55cb74c08268ebda28766b280b67c177713a9c908b51236fe24805a9",
+    "summary": "A team has begun the painstaking work of identifying the remains of the disappeared, but it could take years.",
+    "ingested_utc": "2025-12-08T11:33:10Z"
+  },
+  {
+    "published_utc": "2025-12-08",
+    "retrieved_date": "2025-12-08",
+    "retrieved_utc": "2025-12-08T11:32:43Z",
+    "source": "FT_Home",
+    "title": "Berkshire Hathaway stock picker Todd Combs to leave for JPMorgan",
+    "url": "https://www.ft.com/content/647c9bda-172d-4b11-9784-69e4b4590a17",
+    "id_key": "587710e51e8ffaa12c1bea341137ed64678ec5d776a16f0fa1918fb2316290dc",
+    "summary": "Warren Buffett announces leadership shake-up at conglomerate",
+    "ingested_utc": "2025-12-08T11:32:43Z"
+  },
+  {
+    "published_utc": "2025-12-08",
+    "retrieved_date": "2025-12-08",
+    "retrieved_utc": "2025-12-08T11:30:41Z",
+    "source": "CoinJournal",
+    "title": "Ethereum price forecast: Ether eyes $4k as whales open long positions",
+    "url": "https://coinjournal.net/news/ethereum-price-forecast-ether-eyes-4k-as-whales-open-long-positions/",
+    "id_key": "be998805c5a2963f36095cabf7e4d2c610c5850c04382b99424fc950e5b75d69",
+    "summary": "Key takeaways ETH is up 3% in the last 24 hours and is now trading above $3,100. Whales are optimistic of a price surge in the near term. Whales open bullish positions on Ether Ether, the second-largest cryptocurrency by market cap, is up 3% in the last 24 hours and is now trading above $3,100 […] The post Ethereum price forecast: Ether eyes $4k as whales open long positions appeared first on CoinJournal .",
+    "ingested_utc": "2025-12-08T11:30:41Z"
+  },
+  {
+    "published_utc": "2025-12-08",
+    "retrieved_date": "2025-12-08",
     "retrieved_utc": "2025-12-08T11:14:58Z",
     "source": "FinancialPost_Business",
     "title": "Successful Exploration Transforming McEwen’s Gold Bar Mine Complex Sets the Stage for Meaningful Mine Life Extension",
@@ -10965,38 +10998,5 @@
     "id_key": "b3df720f838b21d7bfb29f155df16688a3e9d40b0c5916e9b58a1e204a53ca55",
     "summary": "The deal to acquire the Hollywood giant’s television and film studios as well as HBO Max will bulk up the world’s biggest paid streaming service.",
     "ingested_utc": "2025-12-05T12:25:59Z"
-  },
-  {
-    "published_utc": "2025-12-05",
-    "retrieved_date": "2025-12-05",
-    "retrieved_utc": "2025-12-05T12:25:51Z",
-    "source": "MarketWatch_Bulletins",
-    "title": "Netflix strikes deal to pay $72 billion in cash and stock for Warner Bros.",
-    "url": "https://www.marketwatch.com/bulletins/redirect/go?g=fdcd3389-b08c-44b9-8fdf-132fcbb71785&mod=mw_rss_bulletins",
-    "id_key": "213594369a9ceacf9f5f4a045f384cd6021aacdb3c8077847564448cb91c2fa3",
-    "summary": "",
-    "ingested_utc": "2025-12-05T12:25:51Z"
-  },
-  {
-    "published_utc": "2025-12-05",
-    "retrieved_date": "2025-12-05",
-    "retrieved_utc": "2025-12-05T12:24:05Z",
-    "source": "CryptoNews",
-    "title": "Crypto Interest Fades Among US Investors as Risk Tolerance Declines: FINRA Study",
-    "url": "https://cryptonews.com/news/crypto-interest-fades-among-us-investors-as-risk-tolerance-declines-finra-study/",
-    "id_key": "359223f17ac513152695a0614f163446f02e5b9555db95e4f1e237e4d8c35390",
-    "summary": "US investor appetite for cryptocurrency purchases has cooled significantly since 2021, dropping from 33% to 26%, as risk tolerance retreats across age groups and new market entrants slow, according to FINRA's latest investor behavior study. The post Crypto Interest Fades Among US Investors as Risk Tolerance Declines: FINRA Study appeared first on Cryptonews .",
-    "ingested_utc": "2025-12-05T12:24:05Z"
-  },
-  {
-    "published_utc": "2025-12-05",
-    "retrieved_date": "2025-12-05",
-    "retrieved_utc": "2025-12-05T12:24:05Z",
-    "source": "CryptoNews",
-    "title": "Ethereum Bug Nearly Triggers Network Crisis After Fusaka Upgrade",
-    "url": "https://cryptonews.com/news/ethereum-bug-nearly-triggers-network-crisis-after-fusaka-upgrade/",
-    "id_key": "0ebfaa0487dee6cca8d6eaa20fb707ca23797bdc43d6aebbaa014caa5e2322e8",
-    "summary": "Ethereum's Fusaka upgrade delivered historic data availability expansion through PeerDAS on December 4, though a critical Prysm consensus bug triggered validation issues before alternative clients maintained network stability. The post Ethereum Bug Nearly Triggers Network Crisis After Fusaka Upgrade appeared first on Cryptonews .",
-    "ingested_utc": "2025-12-05T12:24:05Z"
   }
 ]
