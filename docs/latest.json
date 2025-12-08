@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-12-08",
     "retrieved_date": "2025-12-08",
+    "retrieved_utc": "2025-12-08T05:55:18Z",
+    "source": "FinancialPost_Business",
+    "title": "SNB Set to Avoid Negative Rate in Favor of ‘Lesser Evil’ for Now",
+    "url": "https://financialpost.com/pmn/business-pmn/snb-set-to-avoid-negative-rate-in-favor-of-lesser-evil-for-now",
+    "id_key": "4054eeccd275d679e2339690675519b30521a8d2765741e3c1dd23a2a47f5a86",
+    "summary": "The Swiss National Bank is set to offer clues on just how high its bar is for a return to negative interest rates with a decision expected to keep them at zero.",
+    "ingested_utc": "2025-12-08T05:55:18Z"
+  },
+  {
+    "published_utc": "2025-12-08",
+    "retrieved_date": "2025-12-08",
+    "retrieved_utc": "2025-12-08T05:55:11Z",
+    "source": "AlJazeera_All",
+    "title": "LIVE: Syria marks one year since fall of Bashar al-Assad",
+    "url": "https://www.aljazeera.com/news/liveblog/2025/12/8/live-syria-marks-one-year-since-fall-of-bashar-al-assad?traffic_source=rss",
+    "id_key": "87ad95f2ea2f737bb0e26e16ab522ac647652a5bc77bc24f2b4d1bf6f4865c0f",
+    "summary": "Syria is marking one year since the fall of longtime ruler Bashar al-Assad after nearly 14 years of war.",
+    "ingested_utc": "2025-12-08T05:55:11Z"
+  },
+  {
+    "published_utc": "2025-12-08",
+    "retrieved_date": "2025-12-08",
     "retrieved_utc": "2025-12-08T05:42:16Z",
     "source": "Nikkei_Asia_Top",
     "title": "Hong Kong election's higher turnout rate masks signs of voter apathy",
@@ -10976,27 +10998,5 @@
     "id_key": "df8be53d476a65b94abc25d0eda0ec55c058e6de3f0dcd6bbf15401f1108413c",
     "summary": "Fiscal stimulus vs inflation",
     "ingested_utc": "2025-12-05T06:54:41Z"
-  },
-  {
-    "published_utc": "2025-12-05",
-    "retrieved_date": "2025-12-05",
-    "retrieved_utc": "2025-12-05T06:54:40Z",
-    "source": "FT_Home",
-    "title": "Warner Bros in exclusive talks with Netflix about studio and streaming sale",
-    "url": "https://www.ft.com/content/1b51ca71-9a86-46f5-bdc4-cbd6831b755f",
-    "id_key": "296f62fb78772c405c5ce6dd57b3e53908398f98989bb69d08efa830277aafd1",
-    "summary": "Paramount and Comcast have also offered diverging paths for media behemoth",
-    "ingested_utc": "2025-12-05T06:54:40Z"
-  },
-  {
-    "published_utc": "2025-12-05",
-    "retrieved_date": "2025-12-05",
-    "retrieved_utc": "2025-12-05T06:52:30Z",
-    "source": "CryptoNews",
-    "title": "Former Signature Bank Executives Launch N3XT, a Blockchain-Based 24/7 Payments Bank",
-    "url": "https://cryptonews.com/news/former-signature-bank-executives-launch-n3xt-a-blockchain-based-24-7-payments-bank/",
-    "id_key": "5ba4ec7ffcaae7f4ea0df9bf1380432cff6c33ba8e017d814e4265fe41780b27",
-    "summary": "N3XT is a Wyoming-chartered, fully reserved blockchain bank built to enable instant, 24/7 payments for institutional clients. The post Former Signature Bank Executives Launch N3XT, a Blockchain-Based 24/7 Payments Bank appeared first on Cryptonews .",
-    "ingested_utc": "2025-12-05T06:52:30Z"
   }
 ]
