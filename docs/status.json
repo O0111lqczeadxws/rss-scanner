@@ -1,17 +1,17 @@
 {
-  "started_utc": "2025-12-08T06:55:01Z",
-  "ended_utc": "2025-12-08T06:58:28Z",
+  "started_utc": "2025-12-08T07:17:17Z",
+  "ended_utc": "2025-12-08T07:21:04Z",
   "new_items_this_run": 7,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
     "Reuters_World": 0,
     "Reuters_Markets": 0,
-    "BBC_World": 0,
+    "BBC_World": 1,
     "BBC_Business": 0,
     "BBC_Technology": 0,
     "Guardian_Business": 0,
-    "Guardian_World": 1,
+    "Guardian_World": 3,
     "WSJ_US_Business": 0,
     "WSJ_World": 0,
     "WSJ_Markets": 0,
@@ -22,7 +22,7 @@
     "CryptoSlate": 0,
     "CryptoBriefing": 0,
     "Protos": 0,
-    "CryptoNews": 2,
+    "CryptoNews": 0,
     "CoinJournal": 0,
     "Unchained": 0,
     "Bankless": 0,
@@ -67,7 +67,7 @@
     "NPR_World": 0,
     "NPR_Technology": 0,
     "FT_Home": 0,
-    "FT_Markets": 1,
+    "FT_Markets": 0,
     "CNBC_Top": 0,
     "CNBC_Markets": 0,
     "TheVerge_All": 0,
@@ -81,9 +81,9 @@
     "TheStreet_Top": 0,
     "AlJazeera_All": 1,
     "AlJazeera_Economy": 0,
-    "FinancialPost_Business": 2,
+    "FinancialPost_Business": 1,
     "CBC_Business": 0,
-    "Nikkei_Asia_Top": 0,
+    "Nikkei_Asia_Top": 1,
     "WorldBank_News": 0,
     "OECD_Newsroom": 0,
     "MIT_TechReview": 0,
@@ -159,6 +159,14 @@
       "error": "fatal parse failure"
     },
     {
+      "source": "https://medium.com/feed/aave",
+      "error": "fetch error: HTTP 429"
+    },
+    {
+      "source": "Aave_Blog",
+      "error": "fatal parse failure"
+    },
+    {
       "source": "https://blog.optimism.io/rss/",
       "error": "fetch error: HTTPSConnectionPool(host='blog.optimism.io', port=443): Max retries exceeded with url: /rss/ (Caused by NameResolutionError(\"HTTPSConnection(host='blog.optimism.io', port=443): Failed to resolve 'blog.optimism.io' ([Errno -5] No address associated with hostname)\"))"
     },
@@ -192,7 +200,7 @@
     },
     {
       "source": "Gemini_Blog",
-      "error": "<unknown>:453:1798401: junk after document element"
+      "error": "<unknown>:453:1798215: junk after document element"
     },
     {
       "source": "https://www.circle.com/blog/rss.xml",
@@ -339,18 +347,18 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 539,
+    "passed_keywords": 538,
     "passed_allowlist": 0,
-    "failed_all_filters": 481
+    "failed_all_filters": 486
   },
   "stats": {
     "feeds_total": 97,
-    "feeds_error": 24,
+    "feeds_error": 25,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 1538,
-    "too_old": 518,
-    "dup_title_url": 85,
+    "entries_seen": 1532,
+    "too_old": 508,
+    "dup_title_url": 84,
     "dup_id": 447
   },
   "limits": {
