@@ -1,7 +1,7 @@
 {
-  "started_utc": "2025-12-09T15:51:09Z",
-  "ended_utc": "2025-12-09T15:54:39Z",
-  "new_items_this_run": 8,
+  "started_utc": "2025-12-09T16:16:01Z",
+  "ended_utc": "2025-12-09T16:19:33Z",
+  "new_items_this_run": 17,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
@@ -17,12 +17,12 @@
     "WSJ_Markets": 0,
     "MarketWatch_Top": 0,
     "MarketWatch_MarketPulse": 0,
-    "Blockworks": 0,
-    "BitcoinMagazine": 0,
+    "Blockworks": 1,
+    "BitcoinMagazine": 2,
     "CryptoSlate": 0,
-    "CryptoBriefing": 0,
+    "CryptoBriefing": 1,
     "Protos": 0,
-    "CryptoNews": 2,
+    "CryptoNews": 1,
     "CoinJournal": 0,
     "Unchained": 0,
     "Bankless": 0,
@@ -70,24 +70,24 @@
     "FT_Markets": 0,
     "CNBC_Top": 0,
     "CNBC_Markets": 0,
-    "TheVerge_All": 0,
+    "TheVerge_All": 1,
     "TechCrunch_All": 0,
-    "ArsTechnica_All": 0,
+    "ArsTechnica_All": 3,
     "WIRED_All": 0,
     "Engadget_All": 0,
     "TheEconomist_Business": 0,
     "TheEconomist_Finance": 0,
     "Investopedia_Latest": 0,
-    "TheStreet_Top": 2,
-    "AlJazeera_All": 2,
+    "TheStreet_Top": 3,
+    "AlJazeera_All": 0,
     "AlJazeera_Economy": 0,
-    "FinancialPost_Business": 0,
+    "FinancialPost_Business": 2,
     "CBC_Business": 0,
     "Nikkei_Asia_Top": 0,
     "WorldBank_News": 0,
     "OECD_Newsroom": 0,
     "MIT_TechReview": 0,
-    "HackerNews_Top": 0
+    "HackerNews_Top": 1
   },
   "errors": [
     {
@@ -176,7 +176,7 @@
     },
     {
       "source": "NEAR_Blog",
-      "error": "<unknown>:2:2638: not well-formed (invalid token)"
+      "error": "<unknown>:2:3932: not well-formed (invalid token)"
     },
     {
       "source": "https://blog.dydx.exchange/feed",
@@ -339,19 +339,19 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 538,
+    "passed_keywords": 542,
     "passed_allowlist": 0,
-    "failed_all_filters": 538
+    "failed_all_filters": 536
   },
   "stats": {
     "feeds_total": 97,
     "feeds_error": 24,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 1574,
-    "too_old": 498,
-    "dup_title_url": 95,
-    "dup_id": 435
+    "entries_seen": 1575,
+    "too_old": 497,
+    "dup_title_url": 94,
+    "dup_id": 431
   },
   "limits": {
     "skip_older_days": 10,
@@ -364,6 +364,6 @@
   },
   "processed": {
     "file": "data/processed/2025-12-09.jsonl",
-    "appended_new": 8
+    "appended_new": 17
   }
 }
