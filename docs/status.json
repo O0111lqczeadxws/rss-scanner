@@ -1,7 +1,7 @@
 {
-  "started_utc": "2025-12-09T15:14:18Z",
-  "ended_utc": "2025-12-09T15:17:46Z",
-  "new_items_this_run": 17,
+  "started_utc": "2025-12-09T15:36:54Z",
+  "ended_utc": "2025-12-09T15:40:38Z",
+  "new_items_this_run": 13,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
@@ -11,18 +11,18 @@
     "BBC_Business": 0,
     "BBC_Technology": 0,
     "Guardian_Business": 0,
-    "Guardian_World": 0,
+    "Guardian_World": 4,
     "WSJ_US_Business": 0,
     "WSJ_World": 0,
     "WSJ_Markets": 0,
     "MarketWatch_Top": 0,
     "MarketWatch_MarketPulse": 0,
     "Blockworks": 0,
-    "BitcoinMagazine": 1,
+    "BitcoinMagazine": 0,
     "CryptoSlate": 0,
-    "CryptoBriefing": 1,
+    "CryptoBriefing": 2,
     "Protos": 0,
-    "CryptoNews": 1,
+    "CryptoNews": 0,
     "CoinJournal": 0,
     "Unchained": 0,
     "Bankless": 0,
@@ -61,33 +61,33 @@
     "NYTimes_Economy": 0,
     "NYTimes_Technology": 0,
     "CNN_Top": 0,
-    "NPR_Top": 1,
+    "NPR_Top": 0,
     "NPR_Business": 0,
     "NPR_Economy": 0,
     "NPR_World": 0,
     "NPR_Technology": 0,
-    "FT_Home": 1,
+    "FT_Home": 0,
     "FT_Markets": 0,
     "CNBC_Top": 0,
     "CNBC_Markets": 0,
-    "TheVerge_All": 2,
-    "TechCrunch_All": 1,
+    "TheVerge_All": 1,
+    "TechCrunch_All": 0,
     "ArsTechnica_All": 1,
-    "WIRED_All": 1,
-    "Engadget_All": 3,
+    "WIRED_All": 0,
+    "Engadget_All": 1,
     "TheEconomist_Business": 0,
     "TheEconomist_Finance": 0,
     "Investopedia_Latest": 0,
     "TheStreet_Top": 1,
     "AlJazeera_All": 1,
     "AlJazeera_Economy": 0,
-    "FinancialPost_Business": 1,
+    "FinancialPost_Business": 2,
     "CBC_Business": 0,
     "Nikkei_Asia_Top": 0,
     "WorldBank_News": 0,
     "OECD_Newsroom": 0,
     "MIT_TechReview": 0,
-    "HackerNews_Top": 1
+    "HackerNews_Top": 0
   },
   "errors": [
     {
@@ -176,7 +176,7 @@
     },
     {
       "source": "NEAR_Blog",
-      "error": "<unknown>:2:3932: not well-formed (invalid token)"
+      "error": "<unknown>:2:2638: not well-formed (invalid token)"
     },
     {
       "source": "https://blog.dydx.exchange/feed",
@@ -187,8 +187,12 @@
       "error": "fatal parse failure"
     },
     {
+      "source": "https://www.gemini.com/blog/rss",
+      "error": "fetch error: HTTP 404"
+    },
+    {
       "source": "Gemini_Blog",
-      "error": "<unknown>:450:42457: not well-formed (invalid token)"
+      "error": "fatal parse failure"
     },
     {
       "source": "https://www.circle.com/blog/rss.xml",
@@ -335,19 +339,19 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 537,
+    "passed_keywords": 535,
     "passed_allowlist": 0,
-    "failed_all_filters": 539
+    "failed_all_filters": 541
   },
   "stats": {
     "feeds_total": 97,
-    "feeds_error": 23,
+    "feeds_error": 24,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
     "entries_seen": 1574,
     "too_old": 498,
-    "dup_title_url": 94,
-    "dup_id": 426
+    "dup_title_url": 95,
+    "dup_id": 427
   },
   "limits": {
     "skip_older_days": 10,
@@ -360,6 +364,6 @@
   },
   "processed": {
     "file": "data/processed/2025-12-09.jsonl",
-    "appended_new": 17
+    "appended_new": 13
   }
 }
