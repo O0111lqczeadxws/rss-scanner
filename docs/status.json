@@ -1,7 +1,7 @@
 {
-  "started_utc": "2025-12-09T21:40:37Z",
-  "ended_utc": "2025-12-09T21:44:09Z",
-  "new_items_this_run": 7,
+  "started_utc": "2025-12-09T21:47:38Z",
+  "ended_utc": "2025-12-09T21:51:07Z",
+  "new_items_this_run": 0,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
@@ -71,17 +71,17 @@
     "CNBC_Top": 0,
     "CNBC_Markets": 0,
     "TheVerge_All": 0,
-    "TechCrunch_All": 1,
+    "TechCrunch_All": 0,
     "ArsTechnica_All": 0,
     "WIRED_All": 0,
-    "Engadget_All": 1,
+    "Engadget_All": 0,
     "TheEconomist_Business": 0,
     "TheEconomist_Finance": 0,
     "Investopedia_Latest": 0,
-    "TheStreet_Top": 1,
+    "TheStreet_Top": 0,
     "AlJazeera_All": 0,
     "AlJazeera_Economy": 0,
-    "FinancialPost_Business": 4,
+    "FinancialPost_Business": 0,
     "CBC_Business": 0,
     "Nikkei_Asia_Top": 0,
     "WorldBank_News": 0,
@@ -350,8 +350,8 @@
     "feeds_http_error": 0,
     "entries_seen": 1578,
     "too_old": 490,
-    "dup_title_url": 96,
-    "dup_id": 460
+    "dup_title_url": 95,
+    "dup_id": 468
   },
   "limits": {
     "skip_older_days": 10,
@@ -364,6 +364,6 @@
   },
   "processed": {
     "file": "data/processed/2025-12-09.jsonl",
-    "appended_new": 7
+    "appended_new": 0
   }
 }
