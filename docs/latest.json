@@ -2,6 +2,61 @@
   {
     "published_utc": "2025-12-10",
     "retrieved_date": "2025-12-10",
+    "retrieved_utc": "2025-12-10T09:58:01Z",
+    "source": "Nikkei_Asia_Top",
+    "title": "Japan GDP shrinks 0.9% on month, annualized, in October: JCER",
+    "url": "https://asia.nikkei.com/economy/japan-gdp-shrinks-0.9-on-month-annualized-in-october-jcer",
+    "id_key": "f8dbe4ffc7f3ffdb3e6f97e7c9bab85bd17b6cc3ebd239dfec1d0777f3f848d2",
+    "summary": "",
+    "ingested_utc": "2025-12-10T09:58:01Z"
+  },
+  {
+    "published_utc": "2025-12-10",
+    "retrieved_date": "2025-12-10",
+    "retrieved_utc": "2025-12-10T09:57:52Z",
+    "source": "AlJazeera_All",
+    "title": "Hamas leader vows to curb Gaza attacks on Israel but rejects disarmament",
+    "url": "https://www.aljazeera.com/news/2025/12/10/hamas-leader-vows-to-curb-gaza-attacks-on-israel-but-rejects-disarmament?traffic_source=rss",
+    "id_key": "5781a4ed1b412b606e95e0ec442d704c8015d6af085146170fa1eb3c602d99c6",
+    "summary": "Khaled Meshaal says surrendering weapons will 'remove the soul' from the Palestinian group as ceasefire momentum slips.",
+    "ingested_utc": "2025-12-10T09:57:52Z"
+  },
+  {
+    "published_utc": "2025-12-10",
+    "retrieved_date": "2025-12-10",
+    "retrieved_utc": "2025-12-10T09:57:52Z",
+    "source": "AlJazeera_All",
+    "title": "At least 19 dead in collapse of two buildings in Morocco’s Fes: State media",
+    "url": "https://www.aljazeera.com/news/2025/12/10/at-least-19-killed-in-collapse-of-two-buildings-in-fes-morocco?traffic_source=rss",
+    "id_key": "75250b6d299bfca526731510c33aba91c0a75f3828681bb4136a4f9d7eb45887",
+    "summary": "The death toll from the destruction of the buildings includes several children.",
+    "ingested_utc": "2025-12-10T09:57:52Z"
+  },
+  {
+    "published_utc": "2025-12-10",
+    "retrieved_date": "2025-12-10",
+    "retrieved_utc": "2025-12-10T09:57:43Z",
+    "source": "Engadget_All",
+    "title": "Instagram is generating SEO-bait headlines for its users' posts",
+    "url": "https://www.engadget.com/social-media/instagram-is-generating-seo-bait-headlines-for-its-users-posts-213702800.html?src=rss",
+    "id_key": "f0de9664bfeb6e65811773c6a2371dceca501baa537d7dd87219be86f741eeb9",
+    "summary": "It looks like Meta has decided to turn Instagram users into unwitting SEO spam pawns. On Tuesday, 404 Media reported that the platform is generating sensational, likely AI-generated headlines and descriptions for user posts without their knowledge or explicit consent. An Engadget editor has also noticed this on their posts. The headlines are found in the pages’ code and are only visible in search results. The scheme appears to be an effort to boost the Google search ranking of Instagram content. An Instagram post by Engadget’s Sam Chapman, about a board game he created, received an unwanted generated description. “ Floramino is a cozy puzzle game where you arrange gardens as a traveling florist,” the generated text reads. “The demo looks fun, with charming visuals and strategic elements.” In this case, there’s a significant factual error. The board game is called Bloomhunter. Floramino , which the generated text referenced, is a puzzle game on Steam. In an example cited by 404 Media , author Jeff VanderMeer's untitled video about a bunny eating a banana received a generic, SEO-style title. \"Meet the Bunny Who Loves Eating Bananas, A Nutritious Snack For Your Pet,\" it reads. That indeed reads like the work of an LLM. A Massachusetts library's post promoting a reading of a VanderMeer book got the same treatment. \"Join Jeff VanderMeer on a Thrilling Beachside Adventure with Mesta …\", the headline reads. Multiple cosplayers also found their posts gaining strange titles. \"I would not write mediocre text like that, and it sounds as if it was auto-generated at scale with an LLM,\" cosplayer Brian Dang told 404 Media . \"This becomes problematic when the headline or description advertises someone in a way that is not how they would personally describe themselves.\" The headlines appear in the posts’ code, as confirmed by Google's Rich Result Test tool. (They're found in the <title> tags for the post. The descriptions appear in the \"text\": section) The spammy headlines differ from the page's alt text, which Instagram generates for people with low vision. You might want to search for your recent content to see if you’re affected. Engadget reached out to Meta. In a statement, the company said it \"recently began using AI to generate titles for posts that appear in search engine results. This helps people better understand the content that was shared.\" Users can disable indexing; however, it appears to remove all indexing, reducing the likelihood that users will discover the Instagram account. The statement continued: \"As with all AI-generated content, these titles may not always be 100% accurate.\" Update, December 9, 2026 at 5:07 PM ET: The story was updated to include more detail about a post from Engadget’s Sam Chapman receiving a generated description. Update, December 10, 2026 at 4:30 AM ET: Added a statement from Meta about how it's recently started using AI for index titles in search results. This article originally appeared on Engadget at https://www.engadget.com/social-media/instagram-is-generating-seo-bait-headlines-for-its-users-posts-213702800.html?src=rss",
+    "ingested_utc": "2025-12-10T09:57:43Z"
+  },
+  {
+    "published_utc": "2025-12-10",
+    "retrieved_date": "2025-12-10",
+    "retrieved_utc": "2025-12-10T09:57:22Z",
+    "source": "NPR_Economy",
+    "title": "Fed expected to cut rates for a 3rd straight time",
+    "url": "https://www.npr.org/2025/12/10/nx-s1-5633393/fed-expected-to-cut-rates-for-a-3rd-straight-time",
+    "id_key": "1379c1bfedb1cee061d0806e0af852abdd743d67f3ca5be4b4a25636f09201e1",
+    "summary": "The Federal Reserve is expected to cut its benchmark interest rate by a quarter point today. But there could more disagreement than usual among the rate-setting committee.",
+    "ingested_utc": "2025-12-10T09:57:22Z"
+  },
+  {
+    "published_utc": "2025-12-10",
+    "retrieved_date": "2025-12-10",
     "retrieved_utc": "2025-12-10T09:44:51Z",
     "source": "CoinJournal",
     "title": "Binance reels as Yi He’s hacked WeChat triggers sudden memecoin frenzy",
@@ -10943,60 +10998,5 @@
     "id_key": "9b0755f4ca4edf4b18f159f62398aca0d2a0dad0392e097276371f7bc0204866",
     "summary": "Paramount Skydance on Monday launched a hostile bid worth $108.4 billion US for Warner Bros Discovery, throwing a wrench into the deal with Netflix in a last-ditch effort to create a media powerhouse that would challenge the dominance of the streaming giant.",
     "ingested_utc": "2025-12-08T15:17:03Z"
-  },
-  {
-    "published_utc": "2025-12-08",
-    "retrieved_date": "2025-12-08",
-    "retrieved_utc": "2025-12-08T15:17:02Z",
-    "source": "FinancialPost_Business",
-    "title": "Canada Needs IPOs to Reverse a Shrinking Number of Stocks",
-    "url": "https://financialpost.com/pmn/business-pmn/canada-needs-ipos-to-reverse-a-shrinking-number-of-stocks",
-    "id_key": "9437ab0bc0ea388bde2c2ea0d08657efeab3391a6d180d8a57d71132ef202827",
-    "summary": "Canada’s largest stock exchanges are atrophying, with the number of publicly traded companies shrinking for a fourth straight year even as the country’s stock benchmark soared past the S&P 500.",
-    "ingested_utc": "2025-12-08T15:17:02Z"
-  },
-  {
-    "published_utc": "2025-12-08",
-    "retrieved_date": "2025-12-08",
-    "retrieved_utc": "2025-12-08T15:17:02Z",
-    "source": "FinancialPost_Business",
-    "title": "Curaçao Debuts First Chicago Nonstop Flight With a Night of Color and Culture",
-    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/curacao-debuts-first-chicago-nonstop-flight-with-a-night-of-color-and-culture",
-    "id_key": "e3ae8e9ab63de551b857cde2efb157e6cc96773c36631287e2fec241763730dd",
-    "summary": "Destination celebrates first-ever Midwest service with a vibrant launch event CHICAGO — Against the backdrop of a cold Chicago winter night, the Curaçao Tourist Board brought the island’s color, vibrancy, and warmth to the city to celebrate the launch of the first nonstop air service from O’Hare International Airport to Curaçao. The inaugural flight, which […]",
-    "ingested_utc": "2025-12-08T15:17:02Z"
-  },
-  {
-    "published_utc": "2025-12-08",
-    "retrieved_date": "2025-12-08",
-    "retrieved_utc": "2025-12-08T15:17:02Z",
-    "source": "FinancialPost_Business",
-    "title": "Nova Era Labs Revolutionizes AI Education with America’s First Comprehensive Cloud-Based Virtual Lab Platform",
-    "url": "https://financialpost.com/globe-newswire/nova-era-labs-revolutionizes-ai-education-with-americas-first-comprehensive-cloud-based-virtual-lab-platform",
-    "id_key": "a8d2bbfd9180a0ed01af5d4a35e91433914597b32966a2a9e1c2b1e87efd78b3",
-    "summary": "Leading EdTech Innovator Combines 450 Hands-On Labs, GPU Access, and Real-World Projects to Address Critical AI Skills Gap NEW YORK, Dec. 08, 2025 (GLOBE NEWSWIRE) — Nova Era Labs, the flagship brand of Defi Assets LLC, today announced its groundbreaking position as the only company in the United States offering comprehensive cloud-based virtual laboratory access […]",
-    "ingested_utc": "2025-12-08T15:17:02Z"
-  },
-  {
-    "published_utc": "2025-12-08",
-    "retrieved_date": "2025-12-08",
-    "retrieved_utc": "2025-12-08T15:16:55Z",
-    "source": "AlJazeera_All",
-    "title": "EU slams critical US security strategy, notes ‘changed relationship’",
-    "url": "https://www.aljazeera.com/news/2025/12/8/eu-slams-critical-us-security-strategy-notes-changed-relationship?traffic_source=rss",
-    "id_key": "b82ebc85e859418b6fda6a16edbd15fc250f5a5c82f5337339a697a8eeb29e02",
-    "summary": "European Council chief Antonio Costa and German government hit back at US security strategy harshly critical of Europe.",
-    "ingested_utc": "2025-12-08T15:16:55Z"
-  },
-  {
-    "published_utc": "2025-12-08",
-    "retrieved_date": "2025-12-08",
-    "retrieved_utc": "2025-12-08T15:16:54Z",
-    "source": "TheStreet_Top",
-    "title": "Famous watchmaker with huge licenses files Chapter 11 bankruptcy",
-    "url": "https://www.thestreet.com/retail/famous-watchmaker-with-huge-licenses-files-chapter-11-bankruptcy",
-    "id_key": "1402a413aa71e0d05a2ddc0d33635451090e771d4030fe3a08ed3e53a6eb2bb1",
-    "summary": "As someone who spends a lot of time on cruise ships, I have always been surprised by the onboard retail focus on selling watches. On Royal Caribbean and Celebrity Cruises ships, you see everything from sun-$100 Invicta watches to full-price Rolexes. You can buy affordable Citizen watches or splurge ...",
-    "ingested_utc": "2025-12-08T15:16:54Z"
   }
 ]
