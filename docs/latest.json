@@ -2,6 +2,61 @@
   {
     "published_utc": "2025-12-10",
     "retrieved_date": "2025-12-10",
+    "retrieved_utc": "2025-12-10T03:55:13Z",
+    "source": "FinancialPost_Business",
+    "title": "Biocytogen Completes STAR Market IPO, Becoming the First “H+A” Global Drug Innovator",
+    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/biocytogen-completes-star-market-ipo-becoming-the-first-ha-global-drug-innovator",
+    "id_key": "904a4b659846b4080ad5ac1664f5433e1a3b6e714d3242823cbccfb1dcec2028",
+    "summary": "BEIJING & SHANGHAI & HONG KONG — Biocytogen (Beijing) Pharmaceutical Technology Co., Ltd. (“Biocytogen,” SSE: 688796; HKEX: 02315), a global biotechnology company advancing innovative drug discovery, today announced its successful listing on the Shanghai Stock Exchange STAR Market. This follows the Company’s listing on the Hong Kong Stock Exchange in September 2022 and marks a […]",
+    "ingested_utc": "2025-12-10T03:55:13Z"
+  },
+  {
+    "published_utc": "2025-12-10",
+    "retrieved_date": "2025-12-10",
+    "retrieved_utc": "2025-12-10T03:52:10Z",
+    "source": "Guardian_World",
+    "title": "Trump speech on affordability ramps up bigotry and false statements – as it happened",
+    "url": "https://www.theguardian.com/us-news/live/2025/dec/09/hegseth-rubio-venezuela-trump-tariffs-pennsylvania-nvidia-china-us-politics-latest-news-updates",
+    "id_key": "3174b1550829934de5822c4c7617ba9070fcf81434faea968200ec617c132112",
+    "summary": "In Pennsylvania, US president attacks Ilhan Omar and Jasmine Crockett and makes multiple false claims, including that ‘prices are way down’. This blog is now closed. A federal judge in New York has granted the justice department’s request to unseal grand jury documents in the sex-trafficking case against Ghislaine Maxwell – the companion and accomplice of the late sex-offender Jeffrey Epstein. It comes after the passage of the Epstein Files Transparency Act , which Donald Trump signed last month. The legislation requires the Department of Justice to release the full tranche of records related to disgraced financier, in a searchable format by 19 December. Continue reading...",
+    "ingested_utc": "2025-12-10T03:52:10Z"
+  },
+  {
+    "published_utc": "2025-12-10",
+    "retrieved_date": "2025-12-10",
+    "retrieved_utc": "2025-12-10T03:52:10Z",
+    "source": "Guardian_World",
+    "title": "Australia news live: Westpac apologises as customers report issues with banking services; petrol prices rose in September quarter",
+    "url": "https://www.theguardian.com/australia-news/live/2025/dec/10/under-16s-social-media-ban-reaction-victoria-vce-atar-results-queensland-parliament-mcphillamys-goldmine-federal-court-hearing-anthony-albanese-labor-sussan-ley-coalition-migration-policy-ntwnfb",
+    "id_key": "ba7786c5ebe36e8f7a10a46d8470678cc130bb9be4a382e2b1c86fd90723f584",
+    "summary": "Follow the latest updates live Social media ban: some platforms still allowing 14-year-olds as landmark ruling comes into force Callout: How is Australia’s social media ban affecting you and your family? Get our breaking news email , free app or daily news podcast Inman Grant says getting ‘the most powerful, rich companies’ to comply was always going to be messy Inman Grant said she expects kids to experience massive changes as the social media ban sticks around. The eSafety commissioner added that some social media companies were more difficult to work with than others during the rollout of the ban, telling ABC News: To the extent that there are seven stages of grief, we have seen some be very accepting, some in denial, some are quite angry. I guess that shows the character of the company and how they’re taking this. … Continue reading...",
+    "ingested_utc": "2025-12-10T03:52:10Z"
+  },
+  {
+    "published_utc": "2025-12-10",
+    "retrieved_date": "2025-12-10",
+    "retrieved_utc": "2025-12-10T03:52:10Z",
+    "source": "Guardian_World",
+    "title": "Fact check: debunking Trump’s claims on immigration and affordability in Pennsylvania",
+    "url": "https://www.theguardian.com/us-news/2025/dec/09/fact-check-trump-speech-pennsylvania",
+    "id_key": "fc53811086966764dd82b6d31b3870111567a92cfd48ee9e4cc69b1a197f5c98",
+    "summary": "The US president made baseless claims during remarks on cost of living that meandered into racism and bigotry Donald Trump made a series of false and baseless claims in Pennsylvania on Tuesday during a speech that was billed as an address on affordability, but quickly became a meandering, campaign-style rally. Here are some key fact-checks and takeaways: Continue reading...",
+    "ingested_utc": "2025-12-10T03:52:10Z"
+  },
+  {
+    "published_utc": "2025-12-10",
+    "retrieved_date": "2025-12-10",
+    "retrieved_utc": "2025-12-10T03:52:06Z",
+    "source": "BBC_World",
+    "title": "Chaos in Brazil Congress during push to cut Bolsonaro's sentence",
+    "url": "https://www.bbc.com/news/articles/cvg8m5lj2lzo?at_medium=RSS&at_campaign=rss",
+    "id_key": "df07c6380d7c1e967a33321865b48864e8ca4f78bb8411abb5f2856a343831a0",
+    "summary": "Scuffles broke out during a vote linked to attempts to reduce the former president's jail term.",
+    "ingested_utc": "2025-12-10T03:52:06Z"
+  },
+  {
+    "published_utc": "2025-12-10",
+    "retrieved_date": "2025-12-10",
     "retrieved_utc": "2025-12-10T02:51:41Z",
     "source": "Nikkei_Asia_Top",
     "title": "UN agency chief calls for stronger cross-border disaster warnings in Asia",
@@ -150,7 +205,7 @@
     "title": "25.12.0-RC2: Revert \"Rpc Timeout interruption (#9117)\" (#9555)",
     "url": "https://github.com/hyperledger/besu/releases/tag/25.12.0-RC2",
     "id_key": "6070129ca72ba29329acccec070dc77287e377511efa57fb7408433ae26defcc",
-    "summary": "Revert \"accept client or server timeout for flaky timeout test ( #9552 )\" This reverts commit 4e088d6 . Signed-off-by: Sally MacFarlane <macfarla.github@gmail.com> Signed-off-by: Sally MacFarlane macfarla.github@gmail.com Revert \"feat: Add RPC timeout interruption with CompletableFuture-based implementation ( #9117 )\" This reverts commit 01bfb85 . Signed-off-by: Sally MacFarlane <macfarla.github@gmail.com> Signed-off-by: Sally MacFarlane macfarla.github@gmail.com Signed-off-by: Sally MacFarlane macfarla.github@gmail.com",
+    "summary": "Revert \"accept client or server timeout for flaky timeout test ( #9552 )\" This reverts commit 4e088d6 . Signed-off-by: Sally MacFarlane Signed-off-by: Sally MacFarlane macfarla.github@gmail.com Revert \"feat: Add RPC timeout interruption with CompletableFuture-based implementation ( #9117 )\" This reverts commit 01bfb85 . Signed-off-by: Sally MacFarlane Signed-off-by: Sally MacFarlane macfarla.github@gmail.com Signed-off-by: Sally MacFarlane macfarla.github@gmail.com",
     "ingested_utc": "2025-12-10T02:50:06Z"
   },
   {
@@ -614,6 +669,28 @@
     "id_key": "287859eb8f4ae4c1c5cef4b8a30354ed8627837c985f0e5ecc2e6d38e3cd0d6e",
     "summary": "The survey found people in the UK spent on average four hours and 30 minutes online every day in 2025",
     "ingested_utc": "2025-12-10T00:57:13Z"
+  },
+  {
+    "published_utc": "2025-12-09",
+    "retrieved_date": "2025-12-10",
+    "retrieved_utc": "2025-12-10T03:54:57Z",
+    "source": "TheEconomist_Business",
+    "title": "Paramount fights Netflix for Warner Bros—and the future of Hollywood",
+    "url": "https://www.economist.com/business/2025/12/09/paramount-fights-netflix-for-warner-bros-and-the-future-of-hollywood",
+    "id_key": "62bc3c0c6f7d0edc0dd512dcaeadf569b9d89e6150ad0bb3bfe6418b80625a6a",
+    "summary": "One firm needs scale, the other ideas",
+    "ingested_utc": "2025-12-10T03:54:57Z"
+  },
+  {
+    "published_utc": "2025-12-09",
+    "retrieved_date": "2025-12-10",
+    "retrieved_utc": "2025-12-10T03:54:36Z",
+    "source": "FT_Home",
+    "title": "Netflix vs Paramount: politics could decide battle for Warner Bros",
+    "url": "https://www.ft.com/content/bbfebdc3-80ce-4dec-b88d-94535a63ed14",
+    "id_key": "2811aa000fdedb60da670b45b954a7eaa23b58e0e9b779e6e72a390bca88e47a",
+    "summary": "Antitrust concerns and ties to Trump administration complicate picture of who may ultimately own media group",
+    "ingested_utc": "2025-12-10T03:54:36Z"
   },
   {
     "published_utc": "2025-12-09",
@@ -10921,82 +10998,5 @@
     "id_key": "42829691495b19395f58811e5d22ddda2a9b3f61d5c78eb9e3aa0cd8c6e2aa11",
     "summary": "Massacres at the start of the war in Sudan should have shocked the world into action. They didn't.",
     "ingested_utc": "2025-12-08T13:49:35Z"
-  },
-  {
-    "published_utc": "2025-12-08",
-    "retrieved_date": "2025-12-08",
-    "retrieved_utc": "2025-12-08T13:49:35Z",
-    "source": "AlJazeera_All",
-    "title": "Syria’s Prison of Secrets: The Search for Sednaya’s Missing",
-    "url": "https://www.aljazeera.com/video/witness/2025/12/8/syrias-prison-of-secrets-the-search-for-sednayas-missing?traffic_source=rss",
-    "id_key": "07f33036cab87625e8037b9dff4a3d7b0507f540035273d6c814b8dbb4e1f623",
-    "summary": "After al-Assad’s fall, a lawyer uncovers files from a notorious prison that reveals the fate of Syria’s disappeared.",
-    "ingested_utc": "2025-12-08T13:49:35Z"
-  },
-  {
-    "published_utc": "2025-12-08",
-    "retrieved_date": "2025-12-08",
-    "retrieved_utc": "2025-12-08T13:49:35Z",
-    "source": "AlJazeera_All",
-    "title": "Will Trump’s new security doctrine boost the rise of far right in Europe?",
-    "url": "https://www.aljazeera.com/news/2025/12/8/will-trumps-new-security-doctrine-boost-the-rise-of-far-right-in-europe?traffic_source=rss",
-    "id_key": "3301309ddb4fa0a5d7ed102c7733e81dd8b1ef8995687956b17493241d6f3a6e",
-    "summary": "The new security doctrine calls on the US to 'cultivate resistance' within Europe.",
-    "ingested_utc": "2025-12-08T13:49:35Z"
-  },
-  {
-    "published_utc": "2025-12-08",
-    "retrieved_date": "2025-12-08",
-    "retrieved_utc": "2025-12-08T13:49:34Z",
-    "source": "TheStreet_Top",
-    "title": "Key streaming service drops generous offer for its subscribers",
-    "url": "https://www.thestreet.com/entertainment/key-streaming-service-drops-generous-offer-for-its-subscribers",
-    "id_key": "4825b341e9e3805089162fb0f2f39b3ed6f1966b762f1f02576f41455a91f86f",
-    "summary": "As more people around the world ditch cable services for more convenient entertainment options, the competition among streaming service providers is heating up. Streaming giants, such as Netflix, Disney +, Hulu, HBO Max, Amazon Prime Video, Sling TV, and others frequently upgrade their offerings to ...",
-    "ingested_utc": "2025-12-08T13:49:34Z"
-  },
-  {
-    "published_utc": "2025-12-08",
-    "retrieved_date": "2025-12-08",
-    "retrieved_utc": "2025-12-08T13:49:34Z",
-    "source": "TheStreet_Top",
-    "title": "Cheer low gas prices  — they  may not last",
-    "url": "https://www.thestreet.com/economy/cheer-for-low-gas-prices-and-hope-they-last",
-    "id_key": "2e88e44f042cd957eab19a6e46257530952d28451da92cd51210cafeeaed5743",
-    "summary": "It's been three-and-a-half years since the retail price of a gallon of gasoline topped $5 and the price of a 42-gallon barrel of U.S. crude oil peaked at just below $139. This week, the national average price of gasoline dropped below $3 a gallon for the first time since 2021. And there was much ...",
-    "ingested_utc": "2025-12-08T13:49:34Z"
-  },
-  {
-    "published_utc": "2025-12-08",
-    "retrieved_date": "2025-12-08",
-    "retrieved_utc": "2025-12-08T13:49:23Z",
-    "source": "TechCrunch_All",
-    "title": "Adobe launches content creation hub in Premiere mobile for YouTube Shorts creators",
-    "url": "https://techcrunch.com/2025/12/08/adobe-launches-content-creation-hub-in-premiere-mobile-for-youtube-shorts-creators/",
-    "id_key": "eac90931f5916d5c31e69385b951691d015358d58b8f9c401feb651717a33b05",
-    "summary": "The company says the space is designed to give creators everything they need to produce viral videos, grow their audience, and tap into trends, whether it's creating day-in-the-life vlogs, travel videos, or behind-the-scenes clips.",
-    "ingested_utc": "2025-12-08T13:49:23Z"
-  },
-  {
-    "published_utc": "2025-12-08",
-    "retrieved_date": "2025-12-08",
-    "retrieved_utc": "2025-12-08T13:48:56Z",
-    "source": "NYTimes_Business",
-    "title": "Trump Looms Over Netflix’s Deal for Warner Bros. Discovery",
-    "url": "https://www.nytimes.com/2025/12/08/business/dealbook/trump-effect-netflix-warner-bros.html",
-    "id_key": "e93c0694db8e0d12b66a4fad34f287b2dfca43347245bf54f3aa0f1ae7c69ecc",
-    "summary": "President Trump said the acquisition “could be a problem,” suggesting he will insert himself into the regulatory review of the transaction.",
-    "ingested_utc": "2025-12-08T13:48:56Z"
-  },
-  {
-    "published_utc": "2025-12-08",
-    "retrieved_date": "2025-12-08",
-    "retrieved_utc": "2025-12-08T13:48:56Z",
-    "source": "NYTimes_Business",
-    "title": "Golden Globes Announces 2026 Nominations",
-    "url": "https://www.nytimes.com/2025/12/08/business/media/golden-globes-nominations-2026.html",
-    "id_key": "e1c6a727ae6c67f20cd86d6946860badd6bac2120efe90400e142657b3a01e0e",
-    "summary": "Movies like “One Battle After Another” and “Hamnet” were considered strong contenders for the top film awards, as the nominations kicked off Monday.",
-    "ingested_utc": "2025-12-08T13:48:56Z"
   }
 ]
