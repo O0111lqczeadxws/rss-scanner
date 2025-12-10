@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-12-10",
     "retrieved_date": "2025-12-10",
+    "retrieved_utc": "2025-12-10T10:56:46Z",
+    "source": "Guardian_World",
+    "title": "‘We are truly doomed’: King Gizzard and the Lizard Wizard despair at AI clone appearing on Spotify",
+    "url": "https://www.theguardian.com/music/2025/dec/10/king-gizzard-and-the-lizard-wizard-despair-at-ai-clone-appearing-on-spotify",
+    "id_key": "74a58eabd74ee16115be1f6107cd82d5ef7792a07baeef1f73a6f64385058ecc",
+    "summary": "Australian psych-rockers, who removed their music from Spotify in protest against the streaming service, lament the appearance of AI band King Lizard Wizard Spotify has removed an AI impersonator of popular Australian rockers King Gizzard and the Lizard Wizard from the streaming service, with the band’s frontman voicing despair at the situation. King Gizzard removed their music from Spotify in July in a protest against the company’s chief executive Daniel Ek, who is the chair of military technology company Helsing as well as a major investor. Continue reading...",
+    "ingested_utc": "2025-12-10T10:56:46Z"
+  },
+  {
+    "published_utc": "2025-12-10",
+    "retrieved_date": "2025-12-10",
     "retrieved_utc": "2025-12-10T10:47:10Z",
     "source": "MIT_TechReview",
     "title": "Securing VMware workloads in regulated industries",
@@ -10987,16 +10998,5 @@
     "id_key": "8e8b2a065aaab2821fc806346eafbdee6e873f892053e249686547373ccce7ad",
     "summary": "\"This is a great choice — and for such a low price.\"",
     "ingested_utc": "2025-12-08T15:53:00Z"
-  },
-  {
-    "published_utc": "2025-12-08",
-    "retrieved_date": "2025-12-08",
-    "retrieved_utc": "2025-12-08T15:52:48Z",
-    "source": "TheVerge_All",
-    "title": "Genki’s colorful, powerful power strip is 25 percent off",
-    "url": "https://www.theverge.com/gadgets/839820/genki-moonbase-apple-watch-ultra-2-rtx-5070-deal-sale",
-    "id_key": "da622e09fdc88ec233db5f596d878b243a58d932aefeb3f40a780d18e68f774c",
-    "summary": "Power strips are generally pretty boring. You plug stuff into them, then you try your best to hid the strip along with all of the cables feeding into it. But Genki’s Moonbase is meant to be displayed loud and proud on your desk. The retrofuturism-inspired strip we wrote about at the end of last year […]",
-    "ingested_utc": "2025-12-08T15:52:48Z"
   }
 ]
