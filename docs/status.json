@@ -1,7 +1,7 @@
 {
-  "started_utc": "2025-12-11T10:42:53Z",
-  "ended_utc": "2025-12-11T10:46:13Z",
-  "new_items_this_run": 9,
+  "started_utc": "2025-12-11T10:55:37Z",
+  "ended_utc": "2025-12-11T10:59:04Z",
+  "new_items_this_run": 3,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
@@ -19,11 +19,11 @@
     "MarketWatch_MarketPulse": 0,
     "Blockworks": 0,
     "BitcoinMagazine": 0,
-    "CryptoSlate": 3,
+    "CryptoSlate": 0,
     "CryptoBriefing": 0,
     "Protos": 0,
-    "CryptoNews": 1,
-    "CoinJournal": 0,
+    "CryptoNews": 0,
+    "CoinJournal": 2,
     "Unchained": 0,
     "Bankless": 0,
     "CoinGecko_Blog": 0,
@@ -71,15 +71,15 @@
     "CNBC_Top": 0,
     "CNBC_Markets": 0,
     "TheVerge_All": 0,
-    "TechCrunch_All": 1,
+    "TechCrunch_All": 0,
     "ArsTechnica_All": 0,
     "WIRED_All": 0,
-    "Engadget_All": 1,
+    "Engadget_All": 0,
     "TheEconomist_Business": 0,
     "TheEconomist_Finance": 0,
     "Investopedia_Latest": 0,
     "TheStreet_Top": 0,
-    "AlJazeera_All": 2,
+    "AlJazeera_All": 0,
     "AlJazeera_Economy": 0,
     "FinancialPost_Business": 0,
     "CBC_Business": 0,
@@ -335,9 +335,9 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 577,
+    "passed_keywords": 575,
     "passed_allowlist": 2,
-    "failed_all_filters": 529
+    "failed_all_filters": 531
   },
   "stats": {
     "feeds_total": 97,
@@ -346,8 +346,8 @@
     "feeds_http_error": 0,
     "entries_seen": 1568,
     "too_old": 460,
-    "dup_title_url": 107,
-    "dup_id": 463
+    "dup_title_url": 106,
+    "dup_id": 468
   },
   "limits": {
     "skip_older_days": 10,
@@ -360,6 +360,6 @@
   },
   "processed": {
     "file": "data/processed/2025-12-11.jsonl",
-    "appended_new": 9
+    "appended_new": 3
   }
 }
