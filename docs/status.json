@@ -1,29 +1,29 @@
 {
-  "started_utc": "2025-12-11T17:19:34Z",
-  "ended_utc": "2025-12-11T17:23:22Z",
-  "new_items_this_run": 16,
+  "started_utc": "2025-12-11T18:16:40Z",
+  "ended_utc": "2025-12-11T18:20:18Z",
+  "new_items_this_run": 32,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
     "Reuters_World": 0,
     "Reuters_Markets": 0,
-    "BBC_World": 0,
+    "BBC_World": 1,
     "BBC_Business": 0,
     "BBC_Technology": 0,
-    "Guardian_Business": 1,
-    "Guardian_World": 2,
+    "Guardian_Business": 0,
+    "Guardian_World": 6,
     "WSJ_US_Business": 0,
     "WSJ_World": 0,
     "WSJ_Markets": 0,
     "MarketWatch_Top": 0,
     "MarketWatch_MarketPulse": 0,
-    "Blockworks": 1,
-    "BitcoinMagazine": 0,
-    "CryptoSlate": 0,
+    "Blockworks": 0,
+    "BitcoinMagazine": 1,
+    "CryptoSlate": 1,
     "CryptoBriefing": 1,
     "Protos": 0,
-    "CryptoNews": 2,
-    "CoinJournal": 0,
+    "CryptoNews": 0,
+    "CoinJournal": 1,
     "Unchained": 0,
     "Bankless": 0,
     "CoinGecko_Blog": 0,
@@ -39,7 +39,7 @@
     "NEAR_Blog": 0,
     "Sui_Blog": 0,
     "dYdX_Blog": 0,
-    "Kraken_Blog": 0,
+    "Kraken_Blog": 1,
     "Gemini_Blog": 0,
     "Circle_Blog": 0,
     "Tether_Blog": 0,
@@ -54,36 +54,36 @@
     "PolygonEdge_Releases": 0,
     "CardanoNode_Releases": 0,
     "MarketWatch_RealTime": 0,
-    "MarketWatch_Bulletins": 0,
+    "MarketWatch_Bulletins": 2,
     "MarketWatch_PersonalFinance": 0,
     "NYTimes_Business": 0,
-    "NYTimes_World": 0,
+    "NYTimes_World": 1,
     "NYTimes_Economy": 0,
     "NYTimes_Technology": 0,
     "CNN_Top": 0,
     "NPR_Top": 1,
-    "NPR_Business": 0,
+    "NPR_Business": 1,
     "NPR_Economy": 0,
-    "NPR_World": 1,
+    "NPR_World": 0,
     "NPR_Technology": 0,
-    "FT_Home": 0,
+    "FT_Home": 1,
     "FT_Markets": 0,
     "CNBC_Top": 0,
     "CNBC_Markets": 0,
-    "TheVerge_All": 5,
+    "TheVerge_All": 3,
     "TechCrunch_All": 0,
     "ArsTechnica_All": 0,
     "WIRED_All": 0,
-    "Engadget_All": 0,
+    "Engadget_All": 2,
     "TheEconomist_Business": 0,
     "TheEconomist_Finance": 0,
     "Investopedia_Latest": 0,
-    "TheStreet_Top": 1,
+    "TheStreet_Top": 3,
     "AlJazeera_All": 0,
     "AlJazeera_Economy": 0,
-    "FinancialPost_Business": 1,
-    "CBC_Business": 0,
-    "Nikkei_Asia_Top": 0,
+    "FinancialPost_Business": 4,
+    "CBC_Business": 1,
+    "Nikkei_Asia_Top": 1,
     "WorldBank_News": 0,
     "OECD_Newsroom": 0,
     "MIT_TechReview": 0,
@@ -176,7 +176,7 @@
     },
     {
       "source": "NEAR_Blog",
-      "error": "<unknown>:2:2638: not well-formed (invalid token)"
+      "error": "<unknown>:2:3932: not well-formed (invalid token)"
     },
     {
       "source": "https://blog.dydx.exchange/feed",
@@ -187,8 +187,12 @@
       "error": "fatal parse failure"
     },
     {
+      "source": "https://www.gemini.com/blog/rss",
+      "error": "fetch error: HTTP 404"
+    },
+    {
       "source": "Gemini_Blog",
-      "error": "<unknown>:450:42457: not well-formed (invalid token)"
+      "error": "fatal parse failure"
     },
     {
       "source": "https://www.circle.com/blog/rss.xml",
@@ -335,19 +339,19 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 569,
+    "passed_keywords": 560,
     "passed_allowlist": 1,
-    "failed_all_filters": 517
+    "failed_all_filters": 529
   },
   "stats": {
     "feeds_total": 97,
-    "feeds_error": 23,
+    "feeds_error": 24,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 1542,
+    "entries_seen": 1545,
     "too_old": 455,
-    "dup_title_url": 101,
-    "dup_id": 453
+    "dup_title_url": 99,
+    "dup_id": 430
   },
   "limits": {
     "skip_older_days": 10,
@@ -360,6 +364,6 @@
   },
   "processed": {
     "file": "data/processed/2025-12-11.jsonl",
-    "appended_new": 16
+    "appended_new": 32
   }
 }
