@@ -2,6 +2,50 @@
   {
     "published_utc": "2025-12-11",
     "retrieved_date": "2025-12-11",
+    "retrieved_utc": "2025-12-11T11:51:51Z",
+    "source": "CBC_Business",
+    "title": "Would Netflix buying Warner Bros. kill movies in theatres?",
+    "url": "https://www.cbc.ca/news/business/netflix-warner-bros-movie-theatre-9.7010782?cmp=rss",
+    "id_key": "945fab18b1969bf09bd717f27fdc187868fe5b2c52113ddbf14fa0a2ec3f5a2f",
+    "summary": "Some in the movie theatre industry are expressing grave concerns over Netflix's bid to buy Warner Bros. Discovery, worried it poses a threat to the future of theatregoing itself. Meanwhile, industry analysts suggest theatre companies and studios need to do more to give customers faced with rising prices compelling reasons to see movies in cinemas.",
+    "ingested_utc": "2025-12-11T11:51:51Z"
+  },
+  {
+    "published_utc": "2025-12-11",
+    "retrieved_date": "2025-12-11",
+    "retrieved_utc": "2025-12-11T11:51:13Z",
+    "source": "NPR_Top",
+    "title": "Trump calls affordability crisis a 'hoax,' touts the economy ahead of midterms",
+    "url": "https://www.npr.org/2025/12/11/nx-s1-5639957/trump-affordability-hoax-economy-midterms",
+    "id_key": "2bb520a4dd11c9bc875016a16585d836e5ef1f4674c0727f8518489f21638e36",
+    "summary": "As Democrats campaigning on affordability pick up wins, Trump's messaging about a strong economy is at odds with widespread voter sentiment that he's not doing enough to tackle rising costs.",
+    "ingested_utc": "2025-12-11T11:51:13Z"
+  },
+  {
+    "published_utc": "2025-12-11",
+    "retrieved_date": "2025-12-11",
+    "retrieved_utc": "2025-12-11T11:49:21Z",
+    "source": "CryptoNews",
+    "title": "Coinbase UK CEO Predicts Stablecoins Will Enter Mainstream Payment Infrastructure by 2026",
+    "url": "https://cryptonews.com/news/coinbase-uk-ceo-predicts-stablecoins-will-enter-mainstream-payment-infrastructure-by-2026/",
+    "id_key": "b9c9744b77899f3ce5c3c06172e50f0d9c4827e5d0c240c4fdccd93b60d109f3",
+    "summary": "Stablecoins are set to move firmly into the financial mainstream next year, according to Keith Grose, UK CEO of Coinbase, who expects continued acceleration in consumer adoption, regulatory clarity, and global market growth through 2026. The post Coinbase UK CEO Predicts Stablecoins Will Enter Mainstream Payment Infrastructure by 2026 appeared first on Cryptonews .",
+    "ingested_utc": "2025-12-11T11:49:21Z"
+  },
+  {
+    "published_utc": "2025-12-11",
+    "retrieved_date": "2025-12-11",
+    "retrieved_utc": "2025-12-11T11:49:01Z",
+    "source": "Guardian_World",
+    "title": "No guarantee tobacco tax cut would lure Australian smokers from illegal trade and raise more revenue, report says",
+    "url": "https://www.theguardian.com/business/2025/dec/11/no-guarantee-tobacco-tax-cut-would-lure-australian-smokers-from-trade-and-raise-more-revenue-report-says",
+    "id_key": "6afcca0bbccfd127abfb95dc4f179c9ff7ef19574b82a2b07b30a0d01dacc9b4",
+    "summary": "Exclusive: New research points to need for ‘holistic approach to combating illicit tobacco’ including having support of health advocates Get our breaking news email , free app or daily news podcast Slashing the tobacco excise might not be enough to lure smokers back to legal cigarettes, and could even widen the multi-billion dollar hole blown in the budget by the booming illicit trade , new research shows. The analysis from the e61 Institute comes as Jim Chalmers revealed next week’s mid-year fiscal update will reveal an extra $12.7bn in unanticipated spending, including an additional $6.3bn in higher than expected disaster relief payments. Continue reading...",
+    "ingested_utc": "2025-12-11T11:49:01Z"
+  },
+  {
+    "published_utc": "2025-12-11",
+    "retrieved_date": "2025-12-11",
     "retrieved_utc": "2025-12-11T11:34:36Z",
     "source": "FinancialPost_Business",
     "title": "New Mexico DFA Secures $72M in Additional Funds with Euna Grants",
@@ -1923,6 +1967,17 @@
     "id_key": "ace1671e6379ee53f13bc40185202b0dbe9a41abc612b9372e44f05d5659d75b",
     "summary": "Survivors of a deadly typhoon in the Philippines have filed a claim against the UK's largest oil company.",
     "ingested_utc": "2025-12-11T00:57:57Z"
+  },
+  {
+    "published_utc": "2025-12-10",
+    "retrieved_date": "2025-12-11",
+    "retrieved_utc": "2025-12-11T11:51:17Z",
+    "source": "FT_Markets",
+    "title": "US seizes oil tanker off Venezuelan coast",
+    "url": "https://www.ft.com/content/1f0627d0-a9c4-48d7-9a13-307bc59dea66",
+    "id_key": "84206150c821dbcb4565274363ad11a20b0c182dc7c0ca4012cb0f7988a74ee2",
+    "summary": "Oil price jumps as Washington piles pressure on Nicolás Maduro’s regime",
+    "ingested_utc": "2025-12-11T11:51:17Z"
   },
   {
     "published_utc": "2025-12-10",
@@ -10943,60 +10998,5 @@
     "id_key": "c407726a4d2a862115ba7f831f24a75c3e4b8ab2b29bd0480751c251cde64a01",
     "summary": "NASA crew will be the first astronauts to work with a robot on a celestial body other than Earth.",
     "ingested_utc": "2025-12-09T18:18:39Z"
-  },
-  {
-    "published_utc": "2025-12-09",
-    "retrieved_date": "2025-12-09",
-    "retrieved_utc": "2025-12-09T18:18:39Z",
-    "source": "ArsTechnica_All",
-    "title": "Court: “Because Trump said to” may not be a legally valid defense",
-    "url": "https://arstechnica.com/tech-policy/2025/12/trumps-order-blocking-wind-development-thrown-out-by-court/",
-    "id_key": "cbc7d305e63d2343fbdf5e53bfd29ddb51643985bbe6b9bbc67c3a3543d367fd",
-    "summary": "The \"arbitrary and capricious\" standard strikes down another administration action.",
-    "ingested_utc": "2025-12-09T18:18:39Z"
-  },
-  {
-    "published_utc": "2025-12-09",
-    "retrieved_date": "2025-12-09",
-    "retrieved_utc": "2025-12-09T18:18:38Z",
-    "source": "TechCrunch_All",
-    "title": "Ford and Renault team up on cheaper EVs in a ‘fight for our lives’",
-    "url": "https://techcrunch.com/2025/12/09/ford-and-renault-team-up-on-cheaper-evs-in-a-fight-for-our-lives/",
-    "id_key": "d328cd4b9ace7109b8a4d239b6ca1f7f3ce3205e626fac8057c6b1c43a312275",
-    "summary": "The automakers will work together to bring two Ford-branded EVs to European dealerships in 2028.",
-    "ingested_utc": "2025-12-09T18:18:38Z"
-  },
-  {
-    "published_utc": "2025-12-09",
-    "retrieved_date": "2025-12-09",
-    "retrieved_utc": "2025-12-09T18:18:37Z",
-    "source": "TheVerge_All",
-    "title": "Google Photos&#8217; new video editor makes it more like Capcut",
-    "url": "https://www.theverge.com/news/840690/google-photos-video-editing-highlight-reel-updates",
-    "id_key": "87aa7c1345803f580e998e1d6738331aec5569dc000bb073a2643eb95fe835d8",
-    "summary": "The Google Photos app on Android and iOS is getting a video editing overhaul with a redesigned editor, templates for highlight reels, and options for adding custom text overlays and music to individual videos. Highlight reels, which automatically cut together a video featuring selected photos and videos, were already part of Google Photos, but now […]",
-    "ingested_utc": "2025-12-09T18:18:37Z"
-  },
-  {
-    "published_utc": "2025-12-09",
-    "retrieved_date": "2025-12-09",
-    "retrieved_utc": "2025-12-09T18:18:22Z",
-    "source": "FT_Home",
-    "title": "Trump gives Zelenskyy ‘days’ to respond to peace proposal",
-    "url": "https://www.ft.com/content/ea36e244-4b2d-486e-881d-af7e1c25094a",
-    "id_key": "3e1dda147821bff24dea16ce982bb2326bfd43ecf42cd190ab3728c3eddd78c5",
-    "summary": "Ukrainian president pressed by US envoys for a swift response with an aim to agree ceasefire with Russia ‘by Christmas’",
-    "ingested_utc": "2025-12-09T18:18:22Z"
-  },
-  {
-    "published_utc": "2025-12-09",
-    "retrieved_date": "2025-12-09",
-    "retrieved_utc": "2025-12-09T18:18:22Z",
-    "source": "FT_Home",
-    "title": "Ukraine strikes deal to restructure $2.6bn of growth-linked debt",
-    "url": "https://www.ft.com/content/bae2c449-7fc7-45d8-b86d-81534858144c",
-    "id_key": "57208ed2b2c8ad6bd0e75005db5a5e31cbd08241ac17ecf2b7dc6badb9326354",
-    "summary": "Investors agree to swap controversial ‘GDP warrants’ for new bonds",
-    "ingested_utc": "2025-12-09T18:18:22Z"
   }
 ]
