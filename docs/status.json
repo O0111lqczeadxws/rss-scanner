@@ -1,7 +1,7 @@
 {
-  "started_utc": "2025-12-11T20:35:31Z",
-  "ended_utc": "2025-12-11T20:39:04Z",
-  "new_items_this_run": 11,
+  "started_utc": "2025-12-11T21:14:00Z",
+  "ended_utc": "2025-12-11T21:17:29Z",
+  "new_items_this_run": 24,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
@@ -11,18 +11,18 @@
     "BBC_Business": 0,
     "BBC_Technology": 0,
     "Guardian_Business": 0,
-    "Guardian_World": 1,
+    "Guardian_World": 2,
     "WSJ_US_Business": 0,
     "WSJ_World": 0,
     "WSJ_Markets": 0,
     "MarketWatch_Top": 0,
     "MarketWatch_MarketPulse": 0,
-    "Blockworks": 0,
+    "Blockworks": 1,
     "BitcoinMagazine": 0,
     "CryptoSlate": 0,
-    "CryptoBriefing": 1,
+    "CryptoBriefing": 0,
     "Protos": 0,
-    "CryptoNews": 0,
+    "CryptoNews": 1,
     "CoinJournal": 0,
     "Unchained": 0,
     "Bankless": 0,
@@ -57,7 +57,7 @@
     "MarketWatch_Bulletins": 1,
     "MarketWatch_PersonalFinance": 0,
     "NYTimes_Business": 0,
-    "NYTimes_World": 1,
+    "NYTimes_World": 0,
     "NYTimes_Economy": 0,
     "NYTimes_Technology": 0,
     "CNN_Top": 0,
@@ -78,16 +78,16 @@
     "TheEconomist_Business": 0,
     "TheEconomist_Finance": 0,
     "Investopedia_Latest": 0,
-    "TheStreet_Top": 2,
-    "AlJazeera_All": 0,
+    "TheStreet_Top": 3,
+    "AlJazeera_All": 1,
     "AlJazeera_Economy": 0,
-    "FinancialPost_Business": 2,
+    "FinancialPost_Business": 10,
     "CBC_Business": 0,
     "Nikkei_Asia_Top": 0,
     "WorldBank_News": 0,
     "OECD_Newsroom": 0,
     "MIT_TechReview": 0,
-    "HackerNews_Top": 0
+    "HackerNews_Top": 2
   },
   "errors": [
     {
@@ -335,19 +335,19 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 567,
+    "passed_keywords": 576,
     "passed_allowlist": 0,
-    "failed_all_filters": 521
+    "failed_all_filters": 512
   },
   "stats": {
     "feeds_total": 97,
     "feeds_error": 23,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 1544,
-    "too_old": 456,
-    "dup_title_url": 100,
-    "dup_id": 456
+    "entries_seen": 1543,
+    "too_old": 455,
+    "dup_title_url": 99,
+    "dup_id": 453
   },
   "limits": {
     "skip_older_days": 10,
@@ -360,6 +360,6 @@
   },
   "processed": {
     "file": "data/processed/2025-12-11.jsonl",
-    "appended_new": 11
+    "appended_new": 24
   }
 }
