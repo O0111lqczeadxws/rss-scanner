@@ -2,6 +2,72 @@
   {
     "published_utc": "2025-12-12",
     "retrieved_date": "2025-12-12",
+    "retrieved_utc": "2025-12-12T09:20:14Z",
+    "source": "Nikkei_Asia_Top",
+    "title": "Bank of Japan set for first rate hike in 11 months",
+    "url": "https://asia.nikkei.com/economy/bank-of-japan/bank-of-japan-set-for-first-rate-hike-in-11-months",
+    "id_key": "5bd4865275c64f24d5f503a6f51378c619f88f63f292cfde51e4981edf04ce4a",
+    "summary": "",
+    "ingested_utc": "2025-12-12T09:20:14Z"
+  },
+  {
+    "published_utc": "2025-12-12",
+    "retrieved_date": "2025-12-12",
+    "retrieved_utc": "2025-12-12T09:20:06Z",
+    "source": "AlJazeera_All",
+    "title": "Fans slam FIFA, demand halt to ‘extortionate’ 2026 World Cup ticket sales",
+    "url": "https://www.aljazeera.com/news/2025/12/12/fans-slam-fifa-demand-halt-to-extortionate-2026-world-cup-ticket-sales?traffic_source=rss",
+    "id_key": "41bc3b4e3990d9a5dd93662c729089d129411b825d8c0679c4272225117d453d",
+    "summary": "Supporter groups say soaring prices threaten to turn 2026 tournament into 'Corporate Games'.",
+    "ingested_utc": "2025-12-12T09:20:06Z"
+  },
+  {
+    "published_utc": "2025-12-12",
+    "retrieved_date": "2025-12-12",
+    "retrieved_utc": "2025-12-12T09:20:05Z",
+    "source": "TheStreet_Top",
+    "title": "Amazon is selling a $100 portable Bluetooth speaker for only $30 in time for the holidays",
+    "url": "https://www.thestreet.com/deals/dotn-portable-bluetooth-speaker-wireless-led-stereo-amazon-sale",
+    "id_key": "eaffab07890b5f8958ecedde7a3e596178073ed17b8a725243c2470de599a926",
+    "summary": "Save a whopping $70 on the gift of music you can take anywhere.",
+    "ingested_utc": "2025-12-12T09:20:05Z"
+  },
+  {
+    "published_utc": "2025-12-12",
+    "retrieved_date": "2025-12-12",
+    "retrieved_utc": "2025-12-12T09:19:27Z",
+    "source": "NYTimes_World",
+    "title": "Louvre Heist Was Filmed Live, but the Guards Weren’t Watching",
+    "url": "https://www.nytimes.com/2025/12/10/world/europe/louvre-heist-camera-delay.html",
+    "id_key": "364304e832a40ce7bd4e89574a3fd938605d4dd37a73624ad908f12be32860ad",
+    "summary": "Investigators said that a security camera recorded thieves preparing to burgle the Louvre. The museum’s director said previously that the camera was facing the wrong way.",
+    "ingested_utc": "2025-12-12T09:19:27Z"
+  },
+  {
+    "published_utc": "2025-12-12",
+    "retrieved_date": "2025-12-12",
+    "retrieved_utc": "2025-12-12T09:19:07Z",
+    "source": "Guardian_World",
+    "title": "Strikes could collapse flu-hit NHS amid worst crisis since Covid, says Streeting",
+    "url": "https://www.theguardian.com/society/2025/dec/12/christmas-strikes-resident-doctors-jenga-piece-collapses-nhs-wes-streeting",
+    "id_key": "497fd877aa3193f176cc8d7bee650c63867d9a122ed813073e6b6f44b5f32f20",
+    "summary": "Health secretary urges resident doctors to accept pay offer as he warns of pressures on health service from flu cases Wes Streeting has told resident doctors that strikes and a jump in flu cases over the Christmas period could be “the Jenga piece” that forces the NHS to collapse. The health secretary said the NHS faced a “challenge unlike any it has seen since the pandemic” and urged resident doctors to accept the government’s offer and end their actions. Continue reading...",
+    "ingested_utc": "2025-12-12T09:19:07Z"
+  },
+  {
+    "published_utc": "2025-12-12",
+    "retrieved_date": "2025-12-12",
+    "retrieved_utc": "2025-12-12T09:17:02Z",
+    "source": "BBC_Business",
+    "title": "'No empty shelves at Christmas' as Guinness workers strike",
+    "url": "https://www.bbc.com/news/articles/cdrnzrg6np0o?at_medium=RSS&at_campaign=rss",
+    "id_key": "3c96e9bc06eb7a7ef4b2b89183b80fffd87cf0e9b4c352b9aba85127f5a0dc6c",
+    "summary": "About 90 workers at a Guinness canning factory in Belfast have walked out in protest over pay.",
+    "ingested_utc": "2025-12-12T09:17:02Z"
+  },
+  {
+    "published_utc": "2025-12-12",
+    "retrieved_date": "2025-12-12",
     "retrieved_utc": "2025-12-12T08:54:23Z",
     "source": "HackerNews_Top",
     "title": "Journalism students expose Russian-linked vessels off the Dutch and German coast",
@@ -10932,71 +10998,5 @@
     "id_key": "6419cb08e0140033d68bad3443d8c3206b311fe98305c0dff6543b514544e255",
     "summary": "Discount and higher-end retailers have reported stronger sales from consumers who are hunting for the best deals and long-lasting items.",
     "ingested_utc": "2025-12-10T17:42:14Z"
-  },
-  {
-    "published_utc": "2025-12-10",
-    "retrieved_date": "2025-12-10",
-    "retrieved_utc": "2025-12-10T17:41:53Z",
-    "source": "BBC_Business",
-    "title": "Toffee Crisp and Blue Riband can't be called chocolate anymore",
-    "url": "https://www.bbc.com/news/articles/c79x7q325p3o?at_medium=RSS&at_campaign=rss",
-    "id_key": "5e4770a5b170c319d65686c721bce696307e8a9c02f30f96a795fae85e7e38fe",
-    "summary": "Nestle has used more vegetable oil in it recipes, meaning the treats no longer qualify as chocolate under UK law",
-    "ingested_utc": "2025-12-10T17:41:53Z"
-  },
-  {
-    "published_utc": "2025-12-10",
-    "retrieved_date": "2025-12-10",
-    "retrieved_utc": "2025-12-10T17:40:24Z",
-    "source": "CryptoNews",
-    "title": "Bitcoin Selling Pressure Eases as Exchange Inflows Drop: CryptoQuant",
-    "url": "https://cryptonews.com/news/bitcoin-selling-pressure-eases-as-exchange-inflows-drop-cryptoquant/",
-    "id_key": "ebd1a852d272d1843e6b387e83ab381da376fe0714158cdfa12241a577f9784d",
-    "summary": "Bitcoin has rebounded after a sharp drop, with exchange deposits, whale transfers and realized losses all declining, which has eased short-term selling pressure and set up resistance levels around $99K, $102K and $112K ahead of the Federal Reserve policy decision. The post Bitcoin Selling Pressure Eases as Exchange Inflows Drop: CryptoQuant appeared first on Cryptonews .",
-    "ingested_utc": "2025-12-10T17:40:24Z"
-  },
-  {
-    "published_utc": "2025-12-10",
-    "retrieved_date": "2025-12-10",
-    "retrieved_utc": "2025-12-10T17:40:21Z",
-    "source": "CryptoBriefing",
-    "title": "Pudgy Penguins token PENGU launches on BNB Chain for trading",
-    "url": "https://cryptobriefing.com/pengu-token-launch-bnb-chain/",
-    "id_key": "cb8ed5c1f4b44604ff166236a13b33285b8d1961d109caa0becf94e8fd78b6c2",
-    "summary": "PENGU token launch marks Pudgy Penguins' entry to BNB Chain, with the digital asset now available for trading on the blockchain. The post Pudgy Penguins token PENGU launches on BNB Chain for trading appeared first on Crypto Briefing .",
-    "ingested_utc": "2025-12-10T17:40:21Z"
-  },
-  {
-    "published_utc": "2025-12-10",
-    "retrieved_date": "2025-12-10",
-    "retrieved_utc": "2025-12-10T17:40:02Z",
-    "source": "Guardian_World",
-    "title": "MPs to recall West Midlands police chief over evidence error on Maccabi fans ban",
-    "url": "https://www.theguardian.com/uk-news/2025/dec/10/mps-west-midlands-police-football-macabi-tel-israel",
-    "id_key": "cde5c62b3a923c04a10d12dda0a61e611dd0292920c68883a4f5fbcb91267876",
-    "summary": "Craig Guildford told to provide more documents and not ‘mislead parliament’ after Europa League ban A parliamentary committee has said it expects to recall the chief constable of West Midlands police to explain why his evidence on the reasons behind a ban on Maccabi Tel Aviv fans was wrong. In a letter to Craig Guildford , the home affairs committee of MPs warned him of the seriousness of misleading parliament and demanded more documents be handed over. Continue reading...",
-    "ingested_utc": "2025-12-10T17:40:02Z"
-  },
-  {
-    "published_utc": "2025-12-10",
-    "retrieved_date": "2025-12-10",
-    "retrieved_utc": "2025-12-10T17:39:59Z",
-    "source": "BBC_World",
-    "title": "Benin coup plot leader hiding in Togo, official tells BBC",
-    "url": "https://www.bbc.com/news/articles/cwyln60219qo?at_medium=RSS&at_campaign=rss",
-    "id_key": "6cbeeb83685397fe6a196208c2e73d5085a201ec6b65fdfd64edda6b503dc2d9",
-    "summary": "The coup was thwarted after Nigeria sent warplanes to dislodge the mutineers from the offices of state TV.",
-    "ingested_utc": "2025-12-10T17:39:59Z"
-  },
-  {
-    "published_utc": "2025-12-10",
-    "retrieved_date": "2025-12-10",
-    "retrieved_utc": "2025-12-10T17:18:34Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "Mitsui & Co. to invest in US geothermal startup, eyeing data center power",
-    "url": "https://asia.nikkei.com/business/energy/mitsui-co.-to-invest-in-us-geothermal-startup-eyeing-data-center-power",
-    "id_key": "f1e0f275df7f60fbe1d1da74c98475c513f978946992e64e32097ce045d34c09",
-    "summary": "",
-    "ingested_utc": "2025-12-10T17:18:34Z"
   }
 ]
