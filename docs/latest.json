@@ -2,6 +2,50 @@
   {
     "published_utc": "2025-12-12",
     "retrieved_date": "2025-12-12",
+    "retrieved_utc": "2025-12-12T06:22:37Z",
+    "source": "FT_Markets",
+    "title": "One step forward, two steps back for the EU and its Ukraine loan scheme",
+    "url": "https://www.ft.com/content/58f8bb47-c2da-4332-b0e2-fe86a407b62f",
+    "id_key": "641dfd67ea8296230aa870263bb28ec572d98594164c3d2deb2683c3f187dbb9",
+    "summary": "Also in this newsletter: EU finance ministers crack down on cheap small packages",
+    "ingested_utc": "2025-12-12T06:22:37Z"
+  },
+  {
+    "published_utc": "2025-12-12",
+    "retrieved_date": "2025-12-12",
+    "retrieved_utc": "2025-12-12T06:20:05Z",
+    "source": "Guardian_World",
+    "title": "Met police face independent inquiry over fears 300 recruits not properly vetted",
+    "url": "https://www.theguardian.com/uk-news/2025/dec/12/met-police-face-independent-inquiry-over-fears-300-recruits-not-properly-vetted",
+    "id_key": "19ee1d300e5c82f8ded8329b85e720fbdd6b5401245c59bcefb32372d806e0e7",
+    "summary": "Home secretary to order special investigation amid concern inadequate checks during hiring spree may pose criminal risk The home secretary is to order an independent special inquiry into whether the Metropolitan police allowed hundreds of recruits to join without proper vetting amid fears they may pose a criminal risk. The Guardian has learned that the inquiry will be carried out by the policing inspectorate, with concerns centred on 300 new officers hired between 2016 and 2023. Continue reading...",
+    "ingested_utc": "2025-12-12T06:20:05Z"
+  },
+  {
+    "published_utc": "2025-12-12",
+    "retrieved_date": "2025-12-12",
+    "retrieved_utc": "2025-12-12T06:20:05Z",
+    "source": "Guardian_World",
+    "title": "Guardian charity appeal donations top £200,000 before annual telethon",
+    "url": "https://www.theguardian.com/society/2025/dec/12/guardian-charity-appeal-donations-top-200000-before-annual-telethon",
+    "id_key": "8b24f29fb670d140871a1d7d41de55abecd854366aa767eea7d3dc1448778eca",
+    "summary": "Milestone reached as journalists including Polly Toynbee and John Crace prepare for fundraising event on Saturday Donate to our charity appeal here The first week of the Guardian’s Hope appeal has raised more than £200,000 for grassroots charities doing inspiring work to bring divided communities together, promoting tolerance and positive change, and opposing racism and hate. The milestone was reached before the annual fundraising telethon on Saturday. Journalists preparing to take donations over the phone include Polly Toynbee, John Crace, Jonathan Liew, Patrick Wintour and Simon Hattenstone. Continue reading...",
+    "ingested_utc": "2025-12-12T06:20:05Z"
+  },
+  {
+    "published_utc": "2025-12-12",
+    "retrieved_date": "2025-12-12",
+    "retrieved_utc": "2025-12-12T06:20:03Z",
+    "source": "BBC_Business",
+    "title": "Food parcels help thousands at Christmas",
+    "url": "https://www.bbc.com/news/articles/c39p7gykwx4o?at_medium=RSS&at_campaign=rss",
+    "id_key": "e251b75bdd1224bd8b754ffe2325ef5d3a826794feb76836a7061c256653f140",
+    "summary": "A charity is ramping up its operation in the run up to Christmas to help tackle food poverty.",
+    "ingested_utc": "2025-12-12T06:20:03Z"
+  },
+  {
+    "published_utc": "2025-12-12",
+    "retrieved_date": "2025-12-12",
     "retrieved_utc": "2025-12-12T05:52:35Z",
     "source": "Guardian_Business",
     "title": "MPs announce inquiry into work of Office for Budget Responsibility",
@@ -10954,49 +10998,5 @@
     "id_key": "7cdaefb29be0487ff47bb792f3c5caced205519052ca2cc88c31e6c209e68c31",
     "summary": "Petco has accidentally exposed a whole lot of customer data and personal information, according to a report by TechCrunch . This is thanks to a security lapse involving its Vetco clinics website, forcing the company to take a portion of that site offline. Petco has confirmed the leak and TechCrunch noted that the security lapse allowed anyone to download customer records without login information. The exposed data includes customer names, driver's license numbers, dates of birth, Social Security numbers and even financial information. It also includes customer records from visits to Vetco, like medical histories, pet names, vaccination records and other stuff like that. This was due to an incorrect software setting that made a number of files accessible online, according to a notice filed by California’s attorney general and reported on by Mashable . The company has since corrected the setting, removed the exposed files and implemented security measures. However, Petco hasn't said if any data was actually extracted during the security lapse or if it even has the means to suss out that kind of thing. Vetco customers should probably perform some due diligence to shore up personal security. The company is offering credit and identity monitoring services to impacted customers, but only in some states. We recommend giving Petco a call to discuss options. Data breaches of this sort are becoming an unfortunate part of modern life. Recent security breaches have impacted entities like AT&T , Discord , the social network Tea and the human resources company Workday , among others. This article originally appeared on Engadget at https://www.engadget.com/big-tech/petco-accidentally-exposed-heaps-of-customer-information-163825302.html?src=rss",
     "ingested_utc": "2025-12-10T16:52:45Z"
-  },
-  {
-    "published_utc": "2025-12-10",
-    "retrieved_date": "2025-12-10",
-    "retrieved_utc": "2025-12-10T16:52:42Z",
-    "source": "TechCrunch_All",
-    "title": "Amazon changes how copyright protection is applied to Kindle Direct’s self-published ebooks",
-    "url": "https://techcrunch.com/2025/12/10/amazon-changes-how-copyright-protection-is-applied-to-kindle-directs-self-published-ebooks/",
-    "id_key": "7426f16ed2353a8f67d41f8845066f2e8ae80062440944d52991e88b118dde7a",
-    "summary": "Amazon says its Kindle Direct DRM-free titles will be available as PDFs and EPUB files going forward.",
-    "ingested_utc": "2025-12-10T16:52:42Z"
-  },
-  {
-    "published_utc": "2025-12-10",
-    "retrieved_date": "2025-12-10",
-    "retrieved_utc": "2025-12-10T16:52:41Z",
-    "source": "TheVerge_All",
-    "title": "Chatbots are struggling with suicide hotline numbers",
-    "url": "https://www.theverge.com/report/841610/ai-chatbot-suicide-safety-failure",
-    "id_key": "d7e1410f80d208dacf94a0bc74d038f678ebbfb184b7130b41f7ca3624493ffa",
-    "summary": "Last week, I told multiple AI chatbots I was struggling, considering self-harm, and in need of someone to talk to. Fortunately, I didn't feel this way, nor did I need someone to talk to, but of the millions of people turning to AI with mental health challenges, some are struggling and need support. Chatbot companies […]",
-    "ingested_utc": "2025-12-10T16:52:41Z"
-  },
-  {
-    "published_utc": "2025-12-10",
-    "retrieved_date": "2025-12-10",
-    "retrieved_utc": "2025-12-10T16:52:41Z",
-    "source": "TheVerge_All",
-    "title": "The Echo Spot is just $45, beating its Black Friday price",
-    "url": "https://www.theverge.com/gadgets/841593/amazon-echo-spot-nintendo-joy-con-2-wheel-deal-sale",
-    "id_key": "04862f8ca8d0c762c649ce4737ced3cd6261a547b080b68036d309857c920749",
-    "summary": "If you want a cheap gift that feels expensive, the Echo Spot is a great pick. The versatile smart display can handle dozens of everyday tasks, and right now it’s back at its all-time low of $44.99 ($35 off) at Amazon, Target, and Best Buy. That actually beats its Black Friday and Cyber Monday pricing […]",
-    "ingested_utc": "2025-12-10T16:52:41Z"
-  },
-  {
-    "published_utc": "2025-12-10",
-    "retrieved_date": "2025-12-10",
-    "retrieved_utc": "2025-12-10T16:52:22Z",
-    "source": "NPR_Business",
-    "title": "Feeling burned out? There's a word for that in Mandarin Chinese",
-    "url": "https://www.npr.org/2025/12/10/nx-s1-5633319/word-of-week-involution-mandarin",
-    "id_key": "f09caf55fdf56bf8bfefcc0141b0098f60240f24554f0ca1203b20b4ce7d12b2",
-    "summary": "How an obscure term used in anthropology leaped from the pages of academia into the Chinese meme world and then became part of Chinese government policymaking.",
-    "ingested_utc": "2025-12-10T16:52:22Z"
   }
 ]
