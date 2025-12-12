@@ -2,6 +2,50 @@
   {
     "published_utc": "2025-12-12",
     "retrieved_date": "2025-12-12",
+    "retrieved_utc": "2025-12-12T07:19:46Z",
+    "source": "Nikkei_Asia_Top",
+    "title": "Editor's Choice: Asia's social media problem and who should be blamed",
+    "url": "https://asia.nikkei.com/editor-s-picks/editor-in-chief-s-picks/editor-s-choice-asia-s-social-media-problem-and-who-should-be-blamed",
+    "id_key": "85148a35ca283d26c2814eaf0507099fca158eb405950b67340d5b91a4508028",
+    "summary": "",
+    "ingested_utc": "2025-12-12T07:19:46Z"
+  },
+  {
+    "published_utc": "2025-12-12",
+    "retrieved_date": "2025-12-12",
+    "retrieved_utc": "2025-12-12T07:18:39Z",
+    "source": "Guardian_World",
+    "title": "UK economy shrank unexpectedly before budget, data shows",
+    "url": "https://www.theguardian.com/business/2025/dec/12/uk-economy-shrank-unexpectedly-before-budget-data-shows",
+    "id_key": "1f441d4bcf5ff4dc4bad7e37a9e649622c1a7d7d92c3fb6d78fabc932515055e",
+    "summary": "GDP fell by 0.1% in October as activity failed to regain momentum after cyber-attack on Jaguar Land Rover Business live – latest updates Britain’s economy unexpectedly shrank in October before Rachel Reeves’s budget, official figures show, as activity failed to regain momentum after the cyber-attack on Jaguar Land Rover . Figures from the Office for National Satistics (ONS) showed gross domestic product fell by 0.1%, after a 0.1% drop in output in September. City economists had predicted a 0.1% rise in October. Continue reading...",
+    "ingested_utc": "2025-12-12T07:18:39Z"
+  },
+  {
+    "published_utc": "2025-12-12",
+    "retrieved_date": "2025-12-12",
+    "retrieved_utc": "2025-12-12T07:17:07Z",
+    "source": "CryptoNews",
+    "title": "Sam Altman’s World Project Upgrades App With Encrypted Chat, In-Chat Crypto Pay Options",
+    "url": "https://cryptonews.com/news/sam-altmans-world-project-upgrades-app-with-encrypted-chat-in-chat-crypto-pay-options/",
+    "id_key": "c4942078a65f7c686f92da48e8a9a57df73b4bae01f9b6a974f234a534ea719f",
+    "summary": "Sam Altman's iris-scanning world has upgraded its app to include an encrypted chat service with crypto payment integration. The post Sam Altman’s World Project Upgrades App With Encrypted Chat, In-Chat Crypto Pay Options appeared first on Cryptonews .",
+    "ingested_utc": "2025-12-12T07:17:07Z"
+  },
+  {
+    "published_utc": "2025-12-12",
+    "retrieved_date": "2025-12-12",
+    "retrieved_utc": "2025-12-12T07:16:42Z",
+    "source": "BBC_World",
+    "title": "Eurovision winner Nemo to return trophy in protest at Israel",
+    "url": "https://www.bbc.com/news/articles/c0q5504vv0ko?at_medium=RSS&at_campaign=rss",
+    "id_key": "066789e2e540bfbcee95016bdcc7f32b6a4ca0d066cf23c4e22ae3755a9e45e6",
+    "summary": "The Swiss singer sees a \"clear conflict\" between Israel's participation in the event and Eurovision's values.",
+    "ingested_utc": "2025-12-12T07:16:42Z"
+  },
+  {
+    "published_utc": "2025-12-12",
+    "retrieved_date": "2025-12-12",
     "retrieved_utc": "2025-12-12T06:57:04Z",
     "source": "FinancialPost_Business",
     "title": "Indonesia Targets Concluding Tariff Deal with US by Year End",
@@ -1153,6 +1197,17 @@
     "id_key": "4b816c1bde0bc77e7a4b78008b8e125ccb5ead335990ff51e0f7602d8bdf386e",
     "summary": "In August, Do Kwon pleaded guilty to conspiracy to defraud and wire fraud and apologised for his actions.",
     "ingested_utc": "2025-12-12T00:57:19Z"
+  },
+  {
+    "published_utc": "2025-12-11",
+    "retrieved_date": "2025-12-12",
+    "retrieved_utc": "2025-12-12T07:16:42Z",
+    "source": "BBC_World",
+    "title": "Watch: Moment hiker is rescued from quicksand in Utah",
+    "url": "https://www.bbc.com/news/videos/c74x0430vggo?at_medium=RSS&at_campaign=rss",
+    "id_key": "1f551b69887bedc1037ba8422c9cc23548c2565dd38cc2e55ad77515b3292435",
+    "summary": "The hiker said he thought the ground was solid before his leg sank into the muck, trapping him there until a rescue team arrived.",
+    "ingested_utc": "2025-12-12T07:16:42Z"
   },
   {
     "published_utc": "2025-12-11",
@@ -7817,7 +7872,7 @@
     "title": "25.12.0: Revert \"Rpc Timeout interruption (#9117)\" (#9555)",
     "url": "https://github.com/hyperledger/besu/releases/tag/25.12.0",
     "id_key": "b87f28ae8978ada66ba8bcdbd24807403bf61dc614ea367f8dd142c411e467b5",
-    "summary": "Revert \"accept client or server timeout for flaky timeout test ( #9552 )\" This reverts commit 4e088d6 . Signed-off-by: Sally MacFarlane <macfarla.github@gmail.com> Signed-off-by: Sally MacFarlane macfarla.github@gmail.com Revert \"feat: Add RPC timeout interruption with CompletableFuture-based implementation ( #9117 )\" This reverts commit 01bfb85 . Signed-off-by: Sally MacFarlane <macfarla.github@gmail.com> Signed-off-by: Sally MacFarlane macfarla.github@gmail.com Signed-off-by: Sally MacFarlane macfarla.github@gmail.com",
+    "summary": "Revert \"accept client or server timeout for flaky timeout test ( #9552 )\" This reverts commit 4e088d6 . Signed-off-by: Sally MacFarlane Signed-off-by: Sally MacFarlane macfarla.github@gmail.com Revert \"feat: Add RPC timeout interruption with CompletableFuture-based implementation ( #9117 )\" This reverts commit 01bfb85 . Signed-off-by: Sally MacFarlane Signed-off-by: Sally MacFarlane macfarla.github@gmail.com Signed-off-by: Sally MacFarlane macfarla.github@gmail.com",
     "ingested_utc": "2025-12-12T06:55:35Z"
   },
   {
@@ -10943,60 +10998,5 @@
     "id_key": "93ab583082408c3c29da3b5693a45e89ffd42834a1bb346935f38b41a7590593",
     "summary": "Craig Guildford told to provide more evidence and not ‘mislead parliament’ after Maccabi Tel Aviv fans ban from Europa League match A parliamentary committee has said it expects to recall the chief constable of West Midlands police to explain why his evidence on the reasons behind a ban on Maccabi Tel Aviv fans was wrong. In a letter to Craig Guildford , the home affairs committee of MPs warned him of the seriousness of misleading parliament and demanded more documents be handed over. Continue reading...",
     "ingested_utc": "2025-12-10T17:15:33Z"
-  },
-  {
-    "published_utc": "2025-12-10",
-    "retrieved_date": "2025-12-10",
-    "retrieved_utc": "2025-12-10T17:15:33Z",
-    "source": "Guardian_World",
-    "title": "Should people wear a mask in public if they feel unwell with flu?",
-    "url": "https://www.theguardian.com/society/2025/dec/10/should-wear-mask-public-if-unwell-flu",
-    "id_key": "25d6fef642e1b310a96246060d0c193bd3f4a9070a58dfae7d78e5bcc5458b65",
-    "summary": "NHS and No 10 advice differs on wearing masks if you have flu symptoms. What is best practice for prevention and protection? An NHS leader has said people who are unwell with flu “must wear” a mask in public. A UK government official has said if you need to go out while sick, you should only “consider” wearing a mask. So what is the official advice, how serious is the threat posed by flu, and what should you do if have symptoms? Continue reading...",
-    "ingested_utc": "2025-12-10T17:15:33Z"
-  },
-  {
-    "published_utc": "2025-12-10",
-    "retrieved_date": "2025-12-10",
-    "retrieved_utc": "2025-12-10T17:15:33Z",
-    "source": "Guardian_World",
-    "title": "Charli xcx, Natalie Portman and Salman Rushdie lead 2026 Sundance lineup",
-    "url": "https://www.theguardian.com/film/2025/dec/10/sundance-2026-lineup-films",
-    "id_key": "40a9a4a2c583fb14bc5ffd009df1382397bb1f884ce885bfe34ba3c4917c2a2f",
-    "summary": "The festival says goodbye to both founder Robert Redford and its longtime home of Park City, Utah, with a selection of provocative documentaries and starry new films New films starring Charli xcx, Natalie Portman and Salman Rushdie will all receive their world premieres at next month’s Sundance film festival. The festival will be held for the last time in Park City, Utah, before it moves to Boulder, Colorado, in 2027. Over the years, it has been home to the first screenings of films including Get Out, Four Weddings and a Funeral, The Blair Witch Project, Past Lives, Napoleon Dynamite, Precious and Little Miss Sunshine. Continue reading...",
-    "ingested_utc": "2025-12-10T17:15:33Z"
-  },
-  {
-    "published_utc": "2025-12-10",
-    "retrieved_date": "2025-12-10",
-    "retrieved_utc": "2025-12-10T17:15:33Z",
-    "source": "Guardian_World",
-    "title": "‘American democracy is still working’ says Democrat after judge grants request to release Epstein grand jury documents – US politics live",
-    "url": "https://www.theguardian.com/us-news/live/2025/dec/10/trump-us-politics-live-updates",
-    "id_key": "65addb167f25f6a484687a10c90e24e2b97a469156f14c0163a99c97d6d1bb23",
-    "summary": "Ro Khanna, California Democrat who was co-sponsor of the Epstein Files Transparency Act, says judge’s decision ‘gives me hope we’re going to see transparency’ Representative Ro Khanna , a California Democrat who was co-sponsor of the Epstein Files Transparency Act, told CNN today that the federal judge’s order to unseal grand jury records from the 2019 federal investigation into Jeffrey Epstein shows that “American democracy still is working”. “You’ve now had three judges who, in the past, had said you could not release either grand jury testimony or protective orders now ruling that they have to be in compliance with Congress,” Khanna said. “And these files are going to come out, and it does give me hope that we’re going to see broad transparency.” Continue reading...",
-    "ingested_utc": "2025-12-10T17:15:33Z"
-  },
-  {
-    "published_utc": "2025-12-10",
-    "retrieved_date": "2025-12-10",
-    "retrieved_utc": "2025-12-10T16:52:55Z",
-    "source": "AlJazeera_All",
-    "title": "Zelenskyy warns Russia, China stepping up military-industrial cooperation",
-    "url": "https://www.aljazeera.com/news/2025/12/10/zelenskyy-warns-russia-china-stepping-up-military-industrial-cooperation?traffic_source=rss",
-    "id_key": "cc237ce8516ee7693049d47e0a01938efb07defe674ac7d885792b291eb1d36b",
-    "summary": "A new report by Ukraine's foreign intelligence has warned of intensifying ties between the strategic partners.",
-    "ingested_utc": "2025-12-10T16:52:55Z"
-  },
-  {
-    "published_utc": "2025-12-10",
-    "retrieved_date": "2025-12-10",
-    "retrieved_utc": "2025-12-10T16:52:54Z",
-    "source": "TheStreet_Top",
-    "title": "Why your next car loan might be more expensive",
-    "url": "https://www.thestreet.com/personal-finance/why-your-next-car-loan-might-be-more-expensive",
-    "id_key": "caa69d1e9d71171b3b8881a4e80eb28ef43aaa374335e23ea977af8e2c28033a",
-    "summary": "You’re not just signing up for a car when you finance at the dealership — you’re stepping into a lender’s strategy. Right now, that strategy increasingly belongs to big banks. Experian’s Q3 2025 data show banks at 28.9% of total auto financing, up 3.1 percentage points from a year earlier — the ...",
-    "ingested_utc": "2025-12-10T16:52:54Z"
   }
 ]
