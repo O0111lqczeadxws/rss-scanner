@@ -2,6 +2,116 @@
   {
     "published_utc": "2025-12-12",
     "retrieved_date": "2025-12-12",
+    "retrieved_utc": "2025-12-12T17:37:19Z",
+    "source": "HackerNews_Top",
+    "title": "Oracle made a $300B bet on OpenAI. It's paying the price",
+    "url": "https://finance.yahoo.com/news/oracle-made-a-300-billion-bet-on-openai-its-paying-the-price-205441863.html",
+    "id_key": "fc7d36b2042bcdaccf1876b7f94f0dd542b8fb368782fd5131a968eca0c69065",
+    "summary": "Comments",
+    "ingested_utc": "2025-12-12T17:37:19Z"
+  },
+  {
+    "published_utc": "2025-12-12",
+    "retrieved_date": "2025-12-12",
+    "retrieved_utc": "2025-12-12T17:37:08Z",
+    "source": "FinancialPost_Business",
+    "title": "Streamline your workflow with Microsoft Office 2021’s productivity apps",
+    "url": "https://financialpost.com/personal-finance/business-essentials/microsoft-office-2021-productivity-apps",
+    "id_key": "3e6bc13af4883b7a3f24e254f22a4008b41497abeae90387c7a98c8fd001cca2",
+    "summary": "Benefit from Microsoft Office's arsenal of productivity-enhancing apps.",
+    "ingested_utc": "2025-12-12T17:37:08Z"
+  },
+  {
+    "published_utc": "2025-12-12",
+    "retrieved_date": "2025-12-12",
+    "retrieved_utc": "2025-12-12T17:37:08Z",
+    "source": "FinancialPost_Business",
+    "title": "AI Stocks Get Pummeled as Oracle Delay Adds to Broadcom Concerns",
+    "url": "https://financialpost.com/pmn/business-pmn/ai-stocks-get-pummeled-as-oracle-delay-adds-to-broadcom-concerns",
+    "id_key": "2b023f3b23c2ac746f5759e01586447c8dac12c8ba4bb2da8e3d79519ec34a52",
+    "summary": "The shares of companies exposed to artificial intelligence infrastructure came in for a beating after a report about Oracle Corp. data center delays added fuel to a selloff already underway following disappointing earnings results from chipmaker Broadcom Inc.",
+    "ingested_utc": "2025-12-12T17:37:08Z"
+  },
+  {
+    "published_utc": "2025-12-12",
+    "retrieved_date": "2025-12-12",
+    "retrieved_utc": "2025-12-12T17:37:01Z",
+    "source": "TheStreet_Top",
+    "title": "Major Hollywood studio shuts down in surprise bankruptcy",
+    "url": "https://www.thestreet.com/entertainment/1-billion-hollywood-studio-gold-tree-stuidos-files-surprise-chapter-11-bankruptcy",
+    "id_key": "08500ac938b2d48521d2625118e8e3cb1672ce90a518cb07c221d01c3907fd08",
+    "summary": "The movie business has always been a dangerous industry. Rich people want to be part of it because it's glamorous, but actually turning a profit has traditionally been unbelievably challenging. When you make a movie, nearly all your costs are upfront. Once it's complete, you then have massive ...",
+    "ingested_utc": "2025-12-12T17:37:01Z"
+  },
+  {
+    "published_utc": "2025-12-12",
+    "retrieved_date": "2025-12-12",
+    "retrieved_utc": "2025-12-12T17:36:52Z",
+    "source": "Engadget_All",
+    "title": "Google Translate is now better at translating slang terms and idioms using AI",
+    "url": "https://www.engadget.com/apps/google-translate-is-now-better-at-translating-slang-terms-and-idioms-using-ai-173428316.html?src=rss",
+    "id_key": "de53d22bba7afb5f33c70953920c7c8daac84ac15fdeb5abb32105b63be698fb",
+    "summary": "Google is rolling out new Gemini-assisted functionality to Search and its Translate app. It says its AI can now provide more natural and accurate text translations for phrases that have more \"nuanced meanings.\" Translate will now take slang terms and colloquial expressions into consideration rather than provide sometimes unhelpful direct translations. The latest update to its text translation feature is rolling out first in the US and India, translating between English and just under 20 other languages, including German, Spanish, Chinese and Arabic. It works in the Translate app for iOS and Android and on the web. Gemini’s speech-to-speech translation feature has also been updated, so you can now hear real-time translations in your headphones, like with Apple’s AirPods Pro 3 . Google says the new functionality, which is now in beta in the Translate app for Android (iOS is coming next year) in the US, tries to \"preserve the tone, emphasis and cadence of each speaker\" so you better understand the direction of the conversation and who said what. It works with any headphones and supports more than 70 languages. Finally, Google is adding more tools to its potentially Duolingo-rivaling AI-powered language learning tools, which it introduced to the Translate app in August. Like Duolingo, Translate can now track how many days in a row you’ve been attempting to learn a new language, so you can check your progress over time. Whether it will nag you as persistently as the Duolingo owl famously does for slacking off is not clear. The feedback feature has also been improved, so you should receive more useful tips on how you’re pronouncing words or phrases. Germany, India and Sweden are among the 20 new countries that can now use these educational tools. After not showing it much love for a while, Google has been busy adding new features to Translate recently. As well as the new language practice feature, an update last month added the ability to select between \"Fast\" and \"Advanced\" translations that allow you to prioritize speed when you’re in a rush (ordering a drink at the bar, for example) or receiving more accurate translations using Gemini. This article originally appeared on Engadget at https://www.engadget.com/apps/google-translate-is-now-better-at-translating-slang-terms-and-idioms-using-ai-173428316.html?src=rss",
+    "ingested_utc": "2025-12-12T17:36:52Z"
+  },
+  {
+    "published_utc": "2025-12-12",
+    "retrieved_date": "2025-12-12",
+    "retrieved_utc": "2025-12-12T17:36:51Z",
+    "source": "WIRED_All",
+    "title": "This Group Pays Bounties to Repair Broken Devices—Even If the Fix Breaks the Law",
+    "url": "https://www.wired.com/story/fulu-repair-bounties-nest-molekule/",
+    "id_key": "e2fd5fde674255d628be313c8d2245236bf9866ea103747319a55a0f4fd83402",
+    "summary": "Fulu sets repair bounties on consumer products that employ sneaky features that limit user control. Just this week, it awarded more than $10,000 to the person who hacked the Molekule air purifier.",
+    "ingested_utc": "2025-12-12T17:36:51Z"
+  },
+  {
+    "published_utc": "2025-12-12",
+    "retrieved_date": "2025-12-12",
+    "retrieved_utc": "2025-12-12T17:36:50Z",
+    "source": "TechCrunch_All",
+    "title": "Data breach at credit check giant 700Credit affects at least 5.6 million",
+    "url": "https://techcrunch.com/2025/12/12/data-breach-at-credit-check-giant-700credit-affects-at-least-5-6-million/",
+    "id_key": "33189f4f16cd2be92fa020c6d62e45fad3df41e006e4a795e2964a9e49708298",
+    "summary": "700Credit, a company that runs creidt checks and identity verification services for auto dealerships across the U.S., had a data breach that allowed a hacker to steal names, addresses, dates of birth, and Social Security numbers.",
+    "ingested_utc": "2025-12-12T17:36:50Z"
+  },
+  {
+    "published_utc": "2025-12-12",
+    "retrieved_date": "2025-12-12",
+    "retrieved_utc": "2025-12-12T17:36:49Z",
+    "source": "TheVerge_All",
+    "title": "Hisense’s CanvasTV is a great Samsung Frame TV alternative at nearly half off",
+    "url": "https://www.theverge.com/gadgets/843667/hisense-s7n-canvas-tv-tomtoc-fancycase-g05-slim-case-deal-sale",
+    "id_key": "91d23a035816930ff0bd40093c2a60cd12bf345d99d841905cf73eac182ef13e",
+    "summary": "Samsung’s Frame TV is one of the coolest-looking TVs you can buy, doubling as wall art when you’re not watching — but it’s pricey. If you like the idea of a TV that displays art when not in use but is far more affordable, Hisense’s S7N CanvasTV delivers a similar vibe for a lot less, […]",
+    "ingested_utc": "2025-12-12T17:36:49Z"
+  },
+  {
+    "published_utc": "2025-12-12",
+    "retrieved_date": "2025-12-12",
+    "retrieved_utc": "2025-12-12T17:36:49Z",
+    "source": "TheVerge_All",
+    "title": "Hannibal creator Bryan Fuller wanted his first film to be horror for everyone",
+    "url": "https://www.theverge.com/entertainment/843561/bryan-fuller-interview-dust-bunny",
+    "id_key": "a18fdedb2a71f91bbd9843f647f658e70539d73e17e198a2bfad9878a62c6ce9",
+    "summary": "When Bryan Fuller set out to make his first feature film, his goal was to make the kind of family-friendly scares that he loved as a kid. Think Gremlins or Ghostbusters. The creator of Hannibal and Pushing Daisies ended up crafting a story called Dust Bunny, about a young girl named Aurora who hires a […]",
+    "ingested_utc": "2025-12-12T17:36:49Z"
+  },
+  {
+    "published_utc": "2025-12-12",
+    "retrieved_date": "2025-12-12",
+    "retrieved_utc": "2025-12-12T17:34:34Z",
+    "source": "CryptoBriefing",
+    "title": "BNB Chain hits new record of 8,384 TPS, marking 26% increase",
+    "url": "https://cryptobriefing.com/bnb-chain-performance-record/",
+    "id_key": "2c9b8b73505803260c0ed908234bc16c6271c7020cfc1663c5624acc2846f972",
+    "summary": "BNB Chain performance reached a new peak with 8,384 transactions per second, a 26% increase over its previous record. The post BNB Chain hits new record of 8,384 TPS, marking 26% increase appeared first on Crypto Briefing .",
+    "ingested_utc": "2025-12-12T17:34:34Z"
+  },
+  {
+    "published_utc": "2025-12-12",
+    "retrieved_date": "2025-12-12",
     "retrieved_utc": "2025-12-12T17:15:10Z",
     "source": "AlJazeera_All",
     "title": "Nobel peace laureate Narges Mohammadi arrested in Iran, supporters say",
@@ -10888,115 +10998,5 @@
     "id_key": "a1a8ff26129c7c3b9a55b8b49df6ffed7ad090434e5c93c875d7b815e57c2e94",
     "summary": "About 56,000 people control three times as much wealth as half of humanity. Here’s one way to illustrate that Cruising around on private jets, the ultra-rich are the world’s financial elite – but how many people actually occupy this exclusive wealth club? Could they all fit into a floating mega-yacht, or is the group much bigger, possibly the size of a dazzling mega-rich city? Thanks to an inequality report out on Wednesday, we now have a snapshot of the size of the topmost layer floating above everyone else – the 0.001%. Continue reading...",
     "ingested_utc": "2025-12-12T05:52:35Z"
-  },
-  {
-    "published_utc": "2025-12-10",
-    "retrieved_date": "2025-12-12",
-    "retrieved_utc": "2025-12-12T05:52:35Z",
-    "source": "Guardian_Business",
-    "title": "‘Hating soccer is more American than apple pie’: the World Cup nobody wanted the US to host",
-    "url": "https://www.theguardian.com/football/2025/dec/10/world-cup-1994-jonathan-wilson-book-extract",
-    "id_key": "07c2316cfef1ec33a114c857f14eeebcd0ba460ba617e54d3955735129ae870c",
-    "summary": "Glitzy draws, OJ-era chaos, grass laid over AstroTurf and a host nation that barely cared – the 1994 World Cup arrived amid suspicion and slapstick. Yet it became a watershed that would alter US sport and global football politics alike “The United States was chosen,” the columnist George Vecsey wrote in the New York Times in 1994, “because of all the money to be made here, not because of any soccer prowess. Our country has been rented as a giant stadium and hotel and television studio.” Nobody could seriously doubt that. The USA had played in only two World Cups since the second world war and hadn’t had a national professional league for a decade. And that meant there was a great deal of skepticism from outsiders, even after Fifa made it clear there would be no wacky law changes to try to appeal to the domestic audience: Would anybody actually turn up to watch? But there was also hostility in the United States. A piece in USA Today on the day of the draw told Americans they were right not to care about the World Cup, what it sneeringly described as the biggest sport in “Cameroon, Uruguay and Madagascar”. “Hating soccer,” wrote the columnist Tom Weir, “is more American than mom’s apple pie, driving a pickup or spending Saturday afternoon channel surfing with the remote control.” Excerpted from The Power And The Glory by Jonathan Wilson, copyright © 2025 by Jonathan Wilson. Used with permission of Bold Type Books, an imprint of Basic Books Group, a division of Hachette Book Group, Inc. Continue reading...",
-    "ingested_utc": "2025-12-12T05:52:35Z"
-  },
-  {
-    "published_utc": "2025-12-10",
-    "retrieved_date": "2025-12-12",
-    "retrieved_utc": "2025-12-12T05:52:35Z",
-    "source": "Guardian_Business",
-    "title": "Gen Zine: DIY publications find new life as a form of resistance against Trump",
-    "url": "https://www.theguardian.com/us-news/ng-interactive/2025/dec/10/zine-revival-organizing-social-media",
-    "id_key": "17c7e7a3eed32a2ecd1daa33175be8eb3a3539130231fac273d98c085cfcf620",
-    "summary": "Zines have made a resurgence as communities seek to share information on everything from ICE raids to local elections On a cloudy Saturday afternoon, the Los Angeles central public library bustled with nearly 100 people making zines: small, DIY magazines made out of a single piece of paper. There was folding, laughing and helping with cuts. Titles like Narcan 101, Free Palestine and An American Zine, filled with illustrations and tips, lined a table down the hall. While this may sound like a scene from the 1980s or 1990s – when zines were popular as a countercultural form of expression – this was a workshop in modern-day Los Angeles, where immigration raids and federal threats have left residents restless and scared. Continue reading...",
-    "ingested_utc": "2025-12-12T05:52:35Z"
-  },
-  {
-    "published_utc": "2025-12-10",
-    "retrieved_date": "2025-12-12",
-    "retrieved_utc": "2025-12-12T05:52:35Z",
-    "source": "Guardian_Business",
-    "title": "1 Granary: the influential platform holding the fashion establishment to account",
-    "url": "https://www.theguardian.com/fashion/2025/dec/10/1-granary-the-influential-platform-holding-the-fashion-establishment-to-account",
-    "id_key": "2fb03d484c98b780e2769fbab03657653532d8fee488fa8bcc2e5134d2470a07",
-    "summary": "Olya Kuryshchuk’s publication is a rare – and increasingly powerful – voice advocating for the people behind the scenes in an industry that loves a star. Its new awards celebrate the ‘teams who never get to walk a red carpet’ At the Fashion awards – a lavish event at the Royal Albert Hall this month – Jonathan Anderson was named designer of the year for a third time for his work at his own namesake brand and Dior, Anok Yai was named model of the year and Delphine Arnault, the CEO of Dior and scion of fashion’s wealthiest family, gained a special recognition award for her work supporting new talent through the LVMH prize. Think of it as fashion paying tribute to its biggest stars. Since the night, there has been praise for the British Fashion Council’s new CEO Laura Weir but also criticism. The anonymous Instagram account boringnotcom , which often shares strong opinions on the industry, wrote: “As predicted, the same names got rotated and won the fashion awards … how utterly boring.” Continue reading...",
-    "ingested_utc": "2025-12-12T05:52:35Z"
-  },
-  {
-    "published_utc": "2025-12-10",
-    "retrieved_date": "2025-12-12",
-    "retrieved_utc": "2025-12-12T05:52:35Z",
-    "source": "Guardian_Business",
-    "title": "From the archive: Is the IMF fit for purpose? – podcast",
-    "url": "https://www.theguardian.com/news/audio/2025/dec/10/from-the-archive-is-the-imf-fit-for-purpose-podcast",
-    "id_key": "1c885d6f7df6d9d67461fde9c863238c0b8151105aebccc3421edd391ee6f61e",
-    "summary": "We are raiding the Guardian long read archives to bring you some classic pieces from years past, with new introductions from the authors. This week, from 2022: As the world faces the worst debt crisis in decades, the need for a global lender of last resort is clearer than ever. But many nations view the IMF as overbearing, or even neocolonial – and are now looking elsewhere for help By Jamie Martin. Read by Kelly Burke Continue reading...",
-    "ingested_utc": "2025-12-12T05:52:35Z"
-  },
-  {
-    "published_utc": "2025-12-10",
-    "retrieved_date": "2025-12-12",
-    "retrieved_utc": "2025-12-12T05:52:35Z",
-    "source": "Guardian_Business",
-    "title": "‘My beautiful house lay in ruins!’: how to build (and wreck) a Hollywood set – in pictures",
-    "url": "https://www.theguardian.com/artanddesign/gallery/2025/dec/10/my-beautiful-house-lay-in-ruins-how-to-build-and-wreck-a-hollywood-set-in-pictures",
-    "id_key": "8958f665743080b16f2b729a64ba8de6b3c1f60499d02f4e7d5340894cb1e95a",
-    "summary": "Veteran set decorator Lauri Gaffin has spent a career dressing up films from indie classics to blockbusters. Her new photographic memoir takes us behind the scenes of this ever-changing job – and on the hunt for wolves’ penis bones Continue reading...",
-    "ingested_utc": "2025-12-12T05:52:35Z"
-  },
-  {
-    "published_utc": "2025-12-10",
-    "retrieved_date": "2025-12-12",
-    "retrieved_utc": "2025-12-12T05:52:35Z",
-    "source": "Guardian_Business",
-    "title": "Consumer test drive: can AI do your Christmas gift shopping for you?",
-    "url": "https://www.theguardian.com/money/2025/dec/10/consumer-test-drive-can-ai-do-your-christmas-gift-shopping-for-you",
-    "id_key": "fff723a2d821f24365bb3bb718407f808b629fe98c1a23a41e4903b4809083f3",
-    "summary": "The short answer is yes, but if you don’t want big brands or to use Amazon then more time and a lot more prompts are needed ‘Is retail ready for the AI shopping shift? The question “what present do you recommend for …” will be tapped into phones and computers countless times over this festive period, as more people turn to AI platforms to help choose gifts for loved ones. With a quarter of Britons using AI to find products, brands are increasingly adapting their strategies to ensure their products are the ones recommended, especially those trying to reach younger audiences. Continue reading...",
-    "ingested_utc": "2025-12-12T05:52:35Z"
-  },
-  {
-    "published_utc": "2025-12-10",
-    "retrieved_date": "2025-12-11",
-    "retrieved_utc": "2025-12-11T21:37:23Z",
-    "source": "TheStreet_Top",
-    "title": "After interest rate cut, Jerome Powell had this to say about “structural” boom in the U.S. economy",
-    "url": "https://www.thestreet.com/fed/fed-chair-jerome-powell-credits-automation-and-ai-for-this-exciting-structural-boom-in-the-economy",
-    "id_key": "51defdf32663b03052535e24052afca073e3513a8f00bbd0f53af58668570122",
-    "summary": "After announcing a widely expected quarter-point rate cut on Wednesday, many traders expected Fed Chairman Jerome Powell to strike a hawkish tone in the absence of economic data created by the government's recent shutdown—offering caution about the trajectory of future cuts, as well as risks to the ...",
-    "ingested_utc": "2025-12-11T21:37:23Z"
-  },
-  {
-    "published_utc": "2025-12-10",
-    "retrieved_date": "2025-12-11",
-    "retrieved_utc": "2025-12-11T18:20:00Z",
-    "source": "TheStreet_Top",
-    "title": "Mark Cuban's 5 investing tips for wealth generation",
-    "url": "https://www.thestreet.com/investing/mark-cubans-5-best-financial-insights-every-investor-should-know",
-    "id_key": "6a6e83765847391a86e2cf1a468342dba40fd780ba0cb4b0e911b5162c8553a9",
-    "summary": "It makes sense that entrepreneur, investor, and TV personality Mark Cuban is a partial owner of the Dallas Mavericks—its name embodies how he lives and works. Just as \"maverick\" refers to an independent thinker or someone who doesn’t follow the herd, Cuban amassed his nine-digit fortune through his ...",
-    "ingested_utc": "2025-12-11T18:20:00Z"
-  },
-  {
-    "published_utc": "2025-12-10",
-    "retrieved_date": "2025-12-11",
-    "retrieved_utc": "2025-12-11T15:41:14Z",
-    "source": "CryptoSlate",
-    "title": "You don’t legally own your portfolio, but a new Solana integration just created the first SEC-registered bypass",
-    "url": "https://cryptoslate.com/a-new-loophole-just-proved-you-dont-actually-own-your-shares-but-the-fix-is-already-live-on-solana/",
-    "id_key": "f36c145a96edb18e7a1e28a4c3f1b4cd606e451c9cc74ae14a7dc0e9f07e47dc",
-    "summary": "The SEC-registered transfer agent, Superstate, just enabled direct issuance of SEC-registered shares on Ethereum and Solana, settling primary sales in stablecoins and recording ownership to a transfer agent’s ledger that treats the blockchain as the master file. The company’s Direct Issuance Programs let issuers deliver tokens that represent the same legal equity with voting and […] The post You don’t legally own your portfolio, but a new Solana integration just created the first SEC-registered bypass appeared first on CryptoSlate .",
-    "ingested_utc": "2025-12-11T15:41:14Z"
-  },
-  {
-    "published_utc": "2025-12-10",
-    "retrieved_date": "2025-12-11",
-    "retrieved_utc": "2025-12-11T14:47:11Z",
-    "source": "TheStreet_Top",
-    "title": "Tour company files for bankruptcy and cancels trips, travelers stranded",
-    "url": "https://www.thestreet.com/travel/another-travel-company-files-for-bankruptcy-cancels-all-trips",
-    "id_key": "7d4b42317fa8b6a572d3a0d1efc1a7dc4573086afc3c8ceb2583c1eccacd492f",
-    "summary": "Amid a larger number of high-profile bankruptcies occurring within weeks of each other this fall, companies that sell holiday packages and tours also struggled at a time when many consumers are holding off on discretionary travel spending. British tour operators Great Little Escapes and ...",
-    "ingested_utc": "2025-12-11T14:47:11Z"
   }
 ]
