@@ -2,6 +2,83 @@
   {
     "published_utc": "2025-12-12",
     "retrieved_date": "2025-12-12",
+    "retrieved_utc": "2025-12-12T20:38:45Z",
+    "source": "HackerNews_Top",
+    "title": "Security Issues with Electronic Invoices",
+    "url": "https://invoice.secvuln.info/",
+    "id_key": "91b9c0c0e58c620270a64d714f5b5880ca02d3165b8bf14d8d527890447a4b1e",
+    "summary": "Comments",
+    "ingested_utc": "2025-12-12T20:38:45Z"
+  },
+  {
+    "published_utc": "2025-12-12",
+    "retrieved_date": "2025-12-12",
+    "retrieved_utc": "2025-12-12T20:38:17Z",
+    "source": "TechCrunch_All",
+    "title": "Google and Apple roll out emergency security updates after zero-day attacks",
+    "url": "https://techcrunch.com/2025/12/12/google-and-apple-roll-out-emergency-security-updates-after-zero-day-attacks/",
+    "id_key": "8a1a4c36033f10f5d0a3e7dff1b852bd4a9d17295add088bb8e695d9d7742d4a",
+    "summary": "Apple released patches for all of its flagship devices to fix security flaws under attack. Google also updated Chrome to remediate one vulnerabilty exploited in the attacks.",
+    "ingested_utc": "2025-12-12T20:38:17Z"
+  },
+  {
+    "published_utc": "2025-12-12",
+    "retrieved_date": "2025-12-12",
+    "retrieved_utc": "2025-12-12T20:37:56Z",
+    "source": "NPR_Top",
+    "title": "A momentous week as Syria celebrates lifting U.S. sanctions and a year without Assad",
+    "url": "https://www.npr.org/2025/12/12/nx-s1-5642967/syria-us-sanctions-anniversary-assad-overthrow",
+    "id_key": "94c069ad75e7dee8e3fcb3487f67135532e7dc1f31f095f5323112442d582e60",
+    "summary": "As they mark the first anniversary of toppling Bashar al-Assad's regime, Syrians also celebrate another coming milestone: the lifting of sanctions, which could help give the country a new start.",
+    "ingested_utc": "2025-12-12T20:37:56Z"
+  },
+  {
+    "published_utc": "2025-12-12",
+    "retrieved_date": "2025-12-12",
+    "retrieved_utc": "2025-12-12T20:37:41Z",
+    "source": "MarketWatch_Bulletins",
+    "title": "Dow, S&P 500, Nasdaq stuck in red in final hour amid AI-related selling — live",
+    "url": "https://www.marketwatch.com/bulletins/redirect/go?g=43933c99-2625-4f85-9f21-6c4ae0b92838&mod=mw_rss_bulletins",
+    "id_key": "7e6f7789c41052dab07a7684a7e8afc7cbc55471cc4b29bb8ea4022921e7b54a",
+    "summary": "",
+    "ingested_utc": "2025-12-12T20:37:41Z"
+  },
+  {
+    "published_utc": "2025-12-12",
+    "retrieved_date": "2025-12-12",
+    "retrieved_utc": "2025-12-12T20:37:01Z",
+    "source": "Nethermind_Releases",
+    "title": "v1.35.7",
+    "url": "https://github.com/NethermindEth/nethermind/releases/tag/1.35.7",
+    "id_key": "9deaaad85597ed939e0e671d912e425ba90cb7661ef839970c9f14be8447351b",
+    "summary": "Release notes Important This release is intended only for Gnosis Operators. No actions for other chains. Overview Upcoming Balancer Hardfork - Spec ( https://github.com/gnosischain/specs/pull/87/files ) This hard fork aims to recover hacked funds following an exploit that affected Balancer-managed contracts on Gnosis Chain. Removes temporary freeze on hackers' accounts. Full Changelog https://github.com/NethermindEth/nethermind/compare/1.35.4…1.35.7",
+    "ingested_utc": "2025-12-12T20:37:01Z"
+  },
+  {
+    "published_utc": "2025-12-12",
+    "retrieved_date": "2025-12-12",
+    "retrieved_utc": "2025-12-12T20:35:38Z",
+    "source": "Guardian_World",
+    "title": "US treasury lifts sanctions on Brazilian judge who presided over Bolsonaro case",
+    "url": "https://www.theguardian.com/world/2025/dec/12/brazilian-judge-sanction-lifted-bolsonaro",
+    "id_key": "9cb529987accc281e4bc40762621db94be069c8425f27615bdd25a4a4658202e",
+    "summary": "Justice Alexandre de Moraes and his wife had been under Global Magnitsky sanctions after conviction of ex-president The US Department of the Treasury has lifted sanctions imposed on the Brazilian supreme court justice who oversaw the conviction of the former president Jair Bolsonaro. Justice Alexandre de Moraes had been under Global Magnitsky sanctions, which target individuals accused of human rights abuses, since July. His wife Viviane Barci de Moraes – who was added the sanctions list in September – was also removed from the register on Friday. Continue reading...",
+    "ingested_utc": "2025-12-12T20:35:38Z"
+  },
+  {
+    "published_utc": "2025-12-12",
+    "retrieved_date": "2025-12-12",
+    "retrieved_utc": "2025-12-12T20:35:38Z",
+    "source": "Guardian_World",
+    "title": "EU to freeze €210bn in Russian assets indefinitely",
+    "url": "https://www.theguardian.com/world/2025/dec/12/eu-to-freeze-210bn-in-russian-assets-indefinitely",
+    "id_key": "a0bd58edf31128a3dddc931139ae97e9125096a6c3a551351024afc4974e932d",
+    "summary": "The decision is a significant step towards using the cash to aid Ukraine’s defence – but Moscow is threatening to retaliate The EU has agreed to indefinitely freeze Russia’s sovereign assets in the bloc, as Moscow stepped up its threats to retaliate against Euroclear, the keeper of most of the Kremlin’s immobilised money. The decision by the EU to use emergency powers to immobilise €210bn (£185bn) of its central bank’s assets marks a significant step towards using the cash to aid Ukraine’s defence against Russia. Continue reading...",
+    "ingested_utc": "2025-12-12T20:35:38Z"
+  },
+  {
+    "published_utc": "2025-12-12",
+    "retrieved_date": "2025-12-12",
     "retrieved_utc": "2025-12-12T20:16:38Z",
     "source": "Nikkei_Asia_Top",
     "title": "Global nuclear power revival puts upward pressure on uranium prices",
@@ -10921,82 +10998,5 @@
     "id_key": "7b11a49779c503ec02138fa08d03b2868138a29b7fa10ade1f06b9a6822f2de6",
     "summary": "Highlights Amended Arrangement Agreement: Robex and Predictive Discovery have agreed to revised terms under the amended arrangement agreement. Robex Shareholders will receive 7.862 Predictive Shares for each Robex Share, resulting in Robex Shareholders owning 46.5% of the combined company on a fully diluted in-the-money basis. Strong Shareholder Support: Shareholders have expressed strong support for the […]",
     "ingested_utc": "2025-12-11T05:44:16Z"
-  },
-  {
-    "published_utc": "2025-12-11",
-    "retrieved_date": "2025-12-11",
-    "retrieved_utc": "2025-12-11T05:44:16Z",
-    "source": "FinancialPost_Business",
-    "title": "Crypto mogul Do Kwon to be sentenced for misleading investors who lost billions in stablecoin crash",
-    "url": "https://financialpost.com/pmn/crypto-mogul-do-kwon-to-be-sentenced-for-misleading-investors-who-lost-billions-in-stablecoin-crash",
-    "id_key": "3d458ac29c566f31be921cc0e89965487a9323b3a9e03d1063cbac667f7f4e5c",
-    "summary": "NEW YORK (AP) — Cryptocurrency mogul Do Kwon is scheduled to be sentenced Thursday for misleading investors who lost billions when his company’s crypto ecosystem collapsed in 2022. Kwon, known by some as “the cryptocurrency king,” pleaded guilty in Manhattan federal court in August to fraud charges stemming from Terraform Labs’ $40 billion crash. The […]",
-    "ingested_utc": "2025-12-11T05:44:16Z"
-  },
-  {
-    "published_utc": "2025-12-11",
-    "retrieved_date": "2025-12-11",
-    "retrieved_utc": "2025-12-11T05:43:28Z",
-    "source": "NYTimes_World",
-    "title": "Mexico Approves 50% Tariffs on Many Chinese Imports",
-    "url": "https://www.nytimes.com/2025/12/11/world/americas/mexico-tariffs-china.html",
-    "id_key": "d7df07adcb9d5efa4358955ade3f6b0da750b6ae95fc52fad261adadaa3a7204",
-    "summary": "The tariffs will apply to goods from China and other nations. Washington has been pressuring Mexico to move away from dealing with China.",
-    "ingested_utc": "2025-12-11T05:43:28Z"
-  },
-  {
-    "published_utc": "2025-12-11",
-    "retrieved_date": "2025-12-11",
-    "retrieved_utc": "2025-12-11T05:18:25Z",
-    "source": "FT_Markets",
-    "title": "Where the Netflix vs Paramount battle stands",
-    "url": "https://www.ft.com/content/1d7270a8-25e8-479f-96b4-b26c3d860aca",
-    "id_key": "8cc131fd636e343246874afae681c9c05b29d058b7283f2e6526c934833f38f4",
-    "summary": "Plus, a deep dive into all the angles at play in the takeover of Warner Bros Discovery",
-    "ingested_utc": "2025-12-11T05:18:25Z"
-  },
-  {
-    "published_utc": "2025-12-11",
-    "retrieved_date": "2025-12-11",
-    "retrieved_utc": "2025-12-11T05:18:25Z",
-    "source": "FT_Markets",
-    "title": "Beware rushing into private credit deals, warns Canadian pension giant",
-    "url": "https://www.ft.com/content/7e022188-bfbd-4eb5-9f7e-ec6e49cfcf85",
-    "id_key": "c93a12524d019b37d97f771e5457953c9575e73b7dd48f07d987f7f52d64d300",
-    "summary": "CPPIB chief John Graham says institutional investors should ‘know what you’re buying’",
-    "ingested_utc": "2025-12-11T05:18:25Z"
-  },
-  {
-    "published_utc": "2025-12-11",
-    "retrieved_date": "2025-12-11",
-    "retrieved_utc": "2025-12-11T05:18:25Z",
-    "source": "FT_Markets",
-    "title": "UK energy costs likely to halve by 2050, says system operator",
-    "url": "https://www.ft.com/content/25ad418f-6961-417b-825e-2071c1e693f2",
-    "id_key": "abfabbfede752a3c5dc0bd7fb280cd4c63854e63dee37b92fe11ea18b81f17ad",
-    "summary": "Modelling by independent body Neso forecasts sharp fall in expenditure from 10% of GDP as shift to renewables continues",
-    "ingested_utc": "2025-12-11T05:18:25Z"
-  },
-  {
-    "published_utc": "2025-12-11",
-    "retrieved_date": "2025-12-11",
-    "retrieved_utc": "2025-12-11T05:18:24Z",
-    "source": "FT_Home",
-    "title": "Inside the failed green revolutions at BP and Shell",
-    "url": "https://www.ft.com/content/c6d7d225-f322-4e88-b7e3-2ca2beecd495",
-    "id_key": "55109a59d0a3b3271ef4a6c49835ffa33ba3afcf867cf0564e3e45caf1e92838",
-    "summary": "How the energy giants tried to transform their businesses — but ended up dramatically scaling back those plans and writing off billions of dollars",
-    "ingested_utc": "2025-12-11T05:18:24Z"
-  },
-  {
-    "published_utc": "2025-12-11",
-    "retrieved_date": "2025-12-11",
-    "retrieved_utc": "2025-12-11T05:18:24Z",
-    "source": "FT_Home",
-    "title": "UK pledges to spend extra £1.5bn on NHS medicines as part of Trump tariff deal",
-    "url": "https://www.ft.com/content/19b0e69f-3a06-4db1-94a9-f3fa6f59feff",
-    "id_key": "b5e84ce2c85b7d967a32b5f060b4d2166379ddd781b2df6eb697c46da11ad801",
-    "summary": "Outlay over next 3 years is in return for the US exempting British pharmaceutical imports from tariffs",
-    "ingested_utc": "2025-12-11T05:18:24Z"
   }
 ]
