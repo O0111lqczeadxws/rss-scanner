@@ -1,28 +1,28 @@
 {
-  "started_utc": "2025-12-12T18:18:25Z",
-  "ended_utc": "2025-12-12T18:21:55Z",
-  "new_items_this_run": 25,
+  "started_utc": "2025-12-12T18:51:17Z",
+  "ended_utc": "2025-12-12T18:54:45Z",
+  "new_items_this_run": 18,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
     "Reuters_World": 0,
     "Reuters_Markets": 0,
-    "BBC_World": 1,
+    "BBC_World": 2,
     "BBC_Business": 0,
     "BBC_Technology": 0,
     "Guardian_Business": 0,
-    "Guardian_World": 9,
+    "Guardian_World": 1,
     "WSJ_US_Business": 0,
     "WSJ_World": 0,
     "WSJ_Markets": 0,
     "MarketWatch_Top": 0,
     "MarketWatch_MarketPulse": 0,
-    "Blockworks": 0,
+    "Blockworks": 1,
     "BitcoinMagazine": 1,
-    "CryptoSlate": 1,
+    "CryptoSlate": 0,
     "CryptoBriefing": 1,
-    "Protos": 0,
-    "CryptoNews": 2,
+    "Protos": 1,
+    "CryptoNews": 0,
     "CoinJournal": 0,
     "Unchained": 0,
     "Bankless": 0,
@@ -37,7 +37,7 @@
     "Polygon_Blog": 0,
     "Avalanche_Blog": 0,
     "NEAR_Blog": 0,
-    "Sui_Blog": 2,
+    "Sui_Blog": 1,
     "dYdX_Blog": 0,
     "Kraken_Blog": 0,
     "Gemini_Blog": 0,
@@ -57,29 +57,29 @@
     "MarketWatch_Bulletins": 0,
     "MarketWatch_PersonalFinance": 0,
     "NYTimes_Business": 0,
-    "NYTimes_World": 0,
+    "NYTimes_World": 1,
     "NYTimes_Economy": 0,
     "NYTimes_Technology": 0,
     "CNN_Top": 0,
-    "NPR_Top": 0,
+    "NPR_Top": 1,
     "NPR_Business": 0,
     "NPR_Economy": 0,
     "NPR_World": 0,
     "NPR_Technology": 0,
     "FT_Home": 0,
-    "FT_Markets": 1,
+    "FT_Markets": 0,
     "CNBC_Top": 0,
     "CNBC_Markets": 0,
     "TheVerge_All": 1,
-    "TechCrunch_All": 0,
+    "TechCrunch_All": 1,
     "ArsTechnica_All": 0,
-    "WIRED_All": 0,
+    "WIRED_All": 1,
     "Engadget_All": 1,
     "TheEconomist_Business": 0,
     "TheEconomist_Finance": 0,
     "Investopedia_Latest": 0,
-    "TheStreet_Top": 4,
-    "AlJazeera_All": 0,
+    "TheStreet_Top": 2,
+    "AlJazeera_All": 1,
     "AlJazeera_Economy": 0,
     "FinancialPost_Business": 1,
     "CBC_Business": 0,
@@ -176,7 +176,7 @@
     },
     {
       "source": "NEAR_Blog",
-      "error": "<unknown>:2:2638: not well-formed (invalid token)"
+      "error": "<unknown>:2:3932: not well-formed (invalid token)"
     },
     {
       "source": "https://blog.dydx.exchange/feed",
@@ -187,8 +187,12 @@
       "error": "fatal parse failure"
     },
     {
+      "source": "https://www.gemini.com/blog/rss",
+      "error": "fetch error: HTTP 404"
+    },
+    {
       "source": "Gemini_Blog",
-      "error": "<unknown>:366:37690: not well-formed (invalid token)"
+      "error": "fatal parse failure"
     },
     {
       "source": "https://www.circle.com/blog/rss.xml",
@@ -337,17 +341,17 @@
     ],
     "passed_keywords": 545,
     "passed_allowlist": 0,
-    "failed_all_filters": 546
+    "failed_all_filters": 548
   },
   "stats": {
     "feeds_total": 97,
-    "feeds_error": 23,
+    "feeds_error": 24,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 1542,
-    "too_old": 451,
-    "dup_title_url": 92,
-    "dup_id": 428
+    "entries_seen": 1543,
+    "too_old": 450,
+    "dup_title_url": 94,
+    "dup_id": 433
   },
   "limits": {
     "skip_older_days": 10,
@@ -360,6 +364,6 @@
   },
   "processed": {
     "file": "data/processed/2025-12-12.jsonl",
-    "appended_new": 24
+    "appended_new": 17
   }
 }
