@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-12-12",
     "retrieved_date": "2025-12-12",
+    "retrieved_utc": "2025-12-12T06:57:04Z",
+    "source": "FinancialPost_Business",
+    "title": "Indonesia Targets Concluding Tariff Deal with US by Year End",
+    "url": "https://financialpost.com/pmn/business-pmn/indonesia-targets-concluding-tariff-deal-with-us-by-year-end",
+    "id_key": "ba28ad3a55872c9a4dc9c7315e4bf84fbd823d5ce74ac0985a4532b8c9e971ea",
+    "summary": "Indonesia expects to conclude a trade agreement with the US by the end of the year as pressure builds on both sides to iron out disagreements that threaten to unravel their ties.",
+    "ingested_utc": "2025-12-12T06:57:04Z"
+  },
+  {
+    "published_utc": "2025-12-12",
+    "retrieved_date": "2025-12-12",
+    "retrieved_utc": "2025-12-12T06:56:57Z",
+    "source": "AlJazeera_All",
+    "title": "US sanctions family of Venezuela’s Maduro, 6 oil tankers in new crackdown",
+    "url": "https://www.aljazeera.com/news/2025/12/12/us-sanctions-family-of-venezuelas-maduro-6-oil-tankers-in-new-crackdown?traffic_source=rss",
+    "id_key": "86f4f56106c7418d517d58a8311512792fd1dc02886db800fd894268c0fcb645",
+    "summary": "Vessels targeted by the US are supertankers that recently loaded crude oil in Venezuela.",
+    "ingested_utc": "2025-12-12T06:56:57Z"
+  },
+  {
+    "published_utc": "2025-12-12",
+    "retrieved_date": "2025-12-12",
+    "retrieved_utc": "2025-12-12T06:54:07Z",
+    "source": "Guardian_World",
+    "title": "Former ANZ boss sues bank over cancelled bonuses – as it happened",
+    "url": "https://www.theguardian.com/australia-news/live/2025/dec/12/federal-state-health-ministers-meeting-aged-care-travel-expenses-anthony-albanese-labor-sussan-ley-coalition-ntwnfb",
+    "id_key": "5985135725a0ba9caa1af176a23f8af9cc01cbd698c689f2470890a5d287715d",
+    "summary": "This blog is now closed Brittany Higgins declared bankrupt after Linda Reynolds wins defamation case Get our breaking news email , free app or daily news podcast Officials investigating after Victoria police memorial vandalised overnight Victoria police are investigating the vandalism of the Victoria Police Memorial in Melbourne this morning. If you don’t need to be on the roads during heavy rainfall, we ask the community to delay their travel until the storm passes. If you do come across flash flooding, the best thing to do is turn around and find another way – it’s not worth putting your life or your loved ones at risk. It doesn’t take much for vehicles to become stuck in water or washed away as you don’t know what damage has been done to the road surfaces. Continue reading...",
+    "ingested_utc": "2025-12-12T06:54:07Z"
+  },
+  {
+    "published_utc": "2025-12-12",
+    "retrieved_date": "2025-12-12",
     "retrieved_utc": "2025-12-12T06:22:37Z",
     "source": "FT_Markets",
     "title": "One step forward, two steps back for the EU and its Ukraine loan scheme",
@@ -7779,6 +7812,17 @@
   {
     "published_utc": "2025-12-10",
     "retrieved_date": "2025-12-12",
+    "retrieved_utc": "2025-12-12T06:55:35Z",
+    "source": "Besu_Releases",
+    "title": "25.12.0: Revert \"Rpc Timeout interruption (#9117)\" (#9555)",
+    "url": "https://github.com/hyperledger/besu/releases/tag/25.12.0",
+    "id_key": "b87f28ae8978ada66ba8bcdbd24807403bf61dc614ea367f8dd142c411e467b5",
+    "summary": "Revert \"accept client or server timeout for flaky timeout test ( #9552 )\" This reverts commit 4e088d6 . Signed-off-by: Sally MacFarlane <macfarla.github@gmail.com> Signed-off-by: Sally MacFarlane macfarla.github@gmail.com Revert \"feat: Add RPC timeout interruption with CompletableFuture-based implementation ( #9117 )\" This reverts commit 01bfb85 . Signed-off-by: Sally MacFarlane <macfarla.github@gmail.com> Signed-off-by: Sally MacFarlane macfarla.github@gmail.com Signed-off-by: Sally MacFarlane macfarla.github@gmail.com",
+    "ingested_utc": "2025-12-12T06:55:35Z"
+  },
+  {
+    "published_utc": "2025-12-10",
+    "retrieved_date": "2025-12-12",
     "retrieved_utc": "2025-12-12T05:52:35Z",
     "source": "Guardian_Business",
     "title": "An EU-UK mobility scheme won’t erase the ‘violent indifference’ against young people. But it’s a start | Zoe Williams",
@@ -10954,49 +10998,5 @@
     "id_key": "caa69d1e9d71171b3b8881a4e80eb28ef43aaa374335e23ea977af8e2c28033a",
     "summary": "You’re not just signing up for a car when you finance at the dealership — you’re stepping into a lender’s strategy. Right now, that strategy increasingly belongs to big banks. Experian’s Q3 2025 data show banks at 28.9% of total auto financing, up 3.1 percentage points from a year earlier — the ...",
     "ingested_utc": "2025-12-10T16:52:54Z"
-  },
-  {
-    "published_utc": "2025-12-10",
-    "retrieved_date": "2025-12-10",
-    "retrieved_utc": "2025-12-10T16:52:54Z",
-    "source": "TheStreet_Top",
-    "title": "Fed set to cut rates as dissents loom at key December meeting",
-    "url": "https://www.thestreet.com/fed/fed-set-to-cut-rates-as-dissents-loom-at-key-december-meeting",
-    "id_key": "7b6c0f135062683ae044d649f02712abd32b3d2aefaa59a7573c1240e467d79c",
-    "summary": "The Federal Reserve is widely expected to deliver a 25-percentage-point cut at its Dec. 10 Federal Open Market Committee meeting -- its third reduction of 2025 -- trimming the target range to roughly 3.50%–3.75%. The CME Group FedWatch tool is pricing in nearly a 90% chance of the cut, as ...",
-    "ingested_utc": "2025-12-10T16:52:54Z"
-  },
-  {
-    "published_utc": "2025-12-10",
-    "retrieved_date": "2025-12-10",
-    "retrieved_utc": "2025-12-10T16:52:54Z",
-    "source": "TheStreet_Top",
-    "title": "Amazon solves Walmart, Target, and Kroger's shoplifting problem",
-    "url": "https://www.thestreet.com/retail/amazon-solves-walmart-target-and-krogers-shoplifting-problem-just-walk-out",
-    "id_key": "b5986f1990e3330e85f391e389e77e7333e497cc9323d0d7fd5b22309085dc1b",
-    "summary": "Most Americans pay for their purchases with credit or debit cards. \"Cash accounted for 14% of all U.S. consumer payments by number of payments, while credit and debit cards accounted for 35% and 30% of payments, respectively,\" according to a report from the United States Federal Reserve. Americans ...",
-    "ingested_utc": "2025-12-10T16:52:54Z"
-  },
-  {
-    "published_utc": "2025-12-10",
-    "retrieved_date": "2025-12-10",
-    "retrieved_utc": "2025-12-10T16:52:54Z",
-    "source": "TheStreet_Top",
-    "title": "Amazon is selling ChatGPT AI Smart Glasses for $30 as an early holiday steal",
-    "url": "https://www.thestreet.com/deals/xoomer-chatgpt-ai-smart-glasses-amazon-sale",
-    "id_key": "09e638feede286f78de0a7e448156a6d937df22baad651d611bad19d4a069d1a",
-    "summary": "\"Definitely feels like a step forward\" in technology.",
-    "ingested_utc": "2025-12-10T16:52:54Z"
-  },
-  {
-    "published_utc": "2025-12-10",
-    "retrieved_date": "2025-12-10",
-    "retrieved_utc": "2025-12-10T16:52:45Z",
-    "source": "Engadget_All",
-    "title": "Petco accidentally exposed heaps of customer information",
-    "url": "https://www.engadget.com/big-tech/petco-accidentally-exposed-heaps-of-customer-information-163825302.html?src=rss",
-    "id_key": "7cdaefb29be0487ff47bb792f3c5caced205519052ca2cc88c31e6c209e68c31",
-    "summary": "Petco has accidentally exposed a whole lot of customer data and personal information, according to a report by TechCrunch . This is thanks to a security lapse involving its Vetco clinics website, forcing the company to take a portion of that site offline. Petco has confirmed the leak and TechCrunch noted that the security lapse allowed anyone to download customer records without login information. The exposed data includes customer names, driver's license numbers, dates of birth, Social Security numbers and even financial information. It also includes customer records from visits to Vetco, like medical histories, pet names, vaccination records and other stuff like that. This was due to an incorrect software setting that made a number of files accessible online, according to a notice filed by California’s attorney general and reported on by Mashable . The company has since corrected the setting, removed the exposed files and implemented security measures. However, Petco hasn't said if any data was actually extracted during the security lapse or if it even has the means to suss out that kind of thing. Vetco customers should probably perform some due diligence to shore up personal security. The company is offering credit and identity monitoring services to impacted customers, but only in some states. We recommend giving Petco a call to discuss options. Data breaches of this sort are becoming an unfortunate part of modern life. Recent security breaches have impacted entities like AT&T , Discord , the social network Tea and the human resources company Workday , among others. This article originally appeared on Engadget at https://www.engadget.com/big-tech/petco-accidentally-exposed-heaps-of-customer-information-163825302.html?src=rss",
-    "ingested_utc": "2025-12-10T16:52:45Z"
   }
 ]
