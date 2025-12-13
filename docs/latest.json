@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-12-13",
     "retrieved_date": "2025-12-13",
+    "retrieved_utc": "2025-12-13T08:41:25Z",
+    "source": "NYTimes_Business",
+    "title": "Tech Support Scammers Stole $85,000 From Him. His Bank Refused a Refund.",
+    "url": "https://www.nytimes.com/2025/12/12/business/tech-support-scam-bank-fraud.html",
+    "id_key": "6fb1ec36e49712f1918d4d4ed83defcab6ad2184ccc925cdeeca256ddd7d1d99",
+    "summary": "A retired lawyer lost the money in a tech support scam, a type of online fraud that is surging. Citibank said it couldn’t recover the funds, which criminals wired from inside his account.",
+    "ingested_utc": "2025-12-13T08:41:25Z"
+  },
+  {
+    "published_utc": "2025-12-13",
+    "retrieved_date": "2025-12-13",
+    "retrieved_utc": "2025-12-13T08:39:36Z",
+    "source": "CryptoNews",
+    "title": "OCC Clears Circle, Ripple and Others to Launch Crypto National Banks",
+    "url": "https://cryptonews.com/news/occ-clears-circle-ripple-and-others-to-launch-crypto-national-banks/",
+    "id_key": "55ffa8af2d7baadfd7d7f6ecbdd7f4232d53677585e29aea293f483502cd468e",
+    "summary": "The OCC has conditionally approved five crypto firms, including Circle and Ripple, to launch national trust banks. The post OCC Clears Circle, Ripple and Others to Launch Crypto National Banks appeared first on Cryptonews .",
+    "ingested_utc": "2025-12-13T08:39:36Z"
+  },
+  {
+    "published_utc": "2025-12-13",
+    "retrieved_date": "2025-12-13",
     "retrieved_utc": "2025-12-13T08:18:06Z",
     "source": "AlJazeera_All",
     "title": "North Korea’s Kim bestows ‘hero’ titles on soldiers killed in Ukraine war",
@@ -10976,27 +10998,5 @@
     "id_key": "d3ea736046e88f447e462ef482b8e3e574336c5c7d6e55b9c0bd556940bc2468",
     "summary": "María Corina Machado, who has been threatened by her home country's government, speaks about her secret journey to Norway.",
     "ingested_utc": "2025-12-11T13:50:42Z"
-  },
-  {
-    "published_utc": "2025-12-11",
-    "retrieved_date": "2025-12-11",
-    "retrieved_utc": "2025-12-11T13:14:57Z",
-    "source": "FinancialPost_Business",
-    "title": "Sprott Physical Silver Trust Updates Its “At-the-Market” Equity Program",
-    "url": "https://financialpost.com/globe-newswire/sprott-physical-silver-trust-updates-its-at-the-market-equity-program-4",
-    "id_key": "8db79d63caafc0ddfd32a970e7bbce0603a04e5d994442352e99da8f94faf6ed",
-    "summary": "TORONTO, Dec. 11, 2025 (GLOBE NEWSWIRE) — Sprott Asset Management LP (“Sprott Asset Management”), a subsidiary of Sprott Inc., on behalf of the Sprott Physical Silver Trust (NYSE: PSLV) (TSX: PSLV / PSLV.U) (the “Trust”), a closed-ended mutual fund trust created to invest and hold substantially all of its assets in physical silver bullion, today […]",
-    "ingested_utc": "2025-12-11T13:14:57Z"
-  },
-  {
-    "published_utc": "2025-12-11",
-    "retrieved_date": "2025-12-11",
-    "retrieved_utc": "2025-12-11T13:14:57Z",
-    "source": "FinancialPost_Business",
-    "title": "ZenaTech Signs Offer to Acquire a Surveying Firm in the US West Expanding Drone as a Service Footprint to Serve Precision Agriculture, Ranching and Wildfire Management",
-    "url": "https://financialpost.com/globe-newswire/zenatech-signs-offer-to-acquire-a-surveying-firm-in-the-us-west-expanding-drone-as-a-service-footprint-to-serve-precision-agriculture-ranching-and-wildfire-management",
-    "id_key": "35db56609b9768445f260bb038b21b2947d1b0edfd879a39e8d60e494d130ac9",
-    "summary": "VANCOUVER, British Columbia, Dec. 11, 2025 (GLOBE NEWSWIRE) — ZenaTech, Inc. (Nasdaq: ZENA) (FSE: 49Q) (BMV: ZENA) (“ZenaTech”), a technology business solution provider specializing in AI (Artificial Intelligence) drone, Drone as a Service (DaaS), enterprise SaaS and Quantum Computing solutions, announces it has signed an offer to acquire a surveying firm headquartered in the Mountain […]",
-    "ingested_utc": "2025-12-11T13:14:57Z"
   }
 ]
