@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-12-13",
     "retrieved_date": "2025-12-13",
+    "retrieved_utc": "2025-12-13T21:39:33Z",
+    "source": "NYTimes_World",
+    "title": "Six U.N. Peacekeepers Killed in Drone Strike in Sudanese Battle Zone",
+    "url": "https://www.nytimes.com/2025/12/13/world/africa/sudan-un-peacekeepers-killed-drone-strike.html",
+    "id_key": "89ab729ef649241fac3a783e1134ac1a2257ca3e341b44eea2be88eff205b50f",
+    "summary": "The strike on a United Nations base in the southern Kordofan region was the deadliest single episode for the body’s personnel in Sudan’s civil war.",
+    "ingested_utc": "2025-12-13T21:39:33Z"
+  },
+  {
+    "published_utc": "2025-12-13",
+    "retrieved_date": "2025-12-13",
     "retrieved_utc": "2025-12-13T21:31:13Z",
     "source": "HackerNews_Top",
     "title": "Why Twilio Segment Moved from Microservices Back to a Monolith",
@@ -10987,16 +10998,5 @@
     "id_key": "0f9609d7986cad31d7288506fc0a97ce330028a7a52ab52b794b31953ff8d18f",
     "summary": "Legendary NBA head coach Phil Jackson and sports writer Sam Smith talk about the stars who helped define the sport, including Jordan, Kobe, Shaq and \"bad boy\" Dennis Rodman.",
     "ingested_utc": "2025-12-11T18:19:28Z"
-  },
-  {
-    "published_utc": "2025-12-11",
-    "retrieved_date": "2025-12-11",
-    "retrieved_utc": "2025-12-11T18:19:20Z",
-    "source": "NYTimes_World",
-    "title": "Pakistan’s Ex-Spy Chief Sentenced to Prison After Court-Martial",
-    "url": "https://www.nytimes.com/2025/12/11/world/asia/pakistan-isi-hameed-court-martial-prison.html",
-    "id_key": "b0bdf38a16ff4b1344bb737f9f5681b3eb470b1963fad1dcd36b09b4ef10c813",
-    "summary": "Lt. Gen. Faiz Hameed, an ally of the former prime minister, Imran Khan, once led Pakistan’s powerful Inter-Services Intelligence agency.",
-    "ingested_utc": "2025-12-11T18:19:20Z"
   }
 ]
