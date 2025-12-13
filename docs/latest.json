@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-12-13",
     "retrieved_date": "2025-12-13",
+    "retrieved_utc": "2025-12-13T22:14:16Z",
+    "source": "HackerNews_Top",
+    "title": "Why Twilio Segment moved from microservices back to a monolith",
+    "url": "https://www.twilio.com/en-us/blog/developers/best-practices/goodbye-microservices",
+    "id_key": "d14f182f5291d74ae31adc3c6df031f3359636b5a839204c9e4b9e8c3c875227",
+    "summary": "Comments",
+    "ingested_utc": "2025-12-13T22:14:16Z"
+  },
+  {
+    "published_utc": "2025-12-13",
+    "retrieved_date": "2025-12-13",
+    "retrieved_utc": "2025-12-13T22:11:06Z",
+    "source": "Guardian_World",
+    "title": "Drone strike on UN facility in war-torn Sudan leaves six peacekeepers dead",
+    "url": "https://www.theguardian.com/world/2025/dec/13/drone-strike-on-un-facility-in-war-torn-sudan-leaves-six-peacekeepers-dead",
+    "id_key": "0a22944f2642b03a18f91105421b6a5a36cda8e5c49af568f89fe62601804be1",
+    "summary": "UN secretary general António Guterres says ‘unjustifiable’ attack on base in city of Kadugli ‘could be war crime’ A drone strike hit a United Nations facility in war-torn Sudan on Saturday, killing six peacekeepers, the UN secretary general António Guterres has said. The strike hit the peacekeeping logistics base in the city of Kadugli, in the central region of Kordofan, Guterres said in a statement. Continue reading...",
+    "ingested_utc": "2025-12-13T22:11:06Z"
+  },
+  {
+    "published_utc": "2025-12-13",
+    "retrieved_date": "2025-12-13",
+    "retrieved_utc": "2025-12-13T22:11:06Z",
+    "source": "Guardian_World",
+    "title": "Giuffre family ‘disappointed’ Met police not investigating claims against Andrew",
+    "url": "https://www.theguardian.com/uk-news/2025/dec/13/met-will-not-investigate-claims-andrew-asked-bodyguard-to-investigate-virginia-giuffre",
+    "id_key": "389419741afac0561891989963310297be7c90b51819c4f31dfafcfcd4f934ae",
+    "summary": "Relatives of Virginia Giuffre say they are surprised Scotland Yard made decision just before release of Epstein files The family of Virginia Giuffre have expressed their “deep disappointment” that Andrew Mountbatten-Windsor will not face a criminal investigation in the UK over allegations against him. It was alleged that Mountbatten-Windsor had sex in London with a teenager who was trafficked, and then put pressure on his police protection officer to dig up dirt on her. Continue reading...",
+    "ingested_utc": "2025-12-13T22:11:06Z"
+  },
+  {
+    "published_utc": "2025-12-13",
+    "retrieved_date": "2025-12-13",
     "retrieved_utc": "2025-12-13T21:39:33Z",
     "source": "NYTimes_World",
     "title": "Six U.N. Peacekeepers Killed in Drone Strike in Sudanese Battle Zone",
@@ -10965,38 +10998,5 @@
     "id_key": "b3e3e24efac39b73c9cf9c6c8f33b810c66b70df595f510c2be97a869cce5b1c",
     "summary": "Hamlet is having something of a renaissance in 2025. This year's edition of the Toronto International Film Festival featured three different takes on the idea, including Chloé Zhao's adaptation of the play's inspiration and Aneil Karia's rendition set in modern-day London. But the most out-there version came from Belle director Mamoru Hosoda, who transformed Shakespeare's […]",
     "ingested_utc": "2025-12-11T18:19:47Z"
-  },
-  {
-    "published_utc": "2025-12-11",
-    "retrieved_date": "2025-12-11",
-    "retrieved_utc": "2025-12-11T18:19:32Z",
-    "source": "FT_Home",
-    "title": "US trade deficit shrinks to smallest since 2020 as gold exports jump",
-    "url": "https://www.ft.com/content/41a9f325-9c17-4fb2-b4cf-064296d14042",
-    "id_key": "e2a79d4f650f22a349a022b31ac82d3784a4cbae453fe9769449d3d5cdcf4fdb",
-    "summary": "Figures for September raise hopes that GDP growth in third quarter was stronger than forecast",
-    "ingested_utc": "2025-12-11T18:19:32Z"
-  },
-  {
-    "published_utc": "2025-12-11",
-    "retrieved_date": "2025-12-11",
-    "retrieved_utc": "2025-12-11T18:19:29Z",
-    "source": "NPR_Business",
-    "title": "Trump calls affordability crisis a 'hoax.' The data tells a different story",
-    "url": "https://www.npr.org/2025/12/11/nx-s1-5639957/trump-affordability-hoax-economy-midterms",
-    "id_key": "48f7962cc99eb51fbfbeb3875672fcef54157fcecb0649aae40fa31708af40bd",
-    "summary": "As Democrats campaigning on affordability pick up wins, Trump's messaging about a strong economy is at odds with widespread voter sentiment that he's not doing enough to tackle rising costs.",
-    "ingested_utc": "2025-12-11T18:19:29Z"
-  },
-  {
-    "published_utc": "2025-12-11",
-    "retrieved_date": "2025-12-11",
-    "retrieved_utc": "2025-12-11T18:19:28Z",
-    "source": "NPR_Top",
-    "title": "Was Michael Jordan NBA's GOAT? Phil Jackson reflects on the 'Masters of the Game'",
-    "url": "https://www.npr.org/2025/12/11/nx-s1-5639932/phil-jackson-sam-smith-nba-masters-of-the-game",
-    "id_key": "0f9609d7986cad31d7288506fc0a97ce330028a7a52ab52b794b31953ff8d18f",
-    "summary": "Legendary NBA head coach Phil Jackson and sports writer Sam Smith talk about the stars who helped define the sport, including Jordan, Kobe, Shaq and \"bad boy\" Dennis Rodman.",
-    "ingested_utc": "2025-12-11T18:19:28Z"
   }
 ]
