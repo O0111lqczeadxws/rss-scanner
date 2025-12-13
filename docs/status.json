@@ -1,13 +1,13 @@
 {
-  "started_utc": "2025-12-13T09:41:02Z",
-  "ended_utc": "2025-12-13T09:44:32Z",
-  "new_items_this_run": 1,
+  "started_utc": "2025-12-13T09:47:49Z",
+  "ended_utc": "2025-12-13T09:51:21Z",
+  "new_items_this_run": 0,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
     "Reuters_World": 0,
     "Reuters_Markets": 0,
-    "BBC_World": 1,
+    "BBC_World": 0,
     "BBC_Business": 0,
     "BBC_Technology": 0,
     "Guardian_Business": 0,
@@ -351,7 +351,7 @@
     "entries_seen": 1548,
     "too_old": 451,
     "dup_title_url": 105,
-    "dup_id": 462
+    "dup_id": 463
   },
   "limits": {
     "skip_older_days": 10,
@@ -364,6 +364,6 @@
   },
   "processed": {
     "file": "data/processed/2025-12-13.jsonl",
-    "appended_new": 1
+    "appended_new": 0
   }
 }
