@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-12-13",
     "retrieved_date": "2025-12-13",
+    "retrieved_utc": "2025-12-13T08:56:11Z",
+    "source": "FinancialPost_Business",
+    "title": "Green Stocks Are Big Winners as Tech Boom Drives Energy Demand",
+    "url": "https://financialpost.com/pmn/business-pmn/green-stocks-are-big-winners-as-tech-boom-drives-energy-demand",
+    "id_key": "2d4cb9dd0eda4106778f65ce3f0c47e2a97a37619e2b14efaf89795829f5d488",
+    "summary": "It was supposed to be a glum year for green stocks as President Donald Trump pushed his Big Oil agenda. Instead, the sector is booming as artificial intelligence powers massive demand for all kinds of energy.",
+    "ingested_utc": "2025-12-13T08:56:11Z"
+  },
+  {
+    "published_utc": "2025-12-13",
+    "retrieved_date": "2025-12-13",
     "retrieved_utc": "2025-12-13T08:41:25Z",
     "source": "NYTimes_Business",
     "title": "Tech Support Scammers Stole $85,000 From Him. His Bank Refused a Refund.",
@@ -10987,16 +10998,5 @@
     "id_key": "cbbf5f3779acae4d2b3d41c93dc4da6763247cd6697bb8dc2870c1bf08db9ec1",
     "summary": "Harold Wayne Nichols, who will be killed by lethal injection, confessed to killing Karen Pulley and raping other women Tennessee is preparing to execute Harold Wayne Nichols by lethal injection on Thursday for the 1988 rape and murder of Karen Pulley, a 20-year-old student at Chattanooga State University. Nichols confessed to killing Pulley as well as raping several other women in the Chattanooga area. Although he expressed remorse at trial, he admitted that he would have continued his violent behavior had he not been arrested. He was sentenced to death in 1990. Continue reading...",
     "ingested_utc": "2025-12-11T13:50:45Z"
-  },
-  {
-    "published_utc": "2025-12-11",
-    "retrieved_date": "2025-12-11",
-    "retrieved_utc": "2025-12-11T13:50:42Z",
-    "source": "BBC_World",
-    "title": "Venezuelan Nobel winner tells BBC she knows 'risks' of Oslo trip after months in hiding",
-    "url": "https://www.bbc.com/news/articles/c0q5p43qgl1o?at_medium=RSS&at_campaign=rss",
-    "id_key": "d3ea736046e88f447e462ef482b8e3e574336c5c7d6e55b9c0bd556940bc2468",
-    "summary": "María Corina Machado, who has been threatened by her home country's government, speaks about her secret journey to Norway.",
-    "ingested_utc": "2025-12-11T13:50:42Z"
   }
 ]
