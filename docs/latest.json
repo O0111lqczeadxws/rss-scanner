@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-12-13",
     "retrieved_date": "2025-12-13",
+    "retrieved_utc": "2025-12-13T05:16:12Z",
+    "source": "HackerNews_Top",
+    "title": "Show HN: Claude Code recipes for knowledge workers",
+    "url": "https://github.com/sgharlow/claude-code-recipes",
+    "id_key": "7970ac47f1f1457e3220ec44d6649a3ab8ca7b523da1aba8f51ac754b6d0eaac",
+    "summary": "Comments",
+    "ingested_utc": "2025-12-13T05:16:12Z"
+  },
+  {
+    "published_utc": "2025-12-13",
+    "retrieved_date": "2025-12-13",
+    "retrieved_utc": "2025-12-13T05:15:25Z",
+    "source": "FT_Markets",
+    "title": "Iran raises petrol prices as sanctions force costly imports",
+    "url": "https://www.ft.com/content/b06edc17-6055-4b1c-aa9b-7fb067c5cd5d",
+    "id_key": "f1bec537e4ab8212bd5f0b5c1d7d606ae98b879f433fe89a8ffa6f7fdf717cda",
+    "summary": "Tehran cuts fuel subsidies as energy crisis worsens in oil-rich country",
+    "ingested_utc": "2025-12-13T05:15:25Z"
+  },
+  {
+    "published_utc": "2025-12-13",
+    "retrieved_date": "2025-12-13",
     "retrieved_utc": "2025-12-13T04:54:25Z",
     "source": "Erigon_Releases",
     "title": "v3.3.2 - Rocky Romp",
@@ -10976,27 +10998,5 @@
     "id_key": "8bc58fc76f92590cbdd437f75fcfb269f188a557776a46a6c3366d7abd52baa5",
     "summary": "María Corina Machado, who has been in hiding for months, speaks about her secret journey to Norway from her home country.",
     "ingested_utc": "2025-12-11T13:11:54Z"
-  },
-  {
-    "published_utc": "2025-12-11",
-    "retrieved_date": "2025-12-11",
-    "retrieved_utc": "2025-12-11T12:28:55Z",
-    "source": "HackerNews_Top",
-    "title": "Meta shuts down global accounts linked to abortion advice and queer content",
-    "url": "https://www.theguardian.com/global-development/2025/dec/11/meta-shuts-down-global-accounts-linked-to-abortion-advice-and-queer-content",
-    "id_key": "7e211dabdcec7392a0e6cb483d95001e206a9d93371b3d49de1b8a2186de5c10",
-    "summary": "Comments",
-    "ingested_utc": "2025-12-11T12:28:55Z"
-  },
-  {
-    "published_utc": "2025-12-11",
-    "retrieved_date": "2025-12-11",
-    "retrieved_utc": "2025-12-11T12:28:47Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "Indonesia's Aceh warns of famine as Sumatra flood fatalities near 1,000",
-    "url": "https://asia.nikkei.com/economy/natural-disasters/indonesia-s-aceh-warns-of-famine-as-sumatra-flood-fatalities-near-1-000",
-    "id_key": "b2c5000ed0b26c4b40d93d58bae7d943f0c6378b6cfe6787cd69d06474d5c43b",
-    "summary": "",
-    "ingested_utc": "2025-12-11T12:28:47Z"
   }
 ]

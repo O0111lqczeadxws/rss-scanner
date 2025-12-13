@@ -1,7 +1,7 @@
 {
-  "started_utc": "2025-12-13T04:52:44Z",
-  "ended_utc": "2025-12-13T04:56:12Z",
-  "new_items_this_run": 1,
+  "started_utc": "2025-12-13T05:12:34Z",
+  "ended_utc": "2025-12-13T05:16:13Z",
+  "new_items_this_run": 2,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
@@ -44,7 +44,7 @@
     "Circle_Blog": 0,
     "Tether_Blog": 0,
     "MetaMask_Blog": 0,
-    "Erigon_Releases": 1,
+    "Erigon_Releases": 0,
     "Nethermind_Releases": 0,
     "Lighthouse_Releases": 0,
     "Teku_Releases": 0,
@@ -67,7 +67,7 @@
     "NPR_World": 0,
     "NPR_Technology": 0,
     "FT_Home": 0,
-    "FT_Markets": 0,
+    "FT_Markets": 1,
     "CNBC_Top": 0,
     "CNBC_Markets": 0,
     "TheVerge_All": 0,
@@ -87,7 +87,7 @@
     "WorldBank_News": 0,
     "OECD_Newsroom": 0,
     "MIT_TechReview": 0,
-    "HackerNews_Top": 0
+    "HackerNews_Top": 1
   },
   "errors": [
     {
@@ -176,7 +176,7 @@
     },
     {
       "source": "NEAR_Blog",
-      "error": "<unknown>:2:3932: not well-formed (invalid token)"
+      "error": "<unknown>:2:2638: not well-formed (invalid token)"
     },
     {
       "source": "https://blog.dydx.exchange/feed",
@@ -339,19 +339,19 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 560,
+    "passed_keywords": 557,
     "passed_allowlist": 0,
-    "failed_all_filters": 538
+    "failed_all_filters": 540
   },
   "stats": {
     "feeds_total": 97,
     "feeds_error": 24,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 1548,
+    "entries_seen": 1547,
     "too_old": 450,
-    "dup_title_url": 102,
-    "dup_id": 457
+    "dup_title_url": 101,
+    "dup_id": 454
   },
   "limits": {
     "skip_older_days": 10,
@@ -364,6 +364,6 @@
   },
   "processed": {
     "file": "data/processed/2025-12-13.jsonl",
-    "appended_new": 1
+    "appended_new": 2
   }
 }
