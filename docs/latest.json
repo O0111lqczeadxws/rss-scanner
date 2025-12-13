@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-12-13",
     "retrieved_date": "2025-12-13",
+    "retrieved_utc": "2025-12-13T04:54:25Z",
+    "source": "Erigon_Releases",
+    "title": "v3.3.2 - Rocky Romp",
+    "url": "https://github.com/erigontech/erigon/releases/tag/v3.3.2",
+    "id_key": "aa42f5d028ba4460d64a0ea7e996e59602e1218993c714ee25152585a91d72a0",
+    "summary": "Fix panic on GetEthV1BeaconBlobs ( #17992 ) by @domiwei in #18232 [r3.3] rpc: fix invalid key error code in eth_getStorageAt by @canepat in #18238 Pull torrent excessive wantPeers event fix by @anacrolix in #18256 Put the announce thrashing fix back in by @anacrolix in #18257 cl/beacon: add single_attestation event topic support ( #18142 ) by @domiwei in #18277 Balancer cherry picks by @mh0lt in #18282 Full Changelog : v3.3.1...v3.3.2",
+    "ingested_utc": "2025-12-13T04:54:25Z"
+  },
+  {
+    "published_utc": "2025-12-13",
+    "retrieved_date": "2025-12-13",
     "retrieved_utc": "2025-12-13T04:42:16Z",
     "source": "HackerNews_Top",
     "title": "Show HN: Claude Code Recipes for Knowledge Workers (Open Source)",
@@ -10987,16 +10998,5 @@
     "id_key": "b2c5000ed0b26c4b40d93d58bae7d943f0c6378b6cfe6787cd69d06474d5c43b",
     "summary": "",
     "ingested_utc": "2025-12-11T12:28:47Z"
-  },
-  {
-    "published_utc": "2025-12-11",
-    "retrieved_date": "2025-12-11",
-    "retrieved_utc": "2025-12-11T12:28:45Z",
-    "source": "FinancialPost_Business",
-    "title": "Lemhi Pass Soil Sampling and Radiometrics Survey Results Further Refines Permitting and Drill Targeting for 2026 and Beyond",
-    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/lemhi-pass-soil-sampling-and-radiometrics-survey-results-further-refines-permitting-and-drill-targeting-for-2026-and-beyond",
-    "id_key": "585f43a65b68a75f163920821f1e663bd2c878fe8b478cf7ce156cdd45b036d2",
-    "summary": "Successfully identified areas where high neodymium-in-soil anomalies coincide with areas of high radiometric activity, leading to the identification of new rare earth elements prospects as well as validated the location of historically reported ones COEUR D’ALENE, Idaho — Idaho Strategic Resources, Inc. (NYSE American: IDR) (“IDR”, “Idaho Strategic” or the “Company”) is pleased to release […]",
-    "ingested_utc": "2025-12-11T12:28:45Z"
   }
 ]
