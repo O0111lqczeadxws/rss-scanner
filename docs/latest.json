@@ -2,6 +2,50 @@
   {
     "published_utc": "2025-12-13",
     "retrieved_date": "2025-12-13",
+    "retrieved_utc": "2025-12-13T23:32:23Z",
+    "source": "HackerNews_Top",
+    "title": "Linux Sandboxes and Fil-C",
+    "url": "https://fil-c.org/seccomp",
+    "id_key": "c679ba1746524b58bd2d4bed90343c725f519e241423c7f2855236a4a4228562",
+    "summary": "Comments",
+    "ingested_utc": "2025-12-13T23:32:23Z"
+  },
+  {
+    "published_utc": "2025-12-13",
+    "retrieved_date": "2025-12-13",
+    "retrieved_utc": "2025-12-13T23:32:06Z",
+    "source": "TheStreet_Top",
+    "title": "Weekly Stock Market News: FED rate, natural gas, Lululemon, Oracle, Broadcom",
+    "url": "https://www.thestreet.com/investing/stocks/weekly-stock-market-news-fed-rate-natural-gas-lululemon-oracle-broadcom",
+    "id_key": "b41dba838279fd5a84121579e18f389af0cd6dc1823f97abcc2f95a9c04b6268",
+    "summary": "The Federal Reserve announced a quarter-point rate cut this week, now at 3.5% to 3.75%. Borrowers hope to find respite in future lending rates. However, no significant change should be expected in long-term payments, as the Fed’s benchmark rates do not directly impact them; instead, they rely more ...",
+    "ingested_utc": "2025-12-13T23:32:06Z"
+  },
+  {
+    "published_utc": "2025-12-13",
+    "retrieved_date": "2025-12-13",
+    "retrieved_utc": "2025-12-13T23:31:07Z",
+    "source": "Guardian_World",
+    "title": "Several people shot at Brown University in Rhode Island – latest updates",
+    "url": "https://www.theguardian.com/us-news/live/2025/dec/13/brown-university-shooting-rhode-island-updates",
+    "id_key": "2ceaa96429eaad601801f239fd3d9f99cb7ee2255e2d21eaffb90590dbea33a6",
+    "summary": "Suspect or suspects at large as Ivy League university tells students to take shelter during second day of final exams Multiple people shot at Brown University in Rhode Island, police say Kristy DosReis, the city of Providence’s chief public information officer for public safety, declined to provide details on the number of people injured or whether any were killed. “There have been multiple people shot,” DosReis said. Continue reading...",
+    "ingested_utc": "2025-12-13T23:31:07Z"
+  },
+  {
+    "published_utc": "2025-12-13",
+    "retrieved_date": "2025-12-13",
+    "retrieved_utc": "2025-12-13T23:29:14Z",
+    "source": "Guardian_World",
+    "title": "Police search for suspects after shooting at Brown University in Rhode Island – latest updates",
+    "url": "https://www.theguardian.com/us-news/live/2025/dec/13/brown-university-shooting-rhode-island-updates",
+    "id_key": "7abdf55c4a4fe0c0bfb38e391b5a89eed22f6905c7240cf5c6995c67363e59f9",
+    "summary": "Suspect or suspects at large as Ivy League university tells students to take shelter during second day of final exams Multiple people shot at Brown University in Rhode Island, police say At least two people have been killed and several others injured in the shooting, a law enforcement source told the Associated Press. The incident is believed to be unfolding near an engineering building on the campus, according to the school’s alert system. Continue reading...",
+    "ingested_utc": "2025-12-13T23:29:14Z"
+  },
+  {
+    "published_utc": "2025-12-13",
+    "retrieved_date": "2025-12-13",
     "retrieved_utc": "2025-12-13T23:14:08Z",
     "source": "AlJazeera_All",
     "title": "Brown University in US reports ‘active shooter’ situation on campus",
@@ -10954,49 +10998,5 @@
     "id_key": "14af54a675a54db21d738d1aaef94b8ad8a058715c0a4fd82c3e4c8a8d418ae3",
     "summary": "",
     "ingested_utc": "2025-12-11T18:20:09Z"
-  },
-  {
-    "published_utc": "2025-12-11",
-    "retrieved_date": "2025-12-11",
-    "retrieved_utc": "2025-12-11T18:20:08Z",
-    "source": "CBC_Business",
-    "title": "AI is skyrocketing the price of RAM. Computers, phones and tablets could be next",
-    "url": "https://www.cbc.ca/news/canada/calgary/ai-driving-up-ram-price-9.7011003?cmp=rss",
-    "id_key": "c66c2f4372a44cc2363ae1ec7a060dab72a3d03cdba5550d4a9284e748607f62",
-    "summary": "If you've been in the market recently for RAM, you've probably noticed a major spike in prices as memory manufacturers pivot more of their production capacity away from consumer products to supplying AI companies instead, which are rapidly building out data centres that need massive amounts of memory to operate.",
-    "ingested_utc": "2025-12-11T18:20:08Z"
-  },
-  {
-    "published_utc": "2025-12-11",
-    "retrieved_date": "2025-12-11",
-    "retrieved_utc": "2025-12-11T18:20:07Z",
-    "source": "FinancialPost_Business",
-    "title": "Average US long-term mortgage rate ticks up to 6.22%, but remains close to its low for the year",
-    "url": "https://financialpost.com/pmn/average-us-long-term-mortgage-rate-ticks-up-to-6-22-but-remains-close-to-its-low-for-the-year",
-    "id_key": "3b9f5ecb423e147b180e9177700a669ef0d1e204d82f84f14813b6032257ecca",
-    "summary": "The average rate on a 30-year U.S. mortgage edged higher this week, though it remains relatively near its low point so far this year. The uptick brings the average long-term mortgage rate to 6.22% from 6.19% last week, mortgage buyer Freddie Mac said Thursday. A year ago, the rate averaged 6.6%. Borrowing costs on 15-year […]",
-    "ingested_utc": "2025-12-11T18:20:07Z"
-  },
-  {
-    "published_utc": "2025-12-11",
-    "retrieved_date": "2025-12-11",
-    "retrieved_utc": "2025-12-11T18:20:07Z",
-    "source": "FinancialPost_Business",
-    "title": "How China racked up a US$1 trillion trade surplus",
-    "url": "https://financialpost.com/financial-times/how-china-racked-up-trade-surplus",
-    "id_key": "b5cd45aed4a4755ee27e5e0b2910a7a59b35eeb820d60cd2bcdd7223afdfe267",
-    "summary": "Beijing shakes off damage caused by Trump's trade war",
-    "ingested_utc": "2025-12-11T18:20:07Z"
-  },
-  {
-    "published_utc": "2025-12-11",
-    "retrieved_date": "2025-12-11",
-    "retrieved_utc": "2025-12-11T18:20:07Z",
-    "source": "FinancialPost_Business",
-    "title": "Mitsubishi HC Capital Canada Outlines Industrial Outlook for 2026: Stability, Strategy, and Smart Investment",
-    "url": "https://financialpost.com/globe-newswire/mitsubishi-hc-capital-canada-outlines-industrial-outlook-for-2026-stability-strategy-and-smart-investment",
-    "id_key": "770f7bdfeb62ff7176270cf208c354f5141fadc8d1f16f3a4cded25c37837b0d",
-    "summary": "From automation and labor shortages to tariff uncertainty and economic caution, Mitsubishi HC Capital Canada forecasts the evolving factors influencing business growth MONTREAL, Dec. 11, 2025 (GLOBE NEWSWIRE) — Mitsubishi HC Capital Canada, a leading non-bank, non-captive finance provider, has identified four key trends that will shape Canada’s industrial equipment sector in 2026. After years […]",
-    "ingested_utc": "2025-12-11T18:20:07Z"
   }
 ]
