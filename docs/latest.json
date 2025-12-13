@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-12-13",
     "retrieved_date": "2025-12-13",
+    "retrieved_utc": "2025-12-13T15:43:39Z",
+    "source": "AlJazeera_All",
+    "title": "Israel says it hit ‘key’ Hamas member in Gaza City",
+    "url": "https://www.aljazeera.com/news/2025/12/13/israel-says-it-hit-key-hamas-member-in-gaza-city?traffic_source=rss",
+    "id_key": "5585b0287edc507e01e67db7dc21b8ac945d76398ccc1d5e45c4dedb64bf6374",
+    "summary": "The army claims the member was working to re-establish Hamas’s capabilities in the Strip.",
+    "ingested_utc": "2025-12-13T15:43:39Z"
+  },
+  {
+    "published_utc": "2025-12-13",
+    "retrieved_date": "2025-12-13",
+    "retrieved_utc": "2025-12-13T15:43:39Z",
+    "source": "AlJazeera_All",
+    "title": "Belarus frees 123 prisoners including Ales Bialiatski as US lifts sanctions",
+    "url": "https://www.aljazeera.com/news/2025/12/13/belarus-frees-123-prisoners-including-ales-bialiatski-as-us-lifts-sanctions?traffic_source=rss",
+    "id_key": "4810d1c52fa055026c86ca96965396a79fa41a43be616dab8a70e2a24197fe67",
+    "summary": "This is a breaking news story.",
+    "ingested_utc": "2025-12-13T15:43:39Z"
+  },
+  {
+    "published_utc": "2025-12-13",
+    "retrieved_date": "2025-12-13",
+    "retrieved_utc": "2025-12-13T15:43:38Z",
+    "source": "TheStreet_Top",
+    "title": "73-year-old convenience store brand closing after sale",
+    "url": "https://www.thestreet.com/retail/73-year-old-convenience-store-brand-cefco-disappears-after-sale",
+    "id_key": "725a0f697c91c92b17e119f44cd006b897b562821c8a80c4c9592a8ef8e5b7b8",
+    "summary": "When I was a kid, Richdale's and White Hen Pantry were our local convenience store chains. I preferred Richdale's because they had Slush Puppie machines that let you pump in as much flavor syrup as you wanted. Consumers actually have deep loyalty to their convenience store brand of choice. ...",
+    "ingested_utc": "2025-12-13T15:43:38Z"
+  },
+  {
+    "published_utc": "2025-12-13",
+    "retrieved_date": "2025-12-13",
     "retrieved_utc": "2025-12-13T15:30:18Z",
     "source": "Guardian_World",
     "title": "Comedian Robin Ince quits Radio 4 show, claiming BBC found his views ‘problematic’",
@@ -10965,38 +10998,5 @@
     "id_key": "17fd373e1e31e598087385715059a9ee4eafe1a0747cc3139bedff644d805047",
     "summary": "US database company’s earnings published on Wednesday fell short of forecasts amid concerns over AI boom",
     "ingested_utc": "2025-12-11T15:43:48Z"
-  },
-  {
-    "published_utc": "2025-12-11",
-    "retrieved_date": "2025-12-11",
-    "retrieved_utc": "2025-12-11T15:43:36Z",
-    "source": "NYTimes_Business",
-    "title": "This Isn’t the First Time the Fed Has Struggled for Independence",
-    "url": "https://www.nytimes.com/2025/12/11/business/federal-reserve-independence-trump.html",
-    "id_key": "727e9ac5bdb5383a9bf50c5c92bd4889488e0b2c90fb5560943fa63e7b8f4d7e",
-    "summary": "The Trump administration is threatening the Fed’s autonomy, which the central bank regained with the Treasury-Fed accord in 1951.",
-    "ingested_utc": "2025-12-11T15:43:36Z"
-  },
-  {
-    "published_utc": "2025-12-11",
-    "retrieved_date": "2025-12-11",
-    "retrieved_utc": "2025-12-11T15:43:29Z",
-    "source": "MarketWatch_Bulletins",
-    "title": "S&P and Nasdaq under tech-sector pressure as Dow negotiates gain after Fed cut",
-    "url": "https://www.marketwatch.com/bulletins/redirect/go?g=08d5fc1f-16be-44c9-b2bb-aed308c79f44&mod=mw_rss_bulletins",
-    "id_key": "d90338de081fc6373fefdbe8286c3ee5caed33ab6e4ac23c03765ab5a558a9be",
-    "summary": "",
-    "ingested_utc": "2025-12-11T15:43:29Z"
-  },
-  {
-    "published_utc": "2025-12-11",
-    "retrieved_date": "2025-12-11",
-    "retrieved_utc": "2025-12-11T15:41:15Z",
-    "source": "CryptoBriefing",
-    "title": "Bitcoin whales realize $386M in losses in a single day: CryptoQuant",
-    "url": "https://cryptobriefing.com/bitcoin-whale-losses-cryptoquant/",
-    "id_key": "38eed699bbf4af2316e4bf0a629e1339c5bea4e31892c615da676b780d369dcc",
-    "summary": "The significant losses by Bitcoin whales highlight potential volatility and economic uncertainty impacting cryptocurrency markets. The post Bitcoin whales realize $386M in losses in a single day: CryptoQuant appeared first on Crypto Briefing .",
-    "ingested_utc": "2025-12-11T15:41:15Z"
   }
 ]
