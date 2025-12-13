@@ -1,13 +1,13 @@
 {
-  "started_utc": "2025-12-13T10:34:07Z",
-  "ended_utc": "2025-12-13T10:37:35Z",
-  "new_items_this_run": 6,
+  "started_utc": "2025-12-13T10:48:51Z",
+  "ended_utc": "2025-12-13T10:52:17Z",
+  "new_items_this_run": 0,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
     "Reuters_World": 0,
     "Reuters_Markets": 0,
-    "BBC_World": 1,
+    "BBC_World": 0,
     "BBC_Business": 0,
     "BBC_Technology": 0,
     "Guardian_Business": 0,
@@ -17,12 +17,12 @@
     "WSJ_Markets": 0,
     "MarketWatch_Top": 0,
     "MarketWatch_MarketPulse": 0,
-    "Blockworks": 1,
+    "Blockworks": 0,
     "BitcoinMagazine": 0,
-    "CryptoSlate": 2,
+    "CryptoSlate": 0,
     "CryptoBriefing": 0,
     "Protos": 0,
-    "CryptoNews": 1,
+    "CryptoNews": 0,
     "CoinJournal": 0,
     "Unchained": 0,
     "Bankless": 0,
@@ -75,7 +75,7 @@
     "ArsTechnica_All": 0,
     "WIRED_All": 0,
     "Engadget_All": 0,
-    "TheEconomist_Business": 1,
+    "TheEconomist_Business": 0,
     "TheEconomist_Finance": 0,
     "Investopedia_Latest": 0,
     "TheStreet_Top": 0,
@@ -176,7 +176,7 @@
     },
     {
       "source": "NEAR_Blog",
-      "error": "<unknown>:2:3932: not well-formed (invalid token)"
+      "error": "<unknown>:2:2638: not well-formed (invalid token)"
     },
     {
       "source": "https://blog.dydx.exchange/feed",
@@ -339,19 +339,19 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 567,
+    "passed_keywords": 568,
     "passed_allowlist": 0,
-    "failed_all_filters": 531
+    "failed_all_filters": 529
   },
   "stats": {
     "feeds_total": 97,
     "feeds_error": 24,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 1549,
+    "entries_seen": 1548,
     "too_old": 451,
     "dup_title_url": 104,
-    "dup_id": 457
+    "dup_id": 464
   },
   "limits": {
     "skip_older_days": 10,
@@ -364,6 +364,6 @@
   },
   "processed": {
     "file": "data/processed/2025-12-13.jsonl",
-    "appended_new": 6
+    "appended_new": 0
   }
 }
