@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-12-13",
     "retrieved_date": "2025-12-13",
+    "retrieved_utc": "2025-12-13T18:45:36Z",
+    "source": "AlJazeera_All",
+    "title": "Salah assists Ekitike’s second as Liverpool beat Brighton in EPL",
+    "url": "https://www.aljazeera.com/sports/2025/12/13/salah-assists-ekitikes-brace-as-liverpool-beat-brighton?traffic_source=rss",
+    "id_key": "08636b4a01657719eb715039cbaf8f50d6faa5e511c09c88e8525a73fad1628b",
+    "summary": "Mohamed Salah came off the bench to assist the second of Hugo Ekitike's double as Liverpool returned to winning ways.",
+    "ingested_utc": "2025-12-13T18:45:36Z"
+  },
+  {
+    "published_utc": "2025-12-13",
+    "retrieved_date": "2025-12-13",
+    "retrieved_utc": "2025-12-13T18:45:35Z",
+    "source": "TheStreet_Top",
+    "title": "Vacation airline cancels all flights, travelers stranded",
+    "url": "https://www.thestreet.com/travel/holiday-airline-cancels-all-flights-travelers-stranded",
+    "id_key": "92b4b0238eceb26f15ebfb09b13660caa5ae1414e1a0074bb3126efa6b9b9364",
+    "summary": "As many countries around the world face an economic downturn, a number of holiday, regional and even national airlines have all had to file for bankruptcy and close down operations. Since December 7, flag carrier Air Albania has not operated any flights after main investor Turkish Airlines ...",
+    "ingested_utc": "2025-12-13T18:45:35Z"
+  },
+  {
+    "published_utc": "2025-12-13",
+    "retrieved_date": "2025-12-13",
     "retrieved_utc": "2025-12-13T18:18:35Z",
     "source": "Engadget_All",
     "title": "iOS 26.2 is here with another Liquid Glass tweak, new Podcasts features and more",
@@ -10976,27 +10998,5 @@
     "id_key": "c0892b0c9a0fc2c5c2542f80c50849a1a7ca0bfad3d3ca3b1a555af3881154fd",
     "summary": "Comments",
     "ingested_utc": "2025-12-11T16:21:30Z"
-  },
-  {
-    "published_utc": "2025-12-11",
-    "retrieved_date": "2025-12-11",
-    "retrieved_utc": "2025-12-11T16:21:22Z",
-    "source": "CBC_Business",
-    "title": "Disney to invest $1B US in OpenAI, license Marvel, Star Wars characters for Sora tool",
-    "url": "https://www.cbc.ca/news/business/disney-openai-1b-deal-star-wars-marvel-9.7011798?cmp=rss",
-    "id_key": "03e6da7f014c52942d06f651c13373d2097d0d067e521f98f623984e61eee1e6",
-    "summary": "Walt Disney is investing $1 billion US in OpenAI and will let the startup use characters from Star Wars, Pixar and Marvel franchises in its Sora AI video and image generator, a crucial deal that could reshape how Hollywood makes content.",
-    "ingested_utc": "2025-12-11T16:21:22Z"
-  },
-  {
-    "published_utc": "2025-12-11",
-    "retrieved_date": "2025-12-11",
-    "retrieved_utc": "2025-12-11T16:21:21Z",
-    "source": "FinancialPost_Business",
-    "title": "Swissbit Adds HID® Seos® Token to Its iShield Key 2 Portfolio",
-    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/swissbit-adds-hid-seos-token-to-its-ishield-key-2-portfolio",
-    "id_key": "2da0ad44025ebfdb7591667a1048093f8af2b4ebdc47233866fbe400f712a3ef",
-    "summary": "New iShield Key 2 combines FIDO2 authentication with the leading physical access control technology from HID WESTFORD, Mass. — Swissbit, a leading manufacturer of storage and security solutions, is expanding its portfolio of multi-application security keys with the launch of the iShield Key 2 with a new variant featuring HID Seos, one of the most […]",
-    "ingested_utc": "2025-12-11T16:21:21Z"
   }
 ]
