@@ -1,17 +1,17 @@
 {
-  "started_utc": "2025-12-13T02:28:46Z",
-  "ended_utc": "2025-12-13T02:32:16Z",
-  "new_items_this_run": 14,
+  "started_utc": "2025-12-13T03:36:40Z",
+  "ended_utc": "2025-12-13T03:40:50Z",
+  "new_items_this_run": 6,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
     "Reuters_World": 0,
     "Reuters_Markets": 0,
-    "BBC_World": 1,
+    "BBC_World": 0,
     "BBC_Business": 0,
     "BBC_Technology": 0,
     "Guardian_Business": 0,
-    "Guardian_World": 3,
+    "Guardian_World": 5,
     "WSJ_US_Business": 0,
     "WSJ_World": 0,
     "WSJ_Markets": 0,
@@ -20,7 +20,7 @@
     "Blockworks": 0,
     "BitcoinMagazine": 0,
     "CryptoSlate": 0,
-    "CryptoBriefing": 2,
+    "CryptoBriefing": 0,
     "Protos": 0,
     "CryptoNews": 0,
     "CoinJournal": 0,
@@ -56,8 +56,8 @@
     "MarketWatch_RealTime": 0,
     "MarketWatch_Bulletins": 0,
     "MarketWatch_PersonalFinance": 0,
-    "NYTimes_Business": 2,
-    "NYTimes_World": 3,
+    "NYTimes_Business": 1,
+    "NYTimes_World": 0,
     "NYTimes_Economy": 0,
     "NYTimes_Technology": 0,
     "CNN_Top": 0,
@@ -78,10 +78,10 @@
     "TheEconomist_Business": 0,
     "TheEconomist_Finance": 0,
     "Investopedia_Latest": 0,
-    "TheStreet_Top": 1,
+    "TheStreet_Top": 0,
     "AlJazeera_All": 0,
     "AlJazeera_Economy": 0,
-    "FinancialPost_Business": 2,
+    "FinancialPost_Business": 0,
     "CBC_Business": 0,
     "Nikkei_Asia_Top": 0,
     "WorldBank_News": 0,
@@ -279,6 +279,14 @@
       "error": "fatal parse failure"
     },
     {
+      "source": "https://www.wired.com/feed/rss",
+      "error": "fetch error: HTTPSConnectionPool(host='www.wired.com', port=443): Read timed out. (read timeout=12)"
+    },
+    {
+      "source": "WIRED_All",
+      "error": "fatal parse failure"
+    },
+    {
       "source": "https://www.investopedia.com/feed",
       "error": "fetch error: HTTP 404"
     },
@@ -339,19 +347,19 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 562,
+    "passed_keywords": 541,
     "passed_allowlist": 0,
-    "failed_all_filters": 536
+    "failed_all_filters": 507
   },
   "stats": {
     "feeds_total": 97,
-    "feeds_error": 24,
+    "feeds_error": 25,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 1548,
+    "entries_seen": 1498,
     "too_old": 450,
     "dup_title_url": 102,
-    "dup_id": 446
+    "dup_id": 433
   },
   "limits": {
     "skip_older_days": 10,
@@ -364,6 +372,6 @@
   },
   "processed": {
     "file": "data/processed/2025-12-13.jsonl",
-    "appended_new": 14
+    "appended_new": 6
   }
 }
