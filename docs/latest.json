@@ -2,6 +2,50 @@
   {
     "published_utc": "2025-12-13",
     "retrieved_date": "2025-12-13",
+    "retrieved_utc": "2025-12-13T21:31:13Z",
+    "source": "HackerNews_Top",
+    "title": "Why Twilio Segment Moved from Microservices Back to a Monolith",
+    "url": "https://www.twilio.com/en-us/blog/developers/best-practices/goodbye-microservices",
+    "id_key": "21adbc53b327929857ec3f55fa14f0a0eb066d9ff43ea7683284dc86577c3378",
+    "summary": "Comments",
+    "ingested_utc": "2025-12-13T21:31:13Z"
+  },
+  {
+    "published_utc": "2025-12-13",
+    "retrieved_date": "2025-12-13",
+    "retrieved_utc": "2025-12-13T21:30:56Z",
+    "source": "TheStreet_Top",
+    "title": "Another famous convenience store brand closing all stores",
+    "url": "https://www.thestreet.com/retail/73-year-old-convenience-store-brand-cefco-disappears-after-sale",
+    "id_key": "206e8d70d6080353f916cced106bf1f926bc19de9bdfd8fca94ec15e937efd2f",
+    "summary": "When I was a kid, Richdale's and White Hen Pantry were our local convenience store chains. I preferred Richdale's because they had Slush Puppie machines that let you pump in as much flavor syrup as you wanted. Consumers actually have deep loyalty to their convenience store brand of choice. ...",
+    "ingested_utc": "2025-12-13T21:30:56Z"
+  },
+  {
+    "published_utc": "2025-12-13",
+    "retrieved_date": "2025-12-13",
+    "retrieved_utc": "2025-12-13T21:30:30Z",
+    "source": "FT_Markets",
+    "title": "The downfall of Do Kwon",
+    "url": "https://www.ft.com/content/6d6c88c6-b26c-45b3-bc99-98211af55504",
+    "id_key": "c6b92060fbe921ab86bbe0b4cc3b336c9f6eca22e5f7e6ce96c4ad5ac462a81c",
+    "summary": "FTAV watched on in court as a New York judge eviscerated, then explained, the Terraform Labs co-founder’s dramatic rise and fall",
+    "ingested_utc": "2025-12-13T21:30:30Z"
+  },
+  {
+    "published_utc": "2025-12-13",
+    "retrieved_date": "2025-12-13",
+    "retrieved_utc": "2025-12-13T21:28:03Z",
+    "source": "Guardian_World",
+    "title": "Kansas Native American tribe in turmoil over deal to design ICE facilities",
+    "url": "https://www.theguardian.com/us-news/2025/dec/13/kansas-native-american-tribe-ice-facilities",
+    "id_key": "fe8f423f4ce06e1bfa2cc45f177f35e8f9072318080082ddff49157025272e48",
+    "summary": "Prairie Band Potawatomi Nation signed deal in October, but president says tribe is now trying to exit contract A Native American tribe in Kansas is facing criticism from other tribal groups after its economic development subsidiary secured a $29.9m federal contract from the Department of Homeland Security (DHS) to design potential Immigration and Customs Enforcement (ICE) detention facilities. The development entity of the Prairie Band Potawatomi Nation signed the contract to design the detention facilities in October, leading to criticism that the tribal group, which was uprooted from the Great Lakes region to reservation lands north of Topeka, Kansas, in the 1830s, was itself benefiting from forced removals under the Trump administration. Continue reading...",
+    "ingested_utc": "2025-12-13T21:28:03Z"
+  },
+  {
+    "published_utc": "2025-12-13",
+    "retrieved_date": "2025-12-13",
     "retrieved_utc": "2025-12-13T21:12:35Z",
     "source": "Guardian_World",
     "title": "Tommy Robinson’s London ‘Christmas service’ draws about 1,000 people",
@@ -10954,49 +10998,5 @@
     "id_key": "b0bdf38a16ff4b1344bb737f9f5681b3eb470b1963fad1dcd36b09b4ef10c813",
     "summary": "Lt. Gen. Faiz Hameed, an ally of the former prime minister, Imran Khan, once led Pakistan’s powerful Inter-Services Intelligence agency.",
     "ingested_utc": "2025-12-11T18:19:20Z"
-  },
-  {
-    "published_utc": "2025-12-11",
-    "retrieved_date": "2025-12-11",
-    "retrieved_utc": "2025-12-11T18:19:12Z",
-    "source": "MarketWatch_Bulletins",
-    "title": "Blue-chip Dow rallies into record territory while Oracle’s skid weighs on Nasdaq",
-    "url": "https://www.marketwatch.com/bulletins/redirect/go?g=9f6480c9-9e59-45be-955d-bd7c59df61fd&mod=mw_rss_bulletins",
-    "id_key": "481305e723825d81e6caf3daf633b29e15d26b7883ecffb62b3a68409fbfff99",
-    "summary": "",
-    "ingested_utc": "2025-12-11T18:19:12Z"
-  },
-  {
-    "published_utc": "2025-12-11",
-    "retrieved_date": "2025-12-11",
-    "retrieved_utc": "2025-12-11T18:19:12Z",
-    "source": "MarketWatch_Bulletins",
-    "title": "More Americans link saving and investing — and not spending — to happiness",
-    "url": "https://www.marketwatch.com/bulletins/redirect/go?g=7c74fb45-31b1-4336-905f-7aefbc2d2347&mod=mw_rss_bulletins",
-    "id_key": "6bcee93c7607b66b0dbed9e2dbd82ce59b3f7e37b36f0c52c6ae4225d25034ef",
-    "summary": "",
-    "ingested_utc": "2025-12-11T18:19:12Z"
-  },
-  {
-    "published_utc": "2025-12-11",
-    "retrieved_date": "2025-12-11",
-    "retrieved_utc": "2025-12-11T18:18:05Z",
-    "source": "Kraken_Blog",
-    "title": "Introducing Kraken’s Holiday Gift Flip: Turn your worst Christmas gift into Bitcoin",
-    "url": "https://blog.kraken.com/product/promotions/holiday-gift-flip-2025",
-    "id_key": "fc7437a1e09265d9277fdfddca7008081eaa9789a245b6a483385eba3dbce73b",
-    "summary": "Every year, someone unwraps a gift that probably should have stayed in the shop. A novelty mug. A pair of socks that say “Live, Laugh, Love.” A kitchen gadget no one asked for. We’ve all been there. The post Introducing Kraken’s Holiday Gift Flip: Turn your worst Christmas gift into Bitcoin appeared first on Kraken Blog .",
-    "ingested_utc": "2025-12-11T18:18:05Z"
-  },
-  {
-    "published_utc": "2025-12-11",
-    "retrieved_date": "2025-12-11",
-    "retrieved_utc": "2025-12-11T18:17:23Z",
-    "source": "CoinJournal",
-    "title": "Pudgy Penguins (PENGU) crashes 10% in 24 hours as memecoin market weakens",
-    "url": "https://coinjournal.net/news/pudgy-penguins-pengu-crashes-10-in-24-hours-as-memecoin-market-weakens/",
-    "id_key": "6d573ab5e8c4f1a29f8c4bb294dcdab2e3e6e269fc2a3b85e74e71a9cf1a42af",
-    "summary": "Pudgy Penguins (PENGU) price fell to lows of $0.010 as altcoins crashed on Thursday. The token’s dip extends losses seen in the past months. Bitcoin’s slip amid the AI market downturn impacted PENGU’s price. Pudgy Penguins (PENGU) has taken a significant price hit in the past 24 hours, with the memecoin token plummeting more than […] The post Pudgy Penguins (PENGU) crashes 10% in 24 hours as memecoin market weakens appeared first on CoinJournal .",
-    "ingested_utc": "2025-12-11T18:17:23Z"
   }
 ]
