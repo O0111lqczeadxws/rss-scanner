@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-12-13",
     "retrieved_date": "2025-12-13",
+    "retrieved_utc": "2025-12-13T22:34:49Z",
+    "source": "NPR_Top",
+    "title": "United Airlines flight returns to Dulles airport after engine loses power during takeoff",
+    "url": "https://www.npr.org/2025/12/13/nx-s1-5643589/united-airlines-flight-dulles-airport-engine",
+    "id_key": "2e3f434561d9a9f1922339543a24693f739f29aae0a6b72a8512f21ed681c503",
+    "summary": "Shortly after departing the Virginia airport on Saturday, the Tokyo-bound plane's engine cover separated and caught fire, according to the transportation secretary. No injuries were reported.",
+    "ingested_utc": "2025-12-13T22:34:49Z"
+  },
+  {
+    "published_utc": "2025-12-13",
+    "retrieved_date": "2025-12-13",
     "retrieved_utc": "2025-12-13T22:14:16Z",
     "source": "HackerNews_Top",
     "title": "Why Twilio Segment moved from microservices back to a monolith",
@@ -10986,17 +10997,6 @@
     "url": "https://www.theverge.com/news/842201/amazon-luna-comcast-xfinity-rogers-cable-boxes",
     "id_key": "d6d988b5b8eef7c364544f9afcb88e96e4d2751b5fab17eeb00b53cdd9f04f2c",
     "summary": "Amazon's Luna cloud gaming service is coming to cable boxes from Comcast and Rogers. The Luna app is already available via web browsers, Fire TV devices, Fire tablets, and many smart TVs from Samsung and LG, and this new expansion will bring the service to \"millions\" more devices, according to Amazon. Starting Thursday, Luna will […]",
-    "ingested_utc": "2025-12-11T18:19:47Z"
-  },
-  {
-    "published_utc": "2025-12-11",
-    "retrieved_date": "2025-12-11",
-    "retrieved_utc": "2025-12-11T18:19:47Z",
-    "source": "TheVerge_All",
-    "title": "Mamoru Hosoda explains why Hamlet is everywhere this year",
-    "url": "https://www.theverge.com/entertainment/842346/mamoru-hosoda-interview-scarlet",
-    "id_key": "b3e3e24efac39b73c9cf9c6c8f33b810c66b70df595f510c2be97a869cce5b1c",
-    "summary": "Hamlet is having something of a renaissance in 2025. This year's edition of the Toronto International Film Festival featured three different takes on the idea, including Chloé Zhao's adaptation of the play's inspiration and Aneil Karia's rendition set in modern-day London. But the most out-there version came from Belle director Mamoru Hosoda, who transformed Shakespeare's […]",
     "ingested_utc": "2025-12-11T18:19:47Z"
   }
 ]
