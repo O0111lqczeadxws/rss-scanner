@@ -1,7 +1,7 @@
 {
-  "started_utc": "2025-12-13T03:36:40Z",
-  "ended_utc": "2025-12-13T03:40:50Z",
-  "new_items_this_run": 6,
+  "started_utc": "2025-12-13T04:02:40Z",
+  "ended_utc": "2025-12-13T04:06:04Z",
+  "new_items_this_run": 2,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
@@ -11,7 +11,7 @@
     "BBC_Business": 0,
     "BBC_Technology": 0,
     "Guardian_Business": 0,
-    "Guardian_World": 5,
+    "Guardian_World": 1,
     "WSJ_US_Business": 0,
     "WSJ_World": 0,
     "WSJ_Markets": 0,
@@ -56,7 +56,7 @@
     "MarketWatch_RealTime": 0,
     "MarketWatch_Bulletins": 0,
     "MarketWatch_PersonalFinance": 0,
-    "NYTimes_Business": 1,
+    "NYTimes_Business": 0,
     "NYTimes_World": 0,
     "NYTimes_Economy": 0,
     "NYTimes_Technology": 0,
@@ -67,7 +67,7 @@
     "NPR_World": 0,
     "NPR_Technology": 0,
     "FT_Home": 0,
-    "FT_Markets": 0,
+    "FT_Markets": 1,
     "CNBC_Top": 0,
     "CNBC_Markets": 0,
     "TheVerge_All": 0,
@@ -279,14 +279,6 @@
       "error": "fatal parse failure"
     },
     {
-      "source": "https://www.wired.com/feed/rss",
-      "error": "fetch error: HTTPSConnectionPool(host='www.wired.com', port=443): Read timed out. (read timeout=12)"
-    },
-    {
-      "source": "WIRED_All",
-      "error": "fatal parse failure"
-    },
-    {
       "source": "https://www.investopedia.com/feed",
       "error": "fetch error: HTTP 404"
     },
@@ -347,19 +339,19 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 541,
+    "passed_keywords": 561,
     "passed_allowlist": 0,
-    "failed_all_filters": 507
+    "failed_all_filters": 537
   },
   "stats": {
     "feeds_total": 97,
-    "feeds_error": 25,
+    "feeds_error": 24,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 1498,
+    "entries_seen": 1548,
     "too_old": 450,
     "dup_title_url": 102,
-    "dup_id": 433
+    "dup_id": 457
   },
   "limits": {
     "skip_older_days": 10,
@@ -372,6 +364,6 @@
   },
   "processed": {
     "file": "data/processed/2025-12-13.jsonl",
-    "appended_new": 6
+    "appended_new": 2
   }
 }
