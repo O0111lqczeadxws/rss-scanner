@@ -805,6 +805,17 @@
   {
     "published_utc": "2025-12-12",
     "retrieved_date": "2025-12-13",
+    "retrieved_utc": "2025-12-13T09:41:18Z",
+    "source": "BBC_World",
+    "title": "A new Bollywood film is dividing opinions in India and Pakistan",
+    "url": "https://www.bbc.com/news/articles/c0q5pygel84o?at_medium=RSS&at_campaign=rss",
+    "id_key": "0290f807d811b871f99cb6e9dd1834e5738fe45f7466a539b13b30a35e183538",
+    "summary": "An espionage thriller set in Pakistan, Dhurandhar has provoked a sharp debate over its political messaging.",
+    "ingested_utc": "2025-12-13T09:41:18Z"
+  },
+  {
+    "published_utc": "2025-12-12",
+    "retrieved_date": "2025-12-13",
     "retrieved_utc": "2025-12-13T08:18:22Z",
     "source": "HackerNews_Top",
     "title": "Capsudo: Rethinking sudo with object capabilities",
@@ -10986,17 +10997,6 @@
     "url": "https://www.theguardian.com/business/2025/dec/11/mcdonalds-removes-ai-generated-christmas-ad-advert-backlash",
     "id_key": "223fe0702f915b46be2cee5782a955d7baf5c4fe29f3428cd621ac5774938b51",
     "summary": "Commercial in Netherlands depicting festival-season chaos at ‘most terrible time of year’ prompted flurry of criticism online McDonald’s says it has removed an AI-generated Christmas advertisement in the Netherlands after it was criticised online. The ad, titled “the most terrible time of the year” , depicts scenes of Christmas chaos, with Santa caught in a traffic jam and a gift-laden Dutch cyclist slipping in the snow. And the message? Retreat to a McDonald’s restaurant until January and ride out the festive season. Continue reading...",
-    "ingested_utc": "2025-12-11T13:50:45Z"
-  },
-  {
-    "published_utc": "2025-12-11",
-    "retrieved_date": "2025-12-11",
-    "retrieved_utc": "2025-12-11T13:50:45Z",
-    "source": "Guardian_World",
-    "title": "Bulgarian government resigns after mass anti-corruption protests",
-    "url": "https://www.theguardian.com/world/2025/dec/11/bulgarian-government-resigns-mass-anti-corruption-protests",
-    "id_key": "a8816e8307b2a1f910d0a5321314a9a93b3a01acb3a18b405795ddd5d46fdacc",
-    "summary": "Prime minister makes announcement before parliament vote on no-confidence motion filed by opposition The Bulgarian government is resigning after less than a year in office after a series of anti-corruption protests, the prime minister has said. Rosen Zhelyazkov’s announcement on Thursday came before a vote in parliament on a no-confidence motion filed by the opposition against the government. Continue reading...",
     "ingested_utc": "2025-12-11T13:50:45Z"
   }
 ]
