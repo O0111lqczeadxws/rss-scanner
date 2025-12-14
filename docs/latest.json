@@ -2,6 +2,50 @@
   {
     "published_utc": "2025-12-14",
     "retrieved_date": "2025-12-14",
+    "retrieved_utc": "2025-12-14T20:16:00Z",
+    "source": "HackerNews_Top",
+    "title": "iOS 26.2 fixes 20 security vulnerabilities, 2 actively exploited",
+    "url": "https://www.macrumors.com/2025/12/12/ios-26-2-security-vulnerabilities/",
+    "id_key": "c97bab4bd8927c797669ca5e5f34c3e426a50202f10229ff0297519c34da38a8",
+    "summary": "Comments",
+    "ingested_utc": "2025-12-14T20:16:00Z"
+  },
+  {
+    "published_utc": "2025-12-14",
+    "retrieved_date": "2025-12-14",
+    "retrieved_utc": "2025-12-14T20:15:44Z",
+    "source": "AlJazeera_All",
+    "title": "Jimmy Lai supporters queue outside Hong Kong court ahead of verdict",
+    "url": "https://www.aljazeera.com/news/2025/12/14/jimmy-lai-supporters-queue-outside-hong-kong-court-ahead-of-verdict?traffic_source=rss",
+    "id_key": "f7f1076d23c8753b11432fbe5ef376a1f41cf580ad2e1090fafe37c689ecd512",
+    "summary": "Media mogul Lai was arrested in 2020 under a national security law imposed by China.",
+    "ingested_utc": "2025-12-14T20:15:44Z"
+  },
+  {
+    "published_utc": "2025-12-14",
+    "retrieved_date": "2025-12-14",
+    "retrieved_utc": "2025-12-14T20:15:12Z",
+    "source": "NPR_Top",
+    "title": "At least 15 killed in mass shooting at Hanukkah event on Sydney's Bondi Beach",
+    "url": "https://www.npr.org/2025/12/14/g-s1-102220/sydney-bondi-beach-hanukkah-shooting",
+    "id_key": "2c529a5e4cc8061c320214a1c48e4f7795f0eb526419a6a9d39f848d1f02ab9a",
+    "summary": "Hundreds had gathered for an event at Bondi Beach called Chanukah by the Sea, which was celebrating the start of the Hanukkah Jewish festival.",
+    "ingested_utc": "2025-12-14T20:15:12Z"
+  },
+  {
+    "published_utc": "2025-12-14",
+    "retrieved_date": "2025-12-14",
+    "retrieved_utc": "2025-12-14T20:12:57Z",
+    "source": "Guardian_World",
+    "title": "Bondi beach shooting live updates: at least 16 people dead including child after terror attack on Jewish festival; 40 injured with five in critical condition",
+    "url": "https://www.theguardian.com/australia-news/live/2025/dec/14/bondi-beach-shooting-live-updates-victims-terror-attack-jewish-festival-hanukah",
+    "id_key": "da5fb74409a8dd6bd280b89883cce5f0a3c806bc8f73edf0fa6f7d57c13329c8",
+    "summary": "One gunman was killed and another wounded; two police officers among the injured taken to hospital Amid the horror of the shooting, one video has emerged showing incredible bravery – a bystander rushing one of the gunmen from behind to wrestle the firearm off him. Praised a hero, he is being identified by some media as a 43-year-old fruit shop owner from the Sutherland Shire. Continue reading...",
+    "ingested_utc": "2025-12-14T20:12:57Z"
+  },
+  {
+    "published_utc": "2025-12-14",
+    "retrieved_date": "2025-12-14",
     "retrieved_utc": "2025-12-14T19:47:58Z",
     "source": "Guardian_World",
     "title": "Bondi beach shooting live updates: at least 16 people dead including child after terror attack on Jewish festival",
@@ -10952,50 +10996,6 @@
     "title": "Japan's Raksul to go private with $770m Goldman Sachs-backed buyout",
     "url": "https://asia.nikkei.com/business/business-deals/japan-s-raksul-to-go-private-with-770m-goldman-sachs-backed-buyout",
     "id_key": "a60cb038ba275da535788862fafd2fc1bf821f5b13ea1e26c697a3006e67220d",
-    "summary": "",
-    "ingested_utc": "2025-12-12T01:00:23Z"
-  },
-  {
-    "published_utc": "2025-12-12",
-    "retrieved_date": "2025-12-12",
-    "retrieved_utc": "2025-12-12T01:00:23Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "Trump's tariffs dented US trade with Asia, but Southeast Asia imports grew",
-    "url": "https://asia.nikkei.com/economy/trade-war/trump-tariffs/trump-s-tariffs-dented-us-trade-with-asia-but-southeast-asia-imports-grew",
-    "id_key": "45438669bb15f52937554e184cba7c6faab819a4e80b1ed3da262c7ed8af8f48",
-    "summary": "",
-    "ingested_utc": "2025-12-12T01:00:23Z"
-  },
-  {
-    "published_utc": "2025-12-12",
-    "retrieved_date": "2025-12-12",
-    "retrieved_utc": "2025-12-12T01:00:23Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "Indonesia's Aceh warns of famine as Sumatra flood fatalities near 1,000",
-    "url": "https://asia.nikkei.com/economy/natural-disasters/indonesia-s-aceh-warns-of-famine-as-sumatra-flood-fatalities-near-1-000",
-    "id_key": "6f76670bab47ef812b3806dbad59ab879e4e9d59a24aff138fcaf51cd56b5bc3",
-    "summary": "",
-    "ingested_utc": "2025-12-12T01:00:23Z"
-  },
-  {
-    "published_utc": "2025-12-12",
-    "retrieved_date": "2025-12-12",
-    "retrieved_utc": "2025-12-12T01:00:23Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "AI giveth and taketh away and nuclear gets hot",
-    "url": "https://asia.nikkei.com/techasia/ai-giveth-and-taketh-away-and-nuclear-gets-hot",
-    "id_key": "7559f310c5d1ef72bd759d2747aa9a83738d36625bb259bb31dfb7db25128669",
-    "summary": "",
-    "ingested_utc": "2025-12-12T01:00:23Z"
-  },
-  {
-    "published_utc": "2025-12-12",
-    "retrieved_date": "2025-12-12",
-    "retrieved_utc": "2025-12-12T01:00:23Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "Trump tariffs dim holiday joy for US small businesses sourcing from Asia",
-    "url": "https://asia.nikkei.com/economy/trade-war/trump-tariffs/trump-tariffs-dim-holiday-joy-for-us-small-businesses-sourcing-from-asia",
-    "id_key": "e6f1197130e89aa0d93dc9181406545e48df7abe84576c47e157c05cfdd2c75b",
     "summary": "",
     "ingested_utc": "2025-12-12T01:00:23Z"
   }
