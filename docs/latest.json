@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-12-14",
     "retrieved_date": "2025-12-14",
+    "retrieved_utc": "2025-12-14T18:18:59Z",
+    "source": "NYTimes_World",
+    "title": "Will Chile Turn to the Right? Voters Face Presidential Runoff.",
+    "url": "https://www.nytimes.com/2025/12/14/world/americas/chile-election-candidates.html",
+    "id_key": "7e7ca60506e5f350cb22fee9b8224e54cb3a025c7e4445407d7dbc780dfab850",
+    "summary": "Jeannette Jara and José Antonio Kast are facing off on Sunday in a deeply polarized election marked by concerns over security and immigration.",
+    "ingested_utc": "2025-12-14T18:18:59Z"
+  },
+  {
+    "published_utc": "2025-12-14",
+    "retrieved_date": "2025-12-14",
+    "retrieved_utc": "2025-12-14T18:18:59Z",
+    "source": "NYTimes_World",
+    "title": "Hong Kong Court to Give Verdict on Media Mogul Who Took on China",
+    "url": "https://www.nytimes.com/2025/12/14/world/asia/jimmy-lai-hong-kong-trial-verdict.html",
+    "id_key": "781ba92a0ab4963d8e8df4eb257996ce088b8177d61e046f0e7fbaa4ae5e3cd9",
+    "summary": "Jimmy Lai, the publisher of a popular tabloid, has spent years fighting the landmark national security case brought over his support of the city’s now vanquished pro-democracy movement.",
+    "ingested_utc": "2025-12-14T18:18:59Z"
+  },
+  {
+    "published_utc": "2025-12-14",
+    "retrieved_date": "2025-12-14",
+    "retrieved_utc": "2025-12-14T18:17:06Z",
+    "source": "CryptoSlate",
+    "title": "Cardano now has institutional-grade infrastructure, but a glaring $40 million liquidity gap threatens to stall growth",
+    "url": "https://cryptoslate.com/cardano-now-has-institutional-grade-infrastructure-but-a-glaring-40-million-liquidity-gap-threatens-to-stall-growth/",
+    "id_key": "6d32cb07f3209f48ee53cce5c5a10f9b9608bffc5e4acffe86c79f7f26c91c69",
+    "summary": "Cardano has made a significant integration this week that fundamentally alters its approach to market infrastructure. Under the network’s newly operational Pentad and Intersect governance structure, the steering committee authorized the implementation of Pyth Network’s low-latency oracle stack. While the decision may appear to be a routine technical upgrade on the surface, it represents a […] The post Cardano now has institutional-grade infrastructure, but a glaring $40 million liquidity gap threatens to stall growth appeared first on CryptoSlate .",
+    "ingested_utc": "2025-12-14T18:17:06Z"
+  },
+  {
+    "published_utc": "2025-12-14",
+    "retrieved_date": "2025-12-14",
     "retrieved_utc": "2025-12-14T17:48:08Z",
     "source": "Guardian_World",
     "title": "Brown University shooting: person of interest in custody is in his 20s, police chief confirms – latest updates",
@@ -10965,38 +10998,5 @@
     "id_key": "7e4bdd4b281fec368229445079befe4ee0ebb7e0dfe2a68e8228415e49305a99",
     "summary": "VANCOUVER — Lululemon Athletica Inc. announced a CEO transition while reporting its third-quarter earnings as the company looks to turn around its U.S. business and navigate the current tariff environment. CEO Calvin McDonald will be stepping down from his role effective Jan. 31, according to a press release from the company on Thursday. Lululemon CFO […]",
     "ingested_utc": "2025-12-12T01:00:21Z"
-  },
-  {
-    "published_utc": "2025-12-12",
-    "retrieved_date": "2025-12-12",
-    "retrieved_utc": "2025-12-12T01:00:21Z",
-    "source": "FinancialPost_Business",
-    "title": "Senator says FAA administrator failed to sell multimillion-dollar airline stake as promised",
-    "url": "https://financialpost.com/pmn/senator-says-faa-administrator-failed-to-sell-multimillion-dollar-airline-stake-as-promised",
-    "id_key": "378f756a15cedb7f0ea385c6cacd79bb251326cdf39bf8de3f0105274800ecfd",
-    "summary": "The head of the Federal Aviation Administration has not sold off his multimillion-dollar stake in the airline he led since 1999 despite a promise to do so as part of his ethics agreement, according to a Democratic senator. In a letter to Bryan Bedford this week, Sen. Maria Cantwell said he vowed to sell all […]",
-    "ingested_utc": "2025-12-12T01:00:21Z"
-  },
-  {
-    "published_utc": "2025-12-12",
-    "retrieved_date": "2025-12-12",
-    "retrieved_utc": "2025-12-12T01:00:14Z",
-    "source": "TheStreet_Top",
-    "title": "Costco Anywhere Visa vs. Sam’s Club Mastercard: Everything you need to know",
-    "url": "https://www.thestreet.com/retail/costco-anywhere-visa-vs-sams-club-mastercard-everything-you-need-to-know",
-    "id_key": "554c26f1353e0a38f9acbe884f5f24c8a2672e7c580281a1a6e1d42aee7a7989",
-    "summary": "Most big-box shoppers are well aware of the myriad benefits that come with shopping at a members-only warehouse. From exclusive products to lower prices to in-store samples and food court access, Costco and Sam’s Club offer shoppers bulk deals and a unique shopping experience that you just can’t ...",
-    "ingested_utc": "2025-12-12T01:00:14Z"
-  },
-  {
-    "published_utc": "2025-12-12",
-    "retrieved_date": "2025-12-12",
-    "retrieved_utc": "2025-12-12T01:00:03Z",
-    "source": "WIRED_All",
-    "title": "Trump Signs Executive Order That Threatens to Punish States for Passing AI Laws",
-    "url": "https://www.wired.com/story/trump-signs-executive-order-ai-state-laws/",
-    "id_key": "345e1016f31fc7e193a860643beba79293c7455aa19cfa0d18c0d18bbe258631",
-    "summary": "The order creates an Justice Department task force to challenge state AI laws, and directs the Commerce Department to pull future broadband funding from states that pass “onerous” legislation.",
-    "ingested_utc": "2025-12-12T01:00:03Z"
   }
 ]
