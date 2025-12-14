@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-12-14",
     "retrieved_date": "2025-12-14",
+    "retrieved_utc": "2025-12-14T05:52:21Z",
+    "source": "FT_Home",
+    "title": "Swiss dealmaking surges to record highs despite strong franc",
+    "url": "https://www.ft.com/content/13bb7aca-b46e-4460-aab7-24d81410bb62",
+    "id_key": "4d001a014c2b44fd99f716951c92cbd0850c120e793d632f5a9c9997b6c36694",
+    "summary": "Swiss groups are involved in deals across sectors, defying currency moves and US tariffs",
+    "ingested_utc": "2025-12-14T05:52:21Z"
+  },
+  {
+    "published_utc": "2025-12-14",
+    "retrieved_date": "2025-12-14",
+    "retrieved_utc": "2025-12-14T05:52:21Z",
+    "source": "FT_Home",
+    "title": "IPO of bubble-era Japan bank seen as trigger for more deals",
+    "url": "https://www.ft.com/content/47bdd495-849d-42a6-bf13-8472c992788a",
+    "id_key": "8a15f71e37a1a4b595ca5749e0d165d7d3c39726abc7ca43363e291c596b4887",
+    "summary": "SBI Shinsei Bank could use funds to fuel purchases of smaller regional lenders",
+    "ingested_utc": "2025-12-14T05:52:21Z"
+  },
+  {
+    "published_utc": "2025-12-14",
+    "retrieved_date": "2025-12-14",
+    "retrieved_utc": "2025-12-14T05:52:21Z",
+    "source": "FT_Home",
+    "title": "Keir Starmer risks losing ally at top of Britain’s biggest union",
+    "url": "https://www.ft.com/content/cfa24458-0afb-481d-a99b-2f14bd69bdcc",
+    "id_key": "6e31fbb6719293a899dce80098ec4bcc0466193fa8367d0c365e6c5629f9e300",
+    "summary": "Leftwing challenger Andrea Egan is running against Unison general secretary Christina McAnea in a leadership ballot",
+    "ingested_utc": "2025-12-14T05:52:21Z"
+  },
+  {
+    "published_utc": "2025-12-14",
+    "retrieved_date": "2025-12-14",
     "retrieved_utc": "2025-12-14T05:38:02Z",
     "source": "FT_Home",
     "title": "It makes sense to look smart when flying",
@@ -10965,38 +10998,5 @@
     "id_key": "e2277ed759aaced4502e8fd16d82d806ebc45edb2bde11249fd136ba4a34239d",
     "summary": "Adonay Berhane, Wongelawit Gebre Endrias and four others are accused by police of undermining public morality.",
     "ingested_utc": "2025-12-11T19:33:47Z"
-  },
-  {
-    "published_utc": "2025-12-11",
-    "retrieved_date": "2025-12-11",
-    "retrieved_utc": "2025-12-11T19:32:03Z",
-    "source": "Protos",
-    "title": "Who moved $3M in Silk Road BTC? Dormant addresses spring back to life",
-    "url": "https://protos.com/who-moved-3m-in-silk-road-btc-dormant-addresses-spring-back-to-life/",
-    "id_key": "7d29592e0c0e92d4b9eca11268009d185851759852df357a8bfb147710375caa",
-    "summary": "Over 176 low-value transfers, $3.1 million worth of ‘dust’ was consolidated from Silk Road-era addresses before moving to Coinbase Prime. The post Who moved $3M in Silk Road BTC? Dormant addresses spring back to life appeared first on Protos .",
-    "ingested_utc": "2025-12-11T19:32:03Z"
-  },
-  {
-    "published_utc": "2025-12-11",
-    "retrieved_date": "2025-12-11",
-    "retrieved_utc": "2025-12-11T19:32:02Z",
-    "source": "CryptoBriefing",
-    "title": "Nasdaq-listed Caliber initiates LINK staking to support Chainlink node program",
-    "url": "https://cryptobriefing.com/caliber-chainlink-staking-initiation/",
-    "id_key": "bb461fe6fa2b6c74359a75ef7c5085d666dbd0bcf071bd97d8d81f3435e0c413",
-    "summary": "Caliber's LINK staking could enhance Chainlink's infrastructure, potentially boosting network reliability and shareholder returns. The post Nasdaq-listed Caliber initiates LINK staking to support Chainlink node program appeared first on Crypto Briefing .",
-    "ingested_utc": "2025-12-11T19:32:02Z"
-  },
-  {
-    "published_utc": "2025-12-11",
-    "retrieved_date": "2025-12-11",
-    "retrieved_utc": "2025-12-11T19:31:42Z",
-    "source": "Guardian_World",
-    "title": "Pressure on Maduro grows after US seizes ‘dark fleet’ tanker off coast of Venezuela",
-    "url": "https://www.theguardian.com/world/2025/dec/11/pressure-on-maduro-grows-after-us-seizes-dark-fleet-tanker-off-coast-of-venezuela",
-    "id_key": "69714dc267b476c9337405731391eb073ae496a4f208f8fc2df1de91999eb5af",
-    "summary": "Move interpreted as escalation of US policy as Vladimir Putin ‘reaffirms’ support for South American dictator Diplomatic pressure on Nicolás Maduro has grown after the US interdicted a “dark fleet” tanker off the coast of Venezuela in a move that has been interpreted as an escalation of the Trump administration’s pressure on the South American dictator. The Russian president, Vladimir Putin, called Maduro on Thursday following the rare seizure to “reaffirm” Russia’s support for the current Venezuelan government, despite calls from the Trump administration, other countries in the region and Venezuelan opposition leader María Corina Machado for him to step down. Continue reading...",
-    "ingested_utc": "2025-12-11T19:31:42Z"
   }
 ]
