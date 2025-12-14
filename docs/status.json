@@ -1,7 +1,7 @@
 {
-  "started_utc": "2025-12-14T11:34:30Z",
-  "ended_utc": "2025-12-14T11:37:57Z",
-  "new_items_this_run": 3,
+  "started_utc": "2025-12-14T11:47:43Z",
+  "ended_utc": "2025-12-14T11:51:20Z",
+  "new_items_this_run": 4,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
@@ -11,7 +11,7 @@
     "BBC_Business": 0,
     "BBC_Technology": 0,
     "Guardian_Business": 0,
-    "Guardian_World": 2,
+    "Guardian_World": 0,
     "WSJ_US_Business": 0,
     "WSJ_World": 0,
     "WSJ_Markets": 0,
@@ -64,10 +64,10 @@
     "NPR_Top": 0,
     "NPR_Business": 0,
     "NPR_Economy": 0,
-    "NPR_World": 0,
+    "NPR_World": 1,
     "NPR_Technology": 0,
-    "FT_Home": 0,
-    "FT_Markets": 0,
+    "FT_Home": 1,
+    "FT_Markets": 1,
     "CNBC_Top": 0,
     "CNBC_Markets": 0,
     "TheVerge_All": 0,
@@ -78,8 +78,8 @@
     "TheEconomist_Business": 0,
     "TheEconomist_Finance": 0,
     "Investopedia_Latest": 0,
-    "TheStreet_Top": 1,
-    "AlJazeera_All": 0,
+    "TheStreet_Top": 0,
+    "AlJazeera_All": 1,
     "AlJazeera_Economy": 0,
     "FinancialPost_Business": 0,
     "CBC_Business": 0,
@@ -173,6 +173,14 @@
     {
       "source": "Polygon_Blog",
       "error": "<unknown>:2:2140: not well-formed (invalid token)"
+    },
+    {
+      "source": "https://medium.com/feed/avalancheavax",
+      "error": "fetch error: HTTP 429"
+    },
+    {
+      "source": "Avalanche_Blog",
+      "error": "fatal parse failure"
     },
     {
       "source": "NEAR_Blog",
@@ -339,19 +347,19 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 557,
+    "passed_keywords": 555,
     "passed_allowlist": 0,
-    "failed_all_filters": 513
+    "failed_all_filters": 514
   },
   "stats": {
     "feeds_total": 97,
-    "feeds_error": 24,
+    "feeds_error": 25,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 1541,
-    "too_old": 471,
-    "dup_title_url": 106,
-    "dup_id": 448
+    "entries_seen": 1530,
+    "too_old": 461,
+    "dup_title_url": 105,
+    "dup_id": 446
   },
   "limits": {
     "skip_older_days": 10,
@@ -364,6 +372,6 @@
   },
   "processed": {
     "file": "data/processed/2025-12-14.jsonl",
-    "appended_new": 3
+    "appended_new": 4
   }
 }
