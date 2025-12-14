@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-12-14",
     "retrieved_date": "2025-12-14",
+    "retrieved_utc": "2025-12-14T23:13:25Z",
+    "source": "NYTimes_World",
+    "title": "José Antonio Kast Elected President of Chile",
+    "url": "https://www.nytimes.com/2025/12/14/world/americas/chile-election-candidates.html",
+    "id_key": "a0a38721dcb0bc2172cb158faa3082e46ab2b50a5609c54ae098828c5c2ad8a5",
+    "summary": "José Antonio Kast won the race on Sunday after a contest marked by concerns over security and immigration.",
+    "ingested_utc": "2025-12-14T23:13:25Z"
+  },
+  {
+    "published_utc": "2025-12-14",
+    "retrieved_date": "2025-12-14",
+    "retrieved_utc": "2025-12-14T23:13:25Z",
+    "source": "NYTimes_World",
+    "title": "Suspects in Bondi Beach Terror Attack Identified as Father and Son",
+    "url": "https://www.nytimes.com/2025/12/14/world/australia/suspects-identified-bondi-beach-attack.html",
+    "id_key": "cb9683472f14a4d2b57700a0a867d8c3444ee0560afad477024e4b72180a80d4",
+    "summary": "The New South Wales police commissioner did not give the men’s names, but said the elder was 50, had licenses for six firearms, and had been killed at the scene. The son was in critical condition.",
+    "ingested_utc": "2025-12-14T23:13:25Z"
+  },
+  {
+    "published_utc": "2025-12-14",
+    "retrieved_date": "2025-12-14",
+    "retrieved_utc": "2025-12-14T23:11:16Z",
+    "source": "Guardian_World",
+    "title": "Trump says building DC triumphal arch is domestic policy chief’s ‘primary thing’",
+    "url": "https://www.theguardian.com/us-news/2025/dec/14/trump-arch-washington-dc-policy-chief",
+    "id_key": "383d715d284173739afe70abcd0d0d9a44ea5866c5e044ef8c89858123143916",
+    "summary": "Trump praises Vince Haley, his ex-speechwriter tasked with creating Arc de Triomphe knockoff amid affordability crisis Amid concerns that he has failed to address a worsening affordability crisis, with health insurance premiums about to spike dramatically for over 20 million Americans, Donald Trump revealed on Sunday that his domestic policy chief’s main priority is building a triumphal arch for Washington DC . Speaking at a White House holiday party, the president praised Vince Haley, his former speechwriter and a longtime aide to Newt Gingrich who now leads the White House Domestic Policy Council. Continue reading...",
+    "ingested_utc": "2025-12-14T23:11:16Z"
+  },
+  {
+    "published_utc": "2025-12-14",
+    "retrieved_date": "2025-12-14",
     "retrieved_utc": "2025-12-14T22:51:21Z",
     "source": "AlJazeera_All",
     "title": "What is the significance of Trump’s deal with Belarus?",
@@ -10965,38 +10998,5 @@
     "id_key": "f6dcfbae069e1153f6c3480604a73b0ad17a6abe8c2115376090d3a1220acb06",
     "summary": "",
     "ingested_utc": "2025-12-12T02:53:13Z"
-  },
-  {
-    "published_utc": "2025-12-12",
-    "retrieved_date": "2025-12-12",
-    "retrieved_utc": "2025-12-12T02:53:13Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "China's BYD tries to break out of mass-market trap as domestic sales stall",
-    "url": "https://asia.nikkei.com/business/automobiles/electric-vehicles/china-s-byd-tries-to-break-out-of-mass-market-trap-as-domestic-sales-stall",
-    "id_key": "53c438c8066835bd7130d1d45c7ced9c4a7cfcc2cb9510e4c82013915d644592",
-    "summary": "",
-    "ingested_utc": "2025-12-12T02:53:13Z"
-  },
-  {
-    "published_utc": "2025-12-12",
-    "retrieved_date": "2025-12-12",
-    "retrieved_utc": "2025-12-12T02:53:10Z",
-    "source": "FinancialPost_Business",
-    "title": "WIZARDS OF THE COAST AND INVOKE UNVEIL WARLOCK, AN ORIGINAL DARK FANTASY ADVENTURE SET IN THE WORLD OF DUNGEONS & DRAGONS",
-    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/wizards-of-the-coast-and-invoke-unveil-warlock-an-original-dark-fantasy-adventure-set-in-the-world-of-dungeons-dragons",
-    "id_key": "d5024365cd454184ecabc9e3b9892ae7e10c4ad5bcac68d0214cf0c3c6a40358",
-    "summary": "Debut Game from Invoke Invites Players to Embrace Forbidden Magic Main Character of Kaatri Played by the Award-Winning Tricia Helfer RENTON, Wash. & MONTREAL — Wizards of the Coast, a subsidiary of Hasbro Inc. (NASDAQ: HAS), today announced WARLOCK: DUNGEONS & DRAGONS, an original third person single-player action-adventure game. WARLOCK is set in a dark […]",
-    "ingested_utc": "2025-12-12T02:53:10Z"
-  },
-  {
-    "published_utc": "2025-12-12",
-    "retrieved_date": "2025-12-12",
-    "retrieved_utc": "2025-12-12T02:53:10Z",
-    "source": "FinancialPost_Business",
-    "title": "Asian Stocks Jump After Global Gauge Hits New Peak: Markets Wrap",
-    "url": "https://financialpost.com/pmn/business-pmn/asian-stocks-rise-after-global-gauge-hits-new-peak-markets-wrap",
-    "id_key": "74ae2b75528b2a216487413f3dcf01fa0da8b30da9c6bb708f73b9d9bea4ce21",
-    "summary": "Asian stocks rallied after gauges of US and global equities hit fresh records, with sentiment boosted by this week’s Federal Reserve’s rate cut and its upbeat assessment of the US economy.",
-    "ingested_utc": "2025-12-12T02:53:10Z"
   }
 ]
