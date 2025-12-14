@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-12-14",
     "retrieved_date": "2025-12-14",
+    "retrieved_utc": "2025-12-14T16:55:56Z",
+    "source": "Nikkei_Asia_Top",
+    "title": "Japan to form new public-private council on economic security",
+    "url": "https://asia.nikkei.com/economy/japan-to-form-new-public-private-council-on-economic-security",
+    "id_key": "e40ab6482a53a4a3726914758663b2acd887a2d8da230f7723fb58bed72d6983",
+    "summary": "",
+    "ingested_utc": "2025-12-14T16:55:56Z"
+  },
+  {
+    "published_utc": "2025-12-14",
+    "retrieved_date": "2025-12-14",
+    "retrieved_utc": "2025-12-14T16:55:18Z",
+    "source": "FT_Home",
+    "title": "Brussels is finally flexing its muscle on Russian assets",
+    "url": "https://www.ft.com/content/3dc72bb3-df37-4ac2-b167-5599968c29b1",
+    "id_key": "94e8fc5ea0e77f2244f8bebd6d7890a0f57a7579af7528d28fcd9e6d51638ecd",
+    "summary": "The EU’s economic security depends on turning itself into more of a power player",
+    "ingested_utc": "2025-12-14T16:55:18Z"
+  },
+  {
+    "published_utc": "2025-12-14",
+    "retrieved_date": "2025-12-14",
     "retrieved_utc": "2025-12-14T16:41:31Z",
     "source": "HackerNews_Top",
     "title": "Update Now: iOS 26.2 Fixes 20 Security Vulnerabilities, 2 Actively Exploited",
@@ -10976,27 +10998,5 @@
     "id_key": "41f7a2fb1e12d989f1a7438cac464099480196ddc167ad7db7e786b2d567661a",
     "summary": "Shops, restaurants and even the local council in Lugano now accept the cryptocurrency.",
     "ingested_utc": "2025-12-14T13:03:05Z"
-  },
-  {
-    "published_utc": "2025-12-11",
-    "retrieved_date": "2025-12-13",
-    "retrieved_utc": "2025-12-13T16:56:36Z",
-    "source": "HackerNews_Top",
-    "title": "What is the nicest thing a stranger has ever done for you?",
-    "url": "https://louplummer.lol/nice-stranger/",
-    "id_key": "9d1fabdb33fe0585028ca43a022321455701c20c307c723968575231053a2ead",
-    "summary": "Comments",
-    "ingested_utc": "2025-12-13T16:56:36Z"
-  },
-  {
-    "published_utc": "2025-12-11",
-    "retrieved_date": "2025-12-12",
-    "retrieved_utc": "2025-12-12T23:15:44Z",
-    "source": "TheStreet_Top",
-    "title": "Iconic retail chain makes quiet comeback amid store closures",
-    "url": "https://www.thestreet.com/retail/160-year-old-retailer-macys-makes-quiet-comeback-amid-store-closures",
-    "id_key": "2f42eb239356e4ba0cef2aa696e24a8ee3d979212e295dcf35da7553fd43672f",
-    "summary": "If you're like me, you've noticed that the past few years haven't been easy on Macy's. The 160-year-old department store chain has suffered a slate of challenges, ranging from increased online shopping to mall closures to cash-strapped consumers. As a result, Macy's is closing underperforming ...",
-    "ingested_utc": "2025-12-12T23:15:44Z"
   }
 ]
