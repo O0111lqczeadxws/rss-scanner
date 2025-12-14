@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-12-14",
     "retrieved_date": "2025-12-14",
+    "retrieved_utc": "2025-12-14T21:32:00Z",
+    "source": "TheVerge_All",
+    "title": "Grok is spreading misinformation about the Bondi Beach shooting",
+    "url": "https://www.theverge.com/news/844443/grok-misinformation-bondi-beach-shooting",
+    "id_key": "46367b81aff84bf868b878d123c025c0092a7aebfd7c4b84aa3a7225fd433ffe",
+    "summary": "Grok's track record is spotty at best. But even by the very low standards of xAI, its failure in the aftermath of the tragic mass shooting at Bondi Beach in Australia is shocking. The AI chatbot has repeatedly misidentified 43-year-old Ahmed al Ahmed, the man who heroically disarmed one of the shooters, and claimed the […]",
+    "ingested_utc": "2025-12-14T21:32:00Z"
+  },
+  {
+    "published_utc": "2025-12-14",
+    "retrieved_date": "2025-12-14",
     "retrieved_utc": "2025-12-14T21:13:50Z",
     "source": "Nikkei_Asia_Top",
     "title": "Market braces for BOJ hike amid stubbornly weak yen and wage growth",
@@ -10987,16 +10998,5 @@
     "id_key": "aa1344f053f105a68303aa17c4256239d0a2592cc8e3292eb58d531517394368",
     "summary": "Foreign visitors who are eligible to bypass the visa application process may soon have to turn over five years' worth of social media history to enter the U.S., under a new Trump administration plan.",
     "ingested_utc": "2025-12-12T02:52:29Z"
-  },
-  {
-    "published_utc": "2025-12-12",
-    "retrieved_date": "2025-12-12",
-    "retrieved_utc": "2025-12-12T02:52:22Z",
-    "source": "NYTimes_Technology",
-    "title": "Trump Moves to Stop States From Regulating AI With a New Executive Order",
-    "url": "https://www.nytimes.com/2025/12/11/technology/ai-trump-executive-order.html",
-    "id_key": "c9a44c058bd0f8bc53a52786ecd73d7be28b313dcdbc07a207050194940604cf",
-    "summary": "The order would create one federal regulatory framework for artificial intelligence, President Trump told reporters in the Oval Office.",
-    "ingested_utc": "2025-12-12T02:52:22Z"
   }
 ]
