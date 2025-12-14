@@ -1,7 +1,7 @@
 {
-  "started_utc": "2025-12-14T23:10:56Z",
-  "ended_utc": "2025-12-14T23:14:23Z",
-  "new_items_this_run": 3,
+  "started_utc": "2025-12-14T23:28:56Z",
+  "ended_utc": "2025-12-14T23:32:22Z",
+  "new_items_this_run": 5,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
@@ -54,10 +54,10 @@
     "PolygonEdge_Releases": 0,
     "CardanoNode_Releases": 0,
     "MarketWatch_RealTime": 0,
-    "MarketWatch_Bulletins": 0,
+    "MarketWatch_Bulletins": 1,
     "MarketWatch_PersonalFinance": 0,
     "NYTimes_Business": 0,
-    "NYTimes_World": 2,
+    "NYTimes_World": 1,
     "NYTimes_Economy": 0,
     "NYTimes_Technology": 0,
     "CNN_Top": 0,
@@ -71,7 +71,7 @@
     "CNBC_Top": 0,
     "CNBC_Markets": 0,
     "TheVerge_All": 0,
-    "TechCrunch_All": 0,
+    "TechCrunch_All": 1,
     "ArsTechnica_All": 0,
     "WIRED_All": 0,
     "Engadget_All": 0,
@@ -81,7 +81,7 @@
     "TheStreet_Top": 0,
     "AlJazeera_All": 0,
     "AlJazeera_Economy": 0,
-    "FinancialPost_Business": 0,
+    "FinancialPost_Business": 1,
     "CBC_Business": 0,
     "Nikkei_Asia_Top": 0,
     "WorldBank_News": 0,
@@ -180,7 +180,7 @@
     },
     {
       "source": "https://blog.dydx.exchange/feed",
-      "error": "fetch error: HTTPSConnectionPool(host='blog.dydx.exchange', port=443): Max retries exceeded with url: /feed (Caused by NameResolutionError(\"HTTPSConnection(host='blog.dydx.exchange', port=443): Failed to resolve 'blog.dydx.exchange' ([Errno -2] Name or service not known)\"))"
+      "error": "fetch error: HTTPSConnectionPool(host='blog.dydx.exchange', port=443): Max retries exceeded with url: /feed (Caused by NameResolutionError(\"HTTPSConnection(host='blog.dydx.exchange', port=443): Failed to resolve 'blog.dydx.exchange' ([Errno -5] No address associated with hostname)\"))"
     },
     {
       "source": "dYdX_Blog",
@@ -339,9 +339,9 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 553,
+    "passed_keywords": 554,
     "passed_allowlist": 0,
-    "failed_all_filters": 507
+    "failed_all_filters": 506
   },
   "stats": {
     "feeds_total": 97,
@@ -350,7 +350,7 @@
     "feeds_http_error": 0,
     "entries_seen": 1543,
     "too_old": 483,
-    "dup_title_url": 102,
+    "dup_title_url": 101,
     "dup_id": 448
   },
   "limits": {
@@ -364,6 +364,6 @@
   },
   "processed": {
     "file": "data/processed/2025-12-14.jsonl",
-    "appended_new": 3
+    "appended_new": 5
   }
 }
