@@ -1,7 +1,7 @@
 {
-  "started_utc": "2025-12-14T19:33:24Z",
-  "ended_utc": "2025-12-14T19:36:55Z",
-  "new_items_this_run": 0,
+  "started_utc": "2025-12-14T19:47:39Z",
+  "ended_utc": "2025-12-14T19:51:04Z",
+  "new_items_this_run": 1,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
@@ -11,7 +11,7 @@
     "BBC_Business": 0,
     "BBC_Technology": 0,
     "Guardian_Business": 0,
-    "Guardian_World": 0,
+    "Guardian_World": 1,
     "WSJ_US_Business": 0,
     "WSJ_World": 0,
     "WSJ_Markets": 0,
@@ -176,7 +176,7 @@
     },
     {
       "source": "NEAR_Blog",
-      "error": "<unknown>:2:2638: not well-formed (invalid token)"
+      "error": "<unknown>:2:3932: not well-formed (invalid token)"
     },
     {
       "source": "https://blog.dydx.exchange/feed",
@@ -337,16 +337,16 @@
     ],
     "passed_keywords": 551,
     "passed_allowlist": 0,
-    "failed_all_filters": 512
+    "failed_all_filters": 510
   },
   "stats": {
     "feeds_total": 97,
     "feeds_error": 23,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 1543,
+    "entries_seen": 1541,
     "too_old": 480,
-    "dup_title_url": 103,
+    "dup_title_url": 102,
     "dup_id": 448
   },
   "limits": {
@@ -360,6 +360,6 @@
   },
   "processed": {
     "file": "data/processed/2025-12-14.jsonl",
-    "appended_new": 0
+    "appended_new": 1
   }
 }
