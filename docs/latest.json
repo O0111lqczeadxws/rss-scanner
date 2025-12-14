@@ -2,6 +2,72 @@
   {
     "published_utc": "2025-12-14",
     "retrieved_date": "2025-12-14",
+    "retrieved_utc": "2025-12-14T20:36:47Z",
+    "source": "FinancialPost_Business",
+    "title": "Australia to Enforce New Food Pricing Rules in Crackdown on Coles and Woolworths",
+    "url": "https://financialpost.com/pmn/business-pmn/australia-to-enforce-new-food-pricing-rules-in-crackdown-on-coles-and-woolworths",
+    "id_key": "8b5e1bf857c20b7366037a75bacb302e37d0f18e6d10ff0089ea8fd91cbd189e",
+    "summary": "Coles Group Ltd. and Woolworths Group Ltd., Australia’s dominant supermarket chains, are bracing for tougher oversight after the government moved to crack down on alleged price gouging.",
+    "ingested_utc": "2025-12-14T20:36:47Z"
+  },
+  {
+    "published_utc": "2025-12-14",
+    "retrieved_date": "2025-12-14",
+    "retrieved_utc": "2025-12-14T20:35:59Z",
+    "source": "NYTimes_World",
+    "title": "Zelensky Offers Compromise for New Round of Ukraine Peace Talks",
+    "url": "https://www.nytimes.com/2025/12/14/world/europe/zelensky-ukraine-peace-talks.html",
+    "id_key": "0d1c8dc224bf1523c196cbf264c9cdf2c0fae94e0f87879d917b7dc09d1a07ef",
+    "summary": "Ukraine’s president met with U.S. negotiators about plans to end the war with Russia. He said he would give up hopes of joining NATO in exchange for security guarantees.",
+    "ingested_utc": "2025-12-14T20:35:59Z"
+  },
+  {
+    "published_utc": "2025-12-14",
+    "retrieved_date": "2025-12-14",
+    "retrieved_utc": "2025-12-14T20:35:59Z",
+    "source": "NYTimes_World",
+    "title": "U.S. Rabbis React to Deadly Hanukkah Attack in Sydney",
+    "url": "https://www.nytimes.com/2025/12/14/world/australia/hanukkah-shooting-bondi-reaction.html",
+    "id_key": "49d828f30fb247d411cf6510ffc5af5d5ec6389b5f88b9023e497ffebf3be330",
+    "summary": "After gunmen opened fire at a Hanukkah celebration in Australia, rabbis across the United States reflected on how to protect their congregations during their own events.",
+    "ingested_utc": "2025-12-14T20:35:59Z"
+  },
+  {
+    "published_utc": "2025-12-14",
+    "retrieved_date": "2025-12-14",
+    "retrieved_utc": "2025-12-14T20:35:11Z",
+    "source": "Nethermind_Releases",
+    "title": "v1.35.1",
+    "url": "https://github.com/NethermindEth/nethermind/releases/tag/1.35.1",
+    "id_key": "00f7504d260062c96f47cd06ea80e842438bb4ef457d26503f7e2191f3bdf9c7",
+    "summary": "Caution This release has block production and sync issues. Use v1.35.2 instead. Release notes Important This release is mandatory for all node operators . It includes the Ethereum Mainnet Fusaka hard fork (Osaka, BPO1, and BPO2 forks) and critical improvements that ensure network stability and compatibility. All nodes must upgrade to this version before the Fusaka hard fork activation on December 3, 2025 at 9:49:11 PM to stay in sync. Overview This release continues the performance and reliability improvements introduced in v1.35.0 while activating the key Ethereum Mainnet Fusaka hard fork and strengthening node stability across networks. This update focuses on network readiness and state consistency. It also resolves multiple edge cases affecting trie storage, block range updates, and protocol session handling. Upgrading to this version ensures seamless operation through the Fusaka hard fork and reduces the risk of shutdowns or state inconsistencies during execution. What's Changed Use correct Bmi2 intrinsic support check by @benaadams in #9510 Update Dockerfiles by @rubo in #9497 Fix incorrect BlockRangeUpdateMessage.EarliestBlock in some edge cases by @LukaszRozmej in #9505 Try fixing leak in ProtocolsManager._sessions by @LukaszRozmej in #9410 Allow longer state check by @asdacap in #9570 Fix Arb TrieException by @asdacap in #9555 Improve block-related caching by @benaadams in #9571 Fix batched trie visitor missed storage by @asdacap in #9496 Place access list deserialization guards by @LukaszRozmej in #9466 Better message when eth_getFilterChanges is out of bounds by @LukaszRozmej in #9451 Harden RLP limits on allocations by @LukaszRozmej in #9465 Persist genesis state after genesis loader to prevent unclean shutdowns by @asdacap in #9599 Mainnet Osaka, BPO1, BPO2 forks by @Marchhill in #9615 Check bytes left before checking the limit by @LukaszRozmej in #9483 Change RLP limits and add logs by @LukaszRozmej in #9631 Full Changelog: 1.35.0...1.35.1 Signatures For signatures verification, see Nethermind docs .",
+    "ingested_utc": "2025-12-14T20:35:11Z"
+  },
+  {
+    "published_utc": "2025-12-14",
+    "retrieved_date": "2025-12-14",
+    "retrieved_utc": "2025-12-14T20:34:11Z",
+    "source": "CryptoSlate",
+    "title": "Firedancer is live, but Solana is violating the one safety rule Ethereum treats as non-negotiable",
+    "url": "https://cryptoslate.com/firedancer-is-live-but-solana-is-violating-the-one-safety-rule-ethereum-treats-as-non-negotiable/",
+    "id_key": "bdd371316c797088c50abd02023c4c3551285a498d006ccaed2efb85156dc033",
+    "summary": "After three years of development, Firedancer went live on Solana mainnet in December 2024, having already produced 50,000 blocks across 100 days of testing on a handful of validators. The milestone, announced Dec. 12 by Solana's official account, marks more than a performance upgrade. It represents the network's first real attempt to eliminate the architectural […] The post Firedancer is live, but Solana is violating the one safety rule Ethereum treats as non-negotiable appeared first on CryptoSlate .",
+    "ingested_utc": "2025-12-14T20:34:11Z"
+  },
+  {
+    "published_utc": "2025-12-14",
+    "retrieved_date": "2025-12-14",
+    "retrieved_utc": "2025-12-14T20:33:52Z",
+    "source": "Guardian_World",
+    "title": "Bondi beach shooting live updates: at least 16 people dead after terror attack on Jewish festival including 10-year-old girl, and Holocaust survivor",
+    "url": "https://www.theguardian.com/australia-news/live/2025/dec/14/bondi-beach-shooting-live-updates-victims-terror-attack-jewish-festival-hanukah",
+    "id_key": "cafb63ff7ab40631f9cd38fdf02855140def44cd9f0df1a289051a711c004923",
+    "summary": "One gunman was killed and another wounded; two police officers among the injured taken to hospital Amid the horror of the shooting, one video has emerged showing incredible bravery – a bystander rushing one of the gunmen from behind to wrestle the firearm off him. Praised a hero, he is being identified by some media as a 43-year-old fruit shop owner from the Sutherland Shire. Continue reading...",
+    "ingested_utc": "2025-12-14T20:33:52Z"
+  },
+  {
+    "published_utc": "2025-12-14",
+    "retrieved_date": "2025-12-14",
     "retrieved_utc": "2025-12-14T20:16:00Z",
     "source": "HackerNews_Top",
     "title": "iOS 26.2 fixes 20 security vulnerabilities, 2 actively exploited",
@@ -10932,71 +10998,5 @@
     "id_key": "70905838314303c734d2a07701b1a2143d194b098a9bbb1c2dcf838fb0b33c42",
     "summary": "Six more oil supertankers added to sanctions list, as well as members of Maduro’s extended family, amid rising tensions following tanker seizure Donald Trump has exerted more pressure on Venezuela’s president Nicolás Maduro, expanding sanctions and issuing fresh threats to strike land targets in Venezuela, as the South American dictator accused the US president of ushering in a new “era of criminal naval piracy” in the Caribbean. Late on Thursday, the US imposed curbs on three nephews of Maduro’s wife, Cilia Flores, as well as six crude oil supertankers and the shipping companies linked to them. The treasury department alleged the vessels “engaged in deceptive and unsafe shipping practices and continue to provide financial resources that fuel Maduro’s corrupt narco-terrorist regime”. Continue reading...",
     "ingested_utc": "2025-12-12T02:49:57Z"
-  },
-  {
-    "published_utc": "2025-12-12",
-    "retrieved_date": "2025-12-12",
-    "retrieved_utc": "2025-12-12T02:49:57Z",
-    "source": "Guardian_World",
-    "title": "News live: PM confirms deal to keep Tomago aluminium smelter open; first Tuvalu climate migrants arrive in Australia",
-    "url": "https://www.theguardian.com/australia-news/live/2025/dec/12/federal-state-health-ministers-meeting-aged-care-travel-expenses-anthony-albanese-labor-sussan-ley-coalition-ntwnfb",
-    "id_key": "74ad6e781f4eafc9176c90ce26d20e4b7abf8bf627444a3a0c31d1909257cb82",
-    "summary": "Follow updates Exclusive: Don Farrell charged taxpayers more than $2,200 to travel to Canberra on same weekend he attended wedding Get our breaking news email , free app or daily news podcast Officials investigating after Victoria police memorial vandalised overnight Victoria police are investigating the vandalism of the Victoria Police Memorial in Melbourne this morning. If you don’t need to be on the roads during heavy rainfall, we ask the community to delay their travel until the storm passes. If you do come across flash flooding, the best thing to do is turn around and find another way – it’s not worth putting your life or your loved ones at risk. It doesn’t take much for vehicles to become stuck in water or washed away as you don’t know what damage has been done to the road surfaces. Continue reading...",
-    "ingested_utc": "2025-12-12T02:49:57Z"
-  },
-  {
-    "published_utc": "2025-12-12",
-    "retrieved_date": "2025-12-12",
-    "retrieved_utc": "2025-12-12T02:49:57Z",
-    "source": "Guardian_World",
-    "title": "Climate protesters win groundbreaking class action against Victoria police over use of pepper spray",
-    "url": "https://www.theguardian.com/australia-news/2025/dec/12/victoria-police-pepper-spray-climate-activists-class-action-win",
-    "id_key": "5a1242aea5dc3d71974132c5806a5ab5c16245522bcacc6709904d1d9555214e",
-    "summary": "Potentially precedent-setting case brought after Jordan Brown hit with capsicum spray outside mining and resources conference in Melbourne in 2019 Climate protesters have won a class action against Victoria police over the use of capsicum spray during an anti-mining demonstration in Melbourne. The first class action against Victoria police in relation to alleged excessive use of oleoresin capsicum (OC) spray was heard in the state’s supreme court earlier this year, and a decision was handed down on Friday. Continue reading...",
-    "ingested_utc": "2025-12-12T02:49:57Z"
-  },
-  {
-    "published_utc": "2025-12-12",
-    "retrieved_date": "2025-12-12",
-    "retrieved_utc": "2025-12-12T02:49:57Z",
-    "source": "Guardian_World",
-    "title": "Don Farrell charged taxpayers more than $2,200 to travel to Canberra on same weekend he attended wedding",
-    "url": "https://www.theguardian.com/australia-news/2025/dec/12/don-farrell-mp-travel-expenses",
-    "id_key": "894817c6fbda1b77079c00eb931a4c42c7586588a1798fedea259a0fb1ca6ad4",
-    "summary": "Exclusive : The trade and tourism minister flew with his wife from Adelaide to Canberra, listing official duties as the reason for the travel Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The trade and tourism minister, Don Farrell, charged taxpayers more than $2,200 to travel to Canberra on the same weekend he attended a press gallery journalist’s wedding, describing the reason for the trip as official duties. Farrell – who as the special minister of state has portfolio responsibility of the independent parliamentary expenses authority – flew from Adelaide to Canberra with his wife on 1 November last year, charging taxpayers a total of $1,636 for return flights. Continue reading...",
-    "ingested_utc": "2025-12-12T02:49:57Z"
-  },
-  {
-    "published_utc": "2025-12-12",
-    "retrieved_date": "2025-12-12",
-    "retrieved_utc": "2025-12-12T02:49:57Z",
-    "source": "Guardian_World",
-    "title": "The Reject Shop faces a legal threat from a UK artist over a flamingo egg cup. Does it have a leg to stand on?",
-    "url": "https://www.theguardian.com/australia-news/2025/dec/12/the-reject-shop-denies-selling-copy-uk-artists-flamingo-egg-cup",
-    "id_key": "b3c6472b5dc665b4cf0b74567b91de14156ca4df32f2f92fe8d121d08f6e0856",
-    "summary": "Australian retailer tells ceramic artist Hannah Turner it won’t restock the product amid debate over copyright Get our breaking news email , free app or daily news podcast UK artist Hannah Turner was shocked by the image of a ceramic flamingo-shaped egg cup that showed up on her screen. She took in its green eyes, the pattern of the feathers, its thin pink legs and its overall shape. She felt recognition. Continue reading...",
-    "ingested_utc": "2025-12-12T02:49:57Z"
-  },
-  {
-    "published_utc": "2025-12-12",
-    "retrieved_date": "2025-12-12",
-    "retrieved_utc": "2025-12-12T02:49:57Z",
-    "source": "Guardian_World",
-    "title": "Labor wants watchdog to advise on overhauling travel perks for politicians as backlash grows",
-    "url": "https://www.theguardian.com/australia-news/2025/dec/12/politicians-travel-perks-expenses-overhaul-advice",
-    "id_key": "9bf3c919d61fdac105c0c49d328b2b330eeafdb3b3df89530ef6bee39cf6182a",
-    "summary": "Sussan Ley offers bipartisan truce to work on reform after a week of damaging headlines about MPs’ largesse Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The federal government wants the independent expenses watchdog to provide advice on overhauling travel perks for MPs, opening the door to changes after a backlash over politicians’ entitlements. The opposition leader, Sussan Ley, is prepared to work with Anthony Albanese to reform the system, offering a truce after a week of damaging headlines about MPs’ largesse. Continue reading...",
-    "ingested_utc": "2025-12-12T02:49:57Z"
-  },
-  {
-    "published_utc": "2025-12-12",
-    "retrieved_date": "2025-12-12",
-    "retrieved_utc": "2025-12-12T01:00:23Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "Japan's Raksul to go private with $770m Goldman Sachs-backed buyout",
-    "url": "https://asia.nikkei.com/business/business-deals/japan-s-raksul-to-go-private-with-770m-goldman-sachs-backed-buyout",
-    "id_key": "a60cb038ba275da535788862fafd2fc1bf821f5b13ea1e26c697a3006e67220d",
-    "summary": "",
-    "ingested_utc": "2025-12-12T01:00:23Z"
   }
 ]
