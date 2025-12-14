@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-12-14",
     "retrieved_date": "2025-12-14",
+    "retrieved_utc": "2025-12-14T19:12:57Z",
+    "source": "HackerNews_Top",
+    "title": "Mass shooting in Australia – 12 dead -terrorist event",
+    "url": "https://www.dailytelegraph.com.au/news/nsw/beachgoers-flee-as-gunshots-heard-in-bondi/live-coverage/f7f1e82a4b957533cac56ba0809cb9ba",
+    "id_key": "d6cc98a0f6bcf06c22e22ee9d0a79bb23de4a99ce496d48ad929ecd2f9f86de3",
+    "summary": "Comments",
+    "ingested_utc": "2025-12-14T19:12:57Z"
+  },
+  {
+    "published_utc": "2025-12-14",
+    "retrieved_date": "2025-12-14",
+    "retrieved_utc": "2025-12-14T19:12:31Z",
+    "source": "Engadget_All",
+    "title": "Kindle's in-book AI assistant can answer all your questions without spoilers",
+    "url": "https://www.engadget.com/ai/kindles-in-book-ai-assistant-can-answer-all-your-questions-without-spoilers-190609961.html?src=rss",
+    "id_key": "7cc89e5eae142dee2f8344a346c6835a10de55961f579aa842adae883a6f2d5e",
+    "summary": "If you're several chapters into a novel and forgot who a character was, Amazon is hoping its new Kindle feature will jog your memory without ever having to put the e-reader down. This feature, called Ask this Book , was announced during Amazon's hardware event in September, but is finally available for US users on the Kindle iOS app. According to Amazon, the feature can currently be found on thousands of English best-selling Kindle titles and \"only reveals information up to your current reading position\" for spoiler-free responses. To use it, you can highlight a passage in any book you've bought or borrowed and ask it questions about plot, characters or other crucial details, and the AI assistant will offer \"immediate, contextual, spoiler-free information.\" You'll even be able to ask follow-up questions for more detail. Amazon While Ask this Book may be helpful to some Kindle readers, the feature touches on a major point of contention with authors and publishers. In response to Publishers Lunch , a daily newsletter for the publishing industry, an Amazon spokesperson said that, \"To ensure a consistent reading experience, the feature is always on, and there is no option for authors or publishers to opt titles out.\" Other AI companies are already facing lawsuits claiming copyright infringement. Most recently, the New York Times and Chicago Tribune sued Perplexity , accusing the AI company of using its copyrighted works to train its LLMs. As for the Ask this Book feature, Amazon is already planning to expand it beyond the iOS app and will introduce it to Kindle devices and the Android OS app next year. Beyond this new feature, Amazon also introduced Recaps to Kindle devices and the iOS app for books in a series, which acts much like a TV show's \"Previously on\" roundup in between seasons. However, Amazon recently had to withdraw its AI-generated Video Recaps feature, so it might be worth double-checking the info you get from Recaps, too. This article originally appeared on Engadget at https://www.engadget.com/ai/kindles-in-book-ai-assistant-can-answer-all-your-questions-without-spoilers-190609961.html?src=rss",
+    "ingested_utc": "2025-12-14T19:12:31Z"
+  },
+  {
+    "published_utc": "2025-12-14",
+    "retrieved_date": "2025-12-14",
+    "retrieved_utc": "2025-12-14T19:12:28Z",
+    "source": "TheVerge_All",
+    "title": "Absynth is back and weirder than ever after 16 years",
+    "url": "https://www.theverge.com/entertainment/844432/native-instruments-absynth-6-mpe-brian-eno",
+    "id_key": "1bcbc07ad2f3a5d22843f1dabe8e8fba179cd496f271448f5df568c7310446f5",
+    "summary": "Absynth is something of a cult classic in the soft synth world. It was originally released in 2000, and quickly found an audience among the growing cadre of people making music on computers. But its last major update, Absynth 5, was released in 2009, and Native Instruments officially discontinued the instrument in 2022, citing a […]",
+    "ingested_utc": "2025-12-14T19:12:28Z"
+  },
+  {
+    "published_utc": "2025-12-14",
+    "retrieved_date": "2025-12-14",
     "retrieved_utc": "2025-12-14T18:49:19Z",
     "source": "NPR_Top",
     "title": "At least 12 dead, including 1 gunman, in mass shooting at Hanukkah event on Sydney's Bondi Beach",
@@ -10965,38 +10998,5 @@
     "id_key": "acfcad5dd9e866a25b0d04a4c7645d507ddd111850d96faf7df279141c4cebd9",
     "summary": "",
     "ingested_utc": "2025-12-12T01:00:23Z"
-  },
-  {
-    "published_utc": "2025-12-12",
-    "retrieved_date": "2025-12-12",
-    "retrieved_utc": "2025-12-12T01:00:23Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "Deadly Jakarta office fire a blow to Japan startup Terra Drone's ambitions",
-    "url": "https://asia.nikkei.com/business/companies/deadly-jakarta-office-fire-a-blow-to-japan-startup-terra-drone-s-ambitions",
-    "id_key": "ad66c6c54f4c9ac41fa8451de5ea6bb8b33f63cb90a7021d4d135c7b9d420727",
-    "summary": "",
-    "ingested_utc": "2025-12-12T01:00:23Z"
-  },
-  {
-    "published_utc": "2025-12-12",
-    "retrieved_date": "2025-12-12",
-    "retrieved_utc": "2025-12-12T01:00:21Z",
-    "source": "FinancialPost_Business",
-    "title": "Miata Announces Results of AGM",
-    "url": "https://financialpost.com/globe-newswire/miata-announces-results-of-agm",
-    "id_key": "cabaed8fb42f19c64c0eff645f15651b539138b9df4f97b54117e40b9e28dab1",
-    "summary": "VANCOUVER, British Columbia, Dec. 11, 2025 (GLOBE NEWSWIRE) — Miata Metals Corp. (CSE: MMET) (FSE: 8NQ) (OTCQB: MMETF) (“Miata” or the “Company”) is pleased to announce that all matters brought before the Company’s Annual General Meeting held on December 11, 2025 (the “Meeting”) were approved. A total of 23,724,181 common shares of the company were […]",
-    "ingested_utc": "2025-12-12T01:00:21Z"
-  },
-  {
-    "published_utc": "2025-12-12",
-    "retrieved_date": "2025-12-12",
-    "retrieved_utc": "2025-12-12T01:00:21Z",
-    "source": "FinancialPost_Business",
-    "title": "Canada’s Carney Is One Seat Short of Majority After Second Tory Jumps",
-    "url": "https://financialpost.com/pmn/business-pmn/canadas-carney-is-one-seat-short-of-majority-after-second-tory-jumps",
-    "id_key": "6f5fa7e59e0fcde4d0f634b3425132f208c5e16f069eaca968851bc9f323c957",
-    "summary": "Prime Minister Mark Carney is a step closer to securing a majority in Canada’s Parliament after his Liberal Party gained a defector from the opposition Conservatives for the second time in two months.",
-    "ingested_utc": "2025-12-12T01:00:21Z"
   }
 ]
