@@ -2,6 +2,61 @@
   {
     "published_utc": "2025-12-15",
     "retrieved_date": "2025-12-15",
+    "retrieved_utc": "2025-12-15T06:58:14Z",
+    "source": "FT_Markets",
+    "title": "RMP = QE?",
+    "url": "https://www.ft.com/content/dcef3303-a38c-4ed9-a11d-4e18c31f1335",
+    "id_key": "58c173f3f262c00774cb3f9cd61c93af10ad7c6689cce7dcfe97d561beb25ec1",
+    "summary": "Fed bill buying vs Fed bond buying",
+    "ingested_utc": "2025-12-15T06:58:14Z"
+  },
+  {
+    "published_utc": "2025-12-15",
+    "retrieved_date": "2025-12-15",
+    "retrieved_utc": "2025-12-15T06:58:01Z",
+    "source": "NYTimes_World",
+    "title": "Jimmy Lai Faces Up to Life in a Hong Kong Jail After Guilty Verdicts",
+    "url": "https://www.nytimes.com/2025/12/15/world/asia/jimmy-lai-guilty-national-security.html",
+    "id_key": "4f953f40cf19cbb6b28cbd538d62508bd9287e3b283bb946890aa4c5f88aac33",
+    "summary": "Jimmy Lai, the publisher of a popular tabloid, was convicted of national security charges on Monday after spending decades supporting the city’s vanquished pro-democracy movement.",
+    "ingested_utc": "2025-12-15T06:58:01Z"
+  },
+  {
+    "published_utc": "2025-12-15",
+    "retrieved_date": "2025-12-15",
+    "retrieved_utc": "2025-12-15T06:58:01Z",
+    "source": "NYTimes_World",
+    "title": "What We Know About the Bondi Beach Shooting in Australia",
+    "url": "https://www.nytimes.com/2025/12/14/world/australia/what-we-know-bondi-shooting.html",
+    "id_key": "6e5de552dbfb24ba5b0a70ff4facef34791b9bf701dcc401a7ba88bcae9acf26",
+    "summary": "Two gunmen opened fire at dozens of people who were at a Jewish holiday event. At least 15 people were killed in the attack, and so was one of the shooters, the police said.",
+    "ingested_utc": "2025-12-15T06:58:01Z"
+  },
+  {
+    "published_utc": "2025-12-15",
+    "retrieved_date": "2025-12-15",
+    "retrieved_utc": "2025-12-15T06:55:38Z",
+    "source": "BBC_World",
+    "title": "A 10-year-old, two rabbis and a Holocaust survivor - Who are the Bondi shooting victims?",
+    "url": "https://www.bbc.com/news/articles/ckgz15d5718o?at_medium=RSS&at_campaign=rss",
+    "id_key": "da9c97e10dcaa6b8853e4d53c4579e1f43e9769d50bbde87e321909e8c348f31",
+    "summary": "Authorities say two rabbis, a Holocaust survivor and a 10-year-old girl were among the victims.",
+    "ingested_utc": "2025-12-15T06:55:38Z"
+  },
+  {
+    "published_utc": "2025-12-15",
+    "retrieved_date": "2025-12-15",
+    "retrieved_utc": "2025-12-15T06:55:38Z",
+    "source": "BBC_World",
+    "title": "Pro-democracy Hong Kong tycoon Jimmy Lai found guilty of colluding with foreign forces",
+    "url": "https://www.bbc.com/news/articles/cp844kjj37vo?at_medium=RSS&at_campaign=rss",
+    "id_key": "36ae8255d8988b399536b59a54ff6f776b43f6cedf2b3432b4946ef6e381b9e1",
+    "summary": "The 78-year-old UK citizen was convicted of lobbying foreign governments to impose sanctions on HK and China.",
+    "ingested_utc": "2025-12-15T06:55:38Z"
+  },
+  {
+    "published_utc": "2025-12-15",
+    "retrieved_date": "2025-12-15",
     "retrieved_utc": "2025-12-15T06:24:41Z",
     "source": "Nikkei_Asia_Top",
     "title": "AI boom is chance for Vietnam to carve out chip design niche: Marvell exec",
@@ -1032,6 +1087,28 @@
     "id_key": "4e472e6db2d2695bbd4c051616bc49cc08f0c6f66fdd9c4717b0641733721479",
     "summary": "Two people died and nine others were injured in the incident in Rhode Island on Saturday.",
     "ingested_utc": "2025-12-15T00:59:43Z"
+  },
+  {
+    "published_utc": "2025-12-14",
+    "retrieved_date": "2025-12-15",
+    "retrieved_utc": "2025-12-15T06:58:42Z",
+    "source": "AlJazeera_All",
+    "title": "Police release ‘person of interest’ held after 2 killed at Brown University",
+    "url": "https://www.aljazeera.com/news/2025/12/14/person-of-interest-held-in-hunt-for-gunman-who-killed-2-at-brown-university?traffic_source=rss",
+    "id_key": "28e73e2a455cc205a5b2ba71370c90c2a6d48a28c1051020a6f829ce957dca95",
+    "summary": "Rhode Island officials say the detained man was not connected to the shooting and they are still looking for the gunman.",
+    "ingested_utc": "2025-12-15T06:58:42Z"
+  },
+  {
+    "published_utc": "2025-12-14",
+    "retrieved_date": "2025-12-15",
+    "retrieved_utc": "2025-12-15T06:58:41Z",
+    "source": "TheStreet_Top",
+    "title": "Dave Ramsey bluntly warns Americans on Social Security, 401(k)s",
+    "url": "https://www.thestreet.com/retirement/dave-ramsey-warns-americans-on-social-security-401ks",
+    "id_key": "1ea3eb874445a6343c3a832c3c5838e34b36715637cb6212a982e76677a3bd1b",
+    "summary": "As millions of working Americans prepare for retirement, financial considerations around income they will receive from Social Security and employer-sponsored plans such as 401(k)s come into focus. With that in mind, bestselling personal finance author and radio host Dave Ramsey offers a warning for ...",
+    "ingested_utc": "2025-12-15T06:58:41Z"
   },
   {
     "published_utc": "2025-12-14",
@@ -10921,82 +10998,5 @@
     "id_key": "92defd1d7dbeeda38a1d62d715040d38f641f80c63788a048eae5037f0ae7401",
     "summary": "DETROIT (AP) — Ford Motor Co. has stepped up technology in its popular F-150 pickup to combat the ever-evolving techniques car thieves have at their disposal. It is the latest cat-and-mouse move that the automaker hopes will help customers avoid the costly and frustrating process that occurs when vehicles are swiped and includes a feature […]",
     "ingested_utc": "2025-12-12T11:15:40Z"
-  },
-  {
-    "published_utc": "2025-12-12",
-    "retrieved_date": "2025-12-12",
-    "retrieved_utc": "2025-12-12T11:15:40Z",
-    "source": "FinancialPost_Business",
-    "title": "Axi Wins Two Finance Magnates 2025 Awards",
-    "url": "https://financialpost.com/globe-newswire/axi-wins-two-finance-magnates-2025-awards",
-    "id_key": "3e992191fe047c34fe3043e8267fd0df0a45498fc72d766ad51c9ded980daaee",
-    "summary": "Broker honoured as ‘Most Innovative Broker’ and ‘Best Execution Broker’ SYDNEY, Dec. 12, 2025 (GLOBE NEWSWIRE) — Axi, a leading provider of online CFD and FX trading services, announced that it has been recognised with two prestigious accolades* at the Finance Magnates Awards 2025 held in Limassol, Cyprus. The brand received the ‘Most Innovative Broker’ […]",
-    "ingested_utc": "2025-12-12T11:15:40Z"
-  },
-  {
-    "published_utc": "2025-12-12",
-    "retrieved_date": "2025-12-12",
-    "retrieved_utc": "2025-12-12T11:15:40Z",
-    "source": "FinancialPost_Business",
-    "title": "Howard Levitt: Why remote workers keep winning in employment law disputes",
-    "url": "https://financialpost.com/fp-work/howard-levitt-remote-work-cases-reshaping-employment-law",
-    "id_key": "1a8c93a9199bb39a99ef840f4ebe0a64a63d9d4a1a3c0577a50686dd00c32b71",
-    "summary": "Unless employers fundamentally rethink how they manage remote employees, they will continue to lose in court",
-    "ingested_utc": "2025-12-12T11:15:40Z"
-  },
-  {
-    "published_utc": "2025-12-12",
-    "retrieved_date": "2025-12-12",
-    "retrieved_utc": "2025-12-12T11:15:40Z",
-    "source": "FinancialPost_Business",
-    "title": "Couple’s TFSAs, RRSPs and non-registered accounts are 90% equities. Should they be more conservative toward retirement?",
-    "url": "https://financialpost.com/personal-finance/couples-tfsas-rrsps-non-registered-accounts-equities",
-    "id_key": "9a911c32be1d566ec57fa423cbe50e14ca0b5c7a31a9c502eecbf1e7d368d4f3",
-    "summary": "FP Answers: You need some safety to preserve your capital for spending needs and inflation protection",
-    "ingested_utc": "2025-12-12T11:15:40Z"
-  },
-  {
-    "published_utc": "2025-12-12",
-    "retrieved_date": "2025-12-12",
-    "retrieved_utc": "2025-12-12T11:15:40Z",
-    "source": "FinancialPost_Business",
-    "title": "Important advice for the growing ranks of first-time buyers",
-    "url": "https://financialpost.com/real-estate/mortgages/important-advice-growing-ranks-first-time-buyers",
-    "id_key": "f3dc8d47e2e30e9ac8b90fc1f76eae7d6890000cbd08caba447749bc19f1b66e",
-    "summary": "Robert McLister: It’s far harder for young people to own their own roofs today than it was in 2015",
-    "ingested_utc": "2025-12-12T11:15:40Z"
-  },
-  {
-    "published_utc": "2025-12-12",
-    "retrieved_date": "2025-12-12",
-    "retrieved_utc": "2025-12-12T11:15:40Z",
-    "source": "FinancialPost_Business",
-    "title": "Jack Mintz: Shorting Israel has not been a good market bet",
-    "url": "https://financialpost.com/opinion/jack-mintz-shorting-israel-good-market-bet",
-    "id_key": "b42beee917c81fac6ffc40a65f6b0fb27b97ae4b523a1db5f1b93cea7eda4efc",
-    "summary": "No matter how bad things look at the worst times, this small country keeps on doing big things",
-    "ingested_utc": "2025-12-12T11:15:40Z"
-  },
-  {
-    "published_utc": "2025-12-12",
-    "retrieved_date": "2025-12-12",
-    "retrieved_utc": "2025-12-12T11:15:34Z",
-    "source": "AlJazeera_All",
-    "title": "Fans slam FIFA, demand halt to ‘extortionate’ 2026 World Cup ticket sales",
-    "url": "https://www.aljazeera.com/sports/2025/12/12/fans-slam-fifa-demand-halt-to-extortionate-2026-world-cup-ticket-sales?traffic_source=rss",
-    "id_key": "d415b974923ddb7e1b21760dac0cfbf375d0471c722be083b245f7f838cc7535",
-    "summary": "Supporter groups say soaring prices threaten to turn 2026 tournament into 'Corporate Games'.",
-    "ingested_utc": "2025-12-12T11:15:34Z"
-  },
-  {
-    "published_utc": "2025-12-12",
-    "retrieved_date": "2025-12-12",
-    "retrieved_utc": "2025-12-12T11:15:03Z",
-    "source": "NPR_Top",
-    "title": "Amputees often feel disconnected from their bionic hands. AI could bridge the gap",
-    "url": "https://www.npr.org/sections/shots-health-news/2025/12/12/nx-s1-5639925/bionic-hand-prosthetic-artificial-intelligence",
-    "id_key": "b5aa510127158017365d99b72fa7e467fe9b8346f756af8b010e521098791399",
-    "summary": "Sensors and artificial intelligence help a prosthetic hand act more like a natural one, new research shows.",
-    "ingested_utc": "2025-12-12T11:15:03Z"
   }
 ]
