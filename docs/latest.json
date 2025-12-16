@@ -2,6 +2,116 @@
   {
     "published_utc": "2025-12-16",
     "retrieved_date": "2025-12-16",
+    "retrieved_utc": "2025-12-16T08:54:58Z",
+    "source": "FinancialPost_Business",
+    "title": "EU to Abandon Combustion Engine Ban in Win For Carmakers",
+    "url": "https://financialpost.com/pmn/business-pmn/eu-to-abandon-combustion-engine-ban-in-win-for-carmakers",
+    "id_key": "6fdae164a50aa1aa75996c6993db2ea61d09c9ed1eaa85745b82324c2c959704",
+    "summary": "The European Union is set to propose softening emissions rules for new cars, scrapping an effective ban on combustion engines following months of pressure from the automotive industry.",
+    "ingested_utc": "2025-12-16T08:54:58Z"
+  },
+  {
+    "published_utc": "2025-12-16",
+    "retrieved_date": "2025-12-16",
+    "retrieved_utc": "2025-12-16T08:54:52Z",
+    "source": "AlJazeera_All",
+    "title": "How Israel’s expansion push deepens Palestinian suffering in West Bank",
+    "url": "https://www.aljazeera.com/news/2025/12/16/how-israel-expansion-push-deepens-palestinian-suffering-in-west-bank?traffic_source=rss",
+    "id_key": "052674bf6e4246d0d7d0368eff234f669d7b06365c3a079abd539a2b90bc7f42",
+    "summary": "Israel's decision to formalise 19 so-called settlement outposts raises further fears for future of occupied territory.",
+    "ingested_utc": "2025-12-16T08:54:52Z"
+  },
+  {
+    "published_utc": "2025-12-16",
+    "retrieved_date": "2025-12-16",
+    "retrieved_utc": "2025-12-16T08:54:24Z",
+    "source": "FT_Home",
+    "title": "UK unemployment rate rises to 5.1%",
+    "url": "https://www.ft.com/content/96d2c777-c29b-4d92-a984-59d8b1b753d9",
+    "id_key": "62672838f092dea3b5fbe01d16f74e0292e667cdc99612eb27e6eb2e066e2423",
+    "summary": "Figures also show wage growth cooled in three months to October",
+    "ingested_utc": "2025-12-16T08:54:24Z"
+  },
+  {
+    "published_utc": "2025-12-16",
+    "retrieved_date": "2025-12-16",
+    "retrieved_utc": "2025-12-16T08:54:12Z",
+    "source": "NYTimes_Business",
+    "title": "My Boss Got Way Too Drunk at the Christmas Party",
+    "url": "https://www.nytimes.com/2025/12/13/business/my-boss-got-way-too-drunk-at-the-christmas-party.html",
+    "id_key": "cb9a36dd4c690c1618d60b6ef75dcf6bcc48bcbad3a192e862457ec1aa7c6920",
+    "summary": "And now I’m dealing with the consequences.",
+    "ingested_utc": "2025-12-16T08:54:12Z"
+  },
+  {
+    "published_utc": "2025-12-16",
+    "retrieved_date": "2025-12-16",
+    "retrieved_utc": "2025-12-16T08:53:54Z",
+    "source": "Guardian_World",
+    "title": "BBC bosses ‘right to stick by their guns’ against Trump, says minister",
+    "url": "https://www.theguardian.com/media/2025/dec/16/bbc-bosses-right-to-stick-by-their-guns-against-trump-says-minister",
+    "id_key": "140750ed8aae6d82f5380dc4b80dc4c4756accf2858ef6183829c58dc355ed63",
+    "summary": "Keir Starmer urged to ‘stand up for the BBC’ after US president files $10bn lawsuit against corporation BBC bosses are “right to stick by their guns” against Donald Trump , a minister has said, after the US president filed a $10bn lawsuit against the corporation . The UK government is under pressure to throw its weight behind the corporation as Trump demands billions in damages over its editing of a speech he made to supporters in Washington before they stormed the US Capitol in 2021. Continue reading...",
+    "ingested_utc": "2025-12-16T08:53:54Z"
+  },
+  {
+    "published_utc": "2025-12-16",
+    "retrieved_date": "2025-12-16",
+    "retrieved_utc": "2025-12-16T08:53:28Z",
+    "source": "Teku_Releases",
+    "title": "25.12.0",
+    "url": "https://github.com/Consensys/teku/releases/tag/25.12.0",
+    "id_key": "de784b0a3d2fb5b4db6c6c54d69dfa228b9db8d272f224d00f9300dec45b9730",
+    "summary": "This is a recommended release update containing bug fixes and improvements. Downloads Available as 25.12.0 on Dockerhub Download the binary distribution: tar.gz (sha256: db14d26fe159f256da94f03c7f00fb9053601b159c979f2b32e884214405c989 ) zip (sha256: 5ca5ee937331715124debfd0a5486395e709eba390e4f5bbb98fe009e5cd9fe3 ) Additions and Improvements Added new metrics beacon_earliest_available_slot and data_column_sidecar_processing_validated_total. Block proposal duties can now be scheduled in advance for fulu. Late block reorg enabled by default. Block building preparation enabled by default. The beacon node will now pre-compute head and pre-state selection in preparation for block building. (Disabled in Gnosis). Enabled a new version of sidecar recovery by default. Bug Fixes Fixed a storage issue which sometimes caused Teku to crash during shut down. Fixed peer_count metric when using --metrics-publish-endpoint feature. Fixed earliest_available_slot calculation. Upcoming Breaking Changes N/A",
+    "ingested_utc": "2025-12-16T08:53:28Z"
+  },
+  {
+    "published_utc": "2025-12-16",
+    "retrieved_date": "2025-12-16",
+    "retrieved_utc": "2025-12-16T08:52:27Z",
+    "source": "CryptoNews",
+    "title": "Solana Withstands One of the Largest DDoS Attacks in Internet History With No Network Disruption",
+    "url": "https://cryptonews.com/news/solana-withstands-massive-ddos-attack-with-no-network-disruption/",
+    "id_key": "c5f1b669ce8e7e5212c5b819311a9a256fae3f0590fdd3a67434435799c99f01",
+    "summary": "Solana has weathered one of the most powerful DDoS attacks ever recorded without any visible impact on network performance. The post Solana Withstands One of the Largest DDoS Attacks in Internet History With No Network Disruption appeared first on Cryptonews .",
+    "ingested_utc": "2025-12-16T08:52:27Z"
+  },
+  {
+    "published_utc": "2025-12-16",
+    "retrieved_date": "2025-12-16",
+    "retrieved_utc": "2025-12-16T08:52:05Z",
+    "source": "Guardian_World",
+    "title": "Couple in dashcam footage who tried to fight off Bondi shooter identified as Boris and Sofia Gurman",
+    "url": "https://www.theguardian.com/australia-news/2025/dec/16/boris-and-sofia-gurman-identified-as-couple-who-lost-lives-trying-to-stop-bondi-gunmen-as-attack-began-ntwnfb",
+    "id_key": "ab83cfd9badf5e58efc044a2df94f1c876b22a8eaf11ec1ad66e457caed78556",
+    "summary": "Dashcam footage shows the moment Boris Gurman tackles shooter Sajid Akram and wrests a gun from him Dramatic footage has emerged of two victims who tried to stop a gunman during the early stages of the Bondi beach terror attack on Sunday. The brave and defiant couple has been identified as Boris Gurman, 69, and Sofia Gurman, 61, after their family gave a statement to the Sydney Morning Herald . Continue reading...",
+    "ingested_utc": "2025-12-16T08:52:05Z"
+  },
+  {
+    "published_utc": "2025-12-16",
+    "retrieved_date": "2025-12-16",
+    "retrieved_utc": "2025-12-16T08:52:02Z",
+    "source": "BBC_World",
+    "title": "A 10-year-old, two rabbis and a Holocaust survivor - Who are the Bondi shooting victims?",
+    "url": "https://www.bbc.com/news/articles/ckgz15d5718o?at_medium=RSS&at_campaign=rss",
+    "id_key": "92cf05e7006cfcf71525dee253ef54e6802e7359dea264369c359328b96774fc",
+    "summary": "Authorities say two rabbis, a Holocaust survivor and a 10-year-old girl were among the victims.",
+    "ingested_utc": "2025-12-16T08:52:02Z"
+  },
+  {
+    "published_utc": "2025-12-16",
+    "retrieved_date": "2025-12-16",
+    "retrieved_utc": "2025-12-16T08:52:02Z",
+    "source": "BBC_World",
+    "title": "Police acted bravely at Bondi, New South Wales premier says after criticism of officers",
+    "url": "https://www.bbc.com/news/articles/cde644367j0o?at_medium=RSS&at_campaign=rss",
+    "id_key": "a530f6322814600d83ce5bd11d6012e22c1ae7849fd10a05116dfed84fb79fc6",
+    "summary": "Chris Minns said two police officers were 'shot in the front' as they attempted to take on two gunmen.",
+    "ingested_utc": "2025-12-16T08:52:02Z"
+  },
+  {
+    "published_utc": "2025-12-16",
+    "retrieved_date": "2025-12-16",
     "retrieved_utc": "2025-12-16T08:21:49Z",
     "source": "Nikkei_Asia_Top",
     "title": "The choices Asia makes in 2026 will reset the global order",
@@ -10888,115 +10998,5 @@
     "id_key": "1547c290f8e77499cfbbe5c6e5b5c7f4464b920da704845be2db075d0b284e39",
     "summary": "",
     "ingested_utc": "2025-12-14T01:04:53Z"
-  },
-  {
-    "published_utc": "2025-12-14",
-    "retrieved_date": "2025-12-14",
-    "retrieved_utc": "2025-12-14T01:04:53Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "Jakarta police find Terra Drone fire caused by improperly stored batteries",
-    "url": "https://asia.nikkei.com/spotlight/society/jakarta-police-find-terra-drone-fire-caused-by-improperly-stored-batteries",
-    "id_key": "66cee7511de36136de78523253230eb965304cc3a449980aec218700a6ed1ffd",
-    "summary": "",
-    "ingested_utc": "2025-12-14T01:04:53Z"
-  },
-  {
-    "published_utc": "2025-12-14",
-    "retrieved_date": "2025-12-14",
-    "retrieved_utc": "2025-12-14T01:04:53Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "Bank of Japan set for first rate hike in 11 months",
-    "url": "https://asia.nikkei.com/economy/bank-of-japan/bank-of-japan-set-for-first-rate-hike-in-11-months",
-    "id_key": "21450646e0d44971cee1832ffb96d1a22862268508ec742bcd71950396959254",
-    "summary": "",
-    "ingested_utc": "2025-12-14T01:04:53Z"
-  },
-  {
-    "published_utc": "2025-12-14",
-    "retrieved_date": "2025-12-14",
-    "retrieved_utc": "2025-12-14T01:04:53Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "Is India's rice in Trump's line of fire now?",
-    "url": "https://asia.nikkei.com/economy/trade-war/trump-tariffs/is-india-s-rice-in-trump-s-line-of-fire-now",
-    "id_key": "1bc05e80d1b72db319d4b745f35403d3cc70541cafefa3334d35d044ce04060d",
-    "summary": "",
-    "ingested_utc": "2025-12-14T01:04:53Z"
-  },
-  {
-    "published_utc": "2025-12-14",
-    "retrieved_date": "2025-12-14",
-    "retrieved_utc": "2025-12-14T01:04:53Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "Editor's Choice: Asia's social media problem and who should be blamed",
-    "url": "https://asia.nikkei.com/editor-s-picks/editor-in-chief-s-picks/editor-s-choice-asia-s-social-media-problem-and-who-should-be-blamed",
-    "id_key": "e7a30b1fdd6c11ea8c6aa1a5762e96b48ef63016beb937a237aaab52ee3df89f",
-    "summary": "",
-    "ingested_utc": "2025-12-14T01:04:53Z"
-  },
-  {
-    "published_utc": "2025-12-14",
-    "retrieved_date": "2025-12-14",
-    "retrieved_utc": "2025-12-14T01:04:53Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "US, Japan defense chiefs voice 'serious concern' over Chinese actions",
-    "url": "https://asia.nikkei.com/politics/international-relations/us-japan-defense-chiefs-voice-serious-concern-over-chinese-actions",
-    "id_key": "2356883061afc08d3d26e5c1375d36067b30cb3ec60d0653bde425712ee19dab",
-    "summary": "",
-    "ingested_utc": "2025-12-14T01:04:53Z"
-  },
-  {
-    "published_utc": "2025-12-14",
-    "retrieved_date": "2025-12-14",
-    "retrieved_utc": "2025-12-14T01:04:53Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "China's BYD tries to break out of mass-market trap as domestic sales stall",
-    "url": "https://asia.nikkei.com/business/automobiles/electric-vehicles/china-s-byd-tries-to-break-out-of-mass-market-trap-as-domestic-sales-stall",
-    "id_key": "6888a175ee7070ff286c652b3bae4daaa26a81cb7b9f3a79f4aa0ca95c3b1a92",
-    "summary": "",
-    "ingested_utc": "2025-12-14T01:04:53Z"
-  },
-  {
-    "published_utc": "2025-12-14",
-    "retrieved_date": "2025-12-14",
-    "retrieved_utc": "2025-12-14T01:04:53Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "Japan's Raksul to go private with $770m Goldman Sachs-backed buyout",
-    "url": "https://asia.nikkei.com/business/business-deals/japan-s-raksul-to-go-private-with-770m-goldman-sachs-backed-buyout",
-    "id_key": "2ede5c29f4fb95a950125dc3c8d0bdad7aaca01badfc9396c4ab390e17adb0cc",
-    "summary": "",
-    "ingested_utc": "2025-12-14T01:04:53Z"
-  },
-  {
-    "published_utc": "2025-12-14",
-    "retrieved_date": "2025-12-14",
-    "retrieved_utc": "2025-12-14T01:03:52Z",
-    "source": "NYTimes_Business",
-    "title": "Elon Musk’s SpaceX Valued at $800 Billion, as It Prepares to Go Public",
-    "url": "https://www.nytimes.com/2025/12/12/technology/elon-musk-spacex-ipo.html",
-    "id_key": "6b65ce1663379a4f6fde6e63706ccc7aee15dd97f6857e25f28c4708afda2cc8",
-    "summary": "A sale of insider shares at $421 a share would make Mr. Musk’s rocket company the most valuable private company in the world, as it readies for a possible initial public offering next year.",
-    "ingested_utc": "2025-12-14T01:03:52Z"
-  },
-  {
-    "published_utc": "2025-12-14",
-    "retrieved_date": "2025-12-14",
-    "retrieved_utc": "2025-12-14T01:01:41Z",
-    "source": "Guardian_World",
-    "title": "Australia news live: UN working group raises concerns about First Nations incarceration rates; girl dies after falling off Queensland cliff",
-    "url": "https://www.theguardian.com/australia-news/live/2025/dec/14/australia-news-live-michelle-rowland-family-travel-entitlements-labor-liberal-coles-woolworths-price-gouging-nsw-vic-wa-fire-weather-heatwave-warnings-albanese-sussan-ley-ntwnfb",
-    "id_key": "504b26d1c321b1c05efbd7387b8fcf8652143d7dffb4ccbe99d6ff70e1ddc900",
-    "summary": "The UN Working Group on Arbitrary Detention has raised major concerns about the detention of Indigenous people, children and migrants. Follow live updates Get our breaking news email , free app or daily news podcast Pressure mounts on Albanese government to control gas exports A broad range of consumer, industry and climate and environment organisations have called upon the Federal government to put people before gas exporters as it considers a new gas policy expected to be released soon. Australia’s focus on gas exports has tripled domestic gas and electricity prices, driving up inflation and household bills. Multinational gas corporations are posting huge profits while people on low incomes are skipping meals, not cooling homes and going without medicines because they can’t afford their energy bills. The government must implement gas export market controls and avoid options that effectively subsidise gas companies or incentivise new polluting gas production. It’s time for this government to prioritise people over rich gas companies. Continue reading...",
-    "ingested_utc": "2025-12-14T01:01:41Z"
-  },
-  {
-    "published_utc": "2025-12-14",
-    "retrieved_date": "2025-12-14",
-    "retrieved_utc": "2025-12-14T01:01:41Z",
-    "source": "Guardian_World",
-    "title": "Brown University shooting: two dead and eight in critical condition as suspect remains at large – live updates",
-    "url": "https://www.theguardian.com/us-news/live/2025/dec/13/brown-university-shooting-rhode-island-updates",
-    "id_key": "77bfcc6313af5df8e7eae5166935867991c9ebc470d8423ef6255e2bf175dac4",
-    "summary": "Suspect or suspects remain at large as Ivy League university tells students to shelter in place Multiple people shot at Brown University in Rhode Island, police say Police said no weapons were recovered from the scene and the last sighting of the suspect was him leaving the Hope Street side of the building on foot. Timothy O’Hara, a deputy police chief, told a press conference that the suspect is a “male dressed in black” who exited the complex at Brown University. Continue reading...",
-    "ingested_utc": "2025-12-14T01:01:41Z"
   }
 ]
