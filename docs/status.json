@@ -1,7 +1,7 @@
 {
-  "started_utc": "2025-12-16T23:30:50Z",
-  "ended_utc": "2025-12-16T23:34:19Z",
-  "new_items_this_run": 4,
+  "started_utc": "2025-12-16T23:42:30Z",
+  "ended_utc": "2025-12-16T23:46:02Z",
+  "new_items_this_run": 8,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
@@ -62,12 +62,12 @@
     "NYTimes_Technology": 0,
     "CNN_Top": 0,
     "NPR_Top": 0,
-    "NPR_Business": 1,
+    "NPR_Business": 0,
     "NPR_Economy": 0,
     "NPR_World": 0,
     "NPR_Technology": 0,
-    "FT_Home": 0,
-    "FT_Markets": 0,
+    "FT_Home": 1,
+    "FT_Markets": 1,
     "CNBC_Top": 0,
     "CNBC_Markets": 0,
     "TheVerge_All": 0,
@@ -78,7 +78,7 @@
     "TheEconomist_Business": 0,
     "TheEconomist_Finance": 0,
     "Investopedia_Latest": 0,
-    "TheStreet_Top": 0,
+    "TheStreet_Top": 2,
     "AlJazeera_All": 0,
     "AlJazeera_Economy": 0,
     "FinancialPost_Business": 1,
@@ -87,7 +87,7 @@
     "WorldBank_News": 0,
     "OECD_Newsroom": 0,
     "MIT_TechReview": 0,
-    "HackerNews_Top": 0
+    "HackerNews_Top": 1
   },
   "errors": [
     {
@@ -339,19 +339,19 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 623,
+    "passed_keywords": 625,
     "passed_allowlist": 0,
-    "failed_all_filters": 473
+    "failed_all_filters": 472
   },
   "stats": {
     "feeds_total": 97,
     "feeds_error": 24,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 1563,
+    "entries_seen": 1564,
     "too_old": 467,
     "dup_title_url": 126,
-    "dup_id": 493
+    "dup_id": 491
   },
   "limits": {
     "skip_older_days": 10,
@@ -364,6 +364,6 @@
   },
   "processed": {
     "file": "data/processed/2025-12-16.jsonl",
-    "appended_new": 4
+    "appended_new": 8
   }
 }
