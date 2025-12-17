@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-12-17",
     "retrieved_date": "2025-12-17",
+    "retrieved_utc": "2025-12-17T19:44:03Z",
+    "source": "Engadget_All",
+    "title": "Meta is 'pausing' third-party VR headsets from ASUS and Lenovo",
+    "url": "https://www.engadget.com/ar-vr/meta-is-pausing-third-party-vr-headsets-from-asus-and-lenovo-193622900.html?src=rss",
+    "id_key": "d11d1a18d48aa24db1660b4386f64c50a5d342017f5fa08f3f8297da62bf9438",
+    "summary": "Last year, Meta announced that it was opening up its VR operating system to other headset makers, starting with ASUS and Lenovo . Now, it seems that Meta is pumping the brakes on the effort and those third-party Horizon OS headsets might never actually launch. The company has \"paused\" the program, Road to VR reported . Meta confirmed the move in a statement to Engadget, saying that it's instead focusing on \"building the world-class first-party hardware and software needed to advance the VR market.\" ASUS and Lenovo didn't immediately respond to a request for comment. Both companies have said little about the headsets since they were first announced in 2024. ASUS' was going to be a \"performance gaming\" headset under its Republic of Gamers (ROG) brand, while Lenovo's was intended to be a mixed reality device focused on \"productivity, learning and entertainment\" experiences The shift isn't entirely surprising. Meta Connect was very light on virtual reality news this year as smart glasses have become a central focus for the company. Earlier this month, Bloomberg reported that Meta was planning significant cuts to the teams working on virtual reality and Horizon Worlds. The company said at the time it was \"shifting some of our investment from Metaverse toward AI glasses and wearables given the momentum there.\" Still, Meta is seemingly leaving the door open for third-party VR headsets in the future. \"We’re committed to this for the long term and will revisit opportunities for 3rd-party device partnerships as the category evolves,\" the company said. This article originally appeared on Engadget at https://www.engadget.com/ar-vr/meta-is-pausing-third-party-vr-headsets-from-asus-and-lenovo-193622900.html?src=rss",
+    "ingested_utc": "2025-12-17T19:44:03Z"
+  },
+  {
+    "published_utc": "2025-12-17",
+    "retrieved_date": "2025-12-17",
+    "retrieved_utc": "2025-12-17T19:41:37Z",
+    "source": "CryptoSlate",
+    "title": "Hyperliquid is erasing $1 billion in token supply, but the market is still punishing the wrong metric",
+    "url": "https://cryptoslate.com/hyperliquid-is-erasing-1-billion-in-token-supply-but-the-market-is-still-punishing-the-wrong-metric/",
+    "id_key": "ac952f11b5b7c81b64aeae1c10a43d22b1ba8576973bf59f75546b1011b199c1",
+    "summary": "Hyperliquid is learning how quickly sentiment can turn in crypto. According to CryptoSlate data, HYPE, the token that powers the decentralized perpetuals exchange, has dropped to seven-month lows in December after a year in which Hyperliquid looked like the default venue for on-chain leverage. During this period, the platform's trading volumes have stalled just as […] The post Hyperliquid is erasing $1 billion in token supply, but the market is still punishing the wrong metric appeared first on CryptoSlate .",
+    "ingested_utc": "2025-12-17T19:41:37Z"
+  },
+  {
+    "published_utc": "2025-12-17",
+    "retrieved_date": "2025-12-17",
     "retrieved_utc": "2025-12-17T19:33:49Z",
     "source": "FinancialPost_Business",
     "title": "Dream Industrial REIT Announces December 2025 Monthly Distribution and Suspension of DRIP",
@@ -10976,27 +10998,5 @@
     "id_key": "de784b0a3d2fb5b4db6c6c54d69dfa228b9db8d272f224d00f9300dec45b9730",
     "summary": "This is a recommended release update containing bug fixes and improvements. Downloads Available as 25.12.0 on Dockerhub Download the binary distribution: tar.gz (sha256: db14d26fe159f256da94f03c7f00fb9053601b159c979f2b32e884214405c989 ) zip (sha256: 5ca5ee937331715124debfd0a5486395e709eba390e4f5bbb98fe009e5cd9fe3 ) Additions and Improvements Added new metrics beacon_earliest_available_slot and data_column_sidecar_processing_validated_total. Block proposal duties can now be scheduled in advance for fulu. Late block reorg enabled by default. Block building preparation enabled by default. The beacon node will now pre-compute head and pre-state selection in preparation for block building. (Disabled in Gnosis). Enabled a new version of sidecar recovery by default. Bug Fixes Fixed a storage issue which sometimes caused Teku to crash during shut down. Fixed peer_count metric when using --metrics-publish-endpoint feature. Fixed earliest_available_slot calculation. Upcoming Breaking Changes N/A",
     "ingested_utc": "2025-12-16T08:53:28Z"
-  },
-  {
-    "published_utc": "2025-12-16",
-    "retrieved_date": "2025-12-16",
-    "retrieved_utc": "2025-12-16T08:52:27Z",
-    "source": "CryptoNews",
-    "title": "Solana Withstands One of the Largest DDoS Attacks in Internet History With No Network Disruption",
-    "url": "https://cryptonews.com/news/solana-withstands-massive-ddos-attack-with-no-network-disruption/",
-    "id_key": "c5f1b669ce8e7e5212c5b819311a9a256fae3f0590fdd3a67434435799c99f01",
-    "summary": "Solana has weathered one of the most powerful DDoS attacks ever recorded without any visible impact on network performance. The post Solana Withstands One of the Largest DDoS Attacks in Internet History With No Network Disruption appeared first on Cryptonews .",
-    "ingested_utc": "2025-12-16T08:52:27Z"
-  },
-  {
-    "published_utc": "2025-12-16",
-    "retrieved_date": "2025-12-16",
-    "retrieved_utc": "2025-12-16T08:52:05Z",
-    "source": "Guardian_World",
-    "title": "Couple in dashcam footage who tried to fight off Bondi shooter identified as Boris and Sofia Gurman",
-    "url": "https://www.theguardian.com/australia-news/2025/dec/16/boris-and-sofia-gurman-identified-as-couple-who-lost-lives-trying-to-stop-bondi-gunmen-as-attack-began-ntwnfb",
-    "id_key": "ab83cfd9badf5e58efc044a2df94f1c876b22a8eaf11ec1ad66e457caed78556",
-    "summary": "Dashcam footage shows the moment Boris Gurman tackles shooter Sajid Akram and wrests a gun from him Dramatic footage has emerged of two victims who tried to stop a gunman during the early stages of the Bondi beach terror attack on Sunday. The brave and defiant couple has been identified as Boris Gurman, 69, and Sofia Gurman, 61, after their family gave a statement to the Sydney Morning Herald . Continue reading...",
-    "ingested_utc": "2025-12-16T08:52:05Z"
   }
 ]
