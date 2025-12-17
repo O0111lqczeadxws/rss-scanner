@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-12-17",
     "retrieved_date": "2025-12-17",
+    "retrieved_utc": "2025-12-17T08:54:32Z",
+    "source": "HackerNews_Top",
+    "title": "US threatens EU digital services market access",
+    "url": "https://twitter.com/ustraderep/status/2000990028835508258",
+    "id_key": "91c6e129ba1b1883e46ff4b4b1595a727a779dfbded67e4851baad29baea3044",
+    "summary": "Comments",
+    "ingested_utc": "2025-12-17T08:54:32Z"
+  },
+  {
+    "published_utc": "2025-12-17",
+    "retrieved_date": "2025-12-17",
+    "retrieved_utc": "2025-12-17T08:54:24Z",
+    "source": "Nikkei_Asia_Top",
+    "title": "Manila denies Bondi beach terror suspects trained in Philippines",
+    "url": "https://asia.nikkei.com/politics/terrorism/manila-denies-bondi-beach-terror-suspects-trained-in-philippines",
+    "id_key": "093a596ce63ecb86f307fe30c7b54e14e2c217cd77162be377142314fbf25d73",
+    "summary": "",
+    "ingested_utc": "2025-12-17T08:54:24Z"
+  },
+  {
+    "published_utc": "2025-12-17",
+    "retrieved_date": "2025-12-17",
+    "retrieved_utc": "2025-12-17T08:51:20Z",
+    "source": "BBC_World",
+    "title": "Mourners pay tribute to Rabbi Schlanger during funeral",
+    "url": "https://www.bbc.com/news/videos/c5yjvx4vp5do?at_medium=RSS&at_campaign=rss",
+    "id_key": "852f248f1c78763481582aa2832313da15e684214610765ef88c5a209f82aabb",
+    "summary": "His death was described as an \"unspeakable loss\" in a service held at the Chabad of Bondi.",
+    "ingested_utc": "2025-12-17T08:51:20Z"
+  },
+  {
+    "published_utc": "2025-12-17",
+    "retrieved_date": "2025-12-17",
     "retrieved_utc": "2025-12-17T08:21:36Z",
     "source": "Nikkei_Asia_Top",
     "title": "Indonesian central bank stands pat, maintaining policy rate at 4.75%",
@@ -10965,38 +10998,5 @@
     "id_key": "0905723a9230246cc373d11b3173b70734297333728dd27678e5d813ae8d879c",
     "summary": "Narges Mohammadi and several other Iranian activists were detained last Friday. She has been beaten, requiring emergency medical treatment, and accused of working with Israel, her family said.",
     "ingested_utc": "2025-12-15T16:57:43Z"
-  },
-  {
-    "published_utc": "2025-12-15",
-    "retrieved_date": "2025-12-15",
-    "retrieved_utc": "2025-12-15T16:55:53Z",
-    "source": "CoinJournal",
-    "title": "Bitcoin Cash (BCH) price forecast as BTC dips under $87k",
-    "url": "https://coinjournal.net/news/bitcoin-cash-bch-price-forecast-as-btc-dips-under-87k/",
-    "id_key": "7af6a07c212ffcad5cf439e2cef54f3e590ed51c996878a2b5d4c361c7ad073d",
-    "summary": "Bitcoin Cash price has dipped below $550 as Bitcoin sees a sharp decline to under $87,000. The altcoin’s value could shrink to under $500 if BTC plummets further. Macroeconomic headwinds continue to hinder bulls. Bitcoin Cash (BCH) traded near the pivotal $560 support level amid broader market uncertainties, with Bitcoin’s dip to under $87,000 further […] The post Bitcoin Cash (BCH) price forecast as BTC dips under $87k appeared first on CoinJournal .",
-    "ingested_utc": "2025-12-15T16:55:53Z"
-  },
-  {
-    "published_utc": "2025-12-15",
-    "retrieved_date": "2025-12-15",
-    "retrieved_utc": "2025-12-15T16:55:50Z",
-    "source": "CryptoBriefing",
-    "title": "Ripple plans 2026 launch of RLUSD on Base and Optimism via Wormhole bridge",
-    "url": "https://cryptobriefing.com/trust-regulated-stablecoin-rlusd-expansion/",
-    "id_key": "4a3c27a4348dd8a027d41acfa433d0049adafd343e4d57de8f3581acb7178313",
-    "summary": "Ripple plans to expand RLUSD to Optimism, Base, and more via Wormhole NTT, with availability expected in 2026. The post Ripple plans 2026 launch of RLUSD on Base and Optimism via Wormhole bridge appeared first on Crypto Briefing .",
-    "ingested_utc": "2025-12-15T16:55:50Z"
-  },
-  {
-    "published_utc": "2025-12-15",
-    "retrieved_date": "2025-12-15",
-    "retrieved_utc": "2025-12-15T16:55:47Z",
-    "source": "BitcoinMagazine",
-    "title": "What is mNAV? The Investor’s Guide to Valuing Bitcoin Treasuries",
-    "url": "https://bitcoinmagazine.com/glossary/what-is-mnav",
-    "id_key": "77e6a85d6f5593287d29eb1cf53409221b5ce251b5c9936a2719259c5dbb49a8",
-    "summary": "Bitcoin Magazine What is mNAV? The Investor’s Guide to Valuing Bitcoin Treasuries mNAV is the definitive metric for evaluating public companies with significant bitcoin reserves. Unlike traditional book value, mNAV adjusts for real-time market pricing and share dilution. This post What is mNAV? The Investor’s Guide to Valuing Bitcoin Treasuries first appeared on Bitcoin Magazine and is written by Conor Mulcahy .",
-    "ingested_utc": "2025-12-15T16:55:47Z"
   }
 ]
