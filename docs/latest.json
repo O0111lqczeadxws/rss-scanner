@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-12-17",
     "retrieved_date": "2025-12-17",
+    "retrieved_utc": "2025-12-17T07:52:45Z",
+    "source": "BBC_Business",
+    "title": "Lower clothing and food prices help inflation fall by more than expected",
+    "url": "https://www.bbc.com/news/articles/cy7vjz3ngy7o?at_medium=RSS&at_campaign=rss",
+    "id_key": "503754d662987e459a8bb0697f51ca49ab8e3035ba6222413d510ec78a8e060b",
+    "summary": "The November figure is down on the 3.6% recorded in the year to October.",
+    "ingested_utc": "2025-12-17T07:52:45Z"
+  },
+  {
+    "published_utc": "2025-12-17",
+    "retrieved_date": "2025-12-17",
     "retrieved_utc": "2025-12-17T07:44:15Z",
     "source": "Nikkei_Asia_Top",
     "title": "Cambodian tourism suffers as conflict with Thailand nears Angkor Wat",
@@ -10986,17 +10997,6 @@
     "url": "https://www.theverge.com/news/844655/gnome-linux-ai-shell-extensions-ban",
     "id_key": "428eae2ac2de8a959dd6bada52b8f4b6398d2f78a6e9ec32430b94115d33dbc7",
     "summary": "Earlier this month, the GNOME Shell Extensions store updated its review guidelines to include a new section specifically stating that \"extensions must not be AI-generated,\" as reported by It's FOSS and Phoronix. Developers producing add-ons for the Linux desktop environment can still use AI as a tool, but if their extension's code contains signs of […]",
-    "ingested_utc": "2025-12-15T16:21:26Z"
-  },
-  {
-    "published_utc": "2025-12-15",
-    "retrieved_date": "2025-12-15",
-    "retrieved_utc": "2025-12-15T16:21:26Z",
-    "source": "TheVerge_All",
-    "title": "Merriam-Webster’s 2025 word of the year is ‘slop’",
-    "url": "https://www.theverge.com/news/844640/merriam-webster-ai-slop-word-of-the-year-2025",
-    "id_key": "272bab8a976ea18c4b8bb1971a85cd04ec15e72ea807f148dce57bb0a9509bdc",
-    "summary": "Merriam-Webster has settled on a word that represents 2025 - and that word is \"slop.\" The dictionary-maker defines \"slop\" as \"digital content of low quality that is produced usually in quantity by means of artificial intelligence,\" something that many people have become familiar with as AI-generated content permeates the internet. This year, some of the […]",
     "ingested_utc": "2025-12-15T16:21:26Z"
   }
 ]
