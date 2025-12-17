@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-12-17",
     "retrieved_date": "2025-12-17",
+    "retrieved_utc": "2025-12-17T19:51:22Z",
+    "source": "FinancialPost_Business",
+    "title": "B.C. mink farmers drop legal challenge of ban, citing costs after four-year fight",
+    "url": "https://financialpost.com/pmn/b-c-mink-farmers-drop-legal-challenge-of-ban-citing-costs-after-four-year-fight-2",
+    "id_key": "acc7817a35fd54c0e9ef5b0848f41c61bad23efd217e0895c73e91ee81fe5988",
+    "summary": "VANCOUVER — Mink farmers in British Columbia and elsewhere in Canada are dropping their legal challenge over a pandemic-era ban in the province due to legal fees they say are “far beyond their means.” The British Columbia Mink Producers Association and the Canada Mink Breeders Association had been petitioning for a judicial review of the […]",
+    "ingested_utc": "2025-12-17T19:51:22Z"
+  },
+  {
+    "published_utc": "2025-12-17",
+    "retrieved_date": "2025-12-17",
+    "retrieved_utc": "2025-12-17T19:51:22Z",
+    "source": "FinancialPost_Business",
+    "title": "U.S. DOT, BETA Technologies, Industry Collaborate on National Advanced Air Mobility Strategy",
+    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/u-s-dot-beta-technologies-industry-collaborate-on-national-advanced-air-mobility-strategy",
+    "id_key": "313dc3aada4a6c11c4ae11d7b63d21ad31db4840906c45461cce66a1f2df151b",
+    "summary": "BETA Technologies Applauds U.S. DOT’s Policy Vision for AAM SOUTH BURLINGTON, Vt. — Today, BETA Technologies (NYSE: BETA) joined U.S. Transportation Secretary Sean P. Duffy as the Administration unveiled a new strategy to accelerate the rollout of Advanced Air Mobility (AAM) across America. The Advanced Air Mobility National Strategy: A Bold Policy Vision for 2026–2036 […]",
+    "ingested_utc": "2025-12-17T19:51:22Z"
+  },
+  {
+    "published_utc": "2025-12-17",
+    "retrieved_date": "2025-12-17",
+    "retrieved_utc": "2025-12-17T19:48:13Z",
+    "source": "Guardian_World",
+    "title": "Former Trump prosecutor Jack Smith defends investigation in House testimony",
+    "url": "https://www.theguardian.com/us-news/2025/dec/17/jack-smith-house-testimony-trump",
+    "id_key": "8481194743dff66b50262c9d0966c4d637edf24d268ef173ab8c80fb49d2e281",
+    "summary": "Ex-special counsel tells House panel US president’s actions alone underpinned now-dropped prosecutions Jack Smith, the former US justice department special counsel who brought two now-dropped criminal cases against Donald Trump , defended his investigation before a House of Representatives panel on Wednesday, telling lawmakers that the basis for the prosecutions “rests entirely with President Trump and his actions”. Smith gave private testimony to the Republican-controlled House judiciary committee following months of disclosures from Trump appointees at the justice department, and Republican lawmakers intended to discredit Smith’s investigation and bolster Trump’s claims that the cases were an abuse of the legal system. Continue reading...",
+    "ingested_utc": "2025-12-17T19:48:13Z"
+  },
+  {
+    "published_utc": "2025-12-17",
+    "retrieved_date": "2025-12-17",
     "retrieved_utc": "2025-12-17T19:44:03Z",
     "source": "Engadget_All",
     "title": "Meta is 'pausing' third-party VR headsets from ASUS and Lenovo",
@@ -10965,38 +10998,5 @@
     "id_key": "62672838f092dea3b5fbe01d16f74e0292e667cdc99612eb27e6eb2e066e2423",
     "summary": "Figures also show wage growth cooled in three months to October",
     "ingested_utc": "2025-12-16T08:54:24Z"
-  },
-  {
-    "published_utc": "2025-12-16",
-    "retrieved_date": "2025-12-16",
-    "retrieved_utc": "2025-12-16T08:54:12Z",
-    "source": "NYTimes_Business",
-    "title": "My Boss Got Way Too Drunk at the Christmas Party",
-    "url": "https://www.nytimes.com/2025/12/13/business/my-boss-got-way-too-drunk-at-the-christmas-party.html",
-    "id_key": "cb9a36dd4c690c1618d60b6ef75dcf6bcc48bcbad3a192e862457ec1aa7c6920",
-    "summary": "And now I’m dealing with the consequences.",
-    "ingested_utc": "2025-12-16T08:54:12Z"
-  },
-  {
-    "published_utc": "2025-12-16",
-    "retrieved_date": "2025-12-16",
-    "retrieved_utc": "2025-12-16T08:53:54Z",
-    "source": "Guardian_World",
-    "title": "BBC bosses ‘right to stick by their guns’ against Trump, says minister",
-    "url": "https://www.theguardian.com/media/2025/dec/16/bbc-bosses-right-to-stick-by-their-guns-against-trump-says-minister",
-    "id_key": "140750ed8aae6d82f5380dc4b80dc4c4756accf2858ef6183829c58dc355ed63",
-    "summary": "Keir Starmer urged to ‘stand up for the BBC’ after US president files $10bn lawsuit against corporation BBC bosses are “right to stick by their guns” against Donald Trump , a minister has said, after the US president filed a $10bn lawsuit against the corporation . The UK government is under pressure to throw its weight behind the corporation as Trump demands billions in damages over its editing of a speech he made to supporters in Washington before they stormed the US Capitol in 2021. Continue reading...",
-    "ingested_utc": "2025-12-16T08:53:54Z"
-  },
-  {
-    "published_utc": "2025-12-16",
-    "retrieved_date": "2025-12-16",
-    "retrieved_utc": "2025-12-16T08:53:28Z",
-    "source": "Teku_Releases",
-    "title": "25.12.0",
-    "url": "https://github.com/Consensys/teku/releases/tag/25.12.0",
-    "id_key": "de784b0a3d2fb5b4db6c6c54d69dfa228b9db8d272f224d00f9300dec45b9730",
-    "summary": "This is a recommended release update containing bug fixes and improvements. Downloads Available as 25.12.0 on Dockerhub Download the binary distribution: tar.gz (sha256: db14d26fe159f256da94f03c7f00fb9053601b159c979f2b32e884214405c989 ) zip (sha256: 5ca5ee937331715124debfd0a5486395e709eba390e4f5bbb98fe009e5cd9fe3 ) Additions and Improvements Added new metrics beacon_earliest_available_slot and data_column_sidecar_processing_validated_total. Block proposal duties can now be scheduled in advance for fulu. Late block reorg enabled by default. Block building preparation enabled by default. The beacon node will now pre-compute head and pre-state selection in preparation for block building. (Disabled in Gnosis). Enabled a new version of sidecar recovery by default. Bug Fixes Fixed a storage issue which sometimes caused Teku to crash during shut down. Fixed peer_count metric when using --metrics-publish-endpoint feature. Fixed earliest_available_slot calculation. Upcoming Breaking Changes N/A",
-    "ingested_utc": "2025-12-16T08:53:28Z"
   }
 ]
