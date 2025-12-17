@@ -1,24 +1,24 @@
 {
-  "started_utc": "2025-12-17T00:53:33Z",
-  "ended_utc": "2025-12-17T00:56:57Z",
-  "new_items_this_run": 40,
+  "started_utc": "2025-12-17T02:44:38Z",
+  "ended_utc": "2025-12-17T02:48:13Z",
+  "new_items_this_run": 23,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
     "Reuters_World": 0,
     "Reuters_Markets": 0,
-    "BBC_World": 0,
-    "BBC_Business": 3,
+    "BBC_World": 1,
+    "BBC_Business": 0,
     "BBC_Technology": 0,
     "Guardian_Business": 0,
-    "Guardian_World": 5,
+    "Guardian_World": 6,
     "WSJ_US_Business": 0,
     "WSJ_World": 0,
     "WSJ_Markets": 0,
     "MarketWatch_Top": 0,
     "MarketWatch_MarketPulse": 0,
     "Blockworks": 0,
-    "BitcoinMagazine": 0,
+    "BitcoinMagazine": 1,
     "CryptoSlate": 0,
     "CryptoBriefing": 0,
     "Protos": 0,
@@ -44,7 +44,7 @@
     "Circle_Blog": 0,
     "Tether_Blog": 0,
     "MetaMask_Blog": 0,
-    "Erigon_Releases": 0,
+    "Erigon_Releases": 1,
     "Nethermind_Releases": 0,
     "Lighthouse_Releases": 0,
     "Teku_Releases": 0,
@@ -56,8 +56,8 @@
     "MarketWatch_RealTime": 0,
     "MarketWatch_Bulletins": 0,
     "MarketWatch_PersonalFinance": 0,
-    "NYTimes_Business": 1,
-    "NYTimes_World": 4,
+    "NYTimes_Business": 0,
+    "NYTimes_World": 2,
     "NYTimes_Economy": 0,
     "NYTimes_Technology": 0,
     "CNN_Top": 0,
@@ -67,27 +67,27 @@
     "NPR_World": 0,
     "NPR_Technology": 0,
     "FT_Home": 1,
-    "FT_Markets": 1,
+    "FT_Markets": 2,
     "CNBC_Top": 0,
     "CNBC_Markets": 0,
-    "TheVerge_All": 1,
+    "TheVerge_All": 0,
     "TechCrunch_All": 0,
     "ArsTechnica_All": 0,
     "WIRED_All": 0,
-    "Engadget_All": 1,
+    "Engadget_All": 0,
     "TheEconomist_Business": 0,
     "TheEconomist_Finance": 0,
     "Investopedia_Latest": 0,
     "TheStreet_Top": 1,
     "AlJazeera_All": 1,
     "AlJazeera_Economy": 0,
-    "FinancialPost_Business": 4,
+    "FinancialPost_Business": 5,
     "CBC_Business": 0,
-    "Nikkei_Asia_Top": 15,
+    "Nikkei_Asia_Top": 2,
     "WorldBank_News": 0,
     "OECD_Newsroom": 0,
     "MIT_TechReview": 0,
-    "HackerNews_Top": 2
+    "HackerNews_Top": 0
   },
   "errors": [
     {
@@ -339,19 +339,19 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 626,
+    "passed_keywords": 619,
     "passed_allowlist": 0,
-    "failed_all_filters": 470
+    "failed_all_filters": 479
   },
   "stats": {
     "feeds_total": 97,
     "feeds_error": 24,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 1563,
+    "entries_seen": 1565,
     "too_old": 467,
     "dup_title_url": 126,
-    "dup_id": 460
+    "dup_id": 470
   },
   "limits": {
     "skip_older_days": 10,
@@ -364,6 +364,6 @@
   },
   "processed": {
     "file": "data/processed/2025-12-17.jsonl",
-    "appended_new": 40
+    "appended_new": 23
   }
 }
