@@ -1,7 +1,7 @@
 {
-  "started_utc": "2025-12-18T04:52:03Z",
-  "ended_utc": "2025-12-18T04:55:35Z",
-  "new_items_this_run": 5,
+  "started_utc": "2025-12-18T05:15:09Z",
+  "ended_utc": "2025-12-18T05:18:38Z",
+  "new_items_this_run": 11,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
@@ -20,9 +20,9 @@
     "Blockworks": 0,
     "BitcoinMagazine": 0,
     "CryptoSlate": 0,
-    "CryptoBriefing": 0,
+    "CryptoBriefing": 1,
     "Protos": 0,
-    "CryptoNews": 1,
+    "CryptoNews": 0,
     "CoinJournal": 0,
     "Unchained": 0,
     "Bankless": 0,
@@ -56,8 +56,8 @@
     "MarketWatch_RealTime": 0,
     "MarketWatch_Bulletins": 0,
     "MarketWatch_PersonalFinance": 0,
-    "NYTimes_Business": 0,
-    "NYTimes_World": 0,
+    "NYTimes_Business": 1,
+    "NYTimes_World": 2,
     "NYTimes_Economy": 0,
     "NYTimes_Technology": 0,
     "CNN_Top": 0,
@@ -67,7 +67,7 @@
     "NPR_World": 0,
     "NPR_Technology": 0,
     "FT_Home": 0,
-    "FT_Markets": 0,
+    "FT_Markets": 3,
     "CNBC_Top": 0,
     "CNBC_Markets": 0,
     "TheVerge_All": 0,
@@ -75,13 +75,13 @@
     "ArsTechnica_All": 0,
     "WIRED_All": 0,
     "Engadget_All": 0,
-    "TheEconomist_Business": 1,
+    "TheEconomist_Business": 0,
     "TheEconomist_Finance": 0,
     "Investopedia_Latest": 0,
     "TheStreet_Top": 0,
-    "AlJazeera_All": 1,
+    "AlJazeera_All": 0,
     "AlJazeera_Economy": 0,
-    "FinancialPost_Business": 0,
+    "FinancialPost_Business": 2,
     "CBC_Business": 0,
     "Nikkei_Asia_Top": 0,
     "WorldBank_News": 0,
@@ -350,8 +350,8 @@
     "feeds_http_error": 0,
     "entries_seen": 1524,
     "too_old": 469,
-    "dup_title_url": 110,
-    "dup_id": 455
+    "dup_title_url": 109,
+    "dup_id": 450
   },
   "limits": {
     "skip_older_days": 10,
@@ -364,6 +364,6 @@
   },
   "processed": {
     "file": "data/processed/2025-12-18.jsonl",
-    "appended_new": 5
+    "appended_new": 11
   }
 }
