@@ -2,6 +2,50 @@
   {
     "published_utc": "2025-12-19",
     "retrieved_date": "2025-12-19",
+    "retrieved_utc": "2025-12-19T09:46:29Z",
+    "source": "Nikkei_Asia_Top",
+    "title": "Japan 10-year bond yields hit 26-year high after BOJ rate rise",
+    "url": "https://asia.nikkei.com/business/markets/japan-10-year-bond-yields-hit-26-year-high-after-boj-rate-rise",
+    "id_key": "73ea870843bb3ca26ca811a1256799d80ddfe8c9054e44ea2c7cee9fc7426418",
+    "summary": "",
+    "ingested_utc": "2025-12-19T09:46:29Z"
+  },
+  {
+    "published_utc": "2025-12-19",
+    "retrieved_date": "2025-12-19",
+    "retrieved_utc": "2025-12-19T09:46:27Z",
+    "source": "FinancialPost_Business",
+    "title": "China’s 1st underground gas storage facility up and running for 50 years",
+    "url": "https://financialpost.com/globe-newswire/chinas-1st-underground-gas-storage-facility-up-and-running-for-50-years",
+    "id_key": "c516d0ff4f807e8b2e1ae672627c50ca2efba8f1ff42e85ebb58bcde7bd07741",
+    "summary": "HARBIN, China, Dec. 19, 2025 (GLOBE NEWSWIRE) — China’s longest-serving underground gas storage facility, located in Daqing Oilfield in the northeastern province of Heilongjiang, has seen injection and extraction of over 5 billion cubic meters of natural gas over its 50 years of operation. A Media Snippet accompanying this announcement is available by clicking on this […]",
+    "ingested_utc": "2025-12-19T09:46:27Z"
+  },
+  {
+    "published_utc": "2025-12-19",
+    "retrieved_date": "2025-12-19",
+    "retrieved_utc": "2025-12-19T09:43:40Z",
+    "source": "Guardian_World",
+    "title": "Alleged Bondi beach gunman visited firearms shop during Philippines visit, local police say",
+    "url": "https://www.theguardian.com/australia-news/2025/dec/19/alleged-bondi-beach-gunman-visited-firearms-shop-during-philippines-visit-local-police-say",
+    "id_key": "b159ad735c6939aa79681c8801ac67c9816b860337ddcc32948950d9b7af9863",
+    "summary": "Investigation centres on pair’s movements outside the GV hotel, where they stayed throughout their time in the country One of the alleged Bondi beach shooters visited a firearms shop during his visit to the Philippines, local police have revealed as they investigate what the pair did in the weeks before the mass shooting. Sajid Akram and his son Naveed stayed in a hotel in Davao City for four weeks before returning to Australia on 28 November, only two weeks before they allegedly killed 15 people and wounded dozens of others at a Hanukah celebration in Sydney on Sunday. Continue reading...",
+    "ingested_utc": "2025-12-19T09:43:40Z"
+  },
+  {
+    "published_utc": "2025-12-19",
+    "retrieved_date": "2025-12-19",
+    "retrieved_utc": "2025-12-19T09:43:40Z",
+    "source": "Guardian_World",
+    "title": "Weather tracker: Early snowfall in New York and a storm rips down lights in Spain",
+    "url": "https://www.theguardian.com/environment/2025/dec/19/weather-tracker-early-snowfall-new-york-storm-rips-down-lights-spain",
+    "id_key": "c598b164bf9693b9744dcc014f1567d92907614dd41fc38891593997d05e99b9",
+    "summary": "Long Island receives 8.5in of snow, while a tornado tears down Christmas decorations near Málaga Heavy snow fell in parts of New England this week. Central Park, New York, received a few inches of snow, while 8.5in were dumped in parts of Long Island. This is the earliest New York has experienced snowfall since 2018. New York narrowly missed out on widespread snowfall just a few weeks ago. The low-pressure system tracked ever so slightly to the north of New York, enabling the warmer air to edge in. Meanwhile, upstate New York and other parts of New England were on the colder side of the system and received significant snow accumulations. Continue reading...",
+    "ingested_utc": "2025-12-19T09:43:40Z"
+  },
+  {
+    "published_utc": "2025-12-19",
+    "retrieved_date": "2025-12-19",
     "retrieved_utc": "2025-12-19T09:19:50Z",
     "source": "HackerNews_Top",
     "title": "Show HN: Orbit a systems level programming language that compiles .sh to LLVM",
@@ -1494,6 +1538,17 @@
     "id_key": "eb0d8f5c197505f439f3bcb6563bbe54e7c9addee7c395bd25fb1c1f38f12827",
     "summary": "There are no official statistics surrounding suicide among Ukrainian soldiers, but they are thought to count in the hundreds.",
     "ingested_utc": "2025-12-19T00:57:25Z"
+  },
+  {
+    "published_utc": "2025-12-18",
+    "retrieved_date": "2025-12-19",
+    "retrieved_utc": "2025-12-19T09:43:37Z",
+    "source": "BBC_Business",
+    "title": "Faisal Islam: Will pre-Christmas interest rate cut be enough to boost UK economy next year?",
+    "url": "https://www.bbc.com/news/articles/c1kp2722399o?at_medium=RSS&at_campaign=rss",
+    "id_key": "4ef6f4624a95ffcea4b19909457481da0fb4ec775910cef74ca69851087c1e9a",
+    "summary": "The Bank of England is hoping the interest rate cut will inject some much-needed momentum into the economy.",
+    "ingested_utc": "2025-12-19T09:43:37Z"
   },
   {
     "published_utc": "2025-12-18",
@@ -10943,60 +10998,5 @@
     "id_key": "4747bb8a1d964846b7648037c1f9850668520240f6716a17c23a0c19e34939c2",
     "summary": "The US has increasingly looked abroad to fill teaching shortages. But some educators fear uncertainty under Trump.",
     "ingested_utc": "2025-12-17T16:55:23Z"
-  },
-  {
-    "published_utc": "2025-12-17",
-    "retrieved_date": "2025-12-17",
-    "retrieved_utc": "2025-12-17T16:55:14Z",
-    "source": "Engadget_All",
-    "title": "Uber and DoorDash challenge NYC law that encourages tipping",
-    "url": "https://www.engadget.com/big-tech/uber-and-doordash-challenge-nyc-law-that-encourages-tipping-163315375.html?src=rss",
-    "id_key": "1963898ac3835b3d1bcd6c49d8fe8049552ca30075a9aff8756338505c3c7cdf",
-    "summary": "Uber and DoorDash are challenging a forthcoming NYC law that encourages tipping on food-delivery apps, as reported by The New York Times . The two entities have filed a joint federal lawsuit just ahead of the ruling going into effect next month. Back in 2023, many food delivery apps in the city moved the tip suggestion box to after purchases had been completed. This is sort of how rideshare apps work. It followed NYC mandating a minimum pay rate for food delivery workers , the first in the country. The new law simply switches the tip suggestion box back to checkout, with a suggestion of ten percent. Customers are still free to set it to zero, if that's their thing. The two companies say this law violates the First Amendment by requiring them to \"speak a government-mandated message.\" They also say the rule would cause customers to use the app less because they were suffering from \"tipping fatigue.\" As a customer of food delivery apps, I am not stricken with tipping fatigue. I have, however, come down with a serious case of \"what are all of these mysterious fees on my bill and why is my burrito $45?\" fatigue. NYC food delivery workers have experienced a sharp decline in tips since the apps switched the suggestion field to after a purchase has been completed. It's extremely easy to ignore an app notification while in a food coma on the couch. \"Removing the tipping option is to keep workers in poverty and make them depend on taking more orders,\" said Ligia Guallpa, co-founder of Workers Justice Project. Food delivery in the city is still booming. New Yorkers spent more than $265 million on restaurant deliveries in the first half of 2025, which is up from $183 million during the same period in 2022. Current estimates suggest that there are around 80,000 delivery workers in NYC. This particular law became a small part of the city's recent mayoral campaign. Mayor-elect Zohran Mamdani said during the campaign that he supported giving customers the option to tip at checkout. DoorDash donated $1 million to his rival, former Gov. Andrew Cuomo. This article originally appeared on Engadget at https://www.engadget.com/big-tech/uber-and-doordash-challenge-nyc-law-that-encourages-tipping-163315375.html?src=rss",
-    "ingested_utc": "2025-12-17T16:55:14Z"
-  },
-  {
-    "published_utc": "2025-12-17",
-    "retrieved_date": "2025-12-17",
-    "retrieved_utc": "2025-12-17T16:54:23Z",
-    "source": "Guardian_World",
-    "title": "Four Republicans join with all Democrats to sign petition to force House vote on legislation extending ACA subsidies – US politics live",
-    "url": "https://www.theguardian.com/us-news/live/2025/dec/17/donald-trump-venezuela-oil-jack-smith-fcc-jimmy-kimmel-us-politics-live-news-updates",
-    "id_key": "1078a1b80f219997b6bac64df587d9074ed6dba5802c1b939971da1340edf64a",
-    "summary": "In a setback for speaker Mike Johnson and the House GOP, some Republicans join petition to force vote on bill to extend tax credits for three years The Donald Trump -appointed chair of the Federal Communications Commission Brendan Carr will soon make his first appearance before Congress since sparking an uproar with comments seen as pressuring ABC to temporarily pull comedian Jimmy Kimmel from the air. ABC indefinitely suspended Kimmel’s show over statements he made following the murder of conservative activist Charlie Kirk , which prompted Carr to say that he wanted broadcasters to “take action” on Kimmel, and: “We can do this the easy way or the hard way.” Continue reading...",
-    "ingested_utc": "2025-12-17T16:54:23Z"
-  },
-  {
-    "published_utc": "2025-12-17",
-    "retrieved_date": "2025-12-17",
-    "retrieved_utc": "2025-12-17T16:52:41Z",
-    "source": "Blockworks",
-    "title": "The network is the innovation",
-    "url": "https://blockworks.co/news/the-network-is-the-innovation",
-    "id_key": "4129d4664198ae1b0debf96d94e7e26a6c61bfdbeec68a136e51cbd2a05b38e6",
-    "summary": "What Thomas Edison actually invented — and what it tells us about the future of crypto",
-    "ingested_utc": "2025-12-17T16:52:41Z"
-  },
-  {
-    "published_utc": "2025-12-17",
-    "retrieved_date": "2025-12-17",
-    "retrieved_utc": "2025-12-17T16:52:26Z",
-    "source": "Guardian_World",
-    "title": "Brigitte Macron faces lawsuit after being filmed using sexist slur at Paris theatre",
-    "url": "https://www.theguardian.com/world/2025/dec/17/brigitte-macron-france-lawsuit-feminism-sales-connes",
-    "id_key": "387fe8e6aa0c7c31aed58dc92bf05d92a70153fc855a7bd1507ae28c98c2b97d",
-    "summary": "More than 300 women file complaint after video shows French first lady calling feminist protesters ‘sales connes’ Brigitte Macron is facing a legal complaint from several organisations, including women’s rights groups, after she was filmed saying feminist protesters at a theatre show in Paris were “stupid bitches”. More than 300 women – specifically 343, a historically symbolic number in French feminism– this week filed the complaint against the French first lady for public insult. Continue reading...",
-    "ingested_utc": "2025-12-17T16:52:26Z"
-  },
-  {
-    "published_utc": "2025-12-17",
-    "retrieved_date": "2025-12-17",
-    "retrieved_utc": "2025-12-17T16:52:26Z",
-    "source": "Guardian_World",
-    "title": "Why young people are the big losers in Europe’s dysfunctional housing system",
-    "url": "https://www.theguardian.com/world/2025/dec/17/this-is-europe-young-people-dysfunctional-housing-system-renting",
-    "id_key": "f22b9e2a2be9721d14b2f146a1a0e1eaed60e69adc6cc70af4ec4b286166755a",
-    "summary": "The EU has unveiled its first-ever housing strategy, but is it enough to see off the far right and rescue a generation shut out of affordable living? Don’t get This Is Europe delivered to your inbox? Sign up here Donald Trump may rage about Europe being a multicultural hell facing “civilisational” collapse. As a proud real estate guy, however, he must be impressed by one feature of European life: the house prices, and the extent to which even progressive governments have abandoned housing to the markets. Since 2010, average sale prices in the EU have surged by close to 60%. In some countries, such as the Netherlands, house prices have doubled in a decade. Rents, meanwhile, have increased by almost 30% on average in the last 15 years . The rent average masks dramatic spikes experienced in some countries: 208% in Estonia, 177% in Lithuania, 108% in Ireland and 107% in Hungary. If property has been a lucrative bet for wealthy investors, the cost of a home is a financial ordeal for millions of people whose incomes have been outpaced. Continue reading...",
-    "ingested_utc": "2025-12-17T16:52:26Z"
   }
 ]
