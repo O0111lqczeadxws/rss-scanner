@@ -1,17 +1,17 @@
 {
-  "started_utc": "2025-12-18T23:48:32Z",
-  "ended_utc": "2025-12-18T23:51:59Z",
-  "new_items_this_run": 9,
+  "started_utc": "2025-12-19T00:57:09Z",
+  "ended_utc": "2025-12-19T01:00:41Z",
+  "new_items_this_run": 38,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
     "Reuters_World": 0,
     "Reuters_Markets": 0,
-    "BBC_World": 0,
-    "BBC_Business": 0,
-    "BBC_Technology": 0,
+    "BBC_World": 1,
+    "BBC_Business": 3,
+    "BBC_Technology": 1,
     "Guardian_Business": 0,
-    "Guardian_World": 1,
+    "Guardian_World": 5,
     "WSJ_US_Business": 0,
     "WSJ_World": 0,
     "WSJ_Markets": 0,
@@ -20,9 +20,9 @@
     "Blockworks": 0,
     "BitcoinMagazine": 0,
     "CryptoSlate": 0,
-    "CryptoBriefing": 0,
+    "CryptoBriefing": 1,
     "Protos": 0,
-    "CryptoNews": 0,
+    "CryptoNews": 1,
     "CoinJournal": 0,
     "Unchained": 0,
     "Bankless": 0,
@@ -57,11 +57,11 @@
     "MarketWatch_Bulletins": 0,
     "MarketWatch_PersonalFinance": 0,
     "NYTimes_Business": 0,
-    "NYTimes_World": 0,
+    "NYTimes_World": 1,
     "NYTimes_Economy": 0,
     "NYTimes_Technology": 0,
     "CNN_Top": 0,
-    "NPR_Top": 0,
+    "NPR_Top": 1,
     "NPR_Business": 0,
     "NPR_Economy": 0,
     "NPR_World": 0,
@@ -74,16 +74,16 @@
     "TechCrunch_All": 0,
     "ArsTechnica_All": 0,
     "WIRED_All": 0,
-    "Engadget_All": 0,
+    "Engadget_All": 1,
     "TheEconomist_Business": 0,
     "TheEconomist_Finance": 0,
     "Investopedia_Latest": 0,
     "TheStreet_Top": 3,
     "AlJazeera_All": 0,
     "AlJazeera_Economy": 0,
-    "FinancialPost_Business": 5,
+    "FinancialPost_Business": 7,
     "CBC_Business": 0,
-    "Nikkei_Asia_Top": 0,
+    "Nikkei_Asia_Top": 13,
     "WorldBank_News": 0,
     "OECD_Newsroom": 0,
     "MIT_TechReview": 0,
@@ -339,19 +339,19 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 602,
+    "passed_keywords": 606,
     "passed_allowlist": 0,
-    "failed_all_filters": 473
+    "failed_all_filters": 475
   },
   "stats": {
     "feeds_total": 97,
     "feeds_error": 24,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 1539,
-    "too_old": 464,
-    "dup_title_url": 120,
-    "dup_id": 473
+    "entries_seen": 1543,
+    "too_old": 462,
+    "dup_title_url": 125,
+    "dup_id": 443
   },
   "limits": {
     "skip_older_days": 10,
@@ -363,7 +363,7 @@
     "backoff": 0.75
   },
   "processed": {
-    "file": "data/processed/2025-12-18.jsonl",
-    "appended_new": 9
+    "file": "data/processed/2025-12-19.jsonl",
+    "appended_new": 38
   }
 }
