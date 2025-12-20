@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-12-20",
     "retrieved_date": "2025-12-20",
+    "retrieved_utc": "2025-12-20T21:39:10Z",
+    "source": "NYTimes_World",
+    "title": "U.S. Coast Guard Boards Tanker Carrying Venezuelan Oil",
+    "url": "https://www.nytimes.com/2025/12/20/us/politics/us-coast-guard-venezuela-oil-tanker.html",
+    "id_key": "c188e7ab9a10779f302b92bb6f79773ea16e5ca004817784ef8a48b769c886d7",
+    "summary": "The vessel, which was flying a Panamanian flag, was not on a list of tankers under U.S. sanctions.",
+    "ingested_utc": "2025-12-20T21:39:10Z"
+  },
+  {
+    "published_utc": "2025-12-20",
+    "retrieved_date": "2025-12-20",
+    "retrieved_utc": "2025-12-20T21:36:51Z",
+    "source": "Guardian_World",
+    "title": "Bill Clinton spokesperson says White House is using him as scapegoat after Epstein files release",
+    "url": "https://www.theguardian.com/us-news/2025/dec/20/bill-clinton-white-house-epstein-files",
+    "id_key": "c7cb47b28c658ad884ec0886b66e315cc85024a762ed2e23b634997c432b7846",
+    "summary": "Angel Ureña said ex-president, pictured in some photos released by justice department, cut ties with Epstein in 2005 A spokesperson for Bill Clinton accused the White House late on Friday of using him as a scapegoat after pictures of the former president with sex offender Jeffrey Epstein and Ghislaine Maxwell, as well as with a young woman in a pool, were included as part of congressionally ordered release of government files. “The White House hasn’t been hiding these files for months only to dump them late on a Friday to protect Bill Clinton,” the spokesperson said in a statement on X. Continue reading...",
+    "ingested_utc": "2025-12-20T21:36:51Z"
+  },
+  {
+    "published_utc": "2025-12-20",
+    "retrieved_date": "2025-12-20",
     "retrieved_utc": "2025-12-20T21:31:04Z",
     "source": "HackerNews_Top",
     "title": "Mathematicians don't care about foundations (2022)",
@@ -10976,27 +10998,5 @@
     "id_key": "114f760507d7b610a54d12a678640dbec17db52874f6320a349f6887e101d70e",
     "summary": "Microsoft is at it again with another round of ads showing people talking to Copilot AI on their computers. This time it's holiday-themed, including a cameo from the big man in red. The 30-second TV spot asks if you're \"ready for the holidays\" and features actors in various festive home settings asking Copilot for some […]",
     "ingested_utc": "2025-12-18T15:40:06Z"
-  },
-  {
-    "published_utc": "2025-12-18",
-    "retrieved_date": "2025-12-18",
-    "retrieved_utc": "2025-12-18T15:39:48Z",
-    "source": "NPR_Business",
-    "title": "Pulitzer Prize-winning correspondent Peter Arnett has died",
-    "url": "https://www.npr.org/2025/12/18/g-s1-102742/pulitzer-prize-winning-correspondent-peter-arnett-has-died",
-    "id_key": "4da9e13eb42dccb11476722ee3176d52054a1493651e2d854bafbd8f454fb301",
-    "summary": "Peter Arnett, the Pulitzer Prize-winning reporter who spent decades dodging bullets and bombs to bring the world eyewitness accounts of war from Vietnam to Iraq, has died. He was 91.",
-    "ingested_utc": "2025-12-18T15:39:48Z"
-  },
-  {
-    "published_utc": "2025-12-18",
-    "retrieved_date": "2025-12-18",
-    "retrieved_utc": "2025-12-18T15:37:53Z",
-    "source": "CryptoSlate",
-    "title": "Bitcoin’s viral $5 billion whale buy signal was actually a dangerous trap set by institutional accounting",
-    "url": "https://cryptoslate.com/the-5-billion-bitcoin-buying-spree-that-never-happened/",
-    "id_key": "1dc3eaed5aba03c7a1110905cb993f26d50990b03a7ff47736c19df4229524f4",
-    "summary": "A statistical mirage briefly convinced the crypto market this week that mid-sized whales had purchased roughly $5 billion of Bitcoin. During the past week, social media feeds filled with charts showing that roughly 54,000 Bitcoins are flooding into “shark” wallets, which are addresses holding between 100 and 1,000 coins. As a result, many industry players […] The post Bitcoin’s viral $5 billion whale buy signal was actually a dangerous trap set by institutional accounting appeared first on CryptoSlate .",
-    "ingested_utc": "2025-12-18T15:37:53Z"
   }
 ]
