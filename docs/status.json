@@ -1,6 +1,6 @@
 {
-  "started_utc": "2025-12-20T04:02:49Z",
-  "ended_utc": "2025-12-20T04:06:21Z",
+  "started_utc": "2025-12-20T04:38:39Z",
+  "ended_utc": "2025-12-20T04:42:03Z",
   "new_items_this_run": 2,
   "total_in_latest": 1000,
   "by_source": {
@@ -20,7 +20,7 @@
     "Blockworks": 0,
     "BitcoinMagazine": 0,
     "CryptoSlate": 0,
-    "CryptoBriefing": 1,
+    "CryptoBriefing": 0,
     "Protos": 0,
     "CryptoNews": 0,
     "CoinJournal": 0,
@@ -78,8 +78,8 @@
     "TheEconomist_Business": 0,
     "TheEconomist_Finance": 0,
     "Investopedia_Latest": 0,
-    "TheStreet_Top": 1,
-    "AlJazeera_All": 0,
+    "TheStreet_Top": 0,
+    "AlJazeera_All": 2,
     "AlJazeera_Economy": 0,
     "FinancialPost_Business": 0,
     "CBC_Business": 0,
