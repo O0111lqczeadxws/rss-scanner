@@ -1,7 +1,7 @@
 {
-  "started_utc": "2025-12-20T23:38:46Z",
-  "ended_utc": "2025-12-20T23:42:23Z",
-  "new_items_this_run": 0,
+  "started_utc": "2025-12-20T23:47:49Z",
+  "ended_utc": "2025-12-20T23:51:24Z",
+  "new_items_this_run": 1,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
@@ -78,7 +78,7 @@
     "TheEconomist_Business": 0,
     "TheEconomist_Finance": 0,
     "Investopedia_Latest": 0,
-    "TheStreet_Top": 0,
+    "TheStreet_Top": 1,
     "AlJazeera_All": 0,
     "AlJazeera_Economy": 0,
     "FinancialPost_Business": 0,
@@ -351,7 +351,7 @@
     "entries_seen": 1549,
     "too_old": 480,
     "dup_title_url": 133,
-    "dup_id": 483
+    "dup_id": 482
   },
   "limits": {
     "skip_older_days": 10,
@@ -364,6 +364,6 @@
   },
   "processed": {
     "file": "data/processed/2025-12-20.jsonl",
-    "appended_new": 0
+    "appended_new": 1
   }
 }
