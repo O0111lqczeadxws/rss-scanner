@@ -1,7 +1,7 @@
 {
-  "started_utc": "2025-12-20T05:34:14Z",
-  "ended_utc": "2025-12-20T05:37:41Z",
-  "new_items_this_run": 4,
+  "started_utc": "2025-12-20T05:52:34Z",
+  "ended_utc": "2025-12-20T05:56:01Z",
+  "new_items_this_run": 0,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
@@ -11,13 +11,13 @@
     "BBC_Business": 0,
     "BBC_Technology": 0,
     "Guardian_Business": 0,
-    "Guardian_World": 1,
+    "Guardian_World": 0,
     "WSJ_US_Business": 0,
     "WSJ_World": 0,
     "WSJ_Markets": 0,
     "MarketWatch_Top": 0,
     "MarketWatch_MarketPulse": 0,
-    "Blockworks": 1,
+    "Blockworks": 0,
     "BitcoinMagazine": 0,
     "CryptoSlate": 0,
     "CryptoBriefing": 0,
@@ -66,7 +66,7 @@
     "NPR_Economy": 0,
     "NPR_World": 0,
     "NPR_Technology": 0,
-    "FT_Home": 1,
+    "FT_Home": 0,
     "FT_Markets": 0,
     "CNBC_Top": 0,
     "CNBC_Markets": 0,
@@ -87,7 +87,7 @@
     "WorldBank_News": 0,
     "OECD_Newsroom": 0,
     "MIT_TechReview": 0,
-    "HackerNews_Top": 1
+    "HackerNews_Top": 0
   },
   "errors": [
     {
@@ -351,7 +351,7 @@
     "entries_seen": 1544,
     "too_old": 468,
     "dup_title_url": 128,
-    "dup_id": 486
+    "dup_id": 490
   },
   "limits": {
     "skip_older_days": 10,
@@ -364,6 +364,6 @@
   },
   "processed": {
     "file": "data/processed/2025-12-20.jsonl",
-    "appended_new": 4
+    "appended_new": 0
   }
 }
