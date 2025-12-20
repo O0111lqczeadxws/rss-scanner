@@ -1,6 +1,6 @@
 {
-  "started_utc": "2025-12-20T09:42:00Z",
-  "ended_utc": "2025-12-20T09:45:26Z",
+  "started_utc": "2025-12-20T09:48:46Z",
+  "ended_utc": "2025-12-20T09:52:12Z",
   "new_items_this_run": 1,
   "total_in_latest": 1000,
   "by_source": {
@@ -57,7 +57,7 @@
     "MarketWatch_Bulletins": 0,
     "MarketWatch_PersonalFinance": 0,
     "NYTimes_Business": 0,
-    "NYTimes_World": 1,
+    "NYTimes_World": 0,
     "NYTimes_Economy": 0,
     "NYTimes_Technology": 0,
     "CNN_Top": 0,
@@ -87,7 +87,7 @@
     "WorldBank_News": 0,
     "OECD_Newsroom": 0,
     "MIT_TechReview": 0,
-    "HackerNews_Top": 0
+    "HackerNews_Top": 1
   },
   "errors": [
     {
