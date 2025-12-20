@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-12-20",
     "retrieved_date": "2025-12-20",
+    "retrieved_utc": "2025-12-20T17:42:14Z",
+    "source": "TheStreet_Top",
+    "title": "Wall Street veteran sends strong message on GDP, economy",
+    "url": "https://www.thestreet.com/economy/wall-street-veteran-offers-eye-popping-gdp-prediction",
+    "id_key": "e92ddf8ba3469609d9da48fcef010d77a5d7779bcf653012061926c20e5e5b8c",
+    "summary": "Louis Navellier has witnessed more than his share of good and bad economies over his long Wall Street career. Navellier, a veteran money manager who has been navigating the stock market since the 1980s, is the founder of Navellier & Associates, a firm with about $1 billion in assets under ...",
+    "ingested_utc": "2025-12-20T17:42:14Z"
+  },
+  {
+    "published_utc": "2025-12-20",
+    "retrieved_date": "2025-12-20",
+    "retrieved_utc": "2025-12-20T17:39:43Z",
+    "source": "CryptoSlate",
+    "title": "XRP ETFs are booming, but a quiet $15 billion payment layer matters more than the price",
+    "url": "https://cryptoslate.com/xrp-etfs-are-booming-but-a-quiet-15-billion-payment-layer-matters-more-than-the-price/",
+    "id_key": "8209a665886f85c0e9a483e5ef045ae4b8ad99c9a4bcc7424f60a171e9831bc0",
+    "summary": "Four XRP spot ETFs now trade in the US, with combined assets of $941.7 million as of Dec. 18. Grayscale's GXRP holds $148.1 million, Canary Capital's XRPC $373.6 million, Franklin Templeton's XRPZ $189 million, and Bitwise's XRP ETF $215.6 million. That stack grew from roughly $336 million at launch in November to current levels in […] The post XRP ETFs are booming, but a quiet $15 billion payment layer matters more than the price appeared first on CryptoSlate .",
+    "ingested_utc": "2025-12-20T17:39:43Z"
+  },
+  {
+    "published_utc": "2025-12-20",
+    "retrieved_date": "2025-12-20",
     "retrieved_utc": "2025-12-20T17:31:57Z",
     "source": "Engadget_All",
     "title": "Valve discontinued the last remaining LCD model of the Steam Deck",
@@ -10976,27 +10998,5 @@
     "id_key": "6e7b038aed370601cc9b7591efc254c1a4f3c9fd83af65606cfa878b92bc066d",
     "summary": "Digital facilities that track wastage down to the gram have brought about behavioural change among users Min Geum-nan walks towards a metal bin beneath her apartment block in Gangdong district, eastern Seoul carrying a small bag of vegetable peelings. She taps her resident card on the reader, the lid swings open, she empties the contents and scans again and a digital screen flashes: 0.5kg. “You have no choice but to pay attention because you can see exactly what you’re wasting,” says Min, who has lived in the complex for 15 years and watched the system arrive in 2020. Continue reading...",
     "ingested_utc": "2025-12-18T14:44:00Z"
-  },
-  {
-    "published_utc": "2025-12-18",
-    "retrieved_date": "2025-12-18",
-    "retrieved_utc": "2025-12-18T14:42:25Z",
-    "source": "CryptoBriefing",
-    "title": "Bitcoin breaks $89,000, Ether, XRP move higher as US inflation cools in November",
-    "url": "https://cryptobriefing.com/bitcoin-price-rally-cpi-data/",
-    "id_key": "63191619c2ed6fc77b22dd72096228bc6b7388f86c5409287e1caabb37e0b4ea",
-    "summary": "Bitcoin's surge amid cooling inflation highlights market optimism, yet uncertainty over Fed policy could temper long-term economic confidence. The post Bitcoin breaks $89,000, Ether, XRP move higher as US inflation cools in November appeared first on Crypto Briefing .",
-    "ingested_utc": "2025-12-18T14:42:25Z"
-  },
-  {
-    "published_utc": "2025-12-18",
-    "retrieved_date": "2025-12-18",
-    "retrieved_utc": "2025-12-18T14:42:24Z",
-    "source": "CryptoSlate",
-    "title": "What is x402? The HTTP-402 payments standard powering AI agents, explained",
-    "url": "https://cryptoslate.com/what-is-x402-the-http-402-payments-standard-powering-ai-agents-explained/",
-    "id_key": "5f51d14f14bbe71e45dd8127e77b051e349528c75469aaec45b05b3aa744e94f",
-    "summary": "An API that charges for queries has always been awkward. Subscription tiers and monthly billing break down when autonomous agents make thousands of microtransactions per hour across new services. x402 is Coinbase's bet that the missing piece is a payment primitive wired directly into HTTP. The mechanism revives HTTP status code 402 “Payment Required.” When […] The post What is x402? The HTTP-402 payments standard powering AI agents, explained appeared first on CryptoSlate .",
-    "ingested_utc": "2025-12-18T14:42:24Z"
   }
 ]
