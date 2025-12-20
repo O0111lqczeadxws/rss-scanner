@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-12-20",
     "retrieved_date": "2025-12-20",
+    "retrieved_utc": "2025-12-20T11:37:49Z",
+    "source": "TheStreet_Top",
+    "title": "Costco will soon do something it only does 7 times a year",
+    "url": "https://www.thestreet.com/retail/costco-will-soon-do-something-it-only-does-7-times-annually",
+    "id_key": "2a9c1fe7319509db6666d5ccb8059b2390916aab71d3b41b6239e2cbd3940a35",
+    "summary": "A visit to Costco is not at all the same as a visit to a regular supermarket, or even big-box store. When you walk around Costco, you can never be quite sure what you're going to get. Costco might surprise you with a bulk version of your favorite pretzels or chips. Or, you may find that Costco has ...",
+    "ingested_utc": "2025-12-20T11:37:49Z"
+  },
+  {
+    "published_utc": "2025-12-20",
+    "retrieved_date": "2025-12-20",
+    "retrieved_utc": "2025-12-20T11:37:39Z",
+    "source": "WIRED_All",
+    "title": "25 Amazon Super Saturday Deals on Last-Minute Gifts We've Tested (2025)",
+    "url": "https://www.wired.com/story/amazon-super-saturday-deals-2025/",
+    "id_key": "7b3a869934db258c0b222e9be42634abeaf98784eb01ce90d55b3244562c872e",
+    "summary": "Procrastinators, rejoice. Super Saturday is here with last-minute deals on WIRED-tested gear.",
+    "ingested_utc": "2025-12-20T11:37:39Z"
+  },
+  {
+    "published_utc": "2025-12-20",
+    "retrieved_date": "2025-12-20",
     "retrieved_utc": "2025-12-20T11:26:58Z",
     "source": "CryptoNews",
     "title": "Address Poisoning Scam: One Copy-Paste Mistake Cost a Crypto Trader $50 Million",
@@ -10976,27 +10998,5 @@
     "id_key": "68c2080dff4831d01ee518f62700f11a906ac29540f8f11130fca8defd752984",
     "summary": "Decision follows signs of Eurozone resilience to Trump’s tariffs",
     "ingested_utc": "2025-12-18T13:51:12Z"
-  },
-  {
-    "published_utc": "2025-12-18",
-    "retrieved_date": "2025-12-18",
-    "retrieved_utc": "2025-12-18T13:51:12Z",
-    "source": "FT_Home",
-    "title": "US inflation unexpectedly falls to 2.7%",
-    "url": "https://www.ft.com/content/bee83769-fa41-4d18-9dc2-4a46130c72a8",
-    "id_key": "3d75aba8f71ae5f4e6d5aea93559542e7c1964acc9763e84e0410dc3198491f5",
-    "summary": "Data will fuel boost calls for Fed to keep cutting rates",
-    "ingested_utc": "2025-12-18T13:51:12Z"
-  },
-  {
-    "published_utc": "2025-12-18",
-    "retrieved_date": "2025-12-18",
-    "retrieved_utc": "2025-12-18T13:51:10Z",
-    "source": "NPR_World",
-    "title": "US announces massive package of arms sales to Taiwan valued at more than $10 billion",
-    "url": "https://www.npr.org/2025/12/18/nx-s1-5648080/us-arms-sales-taiwan-10-billion",
-    "id_key": "2b0a89a7ac4798641d0d5172ddcd2d91f9ace57ad98dda02023c30154f7d0f9a",
-    "summary": "The Trump administration has announced a massive package of arms sales to Taiwan valued at more than $10 billion that includes medium-range missiles, howitzers and drones, a move that is sure to infuriate China.",
-    "ingested_utc": "2025-12-18T13:51:10Z"
   }
 ]
