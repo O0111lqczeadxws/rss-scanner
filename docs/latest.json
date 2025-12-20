@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-12-20",
     "retrieved_date": "2025-12-20",
+    "retrieved_utc": "2025-12-20T23:32:42Z",
+    "source": "HackerNews_Top",
+    "title": "More databases should be single-threaded",
+    "url": "https://blog.konsti.xyz/p/8c8a399f-8cfe-47dd-9278-9527105d07dc/",
+    "id_key": "ab7744eb7514900965a341fa113e269e17fbde8e3f4aba95763fadf4810551f4",
+    "summary": "Comments",
+    "ingested_utc": "2025-12-20T23:32:42Z"
+  },
+  {
+    "published_utc": "2025-12-20",
+    "retrieved_date": "2025-12-20",
+    "retrieved_utc": "2025-12-20T23:31:44Z",
+    "source": "FT_Home",
+    "title": "US justice department under fire for removing Trump image from Epstein files",
+    "url": "https://www.ft.com/content/a1a1bf4f-96f7-4280-842e-ccdf10de291d",
+    "id_key": "06aaba001f2e9678b94560cbc5383edecdbaf28407004a4a5d2f3d8d223e1d80",
+    "summary": "Democrats raise questions over why some documents released on Friday were removed the next day",
+    "ingested_utc": "2025-12-20T23:31:44Z"
+  },
+  {
+    "published_utc": "2025-12-20",
+    "retrieved_date": "2025-12-20",
     "retrieved_utc": "2025-12-20T23:14:30Z",
     "source": "HackerNews_Top",
     "title": "Show HN: Jmail – Google Suite for Epstein files",
@@ -10976,27 +10998,5 @@
     "id_key": "2d5d62fa2f36a59dd203e533e87eba226a75bb61071f01358fb29e075b54b365",
     "summary": "Beyond Inclusive offer features a free all-inclusive upgrade, pre-cruise hotel night with transfer, and up to $1,000 onboard credit MIAMI — Windstar Cruises is elevating the 2026 Wave Season with its most valuable offer to date. The new “ Beyond Inclusive” promotion is available December 18, 2025–March 31, 2026 on select voyages through March 31, […]",
     "ingested_utc": "2025-12-18T15:56:49Z"
-  },
-  {
-    "published_utc": "2025-12-18",
-    "retrieved_date": "2025-12-18",
-    "retrieved_utc": "2025-12-18T15:56:49Z",
-    "source": "FinancialPost_Business",
-    "title": "ZenaTech Launches Q1 2026 Opening of the Zena AI Baton Rouge R&D Center, Supporting U.S. Defense, DARPA, Federal AI, and Quantum Computing Initiatives",
-    "url": "https://financialpost.com/globe-newswire/zenatech-launches-q1-2026-opening-of-the-zena-ai-baton-rouge-rd-center-supporting-u-s-defense-darpa-federal-ai-and-quantum-computing-initiatives",
-    "id_key": "620b90ebfb76beaaba58bd9fdfada25bbd9502527ae58435c02ee00c35f059b1",
-    "summary": "VANCOUVER, British Columbia, Dec. 18, 2025 (GLOBE NEWSWIRE) — ZenaTech, Inc. (Nasdaq: ZENA) (FSE: 49Q) (BMV: ZENA) (“ZenaTech”), a technology business solution provider specializing in AI (Artificial Intelligence) drone, Drone as a Service (DaaS), enterprise SaaS, and Quantum Computing solutions, provides an update on its previously announced Zena AI division Baton Rouge, Louisiana-based Research and […]",
-    "ingested_utc": "2025-12-18T15:56:49Z"
-  },
-  {
-    "published_utc": "2025-12-18",
-    "retrieved_date": "2025-12-18",
-    "retrieved_utc": "2025-12-18T15:56:41Z",
-    "source": "TheStreet_Top",
-    "title": "91-years-old historic bar is closing permanently",
-    "url": "https://www.thestreet.com/restaurants/91-years-old-historic-bar-is-closing-permanently",
-    "id_key": "61639a18e76e9f9dccaf2e5b50a7c1c364c811ec48017bdfc9e2142020daad9f",
-    "summary": "Even as far back as colonial America (circa 1607–1783), taverns held a special role in communities. Those were places where people would not only eat, drink, and lodge, but they would gather to exchange news and debate politics. What’s more, bars and taverns were so significant for political ...",
-    "ingested_utc": "2025-12-18T15:56:41Z"
   }
 ]
