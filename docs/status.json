@@ -1,7 +1,7 @@
 {
-  "started_utc": "2025-12-20T09:11:48Z",
-  "ended_utc": "2025-12-20T09:15:18Z",
-  "new_items_this_run": 1,
+  "started_utc": "2025-12-20T09:30:48Z",
+  "ended_utc": "2025-12-20T09:34:11Z",
+  "new_items_this_run": 2,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
@@ -22,7 +22,7 @@
     "CryptoSlate": 0,
     "CryptoBriefing": 0,
     "Protos": 0,
-    "CryptoNews": 1,
+    "CryptoNews": 0,
     "CoinJournal": 0,
     "Unchained": 0,
     "Bankless": 0,
@@ -79,7 +79,7 @@
     "TheEconomist_Finance": 0,
     "Investopedia_Latest": 0,
     "TheStreet_Top": 0,
-    "AlJazeera_All": 0,
+    "AlJazeera_All": 2,
     "AlJazeera_Economy": 0,
     "FinancialPost_Business": 0,
     "CBC_Business": 0,
@@ -131,16 +131,8 @@
       "error": "fatal parse failure"
     },
     {
-      "source": "https://unchainedcrypto.com/feed/",
-      "error": "fetch error: HTTP 415"
-    },
-    {
-      "source": "Unchained",
-      "error": "fatal parse failure"
-    },
-    {
       "source": "https://www.bankless.com/rss",
-      "error": "fetch error: HTTP 415"
+      "error": "fetch error: HTTP 404"
     },
     {
       "source": "Bankless",
@@ -347,19 +339,19 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 603,
+    "passed_keywords": 614,
     "passed_allowlist": 0,
-    "failed_all_filters": 463
+    "failed_all_filters": 462
   },
   "stats": {
     "feeds_total": 97,
-    "feeds_error": 25,
+    "feeds_error": 24,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 1535,
+    "entries_seen": 1545,
     "too_old": 469,
     "dup_title_url": 128,
-    "dup_id": 474
+    "dup_id": 484
   },
   "limits": {
     "skip_older_days": 10,
@@ -372,6 +364,6 @@
   },
   "processed": {
     "file": "data/processed/2025-12-20.jsonl",
-    "appended_new": 1
+    "appended_new": 2
   }
 }
