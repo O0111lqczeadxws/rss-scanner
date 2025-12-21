@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-12-21",
     "retrieved_date": "2025-12-21",
+    "retrieved_utc": "2025-12-21T07:42:43Z",
+    "source": "NYTimes_World",
+    "title": "Nine People Killed in Mass Shooting at Tavern in South Africa",
+    "url": "https://www.nytimes.com/2025/12/21/world/africa/mass-shooting-tavern-south-africa.html",
+    "id_key": "e9054ec66bf828d2cfb7e35feaf21e52a1825f8d87ccb54a5a01c7f5b79b2ad3",
+    "summary": "Around a dozen gunmen opened fire at random at bar patrons. The police said they launched a manhunt to find the unknown assailants.",
+    "ingested_utc": "2025-12-21T07:42:43Z"
+  },
+  {
+    "published_utc": "2025-12-21",
+    "retrieved_date": "2025-12-21",
     "retrieved_utc": "2025-12-21T07:12:39Z",
     "source": "Guardian_World",
     "title": "Danish postal service to stop delivering letters after 400 years",
@@ -10986,17 +10997,6 @@
     "url": "https://www.theguardian.com/society/2025/dec/18/nhs-england-on-high-alert-as-flu-admissions-surge-amid-staff-strikes",
     "id_key": "86a52c0951dbe2c227a32bde82fb8feb1cdfa07303898c91788b9ed45e5e5572",
     "summary": "NHS England on high alert as admissions reach all-time high for this time of year People should stay home over the Christmas period if they have symptoms of flu or Covid, experts have warned amid fears flu cases could see a second surge in the New Year. Flu levels appear to be plateauing, but it is too soon to say whether they have peaked, according to the UK Health Security Agency (UKHSA). As a result, experts are urging people to wash their hands regularly, make sure indoor spaces are well ventilated, get a free vaccination if eligible, and stay home where possible if symptoms develop. Continue reading...",
-    "ingested_utc": "2025-12-18T17:45:06Z"
-  },
-  {
-    "published_utc": "2025-12-18",
-    "retrieved_date": "2025-12-18",
-    "retrieved_utc": "2025-12-18T17:45:06Z",
-    "source": "Guardian_World",
-    "title": "Trump administration unveils actions aimed at eliminating gender-affirming care for minors",
-    "url": "https://www.theguardian.com/us-news/2025/dec/18/trump-transition-healthcare-funding-hhs",
-    "id_key": "55b84aaf37ce7b9ab9561756f2727116cdc15477526545c6fb8c620d0d981a9b",
-    "summary": "Proposal would prohibit Medicaid funds from being used to cover puberty blockers, hormone treatments or surgical procedures US politics live – latest updates The Trump administration unveiled new actions aimed at eliminating transition-related medical care for minors across the US on Thursday, referring to such treatments as “sex-rejecting procedures”, a term used by the Department of Health and Human Services (HHS). As part of the effort, the Centers for Medicare and Medicaid Services will initiate a rule-making process that would prevent hospitals from offering puberty blockers, hormone treatments, or surgical procedures to minors if they wish to participate in Medicare or Medicaid. Continue reading...",
     "ingested_utc": "2025-12-18T17:45:06Z"
   }
 ]
