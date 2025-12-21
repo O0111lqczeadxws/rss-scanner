@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-12-21",
     "retrieved_date": "2025-12-21",
+    "retrieved_utc": "2025-12-21T15:44:31Z",
+    "source": "HackerNews_Top",
+    "title": "Show HN: RenderCV – Open-source CV/resume generator, YAML → PDF",
+    "url": "https://github.com/rendercv/rendercv",
+    "id_key": "f566121740300af12bb6449d87e2ed7d84fb4a080145d3b25fe70093bf8f7bba",
+    "summary": "Comments",
+    "ingested_utc": "2025-12-21T15:44:31Z"
+  },
+  {
+    "published_utc": "2025-12-21",
+    "retrieved_date": "2025-12-21",
     "retrieved_utc": "2025-12-21T15:33:36Z",
     "source": "TheStreet_Top",
     "title": "Controversial Nvidia rival may finally IPO",
@@ -1505,6 +1516,17 @@
     "id_key": "a1bcba4be1454f7b1fa7be7031a64aee5a9605f93f6fb7fbac8dc287bc1d6672",
     "summary": "As some West African nations choose to cement old ties with France or a new ally in Russia, Togo wants both.",
     "ingested_utc": "2025-12-21T01:01:31Z"
+  },
+  {
+    "published_utc": "2025-12-20",
+    "retrieved_date": "2025-12-21",
+    "retrieved_utc": "2025-12-21T15:43:10Z",
+    "source": "Guardian_Business",
+    "title": "Merry boycotting: US shoppers avoid Trump-aligned businesses amid holiday season",
+    "url": "https://www.theguardian.com/us-news/2025/dec/20/shoppers-boycott-holiday-season-trump-economy",
+    "id_key": "f48e905321daf44bd0e6dd85648968ff9c281978ea207f7c902ba79d06bb970e",
+    "summary": "People are supporting economic boycotts to show discontent with businesses capitulating to Trump’s agenda It’s the busiest shopping season of the year – and a time when many are trying to figure out where to ethically spend their money. Over the first year of Trump’s second term, companies and institutions have fallen in line with the administration’s anti-DEI and anti-immigration policies. As a result, people are supporting economic boycotts to show their discontent with the businesses capitulating to the president. Continue reading...",
+    "ingested_utc": "2025-12-21T15:43:10Z"
   },
   {
     "published_utc": "2025-12-20",
@@ -10976,27 +10998,5 @@
     "id_key": "b3e778dbe1209c9d182274ccc4d9c0c068f162318f6b50a0715943b34b6dada2",
     "summary": "LG says it will let users delete the Microsoft Copilot shortcut it installed on newer TVs after several reports highlighted the unremovable icon. In a statement to The Verge, LG spokesperson Chris De Maria says the company \"respects consumer choice and will take steps to allow users to delete the shortcut icon if they wish.\" […]",
     "ingested_utc": "2025-12-18T20:35:56Z"
-  },
-  {
-    "published_utc": "2025-12-18",
-    "retrieved_date": "2025-12-18",
-    "retrieved_utc": "2025-12-18T20:33:33Z",
-    "source": "Blockworks",
-    "title": "Robinhood’s leap shows the prediction-market arms race is underway",
-    "url": "https://blockworks.co/news/robinhoods-leap-shows-the-prediction-market-arms-race-is-underway",
-    "id_key": "75b0cea5b560a820863971c6dbdab601a31e59311e0b55ffbb32c5c1c2d06e66",
-    "summary": "Robinhood is pushing deeper into high-margin market design, joining competitors like Kalshi and DraftKings",
-    "ingested_utc": "2025-12-18T20:33:33Z"
-  },
-  {
-    "published_utc": "2025-12-18",
-    "retrieved_date": "2025-12-18",
-    "retrieved_utc": "2025-12-18T20:16:54Z",
-    "source": "FinancialPost_Business",
-    "title": "Feds pave the way for Big Tech to plug data centers right into power plants in scramble for energy",
-    "url": "https://financialpost.com/pmn/feds-pave-the-way-for-big-tech-to-plug-data-centers-right-into-power-plants-in-scramble-for-energy",
-    "id_key": "c14e027eaec5012932fa974e3ee05e91b6eb4ab59ec41d88f2e37101b4d5e4f4",
-    "summary": "HARRISBURG, Pa. (AP) — Federal regulators will allow tech companies to effectively plug massive data centers directly into power plants, issuing a long-awaited order Thursday, as the Trump administration urges it to help the U.S. lead the world in artificial intelligence and revive domestic manufacturing. The Federal Energy Regulatory Commission’s unanimous order is designed to […]",
-    "ingested_utc": "2025-12-18T20:16:54Z"
   }
 ]
