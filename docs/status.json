@@ -1,6 +1,6 @@
 {
-  "started_utc": "2025-12-21T07:40:16Z",
-  "ended_utc": "2025-12-21T07:43:39Z",
+  "started_utc": "2025-12-21T07:47:21Z",
+  "ended_utc": "2025-12-21T07:50:49Z",
   "new_items_this_run": 1,
   "total_in_latest": 1000,
   "by_source": {
@@ -8,7 +8,7 @@
     "Reuters_World": 0,
     "Reuters_Markets": 0,
     "BBC_World": 0,
-    "BBC_Business": 0,
+    "BBC_Business": 1,
     "BBC_Technology": 0,
     "Guardian_Business": 0,
     "Guardian_World": 0,
@@ -57,7 +57,7 @@
     "MarketWatch_Bulletins": 0,
     "MarketWatch_PersonalFinance": 0,
     "NYTimes_Business": 0,
-    "NYTimes_World": 1,
+    "NYTimes_World": 0,
     "NYTimes_Economy": 0,
     "NYTimes_Technology": 0,
     "CNN_Top": 0,
@@ -346,8 +346,8 @@
     "feeds_http_error": 0,
     "entries_seen": 1518,
     "too_old": 481,
-    "dup_title_url": 119,
-    "dup_id": 472
+    "dup_title_url": 118,
+    "dup_id": 473
   },
   "limits": {
     "skip_older_days": 10,
