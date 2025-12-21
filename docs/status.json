@@ -1,7 +1,7 @@
 {
-  "started_utc": "2025-12-21T19:25:26Z",
-  "ended_utc": "2025-12-21T19:28:57Z",
-  "new_items_this_run": 2,
+  "started_utc": "2025-12-21T19:33:29Z",
+  "ended_utc": "2025-12-21T19:36:57Z",
+  "new_items_this_run": 0,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
@@ -87,7 +87,7 @@
     "WorldBank_News": 0,
     "OECD_Newsroom": 0,
     "MIT_TechReview": 0,
-    "HackerNews_Top": 2
+    "HackerNews_Top": 0
   },
   "errors": [
     {
@@ -343,9 +343,9 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 576,
+    "passed_keywords": 575,
     "passed_allowlist": 0,
-    "failed_all_filters": 440
+    "failed_all_filters": 441
   },
   "stats": {
     "feeds_total": 97,
@@ -355,7 +355,7 @@
     "entries_seen": 1508,
     "too_old": 492,
     "dup_title_url": 122,
-    "dup_id": 452
+    "dup_id": 453
   },
   "limits": {
     "skip_older_days": 10,
@@ -368,6 +368,6 @@
   },
   "processed": {
     "file": "data/processed/2025-12-21.jsonl",
-    "appended_new": 2
+    "appended_new": 0
   }
 }
