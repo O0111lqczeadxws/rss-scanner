@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-12-21",
     "retrieved_date": "2025-12-21",
+    "retrieved_utc": "2025-12-21T21:31:41Z",
+    "source": "HackerNews_Top",
+    "title": "More on whether useful quantum computing is \"imminent\"",
+    "url": "https://scottaaronson.blog/?p=9425",
+    "id_key": "36a83e5f6013461b18b25050fc13e74312a0c92087a480e8cac3852f73b9809d",
+    "summary": "Comments",
+    "ingested_utc": "2025-12-21T21:31:41Z"
+  },
+  {
+    "published_utc": "2025-12-21",
+    "retrieved_date": "2025-12-21",
+    "retrieved_utc": "2025-12-21T21:30:41Z",
+    "source": "NYTimes_Business",
+    "title": "In a First, a Wheelchair User Joins a Short Flight to Space",
+    "url": "https://www.nytimes.com/2025/12/21/us/spacex-blue-origin-wheelchair-user.html",
+    "id_key": "048969ac6ae2d555a1eea53ee69fbb154ee898c41c2a898811373a0bb42cbef2",
+    "summary": "A paraplegic engineer was part of a crew that made a suborbital journey on a spacecraft operated by Jeff Bezos’ private company, Blue Origin.",
+    "ingested_utc": "2025-12-21T21:30:41Z"
+  },
+  {
+    "published_utc": "2025-12-21",
+    "retrieved_date": "2025-12-21",
+    "retrieved_utc": "2025-12-21T21:28:35Z",
+    "source": "Guardian_World",
+    "title": "Gripes and infighting on display as Maga stars gather at Turning Point conference",
+    "url": "https://www.theguardian.com/us-news/2025/dec/21/maga-stars-turning-point-conference",
+    "id_key": "c53c0a483d3d7c8cd7b03fdc194507478db7f6b80dfee558325ef4cb76822ea9",
+    "summary": "Figures at event include Tucker Carlson, Steve Bannon and Trump Jr as cohesion of political right shows signs of stress The stars of the Maga conservatism converged for the four-day AmericaFest conference in Phoenix this weekend amid reports that the coherence of the political-religious right, a year into Donald Trump’s second presidential term, is showing signs of stress. The sold-out Turning Point USA event brought together figures from the right including Megyn Kelly, Tucker Carlson, Steve Bannon, Donald Trump Jr, Vivek Ramaswamy, Ben Shapiro and Glenn Beck, to kick around the dominant themes of conservatism. Continue reading...",
+    "ingested_utc": "2025-12-21T21:28:35Z"
+  },
+  {
+    "published_utc": "2025-12-21",
+    "retrieved_date": "2025-12-21",
     "retrieved_utc": "2025-12-21T21:14:04Z",
     "source": "HackerNews_Top",
     "title": "You’re not burnt out, you’re existentially starving",
@@ -10965,38 +10998,5 @@
     "id_key": "bc61b83ef3630e7082dce074e0db39d1b63914367a225002975530757028de5e",
     "summary": "Educators have long argued about the place of video in education. Some students, most would agree, learn visually and retain more information when they see something on a screen than through reading or a teacher's lecture. Educators agree that video and other forms of teaching have their place in ...",
     "ingested_utc": "2025-12-18T22:38:02Z"
-  },
-  {
-    "published_utc": "2025-12-18",
-    "retrieved_date": "2025-12-18",
-    "retrieved_utc": "2025-12-18T22:37:51Z",
-    "source": "TheVerge_All",
-    "title": "Threads wants to be the app you can’t wait to open in the morning",
-    "url": "https://www.theverge.com/column/847806/head-of-threads-interview",
-    "id_key": "a5ff3901aeca6ec93e3151459c08e6b09bc8b768c38ec6bfae9db58b734bf25f",
-    "summary": "This is an excerpt of Sources by Alex Heath, a newsletter about AI and the tech industry, syndicated just for The Verge subscribers once a week. By all measures, Meta's Threads app had a very good year. The app was Apple's second-most-downloaded iOS app of the year, trailing only ChatGPT. Threads now has 400 million […]",
-    "ingested_utc": "2025-12-18T22:37:51Z"
-  },
-  {
-    "published_utc": "2025-12-18",
-    "retrieved_date": "2025-12-18",
-    "retrieved_utc": "2025-12-18T22:37:51Z",
-    "source": "TheVerge_All",
-    "title": "Oh snap, I have a new favorite phone grip",
-    "url": "https://www.theverge.com/gadgets/847777/oh-snap-i-have-a-new-favorite-phone-grip",
-    "id_key": "a37b7bb5a90a9fc2923fb8a1b0850d675c0824062d1e5583feda7343af57f82a",
-    "summary": "In 2022, we called a simple magnetic ring from Anker the best MagSafe phone grip, but things have evolved dramatically since then! You can buy two or even three magnetic rings joined at the hip these days to wield your iPhone, recent Pixel, or really any phone if you stick a magnetic case or included […]",
-    "ingested_utc": "2025-12-18T22:37:51Z"
-  },
-  {
-    "published_utc": "2025-12-18",
-    "retrieved_date": "2025-12-18",
-    "retrieved_utc": "2025-12-18T22:35:28Z",
-    "source": "CryptoNews",
-    "title": "Anthropic’s Claude AI Predicts the Price of XRP, SOL and Ethereum By the End of 2025",
-    "url": "https://cryptonews.com/news/anthropics-claude-ai-predicts-the-price-of-xrp-sol-and-ethereum-by-the-end-of-2025/",
-    "id_key": "8d805b9400fb2cf562f02a22388f99532bc0d76a28f7eaf90400da0c7508b872",
-    "summary": "Anthropic’s latest update to Claude AI, its rival to ChatGPT, has delivered fresh cryptocurrency price projections for XRP, Solana, and Ethereum as the month draws to a close. The AI model suggests that all three digital assets could experience heightened volatility in the next fortnight, with the potential for significant moves to the upside or […] The post Anthropic’s Claude AI Predicts the Price of XRP, SOL and Ethereum By the End of 2025 appeared first on Cryptonews .",
-    "ingested_utc": "2025-12-18T22:35:28Z"
   }
 ]
