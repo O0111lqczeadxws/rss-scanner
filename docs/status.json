@@ -1,7 +1,7 @@
 {
-  "started_utc": "2025-12-21T18:16:39Z",
-  "ended_utc": "2025-12-21T18:20:07Z",
-  "new_items_this_run": 4,
+  "started_utc": "2025-12-21T18:46:56Z",
+  "ended_utc": "2025-12-21T18:50:22Z",
+  "new_items_this_run": 8,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
@@ -56,21 +56,21 @@
     "MarketWatch_RealTime": 0,
     "MarketWatch_Bulletins": 0,
     "MarketWatch_PersonalFinance": 0,
-    "NYTimes_Business": 0,
+    "NYTimes_Business": 1,
     "NYTimes_World": 0,
     "NYTimes_Economy": 0,
     "NYTimes_Technology": 0,
     "CNN_Top": 0,
-    "NPR_Top": 1,
+    "NPR_Top": 0,
     "NPR_Business": 0,
     "NPR_Economy": 0,
     "NPR_World": 0,
     "NPR_Technology": 0,
-    "FT_Home": 1,
+    "FT_Home": 0,
     "FT_Markets": 0,
     "CNBC_Top": 0,
     "CNBC_Markets": 0,
-    "TheVerge_All": 1,
+    "TheVerge_All": 0,
     "TechCrunch_All": 0,
     "ArsTechnica_All": 0,
     "WIRED_All": 0,
@@ -78,10 +78,10 @@
     "TheEconomist_Business": 0,
     "TheEconomist_Finance": 0,
     "Investopedia_Latest": 0,
-    "TheStreet_Top": 0,
-    "AlJazeera_All": 0,
+    "TheStreet_Top": 3,
+    "AlJazeera_All": 1,
     "AlJazeera_Economy": 0,
-    "FinancialPost_Business": 0,
+    "FinancialPost_Business": 2,
     "CBC_Business": 0,
     "Nikkei_Asia_Top": 0,
     "WorldBank_News": 0,
@@ -355,7 +355,7 @@
     "entries_seen": 1508,
     "too_old": 493,
     "dup_title_url": 122,
-    "dup_id": 449
+    "dup_id": 445
   },
   "limits": {
     "skip_older_days": 10,
@@ -368,6 +368,6 @@
   },
   "processed": {
     "file": "data/processed/2025-12-21.jsonl",
-    "appended_new": 4
+    "appended_new": 8
   }
 }
