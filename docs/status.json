@@ -1,17 +1,17 @@
 {
-  "started_utc": "2025-12-21T06:18:00Z",
-  "ended_utc": "2025-12-21T06:21:28Z",
-  "new_items_this_run": 6,
+  "started_utc": "2025-12-21T06:50:07Z",
+  "ended_utc": "2025-12-21T06:53:29Z",
+  "new_items_this_run": 1,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
     "Reuters_World": 0,
     "Reuters_Markets": 0,
-    "BBC_World": 1,
-    "BBC_Business": 1,
+    "BBC_World": 0,
+    "BBC_Business": 0,
     "BBC_Technology": 0,
     "Guardian_Business": 0,
-    "Guardian_World": 1,
+    "Guardian_World": 0,
     "WSJ_US_Business": 0,
     "WSJ_World": 0,
     "WSJ_Markets": 0,
@@ -56,8 +56,8 @@
     "MarketWatch_RealTime": 0,
     "MarketWatch_Bulletins": 0,
     "MarketWatch_PersonalFinance": 0,
-    "NYTimes_Business": 1,
-    "NYTimes_World": 1,
+    "NYTimes_Business": 0,
+    "NYTimes_World": 0,
     "NYTimes_Economy": 0,
     "NYTimes_Technology": 0,
     "CNN_Top": 0,
@@ -187,12 +187,8 @@
       "error": "fatal parse failure"
     },
     {
-      "source": "https://www.gemini.com/blog/rss",
-      "error": "fetch error: HTTP 404"
-    },
-    {
       "source": "Gemini_Blog",
-      "error": "fatal parse failure"
+      "error": "<unknown>:366:36493: not well-formed (invalid token)"
     },
     {
       "source": "https://www.circle.com/blog/rss.xml",
@@ -345,13 +341,13 @@
   },
   "stats": {
     "feeds_total": 97,
-    "feeds_error": 24,
+    "feeds_error": 23,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
     "entries_seen": 1520,
     "too_old": 481,
-    "dup_title_url": 119,
-    "dup_id": 471
+    "dup_title_url": 120,
+    "dup_id": 475
   },
   "limits": {
     "skip_older_days": 10,
@@ -364,6 +360,6 @@
   },
   "processed": {
     "file": "data/processed/2025-12-21.jsonl",
-    "appended_new": 6
+    "appended_new": 1
   }
 }
