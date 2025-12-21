@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-12-21",
     "retrieved_date": "2025-12-21",
+    "retrieved_utc": "2025-12-21T09:15:23Z",
+    "source": "TheStreet_Top",
+    "title": "Amazon is selling Fruit of the Loom pajamas for just $13",
+    "url": "https://www.thestreet.com/deals/fruit-of-the-loom-pajama-set-amazon-sale",
+    "id_key": "2054a1255a66181068121b7473c562996678420ea1cf9b749fb192ba05e452fb",
+    "summary": "\"These are the most comfortable pajamas I have ever owned.\"",
+    "ingested_utc": "2025-12-21T09:15:23Z"
+  },
+  {
+    "published_utc": "2025-12-21",
+    "retrieved_date": "2025-12-21",
+    "retrieved_utc": "2025-12-21T09:14:44Z",
+    "source": "NYTimes_World",
+    "title": "Nine Killed in Mass Shooting at Tavern in South Africa",
+    "url": "https://www.nytimes.com/2025/12/21/world/africa/mass-shooting-tavern-south-africa.html",
+    "id_key": "30a84a4ff734ded318f144eeb77fe591606f7f269c14515f5a3747a5b154f330",
+    "summary": "Around a dozen gunmen opened fire at random at bar patrons, the police said. A manhunt for the unknown assailants was underway.",
+    "ingested_utc": "2025-12-21T09:14:44Z"
+  },
+  {
+    "published_utc": "2025-12-21",
+    "retrieved_date": "2025-12-21",
     "retrieved_utc": "2025-12-21T08:56:50Z",
     "source": "AlJazeera_All",
     "title": "Kylian Mbappe equals Ronaldo record in Real Madrid win over Sevilla",
@@ -10976,27 +10998,5 @@
     "id_key": "ea2920de278b6e57769fb6e98671f96a54115aaf370da0a40ca6c6db84fc03fb",
     "summary": "You can add Japan to the list of regions where Apple has been forced to do something it would rather not: open up the App Store. On Thursday, the company announced changes to iOS in Japan to comply with the nation's Mobile Software Competition Act (MSCA). The tighter regulations for Apple and Google, which overlap with Europe's , took effect today. Users in the US and elsewhere won't see any of these changes. Apple's changes in iOS 26.2 in Japan revolve around alternative app stores, payments outside the App Store and browser choice. The company worked with Japanese regulators on new protections for increased security risks. The company calls this set of safeguards Notarization. It involves an authorization process for alternative app stores and child-safety protocols. Third-party marketplaces will need to undergo a baseline security review. This uses a combination of human and automated checks to block malware and other threats. Naturally, Apple cautions that Notarization is less comprehensive than the App Store's reviews. \"The App Store — where every app is reviewed to meet the App Store's high bar for privacy and security — remains the best place for iOS users in Japan to discover and download the apps they love,\" the company wrote. To state the obvious, the App Store is a booming business for the iPhone maker. In 2024, it generated $1.3 trillion in total sales. Opening it up poses a threat to one of the company's most reliable revenue streams. Big Tech seems to talk a lot about fewer rewards and more penalties for users when their own money trees are at risk. Apple CEO Tim Cook in Tokyo in October 2025 ANDREW CABALLERO-REYNOLDS via Getty Images iOS 26.2 in Japan also introduces new payment options. Developers can now use non-Apple payment processors within their apps or link to external websites for purchases. (Children's content is exempt from this.) Here, Apple again warns the user about the penalties for doing something that will hurt its bottom line. \"For apps that use alternative payment processing or link users to the web for transactions, Apple will not be able to issue refunds and will have less ability to support customers encountering issues, scams or fraud,\" the company cautioned. The last big change involves picking defaults within the operating system. Users in Japan will see new browser and search engine choice screens. They'll also find default controls for navigation apps and app stores. Finally, developers can now offer browsers that use alternative engines other than Apple's WebKit. Apple's announcement comes a day after Google detailed its compliance with the MSCA. Since Android is more open than iOS, Google's changes in response to the regulations are a bit less pronounced. Android users will find new browser / search choice screens, expanded billing options and side-by-side comparisons of external vs. Play Store payment options. This article originally appeared on Engadget at https://www.engadget.com/mobile/apple-opens-up-ios-in-japan-in-response-to-new-regulations-174854950.html?src=rss",
     "ingested_utc": "2025-12-18T17:57:44Z"
-  },
-  {
-    "published_utc": "2025-12-18",
-    "retrieved_date": "2025-12-18",
-    "retrieved_utc": "2025-12-18T17:57:43Z",
-    "source": "WIRED_All",
-    "title": "The Ultra-Realistic AI Face Swapping Platform Driving Romance Scams",
-    "url": "https://www.wired.com/story/the-ultra-realistic-ai-face-swapping-platform-driving-romance-scams/",
-    "id_key": "f21c59c0ed6bedd8b7dbac9d21ebecc5695fd57f73ab491f41f8e2686e3c5852",
-    "summary": "Capable of creating “nearly perfect” face swaps during live video chats, Hoatian has made millions, mainly via Telegram. But its main channel vanished after WIRED's inquiry into scammers using the app.",
-    "ingested_utc": "2025-12-18T17:57:43Z"
-  },
-  {
-    "published_utc": "2025-12-18",
-    "retrieved_date": "2025-12-18",
-    "retrieved_utc": "2025-12-18T17:57:42Z",
-    "source": "ArsTechnica_All",
-    "title": "For the lazy techie: These are Ars staff’s last-minute holiday gift picks",
-    "url": "https://arstechnica.com/shopping/2025/12/for-the-lazy-techie-these-are-ars-staffs-last-minute-holiday-gift-picks/",
-    "id_key": "477d239b857d1e40f77b394847dbe6669d5bc0c268b3f5f19f800e3920b7d8c1",
-    "summary": "Two wireless mice, two external hard drives, and a partridge in a pear tree.",
-    "ingested_utc": "2025-12-18T17:57:42Z"
   }
 ]
