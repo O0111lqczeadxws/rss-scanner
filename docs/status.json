@@ -1,7 +1,7 @@
 {
-  "started_utc": "2025-12-21T19:33:29Z",
-  "ended_utc": "2025-12-21T19:36:57Z",
-  "new_items_this_run": 0,
+  "started_utc": "2025-12-21T19:47:40Z",
+  "ended_utc": "2025-12-21T19:51:19Z",
+  "new_items_this_run": 1,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
@@ -19,7 +19,7 @@
     "MarketWatch_MarketPulse": 0,
     "Blockworks": 0,
     "BitcoinMagazine": 0,
-    "CryptoSlate": 0,
+    "CryptoSlate": 1,
     "CryptoBriefing": 0,
     "Protos": 0,
     "CryptoNews": 0,
@@ -355,7 +355,7 @@
     "entries_seen": 1508,
     "too_old": 492,
     "dup_title_url": 122,
-    "dup_id": 453
+    "dup_id": 452
   },
   "limits": {
     "skip_older_days": 10,
@@ -368,6 +368,6 @@
   },
   "processed": {
     "file": "data/processed/2025-12-21.jsonl",
-    "appended_new": 0
+    "appended_new": 1
   }
 }
