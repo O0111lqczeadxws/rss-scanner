@@ -2,6 +2,61 @@
   {
     "published_utc": "2025-12-21",
     "retrieved_date": "2025-12-21",
+    "retrieved_utc": "2025-12-21T06:21:11Z",
+    "source": "AlJazeera_All",
+    "title": "South Africa shooting live: At least nine people killed near Johannesburg",
+    "url": "https://www.aljazeera.com/news/liveblog/2025/12/21/shooting-in-south-africa-live-at-least-nine-people-killed?traffic_source=rss",
+    "id_key": "6d8d0e9fcaf131fb20f9d6921053f9ad7541e9dd7b88798574e154241ba94818",
+    "summary": "At least nine people have been killed and 10 wounded in a mass shooting in the Bekkersdal township.",
+    "ingested_utc": "2025-12-21T06:21:11Z"
+  },
+  {
+    "published_utc": "2025-12-21",
+    "retrieved_date": "2025-12-21",
+    "retrieved_utc": "2025-12-21T06:20:32Z",
+    "source": "NYTimes_World",
+    "title": "Nine People Killed in Mass Shooting at Tavern in South Africa",
+    "url": "https://www.nytimes.com/2025/12/21/world/asia/mass-shooting-tavern-south-africa.html",
+    "id_key": "d5b678c21065303018dc582a53615260be393c22e04e4956fe138a036a83a3b5",
+    "summary": "Around a dozen gunmen opened fire at random at bar patrons. The police said they launched a manhunt to find the unknown assailants.",
+    "ingested_utc": "2025-12-21T06:20:32Z"
+  },
+  {
+    "published_utc": "2025-12-21",
+    "retrieved_date": "2025-12-21",
+    "retrieved_utc": "2025-12-21T06:20:31Z",
+    "source": "NYTimes_Business",
+    "title": "Power Returns to Most of San Francisco After Widespread Outage",
+    "url": "https://www.nytimes.com/2025/12/20/us/san-francisco-electricity-out.html",
+    "id_key": "a480cf84db485c0e8af1caca493c34d865a057c5eebc39797457f7ef83e07c73",
+    "summary": "The hourslong outage affected nearly a third of the city and forced the closure of transit stations. Service was restored for many customers late Saturday.",
+    "ingested_utc": "2025-12-21T06:20:31Z"
+  },
+  {
+    "published_utc": "2025-12-21",
+    "retrieved_date": "2025-12-21",
+    "retrieved_utc": "2025-12-21T06:18:19Z",
+    "source": "Guardian_World",
+    "title": "Bondi terror attack updates: vigil to observe minute’s silence at 6.47pm to mark one week since shooting; armed police at beach ‘safeguarding the space’",
+    "url": "https://www.theguardian.com/australia-news/live/2025/dec/21/bondi-beach-terror-attack-one-week-anniversary-day-of-reflection-reactions-sydney-vigil-memorial-nsw-protest-laws-police-powers-anthony-albanese-labor-sussan-ley-coalition-ntwnfb",
+    "id_key": "65fc984ae085e232d714ed147651317e31c7472ee3b0cf62674a90899c3bb840",
+    "summary": "Floral tributes at Bondi Pavilion will be removed and preserved for history. Follow updates live NSW will move to ban phrase ‘globalise the intifada’ in crackdown on ‘hateful’ rhetoric. Here’s what we know so far Get our breaking news email , free app or daily news podcast Australian football star pays tribute to Bondi victims in Scottish league game A rising Australian player in Scotland has paid tribute to victims of the Bondi tragedy on an afternoon when Socceroo Martin Boyle shone again. Unfortunately, Zac knew a number of people involved in the tragedy in Bondi Beach. His family stay quite close to there. At 6:47pm, you can light a candle in your window to remember the victims of the antisemitic terrorist attack in Bondi and support those who are grieving. Standing together to show that hatred and violence will never define who we are. Continue reading...",
+    "ingested_utc": "2025-12-21T06:18:19Z"
+  },
+  {
+    "published_utc": "2025-12-21",
+    "retrieved_date": "2025-12-21",
+    "retrieved_utc": "2025-12-21T06:18:16Z",
+    "source": "BBC_World",
+    "title": "Gunmen kill nine in South Africa tavern attack",
+    "url": "https://www.bbc.com/news/articles/c79xyxdpzrxo?at_medium=RSS&at_campaign=rss",
+    "id_key": "c5ef75a1d9b300490b9a9ce4ef9cbf9a265f0f5292325bd6ac770381b7940162",
+    "summary": "Police say another 10 people were injured in the township shooting near Johannesburg, and a manhunt is under way.",
+    "ingested_utc": "2025-12-21T06:18:16Z"
+  },
+  {
+    "published_utc": "2025-12-21",
+    "retrieved_date": "2025-12-21",
     "retrieved_utc": "2025-12-21T05:38:46Z",
     "source": "HackerNews_Top",
     "title": "Waymo halts service during S.F. blackout after causing traffic jams",
@@ -2748,6 +2803,17 @@
     "id_key": "6647035bd07d9ce7b8b54cbe4dbdd5a5695d0b944053e0a6eaa02f4a31d17fdd",
     "summary": "Russia's leader told our Russia editor that claims an attack on Europe was planned were \"rubbish\".",
     "ingested_utc": "2025-12-20T00:54:23Z"
+  },
+  {
+    "published_utc": "2025-12-19",
+    "retrieved_date": "2025-12-21",
+    "retrieved_utc": "2025-12-21T06:18:17Z",
+    "source": "BBC_Business",
+    "title": "Tourists to face €2 fee to get near Rome's Trevi Fountain",
+    "url": "https://www.bbc.com/news/articles/cp89p41gr06o?at_medium=RSS&at_campaign=rss",
+    "id_key": "d58a3840a50d898178b3b89b2d6ffe9cb6f37ad813b3cc134fb4a83613f77386",
+    "summary": "Visitors who don't live in Rome will have to pay to view the Baroque monument up close from February.",
+    "ingested_utc": "2025-12-21T06:18:17Z"
   },
   {
     "published_utc": "2025-12-19",
@@ -10932,71 +10998,5 @@
     "id_key": "e698da2c7bb0d202c82af1e6e2b87408e9d031d52f6760e70693a04325f3ab87",
     "summary": "The company behind President Trump's Truth Social platform makes a surprising move into the energy sector.",
     "ingested_utc": "2025-12-18T17:45:03Z"
-  },
-  {
-    "published_utc": "2025-12-18",
-    "retrieved_date": "2025-12-18",
-    "retrieved_utc": "2025-12-18T17:19:48Z",
-    "source": "FinancialPost_Business",
-    "title": "eXp Realty Elevates Agent Tech-Stack with Land id Collaboration, Bringing Market-Leading Property Mapping and Intelligence to Agents Nationwide",
-    "url": "https://financialpost.com/globe-newswire/exp-realty-elevates-agent-tech-stack-with-land-id-collaboration-bringing-market-leading-property-mapping-and-intelligence-to-agents-nationwide",
-    "id_key": "80aaadf78bac01133b68d360397a75c265a56ddd0e9877db2ae3a3d65256453c",
-    "summary": "The Brokerage’s Land & Ranch Group Will Spearhead the Rollout of the Powerful Platform, Designed to Give All Agents Unmatched Geospatial Data and Client Presentation Capabilities BELLINGHAM, Wash., Dec. 18, 2025 (GLOBE NEWSWIRE) — eXp Realty®, “the most agent-centric™ real estate brokerage on the planet” and the core subsidiary of eXp World Holdings, Inc. (Nasdaq: […]",
-    "ingested_utc": "2025-12-18T17:19:48Z"
-  },
-  {
-    "published_utc": "2025-12-18",
-    "retrieved_date": "2025-12-18",
-    "retrieved_utc": "2025-12-18T17:19:48Z",
-    "source": "FinancialPost_Business",
-    "title": "Kenya’s environment court to consider a claim that a lux safari camp was harming wildebeests routes",
-    "url": "https://financialpost.com/pmn/kenyas-environment-court-to-consider-a-claim-that-a-lux-safari-camp-was-harming-wildebeests-routes",
-    "id_key": "0153b859aa61e5b3f57f80dbca1885501dc69f4b5121c91e393150445606c232",
-    "summary": "NAROK, Kenya (AP) — Kenya’s environment court said Thursday it will consider a case challenging the operations of a luxury safari camp in the Maasai Mara reserve amid claims it was infringing on the annual wildebeest migration corridor. The decision came after a local conservationist, who had initially filed the suit, moved to withdraw it. […]",
-    "ingested_utc": "2025-12-18T17:19:48Z"
-  },
-  {
-    "published_utc": "2025-12-18",
-    "retrieved_date": "2025-12-18",
-    "retrieved_utc": "2025-12-18T17:19:42Z",
-    "source": "AlJazeera_All",
-    "title": "US sanctions more ICC judges, citing ruling on Israeli war crime probe",
-    "url": "https://www.aljazeera.com/news/2025/12/18/us-sanctions-more-icc-judges-citing-ruling-on-israeli-war-crime-probe?traffic_source=rss",
-    "id_key": "fa3d3c64d285ceeb8808d59041274be5703723bbf78f15c850ef4f6369f00c6c",
-    "summary": "International court has repeatedly decried US sanctions amid its ongoing investigation into Gaza war crimes.",
-    "ingested_utc": "2025-12-18T17:19:42Z"
-  },
-  {
-    "published_utc": "2025-12-18",
-    "retrieved_date": "2025-12-18",
-    "retrieved_utc": "2025-12-18T17:19:42Z",
-    "source": "AlJazeera_All",
-    "title": "Israel-Lebanon talks: Everything you need to know",
-    "url": "https://www.aljazeera.com/news/2025/12/18/israel-lebanon-talks-everything-you-need-to-know?traffic_source=rss",
-    "id_key": "8ecb8c812b91cd7249ffcf0c3764b95a1d64c465293e2c59b69158546292abc3",
-    "summary": "Representatives from Israel and Lebanon, as well as US, French, UN officials to meet for second meeting on ceasefire.",
-    "ingested_utc": "2025-12-18T17:19:42Z"
-  },
-  {
-    "published_utc": "2025-12-18",
-    "retrieved_date": "2025-12-18",
-    "retrieved_utc": "2025-12-18T17:19:41Z",
-    "source": "TheStreet_Top",
-    "title": "This tiny airport will soon get its first commercial flight in 30 years",
-    "url": "https://www.thestreet.com/travel/this-tiny-airport-will-soon-get-its-first-commercial-flight-in-30-years",
-    "id_key": "9954c08eb8ceea99976860b60ac7a810fffde0a51f3e112e8371586cdaa7eb6d",
-    "summary": "While some airports see tens of thousands of passenger flights take off per year, others serve only a few charter carriers or exist exclusively for regional flight training, medical and agricultural services. At the end of September, Safford Regional Airport (SAD) in Arizona's Graham County lost ...",
-    "ingested_utc": "2025-12-18T17:19:41Z"
-  },
-  {
-    "published_utc": "2025-12-18",
-    "retrieved_date": "2025-12-18",
-    "retrieved_utc": "2025-12-18T17:19:33Z",
-    "source": "Engadget_All",
-    "title": "Save on Crunchyroll annual subscriptions this holiday season",
-    "url": "https://www.engadget.com/deals/save-on-crunchyroll-annual-subscriptions-this-holiday-season-194345431.html?src=rss",
-    "id_key": "bdf8043ed6557dbc25329746ff469cfc341df22ccf9d7d8b5ce41e8e13ce02b4",
-    "summary": "If you're struggling to find your next binge-watch, you can't go wrong with anime. For the holidays, you can save on a Crunchyroll subscription, giving you access to its vast library of anime series to watch. Through December 29, you can sign up for an annual Fan subscription for $67, down from the usual $80, or a Mega Fan subscription for $100, down from $120. While both the Fan and Mega Fan plans are ad-free, you do get some different benefits depending on which you decide to pay for. Fan subscribers get full access to Crunchyroll's library, new episodes \"shortly after they air in Japan\" and five percent off select purchases in the Crunchyroll Store. Mega Fan subscribers get all those benefits, plus the ability to stream on four devices at the same time, download HD quality episodes and movies to view offline, play games from the Crunchyroll Game Vault and receive 10 percent off select products in the Crunchyroll Store. Notably missing from either subscription is access to Crunchyroll's new Manga service , but unless you're specifically looking for reading material, you'll get plenty of entertainment out of Crunchyroll's video library. Outside of Netflix, which produces and licenses its own growing collection of anime, Crunchyroll is the de facto place to watch Japanese animation in the US. You'll find long-running series like One Piece and newer hits like Spy X Family , alongside hundreds of more niche series. Crunchyroll has its issues, of course. Since the streaming service was acquired by Sony , it's been particularly interested in using generative AI to subtitle shows, which has already produced poor results . It's hard to beat Crunchyroll's library, though, and for as little as $65, you'll get more than your money's worth. Check out our coverage of the best streaming deals for more discounts, and follow @EngadgetDeals on X for the latest tech deals and buying advice. This article originally appeared on Engadget at https://www.engadget.com/deals/save-on-crunchyroll-annual-subscriptions-this-holiday-season-194345431.html?src=rss",
-    "ingested_utc": "2025-12-18T17:19:33Z"
   }
 ]
