@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-12-21",
     "retrieved_date": "2025-12-21",
+    "retrieved_utc": "2025-12-21T17:33:31Z",
+    "source": "TheStreet_Top",
+    "title": "Largest local sports network faces bankruptcy, liquidation",
+    "url": "https://www.thestreet.com/retail/largest-local-sports-network-fanduel-faces-bankruptcy-liquidation",
+    "id_key": "3654c5b44a099fd8a3e775e7d721a9a5e830b6b3f1ed548556e8e74c18b6e181",
+    "summary": "Consumers wanted more choice about what channels they paid for, so they pushed for the end of the cable bundle. Cord-cutting, the process of people dropping the traditional cable bundle in favor of a la carte streaming services, has had an unintended consequence, however. As more customers drop ...",
+    "ingested_utc": "2025-12-21T17:33:31Z"
+  },
+  {
+    "published_utc": "2025-12-21",
+    "retrieved_date": "2025-12-21",
+    "retrieved_utc": "2025-12-21T17:33:23Z",
+    "source": "Engadget_All",
+    "title": "A San Francisco power outage left Waymo's self-driving cars stranded at intersections",
+    "url": "https://www.engadget.com/transportation/a-san-francisco-power-outage-left-waymos-self-driving-cars-stranded-at-intersections-172316970.html?src=rss",
+    "id_key": "db09ba2220d49d74d22c6a848203d46528ed8014c17fa497eb341b065fdfdf88",
+    "summary": "Several of Waymo's autonomous vehicles were seen stuck in the middle of San Francisco streets following a significant power outage that took out the city's traffic lights. Waymo responded to the power outage by suspending its ride-hailing services in the city, but images and videos on social media showed the self-driving taxis stopped at intersections with hazard lights on. \"We have temporarily suspended our ride-hailing services in the San Francisco Bay Area due to the widespread power outage,\" Suzanne Philion, a spokesperson for Waymo, told Engadget in an email. \"Our teams are working diligently and in close coordination with city officials, and we are hopeful to bring our services back online soon.\" The power outage was attributed to a fire at one of Pacific Gas & Electric (PG&E)'s substations. The incident began sometime on Saturday morning, which PG&E said affected approximately 130,000 customers. As of Sunday morning , the Californian power company said its crews have restored power to about 110,000 of those customers, while working on the remaining 21,000 customers in \"the Presidio, Richmond District, Golden Gate Park and small areas of downtown San Francisco.\" Waymo hasn't provided an explanation as to why the power outage left its autonomous cars stranded in San Francisco streets, but this episode may have revealed a notable fault with the Waymo Driver system. Waymo indicates on its website that its autonomous driving system \"responds to signs and signals, like traffic light colors and temporary stop signs,\" which could indicate that the self-driving cars struggled with the out-of-order street lights. Tesla's CEO, Elon Musk, also saw an opportunity to chime in on X , posting that \"Tesla Robotaxis were unaffected by the SF power outage.\" This article originally appeared on Engadget at https://www.engadget.com/transportation/a-san-francisco-power-outage-left-waymos-self-driving-cars-stranded-at-intersections-172316970.html?src=rss",
+    "ingested_utc": "2025-12-21T17:33:23Z"
+  },
+  {
+    "published_utc": "2025-12-21",
+    "retrieved_date": "2025-12-21",
     "retrieved_utc": "2025-12-21T17:13:34Z",
     "source": "FinancialPost_Business",
     "title": "US Said to Board Third Tanker Off Venezuela as Tensions Rise",
@@ -10976,27 +10998,5 @@
     "id_key": "4e4fe86c2ccb7fcbae53cdec94eb59ee98888ccf7297155f1c74bf4e6d8ac4db",
     "summary": "Comments",
     "ingested_utc": "2025-12-18T20:54:07Z"
-  },
-  {
-    "published_utc": "2025-12-18",
-    "retrieved_date": "2025-12-18",
-    "retrieved_utc": "2025-12-18T20:53:50Z",
-    "source": "AlJazeera_All",
-    "title": "Protesting farmers clash with police as EU debates trade deal",
-    "url": "https://www.aljazeera.com/video/newsfeed/2025/12/18/protesting-farmers-clash-with-police-as-eu-debates-trade-deal?traffic_source=rss",
-    "id_key": "f042c76283c0d8c4bb63beee8f9a8ea8f9382c5ea6b54781c6327ad9c1611ea3",
-    "summary": "Angry farmers drove their tractors into Brussels and faced tear gas from police as EU leaders debated a trade deal.",
-    "ingested_utc": "2025-12-18T20:53:50Z"
-  },
-  {
-    "published_utc": "2025-12-18",
-    "retrieved_date": "2025-12-18",
-    "retrieved_utc": "2025-12-18T20:53:50Z",
-    "source": "AlJazeera_All",
-    "title": "Morocco players and fans celebrate winning Arab Cup",
-    "url": "https://www.aljazeera.com/video/newsfeed/2025/12/18/morocco-players-and-fans-celebrate-winning-arab-cup?traffic_source=rss",
-    "id_key": "8eccffc21c59ec1315d8efcce207ca944559d4d4236931a534070168823e1ac6",
-    "summary": "Morocco fans and players celebrated the team’s victory in the Arab Cup final, beating Jordan 3-2 in a thrilling final.",
-    "ingested_utc": "2025-12-18T20:53:50Z"
   }
 ]
