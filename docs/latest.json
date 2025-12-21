@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-12-21",
     "retrieved_date": "2025-12-21",
+    "retrieved_utc": "2025-12-21T15:50:57Z",
+    "source": "TheStreet_Top",
+    "title": "A $1 trillion IPO looms, and Amazon may have just locked in early",
+    "url": "https://www.thestreet.com/investing/a-1-trillion-ipo-looms-and-amazon-may-have-just-locked-in-early",
+    "id_key": "0d36ed12fc3d1787d3a53942a8f7b701cc38f58675b9ba3810aa149cd1495d70",
+    "summary": "Amazon is increasingly aggressive and smart in its battle to acquire a greater role in AI. Amazon will reportedly make a huge $10 billion investment in OpenAI, which shocked Wall Street and rattled Silicon Valley. If the Reuters report is confirmed in the not-so-distant future, the deal won't ...",
+    "ingested_utc": "2025-12-21T15:50:57Z"
+  },
+  {
+    "published_utc": "2025-12-21",
+    "retrieved_date": "2025-12-21",
+    "retrieved_utc": "2025-12-21T15:50:47Z",
+    "source": "TechCrunch_All",
+    "title": "Waymo suspends service in San Francisco as robotaxis stall during blackout",
+    "url": "https://techcrunch.com/2025/12/21/waymo-suspends-service-in-san-francisco-as-robotaxis-stall-during-blackout/",
+    "id_key": "17e1ee48b58b777f0f636ac26ea567d46fbe3530c21fb2f6799a8703febe54ef",
+    "summary": "Waymo suspended its SF robotaxi service on Saturday evening after a massive blackout appeared to leave many of its vehicles stalled on city streets.",
+    "ingested_utc": "2025-12-21T15:50:47Z"
+  },
+  {
+    "published_utc": "2025-12-21",
+    "retrieved_date": "2025-12-21",
     "retrieved_utc": "2025-12-21T15:44:31Z",
     "source": "HackerNews_Top",
     "title": "Show HN: RenderCV – Open-source CV/resume generator, YAML → PDF",
@@ -10976,27 +10998,5 @@
     "id_key": "17868b7804f323363d586b0a374ad17d1de9eb48e9f4f1b5e8921c59f6482ef1",
     "summary": "OTTAWA — The owner of a mine in Northwest Territories will receive a $115 million loan from the federal government to keep operations running as U.S. tariffs depress the global diamond market. Arctic Canadian Diamond Company Ltd., a subsidiary of Australia’s Burgundy Diamond Mines Ltd., operates the Ekati mine in the Lac de Gras region […]",
     "ingested_utc": "2025-12-18T20:36:15Z"
-  },
-  {
-    "published_utc": "2025-12-18",
-    "retrieved_date": "2025-12-18",
-    "retrieved_utc": "2025-12-18T20:35:59Z",
-    "source": "Engadget_All",
-    "title": "AirTags are back on sale, with a four-pack retailing for $65",
-    "url": "https://www.engadget.com/deals/airtags-are-back-on-sale-with-a-four-pack-retailing-for-65-202333979.html?src=rss",
-    "id_key": "ccebc3f568410c325286883b4f90b192e51b94e50210ed116599acf3dbb34c62",
-    "summary": "Apple keeps most of its product pricing on a tight leash, but we do see the company's AirTags go on sale pretty frequently. Another cost cut has come around for this item just in time for the holidays. Amazon is currently selling a four-pack of AirTags for $65. At a third off the regular cost, that price is pretty close to the record low discount of $63 we've seen for these Bluetooth trackers. If you place an order quickly, the AirTags should arrive in time for Christmas, making this a solid choice as a gift for someone with a tendency to misplace stuff. AirTags can also be useful for people who travel frequently, helping you to keep track of essentials like your passport as well as a way to keep tabs on luggage while you're on the go. If you do purchase some AirTags, we have some recommendations for useful accessories to go along with them, such as different styles of cases to best attach the trackers to different types of items. These are worth looking over and adding to your shopping cart in order to make the most of the product. AirTags have an IP67 rating for water and dust resistance and their replaceable batteries should last for about a year. They can also support Precision Finding, which gives more exact directions to a lost item, when paired with most models after the iPhone 11. Up to five people can share an AirTag's location, which is helpful for families or large travel groups. Follow @EngadgetDeals on X for the latest tech deals and buying advice . This article originally appeared on Engadget at https://www.engadget.com/deals/airtags-are-back-on-sale-with-a-four-pack-retailing-for-65-202333979.html?src=rss",
-    "ingested_utc": "2025-12-18T20:35:59Z"
-  },
-  {
-    "published_utc": "2025-12-18",
-    "retrieved_date": "2025-12-18",
-    "retrieved_utc": "2025-12-18T20:35:56Z",
-    "source": "TheVerge_All",
-    "title": "LG forced a Copilot web app onto its TVs but will let you delete it",
-    "url": "https://www.theverge.com/news/847685/lg-copilot-web-app-delete",
-    "id_key": "b3e778dbe1209c9d182274ccc4d9c0c068f162318f6b50a0715943b34b6dada2",
-    "summary": "LG says it will let users delete the Microsoft Copilot shortcut it installed on newer TVs after several reports highlighted the unremovable icon. In a statement to The Verge, LG spokesperson Chris De Maria says the company \"respects consumer choice and will take steps to allow users to delete the shortcut icon if they wish.\" […]",
-    "ingested_utc": "2025-12-18T20:35:56Z"
   }
 ]
