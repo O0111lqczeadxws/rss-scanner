@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-12-21",
     "retrieved_date": "2025-12-21",
+    "retrieved_utc": "2025-12-21T17:43:58Z",
+    "source": "NPR_Top",
+    "title": "New Orleans musicians share their favorite Christmas songs, from bounce to blues",
+    "url": "https://www.npr.org/2025/12/20/nx-s1-5633218/new-orleans-musicians-share-their-favorite-christmas-songs",
+    "id_key": "66fa41949e8c4a8b2f34a0725309763bbb43c3424bb61f245f3d02781b3958fc",
+    "summary": "Rosemary Westwood from member station WWNO asked a few of New Orlean's favorite musicians about the songs they like to listen to around Christmas.",
+    "ingested_utc": "2025-12-21T17:43:58Z"
+  },
+  {
+    "published_utc": "2025-12-21",
+    "retrieved_date": "2025-12-21",
     "retrieved_utc": "2025-12-21T17:33:31Z",
     "source": "TheStreet_Top",
     "title": "Largest local sports network faces bankruptcy, liquidation",
@@ -10987,16 +10998,5 @@
     "id_key": "3871c7325c1d76efd7ba87021d611dfc3c50fb168bf5cb4ce7a74f4c3d3bd6eb",
     "summary": "Turner has spent a nearly 30-year career working across Whitehall and the Foreign Office.",
     "ingested_utc": "2025-12-18T21:12:05Z"
-  },
-  {
-    "published_utc": "2025-12-18",
-    "retrieved_date": "2025-12-18",
-    "retrieved_utc": "2025-12-18T20:54:07Z",
-    "source": "HackerNews_Top",
-    "title": "Show HN: Spice Cayenne – SQL acceleration built on Vortex",
-    "url": "https://spice.ai/blog/introducing-spice-cayenne-data-accelerator",
-    "id_key": "4e4fe86c2ccb7fcbae53cdec94eb59ee98888ccf7297155f1c74bf4e6d8ac4db",
-    "summary": "Comments",
-    "ingested_utc": "2025-12-18T20:54:07Z"
   }
 ]
