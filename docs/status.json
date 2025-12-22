@@ -1,7 +1,7 @@
 {
-  "started_utc": "2025-12-22T11:29:15Z",
-  "ended_utc": "2025-12-22T11:32:42Z",
-  "new_items_this_run": 7,
+  "started_utc": "2025-12-22T11:39:43Z",
+  "ended_utc": "2025-12-22T11:43:09Z",
+  "new_items_this_run": 3,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
@@ -20,7 +20,7 @@
     "Blockworks": 0,
     "BitcoinMagazine": 0,
     "CryptoSlate": 0,
-    "CryptoBriefing": 1,
+    "CryptoBriefing": 0,
     "Protos": 0,
     "CryptoNews": 0,
     "CoinJournal": 0,
@@ -65,7 +65,7 @@
     "NPR_Business": 0,
     "NPR_Economy": 0,
     "NPR_World": 0,
-    "NPR_Technology": 1,
+    "NPR_Technology": 0,
     "FT_Home": 0,
     "FT_Markets": 0,
     "CNBC_Top": 0,
@@ -73,15 +73,15 @@
     "TheVerge_All": 0,
     "TechCrunch_All": 0,
     "ArsTechnica_All": 0,
-    "WIRED_All": 0,
-    "Engadget_All": 1,
+    "WIRED_All": 1,
+    "Engadget_All": 0,
     "TheEconomist_Business": 0,
     "TheEconomist_Finance": 0,
     "Investopedia_Latest": 0,
     "TheStreet_Top": 0,
     "AlJazeera_All": 1,
     "AlJazeera_Economy": 0,
-    "FinancialPost_Business": 2,
+    "FinancialPost_Business": 0,
     "CBC_Business": 0,
     "Nikkei_Asia_Top": 0,
     "WorldBank_News": 0,
@@ -355,7 +355,7 @@
     "entries_seen": 1494,
     "too_old": 497,
     "dup_title_url": 117,
-    "dup_id": 450
+    "dup_id": 454
   },
   "limits": {
     "skip_older_days": 10,
@@ -368,6 +368,6 @@
   },
   "processed": {
     "file": "data/processed/2025-12-22.jsonl",
-    "appended_new": 7
+    "appended_new": 3
   }
 }
