@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-12-22",
     "retrieved_date": "2025-12-22",
+    "retrieved_utc": "2025-12-22T08:22:16Z",
+    "source": "AlJazeera_All",
+    "title": "Investigators probing Ukraine link as Moscow car bomb kills Russian general",
+    "url": "https://www.aljazeera.com/news/2025/12/22/moscow-car-bomb-kills-russian-general?traffic_source=rss",
+    "id_key": "d3c1efde6caf6ef240c6904facc5943cad45f7348a5f9b79808503f11e7634f7",
+    "summary": "Investigators say possibility that attack is linked to Ukrainian special forces is one line of inquiry.",
+    "ingested_utc": "2025-12-22T08:22:16Z"
+  },
+  {
+    "published_utc": "2025-12-22",
+    "retrieved_date": "2025-12-22",
+    "retrieved_utc": "2025-12-22T08:19:26Z",
+    "source": "Guardian_World",
+    "title": "Russian general killed by car bomb in Moscow, investigators say",
+    "url": "https://www.theguardian.com/world/2025/dec/22/russian-general-fanil-sarvarov-killed-car-bomb-moscow-investigators-say",
+    "id_key": "a60d70d4b03a90fe36643d28d1d3f1ad2bba93da701ce90e65ab393709cb1edc",
+    "summary": "Investigative Committee says it is looking into whether Ukraine intelligence services were behind the attack A Russian general was killed on Monday morning after an explosive device detonated underneath his car in southern Moscow, investigators said. Lt Gen Fanil Sarvarov, the head of the operational training directorate of the Russian armed forces’ general Staff, died from his injuries, said Svetlana Petrenko, official spokesperson for Russia’s Investigative Committee. Continue reading...",
+    "ingested_utc": "2025-12-22T08:19:26Z"
+  },
+  {
+    "published_utc": "2025-12-22",
+    "retrieved_date": "2025-12-22",
     "retrieved_utc": "2025-12-22T07:45:24Z",
     "source": "AlJazeera_All",
     "title": "Swiss court to hear Indonesian islanders’ climate case against cement giant",
@@ -10976,27 +10998,5 @@
     "id_key": "d80ee0cf7079084855be97b9efa77fb4852d1e9b9446538dd93f046c22175a8d",
     "summary": "Claudio Neves Valente, who was found dead in a storage facility, also believed to have killed an MIT professor at his Boston-area home A man suspected of killing two and wounding several others at Brown University has been found dead in a New Hampshire storage facility where he had rented a unit, officials said. Claudio Neves Valente, 48, a Portuguese national and a former Brown student, was found dead on Thursday evening from a self-inflicted gunshot wound, Oscar Perez, the Providence police chief, said at a news conference. Perez said as far as investigators know, the suspect acted alone. Continue reading...",
     "ingested_utc": "2025-12-19T04:53:20Z"
-  },
-  {
-    "published_utc": "2025-12-19",
-    "retrieved_date": "2025-12-19",
-    "retrieved_utc": "2025-12-19T04:30:38Z",
-    "source": "FinancialPost_Business",
-    "title": "Asian shares advance after weaker US price data push Wall Street higher, and a rate hike in Japan",
-    "url": "https://financialpost.com/pmn/asian-shares-advance-after-weaker-us-price-data-push-wall-street-higher-and-a-rate-hike-in-japan",
-    "id_key": "21e64b3eea854342fa8d0ed17130084d0c6fa2855aeb173f337d8841a1b31e9e",
-    "summary": "Asian shares were moderately higher and U.S. futures were mixed after the Bank of Japan raised its key policy rate Friday to its highest level in 30 years. The 0.25 percentage point increase by the BOJ was widely expected. It took the benchmark rate to 0.75%, which is still low compared with other major economies. […]",
-    "ingested_utc": "2025-12-19T04:30:38Z"
-  },
-  {
-    "published_utc": "2025-12-19",
-    "retrieved_date": "2025-12-19",
-    "retrieved_utc": "2025-12-19T04:30:02Z",
-    "source": "FT_Home",
-    "title": "Japan raises interest rates to highest level in 30 years",
-    "url": "https://www.ft.com/content/cbaaff02-9c62-4f5f-8e02-d38798df4196",
-    "id_key": "4dead373acd1554cfb24c7d82e79e2f9f2d90dd943e7c157e46836d6b318c7aa",
-    "summary": "Bank of Japan implements quarter percentage point rise to 0.75% in progress to normalise monetary policy",
-    "ingested_utc": "2025-12-19T04:30:02Z"
   }
 ]
