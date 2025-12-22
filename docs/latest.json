@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-12-22",
     "retrieved_date": "2025-12-22",
+    "retrieved_utc": "2025-12-22T21:51:35Z",
+    "source": "HackerNews_Top",
+    "title": "In Pursuit of Clancy Sigal (2021)",
+    "url": "https://yalereview.org/article/in-pursuit-of-clancy-sigal",
+    "id_key": "0ebdb9459e6314b2ea2b3aa4589ed7660d561a7aed139d0fbec29c24840c809e",
+    "summary": "Comments",
+    "ingested_utc": "2025-12-22T21:51:35Z"
+  },
+  {
+    "published_utc": "2025-12-22",
+    "retrieved_date": "2025-12-22",
+    "retrieved_utc": "2025-12-22T21:51:17Z",
+    "source": "TheStreet_Top",
+    "title": "Once-popular Chic-fil-a rival closed over 800 restaurants",
+    "url": "https://www.thestreet.com/restaurants/once-popular-fast-food-chain-closed-over-800-restaurants",
+    "id_key": "1aa3ccc48ff431be74a6eb9f70f69fd56fffd8529ca39aab1e9f2599d64d54e0",
+    "summary": "It's not surprising that the leading fast-food chains build their menus around burgers, chicken, and other beef-based offerings. The drinks-based chains and one pizza chain are, of course, exceptions, but most of the QSR 50 2025: Top 50 Fast‑Food Chains, Ranked by Sales have a menu based on those ...",
+    "ingested_utc": "2025-12-22T21:51:17Z"
+  },
+  {
+    "published_utc": "2025-12-22",
+    "retrieved_date": "2025-12-22",
     "retrieved_utc": "2025-12-22T21:44:13Z",
     "source": "FinancialPost_Business",
     "title": "CHAR Technologies Announces Closing of Previously Announced Private Placement",
@@ -10976,27 +10998,5 @@
     "id_key": "0d051653c6068128bf258fb15740541d0a1918ea7ccca1824cbabc9783f7a10b",
     "summary": "You get quite a lot of EV for the Equinox's sub-$35,000 starting price.",
     "ingested_utc": "2025-12-19T20:16:33Z"
-  },
-  {
-    "published_utc": "2025-12-19",
-    "retrieved_date": "2025-12-19",
-    "retrieved_utc": "2025-12-19T20:16:17Z",
-    "source": "FT_Markets",
-    "title": "Reform UK donor told ‘lies’ in testimony, according to High Court",
-    "url": "https://www.ft.com/content/f9986243-44a3-44f8-bc6f-517154d09625",
-    "id_key": "28cdffde4ffdb2f9e25cf3287d9e71cb018238ad7e7fa2396fe52267f9ceb3a4",
-    "summary": "Insurance entrepreneur Keith Beekmeyer gave money to Nigel Farage’s party to cover the cost of an office in Epping",
-    "ingested_utc": "2025-12-19T20:16:17Z"
-  },
-  {
-    "published_utc": "2025-12-19",
-    "retrieved_date": "2025-12-19",
-    "retrieved_utc": "2025-12-19T20:16:04Z",
-    "source": "NYTimes_World",
-    "title": "After Bondi Beach Shooting, Australia Debates New Laws to Restrict Speech and Protests",
-    "url": "https://www.nytimes.com/2025/12/19/world/australia/new-laws-protests-hate-speech.html",
-    "id_key": "572f76b1867706f63f8372aec458fb45516ba80cea84bf00b0a606bc61ed0798",
-    "summary": "The authorities are vowing to crack down after a mass shooting at a Jewish holiday celebration. Experts say that what the country needs might not be new laws.",
-    "ingested_utc": "2025-12-19T20:16:04Z"
   }
 ]
