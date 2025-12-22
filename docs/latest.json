@@ -662,6 +662,17 @@
   {
     "published_utc": "2025-12-21",
     "retrieved_date": "2025-12-22",
+    "retrieved_utc": "2025-12-22T05:54:44Z",
+    "source": "BBC_World",
+    "title": "'I knew something was seriously wrong - again': Bondi area reels from two deadly attacks in two years",
+    "url": "https://www.bbc.com/news/articles/cn8eknv7zkyo?at_medium=RSS&at_campaign=rss",
+    "id_key": "52cd69a5600190744c72e82dc68d54b19b434abf694a443be6f904fa66d3d264",
+    "summary": "The Bondi shooting, and a deadly stabbing attack just last year, have left scores physically scarred and traumatised.",
+    "ingested_utc": "2025-12-22T05:54:44Z"
+  },
+  {
+    "published_utc": "2025-12-21",
+    "retrieved_date": "2025-12-22",
     "retrieved_utc": "2025-12-22T05:48:21Z",
     "source": "TheStreet_Top",
     "title": "Dave Ramsey has blunt advice on 401(k)s, Roth IRAs",
@@ -10987,16 +10998,5 @@
     "id_key": "eb470f6c86531a3278ea8b7b2cc752bcc61274086718bf140b8edc3b6c29c1e5",
     "summary": "Here’s what could be next for GE Vernova stock.",
     "ingested_utc": "2025-12-19T02:53:09Z"
-  },
-  {
-    "published_utc": "2025-12-19",
-    "retrieved_date": "2025-12-19",
-    "retrieved_utc": "2025-12-19T02:53:01Z",
-    "source": "Engadget_All",
-    "title": "Sony is buying Peanuts",
-    "url": "https://www.engadget.com/big-tech/sony-is-buying-peanuts-022341467.html?src=rss",
-    "id_key": "dbb8cba992623c442f08fc498ee56cc8aa1405c175d35cf5476a94f685988622",
-    "summary": "Sony is paying approximately $460 milliion to purchase Peanuts [PDF] and its characters, including Snoopy and Charlie Brown, created by Charles M. Schulz. That’s a 41 percent stake Sony is buying from Canadian firm WildBrain. Since Sony bought 39 percent of the franchise back in 2018, this will give the company an 80 percent stake. The deal is still subject to regulatory approvals, but Peanuts will become Sony’s consolidated subsidiary once it’s closed. Schulz’s family still owns the remaining 20 percent stake in the franchise. Schulz launched the Peanuts universe in comic strips 75 years ago, back in 1950. The franchise has grown massively since then, spawning animated series, cartoon musicals and movies that made Snoopy a household name. The company said that it has focused on expanding the Peanuts IP since it bought 39 percent of the brand years ago. “With this additional ownership stake, we are thrilled to be able to further elevate the value of the ʻPEANUTSʼ brand by drawing on the Sony Groupʼs extensive global network and collective expertise,” Sony Music Entertainment Japan CEO Shunsuke Muramatsu added. This article originally appeared on Engadget at https://www.engadget.com/big-tech/sony-is-buying-peanuts-022341467.html?src=rss",
-    "ingested_utc": "2025-12-19T02:53:01Z"
   }
 ]
