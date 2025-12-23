@@ -1,7 +1,7 @@
 {
-  "started_utc": "2025-12-23T10:54:03Z",
-  "ended_utc": "2025-12-23T10:57:29Z",
-  "new_items_this_run": 6,
+  "started_utc": "2025-12-23T11:11:52Z",
+  "ended_utc": "2025-12-23T11:15:18Z",
+  "new_items_this_run": 8,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
@@ -11,7 +11,7 @@
     "BBC_Business": 0,
     "BBC_Technology": 0,
     "Guardian_Business": 0,
-    "Guardian_World": 2,
+    "Guardian_World": 0,
     "WSJ_US_Business": 0,
     "WSJ_World": 0,
     "WSJ_Markets": 0,
@@ -23,8 +23,8 @@
     "CryptoBriefing": 0,
     "Protos": 0,
     "CryptoNews": 0,
-    "CoinJournal": 0,
-    "Unchained": 2,
+    "CoinJournal": 1,
+    "Unchained": 0,
     "Bankless": 0,
     "CoinGecko_Blog": 0,
     "CoinMetrics_Blog": 0,
@@ -57,11 +57,11 @@
     "MarketWatch_Bulletins": 0,
     "MarketWatch_PersonalFinance": 0,
     "NYTimes_Business": 0,
-    "NYTimes_World": 1,
-    "NYTimes_Economy": 0,
+    "NYTimes_World": 0,
+    "NYTimes_Economy": 1,
     "NYTimes_Technology": 0,
     "CNN_Top": 0,
-    "NPR_Top": 0,
+    "NPR_Top": 1,
     "NPR_Business": 0,
     "NPR_Economy": 0,
     "NPR_World": 0,
@@ -73,7 +73,7 @@
     "TheVerge_All": 0,
     "TechCrunch_All": 0,
     "ArsTechnica_All": 0,
-    "WIRED_All": 0,
+    "WIRED_All": 1,
     "Engadget_All": 0,
     "TheEconomist_Business": 0,
     "TheEconomist_Finance": 0,
@@ -81,13 +81,13 @@
     "TheStreet_Top": 0,
     "AlJazeera_All": 0,
     "AlJazeera_Economy": 0,
-    "FinancialPost_Business": 0,
+    "FinancialPost_Business": 4,
     "CBC_Business": 0,
     "Nikkei_Asia_Top": 0,
     "WorldBank_News": 0,
     "OECD_Newsroom": 0,
     "MIT_TechReview": 0,
-    "HackerNews_Top": 1
+    "HackerNews_Top": 0
   },
   "errors": [
     {
@@ -346,8 +346,8 @@
     "feeds_http_error": 0,
     "entries_seen": 1516,
     "too_old": 499,
-    "dup_title_url": 106,
-    "dup_id": 449
+    "dup_title_url": 105,
+    "dup_id": 448
   },
   "limits": {
     "skip_older_days": 10,
@@ -360,6 +360,6 @@
   },
   "processed": {
     "file": "data/processed/2025-12-23.jsonl",
-    "appended_new": 6
+    "appended_new": 8
   }
 }
