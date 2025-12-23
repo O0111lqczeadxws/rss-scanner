@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-12-23",
     "retrieved_date": "2025-12-23",
+    "retrieved_utc": "2025-12-23T09:20:25Z",
+    "source": "FinancialPost_Business",
+    "title": "Spain’s CESGA Selects IQM and Telefónica to Deploy Advanced Quantum Computing Infrastructure",
+    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/spains-cesga-selects-iqm-and-telefonica-to-deploy-advanced-quantum-computing-infrastructure",
+    "id_key": "91c0f69fc006dc78ec89ae304843660567251e6b6d91f610022fcb36c0e86954",
+    "summary": "IQM will deliver two full-stack quantum computers: a 54-qubits IQM Radiance system and a 5-qubit IQM Spark by June 2026. The systems will support research, skills development, and industrial access to quantum computers across multiple sectors. This will be the first installation of IQM quantum computers in Spain. SANTIAGO DE COMPOSTELA, Spain — IQM Quantum […]",
+    "ingested_utc": "2025-12-23T09:20:25Z"
+  },
+  {
+    "published_utc": "2025-12-23",
+    "retrieved_date": "2025-12-23",
+    "retrieved_utc": "2025-12-23T09:19:22Z",
+    "source": "Guardian_World",
+    "title": "UK police leaders to call for ‘non-crime hate incidents’ to be scrapped",
+    "url": "https://www.theguardian.com/uk-news/2025/dec/23/uk-police-leaders-non-crime-hate-incidents-scrapped",
+    "id_key": "639fc148cf34eab1566626790061f54adaa492ea5d46be29693e846a70eb38fc",
+    "summary": "Review will request ‘commonsense’ system with most serious incidents recorded as antisocial behaviour The category of non-crime hate incidents is no longer fit for purpose and could be scrapped under plans to be presented to the home secretary. A review by police leaders will call for non-crime hate incidents to be replaced with a new “commonsense” system, the Telegraph reports. Under the new scheme, only the most serious incidents would be recorded as antisocial behaviour. Continue reading...",
+    "ingested_utc": "2025-12-23T09:19:22Z"
+  },
+  {
+    "published_utc": "2025-12-23",
+    "retrieved_date": "2025-12-23",
     "retrieved_utc": "2025-12-23T08:53:36Z",
     "source": "FinancialPost_Business",
     "title": "European Stocks Hover Near Record; Novo Rallies on Pill Approval",
@@ -10976,27 +10998,5 @@
     "id_key": "05c06d991127cdd17d8facf65df7c40e4a1e24769888dd3cf9c7d0ea27c1b3b3",
     "summary": "",
     "ingested_utc": "2025-12-20T05:15:31Z"
-  },
-  {
-    "published_utc": "2025-12-20",
-    "retrieved_date": "2025-12-20",
-    "retrieved_utc": "2025-12-20T05:15:29Z",
-    "source": "FinancialPost_Business",
-    "title": "PHOTO ESSAY: Under watch by Chinese tech, the Tibetan community in Nepal is slowly suffocating",
-    "url": "https://financialpost.com/pmn/photo-essay-under-watch-by-chinese-tech-the-tibetan-community-in-nepal-is-slowly-suffocating",
-    "id_key": "022d1cbca16827004164d670264311957edc76810b27165afeba3585f85cffae",
-    "summary": "KATHMANDU, Nepal (AP) — In Nepal, the unseen eye has changed Tibetan life. The cameras are not just machines perched on the thick bundles of wires that twist through narrow lanes of Kathmandu in Nepal. They are a presence, an unseen watcher that Tibetans have learned to fear. In the city’s refugee settlements, once a […]",
-    "ingested_utc": "2025-12-20T05:15:29Z"
-  },
-  {
-    "published_utc": "2025-12-20",
-    "retrieved_date": "2025-12-20",
-    "retrieved_utc": "2025-12-20T05:15:29Z",
-    "source": "FinancialPost_Business",
-    "title": "US tech enabled China’s surveillance empire. Now Tibetan refugees in Nepal are paying the price",
-    "url": "https://financialpost.com/pmn/us-tech-enabled-chinas-surveillance-empire-now-tibetan-refugees-in-nepal-are-paying-the-price",
-    "id_key": "c713f67b366bc0a4760a8460bfd208ceeb543361711d09123a801dfc0932583e",
-    "summary": "KATHMANDU, Nepal (AP) — The white dome of Boudhanath rises like a silent guardian over the chaotic sprawl of Nepal’s capital, Kathmandu, crowned by a golden spire that pierces the sky. Painted on each of the spire’s four sides are the benevolent eyes of the Buddha — wide, calm, and unblinking — said to see […]",
-    "ingested_utc": "2025-12-20T05:15:29Z"
   }
 ]
