@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-12-24",
     "retrieved_date": "2025-12-24",
+    "retrieved_utc": "2025-12-24T23:15:20Z",
+    "source": "HackerNews_Top",
+    "title": "Tell HN: Merry Christmas!",
+    "url": "https://news.ycombinator.com/item?id=46380168",
+    "id_key": "8ea851bde497ce29de02a23dc21a4cc8cdfa91611d4186006c4218c5747ccf45",
+    "summary": "Comments",
+    "ingested_utc": "2025-12-24T23:15:20Z"
+  },
+  {
+    "published_utc": "2025-12-24",
+    "retrieved_date": "2025-12-24",
+    "retrieved_utc": "2025-12-24T23:14:55Z",
+    "source": "Engadget_All",
+    "title": "Steam and Valve's online games are partially down",
+    "url": "https://www.engadget.com/gaming/pc/steam-and-valves-online-games-are-partially-down-191033988.html?src=rss",
+    "id_key": "55b874eb76a2486de82c44a9bdcc712fae47235fd81df2a33820ddf1fbb203d2",
+    "summary": "Starting at around 1PM ET on December 24, Steam experienced an outage that impacted users ability to access the game store and play games online. Valve didn’t acknowledge the outage publicly, but SteamDB’s unofficial Steam Status page reported that the Steam Store, Steam Community, and Steam Web APIs were all offline. DownDetector received over 6,000 outage reports around 1:15PM ET, and Steam is also inaccessible from Valve’s mobile apps. The outage appears to be affecting APIs for Valve’s online games, like Team Fortress 2, Dota 2 and Counterstrike 2, as well. By around 4PM ET, Steam itself had begun to rebound, and as of 6PM ET, the platform had largely recovered, with the main PC, mobile and Mac clients broadly fully functional, but ocassionally erroring out. There are still parts of the service that are extremely sluggish and, according to SteamDB, many of Valve’s online games are down or only partially functional. Steam’s last major outage was in October, when the store and online services were unavailable for an hour. Earlier in September, the launch of Hollow Knight: Silksong temporarily took down Steam, the Xbox Store and Nintendo’s eShop due to how many people tried to download the game at the same time. Update, December 24, 6PM ET: This story has been updated to note which Valve offerings are currently functional and when they recovered. This article originally appeared on Engadget at https://www.engadget.com/gaming/pc/steam-and-valves-online-games-are-partially-down-191033988.html?src=rss",
+    "ingested_utc": "2025-12-24T23:14:55Z"
+  },
+  {
+    "published_utc": "2025-12-24",
+    "retrieved_date": "2025-12-24",
     "retrieved_utc": "2025-12-24T22:54:01Z",
     "source": "AlJazeera_All",
     "title": "Syria says key ISIL leader Taha al-Zoubi captured near Damascus",
@@ -10976,27 +10998,5 @@
     "id_key": "e21db4e0fab6c05dfb9608fa20959819178f604903573d59f99687982ea93cb6",
     "summary": "Matthew da Mota and Emily Osborne: U.S. desire to force 'dependent' nations to favour its companies tips off potential CUSMA renegotiation strategy",
     "ingested_utc": "2025-12-22T18:21:52Z"
-  },
-  {
-    "published_utc": "2025-12-22",
-    "retrieved_date": "2025-12-22",
-    "retrieved_utc": "2025-12-22T18:21:45Z",
-    "source": "AlJazeera_All",
-    "title": "Trump pauses more offshore wind projects citing national security concerns",
-    "url": "https://www.aljazeera.com/economy/2025/12/22/trump-pauses-more-offshore-wind-projects-citing-national-security-concerns?traffic_source=rss",
-    "id_key": "14be9cf8555450f3c6eb48c73f0d308b61913c7d378b770a94b7d4f53d7ef860",
-    "summary": "The directive pausing five projects comes as the administration ramps up offshore oil and gas production.",
-    "ingested_utc": "2025-12-22T18:21:45Z"
-  },
-  {
-    "published_utc": "2025-12-22",
-    "retrieved_date": "2025-12-22",
-    "retrieved_utc": "2025-12-22T18:19:16Z",
-    "source": "CryptoNews",
-    "title": "U.S. Crypto Funds Shed $952M as Clarity Act Delay Sparks Panic – But These 2 Alts Survive",
-    "url": "https://cryptonews.com/news/us-crypto-funds-952m-outflows-clarity-act-delay/",
-    "id_key": "4ce342053f19c9c2026382ffa06498eef3af7373bcbbf59c7bb91fbe9dbb775f",
-    "summary": "U.S. crypto investment products have posted $952M in weekly outflows, with $990M tied to the U.S. market. CoinShares has attributed the pullback to CLARITY Act delays after David Sacks said Senate markup is set for January 2026. Spot Bitcoin ETFs have also seen net redemptions in late December 2025. The post U.S. Crypto Funds Shed $952M as Clarity Act Delay Sparks Panic – But These 2 Alts Survive appeared first on Cryptonews .",
-    "ingested_utc": "2025-12-22T18:19:16Z"
   }
 ]
