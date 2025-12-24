@@ -1,7 +1,7 @@
 {
-  "started_utc": "2025-12-24T05:45:36Z",
-  "ended_utc": "2025-12-24T05:49:01Z",
-  "new_items_this_run": 1,
+  "started_utc": "2025-12-24T05:55:31Z",
+  "ended_utc": "2025-12-24T05:58:54Z",
+  "new_items_this_run": 2,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
@@ -22,7 +22,7 @@
     "CryptoSlate": 0,
     "CryptoBriefing": 0,
     "Protos": 0,
-    "CryptoNews": 1,
+    "CryptoNews": 0,
     "CoinJournal": 0,
     "Unchained": 0,
     "Bankless": 0,
@@ -81,7 +81,7 @@
     "TheStreet_Top": 0,
     "AlJazeera_All": 0,
     "AlJazeera_Economy": 0,
-    "FinancialPost_Business": 0,
+    "FinancialPost_Business": 2,
     "CBC_Business": 0,
     "Nikkei_Asia_Top": 0,
     "WorldBank_News": 0,
@@ -347,7 +347,7 @@
     "entries_seen": 1516,
     "too_old": 494,
     "dup_title_url": 112,
-    "dup_id": 496
+    "dup_id": 495
   },
   "limits": {
     "skip_older_days": 10,
@@ -360,6 +360,6 @@
   },
   "processed": {
     "file": "data/processed/2025-12-24.jsonl",
-    "appended_new": 1
+    "appended_new": 2
   }
 }
