@@ -2,6 +2,50 @@
   {
     "published_utc": "2025-12-24",
     "retrieved_date": "2025-12-24",
+    "retrieved_utc": "2025-12-24T22:54:01Z",
+    "source": "AlJazeera_All",
+    "title": "Syria says key ISIL leader Taha al-Zoubi captured near Damascus",
+    "url": "https://www.aljazeera.com/news/2025/12/24/syria-announces-arrest-of-isil-leader-al-zoubi?traffic_source=rss",
+    "id_key": "f7d5681bdca414e3337ff23f9dcbd55096551e4ca003bd91b96fdcab0cf8e1df",
+    "summary": "Syrian officials confirm the arrest of ISIL leader Taha al-Zoubi in a security operation near Damascus.",
+    "ingested_utc": "2025-12-24T22:54:01Z"
+  },
+  {
+    "published_utc": "2025-12-24",
+    "retrieved_date": "2025-12-24",
+    "retrieved_utc": "2025-12-24T22:54:00Z",
+    "source": "TheStreet_Top",
+    "title": "These grocery stores are open on Christmas",
+    "url": "https://www.thestreet.com/retail/these-grocery-stores-are-open-on-christmas",
+    "id_key": "d8671504eedd789376e2eb1229f070a31c3f9ad652438ba61b450de6209ee228",
+    "summary": "The last thing anyone wants to do on Christmas Day is more shopping. There's a good chance you've done your fair share of retail-ing over the last month. But there are always a handful of last-minute needs. Maybe it's a gift card or other gift for an unexpected guest. Or a crucial ingredient for ...",
+    "ingested_utc": "2025-12-24T22:54:00Z"
+  },
+  {
+    "published_utc": "2025-12-24",
+    "retrieved_date": "2025-12-24",
+    "retrieved_utc": "2025-12-24T22:53:49Z",
+    "source": "TechCrunch_All",
+    "title": "Nvidia to license AI chip challenger Groq’s tech and hire its CEO",
+    "url": "https://techcrunch.com/2025/12/24/nvidia-acquires-ai-chip-challenger-groq-for-20b-report-says/",
+    "id_key": "68f9c7948ea0d3faef85201a6a7bd74f7a6553e04e70eb06350ce251b9fd9257",
+    "summary": "With Groq on its side, Nvidia is poised to become even more dominant in chip manufacturing.",
+    "ingested_utc": "2025-12-24T22:53:49Z"
+  },
+  {
+    "published_utc": "2025-12-24",
+    "retrieved_date": "2025-12-24",
+    "retrieved_utc": "2025-12-24T22:51:13Z",
+    "source": "BBC_World",
+    "title": "Bomb blast in packed Nigerian mosque kills five",
+    "url": "https://www.bbc.com/news/articles/c0je3v3en01o?at_medium=RSS&at_campaign=rss",
+    "id_key": "d26bdcb6f5fb1d4758043dccd02bf8bbb494b8d3e8ff54cc0b07a613c8356cc2",
+    "summary": "Another 35 people were injured in the explosion during evening prayers in the city of Maiduguri, police say.",
+    "ingested_utc": "2025-12-24T22:51:13Z"
+  },
+  {
+    "published_utc": "2025-12-24",
+    "retrieved_date": "2025-12-24",
     "retrieved_utc": "2025-12-24T22:37:53Z",
     "source": "FinancialPost_Business",
     "title": "ExGen Signs Another Binding LOI to Acquire a Second Silver Stream on Past-Producing Gold Mine",
@@ -10954,49 +10998,5 @@
     "id_key": "4ce342053f19c9c2026382ffa06498eef3af7373bcbbf59c7bb91fbe9dbb775f",
     "summary": "U.S. crypto investment products have posted $952M in weekly outflows, with $990M tied to the U.S. market. CoinShares has attributed the pullback to CLARITY Act delays after David Sacks said Senate markup is set for January 2026. Spot Bitcoin ETFs have also seen net redemptions in late December 2025. The post U.S. Crypto Funds Shed $952M as Clarity Act Delay Sparks Panic – But These 2 Alts Survive appeared first on Cryptonews .",
     "ingested_utc": "2025-12-22T18:19:16Z"
-  },
-  {
-    "published_utc": "2025-12-22",
-    "retrieved_date": "2025-12-22",
-    "retrieved_utc": "2025-12-22T18:18:55Z",
-    "source": "Guardian_World",
-    "title": "Ecuador court sentences 11 air force troops over disappearance of four boys",
-    "url": "https://www.theguardian.com/world/2025/dec/22/ecuador-guayaquil-four-military-sentenced",
-    "id_key": "1d6348e251138bc5dc8f15b6eb253729383c9b94c794857bcbc727559aa5192d",
-    "summary": "Long sentences in case of Afro-Ecuadorian ‘Guayaquil Four’ focuses attention on president’s crackdown on crime A court in Ecuador has sentenced 11 air force personnel to decades in prison over the forced disappearance” of four Afro-Ecuadorian boys aged between 11 and 15 during security operations in the country’s largest city last year. The case of the “ Guayaquil Four ” is widely seen as the starkest example of human rights abuses under the iron-fist security policy pursued by the rightwing president, Daniel Noboa, who placed the armed forces at the centre of the fight against drug trafficking. Continue reading...",
-    "ingested_utc": "2025-12-22T18:18:55Z"
-  },
-  {
-    "published_utc": "2025-12-22",
-    "retrieved_date": "2025-12-22",
-    "retrieved_utc": "2025-12-22T18:18:55Z",
-    "source": "Guardian_World",
-    "title": "France’s national post office hit by suspected cyberattack",
-    "url": "https://www.theguardian.com/world/2025/dec/22/frances-national-post-office-hit-by-suspected-cyberattack",
-    "id_key": "36c76d6147786d03a5fb48bae3a24de3c4ff7c8000e991497d65d63aa1d2e915",
-    "summary": "La Poste’s websites, apps and banking service affected by a DDoS incident, which is also delaying postal deliveries The websites and apps of France’s national post office and its banking service have been hit by a suspected cyberattack, disrupting deliveries and hampering online payments and transfers at the busiest time of the year. Four days before Christmas, La Poste said on Monday that a distributed denial of service incident, or DDoS, had “rendered its online services inaccessible”. Customer data was safe, it said, but mail distribution, including parcels, had been slowed. Continue reading...",
-    "ingested_utc": "2025-12-22T18:18:55Z"
-  },
-  {
-    "published_utc": "2025-12-22",
-    "retrieved_date": "2025-12-22",
-    "retrieved_utc": "2025-12-22T18:18:55Z",
-    "source": "Guardian_World",
-    "title": "London gets at least one new Banksy mural for Christmas",
-    "url": "https://www.theguardian.com/artanddesign/2025/dec/22/london-new-banksy-christmas",
-    "id_key": "4f5ed6660b368c14ee11ead1e52acaaef70e3dcdf7f4e7f634e8af74217c1e5b",
-    "summary": "Artist confirms image in Bayswater is by him, but gives no indication about another outside Centre Point tower A new Banksy mural that shows two children lying down and looking at the sky has appeared in west London. The artist revealed he was behind the artwork above a row of garages on Queen’s Mews in Bayswater by posting a photo of it to his Instagram account on Monday afternoon. Continue reading...",
-    "ingested_utc": "2025-12-22T18:18:55Z"
-  },
-  {
-    "published_utc": "2025-12-22",
-    "retrieved_date": "2025-12-22",
-    "retrieved_utc": "2025-12-22T17:53:25Z",
-    "source": "FinancialPost_Business",
-    "title": "Cloudy future for bourbon has Jim Beam closing Kentucky distillery for a year",
-    "url": "https://financialpost.com/pmn/cloudy-future-for-bourbon-has-jim-beam-closing-kentucky-distillery-for-a-year-2",
-    "id_key": "604dea93c8cab1bb1aeca2b780638b55884a678211733321a7e49e75c5afdd47",
-    "summary": "Bourbon maker Jim Beam is halting production at one of its distilleries in Kentucky for at least a year as the whiskey industry navigates tariffs from the Trump administration and slumping demand for a product that needs years of aging before it is ready. Jim Beam said the decision to pause bourbon making at its […]",
-    "ingested_utc": "2025-12-22T17:53:25Z"
   }
 ]
