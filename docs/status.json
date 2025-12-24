@@ -1,13 +1,13 @@
 {
-  "started_utc": "2025-12-24T21:48:13Z",
-  "ended_utc": "2025-12-24T21:52:07Z",
-  "new_items_this_run": 0,
+  "started_utc": "2025-12-24T22:12:27Z",
+  "ended_utc": "2025-12-24T22:15:47Z",
+  "new_items_this_run": 5,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
     "Reuters_World": 0,
     "Reuters_Markets": 0,
-    "BBC_World": 0,
+    "BBC_World": 2,
     "BBC_Business": 0,
     "BBC_Technology": 0,
     "Guardian_Business": 0,
@@ -78,10 +78,10 @@
     "TheEconomist_Business": 0,
     "TheEconomist_Finance": 0,
     "Investopedia_Latest": 0,
-    "TheStreet_Top": 0,
-    "AlJazeera_All": 0,
+    "TheStreet_Top": 1,
+    "AlJazeera_All": 1,
     "AlJazeera_Economy": 0,
-    "FinancialPost_Business": 0,
+    "FinancialPost_Business": 1,
     "CBC_Business": 0,
     "Nikkei_Asia_Top": 0,
     "WorldBank_News": 0,
@@ -211,14 +211,6 @@
       "error": "fatal parse failure"
     },
     {
-      "source": "https://github.com/hyperledger/besu/releases.atom",
-      "error": "fetch error: HTTP 504"
-    },
-    {
-      "source": "Besu_Releases",
-      "error": "fatal parse failure"
-    },
-    {
       "source": "https://www.reuters.com/business/rss",
       "error": "fetch error: HTTP 401"
     },
@@ -343,19 +335,19 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 610,
+    "passed_keywords": 612,
     "passed_allowlist": 0,
-    "failed_all_filters": 415
+    "failed_all_filters": 414
   },
   "stats": {
     "feeds_total": 97,
-    "feeds_error": 24,
+    "feeds_error": 23,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 1511,
-    "too_old": 486,
-    "dup_title_url": 118,
-    "dup_id": 492
+    "entries_seen": 1521,
+    "too_old": 495,
+    "dup_title_url": 119,
+    "dup_id": 488
   },
   "limits": {
     "skip_older_days": 10,
@@ -368,6 +360,6 @@
   },
   "processed": {
     "file": "data/processed/2025-12-24.jsonl",
-    "appended_new": 0
+    "appended_new": 5
   }
 }
