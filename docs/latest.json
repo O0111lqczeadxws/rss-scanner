@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-12-24",
     "retrieved_date": "2025-12-24",
+    "retrieved_utc": "2025-12-24T17:51:51Z",
+    "source": "HackerNews_Top",
+    "title": "Show HN: No more writing shitty regexes to police usernames",
+    "url": "https://www.username.dev",
+    "id_key": "7ab42841d0e34b206399cd7d18d577967b46dedc88b6ccbc4a6bd8cc4c6d3df1",
+    "summary": "Comments",
+    "ingested_utc": "2025-12-24T17:51:51Z"
+  },
+  {
+    "published_utc": "2025-12-24",
+    "retrieved_date": "2025-12-24",
+    "retrieved_utc": "2025-12-24T17:50:44Z",
+    "source": "MarketWatch_Bulletins",
+    "title": "With 20 minutes left to trade, the S&P 500 looks to close at an all-time high",
+    "url": "https://www.marketwatch.com/bulletins/redirect/go?g=41c63c90-6a49-48b5-830c-6d6d47a7c7a7&mod=mw_rss_bulletins",
+    "id_key": "a3ce563b5fc80d8c0e67be1c1d8fbcf3347f2aa81f736854a64499a6a1e3bd80",
+    "summary": "",
+    "ingested_utc": "2025-12-24T17:50:44Z"
+  },
+  {
+    "published_utc": "2025-12-24",
+    "retrieved_date": "2025-12-24",
     "retrieved_utc": "2025-12-24T17:34:35Z",
     "source": "FinancialPost_Business",
     "title": "Copper Road Announces Closing of First Tranche of Financing",
@@ -10976,27 +10998,5 @@
     "id_key": "cc62e0c7ca119c7ed7eba2fb5c90b42c1ca42f32da496d0c3e73879eed7faa30",
     "summary": "LEXINGTON, Neb. (AP) — On a frigid day after Mass at St. Ann’s Catholic Church in rural Nebraska, worshippers shuffled into the basement and sat on folding chairs, their faces barely masking the fear gripping their town. A pall hung over the room just as it hung over the holiday season in Lexington, Nebraska. “Suddenly […]",
     "ingested_utc": "2025-12-22T15:55:04Z"
-  },
-  {
-    "published_utc": "2025-12-22",
-    "retrieved_date": "2025-12-22",
-    "retrieved_utc": "2025-12-22T15:55:04Z",
-    "source": "FinancialPost_Business",
-    "title": "Here’s what stores are open, and which ones are closed, on Christmas",
-    "url": "https://financialpost.com/pmn/heres-what-stores-are-open-and-which-ones-are-closed-on-christmas",
-    "id_key": "df559de76ec3c6c1bddae2fc500d2d67a3746a6d811f64d78422cb39ca4f19b1",
-    "summary": "From department stores to grocery stores, most retailers across the U.S. close early on Christmas Eve and shut their doors entirely on Christmas Day — while others opt to cut back hours. But there’s also a handful of businesses that will be open during the holiday. Before you run out the door this Christmas — […]",
-    "ingested_utc": "2025-12-22T15:55:04Z"
-  },
-  {
-    "published_utc": "2025-12-22",
-    "retrieved_date": "2025-12-22",
-    "retrieved_utc": "2025-12-22T15:54:56Z",
-    "source": "TheStreet_Top",
-    "title": "A major change is coming to a decades-old TSA rule at US airports",
-    "url": "https://www.thestreet.com/travel/a-major-change-is-coming-to-a-decades-old-tsa-rule-at-u-s-airports-guest-pass",
-    "id_key": "045e38ea5d2f2eb7e30c815b77a8be59903a209efdfe0548e919f1a094078ff7",
-    "summary": "Some may recall scenes from 1990s movies where families and couples said their goodbyes right at the airplane gate. Today, that might seem like a cinematic exaggeration, but for decades, it was a regular part of air travel in the U.S. From the first commercial flight in 1914 until the early 2000s, ...",
-    "ingested_utc": "2025-12-22T15:54:56Z"
   }
 ]
