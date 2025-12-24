@@ -1,7 +1,7 @@
 {
-  "started_utc": "2025-12-24T10:52:50Z",
-  "ended_utc": "2025-12-24T10:56:19Z",
-  "new_items_this_run": 5,
+  "started_utc": "2025-12-24T11:11:41Z",
+  "ended_utc": "2025-12-24T11:15:04Z",
+  "new_items_this_run": 8,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
@@ -11,7 +11,7 @@
     "BBC_Business": 0,
     "BBC_Technology": 0,
     "Guardian_Business": 0,
-    "Guardian_World": 1,
+    "Guardian_World": 0,
     "WSJ_US_Business": 0,
     "WSJ_World": 0,
     "WSJ_Markets": 0,
@@ -19,11 +19,11 @@
     "MarketWatch_MarketPulse": 0,
     "Blockworks": 0,
     "BitcoinMagazine": 0,
-    "CryptoSlate": 4,
+    "CryptoSlate": 0,
     "CryptoBriefing": 0,
     "Protos": 0,
     "CryptoNews": 0,
-    "CoinJournal": 0,
+    "CoinJournal": 1,
     "Unchained": 0,
     "Bankless": 0,
     "CoinGecko_Blog": 0,
@@ -79,15 +79,15 @@
     "TheEconomist_Finance": 0,
     "Investopedia_Latest": 0,
     "TheStreet_Top": 0,
-    "AlJazeera_All": 0,
+    "AlJazeera_All": 1,
     "AlJazeera_Economy": 0,
-    "FinancialPost_Business": 0,
+    "FinancialPost_Business": 5,
     "CBC_Business": 0,
     "Nikkei_Asia_Top": 0,
     "WorldBank_News": 0,
     "OECD_Newsroom": 0,
     "MIT_TechReview": 0,
-    "HackerNews_Top": 0
+    "HackerNews_Top": 1
   },
   "errors": [
     {
@@ -155,14 +155,6 @@
       "error": "fatal parse failure"
     },
     {
-      "source": "https://medium.com/feed/aave",
-      "error": "fetch error: HTTP 429"
-    },
-    {
-      "source": "Aave_Blog",
-      "error": "fatal parse failure"
-    },
-    {
       "source": "https://blog.optimism.io/rss/",
       "error": "fetch error: HTTPSConnectionPool(host='blog.optimism.io', port=443): Max retries exceeded with url: /rss/ (Caused by NameResolutionError(\"HTTPSConnection(host='blog.optimism.io', port=443): Failed to resolve 'blog.optimism.io' ([Errno -5] No address associated with hostname)\"))"
     },
@@ -181,14 +173,6 @@
     {
       "source": "Polygon_Blog",
       "error": "<unknown>:2:2184: not well-formed (invalid token)"
-    },
-    {
-      "source": "https://medium.com/feed/avalancheavax",
-      "error": "fetch error: HTTP 429"
-    },
-    {
-      "source": "Avalanche_Blog",
-      "error": "fatal parse failure"
     },
     {
       "source": "NEAR_Blog",
@@ -351,19 +335,19 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 603,
+    "passed_keywords": 605,
     "passed_allowlist": 0,
-    "failed_all_filters": 429
+    "failed_all_filters": 427
   },
   "stats": {
     "feeds_total": 97,
-    "feeds_error": 25,
+    "feeds_error": 23,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 1505,
-    "too_old": 473,
+    "entries_seen": 1525,
+    "too_old": 493,
     "dup_title_url": 116,
-    "dup_id": 482
+    "dup_id": 481
   },
   "limits": {
     "skip_older_days": 10,
@@ -376,6 +360,6 @@
   },
   "processed": {
     "file": "data/processed/2025-12-24.jsonl",
-    "appended_new": 5
+    "appended_new": 8
   }
 }
