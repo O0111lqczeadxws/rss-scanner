@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-12-24",
     "retrieved_date": "2025-12-24",
+    "retrieved_utc": "2025-12-24T20:37:41Z",
+    "source": "FT_Home",
+    "title": "US justice department says full Epstein file release could take ‘few more weeks’",
+    "url": "https://www.ft.com/content/5cf18fba-63aa-4d8e-b277-47ddfec458db",
+    "id_key": "b767909d6e722da48770db7f6d3201b0ed37aa603326956aa3fed6125504b008",
+    "summary": "DoJ says it has uncovered ‘over a million’ additional documents that will take time to review",
+    "ingested_utc": "2025-12-24T20:37:41Z"
+  },
+  {
+    "published_utc": "2025-12-24",
+    "retrieved_date": "2025-12-24",
     "retrieved_utc": "2025-12-24T20:16:52Z",
     "source": "Nikkei_Asia_Top",
     "title": "Mizuho unit to debut Japan's first active government bond ETFs",
@@ -10987,16 +10998,5 @@
     "id_key": "db56dea402013a4efc5d8ebc663aac68a01e1a6d0287be548547a4473332608a",
     "summary": "",
     "ingested_utc": "2025-12-22T17:19:18Z"
-  },
-  {
-    "published_utc": "2025-12-22",
-    "retrieved_date": "2025-12-22",
-    "retrieved_utc": "2025-12-22T17:19:17Z",
-    "source": "FinancialPost_Business",
-    "title": "Alphabet to Buy Data Center Partner Intersect for $4.75 Billion",
-    "url": "https://financialpost.com/pmn/business-pmn/alphabet-to-buy-data-center-partner-intersect-for-4-75-billion",
-    "id_key": "334d97dae87c5db0326b3f521794e1d830b45a1755cb892365a8fae559605133",
-    "summary": "Alphabet Inc. has agreed to buy clean energy developer Intersect Power LLC for $4.75 billion in cash, plus existing debt, marking one of the largest deals by the tech giant to dramatically expand its data center footprint for AI.",
-    "ingested_utc": "2025-12-22T17:19:17Z"
   }
 ]
