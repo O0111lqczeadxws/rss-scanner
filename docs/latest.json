@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-12-24",
     "retrieved_date": "2025-12-24",
+    "retrieved_utc": "2025-12-24T11:50:55Z",
+    "source": "NPR_Top",
+    "title": "New Epstein files mention Trump. And, SCOTUS rules on National Guard in Chicago",
+    "url": "https://www.npr.org/2025/12/24/g-s1-103629/up-first-newsletter-epstein-files-trump-supreme-court-national-guard-us-gdp",
+    "id_key": "b2ea95089cae506605f9515f0c661207b15a0fbce4041cc7f1a771a87f4cc198",
+    "summary": "The DOJ released tens of thousands of new documents related to convicted sex offender Jeffrey Epstein. And, the Supreme Court ruled that the National Guard must stay out of Chicago.",
+    "ingested_utc": "2025-12-24T11:50:55Z"
+  },
+  {
+    "published_utc": "2025-12-24",
+    "retrieved_date": "2025-12-24",
+    "retrieved_utc": "2025-12-24T11:49:06Z",
+    "source": "Unchained",
+    "title": "Gnosis Completes Hard Fork to Recover Balancer Exploit Funds",
+    "url": "https://unchainedcrypto.com/gnosis-completes-hard-fork-to-recover-balancer-exploit-funds/",
+    "id_key": "f83f3a1d85c5120f858387fe885b3b1312341ffcbc6802ed1a6ea49b8f8083a1",
+    "summary": "The post Gnosis Completes Hard Fork to Recover Balancer Exploit Funds appeared first on Unchained .",
+    "ingested_utc": "2025-12-24T11:49:06Z"
+  },
+  {
+    "published_utc": "2025-12-24",
+    "retrieved_date": "2025-12-24",
+    "retrieved_utc": "2025-12-24T11:49:04Z",
+    "source": "CryptoNews",
+    "title": "Crypto Borrowing Shifts as DeFi Contracts and CeFi Activity Rebounds: CryptoQuant",
+    "url": "https://cryptonews.com/news/crypto-borrowing-shifts-as-defi-contracts-and-cefi-activity-rebounds-cryptoquant/",
+    "id_key": "2d725d0875fa3e14158c67ee1b8b968bc7c389a3fa39e46e5f1b4143479213fc",
+    "summary": "Crypto borrowing activity is undergoing a huge shift as decentralized finance (DeFi) contracts sharply during this latest current market correction while centralized finance (CeFi) shows early signs of recovery. The post Crypto Borrowing Shifts as DeFi Contracts and CeFi Activity Rebounds: CryptoQuant appeared first on Cryptonews .",
+    "ingested_utc": "2025-12-24T11:49:04Z"
+  },
+  {
+    "published_utc": "2025-12-24",
+    "retrieved_date": "2025-12-24",
     "retrieved_utc": "2025-12-24T11:41:10Z",
     "source": "Guardian_World",
     "title": "British boy stabbed to death in Portugal allegedly by ex-partner of his mother",
@@ -10965,38 +10998,5 @@
     "id_key": "97188e9526772399890b2a8389b798d681388e72daba8343fe0c3922ae435aed",
     "summary": "Governments are seeking to diversify trade links due to the uncertainty driven by Trump’s tariffs.",
     "ingested_utc": "2025-12-22T11:32:23Z"
-  },
-  {
-    "published_utc": "2025-12-22",
-    "retrieved_date": "2025-12-22",
-    "retrieved_utc": "2025-12-22T11:32:14Z",
-    "source": "Engadget_All",
-    "title": "Waymo vehicles are operating again in San Francisco following a power outage",
-    "url": "https://www.engadget.com/transportation/waymo-vehicles-are-operating-again-in-san-francisco-following-a-power-outage-112924838.html?src=rss",
-    "id_key": "736f8e631aed95f8d1e971f23798c320e186eb4059bb2fb7194067a7659c3ee6",
-    "summary": "Waymo has resumed its robo-taxi service in San Francisco after a power outage stranded vehicles around the city, CNBC reported. The blackout, caused by a Pacific Gas & Electric (PG&E) substation fire, caused traffic light disruptions that affected Waymo's automated driving systems. \"Yesterday’s power outage was a widespread event that caused gridlock across San Francisco, with non-functioning traffic signals and transit disruptions,\" a Waymo spokesperson told CNBC in a statement. \"While the failure of the utility infrastructure was significant, we are committed to ensuring our technology adjusts to traffic flow during such events.\" Following the outage, which began at around 1:09 PM Saturday and peaked around two hours later, Waymo responded by suspending its ride-hailing services in the city. However, images and videos on social media showed the autonomous taxis stopped at intersections with hazard lights on. The company blamed its disruption on the size of the outage. \"While the Waymo Driver [automated system] is designed to treat non-functional signals as four-way stops, the sheer scale of the outage led to instances where vehicles remained stationary longer than usual to confirm the state of the affected intersections. This contributed to traffic friction during the height of the congestion,\" the spokesperson explained, adding that Waymo's actions were \"closely coordinated with San Francisco city officials.\" Still, the service disruption is a black mark for Waymo, as the sudden halt in service exacerbated traffic problems caused by the blackout. Elon Musk bragged on X that Tesla, Waymo's latest robo-taxi rival in the city, was \"unaffected\" by the power outage. However, Tesla's ride-hailing service is not yet fully autonomous and requires a human driver behind the wheel at all times. This article originally appeared on Engadget at https://www.engadget.com/transportation/waymo-vehicles-are-operating-again-in-san-francisco-following-a-power-outage-112924838.html?src=rss",
-    "ingested_utc": "2025-12-22T11:32:14Z"
-  },
-  {
-    "published_utc": "2025-12-22",
-    "retrieved_date": "2025-12-22",
-    "retrieved_utc": "2025-12-22T11:31:49Z",
-    "source": "NPR_Technology",
-    "title": "How a power outage in Colorado caused U.S. official time to be 4.8 microseconds off",
-    "url": "https://www.npr.org/2025/12/21/nx-s1-5651317/colorado-us-official-time-microseconds-nist-clocks",
-    "id_key": "ef96be6ec5f6b573a665a9e1642f66a0b3a25652836a93604f181c0f4cd8c144",
-    "summary": "Officials said the error is likely too minute for the general public to clock it, but it could affect applications such as critical infrastructure, telecommunications and GPS signals.",
-    "ingested_utc": "2025-12-22T11:31:49Z"
-  },
-  {
-    "published_utc": "2025-12-22",
-    "retrieved_date": "2025-12-22",
-    "retrieved_utc": "2025-12-22T11:29:53Z",
-    "source": "CryptoBriefing",
-    "title": "Ghana legalizes Bitcoin and crypto trading under new regulatory framework",
-    "url": "https://cryptobriefing.com/ghana-legalizes-crypto-trading-regulation-framework/",
-    "id_key": "595befef0773f466827b20004af5d9c624655df07967113d3a18396b4a187909",
-    "summary": "Ghana's regulatory framework for crypto could boost economic diversification, attract fintech investment, and enhance financial inclusion. The post Ghana legalizes Bitcoin and crypto trading under new regulatory framework appeared first on Crypto Briefing .",
-    "ingested_utc": "2025-12-22T11:29:53Z"
   }
 ]
