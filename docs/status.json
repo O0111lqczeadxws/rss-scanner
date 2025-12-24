@@ -1,17 +1,17 @@
 {
-  "started_utc": "2025-12-23T23:48:28Z",
-  "ended_utc": "2025-12-23T23:51:53Z",
-  "new_items_this_run": 3,
+  "started_utc": "2025-12-24T00:57:01Z",
+  "ended_utc": "2025-12-24T01:00:38Z",
+  "new_items_this_run": 34,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
     "Reuters_World": 0,
     "Reuters_Markets": 0,
-    "BBC_World": 1,
+    "BBC_World": 2,
     "BBC_Business": 0,
     "BBC_Technology": 0,
     "Guardian_Business": 0,
-    "Guardian_World": 1,
+    "Guardian_World": 3,
     "WSJ_US_Business": 0,
     "WSJ_World": 0,
     "WSJ_Markets": 0,
@@ -70,24 +70,24 @@
     "FT_Markets": 0,
     "CNBC_Top": 0,
     "CNBC_Markets": 0,
-    "TheVerge_All": 0,
+    "TheVerge_All": 1,
     "TechCrunch_All": 0,
     "ArsTechnica_All": 0,
     "WIRED_All": 0,
-    "Engadget_All": 0,
+    "Engadget_All": 1,
     "TheEconomist_Business": 0,
     "TheEconomist_Finance": 0,
     "Investopedia_Latest": 0,
-    "TheStreet_Top": 0,
+    "TheStreet_Top": 1,
     "AlJazeera_All": 0,
     "AlJazeera_Economy": 0,
-    "FinancialPost_Business": 1,
+    "FinancialPost_Business": 5,
     "CBC_Business": 0,
-    "Nikkei_Asia_Top": 0,
+    "Nikkei_Asia_Top": 19,
     "WorldBank_News": 0,
     "OECD_Newsroom": 0,
     "MIT_TechReview": 0,
-    "HackerNews_Top": 0
+    "HackerNews_Top": 2
   },
   "errors": [
     {
@@ -335,19 +335,19 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 590,
+    "passed_keywords": 593,
     "passed_allowlist": 0,
-    "failed_all_filters": 426
+    "failed_all_filters": 428
   },
   "stats": {
     "feeds_total": 97,
     "feeds_error": 23,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 1512,
-    "too_old": 496,
-    "dup_title_url": 103,
-    "dup_id": 484
+    "entries_seen": 1515,
+    "too_old": 494,
+    "dup_title_url": 104,
+    "dup_id": 455
   },
   "limits": {
     "skip_older_days": 10,
@@ -359,7 +359,7 @@
     "backoff": 0.75
   },
   "processed": {
-    "file": "data/processed/2025-12-23.jsonl",
-    "appended_new": 3
+    "file": "data/processed/2025-12-24.jsonl",
+    "appended_new": 34
   }
 }
