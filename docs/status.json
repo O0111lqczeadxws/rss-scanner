@@ -1,7 +1,7 @@
 {
-  "started_utc": "2025-12-24T21:40:19Z",
-  "ended_utc": "2025-12-24T21:43:50Z",
-  "new_items_this_run": 1,
+  "started_utc": "2025-12-24T21:48:13Z",
+  "ended_utc": "2025-12-24T21:52:07Z",
+  "new_items_this_run": 0,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
@@ -87,7 +87,7 @@
     "WorldBank_News": 0,
     "OECD_Newsroom": 0,
     "MIT_TechReview": 0,
-    "HackerNews_Top": 1
+    "HackerNews_Top": 0
   },
   "errors": [
     {
@@ -208,6 +208,14 @@
     },
     {
       "source": "MetaMask_Blog",
+      "error": "fatal parse failure"
+    },
+    {
+      "source": "https://github.com/hyperledger/besu/releases.atom",
+      "error": "fetch error: HTTP 504"
+    },
+    {
+      "source": "Besu_Releases",
       "error": "fatal parse failure"
     },
     {
@@ -335,19 +343,19 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 613,
+    "passed_keywords": 610,
     "passed_allowlist": 0,
-    "failed_all_filters": 413
+    "failed_all_filters": 415
   },
   "stats": {
     "feeds_total": 97,
-    "feeds_error": 23,
+    "feeds_error": 24,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 1521,
-    "too_old": 495,
+    "entries_seen": 1511,
+    "too_old": 486,
     "dup_title_url": 118,
-    "dup_id": 494
+    "dup_id": 492
   },
   "limits": {
     "skip_older_days": 10,
@@ -360,6 +368,6 @@
   },
   "processed": {
     "file": "data/processed/2025-12-24.jsonl",
-    "appended_new": 1
+    "appended_new": 0
   }
 }
