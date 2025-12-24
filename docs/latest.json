@@ -2,6 +2,94 @@
   {
     "published_utc": "2025-12-24",
     "retrieved_date": "2025-12-24",
+    "retrieved_utc": "2025-12-24T16:45:10Z",
+    "source": "FinancialPost_Business",
+    "title": "Bitcoin misses out on Wall Street cheer to stall near US$87,000",
+    "url": "https://financialpost.com/fp-finance/cryptocurrency/bitcoin-misses-out-on-wall-street-cheer",
+    "id_key": "0eabd117439d5088c4717efb21ba8228fd6e429a926b8db2e69cb8b4cef09269",
+    "summary": "Bitcoin’s price action this year has been 'notably disconnected from the ultra-bullish news cycle' surrounding the asset",
+    "ingested_utc": "2025-12-24T16:45:10Z"
+  },
+  {
+    "published_utc": "2025-12-24",
+    "retrieved_date": "2025-12-24",
+    "retrieved_utc": "2025-12-24T16:45:10Z",
+    "source": "FinancialPost_Business",
+    "title": "Social Development Bank Highlights Strategic Partnerships and Global Initiatives at DeveGo 2025",
+    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/social-development-bank-highlights-strategic-partnerships-and-global-initiatives-at-devego-2025",
+    "id_key": "c56b099f22c6b7e7a990c6b3df5bcfe4c24f44f86bc0f2ef75acc29db30f212e",
+    "summary": "The forum held in Riyadh witnessed the signing of 51 agreements aimed at strengthening the entrepreneurial ecosystem RIYADH, Saudi Arabia — The Social Development Bank (SDB) hosted the second edition of the Entrepreneurship and Modern Business Practices Forum, “DeveGo 2025”, from 21 to 23 December in Riyadh. Held under the patronage of His Excellency Eng. […]",
+    "ingested_utc": "2025-12-24T16:45:10Z"
+  },
+  {
+    "published_utc": "2025-12-24",
+    "retrieved_date": "2025-12-24",
+    "retrieved_utc": "2025-12-24T16:45:03Z",
+    "source": "TheStreet_Top",
+    "title": "Amazon's 'useful' pantry organizer bins are 25% off right now",
+    "url": "https://www.thestreet.com/deals/clearspace-pantry-storage-bins-amazon-sale",
+    "id_key": "c44f2b132fbfdf491ed706609b6044fc5ab36f13228c6bebad8f3f68dbfbc9de",
+    "summary": "\"This was my second order because I liked my first purchase so much.\"",
+    "ingested_utc": "2025-12-24T16:45:03Z"
+  },
+  {
+    "published_utc": "2025-12-24",
+    "retrieved_date": "2025-12-24",
+    "retrieved_utc": "2025-12-24T16:44:23Z",
+    "source": "NYTimes_Business",
+    "title": "Trump’s Seizures of Oil Tankers Challenge Maritime Rules and Customs",
+    "url": "https://www.nytimes.com/2025/12/24/business/trump-venezuela-oil-tankers.html",
+    "id_key": "f4a03968ce636c872290fd069cd431101b783f88ddb5d50c8dca4715725a0d03",
+    "summary": "Recent U.S. actions against ships near Venezuela may embolden other countries to seize or detain ships, legal experts said.",
+    "ingested_utc": "2025-12-24T16:44:23Z"
+  },
+  {
+    "published_utc": "2025-12-24",
+    "retrieved_date": "2025-12-24",
+    "retrieved_utc": "2025-12-24T16:44:23Z",
+    "source": "NYTimes_Business",
+    "title": "Crypto for Christmas? Gen Z-ers Are Cautiously Open to the Idea.",
+    "url": "https://www.nytimes.com/2025/12/24/business/gen-z-crypto.html",
+    "id_key": "41c85db56cc8ffe44f19cb77523725e221591aa742fb4ba64f35a3e6906d2a25",
+    "summary": "Despite recent volatility in the crypto market, younger generations are still open to receiving digital currencies as gifts.",
+    "ingested_utc": "2025-12-24T16:44:23Z"
+  },
+  {
+    "published_utc": "2025-12-24",
+    "retrieved_date": "2025-12-24",
+    "retrieved_utc": "2025-12-24T16:44:16Z",
+    "source": "MarketWatch_Bulletins",
+    "title": "Crypto investors got almost everything they wanted in 2025. Prices still fell.",
+    "url": "https://www.marketwatch.com/bulletins/redirect/go?g=910eb17b-18d3-4f03-af6e-a10e5b468a98&mod=mw_rss_bulletins",
+    "id_key": "851c87d847fcffcacef6521781782bbf0b1fcc53e3b8d7340806fc3e479af119",
+    "summary": "",
+    "ingested_utc": "2025-12-24T16:44:16Z"
+  },
+  {
+    "published_utc": "2025-12-24",
+    "retrieved_date": "2025-12-24",
+    "retrieved_utc": "2025-12-24T16:43:43Z",
+    "source": "Optimism_Releases",
+    "title": "op-deployer/v0.6.0-rc.2",
+    "url": "https://github.com/ethereum-optimism/optimism/releases/tag/op-deployer%2Fv0.6.0-rc.2",
+    "id_key": "7b4806085935c857dc080a978f655af026a08a48998b2456aaa349b802cbff77",
+    "summary": "Overview op-deployer/v0.6.0-rc.1 supports deploying, upgrading to, and producing calldata for op-contracts/v6.0.0-rc.1 (u18). This release supports all of the following: op-deployer bootstrap [options] // deploy superchain|implementations contracts at op-contracts/v4.1.0 op-deployer apply [options] // deploy new OPChain contracts at op-contracts/4.1.0 op-deployer upgrade v2.0.0 // upgrade from op-contracts/v1.8.0 -> op-contracts/v2.0.0 op-deployer upgrade v3.0.0 // upgrade from op-contracts/v2.0.0 -> op-contracts/v3.0.0 op-deployer upgrade v4.0.0 // upgrade from op-contracts/v3.0.0 -> op-contracts/v4.0.0 (not recommended, should upgrade straight to op-contracts/v4.1.0 instead) op-deployer upgrade v4.1.0 // upgrade from op-contracts/v3.0.0|v4.0.0 -> op-contracts/v4.1.0 op-deployer upgrade v5.0.0 // upgrade from op-contracts/v4.1.0 -> op-contracts/v5.0.0 op-deployer upgrade v6.0.0-rc.1 // upgrade from op-contracts/v5.0.0 -> op-contracts/v6.0.0-rc.1 All other commands are only guaranteed to work with op-contracts/v6.0.0-rc.1 . So you must upgrade to op-contracts/v6.0.0 before doing the following: op-deployer manage [options] op-deployer verify [options] Details Additional changes outside of op-contracts/v6.0.0 support include: opDeployerVersion is now recorded in the intent and state files ongoing OPCMv2 work fixed Windows builds",
+    "ingested_utc": "2025-12-24T16:43:43Z"
+  },
+  {
+    "published_utc": "2025-12-24",
+    "retrieved_date": "2025-12-24",
+    "retrieved_utc": "2025-12-24T16:42:37Z",
+    "source": "CryptoNews",
+    "title": "Philippines Blocks Coinbase, Gemini: 50 Platforms Hit in Major Regulatory Crackdown",
+    "url": "https://cryptonews.com/news/philippines-blocks-coinbase-gemini-crypto-crackdown/",
+    "id_key": "919eb18fc06704d19780d98e6c9f7875a0d34cfabe4fb43f32412066779021a1",
+    "summary": "The Philippines has escalated its crackdown on unlicensed cryptocurrency exchanges, blocking access to 50 trading platforms identified as operating without proper licenses, including Coinbase and Gemini. The post Philippines Blocks Coinbase, Gemini: 50 Platforms Hit in Major Regulatory Crackdown appeared first on Cryptonews .",
+    "ingested_utc": "2025-12-24T16:42:37Z"
+  },
+  {
+    "published_utc": "2025-12-24",
+    "retrieved_date": "2025-12-24",
     "retrieved_utc": "2025-12-24T16:18:41Z",
     "source": "FinancialPost_Business",
     "title": "Stocks waver as ‘Santa Claus rally’ window opens",
@@ -10910,93 +10998,5 @@
     "id_key": "23c8321314b86909e85ca7f62caa82f2fcfd84659049e05c328002af62c0a61c",
     "summary": "Shares in Ørsted, the world’s largest offshore wind developer, fell by more than 14% after announcement",
     "ingested_utc": "2025-12-22T15:37:43Z"
-  },
-  {
-    "published_utc": "2025-12-22",
-    "retrieved_date": "2025-12-22",
-    "retrieved_utc": "2025-12-22T15:37:32Z",
-    "source": "NYTimes_World",
-    "title": "Christmas Is Back in Bethlehem, but Peace and Joy Have Yet to Arrive",
-    "url": "https://www.nytimes.com/2025/12/22/world/middleeast/christmas-in-bethlehem-west-bank.html",
-    "id_key": "0fdff4c4487efd0f603b5e4511f365b71091405c48c016e31a0a7e0831204cb3",
-    "summary": "Palestinian Christians are reviving their seasonal public celebrations, hoping to bring light and holiday spirit at the end of a gloomy year in the West Bank.",
-    "ingested_utc": "2025-12-22T15:37:32Z"
-  },
-  {
-    "published_utc": "2025-12-22",
-    "retrieved_date": "2025-12-22",
-    "retrieved_utc": "2025-12-22T15:35:43Z",
-    "source": "CryptoBriefing",
-    "title": "Flare, Upshift, and Clearstar introduce earnXRP, a new XRP-denominated yield vault",
-    "url": "https://cryptobriefing.com/xrp-yield-vault-earnxrp-launch/",
-    "id_key": "080ffaa5fbf22fba75b680ee9322814cb3e18aeed2fd8b9de5b4847e9aab5a12",
-    "summary": "The introduction of earnXRP could significantly boost XRP's DeFi participation, enhancing liquidity and yield opportunities in the ecosystem. The post Flare, Upshift, and Clearstar introduce earnXRP, a new XRP-denominated yield vault appeared first on Crypto Briefing .",
-    "ingested_utc": "2025-12-22T15:35:43Z"
-  },
-  {
-    "published_utc": "2025-12-22",
-    "retrieved_date": "2025-12-22",
-    "retrieved_utc": "2025-12-22T15:35:25Z",
-    "source": "Guardian_World",
-    "title": "UK drivers being overcharged as fuel prices fail to track oil market, watchdog finds",
-    "url": "https://www.theguardian.com/money/2025/dec/22/uk-drivers-being-overcharged-as-fuel-prices-fail-to-track-oil-market-watchdog-finds",
-    "id_key": "4fe15d3293362893fddeb154908abaa7291afea5d9871bb6394607400559d713",
-    "summary": "CMA rejects retailers’ claims on operating costs, saying weak competition is not passing on lower wholesale prices Drivers hitting the roads over the Christmas holidays are being overcharged for petrol and diesel, the UK’s consumer watchdog has said, dismissing forecourt operators’ excuse for charging more at the pump. Fuel retailers have said they are unable to lower pump prices to keep pace with falling global oil markets because they need to make up for higher non-fuel “operating” costs, such as wages and energy. Continue reading...",
-    "ingested_utc": "2025-12-22T15:35:25Z"
-  },
-  {
-    "published_utc": "2025-12-22",
-    "retrieved_date": "2025-12-22",
-    "retrieved_utc": "2025-12-22T15:35:25Z",
-    "source": "Guardian_World",
-    "title": "Chris Rea, rock and blues singer-songwriter, dies aged 74",
-    "url": "https://www.theguardian.com/music/2025/dec/22/chris-rea-rock-and-blues-singer-songwriter-dies-aged-74",
-    "id_key": "e2b2ff238bebdb99ac0bf406521de732fcbf062467328a45924b8f7f561e8316",
-    "summary": "Middlesbrough-born musician had hits with Driving Home for Christmas, On the Beach and The Road to Hell Chris Rea, the British singer-songwriter whose hits included Driving Home For Christmas, has died at the age of 74, a spokesperson for his family said. The statement said that he died “peacefully in hospital … following a short illness”. Continue reading...",
-    "ingested_utc": "2025-12-22T15:35:25Z"
-  },
-  {
-    "published_utc": "2025-12-22",
-    "retrieved_date": "2025-12-22",
-    "retrieved_utc": "2025-12-22T15:16:55Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "Japan's Rohm and India's Tata Electronics partner on power chip production",
-    "url": "https://asia.nikkei.com/business/tech/semiconductors/japan-s-rohm-and-india-s-tata-electronics-partner-on-power-chip-production",
-    "id_key": "3469869fa1b984b9c206d199241d0c81dd2f7b2f402df83e82524f0bd9ef6add",
-    "summary": "",
-    "ingested_utc": "2025-12-22T15:16:55Z"
-  },
-  {
-    "published_utc": "2025-12-22",
-    "retrieved_date": "2025-12-22",
-    "retrieved_utc": "2025-12-22T15:16:53Z",
-    "source": "FinancialPost_Business",
-    "title": "THE RESILIENCE STACK: 5 Assets Fixing the AI Bottleneck",
-    "url": "https://financialpost.com/globe-newswire/the-resilience-stack-5-assets-fixing-the-ai-bottleneck",
-    "id_key": "cdf8a71f14996ca34d5d46b5e83638c1343fb5312196b952cf43634bd6e94829",
-    "summary": "Issued on behalf of Avant Technologies Inc. VANCOUVER, British Columbia, Dec. 22, 2025 (GLOBE NEWSWIRE) — USANewsGroup.com Market Intelligence Brief – The market has realized that AI is not just code. It is physics. The explosive rise of Oklo Inc. (NYSE: OKLO) confirms that capital is rotating from software to the hard infrastructure required to […]",
-    "ingested_utc": "2025-12-22T15:16:53Z"
-  },
-  {
-    "published_utc": "2025-12-22",
-    "retrieved_date": "2025-12-22",
-    "retrieved_utc": "2025-12-22T15:16:53Z",
-    "source": "FinancialPost_Business",
-    "title": "M&A Boom Has Room to Run: Dealmakers’ Predictions for 2026",
-    "url": "https://financialpost.com/pmn/business-pmn/ma-boom-has-room-to-run-dealmakers-predictions-for-2026",
-    "id_key": "82db3747c9047b6daaa90180b7cd630727aa82a7de1d1dc8bebb9df084bbed81",
-    "summary": "Huge takeovers agreed across railways, drugstores, film studios, video game makers and more, mean dealmakers’ roughly $4.5 trillion haul for 2025 is their second biggest on record.",
-    "ingested_utc": "2025-12-22T15:16:53Z"
-  },
-  {
-    "published_utc": "2025-12-22",
-    "retrieved_date": "2025-12-22",
-    "retrieved_utc": "2025-12-22T15:16:44Z",
-    "source": "TheStreet_Top",
-    "title": "Walmart makes big changes to avoid sold-out items this Christmas",
-    "url": "https://www.thestreet.com/retail/walmart-makes-big-changes-to-avoid-sold-out-items-this-christmas",
-    "id_key": "5ad280119d663af39f5db61d1bcd5bb0b427faf2b7d9a99334635c1ca1a6a4e0",
-    "summary": "Retailers have to balance spending too much money on inventory that doesn't sell and not having the items that their customers want. Back when I was running a large toy store, Time Machine Hobby in Manchester, Conn., we had to make about half of our holiday season inventory decisions in the summer. ...",
-    "ingested_utc": "2025-12-22T15:16:44Z"
   }
 ]
