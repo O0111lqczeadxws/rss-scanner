@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-12-25",
     "retrieved_date": "2025-12-25",
+    "retrieved_utc": "2025-12-25T16:56:18Z",
+    "source": "BBC_World",
+    "title": "Watch: Pope Leo's plea for peace in Christmas message",
+    "url": "https://www.bbc.com/news/videos/clyx049x0z7o?at_medium=RSS&at_campaign=rss",
+    "id_key": "ceb049808cf45623cd4f62567113ef490ec6b793bb8bda57a2b0f0576bacc65d",
+    "summary": "Pope Leo calls for an end to conflicts around the world in Christmas speech.",
+    "ingested_utc": "2025-12-25T16:56:18Z"
+  },
+  {
+    "published_utc": "2025-12-25",
+    "retrieved_date": "2025-12-25",
     "retrieved_utc": "2025-12-25T16:46:21Z",
     "source": "HackerNews_Top",
     "title": "Show HN: I made you a Christmas present",
@@ -10987,16 +10998,5 @@
     "id_key": "9d0aea7f21c5775834711fd267301b49cd1d23a32e09cf239002ca2698770d1b",
     "summary": "Investors are flocking to precious metals amid geopolitical tensions and expectations of more US interest rate cuts.",
     "ingested_utc": "2025-12-23T12:24:09Z"
-  },
-  {
-    "published_utc": "2025-12-22",
-    "retrieved_date": "2025-12-23",
-    "retrieved_utc": "2025-12-23T11:14:20Z",
-    "source": "NYTimes_Economy",
-    "title": "U.S. Coast Guard Pursues Oil Tanker Linked to Venezuela",
-    "url": "https://www.nytimes.com/2025/12/21/us/politics/us-coast-guard-venezuela-oil-tankers.html",
-    "id_key": "514b97034e514b883b319168a0604e59c760bb3c9583e7c44c0112f9a4b40738",
-    "summary": "The latest vessel to be targeted by the United States in its pressure campaign on Venezuela was sending distress signals as it headed northeast from the Caribbean into the Atlantic.",
-    "ingested_utc": "2025-12-23T11:14:20Z"
   }
 ]
