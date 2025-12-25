@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-12-25",
     "retrieved_date": "2025-12-25",
+    "retrieved_utc": "2025-12-25T19:48:02Z",
+    "source": "Guardian_World",
+    "title": "Russian opposition leader sentenced to six years in prison",
+    "url": "https://www.theguardian.com/world/2025/dec/25/sergei-udaltsov-terrorism",
+    "id_key": "3dbc53c70828a7d8a31a4c9888430fa3fd6ebae5508ef04a6eb9f86c7dbdf345",
+    "summary": "Sergei Udaltsov, Putin critic affiliated with the Communist party, convicted of justifying terrorism A court in Russia on Thursday convicted a pro-war activist and critic of Vladimir Putin of justifying terrorism and sentenced him to six years in prison. Sergei Udaltsov, the leader of the Left Front movement that opposes Putin and is affiliated with the Communist party, was arrested last year. Continue reading...",
+    "ingested_utc": "2025-12-25T19:48:02Z"
+  },
+  {
+    "published_utc": "2025-12-25",
+    "retrieved_date": "2025-12-25",
     "retrieved_utc": "2025-12-25T19:30:24Z",
     "source": "HackerNews_Top",
     "title": "All I Want for Xmas Is Your Secrets: LangGrinch Hits LangChain (CVE-2025-68664)",
@@ -1703,6 +1714,17 @@
     "id_key": "36b48c9022c7b5a48fdeabef959e43c6b9c248096ca9d0496c2134ff388ef26d",
     "summary": "Another 35 people were injured in the explosion during evening prayers in the city of Maiduguri, police say.",
     "ingested_utc": "2025-12-25T00:57:11Z"
+  },
+  {
+    "published_utc": "2025-12-24",
+    "retrieved_date": "2025-12-25",
+    "retrieved_utc": "2025-12-25T19:50:48Z",
+    "source": "TheStreet_Top",
+    "title": "Judge tossed plus-sized retailer's Chapter 11, liquidation likely",
+    "url": "https://www.thestreet.com/retail/judge-tosses-plus-sized-retailers-ashley-stewart-bankruptcy-liquidation-likely",
+    "id_key": "9b16bfe3dff816d90785ea6f7b06692f1ca972539051557de6de6f64ffa93d33",
+    "summary": "A Chapter 11 bankruptcy filing must be submitted by individuals with full corporate authority. Filings by unauthorized parties can be challenged, and courts often disagree on how such restrictions in organizational or loan documents are enforced. The question of who has the authority to file ...",
+    "ingested_utc": "2025-12-25T19:50:48Z"
   },
   {
     "published_utc": "2025-12-24",
@@ -10974,28 +10996,6 @@
     "title": "Medical tourism comes to Japan with new pilot project near airport",
     "url": "https://asia.nikkei.com/business/travel-leisure/medical-tourism-comes-to-japan-with-new-pilot-project-near-airport",
     "id_key": "2c936edb0bcfba6ffa014887fec5e83dfc85a84377fe1c642d4a44a820b9b674",
-    "summary": "",
-    "ingested_utc": "2025-12-23T01:00:22Z"
-  },
-  {
-    "published_utc": "2025-12-23",
-    "retrieved_date": "2025-12-23",
-    "retrieved_utc": "2025-12-23T01:00:22Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "Marcos Jr. barely survived 2025. Can he find redemption in 2026?",
-    "url": "https://asia.nikkei.com/opinion/marcos-jr.-barely-survived-2025.-can-he-find-redemption-in-2026",
-    "id_key": "9b267a8ecc4c70092fba3893b762cb3aae7ed6bc68b1e56e4b88f5c3cb670fee",
-    "summary": "",
-    "ingested_utc": "2025-12-23T01:00:22Z"
-  },
-  {
-    "published_utc": "2025-12-23",
-    "retrieved_date": "2025-12-23",
-    "retrieved_utc": "2025-12-23T01:00:22Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "Influencers are free to film Afghanistan, while journalists are locked out",
-    "url": "https://asia.nikkei.com/opinion/influencers-are-free-to-film-afghanistan-while-journalists-are-locked-out",
-    "id_key": "21b391647e41a45f876571388b1d2311dfb41a8404cf55beda4cd21d7402bf9f",
     "summary": "",
     "ingested_utc": "2025-12-23T01:00:22Z"
   }
