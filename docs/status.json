@@ -1,7 +1,7 @@
 {
-  "started_utc": "2025-12-25T07:33:42Z",
-  "ended_utc": "2025-12-25T07:37:02Z",
-  "new_items_this_run": 3,
+  "started_utc": "2025-12-25T07:49:06Z",
+  "ended_utc": "2025-12-25T07:52:29Z",
+  "new_items_this_run": 2,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
@@ -22,7 +22,7 @@
     "CryptoSlate": 0,
     "CryptoBriefing": 0,
     "Protos": 0,
-    "CryptoNews": 2,
+    "CryptoNews": 0,
     "CoinJournal": 0,
     "Unchained": 0,
     "Bankless": 0,
@@ -79,7 +79,7 @@
     "TheEconomist_Finance": 0,
     "Investopedia_Latest": 0,
     "TheStreet_Top": 0,
-    "AlJazeera_All": 0,
+    "AlJazeera_All": 1,
     "AlJazeera_Economy": 0,
     "FinancialPost_Business": 0,
     "CBC_Business": 0,
@@ -335,7 +335,7 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 605,
+    "passed_keywords": 603,
     "passed_allowlist": 0,
     "failed_all_filters": 416
   },
@@ -345,8 +345,8 @@
     "feeds_timeout": 0,
     "feeds_http_error": 0,
     "entries_seen": 1518,
-    "too_old": 497,
-    "dup_title_url": 113,
+    "too_old": 499,
+    "dup_title_url": 112,
     "dup_id": 489
   },
   "limits": {
@@ -360,6 +360,6 @@
   },
   "processed": {
     "file": "data/processed/2025-12-25.jsonl",
-    "appended_new": 3
+    "appended_new": 2
   }
 }
