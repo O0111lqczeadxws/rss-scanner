@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-12-25",
     "retrieved_date": "2025-12-25",
+    "retrieved_utc": "2025-12-25T23:31:23Z",
+    "source": "CryptoSlate",
+    "title": "XRPL flips to quantum-safe signatures; 2,420-byte proofs replace elliptic curves",
+    "url": "https://cryptoslate.com/xrpl-flips-to-quantum-safe-signatures-2420-byte-proofs-replace-elliptic-curves/",
+    "id_key": "d8007db8bccc23885c092966bfe1a72cb5b7638ce9582b24930d73cd1d813aaa",
+    "summary": "The XRP Ledger (XRPL) is ending the year with major technological developments after a year that saw it gain significant adoption and milestones. On Dec. 24, Denis Angell, a lead software engineer at XRPL Labs, announced the integration of “post-quantum” cryptography and native smart contracts into AlphaNet, the project’s public developer network. The ‘Q-Day' inevitability […] The post XRPL flips to quantum-safe signatures; 2,420-byte proofs replace elliptic curves appeared first on CryptoSlate .",
+    "ingested_utc": "2025-12-25T23:31:23Z"
+  },
+  {
+    "published_utc": "2025-12-25",
+    "retrieved_date": "2025-12-25",
     "retrieved_utc": "2025-12-25T23:12:29Z",
     "source": "BBC_World",
     "title": "Heavy rain storms in California leave three dead as of Christmas night",
@@ -10986,17 +10997,6 @@
     "url": "https://www.nytimes.com/2025/12/22/business/media/cbs-news-bari-weiss-60-minutes.html",
     "id_key": "ad6780582821fd0a2a9ac1dddc7afc5cd95d2dbe0e493bf06d87d4489974bec7",
     "summary": "Several veteran correspondents questioned how Ms. Weiss, the new CBS News editor in chief, had handled the segment, after she defended her decision on a call with the newsroom.",
-    "ingested_utc": "2025-12-23T02:54:08Z"
-  },
-  {
-    "published_utc": "2025-12-23",
-    "retrieved_date": "2025-12-23",
-    "retrieved_utc": "2025-12-23T02:54:08Z",
-    "source": "NYTimes_Business",
-    "title": "The Economy Survived 2025, But Many Americans Are Reeling",
-    "url": "https://www.nytimes.com/2025/12/22/business/economy-unemployment-wages-affordability.html",
-    "id_key": "5a16c690f7e9a089215e244042ba6467184225237aab381a2b343c277daba9e1",
-    "summary": "A feared recession didn’t materialize, but unemployment rose, wage growth slowed and affordability challenges are mounting.",
     "ingested_utc": "2025-12-23T02:54:08Z"
   }
 ]
