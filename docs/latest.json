@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-12-25",
     "retrieved_date": "2025-12-25",
+    "retrieved_utc": "2025-12-25T10:41:05Z",
+    "source": "HackerNews_Top",
+    "title": "We invited a man into our home at Christmas and he stayed with us for 45 years",
+    "url": "https://www.bbc.co.uk/news/articles/cdxwllqz1l0o",
+    "id_key": "8a47cde0e0fd8456643587f39f25b87872311472d906799e5f5ce2f0b60d7b7b",
+    "summary": "Comments",
+    "ingested_utc": "2025-12-25T10:41:05Z"
+  },
+  {
+    "published_utc": "2025-12-25",
+    "retrieved_date": "2025-12-25",
+    "retrieved_utc": "2025-12-25T10:40:49Z",
+    "source": "AlJazeera_All",
+    "title": "Video: Gaza’s Christians mark first Christmas since fragile ceasefire deal",
+    "url": "https://www.aljazeera.com/video/newsfeed/2025/12/25/video-gazas-christians-mark-first-christmas-since-fragile-ceasefire-deal?traffic_source=rss",
+    "id_key": "292f537d6b94962ea2983702f3d393af1cde05cfb1eb82e9a7842a7e7b79e88a",
+    "summary": "Gaza’s Christians reflected on the loss they’ve experienced after two years of Israel’s devastating war.",
+    "ingested_utc": "2025-12-25T10:40:49Z"
+  },
+  {
+    "published_utc": "2025-12-25",
+    "retrieved_date": "2025-12-25",
+    "retrieved_utc": "2025-12-25T10:40:48Z",
+    "source": "TheStreet_Top",
+    "title": "McDonald's answers a major question for Christmas 2025",
+    "url": "https://www.thestreet.com/restaurants/mcdonalds-answers-a-major-question-for-christmas-2025",
+    "id_key": "5cbbb081ffd8dd519a29cbd852cfa5bd07d204457301c741083ff5541d1af736",
+    "summary": "Fast food has long been a defining part of American culture, and McDonald's remains the leader in the category. With breakfast, lunch, and dinner options that appeal to nearly every palate, the iconic chain has earned the loyalty of generations of fans and remained a go-to destination for ...",
+    "ingested_utc": "2025-12-25T10:40:48Z"
+  },
+  {
+    "published_utc": "2025-12-25",
+    "retrieved_date": "2025-12-25",
     "retrieved_utc": "2025-12-25T10:16:52Z",
     "source": "TheStreet_Top",
     "title": "Is Starbucks open on Christmas 2025?",
@@ -10965,38 +10998,5 @@
     "id_key": "098600847e6ac0fe2dd5355b3094ce1700f2bd5ec04549e42abc22d4a3179703",
     "summary": "The Trump administration has long opposed wind power, most often citing cost and reliability concerns.",
     "ingested_utc": "2025-12-22T22:37:23Z"
-  },
-  {
-    "published_utc": "2025-12-22",
-    "retrieved_date": "2025-12-22",
-    "retrieved_utc": "2025-12-22T22:35:59Z",
-    "source": "CryptoNews",
-    "title": "Peter Thiel-Backed ETHZilla Dumps $74.5M in ETH, Abandons Treasury Strategy – What Went Wrong?",
-    "url": "https://cryptonews.com/news/ethzilla-sells-eth-exits-treasury-strategy/",
-    "id_key": "813971ebb30e7baf1d46e413aa3efc95a12ddf3ef10da5835dddc1b5fb191951",
-    "summary": "ETHZilla has sold 24,291 ETH for $74.5M to redeem secured convertible notes, trimming holdings to about 69,800 ETH. The Nasdaq firm has dropped its mNAV dashboard and has shifted disclosures to revenue and cash flow as shares have fallen about 96% from August highs. The post Peter Thiel-Backed ETHZilla Dumps $74.5M in ETH, Abandons Treasury Strategy – What Went Wrong? appeared first on Cryptonews .",
-    "ingested_utc": "2025-12-22T22:35:59Z"
-  },
-  {
-    "published_utc": "2025-12-22",
-    "retrieved_date": "2025-12-22",
-    "retrieved_utc": "2025-12-22T22:35:57Z",
-    "source": "CryptoSlate",
-    "title": "Solana Mobile ended Saga security patches, exposing owners to a critical wallet risk you can’t ignore",
-    "url": "https://cryptoslate.com/solana-mobile-ended-saga-security-patches-exposing-owners-to-a-critical-wallet-risk-you-cant-ignore/",
-    "id_key": "e39439492ea45655e2efe81b13d650852bff06f96628d3f9a6aa7cf212479bd7",
-    "summary": "Solana Mobile has ended software update and security patch support for its Saga smartphone. The company warned that compatibility with new software or services “cannot be guaranteed,” and that Saga-specific customer support is now limited to general inquiries, according to Solana Mobile’s help-center notice. Solana Mobile said the change “does not affect Seeker devices,” which […] The post Solana Mobile ended Saga security patches, exposing owners to a critical wallet risk you can’t ignore appeared first on CryptoSlate .",
-    "ingested_utc": "2025-12-22T22:35:57Z"
-  },
-  {
-    "published_utc": "2025-12-22",
-    "retrieved_date": "2025-12-22",
-    "retrieved_utc": "2025-12-22T22:35:39Z",
-    "source": "Guardian_World",
-    "title": "One dead in California floods as state braces for brutal week of Christmas storms",
-    "url": "https://www.theguardian.com/us-news/2025/dec/22/california-storms-flooding-atmospheric-river",
-    "id_key": "9b7a895f4233fb3763a29915184a793ff1812902d68fe12defece6c23ee472da",
-    "summary": "An atmospheric river is forecast to drive storms across the state this week, bringing rain, high winds and risk of floods One person has died in California amid heavy flooding, as residents across the state brace for a week of brutal storms that are predicted to bring extensive rainfall throughout the Christmas weekend. Authorities in Redding, a city in northern California, reported that a motorist died on Sunday after becoming stranded in their vehicle. Continue reading...",
-    "ingested_utc": "2025-12-22T22:35:39Z"
   }
 ]
