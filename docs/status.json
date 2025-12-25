@@ -1,7 +1,7 @@
 {
-  "started_utc": "2025-12-25T23:30:44Z",
-  "ended_utc": "2025-12-25T23:34:21Z",
-  "new_items_this_run": 1,
+  "started_utc": "2025-12-25T23:42:06Z",
+  "ended_utc": "2025-12-25T23:45:39Z",
+  "new_items_this_run": 0,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
@@ -19,7 +19,7 @@
     "MarketWatch_MarketPulse": 0,
     "Blockworks": 0,
     "BitcoinMagazine": 0,
-    "CryptoSlate": 1,
+    "CryptoSlate": 0,
     "CryptoBriefing": 0,
     "Protos": 0,
     "CryptoNews": 0,
@@ -335,19 +335,19 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 588,
+    "passed_keywords": 586,
     "passed_allowlist": 0,
-    "failed_all_filters": 420
+    "failed_all_filters": 421
   },
   "stats": {
     "feeds_total": 97,
     "feeds_error": 23,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 1521,
+    "entries_seen": 1520,
     "too_old": 513,
     "dup_title_url": 108,
-    "dup_id": 479
+    "dup_id": 478
   },
   "limits": {
     "skip_older_days": 10,
@@ -360,6 +360,6 @@
   },
   "processed": {
     "file": "data/processed/2025-12-25.jsonl",
-    "appended_new": 1
+    "appended_new": 0
   }
 }
