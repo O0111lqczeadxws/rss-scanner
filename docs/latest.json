@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-12-25",
     "retrieved_date": "2025-12-25",
+    "retrieved_utc": "2025-12-25T16:46:21Z",
+    "source": "HackerNews_Top",
+    "title": "Show HN: I made you a Christmas present",
+    "url": "https://arielche.net/noel2025",
+    "id_key": "2f632cff37a6175c196b04cec72274fab84d0b9a46336b6e69f203cad7c37027",
+    "summary": "Comments",
+    "ingested_utc": "2025-12-25T16:46:21Z"
+  },
+  {
+    "published_utc": "2025-12-25",
+    "retrieved_date": "2025-12-25",
+    "retrieved_utc": "2025-12-25T16:46:03Z",
+    "source": "AlJazeera_All",
+    "title": "Israel says member of Iran’s IRGC among several killed in Lebanon strikes",
+    "url": "https://www.aljazeera.com/news/2025/12/25/two-killed-in-israeli-drone-attack-in-eastern-lebanon?traffic_source=rss",
+    "id_key": "93d2af9789abc8733fb98f82284b4c7c98df45d34880c2f3046f1a48921971bb",
+    "summary": "Latest attacks come hours after an Israeli strike the night before in ongoing near-daily ceasefire violations.",
+    "ingested_utc": "2025-12-25T16:46:03Z"
+  },
+  {
+    "published_utc": "2025-12-25",
+    "retrieved_date": "2025-12-25",
     "retrieved_utc": "2025-12-25T16:17:59Z",
     "source": "Engadget_All",
     "title": "How to set up a PS5 for a child",
@@ -1483,6 +1505,17 @@
     "id_key": "36b48c9022c7b5a48fdeabef959e43c6b9c248096ca9d0496c2134ff388ef26d",
     "summary": "Another 35 people were injured in the explosion during evening prayers in the city of Maiduguri, police say.",
     "ingested_utc": "2025-12-25T00:57:11Z"
+  },
+  {
+    "published_utc": "2025-12-24",
+    "retrieved_date": "2025-12-25",
+    "retrieved_utc": "2025-12-25T16:44:51Z",
+    "source": "Guardian_World",
+    "title": "Pope Leo calls for kindness to strangers and the poor in Christmas Eve message",
+    "url": "https://www.theguardian.com/world/2025/dec/24/pope-leo-christmas-message-kindness-strangers-poor",
+    "id_key": "9a497b94d3d4581341a4deb96b0a2095bc29f80bfbdb4ec34af56e78a6efeb2b",
+    "summary": "Refusing to help those in need is tantamount to rejecting God himself, says pontiff during Christmas Eve mass Pope Leo has told Christians that the Christmas story should remind them of their duty to help the poor and strangers. In his Christmas Eve sermon, the pope said the story of Jesus being born in a stable because there was no room at an inn showed followers that refusing to help those in need was tantamount to rejecting God himself. Continue reading...",
+    "ingested_utc": "2025-12-25T16:44:51Z"
   },
   {
     "published_utc": "2025-12-24",
@@ -10965,38 +10998,5 @@
     "id_key": "514b97034e514b883b319168a0604e59c760bb3c9583e7c44c0112f9a4b40738",
     "summary": "The latest vessel to be targeted by the United States in its pressure campaign on Venezuela was sending distress signals as it headed northeast from the Caribbean into the Atlantic.",
     "ingested_utc": "2025-12-23T11:14:20Z"
-  },
-  {
-    "published_utc": "2025-12-22",
-    "retrieved_date": "2025-12-23",
-    "retrieved_utc": "2025-12-23T10:44:02Z",
-    "source": "NPR_Business",
-    "title": "Nearly two dozen states sue the Trump administration over funding for CFPB",
-    "url": "https://www.npr.org/2025/12/22/nx-s1-5652043/cfpb-trump-russell-vought-lawsuit",
-    "id_key": "2e33669f9c374a3a64b217c36dffc664b25ddee18aa488c6574a4c717d17eb86",
-    "summary": "The attorney generals say the Trump administration is refusing to accept funding for the Consumer Financial Protection Bureau, which could hurt consumers in their states.",
-    "ingested_utc": "2025-12-23T10:44:02Z"
-  },
-  {
-    "published_utc": "2025-12-22",
-    "retrieved_date": "2025-12-23",
-    "retrieved_utc": "2025-12-23T10:42:01Z",
-    "source": "CryptoSlate",
-    "title": "Solana ends Saga phone support, exposing owners to a critical wallet risk you can’t ignore",
-    "url": "https://cryptoslate.com/solana-mobile-ended-saga-security-patches-exposing-owners-to-a-critical-wallet-risk-you-cant-ignore/",
-    "id_key": "eee0a66553b1fa267a7dcb94fe6cbdc44e74a3b0f1344844a62d0ae91ad7b8ff",
-    "summary": "Solana Mobile has ended software update and security patch support for its Saga smartphone. The company warned that compatibility with new software or services “cannot be guaranteed,” and that Saga-specific customer support is now limited to general inquiries, according to Solana Mobile’s help-center notice. Solana Mobile said the change “does not affect Seeker devices,” which […] The post Solana ends Saga phone support, exposing owners to a critical wallet risk you can’t ignore appeared first on CryptoSlate .",
-    "ingested_utc": "2025-12-23T10:42:01Z"
-  },
-  {
-    "published_utc": "2025-12-22",
-    "retrieved_date": "2025-12-23",
-    "retrieved_utc": "2025-12-23T10:16:50Z",
-    "source": "NPR_World",
-    "title": "DOJ releases more Epstein files. And, immigration court 'no-shows' surged, NPR finds",
-    "url": "https://www.npr.org/2025/12/22/g-s1-103305/up-first-newsletter-us-venezuela-oil-tankers-epstein-files-immigration-court",
-    "id_key": "3dff2aa7a82bfbaef09e5b3e501c8a23c6e81528ebc4d9e61906f4d45ae28aca",
-    "summary": "The DOJ has released more files related to convicted sex offender Jeffrey Epstein. And, NPR finds a rise in the number of immigrants without legal status who aren't showing up to immigration court.",
-    "ingested_utc": "2025-12-23T10:16:50Z"
   }
 ]
