@@ -1,17 +1,17 @@
 {
-  "started_utc": "2025-12-26T07:15:24Z",
-  "ended_utc": "2025-12-26T07:18:54Z",
-  "new_items_this_run": 3,
+  "started_utc": "2025-12-26T07:34:10Z",
+  "ended_utc": "2025-12-26T07:37:52Z",
+  "new_items_this_run": 2,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
     "Reuters_World": 0,
     "Reuters_Markets": 0,
     "BBC_World": 0,
-    "BBC_Business": 1,
+    "BBC_Business": 0,
     "BBC_Technology": 0,
     "Guardian_Business": 0,
-    "Guardian_World": 2,
+    "Guardian_World": 0,
     "WSJ_US_Business": 0,
     "WSJ_World": 0,
     "WSJ_Markets": 0,
@@ -22,7 +22,7 @@
     "CryptoSlate": 0,
     "CryptoBriefing": 0,
     "Protos": 0,
-    "CryptoNews": 0,
+    "CryptoNews": 1,
     "CoinJournal": 0,
     "Unchained": 0,
     "Bankless": 0,
@@ -61,7 +61,7 @@
     "NYTimes_Economy": 0,
     "NYTimes_Technology": 0,
     "CNN_Top": 0,
-    "NPR_Top": 0,
+    "NPR_Top": 1,
     "NPR_Business": 0,
     "NPR_Economy": 0,
     "NPR_World": 0,
@@ -291,6 +291,14 @@
       "error": "fatal parse failure"
     },
     {
+      "source": "https://financialpost.com/feed/",
+      "error": "fetch error: HTTP 502"
+    },
+    {
+      "source": "FinancialPost_Business",
+      "error": "fatal parse failure"
+    },
+    {
       "source": "WorldBank_News",
       "error": "<unknown>:37:111: not well-formed (invalid token)"
     },
@@ -335,19 +343,19 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 547,
+    "passed_keywords": 543,
     "passed_allowlist": 0,
-    "failed_all_filters": 431
+    "failed_all_filters": 427
   },
   "stats": {
     "feeds_total": 97,
-    "feeds_error": 23,
+    "feeds_error": 24,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 1499,
+    "entries_seen": 1491,
     "too_old": 521,
-    "dup_title_url": 91,
-    "dup_id": 453
+    "dup_title_url": 93,
+    "dup_id": 448
   },
   "limits": {
     "skip_older_days": 10,
@@ -360,6 +368,6 @@
   },
   "processed": {
     "file": "data/processed/2025-12-26.jsonl",
-    "appended_new": 3
+    "appended_new": 2
   }
 }
