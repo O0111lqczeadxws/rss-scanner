@@ -1,14 +1,14 @@
 {
-  "started_utc": "2025-12-26T10:13:37Z",
-  "ended_utc": "2025-12-26T10:16:58Z",
-  "new_items_this_run": 10,
+  "started_utc": "2025-12-26T10:37:48Z",
+  "ended_utc": "2025-12-26T10:41:15Z",
+  "new_items_this_run": 4,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
     "Reuters_World": 0,
     "Reuters_Markets": 0,
     "BBC_World": 0,
-    "BBC_Business": 1,
+    "BBC_Business": 0,
     "BBC_Technology": 0,
     "Guardian_Business": 0,
     "Guardian_World": 0,
@@ -56,32 +56,32 @@
     "MarketWatch_RealTime": 0,
     "MarketWatch_Bulletins": 0,
     "MarketWatch_PersonalFinance": 0,
-    "NYTimes_Business": 1,
-    "NYTimes_World": 0,
+    "NYTimes_Business": 0,
+    "NYTimes_World": 1,
     "NYTimes_Economy": 0,
     "NYTimes_Technology": 0,
     "CNN_Top": 0,
-    "NPR_Top": 4,
+    "NPR_Top": 0,
     "NPR_Business": 0,
     "NPR_Economy": 0,
     "NPR_World": 0,
     "NPR_Technology": 0,
-    "FT_Home": 0,
+    "FT_Home": 1,
     "FT_Markets": 0,
     "CNBC_Top": 0,
     "CNBC_Markets": 0,
     "TheVerge_All": 0,
     "TechCrunch_All": 0,
     "ArsTechnica_All": 0,
-    "WIRED_All": 0,
-    "Engadget_All": 1,
+    "WIRED_All": 1,
+    "Engadget_All": 0,
     "TheEconomist_Business": 0,
     "TheEconomist_Finance": 0,
     "Investopedia_Latest": 0,
-    "TheStreet_Top": 1,
+    "TheStreet_Top": 0,
     "AlJazeera_All": 1,
     "AlJazeera_Economy": 0,
-    "FinancialPost_Business": 1,
+    "FinancialPost_Business": 0,
     "CBC_Business": 0,
     "Nikkei_Asia_Top": 0,
     "WorldBank_News": 0,
@@ -173,6 +173,14 @@
     {
       "source": "Polygon_Blog",
       "error": "<unknown>:2:2184: not well-formed (invalid token)"
+    },
+    {
+      "source": "https://medium.com/feed/avalancheavax",
+      "error": "fetch error: HTTP 429"
+    },
+    {
+      "source": "Avalanche_Blog",
+      "error": "fatal parse failure"
     },
     {
       "source": "NEAR_Blog",
@@ -335,19 +343,19 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 540,
+    "passed_keywords": 543,
     "passed_allowlist": 0,
-    "failed_all_filters": 439
+    "failed_all_filters": 436
   },
   "stats": {
     "feeds_total": 97,
-    "feeds_error": 23,
+    "feeds_error": 24,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 1501,
-    "too_old": 522,
+    "entries_seen": 1491,
+    "too_old": 512,
     "dup_title_url": 92,
-    "dup_id": 438
+    "dup_id": 447
   },
   "limits": {
     "skip_older_days": 10,
@@ -360,6 +368,6 @@
   },
   "processed": {
     "file": "data/processed/2025-12-26.jsonl",
-    "appended_new": 10
+    "appended_new": 4
   }
 }
