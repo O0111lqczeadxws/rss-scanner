@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-12-26",
     "retrieved_date": "2025-12-26",
+    "retrieved_utc": "2025-12-26T23:34:12Z",
+    "source": "AlJazeera_All",
+    "title": "Israeli forces kill Palestinian in Gaza, carry out raids across West Bank",
+    "url": "https://www.aljazeera.com/news/2025/12/26/israeli-forces-kill-palestinian-in-gaza-carry-out-raids-across-west-bank?traffic_source=rss",
+    "id_key": "944b6e51023cdbf782bca3bd0597125734bf42ea2473200344a7167a3681059c",
+    "summary": "Palestinian death toll since the start of the truce in Gaza rises to 411 amid near daily Israeli violations.",
+    "ingested_utc": "2025-12-26T23:34:12Z"
+  },
+  {
+    "published_utc": "2025-12-26",
+    "retrieved_date": "2025-12-26",
     "retrieved_utc": "2025-12-26T22:53:53Z",
     "source": "FinancialPost_Business",
     "title": "Southpoint holdings in Fennec Pharmaceuticals Inc. (TSX: FENC)",
@@ -10986,17 +10997,6 @@
     "url": "https://financialpost.com/financial-times/epstein-appointed-staley-summers-executors-will",
     "id_key": "3b73cecf3db7869c34793c7b05f72a2797c131eda00e624e60f86c50284d9658",
     "summary": "Newly released DoJ documents point to deep ties between influential men and late sex offender",
-    "ingested_utc": "2025-12-23T15:38:14Z"
-  },
-  {
-    "published_utc": "2025-12-23",
-    "retrieved_date": "2025-12-23",
-    "retrieved_utc": "2025-12-23T15:38:14Z",
-    "source": "FinancialPost_Business",
-    "title": "Statistics Canada says real gross domestic product fell 0.3 per cent in October",
-    "url": "https://financialpost.com/pmn/statistics-canada-says-real-gross-domestic-product-fell-0-3-per-cent-in-october",
-    "id_key": "e6e0e4ce9ace2e45604f62615097e63779508ee8c74073f83e68bc1192907520",
-    "summary": "Statistics Canada says real gross domestic product was 0.3 per cent lower in October as the manufacturing sector slowed. The pullback in October came as goods-producing industries fell 0.7 per cent, with manufacturing leading the way lower. Manufacturing output was down 1.5 per cent in the month, StatCan reported. The agency said the mining, quarrying, […]",
     "ingested_utc": "2025-12-23T15:38:14Z"
   }
 ]
