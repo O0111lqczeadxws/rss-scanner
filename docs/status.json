@@ -1,7 +1,7 @@
 {
-  "started_utc": "2025-12-26T07:34:10Z",
-  "ended_utc": "2025-12-26T07:37:52Z",
-  "new_items_this_run": 2,
+  "started_utc": "2025-12-26T07:48:38Z",
+  "ended_utc": "2025-12-26T07:52:03Z",
+  "new_items_this_run": 1,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
@@ -22,7 +22,7 @@
     "CryptoSlate": 0,
     "CryptoBriefing": 0,
     "Protos": 0,
-    "CryptoNews": 1,
+    "CryptoNews": 0,
     "CoinJournal": 0,
     "Unchained": 0,
     "Bankless": 0,
@@ -61,7 +61,7 @@
     "NYTimes_Economy": 0,
     "NYTimes_Technology": 0,
     "CNN_Top": 0,
-    "NPR_Top": 1,
+    "NPR_Top": 0,
     "NPR_Business": 0,
     "NPR_Economy": 0,
     "NPR_World": 0,
@@ -87,7 +87,7 @@
     "WorldBank_News": 0,
     "OECD_Newsroom": 0,
     "MIT_TechReview": 0,
-    "HackerNews_Top": 0
+    "HackerNews_Top": 1
   },
   "errors": [
     {
@@ -291,14 +291,6 @@
       "error": "fatal parse failure"
     },
     {
-      "source": "https://financialpost.com/feed/",
-      "error": "fetch error: HTTP 502"
-    },
-    {
-      "source": "FinancialPost_Business",
-      "error": "fatal parse failure"
-    },
-    {
       "source": "WorldBank_News",
       "error": "<unknown>:37:111: not well-formed (invalid token)"
     },
@@ -343,19 +335,19 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 543,
+    "passed_keywords": 550,
     "passed_allowlist": 0,
-    "failed_all_filters": 427
+    "failed_all_filters": 430
   },
   "stats": {
     "feeds_total": 97,
-    "feeds_error": 24,
+    "feeds_error": 23,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 1491,
+    "entries_seen": 1501,
     "too_old": 521,
     "dup_title_url": 93,
-    "dup_id": 448
+    "dup_id": 456
   },
   "limits": {
     "skip_older_days": 10,
@@ -368,6 +360,6 @@
   },
   "processed": {
     "file": "data/processed/2025-12-26.jsonl",
-    "appended_new": 2
+    "appended_new": 1
   }
 }
