@@ -1,6 +1,6 @@
 {
-  "started_utc": "2025-12-26T23:42:46Z",
-  "ended_utc": "2025-12-26T23:46:07Z",
+  "started_utc": "2025-12-26T23:50:30Z",
+  "ended_utc": "2025-12-26T23:53:52Z",
   "new_items_this_run": 0,
   "total_in_latest": 1000,
   "by_source": {
@@ -335,9 +335,9 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 532,
+    "passed_keywords": 531,
     "passed_allowlist": 0,
-    "failed_all_filters": 431
+    "failed_all_filters": 432
   },
   "stats": {
     "feeds_total": 97,
@@ -347,7 +347,7 @@
     "entries_seen": 1501,
     "too_old": 538,
     "dup_title_url": 92,
-    "dup_id": 440
+    "dup_id": 439
   },
   "limits": {
     "skip_older_days": 10,
