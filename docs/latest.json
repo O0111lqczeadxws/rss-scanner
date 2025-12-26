@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-12-26",
     "retrieved_date": "2025-12-26",
+    "retrieved_utc": "2025-12-26T21:51:05Z",
+    "source": "FinancialPost_Business",
+    "title": "Stocks End Near Record High as Nvidia Gains on AI Licensing Deal",
+    "url": "https://financialpost.com/pmn/business-pmn/stocks-hover-near-record-as-nvidia-gains-on-ai-licensing-deal",
+    "id_key": "710a67bc36846fab20e8dc1fa42540e52b902e0d51024fe2ddd9aeb86b2c1333",
+    "summary": "US stocks wavered near a record high in thin holiday trading as investors shifted attention to a relentless rally in commodities. Nvidia Corp. climbed as analysts viewed a licensing deal with artificial intelligence startup Groq positively.",
+    "ingested_utc": "2025-12-26T21:51:05Z"
+  },
+  {
+    "published_utc": "2025-12-26",
+    "retrieved_date": "2025-12-26",
+    "retrieved_utc": "2025-12-26T21:50:26Z",
+    "source": "NPR_World",
+    "title": "U.S. strikes alleged Islamic State camps in Nigeria",
+    "url": "https://www.npr.org/2025/12/26/nx-s1-5658261/u-s-strikes-alleged-islamic-state-camps-in-nigeria",
+    "id_key": "9889e953dc9eb707c1d3a02d9c70c90f90febd51c920557994ab6144a81a9b46",
+    "summary": "President Trump ordered U.S. strikes on ISIS targets in northwest Nigeria, in response to what he claimed is persecution of Christians",
+    "ingested_utc": "2025-12-26T21:50:26Z"
+  },
+  {
+    "published_utc": "2025-12-26",
+    "retrieved_date": "2025-12-26",
     "retrieved_utc": "2025-12-26T21:43:08Z",
     "source": "FinancialPost_Business",
     "title": "Brookfield Real Assets Income Fund Inc. Declares Q1 2026 Distribution Schedule",
@@ -10976,27 +10998,5 @@
     "id_key": "dec6254bd6ccdcd7ae4f3964687ed7a706de77818d82900c60176d810771d259",
     "summary": "The Uzbek government's national license plate scanning system was discovered exposed to the internet for anyone to access without a password.",
     "ingested_utc": "2025-12-23T15:16:01Z"
-  },
-  {
-    "published_utc": "2025-12-23",
-    "retrieved_date": "2025-12-23",
-    "retrieved_utc": "2025-12-23T15:15:32Z",
-    "source": "NYTimes_World",
-    "title": "Greta Thunberg Arrested at U.K. Protest Supporting Palestine Action Prisoners",
-    "url": "https://www.nytimes.com/2025/12/23/world/europe/greta-thunberg-arrest-uk-palestine-action.html",
-    "id_key": "6f5432fb40500e40b4af3cf91d2a6c3258456f903684392ba972b16a6fb02129",
-    "summary": "The Swedish activist Greta Thunberg was arrested after holding a sign that the police said showed support for the group Palestine Action, which Britain banned this year.",
-    "ingested_utc": "2025-12-23T15:15:32Z"
-  },
-  {
-    "published_utc": "2025-12-23",
-    "retrieved_date": "2025-12-23",
-    "retrieved_utc": "2025-12-23T15:15:14Z",
-    "source": "Guardian_World",
-    "title": "Jes Staley and Larry Summers were made executors of Jeffrey Esptein’s estate, files reveal",
-    "url": "https://www.theguardian.com/us-news/2025/dec/23/jes-staley-larry-summers-made-executors-will-jeffrey-esptein-estate-files-reveal",
-    "id_key": "baa46a4c8e7d523adc1c5f84dc8a5c4b52f70121bfce68ce5bb665f11fe802ee",
-    "summary": "Ex-Treasury secretary and former Barclays chief are named in versions of will belonging to deceased child sex offender The former Barclays chief executive Jes Staley and the ex-US Treasury secretary Larry Summers were appointed as executors of Jeffrey Epstein’s estate, according to a newly released tranche of documents linked to the now-deceased child sex offender. Filings published on Tuesday by the US Department of Justice included various versions of Epstein’s last will and testament, which showed the financier intended to hand responsibility of managing his affairs to associates including the two high-profile men in the event of his death. Continue reading...",
-    "ingested_utc": "2025-12-23T15:15:14Z"
   }
 ]
