@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-12-26",
     "retrieved_date": "2025-12-26",
+    "retrieved_utc": "2025-12-26T19:48:03Z",
+    "source": "Guardian_World",
+    "title": "Three people missing after Boxing Day house fire near Stroud",
+    "url": "https://www.theguardian.com/uk-news/2025/dec/26/people-missing-after-boxing-day-house-fire-near-stroud",
+    "id_key": "d1d8670db11380848bc5aaf18d7ed7c7c799691c565b632f093a61e0ef190ffe",
+    "summary": "Emergency services were called to property in Brimscombe Hill in Gloucestershire at about 3am Three people are missing after a house fire in the early hours of the morning on Boxing Day, police have said. Emergency services were called to a report of a fire at a property on Brimscombe Hill, near Stroud, Gloucestershire at about 3am on the 26 December. Continue reading...",
+    "ingested_utc": "2025-12-26T19:48:03Z"
+  },
+  {
+    "published_utc": "2025-12-26",
+    "retrieved_date": "2025-12-26",
     "retrieved_utc": "2025-12-26T19:13:08Z",
     "source": "HackerNews_Top",
     "title": "Rob Pike got spammed with an AI slop \"act of kindness\"",
@@ -10987,16 +10998,5 @@
     "id_key": "4ad2b3f9a5577031757eb3a817d21bda35aeaaf72ef67fc56b5b80ecef021b40",
     "summary": "Police arrest three people outside insurer of Israeli arms maker Elbit, including Thunberg for holding placard.",
     "ingested_utc": "2025-12-23T14:40:08Z"
-  },
-  {
-    "published_utc": "2025-12-23",
-    "retrieved_date": "2025-12-23",
-    "retrieved_utc": "2025-12-23T14:40:07Z",
-    "source": "TheStreet_Top",
-    "title": "Amazon is selling a wall-mounted farmhouse storage cabinet for just $37",
-    "url": "https://www.thestreet.com/deals/funhukson-wall-mounted-farmhouse-storage-cabinet-amazon-sale",
-    "id_key": "03803a964ea4fc2cfb47790980523f66a4364b21af0a1ec179a72f69fa801953",
-    "summary": "\"Stylish, sturdy, and secretly super spacious.\"",
-    "ingested_utc": "2025-12-23T14:40:07Z"
   }
 ]
