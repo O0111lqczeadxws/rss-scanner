@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-12-26",
     "retrieved_date": "2025-12-26",
+    "retrieved_utc": "2025-12-26T11:50:28Z",
+    "source": "NPR_Top",
+    "title": "U.S. strikes ISIS in Nigeria. And, holiday shopping was higher than expected",
+    "url": "https://www.npr.org/2025/12/26/g-s1-103724/up-first-newsletter-nigeria-isis-congress-holiday-spending",
+    "id_key": "dec312e708f56999948a1f541945ef99f311c0ea7361f4500755fd264f9bee5d",
+    "summary": "The U.S. has launched a \"deadly strike\" against Islamic State fighters in northwest Nigeria, according to Trump. And, holiday spending was higher than expected this year.",
+    "ingested_utc": "2025-12-26T11:50:28Z"
+  },
+  {
+    "published_utc": "2025-12-26",
+    "retrieved_date": "2025-12-26",
     "retrieved_utc": "2025-12-26T11:43:24Z",
     "source": "FinancialPost_Business",
     "title": "Trump overturned decades of US trade policy in 2025. See the impact of his tariffs, in four charts",
@@ -10987,16 +10998,5 @@
     "id_key": "0e8c6499ce6f234bc2af53ca9f6be6003cd8fc27b378a6c642deaa56a1a3c9fa",
     "summary": "US president claims Danish territory is needed ‘for national security’",
     "ingested_utc": "2025-12-23T10:44:06Z"
-  },
-  {
-    "published_utc": "2025-12-23",
-    "retrieved_date": "2025-12-23",
-    "retrieved_utc": "2025-12-23T10:42:03Z",
-    "source": "Protos",
-    "title": "Explaining Nic Carter’s quantum complaint about Bitcoin",
-    "url": "https://protos.com/explaining-nic-carters-quantum-complaint-about-bitcoin/",
-    "id_key": "5764a982e608034d98c4f083dfb0056724507fc8cac63157fe946506936d3f19",
-    "summary": "Nic Carter is forcing the Bitcoin community to reckon with the threat of quantum computing as a potentially near-term catastrophe. The post Explaining Nic Carter’s quantum complaint about Bitcoin appeared first on Protos .",
-    "ingested_utc": "2025-12-23T10:42:03Z"
   }
 ]
