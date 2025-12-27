@@ -1,13 +1,13 @@
 {
-  "started_utc": "2025-12-27T06:18:22Z",
-  "ended_utc": "2025-12-27T06:21:46Z",
+  "started_utc": "2025-12-27T06:51:07Z",
+  "ended_utc": "2025-12-27T06:54:37Z",
   "new_items_this_run": 2,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
     "Reuters_World": 0,
     "Reuters_Markets": 0,
-    "BBC_World": 0,
+    "BBC_World": 1,
     "BBC_Business": 0,
     "BBC_Technology": 0,
     "Guardian_Business": 0,
@@ -66,7 +66,7 @@
     "NPR_Economy": 0,
     "NPR_World": 0,
     "NPR_Technology": 0,
-    "FT_Home": 1,
+    "FT_Home": 0,
     "FT_Markets": 0,
     "CNBC_Top": 0,
     "CNBC_Markets": 0,
@@ -211,6 +211,14 @@
       "error": "fatal parse failure"
     },
     {
+      "source": "https://github.com/IntersectMBO/cardano-node/releases.atom",
+      "error": "fetch error: HTTP 502"
+    },
+    {
+      "source": "CardanoNode_Releases",
+      "error": "fatal parse failure"
+    },
+    {
       "source": "https://www.reuters.com/business/rss",
       "error": "fetch error: HTTP 401"
     },
@@ -335,18 +343,18 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 526,
+    "passed_keywords": 527,
     "passed_allowlist": 1,
-    "failed_all_filters": 435
+    "failed_all_filters": 442
   },
   "stats": {
     "feeds_total": 97,
-    "feeds_error": 23,
+    "feeds_error": 24,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 1503,
-    "too_old": 541,
-    "dup_title_url": 93,
+    "entries_seen": 1501,
+    "too_old": 531,
+    "dup_title_url": 94,
     "dup_id": 432
   },
   "limits": {
