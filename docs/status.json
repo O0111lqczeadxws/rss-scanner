@@ -1,7 +1,7 @@
 {
-  "started_utc": "2025-12-27T20:13:09Z",
-  "ended_utc": "2025-12-27T20:16:40Z",
-  "new_items_this_run": 1,
+  "started_utc": "2025-12-27T20:34:44Z",
+  "ended_utc": "2025-12-27T20:38:21Z",
+  "new_items_this_run": 0,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
@@ -83,7 +83,7 @@
     "AlJazeera_Economy": 0,
     "FinancialPost_Business": 0,
     "CBC_Business": 0,
-    "Nikkei_Asia_Top": 1,
+    "Nikkei_Asia_Top": 0,
     "WorldBank_News": 0,
     "OECD_Newsroom": 0,
     "MIT_TechReview": 0,
@@ -335,9 +335,9 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 523,
+    "passed_keywords": 522,
     "passed_allowlist": 0,
-    "failed_all_filters": 425
+    "failed_all_filters": 426
   },
   "stats": {
     "feeds_total": 97,
@@ -360,6 +360,6 @@
   },
   "processed": {
     "file": "data/processed/2025-12-27.jsonl",
-    "appended_new": 1
+    "appended_new": 0
   }
 }
