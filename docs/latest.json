@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-12-27",
     "retrieved_date": "2025-12-27",
+    "retrieved_utc": "2025-12-27T04:53:40Z",
+    "source": "HackerNews_Top",
+    "title": "CEO of Health Care Software Company Sentenced for $1B Fraud Conspiracy",
+    "url": "https://www.justice.gov/opa/pr/ceo-health-care-software-company-sentenced-1b-fraud-conspiracy",
+    "id_key": "46082d4f14e5e4fd05b7ecedecbfd0843bdac99a4aca30d0cf6f80c35c6be157",
+    "summary": "Comments",
+    "ingested_utc": "2025-12-27T04:53:40Z"
+  },
+  {
+    "published_utc": "2025-12-27",
+    "retrieved_date": "2025-12-27",
+    "retrieved_utc": "2025-12-27T04:52:53Z",
+    "source": "FT_Home",
+    "title": "Zelenskyy to meet Trump at Mar-a-Lago this weekend",
+    "url": "https://www.ft.com/content/45911654-f5c1-428c-8fec-75fd8acdd1f6",
+    "id_key": "5d33e66ea03864a78ea35b8fef0121fafe623c3762971c8dd71877e63a6df5e4",
+    "summary": "Ukrainian leader says he expects to address the most sensitive parts of US peace plan, particularly security guarantees",
+    "ingested_utc": "2025-12-27T04:52:53Z"
+  },
+  {
+    "published_utc": "2025-12-27",
+    "retrieved_date": "2025-12-27",
     "retrieved_utc": "2025-12-27T04:26:57Z",
     "source": "NYTimes_World",
     "title": "Thailand and Cambodia Reach Cease-Fire in Brutal Border War",
@@ -10976,27 +10998,5 @@
     "id_key": "6c18276dc825e678c8ff41e6d1d6182c2e64839dee0cbbdc26bc9034c9a8fc42",
     "summary": "Belkin's Stage PowerGrip has shown me that I should be asking more from a wireless magnetic power bank than just boosting battery life while it hangs off the back of my phone. Its clever design adds layers of extra functionality, and the inclusion of a retractable two-way charging cable expands the number of devices you […]",
     "ingested_utc": "2025-12-23T16:18:30Z"
-  },
-  {
-    "published_utc": "2025-12-23",
-    "retrieved_date": "2025-12-23",
-    "retrieved_utc": "2025-12-23T16:18:10Z",
-    "source": "NPR_Top",
-    "title": "Scientists learn more about how human embryos implant using artificial wombs",
-    "url": "https://www.npr.org/2025/12/23/nx-s1-5646649/human-embryos-implantation-artificial-womb",
-    "id_key": "2fd6631edd2bff58284ce604349cdc266b4e3a3aab405b8c1bef337b74fae1ab",
-    "summary": "Scientists have developed an experimental way to study how human embryos implant in a uterus, which may provide new insights into why miscarriages occur and how they can be prevented.",
-    "ingested_utc": "2025-12-23T16:18:10Z"
-  },
-  {
-    "published_utc": "2025-12-23",
-    "retrieved_date": "2025-12-23",
-    "retrieved_utc": "2025-12-23T16:18:10Z",
-    "source": "NPR_Top",
-    "title": "2025: The images that stayed with us",
-    "url": "https://www.npr.org/sections/the-picture-show/2025/12/23/g-s1-102909/2025-npr-network-images-that-stayed-with-us",
-    "id_key": "fa2b5ffe5c38516829fbbbd4ea950b1ee1bb341767104545baece044c303cade",
-    "summary": "Photographs help us look back on the moments that defined the year. Taken by NPR photojournalists nationwide, this collection goes beyond the headlines to reveal quietly powerful human stories.",
-    "ingested_utc": "2025-12-23T16:18:10Z"
   }
 ]
