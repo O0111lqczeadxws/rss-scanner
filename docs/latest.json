@@ -1157,6 +1157,17 @@
   {
     "published_utc": "2025-12-26",
     "retrieved_date": "2025-12-27",
+    "retrieved_utc": "2025-12-27T17:12:49Z",
+    "source": "TheStreet_Top",
+    "title": "Another furniture chain closes all its stores with no notice",
+    "url": "https://www.thestreet.com/retail/70-year-old-furniture-chain-abruptly-closes-no-bankruptcy",
+    "id_key": "ffa022844a0dbbd43d299d431510454bce2f32b6e259a0949a50f9746d52c671",
+    "summary": "There's no good time for a business to close and lay off all its employees, but an unexpected shutdown just before Christmas hits workers extra hard. \"United States-based employers announced 71,321 layoffs in November,\" according to an analysis from outplacement firm Challenger, Gray & ...",
+    "ingested_utc": "2025-12-27T17:12:49Z"
+  },
+  {
+    "published_utc": "2025-12-26",
+    "retrieved_date": "2025-12-27",
     "retrieved_utc": "2025-12-27T15:44:55Z",
     "source": "TheStreet_Top",
     "title": "One simple move to supercharge your 401(k) in 2026",
@@ -10986,17 +10997,6 @@
     "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/marissa-mayers-new-startup-dazzle-ai-raises-8-million-seed-round",
     "id_key": "2c5c395ac295ebae9c3180cdab835a894e608e924ceb9f023853b13614df13e9",
     "summary": "Kirsten Green of Forerunner Ventures leads with participation from Kleiner Perkins, Greycroft, Offline Ventures, Slow Ventures, and Bling Capital PALO ALTO, Calif. — Dazzle AI, a new company founded by entrepreneur, executive, and technologist Marissa Mayer, today announced it has raised $8 million in seed funding at a $35 million post-money valuation. The round was […]",
-    "ingested_utc": "2025-12-23T18:55:12Z"
-  },
-  {
-    "published_utc": "2025-12-23",
-    "retrieved_date": "2025-12-23",
-    "retrieved_utc": "2025-12-23T18:55:12Z",
-    "source": "FinancialPost_Business",
-    "title": "Enhance office productivity with savings on Microsoft Office",
-    "url": "https://financialpost.com/personal-finance/business-essentials/microsoft-office-professional-plus-2019",
-    "id_key": "9e6c693f48b37cf589c801c2ee962e32b6464c3bfb23f8a9f80d8417dd002a14",
-    "summary": "There's no better time to save on this top-rated assortment of productivity apps",
     "ingested_utc": "2025-12-23T18:55:12Z"
   }
 ]
