@@ -1,6 +1,6 @@
 {
-  "started_utc": "2025-12-27T07:40:15Z",
-  "ended_utc": "2025-12-27T07:43:38Z",
+  "started_utc": "2025-12-27T07:47:46Z",
+  "ended_utc": "2025-12-27T07:51:29Z",
   "new_items_this_run": 1,
   "total_in_latest": 1000,
   "by_source": {
@@ -22,7 +22,7 @@
     "CryptoSlate": 0,
     "CryptoBriefing": 0,
     "Protos": 0,
-    "CryptoNews": 0,
+    "CryptoNews": 1,
     "CoinJournal": 0,
     "Unchained": 0,
     "Bankless": 0,
@@ -57,7 +57,7 @@
     "MarketWatch_Bulletins": 0,
     "MarketWatch_PersonalFinance": 0,
     "NYTimes_Business": 0,
-    "NYTimes_World": 1,
+    "NYTimes_World": 0,
     "NYTimes_Economy": 0,
     "NYTimes_Technology": 0,
     "CNN_Top": 0,
@@ -335,9 +335,9 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 526,
+    "passed_keywords": 527,
     "passed_allowlist": 1,
-    "failed_all_filters": 443
+    "failed_all_filters": 442
   },
   "stats": {
     "feeds_total": 97,
@@ -347,7 +347,7 @@
     "entries_seen": 1511,
     "too_old": 541,
     "dup_title_url": 94,
-    "dup_id": 432
+    "dup_id": 433
   },
   "limits": {
     "skip_older_days": 10,
