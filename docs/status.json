@@ -1,6 +1,6 @@
 {
-  "started_utc": "2025-12-27T08:55:57Z",
-  "ended_utc": "2025-12-27T08:59:31Z",
+  "started_utc": "2025-12-27T09:12:28Z",
+  "ended_utc": "2025-12-27T09:15:48Z",
   "new_items_this_run": 1,
   "total_in_latest": 1000,
   "by_source": {
@@ -11,7 +11,7 @@
     "BBC_Business": 0,
     "BBC_Technology": 0,
     "Guardian_Business": 0,
-    "Guardian_World": 0,
+    "Guardian_World": 1,
     "WSJ_US_Business": 0,
     "WSJ_World": 0,
     "WSJ_Markets": 0,
@@ -22,7 +22,7 @@
     "CryptoSlate": 0,
     "CryptoBriefing": 0,
     "Protos": 0,
-    "CryptoNews": 1,
+    "CryptoNews": 0,
     "CoinJournal": 0,
     "Unchained": 0,
     "Bankless": 0,
@@ -336,7 +336,7 @@
       "..."
     ],
     "passed_keywords": 530,
-    "passed_allowlist": 1,
+    "passed_allowlist": 0,
     "failed_all_filters": 439
   },
   "stats": {
@@ -345,9 +345,9 @@
     "feeds_timeout": 0,
     "feeds_http_error": 0,
     "entries_seen": 1511,
-    "too_old": 541,
+    "too_old": 542,
     "dup_title_url": 95,
-    "dup_id": 435
+    "dup_id": 434
   },
   "limits": {
     "skip_older_days": 10,
