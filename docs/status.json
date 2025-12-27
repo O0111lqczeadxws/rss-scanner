@@ -1,7 +1,7 @@
 {
-  "started_utc": "2025-12-27T05:36:23Z",
-  "ended_utc": "2025-12-27T05:39:47Z",
-  "new_items_this_run": 4,
+  "started_utc": "2025-12-27T05:51:58Z",
+  "ended_utc": "2025-12-27T05:55:22Z",
+  "new_items_this_run": 2,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
@@ -66,7 +66,7 @@
     "NPR_Economy": 0,
     "NPR_World": 0,
     "NPR_Technology": 0,
-    "FT_Home": 2,
+    "FT_Home": 1,
     "FT_Markets": 0,
     "CNBC_Top": 0,
     "CNBC_Markets": 0,
@@ -87,7 +87,7 @@
     "WorldBank_News": 0,
     "OECD_Newsroom": 0,
     "MIT_TechReview": 0,
-    "HackerNews_Top": 1
+    "HackerNews_Top": 0
   },
   "errors": [
     {
@@ -251,14 +251,6 @@
       "error": "fatal parse failure"
     },
     {
-      "source": "https://rss.nytimes.com/services/xml/rss/nyt/Economy.xml",
-      "error": "fetch error: HTTP 404"
-    },
-    {
-      "source": "NYTimes_Economy",
-      "error": "fatal parse failure"
-    },
-    {
       "source": "https://rss.cnn.com/rss/cnn_topstories.rss",
       "error": "fetch error: HTTPSConnectionPool(host='rss.cnn.com', port=443): Max retries exceeded with url: /rss/cnn_topstories.rss (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)')))"
     },
@@ -343,19 +335,19 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 520,
+    "passed_keywords": 526,
     "passed_allowlist": 1,
-    "failed_all_filters": 432
+    "failed_all_filters": 434
   },
   "stats": {
     "feeds_total": 97,
-    "feeds_error": 24,
+    "feeds_error": 23,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 1481,
-    "too_old": 528,
-    "dup_title_url": 92,
-    "dup_id": 425
+    "entries_seen": 1502,
+    "too_old": 541,
+    "dup_title_url": 93,
+    "dup_id": 432
   },
   "limits": {
     "skip_older_days": 10,
@@ -368,6 +360,6 @@
   },
   "processed": {
     "file": "data/processed/2025-12-27.jsonl",
-    "appended_new": 4
+    "appended_new": 2
   }
 }

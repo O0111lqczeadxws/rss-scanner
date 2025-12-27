@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-12-27",
     "retrieved_date": "2025-12-27",
+    "retrieved_utc": "2025-12-27T05:55:12Z",
+    "source": "FinancialPost_Business",
+    "title": "Sure, the newspaper informed. But as it fades, those who used it for other things must adjust, too",
+    "url": "https://financialpost.com/pmn/sure-the-newspaper-informed-but-as-it-fades-those-who-used-it-for-other-things-must-adjust-too",
+    "id_key": "1ab426fc9bd0d6bf967bbc9cc029e049894913caef2ceab6012099dd692e4497",
+    "summary": "The sun would rise over the Rockies, and Robin Gammons would run to the front porch to grab the morning paper before school. She wanted the comics and her dad wanted sports, but the Montana Standard meant more than their daily race to grab “Calvin and Hobbes” or baseball scores. When one of the three […]",
+    "ingested_utc": "2025-12-27T05:55:12Z"
+  },
+  {
+    "published_utc": "2025-12-27",
+    "retrieved_date": "2025-12-27",
     "retrieved_utc": "2025-12-27T05:39:37Z",
     "source": "FinancialPost_Business",
     "title": "Cypriot fishermen battle invasive lionfish and turn them into a tavern delicacy",
@@ -328,6 +339,17 @@
     "id_key": "5b3896675cb9cdd3120ec43feabc14449a7d731264c2f2504c0489e5e0d640d0",
     "summary": "At least three people killed across state since atmospheric river storms began earlier this week Mudslides buried cars and homes up to their windows in a California mountain town as a powerful storm system brought the wettest Christmas in decades to the southern part of the state. As much as 12in of rain fell across the area on Wednesday, according to the National Weather Service, triggering flooding and washing out roads. Continue reading...",
     "ingested_utc": "2025-12-27T00:56:16Z"
+  },
+  {
+    "published_utc": "2025-12-26",
+    "retrieved_date": "2025-12-27",
+    "retrieved_utc": "2025-12-27T05:54:37Z",
+    "source": "FT_Home",
+    "title": "Mosque bombing in Alawite district in Syria leaves at least 8 dead",
+    "url": "https://www.ft.com/content/9a9539e6-97f5-426d-be95-0e589eaab6c6",
+    "id_key": "5478b2cbc808943839a39ccd935cb949ca65f38b159548aaeee3da27701404e7",
+    "summary": "Explosion occurred during Friday prayers at Imam Ali bin Abi Talib mosque in Homs",
+    "ingested_utc": "2025-12-27T05:54:37Z"
   },
   {
     "published_utc": "2025-12-26",
@@ -10976,27 +10998,5 @@
     "id_key": "57ba64e9de4027ff41417bb97f38ea1b737576c4820a2395f5989eed19f37884",
     "summary": "LONDON & MONTREAL — Behavox, the AI company that transforms structured and unstructured corporate data into insights that safeguard and enhance businesses, today announced the latest upgrades to Behavox Quantum, its flagship compliance platform. This caps off a year of over 30% growth in ARR for 2025, driven by demand for AI-powered surveillance solutions that […]",
     "ingested_utc": "2025-12-23T16:18:50Z"
-  },
-  {
-    "published_utc": "2025-12-23",
-    "retrieved_date": "2025-12-23",
-    "retrieved_utc": "2025-12-23T16:18:50Z",
-    "source": "FinancialPost_Business",
-    "title": "Aging Baby Boomers Revive Senior Housing Sector Ravaged by Covid",
-    "url": "https://financialpost.com/pmn/business-pmn/aging-baby-boomers-revive-senior-housing-sector-ravaged-by-covid",
-    "id_key": "f771331149a158b69fd937aff60222c358b894b0d8ac4efbe6c86c618734334a",
-    "summary": "Aging baby boomers are boosting the senior living sector, just a few years after the Covid-19 pandemic pushed almost 100 facilities funded by municipal bonds into default.",
-    "ingested_utc": "2025-12-23T16:18:50Z"
-  },
-  {
-    "published_utc": "2025-12-23",
-    "retrieved_date": "2025-12-23",
-    "retrieved_utc": "2025-12-23T16:18:43Z",
-    "source": "AlJazeera_All",
-    "title": "Backlash after CBS pulls 60 Minutes report on El Salvador’s CECOT prison",
-    "url": "https://www.aljazeera.com/news/2025/12/23/backlash-after-cbs-pulls-60-minutes-report-on-salvadors-cecot-prison?traffic_source=rss",
-    "id_key": "808a3d9356e38f1f424ecfc6fdf77b496f5e837f97970bfbc953d846152692f5",
-    "summary": "The correspondent behind the story says it was postponed for political reasons, while network says it needs more work.",
-    "ingested_utc": "2025-12-23T16:18:43Z"
   }
 ]
