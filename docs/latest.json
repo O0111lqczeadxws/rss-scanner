@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-12-27",
     "retrieved_date": "2025-12-27",
+    "retrieved_utc": "2025-12-27T19:36:24Z",
+    "source": "Nikkei_Asia_Top",
+    "title": "Trump tariffs spur copycat policies as countries try to limit China imports",
+    "url": "https://asia.nikkei.com/economy/trade/trump-tariffs-spur-copycat-policies-as-countries-try-to-limit-china-imports",
+    "id_key": "e2ace83a4c69c12860e0e098e962f9c0e6ae95a73c7e70b9e99c74995ac00846",
+    "summary": "",
+    "ingested_utc": "2025-12-27T19:36:24Z"
+  },
+  {
+    "published_utc": "2025-12-27",
+    "retrieved_date": "2025-12-27",
+    "retrieved_utc": "2025-12-27T19:35:36Z",
+    "source": "NYTimes_World",
+    "title": "How Oil, Drugs and Immigration Fueled Trump’s Venezuela Campaign",
+    "url": "https://www.nytimes.com/2025/12/27/us/politics/venezuela-trump-maduro-oil-boat-strikes-immigration.html",
+    "id_key": "b7fda23d56027150a8da5789c45fe5de9e409ccb2a9d408b1d79d04568ca228d",
+    "summary": "New details of deliberations show how aides with overlapping agendas drove the United States toward a militarized confrontation with Venezuela.",
+    "ingested_utc": "2025-12-27T19:35:36Z"
+  },
+  {
+    "published_utc": "2025-12-27",
+    "retrieved_date": "2025-12-27",
     "retrieved_utc": "2025-12-27T18:51:36Z",
     "source": "FinancialPost_Business",
     "title": "Senvest Capital Inc. Announces Death of Chief Executive Officer and Chairman of the Board",
@@ -10976,27 +10998,5 @@
     "id_key": "59405e3252cf25e8a0fbb741530e9106ec34b9eaacdd841cfe9d2e362e1bf6d3",
     "summary": "Xen Baynham-Herd has described an on-chain future, where apps feel as familiar as smartphone tools. He has said Base is prioritising user experience, distribution, and product integration over fee races, while tracking adoption through user growth and engagement rather than token prices alone. The post Xen Baynham-Herd on Building Base: From Experimental L2s to Real On-chain Adoption appeared first on Cryptonews .",
     "ingested_utc": "2025-12-23T19:29:08Z"
-  },
-  {
-    "published_utc": "2025-12-23",
-    "retrieved_date": "2025-12-23",
-    "retrieved_utc": "2025-12-23T19:29:04Z",
-    "source": "CryptoSlate",
-    "title": "Fact check: Bitcoin never really hit $100,000 in 2025 when you apply real world data",
-    "url": "https://cryptoslate.com/fact-check-bitcoin-never-really-hit-100000-in-2025-when-you-apply-real-world-data/",
-    "id_key": "cd232c1be73a4b684eadbace99fcefb3cd68d185eb28b86c932b63952ed66556",
-    "summary": "On the day Bitcoin finally punched through $100,000, a lot of people did the same thing. They screenshotted it. They sent it to group chats, posted it with rocket emojis, and pulled up old tweets from 2021 to dust off the victory laps they had been saving for years. It felt like closure, like the […] The post Fact check: Bitcoin never really hit $100,000 in 2025 when you apply real world data appeared first on CryptoSlate .",
-    "ingested_utc": "2025-12-23T19:29:04Z"
-  },
-  {
-    "published_utc": "2025-12-23",
-    "retrieved_date": "2025-12-23",
-    "retrieved_utc": "2025-12-23T19:15:11Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "Chinese military purges give air force officers room to advance",
-    "url": "https://asia.nikkei.com/politics/defense/chinese-military-purges-give-air-force-officers-room-to-advance",
-    "id_key": "6f5342bf1153ae1f1ac1517c1fad2671af0c9be85263f2ae21be5d4243ee290a",
-    "summary": "",
-    "ingested_utc": "2025-12-23T19:15:11Z"
   }
 ]

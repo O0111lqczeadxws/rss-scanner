@@ -1,7 +1,7 @@
 {
-  "started_utc": "2025-12-27T19:25:49Z",
-  "ended_utc": "2025-12-27T19:29:29Z",
-  "new_items_this_run": 0,
+  "started_utc": "2025-12-27T19:33:12Z",
+  "ended_utc": "2025-12-27T19:36:32Z",
+  "new_items_this_run": 2,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
@@ -57,7 +57,7 @@
     "MarketWatch_Bulletins": 0,
     "MarketWatch_PersonalFinance": 0,
     "NYTimes_Business": 0,
-    "NYTimes_World": 0,
+    "NYTimes_World": 1,
     "NYTimes_Economy": 0,
     "NYTimes_Technology": 0,
     "CNN_Top": 0,
@@ -83,7 +83,7 @@
     "AlJazeera_Economy": 0,
     "FinancialPost_Business": 0,
     "CBC_Business": 0,
-    "Nikkei_Asia_Top": 0,
+    "Nikkei_Asia_Top": 1,
     "WorldBank_News": 0,
     "OECD_Newsroom": 0,
     "MIT_TechReview": 0,
@@ -131,16 +131,8 @@
       "error": "fatal parse failure"
     },
     {
-      "source": "https://unchainedcrypto.com/feed/",
-      "error": "fetch error: HTTP 415"
-    },
-    {
-      "source": "Unchained",
-      "error": "fatal parse failure"
-    },
-    {
       "source": "https://www.bankless.com/rss",
-      "error": "fetch error: HTTP 415"
+      "error": "fetch error: HTTP 404"
     },
     {
       "source": "Bankless",
@@ -343,19 +335,19 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 517,
+    "passed_keywords": 523,
     "passed_allowlist": 0,
-    "failed_all_filters": 421
+    "failed_all_filters": 425
   },
   "stats": {
     "feeds_total": 97,
-    "feeds_error": 24,
+    "feeds_error": 23,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 1493,
+    "entries_seen": 1503,
     "too_old": 555,
     "dup_title_url": 100,
-    "dup_id": 417
+    "dup_id": 421
   },
   "limits": {
     "skip_older_days": 10,
@@ -368,6 +360,6 @@
   },
   "processed": {
     "file": "data/processed/2025-12-27.jsonl",
-    "appended_new": 0
+    "appended_new": 2
   }
 }
