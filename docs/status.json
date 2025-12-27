@@ -1,7 +1,7 @@
 {
-  "started_utc": "2025-12-27T04:50:17Z",
-  "ended_utc": "2025-12-27T04:53:40Z",
-  "new_items_this_run": 2,
+  "started_utc": "2025-12-27T05:14:10Z",
+  "ended_utc": "2025-12-27T05:17:34Z",
+  "new_items_this_run": 4,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
@@ -11,7 +11,7 @@
     "BBC_Business": 0,
     "BBC_Technology": 0,
     "Guardian_Business": 0,
-    "Guardian_World": 0,
+    "Guardian_World": 2,
     "WSJ_US_Business": 0,
     "WSJ_World": 0,
     "WSJ_Markets": 0,
@@ -66,8 +66,8 @@
     "NPR_Economy": 0,
     "NPR_World": 0,
     "NPR_Technology": 0,
-    "FT_Home": 1,
-    "FT_Markets": 0,
+    "FT_Home": 0,
+    "FT_Markets": 1,
     "CNBC_Top": 0,
     "CNBC_Markets": 0,
     "TheVerge_All": 0,
@@ -79,7 +79,7 @@
     "TheEconomist_Finance": 0,
     "Investopedia_Latest": 0,
     "TheStreet_Top": 0,
-    "AlJazeera_All": 0,
+    "AlJazeera_All": 1,
     "AlJazeera_Economy": 0,
     "FinancialPost_Business": 0,
     "CBC_Business": 0,
@@ -87,7 +87,7 @@
     "WorldBank_News": 0,
     "OECD_Newsroom": 0,
     "MIT_TechReview": 0,
-    "HackerNews_Top": 1
+    "HackerNews_Top": 0
   },
   "errors": [
     {
@@ -251,6 +251,14 @@
       "error": "fatal parse failure"
     },
     {
+      "source": "https://rss.nytimes.com/services/xml/rss/nyt/Economy.xml",
+      "error": "fetch error: HTTP 404"
+    },
+    {
+      "source": "NYTimes_Economy",
+      "error": "fatal parse failure"
+    },
+    {
       "source": "https://rss.cnn.com/rss/cnn_topstories.rss",
       "error": "fetch error: HTTPSConnectionPool(host='rss.cnn.com', port=443): Max retries exceeded with url: /rss/cnn_topstories.rss (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)')))"
     },
@@ -335,19 +343,19 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 525,
+    "passed_keywords": 520,
     "passed_allowlist": 1,
-    "failed_all_filters": 436
+    "failed_all_filters": 431
   },
   "stats": {
     "feeds_total": 97,
-    "feeds_error": 23,
+    "feeds_error": 24,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 1501,
-    "too_old": 539,
-    "dup_title_url": 92,
-    "dup_id": 432
+    "entries_seen": 1480,
+    "too_old": 528,
+    "dup_title_url": 89,
+    "dup_id": 428
   },
   "limits": {
     "skip_older_days": 10,
@@ -360,6 +368,6 @@
   },
   "processed": {
     "file": "data/processed/2025-12-27.jsonl",
-    "appended_new": 2
+    "appended_new": 4
   }
 }
