@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-12-27",
     "retrieved_date": "2025-12-27",
+    "retrieved_utc": "2025-12-27T15:13:34Z",
+    "source": "Guardian_World",
+    "title": "Trump urges Republicans to ditch filibuster rule in US Senate",
+    "url": "https://www.theguardian.com/us-news/2025/dec/27/trump-republicans-filibuster-rule-senate",
+    "id_key": "5885061bdd691a4ff320b6bb35d203faf04271d3071129d0b5820f5ec0a8cbf7",
+    "summary": "Rule allows minority party to block legislation, but GOP is reluctant to scrap it as they could lose majority Donald Trump has floated the idea of ending the filibuster – a procedural technique in Congress that allows a minority of senators to block legislation from passing – which would make pushing through his political agenda in 2026 much easier. In an interview with Politico , the president urged Republicans in the Senate to scrap the filibuster, saying it had become an obstacle to effective governing and removing it would prevent another government shutdown and pave the way for his party to push through its legislative priorities. Continue reading...",
+    "ingested_utc": "2025-12-27T15:13:34Z"
+  },
+  {
+    "published_utc": "2025-12-27",
+    "retrieved_date": "2025-12-27",
     "retrieved_utc": "2025-12-27T14:52:11Z",
     "source": "AlJazeera_All",
     "title": "Investigation after jet carrying Libyan officers crashes in Turkiye",
@@ -977,6 +988,17 @@
     "id_key": "5b3896675cb9cdd3120ec43feabc14449a7d731264c2f2504c0489e5e0d640d0",
     "summary": "At least three people killed across state since atmospheric river storms began earlier this week Mudslides buried cars and homes up to their windows in a California mountain town as a powerful storm system brought the wettest Christmas in decades to the southern part of the state. As much as 12in of rain fell across the area on Wednesday, according to the National Weather Service, triggering flooding and washing out roads. Continue reading...",
     "ingested_utc": "2025-12-27T00:56:16Z"
+  },
+  {
+    "published_utc": "2025-12-26",
+    "retrieved_date": "2025-12-27",
+    "retrieved_utc": "2025-12-27T15:14:31Z",
+    "source": "TheStreet_Top",
+    "title": "A major airline just banned its executives from using its first class class",
+    "url": "https://www.thestreet.com/travel/an-airline-just-banned-its-executives-from-using-its-first-class-seats",
+    "id_key": "47ab660063be6e0a2979ced153c35b0e0e98b628e4e677f10ab0b05bdc35b1f1",
+    "summary": "The flagship airline of Australia since 1922, Qantas Airways is currently in the process of preparing to overtake Singapore Airlines as the carrier running the longest flight in the world: dubbed as Project Sunrise over the fact that passengers on these two flights will be able to see two sunrises, ...",
+    "ingested_utc": "2025-12-27T15:14:31Z"
   },
   {
     "published_utc": "2025-12-26",
@@ -10976,27 +10998,5 @@
     "id_key": "73bbfe423c5525ee84c4715c4ce083b3a248aa33a8b5b2f13a250fea2328a188",
     "summary": "Every day, dozens of displaced people, mostly women and children, are arriving at a camp near Kosti, Sudan.",
     "ingested_utc": "2025-12-23T18:21:39Z"
-  },
-  {
-    "published_utc": "2025-12-23",
-    "retrieved_date": "2025-12-23",
-    "retrieved_utc": "2025-12-23T18:21:38Z",
-    "source": "TheStreet_Top",
-    "title": "A pilot has shocked social media with his salary",
-    "url": "https://www.thestreet.com/travel/a-pilot-has-shocked-social-media-with-his-salary",
-    "id_key": "a0c765a44e9f2fa375b6f60dcb003c981d5c32e24d04ca63d8037b06232b27e1",
-    "summary": "With pilot salaries differing dramatically by airline, location and hours flown, most averages posted in job salary round-ups fail to paint what can be a very different individual picture. The average pilot flies 900 hours per year, according to Flying, while a captain of a large plane like the ...",
-    "ingested_utc": "2025-12-23T18:21:38Z"
-  },
-  {
-    "published_utc": "2025-12-23",
-    "retrieved_date": "2025-12-23",
-    "retrieved_utc": "2025-12-23T18:21:38Z",
-    "source": "TheStreet_Top",
-    "title": "Stock Market Today: S&P 500, Nasdaq Higher After GDP Estimate Accelerates",
-    "url": "https://www.thestreet.com/latest-news/stock-market-today-sp-500-nasdaq-narrowly-higher-ahead-of-tuesday-market-open",
-    "id_key": "5706f05ea26f9cadb9254c11d49f7d1326dddd1fc5b6e9e76782dc7592a4a7db",
-    "summary": "This live blog is refreshed periodically throughout the day with the latest updates from the market.To find the latest Stock Market Today threads, click here. Happy Tuesday. This is TheStreet’s Stock Market Today for Dec. 23, 2025. You can follow the latest updates on the market ...",
-    "ingested_utc": "2025-12-23T18:21:38Z"
   }
 ]
