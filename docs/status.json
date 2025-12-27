@@ -1,13 +1,13 @@
 {
-  "started_utc": "2025-12-27T11:36:42Z",
-  "ended_utc": "2025-12-27T11:40:02Z",
-  "new_items_this_run": 2,
+  "started_utc": "2025-12-27T11:47:42Z",
+  "ended_utc": "2025-12-27T11:51:03Z",
+  "new_items_this_run": 0,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
     "Reuters_World": 0,
     "Reuters_Markets": 0,
-    "BBC_World": 1,
+    "BBC_World": 0,
     "BBC_Business": 0,
     "BBC_Technology": 0,
     "Guardian_Business": 0,
@@ -73,7 +73,7 @@
     "TheVerge_All": 0,
     "TechCrunch_All": 0,
     "ArsTechnica_All": 0,
-    "WIRED_All": 1,
+    "WIRED_All": 0,
     "Engadget_All": 0,
     "TheEconomist_Business": 0,
     "TheEconomist_Finance": 0,
@@ -347,7 +347,7 @@
     "entries_seen": 1516,
     "too_old": 543,
     "dup_title_url": 99,
-    "dup_id": 429
+    "dup_id": 431
   },
   "limits": {
     "skip_older_days": 10,
@@ -360,6 +360,6 @@
   },
   "processed": {
     "file": "data/processed/2025-12-27.jsonl",
-    "appended_new": 2
+    "appended_new": 0
   }
 }
