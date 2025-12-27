@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-12-27",
     "retrieved_date": "2025-12-27",
+    "retrieved_utc": "2025-12-27T07:13:12Z",
+    "source": "CoinJournal",
+    "title": "BNB Smart Chain’s Fermi hard fork scheduled to launch in January 2026",
+    "url": "https://coinjournal.net/news/bnb-smart-chains-fermi-hard-fork-scheduled-to-launch-in-january-2026/",
+    "id_key": "521b5cb345ec90c10d82a6964e1596cce82dc29e3beaf22b2b1ac37c56823650",
+    "summary": "The Fermi hard fork will cut block times to 250ms, enabling faster DeFi and real-time apps. It will also introduce extended voting and partial indexing, leading to stability and lighter nodes. The experimental BAL showed ~18.6% execution gains in local tests. BNB Smart Chain is preparing for a major protocol upgrade early next year. The […] The post BNB Smart Chain’s Fermi hard fork scheduled to launch in January 2026 appeared first on CoinJournal .",
+    "ingested_utc": "2025-12-27T07:13:12Z"
+  },
+  {
+    "published_utc": "2025-12-27",
+    "retrieved_date": "2025-12-27",
     "retrieved_utc": "2025-12-27T06:51:27Z",
     "source": "Guardian_World",
     "title": "Zelenskyy to meet European leaders and Trump for Ukraine peace talks amid fresh strikes on Kyiv",
@@ -10987,16 +10998,5 @@
     "id_key": "1fa9b2ceaff8682aa313756305d7dfa17920a39e5f5abbaef4917d5a70cb9c51",
     "summary": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. Lowpass is taking a winter break and will be back on January 8, 2026. All I want for Christmas is to find that darn movie I've been meaning to watch. […]",
     "ingested_utc": "2025-12-23T16:47:56Z"
-  },
-  {
-    "published_utc": "2025-12-23",
-    "retrieved_date": "2025-12-23",
-    "retrieved_utc": "2025-12-23T16:47:12Z",
-    "source": "Guardian_World",
-    "title": "Deputy leader Lucy Powell says Labour must ‘stick to manifesto’ over EU customs union, in implicit rebuke to Streeting – as it happened",
-    "url": "https://www.theguardian.com/politics/live/2025/dec/23/labour-reform-conservaties-tories-lib-dems-greens-uk-politics-live-news-updates",
-    "id_key": "84039835484530b498eac02a6dc8e8a816fc8e903b763658e599652ceaa72f4d",
-    "summary": "No 10 has largely played down health secretary’s comments The Treasury has published this explainer setting out in detail how the inheritance tax rules will apply to farms after today’s announcement. When the government first announced its plan to extend inheritance tax to farms, it said that this would raise around £520m a year from 2028-29. The changes we are implementing reflects the concerns that have been raised while preserving the majority of the revenue from reform to help cut debt and borrowing and fund public services. The costings for today’s announcement will be incorporated into the next OBR forecast. Continue reading...",
-    "ingested_utc": "2025-12-23T16:47:12Z"
   }
 ]

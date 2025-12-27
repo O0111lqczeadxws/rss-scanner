@@ -1,17 +1,17 @@
 {
-  "started_utc": "2025-12-27T06:51:07Z",
-  "ended_utc": "2025-12-27T06:54:37Z",
-  "new_items_this_run": 2,
+  "started_utc": "2025-12-27T07:12:23Z",
+  "ended_utc": "2025-12-27T07:15:59Z",
+  "new_items_this_run": 1,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
     "Reuters_World": 0,
     "Reuters_Markets": 0,
-    "BBC_World": 1,
+    "BBC_World": 0,
     "BBC_Business": 0,
     "BBC_Technology": 0,
     "Guardian_Business": 0,
-    "Guardian_World": 1,
+    "Guardian_World": 0,
     "WSJ_US_Business": 0,
     "WSJ_World": 0,
     "WSJ_Markets": 0,
@@ -23,7 +23,7 @@
     "CryptoBriefing": 0,
     "Protos": 0,
     "CryptoNews": 0,
-    "CoinJournal": 0,
+    "CoinJournal": 1,
     "Unchained": 0,
     "Bankless": 0,
     "CoinGecko_Blog": 0,
@@ -211,14 +211,6 @@
       "error": "fatal parse failure"
     },
     {
-      "source": "https://github.com/IntersectMBO/cardano-node/releases.atom",
-      "error": "fetch error: HTTP 502"
-    },
-    {
-      "source": "CardanoNode_Releases",
-      "error": "fatal parse failure"
-    },
-    {
       "source": "https://www.reuters.com/business/rss",
       "error": "fetch error: HTTP 401"
     },
@@ -343,17 +335,17 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 527,
+    "passed_keywords": 526,
     "passed_allowlist": 1,
-    "failed_all_filters": 442
+    "failed_all_filters": 443
   },
   "stats": {
     "feeds_total": 97,
-    "feeds_error": 24,
+    "feeds_error": 23,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 1501,
-    "too_old": 531,
+    "entries_seen": 1511,
+    "too_old": 541,
     "dup_title_url": 94,
     "dup_id": 432
   },
@@ -368,6 +360,6 @@
   },
   "processed": {
     "file": "data/processed/2025-12-27.jsonl",
-    "appended_new": 2
+    "appended_new": 1
   }
 }
