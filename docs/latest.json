@@ -2,6 +2,50 @@
   {
     "published_utc": "2025-12-27",
     "retrieved_date": "2025-12-27",
+    "retrieved_utc": "2025-12-27T15:34:19Z",
+    "source": "Nikkei_Asia_Top",
+    "title": "NEC ends 4G and 5G base station development as market share shrinks",
+    "url": "https://asia.nikkei.com/business/telecommunication/nec-ends-4g-and-5g-base-station-development-as-market-share-shrinks",
+    "id_key": "9d43fb7ee4dd348267bc0c2cdef1564f782a6a09737e8e73bfaf19242b8a8e9e",
+    "summary": "",
+    "ingested_utc": "2025-12-27T15:34:19Z"
+  },
+  {
+    "published_utc": "2025-12-27",
+    "retrieved_date": "2025-12-27",
+    "retrieved_utc": "2025-12-27T15:34:17Z",
+    "source": "FinancialPost_Business",
+    "title": "US Lukoil Gas Station Owners Left in Limbo Over Russia Sanctions",
+    "url": "https://financialpost.com/pmn/business-pmn/us-lukoil-gas-station-owners-left-in-limbo-over-russia-sanctions",
+    "id_key": "016286721beb5df639f057de1e410d3239d1a5fc633e7a2a59161082a7b9574a",
+    "summary": "On a recent sunny afternoon in New Jersey, dozens of gas station franchise owners filed into a Holiday Inn conference room to discuss some big geopolitical developments.",
+    "ingested_utc": "2025-12-27T15:34:17Z"
+  },
+  {
+    "published_utc": "2025-12-27",
+    "retrieved_date": "2025-12-27",
+    "retrieved_utc": "2025-12-27T15:34:09Z",
+    "source": "TheStreet_Top",
+    "title": "Cathie Wood drops $1.3 million on healthcare stock",
+    "url": "https://www.thestreet.com/investing/cathie-wood-drops-1-3-million-on-healthcare-stock",
+    "id_key": "3a7eff30fd3b8860f709fdc667d50db66d84d8b5eaab6189cb8173614566187f",
+    "summary": "Cathie Wood has seldom shied away from letting everyone know where she believes the next wave of market-changing businesses will come from. Though ARK Invest’s daily trades spark a ton of excitement, its latest buying in CRISPR Therapeutics (CRSP) is far from being a sudden shift. The ...",
+    "ingested_utc": "2025-12-27T15:34:09Z"
+  },
+  {
+    "published_utc": "2025-12-27",
+    "retrieved_date": "2025-12-27",
+    "retrieved_utc": "2025-12-27T15:31:12Z",
+    "source": "BBC_World",
+    "title": "Nine arrested in Italy for allegedly raising millions for Hamas",
+    "url": "https://www.bbc.com/news/articles/cqxq59np394o?at_medium=RSS&at_campaign=rss",
+    "id_key": "4a74b2f5f9e76ff3ddbf0b80b5099c229fc3f8175608e3812dcd6bbf0717bd0a",
+    "summary": "Police say the suspects raised around €7m (£6m) for the militant group over more than two years.",
+    "ingested_utc": "2025-12-27T15:31:12Z"
+  },
+  {
+    "published_utc": "2025-12-27",
+    "retrieved_date": "2025-12-27",
     "retrieved_utc": "2025-12-27T15:13:34Z",
     "source": "Guardian_World",
     "title": "Trump urges Republicans to ditch filibuster rule in US Senate",
@@ -10954,49 +10998,5 @@
     "id_key": "dec3d1a2570f2ea3572d8225a439e93f16549cea94abecc8fc547d5d7a72fbfd",
     "summary": "Comments",
     "ingested_utc": "2025-12-23T18:21:56Z"
-  },
-  {
-    "published_utc": "2025-12-23",
-    "retrieved_date": "2025-12-23",
-    "retrieved_utc": "2025-12-23T18:21:46Z",
-    "source": "FinancialPost_Business",
-    "title": "Oil Tankers Set Sail From Venezuela Despite US Pressure",
-    "url": "https://financialpost.com/pmn/business-pmn/oil-tankers-set-sail-from-venezuela-despite-us-pressure",
-    "id_key": "b650bf576c0a88a4bdafeac4273d0d2e04fd53ba91167bbdbb00efd6cd12507b",
-    "summary": "Nearly half a dozen tankers laden with crude have departed from Venezuela’s coast since the Trump administration intensified efforts to curb Caracas’ oil revenue by targeting sanctioned vessels.",
-    "ingested_utc": "2025-12-23T18:21:46Z"
-  },
-  {
-    "published_utc": "2025-12-23",
-    "retrieved_date": "2025-12-23",
-    "retrieved_utc": "2025-12-23T18:21:46Z",
-    "source": "FinancialPost_Business",
-    "title": "Fast shipping is increasing emissions. Here’s why delivery has become more polluting",
-    "url": "https://financialpost.com/pmn/fast-shipping-is-increasing-emissions-heres-why-delivery-has-become-more-polluting-2",
-    "id_key": "ebbaa3b30c1f583d93faaf93eaba70b7ba741d729151fa42a78388e0e70f26dd",
-    "summary": "It feels simple: You shop, find something you want and click to buy. It shows up today, overnight or tomorrow. We’ve gotten used to that speed. But that convenience comes with a climate cost. Multiple factors shape the environmental toll of a delivery. These include the distance from a fulfillment center, whether the shipment rides […]",
-    "ingested_utc": "2025-12-23T18:21:46Z"
-  },
-  {
-    "published_utc": "2025-12-23",
-    "retrieved_date": "2025-12-23",
-    "retrieved_utc": "2025-12-23T18:21:39Z",
-    "source": "AlJazeera_All",
-    "title": "Newly released Epstein files spotlight Trump’s past jet trips with Maxwell",
-    "url": "https://www.aljazeera.com/news/2025/12/23/newly-released-epstein-files-spotlight-trumps-past-jet-trips-with-maxwell?traffic_source=rss",
-    "id_key": "c8d08cee152a36842a8a809801938f1a245b622d715cdb2762fcd670530d8cc1",
-    "summary": "Prosecutor's email claims Trump flew on Epstein's jet eight times in the 1990s, some with Ghislaine Maxwell on board.",
-    "ingested_utc": "2025-12-23T18:21:39Z"
-  },
-  {
-    "published_utc": "2025-12-23",
-    "retrieved_date": "2025-12-23",
-    "retrieved_utc": "2025-12-23T18:21:39Z",
-    "source": "AlJazeera_All",
-    "title": "People sheltering at Sudan displacement camp say they ’pray for peace’",
-    "url": "https://www.aljazeera.com/video/newsfeed/2025/12/23/people-sheltering-at-sudan-displacement-camp-say-they-pray-for?traffic_source=rss",
-    "id_key": "73bbfe423c5525ee84c4715c4ce083b3a248aa33a8b5b2f13a250fea2328a188",
-    "summary": "Every day, dozens of displaced people, mostly women and children, are arriving at a camp near Kosti, Sudan.",
-    "ingested_utc": "2025-12-23T18:21:39Z"
   }
 ]
