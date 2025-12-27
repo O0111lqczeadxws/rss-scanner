@@ -1,13 +1,13 @@
 {
-  "started_utc": "2025-12-27T09:48:27Z",
-  "ended_utc": "2025-12-27T09:51:52Z",
-  "new_items_this_run": 0,
+  "started_utc": "2025-12-27T10:12:16Z",
+  "ended_utc": "2025-12-27T10:15:52Z",
+  "new_items_this_run": 9,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
     "Reuters_World": 0,
     "Reuters_Markets": 0,
-    "BBC_World": 0,
+    "BBC_World": 2,
     "BBC_Business": 0,
     "BBC_Technology": 0,
     "Guardian_Business": 0,
@@ -19,10 +19,10 @@
     "MarketWatch_MarketPulse": 0,
     "Blockworks": 0,
     "BitcoinMagazine": 0,
-    "CryptoSlate": 0,
+    "CryptoSlate": 2,
     "CryptoBriefing": 0,
     "Protos": 0,
-    "CryptoNews": 0,
+    "CryptoNews": 1,
     "CoinJournal": 0,
     "Unchained": 0,
     "Bankless": 0,
@@ -56,10 +56,10 @@
     "MarketWatch_RealTime": 0,
     "MarketWatch_Bulletins": 0,
     "MarketWatch_PersonalFinance": 0,
-    "NYTimes_Business": 0,
-    "NYTimes_World": 0,
+    "NYTimes_Business": 1,
+    "NYTimes_World": 2,
     "NYTimes_Economy": 0,
-    "NYTimes_Technology": 0,
+    "NYTimes_Technology": 1,
     "CNN_Top": 0,
     "NPR_Top": 0,
     "NPR_Business": 0,
@@ -173,14 +173,6 @@
     {
       "source": "Polygon_Blog",
       "error": "<unknown>:2:2184: not well-formed (invalid token)"
-    },
-    {
-      "source": "https://medium.com/feed/avalancheavax",
-      "error": "fetch error: HTTP 429"
-    },
-    {
-      "source": "Avalanche_Blog",
-      "error": "fatal parse failure"
     },
     {
       "source": "NEAR_Blog",
@@ -343,19 +335,19 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 530,
+    "passed_keywords": 528,
     "passed_allowlist": 0,
-    "failed_all_filters": 439
+    "failed_all_filters": 445
   },
   "stats": {
     "feeds_total": 97,
-    "feeds_error": 24,
+    "feeds_error": 23,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 1501,
-    "too_old": 532,
-    "dup_title_url": 96,
-    "dup_id": 434
+    "entries_seen": 1516,
+    "too_old": 543,
+    "dup_title_url": 98,
+    "dup_id": 421
   },
   "limits": {
     "skip_older_days": 10,
@@ -368,6 +360,6 @@
   },
   "processed": {
     "file": "data/processed/2025-12-27.jsonl",
-    "appended_new": 0
+    "appended_new": 9
   }
 }
