@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-12-27",
     "retrieved_date": "2025-12-27",
+    "retrieved_utc": "2025-12-27T07:42:42Z",
+    "source": "NYTimes_World",
+    "title": "2 Killed in Vehicle Ramming and Stabbing in Israel, Officials Say",
+    "url": "https://www.nytimes.com/2025/12/26/world/middleeast/israel-car-ramming.html",
+    "id_key": "d63151c50a761a6771b7676d41f4ee2f866301a8fc0ebd9a8a8be72133aedaaf",
+    "summary": "The attack comes amid heightened tensions between Israelis and Palestinians in the Israeli-occupied West Bank.",
+    "ingested_utc": "2025-12-27T07:42:42Z"
+  },
+  {
+    "published_utc": "2025-12-27",
+    "retrieved_date": "2025-12-27",
     "retrieved_utc": "2025-12-27T07:33:38Z",
     "source": "AlJazeera_All",
     "title": "Key Bolsonaro ally arrested in Paraguay while trying to flee to El Salvador",
@@ -10987,16 +10998,5 @@
     "id_key": "1d93cb447ab5ade7879ec85cf669b60c8c23a2a8de13d070ebc03ca414fa073e",
     "summary": "Target has seen its in-store business struggle, although it returned to positive same-store sales in its most recent quarter. That represents a comeback after multiple quarters of declining same-store sales. Q2 2024:+0.7% (Target Investor Relations)Q3 2024:(1.9%) (Target Investor Relations)Q4 ...",
     "ingested_utc": "2025-12-23T16:48:07Z"
-  },
-  {
-    "published_utc": "2025-12-23",
-    "retrieved_date": "2025-12-23",
-    "retrieved_utc": "2025-12-23T16:47:59Z",
-    "source": "Engadget_All",
-    "title": "Xbox cloud gaming comes to newer Amazon Fire TV models",
-    "url": "https://www.engadget.com/gaming/xbox/xbox-cloud-gaming-comes-to-newer-amazon-fire-tv-models-163517432.html?src=rss",
-    "id_key": "545338312f491963c9e80700036f3ba4bc0bb5ec0514376f54a5e4913fd29184",
-    "summary": "Xbox has brought cloud gaming gaming to some Amazon Fire TV models . These include the Fire TV 4-Series and the Fire TV Omni QLED Series . This lets people play Xbox games directly on the television, without needing a bulky console or even something like a Fire TV stick. Gamers do need a couple of things. First and foremost, this service requires a subscription to Game Pass. Plans start at $10 a month and shoot all the way up to $30 per month. They'll also need a compatible wireless controller, though most Bluetooth-enabled gamepads should work. Amazon The feature works for every game on the Game Pass platform and will also stream many titles that people own outright via the \"stream your own game\" feature . This won't work with everything, but hundreds of titles are supported. Amazon says this is just the beginning and that more TV models will receive the functionality in the future. Xbox Game Pass became available on select Amazon streaming devices earlier this year. Today's move makes sense, given that Fire TVs and the company's streaming sticks use the same OS. This article originally appeared on Engadget at https://www.engadget.com/gaming/xbox/xbox-cloud-gaming-comes-to-newer-amazon-fire-tv-models-163517432.html?src=rss",
-    "ingested_utc": "2025-12-23T16:47:59Z"
   }
 ]
