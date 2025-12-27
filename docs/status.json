@@ -1,6 +1,6 @@
 {
-  "started_utc": "2025-12-27T19:09:13Z",
-  "ended_utc": "2025-12-27T19:12:44Z",
+  "started_utc": "2025-12-27T19:25:49Z",
+  "ended_utc": "2025-12-27T19:29:29Z",
   "new_items_this_run": 0,
   "total_in_latest": 1000,
   "by_source": {
@@ -131,8 +131,16 @@
       "error": "fatal parse failure"
     },
     {
+      "source": "https://unchainedcrypto.com/feed/",
+      "error": "fetch error: HTTP 415"
+    },
+    {
+      "source": "Unchained",
+      "error": "fatal parse failure"
+    },
+    {
       "source": "https://www.bankless.com/rss",
-      "error": "fetch error: HTTP 404"
+      "error": "fetch error: HTTP 415"
     },
     {
       "source": "Bankless",
@@ -335,19 +343,19 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 524,
+    "passed_keywords": 517,
     "passed_allowlist": 0,
-    "failed_all_filters": 425
+    "failed_all_filters": 421
   },
   "stats": {
     "feeds_total": 97,
-    "feeds_error": 23,
+    "feeds_error": 24,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 1503,
-    "too_old": 554,
-    "dup_title_url": 101,
-    "dup_id": 423
+    "entries_seen": 1493,
+    "too_old": 555,
+    "dup_title_url": 100,
+    "dup_id": 417
   },
   "limits": {
     "skip_older_days": 10,
