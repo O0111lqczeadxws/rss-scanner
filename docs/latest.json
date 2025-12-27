@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-12-27",
     "retrieved_date": "2025-12-27",
+    "retrieved_utc": "2025-12-27T21:41:54Z",
+    "source": "HackerNews_Top",
+    "title": "Employee commits suicide after MongoDB fired her during mental health leave",
+    "url": "https://www.linkedin.com/posts/gsurman_our-beloved-irreplaceable-daughter-annie-activity-7407842359826120704-kFaq",
+    "id_key": "bb40e45d54c3dcadb0e78de37045105fc74e3475ca75655907f30e395adafd0d",
+    "summary": "Comments",
+    "ingested_utc": "2025-12-27T21:41:54Z"
+  },
+  {
+    "published_utc": "2025-12-27",
+    "retrieved_date": "2025-12-27",
+    "retrieved_utc": "2025-12-27T21:41:37Z",
+    "source": "TheStreet_Top",
+    "title": "Another whiskey brand files for Chapter 7 bankruptcy",
+    "url": "https://www.thestreet.com/retail/another-whiskey-brand-files-for-chapter-7-bankruptcy",
+    "id_key": "72d7ec0178c1564e99d06018a06d4f6509649de7f3f9ea2799b6b73c81c7c83c",
+    "summary": "The whiskey distilling industry is hoping for a brighter year in 2026 as it finishes the year with more bankruptcy filings. Whiskey distillers that filed for Chapter 11 bankruptcy in 2025 included Boston Harbor Distillery on March 31, Westward Whiskey parent House Spirits Distillery on April 6, ...",
+    "ingested_utc": "2025-12-27T21:41:37Z"
+  },
+  {
+    "published_utc": "2025-12-27",
+    "retrieved_date": "2025-12-27",
     "retrieved_utc": "2025-12-27T21:29:04Z",
     "source": "Guardian_World",
     "title": "Zelenskyy heads to Florida for talks with Trump amid fresh strikes on Kyiv",
@@ -10976,27 +10998,5 @@
     "id_key": "0dfe841fd5087b3b872331a6064cec50a1fc669c3a955c40db0aa76931d88581",
     "summary": "Koinly has notified users of a potential email address breach resulting from a third-party service provider, Mixpanel. Despite the breach, sensitive financial data, tax records, and wallet information remain secure, with Koinly assuring users it did not share such details with Mixpanel. The post Koinly Warning: Third-Party Breach Exposes User Emails – Is Your Tax Data Safe? appeared first on Cryptonews .",
     "ingested_utc": "2025-12-23T19:48:40Z"
-  },
-  {
-    "published_utc": "2025-12-23",
-    "retrieved_date": "2025-12-23",
-    "retrieved_utc": "2025-12-23T19:40:58Z",
-    "source": "HackerNews_Top",
-    "title": "Terrence Malick's Disciples",
-    "url": "https://yalereview.org/article/bilge-ebiri-terrence-malick",
-    "id_key": "774feb6811d32ac99ac7ad2fcea12120e6b68759c112eaf138b482fd6f74e26a",
-    "summary": "Comments",
-    "ingested_utc": "2025-12-23T19:40:58Z"
-  },
-  {
-    "published_utc": "2025-12-23",
-    "retrieved_date": "2025-12-23",
-    "retrieved_utc": "2025-12-23T19:40:41Z",
-    "source": "TheStreet_Top",
-    "title": "20-year-old boutique files for Chapter 7 bankruptcy, closing all locations",
-    "url": "https://www.thestreet.com/retail/25-year-old-boutique-files-for-chapter-7-bankruptcy-closing-all-locations",
-    "id_key": "56a9d646cd77e5d10484e14fb0fe794b81bf2bb8291edcd6c5f9ece5563e0890",
-    "summary": "As the last days of 2025 wind to a close, many industries have seen a number of high-profile bankruptcies in a challenging economy. In the airline world, travel companies and passengers are still reeling over the sudden shutdown of Scandinavian low-cost airlines Play and Braathens Aviation within a ...",
-    "ingested_utc": "2025-12-23T19:40:41Z"
   }
 ]
