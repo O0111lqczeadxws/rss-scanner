@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-12-28",
     "retrieved_date": "2025-12-28",
+    "retrieved_utc": "2025-12-28T16:58:05Z",
+    "source": "HackerNews_Top",
+    "title": "Designing Predictable LLM-Verifier Systems for Formal Method Guarantee",
+    "url": "https://arxiv.org/abs/2512.02080",
+    "id_key": "56f120975e5e7ca0cc37ed318fbfd75b45cbdfb188a65124f3e093972cfadc25",
+    "summary": "Comments",
+    "ingested_utc": "2025-12-28T16:58:05Z"
+  },
+  {
+    "published_utc": "2025-12-28",
+    "retrieved_date": "2025-12-28",
     "retrieved_utc": "2025-12-28T16:43:47Z",
     "source": "TheStreet_Top",
     "title": "Target takes on Walmart with a risky bet shoppers may not expect",
@@ -10987,16 +10998,5 @@
     "id_key": "437a8dde6a924f92f989c284fdaa6c2e3daf65baa5d8ec2062dbc1cabc8730a4",
     "summary": "Introduced in response to the Bondi beach terror attack, the laws give police powers to ban on protests for up to three months after a terrorist event Ten minutes of terror: how the Bondi mass shooting unfolded in real time – video Follow the latest live updates The New South Wales premier, Chris Minns, has said it is up to the state’s police commissioner, Mal Lanyon, when to activate controversial new powers to ban protests – although he made it clear he would like them triggered quickly. The new laws, were assented to on Wednesday after being passed in a late-night sitting of the NSW upper house and affirmed on Wednesday morning by the lower house. Continue reading...",
     "ingested_utc": "2025-12-24T04:29:10Z"
-  },
-  {
-    "published_utc": "2025-12-24",
-    "retrieved_date": "2025-12-24",
-    "retrieved_utc": "2025-12-24T03:57:38Z",
-    "source": "HackerNews_Top",
-    "title": "Could lockfiles just be SBOMs?",
-    "url": "https://nesbitt.io/2025/12/23/could-lockfiles-just-be-sboms.html",
-    "id_key": "84f1c2290f45fc0bd3a2da246eb993d67e1e5868f65e20792facfb5ecbdbf245",
-    "summary": "Comments",
-    "ingested_utc": "2025-12-24T03:57:38Z"
   }
 ]
