@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-12-28",
     "retrieved_date": "2025-12-28",
+    "retrieved_utc": "2025-12-28T08:58:43Z",
+    "source": "AlJazeera_All",
+    "title": "Why is it that the UK government can’t define Islamophobia?",
+    "url": "https://www.aljazeera.com/opinions/2025/12/28/why-is-it-that-the-uk-government-cant-define-islamophobia?traffic_source=rss",
+    "id_key": "fcdddb669284035754e33d1b6c74ace5391648c593e0fa6a79aebeaa5b648729",
+    "summary": "The proposed official definition of anti-Muslim hostility that does not address Islamophobia is dangerously inadequate.",
+    "ingested_utc": "2025-12-28T08:58:43Z"
+  },
+  {
+    "published_utc": "2025-12-28",
+    "retrieved_date": "2025-12-28",
     "retrieved_utc": "2025-12-28T08:46:03Z",
     "source": "AlJazeera_All",
     "title": "Central African Republic votes as Touadera seeks third presidential term",
@@ -10987,16 +10998,5 @@
     "id_key": "4875a2eddb65bd15d9d048d9133c39bdd7dd34d26055666539b8d7f00e8fe196",
     "summary": "Libya's PM confirms that four other Libyan passengers also died after the plane crashed shortly after takeoff.",
     "ingested_utc": "2025-12-23T22:37:37Z"
-  },
-  {
-    "published_utc": "2025-12-23",
-    "retrieved_date": "2025-12-23",
-    "retrieved_utc": "2025-12-23T22:36:58Z",
-    "source": "NYTimes_World",
-    "title": "China Delays Plans for Mass Production of Self-Driving Cars After Accident",
-    "url": "https://www.nytimes.com/2025/12/23/business/china-autonomous-cars-driving.html",
-    "id_key": "c102f72564692b7774b7ad4f5885fbd167f355ef7b6bf99f522dec2d2bbc53b6",
-    "summary": "After years of planning for cars that would let drivers take their hands off the wheel and eyes off the road, China’s regulators have become more cautious.",
-    "ingested_utc": "2025-12-23T22:36:58Z"
   }
 ]
