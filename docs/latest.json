@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-12-28",
     "retrieved_date": "2025-12-28",
+    "retrieved_utc": "2025-12-28T23:44:29Z",
+    "source": "Guardian_World",
+    "title": "Trump says Ukraine peace deal ‘closer than ever’ after meeting with Zelenskyy in Florida",
+    "url": "https://www.theguardian.com/world/2025/dec/28/trump-zelenskyy-talks-amid-heavy-russian-airstrikes-on-ukraine",
+    "id_key": "d1590f2b624a42cc0ebf9e9c5b795d6e299023a4f1f828f004770f059942649a",
+    "summary": "US president said ‘thorny’ questions over territory have yet to be resolved and expressed sympathy with Russia not wanting a ceasefire Russia-Ukraine war – latest news updates Donald Trump has said a deal to end the war in Ukraine is “closer than ever” but has admitted that “thorny” questions over the future of the eastern Donbas region have yet to be resolved, after a two-hour meeting on Sunday with Volodymyr Zelenskyy in Florida. Trump said a draft agreement to end the war was nearly “95% done”. “I really think we are closer than ever with both sides,” he said, adding that the Russian president, Vladimir Putin, also wants to “see it happen”. Continue reading...",
+    "ingested_utc": "2025-12-28T23:44:29Z"
+  },
+  {
+    "published_utc": "2025-12-28",
+    "retrieved_date": "2025-12-28",
     "retrieved_utc": "2025-12-28T23:34:00Z",
     "source": "HackerNews_Top",
     "title": "62 years in the making: NYC's newest water tunnel nears the finish line",
@@ -10987,16 +10998,5 @@
     "id_key": "2c870beb22a2f59b30c15dc7d6f49c6888447a35997f3753724282d54e3ea60d",
     "summary": "BP has sold a 65% stake in its motor lubricant arm Castrol to US-based investment firm Stonepeak.",
     "ingested_utc": "2025-12-24T10:13:54Z"
-  },
-  {
-    "published_utc": "2025-12-24",
-    "retrieved_date": "2025-12-24",
-    "retrieved_utc": "2025-12-24T10:13:53Z",
-    "source": "BBC_World",
-    "title": "Venezuela accuses US of 'extortion' over seizure of oil tankers",
-    "url": "https://www.bbc.com/news/articles/cd749gqgg11o?at_medium=RSS&at_campaign=rss",
-    "id_key": "820f1bd2c60dbb5a9e4a79beea64565f5c4df44e60036b72565399ca16e437dc",
-    "summary": "An emergency meeting of the UN Security Council was called to discuss the US seizure of two tankers.",
-    "ingested_utc": "2025-12-24T10:13:53Z"
   }
 ]
