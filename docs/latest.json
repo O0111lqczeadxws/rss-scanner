@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-12-28",
     "retrieved_date": "2025-12-28",
+    "retrieved_utc": "2025-12-28T08:19:02Z",
+    "source": "TheStreet_Top",
+    "title": "Amazon is selling a $35 yoga mat for only $23 that's perfect for home workouts",
+    "url": "https://www.thestreet.com/deals/gaiam-yoga-mat-amazon-sale",
+    "id_key": "58411e4ddbbe9702389a232fb5a1869d9a3d04add99300f210072bc0f2a836f1",
+    "summary": "\"A nice, thick mat with an elegant design.\"",
+    "ingested_utc": "2025-12-28T08:19:02Z"
+  },
+  {
+    "published_utc": "2025-12-28",
+    "retrieved_date": "2025-12-28",
+    "retrieved_utc": "2025-12-28T08:18:21Z",
+    "source": "NYTimes_World",
+    "title": "In Myanmar’s Election, ‘Voting Out of Fear, Not Hope’",
+    "url": "https://www.nytimes.com/2025/12/28/world/asia/myanmar-election.html",
+    "id_key": "81c6bfb929a5b1a40b9014fe67749b125499a847f5d6a33a30eafa1582d7e565",
+    "summary": "The voting for Parliament is almost sure to favor the ruling military junta, which is stage-managing the polls. Still, some see them as the most pragmatic way to try to improve conditions.",
+    "ingested_utc": "2025-12-28T08:18:21Z"
+  },
+  {
+    "published_utc": "2025-12-28",
+    "retrieved_date": "2025-12-28",
     "retrieved_utc": "2025-12-28T07:51:05Z",
     "source": "AlJazeera_All",
     "title": "Brazil court orders house arrest for Bolsonaro accomplices",
@@ -10976,27 +10998,5 @@
     "id_key": "fd82c4e3231a0c27f11027a67103705f2792ee9c4c8634ca33add60a05105442",
     "summary": "People at Silver Lake healthcare center in Bristol Township injured and trapped inside after partial building collapse An explosion at a nursing home just outside Philadelphia collapsed part of the building and left people injured and trapped inside, authorities said. A plume of black smoke rose from Silver Lake healthcare center in Bristol Township, as emergency responders across the region gathered there. Continue reading...",
     "ingested_utc": "2025-12-23T22:36:36Z"
-  },
-  {
-    "published_utc": "2025-12-23",
-    "retrieved_date": "2025-12-23",
-    "retrieved_utc": "2025-12-23T22:15:42Z",
-    "source": "FinancialPost_Business",
-    "title": "Birchtech Corp Announces Reverse Stock Split to Support Planned Uplisting Strategy",
-    "url": "https://financialpost.com/globe-newswire/birchtech-corp-announces-reverse-stock-split-to-support-planned-uplisting-strategy",
-    "id_key": "578ce9038c8685a1d9a385bea7d05788628507226b3da2bfedc97f4b2dc45871",
-    "summary": "CORSICANA, Texas, Dec. 23, 2025 (GLOBE NEWSWIRE) — Birchtech Corp. (TSX: BCHT) (OTCQB: BCHT) (“Birchtech” or the “Company”), a leader in specialty activated carbon technologies for sustainable air and water treatment, today announced that its Board of Directors has approved a 1-for-5 reverse stock split of its common stock (the “Reverse Split”). The Reverse Split […]",
-    "ingested_utc": "2025-12-23T22:15:42Z"
-  },
-  {
-    "published_utc": "2025-12-23",
-    "retrieved_date": "2025-12-23",
-    "retrieved_utc": "2025-12-23T22:15:42Z",
-    "source": "FinancialPost_Business",
-    "title": "Inovalis Real Estate Investment Trust Closes €14.0 Million Sale of Baldi Property",
-    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/inovalis-real-estate-investment-trust-closes-e14-0-million-sale-of-baldi-property",
-    "id_key": "731755e7283ca1c5448f1c2ccfcbd2e3ce9c2963033788f768f804a519130109",
-    "summary": "TORONTO — Inovalis Real Estate Investment Trust (the “REIT”) (TSX: INO.UN) today announced the closing of the sale of the Baldi property for €14.0 million ($22.9 million). The 124,000 square foot office and mixed-use property comprised of four buildings around a central courtyard, is located near the Paris ring road in Saint-Ouen, France. “This closing […]",
-    "ingested_utc": "2025-12-23T22:15:42Z"
   }
 ]
