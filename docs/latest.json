@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-12-28",
     "retrieved_date": "2025-12-28",
+    "retrieved_utc": "2025-12-28T22:14:25Z",
+    "source": "TechCrunch_All",
+    "title": "Police charge driver who allegedly killed a pedestrian while livestreaming on TikTok",
+    "url": "https://techcrunch.com/2025/12/28/police-charge-driver-who-allegedly-killed-a-pedestrian-while-livestreaming-on-tiktok/",
+    "id_key": "da40b0e63d3cac68dab38f9ae89432210ae827ce934cea4989aca84638874826",
+    "summary": "Local police said they have charged an Illinois driver who struck and killed a pedestrian while she was livestreaming on TikTok.",
+    "ingested_utc": "2025-12-28T22:14:25Z"
+  },
+  {
+    "published_utc": "2025-12-28",
+    "retrieved_date": "2025-12-28",
     "retrieved_utc": "2025-12-28T21:44:18Z",
     "source": "HackerNews_Top",
     "title": "Show HN: Phantas – A browser-based binaural strobe engine (Web Audio API)",
@@ -10987,16 +10998,5 @@
     "id_key": "26abc675ecec7b1c04ae66f7e8cd46e0facabcefd773a775f9a61cec4b630c57",
     "summary": "Investigators say the blast in Moscow occurred close to the site where a Russian general was killed on Monday.",
     "ingested_utc": "2025-12-24T08:52:58Z"
-  },
-  {
-    "published_utc": "2025-12-24",
-    "retrieved_date": "2025-12-24",
-    "retrieved_utc": "2025-12-24T08:52:18Z",
-    "source": "NYTimes_World",
-    "title": "Australian State Passes ‘Extraordinary’ Gun and Protest Laws After Bondi Attack",
-    "url": "https://www.nytimes.com/2025/12/24/world/australia/nsw-gun-protest-laws.html",
-    "id_key": "499e3774269216cf647dfc1602576d77b7b1029aa9d7603b29438a6ee9324aff",
-    "summary": "While the new restrictions on firearms have broad support, new police powers to crack down on some protests were criticized as limits on civil liberties.",
-    "ingested_utc": "2025-12-24T08:52:18Z"
   }
 ]
