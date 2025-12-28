@@ -1,7 +1,7 @@
 {
-  "started_utc": "2025-12-28T09:33:05Z",
-  "ended_utc": "2025-12-28T09:36:28Z",
-  "new_items_this_run": 1,
+  "started_utc": "2025-12-28T09:48:57Z",
+  "ended_utc": "2025-12-28T09:52:25Z",
+  "new_items_this_run": 2,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
@@ -11,7 +11,7 @@
     "BBC_Business": 0,
     "BBC_Technology": 0,
     "Guardian_Business": 0,
-    "Guardian_World": 0,
+    "Guardian_World": 2,
     "WSJ_US_Business": 0,
     "WSJ_World": 0,
     "WSJ_Markets": 0,
@@ -66,7 +66,7 @@
     "NPR_Economy": 0,
     "NPR_World": 0,
     "NPR_Technology": 0,
-    "FT_Home": 1,
+    "FT_Home": 0,
     "FT_Markets": 0,
     "CNBC_Top": 0,
     "CNBC_Markets": 0,
@@ -346,7 +346,7 @@
     "feeds_http_error": 0,
     "entries_seen": 1534,
     "too_old": 561,
-    "dup_title_url": 101,
+    "dup_title_url": 100,
     "dup_id": 420
   },
   "limits": {
@@ -360,6 +360,6 @@
   },
   "processed": {
     "file": "data/processed/2025-12-28.jsonl",
-    "appended_new": 1
+    "appended_new": 2
   }
 }
