@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-12-28",
     "retrieved_date": "2025-12-28",
+    "retrieved_utc": "2025-12-28T23:34:00Z",
+    "source": "HackerNews_Top",
+    "title": "62 years in the making: NYC's newest water tunnel nears the finish line",
+    "url": "https://ny1.com/nyc/all-boroughs/news/2025/11/09/water--dep--tunnels-",
+    "id_key": "a5cccb6c3f59ccc94f7ea782bc6b377bcda5585a6b37b16170281d97d598fbba",
+    "summary": "Comments",
+    "ingested_utc": "2025-12-28T23:34:00Z"
+  },
+  {
+    "published_utc": "2025-12-28",
+    "retrieved_date": "2025-12-28",
+    "retrieved_utc": "2025-12-28T23:32:57Z",
+    "source": "MarketWatch_Bulletins",
+    "title": "U.S. stock futures flat as investors still hope to start 2026 on a roll",
+    "url": "https://www.marketwatch.com/bulletins/redirect/go?g=df621a89-d665-4ced-a368-c68ff5e5fd9e&mod=mw_rss_bulletins",
+    "id_key": "bc7f3d81bc7ab9995f677c4e0c518d92ed757e42edf22c704ad0cc600b6aeeb4",
+    "summary": "",
+    "ingested_utc": "2025-12-28T23:32:57Z"
+  },
+  {
+    "published_utc": "2025-12-28",
+    "retrieved_date": "2025-12-28",
     "retrieved_utc": "2025-12-28T23:15:07Z",
     "source": "HackerNews_Top",
     "title": "As AI gobbles up chips, prices for devices may rise",
@@ -10976,27 +10998,5 @@
     "id_key": "820f1bd2c60dbb5a9e4a79beea64565f5c4df44e60036b72565399ca16e437dc",
     "summary": "An emergency meeting of the UN Security Council was called to discuss the US seizure of two tankers.",
     "ingested_utc": "2025-12-24T10:13:53Z"
-  },
-  {
-    "published_utc": "2025-12-24",
-    "retrieved_date": "2025-12-24",
-    "retrieved_utc": "2025-12-24T10:13:53Z",
-    "source": "BBC_World",
-    "title": "Border villagers abducted and taken to Russia, says Ukraine",
-    "url": "https://www.bbc.com/news/articles/czxpz05yj5po?at_medium=RSS&at_campaign=rss",
-    "id_key": "421b0da3b76eb5bb51f4dfdaa3930b9cd62301b32851bd5c3bfc17e1055cf143",
-    "summary": "Ukraine has tried to evacuate areas of Sumy region near the Russian border, but many civilians have refused to leave.",
-    "ingested_utc": "2025-12-24T10:13:53Z"
-  },
-  {
-    "published_utc": "2025-12-24",
-    "retrieved_date": "2025-12-24",
-    "retrieved_utc": "2025-12-24T09:54:20Z",
-    "source": "Guardian_World",
-    "title": "British boy, 13, stabbed to death in Portugal",
-    "url": "https://www.theguardian.com/world/2025/dec/24/british-boy-stabbed-death-portugal",
-    "id_key": "9b99e517d10b77323c9a283e31a007fac28951ebcfb3b6f2a4daec8b6b417637",
-    "summary": "Police say incident a ‘domestic violence situation’ and suspect, who also died, was ex-partner of teenager’s mother A 13-year-old British boy has died after being stabbed at his home in Portugal in an incident that police described as a “domestic violence situation”. Authorities said the alleged perpetrator, who also died, was the former partner of the boy’s mother. Continue reading...",
-    "ingested_utc": "2025-12-24T09:54:20Z"
   }
 ]
