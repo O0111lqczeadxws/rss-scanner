@@ -2,6 +2,50 @@
   {
     "published_utc": "2025-12-29",
     "retrieved_date": "2025-12-29",
+    "retrieved_utc": "2025-12-29T19:51:23Z",
+    "source": "HackerNews_Top",
+    "title": "When someone says they hate your product with a burning passion",
+    "url": "https://www.getflack.com/p/responding-to-negative-feedback",
+    "id_key": "262a20bc856bade942da2f648df436e75ba0c42627fca754b52502de97a8caf6",
+    "summary": "Comments",
+    "ingested_utc": "2025-12-29T19:51:23Z"
+  },
+  {
+    "published_utc": "2025-12-29",
+    "retrieved_date": "2025-12-29",
+    "retrieved_utc": "2025-12-29T19:51:23Z",
+    "source": "HackerNews_Top",
+    "title": "Show HN: Evidex – AI Clinical Search (RAG over PubMed/OpenAlex and SOAP Notes)",
+    "url": "https://www.getevidex.com",
+    "id_key": "20168eec4c85da59f434cb700182f008c0ff859aab3b0cf6023e21af8938cc0c",
+    "summary": "Comments",
+    "ingested_utc": "2025-12-29T19:51:23Z"
+  },
+  {
+    "published_utc": "2025-12-29",
+    "retrieved_date": "2025-12-29",
+    "retrieved_utc": "2025-12-29T19:50:54Z",
+    "source": "ArsTechnica_All",
+    "title": "Leonardo’s wood charring method predates Japanese practice",
+    "url": "https://arstechnica.com/science/2025/12/did-one-line-in-a-leonardo-codex-anticipate-yakisugi/",
+    "id_key": "788af1111f64c9074527c26d77ac4921ef81a2b610b1c01e74c60db87bd6ddcb",
+    "summary": "The Japanese technique of burning wood surfaces creates a protective carbonized layer in bioarchitecture.",
+    "ingested_utc": "2025-12-29T19:50:54Z"
+  },
+  {
+    "published_utc": "2025-12-29",
+    "retrieved_date": "2025-12-29",
+    "retrieved_utc": "2025-12-29T19:48:11Z",
+    "source": "Guardian_World",
+    "title": "Netanyahu meets Trump in US amid fears of Israeli regional offensives",
+    "url": "https://www.theguardian.com/world/2025/dec/29/netanyahu-to-meet-trump-in-us-amid-fears-of-israeli-regional-offensives",
+    "id_key": "67f4cc19e5c58b913fb598cbf7c6da292e75296737b809a9fac1a5aa79506825",
+    "summary": "Israel’s PM travels to Mar-a-Lago as US administration reported to be running out of patience over Gaza ceasefire Benjamin Netanyahu met Donald Trump at the US president’s Mar-a-Lago resort in Florida on Monday amid growing fears Israel could launch new offensives against regional enemies, potentially plunging the Middle East further into instability. High on the agenda will be the ceasefire in Gaza, which in October halted the devastating two-year-long war. Though the terms agreed for an initial phase have been largely completed, with Israel’s forces pulling back to new positions and Hamas releasing all living and all but one of the dead hostages, immense challenges face the implementation of the second phase of the president’s 20-point plan. Continue reading...",
+    "ingested_utc": "2025-12-29T19:48:11Z"
+  },
+  {
+    "published_utc": "2025-12-29",
+    "retrieved_date": "2025-12-29",
     "retrieved_utc": "2025-12-29T19:38:56Z",
     "source": "ArsTechnica_All",
     "title": "Did one line in a Leonardo codex anticipate yakisugi?",
@@ -10954,49 +10998,5 @@
     "id_key": "bcb915e01d37a72063ef5c0c6248b7826feb579de2dd085dba4f181dc53b012d",
     "summary": "Norad got some help from President Donald Trump as it marked its 70th year tracking Santa Claus on Christmas Eve.",
     "ingested_utc": "2025-12-25T06:53:41Z"
-  },
-  {
-    "published_utc": "2025-12-25",
-    "retrieved_date": "2025-12-25",
-    "retrieved_utc": "2025-12-25T06:53:41Z",
-    "source": "BBC_World",
-    "title": "Watch: Moment robbers rip ATM from inside Texas store",
-    "url": "https://www.bbc.com/news/videos/c30j52jrp84o?at_medium=RSS&at_campaign=rss",
-    "id_key": "395da1d21759cc26205d9a0798e6b7274235147ec0558c0164c0bb673698b841",
-    "summary": "The White Settlement Police Department is searching for two suspects.",
-    "ingested_utc": "2025-12-25T06:53:41Z"
-  },
-  {
-    "published_utc": "2025-12-25",
-    "retrieved_date": "2025-12-25",
-    "retrieved_utc": "2025-12-25T06:22:47Z",
-    "source": "AlJazeera_All",
-    "title": "Christmas under occupation: Israeli attacks against Palestinian Christians",
-    "url": "https://www.aljazeera.com/news/2025/12/25/christmas-under-occupation-israeli-attacks-against-palestinian-christians?traffic_source=rss",
-    "id_key": "1b5fc5934dde28ea037feb2ac1601601437f60982357ca66c84bd4b1b42ae16d",
-    "summary": "Fewer than 50,000 Christians now live in Palestine under threat from Israel’s illegal occupation and attacks.",
-    "ingested_utc": "2025-12-25T06:22:47Z"
-  },
-  {
-    "published_utc": "2025-12-25",
-    "retrieved_date": "2025-12-25",
-    "retrieved_utc": "2025-12-25T05:56:05Z",
-    "source": "FinancialPost_Business",
-    "title": "Asian shares are mixed after US stocks drift to more records",
-    "url": "https://financialpost.com/pmn/asian-shares-are-mixed-after-us-stocks-drift-to-more-records",
-    "id_key": "551a5547270879516c6a7cc57d3453797687ea345e8e9cd6a7da6361964f285f",
-    "summary": "BANGKOK (AP) — Asian shares were mixed Thursday in thin holiday trading, with most markets in the region and elsewhere closed for Christmas. In Tokyo, the Nikkei 225 lost less than 0.1% to 50,317.43. It has gained nearly 30% this year. The dollar slipped to 155.70 Japanese yen from 155.94 yen. The euro was unchanged […]",
-    "ingested_utc": "2025-12-25T05:56:05Z"
-  },
-  {
-    "published_utc": "2025-12-25",
-    "retrieved_date": "2025-12-25",
-    "retrieved_utc": "2025-12-25T05:40:20Z",
-    "source": "NYTimes_World",
-    "title": "What Parents in China See in A.I. Toys",
-    "url": "https://www.nytimes.com/video/world/asia/100000010595407/china-ai-toy-chatbot.html",
-    "id_key": "5d379135c2d9f33999dade1148934da7994a113c6125aae7c44f1624864232c8",
-    "summary": "A video of a child crying over her broken A.I. chatbot stirred up conversation in China, with some viewers questioning whether the gadgets are good for children. But the girl’s father says it’s more than a toy; it’s a family member.",
-    "ingested_utc": "2025-12-25T05:40:20Z"
   }
 ]
