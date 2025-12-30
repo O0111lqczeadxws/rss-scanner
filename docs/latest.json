@@ -2,6 +2,61 @@
   {
     "published_utc": "2025-12-30",
     "retrieved_date": "2025-12-30",
+    "retrieved_utc": "2025-12-30T20:17:09Z",
+    "source": "Nikkei_Asia_Top",
+    "title": "Japan stocks ride AI boom, rate hikes to record high in 2025",
+    "url": "https://asia.nikkei.com/business/markets/japan-stocks-ride-ai-boom-rate-hikes-to-record-high-in-2025",
+    "id_key": "c2267d44666fd15d45d5e308925cc20dfcad78993b8990855839b1cdfee4667f",
+    "summary": "",
+    "ingested_utc": "2025-12-30T20:17:09Z"
+  },
+  {
+    "published_utc": "2025-12-30",
+    "retrieved_date": "2025-12-30",
+    "retrieved_utc": "2025-12-30T20:17:07Z",
+    "source": "FinancialPost_Business",
+    "title": "Canada’s TSX is expected to grow in 2026 possibly reaching as high as 35,200",
+    "url": "https://financialpost.com/investing/tsx-expected-grow-2026-more-muted-pace",
+    "id_key": "e25ad7b6b6f3f3f22702bd3fde66cffb70077522b12131df3ac9e5b71bef0294",
+    "summary": "Investors are expecting 5-10% returns for the TSX after two consecutive years of high double-digit gains",
+    "ingested_utc": "2025-12-30T20:17:07Z"
+  },
+  {
+    "published_utc": "2025-12-30",
+    "retrieved_date": "2025-12-30",
+    "retrieved_utc": "2025-12-30T20:16:21Z",
+    "source": "NYTimes_Business",
+    "title": "Fed Minutes Detail Deep Divide on Timing of Further Rate Cuts",
+    "url": "https://www.nytimes.com/2025/12/30/business/federal-reserve-minutes-december.html",
+    "id_key": "24a2b49482b910621e4ccfc1cd86e43b06050dd3715b330310ba95c8347fcb26",
+    "summary": "Officials at the central bank have splintered over whether rising unemployment or elevated inflation poses the bigger economic risk.",
+    "ingested_utc": "2025-12-30T20:16:21Z"
+  },
+  {
+    "published_utc": "2025-12-30",
+    "retrieved_date": "2025-12-30",
+    "retrieved_utc": "2025-12-30T20:16:14Z",
+    "source": "MarketWatch_Bulletins",
+    "title": "U.S. stocks trading lower in final hour as Fed releases meeting minutes — live",
+    "url": "https://www.marketwatch.com/bulletins/redirect/go?g=cd402b23-ca08-46f4-903b-1a3225628168&mod=mw_rss_bulletins",
+    "id_key": "2147ddffea8cfb8ac6e11d77ede94ba10483c2b7d6e814ba177002f33e1f5bb2",
+    "summary": "",
+    "ingested_utc": "2025-12-30T20:16:14Z"
+  },
+  {
+    "published_utc": "2025-12-30",
+    "retrieved_date": "2025-12-30",
+    "retrieved_utc": "2025-12-30T20:14:17Z",
+    "source": "Guardian_World",
+    "title": "‘Absolutely frightening’: surge in ketamine cases hits UK urology wards",
+    "url": "https://www.theguardian.com/society/2025/dec/30/surge-in-ketamine-cases-hits-urology-wards",
+    "id_key": "21298cea6dc48321e07b6e3762a8ed76d21956913590848a7fba2ed2e0b521d7",
+    "summary": "Young adults and teenagers prevalent in ‘skyrocketing’ admissions linked to class B drug, say doctors in northern England Experts have warned that urology departments across the UK could be close to breaking point as ketamine-related hospital admissions have “skyrocketed” in the past few years. Ketamine, a class B dissociative drug used for pain relief and sedation, is increasingly used recreationally in the UK. It is one of only three drugs, alongside magic mushrooms and hallucinogens, to have become used more regularly since 2015. Continue reading...",
+    "ingested_utc": "2025-12-30T20:14:17Z"
+  },
+  {
+    "published_utc": "2025-12-30",
+    "retrieved_date": "2025-12-30",
     "retrieved_utc": "2025-12-30T19:50:02Z",
     "source": "NYTimes_Business",
     "title": "Deep Divide Inside Fed Raises Questions About Timing of Further Rate Cuts",
@@ -3617,6 +3672,17 @@
     "id_key": "a0bae7ab96d1bc052fdc1e7ee1f1e79ec51a9578d01d5d25303f88e3b59bf7c4",
     "summary": "The US president also warns Hamas will have \"hell to pay\" if it does not disarm, after talks with Netanyahu.",
     "ingested_utc": "2025-12-30T00:57:43Z"
+  },
+  {
+    "published_utc": "2025-12-29",
+    "retrieved_date": "2025-12-30",
+    "retrieved_utc": "2025-12-30T20:16:29Z",
+    "source": "NPR_Business",
+    "title": "FIFA president defends World Cup ticket prices, saying demand is hitting records",
+    "url": "https://www.npr.org/2025/12/29/nx-s1-5660767/fifa-gianni-infantino-world-cup-ticket-prices",
+    "id_key": "75659444f9606f1863fc6b4caa37efb2a51126abad7c04fb0961293fe4893280",
+    "summary": "The FIFA President addressed outrage over ticket prices for the World Cup by pointing to record demand and reiterating that most of the proceeds will help support soccer around the world.",
+    "ingested_utc": "2025-12-30T20:16:29Z"
   },
   {
     "published_utc": "2025-12-29",
@@ -10932,71 +10998,5 @@
     "id_key": "a3fcf8b2bd8f059084276b6cc68171692795567c468d22f1957cdcee75cbda25",
     "summary": "Meeting on Sunday will follow flurry of US, Russian and Ukrainian talks, but Putin has shown little sign of softening Volodymyr Zelenskyy is to travel to the US for a planned meeting with Donald Trump on Sunday, as Washington continues to push for a possible peace deal between Kyiv and Moscow . The Ukrainian president said the visit would take place at a location in Florida – widely expected to be Trump’s Mar-a-Lago resort – in what would be the latest development in a diplomatic push that began in November with the circulation of a 28-point US plan shaped with input from Russian officials. Continue reading...",
     "ingested_utc": "2025-12-27T02:46:53Z"
-  },
-  {
-    "published_utc": "2025-12-27",
-    "retrieved_date": "2025-12-27",
-    "retrieved_utc": "2025-12-27T00:59:16Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "AI's hunger for memory chips puts upward pressure on PC prices",
-    "url": "https://asia.nikkei.com/business/tech/semiconductors/ai-s-hunger-for-memory-chips-puts-upward-pressure-on-pc-prices",
-    "id_key": "026f1cdc37d311b94b827636191b033e1f1df9b5309065f75acb6cddf5acee8f",
-    "summary": "",
-    "ingested_utc": "2025-12-27T00:59:16Z"
-  },
-  {
-    "published_utc": "2025-12-27",
-    "retrieved_date": "2025-12-27",
-    "retrieved_utc": "2025-12-27T00:59:16Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "Mitsubishi Chemical weighs new India plant for mainstay plastic",
-    "url": "https://asia.nikkei.com/business/materials/mitsubishi-chemical-weighs-new-india-plant-for-mainstay-plastic",
-    "id_key": "ab79b6426ced994567d43a7f06b92e2eac6795313257c2d9d40cc13c067e8997",
-    "summary": "",
-    "ingested_utc": "2025-12-27T00:59:16Z"
-  },
-  {
-    "published_utc": "2025-12-27",
-    "retrieved_date": "2025-12-27",
-    "retrieved_utc": "2025-12-27T00:59:16Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "China fixes yuan at strongest rate against dollar in over a year",
-    "url": "https://asia.nikkei.com/business/markets/currencies/china-fixes-yuan-at-strongest-rate-against-dollar-in-over-a-year",
-    "id_key": "44d706a06be7313799c7cba777aa0274113edfab0eef1fe4b71ecfac7990a0ba",
-    "summary": "",
-    "ingested_utc": "2025-12-27T00:59:16Z"
-  },
-  {
-    "published_utc": "2025-12-27",
-    "retrieved_date": "2025-12-27",
-    "retrieved_utc": "2025-12-27T00:59:16Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "Vietnam's tech transfers haven't risen despite export surge: report",
-    "url": "https://asia.nikkei.com/business/technology/vietnam-s-tech-transfers-haven-t-risen-despite-export-surge-report",
-    "id_key": "3b82cfdb93583ff46a80b22917424de03f22003ad9f5af2fe0f0215957750c8c",
-    "summary": "",
-    "ingested_utc": "2025-12-27T00:59:16Z"
-  },
-  {
-    "published_utc": "2025-12-27",
-    "retrieved_date": "2025-12-27",
-    "retrieved_utc": "2025-12-27T00:59:16Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "Index providers anticipate AI and private market potential: S&P DJI",
-    "url": "https://asia.nikkei.com/business/markets/index-providers-anticipate-ai-and-private-market-potential-s-p-dji",
-    "id_key": "bff686ce46f65e115354dce3d3b8b83e89aceaa976a4efb6b0bf04a9b7e10e21",
-    "summary": "",
-    "ingested_utc": "2025-12-27T00:59:16Z"
-  },
-  {
-    "published_utc": "2025-12-27",
-    "retrieved_date": "2025-12-27",
-    "retrieved_utc": "2025-12-27T00:59:16Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "Japan's private-sector imports of rice surge 104-fold on high demand",
-    "url": "https://asia.nikkei.com/economy/trade/japan-s-private-sector-imports-of-rice-surge-104-fold-on-high-demand",
-    "id_key": "ba6582313d6ce39c66495e028142367443fcf42d4877a424576fc3778bac99e5",
-    "summary": "",
-    "ingested_utc": "2025-12-27T00:59:16Z"
   }
 ]
