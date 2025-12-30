@@ -2,6 +2,28 @@
   {
     "published_utc": "2025-12-30",
     "retrieved_date": "2025-12-30",
+    "retrieved_utc": "2025-12-30T06:56:33Z",
+    "source": "AlJazeera_All",
+    "title": "China fires several rockets around Taiwan during live military drills",
+    "url": "https://www.aljazeera.com/news/2025/12/30/china-kicks-off-second-day-of-military-drills-around-taiwan?traffic_source=rss",
+    "id_key": "984a45a4ec075da9aadedfab6cf160cbaf02b283a8bc3fa31366b81e9b1ad32f",
+    "summary": "Day two of the 'Justice Mission 2025' drills will include 10 hours of live-fire exercises and a simulated blockade.",
+    "ingested_utc": "2025-12-30T06:56:33Z"
+  },
+  {
+    "published_utc": "2025-12-30",
+    "retrieved_date": "2025-12-30",
+    "retrieved_utc": "2025-12-30T06:53:45Z",
+    "source": "BBC_World",
+    "title": "Bangladesh's first female prime minister Khaleda Zia dies aged 80",
+    "url": "https://www.bbc.com/news/articles/cm2v256vdkyo?at_medium=RSS&at_campaign=rss",
+    "id_key": "4228fba7be35ea39225495886e9c0a9afc101a67df34db84c1da9e21e2f7acd8",
+    "summary": "For decades, Zia and Sheikh Hasina were bitter rivals - and their feud defined Bangladesh's politics.",
+    "ingested_utc": "2025-12-30T06:53:45Z"
+  },
+  {
+    "published_utc": "2025-12-30",
+    "retrieved_date": "2025-12-30",
     "retrieved_utc": "2025-12-30T06:23:07Z",
     "source": "Nikkei_Asia_Top",
     "title": "India's tough year of Trump tariffs leads to trade pacts with others",
@@ -757,6 +779,17 @@
     "id_key": "a0bae7ab96d1bc052fdc1e7ee1f1e79ec51a9578d01d5d25303f88e3b59bf7c4",
     "summary": "The US president also warns Hamas will have \"hell to pay\" if it does not disarm, after talks with Netanyahu.",
     "ingested_utc": "2025-12-30T00:57:43Z"
+  },
+  {
+    "published_utc": "2025-12-29",
+    "retrieved_date": "2025-12-30",
+    "retrieved_utc": "2025-12-30T06:56:05Z",
+    "source": "FT_Home",
+    "title": "Winter fuel was Labour’s defining mistake",
+    "url": "https://www.ft.com/content/5920b93c-497d-4b2a-9962-d50e2f2c700c",
+    "id_key": "a7fc4b660799690e1a9a595c44d0eae68d629ccbdbc7b136ee2b2c69093e3ea0",
+    "summary": "Damaging climbdown on cutting benefit taught me pensioner spending can be changed, but only with great care",
+    "ingested_utc": "2025-12-30T06:56:05Z"
   },
   {
     "published_utc": "2025-12-29",
@@ -10965,38 +10998,5 @@
     "id_key": "41dbc355f29f33f171ef4d7adbbdcd5b9263df327af1b7e2f5a91ac330b53826",
     "summary": "Some parts of LA saw more than 11in of rain, with flooding, road closures and debris flows reported across the region A strong rain and wind storm, carried by an atmospheric river from the Pacific, has been blamed for a third death in southern California as flooding, road closures and debris flows are reported across the region. A flood watch was also extended through Thursday for almost all of the area, as more than 11in of rainfall was measured in some parts Los Angeles county as of Wednesday night and evacuation warnings were issued for mountain communities in San Bernardino county. Continue reading...",
     "ingested_utc": "2025-12-26T00:57:35Z"
-  },
-  {
-    "published_utc": "2025-12-25",
-    "retrieved_date": "2025-12-29",
-    "retrieved_utc": "2025-12-29T11:34:24Z",
-    "source": "HackerNews_Top",
-    "title": "Best practices for long-run LED strip installs (20–50M) to avoid flicker?",
-    "url": "https://news.ycombinator.com/item?id=46383452",
-    "id_key": "1de22d5b3804444723169c4e0f33c73e5088ba3987d0b652b59e65d2fb311e41",
-    "summary": "Comments",
-    "ingested_utc": "2025-12-29T11:34:24Z"
-  },
-  {
-    "published_utc": "2025-12-25",
-    "retrieved_date": "2025-12-26",
-    "retrieved_utc": "2025-12-26T22:15:12Z",
-    "source": "TechCrunch_All",
-    "title": "The best distraction blockers to jump-start your focus in the new year",
-    "url": "https://techcrunch.com/2025/12/25/the-best-distraction-blockers-to-jumpstart-your-focus-in-the-new-year/",
-    "id_key": "e5d8b5bdbabf1d50c4c24074ca72760fc2845044991d5a5f10b17d5ae42368d7",
-    "summary": "Whether you need to limit social media scrolling or block off time to be productive, there are different tools that can help you stay on task.",
-    "ingested_utc": "2025-12-26T22:15:12Z"
-  },
-  {
-    "published_utc": "2025-12-25",
-    "retrieved_date": "2025-12-26",
-    "retrieved_utc": "2025-12-26T18:20:57Z",
-    "source": "TheStreet_Top",
-    "title": "127-year-old furniture retail icon closes down, no bankruptcy",
-    "url": "https://www.thestreet.com/retail/127-year-old-furniture-retail-icon-shuts-down-no-bankruptcy",
-    "id_key": "1cf5c4e9fa6d285f73c15d7a06d4d7c2694a6e7ce6d135d5dc5ae46aa6a2aa22",
-    "summary": "Local furniture stores were popular with consumers dating back to the 1960s, when furniture stores sold about 78 percent of products and department stores sold about 22%, based on National Association of Furniture Manufacturers 1968 estimates, Furniture World reported. It was a time when consumers ...",
-    "ingested_utc": "2025-12-26T18:20:57Z"
   }
 ]
