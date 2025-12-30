@@ -2,6 +2,61 @@
   {
     "published_utc": "2025-12-30",
     "retrieved_date": "2025-12-30",
+    "retrieved_utc": "2025-12-30T19:30:52Z",
+    "source": "HackerNews_Top",
+    "title": "FediMeteo: A €4 FreeBSD VPS Became a Global Weather Service",
+    "url": "https://it-notes.dragas.net/2025/02/26/fedimeteo-how-a-tiny-freebsd-vps-became-a-global-weather-service-for-thousands/",
+    "id_key": "f68eafb330a1ba94828db59fc39085b863c91154c7126d32b0bea36b7b749c11",
+    "summary": "Comments",
+    "ingested_utc": "2025-12-30T19:30:52Z"
+  },
+  {
+    "published_utc": "2025-12-30",
+    "retrieved_date": "2025-12-30",
+    "retrieved_utc": "2025-12-30T19:30:42Z",
+    "source": "FinancialPost_Business",
+    "title": "Giorgio Armani, Stanley Fischer Among Business Leaders Who Died in 2025",
+    "url": "https://financialpost.com/pmn/business-pmn/giorgio-armani-stanley-fischer-among-business-leaders-who-died-in-2025",
+    "id_key": "f127e27760c5e281d462b50e063225c53a91631a685ac6fd866b0ace232c51f2",
+    "summary": "A city-enhancing “starchitect,” a savior of IBM, a revered fashion designer and the founding chairman of the US Commodity Futures Trading Commission were among the notable business and finance figures who died in 2025.",
+    "ingested_utc": "2025-12-30T19:30:42Z"
+  },
+  {
+    "published_utc": "2025-12-30",
+    "retrieved_date": "2025-12-30",
+    "retrieved_utc": "2025-12-30T19:30:06Z",
+    "source": "FT_Home",
+    "title": "Federal Reserve minutes highlight deep fissures at US central bank",
+    "url": "https://www.ft.com/content/c4a14fbd-a0cd-40b3-b8b0-e128d262e47a",
+    "id_key": "c90c38b2164db63228a6932a60aeb6ad0adae8462039232dc1119cb38848d418",
+    "summary": "Policymakers sparred over decision to cut interest rates earlier in December",
+    "ingested_utc": "2025-12-30T19:30:06Z"
+  },
+  {
+    "published_utc": "2025-12-30",
+    "retrieved_date": "2025-12-30",
+    "retrieved_utc": "2025-12-30T19:29:47Z",
+    "source": "MarketWatch_Bulletins",
+    "title": "Interest rates could be on hold ‘for some time,’ Fed minutes show",
+    "url": "https://www.marketwatch.com/bulletins/redirect/go?g=a0266790-a68f-42f8-b23f-a07fb16eda44&mod=mw_rss_bulletins",
+    "id_key": "5ecbb1b2fad3bc325871ef2b27d05a426d99e3c3232c0c9d5d74f623c9b4b0af",
+    "summary": "",
+    "ingested_utc": "2025-12-30T19:29:47Z"
+  },
+  {
+    "published_utc": "2025-12-30",
+    "retrieved_date": "2025-12-30",
+    "retrieved_utc": "2025-12-30T19:28:12Z",
+    "source": "CryptoNews",
+    "title": "Chinese Investors Pour $188M Into Digital Yuan Firms After PBOC Allows Wallet Interest",
+    "url": "https://cryptonews.com/news/chinese-investors-pour-188m-into-digital-yuan-firms-after-pboc-allows-wallet-interest/",
+    "id_key": "a3c3b1a7084511b28bd34865d61d2a8fe2112eac98b86ccb166725f0a8ec2d62",
+    "summary": "Digital Yuan policy has shifted after PBOC has allowed wallet balances to earn interest, prompting $188M inflows into CBDC-linked stocks. Officials have reported scam attempts via fake apps, while usage has reached 3.48B transactions worth 16.7T yuan by Nov 2025. It has supported 230M wallets total. The post Chinese Investors Pour $188M Into Digital Yuan Firms After PBOC Allows Wallet Interest appeared first on Cryptonews .",
+    "ingested_utc": "2025-12-30T19:28:12Z"
+  },
+  {
+    "published_utc": "2025-12-30",
+    "retrieved_date": "2025-12-30",
     "retrieved_utc": "2025-12-30T19:14:44Z",
     "source": "FinancialPost_Business",
     "title": "December interest rate cut was a close call for some Fed officials, minutes show",
@@ -10943,60 +10998,5 @@
     "id_key": "96b5c380aa591540cdba4fe0e37834940924ccf64cf7fdfa912fb351ce13fa5b",
     "summary": "",
     "ingested_utc": "2025-12-27T00:59:16Z"
-  },
-  {
-    "published_utc": "2025-12-27",
-    "retrieved_date": "2025-12-27",
-    "retrieved_utc": "2025-12-27T00:59:16Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "Subaru softens Trump tariff blow, sticks with 1.2m sales target",
-    "url": "https://asia.nikkei.com/business/automobiles/subaru-softens-trump-tariff-blow-sticks-with-1.2m-sales-target",
-    "id_key": "f00048e45a87e1638f9bd9f593fe4bdad7120691f05bd159c5f36a21b56c8138",
-    "summary": "",
-    "ingested_utc": "2025-12-27T00:59:16Z"
-  },
-  {
-    "published_utc": "2025-12-27",
-    "retrieved_date": "2025-12-27",
-    "retrieved_utc": "2025-12-27T00:58:24Z",
-    "source": "NYTimes_World",
-    "title": "Zelensky Says He’ll Meet With Trump Soon to Discuss Ukraine Peace Plan",
-    "url": "https://www.nytimes.com/2025/12/26/world/europe/zelensky-trump-ukraine-russia.html",
-    "id_key": "1e369a739e2d0bd0727e6b5eb0e8e4e283d51474207260240bc28ae644e0e8e4",
-    "summary": "President Volodymyr Zelensky of Ukraine has sought the meeting since the latest U.S.-.led push for peace got underway.",
-    "ingested_utc": "2025-12-27T00:58:24Z"
-  },
-  {
-    "published_utc": "2025-12-27",
-    "retrieved_date": "2025-12-27",
-    "retrieved_utc": "2025-12-27T00:58:23Z",
-    "source": "NYTimes_Business",
-    "title": "What Went Wrong Before Hong Kong’s Inferno",
-    "url": "https://www.nytimes.com/2025/12/26/world/asia/hong-kong-apartment-fire-corruption.html",
-    "id_key": "237417dcbd91f3cf7a036ff1a6cef97493be92c1764438501df3703d2f307040",
-    "summary": "Records show how government departments played down residents’ warnings about corrupt practices and substandard materials that fueled the deadly blaze.",
-    "ingested_utc": "2025-12-27T00:58:23Z"
-  },
-  {
-    "published_utc": "2025-12-27",
-    "retrieved_date": "2025-12-27",
-    "retrieved_utc": "2025-12-27T00:56:16Z",
-    "source": "Guardian_World",
-    "title": "Mudslides bury cars and homes up to their windows in California town",
-    "url": "https://www.theguardian.com/us-news/2025/dec/26/california-storms-wind-rain-snow",
-    "id_key": "5b3896675cb9cdd3120ec43feabc14449a7d731264c2f2504c0489e5e0d640d0",
-    "summary": "At least three people killed across state since atmospheric river storms began earlier this week Mudslides buried cars and homes up to their windows in a California mountain town as a powerful storm system brought the wettest Christmas in decades to the southern part of the state. As much as 12in of rain fell across the area on Wednesday, according to the National Weather Service, triggering flooding and washing out roads. Continue reading...",
-    "ingested_utc": "2025-12-27T00:56:16Z"
-  },
-  {
-    "published_utc": "2025-12-26",
-    "retrieved_date": "2025-12-30",
-    "retrieved_utc": "2025-12-30T14:54:36Z",
-    "source": "Guardian_Business",
-    "title": "Changing channels: TV streaming at turning point as most UK subscribers opt for ads",
-    "url": "https://www.theguardian.com/media/2025/dec/26/tv-streaming-turning-point-most-uk-subscribers-opt-for-ads",
-    "id_key": "104320ade2e5e841cd6648c12de3965e46c95d4f8ba78f15b63c7b4495574982",
-    "summary": "Viewers hoping to cut bills driving switch from once-normal advert-free subscriptions now charging a premium The number of UK streaming subscribers on packages that include commercials has overtaken those on higher-priced ad-free plans for the first time, in a milestone for British television. The change marks a turning point for an industry that used to reject the idea of interrupting viewing with ad breaks as a relic of broadcast TV – a view championed in particular by Netflix . Apple Sky Tesco Sainsbury’s Indeed Subway Google Paramount McDonald’s BT Continue reading...",
-    "ingested_utc": "2025-12-30T14:54:36Z"
   }
 ]
