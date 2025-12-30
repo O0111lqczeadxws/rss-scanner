@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-12-30",
     "retrieved_date": "2025-12-30",
+    "retrieved_utc": "2025-12-30T21:34:34Z",
+    "source": "FinancialPost_Business",
+    "title": "Meta to buy Manus, an AI startup With Chinese roots",
+    "url": "https://financialpost.com/news/meta-to-buy-manus-ai-startup",
+    "id_key": "ce917ed97f11c022cd7843a071d413bda983dc6ee469d79cde35ab1f2c665362",
+    "summary": "Alexandr Wang, Meta’s chief AI officer, welcomed the Manus team of about 100 staff with a post on X",
+    "ingested_utc": "2025-12-30T21:34:34Z"
+  },
+  {
+    "published_utc": "2025-12-30",
+    "retrieved_date": "2025-12-30",
+    "retrieved_utc": "2025-12-30T21:34:26Z",
+    "source": "TheStreet_Top",
+    "title": "US government issues new urgent warning about Russia travel",
+    "url": "https://www.thestreet.com/travel/travel-warning-issued-for-americans-amid-rising-conflict",
+    "id_key": "414b29d3aecc41930cde36bf67027aebaf64d2512d3976572b45f2a4e4586a7b",
+    "summary": "Since the Russian invasion of Ukraine in February 2022 set off a brutal war that is now nearing its fourth year, Russia, Belarus and Ukraine remain at the U.S. State Department's level four \"do not travel\" advisory — the latter because of the continued fighting and active war zones ...",
+    "ingested_utc": "2025-12-30T21:34:26Z"
+  },
+  {
+    "published_utc": "2025-12-30",
+    "retrieved_date": "2025-12-30",
+    "retrieved_utc": "2025-12-30T21:34:26Z",
+    "source": "TheStreet_Top",
+    "title": "Stock Market Today: Stocks Limp Lower For Third Consecutive Day",
+    "url": "https://www.thestreet.com/latest-news/stock-market-today-futures-decline-as-2025-struggles-to-finish-year-on-high-note",
+    "id_key": "4aca6fd1f4f063b34258ffc9cb801899dc5527b92cf6befb0162e33355a7ae41",
+    "summary": "This live blog is refreshed periodically throughout the day with the latest updates from the market.To find the latest Stock Market Today threads, click here. Happy Tuesday. This is TheStreet’s Stock Market Today for Dec. 30, 2025. You can follow the latest updates on the market ...",
+    "ingested_utc": "2025-12-30T21:34:26Z"
+  },
+  {
+    "published_utc": "2025-12-30",
+    "retrieved_date": "2025-12-30",
     "retrieved_utc": "2025-12-30T21:14:53Z",
     "source": "FinancialPost_Business",
     "title": "Docebo Announces Participation in Upcoming Investor Conferences in January",
@@ -10965,38 +10998,5 @@
     "id_key": "521b5cb345ec90c10d82a6964e1596cce82dc29e3beaf22b2b1ac37c56823650",
     "summary": "The Fermi hard fork will cut block times to 250ms, enabling faster DeFi and real-time apps. It will also introduce extended voting and partial indexing, leading to stability and lighter nodes. The experimental BAL showed ~18.6% execution gains in local tests. BNB Smart Chain is preparing for a major protocol upgrade early next year. The […] The post BNB Smart Chain’s Fermi hard fork scheduled to launch in January 2026 appeared first on CoinJournal .",
     "ingested_utc": "2025-12-27T07:13:12Z"
-  },
-  {
-    "published_utc": "2025-12-27",
-    "retrieved_date": "2025-12-27",
-    "retrieved_utc": "2025-12-27T06:51:27Z",
-    "source": "Guardian_World",
-    "title": "Zelenskyy to meet European leaders and Trump for Ukraine peace talks amid fresh strikes on Kyiv",
-    "url": "https://www.theguardian.com/world/2025/dec/27/zelenskyy-to-meet-european-leaders-and-trump-for-ukraine-peace-talks-amid-fresh-strikes-on-kyiv",
-    "id_key": "9a709ce7c2a498fda851b14e63a5b0a5ecd33c0d568311a946a279863ae4d90b",
-    "summary": "Attack on Kyiv injures five, says mayor, amid flurry of weekend diplomacy that will see Ukrainian president meet Trump in Florida European leaders are to take part in a call with Volodymyr Zelenskyy and Donald Trump on Saturday as part of a growing push for a peace deal that will see the Ukrainian president head to Florida on Sunday . The European Commission president, Ursula von der Leyen, is to join a call on Saturday, a commission spokesperson told Reuters, ahead of the Ukrainian president’s trip to Florida for a Sunday meeting with Trump that Zelenskyy said would focus on some of the most sensitive parts of the peace talks. Key sticking points include Ukrainian security guarantees and reconstruction, plus territorial discussions regarding the Donbas region and the Zaporizhzhia nuclear power plant. Continue reading...",
-    "ingested_utc": "2025-12-27T06:51:27Z"
-  },
-  {
-    "published_utc": "2025-12-27",
-    "retrieved_date": "2025-12-27",
-    "retrieved_utc": "2025-12-27T06:21:00Z",
-    "source": "FT_Home",
-    "title": "Luxury brands push into mass-market sports despite shift to exclusivity",
-    "url": "https://www.ft.com/content/7333aefc-bc91-4026-a74a-763da620f62c",
-    "id_key": "dbde58f48425f57c4e537c0d4fa5eaf84d2a7b9ce31825432bd0457f2ec7a397",
-    "summary": "Sponsorships and collaborations soar even as industry slowdown spurs renewed focus on wealthiest customers",
-    "ingested_utc": "2025-12-27T06:21:00Z"
-  },
-  {
-    "published_utc": "2025-12-27",
-    "retrieved_date": "2025-12-27",
-    "retrieved_utc": "2025-12-27T06:18:42Z",
-    "source": "Guardian_World",
-    "title": "No longer ‘unloved’: retailers investing more in physical stores, UK data shows",
-    "url": "https://www.theguardian.com/business/2025/dec/27/uk-retailers-investing-more-in-physical-stores-shopping-centres-commerical-property",
-    "id_key": "19a20afac7f586e9cdeeb85e9264689a802fbfd44b787398b8a75a32dbfce522",
-    "summary": "Knight Frank says shopping centres and food stores lead revival as retail outperforms other commercial property Shoppers shun UK high streets despite lure of Boxing Day sales UK retailers are investing more in bricks and mortar, with shopping centres and food stores leading a revival, according to research. Retailers and property investors are reallocating capital back into physical stores, according to the property group Knight Frank. Continue reading...",
-    "ingested_utc": "2025-12-27T06:18:42Z"
   }
 ]
