@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-12-31",
     "retrieved_date": "2025-12-31",
+    "retrieved_utc": "2025-12-31T21:48:30Z",
+    "source": "Guardian_World",
+    "title": "End of an era as New York City transit retires three-decade-old MetroCard",
+    "url": "https://www.theguardian.com/us-news/2025/dec/31/new-york-city-metrocard-retired",
+    "id_key": "7fc3d43f3ced9f8966b1d7ef2a130ee3e725fa5bdf2de15122c3ac12206af758",
+    "summary": "Resisted at first, the replacement for the subway token became an indelible symbol of the city First, New Yorkers saw the elimination of subway token, which lasted for half a century. Now, its successor – the swipeable MetroCard, which lasted barely more than three decades – has seen its demise. At midnight on 1 January, the flexible credit card-sized pass used by millions of New Yorkers to get through subway turnstiles is being terminated from sale just as a new mayor, Zohran Mamdani , takes office. Continue reading...",
+    "ingested_utc": "2025-12-31T21:48:30Z"
+  },
+  {
+    "published_utc": "2025-12-31",
+    "retrieved_date": "2025-12-31",
     "retrieved_utc": "2025-12-31T21:44:09Z",
     "source": "FinancialPost_Business",
     "title": "Liberty Announces Closing of Initial Tranche of Listed Issuer Financing Exemption (LIFE) Offering",
@@ -10987,16 +10998,5 @@
     "id_key": "673d1a58ebfa6c7b2312cc41aa05bbbc57849cb469c4d8816666d6bb64a351d8",
     "summary": "A shootout ensues after police raid a home in northwestern Yalova province, Turkiye's interior ministry says.",
     "ingested_utc": "2025-12-29T09:24:40Z"
-  },
-  {
-    "published_utc": "2025-12-29",
-    "retrieved_date": "2025-12-29",
-    "retrieved_utc": "2025-12-29T09:21:41Z",
-    "source": "Guardian_World",
-    "title": "Trump says ‘tough’ issues remain for Ukraine peace deal after meeting Zelenskyy in Florida",
-    "url": "https://www.theguardian.com/world/2025/dec/28/trump-zelenskyy-talks-amid-heavy-russian-airstrikes-on-ukraine",
-    "id_key": "57b3062c2af91ad27109809fd2233a82c0cc8d3c4c4abfb1792323782e234716",
-    "summary": "US president said ‘thorny’ questions over territory have yet to be resolved and expressed sympathy with Russia not wanting a ceasefire Donald Trump has said a deal to end the war in Ukraine is “closer than ever” but has admitted that “thorny” questions over the future of the eastern Donbas region have yet to be resolved, after a two-hour meeting on Sunday with Volodymyr Zelenskyy in Florida. Trump said a draft agreement to end the war was nearly “95% done”. “I really think we are closer than ever with both sides,” he said, adding that the Russian president, Vladimir Putin, also wants to “see it happen”. Continue reading...",
-    "ingested_utc": "2025-12-29T09:21:41Z"
   }
 ]
