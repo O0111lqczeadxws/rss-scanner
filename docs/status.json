@@ -1,17 +1,17 @@
 {
-  "started_utc": "2025-12-31T15:33:53Z",
-  "ended_utc": "2025-12-31T15:37:12Z",
-  "new_items_this_run": 7,
+  "started_utc": "2025-12-31T15:50:40Z",
+  "ended_utc": "2025-12-31T15:54:03Z",
+  "new_items_this_run": 4,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
     "Reuters_World": 0,
     "Reuters_Markets": 0,
-    "BBC_World": 1,
+    "BBC_World": 0,
     "BBC_Business": 0,
     "BBC_Technology": 0,
-    "Guardian_Business": 1,
-    "Guardian_World": 1,
+    "Guardian_Business": 0,
+    "Guardian_World": 0,
     "WSJ_US_Business": 0,
     "WSJ_World": 0,
     "WSJ_Markets": 0,
@@ -22,8 +22,8 @@
     "CryptoSlate": 0,
     "CryptoBriefing": 0,
     "Protos": 0,
-    "CryptoNews": 0,
-    "CoinJournal": 1,
+    "CryptoNews": 3,
+    "CoinJournal": 0,
     "Unchained": 0,
     "Bankless": 0,
     "CoinGecko_Blog": 0,
@@ -78,7 +78,7 @@
     "TheEconomist_Business": 0,
     "TheEconomist_Finance": 0,
     "Investopedia_Latest": 0,
-    "TheStreet_Top": 1,
+    "TheStreet_Top": 0,
     "AlJazeera_All": 0,
     "AlJazeera_Economy": 0,
     "FinancialPost_Business": 1,
@@ -87,7 +87,7 @@
     "WorldBank_News": 0,
     "OECD_Newsroom": 0,
     "MIT_TechReview": 0,
-    "HackerNews_Top": 1
+    "HackerNews_Top": 0
   },
   "errors": [
     {
@@ -335,19 +335,19 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 465,
+    "passed_keywords": 458,
     "passed_allowlist": 1,
-    "failed_all_filters": 469
+    "failed_all_filters": 474
   },
   "stats": {
     "feeds_total": 97,
     "feeds_error": 23,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 1521,
+    "entries_seen": 1519,
     "too_old": 586,
-    "dup_title_url": 90,
-    "dup_id": 369
+    "dup_title_url": 87,
+    "dup_id": 368
   },
   "limits": {
     "skip_older_days": 10,
@@ -360,6 +360,6 @@
   },
   "processed": {
     "file": "data/processed/2025-12-31.jsonl",
-    "appended_new": 7
+    "appended_new": 4
   }
 }
