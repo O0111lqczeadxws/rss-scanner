@@ -1,7 +1,7 @@
 {
-  "started_utc": "2025-12-31T14:52:20Z",
-  "ended_utc": "2025-12-31T14:55:42Z",
-  "new_items_this_run": 1,
+  "started_utc": "2025-12-31T15:12:50Z",
+  "ended_utc": "2025-12-31T15:16:19Z",
+  "new_items_this_run": 4,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
@@ -11,7 +11,7 @@
     "BBC_Business": 0,
     "BBC_Technology": 0,
     "Guardian_Business": 0,
-    "Guardian_World": 0,
+    "Guardian_World": 1,
     "WSJ_US_Business": 0,
     "WSJ_World": 0,
     "WSJ_Markets": 0,
@@ -66,11 +66,11 @@
     "NPR_Economy": 0,
     "NPR_World": 0,
     "NPR_Technology": 0,
-    "FT_Home": 1,
+    "FT_Home": 0,
     "FT_Markets": 0,
     "CNBC_Top": 0,
     "CNBC_Markets": 0,
-    "TheVerge_All": 0,
+    "TheVerge_All": 1,
     "TechCrunch_All": 0,
     "ArsTechnica_All": 0,
     "WIRED_All": 0,
@@ -81,7 +81,7 @@
     "TheStreet_Top": 0,
     "AlJazeera_All": 0,
     "AlJazeera_Economy": 0,
-    "FinancialPost_Business": 0,
+    "FinancialPost_Business": 2,
     "CBC_Business": 0,
     "Nikkei_Asia_Top": 0,
     "WorldBank_News": 0,
@@ -176,7 +176,7 @@
     },
     {
       "source": "NEAR_Blog",
-      "error": "<unknown>:2:3932: not well-formed (invalid token)"
+      "error": "<unknown>:2:2638: not well-formed (invalid token)"
     },
     {
       "source": "https://blog.dydx.exchange/feed",
@@ -335,19 +335,19 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 473,
+    "passed_keywords": 468,
     "passed_allowlist": 0,
-    "failed_all_filters": 460
+    "failed_all_filters": 467
   },
   "stats": {
     "feeds_total": 97,
     "feeds_error": 23,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 1519,
+    "entries_seen": 1521,
     "too_old": 586,
     "dup_title_url": 90,
-    "dup_id": 382
+    "dup_id": 374
   },
   "limits": {
     "skip_older_days": 10,
@@ -360,6 +360,6 @@
   },
   "processed": {
     "file": "data/processed/2025-12-31.jsonl",
-    "appended_new": 1
+    "appended_new": 4
   }
 }
