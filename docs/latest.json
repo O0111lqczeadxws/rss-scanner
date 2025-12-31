@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-12-31",
     "retrieved_date": "2025-12-31",
+    "retrieved_utc": "2025-12-31T11:30:08Z",
+    "source": "CryptoBriefing",
+    "title": "BlackRock’s Bitcoin ETF posts $143 million inflow on renewed demand",
+    "url": "https://cryptobriefing.com/blackrocks-bitcoin-143-m-inflows-etf-demand/",
+    "id_key": "615fcdfc0730dc240fdb24012d0fe34bd492de795adfe650fa622bc5c7d69116",
+    "summary": "The significant inflow into BlackRock's Bitcoin ETF highlights growing institutional confidence and could drive further mainstream crypto adoption. The post BlackRock’s Bitcoin ETF posts $143 million inflow on renewed demand appeared first on Crypto Briefing .",
+    "ingested_utc": "2025-12-31T11:30:08Z"
+  },
+  {
+    "published_utc": "2025-12-31",
+    "retrieved_date": "2025-12-31",
     "retrieved_utc": "2025-12-31T11:15:26Z",
     "source": "HackerNews_Top",
     "title": "Readings in Database Systems (5th Edition) (2015)",
@@ -10987,16 +10998,5 @@
     "id_key": "1dff790ab7382ab5b731474dc456e6e5ba543a98440c5cc18e951bda5230540f",
     "summary": "\"This corduroy ottoman adds a cozy and refined touch to the living room.\"",
     "ingested_utc": "2025-12-28T10:15:22Z"
-  },
-  {
-    "published_utc": "2025-12-28",
-    "retrieved_date": "2025-12-28",
-    "retrieved_utc": "2025-12-28T10:14:42Z",
-    "source": "NYTimes_World",
-    "title": "Zelensky to Meet With Trump at Mar-a-Lago About Plan to End War With Russia",
-    "url": "https://www.nytimes.com/2025/12/28/world/europe/zelensky-trump-ukraine-russia-talks.html",
-    "id_key": "75150063b57b252345e1be986808453cfc67e79e5dcc645fbffc4fca40c6ccb9",
-    "summary": "President Volodymyr Zelensky of Ukraine brings a revised 20-point peace proposal, as well as doubts about whether Russia is serious about pursuing peace.",
-    "ingested_utc": "2025-12-28T10:14:42Z"
   }
 ]
