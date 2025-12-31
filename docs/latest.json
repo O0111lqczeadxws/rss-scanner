@@ -2,6 +2,39 @@
   {
     "published_utc": "2025-12-31",
     "retrieved_date": "2025-12-31",
+    "retrieved_utc": "2025-12-31T09:56:56Z",
+    "source": "AlJazeera_All",
+    "title": "Iran prosecutor pledges ‘decisive response’ if protests create insecurity",
+    "url": "https://www.aljazeera.com/news/2025/12/31/protests-in-iran-spread-amid-deep-discontent-over-economic-duress?traffic_source=rss",
+    "id_key": "dc35eaa7fa3669b1c29f1c790da178ec388215c73643faa4b95d6f141823d9ad",
+    "summary": "The warning comes after the protests, triggered by the plummeting rial, spread to several cities outside the capital.",
+    "ingested_utc": "2025-12-31T09:56:56Z"
+  },
+  {
+    "published_utc": "2025-12-31",
+    "retrieved_date": "2025-12-31",
+    "retrieved_utc": "2025-12-31T09:55:56Z",
+    "source": "BBC_World",
+    "title": "Eurostar services return to normal after major Channel Tunnel disruption",
+    "url": "https://www.bbc.com/news/articles/c0q4eg03eyzo?at_medium=RSS&at_campaign=rss",
+    "id_key": "6a01b098415e13568748ec4abefad791794a30480c2328a8968e449ea07c8d38",
+    "summary": "The high-speed rail firm urged passengers to check before they travel as last-minute delays and cancellations are still possible.",
+    "ingested_utc": "2025-12-31T09:55:56Z"
+  },
+  {
+    "published_utc": "2025-12-31",
+    "retrieved_date": "2025-12-31",
+    "retrieved_utc": "2025-12-31T09:55:15Z",
+    "source": "Kraken_Blog",
+    "title": "Kraken’s 2025 in Europe: A defining year of growth and commitment",
+    "url": "https://blog.kraken.com/news/industry-news/kraken-europe-2025",
+    "id_key": "bf8fd4c9a3b5b8507cff9aeb62ea463a12b8787a51a16a1bec49f953717ff0af",
+    "summary": "Across France, Ireland, Germany, the Netherlands, Poland, Spain and beyond, we continued to deepen our presence across the EU. The post Kraken’s 2025 in Europe: A defining year of growth and commitment appeared first on Kraken Blog .",
+    "ingested_utc": "2025-12-31T09:55:15Z"
+  },
+  {
+    "published_utc": "2025-12-31",
+    "retrieved_date": "2025-12-31",
     "retrieved_utc": "2025-12-31T09:48:10Z",
     "source": "FinancialPost_Business",
     "title": "Iran appoints new central bank governor after record currency fall and mass protests",
@@ -10965,38 +10998,5 @@
     "id_key": "035383e2e7e0dd59a4f1e203dd5de3f1937a04467cb5ce94812f85f063cb1e10",
     "summary": "Tariff deals with the US have bought time but investment momentum is elsewhere",
     "ingested_utc": "2025-12-28T05:27:50Z"
-  },
-  {
-    "published_utc": "2025-12-28",
-    "retrieved_date": "2025-12-28",
-    "retrieved_utc": "2025-12-28T05:27:50Z",
-    "source": "FT_Home",
-    "title": "Lloyds shuts invoice financing service as small businesses feel squeeze",
-    "url": "https://www.ft.com/content/d1460278-017d-477d-ba82-f81528ce359a",
-    "id_key": "036befb8d3948fe6b731f05c67426c65831951fab855b9d35152254500d463fd",
-    "summary": "UK lender is latest major bank to retreat from sector in pivot towards lucrative corporate clients",
-    "ingested_utc": "2025-12-28T05:27:50Z"
-  },
-  {
-    "published_utc": "2025-12-28",
-    "retrieved_date": "2025-12-28",
-    "retrieved_utc": "2025-12-28T05:27:50Z",
-    "source": "FT_Home",
-    "title": "China’s cash-strapped local governments drive record asset-backed securities sales",
-    "url": "https://www.ft.com/content/2d9ed75f-b149-4c1a-917a-1215dde5718e",
-    "id_key": "9aaa3c7ccddc9b6f7d6e90f2ab1f3ef927d8aa3537c9ac93c2d88e67c9433f5e",
-    "summary": "ABS issues bring in badly needed money but some assets are of uncertain quality",
-    "ingested_utc": "2025-12-28T05:27:50Z"
-  },
-  {
-    "published_utc": "2025-12-28",
-    "retrieved_date": "2025-12-28",
-    "retrieved_utc": "2025-12-28T05:27:39Z",
-    "source": "NYTimes_World",
-    "title": "As Some Boycott Myanmar’s Flawed Election, Others Hope for Change",
-    "url": "https://www.nytimes.com/2025/12/28/world/asia/myanmar-election.html",
-    "id_key": "7e40b55baed321f3ae025f0e6611ad16cf3a112d5dc4f5e93650e65f1554e6cd",
-    "summary": "The voting for Parliament is almost sure to favor the ruling military junta, which is stage-managing the polls. Still, some see them as the most pragmatic way to try to improve conditions.",
-    "ingested_utc": "2025-12-28T05:27:39Z"
   }
 ]
