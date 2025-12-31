@@ -1,7 +1,7 @@
 {
-  "started_utc": "2025-12-31T23:42:32Z",
-  "ended_utc": "2025-12-31T23:45:51Z",
-  "new_items_this_run": 1,
+  "started_utc": "2025-12-31T23:50:54Z",
+  "ended_utc": "2025-12-31T23:54:14Z",
+  "new_items_this_run": 0,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
@@ -61,7 +61,7 @@
     "NYTimes_Economy": 0,
     "NYTimes_Technology": 0,
     "CNN_Top": 0,
-    "NPR_Top": 1,
+    "NPR_Top": 0,
     "NPR_Business": 0,
     "NPR_Economy": 0,
     "NPR_World": 0,
@@ -347,7 +347,7 @@
     "entries_seen": 1517,
     "too_old": 580,
     "dup_title_url": 93,
-    "dup_id": 368
+    "dup_id": 369
   },
   "limits": {
     "skip_older_days": 10,
@@ -360,6 +360,6 @@
   },
   "processed": {
     "file": "data/processed/2025-12-31.jsonl",
-    "appended_new": 1
+    "appended_new": 0
   }
 }
