@@ -2,6 +2,17 @@
   {
     "published_utc": "2025-12-31",
     "retrieved_date": "2025-12-31",
+    "retrieved_utc": "2025-12-31T23:45:03Z",
+    "source": "NPR_Top",
+    "title": "Photos: The world welcomes the new year",
+    "url": "https://www.npr.org/sections/the-picture-show/2025/12/31/nx-s1-5662712/photos-world-new-years-eve",
+    "id_key": "9acfb2153b1d6e8eb8aee5141b52d40ff30ee67a38e065a40e0e690dfc2925a8",
+    "summary": "As fireworks light the sky and crowds count down together, communities around the globe welcome 2026.",
+    "ingested_utc": "2025-12-31T23:45:03Z"
+  },
+  {
+    "published_utc": "2025-12-31",
+    "retrieved_date": "2025-12-31",
     "retrieved_utc": "2025-12-31T23:34:08Z",
     "source": "FinancialPost_Business",
     "title": "XORTX Announces Pioneering Research on Genome-Wide Pathogenic Pathways in Gout and Provides a Corporate Update",
@@ -10987,16 +10998,5 @@
     "id_key": "9b699adc5dbcbc31a20f51714252105426b81e11c2012ba783ba46a9cc97221e",
     "summary": "Martin Pelletier: In this environment, cash is a melting ice cube",
     "ingested_utc": "2025-12-29T11:15:12Z"
-  },
-  {
-    "published_utc": "2025-12-29",
-    "retrieved_date": "2025-12-29",
-    "retrieved_utc": "2025-12-29T11:14:55Z",
-    "source": "WIRED_All",
-    "title": "3 New Tricks to Try With Google Gemini Live After Its Latest Major Upgrade",
-    "url": "https://www.wired.com/story/3-tricks-google-gemini-live-latest-major-upgrade/",
-    "id_key": "9635abb25568d203f391e71593a456d6216b75435ffe8d48ea130e30f09a7762",
-    "summary": "Google's AI is now even smarter, and more versatile.",
-    "ingested_utc": "2025-12-29T11:14:55Z"
   }
 ]
