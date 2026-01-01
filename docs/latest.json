@@ -2,6 +2,28 @@
   {
     "published_utc": "2026-01-01",
     "retrieved_date": "2026-01-01",
+    "retrieved_utc": "2026-01-01T20:55:38Z",
+    "source": "AlJazeera_All",
+    "title": "‘My health is perfect’: Trump dismisses scrutiny of his age and fitness",
+    "url": "https://www.aljazeera.com/news/2026/1/1/my-health-is-perfect-trump-dismisses-scrutiny-of-his-age-and-fitness?traffic_source=rss",
+    "id_key": "e42d5fe6b2dc9851227aa1c889e18b84cbbf85cfa16840b8a711867fe17827e0",
+    "summary": "By the end of his second term, Trump will be the oldest sitting president in US history, though he denies slowing down.",
+    "ingested_utc": "2026-01-01T20:55:38Z"
+  },
+  {
+    "published_utc": "2026-01-01",
+    "retrieved_date": "2026-01-01",
+    "retrieved_utc": "2026-01-01T20:55:37Z",
+    "source": "TheStreet_Top",
+    "title": "Investors are quietly piling into a group of stocks for 2026 (it isn't technology)",
+    "url": "https://www.thestreet.com/investing/stocks/investors-are-quietly-piling-into-a-group-of-stocks-for-2026-it-isnt-technology",
+    "id_key": "ec27d75cf18e0a9c6166c4ccce8ac2aa7f45ca7726d14b51ce8c465cbdd83656",
+    "summary": "I've been analyzing data to track stock market sector trends since I entered the business in 1997. My first job was as a research assistant for an independent research firm that provided sector and industry money flow research to mutual and hedge fund managers. Eventually, I became a partner before ...",
+    "ingested_utc": "2026-01-01T20:55:37Z"
+  },
+  {
+    "published_utc": "2026-01-01",
+    "retrieved_date": "2026-01-01",
     "retrieved_utc": "2026-01-01T20:39:57Z",
     "source": "HackerNews_Top",
     "title": "Starlink satellites being lowered from 550 km to 480 km",
@@ -10976,27 +10998,5 @@
     "id_key": "b04797524b739750408e9e8d492ef3dafff9ef77c56b1ae4f5379d5e4f297135",
     "summary": "Comments",
     "ingested_utc": "2025-12-29T21:14:50Z"
-  },
-  {
-    "published_utc": "2025-12-29",
-    "retrieved_date": "2025-12-29",
-    "retrieved_utc": "2025-12-29T21:14:39Z",
-    "source": "FinancialPost_Business",
-    "title": "LEEF Brands Announces Full Early Conversion of CAD Convertible Debentures",
-    "url": "https://financialpost.com/globe-newswire/leef-brands-announces-full-early-conversion-of-cad-convertible-debentures",
-    "id_key": "547a71d45e19327992a204314b510a14cf88813dc548077243f8682e260a7189",
-    "summary": "VANCOUVER, British Columbia, Dec. 29, 2025 (GLOBE NEWSWIRE) — LEEF Brands, Inc. (CSE: LEEF, OTCQB: LEEEF) (“LEEF” or the “Company”), a leading multi-state operator, today announced the full early conversion of all outstanding Canadian-dollar-denominated convertible debentures, in principal amount together with accrued and unpaid interest of approximately CAD $237,000, effective December 15, 2025. This follows […]",
-    "ingested_utc": "2025-12-29T21:14:39Z"
-  },
-  {
-    "published_utc": "2025-12-29",
-    "retrieved_date": "2025-12-29",
-    "retrieved_utc": "2025-12-29T21:14:32Z",
-    "source": "TheStreet_Top",
-    "title": "Macy's has an After-Christmas sale on a 10-piece Pyrex food container set for $20",
-    "url": "https://www.thestreet.com/deals/pyrex-simply-store-10-piece-glass-food-storage-set-macys-sale-december-2025",
-    "id_key": "c485732fb348693443eea892ab7c90d6df37040dde737328f0562f41e819a9be",
-    "summary": "It's perfect for meal prep.",
-    "ingested_utc": "2025-12-29T21:14:32Z"
   }
 ]
