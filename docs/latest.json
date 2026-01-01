@@ -2,6 +2,50 @@
   {
     "published_utc": "2026-01-01",
     "retrieved_date": "2026-01-01",
+    "retrieved_utc": "2026-01-01T20:39:57Z",
+    "source": "HackerNews_Top",
+    "title": "Starlink satellites being lowered from 550 km to 480 km",
+    "url": "https://twitter.com/michaelnicollsx/status/2006790372681220530",
+    "id_key": "d473ecbb4cdea8a90a1a050f60992277eaef93b3bacf0c096b541ecdb47ac816",
+    "summary": "Comments",
+    "ingested_utc": "2026-01-01T20:39:57Z"
+  },
+  {
+    "published_utc": "2026-01-01",
+    "retrieved_date": "2026-01-01",
+    "retrieved_utc": "2026-01-01T20:39:27Z",
+    "source": "TechCrunch_All",
+    "title": "European banks plan to cut 200,000 jobs as AI takes hold",
+    "url": "https://techcrunch.com/2026/01/01/european-banks-plan-to-cut-200000-jobs-as-ai-takes-hold/",
+    "id_key": "5e2c68198bc2c95a0f47d56ff2bbe6eae7bb8ee4676905c66a79f9639b327a24",
+    "summary": "The bloodletting will hit hardest in back-office operations, risk management, and compliance.",
+    "ingested_utc": "2026-01-01T20:39:27Z"
+  },
+  {
+    "published_utc": "2026-01-01",
+    "retrieved_date": "2026-01-01",
+    "retrieved_utc": "2026-01-01T20:36:46Z",
+    "source": "Guardian_World",
+    "title": "Zohran Mamdani promises ‘new era’ for New York City in first speech as mayor",
+    "url": "https://www.theguardian.com/us-news/2026/jan/01/zohran-mamdani-inauguration-speech",
+    "id_key": "5f05d01316682ef145472a4f24c9ea11595763e3c72db1d400f0546c8560aded",
+    "summary": "Mayor says ‘I will govern as a democratic socialist’ at inauguration ceremony featuring AOC and Bernie Sanders Zohran Mamdani on Thursday vowed to “reinvent” New York City in a speech on his first day as mayor, promising “a new era” for America’s largest city and an ambitious start to his term of office. The 34-year-old political star and democratic socialist, who a year ago was a virtually unknown state assemblyman, is the city’s first Muslim mayor, first of south Asian descent and the first to be born in Africa. He is also the first to be sworn in using the Qur’an. Continue reading...",
+    "ingested_utc": "2026-01-01T20:36:46Z"
+  },
+  {
+    "published_utc": "2026-01-01",
+    "retrieved_date": "2026-01-01",
+    "retrieved_utc": "2026-01-01T20:36:43Z",
+    "source": "BBC_World",
+    "title": "Around 40 dead in Swiss ski resort bar fire, police say",
+    "url": "https://www.bbc.com/news/articles/cx2pmyyeg78o?at_medium=RSS&at_campaign=rss",
+    "id_key": "0256d1595f0c6d15b21936954aa8ccf0e41124ba7f0fe2ceb92931d4572443d8",
+    "summary": "A further 115 are injured, some severely, in a fire at Le Constellation bar in Crans-Montana ski resort, officials say.",
+    "ingested_utc": "2026-01-01T20:36:43Z"
+  },
+  {
+    "published_utc": "2026-01-01",
+    "retrieved_date": "2026-01-01",
     "retrieved_utc": "2026-01-01T20:17:36Z",
     "source": "Nikkei_Asia_Top",
     "title": "Pakistan has some tough choices to make in 2026",
@@ -2077,6 +2121,17 @@
     "id_key": "8ae6054b7fdb066baa4de8274816fd944ce27896ba6b93b5221d7c720ac7950d",
     "summary": "Millions of households in England, Wales and Scotland are seeing a slight rise in energy bills in the new year.",
     "ingested_utc": "2026-01-01T01:04:29Z"
+  },
+  {
+    "published_utc": "2025-12-31",
+    "retrieved_date": "2026-01-01",
+    "retrieved_utc": "2026-01-01T20:39:39Z",
+    "source": "TheStreet_Top",
+    "title": "65-year-old auto parts brand shuts plant, fires 100s of workers",
+    "url": "https://www.thestreet.com/automotive/65-year-old-auto-parts-company-shuts-plant-dumps-100s-of-workers",
+    "id_key": "42a55820475b3e32c73bbbbaf4c077c7e1ff67b66ea1f384036895dc7ec2133a",
+    "summary": "Whenever consumers need to complete a simple automobile maintenance task, such as replacing windshield wiper blades or an air filter, they just need to run over to the local Napa Auto Parts, Auto Zone, or O'Reilly Auto Parts store, buy the product, and install it. On some occasions, I've discovered ...",
+    "ingested_utc": "2026-01-01T20:39:39Z"
   },
   {
     "published_utc": "2025-12-31",
@@ -10943,60 +10998,5 @@
     "id_key": "c485732fb348693443eea892ab7c90d6df37040dde737328f0562f41e819a9be",
     "summary": "It's perfect for meal prep.",
     "ingested_utc": "2025-12-29T21:14:32Z"
-  },
-  {
-    "published_utc": "2025-12-29",
-    "retrieved_date": "2025-12-29",
-    "retrieved_utc": "2025-12-29T21:13:40Z",
-    "source": "MarketWatch_Bulletins",
-    "title": "Dow, S&P 500 and Nasdaq all close lower, as silver and gold pull back sharply",
-    "url": "https://www.marketwatch.com/bulletins/redirect/go?g=43d43b86-6da4-45f6-ae3e-f7b7f469efa7&mod=mw_rss_bulletins",
-    "id_key": "dd024e7d1fe8fa591a2835cbb82f5dfb84a3192d4c4f761ec80f407402ba38f3",
-    "summary": "",
-    "ingested_utc": "2025-12-29T21:13:40Z"
-  },
-  {
-    "published_utc": "2025-12-29",
-    "retrieved_date": "2025-12-29",
-    "retrieved_utc": "2025-12-29T21:13:29Z",
-    "source": "Guardian_World",
-    "title": "Trump floats hopes of Gaza peace progress as Netanyahu begins visit",
-    "url": "https://www.theguardian.com/world/2025/dec/29/gaza-ceasefire-hinges-return-last-israeli-hostage-netanyahu-trump",
-    "id_key": "a3d49769236eba289029f9f39cec417456a1bb7624dc65177e6cac565ead5e68",
-    "summary": "US president says Hamas disarming could prompt new phase of peace plan ‘very quickly’, while Netanyahu still seeks return of final hostage body Donald Trump hopes to reach the next stage of the Gaza peace plan “very quickly” but Hamas must disarm, he said as he hosted the Israeli prime minister, Benjamin Netanyahu, at Mar-a-Lago on Monday. The trip by Netanyahu to Florida comes amid a new push by officials in Washington to force concessions from Israel to allow progress towards the second phase, which envisions rebuilding Gaza as a demilitarised zone under international supervision. Continue reading...",
-    "ingested_utc": "2025-12-29T21:13:29Z"
-  },
-  {
-    "published_utc": "2025-12-29",
-    "retrieved_date": "2025-12-29",
-    "retrieved_utc": "2025-12-29T21:11:58Z",
-    "source": "CryptoNews",
-    "title": "PumpFun’s $615M Q4 Profit Sparks “Extraction” Debate: Is the Backlash Justified?",
-    "url": "https://cryptonews.com/news/pumpfun-615m-q4-profit-extraction-debate/",
-    "id_key": "2b55046c989627c5429a31e9b8efd67f2689ff5a18c48c845a9719f66445eac9",
-    "summary": "With nearly $615 million reportedly withdrawn in Q4 alone and close to $1 billion in lifetime revenue, critics accuse PumpFun of draining value from users. The post PumpFun’s $615M Q4 Profit Sparks “Extraction” Debate: Is the Backlash Justified? appeared first on Cryptonews .",
-    "ingested_utc": "2025-12-29T21:11:58Z"
-  },
-  {
-    "published_utc": "2025-12-29",
-    "retrieved_date": "2025-12-29",
-    "retrieved_utc": "2025-12-29T20:56:14Z",
-    "source": "FinancialPost_Business",
-    "title": "lululemon Comments on Chip Wilson’s Notice to Nominate Director Candidates",
-    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/lululemon-comments-on-chip-wilsons-notice-to-nominate-director-candidates",
-    "id_key": "5616f4ef75c0dd2dd0e6d6079f540934765d4de401c1d9cec0241d110c14ae28",
-    "summary": "Shareholders Not Required to Take Any Action at this Time VANCOUVER, British Columbia — lululemon athletica inc. (NASDAQ:LULU) (“lululemon” or the “company”) today commented on Chip Wilson’s announcement that he has submitted a notice to nominate three director candidates to stand for election to the company’s Board at lululemon’s 2026 Annual Meeting of Shareholders: The […]",
-    "ingested_utc": "2025-12-29T20:56:14Z"
-  },
-  {
-    "published_utc": "2025-12-29",
-    "retrieved_date": "2025-12-29",
-    "retrieved_utc": "2025-12-29T20:55:58Z",
-    "source": "Engadget_All",
-    "title": "Apple AirTag four-packs are on sale for $65 right now",
-    "url": "https://www.engadget.com/deals/apple-airtag-four-packs-are-on-sale-for-65-right-now-202333053.html?src=rss",
-    "id_key": "588f717ded70b2a3f8d984f7bf8837b5972d12c267dda9c3c2683c34445be02b",
-    "summary": "Apple keeps most of its product pricing on a tight leash, but we do see the company's AirTags go on sale pretty frequently. Another cost cut has come around for this item just in time for the new year. Amazon is currently selling a four-pack of AirTags for $65. At a third off the regular cost, that price is pretty close to the record low discount of $63 we've seen for these Bluetooth trackers. AirTags can be useful for people who travel frequently, helping you to keep track of essentials like your passport as well as a way to keep tabs on luggage while you're on the go. If you do purchase some AirTags, we have some recommendations for useful accessories to go along with them, such as different styles of cases to best attach the trackers to different types of items. These are worth looking over and adding to your shopping cart in order to make the most of the product. AirTags have an IP67 rating for water and dust resistance and their replaceable batteries should last for about a year. They can also support Precision Finding, which gives more exact directions to a lost item, when paired with most models after the iPhone 11. Up to five people can share an AirTag's location, which is helpful for families or large travel groups. Follow @EngadgetDeals on X for the latest tech deals and buying advice . This article originally appeared on Engadget at https://www.engadget.com/deals/apple-airtag-four-packs-are-on-sale-for-65-right-now-202333053.html?src=rss",
-    "ingested_utc": "2025-12-29T20:55:58Z"
   }
 ]
