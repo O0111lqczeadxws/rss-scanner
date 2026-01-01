@@ -2,6 +2,28 @@
   {
     "published_utc": "2026-01-01",
     "retrieved_date": "2026-01-01",
+    "retrieved_utc": "2026-01-01T21:51:33Z",
+    "source": "AlJazeera_All",
+    "title": "US federal employees file complaint against Trump’s anti-transgender policy",
+    "url": "https://www.aljazeera.com/news/2026/1/1/us-federal-employees-file-complaint-against-trumps-anti-transgender-policy?traffic_source=rss",
+    "id_key": "f261150063ece647e0b32bc02adab1e395acb55ed4f37342ff6f65541248dc94",
+    "summary": "The complaint targets a policy that would nix coverage under federal health insurance for gender-affirming healthcare.",
+    "ingested_utc": "2026-01-01T21:51:33Z"
+  },
+  {
+    "published_utc": "2026-01-01",
+    "retrieved_date": "2026-01-01",
+    "retrieved_utc": "2026-01-01T21:50:50Z",
+    "source": "NYTimes_World",
+    "title": "Switzerland’s burn centers are so overwhelmed that fire victims are being sent to other countries.",
+    "url": "https://www.nytimes.com/live/2026/01/01/world/switzerland-ski-resort-fire/switzerlands-burn-centers-are-so-overwhelmed-that-fire-victims-are-being-sent-to-other-countries",
+    "id_key": "2f9f2822bbb31a2a417656deed61091f17c73e2d1f9b4bdcf6c02882d81bebb9",
+    "summary": "",
+    "ingested_utc": "2026-01-01T21:50:50Z"
+  },
+  {
+    "published_utc": "2026-01-01",
+    "retrieved_date": "2026-01-01",
     "retrieved_utc": "2026-01-01T21:34:51Z",
     "source": "HackerNews_Top",
     "title": "Gemini 3.0 Deciphered the Mystery of a Nuremberg Chronicle Leaf's",
@@ -10976,27 +10998,5 @@
     "id_key": "e3dd09cedac1dbf46d3c19c541fc57e40d04bbc0dab88bfb1b26523d2eaf3373",
     "summary": "SENECA, S.C., Dec. 29, 2025 (GLOBE NEWSWIRE) — Turbines, Inc., a leading U.S. manufacturer of turbine flow meters for liquid and gas measurement applications, is pleased to announce the launch of its new eCommerce platform, enabling customers to place orders securely online using debit or credit cards. The introduction of this platform marks a significant […]",
     "ingested_utc": "2025-12-29T21:52:33Z"
-  },
-  {
-    "published_utc": "2025-12-29",
-    "retrieved_date": "2025-12-29",
-    "retrieved_utc": "2025-12-29T21:44:50Z",
-    "source": "TheStreet_Top",
-    "title": "The SAVE student loan plan Is officially ending – and standing still could cost you",
-    "url": "https://www.thestreet.com/personal-finance/the-save-student-loan-plan-is-officially-ending-and-standing-still-could-cost-you",
-    "id_key": "0e34876c00247bd0e88b17fe1cf8467a826cd65657d3b4d878939afab4473d08",
-    "summary": "More than seven million borrowers are currently enrolled in the Saving on a Valuable Education (SAVE) federal student loan repayment plan. But that program is being phased out and effectively ending, according to the U.S. Department of Education. In December, the ED reached a settlement with ...",
-    "ingested_utc": "2025-12-29T21:44:50Z"
-  },
-  {
-    "published_utc": "2025-12-29",
-    "retrieved_date": "2025-12-29",
-    "retrieved_utc": "2025-12-29T21:44:39Z",
-    "source": "ArsTechnica_All",
-    "title": "US can’t deport hate speech researcher for protected speech, lawsuit says",
-    "url": "https://arstechnica.com/tech-policy/2025/12/us-cant-deport-hate-speech-researcher-for-protected-speech-lawsuit-says/",
-    "id_key": "e846edf42551c9c4e0afb13d2b45c6d547be84bd4d8a6fe448c37cab7a26d302",
-    "summary": "On Monday, US officials must explain what steps they took to enforce shocking visa bans.",
-    "ingested_utc": "2025-12-29T21:44:39Z"
   }
 ]
