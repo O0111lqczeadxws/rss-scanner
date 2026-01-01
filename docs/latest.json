@@ -2,6 +2,17 @@
   {
     "published_utc": "2026-01-01",
     "retrieved_date": "2026-01-01",
+    "retrieved_utc": "2026-01-01T22:52:26Z",
+    "source": "CryptoNews",
+    "title": "New ChatGPT Predicts the Price of XRP, PEPE, Shiba Inu by the End of 2026",
+    "url": "https://cryptonews.com/news/new-chatgpt-predicts-the-price-of-xrp-pepe-shiba-inu-by-the-end-of-2026/",
+    "id_key": "e67be5765bb2dadd4daf8e14901953c6ef5d850d4e8fec42535f7a7bc5827e1c",
+    "summary": "ChatGPT predicts price paths for XRP, PEPE, and Shiba Inu in 2026, detailing bullish and bearish scenarios shaped by regulatory clarity, community growth, and technical indicators as crypto markets adjust to early-year volatility. The post New ChatGPT Predicts the Price of XRP, PEPE, Shiba Inu by the End of 2026 appeared first on Cryptonews .",
+    "ingested_utc": "2026-01-01T22:52:26Z"
+  },
+  {
+    "published_utc": "2026-01-01",
+    "retrieved_date": "2026-01-01",
     "retrieved_utc": "2026-01-01T22:37:12Z",
     "source": "NYTimes_World",
     "title": "Dozens Confirmed Dead in Fire at New Year’s Party in Swiss Alps",
@@ -10987,16 +10998,5 @@
     "id_key": "6587098caf3e49d2b6856acfc0aa8c34124afeab8c60eeb1226a95f138aec9b8",
     "summary": "Comments",
     "ingested_utc": "2025-12-29T22:15:44Z"
-  },
-  {
-    "published_utc": "2025-12-29",
-    "retrieved_date": "2025-12-29",
-    "retrieved_utc": "2025-12-29T22:15:35Z",
-    "source": "FinancialPost_Business",
-    "title": "Precious metal prices send S&P/TSX composite lower, U.S. markets also decline",
-    "url": "https://financialpost.com/pmn/precious-metal-prices-send-sp-tsx-composite-lower-u-s-markets-also-decline",
-    "id_key": "b8f8f05cd0a8cf9aa60a2013bf4cb434a15a0c9ec70b07d6bcec5896d5b4b094",
-    "summary": "TORONTO — Canada’s main stock index finished in negative territory Monday, weighed down by declines in precious metal prices, while U.S. markets also fell. Pierre-Benoit Gauthier, vice-president of investment strategy at IG Wealth Management, said the basic materials sector on the S&P/TSX composite index felt the effect of silver prices going “parabolic overnight before suddenly […]",
-    "ingested_utc": "2025-12-29T22:15:35Z"
   }
 ]
