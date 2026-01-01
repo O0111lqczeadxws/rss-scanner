@@ -2,6 +2,17 @@
   {
     "published_utc": "2026-01-01",
     "retrieved_date": "2026-01-01",
+    "retrieved_utc": "2026-01-01T07:19:30Z",
+    "source": "AlJazeera_All",
+    "title": "Several killed in explosion at Swiss ski resort town: Police",
+    "url": "https://www.aljazeera.com/news/2026/1/1/several-killed-in-explosion-fire-at-swiss-ski-resort-town-police?traffic_source=rss",
+    "id_key": "5dacb6311cbecfb1a4686362d3d7b84617102cc2402e0fe094c537bf1129f481",
+    "summary": "The New Year's Eve blast occurred in a bar called Le Constellation in the Swiss town of Crans Montana.",
+    "ingested_utc": "2026-01-01T07:19:30Z"
+  },
+  {
+    "published_utc": "2026-01-01",
+    "retrieved_date": "2026-01-01",
     "retrieved_utc": "2026-01-01T06:54:44Z",
     "source": "Guardian_World",
     "title": "NewJeans member Danielle sued for millions after bitter feud with K-pop record label",
@@ -10987,16 +10998,5 @@
     "id_key": "3280ed322cc34e4b742096145b62252d6658fc933a93d555aad7bd506de0577e",
     "summary": "Xiaomi used the Christmas period to launch its top flagship phone for the year, the 17 Ultra. It drops the extra rear display that's the key selling point of the 17 Pro, but instead adds in the option of a manual zoom ring, built directly into the phone's camera island. That rotating zoom is only […]",
     "ingested_utc": "2025-12-29T13:51:21Z"
-  },
-  {
-    "published_utc": "2025-12-29",
-    "retrieved_date": "2025-12-29",
-    "retrieved_utc": "2025-12-29T13:50:47Z",
-    "source": "MarketWatch_Bulletins",
-    "title": "Economic calendar: Week kicks off with pending-home-sales and home-price reports",
-    "url": "https://www.marketwatch.com/bulletins/redirect/go?g=e77242e5-a077-497b-97ae-b4592916d5a1&mod=mw_rss_bulletins",
-    "id_key": "15feacc8cac9c818bf624699c7ed42ad332a38171e43395d58f3370bd1962af9",
-    "summary": "",
-    "ingested_utc": "2025-12-29T13:50:47Z"
   }
 ]
