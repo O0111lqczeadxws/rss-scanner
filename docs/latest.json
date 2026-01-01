@@ -2,6 +2,28 @@
   {
     "published_utc": "2026-01-01",
     "retrieved_date": "2026-01-01",
+    "retrieved_utc": "2026-01-01T19:50:32Z",
+    "source": "TheStreet_Top",
+    "title": "Forget Outback, rival steak, seafood chain closed most locations",
+    "url": "https://www.thestreet.com/restaurants/forget-outback-another-steakhouse-chain-mccormick-schmicks-closed-over-40-locations",
+    "id_key": "c26accda24f3bf6e7f85c1608ba7bb23cd34e2fa14ad6e2be427f31f021e866d",
+    "summary": "During the Covid lockdowns, my wife and I occasionally ordered from major steakhouses like Morton’s and Ruth’s Chris, which offered aggressive delivery deals and meal kits. Those promotions underscored how heavily steakhouses depended on in-person dining and how vulnerable they were when offices ...",
+    "ingested_utc": "2026-01-01T19:50:32Z"
+  },
+  {
+    "published_utc": "2026-01-01",
+    "retrieved_date": "2026-01-01",
+    "retrieved_utc": "2026-01-01T19:49:34Z",
+    "source": "Guardian_World",
+    "title": "Switzerland resort fire latest news: 40 dead and 115 injured in Crans-Montana – as it happened",
+    "url": "https://www.theguardian.com/world/live/2026/jan/01/switzerland-resort-explosion-dead-blast-ski-town-crans-montana-latest-news-live",
+    "id_key": "f221ad370cf73a3f9f46326f589951e7c3bb8a47ddf8c8bb35510c7806731fff",
+    "summary": "Police have ruled out an attack on Le Constellation bar as investigation starts into cause of fire Officials at the press conference are asking for “prudence” from those in the town, reminding them not to make unnecessary demands on hospitals, which are overwhelmed. Please leave investigators to do their work, they say. Continue reading...",
+    "ingested_utc": "2026-01-01T19:49:34Z"
+  },
+  {
+    "published_utc": "2026-01-01",
+    "retrieved_date": "2026-01-01",
     "retrieved_utc": "2026-01-01T19:30:51Z",
     "source": "HackerNews_Top",
     "title": "Python numbers every programmer should know",
@@ -2000,6 +2022,17 @@
     "id_key": "8ae6054b7fdb066baa4de8274816fd944ce27896ba6b93b5221d7c720ac7950d",
     "summary": "Millions of households in England, Wales and Scotland are seeing a slight rise in energy bills in the new year.",
     "ingested_utc": "2026-01-01T01:04:29Z"
+  },
+  {
+    "published_utc": "2025-12-31",
+    "retrieved_date": "2026-01-01",
+    "retrieved_utc": "2026-01-01T19:50:32Z",
+    "source": "TheStreet_Top",
+    "title": "Bakery chain shutters all stores without notice, no bankruptcy",
+    "url": "https://www.thestreet.com/restaurants/crumbl-competitor-shutters-all-stores-with-little-notice",
+    "id_key": "6b55e8958fda636cc30824ade5d7fbcc09ccd7407c2f4c0afd1e1e882c52fd87",
+    "summary": "Most companies wait until after the holidays to deliver bad news. It's not unheard of for people to be laid off right before Christmas, or in the week between Christmas and New Year's, but doing that is seen as especially cruel. Many companies, however, simply carry out their plans without regard ...",
+    "ingested_utc": "2026-01-01T19:50:32Z"
   },
   {
     "published_utc": "2025-12-31",
@@ -10965,38 +10998,5 @@
     "id_key": "c7e0941ca3e8f3b4f53760c137aa106e03009d367816a930e9eee8fedad032b0",
     "summary": "Sauron is appearing on the scene as concerns rise about crime among the most wealthy.",
     "ingested_utc": "2025-12-29T20:17:31Z"
-  },
-  {
-    "published_utc": "2025-12-29",
-    "retrieved_date": "2025-12-29",
-    "retrieved_utc": "2025-12-29T20:17:03Z",
-    "source": "NYTimes_World",
-    "title": "Trump, Pressing Ahead on Ukraine-Russia Talks, Confronts Difficult Realities",
-    "url": "https://www.nytimes.com/2025/12/29/us/politics/trump-zelensky-putin-ukraine-russia.html",
-    "id_key": "107150e8b301ffde1c67ac381141b586422c81e0bd25641355ae75031d2940e0",
-    "summary": "The U.S.-led negotiations have made some progress, but still face fundamental challenges, including over security guarantees to counter future Russian aggression.",
-    "ingested_utc": "2025-12-29T20:17:03Z"
-  },
-  {
-    "published_utc": "2025-12-29",
-    "retrieved_date": "2025-12-29",
-    "retrieved_utc": "2025-12-29T20:15:05Z",
-    "source": "BitcoinMagazine",
-    "title": "Bitcoin Price Struggles to Break $90,000 as One-Month Battle Continues",
-    "url": "https://bitcoinmagazine.com/markets/bitcoin-price-struggles-to-break-90000",
-    "id_key": "64d2cea0ddcfe3a0bfcf222c21454a18a559b989d5efe7466bf75145d9d9e2e5",
-    "summary": "Bitcoin Magazine Bitcoin Price Struggles to Break $90,000 as One-Month Battle Continues The bitcoin price continued to swing around the $90,000 level during thin holiday trading, rising and falling in sharp moves that lacked any volume needed for a sustained breakout. The world’s largest cryptocurrency rose about 2.6% during low-liquidity sessions and held above $86,000 over the week, but was unable to sustain its $90,000 level in […] This post Bitcoin Price Struggles to Break $90,000 as One-Month Battle Continues first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
-    "ingested_utc": "2025-12-29T20:15:05Z"
-  },
-  {
-    "published_utc": "2025-12-29",
-    "retrieved_date": "2025-12-29",
-    "retrieved_utc": "2025-12-29T20:15:05Z",
-    "source": "BitcoinMagazine",
-    "title": "Former Exchange Employee Sentenced to 4 Years for Selling Military Secrets to North Korea for Bitcoin",
-    "url": "https://bitcoinmagazine.com/news/prison-secrets-to-north-korea-for-bitcoin",
-    "id_key": "2001e7aee486bd0e6a0764482f7c74063cb934f859845ffa64830b40a9d4de2c",
-    "summary": "Bitcoin Magazine Former Exchange Employee Sentenced to 4 Years for Selling Military Secrets to North Korea for Bitcoin A Korean crypto employee was jailed after taking Bitcoin to recruit an officer to North Korea. This post Former Exchange Employee Sentenced to 4 Years for Selling Military Secrets to North Korea for Bitcoin first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
-    "ingested_utc": "2025-12-29T20:15:05Z"
   }
 ]
