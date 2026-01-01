@@ -2,6 +2,28 @@
   {
     "published_utc": "2026-01-01",
     "retrieved_date": "2026-01-01",
+    "retrieved_utc": "2026-01-01T04:33:54Z",
+    "source": "NPR_Top",
+    "title": "The history behind the NYC subway station chosen for Mamdani's swearing-in",
+    "url": "https://www.npr.org/2025/12/31/nx-s1-5662726/mamdani-nyc-subway-station-history",
+    "id_key": "7338b5a166b5f7720e26f877cae0545186e10baa34d39c3ed88009b5c82578b5",
+    "summary": "The city shut down the station in 1945 on New Year's Eve. Eighty years later, it's a symbolic venue choice for the incoming mayor's private swearing-in ceremony.",
+    "ingested_utc": "2026-01-01T04:33:54Z"
+  },
+  {
+    "published_utc": "2026-01-01",
+    "retrieved_date": "2026-01-01",
+    "retrieved_utc": "2026-01-01T04:32:04Z",
+    "source": "CryptoBriefing",
+    "title": "Tether adds 8,888 Bitcoin to reserves; total holdings top 96,000 BTC",
+    "url": "https://cryptobriefing.com/tether-acquires-8888-bitcoin-q4-2025/",
+    "id_key": "0ac9d9276d566e55e5613a4e72945eaec5f43cb5af595a345d60ad67042572c8",
+    "summary": "Tether's growing Bitcoin reserves highlight its strategic shift towards crypto-backed stability, potentially influencing market dynamics and trust. The post Tether adds 8,888 Bitcoin to reserves; total holdings top 96,000 BTC appeared first on Crypto Briefing .",
+    "ingested_utc": "2026-01-01T04:32:04Z"
+  },
+  {
+    "published_utc": "2026-01-01",
+    "retrieved_date": "2026-01-01",
     "retrieved_utc": "2026-01-01T03:21:00Z",
     "source": "FinancialPost_Business",
     "title": "Rob Suttie Announces Filing of Early Warning Report Related to Acquisition of Common Shares of BE Resources Inc.",
@@ -10976,27 +10998,5 @@
     "id_key": "8062fd4529632906ae3f9f774a59e8d8bf73dea52cab57efd1e719baab4c48bc",
     "summary": "In 2024, Qualcomm's Snapdragon X chips finally made Arm-based Windows laptops viable. Unlike previous Arm laptops that struggled to even run Windows well, this new class offered solid performance and the best battery life on Windows, and they impressed us in Microsoft's own Surface Laptop and Surface Pro offerings. But inconsistent app compatibility remained the […]",
     "ingested_utc": "2025-12-29T13:14:06Z"
-  },
-  {
-    "published_utc": "2025-12-29",
-    "retrieved_date": "2025-12-29",
-    "retrieved_utc": "2025-12-29T13:13:39Z",
-    "source": "NYTimes_World",
-    "title": "ISIS Militants Kill 3 Police Officers in Turkey",
-    "url": "https://www.nytimes.com/2025/12/29/world/middleeast/turkey-isis-raid.html",
-    "id_key": "c470e0dd9a6fb039885c755f5625e44de911147175ac6f54b573c6d231059778",
-    "summary": "A raid on a suspected safe house for the terrorist group Islamic State set off a clash that killed the police officers as well as six Turkish militants.",
-    "ingested_utc": "2025-12-29T13:13:39Z"
-  },
-  {
-    "published_utc": "2025-12-29",
-    "retrieved_date": "2025-12-29",
-    "retrieved_utc": "2025-12-29T13:13:21Z",
-    "source": "Guardian_World",
-    "title": "Zelenskyy says US has agreed to offer Ukraine ‘strong’ 15-year security guarantees",
-    "url": "https://www.theguardian.com/world/2025/dec/29/volodymyr-zelenskyy-donald-trump-us-security-guarantees-ukraine",
-    "id_key": "07cfed93151bd61c4d4ba79e74761658f56441a55cbe74b5028bd216c6fe466f",
-    "summary": "Future of Donbas region remains unresolved after Ukrainian president’s talks with Donald Trump in Florida Ukraine war – latest updates Volodymyr Zelenskyy has said the US has agreed to offer “strong” security guarantees to Ukraine for 15 years, but acknowledged that the future of the country’s eastern Donbas region was unresolved after his two-hour meeting on Sunday with Donald Trump in Florida. Speaking on his way back to Europe, Zelenskyy said the US Congress and Ukraine’s parliament would jointly vote on American pledges. These were a key part of a 20-point peace plan discussed with the US president at his Mar-a-Lago residence, he said. Continue reading...",
-    "ingested_utc": "2025-12-29T13:13:21Z"
   }
 ]
