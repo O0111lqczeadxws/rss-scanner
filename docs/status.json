@@ -1,6 +1,6 @@
 {
-  "started_utc": "2026-01-01T04:31:25Z",
-  "ended_utc": "2026-01-01T04:34:44Z",
+  "started_utc": "2026-01-01T05:05:27Z",
+  "ended_utc": "2026-01-01T05:08:49Z",
   "new_items_this_run": 2,
   "total_in_latest": 1000,
   "by_source": {
@@ -20,7 +20,7 @@
     "Blockworks": 0,
     "BitcoinMagazine": 0,
     "CryptoSlate": 0,
-    "CryptoBriefing": 1,
+    "CryptoBriefing": 0,
     "Protos": 0,
     "CryptoNews": 0,
     "CoinJournal": 0,
@@ -56,18 +56,18 @@
     "MarketWatch_RealTime": 0,
     "MarketWatch_Bulletins": 0,
     "MarketWatch_PersonalFinance": 0,
-    "NYTimes_Business": 0,
+    "NYTimes_Business": 1,
     "NYTimes_World": 0,
     "NYTimes_Economy": 0,
     "NYTimes_Technology": 0,
     "CNN_Top": 0,
-    "NPR_Top": 1,
+    "NPR_Top": 0,
     "NPR_Business": 0,
     "NPR_Economy": 0,
     "NPR_World": 0,
     "NPR_Technology": 0,
     "FT_Home": 0,
-    "FT_Markets": 0,
+    "FT_Markets": 1,
     "CNBC_Top": 0,
     "CNBC_Markets": 0,
     "TheVerge_All": 0,
@@ -335,19 +335,19 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 460,
+    "passed_keywords": 457,
     "passed_allowlist": 0,
-    "failed_all_filters": 474
+    "failed_all_filters": 477
   },
   "stats": {
     "feeds_total": 97,
     "feeds_error": 23,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 1516,
-    "too_old": 582,
+    "entries_seen": 1517,
+    "too_old": 583,
     "dup_title_url": 94,
-    "dup_id": 364
+    "dup_id": 361
   },
   "limits": {
     "skip_older_days": 10,
