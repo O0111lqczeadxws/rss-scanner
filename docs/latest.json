@@ -2004,6 +2004,17 @@
   {
     "published_utc": "2025-12-31",
     "retrieved_date": "2026-01-01",
+    "retrieved_utc": "2026-01-01T19:40:06Z",
+    "source": "TheStreet_Top",
+    "title": "65-year-old auto parts maker shuts plant, fires 100s of workers",
+    "url": "https://www.thestreet.com/automotive/65-year-old-auto-parts-company-shuts-plant-dumps-100s-of-workers",
+    "id_key": "ad41b66ced2f942696a20498b9a276204737958d607d035dd8af1f2d59e675cf",
+    "summary": "Whenever consumers need to complete a simple automobile maintenance task, such as replacing windshield wiper blades or an air filter, they just need to run over to the local Napa Auto Parts, Auto Zone, or O'Reilly Auto Parts store, buy the product, and install it. On some occasions, I've discovered ...",
+    "ingested_utc": "2026-01-01T19:40:06Z"
+  },
+  {
+    "published_utc": "2025-12-31",
+    "retrieved_date": "2026-01-01",
     "retrieved_utc": "2026-01-01T19:30:34Z",
     "source": "TheStreet_Top",
     "title": "Struggling bakery, cafe chain shutters all stores without notice",
@@ -10987,16 +10998,5 @@
     "id_key": "2001e7aee486bd0e6a0764482f7c74063cb934f859845ffa64830b40a9d4de2c",
     "summary": "Bitcoin Magazine Former Exchange Employee Sentenced to 4 Years for Selling Military Secrets to North Korea for Bitcoin A Korean crypto employee was jailed after taking Bitcoin to recruit an officer to North Korea. This post Former Exchange Employee Sentenced to 4 Years for Selling Military Secrets to North Korea for Bitcoin first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
     "ingested_utc": "2025-12-29T20:15:05Z"
-  },
-  {
-    "published_utc": "2025-12-29",
-    "retrieved_date": "2025-12-29",
-    "retrieved_utc": "2025-12-29T20:14:50Z",
-    "source": "Guardian_World",
-    "title": "Claudia Winkleman to host new BBC chatshow",
-    "url": "https://www.theguardian.com/media/2025/dec/29/claudia-winkleman-to-host-new-bbc-chatshow",
-    "id_key": "99560a05162eeb570d4d1fc9e0f1e93ffc004ccc28cdd4ecf6a79b16eaa348d0",
-    "summary": "Strictly and Traitors presenter and ‘true national treasure’ will front The Claudia Winkleman Show from spring She has ruled the Traitors castle and waltzed out of the ballroom on Strictly Come Dancing. Now Claudia Winkleman is taking up residence in one of television’s most traditional settings – on the chatshow sofa. The BBC has confirmed that the presenter, who has become one of its most prized assets after fronting two of its most successful programmes, is to host The Claudia Winkleman Show in the spring. Continue reading...",
-    "ingested_utc": "2025-12-29T20:14:50Z"
   }
 ]
