@@ -2,6 +2,61 @@
   {
     "published_utc": "2026-01-01",
     "retrieved_date": "2026-01-01",
+    "retrieved_utc": "2026-01-01T19:30:51Z",
+    "source": "HackerNews_Top",
+    "title": "Python numbers every programmer should know",
+    "url": "https://mkennedy.codes/posts/python-numbers-every-programmer-should-know/",
+    "id_key": "cf614485600d239262f7d385744921eb095b7361b39345ff48beecfeb2727244",
+    "summary": "Comments",
+    "ingested_utc": "2026-01-01T19:30:51Z"
+  },
+  {
+    "published_utc": "2026-01-01",
+    "retrieved_date": "2026-01-01",
+    "retrieved_utc": "2026-01-01T19:28:15Z",
+    "source": "CryptoNews",
+    "title": "India’s RBI Warns: CBDCs Must Replace Stablecoins to Prevent Financial Chaos",
+    "url": "https://cryptonews.com/news/indias-rbi-warns-cbdcs-must-replace-stablecoins-to-prevent-financial-chaos/",
+    "id_key": "aa3dc292c1ce52ae151d649c2766c434ce046c99685b53f03a20717ce4450ee2",
+    "summary": "India’s RBI has issued a warning that the increasing use of stablecoins may endanger financial stability and trust in money. The central bank emphasized that central bank digital currencies preserve monetary sovereignty while reducing systemic risks from privately issued tokens. The post India’s RBI Warns: CBDCs Must Replace Stablecoins to Prevent Financial Chaos appeared first on Cryptonews .",
+    "ingested_utc": "2026-01-01T19:28:15Z"
+  },
+  {
+    "published_utc": "2026-01-01",
+    "retrieved_date": "2026-01-01",
+    "retrieved_utc": "2026-01-01T19:28:15Z",
+    "source": "CryptoNews",
+    "title": "Bitcoin Market Hits Stalemate as On-chain Data Shows Equilibrium",
+    "url": "https://cryptonews.com/news/bitcoin-market-stalemate-onchain-data-equilibrium/",
+    "id_key": "a5349e2410ef97bad9226ca4c261aba161bcb6633fa5fe7b66b13d1ed1b40376",
+    "summary": "Bitcoin is trading near $88K, as profit-taking has met long-term demand. SOPR has sat near breakeven, and the Coinbase premium has turned slightly negative. About 1,600 BTC have left exchanges, supporting forecasts for range-bound trade between $80K and $140K in 2026. A macro catalyst may be needed. The post Bitcoin Market Hits Stalemate as On-chain Data Shows Equilibrium appeared first on Cryptonews .",
+    "ingested_utc": "2026-01-01T19:28:15Z"
+  },
+  {
+    "published_utc": "2026-01-01",
+    "retrieved_date": "2026-01-01",
+    "retrieved_utc": "2026-01-01T19:28:12Z",
+    "source": "CryptoSlate",
+    "title": "Which predictions landed this year? One ignored model actually nailed the 2025 market cycle",
+    "url": "https://cryptoslate.com/which-predictions-landed-this-year-one-ignored-model-actually-nailed-the-2025-market-cycle/",
+    "id_key": "2f72260612f322f0e92f4bcffb3515a247816e67a07b9275a79649bb9dc89cff",
+    "summary": "At the start of 2025, crypto's biggest names issued bold forecasts: Bitcoin to $200,000, Ethereum to $7,000, a US strategic reserve, and stablecoins going mainstream. Twelve months later, the scoreboard reveals a pattern. The price targets mostly crashed and burned, while the structural calls on regulation, ETFs, and payments infrastructure quietly came true. Here's who […] The post Which predictions landed this year? One ignored model actually nailed the 2025 market cycle appeared first on CryptoSlate .",
+    "ingested_utc": "2026-01-01T19:28:12Z"
+  },
+  {
+    "published_utc": "2026-01-01",
+    "retrieved_date": "2026-01-01",
+    "retrieved_utc": "2026-01-01T19:27:53Z",
+    "source": "Guardian_World",
+    "title": "Switzerland to hold five days of mourning after 40 killed in resort fire",
+    "url": "https://www.theguardian.com/world/2026/jan/01/switzerland-to-hold-five-days-of-mourning-after-dozens-killed-in-resort-fire",
+    "id_key": "695d3c9ac8273e82676055d640f77ba39ab296c0d04bf298432aa81b0120c99b",
+    "summary": "Blaze that swept through crowded New Year’s Eve bar in Crans-Montana also injured 115 people Swiss resort fire: latest updates Le Constellation bar fire in Switzerland: what we know so far Switzerland will hold five days of mourning after an “unprecedented” fire tore through a crowded bar, killing about 40 people and injuring 115 who were celebrating at a New Year’s Eve party in the Alpine ski resort of Crans-Montana. The country’s president, Guy Parmelin, described the blaze as one of the most traumatic events in Switzerland’s history. “It was a drama of an unknown scale,” he said, paying tribute to the many “young lives that were lost and interrupted”. Continue reading...",
+    "ingested_utc": "2026-01-01T19:27:53Z"
+  },
+  {
+    "published_utc": "2026-01-01",
+    "retrieved_date": "2026-01-01",
     "retrieved_utc": "2026-01-01T19:14:05Z",
     "source": "Engadget_All",
     "title": "How to watch Hyundai's CES 2026 presentation live",
@@ -1945,6 +2000,17 @@
     "id_key": "8ae6054b7fdb066baa4de8274816fd944ce27896ba6b93b5221d7c720ac7950d",
     "summary": "Millions of households in England, Wales and Scotland are seeing a slight rise in energy bills in the new year.",
     "ingested_utc": "2026-01-01T01:04:29Z"
+  },
+  {
+    "published_utc": "2025-12-31",
+    "retrieved_date": "2026-01-01",
+    "retrieved_utc": "2026-01-01T19:30:34Z",
+    "source": "TheStreet_Top",
+    "title": "Struggling bakery, cafe chain shutters all stores without notice",
+    "url": "https://www.thestreet.com/restaurants/crumbl-competitor-shutters-all-stores-with-little-notice",
+    "id_key": "2d6dac92cb92455109589855defd65293df28f98dea69c4aa548e55b3a5b4ff1",
+    "summary": "Most companies wait until after the holidays to deliver bad news. It's not unheard of for people to be laid off right before Christmas, or in the week between Christmas and New Year's, but doing that is seen as especially cruel. Many companies, however, simply carry out their plans without regard ...",
+    "ingested_utc": "2026-01-01T19:30:34Z"
   },
   {
     "published_utc": "2025-12-31",
@@ -10932,71 +10998,5 @@
     "id_key": "99560a05162eeb570d4d1fc9e0f1e93ffc004ccc28cdd4ecf6a79b16eaa348d0",
     "summary": "Strictly and Traitors presenter and ‘true national treasure’ will front The Claudia Winkleman Show from spring She has ruled the Traitors castle and waltzed out of the ballroom on Strictly Come Dancing. Now Claudia Winkleman is taking up residence in one of television’s most traditional settings – on the chatshow sofa. The BBC has confirmed that the presenter, who has become one of its most prized assets after fronting two of its most successful programmes, is to host The Claudia Winkleman Show in the spring. Continue reading...",
     "ingested_utc": "2025-12-29T20:14:50Z"
-  },
-  {
-    "published_utc": "2025-12-29",
-    "retrieved_date": "2025-12-29",
-    "retrieved_utc": "2025-12-29T19:51:23Z",
-    "source": "HackerNews_Top",
-    "title": "When someone says they hate your product with a burning passion",
-    "url": "https://www.getflack.com/p/responding-to-negative-feedback",
-    "id_key": "262a20bc856bade942da2f648df436e75ba0c42627fca754b52502de97a8caf6",
-    "summary": "Comments",
-    "ingested_utc": "2025-12-29T19:51:23Z"
-  },
-  {
-    "published_utc": "2025-12-29",
-    "retrieved_date": "2025-12-29",
-    "retrieved_utc": "2025-12-29T19:51:23Z",
-    "source": "HackerNews_Top",
-    "title": "Show HN: Evidex – AI Clinical Search (RAG over PubMed/OpenAlex and SOAP Notes)",
-    "url": "https://www.getevidex.com",
-    "id_key": "20168eec4c85da59f434cb700182f008c0ff859aab3b0cf6023e21af8938cc0c",
-    "summary": "Comments",
-    "ingested_utc": "2025-12-29T19:51:23Z"
-  },
-  {
-    "published_utc": "2025-12-29",
-    "retrieved_date": "2025-12-29",
-    "retrieved_utc": "2025-12-29T19:50:54Z",
-    "source": "ArsTechnica_All",
-    "title": "Leonardo’s wood charring method predates Japanese practice",
-    "url": "https://arstechnica.com/science/2025/12/did-one-line-in-a-leonardo-codex-anticipate-yakisugi/",
-    "id_key": "788af1111f64c9074527c26d77ac4921ef81a2b610b1c01e74c60db87bd6ddcb",
-    "summary": "The Japanese technique of burning wood surfaces creates a protective carbonized layer in bioarchitecture.",
-    "ingested_utc": "2025-12-29T19:50:54Z"
-  },
-  {
-    "published_utc": "2025-12-29",
-    "retrieved_date": "2025-12-29",
-    "retrieved_utc": "2025-12-29T19:48:11Z",
-    "source": "Guardian_World",
-    "title": "Netanyahu meets Trump in US amid fears of Israeli regional offensives",
-    "url": "https://www.theguardian.com/world/2025/dec/29/netanyahu-to-meet-trump-in-us-amid-fears-of-israeli-regional-offensives",
-    "id_key": "67f4cc19e5c58b913fb598cbf7c6da292e75296737b809a9fac1a5aa79506825",
-    "summary": "Israel’s PM travels to Mar-a-Lago as US administration reported to be running out of patience over Gaza ceasefire Benjamin Netanyahu met Donald Trump at the US president’s Mar-a-Lago resort in Florida on Monday amid growing fears Israel could launch new offensives against regional enemies, potentially plunging the Middle East further into instability. High on the agenda will be the ceasefire in Gaza, which in October halted the devastating two-year-long war. Though the terms agreed for an initial phase have been largely completed, with Israel’s forces pulling back to new positions and Hamas releasing all living and all but one of the dead hostages, immense challenges face the implementation of the second phase of the president’s 20-point plan. Continue reading...",
-    "ingested_utc": "2025-12-29T19:48:11Z"
-  },
-  {
-    "published_utc": "2025-12-29",
-    "retrieved_date": "2025-12-29",
-    "retrieved_utc": "2025-12-29T19:38:56Z",
-    "source": "ArsTechnica_All",
-    "title": "Did one line in a Leonardo codex anticipate yakisugi?",
-    "url": "https://arstechnica.com/science/2025/12/did-one-line-in-a-leonardo-codex-anticipate-yakisugi/",
-    "id_key": "b9be8afd37fcd1cabccf4ed4ca15aa717e2966dd91b1a8a441a196948f871741",
-    "summary": "The Japanese technique of burning wood surfaces creates a protective carbonized layer in bioarchitecture.",
-    "ingested_utc": "2025-12-29T19:38:56Z"
-  },
-  {
-    "published_utc": "2025-12-29",
-    "retrieved_date": "2025-12-29",
-    "retrieved_utc": "2025-12-29T19:38:32Z",
-    "source": "NPR_Top",
-    "title": "FIFA president defends World Cup ticket prices, saying demand is hitting records",
-    "url": "https://www.npr.org/2025/12/29/nx-s1-5660767/fifa-gianni-infantino-world-cup-ticket-prices",
-    "id_key": "125a8c27e740dd2b187ceb729381b5b1144896cc359d3014d8da801126e40515",
-    "summary": "The FIFA President addressed outrage over ticket prices for the World Cup by pointing to record demand and reiterating that most of the proceeds will help support soccer around the world.",
-    "ingested_utc": "2025-12-29T19:38:32Z"
   }
 ]
