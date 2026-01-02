@@ -2,6 +2,50 @@
   {
     "published_utc": "2026-01-02",
     "retrieved_date": "2026-01-02",
+    "retrieved_utc": "2026-01-02T04:05:06Z",
+    "source": "HackerNews_Top",
+    "title": "AI Futures Model: Dec 2025 Update",
+    "url": "https://blog.ai-futures.org/p/ai-futures-model-dec-2025-update",
+    "id_key": "ca7bec6d26c3ab6243d739d7438a196ffe4ccd9717fb2d5fdff2e7cbfa088ab9",
+    "summary": "Comments",
+    "ingested_utc": "2026-01-02T04:05:06Z"
+  },
+  {
+    "published_utc": "2026-01-02",
+    "retrieved_date": "2026-01-02",
+    "retrieved_utc": "2026-01-02T04:04:39Z",
+    "source": "Engadget_All",
+    "title": "Starlink is lowering thousands of satellites' orbits to reduce risk of collisions",
+    "url": "https://www.engadget.com/science/space/starlink-is-lowering-thousands-of-satellites-orbits-to-reduce-risk-of-collisions-030509067.html?src=rss",
+    "id_key": "e904f2e6f4b75d2aebd964ecaf30d49dd9a2a5e31dc67c2bd31ab80339c13570",
+    "summary": "Starlink will lower the orbits of roughly 4,400 satellites this year as a safety measure, according to engineering VP, Michael Nicolls. In a post on X , Nicolls wrote that the company is \"beginning a significant reconfiguration of its satellite constellation,\" in which all satellites orbiting at around 550 kilometers (342 miles) will be lowered to around 480 km (298 miles). The move is intended to reduce the risk of collisions, putting the satellites in a region that's less cluttered and will allow them to deorbit more quickly should an incident occur. \"Lowering the satellites results in condensing Starlink orbits, and will increase space safety in several ways,\" Nicolls wrote, also pointing to the coming solar minimum — a period in the sun's 11ish-year cycle when activity is lower — as one of the reasons for the move. The next solar minimum is expected to occur in the early 2030s. \"As solar minimum approaches, atmospheric density decreases which means the ballistic decay time at any given altitude increases - lowering will mean a >80% reduction in ballistic decay time in solar minimum, or 4+ years reduced to a few months,\" Nicolls wrote. A screenshot of an X post by Starlink VP of engineering Michael Nicolls announcing that satellites orbiting at around 500 kilometers will be lowered to 480km The announcement comes a few weeks after Starlink said one of its satellites had experienced an anomaly that created some debris and sent it tumbling. Just a few days earlier, Nicolls posted about a close call with a batch of satellites he said were launched from China seemingly without any attempt to coordinate with operators of existing satellites in the space. With his latest announcement, Nicolls added that lowering Starlink's satellites \"will further improve the safety of the constellation, particularly with difficult to control risks such as uncoordinated maneuvers and launches by other satellite operators.\" This article originally appeared on Engadget at https://www.engadget.com/science/space/starlink-is-lowering-thousands-of-satellites-orbits-to-reduce-risk-of-collisions-030509067.html?src=rss",
+    "ingested_utc": "2026-01-02T04:04:39Z"
+  },
+  {
+    "published_utc": "2026-01-02",
+    "retrieved_date": "2026-01-02",
+    "retrieved_utc": "2026-01-02T04:02:20Z",
+    "source": "CryptoBriefing",
+    "title": "Crypto exploit losses dropped over 60% in December",
+    "url": "https://cryptobriefing.com/losses-from-crypto-exploits-dropped-over-60-in-december/",
+    "id_key": "0b2c5852711b6144b0cb570c9650e18852c74d47c569a8697916f9f794174bc3",
+    "summary": "The significant drop in crypto exploit losses suggests improved security measures and heightened awareness among users and platforms. The post Crypto exploit losses dropped over 60% in December appeared first on Crypto Briefing .",
+    "ingested_utc": "2026-01-02T04:02:20Z"
+  },
+  {
+    "published_utc": "2026-01-02",
+    "retrieved_date": "2026-01-02",
+    "retrieved_utc": "2026-01-02T04:02:20Z",
+    "source": "CryptoBriefing",
+    "title": "Chainlink Reserve accumulates over 94,000 LINK, boosting holdings to 1.4 million tokens",
+    "url": "https://cryptobriefing.com/chainlink-reserve-accumulates-94000-link/",
+    "id_key": "894bc2166aa2e8b8af7f7a0c7e29d6ea6ce56efaee6431f01f6b5cef4c97bc50",
+    "summary": "Chainlink's strategic accumulation of LINK tokens strengthens its network's sustainability and long-term development potential. The post Chainlink Reserve accumulates over 94,000 LINK, boosting holdings to 1.4 million tokens appeared first on Crypto Briefing .",
+    "ingested_utc": "2026-01-02T04:02:20Z"
+  },
+  {
+    "published_utc": "2026-01-02",
+    "retrieved_date": "2026-01-02",
     "retrieved_utc": "2026-01-02T03:00:52Z",
     "source": "Nikkei_Asia_Top",
     "title": "Philippine traditional vendors resist arrival of retail giant SM Prime",
@@ -10954,49 +10998,5 @@
     "id_key": "640fa8ff346ce12f6892b04d18483b53fb6d848aa78245eb16e10f8898331783",
     "summary": "At TechCrunch Disrupt, three investors took the stage to dissect what makes — and breaks — a pitch deck. Jyoti Bansal, a founder-turned-investor; Medha Agarwal of Defy; and Jennifer Neundorfer of January Ventures shared with the crowd their candid views on what works in a pitch deck — and what doesn't.",
     "ingested_utc": "2025-12-30T22:37:17Z"
-  },
-  {
-    "published_utc": "2025-12-29",
-    "retrieved_date": "2025-12-30",
-    "retrieved_utc": "2025-12-30T20:16:29Z",
-    "source": "NPR_Business",
-    "title": "FIFA president defends World Cup ticket prices, saying demand is hitting records",
-    "url": "https://www.npr.org/2025/12/29/nx-s1-5660767/fifa-gianni-infantino-world-cup-ticket-prices",
-    "id_key": "75659444f9606f1863fc6b4caa37efb2a51126abad7c04fb0961293fe4893280",
-    "summary": "The FIFA President addressed outrage over ticket prices for the World Cup by pointing to record demand and reiterating that most of the proceeds will help support soccer around the world.",
-    "ingested_utc": "2025-12-30T20:16:29Z"
-  },
-  {
-    "published_utc": "2025-12-29",
-    "retrieved_date": "2025-12-30",
-    "retrieved_utc": "2025-12-30T19:14:54Z",
-    "source": "HackerNews_Top",
-    "title": "HTTP Strict Transport Security (HSTS)",
-    "url": "https://hstspreload.org/",
-    "id_key": "6ebaab2cdea7a56c7da387f1d2c53be5edd511c34e0b74ad4406469c1e0f4248",
-    "summary": "Comments",
-    "ingested_utc": "2025-12-30T19:14:54Z"
-  },
-  {
-    "published_utc": "2025-12-29",
-    "retrieved_date": "2025-12-30",
-    "retrieved_utc": "2025-12-30T15:38:57Z",
-    "source": "TheStreet_Top",
-    "title": "Shake Shack's new menu has failed at other chains",
-    "url": "https://www.thestreet.com/restaurants/shake-shack-makes-menu-change-that-failed-at-mcdonalds",
-    "id_key": "1ffa8a2c47fcdcc7da6406e6b10cc814d7b648a71cff51c384972d2c16f22663",
-    "summary": "Comfort. We all seek it, and many try to find it in food. But comfort food often gives only a few minutes of satisfaction before we end up with extra weight, bloating, and a lingering sense of guilt that pulls us back for more. It’s a vicious circle that’s hard to break. If you’re disciplined ...",
-    "ingested_utc": "2025-12-30T15:38:57Z"
-  },
-  {
-    "published_utc": "2025-12-29",
-    "retrieved_date": "2025-12-30",
-    "retrieved_utc": "2025-12-30T14:54:36Z",
-    "source": "Guardian_Business",
-    "title": "Sainsbury’s CEO among business leaders recognised in new year honours",
-    "url": "https://www.theguardian.com/business/2025/dec/29/sainsburys-ceo-simon-roberts-business-leaders-new-years-honours-list",
-    "id_key": "f084690260bd55d4b4edbc8da8478330db3db47e9cd20cab86f3c227437c996c",
-    "summary": "Simon Roberts, credited with helping to turn around grocer, made CBE along with former BAE Systems boss Ian King The boss of Sainsbury’s who helped turn around the grocer’s fortunes is among leading figures from the business world to be recognised in the new year honours list. Simon Roberts, who has been chief executive of the UK’s second largest supermarket since 2020, has been made a Commander of the Order of the British Empire (CBE) for services to the retail industry. Continue reading...",
-    "ingested_utc": "2025-12-30T14:54:36Z"
   }
 ]
