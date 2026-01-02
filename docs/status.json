@@ -1,13 +1,13 @@
 {
-  "started_utc": "2026-01-02T07:17:28Z",
-  "ended_utc": "2026-01-02T07:20:49Z",
-  "new_items_this_run": 2,
+  "started_utc": "2026-01-02T07:41:52Z",
+  "ended_utc": "2026-01-02T07:45:14Z",
+  "new_items_this_run": 1,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
     "Reuters_World": 0,
     "Reuters_Markets": 0,
-    "BBC_World": 1,
+    "BBC_World": 0,
     "BBC_Business": 0,
     "BBC_Technology": 0,
     "Guardian_Business": 0,
@@ -19,7 +19,7 @@
     "MarketWatch_MarketPulse": 0,
     "Blockworks": 0,
     "BitcoinMagazine": 0,
-    "CryptoSlate": 0,
+    "CryptoSlate": 1,
     "CryptoBriefing": 0,
     "Protos": 0,
     "CryptoNews": 0,
@@ -71,7 +71,7 @@
     "CNBC_Top": 0,
     "CNBC_Markets": 0,
     "TheVerge_All": 0,
-    "TechCrunch_All": 1,
+    "TechCrunch_All": 0,
     "ArsTechnica_All": 0,
     "WIRED_All": 0,
     "Engadget_All": 0,
@@ -347,7 +347,7 @@
     "entries_seen": 1510,
     "too_old": 591,
     "dup_title_url": 83,
-    "dup_id": 352
+    "dup_id": 353
   },
   "limits": {
     "skip_older_days": 10,
@@ -360,6 +360,6 @@
   },
   "processed": {
     "file": "data/processed/2026-01-02.jsonl",
-    "appended_new": 2
+    "appended_new": 1
   }
 }
