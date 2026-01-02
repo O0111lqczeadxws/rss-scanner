@@ -2,6 +2,50 @@
   {
     "published_utc": "2026-01-02",
     "retrieved_date": "2026-01-02",
+    "retrieved_utc": "2026-01-02T16:18:11Z",
+    "source": "FinancialPost_Business",
+    "title": "Eskom Keeps Lights on for 231 Straight Days in South Africa",
+    "url": "https://financialpost.com/pmn/business-pmn/eskom-keeps-lights-on-for-231-straight-days-in-south-africa",
+    "id_key": "5ac6ccbe0333792bb9e2f3081ee8d561b1954a96a069d9560029d468e4aeb886",
+    "summary": "Eskom Holdings SOC Ltd. said it had managed to keep the lights on in South Africa for 231 consecutive days, citing better maintenance of its plants.",
+    "ingested_utc": "2026-01-02T16:18:11Z"
+  },
+  {
+    "published_utc": "2026-01-02",
+    "retrieved_date": "2026-01-02",
+    "retrieved_utc": "2026-01-02T16:17:28Z",
+    "source": "NPR_Top",
+    "title": "Trump and Iran start 2026 exchanging new threats on social media",
+    "url": "https://www.npr.org/2026/01/02/g-s1-104265/trump-iran-protests",
+    "id_key": "fec517112b6a437e74d27f43bc33076c41fd7fb50cad9282498eaf710f9da5f3",
+    "summary": "President Trump warned Iran not to kill protesters. Iranian officials alleged the U.S. and Israel were stoking the sweeping protests, and said U.S. military bases in the region are legitimate targets.",
+    "ingested_utc": "2026-01-02T16:17:28Z"
+  },
+  {
+    "published_utc": "2026-01-02",
+    "retrieved_date": "2026-01-02",
+    "retrieved_utc": "2026-01-02T16:17:19Z",
+    "source": "NYTimes_Business",
+    "title": "A Study Is Retracted, Renewing Concerns About the Weedkiller Roundup",
+    "url": "https://www.nytimes.com/2026/01/02/climate/glyphosate-roundup-retracted-study.html",
+    "id_key": "f11256885f228f766f5cd0c2535fc8e416d4bdd13988bcf2489eca92dfe1d1a8",
+    "summary": "Problems with a 25-year-old landmark paper on the safety of Roundup’s active ingredient, glyphosate, have led to calls for the E.P.A. to reassess the widely used chemical.",
+    "ingested_utc": "2026-01-02T16:17:19Z"
+  },
+  {
+    "published_utc": "2026-01-02",
+    "retrieved_date": "2026-01-02",
+    "retrieved_utc": "2026-01-02T16:15:08Z",
+    "source": "BBC_World",
+    "title": "Russia accuses Ukraine of killing 27 people in New Year attack in occupied Kherson region",
+    "url": "https://www.bbc.com/news/articles/cew81lpqvzeo?at_medium=RSS&at_campaign=rss",
+    "id_key": "012d934e3e8cb8936b6318f2c1893d1357ad5ba99347ea74024cef4bc007d456",
+    "summary": "Ukraine says it only conducts strikes against military targets and adheres to international law.",
+    "ingested_utc": "2026-01-02T16:15:08Z"
+  },
+  {
+    "published_utc": "2026-01-02",
+    "retrieved_date": "2026-01-02",
     "retrieved_utc": "2026-01-02T15:54:29Z",
     "source": "TheStreet_Top",
     "title": "Amazon is selling underwater headphones for only $50 that can hold 8,000 songs",
@@ -10954,49 +10998,5 @@
     "id_key": "7227cd862b80f861153538f558d5f3b82e13cf67af75dc48041ad05c3a68399c",
     "summary": "This live blog is refreshed periodically throughout the day with the latest updates from the market.To find the latest Stock Market Today threads, click here. Happy Tuesday. This is TheStreet’s Stock Market Today for Dec. 30, 2025. You can follow the latest updates on the market ...",
     "ingested_utc": "2025-12-30T14:57:25Z"
-  },
-  {
-    "published_utc": "2025-12-30",
-    "retrieved_date": "2025-12-30",
-    "retrieved_utc": "2025-12-30T14:56:58Z",
-    "source": "FT_Home",
-    "title": "Ukraine seeks to contain diplomatic fallout over Putin’s attack claim",
-    "url": "https://www.ft.com/content/65fdc3b6-614a-4255-8dde-a66eec548341",
-    "id_key": "28355b3438003835e645b43796727034e0c4d2fcfeb7462f6713a40aa3050e04",
-    "summary": "India, Pakistan and UAE join Trump in condemning what Kyiv says are false allegations of assault on Russian president’s residence",
-    "ingested_utc": "2025-12-30T14:56:58Z"
-  },
-  {
-    "published_utc": "2025-12-30",
-    "retrieved_date": "2025-12-30",
-    "retrieved_utc": "2025-12-30T14:56:38Z",
-    "source": "MarketWatch_Bulletins",
-    "title": "Gold and silver rallies resume as U.S. stocks open lower with Fed minutes on tap",
-    "url": "https://www.marketwatch.com/bulletins/redirect/go?g=6496bbaa-efba-48f8-b493-3c4b173c722b&mod=mw_rss_bulletins",
-    "id_key": "4129e91c32ed441583cd2842a6e229bbf175e48ffe3a5c093e6cbc69e5f55008",
-    "summary": "",
-    "ingested_utc": "2025-12-30T14:56:38Z"
-  },
-  {
-    "published_utc": "2025-12-30",
-    "retrieved_date": "2025-12-30",
-    "retrieved_utc": "2025-12-30T14:54:56Z",
-    "source": "CryptoSlate",
-    "title": "SEC filings reveal the multi-million dollar trap hiding inside ‘exclusive’ WhatsApp crypto investment clubs",
-    "url": "https://cryptoslate.com/sec-filings-reveal-the-14-million-trap-hiding-inside-exclusive-whatsapp-crypto-investment-clubs/",
-    "id_key": "8afc66e810477d285c506678e2335036a634cb5aeac45bfe24cd072b14f2fa89",
-    "summary": "Investors logged into glossy crypto trading dashboards showing five-figure “profits,” then found themselves blocked from withdrawing a cent unless they first wired extra “taxes” or “loan repayments” to overseas accounts. When victims tried to cash out, the platforms demanded advance fees to “unlock” their accounts, yet never released any money. On Dec. 22, the SEC […] The post SEC filings reveal the multi-million dollar trap hiding inside ‘exclusive’ WhatsApp crypto investment clubs appeared first on CryptoSlate .",
-    "ingested_utc": "2025-12-30T14:54:56Z"
-  },
-  {
-    "published_utc": "2025-12-30",
-    "retrieved_date": "2025-12-30",
-    "retrieved_utc": "2025-12-30T14:54:36Z",
-    "source": "Guardian_Business",
-    "title": "Eurostar disruption: Channel tunnel operator announces ‘gradual’ resumption to train traffic after power supply problem halts services – business live",
-    "url": "https://www.theguardian.com/business/live/2025/dec/30/global-stock-markets-best-year-since-2019-us-dollar-trade-war-octopus-energy-ftse-pound-business-live-news-updates",
-    "id_key": "30834a15b50b358ca01d16d5387d8615ae7426999ff4d2fd79e435d76798d4d0",
-    "summary": "Eurostar ‘strongly advise’ passengers to postpone journeys after problem with overhead power supply in Channel tunnel and a failed Le Shuttle train Full story: Eurostar cancels all trains to and from London after Channel tunnel power cut Tell us: have you been affected by the Channel Tunnel rail disruption? European stocks have hit a record high today, ending a strong year on the front foot. The pan-European Stoxx 600 index has risen by over 0.2% this morning to 590.65 points, a new peak. The Euro area and UK economies proved more resilient in 2025 than we anticipated. US tariffs weighed on exports and real GDP growth in Q2 and Q3, but domestic demand has generally been more robust than we anticipated. As a result, Euro area and UK GDP growth, while still underperforming the US this year, have turned out higher than in our forecast at the end of 2024. Continue reading...",
-    "ingested_utc": "2025-12-30T14:54:36Z"
   }
 ]
