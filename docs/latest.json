@@ -2,6 +2,39 @@
   {
     "published_utc": "2026-01-02",
     "retrieved_date": "2026-01-02",
+    "retrieved_utc": "2026-01-02T09:19:13Z",
+    "source": "FT_Markets",
+    "title": "UK financial watchdog closes 100 probes to sharpen enforcement focus",
+    "url": "https://www.ft.com/content/85def7e8-a326-43f9-b78e-24a4747c6eb7",
+    "id_key": "11163413b01ace12719785593648262abe342b7647b4cb26168b2d68445fa818",
+    "summary": "Cull of legacy cases highlights strategic change at FCA, with focus on fewer but higher impact cases",
+    "ingested_utc": "2026-01-02T09:19:13Z"
+  },
+  {
+    "published_utc": "2026-01-02",
+    "retrieved_date": "2026-01-02",
+    "retrieved_utc": "2026-01-02T09:19:12Z",
+    "source": "FT_Home",
+    "title": "FTSE 100 tops 10,000 for first time in new year rally",
+    "url": "https://www.ft.com/content/86286e3f-f206-437a-a634-af630d616090",
+    "id_key": "209fd6aa2a002328910b670f0d57c6686e6a624af9f679f1dd5dd34b58df4230",
+    "summary": "London’s blue-chip stock index benefits from surge in banking and mining shares in 2025",
+    "ingested_utc": "2026-01-02T09:19:12Z"
+  },
+  {
+    "published_utc": "2026-01-02",
+    "retrieved_date": "2026-01-02",
+    "retrieved_utc": "2026-01-02T09:16:51Z",
+    "source": "Guardian_World",
+    "title": "FTSE 100 breaks 10,000 mark for first time",
+    "url": "https://www.theguardian.com/business/2026/jan/02/ftse-100-breaks-10000-uk-share-index",
+    "id_key": "6c613e0da48c750e2a8076178d60d7f97a4e27f0efa0c3f5369dafb2d17ee6b7",
+    "summary": "UK’s blue-chip share index, created in 1984, has risen by more than 20% over past 12 months The UK’s blue-chip share index has broken through the 10,000-point level for the first time, as global shares are lifted by a late “Santa rally”. The FTSE 100 jumped on Friday morning to a high of 10,022, a new peak for the index. Continue reading...",
+    "ingested_utc": "2026-01-02T09:16:51Z"
+  },
+  {
+    "published_utc": "2026-01-02",
+    "retrieved_date": "2026-01-02",
     "retrieved_utc": "2026-01-02T08:52:31Z",
     "source": "AlJazeera_All",
     "title": "Swiss officials face painful task of identifying victims of deadly bar fire",
@@ -10965,38 +10998,5 @@
     "id_key": "e938a5a8a2d296d431c0aa5ddbb81b5ab1c4de2e4bdd2723494e6c5c7ef77533",
     "summary": "The reactivation of the exploiter's wallet highlights ongoing challenges in tracking and recovering stolen crypto assets in decentralized finance. The post Wallet linked to Indexed Finance and Kyber Network exploiter dumps over $2M in crypto appeared first on Crypto Briefing .",
     "ingested_utc": "2025-12-30T03:58:23Z"
-  },
-  {
-    "published_utc": "2025-12-30",
-    "retrieved_date": "2025-12-30",
-    "retrieved_utc": "2025-12-30T03:58:02Z",
-    "source": "Guardian_World",
-    "title": "Australian cruise ship stuck off PNG ‘detained’ amid investigation into why it ran aground",
-    "url": "https://www.theguardian.com/business/2025/dec/30/coral-adventurer-cruise-ship-stuck-off-png-detained",
-    "id_key": "f3efcb1f4573fbc7ac0e1c2b1eb5cc25bb77aaea6931a1594a93e874fa6062b7",
-    "summary": "Coral Adventurer, separately being investigated for allegedly leaving behind passenger who died on Lizard Island, ordered not to leave PNG waters Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast A cruise ship that ran aground off Papua New Guinea has been “detained” out of concern it’s unseaworthy “due to potential damage”, amid an investigation into how it became stuck on Saturday morning. The Coral Adventurer remained stuck on a reef off the north coast of Papua New Guinea, about 30km from PNG’s second-largest city, Lae, on Tuesday, as efforts to refloat it continue. Continue reading...",
-    "ingested_utc": "2025-12-30T03:58:02Z"
-  },
-  {
-    "published_utc": "2025-12-30",
-    "retrieved_date": "2025-12-30",
-    "retrieved_utc": "2025-12-30T03:58:00Z",
-    "source": "BBC_Business",
-    "title": "China AI plans aim to protect children and tackle suicide risks",
-    "url": "https://www.bbc.com/news/articles/c8dydlmenvro?at_medium=RSS&at_campaign=rss",
-    "id_key": "3be39cadd17a5aba1ad3c3e06600a8fee685e100b49670c447c52b36d1dd4cb2",
-    "summary": "The draft regulations are aimed to address concerns around chatbots, which have surged in popularity in recent months.",
-    "ingested_utc": "2025-12-30T03:58:00Z"
-  },
-  {
-    "published_utc": "2025-12-30",
-    "retrieved_date": "2025-12-30",
-    "retrieved_utc": "2025-12-30T03:57:59Z",
-    "source": "BBC_World",
-    "title": "How growing up in war really affects an 11-year-old",
-    "url": "https://www.bbc.com/news/articles/cre3pdxde7vo?at_medium=RSS&at_campaign=rss",
-    "id_key": "f533ccc3d4193c28b0ade190f6a4ea3a540a450f8a61562fba4cb4b83fe803b8",
-    "summary": "Fergal Keane has met thousands of traumatised children while reporting on conflicts. Here, he researches the long-term effect on them - and what, if anything, can help.",
-    "ingested_utc": "2025-12-30T03:57:59Z"
   }
 ]
