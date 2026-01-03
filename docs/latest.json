@@ -2,6 +2,17 @@
   {
     "published_utc": "2026-01-03",
     "retrieved_date": "2026-01-03",
+    "retrieved_utc": "2026-01-03T23:44:40Z",
+    "source": "NYTimes_World",
+    "title": "A Pardon and a Prosecution in New York Show Trump’s Personal Geopolitics",
+    "url": "https://www.nytimes.com/2026/01/03/world/americas/trump-maduro-juan-orlando-hernandez.html",
+    "id_key": "d460f709ecfe624b4fc4b5fddcc7ce6f0c48a73bbe2b37ab804f3a5fa1ff7ba4",
+    "summary": "The facts in the cases of Nicolás Maduro and Juan Orlando Hernández are strikingly similar. The men’s fates are not.",
+    "ingested_utc": "2026-01-03T23:44:40Z"
+  },
+  {
+    "published_utc": "2026-01-03",
+    "retrieved_date": "2026-01-03",
     "retrieved_utc": "2026-01-03T23:33:53Z",
     "source": "HackerNews_Top",
     "title": "China DRAM Maker CXMT Targets $4.2B IPO as It Takes on Samsung, SK Hynix, Micron",
@@ -10987,16 +10998,5 @@
     "id_key": "0b79825f63366eded56a0b566038cbfc99310bd0769921d5d5810f5e871532cb",
     "summary": "Government staffing cuts and instability, including this year’s prolonged shutdown, could be hindering US digital defense and creating vulnerabilities.",
     "ingested_utc": "2025-12-31T11:14:59Z"
-  },
-  {
-    "published_utc": "2025-12-31",
-    "retrieved_date": "2025-12-31",
-    "retrieved_utc": "2025-12-31T11:14:43Z",
-    "source": "FT_Home",
-    "title": "Drug gangs pose grave threat to European security, agency warns",
-    "url": "https://www.ft.com/content/10148719-3761-4b9f-b52c-5829fdc790d0",
-    "id_key": "f9486c2d1b1ab0b0b4392098386b107f888bef26fe97bae186987d00c739d17c",
-    "summary": "Scale of Europe’s narcotics crisis ‘not even possible to imagine’, says EUDA director Alexis Goosdeel",
-    "ingested_utc": "2025-12-31T11:14:43Z"
   }
 ]
