@@ -2,6 +2,28 @@
   {
     "published_utc": "2026-01-03",
     "retrieved_date": "2026-01-03",
+    "retrieved_utc": "2026-01-03T07:34:01Z",
+    "source": "FinancialPost_Business",
+    "title": "Canadian furniture, cabinet industry still ‘reeling’ after Trump pauses tariff spike",
+    "url": "https://financialpost.com/pmn/canadian-furniture-cabinet-industry-still-reeling-after-trump-pauses-tariff-spike-2",
+    "id_key": "eac4961a9d3df420bbc62357c577f4d01ab2f8b3311287d6d483586a1f2a574d",
+    "summary": "WASHINGTON — The Canadian Kitchen Cabinet Association says while it welcomes U.S. President Donald Trump’s postponement of tariff increases on furniture, cabinets and vanities, the industry is still being devastated by the duties. Trump hit the sector with 25 per cent tariffs in October but paused a promised increase to a total of 30 per […]",
+    "ingested_utc": "2026-01-03T07:34:01Z"
+  },
+  {
+    "published_utc": "2026-01-03",
+    "retrieved_date": "2026-01-03",
+    "retrieved_utc": "2026-01-03T07:31:26Z",
+    "source": "CryptoBriefing",
+    "title": "Bitcoin ETFs attract $471 million to kick off the new year",
+    "url": "https://cryptobriefing.com/blackrock-clients-buy-bitcoin-etfs-471-m-new-year/",
+    "id_key": "f8ac5aced139009ddec7223a9842a36a927600523c5795ac23120062337bbf50",
+    "summary": "The influx into Bitcoin ETFs signals renewed investor confidence, potentially stabilizing the crypto market and encouraging further institutional interest. The post Bitcoin ETFs attract $471 million to kick off the new year appeared first on Crypto Briefing .",
+    "ingested_utc": "2026-01-03T07:31:26Z"
+  },
+  {
+    "published_utc": "2026-01-03",
+    "retrieved_date": "2026-01-03",
     "retrieved_utc": "2026-01-03T07:16:05Z",
     "source": "HackerNews_Top",
     "title": "Loud noises heard in Venezuela capital, southern area without electricity",
@@ -10976,27 +10998,5 @@
     "id_key": "c5d0adf2ade7a5a4b2201715b67814894a18a65dac8fc934315e38543b170346",
     "summary": "China's People's Liberation Army is staging a second day of large-scale military drills around Taiwan. It's unleashing live-fire exercises as part of what it calls \"Justice Mission 2025.\"",
     "ingested_utc": "2025-12-31T08:20:25Z"
-  },
-  {
-    "published_utc": "2025-12-30",
-    "retrieved_date": "2025-12-31",
-    "retrieved_utc": "2025-12-31T05:41:38Z",
-    "source": "FT_Markets",
-    "title": "How the AI ‘bubble’ compares to history",
-    "url": "https://www.ft.com/content/41e9d03a-e5c1-4862-9836-b3c80b3f9be4",
-    "id_key": "108ca177355648a8156a418037cd6e78c7d52dc1a3ac5901743db503524d033b",
-    "summary": "US stock valuations are higher than before 1929 Wall Street crash but the dominance of a single sector has precedents",
-    "ingested_utc": "2025-12-31T05:41:38Z"
-  },
-  {
-    "published_utc": "2025-12-30",
-    "retrieved_date": "2025-12-31",
-    "retrieved_utc": "2025-12-31T05:41:38Z",
-    "source": "FT_Markets",
-    "title": "Dollar on track for steepest annual drop for almost a decade",
-    "url": "https://www.ft.com/content/1712a946-5861-444e-9740-d488c865c5cf",
-    "id_key": "b01f96943e10df418d6cf5ed5ead95a2be31f5904346cd061e9abf5378e6c55e",
-    "summary": "Analysts say Federal Reserve rate cuts will push the US currency lower in 2026",
-    "ingested_utc": "2025-12-31T05:41:38Z"
   }
 ]
