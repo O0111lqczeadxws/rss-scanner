@@ -1,13 +1,13 @@
 {
-  "started_utc": "2026-01-03T16:14:04Z",
-  "ended_utc": "2026-01-03T16:17:32Z",
-  "new_items_this_run": 5,
+  "started_utc": "2026-01-03T16:39:36Z",
+  "ended_utc": "2026-01-03T16:42:59Z",
+  "new_items_this_run": 6,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
     "Reuters_World": 0,
     "Reuters_Markets": 0,
-    "BBC_World": 1,
+    "BBC_World": 0,
     "BBC_Business": 0,
     "BBC_Technology": 0,
     "Guardian_Business": 0,
@@ -19,7 +19,7 @@
     "MarketWatch_MarketPulse": 0,
     "Blockworks": 0,
     "BitcoinMagazine": 0,
-    "CryptoSlate": 0,
+    "CryptoSlate": 1,
     "CryptoBriefing": 0,
     "Protos": 0,
     "CryptoNews": 0,
@@ -57,11 +57,11 @@
     "MarketWatch_Bulletins": 0,
     "MarketWatch_PersonalFinance": 0,
     "NYTimes_Business": 0,
-    "NYTimes_World": 2,
+    "NYTimes_World": 1,
     "NYTimes_Economy": 0,
     "NYTimes_Technology": 0,
     "CNN_Top": 0,
-    "NPR_Top": 0,
+    "NPR_Top": 1,
     "NPR_Business": 0,
     "NPR_Economy": 0,
     "NPR_World": 0,
@@ -81,7 +81,7 @@
     "TheStreet_Top": 1,
     "AlJazeera_All": 0,
     "AlJazeera_Economy": 0,
-    "FinancialPost_Business": 0,
+    "FinancialPost_Business": 1,
     "CBC_Business": 0,
     "Nikkei_Asia_Top": 0,
     "WorldBank_News": 0,
@@ -152,14 +152,6 @@
     },
     {
       "source": "Uniswap_Blog",
-      "error": "fatal parse failure"
-    },
-    {
-      "source": "https://medium.com/feed/aave",
-      "error": "fetch error: HTTP 429"
-    },
-    {
-      "source": "Aave_Blog",
       "error": "fatal parse failure"
     },
     {
@@ -343,18 +335,18 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 426,
+    "passed_keywords": 428,
     "passed_allowlist": 1,
-    "failed_all_filters": 495
+    "failed_all_filters": 493
   },
   "stats": {
     "feeds_total": 97,
-    "feeds_error": 24,
+    "feeds_error": 23,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 1521,
-    "too_old": 599,
-    "dup_title_url": 81,
+    "entries_seen": 1531,
+    "too_old": 609,
+    "dup_title_url": 82,
     "dup_id": 341
   },
   "limits": {
@@ -368,6 +360,6 @@
   },
   "processed": {
     "file": "data/processed/2026-01-03.jsonl",
-    "appended_new": 5
+    "appended_new": 6
   }
 }
