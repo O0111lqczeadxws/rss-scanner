@@ -2,6 +2,17 @@
   {
     "published_utc": "2026-01-03",
     "retrieved_date": "2026-01-03",
+    "retrieved_utc": "2026-01-03T20:15:43Z",
+    "source": "NYTimes_World",
+    "title": "Venezuela Live Updates: Trump Says U.S. Will ‘Run the Country’ After Capture of Maduro",
+    "url": "https://www.nytimes.com/live/2026/01/03/world/trump-united-states-strikes-venezuela",
+    "id_key": "87e25a2d4f56b7409d327535dd57292726bcdbc615d894830b83b10352a7c86e",
+    "summary": "Delcy Rodríguez, Venezuela’s vice president who was sworn in as interim leader, contradicted President Trump by rejecting U.S. intervention and demanding Nicolás Maduro’s return. Maduro and his wife were being taken to New York to stand trial on drug and weapons charges.",
+    "ingested_utc": "2026-01-03T20:15:43Z"
+  },
+  {
+    "published_utc": "2026-01-03",
+    "retrieved_date": "2026-01-03",
     "retrieved_utc": "2026-01-03T19:50:31Z",
     "source": "TheStreet_Top",
     "title": "54-year-old furniture chain closing forever, no bankruptcy",
@@ -10987,16 +10998,5 @@
     "id_key": "30b44310c23626f11f6d4043dbe95c849ccfeed358a4f8e9b5b7f12d9a903f2f",
     "summary": "Customs agents have broad authority to search the electronic devices of travelers entering and leaving the U.S. Here are tips for keeping your data safe.",
     "ingested_utc": "2025-12-31T10:15:51Z"
-  },
-  {
-    "published_utc": "2025-12-31",
-    "retrieved_date": "2025-12-31",
-    "retrieved_utc": "2025-12-31T10:14:05Z",
-    "source": "CoinJournal",
-    "title": "China’s move to pay interest on e-CNY sparks US stablecoin debate",
-    "url": "https://coinjournal.net/news/chinas-move-to-pay-interest-on-e-cny-sparks-us-stablecoin-debate/",
-    "id_key": "3f5157fb3ce4cbe7600faf2ae5a45cc2b70b5a241065e70bb211cac3f1106298",
-    "summary": "China will allow interest on digital yuan (e-CNY) holdings starting in 2026. US banks and crypto firms clash over enforcing the GENIUS Act ban. Coinbase executive warns stablecoin yield bans could weaken US global competitiveness. China’s central bank, the People’s Bank of China (PBOC), announced earlier this week that it will allow commercial banks to […] The post China’s move to pay interest on e-CNY sparks US stablecoin debate appeared first on CoinJournal .",
-    "ingested_utc": "2025-12-31T10:14:05Z"
   }
 ]
