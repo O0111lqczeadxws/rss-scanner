@@ -2,6 +2,28 @@
   {
     "published_utc": "2026-01-03",
     "retrieved_date": "2026-01-03",
+    "retrieved_utc": "2026-01-03T14:35:46Z",
+    "source": "HackerNews_Top",
+    "title": "Profiling with Ctrl-C (2024)",
+    "url": "https://yosefk.com/blog/profiling-with-ctrl-c.html",
+    "id_key": "37c2e55740b861e209d57159f3aeac6da1811703f945dc13c7b01d8e2fe8a3ac",
+    "summary": "Comments",
+    "ingested_utc": "2026-01-03T14:35:46Z"
+  },
+  {
+    "published_utc": "2026-01-03",
+    "retrieved_date": "2026-01-03",
+    "retrieved_utc": "2026-01-03T14:35:28Z",
+    "source": "TheStreet_Top",
+    "title": "Costco quietly raised price of popular member item",
+    "url": "https://www.thestreet.com/retail/costco-quietly-raised-price-of-popular-member-item",
+    "id_key": "ad39d47dc25da5d8377fa284341dec1317c4a5076ec2412329f6a8a5449e1b43",
+    "summary": "One of the best perks of shopping at Costco, at least for me, is loading up on fun snacks you won't necessarily find elsewhere. Granted, this strategy isn't the best for my budget or my waistline. But I can't help it – I'm a natural snacker. What I love about Costco's snack offerings is that ...",
+    "ingested_utc": "2026-01-03T14:35:28Z"
+  },
+  {
+    "published_utc": "2026-01-03",
+    "retrieved_date": "2026-01-03",
     "retrieved_utc": "2026-01-03T14:14:35Z",
     "source": "HackerNews_Top",
     "title": "ParadeDB (YC S23) Is Hiring Database Engineers",
@@ -10976,27 +10998,5 @@
     "id_key": "f921e8d11fd7bed06dadc4349ba24ed8d29d15594c5955aede483bc7a71fbe74",
     "summary": "Comments",
     "ingested_utc": "2025-12-31T04:38:03Z"
-  },
-  {
-    "published_utc": "2025-12-31",
-    "retrieved_date": "2025-12-31",
-    "retrieved_utc": "2025-12-31T04:37:53Z",
-    "source": "FinancialPost_Business",
-    "title": "China Limits Trade-In Subsidy for 2026 in Hit to Some Carmakers",
-    "url": "https://financialpost.com/pmn/business-pmn/china-limits-trade-in-subsidy-for-2026-in-hit-to-some-carmakers",
-    "id_key": "1ea6aa1ac6441ec17628668aa253ba657a02cb187e8ee54fbe5094f109df99a3",
-    "summary": "China has adjusted its cash-for-clunkers program that could impact lower-priced brands such as BYD Co., potentially reducing the boost to new car sales next year.",
-    "ingested_utc": "2025-12-31T04:37:53Z"
-  },
-  {
-    "published_utc": "2025-12-31",
-    "retrieved_date": "2025-12-31",
-    "retrieved_utc": "2025-12-31T04:37:53Z",
-    "source": "FinancialPost_Business",
-    "title": "Torrential rain shuts and washes out highways in B.C.’s north coast",
-    "url": "https://financialpost.com/pmn/torrential-rain-shuts-and-washes-out-highways-in-b-c-s-north-coast-2",
-    "id_key": "2986a5736418145e833ea9dcedf8b2e97e0c865854b624530316b3dec28033f5",
-    "summary": "PRINCE RUPERT — Torrential rain of more than 200 millimetres in places along British Columbia’s north coast shuttered highways and cut off the main road access to Prince Rupert. The B.C. Ministry of Transportation’s DriveBC information system had said Highway 16 linking Prince Rupert to communities in the east, including Terrace, had been shut in […]",
-    "ingested_utc": "2025-12-31T04:37:53Z"
   }
 ]
