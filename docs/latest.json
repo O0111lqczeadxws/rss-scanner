@@ -2,6 +2,17 @@
   {
     "published_utc": "2026-01-03",
     "retrieved_date": "2026-01-03",
+    "retrieved_utc": "2026-01-03T21:14:12Z",
+    "source": "HackerNews_Top",
+    "title": "As deep-sea mining race ramps up, mission will assess whether ecosystems recover",
+    "url": "https://www.science.org/content/article/deep-sea-mining-race-ramps-mission-will-assess-whether-ecosystems-recover-afterward",
+    "id_key": "e7b5739abf8bc94419a2b1bf47d2b782c9854e1b12d20ac3dc4c62191da04209",
+    "summary": "Comments",
+    "ingested_utc": "2026-01-03T21:14:12Z"
+  },
+  {
+    "published_utc": "2026-01-03",
+    "retrieved_date": "2026-01-03",
     "retrieved_utc": "2026-01-03T20:53:56Z",
     "source": "TheStreet_Top",
     "title": "26-year-old mattress chain closing its doors forever",
@@ -10987,16 +10998,5 @@
     "id_key": "33a73df38c591cb2707d9dabf18132c9aa3eaca0c7d9e503ac4246ece50ff902",
     "summary": "Exclusive: Officers described a culture of silence and lack of support during police-on-police complaints Police officers fear reporting colleagues for wrongdoing because they do not believe they will be supported for breaking a culture of silence, a new survey has found. Almost half of officers think their complaints against fellow officers are mishandled, the survey seen by the Guardian found. It was carried out by the Police Federation (PFEW), which represents 140,000 rank and file officers across England and Wales. Continue reading...",
     "ingested_utc": "2025-12-31T10:53:05Z"
-  },
-  {
-    "published_utc": "2025-12-31",
-    "retrieved_date": "2025-12-31",
-    "retrieved_utc": "2025-12-31T10:53:01Z",
-    "source": "BBC_World",
-    "title": "Mali and Burkina Faso impose travel ban on US citizens in tit-for-tat move",
-    "url": "https://www.bbc.com/news/articles/cgrdjx1d1vjo?at_medium=RSS&at_campaign=rss",
-    "id_key": "d4f19a92f10b03fa69b8f37e5030de81935335cd6e53bb9de4386232031c84d6",
-    "summary": "The two states say they are taking reciprocal measures after the US announced full-entry restrictions on their citizens.",
-    "ingested_utc": "2025-12-31T10:53:01Z"
   }
 ]
