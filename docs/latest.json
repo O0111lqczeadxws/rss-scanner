@@ -2,6 +2,50 @@
   {
     "published_utc": "2026-01-03",
     "retrieved_date": "2026-01-03",
+    "retrieved_utc": "2026-01-03T16:57:29Z",
+    "source": "HackerNews_Top",
+    "title": "IDF database suggests that at least 83% of Gaza dead were civilians",
+    "url": "https://www.972mag.com/israeli-intelligence-database-83-percent-civilians-militants/",
+    "id_key": "1539c9ccd1015a084100b51d69f3fe932df49b5ff09d80eb8c6424d2060482c7",
+    "summary": "Comments",
+    "ingested_utc": "2026-01-03T16:57:29Z"
+  },
+  {
+    "published_utc": "2026-01-03",
+    "retrieved_date": "2026-01-03",
+    "retrieved_utc": "2026-01-03T16:57:19Z",
+    "source": "FinancialPost_Business",
+    "title": "Kyiv Hosts Allies to Hash Out Security Guarantees, Investment",
+    "url": "https://financialpost.com/pmn/business-pmn/kyiv-hosts-allied-security-chiefs-in-bid-to-nail-down-guarantees",
+    "id_key": "763ed9a15545d511ee3f737070379ae2872f8b8ad0b33b357dd8a06adbdc5039",
+    "summary": "Kyiv hosted national security advisers from its top allies for talks on security guarantees and economic support for Ukraine as part of the global effort to end Russia’s four-year invasion.",
+    "ingested_utc": "2026-01-03T16:57:19Z"
+  },
+  {
+    "published_utc": "2026-01-03",
+    "retrieved_date": "2026-01-03",
+    "retrieved_utc": "2026-01-03T16:56:44Z",
+    "source": "FT_Home",
+    "title": "Trump says US to ‘run’ Venezuela after capture of Maduro — watch live",
+    "url": "https://www.ft.com/content/48be0c3d-0a37-4aac-be47-f15f7f1761b8",
+    "id_key": "d8ea8efff82b9374d1cf805d0516ac389f3627ea2e548ca63de4dd0009d6f261",
+    "summary": "Strongman leader Nicolás Maduro has been captured and flown out of country, US says",
+    "ingested_utc": "2026-01-03T16:56:44Z"
+  },
+  {
+    "published_utc": "2026-01-03",
+    "retrieved_date": "2026-01-03",
+    "retrieved_utc": "2026-01-03T16:54:21Z",
+    "source": "Guardian_World",
+    "title": "Donald Trump says US is ‘going to run’ Venezuela after overnight strikes – live",
+    "url": "https://www.theguardian.com/world/live/2026/jan/03/caracas-explosions-venezuela-maduro-latest-news-updates-live",
+    "id_key": "8a1af610c2a12684c9c0499037cdd5feb297cb92c9d89d65691f390f6f8f2129",
+    "summary": "US president says ‘we’re going to run the country until a safe, proper and judicious transition’ can take place and that he is ‘prepared’ for a second attack Full report: US captures Maduro during ‘large scale’ attack Why has US attacked Caracas and captured Venezuela’s president? What we know so far about the attack Watch: Aircraft fly low over Caracas as explosions hit city The Reuters news agency says it has been told by a US official, speaking on the condition of anonymity, that the US carried out strikes inside Venezuela on Saturday . The unnamed official did not provide details. As mentioned earlier, the White House and Pentagon did not immediately respond to request for comment on Saturday morning. Continue reading...",
+    "ingested_utc": "2026-01-03T16:54:21Z"
+  },
+  {
+    "published_utc": "2026-01-03",
+    "retrieved_date": "2026-01-03",
     "retrieved_utc": "2026-01-03T16:42:48Z",
     "source": "FinancialPost_Business",
     "title": "Kyiv Hosts Security Chiefs in Bid to Nail Down Guarantees",
@@ -1230,6 +1274,17 @@
     "id_key": "48b9d80f30085b1ce8154dffb1e393651f1a6a2a5d894710efff27944d9e487d",
     "summary": "TORONTO, Jan. 02, 2026 (GLOBE NEWSWIRE) — ABERDEEN INTERNATIONAL INC. (“Aberdeen” or the “Company”) (TSX: AAB, F:A8H, OTC:AABVF) announces today that Bernard Wilson has resigned as a director of the Company. The board and management thank Mr. Wilson for his services and extensive contributions and wish him well in his future endeavours. ABOUT ABERDEEN INTERNATIONAL INC. […]",
     "ingested_utc": "2026-01-03T00:58:37Z"
+  },
+  {
+    "published_utc": "2026-01-02",
+    "retrieved_date": "2026-01-03",
+    "retrieved_utc": "2026-01-03T16:56:42Z",
+    "source": "NPR_World",
+    "title": "Trump vows to 'rescue' Iran's protesters. Iran warns the U.S. to stay out of it",
+    "url": "https://www.npr.org/2026/01/02/g-s1-104265/trump-iran-protests",
+    "id_key": "7ffb629eff6e9edef3a4db838f87a793cb7a1ef8cc37498204f6e83ee55d4418",
+    "summary": "President Trump warned Iran not to kill protesters. Iranian officials alleged the U.S. and Israel were stoking the sweeping protests, and said U.S. military bases in the region are legitimate targets.",
+    "ingested_utc": "2026-01-03T16:56:42Z"
   },
   {
     "published_utc": "2026-01-02",
@@ -10943,60 +10998,5 @@
     "id_key": "ac22feb856f7a26f36e50caecae5ba7d9c1fabb79aa20db1bb429af881e74199",
     "summary": "Switch from defined benefit to defined contribution model aims to ensure long-term sustainability",
     "ingested_utc": "2025-12-31T08:20:26Z"
-  },
-  {
-    "published_utc": "2025-12-31",
-    "retrieved_date": "2025-12-31",
-    "retrieved_utc": "2025-12-31T08:18:12Z",
-    "source": "Guardian_World",
-    "title": "Guinea’s junta chief elected president after opposition boycott",
-    "url": "https://www.theguardian.com/world/2025/dec/31/guinea-junta-chief-mamady-doumbouya-elected-president-after-opposition-boycott",
-    "id_key": "f7882347a9e6879e4b4c922a3c2a6d7d6d0dfc77286c5b19e3de3b4b28f7f348",
-    "summary": "Mamady Doumbouya had reneged on promise not to stand and hand west African country back to civilian rule The head of Guinea’s junta, Mamady Doumbouya, who had pledged not to run for office after seizing power four years ago, has been elected president after the country’s electoral commission said he had secured a sweeping majority of the vote. Doumbouya, 41, faced eight rivals for the presidency but the main opposition leaders were barred from running and had urged a boycott of the vote held over the weekend. Continue reading...",
-    "ingested_utc": "2025-12-31T08:18:12Z"
-  },
-  {
-    "published_utc": "2025-12-31",
-    "retrieved_date": "2025-12-31",
-    "retrieved_utc": "2025-12-31T07:45:10Z",
-    "source": "AlJazeera_All",
-    "title": "Displacement camps swell with people fleeing Sudan’s war-ravaged el-Fasher",
-    "url": "https://www.aljazeera.com/news/2025/12/31/displacement-camps-swell-with-people-fleeing-sudans-war-ravaged-el-fasher?traffic_source=rss",
-    "id_key": "99932f9cdf9d7978db32c43ec21c748e3ee5503ecce886c6caed2bf530c7c08f",
-    "summary": "Satellites show one camp spanning 500,000 square metres near the city of al-Dabba, as tens of thousands seek refuge.",
-    "ingested_utc": "2025-12-31T07:45:10Z"
-  },
-  {
-    "published_utc": "2025-12-31",
-    "retrieved_date": "2025-12-31",
-    "retrieved_utc": "2025-12-31T07:42:49Z",
-    "source": "CryptoNews",
-    "title": "Family Offices Expand Crypto Exposure, but Volatility Clouds 2026 Outlook",
-    "url": "https://cryptonews.com/news/family-offices-expand-crypto-exposure-but-volatility-clouds-2026-outlook/",
-    "id_key": "4ba41bcbbd176dd218720fcb2222072277ea55aacfd6f549f517246117f85985",
-    "summary": "Global family offices increased their exposure to cryptocurrencies in 2025, with a growing number entering the market for the first time. The post Family Offices Expand Crypto Exposure, but Volatility Clouds 2026 Outlook appeared first on Cryptonews .",
-    "ingested_utc": "2025-12-31T07:42:49Z"
-  },
-  {
-    "published_utc": "2025-12-31",
-    "retrieved_date": "2025-12-31",
-    "retrieved_utc": "2025-12-31T07:42:25Z",
-    "source": "Guardian_World",
-    "title": "Australia says ‘deeply concerning, destabilising’ Chinese exercises near Taiwan risk inflaming regional tension",
-    "url": "https://www.theguardian.com/australia-news/2025/dec/31/australia-says-deeply-concerning-destabilising-chinese-exercises-near-taiwan-risk-inflaming-regional-tension",
-    "id_key": "dff86d4583da0b2786d3cd90487680c7a1fe48c8d468719ea60bcae6a8c7b687",
-    "summary": "Foreign affairs department statement says Australia opposes any actions that ‘increase the risk of accident, miscalculation or escalation’ Get our breaking news email , free app or daily news podcast Australia says it is deeply concerned about Chinese military exercises near Taiwan, and has raised the issue with Chinese officials. In a statement released on Wednesday , the Department of Foreign Affairs and Trade (Dfat) said the large-scale simulations risked destabilising the region and could result in an accident or escalation. Continue reading...",
-    "ingested_utc": "2025-12-31T07:42:25Z"
-  },
-  {
-    "published_utc": "2025-12-31",
-    "retrieved_date": "2025-12-31",
-    "retrieved_utc": "2025-12-31T07:42:25Z",
-    "source": "Guardian_World",
-    "title": "French public broadcaster under fire as right sets up parliamentary inquiry",
-    "url": "https://www.theguardian.com/world/2025/dec/31/french-public-broadcaster-under-parliamentary-inquiry-into-neutrality-workings-and-financing-udr",
-    "id_key": "b75669ab36517776c17349d2640e5e62646dd8b8fa543ab56744be68bfb5fa7a",
-    "summary": "Investigation established by UDR party to look at ‘neutrality, workings and financing’ of state TV and radio The French public broadcaster is at the centre of a political row as a parliamentary inquiry examines the “neutrality, workings and financing” of state TV and radio, while the media are expected to play a significant role ahead of the 2027 presidential election. The rightwing UDR party, an ally of Marine Le Pen ’s far-right the National Rally (RN), set up the inquiry amid far-right claims that public TV and radio has a bias against them. Le Pen, whose party is expected to reach the final round of the presidential race, has said “there is a clear problem with neutrality in the public service broadcasting” and that she would like to privatise it. Continue reading...",
-    "ingested_utc": "2025-12-31T07:42:25Z"
   }
 ]

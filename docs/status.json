@@ -1,7 +1,7 @@
 {
-  "started_utc": "2026-01-03T16:39:36Z",
-  "ended_utc": "2026-01-03T16:42:59Z",
-  "new_items_this_run": 6,
+  "started_utc": "2026-01-03T16:54:01Z",
+  "ended_utc": "2026-01-03T16:57:30Z",
+  "new_items_this_run": 5,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
@@ -19,7 +19,7 @@
     "MarketWatch_MarketPulse": 0,
     "Blockworks": 0,
     "BitcoinMagazine": 0,
-    "CryptoSlate": 1,
+    "CryptoSlate": 0,
     "CryptoBriefing": 0,
     "Protos": 0,
     "CryptoNews": 0,
@@ -57,16 +57,16 @@
     "MarketWatch_Bulletins": 0,
     "MarketWatch_PersonalFinance": 0,
     "NYTimes_Business": 0,
-    "NYTimes_World": 1,
+    "NYTimes_World": 0,
     "NYTimes_Economy": 0,
     "NYTimes_Technology": 0,
     "CNN_Top": 0,
-    "NPR_Top": 1,
+    "NPR_Top": 0,
     "NPR_Business": 0,
     "NPR_Economy": 0,
-    "NPR_World": 0,
+    "NPR_World": 1,
     "NPR_Technology": 0,
-    "FT_Home": 0,
+    "FT_Home": 1,
     "FT_Markets": 0,
     "CNBC_Top": 0,
     "CNBC_Markets": 0,
@@ -78,7 +78,7 @@
     "TheEconomist_Business": 0,
     "TheEconomist_Finance": 0,
     "Investopedia_Latest": 0,
-    "TheStreet_Top": 1,
+    "TheStreet_Top": 0,
     "AlJazeera_All": 0,
     "AlJazeera_Economy": 0,
     "FinancialPost_Business": 1,
@@ -87,7 +87,7 @@
     "WorldBank_News": 0,
     "OECD_Newsroom": 0,
     "MIT_TechReview": 0,
-    "HackerNews_Top": 0
+    "HackerNews_Top": 1
   },
   "errors": [
     {
@@ -335,7 +335,7 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 428,
+    "passed_keywords": 426,
     "passed_allowlist": 1,
     "failed_all_filters": 493
   },
@@ -344,9 +344,9 @@
     "feeds_error": 23,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 1531,
-    "too_old": 609,
-    "dup_title_url": 82,
+    "entries_seen": 1530,
+    "too_old": 610,
+    "dup_title_url": 81,
     "dup_id": 341
   },
   "limits": {
@@ -360,6 +360,6 @@
   },
   "processed": {
     "file": "data/processed/2026-01-03.jsonl",
-    "appended_new": 6
+    "appended_new": 5
   }
 }
