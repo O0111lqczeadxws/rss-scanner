@@ -2,6 +2,28 @@
   {
     "published_utc": "2026-01-03",
     "retrieved_date": "2026-01-03",
+    "retrieved_utc": "2026-01-03T22:37:12Z",
+    "source": "WIRED_All",
+    "title": "What Happens Next in Venezuela—and the Rest of Latin America?",
+    "url": "https://www.wired.com/story/what-happens-next-in-venezuela-and-the-rest-of-latin-america/",
+    "id_key": "0334334d315162df34aa067e08857a41bce454e1ecfc58aa780e4efeaacdb478",
+    "summary": "Donald Trump says that Venezuela's governance will remain in the hands of senior US officials until a \"proper and judicious transition\" can take place. The rest of the region is on notice.",
+    "ingested_utc": "2026-01-03T22:37:12Z"
+  },
+  {
+    "published_utc": "2026-01-03",
+    "retrieved_date": "2026-01-03",
+    "retrieved_utc": "2026-01-03T22:36:55Z",
+    "source": "FT_Home",
+    "title": "Nicolás Maduro arrives at military base in New York",
+    "url": "https://www.ft.com/content/48be0c3d-0a37-4aac-be47-f15f7f1761b8",
+    "id_key": "c4b3e6fd0e57fefb00887e7d3df8777e1bea0ab1e63cb46cb961a231f064f159",
+    "summary": "Venezuelan strongman leader lands in the US after being captured early Saturday morning in Caracas",
+    "ingested_utc": "2026-01-03T22:36:55Z"
+  },
+  {
+    "published_utc": "2026-01-03",
+    "retrieved_date": "2026-01-03",
     "retrieved_utc": "2026-01-03T22:14:29Z",
     "source": "AlJazeera_All",
     "title": "Internet disruption, several arrests made as Iran protests continue",
@@ -10976,27 +10998,5 @@
     "id_key": "e230a63ef5dbd86b11f40bcbffcd2f5142cebfa7c4063ecf53676d2210cb6131",
     "summary": "French shares edged lower and UK stocks were steady as the European benchmark was set to wrap up 2025 near record highs.",
     "ingested_utc": "2025-12-31T10:56:03Z"
-  },
-  {
-    "published_utc": "2025-12-31",
-    "retrieved_date": "2025-12-31",
-    "retrieved_utc": "2025-12-31T10:56:03Z",
-    "source": "FinancialPost_Business",
-    "title": "Europe Gas Heads for Sharp Annual Drop as LNG Surge Calms Market",
-    "url": "https://financialpost.com/pmn/business-pmn/europe-gas-heads-for-sharp-annual-drop-as-lng-surge-calms-market",
-    "id_key": "970c4cc2b2f4cce123d89faf7f1fe2698b93e4ac68aec60e89dec9feb818d866",
-    "summary": "European natural gas prices are heading for a sharp annual drop despite unusually low inventories, a sign of how dramatically the market has changed since the energy crisis as a wave of LNG reshapes supply expectations.",
-    "ingested_utc": "2025-12-31T10:56:03Z"
-  },
-  {
-    "published_utc": "2025-12-31",
-    "retrieved_date": "2025-12-31",
-    "retrieved_utc": "2025-12-31T10:55:57Z",
-    "source": "AlJazeera_All",
-    "title": "What being a woman in Gaza means in this genocidal war?",
-    "url": "https://www.aljazeera.com/features/2025/12/31/what-being-a-woman-in-gaza-means-in-this-genocidal-war?traffic_source=rss",
-    "id_key": "d7cba6c8c6404b1e9567de962a1d6ac56ffbe9ce06e7c416b919e7286ce6660e",
-    "summary": "Mothers starving to feed children, surgeries without anaesthesia and loss of privacy define female experience in Gaza.",
-    "ingested_utc": "2025-12-31T10:55:57Z"
   }
 ]
