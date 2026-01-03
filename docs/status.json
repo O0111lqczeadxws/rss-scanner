@@ -1,13 +1,13 @@
 {
-  "started_utc": "2026-01-03T17:48:15Z",
-  "ended_utc": "2026-01-03T17:51:36Z",
-  "new_items_this_run": 3,
+  "started_utc": "2026-01-03T18:16:42Z",
+  "ended_utc": "2026-01-03T18:20:27Z",
+  "new_items_this_run": 2,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
     "Reuters_World": 0,
     "Reuters_Markets": 0,
-    "BBC_World": 0,
+    "BBC_World": 1,
     "BBC_Business": 0,
     "BBC_Technology": 0,
     "Guardian_Business": 0,
@@ -66,7 +66,7 @@
     "NPR_Economy": 0,
     "NPR_World": 0,
     "NPR_Technology": 0,
-    "FT_Home": 1,
+    "FT_Home": 0,
     "FT_Markets": 0,
     "CNBC_Top": 0,
     "CNBC_Markets": 0,
@@ -74,7 +74,7 @@
     "TechCrunch_All": 0,
     "ArsTechnica_All": 0,
     "WIRED_All": 0,
-    "Engadget_All": 1,
+    "Engadget_All": 0,
     "TheEconomist_Business": 0,
     "TheEconomist_Finance": 0,
     "Investopedia_Latest": 0,
@@ -335,19 +335,19 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 416,
+    "passed_keywords": 418,
     "passed_allowlist": 1,
-    "failed_all_filters": 503
+    "failed_all_filters": 509
   },
   "stats": {
     "feeds_total": 97,
     "feeds_error": 23,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 1530,
+    "entries_seen": 1538,
     "too_old": 610,
-    "dup_title_url": 77,
-    "dup_id": 337
+    "dup_title_url": 78,
+    "dup_id": 339
   },
   "limits": {
     "skip_older_days": 10,
@@ -360,6 +360,6 @@
   },
   "processed": {
     "file": "data/processed/2026-01-03.jsonl",
-    "appended_new": 3
+    "appended_new": 2
   }
 }

@@ -2,6 +2,28 @@
   {
     "published_utc": "2026-01-03",
     "retrieved_date": "2026-01-03",
+    "retrieved_utc": "2026-01-03T18:20:17Z",
+    "source": "FinancialPost_Business",
+    "title": "Trump Says US to ‘Run Venezuela’ in Interim After Maduro",
+    "url": "https://financialpost.com/pmn/business-pmn/trump-says-us-to-run-venezuela-in-interim-after-maduro",
+    "id_key": "585d8c5eb6876e1f0ad6d40c2e34d2de29e5d3e8dd577c9b43ec838b77504299",
+    "summary": "President Donald Trump said the US would run Venezuela until a transition could be organized, hours after a US operation captured leader Nicolás Maduro, ousting the strongman from power after months of mounting military and economic pressure on his regime.",
+    "ingested_utc": "2026-01-03T18:20:17Z"
+  },
+  {
+    "published_utc": "2026-01-03",
+    "retrieved_date": "2026-01-03",
+    "retrieved_utc": "2026-01-03T18:16:59Z",
+    "source": "BBC_World",
+    "title": "Why has Trump attacked Venezuela and taken Maduro?",
+    "url": "https://www.bbc.com/news/articles/c93n4nx5yqro?at_medium=RSS&at_campaign=rss",
+    "id_key": "1c88752e9d4b3cd3dde9fbf8efef3790112440d03218613ff79c162255316889",
+    "summary": "The US has been ramping up pressure on the Venezuelan leader since Trump took office last January.",
+    "ingested_utc": "2026-01-03T18:16:59Z"
+  },
+  {
+    "published_utc": "2026-01-03",
+    "retrieved_date": "2026-01-03",
     "retrieved_utc": "2026-01-03T17:51:26Z",
     "source": "FinancialPost_Business",
     "title": "Trump Says US to ‘Run Venezuela’ in Interim After Maduro",
@@ -10976,27 +10998,5 @@
     "id_key": "a2d3819fdff0063e60169f6c68619917380e02d29d3ed30b246b35e6c38d1fee",
     "summary": "We are making new pairs available for margin trading, taking our total to over 240 markets enabled for margin trading on Kraken Pro! Margin trading is now available for two new trading pairs: Pair base Pair name Available leverage Long limit Short limit MON MON/USD 3 4.8M 4.7M NIGHT NIGHT/USD 3 1.5M 1.5M Get Started […] The post New assets and pairs available for margin trading: MON and NIGHT! appeared first on Kraken Blog .",
     "ingested_utc": "2025-12-31T09:17:59Z"
-  },
-  {
-    "published_utc": "2025-12-31",
-    "retrieved_date": "2025-12-31",
-    "retrieved_utc": "2025-12-31T09:16:53Z",
-    "source": "Guardian_World",
-    "title": "Man dies in monsoonal floods in far north Queensland as graziers wait to assess stock losses",
-    "url": "https://www.theguardian.com/australia-news/2025/dec/31/man-dies-in-far-north-queensland-after-monsoonal-floods-as-graziers-wait-to-assess-stock-losses",
-    "id_key": "b346603be30e1a90517fffd0750e218e41d927a887c264efdcb69b60fd67a045",
-    "summary": "SES officer praised by police after entering crocodile-filled waters to retrieve body of man from submerged car Get our breaking news email , free app or daily news podcast Police have praised the courageous efforts of an officer who entered crocodile-filled waters in far north Queensland after a man drowned in monsoonal floods. Dozens of roads remained closed and communities were isolated as flood waters continued to rise in outback Queensland late on Wednesday. Continue reading...",
-    "ingested_utc": "2025-12-31T09:16:53Z"
-  },
-  {
-    "published_utc": "2025-12-31",
-    "retrieved_date": "2025-12-31",
-    "retrieved_utc": "2025-12-31T08:52:43Z",
-    "source": "FinancialPost_Business",
-    "title": "Bulgaria to become the 21st country to join the euro, deepening EU ties despite fears",
-    "url": "https://financialpost.com/pmn/bulgaria-to-become-the-21st-country-to-join-the-euro-deepening-eu-ties-despite-fears",
-    "id_key": "56504e8c5767a33121e79e7d6e92c43f63606fe75193918216415f083d8faeb1",
-    "summary": "SOFIA, Bulgaria (AP) — On New Year’s Day, Bulgaria becomes the 21st country to join the euro currency union, furthering its integration into the European Union. But the historic milestone arrives amid political instability and skepticism among ordinary people fueled by fears of price rises. Supporters of switching to the euro from the old currency, […]",
-    "ingested_utc": "2025-12-31T08:52:43Z"
   }
 ]
