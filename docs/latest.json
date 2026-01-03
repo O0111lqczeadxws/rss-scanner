@@ -2,6 +2,39 @@
   {
     "published_utc": "2026-01-03",
     "retrieved_date": "2026-01-03",
+    "retrieved_utc": "2026-01-03T18:51:47Z",
+    "source": "FinancialPost_Business",
+    "title": "Zelenskiy Says US Team Will Join Paris Talks on Security Push",
+    "url": "https://financialpost.com/pmn/business-pmn/kyiv-hosts-allied-security-chiefs-in-bid-to-nail-down-guarantees",
+    "id_key": "ba063c5f6e6744f8755c4a3538a99abdf390ac0838869c03a5b4e21fbc8b251a",
+    "summary": "US negotiators will join European leaders in Paris on Tuesday in the latest effort to hash out post-war security guarantees for Ukraine, President Volodymyr Zelenskiy said.",
+    "ingested_utc": "2026-01-03T18:51:47Z"
+  },
+  {
+    "published_utc": "2026-01-03",
+    "retrieved_date": "2026-01-03",
+    "retrieved_utc": "2026-01-03T18:51:11Z",
+    "source": "FT_Home",
+    "title": "Trump says US to ‘run’ Venezuela until transition of power",
+    "url": "https://www.ft.com/content/48be0c3d-0a37-4aac-be47-f15f7f1761b8",
+    "id_key": "8cd5f33447c43113caeecf19fc87d17ca1f72be9d3c6d4499e59a87d45a643d8",
+    "summary": "Strongman leader Nicolás Maduro has been captured and flown out of country",
+    "ingested_utc": "2026-01-03T18:51:11Z"
+  },
+  {
+    "published_utc": "2026-01-03",
+    "retrieved_date": "2026-01-03",
+    "retrieved_utc": "2026-01-03T18:48:55Z",
+    "source": "Guardian_World",
+    "title": "‘It sends a horrible signal’: US politicians react to capture of Nicolás Maduro",
+    "url": "https://www.theguardian.com/us-news/2026/jan/03/us-politicians-reaction-capture-venezuelan-president-maduro",
+    "id_key": "1517c6b2e64fecf8eeb733cd155da9318ce5456663267b0153fb018756bff330",
+    "summary": "Republicans cheer capture of Venezuelan leader, but Democrats say it ‘risks pulling our nation into another war’ Reaction to the capture of Nicolás Maduro in Caracas, Venezuela , by US forces on Saturday has been starkly polarized along political lines, with administration officials and Republicans celebrating the enforcement of a 2020 US narco-trafficking indictment against Maduro and Democrats decrying what they see as a violation of Venezuela’s right to self-determination. The US attorney general, Pam Bondi, said on X that Maduro and his wife, Cilia Flores, had been indicted in the southern district of New York on charges including narco-terrorism conspiracy, cocaine importation conspiracy, possession of machine guns and destructive devices, and conspiracy to possess machine guns and destructive devices against the United States. Continue reading...",
+    "ingested_utc": "2026-01-03T18:48:55Z"
+  },
+  {
+    "published_utc": "2026-01-03",
+    "retrieved_date": "2026-01-03",
     "retrieved_utc": "2026-01-03T18:20:17Z",
     "source": "FinancialPost_Business",
     "title": "Trump Says US to ‘Run Venezuela’ in Interim After Maduro",
@@ -10965,38 +10998,5 @@
     "id_key": "34f5e6092033a7f82a725e631d5f4082e2c543028c176d525fd5a219f82512b6",
     "summary": "",
     "ingested_utc": "2025-12-31T09:19:57Z"
-  },
-  {
-    "published_utc": "2025-12-31",
-    "retrieved_date": "2025-12-31",
-    "retrieved_utc": "2025-12-31T09:18:51Z",
-    "source": "Guardian_World",
-    "title": "Eurostar restarts services in Channel tunnel amid continued risk of disruption",
-    "url": "https://www.theguardian.com/business/2025/dec/31/eurostar-restarts-channel-tunnel-full-service-but-disruption-risk",
-    "id_key": "535f1cb52ef8941fb79a5f59791dea4162a1709ba8ae15939ed555b883d53f0e",
-    "summary": "Passengers face delays day after power supply issue and broken down train halted services between UK and France Eurostar passengers have been warned that continued delays and cancellations are possible on Wednesday despite the resumption of services after a power supply issue halted Channel tunnel train trips connecting London to the European mainland. Thousands of passengers in the busy run-up to the new year faced hours of delays after the train operator cancelled services between London, Paris, Amsterdam and Brussels on Tuesday due to an overhead power supply problem and a failed LeShuttle train. Continue reading...",
-    "ingested_utc": "2025-12-31T09:18:51Z"
-  },
-  {
-    "published_utc": "2025-12-31",
-    "retrieved_date": "2025-12-31",
-    "retrieved_utc": "2025-12-31T09:18:51Z",
-    "source": "Guardian_World",
-    "title": "Trump family business delays launch of $499 gold smartphone",
-    "url": "https://www.theguardian.com/us-news/2025/dec/31/trump-family-business-delays-launch-of-gold-smartphone",
-    "id_key": "ca328c659cef8a630c01d3ecc2ef8a4434f7f1d06b4efb9fea18b1846c207744",
-    "summary": "US-made device planned by end of year hit by recent government shutdown affecting shipments Trump Mobile, the phone company launched by Donald Trump’s family business, has pushed back its plans to deliver its $499 (£371) gold-coloured smartphone by the end of the year. The Trump Organization licensed its name to launch a mobile service and the device in June , in the latest monetisation of his presidency by a family business empire now run by Trump’s sons. Continue reading...",
-    "ingested_utc": "2025-12-31T09:18:51Z"
-  },
-  {
-    "published_utc": "2025-12-31",
-    "retrieved_date": "2025-12-31",
-    "retrieved_utc": "2025-12-31T09:17:59Z",
-    "source": "Kraken_Blog",
-    "title": "New assets and pairs available for margin trading: MON and NIGHT!",
-    "url": "https://blog.kraken.com/product/pro/new-margin-mon-and-night",
-    "id_key": "a2d3819fdff0063e60169f6c68619917380e02d29d3ed30b246b35e6c38d1fee",
-    "summary": "We are making new pairs available for margin trading, taking our total to over 240 markets enabled for margin trading on Kraken Pro! Margin trading is now available for two new trading pairs: Pair base Pair name Available leverage Long limit Short limit MON MON/USD 3 4.8M 4.7M NIGHT NIGHT/USD 3 1.5M 1.5M Get Started […] The post New assets and pairs available for margin trading: MON and NIGHT! appeared first on Kraken Blog .",
-    "ingested_utc": "2025-12-31T09:17:59Z"
   }
 ]
