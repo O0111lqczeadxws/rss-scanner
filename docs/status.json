@@ -1,6 +1,6 @@
 {
-  "started_utc": "2026-01-03T13:04:48Z",
-  "ended_utc": "2026-01-03T13:08:16Z",
+  "started_utc": "2026-01-03T13:38:50Z",
+  "ended_utc": "2026-01-03T13:42:08Z",
   "new_items_this_run": 5,
   "total_in_latest": 1000,
   "by_source": {
@@ -66,11 +66,11 @@
     "NPR_Economy": 0,
     "NPR_World": 0,
     "NPR_Technology": 0,
-    "FT_Home": 0,
+    "FT_Home": 1,
     "FT_Markets": 0,
     "CNBC_Top": 0,
     "CNBC_Markets": 0,
-    "TheVerge_All": 1,
+    "TheVerge_All": 0,
     "TechCrunch_All": 0,
     "ArsTechnica_All": 0,
     "WIRED_All": 0,
@@ -78,10 +78,10 @@
     "TheEconomist_Business": 0,
     "TheEconomist_Finance": 0,
     "Investopedia_Latest": 0,
-    "TheStreet_Top": 1,
+    "TheStreet_Top": 2,
     "AlJazeera_All": 0,
     "AlJazeera_Economy": 0,
-    "FinancialPost_Business": 1,
+    "FinancialPost_Business": 0,
     "CBC_Business": 0,
     "Nikkei_Asia_Top": 0,
     "WorldBank_News": 0,
@@ -244,7 +244,7 @@
     },
     {
       "source": "https://feeds.marketwatch.com/marketwatch/pf",
-      "error": "fetch error: HTTP 400"
+      "error": "fetch error: HTTP 403"
     },
     {
       "source": "MarketWatch_PersonalFinance",
@@ -335,19 +335,19 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 427,
+    "passed_keywords": 424,
     "passed_allowlist": 1,
-    "failed_all_filters": 506
+    "failed_all_filters": 494
   },
   "stats": {
     "feeds_total": 97,
     "feeds_error": 23,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 1541,
+    "entries_seen": 1526,
     "too_old": 607,
-    "dup_title_url": 82,
-    "dup_id": 341
+    "dup_title_url": 81,
+    "dup_id": 339
   },
   "limits": {
     "skip_older_days": 10,
