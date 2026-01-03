@@ -2,6 +2,28 @@
   {
     "published_utc": "2026-01-03",
     "retrieved_date": "2026-01-03",
+    "retrieved_utc": "2026-01-03T19:50:31Z",
+    "source": "TheStreet_Top",
+    "title": "54-year-old furniture chain closing forever, no bankruptcy",
+    "url": "https://www.thestreet.com/retail/54-year-old-furniture-chain-unclaimed-freight-closing-forever-amid-industry-turmoil",
+    "id_key": "7b0b4c5c8e399079678a1fe9e2c405a9ed62336578286d78cea5eb278f2431ed",
+    "summary": "People very rarely need to buy furniture. Usually, it's a choice, and even then, you can usually scrounge up most items for very little on Facebook Marketplace or neighborhood message boards. My wife and I, for example, once bought two twin beds still in their packaging from a planned ...",
+    "ingested_utc": "2026-01-03T19:50:31Z"
+  },
+  {
+    "published_utc": "2026-01-03",
+    "retrieved_date": "2026-01-03",
+    "retrieved_utc": "2026-01-03T19:50:19Z",
+    "source": "TechCrunch_All",
+    "title": "Bitfinex hacker Ilya Lichtenstein credits Trump for early release from prison",
+    "url": "https://techcrunch.com/2026/01/03/bitfinex-hacker-ilya-lichtenstein-credits-trump-for-early-release-from-prison/",
+    "id_key": "411bed119e30433d5f6083cc478d7c78a3d3cd42ffc5427f974d4fce03a67330",
+    "summary": "Ilya Lichtenstein, who pled guilty to money laundering charges tied to his role in the massive hack of crypto exchange Bitfinex, has apparently been released early from prison.",
+    "ingested_utc": "2026-01-03T19:50:19Z"
+  },
+  {
+    "published_utc": "2026-01-03",
+    "retrieved_date": "2026-01-03",
     "retrieved_utc": "2026-01-03T19:26:42Z",
     "source": "CryptoSlate",
     "title": "Bitcoin price charts lied to you last year, while these eight on-chain signals quietly predicted every single move in 2025",
@@ -10976,27 +10998,5 @@
     "id_key": "3f5157fb3ce4cbe7600faf2ae5a45cc2b70b5a241065e70bb211cac3f1106298",
     "summary": "China will allow interest on digital yuan (e-CNY) holdings starting in 2026. US banks and crypto firms clash over enforcing the GENIUS Act ban. Coinbase executive warns stablecoin yield bans could weaken US global competitiveness. China’s central bank, the People’s Bank of China (PBOC), announced earlier this week that it will allow commercial banks to […] The post China’s move to pay interest on e-CNY sparks US stablecoin debate appeared first on CoinJournal .",
     "ingested_utc": "2025-12-31T10:14:05Z"
-  },
-  {
-    "published_utc": "2025-12-31",
-    "retrieved_date": "2025-12-31",
-    "retrieved_utc": "2025-12-31T09:56:56Z",
-    "source": "AlJazeera_All",
-    "title": "Iran prosecutor pledges ‘decisive response’ if protests create insecurity",
-    "url": "https://www.aljazeera.com/news/2025/12/31/protests-in-iran-spread-amid-deep-discontent-over-economic-duress?traffic_source=rss",
-    "id_key": "dc35eaa7fa3669b1c29f1c790da178ec388215c73643faa4b95d6f141823d9ad",
-    "summary": "The warning comes after the protests, triggered by the plummeting rial, spread to several cities outside the capital.",
-    "ingested_utc": "2025-12-31T09:56:56Z"
-  },
-  {
-    "published_utc": "2025-12-31",
-    "retrieved_date": "2025-12-31",
-    "retrieved_utc": "2025-12-31T09:55:56Z",
-    "source": "BBC_World",
-    "title": "Eurostar services return to normal after major Channel Tunnel disruption",
-    "url": "https://www.bbc.com/news/articles/c0q4eg03eyzo?at_medium=RSS&at_campaign=rss",
-    "id_key": "6a01b098415e13568748ec4abefad791794a30480c2328a8968e449ea07c8d38",
-    "summary": "The high-speed rail firm urged passengers to check before they travel as last-minute delays and cancellations are still possible.",
-    "ingested_utc": "2025-12-31T09:55:56Z"
   }
 ]
