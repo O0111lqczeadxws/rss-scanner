@@ -2,6 +2,28 @@
   {
     "published_utc": "2026-01-03",
     "retrieved_date": "2026-01-03",
+    "retrieved_utc": "2026-01-03T04:27:39Z",
+    "source": "Nikkei_Asia_Top",
+    "title": "Skating without ice as synthetic rinks slide into Japanese cities",
+    "url": "https://asia.nikkei.com/business/travel-leisure/skating-without-ice-as-synthetic-rinks-slide-into-japanese-cities",
+    "id_key": "4f01cb0fc9d0ede887d138686919b8f921f59e19ca828d33d1432ba138374d64",
+    "summary": "",
+    "ingested_utc": "2026-01-03T04:27:39Z"
+  },
+  {
+    "published_utc": "2026-01-03",
+    "retrieved_date": "2026-01-03",
+    "retrieved_utc": "2026-01-03T04:25:03Z",
+    "source": "CryptoBriefing",
+    "title": "XRP overtakes BNB as fourth-largest crypto after 8% price surge in 24 hours",
+    "url": "https://cryptobriefing.com/xrp-surpasses-bnb-market-cap/",
+    "id_key": "480c3f3488e226292610e827b3c69dac70712140e12e82dab290d17dc9c25164",
+    "summary": "XRP's rise highlights shifting dynamics in the crypto market, potentially influencing investor strategies and altcoin valuations. The post XRP overtakes BNB as fourth-largest crypto after 8% price surge in 24 hours appeared first on Crypto Briefing .",
+    "ingested_utc": "2026-01-03T04:25:03Z"
+  },
+  {
+    "published_utc": "2026-01-03",
+    "retrieved_date": "2026-01-03",
     "retrieved_utc": "2026-01-03T02:49:02Z",
     "source": "HackerNews_Top",
     "title": "Einstein Probe detects an X-ray flare from nearby star",
@@ -10976,27 +10998,5 @@
     "id_key": "ae1446af233cfbd6f10a43af77b33b7f9a007b5fb65d5141d9faf741f25f47d9",
     "summary": "Comments",
     "ingested_utc": "2025-12-30T23:15:22Z"
-  },
-  {
-    "published_utc": "2025-12-30",
-    "retrieved_date": "2025-12-30",
-    "retrieved_utc": "2025-12-30T23:15:13Z",
-    "source": "FinancialPost_Business",
-    "title": "Hamilton ETFs Confirms 2025 Annual Cash and Non-Cash Distributions",
-    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/hamilton-etfs-confirms-2025-annual-cash-and-non-cash-distributions",
-    "id_key": "e1abcd1e53422adc044b35e72d66f29ccf21f5d847e9c6fdf7e3a1d8da3397c7",
-    "summary": "TORONTO — Hamilton Capital Partners Inc. (“Hamilton ETFs”) confirmed today the annual non-cash distributions (“Non-Cash Distributions”) and special cash distributions (“Special Cash Distributions”) for its suite of ETFs, for the year ended December 31, 2025. Please note, this is an update to the estimated Non-Cash Distributions and Special Cash Distributions previously announced on December 22, […]",
-    "ingested_utc": "2025-12-30T23:15:13Z"
-  },
-  {
-    "published_utc": "2025-12-30",
-    "retrieved_date": "2025-12-30",
-    "retrieved_utc": "2025-12-30T23:12:33Z",
-    "source": "CryptoNews",
-    "title": "Liquidity Evaporates as BTC Hovers Near $88K; BitMine Stakes $1B ETH",
-    "url": "https://cryptonews.com/news/liquidity-dries-btc-slips-88k-bitmine-stakes-1b-eth/",
-    "id_key": "e4a1f54d503eaa1aca449af1ab2b2b59101f3fd1e67f7317ceeccd79dccbfcdc",
-    "summary": "Crypto volumes have sunk to 2025 lows, even as Bitcoin has risen 1.12% to $88,224 and Ethereum has hovered near $2,967. BitMine has staked 342,560 ETH, removing about $1B from liquid supply. A proposed California billionaire tax on unrealized gains has stirred 2026 exit fears among founders and VCs. The post Liquidity Evaporates as BTC Hovers Near $88K; BitMine Stakes $1B ETH appeared first on Cryptonews .",
-    "ingested_utc": "2025-12-30T23:12:33Z"
   }
 ]
