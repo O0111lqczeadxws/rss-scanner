@@ -2,6 +2,39 @@
   {
     "published_utc": "2026-01-03",
     "retrieved_date": "2026-01-03",
+    "retrieved_utc": "2026-01-03T22:14:29Z",
+    "source": "AlJazeera_All",
+    "title": "Internet disruption, several arrests made as Iran protests continue",
+    "url": "https://www.aljazeera.com/news/2026/1/3/internet-disruption-several-arrests-made-as-iran-protests-continue?traffic_source=rss",
+    "id_key": "420601548a7f6e5a94b15ae12a43dc39c3440906d10eeeb0fbeb3f14d45f2263",
+    "summary": "Cybersecurity company Cloudflare shows an average 35 percent lower traffic volume in Iran compared with previous days.",
+    "ingested_utc": "2026-01-03T22:14:29Z"
+  },
+  {
+    "published_utc": "2026-01-03",
+    "retrieved_date": "2026-01-03",
+    "retrieved_utc": "2026-01-03T22:13:49Z",
+    "source": "NYTimes_World",
+    "title": "Venezuela Live Updates: Maduro Arrives in N.Y.; Trump Says U.S. Will ‘Run’ Venezuela",
+    "url": "https://www.nytimes.com/live/2026/01/03/world/trump-united-states-strikes-venezuela",
+    "id_key": "74c07d188b66d904a7ea3237f805d21abf88ca29f2516986eb85810e80b78edb",
+    "summary": "Venezuela’s vice president, Delcy Rodríguez, rejected the U.S. intervention and demanded President Nicolás Maduro’s return. Maduro and his wife were brought to New York City to stand trial on drug and weapons charges.",
+    "ingested_utc": "2026-01-03T22:13:49Z"
+  },
+  {
+    "published_utc": "2026-01-03",
+    "retrieved_date": "2026-01-03",
+    "retrieved_utc": "2026-01-03T22:11:56Z",
+    "source": "CryptoSlate",
+    "title": "Bitcoin faces a violent repricing Monday if this specific supply-chain metric proves the bond market right",
+    "url": "https://cryptoslate.com/bitcoin-faces-a-violent-repricing-monday-if-this-specific-supply-chain-metric-proves-the-bond-market-right/",
+    "id_key": "518925a1f205542a4393ca73843987e1b5e006853e62066441e8df6050aeb681",
+    "summary": "Bitcoin has a talent for looking calm right up until it isn’t. In the first trading days of 2026, the tape has had that familiar, coiled feel: enough headline noise to keep traders alert, not enough conviction to force a real move. When crypto behaves like that, the next decisive push often doesn’t come from […] The post Bitcoin faces a violent repricing Monday if this specific supply-chain metric proves the bond market right appeared first on CryptoSlate .",
+    "ingested_utc": "2026-01-03T22:11:56Z"
+  },
+  {
+    "published_utc": "2026-01-03",
+    "retrieved_date": "2026-01-03",
     "retrieved_utc": "2026-01-03T21:33:10Z",
     "source": "HackerNews_Top",
     "title": "Doesnt: An Esoteric Programming Language",
@@ -10965,38 +10998,5 @@
     "id_key": "d7cba6c8c6404b1e9567de962a1d6ac56ffbe9ce06e7c416b919e7286ce6660e",
     "summary": "Mothers starving to feed children, surgeries without anaesthesia and loss of privacy define female experience in Gaza.",
     "ingested_utc": "2025-12-31T10:55:57Z"
-  },
-  {
-    "published_utc": "2025-12-31",
-    "retrieved_date": "2025-12-31",
-    "retrieved_utc": "2025-12-31T10:53:26Z",
-    "source": "CryptoNews",
-    "title": "Bitwise Floods SEC With 11 Crypto ETF Filings in One Day",
-    "url": "https://cryptonews.com/news/bitwise-floods-sec-with-11-crypto-etf-filings-in-one-day/",
-    "id_key": "46013f88ac1b2ab9c21e6c4619a4d3ef3ce607d6e3e65fa68ca9887f7169dd89",
-    "summary": "Bitwise submitted 11 cryptocurrency strategy ETF registrations to the SEC in a single day, spanning DeFi lending, Layer-2 scaling, and privacy networks as generic listing standards accelerate institutional product launches. The post Bitwise Floods SEC With 11 Crypto ETF Filings in One Day appeared first on Cryptonews .",
-    "ingested_utc": "2025-12-31T10:53:26Z"
-  },
-  {
-    "published_utc": "2025-12-31",
-    "retrieved_date": "2025-12-31",
-    "retrieved_utc": "2025-12-31T10:53:23Z",
-    "source": "CryptoSlate",
-    "title": "The 10 biggest crypto losers of 2025 (and what went wrong)",
-    "url": "https://cryptoslate.com/the-10-biggest-crypto-losers-of-2025-and-what-went-wrong/",
-    "id_key": "1e5df220c703744df2473f064013afd133e19ba391dda4b988967f7205fdeed7",
-    "summary": "2025 was supposed to be crypto's maturation year, with regulatory clarity, institutional adoption, and infrastructure built to last. In fact, the foundation for all these topics was laid down. Yet, it also delivered a master class in how quickly narratives collapse when opacity meets price discovery. Tokens that launched with maximum hype, extracted maximum fees, […] The post The 10 biggest crypto losers of 2025 (and what went wrong) appeared first on CryptoSlate .",
-    "ingested_utc": "2025-12-31T10:53:23Z"
-  },
-  {
-    "published_utc": "2025-12-31",
-    "retrieved_date": "2025-12-31",
-    "retrieved_utc": "2025-12-31T10:53:05Z",
-    "source": "Guardian_World",
-    "title": "Cyprus pledges ‘different mindset’ as it assumes EU presidency",
-    "url": "https://www.theguardian.com/world/2025/dec/31/cyprus-pledges-different-mindset-as-it-assumes-eu-presidency",
-    "id_key": "c706c2bad27726536c024ea0c5900ccb333f8ccac01fade0b1632a7cb04bf328",
-    "summary": "Country’s six-month stint at helm begins with defence, migration and Ukraine still at top of agenda Cyprus says it will bring “a new approach to the table” when it assumes the EU presidency on Thursday, as defence, migration and Ukraine continue to top the agenda at a time of acute geopolitical uncertainty. As one of the 27-member bloc’s smaller member states, Cyprus will tackle its six-month stint at the EU’s helm with discipline and dedication but also “a different mindset”, the Cypriot foreign minister, Constantinos Kombos, said. Continue reading...",
-    "ingested_utc": "2025-12-31T10:53:05Z"
   }
 ]
