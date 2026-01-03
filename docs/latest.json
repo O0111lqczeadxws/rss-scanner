@@ -2,6 +2,39 @@
   {
     "published_utc": "2026-01-03",
     "retrieved_date": "2026-01-03",
+    "retrieved_utc": "2026-01-03T10:39:25Z",
+    "source": "HackerNews_Top",
+    "title": "Late night pizzeria nearby The Pentagon has suddenly surged in traffic",
+    "url": "https://twitter.com/PenPizzaReport/status/2007347706017251535",
+    "id_key": "a2ff5d1ca7ce43c0597a9e37b5b4bdecc2220f18dab711006cf3abe063eb393d",
+    "summary": "Comments",
+    "ingested_utc": "2026-01-03T10:39:25Z"
+  },
+  {
+    "published_utc": "2026-01-03",
+    "retrieved_date": "2026-01-03",
+    "retrieved_utc": "2026-01-03T10:38:32Z",
+    "source": "NYTimes_World",
+    "title": "Trump Celebrates Capture of Nicolas Maduro in New York Times Phone Interview",
+    "url": "https://www.nytimes.com/2026/01/03/world/americas/in-a-phone-interview-trump-celebrated-the-capture-of-maduro.html",
+    "id_key": "968aab2aabc5cd069ef47839585435c86e4d18e570b5c8dd1d66037d5115ce3c",
+    "summary": "In a call with The New York Times, President Trump called the U.S. operation in Venezuela “brilliant\" but did not address whether he had consulted Congress.",
+    "ingested_utc": "2026-01-03T10:38:32Z"
+  },
+  {
+    "published_utc": "2026-01-03",
+    "retrieved_date": "2026-01-03",
+    "retrieved_utc": "2026-01-03T10:36:19Z",
+    "source": "BBC_World",
+    "title": "The year angry men dominated Bollywood - and what it means for India",
+    "url": "https://www.bbc.com/news/articles/ce8n8eye1vjo?at_medium=RSS&at_campaign=rss",
+    "id_key": "072e09595e29989de4fc2b0ef8739b97ed00cf998a33201e8d0b1eb99c053d5e",
+    "summary": "Violent, male-driven films dominated the Indian box-office and cultural conversations in 2025.",
+    "ingested_utc": "2026-01-03T10:36:19Z"
+  },
+  {
+    "published_utc": "2026-01-03",
+    "retrieved_date": "2026-01-03",
     "retrieved_utc": "2026-01-03T10:15:15Z",
     "source": "WIRED_All",
     "title": "How to Protect Your iPhone or Android Device From Spyware",
@@ -10964,39 +10997,6 @@
     "url": "https://financialpost.com/pmn/business-pmn/south-koreas-inflation-cools-even-as-weak-won-stokes-import-costs",
     "id_key": "f18064697833e3890ed466d953f6d2cc8e11d2276a997142e99c05a099d4ccc8",
     "summary": "South Korea’s consumer inflation stayed above the central bank’s target for a fourth straight month, even as price growth cooled slightly on slower increases in food and broader living costs.",
-    "ingested_utc": "2025-12-31T01:02:04Z"
-  },
-  {
-    "published_utc": "2025-12-31",
-    "retrieved_date": "2025-12-31",
-    "retrieved_utc": "2025-12-31T01:02:04Z",
-    "source": "FinancialPost_Business",
-    "title": "Maple Rock Capital Partners Files Early Warning Report",
-    "url": "https://financialpost.com/globe-newswire/maple-rock-capital-partners-files-early-warning-report",
-    "id_key": "b5c84d96c3e239d24112f4741837ec044370ffae378654d3f94394b9b9561359",
-    "summary": "TORONTO, Dec. 30, 2025 (GLOBE NEWSWIRE) — Maple Rock Capital Partners Inc. (“Maple Rock”) has filed an early warning report on SEDAR+ (www.sedarplus.com) with respect to the common shares (“Shares”) of Optiva Inc. (the “Issuer”) controlled by Maple Rock and this news release is being disseminated as required by National Instrument 62‐103 – The Early […]",
-    "ingested_utc": "2025-12-31T01:02:04Z"
-  },
-  {
-    "published_utc": "2025-12-31",
-    "retrieved_date": "2025-12-31",
-    "retrieved_utc": "2025-12-31T01:02:04Z",
-    "source": "FinancialPost_Business",
-    "title": "California delays revoking 17,000 commercial driver’s licenses until March after immigrants sue",
-    "url": "https://financialpost.com/pmn/california-delays-revoking-17000-commercial-drivers-licenses-until-march-after-immigrants-sue",
-    "id_key": "9a670648d6b682ca0a5ad2864ff4e8cd214aa7bf0cddf1f46a4d1ab164e6eff3",
-    "summary": "A week after immigrant groups filed a lawsuit, California said Tuesday it will delay the revocations of 17,000 commercial driver’s licenses until March to allow more time to ensure that truckers and bus drivers who legally qualify for the licenses can keep them. California decided to revoke the licenses after Transportation Secretary Sean Duffy pressured […]",
-    "ingested_utc": "2025-12-31T01:02:04Z"
-  },
-  {
-    "published_utc": "2025-12-31",
-    "retrieved_date": "2025-12-31",
-    "retrieved_utc": "2025-12-31T01:02:04Z",
-    "source": "FinancialPost_Business",
-    "title": "Oil Heads for Deepest Annual Loss Since 2020 on Surplus Concerns",
-    "url": "https://financialpost.com/pmn/business-pmn/oil-heads-for-deepest-annual-loss-since-2020-on-surplus-concerns",
-    "id_key": "335d9a6a4230be41e03ab28e0d626fc5c6be2d824d23e03981ce7bd1fe0b4ede",
-    "summary": "Oil headed for its steepest annual loss since the pandemic in 2020, with prices undermined by concerns about a punishing surplus that’s set to dominate market sentiment and trading into the new year.",
     "ingested_utc": "2025-12-31T01:02:04Z"
   }
 ]
