@@ -1,7 +1,7 @@
 {
-  "started_utc": "2026-01-03T19:26:03Z",
-  "ended_utc": "2026-01-03T19:29:29Z",
-  "new_items_this_run": 1,
+  "started_utc": "2026-01-03T19:33:27Z",
+  "ended_utc": "2026-01-03T19:36:49Z",
+  "new_items_this_run": 0,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
@@ -19,7 +19,7 @@
     "MarketWatch_MarketPulse": 0,
     "Blockworks": 0,
     "BitcoinMagazine": 0,
-    "CryptoSlate": 1,
+    "CryptoSlate": 0,
     "CryptoBriefing": 0,
     "Protos": 0,
     "CryptoNews": 0,
@@ -337,17 +337,17 @@
     ],
     "passed_keywords": 414,
     "passed_allowlist": 1,
-    "failed_all_filters": 499
+    "failed_all_filters": 500
   },
   "stats": {
     "feeds_total": 97,
     "feeds_error": 23,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 1524,
+    "entries_seen": 1525,
     "too_old": 610,
     "dup_title_url": 77,
-    "dup_id": 337
+    "dup_id": 338
   },
   "limits": {
     "skip_older_days": 10,
@@ -360,6 +360,6 @@
   },
   "processed": {
     "file": "data/processed/2026-01-03.jsonl",
-    "appended_new": 1
+    "appended_new": 0
   }
 }
