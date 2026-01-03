@@ -1,6 +1,6 @@
 {
-  "started_utc": "2026-01-03T14:49:53Z",
-  "ended_utc": "2026-01-03T14:53:17Z",
+  "started_utc": "2026-01-03T15:11:18Z",
+  "ended_utc": "2026-01-03T15:14:46Z",
   "new_items_this_run": 4,
   "total_in_latest": 1000,
   "by_source": {
@@ -11,7 +11,7 @@
     "BBC_Business": 0,
     "BBC_Technology": 0,
     "Guardian_Business": 0,
-    "Guardian_World": 2,
+    "Guardian_World": 0,
     "WSJ_US_Business": 0,
     "WSJ_World": 0,
     "WSJ_Markets": 0,
@@ -54,10 +54,10 @@
     "PolygonEdge_Releases": 0,
     "CardanoNode_Releases": 0,
     "MarketWatch_RealTime": 0,
-    "MarketWatch_Bulletins": 1,
+    "MarketWatch_Bulletins": 0,
     "MarketWatch_PersonalFinance": 0,
     "NYTimes_Business": 0,
-    "NYTimes_World": 0,
+    "NYTimes_World": 2,
     "NYTimes_Economy": 0,
     "NYTimes_Technology": 0,
     "CNN_Top": 0,
@@ -70,7 +70,7 @@
     "FT_Markets": 0,
     "CNBC_Top": 0,
     "CNBC_Markets": 0,
-    "TheVerge_All": 0,
+    "TheVerge_All": 1,
     "TechCrunch_All": 0,
     "ArsTechnica_All": 0,
     "WIRED_All": 0,
@@ -335,7 +335,7 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 423,
+    "passed_keywords": 421,
     "passed_allowlist": 1,
     "failed_all_filters": 495
   },
@@ -345,9 +345,9 @@
     "feeds_timeout": 0,
     "feeds_http_error": 0,
     "entries_seen": 1526,
-    "too_old": 607,
-    "dup_title_url": 79,
-    "dup_id": 341
+    "too_old": 609,
+    "dup_title_url": 78,
+    "dup_id": 340
   },
   "limits": {
     "skip_older_days": 10,
