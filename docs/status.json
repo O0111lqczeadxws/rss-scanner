@@ -1,7 +1,7 @@
 {
-  "started_utc": "2026-01-03T10:36:02Z",
-  "ended_utc": "2026-01-03T10:39:26Z",
-  "new_items_this_run": 3,
+  "started_utc": "2026-01-03T10:51:29Z",
+  "ended_utc": "2026-01-03T10:54:52Z",
+  "new_items_this_run": 2,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
@@ -57,7 +57,7 @@
     "MarketWatch_Bulletins": 0,
     "MarketWatch_PersonalFinance": 0,
     "NYTimes_Business": 0,
-    "NYTimes_World": 1,
+    "NYTimes_World": 0,
     "NYTimes_Economy": 0,
     "NYTimes_Technology": 0,
     "CNN_Top": 0,
@@ -155,14 +155,6 @@
       "error": "fatal parse failure"
     },
     {
-      "source": "https://medium.com/feed/aave",
-      "error": "fetch error: HTTP 429"
-    },
-    {
-      "source": "Aave_Blog",
-      "error": "fatal parse failure"
-    },
-    {
       "source": "https://blog.optimism.io/rss/",
       "error": "fetch error: HTTPSConnectionPool(host='blog.optimism.io', port=443): Max retries exceeded with url: /rss/ (Caused by NameResolutionError(\"HTTPSConnection(host='blog.optimism.io', port=443): Failed to resolve 'blog.optimism.io' ([Errno -5] No address associated with hostname)\"))"
     },
@@ -181,14 +173,6 @@
     {
       "source": "Polygon_Blog",
       "error": "<unknown>:2:2184: not well-formed (invalid token)"
-    },
-    {
-      "source": "https://medium.com/feed/avalancheavax",
-      "error": "fetch error: HTTP 429"
-    },
-    {
-      "source": "Avalanche_Blog",
-      "error": "fatal parse failure"
     },
     {
       "source": "NEAR_Blog",
@@ -351,19 +335,19 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 429,
+    "passed_keywords": 431,
     "passed_allowlist": 0,
     "failed_all_filters": 504
   },
   "stats": {
     "feeds_total": 97,
-    "feeds_error": 25,
+    "feeds_error": 23,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 1513,
-    "too_old": 580,
-    "dup_title_url": 81,
-    "dup_id": 345
+    "entries_seen": 1535,
+    "too_old": 600,
+    "dup_title_url": 82,
+    "dup_id": 347
   },
   "limits": {
     "skip_older_days": 10,
@@ -376,6 +360,6 @@
   },
   "processed": {
     "file": "data/processed/2026-01-03.jsonl",
-    "appended_new": 3
+    "appended_new": 2
   }
 }

@@ -2,6 +2,17 @@
   {
     "published_utc": "2026-01-03",
     "retrieved_date": "2026-01-03",
+    "retrieved_utc": "2026-01-03T10:51:46Z",
+    "source": "BBC_World",
+    "title": "Police identify first four victims of Swiss ski resort fire",
+    "url": "https://www.bbc.com/news/articles/cjdjl303zxlo?at_medium=RSS&at_campaign=rss",
+    "id_key": "5b57d90b80d22de4e4800200d5886d88cc1b46d586616e5df9a0a29da8e99f4f",
+    "summary": "Bodies of two Swiss women aged 21 and 16, and two Swiss men aged 18 and 16 have been returned to their families.",
+    "ingested_utc": "2026-01-03T10:51:46Z"
+  },
+  {
+    "published_utc": "2026-01-03",
+    "retrieved_date": "2026-01-03",
     "retrieved_utc": "2026-01-03T10:39:25Z",
     "source": "HackerNews_Top",
     "title": "Late night pizzeria nearby The Pentagon has suddenly surged in traffic",
@@ -7360,6 +7371,17 @@
   },
   {
     "published_utc": "2025-12-31",
+    "retrieved_date": "2026-01-03",
+    "retrieved_utc": "2026-01-03T10:54:51Z",
+    "source": "HackerNews_Top",
+    "title": "GitHub – tomasf/Cadova: Swift DSL for parametric 3D modeling",
+    "url": "https://github.com/tomasf/Cadova",
+    "id_key": "dc9fb4d9f5a46b957d4df1d9579fe0c62fa4395ffea775c54452af117cabb517",
+    "summary": "Comments",
+    "ingested_utc": "2026-01-03T10:54:51Z"
+  },
+  {
+    "published_utc": "2025-12-31",
     "retrieved_date": "2026-01-02",
     "retrieved_utc": "2026-01-02T14:16:01Z",
     "source": "TheStreet_Top",
@@ -10976,27 +10998,5 @@
     "id_key": "8dfd1c4ba19dbd36828083b1af8c2581444b72cdb0cfb7c2d8ca859d9afbb57a",
     "summary": "",
     "ingested_utc": "2025-12-31T01:02:06Z"
-  },
-  {
-    "published_utc": "2025-12-31",
-    "retrieved_date": "2025-12-31",
-    "retrieved_utc": "2025-12-31T01:02:06Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "Christmas shifts in Ukraine village as church issue spills into peace talks",
-    "url": "https://asia.nikkei.com/politics/ukraine-war/christmas-shifts-in-ukraine-village-as-church-issue-spills-into-peace-talks",
-    "id_key": "e7be51927d52f4a1c8224609cb4fc82ba5142b56053443a55725d411144579dd",
-    "summary": "",
-    "ingested_utc": "2025-12-31T01:02:06Z"
-  },
-  {
-    "published_utc": "2025-12-31",
-    "retrieved_date": "2025-12-31",
-    "retrieved_utc": "2025-12-31T01:02:04Z",
-    "source": "FinancialPost_Business",
-    "title": "South Korea’s Inflation Cools Even as Weak Won Stokes Import Costs",
-    "url": "https://financialpost.com/pmn/business-pmn/south-koreas-inflation-cools-even-as-weak-won-stokes-import-costs",
-    "id_key": "f18064697833e3890ed466d953f6d2cc8e11d2276a997142e99c05a099d4ccc8",
-    "summary": "South Korea’s consumer inflation stayed above the central bank’s target for a fourth straight month, even as price growth cooled slightly on slower increases in food and broader living costs.",
-    "ingested_utc": "2025-12-31T01:02:04Z"
   }
 ]
