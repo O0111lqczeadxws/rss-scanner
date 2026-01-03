@@ -2,6 +2,39 @@
   {
     "published_utc": "2026-01-03",
     "retrieved_date": "2026-01-03",
+    "retrieved_utc": "2026-01-03T17:13:58Z",
+    "source": "HackerNews_Top",
+    "title": "The C3 Programming Language",
+    "url": "https://c3-lang.org",
+    "id_key": "15481ebf8fff352b5192b4383677481d81f0742ccd0bf6bae3b563c4b35fb8a9",
+    "summary": "Comments",
+    "ingested_utc": "2026-01-03T17:13:58Z"
+  },
+  {
+    "published_utc": "2026-01-03",
+    "retrieved_date": "2026-01-03",
+    "retrieved_utc": "2026-01-03T17:13:41Z",
+    "source": "TheStreet_Top",
+    "title": "54-year-old furniture chain closing forever amid industry turmoil",
+    "url": "https://www.thestreet.com/retail/54-year-old-furniture-chain-unclaimed-freight-closing-forever-amid-industry-turmoil",
+    "id_key": "93a91323de61bf65748c8a36364d499cedb6889e35b028f7b3135922ab85e2a5",
+    "summary": "People very rarely need to buy furniture. Usually, it's a choice, and even then, you can usually scrounge up most items for very little on Facebook Marketplace or neighborhood message boards. My wife and I, for example, once bought two twin beds still in their packaging from a planned ...",
+    "ingested_utc": "2026-01-03T17:13:41Z"
+  },
+  {
+    "published_utc": "2026-01-03",
+    "retrieved_date": "2026-01-03",
+    "retrieved_utc": "2026-01-03T17:13:14Z",
+    "source": "FT_Home",
+    "title": "Trump says US to ‘run’ Venezuela until transition of power — watch live",
+    "url": "https://www.ft.com/content/48be0c3d-0a37-4aac-be47-f15f7f1761b8",
+    "id_key": "69fea325ded3a9e23eb1ba7eb9095a45189e7c5267cf23100bcd61cbe2455b17",
+    "summary": "Strongman leader Nicolás Maduro has been captured and flown out of country, US says",
+    "ingested_utc": "2026-01-03T17:13:14Z"
+  },
+  {
+    "published_utc": "2026-01-03",
+    "retrieved_date": "2026-01-03",
     "retrieved_utc": "2026-01-03T16:57:29Z",
     "source": "HackerNews_Top",
     "title": "IDF database suggests that at least 83% of Gaza dead were civilians",
@@ -10965,38 +10998,5 @@
     "id_key": "46e389c71e2c63fad914f52383ce782313d679662723fc621f1b8c49176926b0",
     "summary": "Prenetics halts new Bitcoin purchases after recent crypto market volatility. The company is prioritising the growth of its IM8 supplements brand. Prenetics currently holds 510 BTC and over $70 million in cash reserves. Prenetics Global, a consumer health and supplements company backed by football icon David Beckham, has reversed its short-lived plan to build a […] The post David Beckham–backed Prenetics abandons Bitcoin strategy to focus on core health business appeared first on CoinJournal .",
     "ingested_utc": "2025-12-31T08:50:17Z"
-  },
-  {
-    "published_utc": "2025-12-31",
-    "retrieved_date": "2025-12-31",
-    "retrieved_utc": "2025-12-31T08:49:55Z",
-    "source": "Guardian_World",
-    "title": "Female lawmakers in Japan lobby for more toilets in parliament",
-    "url": "https://www.theguardian.com/world/2025/dec/31/female-lawmakers-in-japan-lobby-for-more-toilets-in-parliament",
-    "id_key": "8cdd703a2d85fa7e5a72fe47a2511cbc6e6d568479920c0959886da2897eae88",
-    "summary": "PM Sanae Takaichi joins petition calling for better facilities for women to match improved representation Nearly 60 female lawmakers in Japan, including the prime minister, Sanae Takaichi, have submitted a petition calling for more toilets in the parliament building for women to match their improved representation. Japanese politics remains hugely male-dominated, although the number of women in the parliament rose at the last election – and Takaichi became the first female prime minister in October. Continue reading...",
-    "ingested_utc": "2025-12-31T08:49:55Z"
-  },
-  {
-    "published_utc": "2025-12-31",
-    "retrieved_date": "2025-12-31",
-    "retrieved_utc": "2025-12-31T08:49:52Z",
-    "source": "BBC_World",
-    "title": "Jailed HK tycoon's 'teeth rotting and fingernails falling off', daughter tells BBC",
-    "url": "https://www.bbc.com/news/articles/cr57nvrjrlno?at_medium=RSS&at_campaign=rss",
-    "id_key": "8f2ee1e84a742076599bc2399c5cef9d485c383f8a3c3446117ac3298215ff12",
-    "summary": "The daughter of Jimmy Lai tells the BBC that her father's health is deteriorating in prison.",
-    "ingested_utc": "2025-12-31T08:49:52Z"
-  },
-  {
-    "published_utc": "2025-12-31",
-    "retrieved_date": "2025-12-31",
-    "retrieved_utc": "2025-12-31T08:20:26Z",
-    "source": "FT_Home",
-    "title": "Netherlands approaches major overhaul of €1.8tn pension system",
-    "url": "https://www.ft.com/content/1f1859b5-0e9e-403d-8038-cb752d0cf397",
-    "id_key": "ac22feb856f7a26f36e50caecae5ba7d9c1fabb79aa20db1bb429af881e74199",
-    "summary": "Switch from defined benefit to defined contribution model aims to ensure long-term sustainability",
-    "ingested_utc": "2025-12-31T08:20:26Z"
   }
 ]
