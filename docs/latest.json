@@ -2,6 +2,39 @@
   {
     "published_utc": "2026-01-03",
     "retrieved_date": "2026-01-03",
+    "retrieved_utc": "2026-01-03T23:33:53Z",
+    "source": "HackerNews_Top",
+    "title": "China DRAM Maker CXMT Targets $4.2B IPO as It Takes on Samsung, SK Hynix, Micron",
+    "url": "https://www.ic-pcb.com/chinas-leading-dram-maker-cxmt-targets-42-billion-ipo-as-it-takes-on-samsung-sk-hynix-and-micron.html",
+    "id_key": "0c36c0eac69190edfbdb6f0815f48b3f972de26137b4120c7196e9069eb99cae",
+    "summary": "Comments",
+    "ingested_utc": "2026-01-03T23:33:53Z"
+  },
+  {
+    "published_utc": "2026-01-03",
+    "retrieved_date": "2026-01-03",
+    "retrieved_utc": "2026-01-03T23:32:55Z",
+    "source": "NYTimes_World",
+    "title": "How Manhattan Federal Court Would Handle the Trial of a President",
+    "url": "https://www.nytimes.com/2026/01/03/world/americas/maduro-trial-nyc-sdny.html",
+    "id_key": "56f496a05d7676057fc27bf4ff140ba64fa7d2ddfe73ae25e7853ebaf49b0109",
+    "summary": "Nicolás Maduro, Venezuela’s president, could stand trial in Federal District Court in New York City, the site of other high-profile court proceedings.",
+    "ingested_utc": "2026-01-03T23:32:55Z"
+  },
+  {
+    "published_utc": "2026-01-03",
+    "retrieved_date": "2026-01-03",
+    "retrieved_utc": "2026-01-03T23:30:48Z",
+    "source": "Guardian_World",
+    "title": "British and French aircraft attack underground Islamic State weapons store in Syria",
+    "url": "https://www.theguardian.com/world/2026/jan/03/british-and-french-aircraft-attack-underground-isis-weapons-store-in-syria",
+    "id_key": "a493255930fa93fc6e000cf66d3653f220127aad20572977384a64d98e6702f7",
+    "summary": "Guided bombs used to target tunnels at site near to city of Palmyra in raid intended to ‘eliminate dangerous terrorists’ British and French aircraft have carried out a joint strike on an underground facility in Syria that had been occupied by Islamic State, the UK Ministry of Defence has said. Guided bombs were used to target access tunnels down to the site, which is located in the mountainous region near the ancient city of Palmyra in the centre of the country, on Saturday evening. Continue reading...",
+    "ingested_utc": "2026-01-03T23:30:48Z"
+  },
+  {
+    "published_utc": "2026-01-03",
+    "retrieved_date": "2026-01-03",
     "retrieved_utc": "2026-01-03T23:14:17Z",
     "source": "NYTimes_World",
     "title": "How Manhattan Federal Court Would Handle the Trial of a President",
@@ -10965,38 +10998,5 @@
     "id_key": "f9486c2d1b1ab0b0b4392098386b107f888bef26fe97bae186987d00c739d17c",
     "summary": "Scale of Europe’s narcotics crisis ‘not even possible to imagine’, says EUDA director Alexis Goosdeel",
     "ingested_utc": "2025-12-31T11:14:43Z"
-  },
-  {
-    "published_utc": "2025-12-31",
-    "retrieved_date": "2025-12-31",
-    "retrieved_utc": "2025-12-31T11:14:39Z",
-    "source": "NPR_Top",
-    "title": "Farmers are about to pay a lot more for health insurance",
-    "url": "https://www.npr.org/sections/shots-health-news/2025/12/31/nx-s1-5655252/u-s-farmer-insurance-premiums-tariffs-seeds-fertilizer-inflation-iowa",
-    "id_key": "e893565c860b3ae8d0c4624fd501b9c3320d01ccb407f2cbf057ccb3fe12c3df",
-    "summary": "Tariffs, inflation, and other federal policies have battered U.S. farmers' bottom lines. Now many farmers say the expiration of federal health care subsidies will make their coverage unaffordable.",
-    "ingested_utc": "2025-12-31T11:14:39Z"
-  },
-  {
-    "published_utc": "2025-12-31",
-    "retrieved_date": "2025-12-31",
-    "retrieved_utc": "2025-12-31T11:14:24Z",
-    "source": "MarketWatch_Bulletins",
-    "title": "Silver prices falling sharply after CME lifts trading margin requirements again",
-    "url": "https://www.marketwatch.com/bulletins/redirect/go?g=db4eb580-1aee-477e-ab5b-9b1cd0eb7409&mod=mw_rss_bulletins",
-    "id_key": "d0ad66afed4e07d69f714a222caaa420026b05de292535379ccc9d79f2d7b2f3",
-    "summary": "",
-    "ingested_utc": "2025-12-31T11:14:24Z"
-  },
-  {
-    "published_utc": "2025-12-31",
-    "retrieved_date": "2025-12-31",
-    "retrieved_utc": "2025-12-31T11:12:50Z",
-    "source": "CoinJournal",
-    "title": "Pi Network suspends wallet payment requests after scammers drain millions",
-    "url": "https://coinjournal.net/news/pi-network-suspends-wallet-payment-requests-after-scammers-drain-millions/",
-    "id_key": "03922e413633dca1a591daecb322c98ca08edb876371d66a068f79ce311bb302",
-    "summary": "Pi Network halts wallet requests after large-scale scams target users. Scammers exploit public balances and impersonate trusted contacts. PI trades near $0.20 amid low liquidity and token unlocks. Pi Network has temporarily disabled its wallet payment request feature in response to a surge of sophisticated scam activity that has led to the loss of millions […] The post Pi Network suspends wallet payment requests after scammers drain millions appeared first on CoinJournal .",
-    "ingested_utc": "2025-12-31T11:12:50Z"
   }
 ]
