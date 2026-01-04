@@ -2,6 +2,17 @@
   {
     "published_utc": "2026-01-04",
     "retrieved_date": "2026-01-04",
+    "retrieved_utc": "2026-01-04T21:14:20Z",
+    "source": "Nikkei_Asia_Top",
+    "title": "Can Hong Kong's IPO market keep up the momentum in 2026?",
+    "url": "https://asia.nikkei.com/business/markets/trading-asia/can-hong-kong-s-ipo-market-keep-up-the-momentum-in-2026",
+    "id_key": "dd2670935b068c8d7264b360efcdf052579eded134dcabacd11508b1299dcd19",
+    "summary": "",
+    "ingested_utc": "2026-01-04T21:14:20Z"
+  },
+  {
+    "published_utc": "2026-01-04",
+    "retrieved_date": "2026-01-04",
     "retrieved_utc": "2026-01-04T20:54:52Z",
     "source": "AlJazeera_All",
     "title": "Swiss police identify all bodies after deadly New Year’s Eve bar fire",
@@ -10987,16 +10998,5 @@
     "id_key": "fdc077cfbc0564090287fb9755a23d2e9c53fd4f06b6cb87f731597944a66b11",
     "summary": "Decision comes after DoJ stopped contesting California court’s ruling to return control of guard to state’s governor Donald Trump has staged a sudden climbdown from his attempts to impose federal troops in law enforcement roles on Democratic-run cities, announcing on Wednesday that he was ending attempted deployments from Los Angeles, Chicago and Portland. The unexpected shift came after justice department lawyers said they were no longer contesting a California court’s ruling that returned the national guard troops to the authority of Gavin Newsom, the state’s governor. It also followed a rare rebuke from the US supreme court, which blocked the White House’s efforts to deploy national guards in Illinois . Continue reading...",
     "ingested_utc": "2025-12-31T22:35:30Z"
-  },
-  {
-    "published_utc": "2025-12-31",
-    "retrieved_date": "2025-12-31",
-    "retrieved_utc": "2025-12-31T22:35:27Z",
-    "source": "BBC_World",
-    "title": "Bulgaria joins the euro after rocky path to new currency",
-    "url": "https://www.bbc.com/news/articles/crlere3x28lo?at_medium=RSS&at_campaign=rss",
-    "id_key": "7fc251c6d9721285cb8f84a84c2716d1931f862b7bc33e191bf06df88eccf908",
-    "summary": "The move is dividing the nation - some welcome it as a bold leap forwards, but others fear it will lead to economic stagnation.",
-    "ingested_utc": "2025-12-31T22:35:27Z"
   }
 ]

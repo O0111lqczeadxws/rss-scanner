@@ -1,7 +1,7 @@
 {
-  "started_utc": "2026-01-04T20:51:44Z",
-  "ended_utc": "2026-01-04T20:55:09Z",
-  "new_items_this_run": 2,
+  "started_utc": "2026-01-04T21:11:03Z",
+  "ended_utc": "2026-01-04T21:14:28Z",
+  "new_items_this_run": 1,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
@@ -66,7 +66,7 @@
     "NPR_Economy": 0,
     "NPR_World": 0,
     "NPR_Technology": 0,
-    "FT_Home": 1,
+    "FT_Home": 0,
     "FT_Markets": 0,
     "CNBC_Top": 0,
     "CNBC_Markets": 0,
@@ -79,11 +79,11 @@
     "TheEconomist_Finance": 0,
     "Investopedia_Latest": 0,
     "TheStreet_Top": 0,
-    "AlJazeera_All": 1,
+    "AlJazeera_All": 0,
     "AlJazeera_Economy": 0,
     "FinancialPost_Business": 0,
     "CBC_Business": 0,
-    "Nikkei_Asia_Top": 0,
+    "Nikkei_Asia_Top": 1,
     "WorldBank_News": 0,
     "OECD_Newsroom": 0,
     "MIT_TechReview": 0,
@@ -131,16 +131,8 @@
       "error": "fatal parse failure"
     },
     {
-      "source": "https://unchainedcrypto.com/feed/",
-      "error": "fetch error: HTTP 415"
-    },
-    {
-      "source": "Unchained",
-      "error": "fatal parse failure"
-    },
-    {
       "source": "https://www.bankless.com/rss",
-      "error": "fetch error: HTTP 415"
+      "error": "fetch error: HTTP 404"
     },
     {
       "source": "Bankless",
@@ -343,19 +335,19 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 414,
+    "passed_keywords": 412,
     "passed_allowlist": 0,
-    "failed_all_filters": 499
+    "failed_all_filters": 501
   },
   "stats": {
     "feeds_total": 97,
-    "feeds_error": 24,
+    "feeds_error": 23,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 1512,
-    "too_old": 599,
-    "dup_title_url": 70,
-    "dup_id": 342
+    "entries_seen": 1522,
+    "too_old": 609,
+    "dup_title_url": 68,
+    "dup_id": 343
   },
   "limits": {
     "skip_older_days": 10,
@@ -368,6 +360,6 @@
   },
   "processed": {
     "file": "data/processed/2026-01-04.jsonl",
-    "appended_new": 2
+    "appended_new": 1
   }
 }
