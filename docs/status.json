@@ -1,7 +1,7 @@
 {
-  "started_utc": "2026-01-04T17:48:22Z",
-  "ended_utc": "2026-01-04T17:51:49Z",
-  "new_items_this_run": 3,
+  "started_utc": "2026-01-04T18:16:59Z",
+  "ended_utc": "2026-01-04T18:20:25Z",
+  "new_items_this_run": 7,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
@@ -11,7 +11,7 @@
     "BBC_Business": 0,
     "BBC_Technology": 0,
     "Guardian_Business": 0,
-    "Guardian_World": 1,
+    "Guardian_World": 3,
     "WSJ_US_Business": 0,
     "WSJ_World": 0,
     "WSJ_Markets": 0,
@@ -74,20 +74,20 @@
     "TechCrunch_All": 0,
     "ArsTechnica_All": 0,
     "WIRED_All": 0,
-    "Engadget_All": 0,
+    "Engadget_All": 1,
     "TheEconomist_Business": 0,
     "TheEconomist_Finance": 0,
     "Investopedia_Latest": 0,
-    "TheStreet_Top": 1,
+    "TheStreet_Top": 0,
     "AlJazeera_All": 0,
     "AlJazeera_Economy": 0,
-    "FinancialPost_Business": 0,
+    "FinancialPost_Business": 1,
     "CBC_Business": 0,
     "Nikkei_Asia_Top": 0,
     "WorldBank_News": 0,
     "OECD_Newsroom": 0,
     "MIT_TechReview": 0,
-    "HackerNews_Top": 0
+    "HackerNews_Top": 1
   },
   "errors": [
     {
@@ -131,8 +131,16 @@
       "error": "fatal parse failure"
     },
     {
+      "source": "https://unchainedcrypto.com/feed/",
+      "error": "fetch error: HTTP 415"
+    },
+    {
+      "source": "Unchained",
+      "error": "fatal parse failure"
+    },
+    {
       "source": "https://www.bankless.com/rss",
-      "error": "fetch error: HTTP 404"
+      "error": "fetch error: HTTP 415"
     },
     {
       "source": "Bankless",
@@ -173,14 +181,6 @@
     {
       "source": "Polygon_Blog",
       "error": "<unknown>:2:2184: not well-formed (invalid token)"
-    },
-    {
-      "source": "https://medium.com/feed/avalancheavax",
-      "error": "fetch error: HTTP 429"
-    },
-    {
-      "source": "Avalanche_Blog",
-      "error": "fatal parse failure"
     },
     {
       "source": "NEAR_Blog",
@@ -343,19 +343,19 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 414,
+    "passed_keywords": 412,
     "passed_allowlist": 0,
-    "failed_all_filters": 501
+    "failed_all_filters": 504
   },
   "stats": {
     "feeds_total": 97,
     "feeds_error": 24,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 1513,
+    "entries_seen": 1514,
     "too_old": 598,
-    "dup_title_url": 70,
-    "dup_id": 341
+    "dup_title_url": 68,
+    "dup_id": 337
   },
   "limits": {
     "skip_older_days": 10,
@@ -368,6 +368,6 @@
   },
   "processed": {
     "file": "data/processed/2026-01-04.jsonl",
-    "appended_new": 3
+    "appended_new": 7
   }
 }
