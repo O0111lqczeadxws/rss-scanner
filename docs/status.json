@@ -1,7 +1,7 @@
 {
-  "started_utc": "2026-01-04T07:33:27Z",
-  "ended_utc": "2026-01-04T07:36:49Z",
-  "new_items_this_run": 2,
+  "started_utc": "2026-01-04T07:49:13Z",
+  "ended_utc": "2026-01-04T07:52:36Z",
+  "new_items_this_run": 3,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
@@ -22,7 +22,7 @@
     "CryptoSlate": 0,
     "CryptoBriefing": 0,
     "Protos": 0,
-    "CryptoNews": 1,
+    "CryptoNews": 0,
     "CoinJournal": 0,
     "Unchained": 0,
     "Bankless": 0,
@@ -79,7 +79,7 @@
     "TheEconomist_Finance": 0,
     "Investopedia_Latest": 0,
     "TheStreet_Top": 0,
-    "AlJazeera_All": 0,
+    "AlJazeera_All": 2,
     "AlJazeera_Economy": 0,
     "FinancialPost_Business": 0,
     "CBC_Business": 0,
@@ -173,6 +173,14 @@
     {
       "source": "Polygon_Blog",
       "error": "<unknown>:2:2184: not well-formed (invalid token)"
+    },
+    {
+      "source": "https://medium.com/feed/avalancheavax",
+      "error": "fetch error: HTTP 429"
+    },
+    {
+      "source": "Avalanche_Blog",
+      "error": "fatal parse failure"
     },
     {
       "source": "NEAR_Blog",
@@ -335,19 +343,19 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 395,
+    "passed_keywords": 398,
     "passed_allowlist": 1,
-    "failed_all_filters": 522
+    "failed_all_filters": 519
   },
   "stats": {
     "feeds_total": 97,
-    "feeds_error": 23,
+    "feeds_error": 24,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 1528,
-    "too_old": 610,
+    "entries_seen": 1518,
+    "too_old": 600,
     "dup_title_url": 66,
-    "dup_id": 328
+    "dup_id": 330
   },
   "limits": {
     "skip_older_days": 10,
@@ -360,6 +368,6 @@
   },
   "processed": {
     "file": "data/processed/2026-01-04.jsonl",
-    "appended_new": 2
+    "appended_new": 3
   }
 }
