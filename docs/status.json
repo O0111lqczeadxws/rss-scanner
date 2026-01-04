@@ -1,13 +1,13 @@
 {
-  "started_utc": "2026-01-04T21:29:59Z",
-  "ended_utc": "2026-01-04T21:33:24Z",
-  "new_items_this_run": 4,
+  "started_utc": "2026-01-04T21:40:58Z",
+  "ended_utc": "2026-01-04T21:44:34Z",
+  "new_items_this_run": 1,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
     "Reuters_World": 0,
     "Reuters_Markets": 0,
-    "BBC_World": 1,
+    "BBC_World": 0,
     "BBC_Business": 0,
     "BBC_Technology": 0,
     "Guardian_Business": 0,
@@ -74,7 +74,7 @@
     "TechCrunch_All": 0,
     "ArsTechnica_All": 0,
     "WIRED_All": 0,
-    "Engadget_All": 1,
+    "Engadget_All": 0,
     "TheEconomist_Business": 0,
     "TheEconomist_Finance": 0,
     "Investopedia_Latest": 0,
@@ -87,7 +87,7 @@
     "WorldBank_News": 0,
     "OECD_Newsroom": 0,
     "MIT_TechReview": 0,
-    "HackerNews_Top": 1
+    "HackerNews_Top": 0
   },
   "errors": [
     {
@@ -131,6 +131,14 @@
       "error": "fatal parse failure"
     },
     {
+      "source": "https://blockworks.co/feed",
+      "error": "fetch error: HTTP 403"
+    },
+    {
+      "source": "Blockworks",
+      "error": "fatal parse failure"
+    },
+    {
       "source": "https://www.bankless.com/rss",
       "error": "fetch error: HTTP 404"
     },
@@ -143,12 +151,16 @@
       "error": "<unknown>:24:2: not well-formed (invalid token)"
     },
     {
+      "source": "https://consensys.net/blog/feed/",
+      "error": "fetch error: HTTP 403"
+    },
+    {
       "source": "Consensys_Blog",
-      "error": "<unknown>:157:57: not well-formed (invalid token)"
+      "error": "fatal parse failure"
     },
     {
       "source": "https://blog.uniswap.org/rss.xml",
-      "error": "fetch error: HTTP 404"
+      "error": "fetch error: HTTPSConnectionPool(host='blog.uniswap.org', port=443): Max retries exceeded with url: /rss.xml (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)')))"
     },
     {
       "source": "Uniswap_Blog",
@@ -164,7 +176,7 @@
     },
     {
       "source": "https://arbitrum.foundation/feed",
-      "error": "fetch error: HTTP 404"
+      "error": "fetch error: HTTPSConnectionPool(host='arbitrum.foundation', port=443): Max retries exceeded with url: /feed (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)')))"
     },
     {
       "source": "Arbitrum_Foundation",
@@ -175,8 +187,12 @@
       "error": "<unknown>:2:2184: not well-formed (invalid token)"
     },
     {
+      "source": "https://near.org/blog/feed/",
+      "error": "fetch error: HTTPSConnectionPool(host='near.org', port=443): Max retries exceeded with url: /blog/feed/ (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)')))"
+    },
+    {
       "source": "NEAR_Blog",
-      "error": "<unknown>:2:2638: not well-formed (invalid token)"
+      "error": "fatal parse failure"
     },
     {
       "source": "https://blog.dydx.exchange/feed",
@@ -335,19 +351,19 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 414,
+    "passed_keywords": 409,
     "passed_allowlist": 0,
-    "failed_all_filters": 498
+    "failed_all_filters": 491
   },
   "stats": {
     "feeds_total": 97,
-    "feeds_error": 23,
+    "feeds_error": 26,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 1521,
-    "too_old": 609,
+    "entries_seen": 1471,
+    "too_old": 571,
     "dup_title_url": 69,
-    "dup_id": 341
+    "dup_id": 339
   },
   "limits": {
     "skip_older_days": 10,
@@ -360,6 +376,6 @@
   },
   "processed": {
     "file": "data/processed/2026-01-04.jsonl",
-    "appended_new": 4
+    "appended_new": 1
   }
 }
