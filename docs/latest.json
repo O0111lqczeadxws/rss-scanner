@@ -2,6 +2,28 @@
   {
     "published_utc": "2026-01-04",
     "retrieved_date": "2026-01-04",
+    "retrieved_utc": "2026-01-04T05:57:21Z",
+    "source": "AlJazeera_All",
+    "title": "UK, France carry out joint strike on ISIL target near Syria’s Palmyra",
+    "url": "https://www.aljazeera.com/news/2026/1/4/uk-france-carry-out-joint-strike-on-isil-target-near-syrias-palmyra?traffic_source=rss",
+    "id_key": "8fe10824b0136fb67ab4213470853fd0a7cf44f609513ce76bfe0f11d2fa2ad6",
+    "summary": "The UK's Ministry of Defence says an underground facility likely storing ISIL weapons was the target of the attack.",
+    "ingested_utc": "2026-01-04T05:57:21Z"
+  },
+  {
+    "published_utc": "2026-01-04",
+    "retrieved_date": "2026-01-04",
+    "retrieved_utc": "2026-01-04T05:56:54Z",
+    "source": "FT_Home",
+    "title": "European office deals rebound as investors bet on supply crunch",
+    "url": "https://www.ft.com/content/40a45c02-a52d-4a0e-97d8-2fb0417d0427",
+    "id_key": "a34e750da6c6d8923bad03a5678732a39f9743e9ab715975f03596a73069cd63",
+    "summary": "Total of 21 deals worth £100mn or more in central London in 2025 is almost double previous year’s figure",
+    "ingested_utc": "2026-01-04T05:56:54Z"
+  },
+  {
+    "published_utc": "2026-01-04",
+    "retrieved_date": "2026-01-04",
     "retrieved_utc": "2026-01-04T05:42:58Z",
     "source": "NYTimes_World",
     "title": "How Trump Fixed On a Maduro Loyalist as Venezuela’s New Leader",
@@ -10976,27 +10998,5 @@
     "id_key": "5f81bed100a22bdd32054c4633decb8c60a6b612239373bb6495106c78d32d80",
     "summary": "It started the way these things often do: a screenshot, a red circle, a big number, and a timeline that makes your stomach do a tiny flip. On Dec. 29, the Federal Reserve’s overnight repo line item jumped to $16 billion after printing close to zero on most days. It then slid back to $2.0 […] The post Banks just demanded $26 billion in emergency cash but Bitcoin traders are missing a critical warning signal appeared first on CryptoSlate .",
     "ingested_utc": "2025-12-31T13:08:25Z"
-  },
-  {
-    "published_utc": "2025-12-31",
-    "retrieved_date": "2025-12-31",
-    "retrieved_utc": "2025-12-31T13:08:25Z",
-    "source": "CryptoBriefing",
-    "title": "Neo co-founders escalate public feud over treasury control and transparency",
-    "url": "https://cryptobriefing.com/neo-founders-transparency-clash/",
-    "id_key": "44398189a740a7e898b80ae18a327eaf6534611033286fc784338459ff64247a",
-    "summary": "The public dispute between Neo's co-founders highlights significant governance challenges, potentially undermining community trust and platform stability. The post Neo co-founders escalate public feud over treasury control and transparency appeared first on Crypto Briefing .",
-    "ingested_utc": "2025-12-31T13:08:25Z"
-  },
-  {
-    "published_utc": "2025-12-31",
-    "retrieved_date": "2025-12-31",
-    "retrieved_utc": "2025-12-31T13:08:07Z",
-    "source": "Guardian_World",
-    "title": "Finnish police seize vessel suspected of damaging underwater cable",
-    "url": "https://www.theguardian.com/world/2025/dec/31/finnish-police-seize-vessel-suspected-damaging-underwater-cable",
-    "id_key": "b5bdf4cf2248ec8f2d82430ccdd67c5432635c195147f3b3faa7e2925340a885",
-    "summary": "Border guards find boat with its anchor down after telecoms link was targeted in Estonian waters A ship suspected of damaging an underwater cable running between Helsinki and Tallinn has been seized by police. Finnish officials say the vessel is suspected of being “responsible for the damage to the cable” owned by the telecoms group Elisa and located in Estonia’s exclusive economic zone. Continue reading...",
-    "ingested_utc": "2025-12-31T13:08:07Z"
   }
 ]
