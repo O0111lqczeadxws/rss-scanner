@@ -2,6 +2,17 @@
   {
     "published_utc": "2026-01-04",
     "retrieved_date": "2026-01-04",
+    "retrieved_utc": "2026-01-04T07:18:19Z",
+    "source": "HackerNews_Top",
+    "title": "Gershwin-desktop: OS X-like Desktop Environment based on GNUStep",
+    "url": "https://github.com/gershwin-desktop/gershwin-desktop",
+    "id_key": "9b6e11c41b06acc6c72a0000265d5b2fb22a298932062a84722c92c3677338ec",
+    "summary": "Comments",
+    "ingested_utc": "2026-01-04T07:18:19Z"
+  },
+  {
+    "published_utc": "2026-01-04",
+    "retrieved_date": "2026-01-04",
     "retrieved_utc": "2026-01-04T06:52:59Z",
     "source": "Guardian_World",
     "title": "Police call off seperate searches for missing teen boy and another man off two Sydney beaches",
@@ -10986,17 +10997,6 @@
     "url": "https://financialpost.com/globe-newswire/linamar-corporation-completes-acquisition-of-georg-fischers-leipzig-facility",
     "id_key": "e285c2fbeaad5e18a9451ae3fd501572d3e0b8d0af5fae5f6d2fc9417c0fc0ef",
     "summary": "GUELPH, Ontario, Dec. 31, 2025 (GLOBE NEWSWIRE) — Linamar Corporation (TSX:LNR) today announced that its previously announced acquisition of Georg Fischer’s Leipzig facility has been completed. The deal was initially announced on October 7th for Linamar Corporation to acquire the Leipzig facility for €45 million. Leipzig is a technology leader in ductile iron castings with […]",
-    "ingested_utc": "2025-12-31T13:11:01Z"
-  },
-  {
-    "published_utc": "2025-12-31",
-    "retrieved_date": "2025-12-31",
-    "retrieved_utc": "2025-12-31T13:11:01Z",
-    "source": "FinancialPost_Business",
-    "title": "The Quantum Shield: Hardening AI & Critical Infrastructure",
-    "url": "https://financialpost.com/globe-newswire/the-quantum-shield-hardening-ai-critical-infrastructure",
-    "id_key": "8378a67adbf1af6556cc9828e7ae3a17412768414ae339112fe9cbd178d108c5",
-    "summary": "Issued on behalf of QSE – Quantum Secure Encryption Corp. VANCOUVER, British Columbia, Dec. 31, 2025 (GLOBE NEWSWIRE) — USA News Group News Commentary – The post-quantum cryptography market is projected to surge from US$1.35 billion in 2025 to US$22.68 billion by 2033 at a 42.33% CAGR as enterprises race to protect critical infrastructure from […]",
     "ingested_utc": "2025-12-31T13:11:01Z"
   }
 ]
