@@ -2,6 +2,28 @@
   {
     "published_utc": "2026-01-04",
     "retrieved_date": "2026-01-04",
+    "retrieved_utc": "2026-01-04T20:54:52Z",
+    "source": "AlJazeera_All",
+    "title": "Swiss police identify all bodies after deadly New Year’s Eve bar fire",
+    "url": "https://www.aljazeera.com/news/2026/1/4/swiss-police-identify-16-more-bodies-after-deadly-new-years-eve-bar-fire?traffic_source=rss",
+    "id_key": "97ebbada83369bf9e799dd3e9613d7b37b85631ec6e594be4cdce3ff61899ea8",
+    "summary": "Officials are continuing efforts to identify the remaining casualties from the fire that killed 40 people.",
+    "ingested_utc": "2026-01-04T20:54:52Z"
+  },
+  {
+    "published_utc": "2026-01-04",
+    "retrieved_date": "2026-01-04",
+    "retrieved_utc": "2026-01-04T20:54:24Z",
+    "source": "FT_Home",
+    "title": "Trump warns Venezuelan rulers as Washington prepares to dictate policy",
+    "url": "https://www.ft.com/content/fed60da2-4e43-400f-9635-5f2ed8dca452",
+    "id_key": "a83deda20aaa8ffb3d480c98da93efe1aa9b33784b9518d1f4f2f8e414695ffd",
+    "summary": "US president says Latin American nation’s post-Maduro leader must adhere to conditions or pay ‘a very big price’",
+    "ingested_utc": "2026-01-04T20:54:24Z"
+  },
+  {
+    "published_utc": "2026-01-04",
+    "retrieved_date": "2026-01-04",
     "retrieved_utc": "2026-01-04T20:39:18Z",
     "source": "HackerNews_Top",
     "title": "NSFW Acronyms for Programmers (Free eBook)",
@@ -10976,27 +10998,5 @@
     "id_key": "7fc251c6d9721285cb8f84a84c2716d1931f862b7bc33e191bf06df88eccf908",
     "summary": "The move is dividing the nation - some welcome it as a bold leap forwards, but others fear it will lead to economic stagnation.",
     "ingested_utc": "2025-12-31T22:35:27Z"
-  },
-  {
-    "published_utc": "2025-12-31",
-    "retrieved_date": "2025-12-31",
-    "retrieved_utc": "2025-12-31T22:15:54Z",
-    "source": "FinancialPost_Business",
-    "title": "Mustang Announces Closing of Non-Brokered Private Placement",
-    "url": "https://financialpost.com/globe-newswire/mustang-announces-closing-of-non-brokered-private-placement-2",
-    "id_key": "98f5b01f856d8a20b28b2cbacc0b78cf904afd5702ef3ed5a1998b81df79aa08",
-    "summary": "NOT FOR DISTRIBUTION TO UNITED STATES NEWS WIRE SERVICES OR FOR DISSEMINATION IN THE UNITED STATES VANCOUVER, British Columbia, Dec. 31, 2025 (GLOBE NEWSWIRE) — Mustang Energy Corp. (CSE: MEC, OTC: MECPF, FRA: 92T) (“Mustang” or the “Company”) is pleased to announce that, further to its news release dated December 19, 2025, it has closed […]",
-    "ingested_utc": "2025-12-31T22:15:54Z"
-  },
-  {
-    "published_utc": "2025-12-31",
-    "retrieved_date": "2025-12-31",
-    "retrieved_utc": "2025-12-31T22:15:54Z",
-    "source": "FinancialPost_Business",
-    "title": "TC Energy provides conversion right and dividend rate notice for Series 5 and 6 preferred shares",
-    "url": "https://financialpost.com/globe-newswire/tc-energy-provides-conversion-right-and-dividend-rate-notice-for-series-5-and-6-preferred-shares-2",
-    "id_key": "af1107c0b9ef887e981430670b6efcc58e846210f31e5efd076fa03ef0e05eac",
-    "summary": "CALGARY, Alberta, Dec. 31, 2025 (GLOBE NEWSWIRE) — News Release – TC Energy Corporation (TSX:TRP) (NYSE:TRP) (TC Energy) today announced that it does not intend to exercise its right to redeem its Cumulative Redeemable First Preferred Shares, Series 5 (Series 5 Shares) and Cumulative Redeemable First Preferred Shares, Series 6 (Series 6 Shares) on Jan. […]",
-    "ingested_utc": "2025-12-31T22:15:54Z"
   }
 ]
