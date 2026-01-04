@@ -2,6 +2,28 @@
   {
     "published_utc": "2026-01-04",
     "retrieved_date": "2026-01-04",
+    "retrieved_utc": "2026-01-04T09:14:56Z",
+    "source": "TheStreet_Top",
+    "title": "Wayfair is selling a 'very sturdy' freestanding adjustable cabinet for $73",
+    "url": "https://www.thestreet.com/deals/beachrest-home-freestanding-adjustable-cabinet-amazon-sale",
+    "id_key": "106bce519d854e23a8b7144f3470982cfd8eb1a2ea3a29aaffa5c29bc1a275a6",
+    "summary": "This low-profile cabinet works for small spaces and open areas.",
+    "ingested_utc": "2026-01-04T09:14:56Z"
+  },
+  {
+    "published_utc": "2026-01-04",
+    "retrieved_date": "2026-01-04",
+    "retrieved_utc": "2026-01-04T09:12:34Z",
+    "source": "CryptoSlate",
+    "title": "European crypto trading volume is soaring, but a hidden “venue gap” is silently killing your execution price",
+    "url": "https://cryptoslate.com/mica-euro-stablecoins-doubled-did-btc-eth-liquidity-in-europe-follow/",
+    "id_key": "6404ad993b2203038e012d8625881381673ddb7c53b022c6da2776360dc2bca7",
+    "summary": "The euro finally has a substantial stablecoin market, and for once, it's not just a niche corner of DeFi. When MiCA’s stablecoin rules kicked in June 2024, they turned euro-pegged stablecoins into a regulated product category with paperwork, reserve rules, and an actual licensing lane. Under MiCA, stablecoins that reference a single fiat currency sit […] The post European crypto trading volume is soaring, but a hidden “venue gap” is silently killing your execution price appeared first on CryptoSlate .",
+    "ingested_utc": "2026-01-04T09:12:34Z"
+  },
+  {
+    "published_utc": "2026-01-04",
+    "retrieved_date": "2026-01-04",
     "retrieved_utc": "2026-01-04T08:47:47Z",
     "source": "CryptoNews",
     "title": "Bitcoin Holds Near $90K Despite US–Venezuela Military Shock",
@@ -10976,27 +10998,5 @@
     "id_key": "ce411ae255f1001b114b9db440db4678e9576814a4d6f6447f9ab3fd3e05857a",
     "summary": "NOT FOR DISTRIBUTION TO U.S. NEWSWIRE SERVICES OR FOR DISSEMINATION IN THE UNITED STATES CALGARY, Alberta, Dec. 31, 2025 (GLOBE NEWSWIRE) — Reeflex Solutions Inc. (TSXV: RFX) (“Reeflex” or the “Company”) announces that, further to its announcement on December 17, 2025, the Alberta Securities Commission (the “ASC”), as principal regulator of the Company, has issued […]",
     "ingested_utc": "2025-12-31T13:47:22Z"
-  },
-  {
-    "published_utc": "2025-12-31",
-    "retrieved_date": "2025-12-31",
-    "retrieved_utc": "2025-12-31T13:47:22Z",
-    "source": "FinancialPost_Business",
-    "title": "The nation’s 250th anniversary arrives with a call for year-round community service",
-    "url": "https://financialpost.com/pmn/the-nations-250th-anniversary-arrives-with-a-call-for-year-round-community-service",
-    "id_key": "f498a9c5a6b90910be6704704a3290818098326746017d122c6a409329115c44",
-    "summary": "NEW YORK (AP) — The U.S. Semiquincentennial Commission wants to turn America’s 250th birthday celebration into the country’s single biggest year for volunteering. But America Gives, the program unveiled Wednesday just before the U.S. begins commemorating the 1776 signing of the Declaration of Independence, will have to revitalize a culture of service that has recently […]",
-    "ingested_utc": "2025-12-31T13:47:22Z"
-  },
-  {
-    "published_utc": "2025-12-31",
-    "retrieved_date": "2025-12-31",
-    "retrieved_utc": "2025-12-31T13:47:04Z",
-    "source": "ArsTechnica_All",
-    "title": "Supply chains, AI, and the cloud: The biggest failures (and one success) of 2025",
-    "url": "https://arstechnica.com/security/2025/12/supply-chains-ai-and-the-cloud-the-biggest-failures-and-one-success-of-2025/",
-    "id_key": "a81a3804d96a7cca5dbb6ab04188ccfb8a6bbaa2372de893c9daf11533c62794",
-    "summary": "The past year has seen plenty of hacks and outages. Here are the ones topping the list.",
-    "ingested_utc": "2025-12-31T13:47:04Z"
   }
 ]
