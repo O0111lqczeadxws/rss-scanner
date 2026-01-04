@@ -2,6 +2,39 @@
   {
     "published_utc": "2026-01-04",
     "retrieved_date": "2026-01-04",
+    "retrieved_utc": "2026-01-04T16:56:25Z",
+    "source": "TheVerge_All",
+    "title": "You can unlock SwitchBot’s first deadbolt smart lock with your face",
+    "url": "https://www.theverge.com/tech/852978/switchbot-lock-vision-deadbolt-facial-recognition",
+    "id_key": "e5960beae87888b7111a0e81a63caaec314e69c0d13bcbc4f31e4e977f2ff88c",
+    "summary": "SwitchBot has announced a new deadbolt smart lock that can be unlocked with a glance. Like the Keypad Vision that SwitchBot launched last year, the new Lock Vision series unveiled at CES uses 3D facial recognition technology to enable \"near-instant unlocking\" after scanning your face. The Lock Vision is the first smart lock from SwitchBot […]",
+    "ingested_utc": "2026-01-04T16:56:25Z"
+  },
+  {
+    "published_utc": "2026-01-04",
+    "retrieved_date": "2026-01-04",
+    "retrieved_utc": "2026-01-04T16:56:25Z",
+    "source": "TheVerge_All",
+    "title": "SwitchBot’s AI audio recorder is a ‘second brain’ for memories",
+    "url": "https://www.theverge.com/tech/853109/switchbot-ai-mindclip-audio-recorder-ces-announcement",
+    "id_key": "501b5cc76f5198f218239cf80b601e52a3bbeeae6d69a6ebe55f22edc27f0b97",
+    "summary": "SwitchBot is joining the AI voice recorder bandwagon, introducing its own clip-on gadget that captures and organizes your every conversation. The SwitchBot AI MindClip announced at CES records spoken information from your daily life and work meetings and converts those conversations into summaries, to-do actions, and a personal audio memory database. This announcement follows competing […]",
+    "ingested_utc": "2026-01-04T16:56:25Z"
+  },
+  {
+    "published_utc": "2026-01-04",
+    "retrieved_date": "2026-01-04",
+    "retrieved_utc": "2026-01-04T16:55:38Z",
+    "source": "BBC_Business",
+    "title": "Dreading going back to work? How to ease the post-Christmas return",
+    "url": "https://www.bbc.com/news/articles/c7097jp00pno?at_medium=RSS&at_campaign=rss",
+    "id_key": "d830a66cf197025641d466294875349ccc4b1e29b432e3a1611d9cff743b4a95",
+    "summary": "Career coaches and leaders share practical advice for managing anxiety and overload after the break.",
+    "ingested_utc": "2026-01-04T16:55:38Z"
+  },
+  {
+    "published_utc": "2026-01-04",
+    "retrieved_date": "2026-01-04",
     "retrieved_utc": "2026-01-04T16:43:18Z",
     "source": "FinancialPost_Business",
     "title": "It’s not just you: Why car prices have risen so sharply post-pandemic",
@@ -10965,38 +10998,5 @@
     "id_key": "03e3e33c612cae0d019b7a5ab70731d7cfbb7469bf8f6f7cec0e8e124d25a3e0",
     "summary": "Comments",
     "ingested_utc": "2025-12-31T18:53:17Z"
-  },
-  {
-    "published_utc": "2025-12-31",
-    "retrieved_date": "2025-12-31",
-    "retrieved_utc": "2025-12-31T18:53:17Z",
-    "source": "HackerNews_Top",
-    "title": "Court report detailing ChatGPT's involvement with a recent murder suicide [pdf]",
-    "url": "https://storage.courtlistener.com/recap/gov.uscourts.cand.461878/gov.uscourts.cand.461878.1.0.pdf",
-    "id_key": "399973012dbd4f502e5d73b5b6928e7eeb30f1a9b25aad54c23b9ffda6b47986",
-    "summary": "Comments",
-    "ingested_utc": "2025-12-31T18:53:17Z"
-  },
-  {
-    "published_utc": "2025-12-31",
-    "retrieved_date": "2025-12-31",
-    "retrieved_utc": "2025-12-31T18:53:09Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "Japan's Meiko plans circuit board plant in Vietnam for Samsung AI phones",
-    "url": "https://asia.nikkei.com/business/electronics/japan-s-meiko-plans-circuit-board-plant-in-vietnam-for-samsung-ai-phones",
-    "id_key": "fa8017253c3c944e168d12eac397f74a9771af52e68c83279f79e73ddb59eb07",
-    "summary": "",
-    "ingested_utc": "2025-12-31T18:53:09Z"
-  },
-  {
-    "published_utc": "2025-12-31",
-    "retrieved_date": "2025-12-31",
-    "retrieved_utc": "2025-12-31T18:53:09Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "Belt and Road nations' share of China trade surplus overtakes that of US",
-    "url": "https://asia.nikkei.com/spotlight/belt-and-road/belt-and-road-nations-share-of-china-trade-surplus-overtakes-that-of-us",
-    "id_key": "0eb15ab7c0aa1c0b13389679fcc1298b55aaf91b2a9c7b8464c57aed0bba3e5d",
-    "summary": "",
-    "ingested_utc": "2025-12-31T18:53:09Z"
   }
 ]
