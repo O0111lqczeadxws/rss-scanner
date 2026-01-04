@@ -2,6 +2,50 @@
   {
     "published_utc": "2026-01-04",
     "retrieved_date": "2026-01-04",
+    "retrieved_utc": "2026-01-04T23:34:03Z",
+    "source": "FinancialPost_Business",
+    "title": "Oil Declines as Investors Weigh US Capture of Venezuela’s Maduro",
+    "url": "https://financialpost.com/pmn/business-pmn/oil-declines-as-investors-weigh-us-capture-of-venezuelas-maduro",
+    "id_key": "0717b2919ca3292a460880c4bbeed01d5c2273add97b46e32f9ea42f1e596071",
+    "summary": "Oil dropped as traders weighed the fallout from the capture of Venezuelan President Nicolás Maduro by US forces on global crude supply and its wider impact on the nation’s energy sector.",
+    "ingested_utc": "2026-01-04T23:34:03Z"
+  },
+  {
+    "published_utc": "2026-01-04",
+    "retrieved_date": "2026-01-04",
+    "retrieved_utc": "2026-01-04T23:34:03Z",
+    "source": "FinancialPost_Business",
+    "title": "Indonesia Tightens Grip on Resources with Switzerland-Sized Land Grab",
+    "url": "https://financialpost.com/pmn/business-pmn/indonesia-tightens-grip-on-resources-with-switzerland-sized-land-grab",
+    "id_key": "b36c7509f1449c1e5d14f671f72c5def960e2d9cc49e66951774e15e5e5751ab",
+    "summary": "More than 4 million hectares have been seized as President Prabowo Subianto cracks down on malfeasance in the commodities sector.",
+    "ingested_utc": "2026-01-04T23:34:03Z"
+  },
+  {
+    "published_utc": "2026-01-04",
+    "retrieved_date": "2026-01-04",
+    "retrieved_utc": "2026-01-04T23:33:29Z",
+    "source": "FT_Home",
+    "title": "Oil prices slip after Trump’s Venezuela strikes",
+    "url": "https://www.ft.com/content/4a21608d-363c-467c-9698-b6c083715493",
+    "id_key": "ae128c8be8f876795f61f672f8884266b358b1684b50399e7bcc4a1d15d3645e",
+    "summary": "Investors weigh short-term disruption to Venezuelan exports against potential to eventually pump more crude",
+    "ingested_utc": "2026-01-04T23:33:29Z"
+  },
+  {
+    "published_utc": "2026-01-04",
+    "retrieved_date": "2026-01-04",
+    "retrieved_utc": "2026-01-04T23:33:10Z",
+    "source": "MarketWatch_Bulletins",
+    "title": "Stock futures steady as investors respond to Maduro's capture",
+    "url": "https://www.marketwatch.com/bulletins/redirect/go?g=9967550e-81c5-4c16-97e0-8844e572a3a9&mod=mw_rss_bulletins",
+    "id_key": "e7c8afe4b4b1f34dcdbdb27d0b7504a8b3f45951663cbcbe753b2544a56cd38b",
+    "summary": "",
+    "ingested_utc": "2026-01-04T23:33:10Z"
+  },
+  {
+    "published_utc": "2026-01-04",
+    "retrieved_date": "2026-01-04",
     "retrieved_utc": "2026-01-04T23:14:48Z",
     "source": "NPR_World",
     "title": "Even in prison, Marwan Barghouthi looms large in Palestinian politics",
@@ -10954,49 +10998,5 @@
     "id_key": "2d6dac92cb92455109589855defd65293df28f98dea69c4aa548e55b3a5b4ff1",
     "summary": "Most companies wait until after the holidays to deliver bad news. It's not unheard of for people to be laid off right before Christmas, or in the week between Christmas and New Year's, but doing that is seen as especially cruel. Many companies, however, simply carry out their plans without regard ...",
     "ingested_utc": "2026-01-01T19:30:34Z"
-  },
-  {
-    "published_utc": "2025-12-31",
-    "retrieved_date": "2026-01-01",
-    "retrieved_utc": "2026-01-01T19:14:14Z",
-    "source": "TheStreet_Top",
-    "title": "Stocks wild ride in 2025 sets the stage for 2026",
-    "url": "https://www.thestreet.com/investing/the-major-stories-that-moved-stocks-in-2025",
-    "id_key": "bf44f4200f860e14eb19eecfd1334601721a7da7ca3f6607b8529ff3396f4d03",
-    "summary": "Editor's Note: Todd Campbell, TheStreet's co-editor-in-chief, a 30-year Wall Street veteran and former Series 7/65 licensed advisor, analyzes 2025's biggest stock market stories. Throughout my nearly 30-year career navigating the stock market, I've experienced more than my fair share of both good ...",
-    "ingested_utc": "2026-01-01T19:14:14Z"
-  },
-  {
-    "published_utc": "2025-12-31",
-    "retrieved_date": "2026-01-01",
-    "retrieved_utc": "2026-01-01T13:08:39Z",
-    "source": "BBC_Business",
-    "title": "Eurostar services return to normal after major Channel Tunnel disruption",
-    "url": "https://www.bbc.com/news/articles/c0q4eg03eyzo?at_medium=RSS&at_campaign=rss",
-    "id_key": "6e127ecaacce00d2aa8dfb1545b2c8b4c73a2b23ac93c303cd347280db926e86",
-    "summary": "The high-speed rail firm urged passengers to check before they travel as last-minute delays and cancellations are still possible.",
-    "ingested_utc": "2026-01-01T13:08:39Z"
-  },
-  {
-    "published_utc": "2025-12-31",
-    "retrieved_date": "2026-01-01",
-    "retrieved_utc": "2026-01-01T10:40:08Z",
-    "source": "CryptoSlate",
-    "title": "The 10 biggest failures in crypto in 2025 (and what went wrong)",
-    "url": "https://cryptoslate.com/the-10-biggest-crypto-losers-of-2025-and-what-went-wrong/",
-    "id_key": "7f0e4885cd0cf7cc9467ebc614acc85f56a1bed49a51a1e880671fccbdc6a226",
-    "summary": "2025 was supposed to be crypto's maturation year, with regulatory clarity, institutional adoption, and infrastructure built to last. In fact, the foundation for all these topics was laid down. Yet, it also delivered a master class in how quickly narratives collapse when opacity meets price discovery. Tokens that launched with maximum hype, extracted maximum fees, […] The post The 10 biggest failures in crypto in 2025 (and what went wrong) appeared first on CryptoSlate .",
-    "ingested_utc": "2026-01-01T10:40:08Z"
-  },
-  {
-    "published_utc": "2025-12-31",
-    "retrieved_date": "2026-01-01",
-    "retrieved_utc": "2026-01-01T10:16:28Z",
-    "source": "NPR_Business",
-    "title": "What to know about Nick Shirley, the YouTuber alleging day care fraud in Minnesota",
-    "url": "https://www.npr.org/2025/12/31/nx-s1-5662600/nick-shirley-minnesota-daycare-fraud",
-    "id_key": "5072e2f1c7e3b3e01cafc01118fbfa5f1b5f759e92d6a48ca3841228cadff32b",
-    "summary": "Shirley is a 23-year-old self-described \"independent YouTube journalist\" who made prank videos in high school before pivoting to politics. He participated in a White House roundtable in October.",
-    "ingested_utc": "2026-01-01T10:16:28Z"
   }
 ]
