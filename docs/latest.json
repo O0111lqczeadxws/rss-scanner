@@ -2,6 +2,28 @@
   {
     "published_utc": "2026-01-04",
     "retrieved_date": "2026-01-04",
+    "retrieved_utc": "2026-01-04T23:14:48Z",
+    "source": "NPR_World",
+    "title": "Even in prison, Marwan Barghouthi looms large in Palestinian politics",
+    "url": "https://www.npr.org/2026/01/04/nx-s1-5662673/even-in-prison-marwan-barghouthi-looms-large-in-palestinian-politics",
+    "id_key": "1896bdbf5588ab08f02ea11b58479bd822afecf6c0c304edf6ace08e286e8f4d",
+    "summary": "Arab Barghouthi, the son of Palestinian leader Marwan Barghouthi, on his father's life in Israeli prison and the stalemate after nearly two decades without elections.",
+    "ingested_utc": "2026-01-04T23:14:48Z"
+  },
+  {
+    "published_utc": "2026-01-04",
+    "retrieved_date": "2026-01-04",
+    "retrieved_utc": "2026-01-04T23:14:38Z",
+    "source": "NYTimes_World",
+    "title": "Venezuela’s defense minister calls U.S. operation an ‘act of profound malice.’",
+    "url": "https://www.nytimes.com/live/2026/01/04/world/trump-us-venezuela-maduro/venezuelas-defense-minister-calls-us-operation-an-act-of-profound-malice",
+    "id_key": "f72661b93f8e37911761f98d0ca35c96767fb776a1d133cda3362786e45fb4a7",
+    "summary": "",
+    "ingested_utc": "2026-01-04T23:14:38Z"
+  },
+  {
+    "published_utc": "2026-01-04",
+    "retrieved_date": "2026-01-04",
     "retrieved_utc": "2026-01-04T22:54:41Z",
     "source": "AlJazeera_All",
     "title": "Israel kills two people in new attack on southern Lebanon",
@@ -10976,27 +10998,5 @@
     "id_key": "5072e2f1c7e3b3e01cafc01118fbfa5f1b5f759e92d6a48ca3841228cadff32b",
     "summary": "Shirley is a 23-year-old self-described \"independent YouTube journalist\" who made prank videos in high school before pivoting to politics. He participated in a White House roundtable in October.",
     "ingested_utc": "2026-01-01T10:16:28Z"
-  },
-  {
-    "published_utc": "2025-12-31",
-    "retrieved_date": "2026-01-01",
-    "retrieved_utc": "2026-01-01T01:07:26Z",
-    "source": "FinancialPost_Business",
-    "title": "PharmaCorp Announces Grant of Stock Options",
-    "url": "https://financialpost.com/globe-newswire/pharmacorp-announces-grant-of-stock-options-2",
-    "id_key": "3e08a5bb8080be5e4a9110ee204b95b0e81b666783cea7b7faa70685c8dc0dbc",
-    "summary": "SASKATOON, Saskatchewan, Dec. 31, 2025 (GLOBE NEWSWIRE) — PHARMACORP RX INC. (“PharmaCorp” or the “Corporation”) (TSXV: PCRX) has granted a total of 501,088 options to purchase common ‎shares to directors, officers, employees and consultants of the Corporation, with an exercise price of $0.46 and ‎an expiry date of December 31, 2035, subject to approval of […]",
-    "ingested_utc": "2026-01-01T01:07:26Z"
-  },
-  {
-    "published_utc": "2025-12-31",
-    "retrieved_date": "2025-12-31",
-    "retrieved_utc": "2025-12-31T23:45:03Z",
-    "source": "NPR_Top",
-    "title": "Photos: The world welcomes the new year",
-    "url": "https://www.npr.org/sections/the-picture-show/2025/12/31/nx-s1-5662712/photos-world-new-years-eve",
-    "id_key": "9acfb2153b1d6e8eb8aee5141b52d40ff30ee67a38e065a40e0e690dfc2925a8",
-    "summary": "As fireworks light the sky and crowds count down together, communities around the globe welcome 2026.",
-    "ingested_utc": "2025-12-31T23:45:03Z"
   }
 ]
