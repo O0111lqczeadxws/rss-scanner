@@ -2,6 +2,39 @@
   {
     "published_utc": "2026-01-04",
     "retrieved_date": "2026-01-04",
+    "retrieved_utc": "2026-01-04T23:54:54Z",
+    "source": "FinancialPost_Business",
+    "title": "Goldman Says Venezuela Oil Output May Rise in the Long Term",
+    "url": "https://financialpost.com/pmn/business-pmn/goldman-says-venezuela-oil-output-may-rise-in-the-long-term",
+    "id_key": "666b61dbb75b949845a7408d58f9ed54c9da0d12a720a1c24bb7d76fa89e1c55",
+    "summary": "The scope for higher Venezuelan oil output in the long run after the US’s capture of the nation’s leader may eventually pressure global crude prices, according to Goldman Sachs Group Inc.",
+    "ingested_utc": "2026-01-04T23:54:54Z"
+  },
+  {
+    "published_utc": "2026-01-04",
+    "retrieved_date": "2026-01-04",
+    "retrieved_utc": "2026-01-04T23:54:20Z",
+    "source": "FT_Home",
+    "title": "US legal case against Maduro to test limits of presidential power",
+    "url": "https://www.ft.com/content/41ae690e-f1e6-4354-9295-f6556483d7cb",
+    "id_key": "b8e21e1fcf73356ad397df6c06bcd7167002fd19f4c1f8f7f65f3f6a488dde5e",
+    "summary": "Prosecution raises questions about use of American courts to try leader of a foreign nation",
+    "ingested_utc": "2026-01-04T23:54:20Z"
+  },
+  {
+    "published_utc": "2026-01-04",
+    "retrieved_date": "2026-01-04",
+    "retrieved_utc": "2026-01-04T23:53:50Z",
+    "source": "Guardian_World",
+    "title": "High tides and heavy rain flood parts of California’s Bay Area",
+    "url": "https://www.theguardian.com/us-news/2026/jan/04/rain-flooding-california-bay-area",
+    "id_key": "39c7ec2b95cdb664da5e663f80d53f912ec94dcad8b331731f204443fc51611d",
+    "summary": "King tides cause highest floodwaters in decades for area, while people are rescued from trapped cars and roads close High tides and heavy rains have flooded parts of the Bay Area, prompting road closures and rescues of people trapped in cars. Five northern counties remained under a flood watch, with up to 3in (7.6cm) of rain possible through Monday night in areas that have been drenched off and on since around Christmas, said the National Weather Service office in Eureka. At least a foot (0.3 meters) of snow was likely in the mountains. Continue reading...",
+    "ingested_utc": "2026-01-04T23:53:50Z"
+  },
+  {
+    "published_utc": "2026-01-04",
+    "retrieved_date": "2026-01-04",
     "retrieved_utc": "2026-01-04T23:46:30Z",
     "source": "FinancialPost_Business",
     "title": "From Baidu Unit to Jio, Asia’s IPO Boom Shows No Sign of Slowing",
@@ -10965,38 +10998,5 @@
     "id_key": "f29e44cfd321cb351154d6958318b23faa22696f44e10efeec72b4e92ca3dacc",
     "summary": "Editor's Note: Todd Campbell, TheStreet's co-editor-in-chief, a 30-year Wall Street veteran and former Series 7/65 licensed advisor, analyzes 2025's biggest stock market stories. Updated 1/1/2025 to reflect 12/31/2025 closing prices. Throughout my nearly 30-year career navigating the stock market, ...",
     "ingested_utc": "2026-01-02T14:16:01Z"
-  },
-  {
-    "published_utc": "2025-12-31",
-    "retrieved_date": "2026-01-02",
-    "retrieved_utc": "2026-01-02T06:54:54Z",
-    "source": "BBC_Business",
-    "title": "Condom tax and cheaper childcare: China's plan to boost birth rates",
-    "url": "https://www.bbc.com/news/articles/czxpk7r8w9yo?at_medium=RSS&at_campaign=rss",
-    "id_key": "f8a63c86779b3fe27ec973de9e3b0ec03ce9cac239d1c12ff2e017bebf313fed",
-    "summary": "Chinese people pay a 13% sales tax on contraceptives from 1 January, while childcare services are exempt.",
-    "ingested_utc": "2026-01-02T06:54:54Z"
-  },
-  {
-    "published_utc": "2025-12-31",
-    "retrieved_date": "2026-01-01",
-    "retrieved_utc": "2026-01-01T20:39:39Z",
-    "source": "TheStreet_Top",
-    "title": "65-year-old auto parts brand shuts plant, fires 100s of workers",
-    "url": "https://www.thestreet.com/automotive/65-year-old-auto-parts-company-shuts-plant-dumps-100s-of-workers",
-    "id_key": "42a55820475b3e32c73bbbbaf4c077c7e1ff67b66ea1f384036895dc7ec2133a",
-    "summary": "Whenever consumers need to complete a simple automobile maintenance task, such as replacing windshield wiper blades or an air filter, they just need to run over to the local Napa Auto Parts, Auto Zone, or O'Reilly Auto Parts store, buy the product, and install it. On some occasions, I've discovered ...",
-    "ingested_utc": "2026-01-01T20:39:39Z"
-  },
-  {
-    "published_utc": "2025-12-31",
-    "retrieved_date": "2026-01-01",
-    "retrieved_utc": "2026-01-01T19:50:32Z",
-    "source": "TheStreet_Top",
-    "title": "Bakery chain shutters all stores without notice, no bankruptcy",
-    "url": "https://www.thestreet.com/restaurants/crumbl-competitor-shutters-all-stores-with-little-notice",
-    "id_key": "6b55e8958fda636cc30824ade5d7fbcc09ccd7407c2f4c0afd1e1e882c52fd87",
-    "summary": "Most companies wait until after the holidays to deliver bad news. It's not unheard of for people to be laid off right before Christmas, or in the week between Christmas and New Year's, but doing that is seen as especially cruel. Many companies, however, simply carry out their plans without regard ...",
-    "ingested_utc": "2026-01-01T19:50:32Z"
   }
 ]
