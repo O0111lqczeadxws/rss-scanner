@@ -1,13 +1,13 @@
 {
-  "started_utc": "2026-01-05T19:31:36Z",
-  "ended_utc": "2026-01-05T19:34:57Z",
-  "new_items_this_run": 9,
+  "started_utc": "2026-01-05T19:48:40Z",
+  "ended_utc": "2026-01-05T19:52:08Z",
+  "new_items_this_run": 10,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
     "Reuters_World": 0,
     "Reuters_Markets": 0,
-    "BBC_World": 0,
+    "BBC_World": 2,
     "BBC_Business": 0,
     "BBC_Technology": 0,
     "Guardian_Business": 0,
@@ -54,14 +54,14 @@
     "PolygonEdge_Releases": 0,
     "CardanoNode_Releases": 0,
     "MarketWatch_RealTime": 0,
-    "MarketWatch_Bulletins": 1,
+    "MarketWatch_Bulletins": 0,
     "MarketWatch_PersonalFinance": 0,
-    "NYTimes_Business": 0,
+    "NYTimes_Business": 1,
     "NYTimes_World": 0,
     "NYTimes_Economy": 0,
     "NYTimes_Technology": 0,
     "CNN_Top": 0,
-    "NPR_Top": 0,
+    "NPR_Top": 1,
     "NPR_Business": 0,
     "NPR_Economy": 0,
     "NPR_World": 0,
@@ -78,8 +78,8 @@
     "TheEconomist_Business": 0,
     "TheEconomist_Finance": 0,
     "Investopedia_Latest": 0,
-    "TheStreet_Top": 2,
-    "AlJazeera_All": 2,
+    "TheStreet_Top": 0,
+    "AlJazeera_All": 0,
     "AlJazeera_Economy": 0,
     "FinancialPost_Business": 1,
     "CBC_Business": 0,
@@ -87,7 +87,7 @@
     "WorldBank_News": 0,
     "OECD_Newsroom": 0,
     "MIT_TechReview": 0,
-    "HackerNews_Top": 0
+    "HackerNews_Top": 2
   },
   "errors": [
     {
@@ -335,19 +335,19 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 437,
+    "passed_keywords": 444,
     "passed_allowlist": 0,
-    "failed_all_filters": 479
+    "failed_all_filters": 476
   },
   "stats": {
     "feeds_total": 97,
     "feeds_error": 23,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 1517,
+    "entries_seen": 1521,
     "too_old": 601,
-    "dup_title_url": 72,
-    "dup_id": 356
+    "dup_title_url": 75,
+    "dup_id": 359
   },
   "limits": {
     "skip_older_days": 10,
@@ -360,6 +360,6 @@
   },
   "processed": {
     "file": "data/processed/2026-01-05.jsonl",
-    "appended_new": 9
+    "appended_new": 10
   }
 }
