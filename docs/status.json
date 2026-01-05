@@ -1,7 +1,7 @@
 {
-  "started_utc": "2026-01-05T16:17:19Z",
-  "ended_utc": "2026-01-05T16:20:52Z",
-  "new_items_this_run": 21,
+  "started_utc": "2026-01-05T16:49:14Z",
+  "ended_utc": "2026-01-05T16:52:37Z",
+  "new_items_this_run": 14,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
@@ -11,7 +11,7 @@
     "BBC_Business": 0,
     "BBC_Technology": 0,
     "Guardian_Business": 0,
-    "Guardian_World": 1,
+    "Guardian_World": 3,
     "WSJ_US_Business": 0,
     "WSJ_World": 0,
     "WSJ_Markets": 0,
@@ -20,7 +20,7 @@
     "Blockworks": 0,
     "BitcoinMagazine": 0,
     "CryptoSlate": 0,
-    "CryptoBriefing": 0,
+    "CryptoBriefing": 1,
     "Protos": 0,
     "CryptoNews": 0,
     "CoinJournal": 0,
@@ -56,7 +56,7 @@
     "MarketWatch_RealTime": 0,
     "MarketWatch_Bulletins": 0,
     "MarketWatch_PersonalFinance": 0,
-    "NYTimes_Business": 0,
+    "NYTimes_Business": 1,
     "NYTimes_World": 0,
     "NYTimes_Economy": 0,
     "NYTimes_Technology": 0,
@@ -67,21 +67,21 @@
     "NPR_World": 0,
     "NPR_Technology": 0,
     "FT_Home": 1,
-    "FT_Markets": 0,
+    "FT_Markets": 1,
     "CNBC_Top": 0,
     "CNBC_Markets": 0,
-    "TheVerge_All": 4,
+    "TheVerge_All": 1,
     "TechCrunch_All": 0,
-    "ArsTechnica_All": 0,
+    "ArsTechnica_All": 1,
     "WIRED_All": 0,
-    "Engadget_All": 10,
+    "Engadget_All": 0,
     "TheEconomist_Business": 0,
     "TheEconomist_Finance": 0,
     "Investopedia_Latest": 0,
-    "TheStreet_Top": 2,
-    "AlJazeera_All": 1,
+    "TheStreet_Top": 1,
+    "AlJazeera_All": 0,
     "AlJazeera_Economy": 0,
-    "FinancialPost_Business": 1,
+    "FinancialPost_Business": 3,
     "CBC_Business": 0,
     "Nikkei_Asia_Top": 0,
     "WorldBank_News": 0,
@@ -335,19 +335,19 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 433,
+    "passed_keywords": 436,
     "passed_allowlist": 0,
-    "failed_all_filters": 471
+    "failed_all_filters": 470
   },
   "stats": {
     "feeds_total": 97,
     "feeds_error": 23,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 1510,
-    "too_old": 606,
+    "entries_seen": 1511,
+    "too_old": 605,
     "dup_title_url": 69,
-    "dup_id": 343
+    "dup_id": 353
   },
   "limits": {
     "skip_older_days": 10,
@@ -360,6 +360,6 @@
   },
   "processed": {
     "file": "data/processed/2026-01-05.jsonl",
-    "appended_new": 21
+    "appended_new": 14
   }
 }
