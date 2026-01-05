@@ -1,7 +1,7 @@
 {
-  "started_utc": "2026-01-05T06:25:32Z",
-  "ended_utc": "2026-01-05T06:29:03Z",
-  "new_items_this_run": 7,
+  "started_utc": "2026-01-05T07:01:49Z",
+  "ended_utc": "2026-01-05T07:05:13Z",
+  "new_items_this_run": 9,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
@@ -11,7 +11,7 @@
     "BBC_Business": 0,
     "BBC_Technology": 0,
     "Guardian_Business": 0,
-    "Guardian_World": 2,
+    "Guardian_World": 3,
     "WSJ_US_Business": 0,
     "WSJ_World": 0,
     "WSJ_Markets": 0,
@@ -66,28 +66,28 @@
     "NPR_Economy": 0,
     "NPR_World": 0,
     "NPR_Technology": 0,
-    "FT_Home": 0,
+    "FT_Home": 1,
     "FT_Markets": 0,
     "CNBC_Top": 0,
     "CNBC_Markets": 0,
-    "TheVerge_All": 0,
+    "TheVerge_All": 1,
     "TechCrunch_All": 0,
     "ArsTechnica_All": 0,
     "WIRED_All": 0,
-    "Engadget_All": 2,
+    "Engadget_All": 1,
     "TheEconomist_Business": 0,
     "TheEconomist_Finance": 0,
     "Investopedia_Latest": 0,
     "TheStreet_Top": 0,
     "AlJazeera_All": 2,
     "AlJazeera_Economy": 0,
-    "FinancialPost_Business": 1,
+    "FinancialPost_Business": 0,
     "CBC_Business": 0,
     "Nikkei_Asia_Top": 0,
     "WorldBank_News": 0,
     "OECD_Newsroom": 0,
     "MIT_TechReview": 0,
-    "HackerNews_Top": 0
+    "HackerNews_Top": 1
   },
   "errors": [
     {
@@ -131,8 +131,16 @@
       "error": "fatal parse failure"
     },
     {
+      "source": "https://unchainedcrypto.com/feed/",
+      "error": "fetch error: HTTP 415"
+    },
+    {
+      "source": "Unchained",
+      "error": "fatal parse failure"
+    },
+    {
       "source": "https://www.bankless.com/rss",
-      "error": "fetch error: HTTP 404"
+      "error": "fetch error: HTTP 415"
     },
     {
       "source": "Bankless",
@@ -337,17 +345,17 @@
     ],
     "passed_keywords": 422,
     "passed_allowlist": 0,
-    "failed_all_filters": 470
+    "failed_all_filters": 472
   },
   "stats": {
     "feeds_total": 97,
-    "feeds_error": 23,
+    "feeds_error": 24,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 1502,
-    "too_old": 610,
-    "dup_title_url": 69,
-    "dup_id": 346
+    "entries_seen": 1494,
+    "too_old": 600,
+    "dup_title_url": 70,
+    "dup_id": 343
   },
   "limits": {
     "skip_older_days": 10,
@@ -360,6 +368,6 @@
   },
   "processed": {
     "file": "data/processed/2026-01-05.jsonl",
-    "appended_new": 7
+    "appended_new": 9
   }
 }
