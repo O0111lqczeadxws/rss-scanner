@@ -2,6 +2,116 @@
   {
     "published_utc": "2026-01-05",
     "retrieved_date": "2026-01-05",
+    "retrieved_utc": "2026-01-05T11:53:33Z",
+    "source": "HackerNews_Top",
+    "title": "Microsoft Office renamed to \"Microsoft 365 Copilot app\"",
+    "url": "https://www.office.com",
+    "id_key": "3d8e18d9f8131d3a441dfe70e571544f8c33849a2439f71ae3f72132b5737da8",
+    "summary": "Comments",
+    "ingested_utc": "2026-01-05T11:53:33Z"
+  },
+  {
+    "published_utc": "2026-01-05",
+    "retrieved_date": "2026-01-05",
+    "retrieved_utc": "2026-01-05T11:53:23Z",
+    "source": "FinancialPost_Business",
+    "title": "China’s Longi to Replace Silver in Solar Panels to Reduce Costs",
+    "url": "https://financialpost.com/pmn/business-pmn/chinas-longi-to-replace-silver-in-solar-panels-to-reduce-costs",
+    "id_key": "be5105c934d8bbd345946da8cee7adede126f0de70547cdc5c7f883134d9a80e",
+    "summary": "LONGi Green Energy Technology Co. will begin using base metals instead of silver in its solar cells, marking a major shift as surging prices of the precious metal increase cost pressure on manufacturers already struggling with intense competition and deep losses.",
+    "ingested_utc": "2026-01-05T11:53:23Z"
+  },
+  {
+    "published_utc": "2026-01-05",
+    "retrieved_date": "2026-01-05",
+    "retrieved_utc": "2026-01-05T11:53:23Z",
+    "source": "FinancialPost_Business",
+    "title": "Chevron, US Oil Stocks Rally as Trump Vows Venezuela Revival",
+    "url": "https://financialpost.com/pmn/business-pmn/chevron-us-oil-stocks-rally-as-trump-vows-venezuela-revival",
+    "id_key": "5a8c5593f4562e62303bef27ec548b0d1bd65ae17631f2d20050fd30f5f8cdc1",
+    "summary": "US oil stocks jumped in premarket trading on Monday after President Donald Trump pledged to revive the Venezuelan energy sector following the capture of Nicolás Maduro over the weekend.",
+    "ingested_utc": "2026-01-05T11:53:23Z"
+  },
+  {
+    "published_utc": "2026-01-05",
+    "retrieved_date": "2026-01-05",
+    "retrieved_utc": "2026-01-05T11:53:23Z",
+    "source": "FinancialPost_Business",
+    "title": "Canada’s Joly Presses Lockheed for Jobs as Crucial F-35 Decision Nears",
+    "url": "https://financialpost.com/pmn/business-pmn/canadas-joly-presses-lockheed-for-jobs-as-crucial-f-35-decision-nears",
+    "id_key": "6147ded5dd41e8a39f5f3f2b5bf2ccea45f398f59948d4fb820fc702bbee4e31",
+    "summary": "Canada’s industry minister is planning to meet with executives at Lockheed Martin Corp. soon to try to leverage more jobs out of a multibillion-dollar deal to acquire fighter jets.",
+    "ingested_utc": "2026-01-05T11:53:23Z"
+  },
+  {
+    "published_utc": "2026-01-05",
+    "retrieved_date": "2026-01-05",
+    "retrieved_utc": "2026-01-05T11:53:23Z",
+    "source": "FinancialPost_Business",
+    "title": "Dollar Gains, Peso Falls as Maduro Exit Fuels Geopolitical Risks",
+    "url": "https://financialpost.com/pmn/business-pmn/dollar-gains-peso-falls-as-maduro-exit-fuels-geopolitical-risks",
+    "id_key": "eb2ca94de4b267cc0e9d7aad17eb02f8803a748f525ebdbe9cc32097598ef91e",
+    "summary": "The dollar hit its strongest level in two weeks after the US capture of Venezuela’s President Nicolás Maduro, while Mexico’s peso retreated amid the rising geopolitical tensions.",
+    "ingested_utc": "2026-01-05T11:53:23Z"
+  },
+  {
+    "published_utc": "2026-01-05",
+    "retrieved_date": "2026-01-05",
+    "retrieved_utc": "2026-01-05T11:53:05Z",
+    "source": "WIRED_All",
+    "title": "9 Best Cat Water Fountains, WIRED-Tested and Reviewed (2025)",
+    "url": "https://www.wired.com/gallery/the-best-cat-water-fountains/",
+    "id_key": "4ec4388703dc6b5721a6c97e8d403d000ac28381c4c0977216a404e10f0f0847",
+    "summary": "Ensuring your cat is drinking enough water is one of the best ways to keep your pet healthy. We tested nearly two dozen models to find the best water fountains for most cats.",
+    "ingested_utc": "2026-01-05T11:53:05Z"
+  },
+  {
+    "published_utc": "2026-01-05",
+    "retrieved_date": "2026-01-05",
+    "retrieved_utc": "2026-01-05T11:52:50Z",
+    "source": "FT_Markets",
+    "title": "Oil prices steady after Trump’s Venezuela strikes",
+    "url": "https://www.ft.com/content/4a21608d-363c-467c-9698-b6c083715493",
+    "id_key": "3f6f352f9e0a8d6c264a39a119a1e472a6fe7e55794ef30730ce195484871248",
+    "summary": "Investors weigh short-term disruption to exports from South American country against potential to pump more crude",
+    "ingested_utc": "2026-01-05T11:52:50Z"
+  },
+  {
+    "published_utc": "2026-01-05",
+    "retrieved_date": "2026-01-05",
+    "retrieved_utc": "2026-01-05T11:52:49Z",
+    "source": "FT_Home",
+    "title": "Venezuela and the trouble with the Donroe doctrine",
+    "url": "https://www.ft.com/content/dcd8aa7d-630b-45b0-889c-07c3e8052804",
+    "id_key": "ff96ea98b2fb15fc7e4e23baaa010dcb218142d5813975b448765f1f6156625c",
+    "summary": "A world order built around great power spheres of influence is a recipe for instability and conflict",
+    "ingested_utc": "2026-01-05T11:52:49Z"
+  },
+  {
+    "published_utc": "2026-01-05",
+    "retrieved_date": "2026-01-05",
+    "retrieved_utc": "2026-01-05T11:49:53Z",
+    "source": "Guardian_World",
+    "title": "Minister accused of ‘cowardice’ for declining TV interviewer’s challenge to say Trump should not invade Greenland – UK politics live",
+    "url": "https://www.theguardian.com/politics/live/2026/jan/05/uk-venezuela-response-starmer-trump-labour-conservatives-latest-news-updates",
+    "id_key": "0df05803cc94032e4b8f03b427c35098026c17d95a08efe07ab094ee8cc608a2",
+    "summary": "Migration minister Mike Tapp accused of ‘deeply dangerous’ comments in Sky interview Libby Brooks is the Guardian’s Scotland correspondent. The SNP struck a determinedly optimistic note at their Holyrood elections campaign launch in Glasgow’s west end this morning. Continue reading...",
+    "ingested_utc": "2026-01-05T11:49:53Z"
+  },
+  {
+    "published_utc": "2026-01-05",
+    "retrieved_date": "2026-01-05",
+    "retrieved_utc": "2026-01-05T11:49:53Z",
+    "source": "Guardian_World",
+    "title": "Nicolás Maduro to appear in New York court on drug and weapons charges | First Thing",
+    "url": "https://www.theguardian.com/us-news/2026/jan/05/first-thing-nicolas-maduro-to-appear-in-new-york-court-on-drugs-and-weapons-charges",
+    "id_key": "6037e23b7635d734d569b606921660f8e7a60a109f3c0ea129fc074337330587",
+    "summary": "US officials have warned of further military intervention if Venezuela’s interim president, Delcy Rodríguez, fails to meet their demands. Plus, how gun-safety advocates are riding a ‘seismic’ wave to US legislatures Good morning. Nicolás Maduro, the deposed Venezuelan president, is expected to appear in Manhattan federal court on Monday afternoon on drugs and weapons charges after US special forces seized him in a shocking raid at the weekend. What is the reaction in Caracas? While some quietly rejoiced at Maduro’s demise , the traumatic night-time assault on the city prompted stockpiling, uncertainty and fear. What’s the global impact of Trump’s slashing of climate science? It’s substantial. Scientists and forecasters around the world depend on US satellites and studies to track extreme weather in Europe, plan disaster responses in the Caribbean and monitor deforestation in the Amazon. Continue reading...",
+    "ingested_utc": "2026-01-05T11:49:53Z"
+  },
+  {
+    "published_utc": "2026-01-05",
+    "retrieved_date": "2026-01-05",
     "retrieved_utc": "2026-01-05T11:35:10Z",
     "source": "FinancialPost_Business",
     "title": "NorthWest Reports Near-Surface Intersept of 25.9 Metres Grading 0.91 % Cu, 1.29 g/t Au (2.09% CuEq) From 154 Metres",
@@ -10888,115 +10998,5 @@
     "id_key": "c26accda24f3bf6e7f85c1608ba7bb23cd34e2fa14ad6e2be427f31f021e866d",
     "summary": "During the Covid lockdowns, my wife and I occasionally ordered from major steakhouses like Morton’s and Ruth’s Chris, which offered aggressive delivery deals and meal kits. Those promotions underscored how heavily steakhouses depended on in-person dining and how vulnerable they were when offices ...",
     "ingested_utc": "2026-01-01T19:50:32Z"
-  },
-  {
-    "published_utc": "2026-01-01",
-    "retrieved_date": "2026-01-01",
-    "retrieved_utc": "2026-01-01T19:49:34Z",
-    "source": "Guardian_World",
-    "title": "Switzerland resort fire latest news: 40 dead and 115 injured in Crans-Montana – as it happened",
-    "url": "https://www.theguardian.com/world/live/2026/jan/01/switzerland-resort-explosion-dead-blast-ski-town-crans-montana-latest-news-live",
-    "id_key": "f221ad370cf73a3f9f46326f589951e7c3bb8a47ddf8c8bb35510c7806731fff",
-    "summary": "Police have ruled out an attack on Le Constellation bar as investigation starts into cause of fire Officials at the press conference are asking for “prudence” from those in the town, reminding them not to make unnecessary demands on hospitals, which are overwhelmed. Please leave investigators to do their work, they say. Continue reading...",
-    "ingested_utc": "2026-01-01T19:49:34Z"
-  },
-  {
-    "published_utc": "2026-01-01",
-    "retrieved_date": "2026-01-01",
-    "retrieved_utc": "2026-01-01T19:30:51Z",
-    "source": "HackerNews_Top",
-    "title": "Python numbers every programmer should know",
-    "url": "https://mkennedy.codes/posts/python-numbers-every-programmer-should-know/",
-    "id_key": "cf614485600d239262f7d385744921eb095b7361b39345ff48beecfeb2727244",
-    "summary": "Comments",
-    "ingested_utc": "2026-01-01T19:30:51Z"
-  },
-  {
-    "published_utc": "2026-01-01",
-    "retrieved_date": "2026-01-01",
-    "retrieved_utc": "2026-01-01T19:28:15Z",
-    "source": "CryptoNews",
-    "title": "India’s RBI Warns: CBDCs Must Replace Stablecoins to Prevent Financial Chaos",
-    "url": "https://cryptonews.com/news/indias-rbi-warns-cbdcs-must-replace-stablecoins-to-prevent-financial-chaos/",
-    "id_key": "aa3dc292c1ce52ae151d649c2766c434ce046c99685b53f03a20717ce4450ee2",
-    "summary": "India’s RBI has issued a warning that the increasing use of stablecoins may endanger financial stability and trust in money. The central bank emphasized that central bank digital currencies preserve monetary sovereignty while reducing systemic risks from privately issued tokens. The post India’s RBI Warns: CBDCs Must Replace Stablecoins to Prevent Financial Chaos appeared first on Cryptonews .",
-    "ingested_utc": "2026-01-01T19:28:15Z"
-  },
-  {
-    "published_utc": "2026-01-01",
-    "retrieved_date": "2026-01-01",
-    "retrieved_utc": "2026-01-01T19:28:15Z",
-    "source": "CryptoNews",
-    "title": "Bitcoin Market Hits Stalemate as On-chain Data Shows Equilibrium",
-    "url": "https://cryptonews.com/news/bitcoin-market-stalemate-onchain-data-equilibrium/",
-    "id_key": "a5349e2410ef97bad9226ca4c261aba161bcb6633fa5fe7b66b13d1ed1b40376",
-    "summary": "Bitcoin is trading near $88K, as profit-taking has met long-term demand. SOPR has sat near breakeven, and the Coinbase premium has turned slightly negative. About 1,600 BTC have left exchanges, supporting forecasts for range-bound trade between $80K and $140K in 2026. A macro catalyst may be needed. The post Bitcoin Market Hits Stalemate as On-chain Data Shows Equilibrium appeared first on Cryptonews .",
-    "ingested_utc": "2026-01-01T19:28:15Z"
-  },
-  {
-    "published_utc": "2026-01-01",
-    "retrieved_date": "2026-01-01",
-    "retrieved_utc": "2026-01-01T19:28:12Z",
-    "source": "CryptoSlate",
-    "title": "Which predictions landed this year? One ignored model actually nailed the 2025 market cycle",
-    "url": "https://cryptoslate.com/which-predictions-landed-this-year-one-ignored-model-actually-nailed-the-2025-market-cycle/",
-    "id_key": "2f72260612f322f0e92f4bcffb3515a247816e67a07b9275a79649bb9dc89cff",
-    "summary": "At the start of 2025, crypto's biggest names issued bold forecasts: Bitcoin to $200,000, Ethereum to $7,000, a US strategic reserve, and stablecoins going mainstream. Twelve months later, the scoreboard reveals a pattern. The price targets mostly crashed and burned, while the structural calls on regulation, ETFs, and payments infrastructure quietly came true. Here's who […] The post Which predictions landed this year? One ignored model actually nailed the 2025 market cycle appeared first on CryptoSlate .",
-    "ingested_utc": "2026-01-01T19:28:12Z"
-  },
-  {
-    "published_utc": "2026-01-01",
-    "retrieved_date": "2026-01-01",
-    "retrieved_utc": "2026-01-01T19:27:53Z",
-    "source": "Guardian_World",
-    "title": "Switzerland to hold five days of mourning after 40 killed in resort fire",
-    "url": "https://www.theguardian.com/world/2026/jan/01/switzerland-to-hold-five-days-of-mourning-after-dozens-killed-in-resort-fire",
-    "id_key": "695d3c9ac8273e82676055d640f77ba39ab296c0d04bf298432aa81b0120c99b",
-    "summary": "Blaze that swept through crowded New Year’s Eve bar in Crans-Montana also injured 115 people Swiss resort fire: latest updates Le Constellation bar fire in Switzerland: what we know so far Switzerland will hold five days of mourning after an “unprecedented” fire tore through a crowded bar, killing about 40 people and injuring 115 who were celebrating at a New Year’s Eve party in the Alpine ski resort of Crans-Montana. The country’s president, Guy Parmelin, described the blaze as one of the most traumatic events in Switzerland’s history. “It was a drama of an unknown scale,” he said, paying tribute to the many “young lives that were lost and interrupted”. Continue reading...",
-    "ingested_utc": "2026-01-01T19:27:53Z"
-  },
-  {
-    "published_utc": "2026-01-01",
-    "retrieved_date": "2026-01-01",
-    "retrieved_utc": "2026-01-01T19:14:05Z",
-    "source": "Engadget_All",
-    "title": "How to watch Hyundai's CES 2026 presentation live",
-    "url": "https://www.engadget.com/transportation/how-to-watch-hyundais-ces-2026-presentation-live-190051181.html?src=rss",
-    "id_key": "105733d5572e0ed3d0cf2d959e6213aca22a4949a10038c95d7860dc4cbd4414",
-    "summary": "A look at Hyundai's Holographic Windshield Display. (Hyundai) While it often feels like a full-on auto show, the car vibes feel somewhat lessened at CES 2026 . Yes, the Afeela electric vehicle from the Sony-Honda joint venture will be back on the floor, but with the Trump administration yanking most EV incentives from the market, the industry isn't offering a full-court press of new vehicles in Las Vegas this year. That said, there's still plenty of in-cabin car tech on display, including Hyundai's Holographic Windshield Display . Indeed, the company's Mobis subsidiary will present \"more than 30 mobility convergence technologies\" during CES. And we'll also get to see Hyundai's AI Robotics Strategy , which will showcase its new Atlas robot fresh out of the lab. How to watch Hyundai's presentation at CES 2026 Hyundai's presentation takes place on January 5 at 4PM ET, and you can livestream it on either its HyundaiUSA YouTube channel or its global YouTube channel . We'll embed the stream here once it's available. What to expect As mentioned above, Hyundai will have its Holographic Windshield Display for viewing. It's essentially a next-gen heads-up display that projects key data from the vehicle's dash on the windshield for less distraction, and without obstructing the driver's view. It's a vertically expandable 18.1-inch large display, and passengers can even watch videos without being visible to the driver. Hyundai Mobis collaborated with German optics specialist Zeiss to develop the \"world's first system to utilize holographic film to transform the entire front windshield into an ultra-large display surface.\" It says it will begin mass production in 2029, so don't expect to see this on the market anytime soon. Beyond automotive, though, we'll also get a first-ever look at the company's new Atlas robot. In the teaser image shown in the press release, Atlas looks rather dog-like, which makes sense when you remember that Boston Dynamics was purchased by the Korean multinational back in 2020. \"This next-generation Atlas represents a tangible step toward the commercialization of AI Robotics, highlighting the Group’s commitment to building safe and adaptable robotic co-workers,\" the company said in the same press release. Hyundai said it will also discuss its other tech areas, including electronics and chassis system safety, as well as an AR head-up display, low-power display solutions and EV drive systems. This article originally appeared on Engadget at https://www.engadget.com/transportation/how-to-watch-hyundais-ces-2026-presentation-live-190051181.html?src=rss",
-    "ingested_utc": "2026-01-01T19:14:05Z"
-  },
-  {
-    "published_utc": "2026-01-01",
-    "retrieved_date": "2026-01-01",
-    "retrieved_utc": "2026-01-01T19:11:21Z",
-    "source": "Guardian_World",
-    "title": "‘It happened in seconds’: sudden inferno brings horror to Swiss ski resort",
-    "url": "https://www.theguardian.com/world/2026/jan/01/inferno-horror-swiss-ski-resort-le-constellation-crans-montana",
-    "id_key": "2f5926b51f1e1505fd203da3d263c337f8fcf7c02e9792e60948a69d59b9cb31",
-    "summary": "New year party at Le Constellation bar in Crans-Montana turned into tragedy as flames shot across the ceiling Switzerland resort fire – latest updates The new year had passed its first hour and the party in Le Constellation was in full swing with revellers dancing to thumping hip-hop. Dawn was far off and the teenagers and twentysomethings were in no hurry to leave the bar. It was, after all, New Year’s Day. Outside, darkness draped Crans-Montana, a ski resort in the Swiss Alps with a reputation for poshness and luxury. Le Constellation, however, had few pretensions: a cavernous venue with TV screens on the top floor to watch sport, and a basement with low lighting, loud music and a dancefloor. Continue reading...",
-    "ingested_utc": "2026-01-01T19:11:21Z"
-  },
-  {
-    "published_utc": "2026-01-01",
-    "retrieved_date": "2026-01-01",
-    "retrieved_utc": "2026-01-01T18:53:22Z",
-    "source": "AlJazeera_All",
-    "title": "Several killed as Iran protests over rising cost of living spread",
-    "url": "https://www.aljazeera.com/news/2026/1/1/several-killed-as-iran-protests-over-rising-cost-of-living-spread?traffic_source=rss",
-    "id_key": "a3597bb15a634cffbac93645673b8dedfd9ca79e2e83596d73e1dcf3b8c09a64",
-    "summary": "Iranian president seeks to calm tensions, acknowledging protesters' 'legitimate' grievances over inflation.",
-    "ingested_utc": "2026-01-01T18:53:22Z"
-  },
-  {
-    "published_utc": "2026-01-01",
-    "retrieved_date": "2026-01-01",
-    "retrieved_utc": "2026-01-01T18:53:21Z",
-    "source": "TheStreet_Top",
-    "title": "Wayfair's End-of-Year Clearance Sale has a vintage-style storage cabinet for only $104",
-    "url": "https://www.thestreet.com/deals/beachcrest-home-leclair-accent-cabinet-wayfair-sale",
-    "id_key": "20bbe61d20bb84582df8c1b9ebd75e5b7cbc67cf8f825135cc4890aafe9961ad",
-    "summary": "\"It’s very nice and very well built!\"",
-    "ingested_utc": "2026-01-01T18:53:21Z"
   }
 ]
