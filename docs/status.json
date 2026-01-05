@@ -1,7 +1,7 @@
 {
-  "started_utc": "2026-01-05T13:13:05Z",
-  "ended_utc": "2026-01-05T13:16:43Z",
-  "new_items_this_run": 15,
+  "started_utc": "2026-01-05T13:51:42Z",
+  "ended_utc": "2026-01-05T13:55:07Z",
+  "new_items_this_run": 18,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
@@ -10,8 +10,8 @@
     "BBC_World": 0,
     "BBC_Business": 0,
     "BBC_Technology": 0,
-    "Guardian_Business": 0,
-    "Guardian_World": 2,
+    "Guardian_Business": 1,
+    "Guardian_World": 3,
     "WSJ_US_Business": 0,
     "WSJ_World": 0,
     "WSJ_Markets": 0,
@@ -21,9 +21,9 @@
     "BitcoinMagazine": 0,
     "CryptoSlate": 0,
     "CryptoBriefing": 1,
-    "Protos": 0,
-    "CryptoNews": 0,
-    "CoinJournal": 0,
+    "Protos": 1,
+    "CryptoNews": 1,
+    "CoinJournal": 1,
     "Unchained": 0,
     "Bankless": 0,
     "CoinGecko_Blog": 0,
@@ -67,27 +67,27 @@
     "NPR_World": 0,
     "NPR_Technology": 0,
     "FT_Home": 0,
-    "FT_Markets": 1,
+    "FT_Markets": 0,
     "CNBC_Top": 0,
     "CNBC_Markets": 0,
-    "TheVerge_All": 1,
+    "TheVerge_All": 0,
     "TechCrunch_All": 0,
     "ArsTechnica_All": 0,
     "WIRED_All": 0,
-    "Engadget_All": 3,
+    "Engadget_All": 2,
     "TheEconomist_Business": 0,
     "TheEconomist_Finance": 0,
     "Investopedia_Latest": 0,
-    "TheStreet_Top": 0,
-    "AlJazeera_All": 0,
+    "TheStreet_Top": 1,
+    "AlJazeera_All": 1,
     "AlJazeera_Economy": 0,
-    "FinancialPost_Business": 7,
+    "FinancialPost_Business": 2,
     "CBC_Business": 0,
-    "Nikkei_Asia_Top": 0,
+    "Nikkei_Asia_Top": 1,
     "WorldBank_News": 0,
     "OECD_Newsroom": 0,
     "MIT_TechReview": 0,
-    "HackerNews_Top": 0
+    "HackerNews_Top": 3
   },
   "errors": [
     {
@@ -175,6 +175,14 @@
       "error": "<unknown>:2:2184: not well-formed (invalid token)"
     },
     {
+      "source": "https://medium.com/feed/avalancheavax",
+      "error": "fetch error: HTTP 429"
+    },
+    {
+      "source": "Avalanche_Blog",
+      "error": "fatal parse failure"
+    },
+    {
       "source": "NEAR_Blog",
       "error": "<unknown>:2:2638: not well-formed (invalid token)"
     },
@@ -236,7 +244,7 @@
     },
     {
       "source": "https://www.marketwatch.com/feeds/rss/topstories",
-      "error": "fetch error: HTTP 503"
+      "error": "fetch error: HTTP 403"
     },
     {
       "source": "MarketWatch_Top",
@@ -335,19 +343,19 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 418,
+    "passed_keywords": 422,
     "passed_allowlist": 0,
-    "failed_all_filters": 478
+    "failed_all_filters": 477
   },
   "stats": {
     "feeds_total": 97,
-    "feeds_error": 23,
+    "feeds_error": 24,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 1508,
-    "too_old": 612,
+    "entries_seen": 1499,
+    "too_old": 600,
     "dup_title_url": 66,
-    "dup_id": 337
+    "dup_id": 338
   },
   "limits": {
     "skip_older_days": 10,
@@ -360,6 +368,6 @@
   },
   "processed": {
     "file": "data/processed/2026-01-05.jsonl",
-    "appended_new": 15
+    "appended_new": 18
   }
 }
