@@ -1,7 +1,7 @@
 {
-  "started_utc": "2026-01-06T21:51:09Z",
-  "ended_utc": "2026-01-06T21:54:42Z",
-  "new_items_this_run": 7,
+  "started_utc": "2026-01-06T22:12:55Z",
+  "ended_utc": "2026-01-06T22:16:19Z",
+  "new_items_this_run": 17,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
@@ -18,7 +18,7 @@
     "MarketWatch_Top": 0,
     "MarketWatch_MarketPulse": 0,
     "Blockworks": 0,
-    "BitcoinMagazine": 1,
+    "BitcoinMagazine": 0,
     "CryptoSlate": 0,
     "CryptoBriefing": 0,
     "Protos": 0,
@@ -66,27 +66,27 @@
     "NPR_Economy": 0,
     "NPR_World": 0,
     "NPR_Technology": 0,
-    "FT_Home": 2,
+    "FT_Home": 0,
     "FT_Markets": 0,
     "CNBC_Top": 0,
     "CNBC_Markets": 0,
     "TheVerge_All": 0,
     "TechCrunch_All": 0,
-    "ArsTechnica_All": 0,
+    "ArsTechnica_All": 1,
     "WIRED_All": 0,
-    "Engadget_All": 0,
+    "Engadget_All": 1,
     "TheEconomist_Business": 0,
     "TheEconomist_Finance": 0,
     "Investopedia_Latest": 0,
-    "TheStreet_Top": 0,
+    "TheStreet_Top": 1,
     "AlJazeera_All": 0,
     "AlJazeera_Economy": 0,
-    "FinancialPost_Business": 2,
+    "FinancialPost_Business": 6,
     "CBC_Business": 0,
     "Nikkei_Asia_Top": 0,
     "WorldBank_News": 0,
     "OECD_Newsroom": 0,
-    "MIT_TechReview": 0,
+    "MIT_TechReview": 6,
     "HackerNews_Top": 1
   },
   "errors": [
@@ -335,19 +335,19 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 455,
+    "passed_keywords": 457,
     "passed_allowlist": 0,
-    "failed_all_filters": 512
+    "failed_all_filters": 511
   },
   "stats": {
     "feeds_total": 97,
     "feeds_error": 23,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 1532,
+    "entries_seen": 1533,
     "too_old": 565,
     "dup_title_url": 76,
-    "dup_id": 372
+    "dup_id": 364
   },
   "limits": {
     "skip_older_days": 10,
@@ -360,6 +360,6 @@
   },
   "processed": {
     "file": "data/processed/2026-01-06.jsonl",
-    "appended_new": 7
+    "appended_new": 17
   }
 }
