@@ -2,6 +2,50 @@
   {
     "published_utc": "2026-01-06",
     "retrieved_date": "2026-01-06",
+    "retrieved_utc": "2026-01-06T07:23:30Z",
+    "source": "FinancialPost_Business",
+    "title": "Asian shares and US futures advance, as Tokyo’s Nikkei 225 hits a record high",
+    "url": "https://financialpost.com/pmn/asian-shares-and-us-futures-advance-and-oil-prices-fall-back",
+    "id_key": "e5b86164b1b3b6df4bd32837f3c8e48336955d48afc6d710e8215a6e1a23cbfa",
+    "summary": "BANGKOK (AP) — Asian shares logged strong gains, with Tokyo’s benchmark closing at a record high on Tuesday, after a broad rally on Wall Street. Oil prices fell back after surging Monday following the capture by U.S. forces of Venezuelan President Nicolas Maduro in a weekend raid. Japan’s Nikkei 225 gained 1.3% to 52,518.08, beating […]",
+    "ingested_utc": "2026-01-06T07:23:30Z"
+  },
+  {
+    "published_utc": "2026-01-06",
+    "retrieved_date": "2026-01-06",
+    "retrieved_utc": "2026-01-06T07:23:12Z",
+    "source": "TechCrunch_All",
+    "title": "Narwal adds AI to its vacuum cleaners to monitor pets and find jewelry",
+    "url": "https://techcrunch.com/2026/01/05/narwal-adds-ai-to-its-vacuum-cleaners-to-monitor-pets-and-find-jewelry/",
+    "id_key": "c239152c41ec7ff55503561013acd815a8e1430ab676f4d17d2e5d91f05603b0",
+    "summary": "Narwal's new robo vacuum cleaner switches to quiet mode near a baby's crib.",
+    "ingested_utc": "2026-01-06T07:23:12Z"
+  },
+  {
+    "published_utc": "2026-01-06",
+    "retrieved_date": "2026-01-06",
+    "retrieved_utc": "2026-01-06T07:22:25Z",
+    "source": "BBC_World",
+    "title": "Which countries could be in Trump's sights after Venezuela?",
+    "url": "https://www.bbc.com/news/articles/cd0ye72r4vpo?at_medium=RSS&at_campaign=rss",
+    "id_key": "f664c49f6fe41c87697b9b9e03ee44bac8e31e303909d5aea11ddac76f765ca6",
+    "summary": "Trump has made numerous threats against other nations in Washington's orbit.",
+    "ingested_utc": "2026-01-06T07:22:25Z"
+  },
+  {
+    "published_utc": "2026-01-06",
+    "retrieved_date": "2026-01-06",
+    "retrieved_utc": "2026-01-06T07:20:42Z",
+    "source": "Guardian_World",
+    "title": "Guardian Hope appeal raises more than £800,000 for charities tackling division",
+    "url": "https://www.theguardian.com/society/2026/jan/06/guardian-charity-appeal-tackling-division",
+    "id_key": "6bf4fbc1afaaa056655067ca0f5dda965b91aa085bb162152eb6b1624c4a1767",
+    "summary": "Appeal – entering its last few days – is fundraising for five charities that promote tolerance and hope Donate to the Guardian Charity Appeal 2025 here Donations to the Guardian’s Hope appeal have passed the £800,000 mark as generous readers continue to support inspirational grassroots charities that promote tolerance and tackle division, racism and hatred. The 2025 Guardian appeal is raising funds for five charities : Citizens UK, the Linking Network, Locality, Hope Unlimited Charitable Trust and Who is Your Neighbour? Continue reading...",
+    "ingested_utc": "2026-01-06T07:20:42Z"
+  },
+  {
+    "published_utc": "2026-01-06",
+    "retrieved_date": "2026-01-06",
     "retrieved_utc": "2026-01-06T06:59:56Z",
     "source": "Nikkei_Asia_Top",
     "title": "Philippines' Jollibee looks to list international operations in US",
@@ -1362,6 +1406,17 @@
     "id_key": "a1e51f20ab8be08cb2c3172faf626b6fc340767527adc02b50eb6ed43f9680a0",
     "summary": "Electric car sales rose by nearly a quarter to a record 473,000, or 23.4% of the overall market, says SMMT A rise in the popularity of Chinese brands pushed total car sales in the UK above the 2m mark last year for the first time since 2019, figures reveal. Chinese companies accounted for 9.7% of the 2m new car registrations in the UK in 2025, or 196,000 vehicles, according to preliminary figures from the Society of Motor Manufacturers and Traders (SMMT), a lobby group. That was nearly double the 4.9% market share achieved by the country’s carmakers in 2024. Continue reading...",
     "ingested_utc": "2026-01-06T00:59:16Z"
+  },
+  {
+    "published_utc": "2026-01-05",
+    "retrieved_date": "2026-01-06",
+    "retrieved_utc": "2026-01-06T07:22:25Z",
+    "source": "BBC_World",
+    "title": "Trump's seizure of Maduro raises thorny legal questions",
+    "url": "https://www.bbc.com/news/articles/cr4krkz7242o?at_medium=RSS&at_campaign=rss",
+    "id_key": "0caef831a4098e4e6f40193a1c2b86882159b76f10d479fc7a5ac6cd8cdeaf6a",
+    "summary": "US Attorney General Pam Bondi has said Maduro was brought to the US to \"face justice\". Some experts have concerns.",
+    "ingested_utc": "2026-01-06T07:22:25Z"
   },
   {
     "published_utc": "2026-01-05",
@@ -10943,60 +10998,5 @@
     "id_key": "1517c6b2e64fecf8eeb733cd155da9318ce5456663267b0153fb018756bff330",
     "summary": "Republicans cheer capture of Venezuelan leader, but Democrats say it ‘risks pulling our nation into another war’ Reaction to the capture of Nicolás Maduro in Caracas, Venezuela , by US forces on Saturday has been starkly polarized along political lines, with administration officials and Republicans celebrating the enforcement of a 2020 US narco-trafficking indictment against Maduro and Democrats decrying what they see as a violation of Venezuela’s right to self-determination. The US attorney general, Pam Bondi, said on X that Maduro and his wife, Cilia Flores, had been indicted in the southern district of New York on charges including narco-terrorism conspiracy, cocaine importation conspiracy, possession of machine guns and destructive devices, and conspiracy to possess machine guns and destructive devices against the United States. Continue reading...",
     "ingested_utc": "2026-01-03T18:48:55Z"
-  },
-  {
-    "published_utc": "2026-01-03",
-    "retrieved_date": "2026-01-03",
-    "retrieved_utc": "2026-01-03T18:20:17Z",
-    "source": "FinancialPost_Business",
-    "title": "Trump Says US to ‘Run Venezuela’ in Interim After Maduro",
-    "url": "https://financialpost.com/pmn/business-pmn/trump-says-us-to-run-venezuela-in-interim-after-maduro",
-    "id_key": "585d8c5eb6876e1f0ad6d40c2e34d2de29e5d3e8dd577c9b43ec838b77504299",
-    "summary": "President Donald Trump said the US would run Venezuela until a transition could be organized, hours after a US operation captured leader Nicolás Maduro, ousting the strongman from power after months of mounting military and economic pressure on his regime.",
-    "ingested_utc": "2026-01-03T18:20:17Z"
-  },
-  {
-    "published_utc": "2026-01-03",
-    "retrieved_date": "2026-01-03",
-    "retrieved_utc": "2026-01-03T18:16:59Z",
-    "source": "BBC_World",
-    "title": "Why has Trump attacked Venezuela and taken Maduro?",
-    "url": "https://www.bbc.com/news/articles/c93n4nx5yqro?at_medium=RSS&at_campaign=rss",
-    "id_key": "1c88752e9d4b3cd3dde9fbf8efef3790112440d03218613ff79c162255316889",
-    "summary": "The US has been ramping up pressure on the Venezuelan leader since Trump took office last January.",
-    "ingested_utc": "2026-01-03T18:16:59Z"
-  },
-  {
-    "published_utc": "2026-01-03",
-    "retrieved_date": "2026-01-03",
-    "retrieved_utc": "2026-01-03T17:51:26Z",
-    "source": "FinancialPost_Business",
-    "title": "Trump Says US to ‘Run Venezuela’ in Interim After Maduro",
-    "url": "https://financialpost.com/pmn/business-pmn/trump-says-us-to-run-venezuela-in-interim-after-maduro",
-    "id_key": "188a0ba3475629c760c737da1cb82c30c2a810c2214a02d286cb6bfbae1b37db",
-    "summary": "President Donald Trump said the US would run Venezuela until a transition could be organized, hours after a US operation captured leader Nicolás Maduro, ousting the strongman from power after months of mounting military and economic pressure on his regime.",
-    "ingested_utc": "2026-01-03T17:51:26Z"
-  },
-  {
-    "published_utc": "2026-01-03",
-    "retrieved_date": "2026-01-03",
-    "retrieved_utc": "2026-01-03T17:51:10Z",
-    "source": "Engadget_All",
-    "title": "California introduces a one-stop shop to delete your online data footprint",
-    "url": "https://www.engadget.com/cybersecurity/california-introduces-a-one-stop-shop-to-delete-your-online-data-footprint-173102064.html?src=rss",
-    "id_key": "ecb09de3d31a97116bfefc43c3eaa71338eb7d27b7c507b52988294318e86069",
-    "summary": "Californians can now put a stop to their personal data being sold around on an online trading floor, thanks to a new free tool. On January 1, the state launched its Delete Request and Opt-out Platform, shortened to DROP , that allows residents to request to delete all of their personal information online that's been harvested by data brokers. According to the California Privacy Protection Agency (CalPrivacy), which was responsible for DROP's release, it's a \"first of its kind\" tool that imposes new restrictions on businesses that hoard and sell personal info that consumers didn't provide directly. The process requires verifying your California residency before you can send a \"single deletion request to every registered data broker in California.\" On the other end, CalPrivacy will require data brokers to register every year and to process any deletion requests from DROP. Data brokers will also have to report the type of information they collect and share, while also being subject to regular audits that check for compliance. If any data broker is found skirting the requirements, they could face penalties and fines. Besides being the first in the country to offer this type of comprehensive tool that deletes online personal data, CalPrivacy said it's one of four states, including Oregon, Texas and Vermont, to require data broker registration. According to the agency, data brokers will start processing the first deletion requests from DROP starting August 1, 2026. This article originally appeared on Engadget at https://www.engadget.com/cybersecurity/california-introduces-a-one-stop-shop-to-delete-your-online-data-footprint-173102064.html?src=rss",
-    "ingested_utc": "2026-01-03T17:51:10Z"
-  },
-  {
-    "published_utc": "2026-01-03",
-    "retrieved_date": "2026-01-03",
-    "retrieved_utc": "2026-01-03T17:50:51Z",
-    "source": "FT_Home",
-    "title": "Trump says US to ‘run’ Venezuela until transition of power — follow live",
-    "url": "https://www.ft.com/content/48be0c3d-0a37-4aac-be47-f15f7f1761b8",
-    "id_key": "c37cc0e2ed6ee1fb5a4cca852ff73f390052dc48c5d40658a672124d286ff4e2",
-    "summary": "Strongman leader Nicolás Maduro has been captured and flown out of country, US says",
-    "ingested_utc": "2026-01-03T17:50:51Z"
   }
 ]
