@@ -2,6 +2,116 @@
   {
     "published_utc": "2026-01-06",
     "retrieved_date": "2026-01-06",
+    "retrieved_utc": "2026-01-06T19:13:39Z",
+    "source": "FinancialPost_Business",
+    "title": "LifeLabs Named Canada’s Most Trusted Health Diagnostic Brand for Fourth Year in a Row",
+    "url": "https://financialpost.com/globe-newswire/lifelabs-named-canadas-most-trusted-health-diagnostic-brand-for-fourth-year-in-a-row",
+    "id_key": "a6d4bab68193fcb3c84382d4a18d01d15f8f56b5bc662dd2010ee714a08665f4",
+    "summary": "This recognition highlights LifeLabs commitment to empowering healthier Canadians Toronto, Ontario, Jan. 06, 2026 (GLOBE NEWSWIRE) — LifeLabs, Canada’s leading provider of laboratory diagnostics, has been voted by Canadians as the Most Trusted Brand in Health Diagnostic Services for the fourth consecutive year, earning the prestigious 2026 BrandSpark Most Trusted Brand Award. This recognition highlights the positive impact LifeLabs is […]",
+    "ingested_utc": "2026-01-06T19:13:39Z"
+  },
+  {
+    "published_utc": "2026-01-06",
+    "retrieved_date": "2026-01-06",
+    "retrieved_utc": "2026-01-06T19:13:39Z",
+    "source": "FinancialPost_Business",
+    "title": "Wall Street Banks Kick Off $7 Billion Loan Sale Tied to Hologic Buyout",
+    "url": "https://financialpost.com/pmn/business-pmn/wall-street-banks-kick-off-7-billion-loan-sale-tied-to-hologic-buyout",
+    "id_key": "5e5d8f713a4ca56da87a688d16d97e93181fcd8cbb51b37c4cf66c2b99a50131",
+    "summary": "A group of banks has kicked off a roughly $7 billion leveraged loan sale to help fund the buyout of medical-device maker Hologic Inc., one of the biggest acquisition financings expected to hit the market in the coming months for junk-rated borrowers.",
+    "ingested_utc": "2026-01-06T19:13:39Z"
+  },
+  {
+    "published_utc": "2026-01-06",
+    "retrieved_date": "2026-01-06",
+    "retrieved_utc": "2026-01-06T19:13:39Z",
+    "source": "FinancialPost_Business",
+    "title": "SUCCESS® January Digital Edition Explores Reinvention as a Lifelong Skill–Not a One-Time Reset",
+    "url": "https://financialpost.com/globe-newswire/success-january-digital-edition-explores-reinvention-as-a-lifelong-skill-not-a-one-time-reset",
+    "id_key": "1aa3a8a4c7837f3206596eee15e646c2a63da2bde9fb94b003b230a96e39bcdd",
+    "summary": "DALLAS, Jan. 06, 2026 (GLOBE NEWSWIRE) — As professionals enter a new year defined by rapid change and rising expectations, SUCCESS® launches its January Digital Edition with an energizing message. Moving beyond the cliché of New Year’s resolutions, this issue establishes reinvention as a high-level life skill, providing readers with a tactical blueprint for aligning […]",
+    "ingested_utc": "2026-01-06T19:13:39Z"
+  },
+  {
+    "published_utc": "2026-01-06",
+    "retrieved_date": "2026-01-06",
+    "retrieved_utc": "2026-01-06T19:13:26Z",
+    "source": "TheStreet_Top",
+    "title": "Jim Cramer sees fresh appeal in Costco stock",
+    "url": "https://www.thestreet.com/investing/stocks/jim-cramer-sees-fresh-appeal-in-costco-stock",
+    "id_key": "e1bcdbe1a5fdb2becf6c44f42997840e3c249dfe4fd58f4a5b9630ec41d39624",
+    "summary": "Jim Cramer just told CNBC viewers that Costco “is starting to look attractive again,” a notable shift after he trimmed his position in December on worries about slowing renewal rates and stretched valuation. The change in tone comes right after Mizuho upgraded Costco to outperform, raised its price ...",
+    "ingested_utc": "2026-01-06T19:13:26Z"
+  },
+  {
+    "published_utc": "2026-01-06",
+    "retrieved_date": "2026-01-06",
+    "retrieved_utc": "2026-01-06T19:13:26Z",
+    "source": "TheStreet_Top",
+    "title": "Struggling electronics retailer closing thousands of stores",
+    "url": "https://www.thestreet.com/retail/why-this-meme-stock-retail-chain-gamestop-is-closing-thousands-of-stores",
+    "id_key": "cef656257592e69d803a9e5ef1dbec76f9ce19d48ba595392ad16d74acac419a",
+    "summary": "Blockbuster Video died because Netflix eliminated the need to go to a video rental store. Once you could stream movies to your home, physically visiting a store to pick up a DVD, which you then had to return, made very little sense. As someone who grew up in the VHS era, I do miss the days when the ...",
+    "ingested_utc": "2026-01-06T19:13:26Z"
+  },
+  {
+    "published_utc": "2026-01-06",
+    "retrieved_date": "2026-01-06",
+    "retrieved_utc": "2026-01-06T19:12:05Z",
+    "source": "Arbitrum_Nitro_Releases",
+    "title": "Arbitrum Nitro v3.9.3",
+    "url": "https://github.com/OffchainLabs/nitro/releases/tag/v3.9.3",
+    "id_key": "b9849ccee9b3de1c1cae0335a90f1bb761bae2555182ed28db5f74dffdb4953a",
+    "summary": "All Arbitrum One node operators must upgrade to Nitro v3.9.3 or newer before ArbOS51 network upgrade on Arbitrum One, scheduled for January 8th at 17:00 UTC (12:00 PM ET) This release is available as a Docker Image on Docker Hub at offchainlabs/nitro-node:v3.9.3-8bc5554 This Docker image specifies default flags in its entrypoint which should be replicated if you're overriding the entrypoint: /usr/local/bin/nitro --validation.wasm.allowed-wasm-module-roots /home/user/nitro-legacy/machines,/home/user/target/machines Important for any chains still on ArbOS40: If you're running a validator without a split validation server (this will be true of most validators), you should instead use the image offchainlabs/nitro-node:v3.9.3-8bc5554-validator which has the extra script /usr/local/bin/split-val-entry.sh as the entrypoint (no need to override the default entrypoint). What's Changed Support for ArbOS51 User-facing Changes Fix retryable gas calculation bug and add ArbOS51 version ( #4047 ): #4068 Add support for ArbOS51: #4073 Internal Highlights stop block metdata fetcher when node stops: #4021 Full Changelog : v3.9.2...v3.9.3",
+    "ingested_utc": "2026-01-06T19:12:05Z"
+  },
+  {
+    "published_utc": "2026-01-06",
+    "retrieved_date": "2026-01-06",
+    "retrieved_utc": "2026-01-06T19:11:01Z",
+    "source": "CryptoBriefing",
+    "title": "Venezuela stock market surges 100% amid post-Maduro optimism",
+    "url": "https://cryptobriefing.com/venezuela-stock-market-surges-post-maduro-optimism/",
+    "id_key": "efb84cc1828848023080a6537600afd7797a485a865c44fed5d013654a4318d0",
+    "summary": "Venezuelas IBC index jumped over 100% YTD following the US capture of Nicols Maduro, as investors bet on post-regime reforms. The post Venezuela stock market surges 100% amid post-Maduro optimism appeared first on Crypto Briefing .",
+    "ingested_utc": "2026-01-06T19:11:01Z"
+  },
+  {
+    "published_utc": "2026-01-06",
+    "retrieved_date": "2026-01-06",
+    "retrieved_utc": "2026-01-06T19:10:37Z",
+    "source": "Guardian_World",
+    "title": "Armed militias deployed in Venezuela as regime attempts to impose authority",
+    "url": "https://www.theguardian.com/world/2026/jan/07/caracas-venezuela-paramilitary-groups",
+    "id_key": "a2345e68f9f88399c857006fdeb35c8f683096a0488572defc7b73f225cf6f23",
+    "summary": "Paramilitary groups known as colectivos patrol streets with assault rifles, stop and search cars and people’s phones US politics live – latest updates Venezuela ’s rulers have deployed armed militias to patrol streets, operate checkpoints and check people’s phones in a crackdown to consolidate authority after the US attack on Caracas . Paramilitary groups known as colectivos criss-crossed the capital with motorbikes and assault rifles on Tuesday in a show of force to stifle any dissent or perception of a power vacuum. Continue reading...",
+    "ingested_utc": "2026-01-06T19:10:37Z"
+  },
+  {
+    "published_utc": "2026-01-06",
+    "retrieved_date": "2026-01-06",
+    "retrieved_utc": "2026-01-06T19:10:37Z",
+    "source": "Guardian_World",
+    "title": "‘Coalition of the willing’ give press update after Paris meeting on Ukraine – Europe live",
+    "url": "https://www.theguardian.com/world/live/2026/jan/06/coalition-willing-paris-ukraine-zelenskyy-greenland-denmark-venezuela-trump-latest-news-updates",
+    "id_key": "55f4807a9289bf4207535b04addc59f624981b67c2f2303917a5a485e742944d",
+    "summary": "European leaders hold press conference after meeting earlier today with US officials Their statement also says they “will not stop defending” the UN Charter principles, “including sovereignty, territorial integrity and the inviolability of borders”. Nato has made clear that the Arctic region is a priority and European allies are stepping up.” Continue reading...",
+    "ingested_utc": "2026-01-06T19:10:37Z"
+  },
+  {
+    "published_utc": "2026-01-06",
+    "retrieved_date": "2026-01-06",
+    "retrieved_utc": "2026-01-06T19:10:37Z",
+    "source": "Guardian_World",
+    "title": "UK faces further disruption as Storm Goretti to bring heavy snow and strong winds",
+    "url": "https://www.theguardian.com/uk-news/2026/jan/06/disruption-storm-goretti-snow-strong-winds",
+    "id_key": "3a606b1edd139b93095c4a64a81aa484f7f77b0a664bb87c54b6d56a9ce59088",
+    "summary": "Fresh warnings across parts of England and Wales will follow days of delays and closures from Oxford to Orkney The UK is braced for further disruption as heavy snow and strong winds are forecast to hit swathes of England and Wales on Thursday, with the arrival of Storm Goretti. Many parts of the country are already reeling from days of travel chaos and school closures, although Tuesday night was not expected to be as chilly as Monday, when temperatures fell to -12.5C in Norfolk, making it this winter’s coldest night so far. Continue reading...",
+    "ingested_utc": "2026-01-06T19:10:37Z"
+  },
+  {
+    "published_utc": "2026-01-06",
+    "retrieved_date": "2026-01-06",
     "retrieved_utc": "2026-01-06T18:55:07Z",
     "source": "HackerNews_Top",
     "title": "Passing of Joe Mancuso author of Masonite (Python web framework)",
@@ -10888,115 +10998,5 @@
     "id_key": "f9b90fa8fc50e096e784bd6cb550aeb2edb335325a003a40a5b0fd058c61bfab",
     "summary": "In addition to its annual soundbar updates, Samsung debuted two new home speakers at CES 2026. The Music Studio 5 and 7 are Bluetooth and Wi-Fi units designed to blend in with your home decor thanks to their minimalist look. They certainly don’t look like your typical speakers, and Samsung has packed them with features that it says will ensure optimal sound quality from each one. The Music Studio 5 has a four-inch woofer and two tweeters, and a sound profile that’s optimized by AI Dynamic Bass Control. The design is an interesting interplay between a circle and a square, but the speaker delivers crisp, clear sound — even in the roar of a CES demo area. The Music Studio 5 will also come in a smattering of colors, which could lend a pop to a bookshelf. Controls line the top edge, including one-touch access to Spotify. Samsung Music Studio 7 Billy Steele for Engadget If you’re looking for something more robust, the Music Studio 7 is a 3.1.1-channel unit that’s capable of four-direction spatial audio and high-resolution listening. Samsung says you can enjoy tunes at up to up to 24-bit/96kHz and the speaker can be used as part of a turntable setup. The sound here is more robust as I heard noticeably more bass from the 7 than on the 5. The various control buttons are up top here as well, positioned near the front of the speaker for easy access. You can also use up to four Music Studio speakers as a surround sound setup in your living room. I listened to a brief demo where Samsung was using four Music Studio 7 units in a makeshift home theater. This combo provided great immersion, with lots of detail in the directional sound in the clips being broadcast on the connected TV. Samsung also says you can use up to 10 Music Studio speakers for audio only. The company didn’t announce any pricing details yet, but that’s likely to come just before the Music Studio speakers are available for purchase. That date is TBD as well. This article originally appeared on Engadget at https://www.engadget.com/audio/speakers/samsung-music-studio-5-and-7-hands-on-unique-speaker-designs-debut-at-ces-2026-052009007.html?src=rss",
     "ingested_utc": "2026-01-05T05:25:22Z"
-  },
-  {
-    "published_utc": "2026-01-05",
-    "retrieved_date": "2026-01-05",
-    "retrieved_utc": "2026-01-05T05:25:22Z",
-    "source": "Engadget_All",
-    "title": "Samsung HW-QS90H soundbar hands-on: Impressive bass performance without a subwoofer",
-    "url": "https://www.engadget.com/home/home-theater/samsung-hw-qs90h-soundbar-hands-on-impressive-bass-performance-without-a-subwoofer-045727939.html?src=rss",
-    "id_key": "29a9cc41169fb0cc928ef130d8cb9284faa0cac8d6b0c33d0ea4489e89cefb07",
-    "summary": "We’re used to Samsung updating its Q990 soundbar at CES every year , and 2026 is no different. However, the company also debuted the HW-QS90H : a new all-in-one option that Samsung says won’t require a standalone subwoofer due to its Quad Bass Woofer system. The QS90H offers 7.1.2-channel audio with 13 total drivers. Before the show properly kicks off, we got to listen to the new soundbar for a quick judge of its merits. The first thing I noticed about the QS90H is its impressive bass performance. Most of the time when a company claims its soundbar doesn’t need a subwoofer, that proves to be untrue. But even in the chaos of a noisy demo area, I could clearly hear the bassy thump coming from the QS90H’s built-in subwoofers. For once, I think would-be buyers could get by without a sub, especially in smaller living rooms. Samsung achieved this with two of those Quad woofers. These drivers push air in two directions rather than just one, which helps with the extra low-end tone. The company didn’t sacrifice clarity either. The nine additional drivers, positioned for front, side, wide and up firing sound, provide the clear detail I’ve come to expect from Samsung. Samsung QS90H soundbar Billy Steele for Engadget The QS90H also features Samsung’s Convertible Fit Design technology that debuted on the QS700F last year. This tool allows you to sit the soundbar flat on a shelf or mantle, or rotate it to mount on the wall. Built-in sensors automatically adjust the driver performance for each orientation, so that sound quality isn’t affected by the selected positioning. During my demo, I didn’t notice any difference in performance when the orientation changed. In fact, the QS90H looks a lot like the QS700F on the outside, with similar grille patters and control designs. Samsung didn’t announce pricing or availability tonight, but that’s likely to come just prior to any on-sale date. This article originally appeared on Engadget at https://www.engadget.com/home/home-theater/samsung-hw-qs90h-soundbar-hands-on-impressive-bass-performance-without-a-subwoofer-045727939.html?src=rss",
-    "ingested_utc": "2026-01-05T05:25:22Z"
-  },
-  {
-    "published_utc": "2026-01-05",
-    "retrieved_date": "2026-01-05",
-    "retrieved_utc": "2026-01-05T05:25:18Z",
-    "source": "TheVerge_All",
-    "title": "Birdbuddy’s new smart feeders aim to make spotting birds easier, even for beginners",
-    "url": "https://www.theverge.com/gadgets/850488/birdbuddy-2-mini-ces-2026",
-    "id_key": "af6b39d8e67af050b80214cbef75d22c944b57cff9c3bb43374107c705e5747f",
-    "summary": "Birdbuddy is introducing two new smart bird feeders: the flagship Birdbuddy 2 and the more compact, cheaper Birdbuddy 2 Mini aimed at first-time users and smaller outdoor spaces. Both models are designed to be faster and easier to use than previous generations, with upgraded cameras that can shoot in portrait or landscape and wake instantly […]",
-    "ingested_utc": "2026-01-05T05:25:18Z"
-  },
-  {
-    "published_utc": "2026-01-05",
-    "retrieved_date": "2026-01-05",
-    "retrieved_utc": "2026-01-05T05:25:05Z",
-    "source": "FT_Markets",
-    "title": "‘Down to the wire’: ECB’s digital euro project faces decisive vote in 2026",
-    "url": "https://www.ft.com/content/99a7b61b-c5df-4794-8c5f-2e3acd291333",
-    "id_key": "3ac061fda30f73f785aeb1f29832b9644a3b8b4185e6ef629dfa16fa6222655a",
-    "summary": "Central bank aims to introduce the tokens in 2029 but parties in the European parliament are divided",
-    "ingested_utc": "2026-01-05T05:25:05Z"
-  },
-  {
-    "published_utc": "2026-01-05",
-    "retrieved_date": "2026-01-05",
-    "retrieved_utc": "2026-01-05T05:25:05Z",
-    "source": "FT_Markets",
-    "title": "The AI debt boom does not augur well for investors",
-    "url": "https://www.ft.com/content/d36f3392-9a73-476a-9357-8ff311bb04da",
-    "id_key": "c7c29780425a4f6fa174876581ec844ab6382191066528bd4024aa38c8da3e85",
-    "summary": "The surge in investment may end up looking more like previous cycles of over-optimism and heavy capital spending",
-    "ingested_utc": "2026-01-05T05:25:05Z"
-  },
-  {
-    "published_utc": "2026-01-05",
-    "retrieved_date": "2026-01-05",
-    "retrieved_utc": "2026-01-05T05:25:05Z",
-    "source": "FT_Markets",
-    "title": "EU recycling backfires as Chinese buyers snap up aluminium scrap",
-    "url": "https://www.ft.com/content/a614b785-5dbf-40d4-a1b5-1597720bdb64",
-    "id_key": "1abb7a678f6bb05a4f53397b756b57574c5c40092135eecf43d80d46a813ef19",
-    "summary": "Novelis executive says European metal sector in terminal decline despite consumers willing to pay more for recycled products",
-    "ingested_utc": "2026-01-05T05:25:05Z"
-  },
-  {
-    "published_utc": "2026-01-05",
-    "retrieved_date": "2026-01-05",
-    "retrieved_utc": "2026-01-05T05:25:05Z",
-    "source": "FT_Markets",
-    "title": "Trump plans to ‘run’ Venezuela. What now?",
-    "url": "https://www.ft.com/content/cdfa0a94-dacc-41a3-9965-06b827c6cdaf",
-    "id_key": "7cf4032b305f80949af858d325bba38f6658c193faab4d61c16f19a35632368d",
-    "summary": "US president says Latin American nation’s post-Maduro leader must adhere to conditions or pay ‘a very big price’",
-    "ingested_utc": "2026-01-05T05:25:05Z"
-  },
-  {
-    "published_utc": "2026-01-05",
-    "retrieved_date": "2026-01-05",
-    "retrieved_utc": "2026-01-05T05:25:03Z",
-    "source": "FT_Home",
-    "title": "‘I applaud him’: Venezuelan diaspora hails Trump after Maduro’s capture",
-    "url": "https://www.ft.com/content/461939b1-2aa0-47c0-9763-7cf1f54af81b",
-    "id_key": "96985dad8f5d9352b34326cd7a1bcac544575671001a21129928906b5b17ae18",
-    "summary": "Florida residents rejoice at authoritarian leader’s ousting, even as some nurse apprehension about future",
-    "ingested_utc": "2026-01-05T05:25:03Z"
-  },
-  {
-    "published_utc": "2026-01-05",
-    "retrieved_date": "2026-01-05",
-    "retrieved_utc": "2026-01-05T05:25:03Z",
-    "source": "FT_Home",
-    "title": "The woman with Trump’s nod to lead Venezuela",
-    "url": "https://www.ft.com/content/4b87b114-1d16-46ea-ab75-cb511d441431",
-    "id_key": "65178e23347c71d3ea6318765196d6222c3b21d7d4eb313275efa7a689a0b15a",
-    "summary": "Washington has built its transition plans around vice-president Delcy Rodríguez, a canny operator close to the oil industry",
-    "ingested_utc": "2026-01-05T05:25:03Z"
-  },
-  {
-    "published_utc": "2026-01-05",
-    "retrieved_date": "2026-01-05",
-    "retrieved_utc": "2026-01-05T05:25:03Z",
-    "source": "FT_Home",
-    "title": "Taxes will need to rise before next UK election, economists predict",
-    "url": "https://www.ft.com/content/bdf5e89c-e284-46a1-b1c9-60544eed4ded",
-    "id_key": "ea8188751f7b7e96ba1d38abf6dbecd0441ed82783d8ea58e1cfe74a94a790b6",
-    "summary": "Majority of respondents in FT’s annual survey say economy will not be strong enough for people to feel better off",
-    "ingested_utc": "2026-01-05T05:25:03Z"
-  },
-  {
-    "published_utc": "2026-01-05",
-    "retrieved_date": "2026-01-05",
-    "retrieved_utc": "2026-01-05T05:24:52Z",
-    "source": "NYTimes_World",
-    "title": "After Christmas Day Strikes, Fear Grips Muslims in Rural Nigeria",
-    "url": "https://www.nytimes.com/2026/01/05/world/africa/nigeria-us-strikes-muslims.html",
-    "id_key": "1657755206463ef3e3a33392a7a25336ab43362a865f2417932e19d93482bbe1",
-    "summary": "A small town set amid a smattering of baobab trees is grappling with the aftermath of a bombing ordered by President Trump.",
-    "ingested_utc": "2026-01-05T05:24:52Z"
   }
 ]
