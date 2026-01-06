@@ -2,6 +2,39 @@
   {
     "published_utc": "2026-01-06",
     "retrieved_date": "2026-01-06",
+    "retrieved_utc": "2026-01-06T09:21:32Z",
+    "source": "AlJazeera_All",
+    "title": "Israeli army enters Quneitra village in southern Syria amid talks in Paris",
+    "url": "https://www.aljazeera.com/news/2026/1/6/israeli-army-vehicles-enter-quneitra-countryside-village-in-southern-syria?traffic_source=rss",
+    "id_key": "5bb40d6515dd8ca90b126058ca3b97c9cdd55d213199e19a2f3a4dd4c883a82f",
+    "summary": "Israel has, since the fall of al-Assad, extended its occupation of Syrian territory and staged raids and bombardments.",
+    "ingested_utc": "2026-01-06T09:21:32Z"
+  },
+  {
+    "published_utc": "2026-01-06",
+    "retrieved_date": "2026-01-06",
+    "retrieved_utc": "2026-01-06T09:21:19Z",
+    "source": "TheVerge_All",
+    "title": "This free feature helps make stolen Bosch e-bikes unsellable",
+    "url": "https://www.theverge.com/tech/856120/this-free-feature-helps-make-stolen-bosch-e-bikes-unsellable",
+    "id_key": "2305426bbcfea0d793719c7d252ffedde9cf0723994d6cdd3a04c21e2a39ce55",
+    "summary": "Stolen electric bikes built around Bosch motors will be harder to sell, service, and ride at the end of January. That's when Bosch is rolling a new digital theft feature that lets owners mark the bike as stolen in the Bosch Flow app - no subscription required. Bosch rolled out a similar feature for expensive […]",
+    "ingested_utc": "2026-01-06T09:21:19Z"
+  },
+  {
+    "published_utc": "2026-01-06",
+    "retrieved_date": "2026-01-06",
+    "retrieved_utc": "2026-01-06T09:18:47Z",
+    "source": "Guardian_World",
+    "title": "Maduro’s legal team includes acclaimed lawyer who represented Julian Assange",
+    "url": "https://www.theguardian.com/us-news/2026/jan/06/barry-pollack-nicolas-maduro-lawyer",
+    "id_key": "40fa29fb63724f430a1e6bca06450005c5bc3a054f6a6d256a8a6cccea2a7437",
+    "summary": "Barry Pollack, a US trial lawyer, will take on the case as the captured Venezuelan president’s private counsel When Nicolás Maduro appeared in court in New York on Monday, his choice of lawyer quickly raised eyebrows. The captured Venezuelan president was accompanied by Barry Pollack, a top-tier US trial lawyer who spent years representing Julian Assange , eventually securing the WikiLeaks founder’s release from prison in the UK in 2024. Continue reading...",
+    "ingested_utc": "2026-01-06T09:18:47Z"
+  },
+  {
+    "published_utc": "2026-01-06",
+    "retrieved_date": "2026-01-06",
     "retrieved_utc": "2026-01-06T08:55:30Z",
     "source": "HackerNews_Top",
     "title": "Mapping Protests in Iran",
@@ -10965,38 +10998,5 @@
     "id_key": "0334334d315162df34aa067e08857a41bce454e1ecfc58aa780e4efeaacdb478",
     "summary": "Donald Trump says that Venezuela's governance will remain in the hands of senior US officials until a \"proper and judicious transition\" can take place. The rest of the region is on notice.",
     "ingested_utc": "2026-01-03T22:37:12Z"
-  },
-  {
-    "published_utc": "2026-01-03",
-    "retrieved_date": "2026-01-03",
-    "retrieved_utc": "2026-01-03T22:36:55Z",
-    "source": "FT_Home",
-    "title": "Nicolás Maduro arrives at military base in New York",
-    "url": "https://www.ft.com/content/48be0c3d-0a37-4aac-be47-f15f7f1761b8",
-    "id_key": "c4b3e6fd0e57fefb00887e7d3df8777e1bea0ab1e63cb46cb961a231f064f159",
-    "summary": "Venezuelan strongman leader lands in the US after being captured early Saturday morning in Caracas",
-    "ingested_utc": "2026-01-03T22:36:55Z"
-  },
-  {
-    "published_utc": "2026-01-03",
-    "retrieved_date": "2026-01-03",
-    "retrieved_utc": "2026-01-03T22:14:29Z",
-    "source": "AlJazeera_All",
-    "title": "Internet disruption, several arrests made as Iran protests continue",
-    "url": "https://www.aljazeera.com/news/2026/1/3/internet-disruption-several-arrests-made-as-iran-protests-continue?traffic_source=rss",
-    "id_key": "420601548a7f6e5a94b15ae12a43dc39c3440906d10eeeb0fbeb3f14d45f2263",
-    "summary": "Cybersecurity company Cloudflare shows an average 35 percent lower traffic volume in Iran compared with previous days.",
-    "ingested_utc": "2026-01-03T22:14:29Z"
-  },
-  {
-    "published_utc": "2026-01-03",
-    "retrieved_date": "2026-01-03",
-    "retrieved_utc": "2026-01-03T22:13:49Z",
-    "source": "NYTimes_World",
-    "title": "Venezuela Live Updates: Maduro Arrives in N.Y.; Trump Says U.S. Will ‘Run’ Venezuela",
-    "url": "https://www.nytimes.com/live/2026/01/03/world/trump-united-states-strikes-venezuela",
-    "id_key": "74c07d188b66d904a7ea3237f805d21abf88ca29f2516986eb85810e80b78edb",
-    "summary": "Venezuela’s vice president, Delcy Rodríguez, rejected the U.S. intervention and demanded President Nicolás Maduro’s return. Maduro and his wife were brought to New York City to stand trial on drug and weapons charges.",
-    "ingested_utc": "2026-01-03T22:13:49Z"
   }
 ]
