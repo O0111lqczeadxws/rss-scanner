@@ -2,6 +2,28 @@
   {
     "published_utc": "2026-01-06",
     "retrieved_date": "2026-01-06",
+    "retrieved_utc": "2026-01-06T11:45:16Z",
+    "source": "AlJazeera_All",
+    "title": "Can China and South Korea reset complex ties after Xi-Lee summit?",
+    "url": "https://www.aljazeera.com/news/2026/1/6/can-china-and-south-korea-reset-complex-ties-after-xi-lee-summit?traffic_source=rss",
+    "id_key": "05b74b312ec06cf2893bdff88a0f11b3410385acb626a9eefdbbdaa80845f636",
+    "summary": "Analysts say both countries increasingly rely on each other for economic and security factors amid geopolitical churn.",
+    "ingested_utc": "2026-01-06T11:45:16Z"
+  },
+  {
+    "published_utc": "2026-01-06",
+    "retrieved_date": "2026-01-06",
+    "retrieved_utc": "2026-01-06T11:42:28Z",
+    "source": "BBC_World",
+    "title": "Dance music festival Tomorrowland to hold three-day event in Thailand",
+    "url": "https://www.bbc.com/news/articles/cql45lykx5eo?at_medium=RSS&at_campaign=rss",
+    "id_key": "fc2bc54ab8b0f0697514baf8d15dd1cbd0d3c871ceba337d8f3f997a7e477414",
+    "summary": "Founded 20 years ago, Tomorrowland has grown into one of the most iconic celebrations of electronic music.",
+    "ingested_utc": "2026-01-06T11:42:28Z"
+  },
+  {
+    "published_utc": "2026-01-06",
+    "retrieved_date": "2026-01-06",
     "retrieved_utc": "2026-01-06T11:33:42Z",
     "source": "FinancialPost_Business",
     "title": "Euna Solutions’ Marketplace Achieves Workday Certified Integration",
@@ -10976,27 +10998,5 @@
     "id_key": "7a405871f4645b60423b7aed141f20af146de945d6e9c92d5ab5811f32fadcaf",
     "summary": "The cost of a school dinner for primary and special school pupils will go up by 50p from £2.60 to £3.10.",
     "ingested_utc": "2026-01-04T06:52:57Z"
-  },
-  {
-    "published_utc": "2026-01-04",
-    "retrieved_date": "2026-01-04",
-    "retrieved_utc": "2026-01-04T06:22:02Z",
-    "source": "HackerNews_Top",
-    "title": "Corundum – open-source FPGA-based NIC and platform for in-network compute",
-    "url": "https://github.com/corundum/corundum",
-    "id_key": "a67eb054e5f7beea73b769239c91c5e8e9cc6de23448e9c3931c2392b80ec379",
-    "summary": "Comments",
-    "ingested_utc": "2026-01-04T06:22:02Z"
-  },
-  {
-    "published_utc": "2026-01-04",
-    "retrieved_date": "2026-01-04",
-    "retrieved_utc": "2026-01-04T06:22:02Z",
-    "source": "HackerNews_Top",
-    "title": "Show HN: Krowdovi – Video-based indoor navigation on a DePIN creator economy",
-    "url": "https://github.com/daftpixie/krowdovi",
-    "id_key": "333ce891798b6d6820181490ba47391025152004c6a639875dade1fbcdd5c925",
-    "summary": "Comments",
-    "ingested_utc": "2026-01-04T06:22:02Z"
   }
 ]
