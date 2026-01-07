@@ -1,27 +1,27 @@
 {
-  "started_utc": "2026-01-07T17:18:48Z",
-  "ended_utc": "2026-01-07T17:22:13Z",
-  "new_items_this_run": 13,
+  "started_utc": "2026-01-07T17:48:02Z",
+  "ended_utc": "2026-01-07T17:51:35Z",
+  "new_items_this_run": 22,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
     "Reuters_World": 0,
     "Reuters_Markets": 0,
     "BBC_World": 1,
-    "BBC_Business": 0,
+    "BBC_Business": 2,
     "BBC_Technology": 0,
-    "Guardian_Business": 1,
-    "Guardian_World": 1,
+    "Guardian_Business": 0,
+    "Guardian_World": 4,
     "WSJ_US_Business": 0,
     "WSJ_World": 0,
     "WSJ_Markets": 0,
     "MarketWatch_Top": 0,
     "MarketWatch_MarketPulse": 0,
     "Blockworks": 0,
-    "BitcoinMagazine": 0,
-    "CryptoSlate": 1,
-    "CryptoBriefing": 0,
-    "Protos": 0,
+    "BitcoinMagazine": 1,
+    "CryptoSlate": 0,
+    "CryptoBriefing": 2,
+    "Protos": 1,
     "CryptoNews": 0,
     "CoinJournal": 0,
     "Unchained": 0,
@@ -57,7 +57,7 @@
     "MarketWatch_Bulletins": 0,
     "MarketWatch_PersonalFinance": 0,
     "NYTimes_Business": 0,
-    "NYTimes_World": 0,
+    "NYTimes_World": 2,
     "NYTimes_Economy": 0,
     "NYTimes_Technology": 0,
     "CNN_Top": 0,
@@ -74,20 +74,20 @@
     "TechCrunch_All": 0,
     "ArsTechnica_All": 0,
     "WIRED_All": 0,
-    "Engadget_All": 2,
+    "Engadget_All": 3,
     "TheEconomist_Business": 0,
     "TheEconomist_Finance": 0,
     "Investopedia_Latest": 0,
     "TheStreet_Top": 1,
-    "AlJazeera_All": 1,
+    "AlJazeera_All": 0,
     "AlJazeera_Economy": 0,
-    "FinancialPost_Business": 4,
+    "FinancialPost_Business": 3,
     "CBC_Business": 0,
     "Nikkei_Asia_Top": 0,
     "WorldBank_News": 0,
     "OECD_Newsroom": 0,
     "MIT_TechReview": 0,
-    "HackerNews_Top": 0
+    "HackerNews_Top": 1
   },
   "errors": [
     {
@@ -283,8 +283,16 @@
       "error": "fatal parse failure"
     },
     {
+      "source": "https://www.aljazeera.com/xml/rss/all.xml",
+      "error": "fetch error: HTTP 403"
+    },
+    {
+      "source": "AlJazeera_All",
+      "error": "fatal parse failure"
+    },
+    {
       "source": "https://www.aljazeera.com/xml/rss/section/economy.xml",
-      "error": "fetch error: HTTP 404"
+      "error": "fetch error: HTTP 403"
     },
     {
       "source": "AlJazeera_Economy",
@@ -335,19 +343,19 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 448,
+    "passed_keywords": 445,
     "passed_allowlist": 0,
-    "failed_all_filters": 506
+    "failed_all_filters": 493
   },
   "stats": {
     "feeds_total": 97,
-    "feeds_error": 23,
+    "feeds_error": 24,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 1518,
-    "too_old": 564,
-    "dup_title_url": 77,
-    "dup_id": 358
+    "entries_seen": 1499,
+    "too_old": 561,
+    "dup_title_url": 79,
+    "dup_id": 344
   },
   "limits": {
     "skip_older_days": 10,
@@ -360,6 +368,6 @@
   },
   "processed": {
     "file": "data/processed/2026-01-07.jsonl",
-    "appended_new": 13
+    "appended_new": 22
   }
 }
