@@ -2,6 +2,39 @@
   {
     "published_utc": "2026-01-07",
     "retrieved_date": "2026-01-07",
+    "retrieved_utc": "2026-01-07T09:50:41Z",
+    "source": "AlJazeera_All",
+    "title": "Why do 250 million Christians celebrate Christmas on January 7?",
+    "url": "https://www.aljazeera.com/news/2026/1/7/why-do-250-million-christians-celebrate-christmas-on-january-7?traffic_source=rss",
+    "id_key": "8931b046dc169d4735ada896082b0cfae314cb2db1dd4e0117d05711e1b3839b",
+    "summary": "Orthodox and Coptic Christians don’t believe Jesus was born on a different day; they just use a different calendar.",
+    "ingested_utc": "2026-01-07T09:50:41Z"
+  },
+  {
+    "published_utc": "2026-01-07",
+    "retrieved_date": "2026-01-07",
+    "retrieved_utc": "2026-01-07T09:50:41Z",
+    "source": "AlJazeera_All",
+    "title": "Photos: Orthodox Christmas celebrations around the world",
+    "url": "https://www.aljazeera.com/gallery/2026/1/7/photos-orthodox-christmas-celebrations-around-the-world?traffic_source=rss",
+    "id_key": "c9eb06741f3fab334fb7bcf4b31cd48d8a033c15ed38154a60190c0240f492e7",
+    "summary": "Orthodox Christians from Palestine to Russia celebrate the birth of Jesus Christ on January 7.",
+    "ingested_utc": "2026-01-07T09:50:41Z"
+  },
+  {
+    "published_utc": "2026-01-07",
+    "retrieved_date": "2026-01-07",
+    "retrieved_utc": "2026-01-07T09:47:51Z",
+    "source": "BBC_World",
+    "title": "Japan nuclear agency worker loses phone with confidential data in China",
+    "url": "https://www.bbc.com/news/articles/c8j38rmm4z3o?at_medium=RSS&at_campaign=rss",
+    "id_key": "a1fea2f9957a5feb6d28468c9e00f2cf56798b9234c2a397092a1fe9c1c89db1",
+    "summary": "Authorities cannot say whether data was leaked from the device, which was lost at a Shanghai airport.",
+    "ingested_utc": "2026-01-07T09:47:51Z"
+  },
+  {
+    "published_utc": "2026-01-07",
+    "retrieved_date": "2026-01-07",
     "retrieved_utc": "2026-01-07T09:23:59Z",
     "source": "FinancialPost_Business",
     "title": "Humanoid Global Announces Strategic Investment in MBody AI, Developer of an Embodied AI Autonomy Platform",
@@ -10965,38 +10998,5 @@
     "id_key": "ac0625630d5261cc9befabcec8cf21e969f25f28cd6a000f282d0e44e66f2bfd",
     "summary": "Comments",
     "ingested_utc": "2026-01-05T16:52:36Z"
-  },
-  {
-    "published_utc": "2026-01-05",
-    "retrieved_date": "2026-01-05",
-    "retrieved_utc": "2026-01-05T16:52:26Z",
-    "source": "FinancialPost_Business",
-    "title": "Bitcoin advances to three-week high as stocks, silver, gold rise",
-    "url": "https://financialpost.com/investing/bitcoin-advances-three-week-high-stocks-silver-gold-rise",
-    "id_key": "ebdba0ebf621891ca238c04d64ea10b1c20b4fe6f6963e6fd2a4652a5997f493",
-    "summary": "Bitcoin broke through a closely watched technical level as digital assets start to catch up with gains in equities, precious metals",
-    "ingested_utc": "2026-01-05T16:52:26Z"
-  },
-  {
-    "published_utc": "2026-01-05",
-    "retrieved_date": "2026-01-05",
-    "retrieved_utc": "2026-01-05T16:52:26Z",
-    "source": "FinancialPost_Business",
-    "title": "Muni High-Yield Shop Rosemawr Nets 40% Gain on Soccer Arena Bet",
-    "url": "https://financialpost.com/pmn/business-pmn/muni-high-yield-shop-rosemawr-nets-40-gain-on-soccer-arena-bet",
-    "id_key": "b4a94b183294510d32f641d521e521bb1212d3a0ee5832d390f70b2a74eea1fb",
-    "summary": "Pawtucket, Rhode Island’s bet that a new 10,500-seat soccer stadium along the Seekonk River can jump-start its fading mill-town economy has already paid off handsomely for one boutique investment firm.",
-    "ingested_utc": "2026-01-05T16:52:26Z"
-  },
-  {
-    "published_utc": "2026-01-05",
-    "retrieved_date": "2026-01-05",
-    "retrieved_utc": "2026-01-05T16:52:26Z",
-    "source": "FinancialPost_Business",
-    "title": "Abu Dhabi’s TII Launches Falcon-H1 Arabic, Establishing the World’s Leading Arabic AI Model",
-    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/abu-dhabis-tii-launches-falcon-h1-arabic-establishing-the-worlds-leading-arabic-ai-model",
-    "id_key": "6a1291ced3525a9f8812a1344601a7767960d2f985d672683120c0e1cdc9d827",
-    "summary": "Based on new hybrid-architecture, models deliver higher accuracy while running on smaller parameter sizes Launch underscores UAE push to compete with global AI leaders in high-performance language models ABU DHABI, United Arab Emirates — The Technology Innovation Institute (TII), the applied research arm of Abu Dhabi’s Advanced Technology Research Council (ATRC), has announced Falcon-H1 […]",
-    "ingested_utc": "2026-01-05T16:52:26Z"
   }
 ]
