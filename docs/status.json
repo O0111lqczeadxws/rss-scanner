@@ -1,13 +1,13 @@
 {
-  "started_utc": "2026-01-08T08:18:32Z",
-  "ended_utc": "2026-01-08T08:21:52Z",
-  "new_items_this_run": 10,
+  "started_utc": "2026-01-08T08:52:03Z",
+  "ended_utc": "2026-01-08T08:55:26Z",
+  "new_items_this_run": 7,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
     "Reuters_World": 0,
     "Reuters_Markets": 0,
-    "BBC_World": 0,
+    "BBC_World": 1,
     "BBC_Business": 1,
     "BBC_Technology": 0,
     "Guardian_Business": 0,
@@ -20,10 +20,10 @@
     "Blockworks": 0,
     "BitcoinMagazine": 0,
     "CryptoSlate": 0,
-    "CryptoBriefing": 1,
+    "CryptoBriefing": 0,
     "Protos": 0,
-    "CryptoNews": 1,
-    "CoinJournal": 2,
+    "CryptoNews": 0,
+    "CoinJournal": 0,
     "Unchained": 0,
     "Bankless": 0,
     "CoinGecko_Blog": 0,
@@ -61,16 +61,16 @@
     "NYTimes_Economy": 0,
     "NYTimes_Technology": 0,
     "CNN_Top": 0,
-    "NPR_Top": 1,
+    "NPR_Top": 0,
     "NPR_Business": 0,
     "NPR_Economy": 0,
     "NPR_World": 0,
     "NPR_Technology": 0,
-    "FT_Home": 0,
-    "FT_Markets": 0,
+    "FT_Home": 1,
+    "FT_Markets": 1,
     "CNBC_Top": 0,
     "CNBC_Markets": 0,
-    "TheVerge_All": 1,
+    "TheVerge_All": 0,
     "TechCrunch_All": 0,
     "ArsTechnica_All": 0,
     "WIRED_All": 0,
@@ -335,19 +335,19 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 485,
+    "passed_keywords": 488,
     "passed_allowlist": 1,
-    "failed_all_filters": 519
+    "failed_all_filters": 517
   },
   "stats": {
     "feeds_total": 97,
     "feeds_error": 23,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 1550,
+    "entries_seen": 1551,
     "too_old": 545,
-    "dup_title_url": 90,
-    "dup_id": 386
+    "dup_title_url": 91,
+    "dup_id": 391
   },
   "limits": {
     "skip_older_days": 10,
@@ -360,6 +360,6 @@
   },
   "processed": {
     "file": "data/processed/2026-01-08.jsonl",
-    "appended_new": 10
+    "appended_new": 7
   }
 }
