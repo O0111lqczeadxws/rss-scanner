@@ -2,6 +2,61 @@
   {
     "published_utc": "2026-01-08",
     "retrieved_date": "2026-01-08",
+    "retrieved_utc": "2026-01-08T07:46:22Z",
+    "source": "FinancialPost_Business",
+    "title": "Clean Energy Stocks Extend Rally on AI Demand as Oil Falters",
+    "url": "https://financialpost.com/pmn/business-pmn/clean-energy-stocks-extend-rally-on-ai-demand-as-oil-falters",
+    "id_key": "4924607f2078694541a14735ef36123ebf943d5bdc3aaed48df0c08db1e8bda7",
+    "summary": "Clean-energy stocks are extending their rally into 2026 on optimism over artificial intelligence demand, while oil companies are under renewed pressure as prices dip.",
+    "ingested_utc": "2026-01-08T07:46:22Z"
+  },
+  {
+    "published_utc": "2026-01-08",
+    "retrieved_date": "2026-01-08",
+    "retrieved_utc": "2026-01-08T07:46:15Z",
+    "source": "AlJazeera_All",
+    "title": "Two people killed in shooting outside Mormon church in Salt Lake City, US",
+    "url": "https://www.aljazeera.com/news/2026/1/8/two-people-killed-in-shooting-in-mormon-church-car-park-in-salt-lake-us?traffic_source=rss",
+    "id_key": "603e7bb9fa40c34ffa570a8efdf9a5b032f1f6119d14bd9528452ca28bfef999",
+    "summary": "Manhunt under way; police believe attack was not random nor religiously motivated.",
+    "ingested_utc": "2026-01-08T07:46:15Z"
+  },
+  {
+    "published_utc": "2026-01-08",
+    "retrieved_date": "2026-01-08",
+    "retrieved_utc": "2026-01-08T07:43:53Z",
+    "source": "CoinJournal",
+    "title": "Wyoming launches state-backed stablecoin as public finance experiment",
+    "url": "https://coinjournal.net/news/wyoming-launches-state-backed-stablecoin-as-public-finance-experiment/",
+    "id_key": "7b0f8d73fe75a4f076c00ae6c041d4964fe4afd5d25a488b76e4ac26ab31298b",
+    "summary": "Wyoming has launched FRNT, the first stablecoin issued and backed by a US state government. The dollar-pegged token is fully backed by cash and Treasuries and managed by Franklin Templeton. Interest from reserves is directed to Wyoming public schools rather than token holders. Wyoming has formally entered the digital asset market by issuing the first […] The post Wyoming launches state-backed stablecoin as public finance experiment appeared first on CoinJournal .",
+    "ingested_utc": "2026-01-08T07:43:53Z"
+  },
+  {
+    "published_utc": "2026-01-08",
+    "retrieved_date": "2026-01-08",
+    "retrieved_utc": "2026-01-08T07:43:30Z",
+    "source": "Guardian_World",
+    "title": "Albanese announces royal commission after Bondi attack as he defends not calling inquiry earlier",
+    "url": "https://www.theguardian.com/australia-news/2026/jan/08/bondi-shooting-royal-commission-attack-australia-pm-albanese-ntwnfb",
+    "id_key": "f6053043dc961b003c494ecb5cba6e36a870460e70360e154ebd036c88f5e5f5",
+    "summary": "Prime minister confirms commission on antisemitism and social cohesion after initially resisting demands for a broad national inquiry Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The prime minister has confirmed his government will call a federal royal commission into the Bondi terror attack, with Anthony Albanese backflipping on an earlier stance against a wide-ranging commonwealth inquiry. Albanese announced on Thursday the federal royal commission will examine four key areas, including the prevalence of antisemitism, how law enforcement will respond to antisemitism, the circumstances surrounding the alleged Bondi attack and strengthening social cohesion. Continue reading...",
+    "ingested_utc": "2026-01-08T07:43:30Z"
+  },
+  {
+    "published_utc": "2026-01-08",
+    "retrieved_date": "2026-01-08",
+    "retrieved_utc": "2026-01-08T07:43:27Z",
+    "source": "BBC_World",
+    "title": "Australia to deport British man over alleged neo-Nazi links",
+    "url": "https://www.bbc.com/news/articles/cgez1drnzxdo?at_medium=RSS&at_campaign=rss",
+    "id_key": "ba048287a943ff18dd04edfa32db37e9b871ae530375c9965dd7ff7604a6db7a",
+    "summary": "Ryan Turner's visa was cancelled over claims he is part of the National Socialist Network",
+    "ingested_utc": "2026-01-08T07:43:27Z"
+  },
+  {
+    "published_utc": "2026-01-08",
+    "retrieved_date": "2026-01-08",
     "retrieved_utc": "2026-01-08T07:21:33Z",
     "source": "HackerNews_Top",
     "title": "AI misses nearly one-third of breast cancers, study finds",
@@ -1219,6 +1274,17 @@
     "id_key": "edaa5ed9fad68f109b847cdaf099388b672fd0f25e49ec35375644166c412c11",
     "summary": "Trump's import levies are still changing the patterns of international trade.",
     "ingested_utc": "2026-01-08T00:59:21Z"
+  },
+  {
+    "published_utc": "2026-01-07",
+    "retrieved_date": "2026-01-08",
+    "retrieved_utc": "2026-01-08T07:43:27Z",
+    "source": "BBC_World",
+    "title": "Police chief describes how Minneapolis shooting unfolded",
+    "url": "https://www.bbc.com/news/videos/cx2ypz4zjvxo?at_medium=RSS&at_campaign=rss",
+    "id_key": "1b74b1d71c7d013ff72b2eb6226aeb232b1a2c3014ff1f703a4ef287754050dc",
+    "summary": "A woman in a car was shot and killed by a US immigration officer on a residential street in Minnesota.",
+    "ingested_utc": "2026-01-08T07:43:27Z"
   },
   {
     "published_utc": "2026-01-07",
@@ -10932,71 +10998,5 @@
     "id_key": "78f75e6c3b9c48e58f3a9ac3f495ffd083d8cee8f7bda80f25df23303c1f3ba2",
     "summary": "The Southern District of New York liquidated $6.3 million in Bitcoin forfeited by Samourai Wallet developers on November 3, directly contradicting Executive Order 14233 signed in March 2025 requiring all forfeited Bitcoin be preserved for the Strategic Bitcoin Reserve. The post DOJ Sells 57 Bitcoin Despite Trump’s Executive Order Requiring Strategic Reserve appeared first on Cryptonews .",
     "ingested_utc": "2026-01-06T17:17:14Z"
-  },
-  {
-    "published_utc": "2026-01-06",
-    "retrieved_date": "2026-01-06",
-    "retrieved_utc": "2026-01-06T17:17:14Z",
-    "source": "CryptoNews",
-    "title": "Bitcoin ETFs Absorb $697M in Largest Single-Day Inflow Since October",
-    "url": "https://cryptonews.com/news/bitcoin-etfs-absorb-697m-largest-single-day-inflow-since-october/",
-    "id_key": "11edc3b1c2d282f651f863d0e2b89c594c5f87d80cbdb1c8bcfc8d63b8980c53",
-    "summary": "Bitcoin rallied above $93,000 as U.S. spot Bitcoin ETFs recorded about $697M in net inflows on Jan. 5, their biggest day since Oct. 7, 2025. BlackRock’s IBIT brought in $372M and Fidelity’s FBTC $191M, while nine funds posted gains. ETH ETFs added $168M. Flows have returned after late-2025 outflows. The post Bitcoin ETFs Absorb $697M in Largest Single-Day Inflow Since October appeared first on Cryptonews .",
-    "ingested_utc": "2026-01-06T17:17:14Z"
-  },
-  {
-    "published_utc": "2026-01-06",
-    "retrieved_date": "2026-01-06",
-    "retrieved_utc": "2026-01-06T17:17:11Z",
-    "source": "CryptoBriefing",
-    "title": "Bitcoin experiences $83 million in crypto liquidations as price drops to $92,500",
-    "url": "https://cryptobriefing.com/bitcoin-price-drops-liquidations/",
-    "id_key": "1c2eeaf27c16d30fdacc87cccfa9fbfbe116c8ec46e849b886741178ebe63f6e",
-    "summary": "Bitcoin fell to $92.5K, triggering $83M in long liquidations after briefly stabilizing above $93K earlier this week. The post Bitcoin experiences $83 million in crypto liquidations as price drops to $92,500 appeared first on Crypto Briefing .",
-    "ingested_utc": "2026-01-06T17:17:11Z"
-  },
-  {
-    "published_utc": "2026-01-06",
-    "retrieved_date": "2026-01-06",
-    "retrieved_utc": "2026-01-06T17:16:52Z",
-    "source": "Guardian_World",
-    "title": "Why won’t Yvette Cooper criticise Trump over Venezuela? Look no further than Ukraine",
-    "url": "https://www.theguardian.com/world/2026/jan/06/yvette-cooper-criticise-trump-venezuela-ukraine",
-    "id_key": "a373a9fa81cc65fe755fcb9d5883b3ff3caad0bdf28fcff350b83c026fb2fd09",
-    "summary": "The foreign secretary faces a tight balancing act between keeping the US involved in peace talks, and trying to maintain international order Anyone trying to understand why Yvette Cooper studiously avoided saying whether the UK viewed the kidnapping of Nicolás Maduro as a breach of international law only needed to look to what was planned in Paris a day later. After the foreign secretary’s 90-minute humiliation in the House of Commons on Monday night, a joint statement was expected in the French capital by the coalition of the willing – and a draft included the US promising binding security guarantees to protect Ukraine in the event of a further Russian attack. Continue reading...",
-    "ingested_utc": "2026-01-06T17:16:52Z"
-  },
-  {
-    "published_utc": "2026-01-06",
-    "retrieved_date": "2026-01-06",
-    "retrieved_utc": "2026-01-06T17:16:52Z",
-    "source": "Guardian_World",
-    "title": "Iranian security forces clash with protesters at Tehran’s grand bazaar",
-    "url": "https://www.theguardian.com/world/2026/jan/06/iranian-security-forces-clash-protesters-tehran-grand-bazaar",
-    "id_key": "84792b5fd2b5164ed11933aa478cf43ec2d22b447f80ae3164a0ff9c291d6d72",
-    "summary": "Nationwide protests continue to grow as rights groups accuse authorities of cracking down on demonstrators Iranian security forces have clashed with protesters staging a sit-in at Tehran’s grand bazaar, firing teargas and expelling demonstrators as the nationwide protest movement continued to grow in its 10th day. The violence on Tuesday at a location that carries historical symbolism as an activist hub during the country’s 1979 revolution comes as rights groups accuse authorities of cracking down on protesters. Continue reading...",
-    "ingested_utc": "2026-01-06T17:16:52Z"
-  },
-  {
-    "published_utc": "2026-01-06",
-    "retrieved_date": "2026-01-06",
-    "retrieved_utc": "2026-01-06T17:16:52Z",
-    "source": "Guardian_World",
-    "title": "Wave of Grok AI fake images of women and girls appalling, says UK minister",
-    "url": "https://www.theguardian.com/technology/2026/jan/06/grok-ai-fake-images-women-girls-undressed-uk-minister-liz-kendall",
-    "id_key": "3ff1d5025866e656490516684cc9f6b73e575c6a425c43bbae831baad96d0058",
-    "summary": "Liz Kendall calls on X to ‘deal with this urgently’ while expert criticises ‘worrying slow’ government response The UK technology secretary has called a wave of images of women and children with their clothes digitally removed generated by Elon Musk’s Grok AI “appalling and unacceptable in decent society”. After thousands of intimate deepfakes circulated online, Liz Kendall said X, Musk’s social media platform, needed to “deal with this urgently” and she backed the UK regulator Ofcom to “take any enforcement action it deems necessary”. Continue reading...",
-    "ingested_utc": "2026-01-06T17:16:52Z"
-  },
-  {
-    "published_utc": "2026-01-06",
-    "retrieved_date": "2026-01-06",
-    "retrieved_utc": "2026-01-06T16:56:27Z",
-    "source": "HackerNews_Top",
-    "title": "Vienam Bans Unskippable Ads, Requires Skip Button to Appear After 5 Seconds",
-    "url": "https://saigoneer.com/vietnam-news/28652-vienam-bans-unskippable-ads,-requires-skip-button-to-appear-after-5-seconds",
-    "id_key": "6d6cb07a272ebc6d702b93e2eee1f838c5766691d050da034e46a30e295f546d",
-    "summary": "Comments",
-    "ingested_utc": "2026-01-06T16:56:27Z"
   }
 ]
