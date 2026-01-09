@@ -2,6 +2,28 @@
   {
     "published_utc": "2026-01-09",
     "retrieved_date": "2026-01-09",
+    "retrieved_utc": "2026-01-09T17:58:09Z",
+    "source": "TheStreet_Top",
+    "title": "International travel company shuts down, all tours canceled",
+    "url": "https://www.thestreet.com/travel/international-travel-company-shuts-down-all-tours-canceled",
+    "id_key": "2e63f4bfc3c77517aea927a5525beaedc5ef7eb99970bce847af681be7315ac7",
+    "summary": "While the last months of 2025 brought with them a number of high-profile airline bankruptcies, travel companies which sell various holiday packages and tours are having an even tougher time in the current economy. In the United Kingdom, tour operators Great Little Escapes and Jetline both ...",
+    "ingested_utc": "2026-01-09T17:58:09Z"
+  },
+  {
+    "published_utc": "2026-01-09",
+    "retrieved_date": "2026-01-09",
+    "retrieved_utc": "2026-01-09T17:58:00Z",
+    "source": "Engadget_All",
+    "title": "CES 2026 proved the PC industry is hosed this year",
+    "url": "https://www.engadget.com/computing/ces-2026-proved-the-pc-industry-is-hosed-this-year-174500314.html?src=rss",
+    "id_key": "8fac0f8259e37dbd0121bfbe5e04a6f0201178f7e7040524bb0727315180a665",
+    "summary": "Dell's XPS 14 now costs over $2,000. An AMD executive predicts that PC builders will likely make piecemeal upgrades this year, instead of building entirely new systems. And new AI supercomputers from NVIDIA and AMD are gobbling up the RAM market. At CES 2026, it was hard not to notice the dire year ahead for the computing industry, one that will likely lead to higher prices and more limited availability for consumer goods across the board. Really, though, the show just confirmed what was apparent since RAM prices skyrocketed over the last few months , driven by demand from AI datacenters. As Samsung's marketing leader, Wonjin Lee, told Bloomberg at CES: \"There's going to be issues around semiconductor supplies, and it's going to affect everyone. Prices are going up even as we speak.\" Dell's new XPS 14 and XPS 16 are among the earliest systems hit by these demands. Last year's models started at $1,699 and $1,899, respectively, and we were initially told the new models would actually come in cheaper at $1,650 and $1,850. But Dell later announced a shocking price jump: The XPS 14 now starts at $2,050, while the XPS 16 is $2,200. While it didn't take much to configure the earlier models upwards of $2,000, it's genuinely wild to me that the entry-level models are already starting there. And meanwhile, Apple still hasn't budged its $1,599 MacBook Pro 14-inch pricing. At least Dell still comes in cheaper than the $2,499 MacBook Pro 16-inch. On the desktop front, AMD's David McAfee, Corporate Vice President and GM of Client Channel Business, noted that the longevity of the company's AM4 and AM5 platforms might be a boon for gamers, since they can upgrade their CPUs without buying new RAM kits and motherboards. That allows for a pathway to better performance without paying out the nose for over-priced RAM. \"I think that will be potentially a trend that we see in 2026 with more component upgrades, as opposed to full system swap outs and, and altogether rebuilds,\" he said in a group interview with Engadget and other outlets. \"Some of the most popular CPUs that are still running in gamers’ platforms are parts like the 2600 back to the Pinnacle Ridge days, or 3000 series... Stepping even from there into a little bit more modern 5,000 series processors in an AM4 socket and motherboard, there's a pretty big boost there.\" McAfee added that around 30 to 40 percent of AMD's business still revolves around the AM4 platform, even without the specter of a wild memory market. \"There's no product that has memory in it that's immune to some of these forces around DRAM pricing and, and what it's doing to the market,\" he said, when asked about potential GPU price increases. \"I think the, the truth is the volatility that we've seen over the past two months or so has really been unprecedented.\" Looking ahead, he said he expects prices to settle within the first three to six months of the year, but he didn't discuss his reasoning further. As an aside, he also noted that AMD's X3D chips, which feature 3D V-cache, actually don't see much of a hit from slower RAM. Their high amounts of onboard L2 and L3 cache make up for less ideal memory transfer speeds, McAfee said. That McAfee commented at all about the state of RAM is noteworthy. Every PC maker I’ve asked, including Dell and Acer, refused to comment on the volatile state of the memory industry ahead of CES. Perhaps they were hoping things would calm down before they had to price their new systems. Ultimately, they’re beholden to an increasingly limited supply of RAM. And where is all that memory going? At CES, NVIDIA announced its new Vera Rubin AI supercomputer , which supports up to 54TB of RAM across 36 Vera CPUs and 20.7TB of memory across 72 GPUs. AMD, as well, announced its new Helios AI rack , which supports up to 31TB of memory across 72 AMD Instinct MI455X GPUs. Given the endless appetite for computing to power AI model building and inferencing, there’s likely going to be a significant demand for these beastly systems. Put simply: Our global supply of memory is being sacrificed to appease the AI industry. That’s good news for the likes of OpenAI, Microsoft and NVIDIA, but bad news for anyone who cares about PCs and the consumer products we use every day. Get ready for a year of price hikes. This article originally appeared on Engadget at https://www.engadget.com/computing/ces-2026-proved-the-pc-industry-is-hosed-this-year-174500314.html?src=rss",
+    "ingested_utc": "2026-01-09T17:58:00Z"
+  },
+  {
+    "published_utc": "2026-01-09",
+    "retrieved_date": "2026-01-09",
     "retrieved_utc": "2026-01-09T17:48:13Z",
     "source": "FinancialPost_Business",
     "title": "Drifting Tanker Reveals Major Hurdle for Trump Plan to Revive Venezuela’s Oil",
@@ -10976,27 +10998,5 @@
     "id_key": "3b5a1373627f4706d66a3448bf86cdee8128d093dc667a440e3d6e1e3237600d",
     "summary": "The Trump administration said it had an agreement with Venezuela’s government, but the country’s state-owned oil company said negotiations were underway.",
     "ingested_utc": "2026-01-08T01:01:31Z"
-  },
-  {
-    "published_utc": "2026-01-08",
-    "retrieved_date": "2026-01-08",
-    "retrieved_utc": "2026-01-08T01:01:31Z",
-    "source": "NYTimes_World",
-    "title": "Venezuela Live Updates: U.S. Forces Seize Two Tankers; Rubio Lays Out Plan for American Control",
-    "url": "https://www.nytimes.com/live/2026/01/07/world/venezuela-us-trump",
-    "id_key": "60897b0d3a8ac703868c556a90817b6361cafba6cc1a36a21e5244b66c079ad4",
-    "summary": "After the secretary of state unveiled a proposal for managing Venezuela and the U.S. forces boarded a Russian-flagged tanker and a second ship, President Trump had a phone call with President Gustavo Petro of Colombia amid escalating tensions between the two leaders.",
-    "ingested_utc": "2026-01-08T01:01:31Z"
-  },
-  {
-    "published_utc": "2026-01-08",
-    "retrieved_date": "2026-01-08",
-    "retrieved_utc": "2026-01-08T00:59:23Z",
-    "source": "Guardian_World",
-    "title": "Democrats slam Trump’s justification for immigration agent killing woman during ICE raid and call for investigation – live",
-    "url": "https://www.theguardian.com/us-news/live/2026/jan/07/donald-trump-venezuela-greenland-oil-childcare-us-politics-live",
-    "id_key": "d78e5aa886b1a27ef77314f11e764fd9233f85f411d960544eb5ea100d7b8556",
-    "summary": "Victim identified by local newspaper; Minnesota governor Tim Walz denounces Trump’s ‘propaganda machine’ as president blames victim for fatal shooting Woman fatally shot by ICE agent during raid, video shows Miranda Bryant , the Guardian’s Nordic correspondent, also has written this handy explainer on why Donald Trump is renewing calls for a takeover of Greenland : Continue reading...",
-    "ingested_utc": "2026-01-08T00:59:23Z"
   }
 ]
