@@ -2,6 +2,61 @@
   {
     "published_utc": "2026-01-09",
     "retrieved_date": "2026-01-09",
+    "retrieved_utc": "2026-01-09T09:22:51Z",
+    "source": "Nikkei_Asia_Top",
+    "title": "Alibaba-backed AI startup MiniMax jumps in Hong Kong IPO, raises $618m",
+    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/alibaba-backed-ai-startup-minimax-jumps-in-hong-kong-ipo-raises-618m",
+    "id_key": "60b0abedcb4d3a2a5543a88ea5e81ac07026222e193610d2e28b0bea0000ebde",
+    "summary": "",
+    "ingested_utc": "2026-01-09T09:22:51Z"
+  },
+  {
+    "published_utc": "2026-01-09",
+    "retrieved_date": "2026-01-09",
+    "retrieved_utc": "2026-01-09T09:22:49Z",
+    "source": "FinancialPost_Business",
+    "title": "The past and potential of Venezuela’s oil sector, and what it means for Canada",
+    "url": "https://financialpost.com/pmn/the-past-and-potential-of-venezuelas-oil-sector-and-what-it-means-for-canada",
+    "id_key": "767abccab8c27fafb31198ba58cc36aff4be4f4c61d9a449a179e2aae50d42ae",
+    "summary": "CALGARY — U.S. President Donald Trump’s ambition to have U.S. energy companies swoop in and revive Venezuela’s beleaguered oil industry has raised questions about what it means for Canadian oilsands producers and whether it’s a task American supermajors can or even want to take on. Here is a rundown of the past and potential of […]",
+    "ingested_utc": "2026-01-09T09:22:49Z"
+  },
+  {
+    "published_utc": "2026-01-09",
+    "retrieved_date": "2026-01-09",
+    "retrieved_utc": "2026-01-09T09:22:09Z",
+    "source": "FT_Home",
+    "title": "Russia uses hypersonic missile against Ukraine",
+    "url": "https://www.ft.com/content/9debbc78-ac09-4415-a6f5-471fdf194062",
+    "id_key": "e07f43a04b9dd5a906df3deb4ef3b1c75c061af6f17353a27f9c18100f0a053d",
+    "summary": "Kyiv confirms projectile flying up to 13,000km an hour hit infrastructure near western city of Lviv",
+    "ingested_utc": "2026-01-09T09:22:09Z"
+  },
+  {
+    "published_utc": "2026-01-09",
+    "retrieved_date": "2026-01-09",
+    "retrieved_utc": "2026-01-09T09:20:15Z",
+    "source": "CoinJournal",
+    "title": "Truebit protocol hack exposes DeFi security risks as TRU token collapses",
+    "url": "https://coinjournal.net/news/truebit-protocol-hack-exposes-defi-security-risks-as-tru-token-collapses/",
+    "id_key": "6a6608ca1b2560e764a26b86c75963fe7cc3605f54c5b83f461866a4ebda626a",
+    "summary": "The TRU token collapsed from $0.1659 to near zero, wiping out market value. Liquidity on decentralised exchanges dried up following the exploit. The attacker wallet was linked to a Sparkle protocol attack 12 days earlier. A serious security breach at Truebit Protocol has triggered one of the sharpest collapses seen in decentralised finance this year. […] The post Truebit protocol hack exposes DeFi security risks as TRU token collapses appeared first on CoinJournal .",
+    "ingested_utc": "2026-01-09T09:20:15Z"
+  },
+  {
+    "published_utc": "2026-01-09",
+    "retrieved_date": "2026-01-09",
+    "retrieved_utc": "2026-01-09T09:19:49Z",
+    "source": "Guardian_World",
+    "title": "Russia fires hypersonic Oreshnik missile at Ukraine in massive attack",
+    "url": "https://www.theguardian.com/world/2026/jan/09/russia-ukraine-hypersonic-oreshnik-missile-attack",
+    "id_key": "7227a546f38d40311145d8636535de584a2242c021b4c6cb58436d179212e1d9",
+    "summary": "Kyiv dismisses as ‘absurd’ Moscow’s attempt to portray missile launch as retaliation for supposed attempted drone strike on Putin residence Europe live – latest updates Russia’s military has said it fired its new hypersonic Oreshnik missile at a target in Ukraine during a massive overnight strike. Ukraine confirmed the attack, saying it took place in the west of the country near the European Union border. Moscow said the launch of the intermediate-range ballistic missile was retaliation for a supposed attempted Ukrainian drone attack on Vladimir Putin’s residence late last month – an allegation both Kyiv and Washington have said is false. Continue reading...",
+    "ingested_utc": "2026-01-09T09:19:49Z"
+  },
+  {
+    "published_utc": "2026-01-09",
+    "retrieved_date": "2026-01-09",
     "retrieved_utc": "2026-01-09T08:54:59Z",
     "source": "FinancialPost_Business",
     "title": "More diplomatic and economic tensions surface between China, Japan as a bumpy week ends",
@@ -10943,60 +10998,5 @@
     "id_key": "71bebd3282960f72132620f8864f84aec07167ab1a410b81cf6472b5cfbfb08e",
     "summary": "Bitcoin Magazine Dow Jones to Add Polymarket Prediction Data Across WSJ, Barron’s Platforms Dow Jones will integrate Polymarket’s real-time prediction market data across its major financial news platforms. This post Dow Jones to Add Polymarket Prediction Data Across WSJ, Barron’s Platforms first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
     "ingested_utc": "2026-01-07T17:48:38Z"
-  },
-  {
-    "published_utc": "2026-01-07",
-    "retrieved_date": "2026-01-07",
-    "retrieved_utc": "2026-01-07T17:48:22Z",
-    "source": "Guardian_World",
-    "title": "‘How is it possible?’: Berliners demand answers after sabotage causes blackout",
-    "url": "https://www.theguardian.com/world/2026/jan/07/how-is-it-possible-berliners-demand-answers-after-sabotage-causes-blackout",
-    "id_key": "2f38cc36c06521579ada39d5bbdee5372154c7accade7186e6217f4f22bcadc0",
-    "summary": "Arson attack that left parts of German capital in darkness for days stirs outrage over infrastructure insecurity Europe live – latest updates When Silke Peters bought a crank radio and a camping stove just after the start of Russia’s full invasion of Ukraine, her husband thought she was “a little crazy”. “He put me down, only half-jokingly, as a prepper,” she said, referring to the kind of person who stockpiles in case of catastrophe. For almost four years, the items gathered dust in the cellar of the Peters’ two-room flat in Zehlendorf, a well-to-do district of Berlin. But in recent days the windup radio – with its inbuilt torch and charge point – has come into its own during Germany’s longest power cut since the second world war. Continue reading...",
-    "ingested_utc": "2026-01-07T17:48:22Z"
-  },
-  {
-    "published_utc": "2026-01-07",
-    "retrieved_date": "2026-01-07",
-    "retrieved_utc": "2026-01-07T17:48:22Z",
-    "source": "Guardian_World",
-    "title": "Starmer vows to review franchise legislation in response to Vodafone case",
-    "url": "https://www.theguardian.com/business/2026/jan/07/starmer-vows-to-review-franchise-legislation-in-response-to-vodafone-case",
-    "id_key": "01b1b91d396ba415b6806c0ca4c86a9312acdba6dd308de2fe0b461286f12e19",
-    "summary": "Prime minister to ‘look closely’ at legal claims against FTSE 100 telecoms group The prime minister has promised to review laws governing franchising agreements, in response to the case of a former Vodafone store manager whose family alleges took his own life following pressure from the FTSE 100 telecoms group. Keir Starmer said in the Commons on Wednesday that he would “look closely” at the outcome of a high-profile legal claim against Vodafone. Continue reading...",
-    "ingested_utc": "2026-01-07T17:48:22Z"
-  },
-  {
-    "published_utc": "2026-01-07",
-    "retrieved_date": "2026-01-07",
-    "retrieved_utc": "2026-01-07T17:48:22Z",
-    "source": "Guardian_World",
-    "title": "US abandons child exploitation and drug cases to prioritize ICE, Democrats allege",
-    "url": "https://www.theguardian.com/us-news/2026/jan/06/ice-trump-democrats-letter",
-    "id_key": "a54ce2f195190c41daed36aa3edb9094d7e92dbf782e1c4777877710dc0e233c",
-    "summary": "Exclusive: Letter decries ‘stunning abdication of basic responsibilities’ and demands to know how many officers diverted The Trump administration has abandoned efforts to combat child exploitation, human trafficking and cartels as it diverts thousands of law enforcement personnel to Immigration and Customs Enforcement (ICE) , Democratic senators said in a letter to the White House. Ruben Gallego of Arizona, along with 28 other Democratic senators and one independent, wrote to the president, the Department of Homeland Security (DHS) and the Department of Justice (DoJ) on Monday demanding that federal officials provide a “full accounting” of officers who have been redirected to immigration enforcement and a list of all investigations affected by the reassignments. Continue reading...",
-    "ingested_utc": "2026-01-07T17:48:22Z"
-  },
-  {
-    "published_utc": "2026-01-07",
-    "retrieved_date": "2026-01-07",
-    "retrieved_utc": "2026-01-07T17:48:22Z",
-    "source": "Guardian_World",
-    "title": "Shooting reported amid federal immigration crackdown in Minneapolis",
-    "url": "https://www.theguardian.com/us-news/2026/jan/07/minneapolis-shooting-immigration-crackdown",
-    "id_key": "8a557560b1d9ec62c446553c52e6cad2569e67414ec1e8d75dd20a664931bd61",
-    "summary": "Authorities respond as federal officers launch major operation targeting Somali residents Authorities reported a shooting Wednesday involving federal agents in Minneapolis, where immigration enforcement has been conducting a major crackdown. Live video posted online showed a large presence of federal officers, local officers, yellow police tape and cars that had been in a crash. Commander Gregory Bovino, of US Customs and Border Protection was in the group. Continue reading...",
-    "ingested_utc": "2026-01-07T17:48:22Z"
-  },
-  {
-    "published_utc": "2026-01-07",
-    "retrieved_date": "2026-01-07",
-    "retrieved_utc": "2026-01-07T17:48:20Z",
-    "source": "BBC_Business",
-    "title": "US will control Venezuela oil sales 'indefinitely', official says",
-    "url": "https://www.bbc.com/news/articles/ckgn7p7g79wo?at_medium=RSS&at_campaign=rss",
-    "id_key": "53fab143ee2f20473810ffede69138edb37f4458575269782af619c33d0c4da9",
-    "summary": "Officials say sales were expected to start with 30 million to 50 million barrels of oil and the revenue would be controlled by the US government.",
-    "ingested_utc": "2026-01-07T17:48:20Z"
   }
 ]
