@@ -2,6 +2,116 @@
   {
     "published_utc": "2026-01-09",
     "retrieved_date": "2026-01-09",
+    "retrieved_utc": "2026-01-09T21:36:37Z",
+    "source": "FinancialPost_Business",
+    "title": "Royal Gold Presenting at the 29th Annual CIBC Western Institutional Investor Conference",
+    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/royal-gold-presenting-at-the-29th-annual-cibc-western-institutional-investor-conference",
+    "id_key": "3bdd470da83bcc2c9de41aed6f74cdc1e1f828f9ab0a3044f31ca52c77227597",
+    "summary": "DENVER — Royal Gold, Inc. (NASDAQ: RGLD) (together with its subsidiaries, “Royal Gold” or the “Company”) announced today that management will present at the 29th Annual CIBC Western Institutional Investor Conference. Bill Heissenbuttel, President and Chief Executive Officer, will participate in a royalty panel discussion on Wednesday, January 21, from 8:00 a.m. to 9:05 a.m. […]",
+    "ingested_utc": "2026-01-09T21:36:37Z"
+  },
+  {
+    "published_utc": "2026-01-09",
+    "retrieved_date": "2026-01-09",
+    "retrieved_utc": "2026-01-09T21:36:30Z",
+    "source": "AlJazeera_All",
+    "title": "LIVE: Cameroon vs Morocco 0-2 – AFCON 2025 quarterfinal",
+    "url": "https://www.aljazeera.com/sports/liveblog/2026/1/9/live-cameroon-vs-morocco-2025-afcon-quarterfinal?traffic_source=rss",
+    "id_key": "72b23937c1f16657eb98dd001dc46f5673539e3327eccf4371ca755639436e2c",
+    "summary": "All the updates, including post-match reaction and interviews, following our full text commentary stream.",
+    "ingested_utc": "2026-01-09T21:36:30Z"
+  },
+  {
+    "published_utc": "2026-01-09",
+    "retrieved_date": "2026-01-09",
+    "retrieved_utc": "2026-01-09T21:36:20Z",
+    "source": "Engadget_All",
+    "title": "Amazon is apparently planning a big box store in the Chicago suburbs",
+    "url": "https://www.engadget.com/big-tech/amazon-is-apparently-planning-a-big-box-store-in-the-chicago-suburbs-213451978.html?src=rss",
+    "id_key": "32aab86a35460c89f1ca7ada8f7bde6e834997aa107a266d1cb280976e0f68af",
+    "summary": "Amazon is making a return, of sorts, to physical retail via plans to build a big-box retail store in the Chicago suburbs, The Information reports . The 225,000-square foot retail space will open in Orland Park, Illinois, and give the company the opportunity to sell more than just groceries after it closed most of its physical bookstores and gift shops in 2022. The new store will offer in-store shopping, but also act as a fulfillment center for online orders, which could make it similar to competitors like Target and Walmart, and some of Amazon's existing Whole Foods and Amazon Fresh locations. \"The proposed development will offer a wide selection of products, including groceries and general merchandise, with accessory services and potentially dining locations for prepared food sold onsite,\" Amazon wrote in a planning document The Information viewed. While best known as an online marketplace, Amazon has made multiple attempts to have a physical retail presence. Amazon Books sold books based on what was trending on the company's website, Amazon 4-star sold a variety of products that were rated four or more stars in Amazon reviews and the company's Amazon Go stores sold pre-made food and select groceries via its cashier-less \"Just Walk Out\" technology. Amazon has abandoned basically all those experiments in favor of sticking with the grocery brand it bought in 2017 , Whole Foods, and the new one it’s formed in the years since, Amazon Fresh. This new store could be an entirely new concept, or an evolution of Amazon Fresh, but whatever it is, it'll have to be approved by the Orland Park Village Board to move forward, according to the Chicago Tribune . This article originally appeared on Engadget at https://www.engadget.com/big-tech/amazon-is-apparently-planning-a-big-box-store-in-the-chicago-suburbs-213451978.html?src=rss",
+    "ingested_utc": "2026-01-09T21:36:20Z"
+  },
+  {
+    "published_utc": "2026-01-09",
+    "retrieved_date": "2026-01-09",
+    "retrieved_utc": "2026-01-09T21:36:16Z",
+    "source": "TheVerge_All",
+    "title": "Tim Cook and Sundar Pichai are cowards",
+    "url": "https://www.theverge.com/policy/859902/apple-google-run-by-cowards",
+    "id_key": "161cbe0aa5e66ec75502600a66634aa3a22f1f31e12feeda802b2d9bf7edfc64",
+    "summary": "Since X's users started using Grok to undress women and children using deepfake images, I have been waiting for what I assumed would be inevitable: X getting booted from Apple's and Google's app stores. The fact that it hasn't happened yet tells me something serious about Silicon Valley's leadership: Tim Cook and Sundar Pichai are […]",
+    "ingested_utc": "2026-01-09T21:36:16Z"
+  },
+  {
+    "published_utc": "2026-01-09",
+    "retrieved_date": "2026-01-09",
+    "retrieved_utc": "2026-01-09T21:35:00Z",
+    "source": "Optimism_Releases",
+    "title": "op-proposer/v1.10.2",
+    "url": "https://github.com/ethereum-optimism/optimism/releases/tag/op-proposer%2Fv1.10.2",
+    "id_key": "725e76dd5bf5f604035dc0a8eda04433b7a6fbf845d58f146c8ce5f6b039248c",
+    "summary": "Overview This is a minor release of op-proposer that includes important bug fixes. It is a required upgrade for all users. What's Changed Preparation for a future interop release RPC metrics are now enabled by default Full commit list --- Changes since last tag (op-proposer/v1.10.2-rc.1) --- 2 commits since op-proposer/v1.10.2-rc.1: 752feafbe7 proofs: Add provable output roots to super DGs (#18605) 78350cae70 op-challenger: Remove TraceType and just use GameType. (#18433) --- Changes since last finalized release (op-proposer/v1.10.0) --- 14 commits since op-proposer/v1.10.0: 752feafbe7 proofs: Add provable output roots to super DGs (#18605) 78350cae70 op-challenger: Remove TraceType and just use GameType. (#18433) 0cad90f96d Move Proposed Sequence Number into Prometheus Factory (#16771) 56b21f7e42 Dispute-mon uses lazy dial, and add new `DialSupervisorClientWithTimeout()` (#16911) adf4bbb06d Remove timeout parameter from dial functions (#16864) b6635e750f op-proposer: clarify documentation for `poll-interval` (#15717) 3459e84184 op-proposer: edge case when L1 view not updated (#15340) b947903ff8 chore: Remove completed todos (#15254) 83b1ffc37f go: RPC metrics by default (#15127) f21f368f30 op-service: aggregate RPC API interfaces (#15071) d5cb9a202a devnet-sdk: Go in-process backend (#14915) 9653cff95b op-supervisor: Add RPC metrics (#14841) cb704c1dc6 Use SuperFaultDisputeGame ABI in more tests (#14867) 7cab3e79be Add ToSuper() method to convert super reponse to Super instance. (#14670) Full Changelog : op-proposer/v1.10.0...op-proposer/v1.10.2 🚢 Docker Image: https://us-docker.pkg.dev/oplabs-tools-artifacts/images/op-proposer:v1.10.2",
+    "ingested_utc": "2026-01-09T21:35:00Z"
+  },
+  {
+    "published_utc": "2026-01-09",
+    "retrieved_date": "2026-01-09",
+    "retrieved_utc": "2026-01-09T21:35:00Z",
+    "source": "Optimism_Releases",
+    "title": "op-dispute-mon/v1.4.2",
+    "url": "https://github.com/ethereum-optimism/optimism/releases/tag/op-dispute-mon%2Fv1.4.2",
+    "id_key": "a965923ac0dc122ea1816244311e1bdb0cd820b582705c86597dbf70645b8e07",
+    "summary": "Overview This release of op-dispute-mon includes support for Upgrade 18, plus minor bug fixes and improvements. It is a required upgrade for all users. What's Changed Support for cannon-kona games Remove asterisc support Add support for using multiple rollup nodes for redundancy --rollup-rpc takes a comma-separated list of nodes. New metrics for node disagreement Now considers a node invalid if it has not processed L1 past the game head Log RPC URLs on startup Preparation for a future interop release Preparation for a future ZK proofs release Full commit list --- Changes since last tag (op-dispute-mon/v1.4.2-rc.6) --- 2 commits since op-dispute-mon/v1.4.2-rc.6: 3bd9f08dfd op-dispute-mon: Use supernode instead of supervisor. (#18711) 1294a28790 op-challenger/op-dispute-mon: Remove asterisc support (#18670) --- Changes since last finalized release (op-dispute-mon/v1.4.1) --- 19 commits since op-dispute-mon/v1.4.1: 3bd9f08dfd op-dispute-mon: Use supernode instead of supervisor. (#18711) 1294a28790 op-challenger/op-dispute-mon: Remove asterisc support (#18670) fcd09d5a73 op-dispute-mon: Update list of output root game types (#18469) 0eff436031 op-challenger: Move GameType to the game/type package instead of game/fault/type (#18432) ec2875f7c2 op-challenger: Update list-games sub command to support optimistic zk games (#18393) c14d6a1fe3 op-dispute-mon: Rename L2BlockNumber to L2SequenceNumber (#18278) 284f9aa67d dispute-mon: new metric to track out-of-sync node endpoints (#18105) ffd02b0815 op-dispute-mon: node endpoint error metrics (#17622) 690a1a6ee0 dispute-mon: log RPC URLs on startup (#17986) a3f8850983 op-challenger: Support retrieving the oracle and prestate via game args. (#17958) 4554c9fb14 op-dispute-mon: Consider node invalid if it has not processed L1 past the game head (#17831) 0c68e87b7e op-dispute-mon: distinguish 404 from output root not found (#17819) 06799ecb0c op-dispute-mon: Support cannon-kona games (#17380) 56b21f7e42 Dispute-mon uses lazy dial, and add new `DialSupervisorClientWithTimeout()` (#16911) adf4bbb06d Remove timeout parameter from dial functions (#16864) 14e9bac691 dispute-mon uses multiple supervisor nodes (#16517) 904568fcc3 dispute-mon: remove lazy dial option (#16720) c2c4e23e0e op-dispute-mon: Fix racy test (#16697) d5e9f8830b Dispute-mon checks output roots against multiple rollup nodes (#16490) Full Changelog : op-dispute-mon/v1.4.1...op-dispute-mon/v1.4.2 🚢 Docker Image: https://us-docker.pkg.dev/oplabs-tools-artifacts/images/op-dispute-mon:v1.4.2",
+    "ingested_utc": "2026-01-09T21:35:00Z"
+  },
+  {
+    "published_utc": "2026-01-09",
+    "retrieved_date": "2026-01-09",
+    "retrieved_utc": "2026-01-09T21:33:49Z",
+    "source": "Unchained",
+    "title": "6 Ways to Make Money in Prediction Markets in 2026",
+    "url": "https://unchainedcrypto.com/6-easy-ways-to-make-money-in-prediction-markets-in-2026/",
+    "id_key": "dfb82daf2ae905a03635b1bbc78094f0b798807e92d37712dbd3a34fcc686074",
+    "summary": "Prediction markets are finally big enough to matter and still inefficient enough to exploit. That combination does not last very long. Retail participation is accelerating. Platforms such as Polymarket and Kalshi are raising billions at unicorn-level valuations. Volumes are sticking, even when crypto cools off. And most users still treat ... The post 6 Ways to Make Money in Prediction Markets in 2026 appeared first on Unchained .",
+    "ingested_utc": "2026-01-09T21:33:49Z"
+  },
+  {
+    "published_utc": "2026-01-09",
+    "retrieved_date": "2026-01-09",
+    "retrieved_utc": "2026-01-09T21:33:21Z",
+    "source": "Guardian_World",
+    "title": "Australia heatwave live updates: Victoria declares state of disaster in multiple areas as bushfires rage; temperatures to reach 43C in Sydney",
+    "url": "https://www.theguardian.com/australia-news/live/2026/jan/10/australia-heatwave-updates-sydney-temperature-victorian-fires-bushfire-latest",
+    "id_key": "a3654885ee4dc815c7c9816f686b9c1c951157dd4669f878c87c4b24647d4e54",
+    "summary": "Total fire ban in place for whole of Victoria fires burn while Sydney prepares for the brunt of the heatwave Victorian premier Jacinta Allan has declared a state of disaster in 18 local government areas as the state battles an escalating bushfire crisis that has destroyed at least 10 homes, prompted evacuations and razed more than 50,000 hectares of bushland, Australian Associated Press reports. She said the declaration overnight was in response to danger to life or property in the affected areas and “sends a clear message to those who have been advised to leave: if you can, you must”. Tonight, I declared a State of Disaster, which gives our authorities additional powers to confront an emergency of extraordinary scale and danger. It’s all about one thing: protecting Victorian lives. And it sends one clear message: if you have been told to leave - go. Continue reading...",
+    "ingested_utc": "2026-01-09T21:33:21Z"
+  },
+  {
+    "published_utc": "2026-01-09",
+    "retrieved_date": "2026-01-09",
+    "retrieved_utc": "2026-01-09T21:33:21Z",
+    "source": "Guardian_World",
+    "title": "Zarah Sultana’s Your Party membership launch may be ‘criminal’ matter for police, ICO says",
+    "url": "https://www.theguardian.com/politics/2026/jan/09/zarah-sultana-your-party-unauthorised-membership-portal-launch-may-have-been-serious-criminal-act",
+    "id_key": "e3c30c0d60aaf08018849632a1a58aae59999a286036f93ad41d6b232b1a9a2c",
+    "summary": "Information watchdog says party’s data controller should consider ‘taking further action’ over unauthorised portal Zarah Sultana’s unauthorised launch of a Your Party membership portal may have been “serious criminal activity” and should be referred to the police, the Information Commissioner’s Office (ICO) has advised. Jeremy Corbyn’s Peace and Justice Project (PJP), which referred Your Party to the information watchdog last September over a potential data breach, has been advised by the ICO that it should consider “taking further action” regarding the matter, after deciding it was not a matter for them. Continue reading...",
+    "ingested_utc": "2026-01-09T21:33:21Z"
+  },
+  {
+    "published_utc": "2026-01-09",
+    "retrieved_date": "2026-01-09",
+    "retrieved_utc": "2026-01-09T21:33:17Z",
+    "source": "BBC_World",
+    "title": "Video emerges of Minneapolis shooting filmed by ICE agent who opened fire",
+    "url": "https://www.bbc.com/news/articles/cz7yv4524gqo?at_medium=RSS&at_campaign=rss",
+    "id_key": "cc1eb4d36e0d8f3d97c784ac14aa9315827fac598240ef2fcfef961722bcf850",
+    "summary": "The clip shows the chaotic moments before gunfire rang out on a Minneapolis street.",
+    "ingested_utc": "2026-01-09T21:33:17Z"
+  },
+  {
+    "published_utc": "2026-01-09",
+    "retrieved_date": "2026-01-09",
     "retrieved_utc": "2026-01-09T21:16:10Z",
     "source": "FinancialPost_Business",
     "title": "Early Warning Filing by The Edna Gareh Spousal Trust",
@@ -10888,115 +10998,5 @@
     "id_key": "36f33b47b6b258ccfdf2aaf6104f610d4e1b3b647ca0c940e8351f7a1bb9f003",
     "summary": "Comments",
     "ingested_utc": "2026-01-08T07:21:33Z"
-  },
-  {
-    "published_utc": "2026-01-08",
-    "retrieved_date": "2026-01-08",
-    "retrieved_utc": "2026-01-08T07:21:23Z",
-    "source": "FinancialPost_Business",
-    "title": "Gold Production for YE 2025 and Award of Impact Benefit Agreement (“IBA”)",
-    "url": "https://financialpost.com/globe-newswire/gold-production-for-ye-2025-and-award-of-impact-benefit-agreement-iba",
-    "id_key": "d3491a64ad41388b9d888c778cf3fd6635dad9d22a83c6b36dcd1b0593d2e7b2",
-    "summary": "Reykjavík, Jan. 08, 2026 (GLOBE NEWSWIRE) — Gold Production for YE 2025 of ~6.6koz1 above the mid-point of the annual 6-7koz guidance range And Award of Impact Benefit Agreement (“IBA”) TORONTO, ONTARIO – 8 January 2026 – Amaroq Ltd. (AIM, TSX-V, NASDAQ Iceland: AMRQ, OTCQX: AMRQF), an independent mine development corporation focused on unlocking Greenland’s […]",
-    "ingested_utc": "2026-01-08T07:21:23Z"
-  },
-  {
-    "published_utc": "2026-01-08",
-    "retrieved_date": "2026-01-08",
-    "retrieved_utc": "2026-01-08T07:21:23Z",
-    "source": "FinancialPost_Business",
-    "title": "Natus Sensory Appoints Arne Boye Nielsen to Board of Directors",
-    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/natus-sensory-appoints-arne-boye-nielsen-to-board-of-directors",
-    "id_key": "514f80f149c8c07f79dee12a7668dd54441d8f9ed63a66bc6d0ab82ef6b1574e",
-    "summary": "SCHAUMBURG, Ill. — Natus Sensory, a global leader in sensory and diagnostic solutions, today announced the appointment of Arne Boye Nielsen to its Board of Directors, effective January 1, 2026. Arne brings more than 30 years of executive leadership experience in diagnostics and medical technology, most notably as President of Demant Diagnostics, where he built […]",
-    "ingested_utc": "2026-01-08T07:21:23Z"
-  },
-  {
-    "published_utc": "2026-01-08",
-    "retrieved_date": "2026-01-08",
-    "retrieved_utc": "2026-01-08T07:21:08Z",
-    "source": "Engadget_All",
-    "title": "Anker unveils a new lineup of chargers, docks and accessories at CES 2026",
-    "url": "https://www.engadget.com/computing/accessories/anker-unveils-a-new-lineup-of-chargers-docks-and-accessories-at-ces-2026-160021025.html?src=rss",
-    "id_key": "010423f39ca03bd5581039ff16c7d7b8428411bafc65bbbba519e20a8e4e8223",
-    "summary": "Anker dove into CES 2026 with a slew of announcements that bring new chargers and accessories under its umbrella. The new accessories include improved visual interfaces, faster Qi2 wireless charging and “upgraded ecosystems” that support the latest iPhones. Some of the latest devices are even available to buy right now. First up is the Anker Nano Charger with smart display, which features a tiny screen, 180-degree foldable prongs and provides up to 45W of power. The plug can identify the exact iPhone model connected and then deliver the right amount of power for your phone. Anker says the Nano uses three-stage power delivery and a \"Care Mode\" that the company claims keeps batteries cooler than some competing 45W chargers. It arrives in late January 2026 and will retail for $40. For fans of wireless charging stations, the Anker Prime Wireless Charging Station offers a 3-in-1 solution for iPhone, Apple Watch and AirPods. It uses a \"AirCool\" system for \"faster, safer performance\" and offers up to 25W of Qi2 wireless power. The design is also foldable for compact travel. It's set for release in Q1 2026 and will retail for $150. The company debuted a clamp-on 10-in-1 Nano Power Strip with 70W of output and built-in surge protection. It sports two USB-C ports, two USB-A ports and six AC outlets. The Nano Power Strip is getting a late January release, and it will sell for $70. Anker also unveiled a 13-in-1 Nano Docking Station. This serves as an all-in-one hub with support for up to three displays (with 4K resolution supported on a single display), up to 100W of upstream charging and 10 Gbps of data transfer between connected devices. It also features a removable 6-in-1 hub with SD and microSD card readers, a USB-A port and a 5 Gbps USB-C port. The Nano Docking Station is available now and retails for $150. This article originally appeared on Engadget at https://www.engadget.com/computing/accessories/anker-unveils-a-new-lineup-of-chargers-docks-and-accessories-at-ces-2026-160021025.html?src=rss",
-    "ingested_utc": "2026-01-08T07:21:08Z"
-  },
-  {
-    "published_utc": "2026-01-08",
-    "retrieved_date": "2026-01-08",
-    "retrieved_utc": "2026-01-08T07:18:30Z",
-    "source": "Guardian_World",
-    "title": "Guardian readers raise more than £850,000 as charity appeal enters final days",
-    "url": "https://www.theguardian.com/society/2026/jan/08/guardian-readers-charity-appeal-media",
-    "id_key": "15b7e1496a29cbe91d28849c3cc9aa107e95a1f4b26127bc87ba51d30ef2f957",
-    "summary": "The Hope appeal aims to reach milestone of £1m for grassroots organisations tackling extremism and hatred Donate to the Guardian charity appeal 2025 here The Guardian’s Hope appeal has so far raised more than £850,000 thanks to generous readers’ continuing support for our five inspirational charity partners, whose work aims to tackle division, racism and hatred. The 2025 Guardian appeal is raising funds for five charities : Citizens UK, the Linking Network, Locality, Hope Unlimited Charitable Trust and Who is Your Neighbour?. Continue reading...",
-    "ingested_utc": "2026-01-08T07:18:30Z"
-  },
-  {
-    "published_utc": "2026-01-08",
-    "retrieved_date": "2026-01-08",
-    "retrieved_utc": "2026-01-08T06:58:29Z",
-    "source": "AlJazeera_All",
-    "title": "Lebanon’s mission to complete disarmament plan of Hezbollah",
-    "url": "https://www.aljazeera.com/news/2026/1/8/lebanons-mission-to-complete-disarmament-plan-of-hezbollah?traffic_source=rss",
-    "id_key": "ef3a8026043e7547a1333a7746e550e8b62babb6d377a58c9f292798c1a406b0",
-    "summary": "Army commander to brief government on the progress of the mission to disarm Hezbollah.",
-    "ingested_utc": "2026-01-08T06:58:29Z"
-  },
-  {
-    "published_utc": "2026-01-08",
-    "retrieved_date": "2026-01-08",
-    "retrieved_utc": "2026-01-08T06:58:17Z",
-    "source": "TechCrunch_All",
-    "title": "JPMorgan Chase becomes the new issuer of the Apple Card",
-    "url": "https://techcrunch.com/2026/01/07/jpmorgan-chase-becomes-the-new-issuer-of-the-apple-card/",
-    "id_key": "56db74035bbc28dceb65af72d95439e296091514fcaeed5de358cd737ff7328a",
-    "summary": "Apple expects the transition to take 24 months",
-    "ingested_utc": "2026-01-08T06:58:17Z"
-  },
-  {
-    "published_utc": "2026-01-08",
-    "retrieved_date": "2026-01-08",
-    "retrieved_utc": "2026-01-08T06:57:49Z",
-    "source": "FT_Home",
-    "title": "US oil groups warn they will need guarantees to invest in Venezuela",
-    "url": "https://www.ft.com/content/84e05c24-ca30-416d-9f7e-1798a28f29c3",
-    "id_key": "61122f803c4414d6e0bff35a4275155735ad32a49b77bc04106fe510053ff00b",
-    "summary": "Donald Trump to hold more talks with industry bosses as president flexes power over energy markets",
-    "ingested_utc": "2026-01-08T06:57:49Z"
-  },
-  {
-    "published_utc": "2026-01-08",
-    "retrieved_date": "2026-01-08",
-    "retrieved_utc": "2026-01-08T06:55:54Z",
-    "source": "CryptoNews",
-    "title": "Vietnam Sets Mid-January Timeline For Pilot Crypto Exchange Approvals",
-    "url": "https://cryptonews.com/news/vietnam-sets-mid-january-crypto-exchange-pilot-deadline/",
-    "id_key": "913131065d631596b0e9eab619aa451da2e30e8e84d4be4fdf6f1aac9ad8d65b",
-    "summary": "Vietnam ordered regulators to license pilot digital asset exchanges by Jan. 15 as part of a sandbox to test crypto markets under tighter oversight. The post Vietnam Sets Mid-January Timeline For Pilot Crypto Exchange Approvals appeared first on Cryptonews .",
-    "ingested_utc": "2026-01-08T06:55:54Z"
-  },
-  {
-    "published_utc": "2026-01-08",
-    "retrieved_date": "2026-01-08",
-    "retrieved_utc": "2026-01-08T06:55:32Z",
-    "source": "Guardian_World",
-    "title": "Australia news live: Albanese says Labor has been working on royal commission logistics ‘for weeks’ after criticism over not calling it earlier",
-    "url": "https://www.theguardian.com/australia-news/live/2026/jan/08/australia-news-live-bluescope-stokes-extreme-weather-heatwave-bushfire-bondi-royal-commission-anthony-albanese-antisemitism-ntwnfb",
-    "id_key": "c4b47459dc3b7dbd64f2f0ff1118e4b28eb4e97e1dc195d25326763df93dfc58",
-    "summary": "Follow today’s news live PM announces federal royal commission into antisemitism in wake of Bondi beach attack Get our breaking news email , free app or daily news podcast Adelaide – a high of 39C Canberra – a high of 38C Sydney – a high of 33C Darwin – a high of 32C Melbourne – a high of 31C Brisbane – a high of 29C Perth – a high of 28C Hobart – a high of 25C The NSW government says it has reduced funding uncertainty for domestic and sexual violence support, homelessness services and family programs, through an end to short-term contracts for the community services sector. We’re giving more security to local community organisations so they can focus on what they do best – supporting the children, families and communities who need them the most. Continue reading...",
-    "ingested_utc": "2026-01-08T06:55:32Z"
-  },
-  {
-    "published_utc": "2026-01-08",
-    "retrieved_date": "2026-01-08",
-    "retrieved_utc": "2026-01-08T06:55:32Z",
-    "source": "Guardian_World",
-    "title": "Adelaide festival dumps prominent academic Randa Abdel-Fattah over ‘cultural sensitivity’ concerns after Bondi attack",
-    "url": "https://www.theguardian.com/australia-news/2026/jan/08/adelaide-writers-week-dumps-prominent-academic-randa-abdel-fattah-over-cultural-sensitivity-concerns-after-bondi-attack-ntwnfb",
-    "id_key": "f051cee1e07ad280af2fe699745270595cd8b91aaf6700cace8c60a5a820844e",
-    "summary": "Abdel-Fattah accuses the board of ‘blatant and shameless’ anti-Palestinian racism and censorship, as other authors pull out in solidarity Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The Adelaide festival has removed prominent academic and Palestine advocate Randa Abdel-Fattah from its lineup citing concerns over “cultural sensitivity” following a review undertaken in the wake of the Bondi alleged terrorist attack. The festival covers arts, music, talks and theatre and includes Adelaide’s annual Writers’ Week next month, where Abdel-Fattah was due to appear for the second time after hosting a number of panels and sessions in 2023. Continue reading...",
-    "ingested_utc": "2026-01-08T06:55:32Z"
   }
 ]
