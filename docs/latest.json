@@ -695,6 +695,17 @@
   {
     "published_utc": "2026-01-09",
     "retrieved_date": "2026-01-10",
+    "retrieved_utc": "2026-01-10T09:49:29Z",
+    "source": "CryptoSlate",
+    "title": "Chains spent $880M+ last year buying back their own tokens – one number now decides if it works",
+    "url": "https://cryptoslate.com/token-buybacks-spent-880m-last-year-but-prices-stalled-anyway-one-number-now-decides-if-they-work/",
+    "id_key": "3fb2490137211e751493964156fd72a764f2f85d71d6ba9d4e6d8ba5d082edd3",
+    "summary": "Optimism announced a 12-month token buyback program on Jan. 8, allocating 50% of Superchain revenue to monthly OP token purchases starting in February. The buyback pressure is estimated at roughly $9.1 million annually, based on the past year's 5,868 ETH in collected fees. The proposal frames the shift as a transition from pure governance token […] The post Chains spent $880M+ last year buying back their own tokens – one number now decides if it works appeared first on CryptoSlate .",
+    "ingested_utc": "2026-01-10T09:49:29Z"
+  },
+  {
+    "published_utc": "2026-01-09",
+    "retrieved_date": "2026-01-10",
     "retrieved_utc": "2026-01-10T07:33:37Z",
     "source": "FT_Home",
     "title": "How Chevron ended up at the heart of Trump’s Venezuela gambit",
@@ -10987,16 +10998,5 @@
     "id_key": "7472a4ae69fe6c1771e71dd94bdb7e7c9b1ace919c0c3f72716ac9b85d20a5c7",
     "summary": "Bodies targeted include key UN climate treaty and those promoting development, democracy and human rights",
     "ingested_utc": "2026-01-08T13:15:20Z"
-  },
-  {
-    "published_utc": "2026-01-08",
-    "retrieved_date": "2026-01-08",
-    "retrieved_utc": "2026-01-08T13:15:09Z",
-    "source": "NYTimes_World",
-    "title": "Lebanon Claims Progress in Disarming Militant Groups Like Hezbollah",
-    "url": "https://www.nytimes.com/2026/01/08/world/middleeast/hezbollah-disarmament-lebanon-israel.html",
-    "id_key": "e3a8d109c59f7adfe9f45e2bfd9b93ab35b6c8ec6e2009cc64c8905a96329265",
-    "summary": "The military said it had completed the first phase of a plan to demilitarize armed groups as fears grew that Israel was preparing a new offensive against Hezbollah.",
-    "ingested_utc": "2026-01-08T13:15:09Z"
   }
 ]
