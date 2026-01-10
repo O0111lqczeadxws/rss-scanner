@@ -2,6 +2,39 @@
   {
     "published_utc": "2026-01-10",
     "retrieved_date": "2026-01-10",
+    "retrieved_utc": "2026-01-10T22:38:02Z",
+    "source": "HackerNews_Top",
+    "title": "Is beef tallow making a comeback?",
+    "url": "https://www.nytimes.com/2026/01/10/dining/beef-tallow-food-pyramid-rfk-jr.html",
+    "id_key": "ab34c4ca5b6a377b4c693063ea160ea49c22e050504f9c2743a6fd4866f7d04b",
+    "summary": "Comments",
+    "ingested_utc": "2026-01-10T22:38:02Z"
+  },
+  {
+    "published_utc": "2026-01-10",
+    "retrieved_date": "2026-01-10",
+    "retrieved_utc": "2026-01-10T22:37:06Z",
+    "source": "NYTimes_World",
+    "title": "Nearly 13,000 Irish Passports Are Recalled Over ‘Technical Issue’",
+    "url": "https://www.nytimes.com/2026/01/10/world/europe/irish-passport-recalled.html",
+    "id_key": "522647dbb521aa79aa25d83f186eaf41d0ba953e9f3e5f537151e30d7114048d",
+    "summary": "The recall affects passports issued between Dec. 23 and Jan. 6, Ireland’s Department of Foreign Affairs and Trade said.",
+    "ingested_utc": "2026-01-10T22:37:06Z"
+  },
+  {
+    "published_utc": "2026-01-10",
+    "retrieved_date": "2026-01-10",
+    "retrieved_utc": "2026-01-10T22:34:54Z",
+    "source": "BBC_World",
+    "title": "Dozens arrested and one police officer injured in Minneapolis protests",
+    "url": "https://www.bbc.com/news/articles/cvgpnwnqygro?at_medium=RSS&at_campaign=rss",
+    "id_key": "4207af4a39a2c30ed39c0aa31bb7c6fd3860739a7188a930be8a0304b5af8c4f",
+    "summary": "Days after the death of Renee Good, protests continue in Minneapolis and cities across the US.",
+    "ingested_utc": "2026-01-10T22:34:54Z"
+  },
+  {
+    "published_utc": "2026-01-10",
+    "retrieved_date": "2026-01-10",
     "retrieved_utc": "2026-01-10T22:14:51Z",
     "source": "AlJazeera_All",
     "title": "Colombia’s Petro on US threats and whether he fears Maduro’s fate",
@@ -10965,38 +10998,5 @@
     "id_key": "0ac7f5b878f30cd330fa3351f1354463a0c26cfaf45eba78276c77159a216856",
     "summary": "Renee Good was fatally shot by an ICE agent in the Central neighbourhood of Minneapolis.",
     "ingested_utc": "2026-01-08T16:54:29Z"
-  },
-  {
-    "published_utc": "2026-01-08",
-    "retrieved_date": "2026-01-08",
-    "retrieved_utc": "2026-01-08T16:54:29Z",
-    "source": "BBC_World",
-    "title": "Eyewitness video shows how deadly shooting in Minneapolis unfolded, second by second",
-    "url": "https://www.bbc.com/news/videos/ceqzj9932wjo?at_medium=RSS&at_campaign=rss",
-    "id_key": "ea5f5948b2cad707b0e448e1a59465c3f6d7caef19b9412f00c120408095048d",
-    "summary": "BBC Verify breaks down how the shooting which killed a 37-year-old woman in Minneapolis unfolded.",
-    "ingested_utc": "2026-01-08T16:54:29Z"
-  },
-  {
-    "published_utc": "2026-01-08",
-    "retrieved_date": "2026-01-08",
-    "retrieved_utc": "2026-01-08T16:21:13Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "Airbus wins orders for 148 planes in China while Boeing stalls",
-    "url": "https://asia.nikkei.com/business/transportation/airbus-wins-orders-for-148-planes-in-china-while-boeing-stalls",
-    "id_key": "0b1749ac4f64c37c6df04c68929d45de7f11ce4f1773d7b3dfa657d7db3fa7cc",
-    "summary": "",
-    "ingested_utc": "2026-01-08T16:21:13Z"
-  },
-  {
-    "published_utc": "2026-01-08",
-    "retrieved_date": "2026-01-08",
-    "retrieved_utc": "2026-01-08T16:21:11Z",
-    "source": "FinancialPost_Business",
-    "title": "Victory+ Shatters Records with 2.1 Million Viewers During UIL Texas High School Football Championships; Announces $100,000 ‘Victory Formation’ Winners",
-    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/victory-shatters-records-with-2-1-million-viewers-during-uil-texas-high-school-football-championships-announces-100000-victory-formation-winners",
-    "id_key": "dec20c2a16cb0401b62825932f38a7c8350257c4a8ef2f42a15ff633f1d5c0e8",
-    "summary": "By eliminating paywalls and expanding global access, Victory+ transforms historic fan engagement into a massive win for education with $100,000 in school funding. DALLAS — Texas high school football fans have officially ushered in a new era of sports media. Victory+ announced that its free streaming platform drew an explosive 2.1 million viewers across the […]",
-    "ingested_utc": "2026-01-08T16:21:11Z"
   }
 ]
