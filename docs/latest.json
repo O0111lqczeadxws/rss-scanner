@@ -2,6 +2,17 @@
   {
     "published_utc": "2026-01-10",
     "retrieved_date": "2026-01-10",
+    "retrieved_utc": "2026-01-10T13:54:04Z",
+    "source": "CBC_Business",
+    "title": "Airlines don’t have to tell you how much legroom you’ll have on your flight. Here’s what you need to know",
+    "url": "https://www.cbc.ca/news/business/westjet-passenger-legroom-regulations-9.7040507?cmp=rss",
+    "id_key": "e875685fc1ba45aff738f938c59fcc691aed75820c92d1996c53e238da822f57",
+    "summary": "Airlines are not required to tell passengers how much legroom they'll be getting when booking a flight, raising safety and health concerns. An aviation expert says regulations could help establish a basic level of service for economy class tickets.",
+    "ingested_utc": "2026-01-10T13:54:04Z"
+  },
+  {
+    "published_utc": "2026-01-10",
+    "retrieved_date": "2026-01-10",
     "retrieved_utc": "2026-01-10T13:42:50Z",
     "source": "AlJazeera_All",
     "title": "Israel issues demolition order for occupied West Bank football pitch",
@@ -10987,16 +10998,5 @@
     "id_key": "ebb07460f6243ecf16a0872778c9a6160c041a1d03d977cd22901df437ba4624",
     "summary": "Chancellor had commissioned officials to examine the impact of her Budget on the sector",
     "ingested_utc": "2026-01-08T14:20:04Z"
-  },
-  {
-    "published_utc": "2026-01-08",
-    "retrieved_date": "2026-01-08",
-    "retrieved_utc": "2026-01-08T14:19:52Z",
-    "source": "NYTimes_Business",
-    "title": "U.S. Trade Deficit Fell to Lowest Level Since 2009, Latest Data Show",
-    "url": "https://www.nytimes.com/2026/01/08/business/economy/us-trade-deficit-tariffs.html",
-    "id_key": "7b3a638b314edaec1c02fc566b5169a5bda93a00291b606bee628439a8ee19db",
-    "summary": "The monthly trade deficit continued to shrink in October after President Trump imposed sweeping tariffs on foreign imports.",
-    "ingested_utc": "2026-01-08T14:19:52Z"
   }
 ]
