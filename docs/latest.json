@@ -2,6 +2,61 @@
   {
     "published_utc": "2026-01-10",
     "retrieved_date": "2026-01-10",
+    "retrieved_utc": "2026-01-10T19:29:06Z",
+    "source": "AlJazeera_All",
+    "title": "‘We have to stand up’: ICE killing in Minneapolis sparks protests across US",
+    "url": "https://www.aljazeera.com/news/2026/1/10/we-have-to-stand-up-ice-killing-in-minneapolis-sparks-protests-across-us?traffic_source=rss",
+    "id_key": "006aa8d3890c51ad7695c3a10b8102e9f433dcb2103c5e3a44eab31ec834397b",
+    "summary": "Protesters demand justice for Renee Nicole Good, a mother of three shot dead by an ICE agent in Minneapolis this week.",
+    "ingested_utc": "2026-01-10T19:29:06Z"
+  },
+  {
+    "published_utc": "2026-01-10",
+    "retrieved_date": "2026-01-10",
+    "retrieved_utc": "2026-01-10T19:29:05Z",
+    "source": "TheStreet_Top",
+    "title": "Furniture chain liquidates all 89 stores, no Chapter 7 bankruptcy",
+    "url": "https://www.thestreet.com/retail/78-year-old-furniture-chain-american-signature-shuts-all-stores-in-bankruptcy",
+    "id_key": "bde999caea21fc980824db12bbba370392e90f09fc11d2ef75415e5cff2489ef",
+    "summary": "When you buy something from a chain that has filed for Chapter 11 bankruptcy, it's important to take possession of that item before handing over any cash. When Badcock Furniture filed for Chapter 11 bankruptcy, my wife and I went to look at couches and found one we liked. They would not, however, ...",
+    "ingested_utc": "2026-01-10T19:29:05Z"
+  },
+  {
+    "published_utc": "2026-01-10",
+    "retrieved_date": "2026-01-10",
+    "retrieved_utc": "2026-01-10T19:28:57Z",
+    "source": "Engadget_All",
+    "title": "An Instagram data breach reportedly exposed the personal info of 17.5 million users",
+    "url": "https://www.engadget.com/cybersecurity/an-instagram-data-breach-reportedly-exposed-the-personal-info-of-175-million-users-192105616.html?src=rss",
+    "id_key": "1fa7b43d4576a861d2cb84f3f66abd1aaae443940d9510f7eb7dfd061f042aef",
+    "summary": "If you received a bunch of password reset requests from Instagram recently, you're not alone. As reported by Malwarebytes , an antivirus software company, there was a data breach revealing the \"sensitive information\" of 17.5 million Instagram users. Malwarebytes added that the leak included Instagram usernames, physical addresses, phone numbers, email addresses and more. The company added that the \"data is available for sale on the dark web and can be abused by cybercriminals.\" Malwarebytes noted in an email to its customers that it discovered the breach during its routine dark web scan and that it's tied to a potential incident related to an Instagram API exposure from 2024. The reported breach has resulted in users receiving several emails from Instagram about password reset requests. According to Malwarebytes, the leaked information could lead to more serious attacks, like phishing attempts or account takeovers. Meta hasn't released an official statement about the latest incident, but it's not the first time Instagram's parent company has been in hot water for data breaches . If you haven't already, it's always a good idea to turn on two-factor authentication and change your password. Even better, you can review what devices are logged into your Instagram account in Meta's Accounts Center. This article originally appeared on Engadget at https://www.engadget.com/cybersecurity/an-instagram-data-breach-reportedly-exposed-the-personal-info-of-175-million-users-192105616.html?src=rss",
+    "ingested_utc": "2026-01-10T19:28:57Z"
+  },
+  {
+    "published_utc": "2026-01-10",
+    "retrieved_date": "2026-01-10",
+    "retrieved_utc": "2026-01-10T19:26:20Z",
+    "source": "Guardian_World",
+    "title": "Call centre operator that won major Centrelink contract paid no corporate tax for two years",
+    "url": "https://www.theguardian.com/australia-news/2026/jan/11/call-centre-operator-centrelink-paid-no-tax-two-years",
+    "id_key": "78d94d398a9dc86e55258bf85033fb2be3f44004e45b2977e8575207fe752791",
+    "summary": "Telco Services Australia generated more than $185m in revenue in 2024-25 and $130m the year before but paid zero tax Get our breaking news email , free app or daily news podcast An outsource call centre operator for Centrelink paid no corporate tax for several years even after winning a major government agency contract worth tens of millions of dollars, Guardian Australia can reveal. The Perth-headquartered company, Telco Services Australia, generated more than $185m in revenue in 2024-25 but reported no taxable income, new financial documents show. Do you know more? Email jonathan.barrett@theguardian.com Continue reading...",
+    "ingested_utc": "2026-01-10T19:26:20Z"
+  },
+  {
+    "published_utc": "2026-01-10",
+    "retrieved_date": "2026-01-10",
+    "retrieved_utc": "2026-01-10T19:26:17Z",
+    "source": "BBC_World",
+    "title": "'There wasn't even time for CPR': Iran medics describe hospitals overwhelmed with dead and injured protesters",
+    "url": "https://www.bbc.com/news/articles/cj9rengvnp9o?at_medium=RSS&at_campaign=rss",
+    "id_key": "b8778d6f3b727dfc1489bbb9d3f5e328c8fea831593c338a6bae8a355fc3dfca",
+    "summary": "Health workers in Tehran report being overwhelmed by injured on Friday night as security forces and demonstrators clash.",
+    "ingested_utc": "2026-01-10T19:26:17Z"
+  },
+  {
+    "published_utc": "2026-01-10",
+    "retrieved_date": "2026-01-10",
     "retrieved_utc": "2026-01-10T19:12:25Z",
     "source": "TheStreet_Top",
     "title": "Furniture chain liquidating all 89 stores without Chapter 7",
@@ -10943,60 +10998,5 @@
     "id_key": "7d3f432398622a873af92d999d5c4876206d7fdd0a0f6c2f150d95a78fe18099",
     "summary": "Whitby, Ontario, Jan. 08, 2026 (GLOBE NEWSWIRE) — Ontario Shores Centre for Mental Health Sciences (Ontario Shores) has opened North America’s first Recovery High School, giving students with mental health challenges a way to stay in school while receiving therapeutic support. Based on Ontario Shores’ established Recovery College model, this is the first youth-focused adaptation of […]",
     "ingested_utc": "2026-01-08T15:50:28Z"
-  },
-  {
-    "published_utc": "2026-01-08",
-    "retrieved_date": "2026-01-08",
-    "retrieved_utc": "2026-01-08T15:50:28Z",
-    "source": "FinancialPost_Business",
-    "title": "PUMA Appoints Nadia Kokni as Vice President Global Brand Marketing",
-    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/puma-appoints-nadia-kokni-as-vice-president-global-brand-marketing",
-    "id_key": "e500526b9999e003c9cd6194714975065894d12da5486d47d6212190ae4cb235",
-    "summary": "HERZOGENAURACH, Germany — Sports company PUMA has appointed Nadia Kokni as Vice President, Global Brand Marketing, effective January 1, 2026. Nadia joins PUMA’s global leadership team and reports directly to Chief Brand Officer Maria Valdes. In her new role as PUMA’s most senior global marketing leader, Nadia will oversee brand marketing strategy, brand marketing creative […]",
-    "ingested_utc": "2026-01-08T15:50:28Z"
-  },
-  {
-    "published_utc": "2026-01-08",
-    "retrieved_date": "2026-01-08",
-    "retrieved_utc": "2026-01-08T15:50:28Z",
-    "source": "FinancialPost_Business",
-    "title": "New K-12 Fraud Report Reveals $49 Million in Losses, Highlighting a Widespread School-Level Oversight Gap",
-    "url": "https://financialpost.com/globe-newswire/new-k-12-fraud-report-reveals-49-million-in-losses-highlighting-a-widespread-school-level-oversight-gap",
-    "id_key": "5ae331287e608292f7456f37fc2885d1191e0167f4458e418d3204d7599848ee",
-    "summary": "97% of documented school fraud cases involve internal staff or volunteers, highlighting the urgent need for stronger visibility and financial controls inside schools WILMINGTON, N.C., Jan. 08, 2026 (GLOBE NEWSWIRE) — KEV Group, the leading provider of K-12 school finance management solutions, today released The K-12 Fraud Report: Inside the School Finance Blind Spot Costing Districts […]",
-    "ingested_utc": "2026-01-08T15:50:28Z"
-  },
-  {
-    "published_utc": "2026-01-08",
-    "retrieved_date": "2026-01-08",
-    "retrieved_utc": "2026-01-08T15:50:19Z",
-    "source": "TheStreet_Top",
-    "title": "Ford debuts plan to leapfrog key Tesla tech",
-    "url": "https://www.thestreet.com/automotive/ford-debuts-plan-to-leapfrog-key-tesla-tech",
-    "id_key": "ac7b5fd2e38336b564b5fada98dc9091ffd8318f5990c7f00026b66b02c93e48",
-    "summary": "After consistently declining for 30 years, roadway fatalities in the U.S. have risen over the past decade. Fatalities jumped to nearly 35,000 in 2015, an 8% increase from the year prior, and rose another 6.5% the following year, according to U.S. Transportation Department data. Fatalities ...",
-    "ingested_utc": "2026-01-08T15:50:19Z"
-  },
-  {
-    "published_utc": "2026-01-08",
-    "retrieved_date": "2026-01-08",
-    "retrieved_utc": "2026-01-08T15:50:19Z",
-    "source": "TheStreet_Top",
-    "title": "Frontier Airlines is no longer out a CEO",
-    "url": "https://www.thestreet.com/travel/frontier-airlines-is-no-longer-out-a-ceo",
-    "id_key": "db748addc3f789a76db33b133090e8064357b0d9359da9670531d523dfae89c8",
-    "summary": "Rumors continue to swirl around yet another attempt at a merger between Frontier and Spirit Airlines, amid the latter's long string of financial challenges. Now Denver-based Frontier is in a transitional period of its own after longtime CEO Barry Biffle unexpectedly stepped down last December. ...",
-    "ingested_utc": "2026-01-08T15:50:19Z"
-  },
-  {
-    "published_utc": "2026-01-08",
-    "retrieved_date": "2026-01-08",
-    "retrieved_utc": "2026-01-08T15:49:51Z",
-    "source": "FT_Markets",
-    "title": "Venezuela actively co-operating with US on plans to export oil",
-    "url": "https://www.ft.com/content/f25409a4-d860-4ec2-aab9-e62c4c99671b",
-    "id_key": "b1b28c1f75344396891e05a21f55005ffa2e3e877dadd35dc2d76ae9943bdf72",
-    "summary": "Interim leader Delcy Rodríguez is in close contact with US secretary of state Marco Rubio",
-    "ingested_utc": "2026-01-08T15:49:51Z"
   }
 ]
