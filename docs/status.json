@@ -1,7 +1,7 @@
 {
-  "started_utc": "2026-01-10T23:30:38Z",
-  "ended_utc": "2026-01-10T23:34:14Z",
-  "new_items_this_run": 1,
+  "started_utc": "2026-01-10T23:42:05Z",
+  "ended_utc": "2026-01-10T23:45:25Z",
+  "new_items_this_run": 0,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
@@ -54,7 +54,7 @@
     "PolygonEdge_Releases": 0,
     "CardanoNode_Releases": 0,
     "MarketWatch_RealTime": 0,
-    "MarketWatch_Bulletins": 1,
+    "MarketWatch_Bulletins": 0,
     "MarketWatch_PersonalFinance": 0,
     "NYTimes_Business": 0,
     "NYTimes_World": 0,
@@ -156,7 +156,7 @@
     },
     {
       "source": "https://blog.optimism.io/rss/",
-      "error": "fetch error: HTTPSConnectionPool(host='blog.optimism.io', port=443): Max retries exceeded with url: /rss/ (Caused by NameResolutionError(\"HTTPSConnection(host='blog.optimism.io', port=443): Failed to resolve 'blog.optimism.io' ([Errno -2] Name or service not known)\"))"
+      "error": "fetch error: HTTPSConnectionPool(host='blog.optimism.io', port=443): Max retries exceeded with url: /rss/ (Caused by NameResolutionError(\"HTTPSConnection(host='blog.optimism.io', port=443): Failed to resolve 'blog.optimism.io' ([Errno -5] No address associated with hostname)\"))"
     },
     {
       "source": "Optimism_Blog",
@@ -335,9 +335,9 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 464,
+    "passed_keywords": 465,
     "passed_allowlist": 0,
-    "failed_all_filters": 545
+    "failed_all_filters": 544
   },
   "stats": {
     "feeds_total": 97,
@@ -347,7 +347,7 @@
     "entries_seen": 1546,
     "too_old": 537,
     "dup_title_url": 85,
-    "dup_id": 378
+    "dup_id": 380
   },
   "limits": {
     "skip_older_days": 10,
@@ -360,6 +360,6 @@
   },
   "processed": {
     "file": "data/processed/2026-01-10.jsonl",
-    "appended_new": 1
+    "appended_new": 0
   }
 }
