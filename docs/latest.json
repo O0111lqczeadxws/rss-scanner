@@ -2,6 +2,17 @@
   {
     "published_utc": "2026-01-11",
     "retrieved_date": "2026-01-11",
+    "retrieved_utc": "2026-01-11T23:52:55Z",
+    "source": "FinancialPost_Business",
+    "title": "Macquarie’s Latest Data Center Bet is a Tiny German Startup",
+    "url": "https://financialpost.com/pmn/business-pmn/macquaries-latest-data-center-bet-is-a-tiny-german-startup",
+    "id_key": "9d1482db49233420b86ec2b12843a39ba61ef9a81b04aa17aba8a62ab7d31e6e",
+    "summary": "Macquarie Group Ltd. is lending as much as €117 million ($136 million) to German data center infrastructure startup Polarise GmbH, as a debt-fueled boom in the sector continues into 2026.",
+    "ingested_utc": "2026-01-11T23:52:55Z"
+  },
+  {
+    "published_utc": "2026-01-11",
+    "retrieved_date": "2026-01-11",
     "retrieved_utc": "2026-01-11T23:34:25Z",
     "source": "FinancialPost_Business",
     "title": "China’s PE Trailblazer Hopu Faces Doubts on Returns, Succession",
@@ -10987,16 +10998,5 @@
     "id_key": "b3da279e3761dddfc5c18861f7563c0631618607703c69d05aef710684a711bc",
     "summary": "Cyvers Alerts has flagged a suspected Truebit incident after a labeled purchase contract sent about 8,535 ETH, estimated near $26M. TRU’s price briefly collapsed on some token trackers. Desks are watching whether funds were treasury ETH, a mispriced path, or a compromised wallet as desks react now. The post Truebit (TRU) Slips 99.95% as Cyvers Flags $26M ETH Drain appeared first on Cryptonews .",
     "ingested_utc": "2026-01-08T23:29:06Z"
-  },
-  {
-    "published_utc": "2026-01-08",
-    "retrieved_date": "2026-01-08",
-    "retrieved_utc": "2026-01-08T23:28:44Z",
-    "source": "Guardian_World",
-    "title": "Tim Walz authorizes Minnesota national guard to deploy ‘should they be needed’ as protests over ICE shooting continue – live",
-    "url": "https://www.theguardian.com/us-news/live/2026/jan/08/minneapolis-shooting-ice-minnesota-protests-vigils-donald-trump-latest-news-updates",
-    "id_key": "df876d458bfb1c1d18d399385b183f38f3befd9f996ccd0546c3095bbc12c348",
-    "summary": "Governor commends ‘powerful peace’ from demonstrators as Trump administration continues to defend federal agent who killed US citizen FBI takes over investigation of killing of US citizen by ICE officer and revokes Minnesota’s access to materials ICE agent in Minneapolis killing identified as 10-year law enforcement veteran Kristi Noem doubles down on claim ICE agent killed woman in self-defense Since early December, agents from Immigration and Customs Enforcement (ICE), Customs and Border Protection and Homeland Security Investigations – many of them masked and brandishing rifles – have grabbed people at hardware stores and gyms, or outside homes and schools around the cities. They have violently tackled undocumented immigrants as well as US citizens, including advocates and protestors. Continue reading...",
-    "ingested_utc": "2026-01-08T23:28:44Z"
   }
 ]
