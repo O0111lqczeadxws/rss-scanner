@@ -2,6 +2,72 @@
   {
     "published_utc": "2026-01-11",
     "retrieved_date": "2026-01-11",
+    "retrieved_utc": "2026-01-11T16:16:48Z",
+    "source": "TheStreet_Top",
+    "title": "Walmart takes action as health care insurance costs continue to rise",
+    "url": "https://www.thestreet.com/retail/walmart-takes-action-as-health-care-insurance-costs-continue-to-rise",
+    "id_key": "f206d718333dfa27ae0239d2cb2a0bb5e7a7690565cf6f278567d77500512fcc",
+    "summary": "With the start of a new year, many people's New Year's resolutions focus on improving their health, whether that means going to the gym more often, eating healthier, or finally scheduling a long-overdue annual checkup. Yet for many Americans, accessing health care remains a challenge. While health ...",
+    "ingested_utc": "2026-01-11T16:16:48Z"
+  },
+  {
+    "published_utc": "2026-01-11",
+    "retrieved_date": "2026-01-11",
+    "retrieved_utc": "2026-01-11T16:16:39Z",
+    "source": "Engadget_All",
+    "title": "Instagram says accounts 'are secure' after wave of suspicious password reset requests",
+    "url": "https://www.engadget.com/cybersecurity/instagram-says-accounts-are-secure-after-wave-of-suspicious-password-reset-requests-192105188.html?src=rss",
+    "id_key": "960a49d86e843429f35345c1ff702d5bc5bfb1b8b584c81bc64c7ab92e140439",
+    "summary": "If you received a bunch of password reset requests from Instagram recently, you're not alone. Malwarebytes , an antivirus software company, initially reported that there was a data breach revealing the \"sensitive information\" of 17.5 million Instagram users. Malwarebytes added that the leak included Instagram usernames, physical addresses, phone numbers, email addresses and more. However, Instagram said there was no breach and that user accounts were \"secure.\" We fixed an issue that let an external party request password reset emails for some people. There was no breach of our systems and your Instagram accounts are secure. You can ignore those emails — sorry for any confusion. — Instagram (@instagram) January 11, 2026 In Malwarebytes post, the company added that the \"data is available for sale on the dark web and can be abused by cybercriminals.\" Malwarebytes noted in an email to its customers that it discovered the breach during its routine dark web scan and that it's tied to a potential incident related to an Instagram API exposure from 2024. The reported breach has resulted in users receiving several emails from Instagram about password reset requests. According to Malwarebytes, the leaked information could lead to more serious attacks, like phishing attempts or account takeovers. In response, Instagram posted on X that users can ignore the recent emails requesting password resets. \"We fixed an issue that let an external party request password reset emails for some people,\" Instagram's post on X read. \"There was no breach of our systems and your Instagram accounts are secure.\" While Instagram said this isn't a data breach, its parent company has been in hot water for data breaches in the past. If you haven't already, it's always a good idea to turn on two-factor authentication and change your password. Even better, you can review what devices are logged into your Instagram account in Meta's Accounts Center. Update, January 11, 2026, 11:10AM ET: This story and its headline have been updated with Instagram's statement that was posted on X. This article originally appeared on Engadget at https://www.engadget.com/cybersecurity/instagram-says-accounts-are-secure-after-wave-of-suspicious-password-reset-requests-192105188.html?src=rss",
+    "ingested_utc": "2026-01-11T16:16:39Z"
+  },
+  {
+    "published_utc": "2026-01-11",
+    "retrieved_date": "2026-01-11",
+    "retrieved_utc": "2026-01-11T16:16:10Z",
+    "source": "NYTimes_World",
+    "title": "Iran’s President Warns Protesters Not to Destabilize the Country",
+    "url": "https://www.nytimes.com/2026/01/11/world/middleeast/irans-president-warns-protesters-not-to-destabilize-the-country.html",
+    "id_key": "fa893c988a9faea4d605e054b0a7905f7c254b80c1f77372937b3bca8777901c",
+    "summary": "Masoud Pezeshkian expressed sympathy for protesters’ economic pain, but said the state must respond to “rioters.” The death toll from the protests rose to about 200, rights groups said.",
+    "ingested_utc": "2026-01-11T16:16:10Z"
+  },
+  {
+    "published_utc": "2026-01-11",
+    "retrieved_date": "2026-01-11",
+    "retrieved_utc": "2026-01-11T16:15:51Z",
+    "source": "Guardian_World",
+    "title": "Evidence shows benefit of RSV vaccines as Trump officials push restrictions",
+    "url": "https://www.theguardian.com/us-news/2026/jan/11/rsv-vaccines-trump-kennedy",
+    "id_key": "7c0d3f75b1470713f3ac25b693a0344dc8e67a9dc1f5e4148c3349e14ac5e988",
+    "summary": "Shots to prevent respiratory syncytial virus recommended only for high-risk babies even as experts hail jabs’ success As US officials move to restrict vaccines, including the shots to prevent respiratory syncytial virus (RSV), more evidence is emerging to confirm how dramatically the jabs reduce hospitalizations. Announced last week as part of new restrictions on one-third of all routine childhood vaccines, RSV shots are now recommended only for high-risk babies, instead of all infants. The Trump administration announcement was led by prominent vaccine critic and health secretary Robert F Kennedy Jr. Continue reading...",
+    "ingested_utc": "2026-01-11T16:15:51Z"
+  },
+  {
+    "published_utc": "2026-01-11",
+    "retrieved_date": "2026-01-11",
+    "retrieved_utc": "2026-01-11T16:14:24Z",
+    "source": "CryptoSlate",
+    "title": "A hidden “yield war” has begun in Ethereum ETFs, forcing issuers to finally pay you for holding",
+    "url": "https://cryptoslate.com/eth-etfs-just-paid-a-dividend-grayscales-9-4m-staking-test/",
+    "id_key": "8ccd7d1f8a3f92c78495d16fea09a956c0db857c5cfd2c6c3c77b4cfc4da11ad",
+    "summary": "Grayscale has turned Ethereum’s staking yield into something ETF investors instantly recognize: a cash distribution. On Jan. 6, the Grayscale Ethereum Staking ETF (ETHE) paid around $0.083 per share, totaling $9.39 million, funded by staking rewards the fund earned on its ETH holdings and then sold for cash. The payout covered rewards generated from Oct. […] The post A hidden “yield war” has begun in Ethereum ETFs, forcing issuers to finally pay you for holding appeared first on CryptoSlate .",
+    "ingested_utc": "2026-01-11T16:14:24Z"
+  },
+  {
+    "published_utc": "2026-01-11",
+    "retrieved_date": "2026-01-11",
+    "retrieved_utc": "2026-01-11T16:14:05Z",
+    "source": "Guardian_World",
+    "title": "Smithsonian swaps Trump portrait and removes mention of impeachments",
+    "url": "https://www.theguardian.com/us-news/2026/jan/11/smithsonian-swaps-trump-portrait",
+    "id_key": "3cdd719c82f61911ebb6cc262b2f0ee375744a148bc3be75ed48fab87957ba1b",
+    "summary": "National Portrait Gallery removes text on new portrait of Trump standing in Oval Office with a scowl and fists on desk The National Portrait Gallery in Washigton DC has removed a placard that referred to Donald Trump’s two impeachments and his supporters’ January 6 attack on the US Capitol, according to multiple news reports. The museum, part of the Smithsonian Institution, removed the text when it replaced an old portrait of Trump with a new image of him standing in the Oval Office with a scowl and his fists on the desk. Continue reading...",
+    "ingested_utc": "2026-01-11T16:14:05Z"
+  },
+  {
+    "published_utc": "2026-01-11",
+    "retrieved_date": "2026-01-11",
     "retrieved_utc": "2026-01-11T15:52:56Z",
     "source": "Nikkei_Asia_Top",
     "title": "Japan to let private sector use 3 nuclear fusion R&D sites",
@@ -10932,71 +10998,5 @@
     "id_key": "1e58353d4e5b5808b39a96965924270f8bfc8bafd78812c6040891a39bbc1092",
     "summary": "Talk of the United States buying Greenland has returned to Washington, and miners are tracking the power projects on the island. The White House said a U.S. purchase of Greenland is an “active discussion,” according to Reuters. For Bitcoin miners, the more actionable clock is Greenland’s industrial power planning. How Greenland’s hydropower translates into real […] The post Trump could use Greenland for 10,000 EH/s Bitcoin mining hub from stranded energy if it becomes a part of the US appeared first on CryptoSlate .",
     "ingested_utc": "2026-01-08T20:15:02Z"
-  },
-  {
-    "published_utc": "2026-01-08",
-    "retrieved_date": "2026-01-08",
-    "retrieved_utc": "2026-01-08T20:14:43Z",
-    "source": "Guardian_World",
-    "title": "Iran plunged into internet blackout as protests over economy spread nationwide",
-    "url": "https://www.theguardian.com/world/2026/jan/08/iran-plunged-into-internet-blackout-as-protests-over-economy-spread-nationwide",
-    "id_key": "e6090b651132cb6b380688544ba96145ad6a5affc5cac50755504c7021a12fc2",
-    "summary": "Outage piles pressure on regime as Iranian security forces reported to have killed at least 45 since protests started Iran was plunged into a complete internet blackout on Thursday night as protests over economic conditions spread nationwide, increasing pressure on the country’s leadership. While it was unclear what caused the internet cut, first reported by the internet freedom monitor NetBlocks, Iranian authorities have shut down the internet in response to protests in the past. Continue reading...",
-    "ingested_utc": "2026-01-08T20:14:43Z"
-  },
-  {
-    "published_utc": "2026-01-08",
-    "retrieved_date": "2026-01-08",
-    "retrieved_utc": "2026-01-08T20:14:43Z",
-    "source": "Guardian_World",
-    "title": "Palestine Action activist compared to suffragettes in court",
-    "url": "https://www.theguardian.com/uk-news/2026/jan/08/palestine-action-activist-compared-to-suffragettes-in-court",
-    "id_key": "cc1cf94787d4120c855cf878732be40f06a144e91475bf9e14b33066761e18ae",
-    "summary": "Charlotte Head, who is accused of taking part in a break-in at Israeli defence firm, is called a ‘remarkable woman’ by her barrister A Palestine Action activist accused of taking part in a break-in at an Israeli defence firm’s UK site is a “remarkable woman”, her barrister has told jurors as he likened her to the suffragettes. Charlotte Head, 29, is on trial at Woolwich crown court, south-east London, accused of being involved in a “meticulously organised” protest at the Elbit Systems factory in Filton, near Bristol, on 6 August 2024. Continue reading...",
-    "ingested_utc": "2026-01-08T20:14:43Z"
-  },
-  {
-    "published_utc": "2026-01-08",
-    "retrieved_date": "2026-01-08",
-    "retrieved_utc": "2026-01-08T20:14:43Z",
-    "source": "Guardian_World",
-    "title": "ICE agent in Minneapolis killing identified as 10-year law enforcement veteran",
-    "url": "https://www.theguardian.com/us-news/2026/jan/08/ice-agent-minneapolis-shooting",
-    "id_key": "9687448498209d83483a2312f22aa7e830fce607913450cfd466e1af88b7924b",
-    "summary": "Court records point to Jonathan David Ross as officer in Renee Nicole Good’s death, amid protests and political fallout US politics live – latest updates The ICE agent involved in the lethal shooting of 37-year-old Renee Nicole Good , a mother of three, during an immigration sweep in Minneapolis yesterday is Jonathan David Ross, a Minneapolis resident and 10-year veteran of the enforcement and removal operation’s special response team, according to court records that closely match the description of a June 2025 incident involving the agent in Bloomington, Minnesota cited by the homeland security secretary, Kristi Noem, and JD Vance. Good’s death sparked outrage in Minneapolis and strident rebukes from Minnesota officials and on Capitol Hill. Thousands of people gathered in protest near the site of the shooting Wednesday night, and some Democrats on Capitol Hill have threatened to withhold funding to the Department of Homeland Security. Minneapolis mayor, Jacob Frey, said on Wednesday “To ICE – get the fuck out of Minneapolis”. Continue reading...",
-    "ingested_utc": "2026-01-08T20:14:43Z"
-  },
-  {
-    "published_utc": "2026-01-08",
-    "retrieved_date": "2026-01-08",
-    "retrieved_utc": "2026-01-08T20:14:40Z",
-    "source": "BBC_World",
-    "title": "Two starkly opposed Americas laid bare by deadly ICE shooting",
-    "url": "https://www.bbc.com/news/articles/c93vny222geo?at_medium=RSS&at_campaign=rss",
-    "id_key": "cee8f67cc278e7f3281542396e4136023fb52c6893ebf9193d15672c4a900d8e",
-    "summary": "The incident is threatening to inflame a deeply contentious debate over immigration enforcement.",
-    "ingested_utc": "2026-01-08T20:14:40Z"
-  },
-  {
-    "published_utc": "2026-01-08",
-    "retrieved_date": "2026-01-08",
-    "retrieved_utc": "2026-01-08T19:52:00Z",
-    "source": "FinancialPost_Business",
-    "title": "Blackstone Eyes $2.6 Billion of Debt to Finance Power Merger",
-    "url": "https://financialpost.com/pmn/business-pmn/blackstone-eyes-2-6-billion-of-debt-to-finance-power-merger",
-    "id_key": "229f0bc4204e366d9a56704e4676b9cf1c4f326ece69f9dad264a3a0e46fbdff",
-    "summary": "A group of banks led by Barclays Plc is shopping a roughly $2.6 billion debt deal to support Blackstone Inc.’s effort to combine two of its power grid equipment suppliers, according to people with knowledge of the matter.",
-    "ingested_utc": "2026-01-08T19:52:00Z"
-  },
-  {
-    "published_utc": "2026-01-08",
-    "retrieved_date": "2026-01-08",
-    "retrieved_utc": "2026-01-08T19:51:53Z",
-    "source": "TheStreet_Top",
-    "title": "Canadian airlines have cut half a million flight seats to the US",
-    "url": "https://www.thestreet.com/travel/canadian-airlines-have-cut-half-a-million-flight-seats-to-the-us",
-    "id_key": "01cd41c087f39c4354e786296eb6b3742f18d7a9badf9c0b804467148bab0624",
-    "summary": "New geopolitical events around Venezuela and Greenland have pushed President Donald Trump's references to Canada as a \"51st state\" and targeting of Canada with tariffs somewhat into the background. Still, Canadians continue to protest the current administration's hostile stance toward their country ...",
-    "ingested_utc": "2026-01-08T19:51:53Z"
   }
 ]
