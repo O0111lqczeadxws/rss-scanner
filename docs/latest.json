@@ -2,6 +2,39 @@
   {
     "published_utc": "2026-01-11",
     "retrieved_date": "2026-01-11",
+    "retrieved_utc": "2026-01-11T23:34:25Z",
+    "source": "FinancialPost_Business",
+    "title": "China’s PE Trailblazer Hopu Faces Doubts on Returns, Succession",
+    "url": "https://financialpost.com/pmn/business-pmn/chinas-pe-trailblazer-hopu-faces-doubts-on-returns-succession",
+    "id_key": "dd71e36aecb63a0c1ecb93f93ede4415af6452100fe6f284fbd730341a0b5946",
+    "summary": "For years, Fang Fenglei was Wall Street’s go-to fixer in China — a partner to heavyweights like Goldman Sachs Group Inc. who built one of Asia’s most prominent private equity firms.",
+    "ingested_utc": "2026-01-11T23:34:25Z"
+  },
+  {
+    "published_utc": "2026-01-11",
+    "retrieved_date": "2026-01-11",
+    "retrieved_utc": "2026-01-11T23:34:06Z",
+    "source": "TheVerge_All",
+    "title": "You need to listen to Billy Woods’ horrorcore masterpiece for the A24 crowd",
+    "url": "https://www.theverge.com/column/860372/billy-woods-horrorcore-masterpiece-golliwog-a24",
+    "id_key": "fab7b701f760d7ab86f72eae628cfe9eef83daafde3f0b0f4118a316c06c319a",
+    "summary": "Billy Woods has one of the highest batting averages in the game. Between his solo records like Hiding Places and Maps, and his collaborative albums with Elucid as Armand Hammer, the man has multiple stone-cold classics under his belt. And, while no one would ever claim that Woods' albums were light-hearted fare (these are not […]",
+    "ingested_utc": "2026-01-11T23:34:06Z"
+  },
+  {
+    "published_utc": "2026-01-11",
+    "retrieved_date": "2026-01-11",
+    "retrieved_utc": "2026-01-11T23:33:31Z",
+    "source": "MarketWatch_Bulletins",
+    "title": "U.S. stock futures dip ahead of a busy week on Wall Street",
+    "url": "https://www.marketwatch.com/bulletins/redirect/go?g=5a0c1552-3b8c-45a3-a427-863a26de0fbc&mod=mw_rss_bulletins",
+    "id_key": "541ad859fdf97c06c26bc5ce3356948aca17967487acde18d5981fa55f49a698",
+    "summary": "",
+    "ingested_utc": "2026-01-11T23:33:31Z"
+  },
+  {
+    "published_utc": "2026-01-11",
+    "retrieved_date": "2026-01-11",
     "retrieved_utc": "2026-01-11T23:15:17Z",
     "source": "FinancialPost_Business",
     "title": "Teva to Present at the 44th Annual J.P. Morgan Healthcare Conference: Pivot to Growth Strategy Delivering Growth and Transforming through Innovation",
@@ -10965,38 +10998,5 @@
     "id_key": "df876d458bfb1c1d18d399385b183f38f3befd9f996ccd0546c3095bbc12c348",
     "summary": "Governor commends ‘powerful peace’ from demonstrators as Trump administration continues to defend federal agent who killed US citizen FBI takes over investigation of killing of US citizen by ICE officer and revokes Minnesota’s access to materials ICE agent in Minneapolis killing identified as 10-year law enforcement veteran Kristi Noem doubles down on claim ICE agent killed woman in self-defense Since early December, agents from Immigration and Customs Enforcement (ICE), Customs and Border Protection and Homeland Security Investigations – many of them masked and brandishing rifles – have grabbed people at hardware stores and gyms, or outside homes and schools around the cities. They have violently tackled undocumented immigrants as well as US citizens, including advocates and protestors. Continue reading...",
     "ingested_utc": "2026-01-08T23:28:44Z"
-  },
-  {
-    "published_utc": "2026-01-08",
-    "retrieved_date": "2026-01-08",
-    "retrieved_utc": "2026-01-08T23:15:11Z",
-    "source": "FinancialPost_Business",
-    "title": "Gold Exports Mask Weakness in Canada’s Broader Trade Picture",
-    "url": "https://financialpost.com/pmn/business-pmn/gold-exports-mask-weakness-in-canadas-broader-trade-picture",
-    "id_key": "31099cb4d8df4b704943a4bbecb23619d4c5461eb3657407a195f3b721ed12a1",
-    "summary": "Canada posted a C$583 million ($421 million) trade deficit in October, but surging precious‑metal exports — mostly gold — are doing a lot of heavy lifting. Strip those out, and Canada would have a C$8.2 billion shortfall.",
-    "ingested_utc": "2026-01-08T23:15:11Z"
-  },
-  {
-    "published_utc": "2026-01-08",
-    "retrieved_date": "2026-01-08",
-    "retrieved_utc": "2026-01-08T23:15:04Z",
-    "source": "TheStreet_Top",
-    "title": "Fed split deepens as Miran calls for 1.5-point rate cut",
-    "url": "https://www.thestreet.com/fed/federal-reserve-split-deepens-as-miran-calls-for-150-point-rate-cuts-in-2026",
-    "id_key": "109b8e62e1d94c03170c8af89a72f3914265bcf9dd1c60a76bfa7a4e6e16c9d6",
-    "summary": "Federal Reserve officials entered the new year divided over how much to lower interest rates after cutting them during their last three meetings of 2025. A growing number, mainly the presidents of the regional Federal Reserve banks, have come out in favor of holding rates steady, at least until ...",
-    "ingested_utc": "2026-01-08T23:15:04Z"
-  },
-  {
-    "published_utc": "2026-01-08",
-    "retrieved_date": "2026-01-08",
-    "retrieved_utc": "2026-01-08T23:14:22Z",
-    "source": "NYTimes_World",
-    "title": "U.S. Navy Is Chasing Several Oil Tankers in the Atlantic",
-    "url": "https://www.nytimes.com/2026/01/08/world/americas/navy-chasing-tankers-venezuela.html",
-    "id_key": "d8b73333f793bf86811fd11a065b998a635c3b395bb2006f1154c237ed916b42",
-    "summary": "A mass departure by sanctioned tankers, some switching to Russian flags, has triggered a fresh effort by the United States to pursue Venezuelan oil shipments at sea.",
-    "ingested_utc": "2026-01-08T23:14:22Z"
   }
 ]
