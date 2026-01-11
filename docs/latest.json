@@ -376,6 +376,17 @@
   {
     "published_utc": "2026-01-10",
     "retrieved_date": "2026-01-11",
+    "retrieved_utc": "2026-01-11T06:22:13Z",
+    "source": "AlJazeera_All",
+    "title": "‘Abolish ICE’: Tens of thousands in Minneapolis, across US, protest killing",
+    "url": "https://www.aljazeera.com/news/2026/1/10/we-have-to-stand-up-ice-killing-in-minneapolis-sparks-protests-across-us?traffic_source=rss",
+    "id_key": "cc3bc57de033284902ad32e252776175cb85bb1ff88b1e3bbc193006356b9251",
+    "summary": "Protesters demand justice for Renee Nicole Good, a mother of three shot dead by an ICE agent in Minneapolis this week.",
+    "ingested_utc": "2026-01-11T06:22:13Z"
+  },
+  {
+    "published_utc": "2026-01-10",
+    "retrieved_date": "2026-01-11",
     "retrieved_utc": "2026-01-11T04:34:39Z",
     "source": "TheStreet_Top",
     "title": "90-year-old party supply retailer files for Chapter 11 bankruptcy",
@@ -10986,17 +10997,6 @@
     "url": "https://www.theguardian.com/world/2026/jan/08/runaway-sheep-storm-german-supermarket",
     "id_key": "adccf07f2c2abb1cc349d31c09d1e894b8f34d4e080b49639e54e3ec07533e2e",
     "summary": "Woolly incursion occurred during seasonal migration of animals in the Bavarian municipality of Burgsinn About 50 wayward sheep have broken off from their flock and stormed a discount supermarket in German town, startling and delighting customers as they rushed to explore the aisles before being escorted from the premises. The woolly incursion occurred on Monday during a routine seasonal migration of the farm animals in the Bavarian municipality of Burgsinn. A few dozen of the sheep had other ideas about the route and made their way into a store of the Penny retail chain. Continue reading...",
-    "ingested_utc": "2026-01-08T17:50:05Z"
-  },
-  {
-    "published_utc": "2026-01-08",
-    "retrieved_date": "2026-01-08",
-    "retrieved_utc": "2026-01-08T17:50:05Z",
-    "source": "Guardian_World",
-    "title": "Last of three siblings abandoned in London over eight-year period is adopted",
-    "url": "https://www.theguardian.com/uk-news/2026/jan/08/three-siblings-abandoned-london-over-eight-year-period-adopted",
-    "id_key": "176624c105802aabaf2d302c2c5d41fdf06301beb06af32488ed2ac18c19273c",
-    "summary": "Parents of Harry, Roman and Elsa, who were discovered in same area in 2017, 2019 and 2024, have never been found The third of three siblings who were abandoned in east London over an eight-year period is to be adopted in what judge describes as “quite extraordinary” story. Three children, known as Harry, Roman and Elsa, were discovered in the same area of east London in 2017, 2019 and 2024 respectively. Despite an extensive police search, their parents have never been found. Continue reading...",
     "ingested_utc": "2026-01-08T17:50:05Z"
   }
 ]
