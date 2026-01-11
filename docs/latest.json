@@ -2,6 +2,17 @@
   {
     "published_utc": "2026-01-11",
     "retrieved_date": "2026-01-11",
+    "retrieved_utc": "2026-01-11T14:14:41Z",
+    "source": "TheStreet_Top",
+    "title": "Olive Garden rival nearly gone, down to 9 restaurants nationwide",
+    "url": "https://www.thestreet.com/restaurants/olive-garden-rival-macaroni-grill-nearly-gone-down-to-9-restaurants-nationwide",
+    "id_key": "2df6d5840f9c2c8426a784903c0770736d958288b8ced14cb59b4b1f46c5b9f7",
+    "summary": "As someone who grew up about 20 minutes from Boston's famed North End Italian district, my standards for Italian restaurants have always been high. But I also grew up in the 80s, when Chef Boyardee was a menu staple. So when visiting an Italian restaurant, I have long understood that it's about ...",
+    "ingested_utc": "2026-01-11T14:14:41Z"
+  },
+  {
+    "published_utc": "2026-01-11",
+    "retrieved_date": "2026-01-11",
     "retrieved_utc": "2026-01-11T13:44:01Z",
     "source": "FinancialPost_Business",
     "title": "Germany Open to ‘Joint Action’ to Secure Supply Chains, Vice Chancellor Says",
@@ -10987,16 +10998,5 @@
     "id_key": "d2d059404247975aad6cc5ad92930f93ae6f0327d6cad16e0b98debe875920bf",
     "summary": "Tech companies are calling AI the next platform. But some developers are reluctant to let AI agents stand between them and their users.",
     "ingested_utc": "2026-01-08T19:16:19Z"
-  },
-  {
-    "published_utc": "2026-01-08",
-    "retrieved_date": "2026-01-08",
-    "retrieved_utc": "2026-01-08T19:16:18Z",
-    "source": "TechCrunch_All",
-    "title": "Critics pan spyware maker NSO’s transparency claims amid its push to enter US market",
-    "url": "https://techcrunch.com/2026/01/08/critics-pan-spyware-maker-nsos-transparency-claims-amid-its-push-to-enter-us-market/",
-    "id_key": "bc163c86fef025f10cc44ea4ac757e515067ab414b61a00126d0aaf37fa34d62",
-    "summary": "The infamous spyware maker released a new transparency report claiming to be a responsible spyware maker, without providing insight into how the company dealt with problematic customers in the past.",
-    "ingested_utc": "2026-01-08T19:16:18Z"
   }
 ]
