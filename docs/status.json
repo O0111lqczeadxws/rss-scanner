@@ -1,7 +1,7 @@
 {
-  "started_utc": "2026-01-11T10:36:46Z",
-  "ended_utc": "2026-01-11T10:40:18Z",
-  "new_items_this_run": 3,
+  "started_utc": "2026-01-11T10:52:02Z",
+  "ended_utc": "2026-01-11T10:55:35Z",
+  "new_items_this_run": 2,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
@@ -22,7 +22,7 @@
     "CryptoSlate": 0,
     "CryptoBriefing": 0,
     "Protos": 0,
-    "CryptoNews": 1,
+    "CryptoNews": 0,
     "CoinJournal": 0,
     "Unchained": 0,
     "Bankless": 0,
@@ -335,9 +335,9 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 472,
+    "passed_keywords": 473,
     "passed_allowlist": 0,
-    "failed_all_filters": 545
+    "failed_all_filters": 544
   },
   "stats": {
     "feeds_total": 97,
@@ -346,8 +346,8 @@
     "feeds_http_error": 0,
     "entries_seen": 1552,
     "too_old": 535,
-    "dup_title_url": 91,
-    "dup_id": 378
+    "dup_title_url": 92,
+    "dup_id": 379
   },
   "limits": {
     "skip_older_days": 10,
@@ -360,6 +360,6 @@
   },
   "processed": {
     "file": "data/processed/2026-01-11.jsonl",
-    "appended_new": 3
+    "appended_new": 2
   }
 }
