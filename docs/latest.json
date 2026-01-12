@@ -2,6 +2,50 @@
   {
     "published_utc": "2026-01-12",
     "retrieved_date": "2026-01-12",
+    "retrieved_utc": "2026-01-12T17:55:29Z",
+    "source": "FinancialPost_Business",
+    "title": "Copper eases after rallying toward record on supply concerns",
+    "url": "https://financialpost.com/commodities/mining/copper-eases-on-supply-concerns",
+    "id_key": "352c00a2c6baaeff7c3c43eb0cc7f4df68ae8448cc66140c0af23381905b1d60",
+    "summary": "Metals traders are front-loading shipments of copper to the U.S. ahead of potential mineral tariffs",
+    "ingested_utc": "2026-01-12T17:55:29Z"
+  },
+  {
+    "published_utc": "2026-01-12",
+    "retrieved_date": "2026-01-12",
+    "retrieved_utc": "2026-01-12T17:55:21Z",
+    "source": "TheStreet_Top",
+    "title": "Powell pushes back as DOJ probe raises fears for Fed independence",
+    "url": "https://www.thestreet.com/fed/defiant-fed-chair-powell-pushes-back-as-doj-probe-raises-fears-for-central-bank-independence",
+    "id_key": "91cc2e0b1332bc1d6ef345524f41812ac2ac7f61231f8e0faf7817bda9fcfd7b",
+    "summary": "Federal Reserve Chair Jerome Powell's extraordinary response to an unprecedented Justice Department criminal investigation sends an emphatic and dramatic message: Trump administration efforts to curtail the central bank’s independence via a criminal probe will be met with equally powerful ...",
+    "ingested_utc": "2026-01-12T17:55:21Z"
+  },
+  {
+    "published_utc": "2026-01-12",
+    "retrieved_date": "2026-01-12",
+    "retrieved_utc": "2026-01-12T17:52:51Z",
+    "source": "CryptoBriefing",
+    "title": "Mitsui to offer retail access to digital securities tied to aircraft and ships",
+    "url": "https://cryptobriefing.com/mitsui-digital-securities-launch/",
+    "id_key": "8d58a1e11035396ca1a33f9d686980c4b508d8d34f2bf31740e0bdc25f3744f0",
+    "summary": "Mitsui to debut Japans first aircraft and ship digital securities in 2026, expanding its blockchain investment platform as issuance surges. The post Mitsui to offer retail access to digital securities tied to aircraft and ships appeared first on Crypto Briefing .",
+    "ingested_utc": "2026-01-12T17:52:51Z"
+  },
+  {
+    "published_utc": "2026-01-12",
+    "retrieved_date": "2026-01-12",
+    "retrieved_utc": "2026-01-12T17:52:29Z",
+    "source": "BBC_Business",
+    "title": "UK to bring into force law to tackle Grok AI deepfakes this week",
+    "url": "https://www.bbc.com/news/articles/cq845glnvl1o?at_medium=RSS&at_campaign=rss",
+    "id_key": "1de4190a458653179f76f49c26155bf8bd22ad4a2e82b4f621e7c2f7c49285ff",
+    "summary": "The technology secretary said it would be illegal for companies to supply the tools designed to make them.",
+    "ingested_utc": "2026-01-12T17:52:29Z"
+  },
+  {
+    "published_utc": "2026-01-12",
+    "retrieved_date": "2026-01-12",
     "retrieved_utc": "2026-01-12T17:46:59Z",
     "source": "HackerNews_Top",
     "title": "Statement from Federal Reserve Chair",
@@ -10953,50 +10997,6 @@
     "url": "https://financialpost.com/news/retail-marketing/saks-eyes-filing-for-chapter-11-bankruptcy",
     "id_key": "6a85d38a92ac3ff9d6fdfb31e2d67e9bc83ff6a7a4c2adbf59ea85c9d6c05993",
     "summary": "A bankruptcy filing from Saks, which traces its roots back over 150 years, would mark a dramatic fall for the luxury retailer",
-    "ingested_utc": "2026-01-09T16:50:42Z"
-  },
-  {
-    "published_utc": "2026-01-09",
-    "retrieved_date": "2026-01-09",
-    "retrieved_utc": "2026-01-09T16:50:42Z",
-    "source": "FinancialPost_Business",
-    "title": "CN Reports December Grain Movement",
-    "url": "https://financialpost.com/globe-newswire/cn-reports-december-grain-movement",
-    "id_key": "030621fcf8ab924e03821a84a308965ccc89b897807c16b8b4193c4bc7252158",
-    "summary": "MONTREAL, Jan. 09, 2026 (GLOBE NEWSWIRE) — CN (TSX: CNR) (NYSE: CNI) announced today that it set a new monthly record for grain movement in December, marking its fourth consecutive record month. CN moved over 2.82 million metric tonnes of grain from Western Canada last month, surpassing its previous December record set in 2020 by […]",
-    "ingested_utc": "2026-01-09T16:50:42Z"
-  },
-  {
-    "published_utc": "2026-01-09",
-    "retrieved_date": "2026-01-09",
-    "retrieved_utc": "2026-01-09T16:50:42Z",
-    "source": "FinancialPost_Business",
-    "title": "The past and potential of Venezuela’s oil sector, and what it means for Canada",
-    "url": "https://financialpost.com/pmn/business-pmn/the-past-and-potential-of-venezuelas-oil-sector-and-what-it-means-for-canada-2",
-    "id_key": "9d601acc77470cc79c5ae59ec9b62f6b2254f7ecf2d18d5e357eccaf2ebaee47",
-    "summary": "CALGARY — U.S. President Donald Trump’s ambition to have U.S. energy companies swoop in and revive Venezuela’s beleaguered oil industry has raised questions about what it means for Canadian oilsands producers and whether it’s a task American supermajors can or even want to take on. Here is a rundown of the past and potential of […]",
-    "ingested_utc": "2026-01-09T16:50:42Z"
-  },
-  {
-    "published_utc": "2026-01-09",
-    "retrieved_date": "2026-01-09",
-    "retrieved_utc": "2026-01-09T16:50:42Z",
-    "source": "FinancialPost_Business",
-    "title": "Trump meets with oil executives at the White House on Friday, seeking investments in Venezuela",
-    "url": "https://financialpost.com/pmn/business-pmn/trump-meets-with-oil-executives-at-the-white-house-on-friday-seeking-investments-in-venezuela-3",
-    "id_key": "f6ebda6f848527f58a0d8d8eecf8372ba3496b6a8f4ef54578f5ad5a55d8dd91",
-    "summary": "WASHINGTON (AP) — President Donald Trump is meeting with oil executives at the White House on Friday in hopes of securing $100 billion in investments to revive Venezuela’s ability to fully tap into its expansive reserves of petroleum — a plan that rides on their comfort in making commitments in a country plagued by instability, […]",
-    "ingested_utc": "2026-01-09T16:50:42Z"
-  },
-  {
-    "published_utc": "2026-01-09",
-    "retrieved_date": "2026-01-09",
-    "retrieved_utc": "2026-01-09T16:50:42Z",
-    "source": "FinancialPost_Business",
-    "title": "Meta lines up massive supply of nuclear power to energize AI data centers",
-    "url": "https://financialpost.com/pmn/business-pmn/meta-signs-three-nuclear-power-deals-to-help-support-its-ai-data-centers",
-    "id_key": "ab56bf55f329dd4f442ff8584d67add025a1822d956b76c2d1b7a8533190ef4b",
-    "summary": "Meta has cut a trio of deals to power its artificial intelligence data centers, securing enough energy to light up the equivalent of about 5 million homes. The parent company of Facebook on Friday announced agreements with TerraPower, Oklo and Vistra for nuclear power for its Prometheus AI data center that is being built in […]",
     "ingested_utc": "2026-01-09T16:50:42Z"
   }
 ]
