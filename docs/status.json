@@ -1,28 +1,28 @@
 {
-  "started_utc": "2026-01-12T14:17:37Z",
-  "ended_utc": "2026-01-12T14:21:08Z",
-  "new_items_this_run": 24,
+  "started_utc": "2026-01-12T14:51:47Z",
+  "ended_utc": "2026-01-12T14:55:05Z",
+  "new_items_this_run": 14,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
     "Reuters_World": 0,
     "Reuters_Markets": 0,
-    "BBC_World": 1,
+    "BBC_World": 0,
     "BBC_Business": 0,
     "BBC_Technology": 0,
     "Guardian_Business": 0,
-    "Guardian_World": 4,
+    "Guardian_World": 2,
     "WSJ_US_Business": 0,
     "WSJ_World": 0,
     "WSJ_Markets": 0,
     "MarketWatch_Top": 0,
     "MarketWatch_MarketPulse": 0,
     "Blockworks": 0,
-    "BitcoinMagazine": 0,
-    "CryptoSlate": 1,
+    "BitcoinMagazine": 1,
+    "CryptoSlate": 0,
     "CryptoBriefing": 1,
     "Protos": 0,
-    "CryptoNews": 2,
+    "CryptoNews": 0,
     "CoinJournal": 0,
     "Unchained": 0,
     "Bankless": 0,
@@ -31,7 +31,7 @@
     "Consensys_Blog": 0,
     "Uniswap_Blog": 0,
     "Aave_Blog": 0,
-    "Lido_Blog": 0,
+    "Lido_Blog": 1,
     "Optimism_Blog": 0,
     "Arbitrum_Foundation": 0,
     "Polygon_Blog": 0,
@@ -56,7 +56,7 @@
     "MarketWatch_RealTime": 0,
     "MarketWatch_Bulletins": 0,
     "MarketWatch_PersonalFinance": 0,
-    "NYTimes_Business": 0,
+    "NYTimes_Business": 1,
     "NYTimes_World": 0,
     "NYTimes_Economy": 0,
     "NYTimes_Technology": 0,
@@ -74,20 +74,20 @@
     "TechCrunch_All": 0,
     "ArsTechnica_All": 0,
     "WIRED_All": 0,
-    "Engadget_All": 1,
+    "Engadget_All": 2,
     "TheEconomist_Business": 0,
     "TheEconomist_Finance": 0,
     "Investopedia_Latest": 0,
-    "TheStreet_Top": 3,
-    "AlJazeera_All": 0,
+    "TheStreet_Top": 1,
+    "AlJazeera_All": 1,
     "AlJazeera_Economy": 0,
-    "FinancialPost_Business": 9,
+    "FinancialPost_Business": 2,
     "CBC_Business": 0,
-    "Nikkei_Asia_Top": 0,
+    "Nikkei_Asia_Top": 1,
     "WorldBank_News": 0,
     "OECD_Newsroom": 0,
     "MIT_TechReview": 0,
-    "HackerNews_Top": 1
+    "HackerNews_Top": 0
   },
   "errors": [
     {
@@ -155,14 +155,6 @@
       "error": "fatal parse failure"
     },
     {
-      "source": "https://medium.com/feed/aave",
-      "error": "fetch error: HTTP 429"
-    },
-    {
-      "source": "Aave_Blog",
-      "error": "fatal parse failure"
-    },
-    {
       "source": "https://blog.optimism.io/rss/",
       "error": "fetch error: HTTPSConnectionPool(host='blog.optimism.io', port=443): Max retries exceeded with url: /rss/ (Caused by NameResolutionError(\"HTTPSConnection(host='blog.optimism.io', port=443): Failed to resolve 'blog.optimism.io' ([Errno -5] No address associated with hostname)\"))"
     },
@@ -181,14 +173,6 @@
     {
       "source": "Polygon_Blog",
       "error": "<unknown>:2:2292: not well-formed (invalid token)"
-    },
-    {
-      "source": "https://medium.com/feed/avalancheavax",
-      "error": "fetch error: HTTP 429"
-    },
-    {
-      "source": "Avalanche_Blog",
-      "error": "fatal parse failure"
     },
     {
       "source": "NEAR_Blog",
@@ -351,19 +335,19 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 492,
+    "passed_keywords": 494,
     "passed_allowlist": 0,
-    "failed_all_filters": 519
+    "failed_all_filters": 517
   },
   "stats": {
     "feeds_total": 97,
-    "feeds_error": 25,
+    "feeds_error": 23,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 1531,
-    "too_old": 520,
-    "dup_title_url": 88,
-    "dup_id": 380
+    "entries_seen": 1549,
+    "too_old": 538,
+    "dup_title_url": 89,
+    "dup_id": 391
   },
   "limits": {
     "skip_older_days": 10,
@@ -376,6 +360,6 @@
   },
   "processed": {
     "file": "data/processed/2026-01-12.jsonl",
-    "appended_new": 24
+    "appended_new": 14
   }
 }
