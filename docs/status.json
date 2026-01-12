@@ -1,28 +1,28 @@
 {
-  "started_utc": "2026-01-12T22:33:36Z",
-  "ended_utc": "2026-01-12T22:37:02Z",
-  "new_items_this_run": 18,
+  "started_utc": "2026-01-12T22:51:25Z",
+  "ended_utc": "2026-01-12T22:54:59Z",
+  "new_items_this_run": 8,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
     "Reuters_World": 0,
     "Reuters_Markets": 0,
     "BBC_World": 0,
-    "BBC_Business": 0,
+    "BBC_Business": 1,
     "BBC_Technology": 0,
     "Guardian_Business": 0,
-    "Guardian_World": 3,
+    "Guardian_World": 1,
     "WSJ_US_Business": 0,
     "WSJ_World": 0,
     "WSJ_Markets": 0,
     "MarketWatch_Top": 0,
     "MarketWatch_MarketPulse": 0,
     "Blockworks": 0,
-    "BitcoinMagazine": 1,
-    "CryptoSlate": 0,
+    "BitcoinMagazine": 0,
+    "CryptoSlate": 1,
     "CryptoBriefing": 0,
     "Protos": 0,
-    "CryptoNews": 2,
+    "CryptoNews": 0,
     "CoinJournal": 0,
     "Unchained": 0,
     "Bankless": 0,
@@ -66,11 +66,11 @@
     "NPR_Economy": 0,
     "NPR_World": 0,
     "NPR_Technology": 0,
-    "FT_Home": 1,
-    "FT_Markets": 1,
+    "FT_Home": 0,
+    "FT_Markets": 0,
     "CNBC_Top": 0,
     "CNBC_Markets": 0,
-    "TheVerge_All": 2,
+    "TheVerge_All": 0,
     "TechCrunch_All": 0,
     "ArsTechnica_All": 1,
     "WIRED_All": 1,
@@ -78,7 +78,7 @@
     "TheEconomist_Business": 0,
     "TheEconomist_Finance": 0,
     "Investopedia_Latest": 0,
-    "TheStreet_Top": 2,
+    "TheStreet_Top": 0,
     "AlJazeera_All": 0,
     "AlJazeera_Economy": 0,
     "FinancialPost_Business": 3,
@@ -87,7 +87,7 @@
     "WorldBank_News": 0,
     "OECD_Newsroom": 0,
     "MIT_TechReview": 0,
-    "HackerNews_Top": 1
+    "HackerNews_Top": 0
   },
   "errors": [
     {
@@ -251,6 +251,14 @@
       "error": "fatal parse failure"
     },
     {
+      "source": "https://rss.nytimes.com/services/xml/rss/nyt/Economy.xml",
+      "error": "fetch error: HTTP 404"
+    },
+    {
+      "source": "NYTimes_Economy",
+      "error": "fatal parse failure"
+    },
+    {
       "source": "https://rss.cnn.com/rss/cnn_topstories.rss",
       "error": "fetch error: HTTPSConnectionPool(host='rss.cnn.com', port=443): Max retries exceeded with url: /rss/cnn_topstories.rss (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)')))"
     },
@@ -335,19 +343,19 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 491,
+    "passed_keywords": 489,
     "passed_allowlist": 0,
-    "failed_all_filters": 531
+    "failed_all_filters": 521
   },
   "stats": {
     "feeds_total": 97,
-    "feeds_error": 23,
+    "feeds_error": 24,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 1559,
-    "too_old": 537,
-    "dup_title_url": 85,
-    "dup_id": 388
+    "entries_seen": 1539,
+    "too_old": 529,
+    "dup_title_url": 80,
+    "dup_id": 401
   },
   "limits": {
     "skip_older_days": 10,
@@ -360,6 +368,6 @@
   },
   "processed": {
     "file": "data/processed/2026-01-12.jsonl",
-    "appended_new": 18
+    "appended_new": 8
   }
 }
