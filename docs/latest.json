@@ -2,6 +2,17 @@
   {
     "published_utc": "2026-01-12",
     "retrieved_date": "2026-01-12",
+    "retrieved_utc": "2026-01-12T07:53:51Z",
+    "source": "CoinJournal",
+    "title": "Tether freezes $182M in USDT, highlighting centralized control in stablecoins",
+    "url": "https://coinjournal.net/news/tether-freezes-182m-in-usdt-highlighting-centralized-control-in-stablecoins/",
+    "id_key": "9fcb350dc01bf5959c8e5cb7e01d7912535d41ec5d589c22ecce3ccf74d7d142",
+    "summary": "The action was detected by Whale Alert and ranks among the largest single-day USDT freezes. Tether has frozen over $3 billion in assets from more than 7,000 addresses since 2023. Stablecoins now account for the majority of illicit crypto activity tracked by Chainalysis. Tether, the issuer of the world’s largest stablecoin, froze more than $180 […] The post Tether freezes $182M in USDT, highlighting centralized control in stablecoins appeared first on CoinJournal .",
+    "ingested_utc": "2026-01-12T07:53:51Z"
+  },
+  {
+    "published_utc": "2026-01-12",
+    "retrieved_date": "2026-01-12",
     "retrieved_utc": "2026-01-12T07:41:47Z",
     "source": "FinancialPost_Business",
     "title": "China Battery Shares Drop on Plan to Cut Export Tax Rebates",
@@ -10986,17 +10997,6 @@
     "url": "https://financialpost.com/pmn/business-pmn/china-warns-solar-firms-on-monopoly-risks-amid-consolidation-bid",
     "id_key": "b2866123d7b6884edc0b46c8b385a85e6b887fa906172f1ebe9955043b19439c",
     "summary": "China’s market regulator has warned several producers of polysilicon, a key material in solar panels, about monopoly risks stemming from their consolidation efforts in the oversupplied sector.",
-    "ingested_utc": "2026-01-09T04:04:06Z"
-  },
-  {
-    "published_utc": "2026-01-09",
-    "retrieved_date": "2026-01-09",
-    "retrieved_utc": "2026-01-09T04:04:06Z",
-    "source": "FinancialPost_Business",
-    "title": "Stocks Swing Before US Payrolls, Tariff Ruling: Markets Wrap",
-    "url": "https://financialpost.com/pmn/business-pmn/stocks-fluctuate-before-jobs-data-tariff-ruling-markets-wrap",
-    "id_key": "2855269cb64b4b7c2bc5524ae373dd2952ceee1ef7ee30ffdcc6e45f87928eae",
-    "summary": "Asian equities swung between small gains and losses in the runup to Friday’s US payrolls report and a possible Supreme Court ruling on President Donald Trump’s tariffs.",
     "ingested_utc": "2026-01-09T04:04:06Z"
   }
 ]
