@@ -2,6 +2,39 @@
   {
     "published_utc": "2026-01-12",
     "retrieved_date": "2026-01-12",
+    "retrieved_utc": "2026-01-12T23:52:06Z",
+    "source": "FinancialPost_Business",
+    "title": "GigaDevice Set for Hong Kong Debut After $600 Million Offering",
+    "url": "https://financialpost.com/pmn/business-pmn/gigadevice-set-for-hong-kong-debut-after-600-million-offering",
+    "id_key": "3f0e8001fbf3b37daeb3009b1a2e1037ec25c7704ba2623ce3e6c27c41362176",
+    "summary": "Hong Kong’s second semiconductor-company listing in as many days underscores growing investor interest in Chinese stocks related to artificial intelligence.",
+    "ingested_utc": "2026-01-12T23:52:06Z"
+  },
+  {
+    "published_utc": "2026-01-12",
+    "retrieved_date": "2026-01-12",
+    "retrieved_utc": "2026-01-12T23:51:50Z",
+    "source": "Engadget_All",
+    "title": "Framework increases Desktop prices by up to $460 due to RAM crisis",
+    "url": "https://www.engadget.com/computing/framework-increases-desktop-prices-by-up-to-460-due-to-ram-crisis-234827145.html?src=rss",
+    "id_key": "d592a55aa6785077670da4a5c9cce9d4eccdf445d8ac281708d79fe84b050d5f",
+    "summary": "Computer brand Framework has hiked the prices on RAM for its Desktop systems and Mainframes in response to rising costs with its suppliers. Compared with when the Desktops were announced , the 32GB and 64GB options each cost $40 more, but its 128GB variation now costs an extra $460. The current pricing for machines is $1,139 for 32GB, $1,639 for 64GB or $2,459 for 128GB. Since the company began altering its pricing structure last month, it committed to remaining transparent with customers about the changes happening to RAM prices. Framework also said it would reduce prices again once the market calms down. The original prices will be honored for any existing pre-orders. One of the big takeaways from CES 2026 was that RAM is going to be an expensive commodity this year. The rising costs are largely in response to artificial intelligence projects, such as the rush to build data centers. As a result, buyers who take the modular approach may want to upgrade less costly components for better specs without making the increasingly hefty investment in memory. This article originally appeared on Engadget at https://www.engadget.com/computing/framework-increases-desktop-prices-by-up-to-460-due-to-ram-crisis-234827145.html?src=rss",
+    "ingested_utc": "2026-01-12T23:51:50Z"
+  },
+  {
+    "published_utc": "2026-01-12",
+    "retrieved_date": "2026-01-12",
+    "retrieved_utc": "2026-01-12T23:51:30Z",
+    "source": "FT_Home",
+    "title": "Top Republicans denounce justice department’s criminal probe into Fed chair",
+    "url": "https://www.ft.com/content/0af6d453-84dc-46bc-90b6-711242adde73",
+    "id_key": "2adb06c89dad25d2ed14fb35cfe2bb1a11ff481d22ce127d85891bb5bc996b5c",
+    "summary": "Backlash builds as Trump administration’s prosecutors target head of US central bank",
+    "ingested_utc": "2026-01-12T23:51:30Z"
+  },
+  {
+    "published_utc": "2026-01-12",
+    "retrieved_date": "2026-01-12",
     "retrieved_utc": "2026-01-12T23:41:34Z",
     "source": "AlJazeera_All",
     "title": "Trump says any country doing business with Iran will face 25 percent tariff",
@@ -10965,38 +10998,5 @@
     "id_key": "7383422ba74fac1a6922218cf7663244d3ce517a168a83a12c861850a570d2ce",
     "summary": "TORONTO — Stock markets in Canada and the U.S. set record highs on Friday, as investors sifted through employment data in both countries. Adam Ludwick, the director of asset allocation at NEI Investments, said that Friday’s trading session felt like a continuation of the trends that drove markets in 2025. He noted that the basic […]",
     "ingested_utc": "2026-01-09T21:54:10Z"
-  },
-  {
-    "published_utc": "2026-01-09",
-    "retrieved_date": "2026-01-09",
-    "retrieved_utc": "2026-01-09T21:54:10Z",
-    "source": "FinancialPost_Business",
-    "title": "The past and potential of Venezuela’s oil sector, and what it means for Canada",
-    "url": "https://financialpost.com/pmn/business-pmn/the-past-and-potential-of-venezuelas-oil-sector-and-what-it-means-for-canada-3",
-    "id_key": "2ba2f268d298791fd9dfe6525c658edac1bbdd86faf47c212b3296558ab0c7c6",
-    "summary": "CALGARY — U.S. President Donald Trump’s ambition to have U.S. energy companies swoop in and revive Venezuela’s beleaguered oil industry has raised questions about what it means for Canadian oilsands producers and whether it’s a task American supermajors can or even want to take on. Here is a rundown of the past and potential of […]",
-    "ingested_utc": "2026-01-09T21:54:10Z"
-  },
-  {
-    "published_utc": "2026-01-09",
-    "retrieved_date": "2026-01-09",
-    "retrieved_utc": "2026-01-09T21:54:10Z",
-    "source": "FinancialPost_Business",
-    "title": "The new era of resource imperialism",
-    "url": "https://financialpost.com/financial-times/new-era-of-resource-imperialism",
-    "id_key": "fe5d3165dc1a05ca195b6662d6f3a760022e5e8e8347ffe78b1e84814631d0a9",
-    "summary": "Trump's military actions in Venezuela show how U.S. foreign policy has become geared towards securing access to energy and critical minerals",
-    "ingested_utc": "2026-01-09T21:54:10Z"
-  },
-  {
-    "published_utc": "2026-01-09",
-    "retrieved_date": "2026-01-09",
-    "retrieved_utc": "2026-01-09T21:54:03Z",
-    "source": "AlJazeera_All",
-    "title": "Diaz scores again as Morocco edge out Cameroon in AFCON 2025 quarterfinal",
-    "url": "https://www.aljazeera.com/sports/2026/1/9/morocco-edge-out-cameroon-to-reach-afcon-2025-semifinals?traffic_source=rss",
-    "id_key": "6c841df6ec56512fcb61d5a9b19c93f1f975e8bc6b1d14d4f401b6247b2be484",
-    "summary": "Real Madrid's Brahim Diaz continues 2025 AFCON scoring streak as Morocco edge out Cameroon in quarterfinals.",
-    "ingested_utc": "2026-01-09T21:54:03Z"
   }
 ]
