@@ -2,6 +2,17 @@
   {
     "published_utc": "2026-01-13",
     "retrieved_date": "2026-01-13",
+    "retrieved_utc": "2026-01-13T11:00:58Z",
+    "source": "HackerNews_Top",
+    "title": "Data Exfiltration via DNS Resolution",
+    "url": "https://github.com/anthropic-experimental/sandbox-runtime/issues/88",
+    "id_key": "27bc7186dee8f00a93893b9a6a973274934b288077a378ef64f144db8257acc2",
+    "summary": "Comments",
+    "ingested_utc": "2026-01-13T11:00:58Z"
+  },
+  {
+    "published_utc": "2026-01-13",
+    "retrieved_date": "2026-01-13",
     "retrieved_utc": "2026-01-13T10:47:39Z",
     "source": "FinancialPost_Business",
     "title": "JPMorgan Says Prepare for More Volatility in Energy Transition",
@@ -10986,17 +10997,6 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/1/10/israel-issues-demolition-order-for-occupied-west-bank-football-pitch?traffic_source=rss",
     "id_key": "f70ed5f815e4a5cb8932c0a649b97f2d048a786072a6574a2d18a9ddf36d3d02",
     "summary": "Israeli authorities have issued a demolition order against a football pitch in a Palestinian refugee camp.",
-    "ingested_utc": "2026-01-10T13:42:50Z"
-  },
-  {
-    "published_utc": "2026-01-10",
-    "retrieved_date": "2026-01-10",
-    "retrieved_utc": "2026-01-10T13:42:50Z",
-    "source": "AlJazeera_All",
-    "title": "Bangladesh cricket ‘affected’ by off-field tensions ahead of T20 World Cup",
-    "url": "https://www.aljazeera.com/sports/2026/1/10/bangladesh-cricket-affected-by-off-field-tensions-ahead-of-t20-world-cup?traffic_source=rss",
-    "id_key": "fb9e5aeb7042f7c54d6f9853a5e9ca5d760d775afee4328f833b7716e39b985f",
-    "summary": "Bangladesh Test captain Najmul Hossain Shanto has spoken of the pressure on teammates as T20 World Cup looms in India.",
     "ingested_utc": "2026-01-10T13:42:50Z"
   }
 ]
