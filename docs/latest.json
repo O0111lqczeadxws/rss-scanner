@@ -2,6 +2,149 @@
   {
     "published_utc": "2026-01-13",
     "retrieved_date": "2026-01-13",
+    "retrieved_utc": "2026-01-13T04:02:04Z",
+    "source": "TechCrunch_All",
+    "title": "Meta-backed Hupo finds growth after pivot to AI sales coaching from mental wellness",
+    "url": "https://techcrunch.com/2026/01/12/meta-backed-hupo-finds-growth-after-pivot-to-ai-sales-coaching-from-mental-wellness/",
+    "id_key": "e7dd114b3d7c6f50f81d93c2acd0faf37182acae5df4c8bfb247d93841c922c4",
+    "summary": "Hupo, backed by Meta, pivoted from mental wellness to AI sales coaching for banks and insurers, and secured a $10M Series A led by DST Global",
+    "ingested_utc": "2026-01-13T04:02:04Z"
+  },
+  {
+    "published_utc": "2026-01-13",
+    "retrieved_date": "2026-01-13",
+    "retrieved_utc": "2026-01-13T04:01:48Z",
+    "source": "FT_Markets",
+    "title": "Japan’s finance minister fuels speculation about yen intervention",
+    "url": "https://www.ft.com/content/54a3eca2-33cf-474c-ba87-098489a8eee2",
+    "id_key": "6b358e69aa177b0c51ace37cd87c693eac2ff2f9b35709ee56c3b88e274df56a",
+    "summary": "Satsuki Katayama says US Treasury secretary shares Tokyo’s concerns about currency’s weakness",
+    "ingested_utc": "2026-01-13T04:01:48Z"
+  },
+  {
+    "published_utc": "2026-01-13",
+    "retrieved_date": "2026-01-13",
+    "retrieved_utc": "2026-01-13T04:01:46Z",
+    "source": "FT_Home",
+    "title": "DoJ’s probe into Powell galvanises Fed leaders to repel Trump attacks",
+    "url": "https://www.ft.com/content/c5bfbc6d-cd05-4f53-b3b0-5a2de80c139a",
+    "id_key": "476377e6859da84dca423a5268e4baf0ca873c6976d31c3edd85caf40b2d1214",
+    "summary": "Federal Reserve chair could stay on board beyond this year in effort to protect US central bank’s independence",
+    "ingested_utc": "2026-01-13T04:01:46Z"
+  },
+  {
+    "published_utc": "2026-01-13",
+    "retrieved_date": "2026-01-13",
+    "retrieved_utc": "2026-01-13T04:01:34Z",
+    "source": "NYTimes_Business",
+    "title": "Labor Secretary’s Aides Placed on Leave in Misconduct Investigation",
+    "url": "https://www.nytimes.com/2026/01/12/business/lori-chavez-deremer-misconduct-investigation.html",
+    "id_key": "2505dc2a98b48861e014fddcc6f7db0c5e746fa79933d529def77993ec3a67f7",
+    "summary": "The Labor Department is investigating a complaint alleging misconduct by Secretary Lori Chavez-DeRemer.",
+    "ingested_utc": "2026-01-13T04:01:34Z"
+  },
+  {
+    "published_utc": "2026-01-13",
+    "retrieved_date": "2026-01-13",
+    "retrieved_utc": "2026-01-13T04:01:15Z",
+    "source": "Guardian_World",
+    "title": "Australia news live: Adelaide writers’ week cancelled as board apologises to Randa Abdel-Fattah for ‘how decision was represented’",
+    "url": "https://www.theguardian.com/australia-news/live/2026/jan/13/anthony-albanese-labor-hate-speech-laws-politics-coalition-sussan-ley-adelaide-festival-writers-week-reactions-victoria-bushfires-queensland-floods-ntwnfb",
+    "id_key": "e985d67eb6237c192e2b451a138f1b29bd0477d874178615a3e7cbbfbfd41d22",
+    "summary": "Follow updates live Adelaide writers’ week 2026 cancelled as board apologises to Randa Abdel-Fattah for ‘how decision was represented’ Get our breaking news email , free app or daily news podcast New role a ‘continuation of Rudd’s public service’, PM says Albanese said the decision to step down was “entirely” Rudd ’s, but said the ambassador’s next role will only continue his work to advance the public interest. Kevin Rudd has a work ethic unlike anyone I’ve ever met. … He sees this as a continuation of his public service, not just to Australia but to the global community. I have seen first-hand how hard he works, not just in the last few years but throughout his public life. He’s always brought an extraordinary level of energy and discipline to public service. He applied his relentless effort, his experience, intellect and determination to advance Australia’s interests in Washington, and Kevin Rudd has served the nation well. Continue reading...",
+    "ingested_utc": "2026-01-13T04:01:15Z"
+  },
+  {
+    "published_utc": "2026-01-13",
+    "retrieved_date": "2026-01-13",
+    "retrieved_utc": "2026-01-13T04:00:51Z",
+    "source": "Optimism_Releases",
+    "title": "op-proposer/v1.10.2",
+    "url": "https://github.com/ethereum-optimism/optimism/releases/tag/op-proposer%2Fv1.10.2",
+    "id_key": "51c7239cda6ce9fbbcfa7da0eb85d9f6213858ff3a28bcab960565ebffd0bcf1",
+    "summary": "Overview This is a minor release of op-proposer that includes important bug fixes. It is a required upgrade for all users. What's Changed Preparation for a future interop release RPC metrics are now enabled by default Full commit list 14 commits since op-proposer/v1.10.0: 0cad90f96d Move Proposed Sequence Number into Prometheus Factory (#16771) 56b21f7e42 Dispute-mon uses lazy dial, and add new `DialSupervisorClientWithTimeout()` (#16911) adf4bbb06d Remove timeout parameter from dial functions (#16864) b6635e750f op-proposer: clarify documentation for `poll-interval` (#15717) 3459e84184 op-proposer: edge case when L1 view not updated (#15340) b947903ff8 chore: Remove completed todos (#15254) 83b1ffc37f go: RPC metrics by default (#15127) f21f368f30 op-service: aggregate RPC API interfaces (#15071) d5cb9a202a devnet-sdk: Go in-process backend (#14915) 9653cff95b op-supervisor: Add RPC metrics (#14841) cb704c1dc6 Use SuperFaultDisputeGame ABI in more tests (#14867) 7cab3e79be Add ToSuper() method to convert super reponse to Super instance. (#14670) Full Changelog : op-proposer/v1.10.0...op-proposer/v1.10.2 🚢 Docker Image: https://us-docker.pkg.dev/oplabs-tools-artifacts/images/op-proposer:v1.10.2",
+    "ingested_utc": "2026-01-13T04:00:51Z"
+  },
+  {
+    "published_utc": "2026-01-13",
+    "retrieved_date": "2026-01-13",
+    "retrieved_utc": "2026-01-13T04:00:51Z",
+    "source": "Optimism_Releases",
+    "title": "op-dispute-mon/v1.4.2",
+    "url": "https://github.com/ethereum-optimism/optimism/releases/tag/op-dispute-mon%2Fv1.4.2",
+    "id_key": "29733c0d67c7aee57803567d0ae1dcbda3998a3ed17f308fa4752263625be79a",
+    "summary": "Overview This release of op-dispute-mon includes support for Upgrade 18, plus minor bug fixes and improvements. It is a required upgrade for all users. What's Changed Support for cannon-kona games Remove asterisc support Add support for using multiple rollup nodes for redundancy --rollup-rpc takes a comma-separated list of nodes. New metrics for node disagreement Now considers a node invalid if it has not processed L1 past the game head Log RPC URLs on startup Preparation for a future interop release Preparation for a future ZK proofs release Full commit list fcd09d5a73 op-dispute-mon: Update list of output root game types (#18469) 0eff436031 op-challenger: Move GameType to the game/type package instead of game/fault/type (#18432) ec2875f7c2 op-challenger: Update list-games sub command to support optimistic zk games (#18393) c14d6a1fe3 op-dispute-mon: Rename L2BlockNumber to L2SequenceNumber (#18278) 284f9aa67d dispute-mon: new metric to track out-of-sync node endpoints (#18105) ffd02b0815 op-dispute-mon: node endpoint error metrics (#17622) 690a1a6ee0 dispute-mon: log RPC URLs on startup (#17986) a3f8850983 op-challenger: Support retrieving the oracle and prestate via game args. (#17958) 4554c9fb14 op-dispute-mon: Consider node invalid if it has not processed L1 past the game head (#17831) 0c68e87b7e op-dispute-mon: distinguish 404 from output root not found (#17819) 06799ecb0c op-dispute-mon: Support cannon-kona games (#17380) 56b21f7e42 Dispute-mon uses lazy dial, and add new `DialSupervisorClientWithTimeout()` (#16911) adf4bbb06d Remove timeout parameter from dial functions (#16864) 14e9bac691 dispute-mon uses multiple supervisor nodes (#16517) 904568fcc3 dispute-mon: remove lazy dial option (#16720) c2c4e23e0e op-dispute-mon: Fix racy test (#16697) d5e9f8830b Dispute-mon checks output roots against multiple rollup nodes (#16490) Full Changelog : op-dispute-mon/v1.4.1...op-dispute-mon/v1.4.2 🚢 Docker Image: https://us-docker.pkg.dev/oplabs-tools-artifacts/images/op-dispute-mon:v1.4.2",
+    "ingested_utc": "2026-01-13T04:00:51Z"
+  },
+  {
+    "published_utc": "2026-01-13",
+    "retrieved_date": "2026-01-13",
+    "retrieved_utc": "2026-01-13T04:00:51Z",
+    "source": "Optimism_Releases",
+    "title": "op-challenger/v1.8.0",
+    "url": "https://github.com/ethereum-optimism/optimism/releases/tag/op-challenger%2Fv1.8.0",
+    "id_key": "8c9ec0227d68b8f2229769c1be5fa60ce44397f729c0a748cc35de9e39e47e88",
+    "summary": "Overview This release of op-challenger includes support for Upgrade 18, plus minor bug fixes and improvements. It is a required upgrade for all users. What's Changed Challenge proposals that are still unsafe Renamed --trace-type to --game-types (old name still works for backwards compatibility) Stop kona-host using color in logs Preparation for a future ZK proofs release Preparation for a future interop release Cannon changes: Upgrade op-geth Default to cannon VM version 8 Fix support for state version 7 in latest docker builds (ensure older cannon is used for state version 7 when building multicannon) Include state version in witness output Fix shutdown process to ensure preimage server channels are closed Ensure temp files are removed before exiting Fixed kona-host not exiting when client program completed (left cannon hung) Full commit list: 7672c9a03d op-challenger: Challenge proposals that are still unsafe. (#18467) 6788384414 op-challenger: Reclaim bonds for optimistic zk games (#18465) 991a4a7f1c op-challenger: Support resolving optimistic zk games (#18464) 813b8cd668 op-challenger: Stop bundling asterisc (#18476) 8560d3f6c5 op-challenger: Challenge invalid ZK games (#18442) c329947e1e op-challenger: Introduce generic Player (#18441) 13e3a7cceb op-challenger: Make client provider a service level concept (#18440) 78350cae70 op-challenger: Remove TraceType and just use GameType. (#18433) 0eff436031 op-challenger: Move GameType to the game/type package instead of game/fault/type (#18432) ec2875f7c2 op-challenger: Update list-games sub command to support optimistic zk games (#18393) 26fa4659df op-challenger: Support super-kona games (#18184) Cannon changes: 5ac4462097 Enforce deterministic shell script formatting with shfmt (#18329) 6ba2f38c73 all: upgrade op-geth (#18214) f05a6c774b cannon: Ensure cannon temp files are removed before exiting. (#18312) 78ece5b9f1 cannon: Fix support for state version 7 in latest docker builds (#18311) a6b855324d cannon: Add go 1.25 tests (#18279) 269df986a8 cannon: Fix shutdown process to ensure preimage server channels are closed (#18229) 04297f076b challenger: Stop kona-host using color in logs (#18182) ad16c940c3 cannon: Include state version in witness output (#18068) 9a911ec592 cannon: Default to cannon VM version 8 (#18062) Full Changelog : op-challenger/v1.7.0...op-challenger/v1.8.0 🚢 Docker Image: https://us-docker.pkg.dev/oplabs-tools-artifacts/images/op-challenger:v1.8.0",
+    "ingested_utc": "2026-01-13T04:00:51Z"
+  },
+  {
+    "published_utc": "2026-01-13",
+    "retrieved_date": "2026-01-13",
+    "retrieved_utc": "2026-01-13T03:59:24Z",
+    "source": "Guardian_World",
+    "title": "Australia news live: Adelaide writers’ week cancelled as festival board apologises to Randa Abdel-Fattah",
+    "url": "https://www.theguardian.com/australia-news/live/2026/jan/13/anthony-albanese-labor-hate-speech-laws-politics-coalition-sussan-ley-adelaide-festival-writers-week-reactions-victoria-bushfires-queensland-floods-ntwnfb",
+    "id_key": "fdb50b7ec8bd9cfdfd90859c044c96d46397d58d24973fbad6f554eb57999193",
+    "summary": "Follow updates live Louise Adler resigns as director of Adelaide writers’ week Get our breaking news email , free app or daily news podcast New role a ‘continuation of Rudd’s public service’, PM says Albanese said the decision to step down was “entirely” Rudd ’s, but said the ambassador’s next role will only continue his work to advance the public interest. Kevin Rudd has a work ethic unlike anyone I’ve ever met. … He sees this as a continuation of his public service, not just to Australia but to the global community. I have seen first-hand how hard he works, not just in the last few years but throughout his public life. He’s always brought an extraordinary level of energy and discipline to public service. He applied his relentless effort, his experience, intellect and determination to advance Australia’s interests in Washington, and Kevin Rudd has served the nation well. Continue reading...",
+    "ingested_utc": "2026-01-13T03:59:24Z"
+  },
+  {
+    "published_utc": "2026-01-13",
+    "retrieved_date": "2026-01-13",
+    "retrieved_utc": "2026-01-13T03:59:24Z",
+    "source": "Guardian_World",
+    "title": "Minnesota and Illinois sue Trump administration over immigration crackdown – as it happened",
+    "url": "https://www.theguardian.com/us-news/live/2026/jan/12/donald-trump-ice-minnesota-fed-jerome-powell-iran-cuba-venezuela-greenland-us-politics-live-news-updates",
+    "id_key": "80192ea1d987da85aee457928a2874cdf6d110852bae3b79faa8e5d252c25d45",
+    "summary": "This live blog is now closed. Minnesota sues Trump administration to end surge of ICE agents in state Trump news at a glance: White House doubles down on threat of ‘lethal force’ against Iran amid unrest In response to the news overnight that Donald Trump’s justice department has launched a criminal investigation into Federal Reserve chair Jerome Powell , the Senate banking committee’s top Democrat – Elizabeth Warren – has warned that her colleagues should not move forward with the president’s nominee for the role when Powell’s term expires at in May of this year. Warren accused the president of wanting to “install another sock puppet to complete his corrupt takeover of America’s central bank”. Trump is abusing the authorities of the Department of Justice like a wannabe dictator so the Fed serves his interests, along with his billionaire friends. This Committee and the Senate should not move forward with any Trump nominee for the Fed, including Fed Chair. Continue reading...",
+    "ingested_utc": "2026-01-13T03:59:24Z"
+  },
+  {
+    "published_utc": "2026-01-13",
+    "retrieved_date": "2026-01-13",
+    "retrieved_utc": "2026-01-13T03:59:20Z",
+    "source": "BBC_World",
+    "title": "Death toll in Philippines landfill collapse rises to 11",
+    "url": "https://www.bbc.com/news/articles/c9wxg4e09jzo?at_medium=RSS&at_campaign=rss",
+    "id_key": "da87717ddb6e27284735b5afd60ea2c193b697bd7522335db18ecac590f2da1b",
+    "summary": "Hopes of finding survivors have dimmed as more than 20 people remain missing in the debris.",
+    "ingested_utc": "2026-01-13T03:59:20Z"
+  },
+  {
+    "published_utc": "2026-01-13",
+    "retrieved_date": "2026-01-13",
+    "retrieved_utc": "2026-01-13T03:59:20Z",
+    "source": "BBC_World",
+    "title": "How will investigators determine if Minneapolis ICE shooting was justified?",
+    "url": "https://www.bbc.com/news/articles/cvgnvqrxl0xo?at_medium=RSS&at_campaign=rss",
+    "id_key": "68e5c3bb131d25fce54728d1ef2dd61e93dc73df11ce4d843211bd289986ff44",
+    "summary": "Officials will examine video footage and policy guidelines as part of the investigation, experts told the BBC.",
+    "ingested_utc": "2026-01-13T03:59:20Z"
+  },
+  {
+    "published_utc": "2026-01-13",
+    "retrieved_date": "2026-01-13",
+    "retrieved_utc": "2026-01-13T03:59:20Z",
+    "source": "BBC_World",
+    "title": "The Indian superstar taking a shot at political greatness",
+    "url": "https://www.bbc.com/news/articles/cx2k5kxk3plo?at_medium=RSS&at_campaign=rss",
+    "id_key": "c05eb7f55b2df4fcc36bd057f851a707c9547bef4d5bf630814f4712af3adedf",
+    "summary": "Vijay draws Gen Z crowds and fan devotion, but analysts question whether movie stardom can convert into votes.",
+    "ingested_utc": "2026-01-13T03:59:20Z"
+  },
+  {
+    "published_utc": "2026-01-13",
+    "retrieved_date": "2026-01-13",
     "retrieved_utc": "2026-01-13T02:55:34Z",
     "source": "HackerNews_Top",
     "title": "Tell HN: DigitalOcean's managed services broke each other after update",
@@ -482,6 +625,28 @@
     "id_key": "7b2e22a332269f182995dcfeb62906850b1d09df983fbb5feb7e224458a55a6f",
     "summary": "Self-governing island stresses it is member of Nato, which is looking at improving Arctic defences, through Denmark Greenland’s government has said it “cannot under any circumstances accept” Donald Trump’s desire to take control of Greenland, as Nato’s secretary general, Mark Rutte, said the organisation was working on ways to bolster Arctic security. At the start of a critical week for the vast Arctic island, a largely self-governing part of Denmark, the US president restated his interest in the strategically located, mineral-rich territory, saying the US would take it “one way or the other”. Continue reading...",
     "ingested_utc": "2026-01-13T00:55:42Z"
+  },
+  {
+    "published_utc": "2026-01-12",
+    "retrieved_date": "2026-01-13",
+    "retrieved_utc": "2026-01-13T03:59:20Z",
+    "source": "BBC_World",
+    "title": "Trump announces 25% tariff on countries doing business with Iran",
+    "url": "https://www.bbc.com/news/articles/clyev0kpk77o?at_medium=RSS&at_campaign=rss",
+    "id_key": "a45b8048b65c95a0115c7903ff7bd685142f794629d6e7f1e4ce83c29ad7749b",
+    "summary": "Trump says the new levy is \"effective immediately\" as anti-government protests in Iran enter a third week.",
+    "ingested_utc": "2026-01-13T03:59:20Z"
+  },
+  {
+    "published_utc": "2026-01-12",
+    "retrieved_date": "2026-01-13",
+    "retrieved_utc": "2026-01-13T03:59:20Z",
+    "source": "BBC_World",
+    "title": "Lyse Doucet: Iran's rulers face biggest challenge since 1979 revolution",
+    "url": "https://www.bbc.com/news/articles/c3ve572edzqo?at_medium=RSS&at_campaign=rss",
+    "id_key": "33e4c5999aa735e50f360466fc8efdda45d462e636e1673eebac5e2ac6d7e5d6",
+    "summary": "The authorities are responding to protests with a ferocious security crackdown and near total internet shutdown.",
+    "ingested_utc": "2026-01-13T03:59:20Z"
   },
   {
     "published_utc": "2026-01-12",
@@ -6491,6 +6656,17 @@
   },
   {
     "published_utc": "2026-01-11",
+    "retrieved_date": "2026-01-13",
+    "retrieved_utc": "2026-01-13T03:59:21Z",
+    "source": "BBC_Business",
+    "title": "'I had no electricity for six months': US families struggle with soaring energy prices",
+    "url": "https://www.bbc.com/news/articles/c1dz0dz0zkvo?at_medium=RSS&at_campaign=rss",
+    "id_key": "d692013afddb170f942f4766df1e50c1ad4211dfd32361eb54c11cf1148cb977",
+    "summary": "Rising electricity costs have emerged as a key cost-of-living concern, pushing families further into debt.",
+    "ingested_utc": "2026-01-13T03:59:21Z"
+  },
+  {
+    "published_utc": "2026-01-11",
     "retrieved_date": "2026-01-12",
     "retrieved_utc": "2026-01-12T14:20:47Z",
     "source": "TheStreet_Top",
@@ -10822,181 +10998,5 @@
     "id_key": "b9e22e8c6a6ce2ba1a23ee06ff191c311a806bb462db765a03aa665f0dcd9278",
     "summary": "",
     "ingested_utc": "2026-01-10T01:00:36Z"
-  },
-  {
-    "published_utc": "2026-01-10",
-    "retrieved_date": "2026-01-10",
-    "retrieved_utc": "2026-01-10T01:00:36Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "Airbus wins orders for 148 planes in China while Boeing stalls",
-    "url": "https://asia.nikkei.com/business/transportation/airbus-wins-orders-for-148-planes-in-china-while-boeing-stalls",
-    "id_key": "a84aa6f48d79ba3cc76bf3579ad65ec18cd0710f423425d557e1085bd79ef800",
-    "summary": "",
-    "ingested_utc": "2026-01-10T01:00:36Z"
-  },
-  {
-    "published_utc": "2026-01-10",
-    "retrieved_date": "2026-01-10",
-    "retrieved_utc": "2026-01-10T01:00:36Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "Japan's Yamato opens massive logistics center in India",
-    "url": "https://asia.nikkei.com/spotlight/supply-chain/japan-s-yamato-opens-massive-logistics-center-in-india",
-    "id_key": "58271066c19b9206509283f5c1cef1a7f7de2b79afc1c33558823c2a79e5e24f",
-    "summary": "",
-    "ingested_utc": "2026-01-10T01:00:36Z"
-  },
-  {
-    "published_utc": "2026-01-10",
-    "retrieved_date": "2026-01-10",
-    "retrieved_utc": "2026-01-10T01:00:36Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "Samsung Q4 profit triples as memory shortages drive up chip prices",
-    "url": "https://asia.nikkei.com/business/ces-2026/samsung-q4-profit-triples-as-memory-shortages-drive-up-chip-prices",
-    "id_key": "15839bef2054da0c08bd9d82305f0f1184fa43a8635485d88807a92fba2eb93b",
-    "summary": "",
-    "ingested_utc": "2026-01-10T01:00:36Z"
-  },
-  {
-    "published_utc": "2026-01-10",
-    "retrieved_date": "2026-01-10",
-    "retrieved_utc": "2026-01-10T01:00:34Z",
-    "source": "FinancialPost_Business",
-    "title": "Portland Police Confirm Gang Ties of Two Shot by Border Patrol",
-    "url": "https://financialpost.com/pmn/business-pmn/portland-police-confirm-gang-ties-of-two-shot-by-border-patrol",
-    "id_key": "272051b08169c82bac455ec98c1fef11603c23325bb797e0cc0e451e01516a65",
-    "summary": "Two people shot by a Customs and Border Patrol agent in Portland, Oregon, Thursday were associated with Venezuelan gang Tren de Aragua, the city’s police chief said Friday, confirming an earlier account from the Trump administration.",
-    "ingested_utc": "2026-01-10T01:00:34Z"
-  },
-  {
-    "published_utc": "2026-01-10",
-    "retrieved_date": "2026-01-10",
-    "retrieved_utc": "2026-01-10T01:00:17Z",
-    "source": "Engadget_All",
-    "title": "Engadget's best of CES 2026: All the new tech that caught our eye in Las Vegas",
-    "url": "https://www.engadget.com/engadgets-best-of-ces-2026-all-the-new-tech-that-caught-our-eye-in-las-vegas-200057123.html?src=rss",
-    "id_key": "d0354b84862c8dcf85db1ba674206c4a84e751f4551e398be5d7dd7d83869e04",
-    "summary": "Over 4,000 exhibitors flocked to Las Vegas, Nevada this week to showcase their wares at CES 2026. The Engadget team, as usual, was out in full force covering the show. The week began with press conferences from huge companies at the show, mostly filled with AI buzzwords, vague promises and quite little in the way of hard news. More than one company even decided to forgo announcing things during their conferences to make way for more AI chatter, only to publish press releases later quietly admitting that, yes, actually, they did make some consumer technology. It's appropriate, I guess, that as we're beginning to feel the knock-on cost effects of the AI industry's insatiable appetite for compute resources — higher utility bills and device prices — companies would rather use their flashy conferences to reinforce AI's supposedly must-have attributes rather than actually inform the public about their new products. We're by no means AI luddites at Engadget, but it's fair to say that our team is more excited by tangible products that enrich our lives than iterative improvements to large language models. So, away from all of the bombast of NVIDIA's marathon keynote and Lenovo's somehow simultaneously gaudy and dull Sphere show, it's been a pleasure to evaluate the crowd of weird new gadgets , appliances, toys and robots vying for our attention. Over the course of several days of exhaustive discussion and impassioned pitching, our CES team has whittled down the hundreds of products we saw to pick our favorites. Starting with an initial shortlist of around 50 candidates across a diverse range of product categories, we eventually landed on 15 winners and our singular best in show. If you've been with us all week, stay tuned for a lot more to come — despite publishing almost 200 articles from the show already, there's still plenty we have to tell you about. For now, though, here are our winners, each introduced by the editor most familiar with it. — Aaron Souppouris, Editor-in-chief Best robot: Switchbot Onero H1 Onero H1 robot Onero We saw a lot of robots showing off intriguing and useful capabilities at CES 2026. While a lot of robots impressed us, there were fewer companies willing to commit to actually making them available. But Switchbot's Onero H1, which we watched pick up clothes and load a washing machine, is a helper robot the company intends to sell this year. The demo we saw was limited, but Switchbot claims it can help with an array of household chores (even if it might do them more slowly than a human). It's also kind of cute. The company hasn't said how much Onero will cost, though it promises the droid will be less than $10,000. A nearly five-figure price tag is still out of reach for most, but it at least gives us hope we'll see it somewhere outside of the CES showfloor. — Karissa Bell, Senior reporter Best accessibility tech: WheelMove WheelMove power assist for manual wheelchairs Cheyenne MacDonald for Engadget WheelMove offers a simple upgrade for manual wheelchairs that could make it much easier for the rider to navigate rough surfaces like grass and uneven dirt paths. The add-on is affixed to the front bars of the wheelchair and can lift the small caster wheels off the ground, in addition to providing power assistance with five speed options. It's portable, has a decent range of about 15 miles — with the option to swap out its battery on the go — and could give wheelchair users greater access to areas that would otherwise be difficult to move about in. It can also keep the wheelchair from speeding up when a person is traveling on a downward slope. This feels very much like a product that will actually see the light of day, and could be genuinely helpful. It builds upon an existing category of wheelchair accessories to address a real issue in a way that doesn't overcomplicate things, and would work with the wheelchairs people already use. — Cheyenne MacDonald, Weekend editor Best TV: LG Wallpaper TV (OLED Evo W6) LG OLED Evo W6 \"Wallpaper TV\" LG I’ve seen plenty of TVs at CES this year, but few stopped me in my tracks like LG’s OLED Evo W6 . It’s the resurrection of the company’s “Wallpaper TV,” but this time it’s even thinner (about the depth of a pencil), and it’s no longer tied to a soundbar. It also uses LG’s wireless control box to reduce cabling — the only cord you need to hide is the one for power. And best of all, the OLED Evo W6 features LG’s latest OLED technology, which promises to be about 20 percent brighter than previous generations. Video demos looked absolutely stunning, with all of the wonderful contrast and black levels we’ve come to love from OLED. But it’s also a work of art when it’s turned off, one that practically disappears when viewed from an angle. — Devindra Hardawar, Senior reporter Best AI hardware: Subtle Voicebuds Subtle Voicebuds Subtle Subtle’s Voicebuds are earbuds with a twist: They feature an AI model that’s trained to transcribe your voice accurately in very noisy environments, or when it's below a whisper in quiet spaces. We’ve seen these things in action on the bustling CES show floor, where they managed to transcribe several sentences amid the chaos. The only downsides is that the Voicebuds require internet access to use the best transcription models, and you need to subscribe to the Subtle app to use it. Without the app, it relies on a smaller local model for transcription. While we still need to put the Voicebuds through their paces, they’re intriguing because we haven’t seen many genuinely useful AI hardware products. Plus, it’s been a while since we’ve seen a tiny startup deliver hardware trying to take on the likes of Apple. — Devindra Hardawar, Senior reporter Best smart home: IKEA Matter-compatible smart home IKEA KAJPLATS smart bulb range IKEA The best smart home devices I saw at CES had nothing to do with AI or robots. It seems every other company, from Bosch to LG to Samsung , had one or both of the buzzy technologies baked into their new smart home offerings. But IKEA came to its first CES with a simple lineup of basic, Matter-enabled smart plugs, sensors, lamps and remotes at screamingly good prices. Function paired with accessible pricing is sort of what IKEA is known for, so the lineup didn’t exactly surprise me as much as make me appreciate that someone is finally simplifying and democratizing smart home stuff. There are 21 Matter-compatible devices in all. They include a $6 smart bulb, an $8 smart plug, a $6 smart remote and a slew of home sensors. A slightly pricier ($15) globe bulb looks very lovely. Finally, there’s a smart bulb you’d actually want to look at — one that doesn’t cost $50. Another standout is the BILREA remote control. Not only is it an intuitive controller for IKEA’s smart devices and new smart lamps, it also has a magnetic mount so you don’t lose the thing. Matter devices require a hub to function. Here, you can either go for IKEA’s own DIRIGERA or use a Matter hub you already own. The new lineup should land at IKEA’s website and stores sometime in January. — Amy Skorheim, Senior reporter Best home theater: Samsung HW-QS90H Samsung HW-QS90H soundbar Billy Steele for Engadget Many companies claim their soundbars have enough bass that you don’t need a separate subwoofer. Those promises rarely pan out, even when the company devises new technology to solve the problem. With the HW-QS90H , Samsung is pledging to do the same with its Quad Bass woofer system. Those woofers move in two directions, producing a lot more low-end tone than most soundbars are capable of on their own. What’s more, Samsung included its Convertible Fit Design tech that debuted last year, so you can lay this speaker flat or mount it on a wall and the built-in sensors will automatically adjust the driver output accordingly. So, if you’ve longed for deep bass on a soundbar without a large or ugly sub in the corner, you may finally get your wish later this year. — Billy Steele, Deputy editor Best audio: Shokz OpenFit Pro Shokz OpenFit Pro Shokz When it comes to open fit earbuds, companies that claim to offer active noise cancellation (ANC) usually don’t deliver; It’s difficult to effectively block external sound when your ears aren’t completely sealed off. Shokz is one of the few that has cracked the code with its OpenFit Pro . The over-the-ear hook design allows the earbuds to sit outside of your ear for a clear line to your surroundings. When you need a bit more quiet, the company’s noise reduction tech does well to silence moderate sounds in a cafe, office and more. It’s seriously impressive how much noise reduction you’ll get here, and the fact that nothing is stuck in your ear canals makes them very comfortable to wear. Plus, Shokz improved overall sound quality with new drivers, and tacked on Dolby Atmos for good measure. — Billy Steele, Deputy editor Best outdoor tech: Tone Outdoors T1 Tone Outdoors T1 Whisper Aero Outdoor tool companies have increasingly shown up at CES, especially the ones that offer a range of battery-powered gear. Tone Outdoors isn’t your usual power tool outfit though; it’s a spin-off of the aerospace engineering company Whisper Aero. Through its development of quieter electric airplane engines, Whisper Aero realized its technology had other uses. Enter the T1 leaf blower. The T1 is significantly quieter than most handheld gas models, clocking in at just 52 decibels of peak noise on average. It’s also more powerful than most of them with 880 CFM of airflow volume. The T1 can run longer too, and an upcoming backpack will extend run time for several hours. But the most important advancement here is not annoying your neighbors — or yourself — when it’s time to do some yard work. — Billy Steele, Deputy editor Best toy: Lego Smart Play Lego Smart Play Lego Lego is constantly evolving, but rarely does it make as big a move as it did with Smart Play . The system is designed to take standard Lego sets and make them more interactive thanks to a tech-packed Smart Brick. Those bricks have a tiny chip the size of a Lego stud that enables things like motion, color and proximity sensing. They also have a tiny speaker that further helps bring Lego builds to life. The Smart Brick is mostly a blank slate, but pairing it with Lego's Smart Tags and Smart Minifigures is what enables these new play scenarios. Unsurprisingly, Lego introduced the Smart Play system alongside Star Wars sets that make these new immersive elements more obvious. An X-Wing piloted by Luke Skywalker can get into a dogfight with Darth Vader's TIE fighter, and you'll hear the engines roar to life, the characters exclaim as they come under fire and the spaceship explodes if it gets hit too many times. And Smart Play requires no setup, meaning that the technology packed into the Smart Brick fades away and lets kids (and kids at heart) get down to the business of playing. You don't need to know how it works — it just does. — Nathan Ingraham, Deputy editor Best PC or laptop: Dell XPS 14 + 16 The Dell XPS 14 and 16. Dell In a way, this award is for Dell’s latest flagship laptops but also the company itself. Last year, Dell showed up with a new naming scheme for all of its hardware that included replacing the iconic XPS line with the word “Premium.” And despite our objections , the company followed through with the rebrand. But now at CES 2026, not only has Dell admitted its mistake , it’s righting wrongs with two new members of the XPS family that are exactly what we wanted all along. On the XPS 14 and XPS 16, we’re getting brand new chassis featuring the latest chips from Intel, gorgeous tandem OLED displays and precision engineering that embodies everything we loved about XPS laptops from previous years. Dell also streamlined its designs with the larger XPS 16 dropping an entire pound compared to the previous generation. The company even addressed a number of our previous critiques by switching from capacitive touch controls back to a classic row of function keys and reverting to segmented touchpads instead of seamless glass ones that made it hard to keep track of your cursor. But perhaps the best part is that Dell isn’t stopping here, because the company also teased a new version of its legendary XPS 13 slated for later this year, the thinnest and lightest member of the family yet. There are also placeholders for two more XPS models slated to arrive in the not too distant future. — Sam Rutherford, Senior reporter Best health tech: Eyebot vision test booth Eyebot vision test Eyebot Wouldn’t it be nice if getting an updated eyeglasses prescription wasn’t as lengthy a process as it is right now? Eyebot’s new kiosk is designed to automate the process of visiting a doctor’s office to three minutes rocking up to a machine. It uses a combination of analog and digital wizardry to identify what you need to see properly in no time at all. Even better is that the prescriptions have to be signed off by a licensed eye doctor, so you can still rely on a degree of professional rigor. We like Eyebot because it proved itself in our tests: its brief examination matched my professionally completed prescription from last year. But its ability to make effective eye care accessible and affordable in a way that it isn’t at present is even more compelling than the tech itself. — Daniel Cooper, Senior reporter Best gaming tech: ASUS ROG Zephyrus Duo ASUS ROG Zephyrus Duo ASUS The ASUS ROG Zephyrus Duo is big, weird and potentially awkward to set up. But honestly, what kind of gamer doesn’t want more screens? Even if you can’t use its second display in the middle of a firefight, more real estate means extra room for Discord, build guides or anything else you might need. Furthermore, ASUS included not one but two brilliant OLED panels with up to 1,100 nits of brightness and color accuracy so good you won’t have a problem editing photos or videos. You also get a ton of ports, and with support for up to an NVIDIA RTX 5090 GPU, the ROG Zephyrus Duo has more than enough performance to handle anything you can throw at it. — Sam Rutherford, Senior reporter Best mobile tech: Samsung Galaxy Z TriFold Samsung Galaxy Z TriFold Sam Rutherford for Engadget Samsung might have announced the latest iteration of its foldable smartphones in Korea, but CES was the first chance for many of us to see the Galaxy Z TriFold in person. It’s a 10-inch Android tablet hidden within a 6.5-inch smartphone form factor. The jump from the almost-square screen ratio of Samsung’s past foldables to approximately 4:3 is a major improvement. This is a device that I could happily watch entire movies on. There’s more horizontal space to read, more room to type and more bright, vivid AMOLED everything. Unfurling the sides is incredibly satisfying and, perhaps because it’s thicker, it has a reassuring heft, too. The rest of the spec sheet reflects another fashionable Galaxy phone with a 200-megapixel main camera and the biggest battery yet in a Samsung foldable. It’ll likely be expensive though. Samsung hasn’t confirmed pricing in the US, but based on its launch cost in Korea, it could be around $2,500. — Mat Smith, UK bureau chief Most promising concept: Lenovo Legion Pro Rollable Lenovo Legion Pro Rollable Lenovo Concept devices are hard to judge because even the ones with a ton of potential might be too difficult to make or too niche to bring to market. But with the Legion Pro Rollable concept , Lenovo created something with a simple yet powerful premise: A gaming laptop with a screen that gets wider at the touch of a button. To make the Legion Pro Rollable, Lenovo took a regular Legion Pro 7i and then swapped its standard 16-inch display for a flexible one that can expand all the way up to 23.8 inches — with a bonus stop in between. This means you have the option to choose from 16:10, 21:9 or even 24:9 depending on the situation, which feels like an incredible way to enhance racing games, flight sims and anything else that can take advantage of extra wide aspect ratios. Granted, when its screen is fully deployed, it does look a bit ungainly. But of all the concepts we saw this year at CES, the Legion Pro Rollable is the one we hope survives to become a proper retail product someday. — Sam Rutherford, Senior reporter Best emerging technology: IXI autofocus lenses IXI Autofocus lenses IXI IXI’s autofocusing glasses were a late addition to our discussions, but we were impressed by what could be a significant advancement in spectacle technology — something that’s been largely static since the 1950s. IXI’s glasses feature an elegant, unique, cameraless eye-tracking system that uses ultra-low-power LEDs and photodiodes to precisely monitor the user's eye movement and focus convergence. This data drives a liquid crystal lens layer, enabling a focus switch between near and far distances in approximately 0.2 seconds. Focus your gaze elsewhere, and your glasses return to their normal prescription. Think of them as a high-tech take on the often thick and clunky multifocal lenses we’re currently stuck with. IXI is now finalizing the production process, developing manufacturing and gaining the necessary medical certification to sell its glasses, but it has already struck deals with lens manufacturers in Europe. The company has a busy year ahead as it turns its technology into a consumer product. — Mat Smith, UK bureau chief Best in show: Lego Smart Play Lego Smart Play Lego There's perhaps no place better than CES to highlight how quickly industry trends die. Over the years the show has been a driver of cornerstone technologies like the VCR, DVD, flatscreen TVs, PDAs and more. Some trends stick, some don't. Lego could almost be seen as the antithesis of the typical CES product: The company's core concept of creative play has remained in place throughout its long history, boosted by a gradual and ongoing evolution of block types and brand tie-ins. Announced at its first-ever CES press conference, Smart Play represents a thoughtful integration of technology to the classic toy. A tiny chip the size of a single Lego stud allows the company's Smart Bricks to sense what's around them, opening up new ways to play. The system will debut with a trio of Star Wars sets, but we’re sure Lego has plans for a wide range of licensed and unlicensed options. Our team instantly fell in love with Smart Play, and Deputy editor Nathan Ingraham had the opportunity to both build some sets and talk with some of the people behind the technology. Amid parental anxieties about screentime, it's refreshing that Smart Play doesn't require an app or a screen to get started. Kids can just get building. — Aaron Souppouris, Editor-in-chief This article originally appeared on Engadget at https://www.engadget.com/engadgets-best-of-ces-2026-all-the-new-tech-that-caught-our-eye-in-las-vegas-200057123.html?src=rss",
-    "ingested_utc": "2026-01-10T01:00:17Z"
-  },
-  {
-    "published_utc": "2026-01-10",
-    "retrieved_date": "2026-01-10",
-    "retrieved_utc": "2026-01-10T01:00:15Z",
-    "source": "ArsTechnica_All",
-    "title": "SpaceX gets FCC permission to launch another 7,500 Starlink satellites",
-    "url": "https://arstechnica.com/tech-policy/2026/01/spacex-gets-fcc-permission-to-launch-another-7500-starlink-satellites/",
-    "id_key": "b03b5fb243eff7ebef475481df6ede74e301a8dba2c7bcd3b49a77895badde0c",
-    "summary": "Including previous approvals, Starlink can now deploy 15,000 Gen2 satellites.",
-    "ingested_utc": "2026-01-10T01:00:15Z"
-  },
-  {
-    "published_utc": "2026-01-10",
-    "retrieved_date": "2026-01-10",
-    "retrieved_utc": "2026-01-10T01:00:14Z",
-    "source": "TechCrunch_All",
-    "title": "Google moonshot spinout SandboxAQ claims an ex-exec is attempting ‘extortion’",
-    "url": "https://techcrunch.com/2026/01/09/google-moonshot-spinout-sandboxaq-claims-an-ex-exec-is-attempting-extortion/",
-    "id_key": "1b94f2a7fc3fb9d50c4046b3c708b0fa766724a0442d7c21c6513d510c85f538",
-    "summary": "A former SandboxAQ executive filed a wrongful termination lawsuit filled with shocking allegations. The company is fighting back, hard.",
-    "ingested_utc": "2026-01-10T01:00:14Z"
-  },
-  {
-    "published_utc": "2026-01-10",
-    "retrieved_date": "2026-01-10",
-    "retrieved_utc": "2026-01-10T00:59:45Z",
-    "source": "NYTimes_World",
-    "title": "Landfill Collapse in Philippines Leaves 3 Dead and Dozens Missing",
-    "url": "https://www.nytimes.com/2026/01/09/world/asia/philippines-landfill-collapse-cebu.html",
-    "id_key": "9b4f37007e1f8b6efb7974a4bd97fbf0421bab89075e8ec3cb7529f36953c288",
-    "summary": "A garbage mound outside Cebu City in the central Philippines collapsed on Thursday. Rescuers were searching for 35 missing people, including some trapped under the debris.",
-    "ingested_utc": "2026-01-10T00:59:45Z"
-  },
-  {
-    "published_utc": "2026-01-10",
-    "retrieved_date": "2026-01-10",
-    "retrieved_utc": "2026-01-10T00:59:26Z",
-    "source": "Guardian_World",
-    "title": "More than 100 buildings destroyed and 300,000ha of bushland burned as Victoria’s bushfires rage",
-    "url": "https://www.theguardian.com/australia-news/2026/jan/09/ten-properties-in-ruffy-destroyed-including-firefighters-home-as-fire-hits-victorian-town-like-a-bomb",
-    "id_key": "ebff9cbd088ff65e8ef212dbceb910a6f0151356888b2daedc202561db5d0f88",
-    "summary": "Fires may continue for ‘weeks’, authorities warn, as three missing people found safe Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast At least 119 structures are believed to be lost in bushfires across Victoria and more than 300,000 hectares of bushland has been burned as the state continues to battle blazes that may rage for “weeks”. Emergency management commissioner, Tim Wiebusch, told the media on Saturday that around 50 homes had been lost in the Ravenswood and Harcout fire, which was believed to be a “conservative number”. The Bendigo railway line had also been damaged by fire and was closed. Continue reading...",
-    "ingested_utc": "2026-01-10T00:59:26Z"
-  },
-  {
-    "published_utc": "2026-01-10",
-    "retrieved_date": "2026-01-10",
-    "retrieved_utc": "2026-01-10T00:57:32Z",
-    "source": "Guardian_World",
-    "title": "Australia heatwave live updates: three people missing after house destroyed in Victorian bushfire found safe; temperatures to reach 43C in Sydney",
-    "url": "https://www.theguardian.com/australia-news/live/2026/jan/10/australia-heatwave-updates-sydney-temperature-victorian-fires-bushfire-latest",
-    "id_key": "a049c528e948d42bc2d16f83b5ec2048227dd0907911b389b2c8beb873f8fcf1",
-    "summary": "Total fire ban in place for whole of Victoria as bushfires burn, while Sydney prepares for the brunt of the heatwave ‘If you have been told to leave, go’: Victorian premier declares state of disaster in multiple areas as bushfires burn out of control CFA volunteer Simon fought the fire that destroyed his own home: ‘I knew eventually it would get to us’ Get our breaking news email , free app or daily news podcast NSW working to send more firefighting teams to Victoria New South Wales is moving to send additional firefighting teams to Victoria after a request for assistance, the premier says. There’s over 90 firefighters from NSW in Victoria. At the moment their agencies have asked for more strike teams. My understanding is the RFS is filling those gaps as quickly as possible and sending them across the Murray. It will be an incredibly challenging day for the health system, as well as the RFS and Fire and Rescue. And we’re calling on the community to do their bit, and that means look after one enough, particularly the vulnerable, particularly the old and the young. Make sure that you look after your pets as well. Continue reading...",
-    "ingested_utc": "2026-01-10T00:57:32Z"
-  },
-  {
-    "published_utc": "2026-01-10",
-    "retrieved_date": "2026-01-10",
-    "retrieved_utc": "2026-01-10T00:57:32Z",
-    "source": "Guardian_World",
-    "title": "With a new leader and tired opponent, this should be the Victorian Liberals’ year – if not for self-inflicted wounds",
-    "url": "https://www.theguardian.com/australia-news/2026/jan/10/victorian-liberals-year-ahead-new-leader-jess-wilson",
-    "id_key": "442ac8a93773c2a437664a2fd9349b8ca8ef2f571042ae9e799f4df3310088fa",
-    "summary": "As dysfunction reigns, the party shows yet again that its greatest obstacle to winning government is not Labor but itself Get our breaking news email , free app or daily news podcast This should be the Victorian Liberal party’s year. They head into November’s election with a new, energetic and articulate leader in Jess Wilson , who has vowed to drag her party to the centre and reconnect with voters it has lost in recent years. Across the aisle stands a weary third-term Labor government, burdened by the state’s debt – forecast to hit $192bn by 2028-29 – and the baggage of more than a decade in power. No Victorian Labor government has ever secured a fourth term – a fact that should give the Liberals cause for optimism. Continue reading...",
-    "ingested_utc": "2026-01-10T00:57:32Z"
-  },
-  {
-    "published_utc": "2026-01-10",
-    "retrieved_date": "2026-01-10",
-    "retrieved_utc": "2026-01-10T00:57:32Z",
-    "source": "Guardian_World",
-    "title": "Trump threatens Greenland and Iran at meeting with oil bosses on Venezuela – US politics live",
-    "url": "https://www.theguardian.com/us-news/live/2026/jan/09/trump-venezuela-oil-attacks-minnesota-portland-ice-supreme-court-tariffs-latest-news-updates",
-    "id_key": "77f408744c9d4c05070318ca15514e231b21844bc3901e704f81ecf0c2b2ae50",
-    "summary": "‘We are going to do something on Greenland whether they like it or not,’ president told press during panel Pope Leo XIV has denounced how nations are using force to assert their dominion worldwide, saying they are “completely undermining” peace and the post-Second World War international legal order, AP reported. In his most substantial critique of US, Russian and other military incursions in sovereign countries, Leo told ambassadors who represent their countries’ interests at the Holy See that “war is back in vogue and a zeal for war is spreading”. Continue reading...",
-    "ingested_utc": "2026-01-10T00:57:32Z"
-  },
-  {
-    "published_utc": "2026-01-10",
-    "retrieved_date": "2026-01-10",
-    "retrieved_utc": "2026-01-10T00:57:30Z",
-    "source": "BBC_Business",
-    "title": "'Unprecedented' numbers seeking debt help post-Christmas, say charities",
-    "url": "https://www.bbc.com/news/articles/c0er4n1zelro?at_medium=RSS&at_campaign=rss",
-    "id_key": "12622bd5802f3283718131b655284fdafa5e58f12c4470af5c549cbca420cf3e",
-    "summary": "Debt charities say that calls have risen compared with last year as people are urged to seek help.",
-    "ingested_utc": "2026-01-10T00:57:30Z"
-  },
-  {
-    "published_utc": "2026-01-10",
-    "retrieved_date": "2026-01-10",
-    "retrieved_utc": "2026-01-10T00:57:29Z",
-    "source": "BBC_World",
-    "title": "Video emerges of Minneapolis shooting filmed by ICE agent who opened fire",
-    "url": "https://www.bbc.com/news/articles/cz7yv4524gqo?at_medium=RSS&at_campaign=rss",
-    "id_key": "c2e10eb9dd5c79e21122dc46cf60a07a447cdf3895090d194b21e0dff51f65f4",
-    "summary": "The clip shows the moments before gunfire rang out on a Minneapolis street.",
-    "ingested_utc": "2026-01-10T00:57:29Z"
-  },
-  {
-    "published_utc": "2026-01-09",
-    "retrieved_date": "2026-01-12",
-    "retrieved_utc": "2026-01-12T16:55:18Z",
-    "source": "HackerNews_Top",
-    "title": "How problematic is resampling audio from 44.1 to 48 kHz?",
-    "url": "https://kevinboone.me/sample48.html",
-    "id_key": "69e9dd1e9296a706990517f910ba92dfe244d9fce943e60c6ee2b6b6fe173c0d",
-    "summary": "Comments",
-    "ingested_utc": "2026-01-12T16:55:18Z"
-  },
-  {
-    "published_utc": "2026-01-09",
-    "retrieved_date": "2026-01-12",
-    "retrieved_utc": "2026-01-12T07:04:21Z",
-    "source": "BBC_World",
-    "title": "Why are there huge protests going on in Iran?",
-    "url": "https://www.bbc.com/news/videos/cje1v852evlo?at_medium=RSS&at_campaign=rss",
-    "id_key": "c074002cd9fd3c39b6480b71b6c19dc94bb2bc279b94173b7bc8c7600bbf96ab",
-    "summary": "Anti-government protests in Iran have continued for the 13th consecutive day.",
-    "ingested_utc": "2026-01-12T07:04:21Z"
   }
 ]
