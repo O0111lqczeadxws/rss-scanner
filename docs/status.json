@@ -1,17 +1,17 @@
 {
-  "started_utc": "2026-01-14T07:18:53Z",
-  "ended_utc": "2026-01-14T07:22:27Z",
-  "new_items_this_run": 13,
+  "started_utc": "2026-01-14T07:44:45Z",
+  "ended_utc": "2026-01-14T07:48:17Z",
+  "new_items_this_run": 8,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
     "Reuters_World": 0,
     "Reuters_Markets": 0,
-    "BBC_World": 1,
-    "BBC_Business": 3,
+    "BBC_World": 0,
+    "BBC_Business": 1,
     "BBC_Technology": 0,
     "Guardian_Business": 0,
-    "Guardian_World": 2,
+    "Guardian_World": 1,
     "WSJ_US_Business": 0,
     "WSJ_World": 0,
     "WSJ_Markets": 0,
@@ -22,7 +22,7 @@
     "CryptoSlate": 0,
     "CryptoBriefing": 0,
     "Protos": 0,
-    "CryptoNews": 2,
+    "CryptoNews": 1,
     "CoinJournal": 0,
     "Unchained": 0,
     "Bankless": 0,
@@ -61,10 +61,10 @@
     "NYTimes_Economy": 0,
     "NYTimes_Technology": 0,
     "CNN_Top": 0,
-    "NPR_Top": 1,
+    "NPR_Top": 0,
     "NPR_Business": 0,
     "NPR_Economy": 0,
-    "NPR_World": 1,
+    "NPR_World": 0,
     "NPR_Technology": 0,
     "FT_Home": 1,
     "FT_Markets": 0,
@@ -79,9 +79,9 @@
     "TheEconomist_Finance": 0,
     "Investopedia_Latest": 0,
     "TheStreet_Top": 0,
-    "AlJazeera_All": 2,
+    "AlJazeera_All": 3,
     "AlJazeera_Economy": 0,
-    "FinancialPost_Business": 0,
+    "FinancialPost_Business": 1,
     "CBC_Business": 0,
     "Nikkei_Asia_Top": 0,
     "WorldBank_News": 0,
@@ -131,8 +131,16 @@
       "error": "fatal parse failure"
     },
     {
+      "source": "https://unchainedcrypto.com/feed/",
+      "error": "fetch error: HTTP 415"
+    },
+    {
+      "source": "Unchained",
+      "error": "fatal parse failure"
+    },
+    {
       "source": "https://www.bankless.com/rss",
-      "error": "fetch error: HTTP 404"
+      "error": "fetch error: HTTP 415"
     },
     {
       "source": "Bankless",
@@ -335,19 +343,19 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 547,
+    "passed_keywords": 544,
     "passed_allowlist": 0,
-    "failed_all_filters": 517
+    "failed_all_filters": 510
   },
   "stats": {
     "feeds_total": 97,
-    "feeds_error": 23,
+    "feeds_error": 24,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 1559,
+    "entries_seen": 1549,
     "too_old": 495,
-    "dup_title_url": 97,
-    "dup_id": 437
+    "dup_title_url": 100,
+    "dup_id": 436
   },
   "limits": {
     "skip_older_days": 10,
@@ -360,6 +368,6 @@
   },
   "processed": {
     "file": "data/processed/2026-01-14.jsonl",
-    "appended_new": 13
+    "appended_new": 8
   }
 }
