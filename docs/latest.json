@@ -2,6 +2,61 @@
   {
     "published_utc": "2026-01-15",
     "retrieved_date": "2026-01-15",
+    "retrieved_utc": "2026-01-15T23:16:09Z",
+    "source": "HackerNews_Top",
+    "title": "Show HN: Control Claude permissions using cloud-based decision tables",
+    "url": "https://github.com/rulebricks/claude-code-guardrails",
+    "id_key": "cd37ccaea5ccfcd3632e1030a18c6ca11146fcf9e97c2aedcdbe8a0ecdd47167",
+    "summary": "Comments",
+    "ingested_utc": "2026-01-15T23:16:09Z"
+  },
+  {
+    "published_utc": "2026-01-15",
+    "retrieved_date": "2026-01-15",
+    "retrieved_utc": "2026-01-15T23:15:59Z",
+    "source": "FinancialPost_Business",
+    "title": "AFL Introduces Next-Generation OTDR Solutions for Data Center and Broadband Network Testing",
+    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/afl-introduces-next-generation-otdr-solutions-for-data-center-and-broadband-network-testing",
+    "id_key": "b6ae48bf2ccbea340e6fa97dbf76a436f8f355dbdfa17e5abb974396d08cadc6",
+    "summary": "SPARTANBURG, S.C. — AFL, an industry-leading manufacturer of fiber optic cables, connectivity, equipment and related services, announces the launch of new products and significant advancements to its OTDR product family to dramatically increase performance and value for the OTDR products. Already established as the most compact, fastest and easiest to use OTDRs, AFL is introducing […]",
+    "ingested_utc": "2026-01-15T23:15:59Z"
+  },
+  {
+    "published_utc": "2026-01-15",
+    "retrieved_date": "2026-01-15",
+    "retrieved_utc": "2026-01-15T23:15:51Z",
+    "source": "TheStreet_Top",
+    "title": "Billionaire Michael Bloomberg sends strong message on the economy",
+    "url": "https://www.thestreet.com/fed/billionaire-michael-bloomberg-sends-strong-message-on-the-economy-in-light-of-doj-fed-probe",
+    "id_key": "d587354408239bd0eff0754840d1252b0c108647afd754433e0611d3ba0087b9",
+    "summary": "The dramatic escalation of pressure by the White House on the Federal Reserve and Chair Jerome Powell to lower interest rates is ticking off billionaire Michael Bloomberg. Bloomberg is the founder and majority owner of Bloomberg LP, the parent company of Bloomberg News, and the founder of Bloomberg ...",
+    "ingested_utc": "2026-01-15T23:15:51Z"
+  },
+  {
+    "published_utc": "2026-01-15",
+    "retrieved_date": "2026-01-15",
+    "retrieved_utc": "2026-01-15T23:15:40Z",
+    "source": "TheVerge_All",
+    "title": "Dave Filoni takes charge of Star Wars as new president of Lucasfilm",
+    "url": "https://www.theverge.com/entertainment/863065/dave-filoni-lucasfilm-president-star-wars",
+    "id_key": "3d8c1cc4a4127e72229f46c0745caafb31b7bb5ed35e76fee29102d8693eb2a4",
+    "summary": "There's a new name in charge of stewarding Star Wars at Lucasfilm. The studio just announced that Dave Filoni - best-known for his work on The Mandalorian and The Clone Wars - will be taking over as president. Former president Kathleen Kennedy, whose departure had been rumored for some time, will be stepping down and […]",
+    "ingested_utc": "2026-01-15T23:15:40Z"
+  },
+  {
+    "published_utc": "2026-01-15",
+    "retrieved_date": "2026-01-15",
+    "retrieved_utc": "2026-01-15T23:13:07Z",
+    "source": "Guardian_World",
+    "title": "Opponents label Jenrick a ‘chancer’ and a ‘charlatan’ as he defects to Reform – as it happend",
+    "url": "https://www.theguardian.com/politics/live/2026/jan/15/local-elections-delays-uk-politics-live-latest-news-keir-starmer",
+    "id_key": "b7fd16c259f709470b788eb5e9c916da0d9e01491556e0b539bbb558094f7dd2",
+    "summary": "Former shadow justice secretary turns fire on Tories and Labour as he joins Nigel Farage’s party Full report: Badenoch sacks Jenrick Nigel Farage , speaking at his press conference in Scotland, has said that “of course” he has had conversations with Robert Jenrick, who was sacked by Kemi Badenoch this morning for planning to defect. UPDATE: Farage said: I have had conversations with a number of very senior conservatives over the course of the last week, the last month. A lot of them realise that for all the talk on 8 May the Conservative Party will cease to be a national party. They will be obliterated in Scotland, Wales, the red wall councils. As far as Mr Jenrick is concerned, of course I have talked to Robert Jenrick. Was I on the verge of signing him up? No. But we have had conversations. This morning I removed the Conservative whip from Robert Jenrick after dismissing him from the shadow cabinet. I was very sorry to be presented with clear, irrefutable evidence, not just that he was preparing to defect, but he was planning to so in the most damaging way to the Conservative party and shadow cabinet colleagues. Continue reading...",
+    "ingested_utc": "2026-01-15T23:13:07Z"
+  },
+  {
+    "published_utc": "2026-01-15",
+    "retrieved_date": "2026-01-15",
     "retrieved_utc": "2026-01-15T22:56:36Z",
     "source": "FinancialPost_Business",
     "title": "ATHA Energy Announces $25 Million LIFE Private Placement of Flow-Through Shares",
@@ -10943,60 +10998,5 @@
     "id_key": "d5d84eba6513c15ca68ff8dfb23c5062c535799b3f8a62326c6ba216cdd8a945",
     "summary": "Sitting at a desk for hours? Upgrade your WFH setup and work in style with these comfy WIRED-tested seats.",
     "ingested_utc": "2026-01-14T13:16:32Z"
-  },
-  {
-    "published_utc": "2026-01-14",
-    "retrieved_date": "2026-01-14",
-    "retrieved_utc": "2026-01-14T13:16:30Z",
-    "source": "TheVerge_All",
-    "title": "UK police blame Microsoft Copilot for intelligence mistake",
-    "url": "https://www.theverge.com/news/861668/uk-police-microsoft-copilot-error-mistake",
-    "id_key": "59ce20dba50c00d46869d5f062ce6fb25b19ed68d6a7921c27441d0b2c1a5039",
-    "summary": "The chief constable of one of Britain's largest police forces has admitted that Microsoft's Copilot AI assistant made a mistake in a football (soccer) intelligence report. The report, which led to Israeli football fans being banned from a match last year, included a non-existent match between West Ham and Maccabi Tel Aviv. Copilot hallucinated the […]",
-    "ingested_utc": "2026-01-14T13:16:30Z"
-  },
-  {
-    "published_utc": "2026-01-14",
-    "retrieved_date": "2026-01-14",
-    "retrieved_utc": "2026-01-14T13:16:16Z",
-    "source": "FT_Markets",
-    "title": "The $1.5tn Treasury basis trade boom",
-    "url": "https://www.ft.com/content/f66f528b-b10f-4f04-bdf3-672115e115d4",
-    "id_key": "29287d66da089858d8fd36caa7bdb7b7857a6b7c435ed1d4831202906da6fe06",
-    "summary": "The strategy now accounts for over 6% of the US government bond market, according to Morgan Stanley",
-    "ingested_utc": "2026-01-14T13:16:16Z"
-  },
-  {
-    "published_utc": "2026-01-14",
-    "retrieved_date": "2026-01-14",
-    "retrieved_utc": "2026-01-14T13:16:11Z",
-    "source": "NPR_Top",
-    "title": "NASA set to bring astronaut (and the rest of Crew-11) home early for medical reasons",
-    "url": "https://www.npr.org/2026/01/14/nx-s1-5672634/nasa-spacex-crew-11-sick-astronaut-returning",
-    "id_key": "9df2c43df59b10baf657ab242f9d18421acfc06916c7e17b961d16ddc1d6eee1",
-    "summary": "In an unprecedented move, NASA is bringing an astronaut crew home early from the International Space Station because one astronaut has an undisclosed medical condition.",
-    "ingested_utc": "2026-01-14T13:16:11Z"
-  },
-  {
-    "published_utc": "2026-01-14",
-    "retrieved_date": "2026-01-14",
-    "retrieved_utc": "2026-01-14T13:16:03Z",
-    "source": "NYTimes_Business",
-    "title": "Banks Ready Battle Plans to Save Their Credit Card Businesses",
-    "url": "https://www.nytimes.com/2026/01/14/business/dealbook/banks-credit-cards-trump.html",
-    "id_key": "6391f4e92dc01ae50298a9d70ea002e965814769ade556d4879c2b4b84ffb486",
-    "summary": "“Everything’s on the table,” an executive at JPMorgan Chase said, as the industry seeks to head off President Trump’s effort to cap interest rates.",
-    "ingested_utc": "2026-01-14T13:16:03Z"
-  },
-  {
-    "published_utc": "2026-01-14",
-    "retrieved_date": "2026-01-14",
-    "retrieved_utc": "2026-01-14T13:16:03Z",
-    "source": "NYTimes_World",
-    "title": "Arrest Is Made in Toronto Airport Gold Heist as Police Seek 2 Others",
-    "url": "https://www.nytimes.com/2026/01/13/world/canada/canada-gold-heist-arrest.html",
-    "id_key": "641d1e9caef424337bf9c8918917f07107f66f735ebba17a351fedd85b5ad709",
-    "summary": "The Canadian authorities have identified 10 people in connection with the theft of about $14.4 million in gold bars from Toronto Pearson International Airport in 2023.",
-    "ingested_utc": "2026-01-14T13:16:03Z"
   }
 ]
