@@ -2,6 +2,94 @@
   {
     "published_utc": "2026-01-15",
     "retrieved_date": "2026-01-15",
+    "retrieved_utc": "2026-01-15T21:37:52Z",
+    "source": "HackerNews_Top",
+    "title": "I learned everything I know about programming",
+    "url": "https://agentultra.com/blog/how-i-learned-everything-i-know/index.html",
+    "id_key": "35a5da3832a477a53007c3550872528e596d1a0e5df2919a6298f5df1228676e",
+    "summary": "Comments",
+    "ingested_utc": "2026-01-15T21:37:52Z"
+  },
+  {
+    "published_utc": "2026-01-15",
+    "retrieved_date": "2026-01-15",
+    "retrieved_utc": "2026-01-15T21:37:52Z",
+    "source": "HackerNews_Top",
+    "title": "ChatGPT wrote \"Goodnight Moon\" suicide lullaby for man who later killed himself",
+    "url": "https://arstechnica.com/tech-policy/2026/01/chatgpt-wrote-goodnight-moon-suicide-lullaby-for-man-who-later-killed-himself/",
+    "id_key": "42fef78249998ac0bca5a57cf92e0b12f2d46618b10f590d45025ddc9a116274",
+    "summary": "Comments",
+    "ingested_utc": "2026-01-15T21:37:52Z"
+  },
+  {
+    "published_utc": "2026-01-15",
+    "retrieved_date": "2026-01-15",
+    "retrieved_utc": "2026-01-15T21:37:43Z",
+    "source": "FinancialPost_Business",
+    "title": "Brookfield Residential 2025 Fourth Quarter and Year End Results Conference Call Notice",
+    "url": "https://financialpost.com/globe-newswire/brookfield-residential-2025-fourth-quarter-and-year-end-results-conference-call-notice",
+    "id_key": "4a1923d676bd996398fdefc0692859d909f10a69f5014bece974040fd502329d",
+    "summary": "CALGARY, Alberta, Jan. 15, 2026 (GLOBE NEWSWIRE) — Brookfield Residential Properties ULC (“Brookfield Residential” or the “Company”) today announced that its 2025 fourth quarter and year end results will be released after market closes on Thursday, February 12th, 2026. The financial results and information relating to the 2025 fourth quarter and year end will be […]",
+    "ingested_utc": "2026-01-15T21:37:43Z"
+  },
+  {
+    "published_utc": "2026-01-15",
+    "retrieved_date": "2026-01-15",
+    "retrieved_utc": "2026-01-15T21:37:36Z",
+    "source": "TheStreet_Top",
+    "title": "Stock Market Today, Jan. 15: Semiconductors, Banks Jump After Strong Earnings",
+    "url": "https://www.thestreet.com/latest-news/stock-market-today-jan-15-strong-earnings-from-chipmaking-giant-fuels-semiconductor-rally",
+    "id_key": "e01c2bac8b8115c020209023055f348c3815b0aca2f0952b6aad88de269a3acc",
+    "summary": "This live blog is refreshed periodically throughout the day with the latest updates from the market.To find the latest Stock Market Today threads, click here. Happy Thursday. This is TheStreet’s Stock Market Today for Jan. 15, 2026. You can follow the latest updates on the ...",
+    "ingested_utc": "2026-01-15T21:37:36Z"
+  },
+  {
+    "published_utc": "2026-01-15",
+    "retrieved_date": "2026-01-15",
+    "retrieved_utc": "2026-01-15T21:36:15Z",
+    "source": "Arbitrum_Nitro_Releases",
+    "title": "Arbitrum Nitro v3.9.5",
+    "url": "https://github.com/OffchainLabs/nitro/releases/tag/v3.9.5",
+    "id_key": "78fb11442fbeb646104c932d01f32c452252bfc65f65771ee97282a5ed89f318",
+    "summary": "This release is available as a Docker Image on Docker Hub at offchainlabs/nitro-node:v3.9.5-66e42c4 This Docker image specifies default flags in its entrypoint which should be replicated if you're overriding the entrypoint: /usr/local/bin/nitro --validation.wasm.allowed-wasm-module-roots /home/user/nitro-legacy/machines,/home/user/target/machines Important for any chains still on ArbOS40: If you're running a validator without a split validation server (this will be true of most validators), you should instead use the image offchainlabs/nitro-node:v3.9.5-66e42c4-validator which has the extra script /usr/local/bin/split-val-entry.sh as the default entrypoint (no need to override the default entrypoint). This will run both v3.9.5 and v3.7.6 validator workers for you. If you are using a split validator, you do not want to use -validator image, you need to run a validator worker on v3.7.6 as well as a worker for v3.9.5 What's Changed Various stability fixes. Required for batch poster using blobs, recommended but not required for other nodes. User-facing changes Fix dumpkeyset: #4175 Stylus: refactor out of gas: #4201 fix go-ethereum crash in TraceCall with BlockOverrides: #4202 Add missing BPO configs: #4205 Full Changelog : v3.9.4...v3.9.5",
+    "ingested_utc": "2026-01-15T21:36:15Z"
+  },
+  {
+    "published_utc": "2026-01-15",
+    "retrieved_date": "2026-01-15",
+    "retrieved_utc": "2026-01-15T21:35:06Z",
+    "source": "BitcoinMagazine",
+    "title": "Senate Democrats, Crypto Industry to Resume Talks After Market Structure Bill Delay",
+    "url": "https://bitcoinmagazine.com/news/senate-democrats-crypto-resume-talks",
+    "id_key": "8401b3a64875ad32b57fee86d74d3a272d0e403a7204edab5ea90f57de76baf0",
+    "summary": "Bitcoin Magazine Senate Democrats, Crypto Industry to Resume Talks After Market Structure Bill Delay U.S. Senate Democrats are reportedly set to reopen talks with representatives from the cryptocurrency industry on Friday regarding the CLARITY Act. This post Senate Democrats, Crypto Industry to Resume Talks After Market Structure Bill Delay first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
+    "ingested_utc": "2026-01-15T21:35:06Z"
+  },
+  {
+    "published_utc": "2026-01-15",
+    "retrieved_date": "2026-01-15",
+    "retrieved_utc": "2026-01-15T21:34:50Z",
+    "source": "Guardian_World",
+    "title": "Australia news live: ‘totally inappropriate’ to combine fast-turnaround hate speech and gun reform legislation, Coalition MP says",
+    "url": "https://www.theguardian.com/australia-news/live/2026/jan/16/hate-speech-legislation-political-reaction-anthony-albanese-labor-sussan-ley-coalition-greens-adelaide-festival-writers-week-backlash-sydney-protest-ban-ntwnfb",
+    "id_key": "21837798e4ba43013e8e8525299d14f3e7449ea9095b32e3a7e20e12ce5bdfba",
+    "summary": "Shadow minister for multicultural affairs, Paul Scarr, says there was no consultation between Labor and the opposition Get our breaking news email , free app or daily news podcast Greens leader worried legislation could have unintended consequences Larissa Waters , the Greens’ leader, also says she’s concerned there has not been enough time to evaluate the legislation, warning there are a “raft of unintended consequences that could occur”. We’ve only had a handful of days to look at this legislation, and it’s very consequential legislation … And with every turn, experts and stakeholders and faith leaders and academics are finding new concerns with it. A key concern is that you can’t combat hate if you don’t combat it for everyone. A key concern that we have … is that these laws, as they’re drafted right now, could be weaponised to shut down legitimate political protest. Given the tightness of the timeframe … there is a real risk that locking in laws that aren’t right could criminalise people for legitimate political expression. That is a dangerous path. We’ve got serious concerns with respect to whether or not the bill meets its objective … It really is concerning that we’re in this stage where we’re less than one business day away from parliament coming together and these serious concerns persist. We’re in a situation where we’re dealing with such a significant piece of legislation, complicated legislation, legislation which deals with the raft of matters which are contained in this one monster omnibus bill, which is a totally inappropriate way to address this situation. Continue reading...",
+    "ingested_utc": "2026-01-15T21:34:50Z"
+  },
+  {
+    "published_utc": "2026-01-15",
+    "retrieved_date": "2026-01-15",
+    "retrieved_utc": "2026-01-15T21:34:49Z",
+    "source": "Guardian_World",
+    "title": "ACLU sues Trump administration for ‘racial profiling campaign’ against Somali and Latino communities in Minnesota surge – live",
+    "url": "https://www.theguardian.com/us-news/live/2026/jan/15/us-politics-latest-news-updates-donald-trump-venezuela-maria-corina-machado",
+    "id_key": "fefbd0e6387d470aab0cb3b0632f738e1a8313128fd3bfe857ccece8a4aaaf71",
+    "summary": "Lawsuit comes as state governor Tim Walz urges Trump to ‘turn the temperature down’ after president threatens to invoke Insurrection Act Trump threatens to use Insurrection Act in Minnesota People affected by the US visa freeze: share your experience Donald Trump is in Washington today. He’s due to meet with Mariá Corina Machado – Venezuela’s opposition leader – at 12:3opm ET. At the moment that’s closed to the press but we’ll let you know if that changes and bring you the latest. Later, Trump is set to host the champions of the 2025 Stanley Cup, the Florida Panthers, at the White House. We’ll be watching to get his reaction to the news of the day. Continue reading...",
+    "ingested_utc": "2026-01-15T21:34:49Z"
+  },
+  {
+    "published_utc": "2026-01-15",
+    "retrieved_date": "2026-01-15",
     "retrieved_utc": "2026-01-15T21:17:12Z",
     "source": "HackerNews_Top",
     "title": "Show HN: Munimet.ro – ML-based status page for the local subways in SF",
@@ -10910,93 +10998,5 @@
     "id_key": "e38e8ae2d7f9e55e9ebf4fd4fe14ba60a33d407ef57e818e980c5560e2453d70",
     "summary": "Ministers have rolled back central element of digital ID plans, possibly allowing people to use other forms of identification to prove their right to work Here are extracts from three interesting comment articles about the digital ID U-turn. Ailbhe Rea in the New Statesman in the New Statesmans says there were high hopes for the policy when it was first announced. I remember a leisurely lunch over the summer when a supporter of digital IDs told me how they thought Keir Starmer would reset his premiership. Alongside a reorganisation of his team in Number 10, and maybe a junior ministerial reshuffle, they predicted he would announce in his speech at party conference that his government would be embracing digital IDs. “It will allow him to show he’s willing to do whatever it takes to tackle illegal immigration,” was their rationale. Sure enough, Starmer announced “phase two” of his government, reshuffled his top team and, on the Friday before Labour party conference, he duly announced his government would make digital IDs mandatory for workers. “We need to know who is in our country,” he said, arguing that the IDs would prevent migrants who “come here, slip into the shadow economy and remain here illegally”. In policy terms, I don’t think you particularly gain anything by making the government’s planned new digital ID compulsory. One example of that: Kemi Badenoch has both criticised the government’s plans to introduce compulsory ID, while at the same time committing to creating a “British ICE” that would go around deporting large numbers of people living in the UK. In a country with that kind of target and approach, people would be forced to carry their IDs around with them in any case! The Online Safety Act, passed into law by the last Conservative government with cross-party support and implemented by Labour, presupposes some form of ID to work properly. Here is the political challenge for Downing Street: the climbdowns, dilutions, U- turns, about turns, call them what you will, are mounting up. In just the last couple of weeks, there has been the issue of business rates on pubs in England and inheritance tax on farmers. We welcome Starmer’s reported U-turn on making intrusive, expensive and unnecessary digital IDs mandatory. This is a huge success for Big Brother Watch and the millions of Brits who signed petitions to make this happen. The case for the government now dropping digital IDs entirely is overwhelming. Taxpayers should not be footing a £1.8bn bill for a digital ID scheme that is frankly pointless. Continue reading...",
     "ingested_utc": "2026-01-14T11:52:19Z"
-  },
-  {
-    "published_utc": "2026-01-14",
-    "retrieved_date": "2026-01-14",
-    "retrieved_utc": "2026-01-14T11:52:19Z",
-    "source": "Guardian_World",
-    "title": "Supreme court could issue ruling on legal challenge to Trump’s tariffs today – US politics live",
-    "url": "https://www.theguardian.com/us-news/live/2026/jan/14/us-politics-live-latest-news-updates-supreme-court-donald-trump-tariffs-jd-vance-greenland",
-    "id_key": "613f060ff9e5b3f9d030a5431759ff8d52ab2a99a18e62942142b090d579cce0",
-    "summary": "A supreme court ruling is expected later today, though it is unclear what it will be Welcome to our US politics live blog. The Supreme Court could issue a ruling today on the legal challenge to President Trump’s global tariffs, which if upheld by the court, would upend one of the US president’s key policies and further disrupt the world economy. Continue reading...",
-    "ingested_utc": "2026-01-14T11:52:19Z"
-  },
-  {
-    "published_utc": "2026-01-14",
-    "retrieved_date": "2026-01-14",
-    "retrieved_utc": "2026-01-14T11:52:16Z",
-    "source": "BBC_World",
-    "title": "Tennis player celebrates early - then loses Australian Open qualifier",
-    "url": "https://www.bbc.com/sport/tennis/articles/cpdy1yzyjvlo?at_medium=RSS&at_campaign=rss",
-    "id_key": "5e79f72de17c8e48036136fd06cc626b9ab58366c902b299bcc6790e890ccb17",
-    "summary": "Australia's Sebastian Ofner forgot the rules and celebrated victory prematurely, before going on to lose eight of the next nine points.",
-    "ingested_utc": "2026-01-14T11:52:16Z"
-  },
-  {
-    "published_utc": "2026-01-14",
-    "retrieved_date": "2026-01-14",
-    "retrieved_utc": "2026-01-14T11:45:00Z",
-    "source": "HackerNews_Top",
-    "title": "UK secures record supply of offshore wind projects",
-    "url": "https://www.bbc.co.uk/news/articles/cn9zyx150xdo",
-    "id_key": "70af6fe33d78eb224a5b5bccdd8a41b8e6ca7f88158f7c175a5382cc688c958a",
-    "summary": "Comments",
-    "ingested_utc": "2026-01-14T11:45:00Z"
-  },
-  {
-    "published_utc": "2026-01-14",
-    "retrieved_date": "2026-01-14",
-    "retrieved_utc": "2026-01-14T11:44:50Z",
-    "source": "FinancialPost_Business",
-    "title": "Equinox Gold Delivers Record Q4 Production and Record FY 2025 Gold Production of 922,827 ounces; 2026 Guidance Represents an 80% Increase in Annual Canadian Gold Production",
-    "url": "https://financialpost.com/globe-newswire/equinox-gold-delivers-record-q4-production-and-record-fy-2025-gold-production-of-922827-ounces-2026-guidance-represents-an-80-increase-in-annual-canadian-gold-production",
-    "id_key": "62ff86d28098acd741160acef6c71fa7f750307ba14d3723d76030937caa1886",
-    "summary": "VANCOUVER, British Columbia, Jan. 14, 2026 (GLOBE NEWSWIRE) — Equinox Gold Corp. (TSX: EQX, NYSE American: EQX) (“Equinox Gold” or the “Company”) is pleased to announce production results for the three months (“Q4”) and year (“Full Year”) ended December 31, 2025, an update on operations at its two Canadian cornerstone assets (Greenstone Gold Mine (“Greenstone”) […]",
-    "ingested_utc": "2026-01-14T11:44:50Z"
-  },
-  {
-    "published_utc": "2026-01-14",
-    "retrieved_date": "2026-01-14",
-    "retrieved_utc": "2026-01-14T11:44:34Z",
-    "source": "WIRED_All",
-    "title": "TikTok Shop Showed Me Search Suggestions for Products With Nazi Symbolism",
-    "url": "https://www.wired.com/story/tiktok-shop-nazi-symbolism/",
-    "id_key": "59f5db2a36e274374a3d6654781a64f0fd46780cde6b18b154bd6494e2d77840",
-    "summary": "Even after TikTok removed swastika jewelry from its online shop, I was algorithmically nudged toward a web of Nazi-related products during searches, like “double lightning bolt” and “ss” necklaces.",
-    "ingested_utc": "2026-01-14T11:44:34Z"
-  },
-  {
-    "published_utc": "2026-01-14",
-    "retrieved_date": "2026-01-14",
-    "retrieved_utc": "2026-01-14T11:44:32Z",
-    "source": "TechCrunch_All",
-    "title": "SkyFi raises $12.7M to turn satellite images into insights",
-    "url": "https://techcrunch.com/2026/01/14/skyfi-raises-12-7m-to-turn-satellite-images-into-insights/",
-    "id_key": "3944604b1f8f4eb3fbb2eae76ff9d3c61790198c7c480ebb2b3cb823cdcb597c",
-    "summary": "The Austin-based marketplace offers imagery from more than 50 space-based imagery providers.",
-    "ingested_utc": "2026-01-14T11:44:32Z"
-  },
-  {
-    "published_utc": "2026-01-14",
-    "retrieved_date": "2026-01-14",
-    "retrieved_utc": "2026-01-14T11:44:14Z",
-    "source": "NPR_Top",
-    "title": "A construction crane falls onto a moving train in Thailand, killing at least 30 people",
-    "url": "https://www.npr.org/2026/01/14/g-s1-105943/construction-crane-falls-onto-moving-train-thailand",
-    "id_key": "9866c79fc54467c6aea7f0e5d34b4ceabb7e88e5478374a66668d320f79e0a02",
-    "summary": "The derailment, in northeastern Thailand, occurred on part of an ambitious planned high-speed rail project that will eventually connect China with much of Southeast Asia.",
-    "ingested_utc": "2026-01-14T11:44:14Z"
-  },
-  {
-    "published_utc": "2026-01-14",
-    "retrieved_date": "2026-01-14",
-    "retrieved_utc": "2026-01-14T11:43:18Z",
-    "source": "Erigon_Releases",
-    "title": "v3.3.3 - Rocky Romp",
-    "url": "https://github.com/erigontech/erigon/releases/tag/v3.3.3",
-    "id_key": "78b147b38bc34ac190d7c4684a9a89cd04577c7b4e453a2000fbf429050a0e1b",
-    "summary": "v3.3.3 is a bugfix release recommended for all users. Fixes CL: Fix incorrect committee count in process_attestation in #18316 by @domiwei CL: Fix for periodic retry of not-ready response in #18376 by @taratorio Shutter: fix premature encrypted txn pool cleanup bug and peer drops in #18264 by @taratorio Half block exec fix in receipts in #18426 , #18505 by @sudeepdino008 p2p: resolve security vulnerability in #18650 by @yperbasis Improvements p2p: Turn on discovery v5 by default in #18639 by @anacrolix Full Changelog : v3.3.2...v3.3.3",
-    "ingested_utc": "2026-01-14T11:43:18Z"
   }
 ]
