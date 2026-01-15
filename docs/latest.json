@@ -2,6 +2,39 @@
   {
     "published_utc": "2026-01-15",
     "retrieved_date": "2026-01-15",
+    "retrieved_utc": "2026-01-15T07:56:43Z",
+    "source": "FinancialPost_Business",
+    "title": "Cold Snap to Test Asia Weather Records as Temperatures Dive",
+    "url": "https://financialpost.com/pmn/business-pmn/cold-snap-to-test-weather-records-in-asia-as-temperatures-plunge",
+    "id_key": "d418761c8205063f1dcc90123f85675ec9f8670add12ac53dd46ea214db72d9b",
+    "summary": "A blast of frigid Arctic air is set to sweep across Asia next week, pushing temperatures toward potentially record lows and likely boosting heating demand in key energy markets.",
+    "ingested_utc": "2026-01-15T07:56:43Z"
+  },
+  {
+    "published_utc": "2026-01-15",
+    "retrieved_date": "2026-01-15",
+    "retrieved_utc": "2026-01-15T07:56:10Z",
+    "source": "FT_Markets",
+    "title": "Asda hit by debt sell-off after Christmas sales slump",
+    "url": "https://www.ft.com/content/6ff6290e-0d04-44c7-87e1-93b17d063c29",
+    "id_key": "c5c5d4dc5bc2d94b3ec649cb684b24accc79408db5f16b71624d1fbb793cd485",
+    "summary": "Traders offload retailer’s bonds and loans in a sign that confidence in the group’s turnaround is weakening",
+    "ingested_utc": "2026-01-15T07:56:10Z"
+  },
+  {
+    "published_utc": "2026-01-15",
+    "retrieved_date": "2026-01-15",
+    "retrieved_utc": "2026-01-15T07:56:06Z",
+    "source": "NPR_Top",
+    "title": "Julio Iglesias accused of sexual assault as Spanish prosecutors study the allegations",
+    "url": "https://www.npr.org/2026/01/15/g-s1-106108/julio-iglesias-accused-sexual-assault",
+    "id_key": "5ef745cee135347c6080f1b045d9f10be75443a8b4c753451c8cc9748ef6fd63",
+    "summary": "Spanish prosecutors are studying allegations that Grammy-winning singer Julio Iglesias sexually assaulted two former employees at his residences in the Dominican Republic and the Bahamas.",
+    "ingested_utc": "2026-01-15T07:56:06Z"
+  },
+  {
+    "published_utc": "2026-01-15",
+    "retrieved_date": "2026-01-15",
     "retrieved_utc": "2026-01-15T07:46:57Z",
     "source": "Nikkei_Asia_Top",
     "title": "ASICS opens Onitsuka Tiger plant to showcase pricey sneakers",
@@ -1252,6 +1285,17 @@
     "id_key": "c043c60b4bdcc120130712329c76afd731d7601c1de697b93e9ee6d1dee52816",
     "summary": "US officials say it is a \"precautionary measure\" and comes as Donald Trump weighs up whether to take action against Iran.",
     "ingested_utc": "2026-01-15T00:57:44Z"
+  },
+  {
+    "published_utc": "2026-01-14",
+    "retrieved_date": "2026-01-15",
+    "retrieved_utc": "2026-01-15T07:56:08Z",
+    "source": "NPR_World",
+    "title": "Scientists call another near-record hot year a 'warning shot' from a shifting climate",
+    "url": "https://www.npr.org/2026/01/14/g-s1-105993/global-warming-speeding-up-2025-heat-record-climate-change",
+    "id_key": "6bb0dee1c204004221c681ebff2774ff8c68f01566292d2cef3c98024fd774e6",
+    "summary": "Scientists calculate that last year was one of the three hottest on record, along with 2024 and 2023. The trend indicates that warming could be speeding up, climate monitoring teams reported.",
+    "ingested_utc": "2026-01-15T07:56:08Z"
   },
   {
     "published_utc": "2026-01-14",
@@ -10954,49 +10998,5 @@
     "id_key": "7fcd6c1180428af7b097e5d3c2e1b8a396d512818c68b17d5a17871cb93af393",
     "summary": "Surging grocery prices were offset by lower increases for appliances and vehicles in the last such report before the Federal Reserve meets to debate interest rates.",
     "ingested_utc": "2026-01-13T16:57:48Z"
-  },
-  {
-    "published_utc": "2026-01-13",
-    "retrieved_date": "2026-01-13",
-    "retrieved_utc": "2026-01-13T16:55:57Z",
-    "source": "CryptoSlate",
-    "title": "Energy grid operators are ignoring Bitcoin’s stabilization benefits to chase a wealthier, less flexible buyer",
-    "url": "https://cryptoslate.com/bitcoin-mining-could-lose-its-cheapest-electrons-in-2026-as-ai-bids-up-firm-power/",
-    "id_key": "e3bad0b6f6f9121da1e00d3ae8ed905fcd5dd32d50474c518c125aaebb278225",
-    "summary": "Former Binance CEO, Changpeng Zhao (CZ), recently stated that the UAE generates surplus power in order to cover “three days” of high demand each year, making Bitcoin a buyer of last resort for energy that would otherwise go unused. Stripping away the specifics, the logic holds: mining turns curtailed or stranded electricity into revenue when […] The post Energy grid operators are ignoring Bitcoin’s stabilization benefits to chase a wealthier, less flexible buyer appeared first on CryptoSlate .",
-    "ingested_utc": "2026-01-13T16:55:57Z"
-  },
-  {
-    "published_utc": "2026-01-13",
-    "retrieved_date": "2026-01-13",
-    "retrieved_utc": "2026-01-13T16:55:38Z",
-    "source": "Guardian_World",
-    "title": "South Korean prosecutors demand death penalty for former president Yoon Suk Yeol",
-    "url": "https://www.theguardian.com/world/2026/jan/13/south-korean-prosecutors-demand-death-penalty-for-former-president-yoon-suk-yeol",
-    "id_key": "54108865a6f4b703431e489825f4cf2caa864e60ca008a6a9267aa446ef7dced",
-    "summary": "Yoon is on trial for insurrection charges, after trying to declare martial law in late 2024 South Korean prosecutors have demanded the death penalty for former president Yoon Suk Yeol over his failed martial law declaration in December 2024, in the first insurrection trial of a Korean head of state in three decades. Prosecutors characterised the case as the “serious destruction of constitutional order by anti-state forces”, telling Seoul central district court that Yoon had “directly and fundamentally infringed upon the safety of the state and the survival and freedom of the people”. Continue reading...",
-    "ingested_utc": "2026-01-13T16:55:38Z"
-  },
-  {
-    "published_utc": "2026-01-13",
-    "retrieved_date": "2026-01-13",
-    "retrieved_utc": "2026-01-13T16:55:38Z",
-    "source": "Guardian_World",
-    "title": "Iran crisis live: Trump says killers of protesters will ‘pay a big price’ and urges Iranians to ‘take over your institutions’",
-    "url": "https://www.theguardian.com/world/live/2026/jan/13/iran-protest-crackdown-regime-crisis-us-donald-trump-tariffs-latest-updates",
-    "id_key": "1cd4a1d1c819bfc555d107512916265b29648025a41cefc651ab9899f5461d90",
-    "summary": "US president cancels meetings with Iranian officials ‘until senseless killing of protesters stops’ Trump says countries doing business with Iran face 25% tariff on US trade People in Iran: share your views on the current situation Non-essential French embassy staff have left Iran, two sources with knowledge of the matter told Agence France-Presse. The personnel left on Sunday and Monday, the sources added, without saying how many people had departed. “The protection of our personnel and our citizens is a priority,” a French foreign ministry official told AFP. Commenting on the protests, the UN high commissioner for human rights Volker Türk said: This cycle of horrific violence cannot continue . The Iranian people and their demands for fairness, equality and justice must be heard. Continue reading...",
-    "ingested_utc": "2026-01-13T16:55:38Z"
-  },
-  {
-    "published_utc": "2026-01-13",
-    "retrieved_date": "2026-01-13",
-    "retrieved_utc": "2026-01-13T16:55:38Z",
-    "source": "Guardian_World",
-    "title": "Zoe Saldaña becomes highest-grossing actor of all time",
-    "url": "https://www.theguardian.com/film/2026/jan/13/zoe-saldana-highest-grossing-actor",
-    "id_key": "09ca03569edab176ec493005d5c3f0841ab2033b3ee6199aff73d329c70f19e2",
-    "summary": "Star overtook Scarlett Johansson after success of third Avatar – her films have now made more than $15.46bn worldwide Zoe Saldaña has become the highest-grossing actor of all time. The 47-year-old Oscar winner has overtaken Scarlett Johansson after the success of Avatar: Fire and Ash added more than $1.2bn to her total. Saldaña’s films have now made more than $15.46bn worldwide, according to the Numbers . Continue reading...",
-    "ingested_utc": "2026-01-13T16:55:38Z"
   }
 ]
