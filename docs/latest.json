@@ -2,6 +2,61 @@
   {
     "published_utc": "2026-01-16",
     "retrieved_date": "2026-01-16",
+    "retrieved_utc": "2026-01-16T19:41:44Z",
+    "source": "AlJazeera_All",
+    "title": "Who owns the Arctic?",
+    "url": "https://www.aljazeera.com/video/the-stream/2026/1/16/who-owns-the-arctic?traffic_source=rss",
+    "id_key": "c8b84e39ce22ee6f07a2d6beaaabeb885ec89d24c800e023a57554a566ef5b11",
+    "summary": "Global warming is thawing the Arctic and igniting a high-stakes race for the riches beneath its ice.",
+    "ingested_utc": "2026-01-16T19:41:44Z"
+  },
+  {
+    "published_utc": "2026-01-16",
+    "retrieved_date": "2026-01-16",
+    "retrieved_utc": "2026-01-16T19:41:44Z",
+    "source": "AlJazeera_All",
+    "title": "Syrians flee Aleppo as tensions rise with Kurdish-led SDF",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/1/16/syrians-flee-aleppo-as-tensions-rise-with-kurdish-led-sdf?traffic_source=rss",
+    "id_key": "e3be83673a9885c807f5e027dd09efe1b4afa0cbc13d62790ed8e0de2efff830",
+    "summary": "Syrians are fleeing areas near Aleppo after the government ordered people to leave amid rising tensions with the SDF.",
+    "ingested_utc": "2026-01-16T19:41:44Z"
+  },
+  {
+    "published_utc": "2026-01-16",
+    "retrieved_date": "2026-01-16",
+    "retrieved_utc": "2026-01-16T19:41:34Z",
+    "source": "Engadget_All",
+    "title": "Anthropic launches Claude Cowork, a version of its coding AI for regular people",
+    "url": "https://www.engadget.com/ai/anthropic-launches-claude-cowork-a-version-of-its-coding-ai-for-regular-people-193000849.html?src=rss",
+    "id_key": "07dd0fa15031d152fbeb5b0e7ed9ae176abcbb9f922cab848aa1250a2a3a942a",
+    "summary": "If you follow Anthropic, you're probably familiar with Claude Code. Since the fall of 2024 , the company has been training its AI models to use and navigate computers like a human would, and the coding agent has been the most practical expression of that work, giving developers a way to automate rote programming tasks. Starting today, Anthropic is giving regular people a way to take advantage of those capabilities, with the release of a new preview feature called Claude Cowork . The company is billing Cowork as \"a simpler way for anyone — not just developers — to work with Claude.\" After you give the system access to a folder on your computer, it can read, edit or create new files in that folder on your behalf. Anthropic gives a few different example use cases for Cowork. For instance, you could ask Claude to organize your downloads folder, telling it to rename the files contained within to something that's easier to parse at a glance. Another example: you could use Claude to turn screenshots of receipts and invoices into a spreadsheet for tracking expenses. Cowork can also navigate websites — provided you install Claude’s Chrome plugin — and make can use Anthropic's Connectors framework to access third-party apps like Canva. \"Cowork is designed to make using Claude for new work as simple as possible. You don’t need to keep manually providing context or converting Claude’s outputs into the right format,\" the company said. \"Nor do you have to wait for Claude to finish before offering further ideas or feedback: you can queue up tasks and let Claude work through them in parallel.\" If the idea of granting Claude access to your computer sounds ill-advised, Anthropic says Claude \"can’t read or edit anything you don’t give it explicit access to.\" However, the company does note the system can \"take potentially destructive actions,\" such as deleting a file that is important to you or misinterpreting your instructions. For that reason, Anthropic suggests it's best to give \"very clear\" guidance to Claude. Anthropic isn’t the first to offer a computer agent. Microsoft, for example, has been pushing Copilot hard for nearly three years, despite seemingly limited adoption . For Anthropic, the challenge will be convincing people these tools are useful where others have failed. The fact Claude Code has been universally loved by programmers may make that task easier. Anthropic briefly made Cowork preview only available to users of its pricey Claude Max subscription. That changed on Friday when the company expanded access to include customers of its $20 per month Pro plan. If you want to try Cowork for yourself, you'll need a Mac with the Claude macOS app installed. Update 01/16/26 2:30PM ET : Updated to reflect Claude Cowork is now also available to Claude Pro customers. This article originally appeared on Engadget at https://www.engadget.com/ai/anthropic-launches-claude-cowork-a-version-of-its-coding-ai-for-regular-people-193000849.html?src=rss",
+    "ingested_utc": "2026-01-16T19:41:34Z"
+  },
+  {
+    "published_utc": "2026-01-16",
+    "retrieved_date": "2026-01-16",
+    "retrieved_utc": "2026-01-16T19:41:31Z",
+    "source": "TechCrunch_All",
+    "title": "Trump administration wants tech companies to buy $15B of power plants they may not use",
+    "url": "https://techcrunch.com/2026/01/16/trump-administration-wants-tech-companies-to-buy-15b-of-power-plants-they-may-not-use/",
+    "id_key": "0b76662d997614f4f0330b730b3f5aad2a799753f5fb3073eda52680aadeba4d",
+    "summary": "In an attempt to alleviate rising electricity prices, the White House wants grid operator PJM to hold an auction for new generating capacity, and it wants tech companies to bid.",
+    "ingested_utc": "2026-01-16T19:41:31Z"
+  },
+  {
+    "published_utc": "2026-01-16",
+    "retrieved_date": "2026-01-16",
+    "retrieved_utc": "2026-01-16T19:41:30Z",
+    "source": "TheVerge_All",
+    "title": "Google brings its AI videomaker to Workspace users",
+    "url": "https://www.theverge.com/news/863570/google-flow-ai-video-generator-workspace",
+    "id_key": "ec70f538dc6acc26fc224cd70d9b5cf953fb4e9f7b6e141784026ba61345ad26",
+    "summary": "Google is expanding access to its AI videomaking tool. Launched last May, Flow was initially only available to Google AI Pro and AI Ultra subscribers, but now, those with Business, Enterprise, and Education Workspace plans can access it, too. Flow uses Google's AI video generation model Veo 3.1 to generate eight-second clips based on a […]",
+    "ingested_utc": "2026-01-16T19:41:30Z"
+  },
+  {
+    "published_utc": "2026-01-16",
+    "retrieved_date": "2026-01-16",
     "retrieved_utc": "2026-01-16T19:33:17Z",
     "source": "HackerNews_Top",
     "title": "Emoji Use in the Electronic Health Record is Increasing",
@@ -10943,60 +10998,5 @@
     "id_key": "c1855b4fbd826e1c12a70ab16f0ac75915d8927cfb54e6846ef13fc7b036043b",
     "summary": "Police believe no one hurt but urge public not to pick up explosive devices, say more may be found Nearly a dozen pipe bombs, some of them already detonated, have been found on footpaths and in parks in the nation’s capital, sparking a major police investigation and warnings not to touch the potentially explosive items. ACT police detective acting inspector Anna Wronski couldn’t say where the pipe bombs came from or who was behind them, but said the matter was being taken extremely seriously. Continue reading...",
     "ingested_utc": "2026-01-15T02:56:11Z"
-  },
-  {
-    "published_utc": "2026-01-15",
-    "retrieved_date": "2026-01-15",
-    "retrieved_utc": "2026-01-15T02:56:11Z",
-    "source": "Guardian_World",
-    "title": "Australia news live: Jewish peak body urges Ley to rethink hate laws stance, saying failure to pass them would be a ‘retrograde step’",
-    "url": "https://www.theguardian.com/australia-news/live/2026/jan/15/victoria-bushfires-school-data-hack-adelaide-writers-week-peter-malinauskas-labor-hate-speech-laws-political-reaction-anthony-albanese-sussan-ley-coalition-ntwnfb",
-    "id_key": "be2b98ea60de54a3cae74b30efa24e811336eb67263476782be77af79f75a8aa",
-    "summary": "Follow updates live Stunned Albanese says Coalition ‘playing politics’ as Ley calls hate speech reforms ‘pretty unsalvageable’ Get our breaking news email , free app or daily news podcast Iranian Australians left distraught with no confirmation their family is safe Almost a week into Iran’s communication blackout, Iranian Australian activist Mohammad Hashemi received a call from his home country. When I heard the stories, what happened to people, I was crying about the situation and what’s going on in our country. We continue to advise do not travel to Iran. If you choose to remain in Iran, you’re responsible for your own safety. Be prepared to shelter in place for an extended period. Make sure you have supplies of water, food and medication. Continue reading...",
-    "ingested_utc": "2026-01-15T02:56:11Z"
-  },
-  {
-    "published_utc": "2026-01-15",
-    "retrieved_date": "2026-01-15",
-    "retrieved_utc": "2026-01-15T02:56:11Z",
-    "source": "Guardian_World",
-    "title": "Adelaide festival apologises to Randa Abdel-Fattah and invites her to participate in 2027 writers’ week",
-    "url": "https://www.theguardian.com/culture/2026/jan/15/adelaide-festival-apologises-randa-abdel-fattah-2027-invite-ntwnfb",
-    "id_key": "d13e631ee58f6474c247aadb4485129e076d550ed1bc184b136875e54a392ffd",
-    "summary": "Apology comes as former Adelaide festival board member accuses Louise Adler of hypocrisy after she resigned citing free speech concerns Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The new Adelaide Festival board has issued a public apology to Palestinian-Australian academic Randa Abdel-Fattah, and has promised she will be invited to Adelaide Writers’ Week in 2027. Abdel-Fattah immediately accepted the apology, posting on Instagram that it was a vindication “of our collective solidarity and mobilisation against anti-Palestinian racism, bullying and censorship”. Continue reading...",
-    "ingested_utc": "2026-01-15T02:56:11Z"
-  },
-  {
-    "published_utc": "2026-01-15",
-    "retrieved_date": "2026-01-15",
-    "retrieved_utc": "2026-01-15T02:56:11Z",
-    "source": "Guardian_World",
-    "title": "Portland man shot by Border Patrol pleads not guilty to assaulting agent",
-    "url": "https://www.theguardian.com/us-news/2026/jan/14/portland-shooting-border-agent",
-    "id_key": "2a01db5b92785a0a89a8190d0bb50f38ec083fbc0c5d5071a7403506ddee12a9",
-    "summary": "Luis David Nino-Moncada, shot the day after Renee Good was killed, denies using vehicle as weapon against officer A man shot and wounded by a Border Patrol agent during an immigration stop in Portland last week has plead not guilty to charges of aggravated assault against a federal officer and damaging federal property. Luis David Nino-Moncada, who was taken into custody after sustaining an injury in the arm from the shooting, was indicted on Tuesday and entered his plea on Wednesday. The Department of Homeland Security alleges that Nino-Moncada, who is of Venezuelan descent, entered the US illegally and used his vehicle as a weapon when agents attempted to apprehend him. Continue reading...",
-    "ingested_utc": "2026-01-15T02:56:11Z"
-  },
-  {
-    "published_utc": "2026-01-15",
-    "retrieved_date": "2026-01-15",
-    "retrieved_utc": "2026-01-15T02:56:08Z",
-    "source": "BBC_World",
-    "title": "Zelensky declares state of emergency in Ukraine's energy sector",
-    "url": "https://www.bbc.com/news/articles/cq6vm677z76o?at_medium=RSS&at_campaign=rss",
-    "id_key": "68c595af1a7e90ff0de4d1b767a5324cbe2e5ddd16f7fa5f1e18ef2e7a127446",
-    "summary": "Thousands of Ukrainians are without power in temperatures well below freezing, due to ongoing Russian airstrikes.",
-    "ingested_utc": "2026-01-15T02:56:08Z"
-  },
-  {
-    "published_utc": "2026-01-15",
-    "retrieved_date": "2026-01-15",
-    "retrieved_utc": "2026-01-15T02:56:08Z",
-    "source": "BBC_World",
-    "title": "Why two Canadian provinces are in a spat over Crown Royal whisky",
-    "url": "https://www.bbc.com/news/articles/c8x9v241z2qo?at_medium=RSS&at_campaign=rss",
-    "id_key": "be26b2eca24d4c241e60868207d03644b89ff28a08fd2312e16ed78f1a8761f2",
-    "summary": "The UK-owned, Canadian-made whisky is testing a united \"Team Canada\" approach in the face of US tariffs.",
-    "ingested_utc": "2026-01-15T02:56:08Z"
   }
 ]
