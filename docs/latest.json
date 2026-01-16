@@ -2,6 +2,61 @@
   {
     "published_utc": "2026-01-16",
     "retrieved_date": "2026-01-16",
+    "retrieved_utc": "2026-01-16T04:54:24Z",
+    "source": "HackerNews_Top",
+    "title": "Boeing knew of flaw in part linked to UPS plane crash",
+    "url": "https://www.bbc.com/news/articles/cly56w0p9e1o",
+    "id_key": "37de55daf7d6df358c58cc0137d69e72cd10fe96a6c6cd1cbb88ca8f1d0b760a",
+    "summary": "Comments",
+    "ingested_utc": "2026-01-16T04:54:24Z"
+  },
+  {
+    "published_utc": "2026-01-16",
+    "retrieved_date": "2026-01-16",
+    "retrieved_utc": "2026-01-16T04:54:14Z",
+    "source": "FinancialPost_Business",
+    "title": "Asian Stocks Hit Record on Tech Rally, Yen Gains: Markets Wrap",
+    "url": "https://financialpost.com/pmn/business-pmn/asian-stocks-hit-record-on-tech-rally-yen-gains-markets-wrap",
+    "id_key": "473bc0dc7c0e2c67fb023d3eb79d022df8172e89f7ea590f958690c3008606d4",
+    "summary": "Asia’s tech-led rally pushed equities to new highs after strong earnings from a chip bellwether eased worries about overheating in the artificial intelligence sector and encouraged investors to add bets.",
+    "ingested_utc": "2026-01-16T04:54:14Z"
+  },
+  {
+    "published_utc": "2026-01-16",
+    "retrieved_date": "2026-01-16",
+    "retrieved_utc": "2026-01-16T04:54:14Z",
+    "source": "FinancialPost_Business",
+    "title": "Mitsubishi to Buy Aethon US Gas Assets in $5.2 Billion Deal",
+    "url": "https://financialpost.com/pmn/business-pmn/mitsubishi-to-buy-aethon-us-gas-assets-in-5-2-billion-deal",
+    "id_key": "420dc81adab3182fdd2f44327d5abdc5fbff0b94c055b8d0f579309cfa22bd1a",
+    "summary": "Mitsubishi Corp. agreed to buy Aethon Energy Management LLC’s US gas and pipeline assets for $5.2 billion, the biggest purchase by a Japanese company in the American shale sector.",
+    "ingested_utc": "2026-01-16T04:54:14Z"
+  },
+  {
+    "published_utc": "2026-01-16",
+    "retrieved_date": "2026-01-16",
+    "retrieved_utc": "2026-01-16T04:53:55Z",
+    "source": "TheVerge_All",
+    "title": "Casting is dead. Long live casting!",
+    "url": "https://www.theverge.com/column/861948/casting-netflix-dead",
+    "id_key": "aa2f0efbe357694449519c18c5bfd9e699d187ff3d6a16d69944831cee61b8b3",
+    "summary": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. Last month, Netflix made the surprising decision to kill off a key feature: With no prior warning, the company removed the ability to cast videos from its mobile apps to […]",
+    "ingested_utc": "2026-01-16T04:53:55Z"
+  },
+  {
+    "published_utc": "2026-01-16",
+    "retrieved_date": "2026-01-16",
+    "retrieved_utc": "2026-01-16T04:51:18Z",
+    "source": "BBC_Business",
+    "title": "Star Wars boss Kathleen Kennedy departs after leading reboot",
+    "url": "https://www.bbc.com/news/articles/ce9y3y292l5o?at_medium=RSS&at_campaign=rss",
+    "id_key": "d1d6229ca430d274192cc9ac31d095aee61da61303910246769f1a3fd3594e1e",
+    "summary": "She oversaw the expansion of the franchise, including five feature films and new TV shows.",
+    "ingested_utc": "2026-01-16T04:51:18Z"
+  },
+  {
+    "published_utc": "2026-01-16",
+    "retrieved_date": "2026-01-16",
     "retrieved_utc": "2026-01-16T04:05:50Z",
     "source": "FinancialPost_Business",
     "title": "China Warns of ‘Penalties’ Against Carmakers For Price War",
@@ -10943,60 +10998,5 @@
     "id_key": "b0ad328d4c4c08625c63dcb96a2cf69782659305cc3272f2ba732f06908fcbfc",
     "summary": "Former Pimco executive Ed Devlin has been adding to trades that will pay off if the yield curve steepens, believing the US will be forced to increase borrowing if the Trump administration loses the Supreme Court case on tariffs.",
     "ingested_utc": "2026-01-14T14:52:58Z"
-  },
-  {
-    "published_utc": "2026-01-14",
-    "retrieved_date": "2026-01-14",
-    "retrieved_utc": "2026-01-14T14:52:58Z",
-    "source": "FinancialPost_Business",
-    "title": "Prices Paid to US Producers Rise on Jump in Energy Costs",
-    "url": "https://financialpost.com/pmn/business-pmn/prices-paid-to-us-producers-rise-on-jump-in-energy-costs",
-    "id_key": "6e66b5ba3f4f4317377ec3aa4877b9da47453d0daea314545710b164810bbd1f",
-    "summary": "US wholesale inflation picked up slightly in November from a month earlier on a jump in energy costs, even as prices for services were unchanged.",
-    "ingested_utc": "2026-01-14T14:52:58Z"
-  },
-  {
-    "published_utc": "2026-01-14",
-    "retrieved_date": "2026-01-14",
-    "retrieved_utc": "2026-01-14T14:52:52Z",
-    "source": "AlJazeera_All",
-    "title": "LIVE: Trump says control of Greenland ‘vital’ amid White House talks",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/1/14/live-trump-says-control-of-greenland-vital-ahead-of-white-house-meeting?traffic_source=rss",
-    "id_key": "95cbed2321889598db30499cc28ba35442d509a1a77fdaae7a27c6caff4848bd",
-    "summary": "Trump's comments come as Danish, Greenland diplomats meet with Vice President JD Vance and Secretary of State Marco.",
-    "ingested_utc": "2026-01-14T14:52:52Z"
-  },
-  {
-    "published_utc": "2026-01-14",
-    "retrieved_date": "2026-01-14",
-    "retrieved_utc": "2026-01-14T14:52:52Z",
-    "source": "AlJazeera_All",
-    "title": "Diplomatic contact between Iran, US reportedly cut off amid rising tension",
-    "url": "https://www.aljazeera.com/news/2026/1/14/diplomatic-contact-reportedly-suspended-between-us-and-iran?traffic_source=rss",
-    "id_key": "c73b3f2e104760612cfdbae3cbbc5473ba858ec71125effa774991fc61cbf3ea",
-    "summary": "Contacts between Tehran and Washington cut off, as Iran shows no sign of heeding US warnings over protest crackdown.",
-    "ingested_utc": "2026-01-14T14:52:52Z"
-  },
-  {
-    "published_utc": "2026-01-14",
-    "retrieved_date": "2026-01-14",
-    "retrieved_utc": "2026-01-14T14:52:52Z",
-    "source": "AlJazeera_All",
-    "title": "Some personnel ‘advised to leave’ US military base in Qatar",
-    "url": "https://www.aljazeera.com/news/2026/1/14/some-personnel-advised-to-leave-us-military-base-in-qatar-report?traffic_source=rss",
-    "id_key": "a3af62008a41ed0ee8ef3b653c5616fc356993a0b1d4f97ad5d43e738e0fdd8f",
-    "summary": "The report comes amid warnings from the US that ​it could intervene in protests currently taking place in Iran.",
-    "ingested_utc": "2026-01-14T14:52:52Z"
-  },
-  {
-    "published_utc": "2026-01-14",
-    "retrieved_date": "2026-01-14",
-    "retrieved_utc": "2026-01-14T14:52:51Z",
-    "source": "TheStreet_Top",
-    "title": "Big bank pushback is brewing over Trump credit card plan",
-    "url": "https://www.thestreet.com/economy/jpmorgan-is-brewing-over-trump-credit-card-plan",
-    "id_key": "07bc6ebd2e40bd411d9a262ea5d81475ccf022bc08ac66fc690c992219134eb2",
-    "summary": "When politicians promise to “crack down” on credit card companies, your wallet is usually caught in the crossfire. President Trump’s latest move is a classic example. He wants a one-year hard cap of 10% on credit card interest rates that often run 20% to 30%. On its face, that is a massive win if ...",
-    "ingested_utc": "2026-01-14T14:52:51Z"
   }
 ]
