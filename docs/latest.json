@@ -2,6 +2,39 @@
   {
     "published_utc": "2026-01-16",
     "retrieved_date": "2026-01-16",
+    "retrieved_utc": "2026-01-16T23:34:34Z",
+    "source": "ArsTechnica_All",
+    "title": "Rackspace customers grapple with “devastating” email hosting price hike",
+    "url": "https://arstechnica.com/information-technology/2026/01/rackspace-raises-email-hosting-prices-by-as-much-as-706-percent/",
+    "id_key": "bd9fcce78fc9deb840148ca0cff3da9077d8924db6ccb0d089ab0e74a223eaa7",
+    "summary": "Reseller says Rackspace plans to charge it 706 percent more.",
+    "ingested_utc": "2026-01-16T23:34:34Z"
+  },
+  {
+    "published_utc": "2026-01-16",
+    "retrieved_date": "2026-01-16",
+    "retrieved_utc": "2026-01-16T23:34:04Z",
+    "source": "NYTimes_Business",
+    "title": "F.A.A. Urges ‘Caution’ Over Oceans in Latin America, Warning of Military Activity",
+    "url": "https://www.nytimes.com/2026/01/16/us/politics/faa-warnings-latin-america.html",
+    "id_key": "ca9985a6fe52b139a46efcc388a0ef4329b8fa0d51a7096120f7734d76035cd3",
+    "summary": "The Federal Aviation Administration released seven advisories warning pilots to stay away from parts of the Pacific Ocean near Mexico, Colombia, Ecuador and Panama.",
+    "ingested_utc": "2026-01-16T23:34:04Z"
+  },
+  {
+    "published_utc": "2026-01-16",
+    "retrieved_date": "2026-01-16",
+    "retrieved_utc": "2026-01-16T23:31:49Z",
+    "source": "BBC_World",
+    "title": "Why is there so much international interest in Greenland?",
+    "url": "https://www.bbc.com/news/videos/cd9ey81441jo?at_medium=RSS&at_campaign=rss",
+    "id_key": "aeecbba9f7566608ccfdff105a88ef4f3e29f89bd792a068a55a59cd5261f00a",
+    "summary": "The BBC's Europe Editor Katya Adler has been reporting from Greenland and dissects why the island has so much value in the eyes of President Trump.",
+    "ingested_utc": "2026-01-16T23:31:49Z"
+  },
+  {
+    "published_utc": "2026-01-16",
+    "retrieved_date": "2026-01-16",
     "retrieved_utc": "2026-01-16T23:15:37Z",
     "source": "FinancialPost_Business",
     "title": "VERSES® Restructures to Focus on Core Target Market",
@@ -10965,38 +10998,5 @@
     "id_key": "25f8493dec7186beab282eef527edb1657eb051e74262c470b899adcce563ae7",
     "summary": "The economy was boosted by a rebound in car production and from the services sector.",
     "ingested_utc": "2026-01-15T07:19:05Z"
-  },
-  {
-    "published_utc": "2026-01-15",
-    "retrieved_date": "2026-01-15",
-    "retrieved_utc": "2026-01-15T06:58:48Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "Philippines and Japan sign security agreement as regional tensions rise",
-    "url": "https://asia.nikkei.com/politics/defense/philippines-and-japan-sign-security-agreement-as-regional-tensions-rise",
-    "id_key": "f7dea7ed477d7772c38ff5509457c8938fdb3ae88865fadf10e5a2667cad3306",
-    "summary": "",
-    "ingested_utc": "2026-01-15T06:58:48Z"
-  },
-  {
-    "published_utc": "2026-01-15",
-    "retrieved_date": "2026-01-15",
-    "retrieved_utc": "2026-01-15T06:58:48Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "Commercial crisis engulfs India's much-delayed soccer league",
-    "url": "https://asia.nikkei.com/spotlight/sports/commercial-crisis-engulfs-india-s-much-delayed-soccer-league",
-    "id_key": "e7ae595337bee0ec3a80aebba55edfaeefbd511cfbfe6fbaa64b3f9d00d26bd2",
-    "summary": "",
-    "ingested_utc": "2026-01-15T06:58:48Z"
-  },
-  {
-    "published_utc": "2026-01-15",
-    "retrieved_date": "2026-01-15",
-    "retrieved_utc": "2026-01-15T06:58:46Z",
-    "source": "FinancialPost_Business",
-    "title": "India’s Russia Oil Trade May Dip Again, Stranding Cargoes at Sea",
-    "url": "https://financialpost.com/pmn/business-pmn/indias-russia-oil-trade-may-dip-again-stranding-cargoes-at-sea",
-    "id_key": "f4eb62fa1fe623772e0a451b67c71191b1a413c703361ee7bdbad58e00b603d3",
-    "summary": "India’s buying of Russian crude is likely to stabilize or even decline this month, leaving more cargoes from the OPEC+ producer stranded and pushing the world’s third-largest oil importer to look to pricier alternatives.",
-    "ingested_utc": "2026-01-15T06:58:46Z"
   }
 ]
