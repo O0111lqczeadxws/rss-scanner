@@ -2,6 +2,39 @@
   {
     "published_utc": "2026-01-16",
     "retrieved_date": "2026-01-16",
+    "retrieved_utc": "2026-01-16T19:51:17Z",
+    "source": "FinancialPost_Business",
+    "title": "Media Advisory: LUFA Strike Kick-Off Rally",
+    "url": "https://financialpost.com/globe-newswire/media-advisory-lufa-strike-kick-off-rally",
+    "id_key": "c154eea72418eecdbe53473b69487a55dcc775284f913adafb50bf87bb0a469e",
+    "summary": "SUDBURY, Ontario, Jan. 16, 2026 (GLOBE NEWSWIRE) — WHAT:If an agreement is not reached between the Laurentian University Faculty Association (LUFA) and the Laurentian University administration this weekend, LUFA will be holding a strike kick-off rally. WHO:LUFA will be gathering picketers, students, and supporters, including special speakers: Fabrice Colin, LUFA President; Rob Kristofferson, OCUFA President; […]",
+    "ingested_utc": "2026-01-16T19:51:17Z"
+  },
+  {
+    "published_utc": "2026-01-16",
+    "retrieved_date": "2026-01-16",
+    "retrieved_utc": "2026-01-16T19:51:01Z",
+    "source": "Engadget_All",
+    "title": "Anthropic opens up its Claude Cowork feature to anyone with a $20 subscription",
+    "url": "https://www.engadget.com/ai/anthropic-opens-up-its-claude-cowork-feature-to-anyone-with-a-20-subscription-194000021.html?src=rss",
+    "id_key": "ba700794beda06bee9a790dc567f32332659d0947eeb8043afb55806372aff3c",
+    "summary": "Claude Cowork , Anthropic's AI assistant for taking care of simple tasks on your computer, is now available for anyone with a $20 per month Pro subscription to try. Anthropic launched Cowork as an exclusive feature for its Max subscribers , who pay a minimum of $100 per month for more uses of Claude's expensive reasoning models and early access to experimental features. Now Claude Cowork is available at a cheaper price, though Anthropic notes \"Pro users may hit their usage limits earlier\" than Max users do. Like other AI agents, the novelty of Claude Cowork is its ability to work on its own. If you have the macOS Claude app and a Pro subscription, you can prompt Claude Cowork to work on tasks on your local computer, like creating documents based on files you have saved or organizing your folders. The feature is an evolution of Claude Code , Anthropic's AI coding agent, and can similarly use connectors and the Claude Chrome plugin to work with other apps and the web. As part of this expanded rollout, Anthropic has included a few fixes inspired by early user feedback. You'll now be able to rename sessions with Claude Cowork (\"Tasks\" in the parlance of the Claude app) and the company says the AI assistant will offer better file format previews, more reliable use of connectors to other apps and confirmation messages before it deletes files. Coding agents top the list of applications of AI that have gained real traction in the last year, so Anthropic applying what it learned with Claude Code to a more general collection of computer tasks makes sense. Claude Cowork is still limited to macOS and Anthropic's paid subscribers, but assuming the AI agent continues to be popular, it wouldn't be surprising if the company brought it to other platforms. This article originally appeared on Engadget at https://www.engadget.com/ai/anthropic-opens-up-its-claude-cowork-feature-to-anyone-with-a-20-subscription-194000021.html?src=rss",
+    "ingested_utc": "2026-01-16T19:51:01Z"
+  },
+  {
+    "published_utc": "2026-01-16",
+    "retrieved_date": "2026-01-16",
+    "retrieved_utc": "2026-01-16T19:48:39Z",
+    "source": "CryptoBriefing",
+    "title": "DOJ confirms seized Bitcoin from Samourai Wallet case has not been sold",
+    "url": "https://cryptobriefing.com/doj-bitcoin-seizure-policy/",
+    "id_key": "2d408b215990a358eba4f002547f265d5a20e9d849a5188017a6cb4336f245d3",
+    "summary": "The decision to retain seized Bitcoin strengthens the US's strategic digital asset reserves, potentially influencing future crypto policies. The post DOJ confirms seized Bitcoin from Samourai Wallet case has not been sold appeared first on Crypto Briefing .",
+    "ingested_utc": "2026-01-16T19:48:39Z"
+  },
+  {
+    "published_utc": "2026-01-16",
+    "retrieved_date": "2026-01-16",
     "retrieved_utc": "2026-01-16T19:41:44Z",
     "source": "AlJazeera_All",
     "title": "Who owns the Arctic?",
@@ -10965,38 +10998,5 @@
     "id_key": "1589f94c616f662488964ae5114648afa8fa3b949bc039be82f1289578105ac0",
     "summary": "The state will examine whether xAI, which owns the social media platform X and created the A.I. chatbot Grok, violated state law.",
     "ingested_utc": "2026-01-15T02:58:25Z"
-  },
-  {
-    "published_utc": "2026-01-15",
-    "retrieved_date": "2026-01-15",
-    "retrieved_utc": "2026-01-15T02:58:24Z",
-    "source": "NYTimes_World",
-    "title": "Analysis: Trump Supports Protesters in Iran, but Not in Minneapolis",
-    "url": "https://www.nytimes.com/2026/01/13/us/politics/trump-protesters-iran-minnesota.html",
-    "id_key": "b26c652cbad253d169cca9e03120f83001a4a5c74dea3638348f06251728eabf",
-    "summary": "The split-screen television images of mass demonstrations in Minneapolis and Tehran have highlighted the president’s disparate views of democracy and popular dissent.",
-    "ingested_utc": "2026-01-15T02:58:24Z"
-  },
-  {
-    "published_utc": "2026-01-15",
-    "retrieved_date": "2026-01-15",
-    "retrieved_utc": "2026-01-15T02:58:23Z",
-    "source": "NYTimes_Business",
-    "title": "Trump Imposes Limited Tariffs on Foreign Semiconductors",
-    "url": "https://www.nytimes.com/2026/01/14/business/economy/trump-chips-tariffs.html",
-    "id_key": "12f28028703404a95f3d234d3f0cd9210316574116a69907f622737857336827",
-    "summary": "The tariffs will allow President Trump to take a cut of Nvidia’s chip sales to China while putting off a decision about imposing higher taxes on the chip industry.",
-    "ingested_utc": "2026-01-15T02:58:23Z"
-  },
-  {
-    "published_utc": "2026-01-15",
-    "retrieved_date": "2026-01-15",
-    "retrieved_utc": "2026-01-15T02:56:11Z",
-    "source": "Guardian_World",
-    "title": "‘Dangerous’ pipe bombs found detonated on Canberra footpaths, police say",
-    "url": "https://www.theguardian.com/australia-news/2026/jan/15/canberra-pipe-bombs-police-warning-ntwnfb",
-    "id_key": "c1855b4fbd826e1c12a70ab16f0ac75915d8927cfb54e6846ef13fc7b036043b",
-    "summary": "Police believe no one hurt but urge public not to pick up explosive devices, say more may be found Nearly a dozen pipe bombs, some of them already detonated, have been found on footpaths and in parks in the nation’s capital, sparking a major police investigation and warnings not to touch the potentially explosive items. ACT police detective acting inspector Anna Wronski couldn’t say where the pipe bombs came from or who was behind them, but said the matter was being taken extremely seriously. Continue reading...",
-    "ingested_utc": "2026-01-15T02:56:11Z"
   }
 ]
