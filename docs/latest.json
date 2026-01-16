@@ -2,6 +2,28 @@
   {
     "published_utc": "2026-01-16",
     "retrieved_date": "2026-01-16",
+    "retrieved_utc": "2026-01-16T22:56:14Z",
+    "source": "FinancialPost_Business",
+    "title": "LibertyStream Announces Non-Brokered LIFE Offering of up to $10,000,000",
+    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/libertystream-announces-non-brokered-life-offering-of-up-to-10000000",
+    "id_key": "97215f673480c4641a0cf9497decea2340ba4da66198ab1cef846b9424340584",
+    "summary": "NOT FOR DISTRIBUTION TO UNITED STATES NEWS WIRE SERVICES OR DISSEMINATION IN THE UNITED STATES DALLAS — LibertyStream Infrastructure Partners Inc. (TSXV: LIB | OTCQB: VLTLF | FSE: I2D) (“LibertyStream” or the “Company”) is pleased to announce a non-brokered private placement offering (the “Offering”) of units of the Company (the “Units”) at a price of […]",
+    "ingested_utc": "2026-01-16T22:56:14Z"
+  },
+  {
+    "published_utc": "2026-01-16",
+    "retrieved_date": "2026-01-16",
+    "retrieved_utc": "2026-01-16T22:53:24Z",
+    "source": "Guardian_World",
+    "title": "White House announces Gaza ‘board of peace’ with Tony Blair, Jared Kushner and Marco Rubio",
+    "url": "https://www.theguardian.com/us-news/2026/jan/16/trump-gaza-board-rubio-blair",
+    "id_key": "fb6bc8f0ff483913fc0aae79f6e5d7cfdbb96480534aac4d4b1162339d6a5725",
+    "summary": "Body chaired by Trump tasked with overseeing reconstruction of Gaza and transitional administration The White House has released a list of officials appointed by Donald Trump to what he’s calling a “board of peace”, tasked with overseeing the reconstruction of Gaza, and its transitional administration. The names included US secretary of state Marco Rubio, former British prime minister Tony Blair, Trump’s son-in-law Jared Kushner and Trump special envoy Steve Witkoff, the White House said. Continue reading...",
+    "ingested_utc": "2026-01-16T22:53:24Z"
+  },
+  {
+    "published_utc": "2026-01-16",
+    "retrieved_date": "2026-01-16",
     "retrieved_utc": "2026-01-16T22:40:10Z",
     "source": "HackerNews_Top",
     "title": "Drawbot: Let's hack something cute (2025)",
@@ -10976,27 +10998,5 @@
     "id_key": "a744fc962f16286e8fd12f4fba93a0c68a58922745f681009a86622d0a09da11",
     "summary": "Won has traded near lows of global financial crisis in recent weeks",
     "ingested_utc": "2026-01-15T06:58:12Z"
-  },
-  {
-    "published_utc": "2026-01-15",
-    "retrieved_date": "2026-01-15",
-    "retrieved_utc": "2026-01-15T06:58:07Z",
-    "source": "NPR_Top",
-    "title": "DHS: ICE officers in Minneapolis shoot Venezuelan man in the leg",
-    "url": "https://www.npr.org/2026/01/15/nx-s1-5678159/dhs-ice-officers-in-minneapolis-shoot-venezuelan-man-in-the-leg",
-    "id_key": "923eb40910e644199e4f996886cc74fa1b3b978e6386df3cf7348b93d45f7fa5",
-    "summary": "The Department of Homeland Security says the shooting happened after the agent came under attack. Protestors have taken to the streets in Minneapolis, clashing with federal agents, after Renee Macklin Good's killing last week.",
-    "ingested_utc": "2026-01-15T06:58:07Z"
-  },
-  {
-    "published_utc": "2026-01-15",
-    "retrieved_date": "2026-01-15",
-    "retrieved_utc": "2026-01-15T06:58:07Z",
-    "source": "NPR_Top",
-    "title": "FBI searches a Washington Post reporter's home as part of investigation",
-    "url": "https://www.npr.org/2026/01/15/g-s1-106103/fbi-search-washington-post-reporter-home",
-    "id_key": "0765314ea725b50f90173fa199f5831f5eef8f4677da38bacb474d3a98204682",
-    "summary": "Hannah Natanson had a phone, two laptops and a Garmin watch seized. The Justice Department says this is part of an investigation into a Pentagon contractor accused of taking home classified information.",
-    "ingested_utc": "2026-01-15T06:58:07Z"
   }
 ]
