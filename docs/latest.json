@@ -2,6 +2,39 @@
   {
     "published_utc": "2026-01-17",
     "retrieved_date": "2026-01-17",
+    "retrieved_utc": "2026-01-17T21:42:58Z",
+    "source": "FinancialPost_Business",
+    "title": "BOJ Keeps Yen Watchers on Edge for Rate-Hike Clues",
+    "url": "https://financialpost.com/pmn/business-pmn/boj-keeps-yen-watchers-on-edge-for-rate-hike-clues",
+    "id_key": "79c811877a66aaca7733fbc1c7f4ce543665b43eb2036b3ff7a0066e3e540ddd",
+    "summary": "The upcoming Bank of Japan meeting offers scope for sharp movements in the yen as investors try to gauge the timing of its next hike — with a looming election adding to the confusion.",
+    "ingested_utc": "2026-01-17T21:42:58Z"
+  },
+  {
+    "published_utc": "2026-01-17",
+    "retrieved_date": "2026-01-17",
+    "retrieved_utc": "2026-01-17T21:42:51Z",
+    "source": "TheStreet_Top",
+    "title": "Forget Saks, another retailer files Chapter 11 bankruptcy",
+    "url": "https://www.thestreet.com/retail/27-year-old-fashion-brand-shoshanna-files-chapter-11-bankruptcy",
+    "id_key": "b490bb9c9326f6897751bbed0d464f09d40dc14c6bfb6621572c260ef2bca8f3",
+    "summary": "Back in 1993, Shoshanna Lonstein Gruss, then just Shoshanna Lonstein, became a tabloid darling because she dated Jerry Seinfeld at the height of his sitcom fame. That was before you could be social media famous, but essentially, she was one of the first influencers, and she parlayed the fame of her ...",
+    "ingested_utc": "2026-01-17T21:42:51Z"
+  },
+  {
+    "published_utc": "2026-01-17",
+    "retrieved_date": "2026-01-17",
+    "retrieved_utc": "2026-01-17T21:42:09Z",
+    "source": "NYTimes_Business",
+    "title": "White House Warns CBS: Air Trump Interview in Full, or ‘We’ll Sue’",
+    "url": "https://www.nytimes.com/2026/01/17/business/media/cbs-news-trump-interview.html",
+    "id_key": "73eb004796a4a2a75da78f1163b95effc2588bd5310a345c2822a073d74c2266",
+    "summary": "In previously unreported remarks, the White House press secretary Karoline Leavitt told CBS News that Mr. Trump would “sue” the news outlet if it did not air an interview unedited.",
+    "ingested_utc": "2026-01-17T21:42:09Z"
+  },
+  {
+    "published_utc": "2026-01-17",
+    "retrieved_date": "2026-01-17",
     "retrieved_utc": "2026-01-17T21:32:57Z",
     "source": "HackerNews_Top",
     "title": "A programming language based on grammatical cases of Turkish",
@@ -10965,38 +10998,5 @@
     "id_key": "d83f7004090f38384df7eb1584ef5497ba987baebc26e10c48aa59f0db0d8088",
     "summary": "Officers with riot shields, dogs and teargas called in to quell action at Harmondsworth and Brook House facilities More than 100 asylum seekers held at two immigration detention centres have staged overnight protests against the UK’s controversial “one in, one out” scheme with France. Officers with riot shields, dogs and tear gas arrived to quell the protests. Continue reading...",
     "ingested_utc": "2026-01-15T15:16:10Z"
-  },
-  {
-    "published_utc": "2026-01-15",
-    "retrieved_date": "2026-01-15",
-    "retrieved_utc": "2026-01-15T15:16:10Z",
-    "source": "Guardian_World",
-    "title": "Boeing knew of engine defect on UPS plane that crashed in Kentucky, report says",
-    "url": "https://www.theguardian.com/world/2026/jan/15/ups-plane-crash-kentucky-boeing-engine-defect",
-    "id_key": "8d351823029177e7e82bbdc7c55a4a35fcc93257db767ea2e8974a223e17710d",
-    "summary": "US transportation safety board releases initial report on November 2025 crash that killed 15 people in Louisville An engine part suspected of causing the crash of a UPS cargo plane and loss of 15 lives in Louisville in November was the subject of at least four previous failures on three separate aircraft, investigators have found. A preliminary report by the National Transportation Safety Board (NTSB) released Wednesday determined that Boeing warned plane owners about the defect, but did not believe it was a flight safety issue and did not require immediate repairs. Continue reading...",
-    "ingested_utc": "2026-01-15T15:16:10Z"
-  },
-  {
-    "published_utc": "2026-01-15",
-    "retrieved_date": "2026-01-15",
-    "retrieved_utc": "2026-01-15T14:51:40Z",
-    "source": "HackerNews_Top",
-    "title": "Programming, Evolved: Lessons and Observations",
-    "url": "https://github.com/kulesh/dotfiles/blob/main/dev/dev/docs/programming-evolved.md",
-    "id_key": "832879366ca0fb23391918490ab9e8a5e3ea7b80dbb313ba35cdbe0b16e72c45",
-    "summary": "Comments",
-    "ingested_utc": "2026-01-15T14:51:40Z"
-  },
-  {
-    "published_utc": "2026-01-15",
-    "retrieved_date": "2026-01-15",
-    "retrieved_utc": "2026-01-15T14:51:40Z",
-    "source": "HackerNews_Top",
-    "title": "Show HN: Fine-tuned Qwen2.5-7B on 100 films for probabilistic story graphs",
-    "url": "https://cinegraphs.ai/",
-    "id_key": "2369c849deb7b81b7b49b20a4864ed04446e996d4f3e651eb7130dd4f293c058",
-    "summary": "Comments",
-    "ingested_utc": "2026-01-15T14:51:40Z"
   }
 ]
