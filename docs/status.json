@@ -1,7 +1,7 @@
 {
-  "started_utc": "2026-01-17T19:25:46Z",
-  "ended_utc": "2026-01-17T19:29:12Z",
-  "new_items_this_run": 2,
+  "started_utc": "2026-01-17T19:33:46Z",
+  "ended_utc": "2026-01-17T19:37:19Z",
+  "new_items_this_run": 5,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
@@ -10,7 +10,7 @@
     "BBC_World": 0,
     "BBC_Business": 0,
     "BBC_Technology": 0,
-    "Guardian_Business": 0,
+    "Guardian_Business": 1,
     "Guardian_World": 1,
     "WSJ_US_Business": 0,
     "WSJ_World": 0,
@@ -56,12 +56,12 @@
     "MarketWatch_RealTime": 0,
     "MarketWatch_Bulletins": 0,
     "MarketWatch_PersonalFinance": 0,
-    "NYTimes_Business": 0,
+    "NYTimes_Business": 1,
     "NYTimes_World": 0,
-    "NYTimes_Economy": 0,
+    "NYTimes_Economy": 1,
     "NYTimes_Technology": 0,
     "CNN_Top": 0,
-    "NPR_Top": 1,
+    "NPR_Top": 0,
     "NPR_Business": 0,
     "NPR_Economy": 0,
     "NPR_World": 0,
@@ -78,7 +78,7 @@
     "TheEconomist_Business": 0,
     "TheEconomist_Finance": 0,
     "Investopedia_Latest": 0,
-    "TheStreet_Top": 0,
+    "TheStreet_Top": 1,
     "AlJazeera_All": 0,
     "AlJazeera_Economy": 0,
     "FinancialPost_Business": 0,
@@ -347,7 +347,7 @@
     "entries_seen": 1555,
     "too_old": 491,
     "dup_title_url": 96,
-    "dup_id": 406
+    "dup_id": 403
   },
   "limits": {
     "skip_older_days": 10,
@@ -360,6 +360,6 @@
   },
   "processed": {
     "file": "data/processed/2026-01-17.jsonl",
-    "appended_new": 2
+    "appended_new": 5
   }
 }
