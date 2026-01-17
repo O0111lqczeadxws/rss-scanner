@@ -2,6 +2,28 @@
   {
     "published_utc": "2026-01-17",
     "retrieved_date": "2026-01-17",
+    "retrieved_utc": "2026-01-17T09:35:55Z",
+    "source": "HackerNews_Top",
+    "title": "Office app has changed to copilot and now I can't open files",
+    "url": "https://old.reddit.com/r/Office365/comments/1q2b28q/office_app_has_changed_to_copilot_and_now_i_cant",
+    "id_key": "5cc85e8f3200a49599e57c867b7eeeb8ea90d8be747fb7ab2169b64bc536d29a",
+    "summary": "Comments",
+    "ingested_utc": "2026-01-17T09:35:55Z"
+  },
+  {
+    "published_utc": "2026-01-17",
+    "retrieved_date": "2026-01-17",
+    "retrieved_utc": "2026-01-17T09:35:39Z",
+    "source": "AlJazeera_All",
+    "title": "Syria live news: Army takes control of Deir Hafer, Maskana as SDF pulls out",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/1/17/syria-live-news-army-takes-control-of-deir-hafer-as-sdf-withdraws?traffic_source=rss",
+    "id_key": "a4bdf9de0f2825e4c230774f4bb053535ac258202324a74d3832b338d96df9b4",
+    "summary": "Army says its forces are working to remove mines and other war remnants as they continue advancement.",
+    "ingested_utc": "2026-01-17T09:35:39Z"
+  },
+  {
+    "published_utc": "2026-01-17",
+    "retrieved_date": "2026-01-17",
     "retrieved_utc": "2026-01-17T09:12:31Z",
     "source": "Guardian_World",
     "title": "Shelling out? Easter eggs in the UK are smaller but pricier this year",
@@ -10975,28 +10997,6 @@
     "url": "https://financialpost.com/pmn/business-pmn/trumps-rare-earth-push-extends-lifeline-to-green-tech",
     "id_key": "99ee7aaa51b8406f812ead8acad48807c243dbc4ca0b0804a6dc4ccce957b1c1",
     "summary": "The industry saw record funding in 2025 as the US looks to build out a supply chain of elements crucial to the defense and energy sectors.",
-    "ingested_utc": "2026-01-15T11:18:09Z"
-  },
-  {
-    "published_utc": "2026-01-15",
-    "retrieved_date": "2026-01-15",
-    "retrieved_utc": "2026-01-15T11:18:09Z",
-    "source": "FinancialPost_Business",
-    "title": "Osisko Intersects 748 Metres Averaging 0.27% Cu at Gaspé",
-    "url": "https://financialpost.com/globe-newswire/osisko-intersects-748-metres-averaging-0-27-cu-at-gaspe",
-    "id_key": "09546ec1b06d7c1c9f6d0b4e20a9e936470f573d49648a8da6a85f1df53408a0",
-    "summary": "Southern Extension hole cuts 163.5 metres averaging 0.47% Cu MONTREAL, Jan. 15, 2026 (GLOBE NEWSWIRE) — Osisko Metals Incorporated (the “Company” or “Osisko Metals“) (TSX: OM; OTCQX: OMZNF; FRANKFURT: 0B51) is pleased to announce new drill results from the Gaspé Copper Project, located in the Gaspé Peninsula of Eastern Québec. New analytical results are presented […]",
-    "ingested_utc": "2026-01-15T11:18:09Z"
-  },
-  {
-    "published_utc": "2026-01-15",
-    "retrieved_date": "2026-01-15",
-    "retrieved_utc": "2026-01-15T11:18:09Z",
-    "source": "FinancialPost_Business",
-    "title": "Bay Street raises the most money in 15 years despite economic uncertainty",
-    "url": "https://financialpost.com/news/bay-street-raises-the-most-money-in-15-years-despite-economic-uncertainty",
-    "id_key": "65ef3d837c67c5a5caa89a585c610ef93e1cca4e49fe3dd201899fcde7f26313",
-    "summary": "From AI companies and the mining sector to major M&A, 'a bit of everything' drove dealmaking last year",
     "ingested_utc": "2026-01-15T11:18:09Z"
   }
 ]
