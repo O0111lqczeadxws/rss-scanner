@@ -1,7 +1,7 @@
 {
-  "started_utc": "2026-01-17T22:50:55Z",
-  "ended_utc": "2026-01-17T22:54:27Z",
-  "new_items_this_run": 2,
+  "started_utc": "2026-01-17T23:12:05Z",
+  "ended_utc": "2026-01-17T23:15:29Z",
+  "new_items_this_run": 1,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
@@ -11,7 +11,7 @@
     "BBC_Business": 0,
     "BBC_Technology": 0,
     "Guardian_Business": 0,
-    "Guardian_World": 1,
+    "Guardian_World": 0,
     "WSJ_US_Business": 0,
     "WSJ_World": 0,
     "WSJ_Markets": 0,
@@ -71,14 +71,14 @@
     "CNBC_Top": 0,
     "CNBC_Markets": 0,
     "TheVerge_All": 0,
-    "TechCrunch_All": 1,
+    "TechCrunch_All": 0,
     "ArsTechnica_All": 0,
     "WIRED_All": 0,
     "Engadget_All": 0,
     "TheEconomist_Business": 0,
     "TheEconomist_Finance": 0,
     "Investopedia_Latest": 0,
-    "TheStreet_Top": 0,
+    "TheStreet_Top": 1,
     "AlJazeera_All": 0,
     "AlJazeera_Economy": 0,
     "FinancialPost_Business": 0,
@@ -347,7 +347,7 @@
     "entries_seen": 1541,
     "too_old": 494,
     "dup_title_url": 95,
-    "dup_id": 408
+    "dup_id": 409
   },
   "limits": {
     "skip_older_days": 10,
@@ -360,6 +360,6 @@
   },
   "processed": {
     "file": "data/processed/2026-01-17.jsonl",
-    "appended_new": 2
+    "appended_new": 1
   }
 }
