@@ -1,7 +1,7 @@
 {
-  "started_utc": "2026-01-17T08:42:47Z",
-  "ended_utc": "2026-01-17T08:46:10Z",
-  "new_items_this_run": 5,
+  "started_utc": "2026-01-17T08:55:35Z",
+  "ended_utc": "2026-01-17T08:59:05Z",
+  "new_items_this_run": 2,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
@@ -22,7 +22,7 @@
     "CryptoSlate": 0,
     "CryptoBriefing": 0,
     "Protos": 0,
-    "CryptoNews": 0,
+    "CryptoNews": 1,
     "CoinJournal": 0,
     "Unchained": 0,
     "Bankless": 0,
@@ -70,8 +70,8 @@
     "FT_Markets": 0,
     "CNBC_Top": 0,
     "CNBC_Markets": 0,
-    "TheVerge_All": 0,
-    "TechCrunch_All": 1,
+    "TheVerge_All": 1,
+    "TechCrunch_All": 0,
     "ArsTechnica_All": 0,
     "WIRED_All": 0,
     "Engadget_All": 0,
@@ -79,7 +79,7 @@
     "TheEconomist_Finance": 0,
     "Investopedia_Latest": 0,
     "TheStreet_Top": 0,
-    "AlJazeera_All": 2,
+    "AlJazeera_All": 0,
     "AlJazeera_Economy": 0,
     "FinancialPost_Business": 0,
     "CBC_Business": 0,
@@ -87,7 +87,7 @@
     "WorldBank_News": 0,
     "OECD_Newsroom": 0,
     "MIT_TechReview": 0,
-    "HackerNews_Top": 2
+    "HackerNews_Top": 0
   },
   "errors": [
     {
@@ -131,16 +131,8 @@
       "error": "fatal parse failure"
     },
     {
-      "source": "https://unchainedcrypto.com/feed/",
-      "error": "fetch error: HTTP 415"
-    },
-    {
-      "source": "Unchained",
-      "error": "fatal parse failure"
-    },
-    {
       "source": "https://www.bankless.com/rss",
-      "error": "fetch error: HTTP 415"
+      "error": "fetch error: HTTP 404"
     },
     {
       "source": "Bankless",
@@ -343,19 +335,19 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 524,
+    "passed_keywords": 531,
     "passed_allowlist": 0,
-    "failed_all_filters": 526
+    "failed_all_filters": 529
   },
   "stats": {
     "feeds_total": 97,
-    "feeds_error": 24,
+    "feeds_error": 23,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 1535,
+    "entries_seen": 1545,
     "too_old": 485,
     "dup_title_url": 98,
-    "dup_id": 421
+    "dup_id": 431
   },
   "limits": {
     "skip_older_days": 10,
@@ -368,6 +360,6 @@
   },
   "processed": {
     "file": "data/processed/2026-01-17.jsonl",
-    "appended_new": 5
+    "appended_new": 2
   }
 }
