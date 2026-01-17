@@ -2,6 +2,28 @@
   {
     "published_utc": "2026-01-17",
     "retrieved_date": "2026-01-17",
+    "retrieved_utc": "2026-01-17T21:32:57Z",
+    "source": "HackerNews_Top",
+    "title": "A programming language based on grammatical cases of Turkish",
+    "url": "https://github.com/kip-dili/kip",
+    "id_key": "7762ab1b12a49e44f1194fff7db8880a34b4a69c1929b83d56944cee2eebe18f",
+    "summary": "Comments",
+    "ingested_utc": "2026-01-17T21:32:57Z"
+  },
+  {
+    "published_utc": "2026-01-17",
+    "retrieved_date": "2026-01-17",
+    "retrieved_utc": "2026-01-17T21:29:40Z",
+    "source": "BBC_World",
+    "title": "Trump tariff threat over Greenland 'unacceptable', European leaders say",
+    "url": "https://www.bbc.com/news/articles/cy4qjwk9n2no?at_medium=RSS&at_campaign=rss",
+    "id_key": "09f19ff14114545b9652c276c4fd48309d00b9b922fa88d686ce876083beb9dd",
+    "summary": "The US president says several European allies opposed to his plans to buy Greenland will face 10% tariffs from February.",
+    "ingested_utc": "2026-01-17T21:29:40Z"
+  },
+  {
+    "published_utc": "2026-01-17",
+    "retrieved_date": "2026-01-17",
     "retrieved_utc": "2026-01-17T21:13:53Z",
     "source": "TheStreet_Top",
     "title": "Popular fashion retail brand files Chapter 11 bankruptcy",
@@ -10976,27 +10998,5 @@
     "id_key": "2369c849deb7b81b7b49b20a4864ed04446e996d4f3e651eb7130dd4f293c058",
     "summary": "Comments",
     "ingested_utc": "2026-01-15T14:51:40Z"
-  },
-  {
-    "published_utc": "2026-01-15",
-    "retrieved_date": "2026-01-15",
-    "retrieved_utc": "2026-01-15T14:51:30Z",
-    "source": "FinancialPost_Business",
-    "title": "ManageEngine Is Named a Challenger in the 2026 Gartner® Magic Quadrant™ for Endpoint Management Tools, scoring above 4/5 across all 4 Use Cases",
-    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/manageengine-is-named-a-challenger-in-the-2026-gartner-magic-quadrant-for-endpoint-management-tools-scoring-above-4-5-across-all-4-use-cases",
-    "id_key": "cfc96496e8ea3d98711de8aa4079b2331e42ec60e5ba3f06dbf1f76ec8f0228c",
-    "summary": "Company Is Also Recognized as a Leader in the IDC MarketScape: Worldwide Unified Endpoint Management Software 2025–2026 Vendor Assessment ManageEngine scores above 4 out of 5 across all four Gartner® Critical Capabilities Use Cases: autonomous endpoint management, unified endpoint management, security-centric management, and frontline device management ManageEngine is recognized as the only vendor to be […]",
-    "ingested_utc": "2026-01-15T14:51:30Z"
-  },
-  {
-    "published_utc": "2026-01-15",
-    "retrieved_date": "2026-01-15",
-    "retrieved_utc": "2026-01-15T14:51:30Z",
-    "source": "FinancialPost_Business",
-    "title": "illumynt Reports 60% Revenue Growth and Launches Global Innovation Center to Meet Rising Enterprise Security and Sustainability Demands",
-    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/illumynt-reports-60-revenue-growth-and-launches-global-innovation-center-to-meet-rising-enterprise-security-and-sustainability-demands",
-    "id_key": "f68aa3dd7afce0a6e5d1200c3cfbed9ddf2c6ad8aba3f048147f0e8bfdbc4f84",
-    "summary": "BOSTON — illumynt an intelligent, security-first technology lifecycle partner, today announced significant growth and innovation milestones that position the company as a leader in the next evolution of the IT Asset Disposition (ITAD) industry—an industry increasingly shaped by artificial intelligence, accelerated hardware refresh cycles, and heightened regulatory scrutiny. Under the leadership of CEO Joerg Herbarth, […]",
-    "ingested_utc": "2026-01-15T14:51:30Z"
   }
 ]
