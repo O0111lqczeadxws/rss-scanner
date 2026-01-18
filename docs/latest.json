@@ -2,6 +2,39 @@
   {
     "published_utc": "2026-01-18",
     "retrieved_date": "2026-01-18",
+    "retrieved_utc": "2026-01-18T08:19:22Z",
+    "source": "AlJazeera_All",
+    "title": "Syrian forces capture Tabqa, nation’s largest dam amid swift push on Raqqa",
+    "url": "https://www.aljazeera.com/news/2026/1/18/syrian-forces-capture-tabqa-and-dam-amid-swift-raqqa-offensive?traffic_source=rss",
+    "id_key": "78fe8542aa921690591384df698a32dcc61573811757e18797dc73b37ae532a3",
+    "summary": "Syria’s army accelerates its campaign, securing key infrastructure and forcing Kurdish-led SDF retreat.",
+    "ingested_utc": "2026-01-18T08:19:22Z"
+  },
+  {
+    "published_utc": "2026-01-18",
+    "retrieved_date": "2026-01-18",
+    "retrieved_utc": "2026-01-18T08:19:22Z",
+    "source": "AlJazeera_All",
+    "title": "Deadly fire rips through Karachi shopping mall",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/1/18/deadly-fire-rips-through-karachi-shopping-mall?traffic_source=rss",
+    "id_key": "05fe3f3e36fca7f22ac324faae0fddbd35df1049e6fec1f1ce96e04fc57fcd42",
+    "summary": "Video shows firefighters battling a deadly blaze at a shopping mall in Karachi, Pakistan.",
+    "ingested_utc": "2026-01-18T08:19:22Z"
+  },
+  {
+    "published_utc": "2026-01-18",
+    "retrieved_date": "2026-01-18",
+    "retrieved_utc": "2026-01-18T08:19:22Z",
+    "source": "AlJazeera_All",
+    "title": "‘Enormous pain in my heart’: Palestinian evictions mount in East Jerusalem",
+    "url": "https://www.aljazeera.com/features/2026/1/18/enormous-pain-in-my-heart-palestinian-evictions-mount-in-east-jerusalem?traffic_source=rss",
+    "id_key": "b342d456d371f5a441adbcd528210611f6df611808ed109e1f80a1e0a88995f8",
+    "summary": "Legal appeals by Palestinians who have lived in occupied East Jerusalem for generations were denied in the new year.",
+    "ingested_utc": "2026-01-18T08:19:22Z"
+  },
+  {
+    "published_utc": "2026-01-18",
+    "retrieved_date": "2026-01-18",
     "retrieved_utc": "2026-01-18T07:48:18Z",
     "source": "BBC_World",
     "title": "Around 1,500 soldiers on standby for deployment to Minneapolis, officials say",
@@ -10965,38 +10998,5 @@
     "id_key": "108d2b3256c772cd8b749b35b345883926dd76839e3bf8dd16bcd68d39dbdd13",
     "summary": "OpenAI is participating in a $250 million seed round into Merge Labs, Sam Altman's brain computer interface startup. The startup is valued at $850 million.",
     "ingested_utc": "2026-01-15T17:28:11Z"
-  },
-  {
-    "published_utc": "2026-01-15",
-    "retrieved_date": "2026-01-15",
-    "retrieved_utc": "2026-01-15T17:28:10Z",
-    "source": "TheVerge_All",
-    "title": "Xreal sues Viture over AR glasses patent",
-    "url": "https://www.theverge.com/gadgets/862542/xreal-viture-smart-glasses-patent-suits",
-    "id_key": "fa48824a140ed5ec95f7b50c13071438efeb07af2c8809c954e3f41ecee07330",
-    "summary": "You know a gadget category is starting to go mainstream when patent lawsuits start cropping up. Today, Xreal filed a lawsuit in the US against Viture, alleging the firm is infringing on a patent for its AR glasses technology. According to Xreal's press release, the suit was filed in the United States District Court for […]",
-    "ingested_utc": "2026-01-15T17:28:10Z"
-  },
-  {
-    "published_utc": "2026-01-15",
-    "retrieved_date": "2026-01-15",
-    "retrieved_utc": "2026-01-15T17:28:10Z",
-    "source": "TheVerge_All",
-    "title": "The best Fitbits for your fitness and health",
-    "url": "https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker",
-    "id_key": "c94629631f661a99b96f472545f02bfd3acdaf48545b1337b2eadd886a84a49c",
-    "summary": "Despite being acquired by Google five years ago, Fitbit remains one of the most recognizable names in the industry. While its products aren’t designed with hardcore athletes, Fitbit makes excellent devices for tracking overall activity as well as monitoring certain health and wellness metrics, like EKGs and blood oxygen levels. That said, we’re still in […]",
-    "ingested_utc": "2026-01-15T17:28:10Z"
-  },
-  {
-    "published_utc": "2026-01-15",
-    "retrieved_date": "2026-01-15",
-    "retrieved_utc": "2026-01-15T17:27:55Z",
-    "source": "FT_Home",
-    "title": "Trump threatens to deploy military to Minnesota after ICE shooting",
-    "url": "https://www.ft.com/content/5dc6426c-e6c7-47f9-8a79-c04393971a0a",
-    "id_key": "b3c7baec73570d32fe72ead689abac27bb2d956f3472baaf7fbf94a470426528",
-    "summary": "Tensions remain high in the state following last week’s killing of a protester by a federal immigration agent",
-    "ingested_utc": "2026-01-15T17:27:55Z"
   }
 ]
