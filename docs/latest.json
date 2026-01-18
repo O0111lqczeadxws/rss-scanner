@@ -2,6 +2,17 @@
   {
     "published_utc": "2026-01-18",
     "retrieved_date": "2026-01-18",
+    "retrieved_utc": "2026-01-18T21:43:03Z",
+    "source": "NYTimes_World",
+    "title": "Trump’s Ultimatum to Europe",
+    "url": "https://www.nytimes.com/2026/01/18/world/greenland-europe-tariffs-kyiv.html",
+    "id_key": "5ae28e22fedaaaa8e831d5e951b3499e888137da82f356cc6e6cfeefabe3149e",
+    "summary": "Trump threatened heavy tariffs on countries standing between him and Greenland. E.U. leaders are scrambling for a response.",
+    "ingested_utc": "2026-01-18T21:43:03Z"
+  },
+  {
+    "published_utc": "2026-01-18",
+    "retrieved_date": "2026-01-18",
     "retrieved_utc": "2026-01-18T21:33:29Z",
     "source": "TheStreet_Top",
     "title": "Venezuela oil is SLB and Halliburton earnings wildcard",
@@ -10985,17 +10996,6 @@
     "title": "China's 'ice and snow economy' grows, as winter sports spread south",
     "url": "https://asia.nikkei.com/spotlight/sports/china-s-ice-and-snow-economy-grows-as-winter-sports-spread-south2",
     "id_key": "22c2a60a9790de8d319974d2c3e23c9a17ccf6bb0e16522c050106d60676c619",
-    "summary": "",
-    "ingested_utc": "2026-01-15T22:16:55Z"
-  },
-  {
-    "published_utc": "2026-01-15",
-    "retrieved_date": "2026-01-15",
-    "retrieved_utc": "2026-01-15T22:16:55Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "BOJ refrains from show of support for Fed's Powell",
-    "url": "https://asia.nikkei.com/economy/bank-of-japan/boj-refrains-from-show-of-support-for-fed-s-powell",
-    "id_key": "b2089f8b6cceb97b85cd8e8955f8d4f9b9fdfc16260e708efe499cb3d0da047d",
     "summary": "",
     "ingested_utc": "2026-01-15T22:16:55Z"
   }
