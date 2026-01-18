@@ -1,7 +1,7 @@
 {
-  "started_utc": "2026-01-18T11:36:38Z",
-  "ended_utc": "2026-01-18T11:40:08Z",
-  "new_items_this_run": 2,
+  "started_utc": "2026-01-18T11:47:53Z",
+  "ended_utc": "2026-01-18T11:51:21Z",
+  "new_items_this_run": 0,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
@@ -57,7 +57,7 @@
     "MarketWatch_Bulletins": 0,
     "MarketWatch_PersonalFinance": 0,
     "NYTimes_Business": 0,
-    "NYTimes_World": 1,
+    "NYTimes_World": 0,
     "NYTimes_Economy": 0,
     "NYTimes_Technology": 0,
     "CNN_Top": 0,
@@ -66,7 +66,7 @@
     "NPR_Economy": 0,
     "NPR_World": 0,
     "NPR_Technology": 0,
-    "FT_Home": 1,
+    "FT_Home": 0,
     "FT_Markets": 0,
     "CNBC_Top": 0,
     "CNBC_Markets": 0,
@@ -176,7 +176,7 @@
     },
     {
       "source": "NEAR_Blog",
-      "error": "<unknown>:2:3932: not well-formed (invalid token)"
+      "error": "<unknown>:2:2638: not well-formed (invalid token)"
     },
     {
       "source": "https://blog.dydx.exchange/feed",
@@ -336,8 +336,8 @@
       "..."
     ],
     "passed_keywords": 513,
-    "passed_allowlist": 1,
-    "failed_all_filters": 526
+    "passed_allowlist": 0,
+    "failed_all_filters": 527
   },
   "stats": {
     "feeds_total": 97,
@@ -347,7 +347,7 @@
     "entries_seen": 1552,
     "too_old": 512,
     "dup_title_url": 97,
-    "dup_id": 415
+    "dup_id": 416
   },
   "limits": {
     "skip_older_days": 10,
@@ -360,6 +360,6 @@
   },
   "processed": {
     "file": "data/processed/2026-01-18.jsonl",
-    "appended_new": 2
+    "appended_new": 0
   }
 }
