@@ -2,6 +2,28 @@
   {
     "published_utc": "2026-01-18",
     "retrieved_date": "2026-01-18",
+    "retrieved_utc": "2026-01-18T11:39:21Z",
+    "source": "FT_Home",
+    "title": "UK condemns Trump threat of tariffs over Greenland",
+    "url": "https://www.ft.com/content/cfea5caf-e9ee-4bb2-a475-077930eb4332",
+    "id_key": "8af049b81df6e7cb447dedd102075e2d7cae8e1b26f5682f26384df5a2e4275e",
+    "summary": "United political front reflects potential danger to British exports and fragile economic growth",
+    "ingested_utc": "2026-01-18T11:39:21Z"
+  },
+  {
+    "published_utc": "2026-01-18",
+    "retrieved_date": "2026-01-18",
+    "retrieved_utc": "2026-01-18T11:39:09Z",
+    "source": "NYTimes_World",
+    "title": "After Trump Reignites a Trade War Over Greenland, Europe Weighs Going All-Out",
+    "url": "https://www.nytimes.com/2026/01/18/world/europe/greenland-us-trade-war.html",
+    "id_key": "eafb8067b35f3b8cb730b975e1c021a73f2c5889809050cda26779e7545fc274",
+    "summary": "Europe’s dependence on the United States for NATO security limits its options. Its strongest response could be retaliating with its own trade “bazooka.”",
+    "ingested_utc": "2026-01-18T11:39:09Z"
+  },
+  {
+    "published_utc": "2026-01-18",
+    "retrieved_date": "2026-01-18",
     "retrieved_utc": "2026-01-18T11:13:39Z",
     "source": "HackerNews_Top",
     "title": "Pentagon readies 1,500 troops to possibly deploy to Minnesota, US media say",
@@ -10976,27 +10998,5 @@
     "id_key": "9c5b8f4d65615a47277a60299df983b8a4728341445151e3b75eb435f94f648e",
     "summary": "Visit by Damien Egan, Labour Friends of Israel vice-chair, was called off after opposition from pro-Palestine group and union Ofsted has launched a snap inspection of Bristol Brunel academy, the secondary school criticised for cancelling a visit by a local MP who is vice-chair of Labour Friends of Israel. Inspectors arrived at the school on Thursday morning after revelations that its leaders had called off a visit by Damien Egan, the Labour MP for Bristol North East, after opposition from a pro-Palestine group and members of staff belonging to the National Education Union. Continue reading...",
     "ingested_utc": "2026-01-15T18:24:47Z"
-  },
-  {
-    "published_utc": "2026-01-15",
-    "retrieved_date": "2026-01-15",
-    "retrieved_utc": "2026-01-15T18:24:44Z",
-    "source": "BBC_World",
-    "title": "Ethiopia says seized ammunition sent by Eritrea to rebels as tensions rise",
-    "url": "https://www.bbc.com/news/articles/czr46ypzl4yo?at_medium=RSS&at_campaign=rss",
-    "id_key": "39adbb980ef902ca8599e08533c1aba8ef59804955df7fe866ed903081c47f73",
-    "summary": "Eritrea denies the claim and accuses Ethiopia of seeking a pretext to attack, amid fears of renewed conflict.",
-    "ingested_utc": "2026-01-15T18:24:44Z"
-  },
-  {
-    "published_utc": "2026-01-15",
-    "retrieved_date": "2026-01-15",
-    "retrieved_utc": "2026-01-15T18:24:44Z",
-    "source": "BBC_World",
-    "title": "Large fire breaks out in Dutch city of Utrecht following explosion",
-    "url": "https://www.bbc.com/news/articles/cm2xv0w07dgo?at_medium=RSS&at_campaign=rss",
-    "id_key": "a747a3c5d10c5432f615095b423cd9ad370740e23c914e8d9321d76db7129544",
-    "summary": "At least four people are injured and there are also reports of extensive damage to nearby buildings, he local safety body says.",
-    "ingested_utc": "2026-01-15T18:24:44Z"
   }
 ]
