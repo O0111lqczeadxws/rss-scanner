@@ -2,6 +2,50 @@
   {
     "published_utc": "2026-01-18",
     "retrieved_date": "2026-01-18",
+    "retrieved_utc": "2026-01-18T19:29:27Z",
+    "source": "Engadget_All",
+    "title": "Microsoft issues emergency fix afer a security update left some Windows 11 devices unable to shut down",
+    "url": "https://www.engadget.com/computing/microsoft-issues-emergency-fix-afer-a-security-update-left-some-windows-11-devices-unable-to-shut-down-192216734.html?src=rss",
+    "id_key": "27abb3d81dbd31ad730c4b7a8c0873b87e2c562e3d4b7c90e33658e2f203d609",
+    "summary": "If you weren't able to shut down your Windows 11 device recently, Microsoft has rolled out an emergency fix addressing a couple of critical bugs that popped up with its latest January 2026 Windows security update. The latest \"out-of-band\" update repairs an issue for some Windows 11 devices that would only restart when users tried to shut down or hibernate. The same update restores the ability for Windows 10 and Windows 11 users to log into their devices via remote connection apps. Microsoft said the inability to shut down or hibernate affected Windows 11 devices using Secure Launch, a security feature that protects a computer from firmware-level attacks during startup. As for the remote connection issue, Microsoft explained in its Known issues page that credential prompt failures were responsible when users tried to log in remotely to affected Windows 10 and 11 devices. According to WindowsLatest , some lingering issues with the January 2026 Windows security update are still affecting users, like seeing blank screens or Outlook Classic crashing. Back in October, Microsoft had to issue another emergency fix for Windows 11 related to the Windows Recovery Environment . For those still hesitant to upgrade to Windows 11, Microsoft is allowing you to squeeze some more life out of Windows 10 by enrolling in Extended Security Updates . This article originally appeared on Engadget at https://www.engadget.com/computing/microsoft-issues-emergency-fix-afer-a-security-update-left-some-windows-11-devices-unable-to-shut-down-192216734.html?src=rss",
+    "ingested_utc": "2026-01-18T19:29:27Z"
+  },
+  {
+    "published_utc": "2026-01-18",
+    "retrieved_date": "2026-01-18",
+    "retrieved_utc": "2026-01-18T19:28:54Z",
+    "source": "NYTimes_Business",
+    "title": "Joe Montgomery, Who Made Bicycles Lighter, Dies at 86",
+    "url": "https://www.nytimes.com/2026/01/18/obituaries/joe-montgomery-dead.html",
+    "id_key": "73ab4763b4ef228fe020be0929ea636996a9b4366aa3881440938c367e5d7011",
+    "summary": "A founder of Cannondale, he was among the first in the U.S. to mass-produce bikes frames out of large-diameter aluminum tubes, replacing heavier steel.",
+    "ingested_utc": "2026-01-18T19:28:54Z"
+  },
+  {
+    "published_utc": "2026-01-18",
+    "retrieved_date": "2026-01-18",
+    "retrieved_utc": "2026-01-18T19:26:42Z",
+    "source": "Guardian_World",
+    "title": "EU considers retaliatory measures over Trump Greenland tariff ‘blackmail’",
+    "url": "https://www.theguardian.com/world/2026/jan/18/europe-diplomats-crisis-talks-trump-tariffs-greenland",
+    "id_key": "c0c68d021c3e24d367c686a4c6c4b00bb2118904f02acc03f2a79991c93226c8",
+    "summary": "Emmanuel Macron calls on fellow leaders to use powerful anti-coercion instrument if US goes ahead with tariffs The EU was weighing up retaliatory tariffs on American goods and even deploying its most serious economic sanctions against the US as European leaders lined up to criticise Donald Trump’s threat to levy new taxes on imports from eight nations who oppose his attempt to annex Greenland – which one minister called “blackmail”. “Tariff threats undermine transatlantic relations and risk a dangerous downward spiral,” the leaders of Denmark, Norway, Sweden, France, Germany, the UK, the Netherlands and Finland said in a joint statement. “We are committed to upholding our sovereignty.” Continue reading...",
+    "ingested_utc": "2026-01-18T19:26:42Z"
+  },
+  {
+    "published_utc": "2026-01-18",
+    "retrieved_date": "2026-01-18",
+    "retrieved_utc": "2026-01-18T19:26:42Z",
+    "source": "Guardian_World",
+    "title": "Tariffs on Nato allies are wrong, Starmer tells Trump in Greenland crisis call",
+    "url": "https://www.theguardian.com/world/2026/jan/18/tariffs-nato-allies-keir-starmer-donald-trump-greenland-crisis-call",
+    "id_key": "e070637bbffd4e024950eb0fb34f7269b851830441a815c2982476696bea0e8b",
+    "summary": "UK prime minister holds phone call with US president as European leaders scramble to protect Danish territory Keir Starmer has told Donald Trump that he is wrong to threaten tariffs against Nato allies to try to secure Greenland, as part of a flurry of diplomatic calls intended to tackle the crisis. The UK prime minister spoke to the US president on Sunday, as well as Mette Frederiksen, the Danish PM, whose country’s territory includes Greenland, Ursula von der Leyen, the president of the European Commission, and Mark Rutte, the Nato secretary general. Continue reading...",
+    "ingested_utc": "2026-01-18T19:26:42Z"
+  },
+  {
+    "published_utc": "2026-01-18",
+    "retrieved_date": "2026-01-18",
     "retrieved_utc": "2026-01-18T19:12:16Z",
     "source": "TheStreet_Top",
     "title": "Venezuela oil ramp is wild card for SLB and Halliburton earnings",
@@ -10954,49 +10998,5 @@
     "id_key": "8401b3a64875ad32b57fee86d74d3a272d0e403a7204edab5ea90f57de76baf0",
     "summary": "Bitcoin Magazine Senate Democrats, Crypto Industry to Resume Talks After Market Structure Bill Delay U.S. Senate Democrats are reportedly set to reopen talks with representatives from the cryptocurrency industry on Friday regarding the CLARITY Act. This post Senate Democrats, Crypto Industry to Resume Talks After Market Structure Bill Delay first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
     "ingested_utc": "2026-01-15T21:35:06Z"
-  },
-  {
-    "published_utc": "2026-01-15",
-    "retrieved_date": "2026-01-15",
-    "retrieved_utc": "2026-01-15T21:34:50Z",
-    "source": "Guardian_World",
-    "title": "Australia news live: ‘totally inappropriate’ to combine fast-turnaround hate speech and gun reform legislation, Coalition MP says",
-    "url": "https://www.theguardian.com/australia-news/live/2026/jan/16/hate-speech-legislation-political-reaction-anthony-albanese-labor-sussan-ley-coalition-greens-adelaide-festival-writers-week-backlash-sydney-protest-ban-ntwnfb",
-    "id_key": "21837798e4ba43013e8e8525299d14f3e7449ea9095b32e3a7e20e12ce5bdfba",
-    "summary": "Shadow minister for multicultural affairs, Paul Scarr, says there was no consultation between Labor and the opposition Get our breaking news email , free app or daily news podcast Greens leader worried legislation could have unintended consequences Larissa Waters , the Greens’ leader, also says she’s concerned there has not been enough time to evaluate the legislation, warning there are a “raft of unintended consequences that could occur”. We’ve only had a handful of days to look at this legislation, and it’s very consequential legislation … And with every turn, experts and stakeholders and faith leaders and academics are finding new concerns with it. A key concern is that you can’t combat hate if you don’t combat it for everyone. A key concern that we have … is that these laws, as they’re drafted right now, could be weaponised to shut down legitimate political protest. Given the tightness of the timeframe … there is a real risk that locking in laws that aren’t right could criminalise people for legitimate political expression. That is a dangerous path. We’ve got serious concerns with respect to whether or not the bill meets its objective … It really is concerning that we’re in this stage where we’re less than one business day away from parliament coming together and these serious concerns persist. We’re in a situation where we’re dealing with such a significant piece of legislation, complicated legislation, legislation which deals with the raft of matters which are contained in this one monster omnibus bill, which is a totally inappropriate way to address this situation. Continue reading...",
-    "ingested_utc": "2026-01-15T21:34:50Z"
-  },
-  {
-    "published_utc": "2026-01-15",
-    "retrieved_date": "2026-01-15",
-    "retrieved_utc": "2026-01-15T21:34:49Z",
-    "source": "Guardian_World",
-    "title": "ACLU sues Trump administration for ‘racial profiling campaign’ against Somali and Latino communities in Minnesota surge – live",
-    "url": "https://www.theguardian.com/us-news/live/2026/jan/15/us-politics-latest-news-updates-donald-trump-venezuela-maria-corina-machado",
-    "id_key": "fefbd0e6387d470aab0cb3b0632f738e1a8313128fd3bfe857ccece8a4aaaf71",
-    "summary": "Lawsuit comes as state governor Tim Walz urges Trump to ‘turn the temperature down’ after president threatens to invoke Insurrection Act Trump threatens to use Insurrection Act in Minnesota People affected by the US visa freeze: share your experience Donald Trump is in Washington today. He’s due to meet with Mariá Corina Machado – Venezuela’s opposition leader – at 12:3opm ET. At the moment that’s closed to the press but we’ll let you know if that changes and bring you the latest. Later, Trump is set to host the champions of the 2025 Stanley Cup, the Florida Panthers, at the White House. We’ll be watching to get his reaction to the news of the day. Continue reading...",
-    "ingested_utc": "2026-01-15T21:34:49Z"
-  },
-  {
-    "published_utc": "2026-01-15",
-    "retrieved_date": "2026-01-15",
-    "retrieved_utc": "2026-01-15T21:17:12Z",
-    "source": "HackerNews_Top",
-    "title": "Show HN: Munimet.ro – ML-based status page for the local subways in SF",
-    "url": "https://munimet.ro/",
-    "id_key": "618ca254f476b074b1ebe08c2317c6e4dc14ae5499033b3377e31143619d7d8e",
-    "summary": "Comments",
-    "ingested_utc": "2026-01-15T21:17:12Z"
-  },
-  {
-    "published_utc": "2026-01-15",
-    "retrieved_date": "2026-01-15",
-    "retrieved_utc": "2026-01-15T21:17:12Z",
-    "source": "HackerNews_Top",
-    "title": "I Learned Everything I Know About Programming",
-    "url": "https://agentultra.com/blog/how-i-learned-everything-i-know/index.html",
-    "id_key": "701d3f7fb2809970e329ed73a2fd76dce92fe29d40d250e8db5920a080ba8e74",
-    "summary": "Comments",
-    "ingested_utc": "2026-01-15T21:17:12Z"
   }
 ]
