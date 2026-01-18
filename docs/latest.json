@@ -2,6 +2,28 @@
   {
     "published_utc": "2026-01-18",
     "retrieved_date": "2026-01-18",
+    "retrieved_utc": "2026-01-18T10:52:13Z",
+    "source": "CryptoSlate",
+    "title": "Bitcoin options just overtook futures for the first time, and the new way institutions hedge is trapping retail leverage",
+    "url": "https://cryptoslate.com/bitcoin-options-oi-flips-futures-the-new-volatility-regime/",
+    "id_key": "458eab3c045252f59f14a877d7797a7e0f4a2b15965b17949923bf732964db89",
+    "summary": "By mid-January, open interest in Bitcoin options rose to about $74.1 billion, edging past Bitcoin futures open interest of roughly $65.22 billion. Open interest is the stock of outstanding contracts that have not been closed or expired, so it measures position inventory, not trading activity. So, when options inventory exceeds futures, it often shows a […] The post Bitcoin options just overtook futures for the first time, and the new way institutions hedge is trapping retail leverage appeared first on CryptoSlate .",
+    "ingested_utc": "2026-01-18T10:52:13Z"
+  },
+  {
+    "published_utc": "2026-01-18",
+    "retrieved_date": "2026-01-18",
+    "retrieved_utc": "2026-01-18T10:51:52Z",
+    "source": "BBC_World",
+    "title": "Fears Iran's internet shutdown could lead to 'extreme digital isolation'",
+    "url": "https://www.bbc.com/news/articles/cg5gegrdq3go?at_medium=RSS&at_campaign=rss",
+    "id_key": "03da00286507db708c9ea810e8d89ea7ce840b7146d66694229b272ce47876f3",
+    "summary": "Internet monitor FilterWatch warns that authorities are trying to cut the country off from international connectivity.",
+    "ingested_utc": "2026-01-18T10:51:52Z"
+  },
+  {
+    "published_utc": "2026-01-18",
+    "retrieved_date": "2026-01-18",
     "retrieved_utc": "2026-01-18T10:39:52Z",
     "source": "HackerNews_Top",
     "title": "Consent-O-Matic",
@@ -10976,27 +10998,5 @@
     "id_key": "6d21b041be31024ebe4334e99aa432b228976b6648106072414b644873f7d44b",
     "summary": "Trailblazer in the Field of Nature-Based Sustainable Investing, Dr. Brand Brings Over 40 Years of Experience in Sustainable Real Assets and Forestry LOS ANGELES — Angeleno Group, the pioneering Los Angeles-based investment firm providing venture capital and growth equity to clean energy and climate solutions companies, announced today that Dr. David Brand, international leader in […]",
     "ingested_utc": "2026-01-15T17:59:02Z"
-  },
-  {
-    "published_utc": "2026-01-15",
-    "retrieved_date": "2026-01-15",
-    "retrieved_utc": "2026-01-15T17:59:02Z",
-    "source": "FinancialPost_Business",
-    "title": "Canada’s Auto Factory Sales Hit Three-Year Low on Chip Shortage, US Trade War",
-    "url": "https://financialpost.com/pmn/business-pmn/canadas-auto-factory-sales-hit-three-year-low-on-chip-shortage-us-trade-war",
-    "id_key": "e00b5dac2d46af63a0cc9b08c7e36c2c9e92747ccf1b6431f28e87166c28f1b9",
-    "summary": "Canada’s auto sector slumped sharply in November, hit by a global chip shortage, softer demand and mounting US trade-war pressures.",
-    "ingested_utc": "2026-01-15T17:59:02Z"
-  },
-  {
-    "published_utc": "2026-01-15",
-    "retrieved_date": "2026-01-15",
-    "retrieved_utc": "2026-01-15T17:58:55Z",
-    "source": "AlJazeera_All",
-    "title": "US sanctions Khamenei aide, other Iranian officials over protest crackdown",
-    "url": "https://www.aljazeera.com/news/2026/1/15/us-sanctions-khamenei-aide-other-iranian-officials-over-protest-crackdown?traffic_source=rss",
-    "id_key": "393ee4146a764ac67a5fa59cbb5c586422807df1199710e3cdbf4afce5a23a55",
-    "summary": "New penalties come as Trump welcomes purported Iranian decision to halt execution of antigovernment demonstrators.",
-    "ingested_utc": "2026-01-15T17:58:55Z"
   }
 ]
