@@ -1,6 +1,6 @@
 {
-  "started_utc": "2026-01-18T06:19:09Z",
-  "ended_utc": "2026-01-18T06:22:33Z",
+  "started_utc": "2026-01-18T06:52:03Z",
+  "ended_utc": "2026-01-18T06:55:29Z",
   "new_items_this_run": 2,
   "total_in_latest": 1000,
   "by_source": {
@@ -11,7 +11,7 @@
     "BBC_Business": 0,
     "BBC_Technology": 0,
     "Guardian_Business": 0,
-    "Guardian_World": 2,
+    "Guardian_World": 1,
     "WSJ_US_Business": 0,
     "WSJ_World": 0,
     "WSJ_Markets": 0,
@@ -79,7 +79,7 @@
     "TheEconomist_Finance": 0,
     "Investopedia_Latest": 0,
     "TheStreet_Top": 0,
-    "AlJazeera_All": 0,
+    "AlJazeera_All": 1,
     "AlJazeera_Economy": 0,
     "FinancialPost_Business": 0,
     "CBC_Business": 0,
@@ -152,6 +152,14 @@
     },
     {
       "source": "Uniswap_Blog",
+      "error": "fatal parse failure"
+    },
+    {
+      "source": "https://medium.com/feed/aave",
+      "error": "fetch error: HTTP 429"
+    },
+    {
+      "source": "Aave_Blog",
       "error": "fatal parse failure"
     },
     {
@@ -341,13 +349,13 @@
   },
   "stats": {
     "feeds_total": 97,
-    "feeds_error": 23,
+    "feeds_error": 24,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 1533,
-    "too_old": 502,
-    "dup_title_url": 92,
-    "dup_id": 410
+    "entries_seen": 1523,
+    "too_old": 492,
+    "dup_title_url": 94,
+    "dup_id": 408
   },
   "limits": {
     "skip_older_days": 10,
