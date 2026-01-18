@@ -2,6 +2,72 @@
   {
     "published_utc": "2026-01-18",
     "retrieved_date": "2026-01-18",
+    "retrieved_utc": "2026-01-18T22:15:06Z",
+    "source": "FinancialPost_Business",
+    "title": "Trump’s Greenland Tariffs Have Blown Up the EU Appeasement Plan",
+    "url": "https://financialpost.com/pmn/business-pmn/trumps-greenland-tariffs-have-blown-up-the-eu-appeasement-plan",
+    "id_key": "cc55c46782a5dbf78686434210308c4da5f881e70156973d227492ccbbfb3e45",
+    "summary": "Ursula von der Leyen was preparing to claim a rare victory on Saturday, sealing a trade pact with South America’s biggest economies. Donald Trump had other ideas.",
+    "ingested_utc": "2026-01-18T22:15:06Z"
+  },
+  {
+    "published_utc": "2026-01-18",
+    "retrieved_date": "2026-01-18",
+    "retrieved_utc": "2026-01-18T22:14:59Z",
+    "source": "AlJazeera_All",
+    "title": "Senegal vs Morocco 1-0 (after extra-time): AFCON final",
+    "url": "https://www.aljazeera.com/sports/liveblog/2026/1/18/live-senegal-vs-morocco-afcon-final?traffic_source=rss",
+    "id_key": "69c495477056b752efd2c1ad778a5ee461e4f01d3d6467fe67abe405dcdfb54a",
+    "summary": "Follow our live build-up, with team news coverage, ahead of our text commentary stream of the 2025 AFCON final in Rabat.",
+    "ingested_utc": "2026-01-18T22:14:59Z"
+  },
+  {
+    "published_utc": "2026-01-18",
+    "retrieved_date": "2026-01-18",
+    "retrieved_utc": "2026-01-18T22:14:18Z",
+    "source": "NYTimes_World",
+    "title": "After Trump Reignites a Trade War Over Greenland, Europe Weighs Hitting Back",
+    "url": "https://www.nytimes.com/2026/01/18/world/europe/greenland-us-trade-war.html",
+    "id_key": "23a8daa0512e954b69262851b25dd686782c8b177b8febec6bd4f53c5f21eae6",
+    "summary": "Europe’s dependence on the United States for NATO security limits its options. Its strongest response would be a trade “bazooka,” and other options are possible.",
+    "ingested_utc": "2026-01-18T22:14:18Z"
+  },
+  {
+    "published_utc": "2026-01-18",
+    "retrieved_date": "2026-01-18",
+    "retrieved_utc": "2026-01-18T22:12:11Z",
+    "source": "Guardian_World",
+    "title": "High-speed train crash in southern Spain leaves 10 reportedly dead",
+    "url": "https://www.theguardian.com/world/2026/jan/18/high-speed-train-crash-in-adamuz-cordoba-southern-spain",
+    "id_key": "72a6aebaa25d19607f251e0c722d13e5bfa4566f4bd2d4f0ef8c9aa8a2403a53",
+    "summary": "Two trains derail near Adamuz, Cordóba province, leaving scores injured, state-owned broadcaster reports Two high-speed trains have derailed in southern Spain, the rail network operator Iryo has said, with police saying 10 people have died. Reports from the country’s state-owned broadcaster said that 100 people have been injured – 25 seriously. Continue reading...",
+    "ingested_utc": "2026-01-18T22:12:11Z"
+  },
+  {
+    "published_utc": "2026-01-18",
+    "retrieved_date": "2026-01-18",
+    "retrieved_utc": "2026-01-18T22:12:08Z",
+    "source": "BBC_World",
+    "title": "Five dead after high-speed trains collide in Spain",
+    "url": "https://www.bbc.com/news/articles/cedw6ylpynyo?at_medium=RSS&at_campaign=rss",
+    "id_key": "f727687d7503b1a1883534f4e27c0ac81aafcd4e79f2e9614fad2b4be1742a8f",
+    "summary": "At least five people are dead and dozens more injured after the derailment near the city of Cordoba.",
+    "ingested_utc": "2026-01-18T22:12:08Z"
+  },
+  {
+    "published_utc": "2026-01-18",
+    "retrieved_date": "2026-01-18",
+    "retrieved_utc": "2026-01-18T22:12:08Z",
+    "source": "BBC_World",
+    "title": "EU weighs response to Trump's tariff threat over Greenland",
+    "url": "https://www.bbc.com/news/articles/c87r41j4n4jo?at_medium=RSS&at_campaign=rss",
+    "id_key": "a6da5edf5810963dd320b9e63d6e4ce7115e5f9fe578f83c14aa267c942901ef",
+    "summary": "Europe is split between hitting back at Trump's tariff threat or holding fire to avoid a damaging trade war.",
+    "ingested_utc": "2026-01-18T22:12:08Z"
+  },
+  {
+    "published_utc": "2026-01-18",
+    "retrieved_date": "2026-01-18",
     "retrieved_utc": "2026-01-18T21:50:12Z",
     "source": "Guardian_World",
     "title": "Australia news live: growing One Nation support reflects ‘licence for an alternative’, Joyce says; Marles ‘welcomes’ Trump’s ‘board of peace’ invitation",
@@ -10932,71 +10998,5 @@
     "id_key": "05330829f013104d24c49e1d2528f8d0b5b7a6198202220ea02da7c9924d73fe",
     "summary": "Kathleen Kennedy will step down as Lucasfilm’s president and return to producing. Two studio veterans will take over.",
     "ingested_utc": "2026-01-15T22:39:59Z"
-  },
-  {
-    "published_utc": "2026-01-15",
-    "retrieved_date": "2026-01-15",
-    "retrieved_utc": "2026-01-15T22:39:18Z",
-    "source": "Optimism_Releases",
-    "title": "op-contracts/v0.6.0-rc.2",
-    "url": "https://github.com/ethereum-optimism/optimism/releases/tag/op-contracts%2Fv0.6.0-rc.2",
-    "id_key": "35af050021fcd0f43a1cb27f4946b91e950fbd673ea4ef27f1b8614295af561e",
-    "summary": "Overview This release introduces Revenue Sharing , an opt-in mechanism for configurable distribution of L2 transaction fees between Optimism and chain operators. This release does not modify any L1 contracts, and thus is being made as an incremented -rc on the existing v6.0.0 tag. New Contracts FeeSplitter L2 predeploy: 0x420000000000000000000000000000000000002B Orchestrates fee collection from vaults and distributes funds to configured recipients. SuperchainRevSharesCalculator Calculates Optimism’s share as: max(2.5% of gross revenue, 15% of net revenue) L1Withdrawer Automatically bridges collected shares to L1 once a threshold is reached. (Optimism uses this for its share of fees.) FeesDepositor (L1) Receives bridged fees and deposits them once the threshold is reached (for Optimism, this deposits into OPM). Updates FeeVault Added flexible configuration via: setRecipient() setWithdrawalNetwork() setMinWithdrawalAmount() Added DeployFeesDepositor deployment script Added Genesis flow support to enable revenue sharing on new chain deployments Audits 2025_10-Rev-Sharing-Spearbit.pdf 2025_11-Rev-Sharing-Contracts-Upgrader.pdf",
-    "ingested_utc": "2026-01-15T22:39:18Z"
-  },
-  {
-    "published_utc": "2026-01-15",
-    "retrieved_date": "2026-01-15",
-    "retrieved_utc": "2026-01-15T22:38:15Z",
-    "source": "CryptoNews",
-    "title": "Best Crypto to Buy Now January 15 – XRP, Dogecoin, Solana",
-    "url": "https://cryptonews.com/news/best-crypto-to-buy-now-january-15-xrp-dogecoin-solana/",
-    "id_key": "a235bfd4cb5b7eeac41ba904f0ed06e5fac12647daba416606c4b20013229470",
-    "summary": "Those looking to stockpile the best crypto ahead of the next bull run may have a limited window to do so at attractive prices. A more crypto-friendly U.S. administration has raised expectations that clearer rules could finally emerge. Meanwhile, Bitcoin’s dominance of the total crypto market has diminished since summer. That means if altseason lands, […] The post Best Crypto to Buy Now January 15 – XRP, Dogecoin, Solana appeared first on Cryptonews .",
-    "ingested_utc": "2026-01-15T22:38:15Z"
-  },
-  {
-    "published_utc": "2026-01-15",
-    "retrieved_date": "2026-01-15",
-    "retrieved_utc": "2026-01-15T22:38:15Z",
-    "source": "CryptoNews",
-    "title": "China’s Alibaba AI Predicts the Price of XRP, Shiba Inu and Bitcoin By the End of 2026",
-    "url": "https://cryptonews.com/news/chinas-alibaba-ai-predicts-the-price-of-xrp-shiba-inu-and-bitcoin-by-the-end-of-2026/",
-    "id_key": "826794338c0eb5cb8172cb3bcd566fcad94c8bbbda2dc54e6c27524f1f186852",
-    "summary": "Alibaba’s mysterious new AI model, KIMI AI, a potential rival ChatGPT killer, predicts bold end-of-year forecasts for three major cryptocurrencies: XRP, Shiba Inu, and Bitcoin. According to the model, the return of a full-fledged bull market, particularly one backed by clear supportive U.S. regulation, could propel these assets to fresh all-time highs (ATHs) in the […] The post China’s Alibaba AI Predicts the Price of XRP, Shiba Inu and Bitcoin By the End of 2026 appeared first on Cryptonews .",
-    "ingested_utc": "2026-01-15T22:38:15Z"
-  },
-  {
-    "published_utc": "2026-01-15",
-    "retrieved_date": "2026-01-15",
-    "retrieved_utc": "2026-01-15T22:37:54Z",
-    "source": "Guardian_World",
-    "title": "US says it reached deal with Taiwan to lower tariffs and boost investments",
-    "url": "https://www.theguardian.com/us-news/2026/jan/15/us-taiwan-tariff-deal",
-    "id_key": "ddb2dcb416e57f673ca68df74436182d43c306b866f466ac3eec418e460adebd",
-    "summary": "US to lower tariffs on Taiwanese goods to 15% as chip and tech businesses pledge $250bn spending in US operations The US said on Thursday that it has signed a deal with Taiwan to reduce tariffs on goods from the democratic island, while increasing Taiwanese semiconductor and tech companies’ investments in America. The agreement, the US commerce department said, “will drive a massive reshoring of America’s semiconductor sector”. Continue reading...",
-    "ingested_utc": "2026-01-15T22:37:54Z"
-  },
-  {
-    "published_utc": "2026-01-15",
-    "retrieved_date": "2026-01-15",
-    "retrieved_utc": "2026-01-15T22:37:54Z",
-    "source": "Guardian_World",
-    "title": "Australia news live: Greens leader fears locking in hate speech laws too fast could ‘criminalise people for legitimate political expression’",
-    "url": "https://www.theguardian.com/australia-news/live/2026/jan/16/hate-speech-legislation-political-reaction-anthony-albanese-labor-sussan-ley-coalition-greens-adelaide-festival-writers-week-backlash-sydney-protest-ban-ntwnfb",
-    "id_key": "8755e7ea0118d1ccbe36bb683bf3ecde3edf16c89cb96323183115770c193c01",
-    "summary": "Larissa Waters says ‘with every turn, experts and stakeholders and faith leaders and academics are finding new concerns with it’. Follow the latest updates live Get our breaking news email , free app or daily news podcast Larissa Waters , the Greens’ leader, also says she’s concerned there has not been enough time to evaluate the legislation, warning there are a “raft of unintended consequences that could occur”. Waters told RN Breakfast: We’ve only had a handful of days to look at this legislation, and it’s very consequential legislation … And with every turn, experts and stakeholders and faith leaders and academics are finding new concerns with it. A key concern is that you can’t combat hate if you don’t combat it for everyone. A key concern that we have … is that these laws, as they’re drafted right now, could be weaponised to shut down legitimate political protest. Given the tightness of the timeframe … there is a real risk that locking in laws that aren’t right could criminalise people for legitimate political expression. That is a dangerous path. We’ve got serious concerns with respect to whether or not the bill meets its objective … It really is concerning that we’re in this stage where we’re less than one business day away from parliament coming together and these serious concerns persist. We’re in a situation where we’re dealing with such a significant piece of legislation, complicated legislation, legislation which deals with the raft of matters which are contained in this one monster omnibus bill, which is a totally inappropriate way to address this situation. Continue reading...",
-    "ingested_utc": "2026-01-15T22:37:54Z"
-  },
-  {
-    "published_utc": "2026-01-15",
-    "retrieved_date": "2026-01-15",
-    "retrieved_utc": "2026-01-15T22:37:54Z",
-    "source": "Guardian_World",
-    "title": "Trump press secretary launches tirade against reporter who asked about ICE",
-    "url": "https://www.theguardian.com/us-news/2026/jan/15/karoline-leavitt-journalist-tirade",
-    "id_key": "100af079e69a075e421aaeac5af9cf6a770fed0475be72b1eeac216486c7bc37",
-    "summary": "Karoline Leavitt brands journalist who asked about deaths in ICE custody and killing of Renee Good ‘a leftwing activist’ The White House press secretary, Karoline Leavitt, accused a reporter of being a “leftwing activist” during a heated confrontation on Thursday over the killing of Renee Good by an ICE agent last week. Beginning his question during the White House press briefing, Niall Stanage, a White House columnist for the Hill, referred to the Trump administration’s staunch defense of ICE agents and the assertion by the homeland security secretary, Kristi Noem, that ICE are “doing everything correctly”. He pointed to statistics showing that last year 32 people died in ICE custody and 170 US citizens were detained by ICE , before noting that Good was “shot in the head and killed by an ICE agent”. Continue reading...",
-    "ingested_utc": "2026-01-15T22:37:54Z"
   }
 ]
