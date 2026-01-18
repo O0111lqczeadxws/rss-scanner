@@ -2,6 +2,28 @@
   {
     "published_utc": "2026-01-18",
     "retrieved_date": "2026-01-18",
+    "retrieved_utc": "2026-01-18T07:48:18Z",
+    "source": "BBC_World",
+    "title": "Around 1,500 soldiers on standby for deployment to Minneapolis, officials say",
+    "url": "https://www.bbc.com/news/articles/c74v0pxg2nvo?at_medium=RSS&at_campaign=rss",
+    "id_key": "974a30f1859dfcbcd4f381f0c6c7726b879b3b0e176aea497fb3e04c01a563b4",
+    "summary": "The troops are an option should Donald Trump decide to use them to quell anti-ICE protests in the city, an official tells CBS News.",
+    "ingested_utc": "2026-01-18T07:48:18Z"
+  },
+  {
+    "published_utc": "2026-01-18",
+    "retrieved_date": "2026-01-18",
+    "retrieved_utc": "2026-01-18T07:48:18Z",
+    "source": "BBC_World",
+    "title": "A deadly fire swept through a nightclub in just 90 seconds. I got out",
+    "url": "https://www.bbc.com/news/articles/czejykzg77po?at_medium=RSS&at_campaign=rss",
+    "id_key": "358b292f05af42aef95990ca33c2091d9336ba6eca6a3893ae8fb1dcd51c65d5",
+    "summary": "Twenty-two years before the Swiss ski resort fire, Gina escaped a near-identical disaster. Would you know what to do if it happened to you?",
+    "ingested_utc": "2026-01-18T07:48:18Z"
+  },
+  {
+    "published_utc": "2026-01-18",
+    "retrieved_date": "2026-01-18",
     "retrieved_utc": "2026-01-18T07:35:37Z",
     "source": "Nikkei_Asia_Top",
     "title": "Vietnam party congress, Japan nuclear plant restart, Abe killing verdict",
@@ -10976,27 +10998,5 @@
     "id_key": "b3c7baec73570d32fe72ead689abac27bb2d956f3472baaf7fbf94a470426528",
     "summary": "Tensions remain high in the state following last week’s killing of a protester by a federal immigration agent",
     "ingested_utc": "2026-01-15T17:27:55Z"
-  },
-  {
-    "published_utc": "2026-01-15",
-    "retrieved_date": "2026-01-15",
-    "retrieved_utc": "2026-01-15T17:27:55Z",
-    "source": "FT_Home",
-    "title": "Head of UK’s Serious Fraud Office retires halfway through tenure",
-    "url": "https://www.ft.com/content/65c84431-857e-4317-ae2e-be6503c58d16",
-    "id_key": "ccfc7ba0cb1df651ac56dfaca3d958b3166c60db1e878ebb78a5849dee79551e",
-    "summary": "Nick Ephgrave will leave the role in March saying ‘time is right to hang up the handcuffs’ after decades of public service",
-    "ingested_utc": "2026-01-15T17:27:55Z"
-  },
-  {
-    "published_utc": "2026-01-15",
-    "retrieved_date": "2026-01-15",
-    "retrieved_utc": "2026-01-15T17:27:52Z",
-    "source": "NPR_Business",
-    "title": "There's an internet blackout in Iran. How are videos and images getting out?",
-    "url": "https://www.npr.org/2026/01/15/nx-s1-5678567/iran-internet-blackout-starlink",
-    "id_key": "485c16e63435247218e2e2655048e019afd12aab9f8cf3f5c97762c0eca611b7",
-    "summary": "Starlink is illegal in Iran, but people are still using the satellite internet service to get around the government's internet shutdown.",
-    "ingested_utc": "2026-01-15T17:27:52Z"
   }
 ]
