@@ -2,6 +2,39 @@
   {
     "published_utc": "2026-01-19",
     "retrieved_date": "2026-01-19",
+    "retrieved_utc": "2026-01-19T22:56:32Z",
+    "source": "FinancialPost_Business",
+    "title": "Copperhead Announces Proposed Change of Business and Working Capital Loan",
+    "url": "https://financialpost.com/globe-newswire/copperhead-announces-proposed-change-of-business-and-working-capital-loan",
+    "id_key": "670f7531332971f570f6099528bdf9462baa00978e4d43a35f0ff656ab79539b",
+    "summary": "Vancouver, BC, Jan. 19, 2026 (GLOBE NEWSWIRE) — Copperhead Resources Inc. (CSE: CUH) (OTCPK: CUHRF) (FSE: X45) (“Copperhead” or the “Company”) is pleased to announce that, subject to final approval by the Canadian Securities Exchange (“CSE”) and the Company’s shareholders, the Company intends to focus on subsea critical mineral exploration and development (the “Change of Business”), […]",
+    "ingested_utc": "2026-01-19T22:56:32Z"
+  },
+  {
+    "published_utc": "2026-01-19",
+    "retrieved_date": "2026-01-19",
+    "retrieved_utc": "2026-01-19T22:53:33Z",
+    "source": "Guardian_World",
+    "title": "Australia politics live: intelligence group urges MPs to work together to pass post-Bondi bills as opposition says gun legislation ‘fundamentally flawed’",
+    "url": "https://www.theguardian.com/australia-news/live/2026/jan/20/hate-speech-gun-reform-anthony-albanese-bondi-terror-attack-ntwnfb",
+    "id_key": "6cc1337424018c3519a97d36be71da01a5e4b4311d501717cd7ac82091101419",
+    "summary": "Follow updates live Get our breaking news email , free app or daily news podcast The attorney general, Michelle Rowland, says the two bills on gun control and hate speech will be introduced to parliament this morning and that there has been “constructive engagement” with the Coalition over the last 48 hours. But on whether that deal is signed, sealed and delivered, Rowland, speaking on the ABC’s Radio National Breakfast, won’t guarantee the Coalition will support the bill when introduced and she says she won’t “pre-empt” anything. I don’t want to pre-empt any of those conversations, and particularly since they have been undertaken in good faith … some of those issues go around the listing of hate groups and that framework. And it is a fact that the opposition has sought a number of amendments to this area. I will point out that the removal of the serious vilification provisions do mean that these remaining provisions in the prohibited hate groups section do need to do a lot of work. I think we’re really close. I mean, effectively, the laws won’t be as strong as what the government want them to be, and that’s that’s been public for a while. But importantly, this will still involve the strongest hate speech laws that Australia’s ever had. We’ve got to deal with the parliament that we have, and I can’t see a pathway in the current parliament. Continue reading...",
+    "ingested_utc": "2026-01-19T22:53:33Z"
+  },
+  {
+    "published_utc": "2026-01-19",
+    "retrieved_date": "2026-01-19",
+    "retrieved_utc": "2026-01-19T22:53:33Z",
+    "source": "Guardian_World",
+    "title": "Trump says ‘no comment’ when asked if he would seize Greenland by force – as it happened",
+    "url": "https://www.theguardian.com/world/live/2026/jan/19/donald-trump-greenland-denmark-nobel-nato-europe-live-latest-news-updates",
+    "id_key": "30e9ba12c0d7b71d804a55fbf167fc94658b13bee56dd222c4fc2c7d76d4a276",
+    "summary": "The US president said he would “100%” push ahead with his plans to hit European nations with tarrifs if he doesn’t get Greenland Donald Trump links threats to seize Greenland to Nobel prize snub In a nod to Trump’s efforts on Ukraine, Starmer says he recognises the US president’s role in pushing for ceasefire there – as he says “we will work closely with the United States, Ukraine and our other allies to apply pressure where it belongs: on Putin.” In his strongest criticism of Trump yet, Starmer goes on to say: A trade war is in no one’s interest, and my job is always to act in the UK’s national interest. Continue reading...",
+    "ingested_utc": "2026-01-19T22:53:33Z"
+  },
+  {
+    "published_utc": "2026-01-19",
+    "retrieved_date": "2026-01-19",
     "retrieved_utc": "2026-01-19T22:40:27Z",
     "source": "FinancialPost_Business",
     "title": "Organizers of BC Natural Resources Forum Leave Kitsault Energy Out in the Cold",
@@ -10965,38 +10998,5 @@
     "id_key": "5c53be776af0272a46ab64a38c6478593d0f0495d757669e501fe78e6e2b830e",
     "summary": "The top executive of the crypto exchange Coinbase scuttled a planned Senate committee vote on a major cryptocurrency bill after voicing his concerns, a sign of the company’s clout.",
     "ingested_utc": "2026-01-16T21:36:40Z"
-  },
-  {
-    "published_utc": "2026-01-16",
-    "retrieved_date": "2026-01-16",
-    "retrieved_utc": "2026-01-16T21:36:00Z",
-    "source": "Optimism_Releases",
-    "title": "op-contracts/v6.0.0-rc.2",
-    "url": "https://github.com/ethereum-optimism/optimism/releases/tag/op-contracts%2Fv6.0.0-rc.2",
-    "id_key": "567c8d7cb96d27ec29d0d98e769645a1ef28ad7c5c4b3cb81509d4dddf61f7bc",
-    "summary": "Overview This release introduces Revenue Sharing , an opt-in mechanism for configurable distribution of L2 transaction fees between Optimism and chain operators. This release does not modify any L1 contracts, and thus is being made as an incremented -rc on the existing v6.0.0 tag. New Contracts FeeSplitter L2 predeploy: 0x420000000000000000000000000000000000002B Orchestrates fee collection from vaults and distributes funds to configured recipients. SuperchainRevSharesCalculator Calculates Optimism’s share as: max(2.5% of gross revenue, 15% of net revenue) L1Withdrawer Automatically bridges collected shares to L1 once a threshold is reached. (Optimism uses this for its share of fees.) FeesDepositor (L1) Receives bridged fees and deposits them once the threshold is reached (for Optimism, this deposits into OPM). Updates FeeVault Added flexible configuration via: setRecipient() setWithdrawalNetwork() setMinWithdrawalAmount() Added DeployFeesDepositor deployment script Added Genesis flow support to enable revenue sharing on new chain deployments Audits 2025_10-Rev-Sharing-Spearbit.pdf 2025_11-Rev-Sharing-Contracts-Upgrader.pdf",
-    "ingested_utc": "2026-01-16T21:36:00Z"
-  },
-  {
-    "published_utc": "2026-01-16",
-    "retrieved_date": "2026-01-16",
-    "retrieved_utc": "2026-01-16T21:34:54Z",
-    "source": "CryptoSlate",
-    "title": "Bitcoin’s hashrate continues to fall as the price spike doesn’t convince miners to turn machines back on",
-    "url": "https://cryptoslate.com/bitcoins-hashrate-continues-to-fall-as-this-price-spike-doesnt-convince-miners-to-turn-machines-back-on/",
-    "id_key": "e613040eaa9a1ec6c432caf93dbad87776d67d3d48a7341d358dd8cea0ed15b4",
-    "summary": "Bitcoin miners entered early 2026 in a familiar but increasingly unforgiving setup: network hashrate is slipping from late-2025 highs, difficulty is adjusting on a delay, and power costs remain the hard constraint that decides which fleets stay online and which go dark. The result is a market that can look resilient on the surface, especially […] The post Bitcoin’s hashrate continues to fall as the price spike doesn’t convince miners to turn machines back on appeared first on CryptoSlate .",
-    "ingested_utc": "2026-01-16T21:34:54Z"
-  },
-  {
-    "published_utc": "2026-01-16",
-    "retrieved_date": "2026-01-16",
-    "retrieved_utc": "2026-01-16T21:34:54Z",
-    "source": "CryptoBriefing",
-    "title": "Crypto mining firm Canaan gets Nasdaq notice after shares stay below $1 for 30 days",
-    "url": "https://cryptobriefing.com/nasdaq-notice-canaan-low-ads/",
-    "id_key": "e73c23f7d8a871a4d65d612a928b48a3398a2e5b1227b7ca2e19aa578b133272",
-    "summary": "Canaan receives a Nasdaq notice after its ADS price fell below $1, triggering a 180 day compliance period to regain listing requirements. The post Crypto mining firm Canaan gets Nasdaq notice after shares stay below $1 for 30 days appeared first on Crypto Briefing .",
-    "ingested_utc": "2026-01-16T21:34:54Z"
   }
 ]
