@@ -2,6 +2,28 @@
   {
     "published_utc": "2026-01-19",
     "retrieved_date": "2026-01-19",
+    "retrieved_utc": "2026-01-19T23:35:29Z",
+    "source": "FT_Home",
+    "title": "Bessent questions strength of any EU response to Trump’s tariff threats",
+    "url": "https://www.ft.com/content/8d2b76e7-4450-4859-8128-866bc7cbfb90",
+    "id_key": "310d1949e1811be22fd52dc3386762601e9c3db99b6fcb826fbbe695e267e10a",
+    "summary": "US Treasury secretary plays down prospect of bloc launching rapid and powerful countermeasures",
+    "ingested_utc": "2026-01-19T23:35:29Z"
+  },
+  {
+    "published_utc": "2026-01-19",
+    "retrieved_date": "2026-01-19",
+    "retrieved_utc": "2026-01-19T23:35:10Z",
+    "source": "MarketWatch_Bulletins",
+    "title": "U.S. stock futures sink as trade tensions ramp up over Trump’s Greenland demands",
+    "url": "https://www.marketwatch.com/bulletins/redirect/go?g=34cd245f-a49e-478a-9fcb-d627e28d3991&mod=mw_rss_bulletins",
+    "id_key": "12d3d2d88cead210b6593f704764c309e2fc6c8804fe862cfaf3166a7ceffd1f",
+    "summary": "",
+    "ingested_utc": "2026-01-19T23:35:10Z"
+  },
+  {
+    "published_utc": "2026-01-19",
+    "retrieved_date": "2026-01-19",
     "retrieved_utc": "2026-01-19T23:15:45Z",
     "source": "FinancialPost_Business",
     "title": "ROCKET DOCTOR AI INC. ANNOUNCES UPSIZE ON LISTED ISSUER FINANCING EXEMPTION (LIFE) NON-BROKERED PRIVATE PLACEMENT",
@@ -10976,27 +10998,5 @@
     "id_key": "e91273de8f15713229160b03baed1c41bfbb3011a0e3a7df0d26b4dc1102bb64",
     "summary": "Hypervirulent germ nearly destroys man, invading brain and blowing out an eye.",
     "ingested_utc": "2026-01-16T21:37:08Z"
-  },
-  {
-    "published_utc": "2026-01-16",
-    "retrieved_date": "2026-01-16",
-    "retrieved_utc": "2026-01-16T21:37:08Z",
-    "source": "ArsTechnica_All",
-    "title": "OpenAI to test ads in ChatGPT as it burns through billions",
-    "url": "https://arstechnica.com/information-technology/2026/01/openai-to-test-ads-in-chatgpt-as-it-burns-through-billions/",
-    "id_key": "ea0ab8c28d680bd759a77a73f3e20ec85cb797ac470aeeaaf63461c76a62a867",
-    "summary": "Ads coming to free tier and new $8/month ChatGPT Go plan in US.",
-    "ingested_utc": "2026-01-16T21:37:08Z"
-  },
-  {
-    "published_utc": "2026-01-16",
-    "retrieved_date": "2026-01-16",
-    "retrieved_utc": "2026-01-16T21:36:52Z",
-    "source": "FT_Markets",
-    "title": "Car glass repair group Belron in early talks for €24bn IPO",
-    "url": "https://www.ft.com/content/43698c1f-a56f-46af-8a24-bdd3e06df423",
-    "id_key": "3c4c725424bfcab90b3440f168c4020ea21d7a3a8aa1c8b3f08f6dd4f362bf17",
-    "summary": "Listing in either New York or Amsterdam could take place towards the end of this year",
-    "ingested_utc": "2026-01-16T21:36:52Z"
   }
 ]
