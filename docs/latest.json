@@ -2,6 +2,17 @@
   {
     "published_utc": "2026-01-19",
     "retrieved_date": "2026-01-19",
+    "retrieved_utc": "2026-01-19T23:15:45Z",
+    "source": "FinancialPost_Business",
+    "title": "ROCKET DOCTOR AI INC. ANNOUNCES UPSIZE ON LISTED ISSUER FINANCING EXEMPTION (LIFE) NON-BROKERED PRIVATE PLACEMENT",
+    "url": "https://financialpost.com/globe-newswire/rocket-doctor-ai-inc-announces-upsize-on-listed-issuer-financing-exemption-life-non-brokered-private-placement-2",
+    "id_key": "f2d55b788ad4c629240fbd535c9c3d0112f24209f38fddc0b4a92fcb0ddf174d",
+    "summary": "Not for distribution to United States newswire services or for release publication, distribution, or dissemination directly, or indirectly, in whole or in part, in or into the United States Vancouver, British Columbia, Jan. 19, 2026 (GLOBE NEWSWIRE) — Rocker Doctor AI Inc. (the “Company” or “Rocket Doctor AI”) (CSE: AIDR, OTC: AIRDF, Frankfurt: 939) is […]",
+    "ingested_utc": "2026-01-19T23:15:45Z"
+  },
+  {
+    "published_utc": "2026-01-19",
+    "retrieved_date": "2026-01-19",
     "retrieved_utc": "2026-01-19T22:56:32Z",
     "source": "FinancialPost_Business",
     "title": "Copperhead Announces Proposed Change of Business and Working Capital Loan",
@@ -10987,16 +10998,5 @@
     "id_key": "3c4c725424bfcab90b3440f168c4020ea21d7a3a8aa1c8b3f08f6dd4f362bf17",
     "summary": "Listing in either New York or Amsterdam could take place towards the end of this year",
     "ingested_utc": "2026-01-16T21:36:52Z"
-  },
-  {
-    "published_utc": "2026-01-16",
-    "retrieved_date": "2026-01-16",
-    "retrieved_utc": "2026-01-16T21:36:40Z",
-    "source": "NYTimes_Business",
-    "title": "Coinbase, the Biggest U.S. Crypto Company, Asserts Its Power in Washington",
-    "url": "https://www.nytimes.com/2026/01/15/technology/coinbase-crypto-bill-clarity-act.html",
-    "id_key": "5c53be776af0272a46ab64a38c6478593d0f0495d757669e501fe78e6e2b830e",
-    "summary": "The top executive of the crypto exchange Coinbase scuttled a planned Senate committee vote on a major cryptocurrency bill after voicing his concerns, a sign of the company’s clout.",
-    "ingested_utc": "2026-01-16T21:36:40Z"
   }
 ]
