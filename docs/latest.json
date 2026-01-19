@@ -2,6 +2,28 @@
   {
     "published_utc": "2026-01-19",
     "retrieved_date": "2026-01-19",
+    "retrieved_utc": "2026-01-19T07:58:22Z",
+    "source": "Nikkei_Asia_Top",
+    "title": "Tokyo IPO targeted by Singapore's doctor-networking platform Docquity",
+    "url": "https://asia.nikkei.com/business/startups/tokyo-ipo-targeted-by-singapore-s-doctor-networking-platform-docquity",
+    "id_key": "ffaa8863724c447b16c3ad2cbf131fe7bbdcb872e088638894feebe8d7253d8d",
+    "summary": "",
+    "ingested_utc": "2026-01-19T07:58:22Z"
+  },
+  {
+    "published_utc": "2026-01-19",
+    "retrieved_date": "2026-01-19",
+    "retrieved_utc": "2026-01-19T07:57:45Z",
+    "source": "FT_Markets",
+    "title": "UK chancellor hails ‘golden age’ for City after easing tax and regulation",
+    "url": "https://www.ft.com/content/e3c9ac38-58c1-4762-91e2-3396946dc0e0",
+    "id_key": "85e91a2c9422cad9a67954318edb4d7a09ed6b74f6468be4ba604747b22b3cb1",
+    "summary": "Rule changes for share and bond listings in London come into force on Monday",
+    "ingested_utc": "2026-01-19T07:57:45Z"
+  },
+  {
+    "published_utc": "2026-01-19",
+    "retrieved_date": "2026-01-19",
     "retrieved_utc": "2026-01-19T07:44:44Z",
     "source": "FinancialPost_Business",
     "title": "Tesla, Volvo Set to Be First Winners of China-Canada EV Deal",
@@ -10976,27 +10998,5 @@
     "id_key": "7f9446853f60cd654e2d70d49ed60961df32445ea2162d88927d3b14b814c010",
     "summary": "Campaigners claim firm has bought sway over the teaching of science, technology, engineering and maths Campaigners have accused BP of having an insidious influence over the teaching of science, technology, engineering and maths (Stem) in the UK through its relationship with the Science Museum. Documents obtained under freedom of information legislation show how the company funded a research project that led to the creation of the Science Museum Group academy – its teacher and educator training programme – which BP sponsors and which has run more than 500 courses, for more than 5,000 teachers. Continue reading...",
     "ingested_utc": "2026-01-16T06:21:10Z"
-  },
-  {
-    "published_utc": "2026-01-16",
-    "retrieved_date": "2026-01-16",
-    "retrieved_utc": "2026-01-16T06:21:08Z",
-    "source": "BBC_Business",
-    "title": "Trump's Fed fight looks like something from another country",
-    "url": "https://www.bbc.com/news/articles/cy9yxlz70dvo?at_medium=RSS&at_campaign=rss",
-    "id_key": "6d74b70c2cb8d51f5fcd3bd69f4c0f0af2bf1be3428688ad5aae553406bad541",
-    "summary": "Donald Trump's stand-off with the US central bank has recalled episodes in other countries - which ended badly for the economy.",
-    "ingested_utc": "2026-01-16T06:21:08Z"
-  },
-  {
-    "published_utc": "2026-01-16",
-    "retrieved_date": "2026-01-16",
-    "retrieved_utc": "2026-01-16T06:21:07Z",
-    "source": "BBC_World",
-    "title": "S Korea's ex-president Yoon to be jailed for five years over martial law bid",
-    "url": "https://www.bbc.com/news/articles/cy4qdpxp78po?at_medium=RSS&at_campaign=rss",
-    "id_key": "47c1b6a8b49ab35cabe2bd1fdf4fa4543e6e228e127d9ffd5a6a9a31cbfb367c",
-    "summary": "This is the first of the verdicts in the four trials linked to Yoon's shock decree in 2024.",
-    "ingested_utc": "2026-01-16T06:21:07Z"
   }
 ]
