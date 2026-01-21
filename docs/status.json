@@ -1,14 +1,14 @@
 {
-  "started_utc": "2026-01-21T08:53:38Z",
-  "ended_utc": "2026-01-21T08:57:10Z",
-  "new_items_this_run": 9,
+  "started_utc": "2026-01-21T09:24:25Z",
+  "ended_utc": "2026-01-21T09:27:46Z",
+  "new_items_this_run": 12,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
     "Reuters_World": 0,
     "Reuters_Markets": 0,
-    "BBC_World": 1,
-    "BBC_Business": 0,
+    "BBC_World": 0,
+    "BBC_Business": 1,
     "BBC_Technology": 0,
     "Guardian_Business": 0,
     "Guardian_World": 2,
@@ -19,10 +19,10 @@
     "MarketWatch_MarketPulse": 0,
     "Blockworks": 0,
     "BitcoinMagazine": 0,
-    "CryptoSlate": 0,
+    "CryptoSlate": 5,
     "CryptoBriefing": 0,
     "Protos": 0,
-    "CryptoNews": 2,
+    "CryptoNews": 0,
     "CoinJournal": 0,
     "Unchained": 0,
     "Bankless": 0,
@@ -31,7 +31,7 @@
     "Consensys_Blog": 0,
     "Uniswap_Blog": 0,
     "Aave_Blog": 0,
-    "Lido_Blog": 0,
+    "Lido_Blog": 1,
     "Optimism_Blog": 0,
     "Arbitrum_Foundation": 0,
     "Polygon_Blog": 0,
@@ -79,7 +79,7 @@
     "TheEconomist_Finance": 0,
     "Investopedia_Latest": 0,
     "TheStreet_Top": 0,
-    "AlJazeera_All": 2,
+    "AlJazeera_All": 0,
     "AlJazeera_Economy": 0,
     "FinancialPost_Business": 1,
     "CBC_Business": 0,
@@ -87,7 +87,7 @@
     "WorldBank_News": 0,
     "OECD_Newsroom": 0,
     "MIT_TechReview": 0,
-    "HackerNews_Top": 0
+    "HackerNews_Top": 1
   },
   "errors": [
     {
@@ -176,7 +176,7 @@
     },
     {
       "source": "NEAR_Blog",
-      "error": "<unknown>:2:3932: not well-formed (invalid token)"
+      "error": "<unknown>:2:2638: not well-formed (invalid token)"
     },
     {
       "source": "https://blog.dydx.exchange/feed",
@@ -335,19 +335,19 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 554,
+    "passed_keywords": 555,
     "passed_allowlist": 0,
-    "failed_all_filters": 494
+    "failed_all_filters": 496
   },
   "stats": {
     "feeds_total": 97,
     "feeds_error": 23,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 1555,
-    "too_old": 507,
-    "dup_title_url": 108,
-    "dup_id": 437
+    "entries_seen": 1557,
+    "too_old": 506,
+    "dup_title_url": 107,
+    "dup_id": 436
   },
   "limits": {
     "skip_older_days": 10,
@@ -360,6 +360,6 @@
   },
   "processed": {
     "file": "data/processed/2026-01-21.jsonl",
-    "appended_new": 9
+    "appended_new": 12
   }
 }
