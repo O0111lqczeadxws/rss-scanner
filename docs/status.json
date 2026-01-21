@@ -1,7 +1,7 @@
 {
-  "started_utc": "2026-01-21T14:00:41Z",
-  "ended_utc": "2026-01-21T14:04:07Z",
-  "new_items_this_run": 19,
+  "started_utc": "2026-01-21T14:34:14Z",
+  "ended_utc": "2026-01-21T14:37:37Z",
+  "new_items_this_run": 16,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
@@ -11,7 +11,7 @@
     "BBC_Business": 0,
     "BBC_Technology": 0,
     "Guardian_Business": 1,
-    "Guardian_World": 2,
+    "Guardian_World": 4,
     "WSJ_US_Business": 0,
     "WSJ_World": 0,
     "WSJ_Markets": 0,
@@ -20,9 +20,9 @@
     "Blockworks": 0,
     "BitcoinMagazine": 0,
     "CryptoSlate": 0,
-    "CryptoBriefing": 1,
-    "Protos": 1,
-    "CryptoNews": 0,
+    "CryptoBriefing": 0,
+    "Protos": 0,
+    "CryptoNews": 1,
     "CoinJournal": 0,
     "Unchained": 0,
     "Bankless": 0,
@@ -56,7 +56,7 @@
     "MarketWatch_RealTime": 0,
     "MarketWatch_Bulletins": 0,
     "MarketWatch_PersonalFinance": 0,
-    "NYTimes_Business": 0,
+    "NYTimes_Business": 1,
     "NYTimes_World": 0,
     "NYTimes_Economy": 0,
     "NYTimes_Technology": 0,
@@ -67,19 +67,19 @@
     "NPR_World": 0,
     "NPR_Technology": 0,
     "FT_Home": 0,
-    "FT_Markets": 1,
+    "FT_Markets": 0,
     "CNBC_Top": 0,
     "CNBC_Markets": 0,
-    "TheVerge_All": 2,
-    "TechCrunch_All": 0,
+    "TheVerge_All": 0,
+    "TechCrunch_All": 1,
     "ArsTechnica_All": 0,
     "WIRED_All": 0,
-    "Engadget_All": 2,
+    "Engadget_All": 0,
     "TheEconomist_Business": 0,
     "TheEconomist_Finance": 0,
     "Investopedia_Latest": 0,
     "TheStreet_Top": 0,
-    "AlJazeera_All": 3,
+    "AlJazeera_All": 2,
     "AlJazeera_Economy": 0,
     "FinancialPost_Business": 6,
     "CBC_Business": 0,
@@ -275,6 +275,14 @@
       "error": "fatal parse failure"
     },
     {
+      "source": "https://www.engadget.com/rss.xml",
+      "error": "fetch error: HTTP 429"
+    },
+    {
+      "source": "Engadget_All",
+      "error": "fatal parse failure"
+    },
+    {
       "source": "https://www.investopedia.com/feed",
       "error": "fetch error: HTTP 404"
     },
@@ -335,19 +343,19 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 554,
+    "passed_keywords": 505,
     "passed_allowlist": 0,
-    "failed_all_filters": 501
+    "failed_all_filters": 500
   },
   "stats": {
     "feeds_total": 97,
-    "feeds_error": 23,
+    "feeds_error": 24,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 1562,
+    "entries_seen": 1512,
     "too_old": 507,
-    "dup_title_url": 106,
-    "dup_id": 429
+    "dup_title_url": 107,
+    "dup_id": 382
   },
   "limits": {
     "skip_older_days": 10,
@@ -360,6 +368,6 @@
   },
   "processed": {
     "file": "data/processed/2026-01-21.jsonl",
-    "appended_new": 19
+    "appended_new": 16
   }
 }
