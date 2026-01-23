@@ -2,6 +2,28 @@
   {
     "published_utc": "2026-01-23",
     "retrieved_date": "2026-01-23",
+    "retrieved_utc": "2026-01-23T19:52:33Z",
+    "source": "AlJazeera_All",
+    "title": "US sanctions Iran ‘shadow fleet’ it says fuels violent protest crackdown",
+    "url": "https://www.aljazeera.com/news/2026/1/23/us-sanctions-iran-shadow-fleet-it-says-fuels-violent-protest-crackdown?traffic_source=rss",
+    "id_key": "5e3985df88d9e08b2a7b88ec62fb4665630f870d0bf21b8cd74fb8fb98fa5f83",
+    "summary": "Move targets vessels used by Iran to generate 'funds used to repress its own people', US treasury secretary says.",
+    "ingested_utc": "2026-01-23T19:52:33Z"
+  },
+  {
+    "published_utc": "2026-01-23",
+    "retrieved_date": "2026-01-23",
+    "retrieved_utc": "2026-01-23T19:52:20Z",
+    "source": "TheVerge_All",
+    "title": "Meta is stopping teens from chatting with its AI characters",
+    "url": "https://www.theverge.com/news/866906/meta-teens-ai-characters-stop-block-new-version",
+    "id_key": "85eab467878d2253dc78752fcc2b4a817d4df9310b944cf3ed8a0720166cfee0",
+    "summary": "Meta is \"temporarily pausing\" the ability for teens to chat with its AI characters as it develops a \"new version\" of the characters that will offer a \"better experience.\" The company made the announcement in an update to a blog post from October where the company had detailed more parental controls for teen AI use. […]",
+    "ingested_utc": "2026-01-23T19:52:20Z"
+  },
+  {
+    "published_utc": "2026-01-23",
+    "retrieved_date": "2026-01-23",
     "retrieved_utc": "2026-01-23T19:43:57Z",
     "source": "FinancialPost_Business",
     "title": "Elcora Closes First Tranche of Private Placement",
@@ -10976,27 +10998,5 @@
     "id_key": "66df1925b7cc39df02f3e53b22e86ab733a91f4313a4f865be9162690b597147",
     "summary": "Youngest son of US president raised alarm after woman was allegedly attacked during video call last January Barron Trump, the youngest son of the US president, alerted police in London after witnessing a woman allegedly being attacked by a former boyfriend, possibly saving her life, a court has heard. Trump was on a video call a year ago with the woman, who cannot be named, when he saw Matvei Rumiantsev, a Russian citizen, repeatedly punch her, Snaresbrook crown court was told on Wednesday, according to reports. Continue reading...",
     "ingested_utc": "2026-01-22T09:24:52Z"
-  },
-  {
-    "published_utc": "2026-01-22",
-    "retrieved_date": "2026-01-22",
-    "retrieved_utc": "2026-01-22T09:24:48Z",
-    "source": "BBC_World",
-    "title": "US allies won't forget Trump Greenland crisis",
-    "url": "https://www.bbc.com/news/articles/cj3vv1kv1rdo?at_medium=RSS&at_campaign=rss",
-    "id_key": "5db79895bab1929d7f75a87016b399faffbd6870742c1933bf10abd5348d990c",
-    "summary": "Despite talk of a deal over Greenland, it will be hard for US allies to return to business as usual, writes the BBC’s diplomatic correspondent.",
-    "ingested_utc": "2026-01-22T09:24:48Z"
-  },
-  {
-    "published_utc": "2026-01-22",
-    "retrieved_date": "2026-01-22",
-    "retrieved_utc": "2026-01-22T09:24:48Z",
-    "source": "BBC_World",
-    "title": "UK holds off joining Trump's peace board over Putin concerns",
-    "url": "https://www.bbc.com/news/articles/cp9jj1j74ggo?at_medium=RSS&at_campaign=rss",
-    "id_key": "54dae54902b0c1c3824214a3cefcb8bfc3752c4242cfa9ecb125d1045309b171",
-    "summary": "Foreign Secretary Yvette Cooper says the Russian president has shown no commitment to peace in Ukraine.",
-    "ingested_utc": "2026-01-22T09:24:48Z"
   }
 ]
