@@ -1,6 +1,6 @@
 {
-  "started_utc": "2026-01-23T07:20:57Z",
-  "ended_utc": "2026-01-23T07:24:19Z",
+  "started_utc": "2026-01-23T07:44:30Z",
+  "ended_utc": "2026-01-23T07:47:56Z",
   "new_items_this_run": 4,
   "total_in_latest": 1000,
   "by_source": {
@@ -11,7 +11,7 @@
     "BBC_Business": 0,
     "BBC_Technology": 0,
     "Guardian_Business": 0,
-    "Guardian_World": 1,
+    "Guardian_World": 2,
     "WSJ_US_Business": 0,
     "WSJ_World": 0,
     "WSJ_Markets": 0,
@@ -22,7 +22,7 @@
     "CryptoSlate": 0,
     "CryptoBriefing": 0,
     "Protos": 0,
-    "CryptoNews": 0,
+    "CryptoNews": 1,
     "CoinJournal": 0,
     "Unchained": 0,
     "Bankless": 0,
@@ -61,7 +61,7 @@
     "NYTimes_Economy": 0,
     "NYTimes_Technology": 0,
     "CNN_Top": 0,
-    "NPR_Top": 1,
+    "NPR_Top": 0,
     "NPR_Business": 0,
     "NPR_Economy": 0,
     "NPR_World": 0,
@@ -81,9 +81,9 @@
     "TheStreet_Top": 0,
     "AlJazeera_All": 0,
     "AlJazeera_Economy": 0,
-    "FinancialPost_Business": 0,
+    "FinancialPost_Business": 1,
     "CBC_Business": 0,
-    "Nikkei_Asia_Top": 2,
+    "Nikkei_Asia_Top": 0,
     "WorldBank_News": 0,
     "OECD_Newsroom": 0,
     "MIT_TechReview": 0,
@@ -335,19 +335,19 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 568,
+    "passed_keywords": 563,
     "passed_allowlist": 1,
-    "failed_all_filters": 476
+    "failed_all_filters": 480
   },
   "stats": {
     "feeds_total": 97,
     "feeds_error": 23,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 1554,
+    "entries_seen": 1553,
     "too_old": 509,
-    "dup_title_url": 104,
-    "dup_id": 461
+    "dup_title_url": 102,
+    "dup_id": 458
   },
   "limits": {
     "skip_older_days": 10,
