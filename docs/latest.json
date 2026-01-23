@@ -2,6 +2,28 @@
   {
     "published_utc": "2026-01-23",
     "retrieved_date": "2026-01-23",
+    "retrieved_utc": "2026-01-23T07:00:17Z",
+    "source": "TheStreet_Top",
+    "title": "AARP sounds alarm on major Social Security problem",
+    "url": "https://www.thestreet.com/retirement/aarp-demands-urgent-defense-of-americans-social-security-privacy",
+    "id_key": "cd8e067fbf9687ffad88a1274371e695b8bd6d0e4916423c07e6285bc95177cb",
+    "summary": "A recent disclosure that someone outside the Social Security Administration (SSA) secretly agreed to pass along confidential Social Security data to an advocacy organization has raised serious concerns. In response, AARP is calling on the Social Security Administration to act quickly to safeguard ...",
+    "ingested_utc": "2026-01-23T07:00:17Z"
+  },
+  {
+    "published_utc": "2026-01-23",
+    "retrieved_date": "2026-01-23",
+    "retrieved_utc": "2026-01-23T06:57:50Z",
+    "source": "CryptoNews",
+    "title": "Trump-Linked World Liberty Financial Partners With Spacecoin on DeFi Initiative",
+    "url": "https://cryptonews.com/news/trump-linked-world-liberty-financial-partners-with-spacecoin-on-defi-initiative/",
+    "id_key": "66b79ccfa5cd11267d346c382ee755631c084a02c8dddd8fbb99b65da77d0a5e",
+    "summary": "World Liberty Financial, the crypto project associated with the family of US President Donald Trump, has entered a partnership with satellite startup Spacecoin. The post Trump-Linked World Liberty Financial Partners With Spacecoin on DeFi Initiative appeared first on Cryptonews .",
+    "ingested_utc": "2026-01-23T06:57:50Z"
+  },
+  {
+    "published_utc": "2026-01-23",
+    "retrieved_date": "2026-01-23",
     "retrieved_utc": "2026-01-23T06:24:28Z",
     "source": "FinancialPost_Business",
     "title": "China Weighs Tighter Rules for Firms to List in Hong Kong",
@@ -1087,6 +1109,17 @@
     "id_key": "02d9003ea106eb5bce9624e49d4f24a9d1c174ca87d6bc126e25f040d91b54c0",
     "summary": "Civil service pension scheme failed to pay some pensions and lump sums after transferring to a new administrator.",
     "ingested_utc": "2026-01-23T01:00:52Z"
+  },
+  {
+    "published_utc": "2026-01-22",
+    "retrieved_date": "2026-01-23",
+    "retrieved_utc": "2026-01-23T06:57:25Z",
+    "source": "BBC_Business",
+    "title": "Trump sues JPMorgan for $5bn over account closure after Capitol riot",
+    "url": "https://www.bbc.com/news/articles/c2e11m2w2meo?at_medium=RSS&at_campaign=rss",
+    "id_key": "d5908a4ece80cec4c51a7501afc776f0d6144d62ed46db9faeb56ede86363415",
+    "summary": "JPMorgan Chase the lawsuit has \"no merit\" and the bank \"does not close accounts for political or religious reasons\".",
+    "ingested_utc": "2026-01-23T06:57:25Z"
   },
   {
     "published_utc": "2026-01-22",
@@ -10965,38 +10998,5 @@
     "id_key": "efa8afa0ea73871215eec38fd25d049c01895216850bc6dd4a22b79bf4d0dcfc",
     "summary": "Overview This is a minor release of op-dispute-mon that includes bug fixes. It is a required upgrade for all users. What's Changed Remove support for asterisc, asterisc-kona and super-asterisc trace types. Improve reporting for proposals with large block numbers. Full Changelog : op-dispute-mon/v1.4.3...op-dispute-mon/v1.5.0 🚢 Docker Image: https://us-docker.pkg.dev/oplabs-tools-artifacts/images/op-dispute-mon/v1.5.0",
     "ingested_utc": "2026-01-21T19:05:44Z"
-  },
-  {
-    "published_utc": "2026-01-21",
-    "retrieved_date": "2026-01-21",
-    "retrieved_utc": "2026-01-21T19:05:44Z",
-    "source": "Optimism_Releases",
-    "title": "op-challenger/v1.9.0",
-    "url": "https://github.com/ethereum-optimism/optimism/releases/tag/op-challenger%2Fv1.9.0",
-    "id_key": "2446422006874c58d95d55e85103ee7124abf9bf2046911efcceb78ef7463e43",
-    "summary": "Overview This is a minor release of op-challenger that includes important bug fixes. It is a required upgrade for all users. What's Changed Ensure games with zero bonds are closed. Apply timeouts to RPC requests. Remove support for asterisc, asterisc-kona and super-asterisc trace types. Improve handling of a number of corner cases. Full Changelog : op-challenger/v1.8.0...op-challenger/v1.9.0 🚢 Docker Image: https://us-docker.pkg.dev/oplabs-tools-artifacts/images/op-challenger:v1.9.0",
-    "ingested_utc": "2026-01-21T19:05:44Z"
-  },
-  {
-    "published_utc": "2026-01-21",
-    "retrieved_date": "2026-01-21",
-    "retrieved_utc": "2026-01-21T19:04:36Z",
-    "source": "CryptoBriefing",
-    "title": "Iran’s central bank used $500M in Tether to fight FX collapse and evade sanctions",
-    "url": "https://cryptobriefing.com/iran-usdt-sanctions-bypass/",
-    "id_key": "dbd409df48e476cbd8358c9cedde33ff0351960564c6584d696e030fa0ee414a",
-    "summary": "Iran's central bank amassed $507M in USDT to dodge sanctions, using crypto tactics to access offshore liquidity. The post Iran’s central bank used $500M in Tether to fight FX collapse and evade sanctions appeared first on Crypto Briefing .",
-    "ingested_utc": "2026-01-21T19:04:36Z"
-  },
-  {
-    "published_utc": "2026-01-21",
-    "retrieved_date": "2026-01-21",
-    "retrieved_utc": "2026-01-21T19:04:36Z",
-    "source": "CryptoBriefing",
-    "title": "Arnav Pagidyala: Ethereum and Solana will dominate by 2026, Solana’s community culture enhances its ecosystem, and Robinhood is set to surpass Coinbase | Bankless",
-    "url": "https://cryptobriefing.com/arnav-pagidyala-ethereum-and-solana-will-dominate-by-2026-solanas-community-culture-enhances-its-ecosystem-and-robinhood-is-set-to-surpass-coinbase-bankless/",
-    "id_key": "3f2b0a145cc08d1471a573b62a7658ea53f8eeb4f64ca071ce4ef18da5ddd8da",
-    "summary": "Ethereum and Solana are expected to solidify their positions as leading blockchain platforms by 2026. General-purpose blockchain networks will find it challenging to compete with the established network effects of Ethereum and Solana. Solana is gaining favor among developers and consumers, positi... The post Arnav Pagidyala: Ethereum and Solana will dominate by 2026, Solana’s community culture enhances its ecosystem, and Robinhood is set to surpass Coinbase | Bankless appeared first on Crypto Briefing .",
-    "ingested_utc": "2026-01-21T19:04:36Z"
   }
 ]
