@@ -2,6 +2,116 @@
   {
     "published_utc": "2026-01-23",
     "retrieved_date": "2026-01-23",
+    "retrieved_utc": "2026-01-23T17:48:08Z",
+    "source": "FinancialPost_Business",
+    "title": "LibertyStream Announces Closing of LIFE Offering",
+    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/libertystream-announces-closing-of-life-offering",
+    "id_key": "85940a7bb90d29cc6cef4d360c2bde31016c7e9cf00d3b3199e80e56172d7f12",
+    "summary": "NOT FOR DISTRIBUTION TO UNITED STATES NEWS WIRE SERVICES OR DISSEMINATION IN THE UNITED STATES DALLAS — LibertyStream Infrastructure Partners Inc. (TSXV: LIB | OTCQB: VLTLF | FSE: I2D) (“LibertyStream” or the “Company”) is pleased to announce that it has closed its previously announced private placement of units (the “Units”) of the Company (the “Offering”) […]",
+    "ingested_utc": "2026-01-23T17:48:08Z"
+  },
+  {
+    "published_utc": "2026-01-23",
+    "retrieved_date": "2026-01-23",
+    "retrieved_utc": "2026-01-23T17:48:02Z",
+    "source": "AlJazeera_All",
+    "title": "Pakistani military orders evacuations ahead of security sweep in Tirah",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/1/23/pakistani-military-orders-evacuations-ahead-of-security-sweep-in-tirah?traffic_source=rss",
+    "id_key": "da2584b635f35741ea471c2f86fb7bdc78d55f647d678269949cc210fdeb6366",
+    "summary": "The Pakistani military is forcing thousands of families to evacuate from Khyber District’s Tirah Valley.",
+    "ingested_utc": "2026-01-23T17:48:02Z"
+  },
+  {
+    "published_utc": "2026-01-23",
+    "retrieved_date": "2026-01-23",
+    "retrieved_utc": "2026-01-23T17:48:01Z",
+    "source": "TheStreet_Top",
+    "title": "Ramit Sethi explains the investing system most people skip",
+    "url": "https://www.thestreet.com/personal-finance/ramit-sethi-explains-the-investing-system-most-people-skip",
+    "id_key": "b4282c77bfa7b39514d1c3eb917d226ebe976ebd741079590821bec9c26de40a",
+    "summary": "In his January 2026 video explaining how he’d invest $1,000, $10,000, and $1 million, the bestselling author of \"I Will Teach You to be Rich,\" Ramit Sethi, describes a problem. He talks about the person who finally saves $10,000 and either leaves it in cash while inflation “quietly chips away at ...",
+    "ingested_utc": "2026-01-23T17:48:01Z"
+  },
+  {
+    "published_utc": "2026-01-23",
+    "retrieved_date": "2026-01-23",
+    "retrieved_utc": "2026-01-23T17:47:36Z",
+    "source": "FT_Markets",
+    "title": "Big US gas producers are methane super emitters, data shows",
+    "url": "https://www.ft.com/content/200995c4-3d34-464a-8685-a9aac4d2bb4f",
+    "id_key": "91fbf4695605e73fae44a59a91d6994ce8d2cf84e77262c7793c179c98e5cddd",
+    "summary": "EQT, Expand and Berkshire Hathaway Energy identified by air surveillance of their emissions",
+    "ingested_utc": "2026-01-23T17:47:36Z"
+  },
+  {
+    "published_utc": "2026-01-23",
+    "retrieved_date": "2026-01-23",
+    "retrieved_utc": "2026-01-23T17:47:24Z",
+    "source": "NYTimes_World",
+    "title": "How Many Bases Does America Have in Greenland?",
+    "url": "https://www.nytimes.com/2026/01/23/world/europe/trump-greenland-military-bases.html",
+    "id_key": "b503bd5a13dbfa5a937705a4c472b5a50db1c9996cf6835d43cfade4d750b4b1",
+    "summary": "The U.S. once maintained more than a dozen. Now it has one. President Trump wants more.",
+    "ingested_utc": "2026-01-23T17:47:24Z"
+  },
+  {
+    "published_utc": "2026-01-23",
+    "retrieved_date": "2026-01-23",
+    "retrieved_utc": "2026-01-23T17:47:23Z",
+    "source": "NYTimes_Business",
+    "title": "Airlines Cancel Hundreds of Flights In Anticipation of Powerful Winter Storm",
+    "url": "https://www.nytimes.com/2026/01/23/business/airlines-travel-storm.html",
+    "id_key": "6a6f3ee7755e77149b0588e8dde7819ef9f11e04c817e1f60c3a7e94692475af",
+    "summary": "Airlines are canceling hundreds of flights over the weekend in anticipation of frigid weather and ice and snow across much of the country.",
+    "ingested_utc": "2026-01-23T17:47:23Z"
+  },
+  {
+    "published_utc": "2026-01-23",
+    "retrieved_date": "2026-01-23",
+    "retrieved_utc": "2026-01-23T17:46:35Z",
+    "source": "Erigon_Releases",
+    "title": "v3.3.4 - Rocky Romp",
+    "url": "https://github.com/erigontech/erigon/releases/tag/v3.3.4",
+    "id_key": "e4ea53850599756cb5539460998e75bc5be3affb5e9ad727c041391d29b0769c",
+    "summary": "v3.3.4 is a bugfix release recommended for all users. What's Changed Fix for missing rcache at stepBoundary by @sudeepdino008 in #18698 Execution/stagedsync: port --experimental.always-generate-changesets flag for gas repricing benchmarks by @taratorio in #18733 Execution: add --fcu.timeout and --fcu.background.prune flags by @taratorio in #18723 Not needed collector erased in prune domains by @JkLondon in #18665 Forward compatible snapshots format by @eastorski in #18746 Full Changelog : v3.3.3...v3.3.4",
+    "ingested_utc": "2026-01-23T17:46:35Z"
+  },
+  {
+    "published_utc": "2026-01-23",
+    "retrieved_date": "2026-01-23",
+    "retrieved_utc": "2026-01-23T17:45:37Z",
+    "source": "CryptoBriefing",
+    "title": "CertiK plans IPO push to become first publicly traded Web3 security firm",
+    "url": "https://cryptobriefing.com/certik-ipo-push-web3-security/",
+    "id_key": "2496058f8b368e206cd548162e8fbad803e84622167e2b07f381b0d536a4a6f2",
+    "summary": "CertiK aims to be the first publicly traded Web3 security firm with an IPO push, following Binance investment and tech expansion plans. The post CertiK plans IPO push to become first publicly traded Web3 security firm appeared first on Crypto Briefing .",
+    "ingested_utc": "2026-01-23T17:45:37Z"
+  },
+  {
+    "published_utc": "2026-01-23",
+    "retrieved_date": "2026-01-23",
+    "retrieved_utc": "2026-01-23T17:45:18Z",
+    "source": "Guardian_World",
+    "title": "Can Andy Burnham calm the anger in a Manchester seat Labour fears losing?",
+    "url": "https://www.theguardian.com/politics/2026/jan/23/can-andy-burnham-calm-the-anger-in-a-manchester-seat-labour-fears-losing",
+    "id_key": "f7beed1628c64eea1e7b7e0598c8ca92360d03df05d91ea3ba8ea533e477fe7a",
+    "summary": "After Andrew Gwynne’s exit, voters in Gorton and Denton are fractured – and increasingly willing to look elsewhere When leaked WhatsApp messages sent by former minister Andrew Gwynne were published last year, Stuart Beard was astonished at the scenes outside his office in Denton town square. “There must have been about 60 pensioners with placards,” he said, referring to local anger over Gwynne’s derogatory texts , which included one saying he hoped an elderly woman who didn’t vote Labour “croaked it” before the next election. Continue reading...",
+    "ingested_utc": "2026-01-23T17:45:18Z"
+  },
+  {
+    "published_utc": "2026-01-23",
+    "retrieved_date": "2026-01-23",
+    "retrieved_utc": "2026-01-23T17:45:15Z",
+    "source": "BBC_World",
+    "title": "Julio Iglesias sex assault investigation dropped by Spanish prosecutors",
+    "url": "https://www.bbc.com/news/articles/c9vx0p3gl71o?at_medium=RSS&at_campaign=rss",
+    "id_key": "2b803da49d85d5a410b3ff03a5860dd73f2e2b677cb06e0e4c442c3de66cd6b5",
+    "summary": "They say Spanish courts do not have the competence to investigate complaints committed overseas by non-residents.",
+    "ingested_utc": "2026-01-23T17:45:15Z"
+  },
+  {
+    "published_utc": "2026-01-23",
+    "retrieved_date": "2026-01-23",
     "retrieved_utc": "2026-01-23T17:23:05Z",
     "source": "FinancialPost_Business",
     "title": "‘We are in a full-on scrimmage for the future of America First,’ says Project 2025 director Paul Dans",
@@ -10888,115 +10998,5 @@
     "id_key": "33f16bc2b5c96de5217f12e907fb27fb1c01b799ad289344319dffcc5c2eb688",
     "summary": "This blog is now closed Trump declaration of Greenland framework deal met with scepticism as doubts persist Trump news at a glance: at Davos, president rambles, backs down and touts ‘future deal’ on Greenland House Republicans are starting a push on Wednesday to hold former president Bill Clinton and former secretary of state Hillary Clinton in contempt of Congress over the Jeffrey Epstein investigation, opening the prospect of the House using one of its most powerful punishments against a former president for the first time. The contempt proceedings are an initial step toward a criminal prosecution by the Department of Justice that, if successful, could send the Clintons to prison. They’re not above the law. We’ve issued subpoenas in good faith. For five months we’ve worked with them. And time’s up. Continue reading...",
     "ingested_utc": "2026-01-22T05:46:54Z"
-  },
-  {
-    "published_utc": "2026-01-22",
-    "retrieved_date": "2026-01-22",
-    "retrieved_utc": "2026-01-22T05:06:08Z",
-    "source": "HackerNews_Top",
-    "title": "From stealth blackout to whitelisting: Inside the Iranian shutdown",
-    "url": "https://www.kentik.com/blog/from-stealth-blackout-to-whitelisting-inside-the-iranian-shutdown/",
-    "id_key": "404ac6ddb34acd8dfd5cc3f478a361d1235e8d55f10fdaefc492430ba23f3d80",
-    "summary": "Comments",
-    "ingested_utc": "2026-01-22T05:06:08Z"
-  },
-  {
-    "published_utc": "2026-01-22",
-    "retrieved_date": "2026-01-22",
-    "retrieved_utc": "2026-01-22T05:06:08Z",
-    "source": "HackerNews_Top",
-    "title": "Show HN: Dotenv Mask Editor: No more embarrassing screen leaks of your .env",
-    "url": "https://marketplace.visualstudio.com/items?itemName=xinbenlv.dotenv-mask-editor",
-    "id_key": "a59c530e0500937b112c03f5da03138e1bfc46b890fd9b24c560fe6a201c6050",
-    "summary": "Comments",
-    "ingested_utc": "2026-01-22T05:06:08Z"
-  },
-  {
-    "published_utc": "2026-01-22",
-    "retrieved_date": "2026-01-22",
-    "retrieved_utc": "2026-01-22T05:06:00Z",
-    "source": "Nikkei_Asia_Top",
-    "title": "Taiwan-US tariff deal to boost business, open supply chain doors",
-    "url": "https://asia.nikkei.com/economy/trade-war/trump-tariffs/taiwan-us-tariff-deal-to-boost-business-open-supply-chain-doors",
-    "id_key": "af1fc6dbbf5e4a457ef93103216297687cb5f453a67e5513b2f2fd23ae3e6d58",
-    "summary": "",
-    "ingested_utc": "2026-01-22T05:06:00Z"
-  },
-  {
-    "published_utc": "2026-01-22",
-    "retrieved_date": "2026-01-22",
-    "retrieved_utc": "2026-01-22T05:05:42Z",
-    "source": "Engadget_All",
-    "title": "X is also launching Bluesky-like starter packs",
-    "url": "https://www.engadget.com/social-media/x-is-also-launching-bluesky-like-starter-packs-050057033.html?src=rss",
-    "id_key": "db84b8646e07aba751bc1b8b452704a88efe3458641b740439c7d0a5b7b56e3a",
-    "summary": "X is rolling out a new feature called “Starterpacks” to all users in the coming weeks, the company’s head of product has announced. It’s made up of compilations of accounts new users can follow based on their interests. If that sounds familiar, it’s because Bluesky launched a very similar feature that’s also called “starter packs” back in 2024. Bluesky allows ordinary users to curate their own packs as long as each one doesn’t exceed 50 accounts. They can then share those lists broadly on the platform or directly with new users via QR code. X, on the other hand, compiled and curated its own lists. In his announcement, X head of product Nikita Bier said the company “scoured the world for the top posters in every niche and country.” X then compiled them into Starterpacks “to help new users find the best accounts — big or small — for their interests.” Before X announced its own take on the feature, other social media services had already launched their clones of Bluesky’s tool. Threads’ version , which rolled out in late 2024, puts collections of recommended profiles as suggestions in the feeds of new users. Mastodon launched its own in 2025 , which gives existing users the freedom to choose whether they can or can’t be included in the lists. This article originally appeared on Engadget at https://www.engadget.com/social-media/x-is-also-launching-bluesky-like-starter-packs-050057033.html?src=rss",
-    "ingested_utc": "2026-01-22T05:05:42Z"
-  },
-  {
-    "published_utc": "2026-01-22",
-    "retrieved_date": "2026-01-22",
-    "retrieved_utc": "2026-01-22T05:05:22Z",
-    "source": "FT_Markets",
-    "title": "Can a new boss sweeten outlook for world’s largest chocolate maker?",
-    "url": "https://www.ft.com/content/8145e128-8035-4cf1-ae7e-7804f57e4471",
-    "id_key": "fa82f4c9c258f13412cdb5b83300acd151d29e1c4ec45238f79aba65f0879258",
-    "summary": "Hein Schumacher steps in as Swiss group Barry Callebaut seeks to rebuild volumes and cut debt",
-    "ingested_utc": "2026-01-22T05:05:22Z"
-  },
-  {
-    "published_utc": "2026-01-22",
-    "retrieved_date": "2026-01-22",
-    "retrieved_utc": "2026-01-22T05:05:22Z",
-    "source": "FT_Markets",
-    "title": "European governments turn to short-term debt as borrowing costs rise",
-    "url": "https://www.ft.com/content/60367289-9336-4b0f-8358-de7af630e7a3",
-    "id_key": "250eb3f741cb29bda1f3859a2455d87d9d6542e0248a3c843c5edd793e2e8438",
-    "summary": "Sovereign issuers are curbing sales of long-term bonds amid waning demand from pension funds",
-    "ingested_utc": "2026-01-22T05:05:22Z"
-  },
-  {
-    "published_utc": "2026-01-22",
-    "retrieved_date": "2026-01-22",
-    "retrieved_utc": "2026-01-22T05:05:09Z",
-    "source": "NYTimes_World",
-    "title": "Trump Touts Greenland Framework as NATO Mulls U.S. Sovereignty Over Bases",
-    "url": "https://www.nytimes.com/live/2026/01/21/us/trump-davos-greenland-news",
-    "id_key": "b193734d34258473ed8a4873390112a752408dba592f7159f606325bd1b58054",
-    "summary": "",
-    "ingested_utc": "2026-01-22T05:05:09Z"
-  },
-  {
-    "published_utc": "2026-01-22",
-    "retrieved_date": "2026-01-22",
-    "retrieved_utc": "2026-01-22T05:03:22Z",
-    "source": "CryptoNews",
-    "title": "[LIVE] Crypto News Today: Latest Updates for Jan. 22, 2026 – Crypto Market Sees Mild Recovery as Trump Walks Back Tariff Threat on Europe",
-    "url": "https://cryptonews.com/news/live-crypto-news-today-latest-updates-for-jan-22-2026/",
-    "id_key": "9877c340b49dc7abba5dd4c52e00304ab0f664b55a51995ec0c697b4304bab3d",
-    "summary": "Follow up to the hour updates on what is happening in crypto today, January 22. Market movements, crypto news, and more! The post [LIVE] Crypto News Today: Latest Updates for Jan. 22, 2026 – Crypto Market Sees Mild Recovery as Trump Walks Back Tariff Threat on Europe appeared first on Cryptonews .",
-    "ingested_utc": "2026-01-22T05:03:22Z"
-  },
-  {
-    "published_utc": "2026-01-22",
-    "retrieved_date": "2026-01-22",
-    "retrieved_utc": "2026-01-22T05:03:22Z",
-    "source": "CryptoNews",
-    "title": "Cathie Wood’s Ark Invest Forecasts Nearly 9× Growth in Digital Assets to $28 Trillion by 2030",
-    "url": "https://cryptonews.com/news/cathie-wood-ark-invest-forecasts-nearly-9x-growth-in-digital-assets-to-28-trillion-by-2030/",
-    "id_key": "a9d8309b0adb1ba6072b52f2aba70f09cd7934b8a59ad956ca18ca24ff25f6db",
-    "summary": "Ark Invest projects the crypto market could grow about 9x to $28 trillion by 2030, driven by rapid expansion in digital currencies and smart contract networks. The post Cathie Wood’s Ark Invest Forecasts Nearly 9× Growth in Digital Assets to $28 Trillion by 2030 appeared first on Cryptonews .",
-    "ingested_utc": "2026-01-22T05:03:22Z"
-  },
-  {
-    "published_utc": "2026-01-22",
-    "retrieved_date": "2026-01-22",
-    "retrieved_utc": "2026-01-22T04:22:13Z",
-    "source": "FinancialPost_Business",
-    "title": "Gold Falls After Trump Backs Away From Tariffs Over Greenland",
-    "url": "https://financialpost.com/pmn/business-pmn/gold-falls-after-trump-backs-away-from-tariffs-over-greenland",
-    "id_key": "32720abbffd9f4149e2a46df4ad8a359b5f800a67b63e3071d75ea561007f1fe",
-    "summary": "Gold fell after US President Donald Trump withdrew a threat to impose tariffs on European nations and said a “framework of a future deal” over Greenland had been agreed.",
-    "ingested_utc": "2026-01-22T04:22:13Z"
   }
 ]
