@@ -2,6 +2,17 @@
   {
     "published_utc": "2026-01-23",
     "retrieved_date": "2026-01-23",
+    "retrieved_utc": "2026-01-23T23:54:18Z",
+    "source": "FinancialPost_Business",
+    "title": "Fobi AI Announces Completion of First Tranche Of Non-Brokered Private Placement",
+    "url": "https://financialpost.com/globe-newswire/fobi-ai-announces-completion-of-first-tranche-of-non-brokered-private-placement-2",
+    "id_key": "996deba5851b290810930665c1b232ecb33ff332f9f9c044d0758538398d4f86",
+    "summary": "Not for distribution to United States newswire services or for dissemination in the United States. VANCOUVER, BC, Jan. 23, 2026 (GLOBE NEWSWIRE) — Fobi AI Inc. (TSXV:FOBI) (Pink: FOBIF) (the “Company” or “Fobi“), an industry leader in harnessing AI and data intelligence to enable digital transformation, is pleased to announce the completion of its first tranche […]",
+    "ingested_utc": "2026-01-23T23:54:18Z"
+  },
+  {
+    "published_utc": "2026-01-23",
+    "retrieved_date": "2026-01-23",
     "retrieved_utc": "2026-01-23T23:37:24Z",
     "source": "FinancialPost_Business",
     "title": "LEADING EDGE MATERIALS REPORTS FISCAL 2025 RESULTS",
@@ -10987,16 +10998,5 @@
     "id_key": "9154b87a2ee724792b284e423e524d01afd6940d6a3148a1246d78bbbbabc430",
     "summary": "Bitcoin has lost about 25,000 millionaire addresses over the past year despite a more favorable US regulatory stance on crypto. The post Bitcoin Loses 25,000 Millionaire Addresses One Year Into Trump Presidency appeared first on Cryptonews .",
     "ingested_utc": "2026-01-22T12:28:40Z"
-  },
-  {
-    "published_utc": "2026-01-22",
-    "retrieved_date": "2026-01-22",
-    "retrieved_utc": "2026-01-22T12:28:38Z",
-    "source": "CryptoBriefing",
-    "title": "Nomura’s crypto arm debuts tokenized Bitcoin fund targeting excess returns",
-    "url": "https://cryptobriefing.com/nomura-crypto-arm-laser-digital-debuts-bitcoin-diversified-yield-fund/",
-    "id_key": "497ca892e1530ef670a4ca7708bf068325e97b0330a7d6a3a8ca16dc08163a7b",
-    "summary": "Nomura's move into tokenized Bitcoin funds highlights growing institutional interest in crypto yield strategies, potentially reshaping asset management. The post Nomura’s crypto arm debuts tokenized Bitcoin fund targeting excess returns appeared first on Crypto Briefing .",
-    "ingested_utc": "2026-01-22T12:28:38Z"
   }
 ]
