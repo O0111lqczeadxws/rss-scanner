@@ -2,6 +2,116 @@
   {
     "published_utc": "2026-01-23",
     "retrieved_date": "2026-01-23",
+    "retrieved_utc": "2026-01-23T05:52:34Z",
+    "source": "FinancialPost_Business",
+    "title": "Rockefeller, World Bank Back Solar to Boost African Farm Output",
+    "url": "https://financialpost.com/pmn/business-pmn/rockefeller-world-bank-back-solar-to-boost-african-farm-output",
+    "id_key": "96854873e1f975a0e1a2d076e22e9c3f357db1667c5415a035d7668988eb7811",
+    "summary": "Nonprofits backed by the Rockefeller Foundation and the World Bank have won tens of millions of dollars to boost the productivity of African farmers using an array of solar-power devices.",
+    "ingested_utc": "2026-01-23T05:52:34Z"
+  },
+  {
+    "published_utc": "2026-01-23",
+    "retrieved_date": "2026-01-23",
+    "retrieved_utc": "2026-01-23T05:52:34Z",
+    "source": "FinancialPost_Business",
+    "title": "BOJ Holds Rate With Stronger Inflation View Giving Hawkish Edge",
+    "url": "https://financialpost.com/pmn/business-pmn/bank-of-japan-keeps-rate-steady-while-raising-inflation-outlook",
+    "id_key": "0cbb46188aee840353cc93f46981ccbdf8f9d08c5265d62ae58c07781bac8a83",
+    "summary": "The Bank of Japan maintained its benchmark rate and issued higher inflation forecasts that leave scope for its next hike to come earlier than the expected timing of summer.",
+    "ingested_utc": "2026-01-23T05:52:34Z"
+  },
+  {
+    "published_utc": "2026-01-23",
+    "retrieved_date": "2026-01-23",
+    "retrieved_utc": "2026-01-23T05:52:27Z",
+    "source": "AlJazeera_All",
+    "title": "Feet dragging, division and obstruction: What Israel really wants for Gaza",
+    "url": "https://www.aljazeera.com/news/2026/1/23/feet-dragging-division-and-obstruction-what-israel-really-wants-for-gaza?traffic_source=rss",
+    "id_key": "e06a0e1d780f687da90687e44520d22e8ff24d7863689863ec5c44226ac6f4ff",
+    "summary": "Israeli strategy for Gaza caught between settlements and security zones, as it continues to kill Palestinians.",
+    "ingested_utc": "2026-01-23T05:52:27Z"
+  },
+  {
+    "published_utc": "2026-01-23",
+    "retrieved_date": "2026-01-23",
+    "retrieved_utc": "2026-01-23T05:52:00Z",
+    "source": "FT_Home",
+    "title": "Trump’s tariff ‘shock regime’ tests Wall Street’s mettle",
+    "url": "https://www.ft.com/content/cb1a8211-ac60-4cb2-b68f-955f3d0f98f5",
+    "id_key": "ee1e2d54d8cc8a14ff848e58705ed6f5114c1e401acb0cbe1cbf2b2af7fe9bdf",
+    "summary": "US president backed off his threat of new duties on European economies after market tumult",
+    "ingested_utc": "2026-01-23T05:52:00Z"
+  },
+  {
+    "published_utc": "2026-01-23",
+    "retrieved_date": "2026-01-23",
+    "retrieved_utc": "2026-01-23T05:52:00Z",
+    "source": "FT_Home",
+    "title": "UK consumer confidence marks 10 years without a positive reading",
+    "url": "https://www.ft.com/content/66eb1b1b-7fdd-46d1-bd5b-dc5c1245381a",
+    "id_key": "a48201b5ed78c036c69899bdb72572eb60a771592f3463631ccc0a2531a1e5aa",
+    "summary": "GfK index rose by 1 point to minus 16 in January, up from a low of minus 23 in April 2025",
+    "ingested_utc": "2026-01-23T05:52:00Z"
+  },
+  {
+    "published_utc": "2026-01-23",
+    "retrieved_date": "2026-01-23",
+    "retrieved_utc": "2026-01-23T05:52:00Z",
+    "source": "FT_Home",
+    "title": "Revolut scraps US merger plans in favour of push for standalone licence",
+    "url": "https://www.ft.com/content/908e261f-2b78-4798-8aa2-aff2e828d31a",
+    "id_key": "e61b68074835f0779f975b7d82d01461b0e0590a0694f49f4e8cd8b0aa74e896",
+    "summary": "UK-headquartered fintech had hoped to secure a banking charter through buying an American lender",
+    "ingested_utc": "2026-01-23T05:52:00Z"
+  },
+  {
+    "published_utc": "2026-01-23",
+    "retrieved_date": "2026-01-23",
+    "retrieved_utc": "2026-01-23T05:50:58Z",
+    "source": "Erigon_Releases",
+    "title": "v3.3.4 - Splashing Saga",
+    "url": "https://github.com/erigontech/erigon/releases/tag/v3.3.4",
+    "id_key": "fc460a7e42fce8b3aff1fbbf767302d540e8f9de0efa868e215483168fcb8adb",
+    "summary": "v3.3.4 is a bugfix release recommended for all users. What's Changed Fix for missing rcache at stepBoundary by @sudeepdino008 in #18698 Execution/stagedsync: port --experimental.always-generate-changesets flag for gas repricing benchmarks by @taratorio in #18733 Execution: add --fcu.timeout and --fcu.background.prune flags by @taratorio in #18723 Not needed collector erased in prune domains by @JkLondon in #18665 Forward compatible snapshots format by @eastorski in #18746 Full Changelog : v3.3.3...v3.3.4",
+    "ingested_utc": "2026-01-23T05:50:58Z"
+  },
+  {
+    "published_utc": "2026-01-23",
+    "retrieved_date": "2026-01-23",
+    "retrieved_utc": "2026-01-23T05:49:59Z",
+    "source": "CryptoNews",
+    "title": "Russian Ruble-Pegged Stablecoin Surpasses $100B in Transactions Less Than a Year – Report",
+    "url": "https://cryptonews.com/news/a7a5-stablecoin-surpasses-100b-in-transactions-report/",
+    "id_key": "aa088212213ee16b1880d3db80527ce93ed6c221455bb3a20a246127d694359b",
+    "summary": "Russia’s ruble-backed stablecoin A7A5 has surpassed more than $100 billion in transactions in less than a year. The post Russian Ruble-Pegged Stablecoin Surpasses $100B in Transactions Less Than a Year – Report appeared first on Cryptonews .",
+    "ingested_utc": "2026-01-23T05:49:59Z"
+  },
+  {
+    "published_utc": "2026-01-23",
+    "retrieved_date": "2026-01-23",
+    "retrieved_utc": "2026-01-23T05:49:37Z",
+    "source": "Guardian_World",
+    "title": "Peter Dutton alienated voters with ‘arrogant and aggressive’ approach, Labor election review finds",
+    "url": "https://www.theguardian.com/australia-news/2026/jan/23/peter-dutton-alienated-voters-labor-election-review",
+    "id_key": "8a0674a421db9fe76ff66a4b25cb644e24d417691727587a01bd7c06a0088d62",
+    "summary": "Coalition’s Tony Abbott-style political playbook, policy backflips and lack of message discipline helped Labor secure landslide election win Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Peter Dutton repelled voters with a Tony Abbott-style political playbook ahead of last year’s federal election, presenting poorly designed and badly explained policies, helping Labor secure a landslide win , a party review has found. Released on Friday, as the opposition leader, Sussan Ley, fought to hold off a leadership challenge , Labor’s election campaign review said Anthony Albanese’s positive message and policies designed to improve voters’ lives resonated with the electorate, while Dutton’s “negative, arrogant and aggressive” approach was a major barrier to support for the Coalition. Continue reading...",
+    "ingested_utc": "2026-01-23T05:49:37Z"
+  },
+  {
+    "published_utc": "2026-01-23",
+    "retrieved_date": "2026-01-23",
+    "retrieved_utc": "2026-01-23T05:49:37Z",
+    "source": "Guardian_World",
+    "title": "NSW shootings suspect was on bail over DV charges at time he allegedly killed three people, police say",
+    "url": "https://www.theguardian.com/australia-news/2026/jan/22/three-people-dead-after-shooting-in-nsw-town-lake-cargelligo-as-police-urge-locals-to-stay-inside-ntwnfb",
+    "id_key": "4675a8b512b677df56127c9daf69bcbf851920b944a98134e93b7220142eecb2",
+    "summary": "Two women and a man die in shootings at Lake Cargelligo as police urge locals to stay inside as they hunt for ‘armed and dangerous’ Julian Ingram Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Warning: This article contains references to Indigenous Australians who have died A large-scale manhunt is continuing after three people were shot dead, including a pregnant woman, and a fourth was seriously injured in the New South Wales central west region. NSW police said the alleged perpetrator, Julian “Hoolio” Ingram, also known as Pierpoint, 37, was believed to be “on the move” in a vehicle on Friday. Continue reading...",
+    "ingested_utc": "2026-01-23T05:49:37Z"
+  },
+  {
+    "published_utc": "2026-01-23",
+    "retrieved_date": "2026-01-23",
     "retrieved_utc": "2026-01-23T05:24:08Z",
     "source": "AlJazeera_All",
     "title": "Hunger, death, devastation: No respite in Tigray a year after US aid cuts",
@@ -856,6 +966,28 @@
     "id_key": "02d9003ea106eb5bce9624e49d4f24a9d1c174ca87d6bc126e25f040d91b54c0",
     "summary": "Civil service pension scheme failed to pay some pensions and lump sums after transferring to a new administrator.",
     "ingested_utc": "2026-01-23T01:00:52Z"
+  },
+  {
+    "published_utc": "2026-01-22",
+    "retrieved_date": "2026-01-23",
+    "retrieved_utc": "2026-01-23T05:52:01Z",
+    "source": "FT_Markets",
+    "title": "Elon Musk’s SpaceX lines up 4 banks for blockbuster IPO",
+    "url": "https://www.ft.com/content/55235da5-9a3f-4e0f-b00c-4e1f5abdc606",
+    "id_key": "520b4e0a6f98f976cea74d12e1f2ab4a3b4cbd84d41e2086cfd4421184356089",
+    "summary": "Bank of America, Goldman Sachs, JPMorgan Chase and Morgan Stanley set to take lead on listing",
+    "ingested_utc": "2026-01-23T05:52:01Z"
+  },
+  {
+    "published_utc": "2026-01-22",
+    "retrieved_date": "2026-01-23",
+    "retrieved_utc": "2026-01-23T05:49:34Z",
+    "source": "BBC_World",
+    "title": "France seizes suspected Russian 'shadow fleet' tanker",
+    "url": "https://www.bbc.com/news/articles/cdexxr2y907o?at_medium=RSS&at_campaign=rss",
+    "id_key": "93d175e4091f581f4cf33c990eb53ab94a4eec5a848ff6b5541cac855199571a",
+    "summary": "The vessel, named Grinch, was stopped by the French navy as it travelled through waters between Spain and Morocco.",
+    "ingested_utc": "2026-01-23T05:49:34Z"
   },
   {
     "published_utc": "2026-01-22",
@@ -10866,137 +10998,5 @@
     "id_key": "48875f640bedf5fc2cc89c61af77aa2fdbc496d85ba91bf6f433617ad6452b24",
     "summary": "TORONTO, Jan. 21, 2026 (GLOBE NEWSWIRE) — Vancity and Keewaywin Capital Inc. (Keewaywin), a 100% Indigenous-owned private credit fund, are announcing a $100 million partnership to deliver a first-of-its-kind, streamlined source of financing for Indigenous-led housing projects across the country. “The decades-long housing shortages in Indigenous communities are not due to a lack of vision […]",
     "ingested_utc": "2026-01-21T18:27:23Z"
-  },
-  {
-    "published_utc": "2026-01-21",
-    "retrieved_date": "2026-01-21",
-    "retrieved_utc": "2026-01-21T18:27:23Z",
-    "source": "FinancialPost_Business",
-    "title": "Gigamon Recognizes Top Global Partners at 2026 Sales Kickoff",
-    "url": "https://financialpost.com/globe-newswire/gigamon-recognizes-top-global-partners-at-2026-sales-kickoff",
-    "id_key": "1dbc9b59f90f955f92c832fe8fa38a5a1680d687313876704d88bac03e920eee",
-    "summary": "Gigamon honors top partners whose expertise helps customers gain deep observability to better secure and manage hybrid cloud infrastructure SANTA CLARA, Calif., Jan. 21, 2026 (GLOBE NEWSWIRE) — Gigamon, a leading deep observability company, announced its Catalyst Partner Program Award and Gigamon Technology Alliance Partner award winners at its annual sales kickoff event. Each of […]",
-    "ingested_utc": "2026-01-21T18:27:23Z"
-  },
-  {
-    "published_utc": "2026-01-21",
-    "retrieved_date": "2026-01-21",
-    "retrieved_utc": "2026-01-21T18:27:23Z",
-    "source": "FinancialPost_Business",
-    "title": "Banks Launch $1.25 Billion of Loans Tied to Walmart Supplier",
-    "url": "https://financialpost.com/pmn/business-pmn/banks-launch-1-25-billion-of-loans-tied-to-walmart-supplier",
-    "id_key": "2a95366f33e38790321e474c08ae0a8a51806884d1e19fc31f6e96a3506d5a2a",
-    "summary": "Banks including Royal Bank of Canada kicked off the sale of $1.25 billion of loans tied to Investindustrial’s takeover of TreeHouse Foods Inc, a US food and beverage producer that supplies Walmart Inc. private-label products.",
-    "ingested_utc": "2026-01-21T18:27:23Z"
-  },
-  {
-    "published_utc": "2026-01-21",
-    "retrieved_date": "2026-01-21",
-    "retrieved_utc": "2026-01-21T18:27:15Z",
-    "source": "AlJazeera_All",
-    "title": "‘The end of the world as we know it’: Is the rules-based order finished?",
-    "url": "https://www.aljazeera.com/news/2026/1/21/the-end-of-the-world-as-we-know-it-is-the-rules-based-order-finished?traffic_source=rss",
-    "id_key": "41982494ac8ff7d841893295689916e2b9a1a6c08d020ef012849bf4c3f595b1",
-    "summary": "Analysts say US actions have ended the post-war order, but how much that 'order' applied to the Global South is unclear.",
-    "ingested_utc": "2026-01-21T18:27:15Z"
-  },
-  {
-    "published_utc": "2026-01-21",
-    "retrieved_date": "2026-01-21",
-    "retrieved_utc": "2026-01-21T18:27:14Z",
-    "source": "TheStreet_Top",
-    "title": "Amazon is selling a 'beautiful' $77 analog watch for only $52 right now",
-    "url": "https://www.thestreet.com/deals/invicta-pro-diver-quartz-watch-amazon-sale",
-    "id_key": "bb39248fa41da041b8b941a179958e113b091bdda1246bae5730d2bba804153b",
-    "summary": "Save a whopping $43 on this nice stainless-steel timepiece.",
-    "ingested_utc": "2026-01-21T18:27:14Z"
-  },
-  {
-    "published_utc": "2026-01-21",
-    "retrieved_date": "2026-01-21",
-    "retrieved_utc": "2026-01-21T18:27:08Z",
-    "source": "TheEconomist_Finance",
-    "title": "Japan’s bond-market tremble reflects a fiscal-monetary clash",
-    "url": "https://www.economist.com/finance-and-economics/2026/01/21/japans-bond-market-tremble-reflects-a-fiscal-monetary-clash",
-    "id_key": "a304bfe5cb43614dd9fbe6807ff196fde9e032e7973466193c9c7c61f194223c",
-    "summary": "As investors worry about budgetary laxity, the central bank prepares for more rate hikes",
-    "ingested_utc": "2026-01-21T18:27:08Z"
-  },
-  {
-    "published_utc": "2026-01-21",
-    "retrieved_date": "2026-01-21",
-    "retrieved_utc": "2026-01-21T18:27:06Z",
-    "source": "Engadget_All",
-    "title": "Amazon is adding AI-powered assistant to One Medical",
-    "url": "https://www.engadget.com/ai/amazon-is-adding-ai-powered-assistant-to-one-medical-180803368.html?src=rss",
-    "id_key": "d47b47c5349dc40530d8072ff0378ad2668cc492f34d0959a20650baedeaed09",
-    "summary": "Amazon is introducing an AI-powered assistant to One Medical, the tech-forward primary care provider it acquired in 2023 . Dubbed 'Health AI,' Amazon says the tool \"provides 24/7 personalized health guidance based on your medical records.\" The company says Health AI can explain lab results, help manage medications, and book appointments for patients. Amazon also says it can \"analyze images\" but doesn't specify whether this means medical imaging or user uploaded photos. While the company specifically says the tool \"complements, but does not replace,\" a patient's healthcare provider, it also vaguely says the AI can \"answer general and complex health questions\" while \"considering your unique health history.\" \"Health AI recognizes when symptoms, situations, or specific queries require or benefit from human clinical judgment,\" reads the company's announcement, while giving few details on just how much medical advice the AI tool is empowered to give. Use of AI tools brings up data privacy concerns, and Amazon says it follows HIPAA-compliant privacy and security practices. The company says that a user's conversations with Health AI are \"not automatically added to your medical record.\" This of course implies the option to do just that. It also says the company doesn't sell members' protected health information. One Medical has a limited number of brick-and-mortar offices in major metros throughout the US, but the focus of the company seems to be telehealth services. These services are offered as part of an annual subscription, which is discounted for Amazon Prime members. This is only the latest investment Amazon has made in the healthcare space. In recent years the tech giant has begun same-day prescription deliveries in certain markets, and built vending machines for prescription drugs. Health AI follows the trend of AI companies competing to enter healthcare with their AI-powered chatbots. Google added an AI health coach to the Fitbit app last year , and OpenAI announced a dedicated health portal within ChatGPT in January. This article originally appeared on Engadget at https://www.engadget.com/ai/amazon-is-adding-ai-powered-assistant-to-one-medical-180803368.html?src=rss",
-    "ingested_utc": "2026-01-21T18:27:06Z"
-  },
-  {
-    "published_utc": "2026-01-21",
-    "retrieved_date": "2026-01-21",
-    "retrieved_utc": "2026-01-21T18:27:06Z",
-    "source": "Engadget_All",
-    "title": "The Prince of Persia: The Sands of Time remake among six games canceled by Ubisoft",
-    "url": "https://www.engadget.com/gaming/the-prince-of-persia-the-sands-of-time-remake-among-six-games-canceled-by-ubisoft-175801132.html?src=rss",
-    "id_key": "188ef4b2ae3627fe85b8deca4b27505d449590c511f2c2d322d7c0e83763ecf1",
-    "summary": "Two high-profile upcoming Ubisoft games have been starting to look more and more like vaporware with each passing year. One of them is Beyond Good & Evil 2 , which we were assured is still in development last year. The other is the Prince of Persia: The Sands of Time remake, which is now officially canceled, along with five other games on Ubisoft’s release slate. The news came in a media briefing attended virtually by VGC , in which the French company also announced delays to seven other games as part of a major restructuring. As reported by VGC , the only canceled game currently named by Ubisoft is the remake of its 2003 classic, which was first announced in 2020 and has by all accounts been in various stages of development hell ever since. Three of the others were original new IPs and one was a mobile game. Ubisoft isn’t putting names to the more than half dozen delayed games either, but VGC ’s report says one was supposed to come out in the first quarter of this year, and will now release before April 2027. While it’s yet to be officially announced, a remake of Assassin’s Creed: Black Flag has been heavily rumored for several months and is likely one of the games that has slipped. Ubisoft also outlined its new organizational model, which will see the company split into five \"creative houses\" that function as independent business units. One of these is the previously announced , Tencent-backed Vantage Studios, which will oversee a number of the company’s flagship franchises, including Rainbow Six, Assassin’s Creed and Far Cry. In its Wednesday briefing, Ubisoft also confirmed recent reports that it’s closing its Stockholm and (recently unionized) Halifax studios, with others, including Star Wars Outlaws developer Massive Entertainment due to be restructured as a result of the new model. Ubisoft declined to tell VGC exactly how many layoffs could occur in the wake of the large-scale reorganization of the company. This article originally appeared on Engadget at https://www.engadget.com/gaming/the-prince-of-persia-the-sands-of-time-remake-among-six-games-canceled-by-ubisoft-175801132.html?src=rss",
-    "ingested_utc": "2026-01-21T18:27:06Z"
-  },
-  {
-    "published_utc": "2026-01-21",
-    "retrieved_date": "2026-01-21",
-    "retrieved_utc": "2026-01-21T18:27:04Z",
-    "source": "WIRED_All",
-    "title": "TCL Knocks $1,000 off One of Our Favorite Mid-Range TVs",
-    "url": "https://www.wired.com/story/tcl-qm8k-deal-126/",
-    "id_key": "ac7dfafd951b0bc5240096c59565bb113d7fb5944f26cec7df455d8efe57152c",
-    "summary": "The 65-inch QM8K sees a massive discount, with equally generous markdowns on larger models.",
-    "ingested_utc": "2026-01-21T18:27:04Z"
-  },
-  {
-    "published_utc": "2026-01-21",
-    "retrieved_date": "2026-01-21",
-    "retrieved_utc": "2026-01-21T18:27:04Z",
-    "source": "WIRED_All",
-    "title": "Surveillance and ICE Are Driving Patients Away From Medical Care, Report Warns",
-    "url": "https://www.wired.com/story/surveillance-and-ice-are-driving-patients-away-from-medical-care-report-warns/",
-    "id_key": "ddd515723251418a8c55615b001413d998c66f56540865306ba8cc88c181d4c4",
-    "summary": "A new EPIC report says data brokers, ad-tech surveillance, and ICE enforcement are among the factors leading to a “health privacy crisis” that is eroding trust and deterring people from seeking care.",
-    "ingested_utc": "2026-01-21T18:27:04Z"
-  },
-  {
-    "published_utc": "2026-01-21",
-    "retrieved_date": "2026-01-21",
-    "retrieved_utc": "2026-01-21T18:27:02Z",
-    "source": "TheVerge_All",
-    "title": "Samsung Galaxy S26 battery pack leak points to Qi2 charging support",
-    "url": "https://www.theverge.com/news/865083/samsung-galaxy-s26-battery-pack-qi2-support",
-    "id_key": "4f64d285f6d1f1c1eff73f862ba28677641a69510ee199b83ffa643763ac8326",
-    "summary": "It looks like Samsung is preparing to launch a new Qi2 battery pack for the upcoming Galaxy S26, which is rumored to support the upgraded charging standard. A report from Winfuture shows off leaked images of what appears to be the new accessory, outfitted with a magnetic Qi2 charging ring that delivers up to 15W […]",
-    "ingested_utc": "2026-01-21T18:27:02Z"
-  },
-  {
-    "published_utc": "2026-01-21",
-    "retrieved_date": "2026-01-21",
-    "retrieved_utc": "2026-01-21T18:27:02Z",
-    "source": "TechCrunch_All",
-    "title": "OpenEvidence hits $12B valuation, with new round led by Thrive, DST",
-    "url": "https://techcrunch.com/2026/01/21/openevidence-hits-12b-valuation-with-new-round-led-by-thrive-dst/",
-    "id_key": "32cc19fb6bf6686e6590ca5921eeb1384bcdaa0d88e5a764938d978d0422c45d",
-    "summary": "The medical info database has doubled in valuation since last raise in October, despite encroachment from model makers.",
-    "ingested_utc": "2026-01-21T18:27:02Z"
-  },
-  {
-    "published_utc": "2026-01-21",
-    "retrieved_date": "2026-01-21",
-    "retrieved_utc": "2026-01-21T18:27:02Z",
-    "source": "TechCrunch_All",
-    "title": "Amagi slides in India debut as cloud TV software firm tests investor appetite",
-    "url": "https://techcrunch.com/2026/01/20/amagi-slides-in-india-debut-as-cloud-tv-software-firm-tests-investor-appetite/",
-    "id_key": "98704821de7a59fef876a801816149ce8fbea31f9d611d2996f20968c278fd8c",
-    "summary": "Amagi shares debuted at a 12% discount, offering an early read on investor demand for a rare type of tech listing in India.",
-    "ingested_utc": "2026-01-21T18:27:02Z"
   }
 ]
