@@ -2,6 +2,28 @@
   {
     "published_utc": "2026-01-24",
     "retrieved_date": "2026-01-24",
+    "retrieved_utc": "2026-01-24T17:14:24Z",
+    "source": "HackerNews_Top",
+    "title": "Metriport (YC S22) is hiring a security eng to harden healthcare data infra",
+    "url": "https://www.ycombinator.com/companies/metriport/jobs/XC2AF8s-senior-security-engineer",
+    "id_key": "fa3b6cbe53c1ea9810e40b7be5cc64aded1765a871dfcfcf21e342d9605e49b5",
+    "summary": "Comments",
+    "ingested_utc": "2026-01-24T17:14:24Z"
+  },
+  {
+    "published_utc": "2026-01-24",
+    "retrieved_date": "2026-01-24",
+    "retrieved_utc": "2026-01-24T17:11:17Z",
+    "source": "Guardian_World",
+    "title": "Andy Burnham applies to stand for Labour in Gorton and Denton byelection",
+    "url": "https://www.theguardian.com/politics/2026/jan/24/andy-burnham-applies-to-stand-for-labour-in-gorton-and-denton-byelection",
+    "id_key": "4dd4f154b0a1fc95842768acdb832edb052347fd85b635d57e5ff64de3e4fda1",
+    "summary": "Greater Manchester mayor’s application will need approval from party’s ruling body, which is dominated by Starmer allies Andy Burnham has formally put himself forward to stand for parliament in the Manchester constituency of Gorton and Denton in what could be the first move in a campaign to replace Keir Starmer. The Greater Manchester mayor has announced that he has applied to be a candidate in the upcoming byelection, having submitted an application before the deadline of 5pm on Saturday. Continue reading...",
+    "ingested_utc": "2026-01-24T17:11:17Z"
+  },
+  {
+    "published_utc": "2026-01-24",
+    "retrieved_date": "2026-01-24",
     "retrieved_utc": "2026-01-24T16:57:45Z",
     "source": "FinancialPost_Business",
     "title": "US Storm Starts to Hit With Grid Emergency, Canceled Flights",
@@ -10976,27 +10998,5 @@
     "id_key": "2a5c86b81baa02367e7702b535ba86448f2a84191bf9f677d6625d2103968a84",
     "summary": "Xbox is set to hold the fourth installment of its now-annual Developer Direct showcase on January 22. You’ll be able to watch the 2026 edition at 1PM ET on YouTube (including versions with audio descriptions and ASL ), Twitch , Facebook and Steam. Xbox will stream the Developer Direct on its regional channels simultaneously, and it’ll be available on Bilibili on Friday. The YouTube stream might be the way to go, since that one will be available in 4K and 60 fps. Because we’re so nice, we’ve embedded that stream above, so all you have to do is click the play button when the time is right. Microsoft has confirmed that it will feature three titles at the Developer Showcase: Fable and Forza Horizon 6 from Playground Games, and Beast of Reincarnation from Game Freak, which is best known for its work on Pokémon games. We should get developer interviews, gameplay footage and (for at least one of those) a release date. There is a chance that there will be some surprises, of course. The three previous editions of Developer Direct all featured five games — the first one showcased Hi-Fi Rush , which was released on the same day. This article originally appeared on Engadget at https://www.engadget.com/gaming/xbox/xbox-developer-direct-2026-how-to-watch-and-what-we-expect-to-see-from-fable-forza-horizon-6-and-beast-of-reincarnation-161000242.html?src=rss",
     "ingested_utc": "2026-01-22T16:25:25Z"
-  },
-  {
-    "published_utc": "2026-01-22",
-    "retrieved_date": "2026-01-22",
-    "retrieved_utc": "2026-01-22T16:25:25Z",
-    "source": "Engadget_All",
-    "title": "AI Mode in Google search can now pull context from your other apps",
-    "url": "https://www.engadget.com/ai/ai-mode-in-google-search-can-now-pull-context-from-your-other-apps-160000103.html?src=rss",
-    "id_key": "5beaa6ce9ec789705d537d9306cfe0067f4ceabacc5636ac6d8b9492751bb029",
-    "summary": "After adding Personal Intelligence to Gemini as an opt-in experience, Google has announced that it’s also integrating the feature into AI Mode in Search. What Personal Intelligence does is pull information from your Google apps to tailor its responses based on your history and interests. For Search, in particular, you can allow Personal Intelligence to look for information in your Gmail accounts and Google Photos libraries. If you use AI Mode to shop for clothes with the new feature enabled, for instance, Google could recommend items or models from a brand you previously purchased from. If it sees plane tickets or other reservations in Gmail, Google could also recommend specific items based on your destination and the season if you’re clothes shopping for that trip. Personal Intelligence is powered by Google’s Gemini 3 AI model. The company says it doesn’t train its models using information from your Gmail inbox or Google Photos library, but it does use your prompts and AI Mode’s responses. Google also warned that sometimes, the feature’s recommendations could feel inaccurate because it could not fully comprehend the context or could make incorrect connections between separate topics. At the moment, Personal Intelligence is an experimental feature that’s rolling out in Labs starting today. Google AI Pro and Ultra subscribers in the US, who use the service in English, will automatically have access to it and be able to connect AI Mode to Gmail and Google Photos. It will only be available to personal Google accounts, however, and not for Workspace accounts just yet. This article originally appeared on Engadget at https://www.engadget.com/ai/ai-mode-in-google-search-can-now-pull-context-from-your-other-apps-160000103.html?src=rss",
-    "ingested_utc": "2026-01-22T16:25:25Z"
-  },
-  {
-    "published_utc": "2026-01-22",
-    "retrieved_date": "2026-01-22",
-    "retrieved_utc": "2026-01-22T16:25:23Z",
-    "source": "ArsTechnica_All",
-    "title": "Finally, a new controller that solves the Switch 2's \"flat Joy-Con\" problem",
-    "url": "https://arstechnica.com/gaming/2026/01/finally-a-new-controller-that-solves-the-switch-2s-flat-joy-con-problem/",
-    "id_key": "b1958a3368a296a7d669ae5d7017f476a1c6545438de92dc5dd4faa640b89a96",
-    "summary": "But Nyxi's Hyperion 3 upgrade comes with a pretty high asking price.",
-    "ingested_utc": "2026-01-22T16:25:23Z"
   }
 ]
