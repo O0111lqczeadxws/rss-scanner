@@ -2,6 +2,61 @@
   {
     "published_utc": "2026-01-24",
     "retrieved_date": "2026-01-24",
+    "retrieved_utc": "2026-01-24T05:40:48Z",
+    "source": "HackerNews_Top",
+    "title": "SEC obtains final consent judgments against former FTX and Alameda executives",
+    "url": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26450",
+    "id_key": "f497cebeff51cb37b1204b67d9a05d12a4e8e0c2fc667385f18a86e5e74548af",
+    "summary": "Comments",
+    "ingested_utc": "2026-01-24T05:40:48Z"
+  },
+  {
+    "published_utc": "2026-01-24",
+    "retrieved_date": "2026-01-24",
+    "retrieved_utc": "2026-01-24T05:39:57Z",
+    "source": "TechCrunch_All",
+    "title": "Legal AI giant Harvey acquires Hexus as competition heats up in legal tech",
+    "url": "https://techcrunch.com/2026/01/23/legal-ai-giant-harvey-acquires-hexus-as-competition-heats-up-in-legal-tech/",
+    "id_key": "4e70c269bfe5a83f6619717c747bb15fb27fab57cb7fcfb0e002f0dd1403a868",
+    "summary": "Hexus founder and CEO Sakshi Pratap, who previously held engineering roles at Walmart, Oracle, and Google, tells TechCrunch that her San Francisco-based team has already joined Harvey, while the startup's India-based engineers will come onboard once Harvey establishes a Bangalore office.",
+    "ingested_utc": "2026-01-24T05:39:57Z"
+  },
+  {
+    "published_utc": "2026-01-24",
+    "retrieved_date": "2026-01-24",
+    "retrieved_utc": "2026-01-24T05:39:09Z",
+    "source": "BBC_World",
+    "title": "Hundreds of Minnesota businesses close to protest ICE presence",
+    "url": "https://www.bbc.com/news/articles/c1dk67g4q91o?at_medium=RSS&at_campaign=rss",
+    "id_key": "4fbe9416741ac98789cdcd95973dc1b24b7273802205a8af7658765130f954e7",
+    "summary": "Thousands of people have joined widespread protests against the weeks-long immigration crackdown in the state.",
+    "ingested_utc": "2026-01-24T05:39:09Z"
+  },
+  {
+    "published_utc": "2026-01-24",
+    "retrieved_date": "2026-01-24",
+    "retrieved_utc": "2026-01-24T05:39:09Z",
+    "source": "BBC_World",
+    "title": "'A natural partner': US treasury secretary weighs in on Alberta separatism",
+    "url": "https://www.bbc.com/news/articles/cy8ylqx0zw4o?at_medium=RSS&at_campaign=rss",
+    "id_key": "49e5adef0fcee5c2417495390d773889e00ed10faac9dcef145de4642aca68b7",
+    "summary": "Scott Bessent's comments come amid a war of words between Ottawa and Washington.",
+    "ingested_utc": "2026-01-24T05:39:09Z"
+  },
+  {
+    "published_utc": "2026-01-24",
+    "retrieved_date": "2026-01-24",
+    "retrieved_utc": "2026-01-24T05:37:23Z",
+    "source": "BBC_World",
+    "title": "China no longer Pentagon's top security priority",
+    "url": "https://www.bbc.com/news/articles/cj9r8ezym3ro?at_medium=RSS&at_campaign=rss",
+    "id_key": "08140baf66e4ab7bd4bc47b769abca295dbd821e65fc0b7884762018d7749d73",
+    "summary": "The US will also offer “more limited” support to US allies, according to a new national defence strategy document.",
+    "ingested_utc": "2026-01-24T05:37:23Z"
+  },
+  {
+    "published_utc": "2026-01-24",
+    "retrieved_date": "2026-01-24",
     "retrieved_utc": "2026-01-24T05:17:30Z",
     "source": "FT_Markets",
     "title": "Crypto Isas are here — but are they a good idea?",
@@ -10943,60 +10998,5 @@
     "id_key": "781f463858e0df20788aedb2c5f74d0b2fd9196dc543f4b757b66677c0476c00",
     "summary": "Developing countries are taking advantage of falling prices for solar, wind and batteries.",
     "ingested_utc": "2026-01-22T13:29:48Z"
-  },
-  {
-    "published_utc": "2026-01-22",
-    "retrieved_date": "2026-01-22",
-    "retrieved_utc": "2026-01-22T13:29:48Z",
-    "source": "FinancialPost_Business",
-    "title": "GTT Expands Global SIP Trunking Reach to Japan",
-    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/gtt-expands-global-sip-trunking-reach-to-japan",
-    "id_key": "e1e8c398b0476a12407b0e77c4fa6b087daa230cea608a891ea9c8bf18617eb7",
-    "summary": "GTT Envision platform grows Asia capability for global SIP-based voice services ARLINGTON, Va. — GTT Communications Inc., a leading networking and security as a service provider for multinational organizations, today announced the expanded availability of its global enterprise voice services to include Japan. The global SIP Trunking infrastructure embedded in the GTT Envision platform supports […]",
-    "ingested_utc": "2026-01-22T13:29:48Z"
-  },
-  {
-    "published_utc": "2026-01-22",
-    "retrieved_date": "2026-01-22",
-    "retrieved_utc": "2026-01-22T13:29:48Z",
-    "source": "FinancialPost_Business",
-    "title": "ExaGrid Announces All Flash/SSD Tiered Backup Storage Solution",
-    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/exagrid-announces-all-flash-ssd-tiered-backup-storage-solution",
-    "id_key": "3870a350508323b803da2c8d91c2062d5e4f2e2b8bef34598447b82b3fc6b4bc",
-    "summary": "ExaGrid’s new solution offers the fastest, most scalable, and most secure backups in the industry MARLBOROUGH, Mass. — ExaGrid®, the industry’s only Tiered Backup Storage solution with AI-Powered Retention Time-Lock (RTL) that includes a non-network-facing tier (tiered air gap), Auto Detect & Guard, delayed deletes and immutability for ransomware recovery, today announced that it is […]",
-    "ingested_utc": "2026-01-22T13:29:48Z"
-  },
-  {
-    "published_utc": "2026-01-22",
-    "retrieved_date": "2026-01-22",
-    "retrieved_utc": "2026-01-22T13:29:48Z",
-    "source": "FinancialPost_Business",
-    "title": "Obsidian Security Announces End-to-End SaaS Supply Chain Protection as Agentic AI Adoption Accelerates",
-    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/obsidian-security-announces-end-to-end-saas-supply-chain-protection-as-agentic-ai-adoption-accelerates",
-    "id_key": "99a3437e77dcad978afbf69696d7194f0f3f58099c3a9e39e6ef7cc47ae1b9a6",
-    "summary": "New Capabilities Include Complete Visibility into SaaS-to-SaaS Integrations, Proactive Prevention and Early Breach Detection in One Unified Platform PALO ALTO, Calif. — Obsidian Security, leader in SaaS security, today announced the industry’s first end-to-end SaaS supply chain security solution, empowering organizations to monitor, control and contain the security risk hiding inside interconnected SaaS ecosystems. Companies […]",
-    "ingested_utc": "2026-01-22T13:29:48Z"
-  },
-  {
-    "published_utc": "2026-01-22",
-    "retrieved_date": "2026-01-22",
-    "retrieved_utc": "2026-01-22T13:29:41Z",
-    "source": "AlJazeera_All",
-    "title": "Trump opens ‘Board of Peace’ by listing countries the US has bombed",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/1/22/trump-opens-board-of-peace-by-listing-countries-the-us-has-bombed?traffic_source=rss",
-    "id_key": "7f4b4f3ea23b9983ed02f27aa630db98010b03f5ff9aff2824ad519943582357",
-    "summary": "During the signing of his ‘Board of Peace’, US President Donald Trump talked about the countries the US had bombed.",
-    "ingested_utc": "2026-01-22T13:29:41Z"
-  },
-  {
-    "published_utc": "2026-01-22",
-    "retrieved_date": "2026-01-22",
-    "retrieved_utc": "2026-01-22T13:29:40Z",
-    "source": "TheStreet_Top",
-    "title": "62-year-old retail pharmacy chain makes store closure decision",
-    "url": "https://www.thestreet.com/retail/cvs-makes-store-closure-decision",
-    "id_key": "b796a58c7b034b697e6c6007ad6dcdc46e0c10bbd710eaed3d316641b8d3b4db",
-    "summary": "Severe financial distress since late 2023 has led several national drugstore chains to close store locations and, in some cases, file for bankruptcy protection. America’s largest drugstore chains have closed 100s of store locations to restructure their businesses and reduce labor costs, eliminate ...",
-    "ingested_utc": "2026-01-22T13:29:40Z"
   }
 ]
