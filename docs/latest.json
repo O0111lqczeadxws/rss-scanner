@@ -2,6 +2,17 @@
   {
     "published_utc": "2026-01-24",
     "retrieved_date": "2026-01-24",
+    "retrieved_utc": "2026-01-24T11:41:30Z",
+    "source": "WIRED_All",
+    "title": "DOGE May Have Misused Social Security Data, DOJ Admits",
+    "url": "https://www.wired.com/story/security-news-this-week-doge-may-have-misused-social-security-data-doj-admits/",
+    "id_key": "022c14205e1ccbcff21baf5c8551fc3e99e0b5f1ae39ac07947da5fe40fcf6d4",
+    "summary": "Plus: The FAA blocks drones over DHS operations, Microsoft admits it hands over Bitlocker encryption keys to the cops, and more.",
+    "ingested_utc": "2026-01-24T11:41:30Z"
+  },
+  {
+    "published_utc": "2026-01-24",
+    "retrieved_date": "2026-01-24",
     "retrieved_utc": "2026-01-24T11:31:35Z",
     "source": "TheStreet_Top",
     "title": "Amazon is selling a vintage-style candle warmer for only $18 that 'burns evenly'",
@@ -10987,16 +10998,5 @@
     "id_key": "78b40fa7d5b0454ea09525d1dc016cd6ec4a56790e29369369b0848b39446b79",
     "summary": "Severe financial distress since late 2023 has led several national drugstore chains to close store locations and, in some cases, file for bankruptcy protection. America’s largest drugstore chains have closed 100s of store locations to restructure their businesses and reduce labor costs, eliminate ...",
     "ingested_utc": "2026-01-22T14:36:25Z"
-  },
-  {
-    "published_utc": "2026-01-22",
-    "retrieved_date": "2026-01-22",
-    "retrieved_utc": "2026-01-22T14:36:17Z",
-    "source": "TheEconomist_Business",
-    "title": "The battle war for Warner Bros is only getting fiercer",
-    "url": "https://www.economist.com/business/2026/01/22/the-battle-war-for-warner-bros-is-only-getting-fiercer",
-    "id_key": "c82b879e22b77efa1d55dc0915ce84e024da55f6ba17e9e4ddd703706881630f",
-    "summary": "Netflix has sweetened its offer to fend off Paramount",
-    "ingested_utc": "2026-01-22T14:36:17Z"
   }
 ]
