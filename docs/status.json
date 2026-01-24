@@ -1,6 +1,6 @@
 {
-  "started_utc": "2026-01-24T14:51:46Z",
-  "ended_utc": "2026-01-24T14:55:06Z",
+  "started_utc": "2026-01-24T15:12:15Z",
+  "ended_utc": "2026-01-24T15:15:37Z",
   "new_items_this_run": 5,
   "total_in_latest": 1000,
   "by_source": {
@@ -56,7 +56,7 @@
     "MarketWatch_RealTime": 0,
     "MarketWatch_Bulletins": 0,
     "MarketWatch_PersonalFinance": 0,
-    "NYTimes_Business": 0,
+    "NYTimes_Business": 1,
     "NYTimes_World": 0,
     "NYTimes_Economy": 0,
     "NYTimes_Technology": 0,
@@ -65,7 +65,7 @@
     "NPR_Business": 0,
     "NPR_Economy": 0,
     "NPR_World": 0,
-    "NPR_Technology": 1,
+    "NPR_Technology": 0,
     "FT_Home": 0,
     "FT_Markets": 0,
     "CNBC_Top": 0,
@@ -79,7 +79,7 @@
     "TheEconomist_Finance": 0,
     "Investopedia_Latest": 0,
     "TheStreet_Top": 0,
-    "AlJazeera_All": 0,
+    "AlJazeera_All": 1,
     "AlJazeera_Economy": 0,
     "FinancialPost_Business": 1,
     "CBC_Business": 0,
@@ -87,7 +87,7 @@
     "WorldBank_News": 0,
     "OECD_Newsroom": 0,
     "MIT_TechReview": 0,
-    "HackerNews_Top": 1
+    "HackerNews_Top": 0
   },
   "errors": [
     {
@@ -346,8 +346,8 @@
     "feeds_http_error": 0,
     "entries_seen": 1550,
     "too_old": 532,
-    "dup_title_url": 92,
-    "dup_id": 431
+    "dup_title_url": 93,
+    "dup_id": 430
   },
   "limits": {
     "skip_older_days": 10,
