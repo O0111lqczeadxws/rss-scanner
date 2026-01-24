@@ -2,6 +2,50 @@
   {
     "published_utc": "2026-01-24",
     "retrieved_date": "2026-01-24",
+    "retrieved_utc": "2026-01-24T17:34:59Z",
+    "source": "AlJazeera_All",
+    "title": "US federal agents shoot another person in Minneapolis: Governor",
+    "url": "https://www.aljazeera.com/news/2026/1/24/us-federal-agents-shoot-another-person-in-minneapolis-governor?traffic_source=rss",
+    "id_key": "1185abc27f8adfa69500bf8b0b1f60afb9c1f8d7bca83706a962a24d7e757a9a",
+    "summary": "Footage circulating on social media shows US officers wrestling a person to the ground before several shots ring out.",
+    "ingested_utc": "2026-01-24T17:34:59Z"
+  },
+  {
+    "published_utc": "2026-01-24",
+    "retrieved_date": "2026-01-24",
+    "retrieved_utc": "2026-01-24T17:34:31Z",
+    "source": "FT_Home",
+    "title": "Andy Burnham announces bid to stand for Westminster seat",
+    "url": "https://www.ft.com/content/2085c014-b214-46ef-bdd6-82243b6bd17c",
+    "id_key": "bcec6b37a2e55f29d3e3c2af3419811273b96c7cb7d6a0c621a9248783c30edc",
+    "summary": "Manchester mayor seeks to contest Gorton and Denton by-election in move that could set up leadership challenge to Sir Keir Starmer",
+    "ingested_utc": "2026-01-24T17:34:31Z"
+  },
+  {
+    "published_utc": "2026-01-24",
+    "retrieved_date": "2026-01-24",
+    "retrieved_utc": "2026-01-24T17:32:22Z",
+    "source": "CryptoSlate",
+    "title": "Hidden inflation risks are lurking in “patched” data, leaving Bitcoin stuck in a high-stakes waiting game",
+    "url": "https://cryptoslate.com/pce-inflation-messy-signal-bitcoin-trades-real-yields-first/",
+    "id_key": "79940a5e8101d4b3bc96592e79c9d169c1fc6268e359ffa543ee428825b01e6e",
+    "summary": "The Bureau of Economic Analysis (BEA) released its delayed Personal Income and Outlays report on Jan. 22, publishing October and November PCE inflation together. The print put headline PCE at 0.2% month over month in both months, with headline PCE at 2.7% year over year in October and 2.8% in November. Core PCE was also […] The post Hidden inflation risks are lurking in “patched” data, leaving Bitcoin stuck in a high-stakes waiting game appeared first on CryptoSlate .",
+    "ingested_utc": "2026-01-24T17:32:22Z"
+  },
+  {
+    "published_utc": "2026-01-24",
+    "retrieved_date": "2026-01-24",
+    "retrieved_utc": "2026-01-24T17:32:04Z",
+    "source": "Guardian_World",
+    "title": "Minneapolis shooting live: man shot by federal officers in Minneapolis has died – reports",
+    "url": "https://www.theguardian.com/us-news/live/2026/jan/24/minneapolis-shooting-live",
+    "id_key": "332a643a80da62c14e8b9ba903e1ae6c0b9c1c89a728d04ef55f153fc859413a",
+    "summary": "Shooting comes less than three weeks after Renee Good was shot and killed by an ICE officer in the city A US government source directly briefed on the situation rapidly unfolding in Minneapolis has confirmed reports to the Guardian that the man shot by federal immigration officers this morning was armed. The source, who cannot be named because they are not authorized to give out details at this time, provided an image of a handgun next to a loaded magazine, connected to the man the Department of Homeland Security is calling a suspect. Continue reading...",
+    "ingested_utc": "2026-01-24T17:32:04Z"
+  },
+  {
+    "published_utc": "2026-01-24",
+    "retrieved_date": "2026-01-24",
     "retrieved_utc": "2026-01-24T17:14:24Z",
     "source": "HackerNews_Top",
     "title": "Metriport (YC S22) is hiring a security eng to harden healthcare data infra",
@@ -10954,49 +10998,5 @@
     "id_key": "420394d4b203edcfdbd3e2154db4f4d156d013bb7781043d09ebc806c146c566",
     "summary": "WGS 2026 Hosts High Level Investment Forum Latin America & Caribbean, and World Laureates Summit’s Global First DUBAI, United Arab Emirates — The 2026 edition of the World Governments Summit (WGS) will host the largest ever international participation since its inception and convene several landmark forums, underlining its rising global stature and significance. The roster […]",
     "ingested_utc": "2026-01-22T16:25:42Z"
-  },
-  {
-    "published_utc": "2026-01-22",
-    "retrieved_date": "2026-01-22",
-    "retrieved_utc": "2026-01-22T16:25:42Z",
-    "source": "FinancialPost_Business",
-    "title": "ClickHouse Announces Native Postgres Service, Offering a Unified Data Stack for Real-Time and AI-Driven Applications",
-    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/clickhouse-announces-native-postgres-service-offering-a-unified-data-stack-for-real-time-and-ai-driven-applications",
-    "id_key": "6fc584ae6984889bb0b3810725a2ce823e87ac2c7498db05658e35a7b1664556",
-    "summary": "SAN FRANCISCO — ClickHouse, Inc., the company behind the world’s fastest real-time analytical database, announced a high-performance, enterprise-grade Postgres service natively integrated with ClickHouse, delivering a unified data stack for developers building modern, real-time and AI-driven applications. The service is built in partnership with Ubicloud, Inc., an open-source cloud company delivering high-performance Postgres, led […]",
-    "ingested_utc": "2026-01-22T16:25:42Z"
-  },
-  {
-    "published_utc": "2026-01-22",
-    "retrieved_date": "2026-01-22",
-    "retrieved_utc": "2026-01-22T16:25:42Z",
-    "source": "FinancialPost_Business",
-    "title": "Novanta Inc. Schedules Earnings Release and Conference Call for Tuesday, February 24, 2026",
-    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/novanta-inc-schedules-earnings-release-and-conference-call-for-tuesday-february-24-2026",
-    "id_key": "e8bd93439f3bffdc3bda72c15c30a34c7d8d4954221645d7d96e85761a2c54bb",
-    "summary": "BOSTON — Novanta Inc. (Nasdaq: NOVT) (the “Company”), a trusted technology partner to medical and advanced technology equipment manufacturers, will release its fourth quarter 2025 results on Tuesday, February 24, 2026. The Company will host a conference call on Tuesday, February 24, 2026, at 8:00 a.m. ET to discuss these results. To access the call, […]",
-    "ingested_utc": "2026-01-22T16:25:42Z"
-  },
-  {
-    "published_utc": "2026-01-22",
-    "retrieved_date": "2026-01-22",
-    "retrieved_utc": "2026-01-22T16:25:35Z",
-    "source": "AlJazeera_All",
-    "title": "Trump claims to have secured ‘total access’ to Greenland in NATO deal",
-    "url": "https://www.aljazeera.com/news/2026/1/22/trumps-greenland-pact-will-demand-allies-boost-arctic-security-nato-chief?traffic_source=rss",
-    "id_key": "7000b1668bf6cccb7d6ab571074e91eb28b5ee4f66652cf1dc2fcc828c2ef440",
-    "summary": "Trump's comments come as European allies scramble to respond to his about-face on US tariffs, Greenland threats.",
-    "ingested_utc": "2026-01-22T16:25:35Z"
-  },
-  {
-    "published_utc": "2026-01-22",
-    "retrieved_date": "2026-01-22",
-    "retrieved_utc": "2026-01-22T16:25:25Z",
-    "source": "Engadget_All",
-    "title": "Xbox Developer Direct 2026: How to watch and what we expect to see from Fable, Forza Horizon 6 and Beast of Reincarnation",
-    "url": "https://www.engadget.com/gaming/xbox/xbox-developer-direct-2026-how-to-watch-and-what-we-expect-to-see-from-fable-forza-horizon-6-and-beast-of-reincarnation-161000242.html?src=rss",
-    "id_key": "2a5c86b81baa02367e7702b535ba86448f2a84191bf9f677d6625d2103968a84",
-    "summary": "Xbox is set to hold the fourth installment of its now-annual Developer Direct showcase on January 22. You’ll be able to watch the 2026 edition at 1PM ET on YouTube (including versions with audio descriptions and ASL ), Twitch , Facebook and Steam. Xbox will stream the Developer Direct on its regional channels simultaneously, and it’ll be available on Bilibili on Friday. The YouTube stream might be the way to go, since that one will be available in 4K and 60 fps. Because we’re so nice, we’ve embedded that stream above, so all you have to do is click the play button when the time is right. Microsoft has confirmed that it will feature three titles at the Developer Showcase: Fable and Forza Horizon 6 from Playground Games, and Beast of Reincarnation from Game Freak, which is best known for its work on Pokémon games. We should get developer interviews, gameplay footage and (for at least one of those) a release date. There is a chance that there will be some surprises, of course. The three previous editions of Developer Direct all featured five games — the first one showcased Hi-Fi Rush , which was released on the same day. This article originally appeared on Engadget at https://www.engadget.com/gaming/xbox/xbox-developer-direct-2026-how-to-watch-and-what-we-expect-to-see-from-fable-forza-horizon-6-and-beast-of-reincarnation-161000242.html?src=rss",
-    "ingested_utc": "2026-01-22T16:25:25Z"
   }
 ]
