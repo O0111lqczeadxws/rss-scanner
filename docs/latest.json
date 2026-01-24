@@ -2,6 +2,17 @@
   {
     "published_utc": "2026-01-24",
     "retrieved_date": "2026-01-24",
+    "retrieved_utc": "2026-01-24T19:38:58Z",
+    "source": "Engadget_All",
+    "title": "Report reveals that OpenAI's GPT-5.2 model cites Grokipedia",
+    "url": "https://www.engadget.com/ai/report-reveals-that-openais-gpt-52-model-cites-grokipedia-192532977.html?src=rss",
+    "id_key": "85c4ecae99f607c402ff8773a1d16633cad4e5627e3983278239f5150150b1e4",
+    "summary": "OpenAI may have called GPT-5.2 its \"most advanced frontier model for professional work,\" but tests conducted by the Guardian cast doubt on its credibility. According to the report, OpenAI's GPT-5.2 model cited Grokipedia , the online encyclopedia powered by xAI, when it came to specific, but controversial topics related to Iran or the Holocaust. As seen in the Guardian 's report, ChatGPT used Grokipedia as a source for claims about the Iranian government being tied to telecommunications company MTN-Irancell and questions related to Richard Evans, a British historian who served as an expert witness during a libel trial for Holocaust denier David Irving. However, the Guardian noted ChatGPT didn't use Grokipedia when it came to a prompt asking about media bias against Donald Trump and other controversial topics. OpenAI released the GPT-5.2 model in December to better perform at professional use, like creating spreadsheets or handling complex tasks. Grokipedia preceded GPT-5.2's release, but ran into some controversy when it was seen including citations to neo-Nazi forums. A study done by US researchers also showed that the AI-generated encyclopedia cited \"questionable\" and \"problematic\" sources. In response to the Guardian report, OpenAI told the outlet that its GPT-5.2 model searches the web for a \"broad range of publicly available sources and viewpoints,\" but applies \"safety filters to reduce the risk of surfacing links associated with high-severity harms.\" This article originally appeared on Engadget at https://www.engadget.com/ai/report-reveals-that-openais-gpt-52-model-cites-grokipedia-192532977.html?src=rss",
+    "ingested_utc": "2026-01-24T19:38:58Z"
+  },
+  {
+    "published_utc": "2026-01-24",
+    "retrieved_date": "2026-01-24",
     "retrieved_utc": "2026-01-24T19:30:32Z",
     "source": "FinancialPost_Business",
     "title": "Trump Hails UK Troops’ Sacrifice After Backlash Over NATO Remark",
@@ -10987,16 +10998,5 @@
     "id_key": "d829e9c108f663cc2037d1333bddb405a7c657804d3e9753323decef7c61defd",
     "summary": "Cathie Wood is known for chasing conviction, and that was clearly on display with her aggressive buying of Netflix (NFLX) stock. On January 21, the ARK Invest boss shelled out $7.27 million on the streaming giant’s stock after Netflix posted another superb quarter of beats across both lines. ...",
     "ingested_utc": "2026-01-22T17:01:48Z"
-  },
-  {
-    "published_utc": "2026-01-22",
-    "retrieved_date": "2026-01-22",
-    "retrieved_utc": "2026-01-22T17:01:39Z",
-    "source": "Engadget_All",
-    "title": "AMD's Ryzen 7 9850X3D CPU will arrive on January 29 and cost $499",
-    "url": "https://www.engadget.com/computing/amds-ryzen-7-9850x3d-cpu-will-arrive-on-january-29-and-cost-499-165000446.html?src=rss",
-    "id_key": "c222307e44382d82a896e7d88784d274d6320f9b642baa7e2a48a5f3ec3bd267",
-    "summary": "At CES earlier this month, AMD announced the Ryzen 7 9850X3D, a more wallet-friendly take on its $700 9950X3D . The company promised the new chip would be out sometime in the first three months of the year, and it's going to arrive a bit sooner than you might have expected. It can be all yours on January 29 for $499. AMD says the 9850X3D builds on the 9800X3D with an 400MHz upgrade to the boost clock. It can reach boost speeds of 5.6GHz. The Ryzen 7 9850X3D is an 8-core CPU with 16 threads and 104MB of combined L2 and L3 cache. AMD is employing its 3D V-cache tech so it can vertically stack more cache memory onto the chip. The 9850X3D also has a 120W TDP. AMD claims the CPU is able to deliver an average 27 percent faster gaming performance than the Intel Core Ultra 9 285k. We'll be able to assess that for ourselves very soon given that the 9850X3D will hit shelves in just a few days. This article originally appeared on Engadget at https://www.engadget.com/computing/amds-ryzen-7-9850x3d-cpu-will-arrive-on-january-29-and-cost-499-165000446.html?src=rss",
-    "ingested_utc": "2026-01-22T17:01:39Z"
   }
 ]
