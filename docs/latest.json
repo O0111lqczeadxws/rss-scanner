@@ -2,6 +2,50 @@
   {
     "published_utc": "2026-01-24",
     "retrieved_date": "2026-01-24",
+    "retrieved_utc": "2026-01-24T10:55:36Z",
+    "source": "HackerNews_Top",
+    "title": "Doing gigabit Ethernet over my British phone wires",
+    "url": "https://thehftguy.com/2026/01/22/doing-gigabit-ethernet-over-my-british-phone-wires/",
+    "id_key": "58cc2d8de82e9cacbbc44f1f57f21617b883d5b56b76a0b53bd3e957edce3b95",
+    "summary": "Comments",
+    "ingested_utc": "2026-01-24T10:55:36Z"
+  },
+  {
+    "published_utc": "2026-01-24",
+    "retrieved_date": "2026-01-24",
+    "retrieved_utc": "2026-01-24T10:55:36Z",
+    "source": "HackerNews_Top",
+    "title": "“Let people help” – Advice that made a big difference to a grieving widow",
+    "url": "https://www.npr.org/2026/01/20/nx-s1-5683170/let-them-the-small-bit-of-advice-that-made-a-big-difference-to-a-grieving-widow",
+    "id_key": "1c6bc01312593d70057cbfe819121555cead0e2d83fe11dc57f5f6ec2a9739c6",
+    "summary": "Comments",
+    "ingested_utc": "2026-01-24T10:55:36Z"
+  },
+  {
+    "published_utc": "2026-01-24",
+    "retrieved_date": "2026-01-24",
+    "retrieved_utc": "2026-01-24T10:55:28Z",
+    "source": "Nikkei_Asia_Top",
+    "title": "Japan's 'oyakodon' chicken rice bowls roll into Philippines",
+    "url": "https://asia.nikkei.com/business/food-beverage/japan-s-oyakodon-chicken-rice-bowls-roll-into-philippines",
+    "id_key": "9954599b7d8fa568c26eca400bde34dfbcf5abbf7364391800259cca24511da8",
+    "summary": "",
+    "ingested_utc": "2026-01-24T10:55:28Z"
+  },
+  {
+    "published_utc": "2026-01-24",
+    "retrieved_date": "2026-01-24",
+    "retrieved_utc": "2026-01-24T10:55:20Z",
+    "source": "AlJazeera_All",
+    "title": "Suicide bombing at wedding in northwest Pakistan kills seven",
+    "url": "https://www.aljazeera.com/news/2026/1/24/suicide-bombing-at-wedding-in-northwest-pakistan-kills-seven?traffic_source=rss",
+    "id_key": "aaa6e69537659accdd60a9d6c398f6a3187d5d2078e2ddd970f24fdad63085a0",
+    "summary": "Attack comes as Pakistani military readies for its fight against armed groups in areas along border with Afghanistan.",
+    "ingested_utc": "2026-01-24T10:55:20Z"
+  },
+  {
+    "published_utc": "2026-01-24",
+    "retrieved_date": "2026-01-24",
     "retrieved_utc": "2026-01-24T10:40:19Z",
     "source": "HackerNews_Top",
     "title": "Doing Gigabit Ethernet over My British Phone Wires",
@@ -10954,49 +10998,5 @@
     "id_key": "f80da32f9b1d384b94daac933ef04c89582c201512b1320c6a7907e587b4aea1",
     "summary": "Scarlett Johannsson, R.E.M., Vince Gilligan and over 700 other artists are demanding that tech companies stop “stealing” their work in order to train AI models. A new campaign called “ Stealing isn’t Innovation ” demands that AI companies take “the responsible, ethical route” through licensing and partnerships, according to the website. “America’s creative community is the envy of the world and creates jobs, economic growth and exports,” a statement on the website reads. “But rather than respect and protect this valuable asset, some of the biggest tech companies, many backed by private equity and other funders, are using American creators’ work to build AI platforms without authorization for copyright law.” The group adds that the “illegal intellectual property grab” has resulted in an information ecosystem dominated by “misinformation, deepfakes and a vapid artificial avalanche of low-quality materials [‘AI slop’]… threatening America’s AI superiority and international competitiveness.” OpenAI once argued that it’s “impossible” to train AI without copyrighted materials, since “copyright today covers virtually every sort of human expression.” However, actors, musicians and authors take issue with that idea, particularly when they see their likenesses or work repurposed as slop or worse by large language models (LLMs). Johansson, for one, previously threatened OpenAI with legal action in 2024 over a ChatGPT voice assistant that effectively cloned her voice. More recently, Elon Musk’s Grok has been accused of creating millions of sexualized images of real people in just days, according to a report today from The New York Times . “Big Tech is trying to change the law so they can keep stealing American artistry to build their AI businesses — without authorization and without paying the people who did the work. That is wrong; it’s un-American, and it’s theft on a grand scale,” the group proclaimed. This article originally appeared on Engadget at https://www.engadget.com/ai/a-list-creatives-sign-up-to-fight-ai-say-it-enables-theft-at-a-grand-scale-140000475.html?src=rss",
     "ingested_utc": "2026-01-22T14:36:16Z"
-  },
-  {
-    "published_utc": "2026-01-22",
-    "retrieved_date": "2026-01-22",
-    "retrieved_utc": "2026-01-22T14:36:16Z",
-    "source": "Engadget_All",
-    "title": "Spotify's Prompted Playlist lets you describe exactly what you want to hear",
-    "url": "https://www.engadget.com/audio/spotifys-prompted-playlist-lets-you-describe-exactly-what-you-want-to-hear-140000153.html?src=rss",
-    "id_key": "e405eacd52c75941aea767779a1b3f716cd52e9fc688bcc56c46c2b7c29001ad",
-    "summary": "Ahead of its upcoming price hike , Spotify is rolling out a more advanced AI playlist feature in the US and Canada. Prompted Playlist, which the company trialed in New Zealand late last year , lets subscribers \"control the Spotify algorithm,\" as the company describes it. \"You're not just asking for music, you're shaping how Spotify goes about discovering it for you.\" For example, you can guide it to make a playlist of songs you've saved to your Library but haven't listened to yet. (It can tap into your entire Spotify history.) Or, you can tell it to round up songs from a specific television show or movie. (It uses real-time information about pop culture, charts, and history.) The feature includes options to refresh the playlist over time (daily or weekly). You can edit each playlist's prompt at any time. Each track will include a short note to explain why it was chosen. The standard AI Playlist creator will remain alongside the new Prompted Playlist. Spotify Spotify says beta testers have used Prompted Playlist to revisit songs tied to specific moments and filter out tracks they've overplayed lately. \"Others are asking for long, lyric-free electronic playlists to power through a workday, or mixing in artists connected to current pop culture moments and viral trends,\" the company wrote. There's room for some confusion here because Spotify already has an \"AI Playlist\" feature . That simpler type will stick around alongside the new \"Prompted\" variety, which allows for finer tuning and can sift through more data. Prompted Playlist will be available to Spotify Premium subscribers in the US and Canada \"by the end of the month.\" Once you have access, you can try it by tapping Create, then selecting Prompted Playlist. This article originally appeared on Engadget at https://www.engadget.com/audio/spotifys-prompted-playlist-lets-you-describe-exactly-what-you-want-to-hear-140000153.html?src=rss",
-    "ingested_utc": "2026-01-22T14:36:16Z"
-  },
-  {
-    "published_utc": "2026-01-22",
-    "retrieved_date": "2026-01-22",
-    "retrieved_utc": "2026-01-22T14:36:15Z",
-    "source": "WIRED_All",
-    "title": "Google Nabs Top Talent From AI Voice Startup Hume AI",
-    "url": "https://www.wired.com/story/google-hires-hume-ai-ceo-licensing-deal-gemini/",
-    "id_key": "299cf5b7170aead1bd117c09ff217d949f43952b92f421394aac757d14d2591e",
-    "summary": "Hume AI’s CEO, Alan Cowen, will join Google DeepMind along with several top engineers as part of a major licensing deal.",
-    "ingested_utc": "2026-01-22T14:36:15Z"
-  },
-  {
-    "published_utc": "2026-01-22",
-    "retrieved_date": "2026-01-22",
-    "retrieved_utc": "2026-01-22T14:36:13Z",
-    "source": "TheVerge_All",
-    "title": "Adobe is developing ‘IP-safe’ gen AI models for the entertainment industry",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/865077/adobe-firefly-foundry-ip-sage-genai-models",
-    "id_key": "5566fb4a16c65108d3730359ca2e02d7b9be338eb716183fde1fd5708c6194bc",
-    "summary": "As Hollywood continues to embrace generative AI, Adobe is taking steps to make its Firefly suite of creative tools the go-to for studios' entertainment production needs. Timed to this year's Sundance Film Festival, Adobe has announced that it is working with a number of studios, directors, and talent agencies to develop \"private, IP-safe\" Firefly Foundry […]",
-    "ingested_utc": "2026-01-22T14:36:13Z"
-  },
-  {
-    "published_utc": "2026-01-22",
-    "retrieved_date": "2026-01-22",
-    "retrieved_utc": "2026-01-22T14:35:53Z",
-    "source": "NPR_Top",
-    "title": "Rahm Emanuel critiques Democrats and offers advice for the upcoming midterms",
-    "url": "https://www.npr.org/2026/01/22/nx-s1-5675190/rahm-emanuel-midterms-democrats-trump",
-    "id_key": "3303cb190d8f2e03e0d2bd2539af9ef8f17b53eb3d92058b33aacbeb76af8d13",
-    "summary": "NPR's Steve Inskeep speaks with longtime Democrat Rahm Emanuel about politics in the Trump era.",
-    "ingested_utc": "2026-01-22T14:35:53Z"
   }
 ]
