@@ -2,6 +2,17 @@
   {
     "published_utc": "2026-01-24",
     "retrieved_date": "2026-01-24",
+    "retrieved_utc": "2026-01-24T20:34:49Z",
+    "source": "Guardian_World",
+    "title": "Winter Storm Fern live updates: nearly 135,000 homes and businesses without power and more than 11,000 flights cancelled",
+    "url": "https://www.theguardian.com/world/live/2026/jan/24/winter-snow-ice-storm-weather-weekend-latest-updates",
+    "id_key": "a2d79e1e80ba164994c1967f3232b2ec2bb52b87fd5a34fa866b3db9b3ce651c",
+    "summary": "Winter storm system brings emergency declarations as snow and ice create unsafe driving conditions and power shortages Snow, sleet and power outages: 140m Americans under warnings for massive winter storm The severe cold weather has created unsafe driving conditions on many roads throughout the midwest and southern US today. Sheets of ice are currently coating several streets and highways, causing increasing risk to drivers. Even after the ice has been cleared away, it often quickly comes back due to precipitation and freezing temperatures. Officials are urging people to stay off the roads. Sgt Ellis from the Tennessee highway patrol posted a video on social media demonstrating the dangerous conditions. Continue reading...",
+    "ingested_utc": "2026-01-24T20:34:49Z"
+  },
+  {
+    "published_utc": "2026-01-24",
+    "retrieved_date": "2026-01-24",
     "retrieved_utc": "2026-01-24T20:16:37Z",
     "source": "HackerNews_Top",
     "title": "JSON-render: LLM-based JSON-to-UI tool",
@@ -10986,17 +10997,6 @@
     "url": "https://www.nytimes.com/2026/01/22/world/europe/trump-greenland-deal-framework.html",
     "id_key": "7582128166dd9a68cc1323e1df591f1371d8d747489f41a4e5b6e111712a6ed1",
     "summary": "Negotiators have discussed proposals to check Russian and Chinese influence in the Arctic and transfer sovereignty over pockets of Greenlandic land to the United States, an idea opposed by Denmark.",
-    "ingested_utc": "2026-01-22T17:28:59Z"
-  },
-  {
-    "published_utc": "2026-01-22",
-    "retrieved_date": "2026-01-22",
-    "retrieved_utc": "2026-01-22T17:28:59Z",
-    "source": "NYTimes_World",
-    "title": "Denmark Bristles at Idea of Giving Up Any Sovereignty in Greenland",
-    "url": "https://www.nytimes.com/2026/01/22/world/europe/denmark-greenland-trump-us-reaction.html",
-    "id_key": "ec8ba72e8c5d62cf0beeff60293995f241a1c75131841f62a9976e4e7e4c2dc1",
-    "summary": "American and NATO officials have discussed giving the United States sovereignty over U.S. military bases in Greenland. The Danes don’t seem to like that.",
     "ingested_utc": "2026-01-22T17:28:59Z"
   }
 ]
