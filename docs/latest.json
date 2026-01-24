@@ -2,6 +2,39 @@
   {
     "published_utc": "2026-01-24",
     "retrieved_date": "2026-01-24",
+    "retrieved_utc": "2026-01-24T20:54:28Z",
+    "source": "HackerNews_Top",
+    "title": "I added a Bluesky comment section to my blog",
+    "url": "https://micahcantor.com/blog/bluesky-comment-section.html",
+    "id_key": "8634d92727bf8f1d0aa74f5c92a922d5ac7afe280ce96b92fe7502a5fb79d848",
+    "summary": "Comments",
+    "ingested_utc": "2026-01-24T20:54:28Z"
+  },
+  {
+    "published_utc": "2026-01-24",
+    "retrieved_date": "2026-01-24",
+    "retrieved_utc": "2026-01-24T20:54:28Z",
+    "source": "HackerNews_Top",
+    "title": "Show HN: JSciPy – SciPy-inspired signal processing library for Java and Android",
+    "url": "https://github.com/hissain/jscipy",
+    "id_key": "2286c68cca99f5707e18a97e3bac1df8c3fba81797618c21bfb86a3d285ace9c",
+    "summary": "Comments",
+    "ingested_utc": "2026-01-24T20:54:28Z"
+  },
+  {
+    "published_utc": "2026-01-24",
+    "retrieved_date": "2026-01-24",
+    "retrieved_utc": "2026-01-24T20:54:18Z",
+    "source": "FinancialPost_Business",
+    "title": "Sprawling US Winter Storm Strains Power Grids, Snarls Travel",
+    "url": "https://financialpost.com/pmn/business-pmn/big-us-storm-triggers-grid-emergency-and-flight-cancellations",
+    "id_key": "970458eafc9c2ff0c0831b3f58c033198284717a785935729dd11ebb0a3b2acb",
+    "summary": "A sprawling US winter storm stretching from the southern Rocky Mountains to New England is straining power systems, leaving thousands without power, while threatening large amounts of snow and ice in some of the country’s most densely populated corridors, including Texas, New York and Boston.",
+    "ingested_utc": "2026-01-24T20:54:18Z"
+  },
+  {
+    "published_utc": "2026-01-24",
+    "retrieved_date": "2026-01-24",
     "retrieved_utc": "2026-01-24T20:34:49Z",
     "source": "Guardian_World",
     "title": "Winter Storm Fern live updates: nearly 135,000 homes and businesses without power and more than 11,000 flights cancelled",
@@ -10965,38 +10998,5 @@
     "id_key": "533ff6e99ccd11bbcf41cad9f0a8a50bf892fef99e5c4b3f0487c5fe467a56b4",
     "summary": "Google has hired the CEO and top engineer behind voice AI startup Hume AI, signaling that voice is increasingly becoming the preferred interface over screens.",
     "ingested_utc": "2026-01-22T17:29:26Z"
-  },
-  {
-    "published_utc": "2026-01-22",
-    "retrieved_date": "2026-01-22",
-    "retrieved_utc": "2026-01-22T17:29:26Z",
-    "source": "TechCrunch_All",
-    "title": "Tiger Global and Microsoft to fully exit Walmart-backed PhonePe via its IPO",
-    "url": "https://techcrunch.com/2026/01/22/tiger-global-and-microsoft-to-fully-exit-walmart-backed-phonepe-via-its-ipo/",
-    "id_key": "0f25f3e7bb4d101689ea181c6d63ece157d9fa4a8a095fc051254f97a6a2fe92",
-    "summary": "Tiger Global and Microsoft are offering up their full stakes in the company, while Walmart is choosing to retain its majority stake, and selling up to 45.9 million shares.",
-    "ingested_utc": "2026-01-22T17:29:26Z"
-  },
-  {
-    "published_utc": "2026-01-22",
-    "retrieved_date": "2026-01-22",
-    "retrieved_utc": "2026-01-22T17:29:01Z",
-    "source": "NYTimes_Technology",
-    "title": "The Drama at Thinking Machines, a New A.I. Start-Up, Is Riveting Silicon Valley",
-    "url": "https://www.nytimes.com/2026/01/22/technology/thinking-machines-ai-startup-openai.html",
-    "id_key": "6b4c54c059a4b74b2b6081e660c2d1c9fbccdc0be9cae98d92b0e23c0b95e4e7",
-    "summary": "Defections, secret conversations, deal talks that fizzled and a battle for control: The turmoil at Thinking Machines Lab is the artificial intelligence industry’s latest drama.",
-    "ingested_utc": "2026-01-22T17:29:01Z"
-  },
-  {
-    "published_utc": "2026-01-22",
-    "retrieved_date": "2026-01-22",
-    "retrieved_utc": "2026-01-22T17:28:59Z",
-    "source": "NYTimes_World",
-    "title": "After Trump’s Ultimatum, Greenland Talks Include Sovereign U.S. Bases, No Drilling for Russia",
-    "url": "https://www.nytimes.com/2026/01/22/world/europe/trump-greenland-deal-framework.html",
-    "id_key": "7582128166dd9a68cc1323e1df591f1371d8d747489f41a4e5b6e111712a6ed1",
-    "summary": "Negotiators have discussed proposals to check Russian and Chinese influence in the Arctic and transfer sovereignty over pockets of Greenlandic land to the United States, an idea opposed by Denmark.",
-    "ingested_utc": "2026-01-22T17:28:59Z"
   }
 ]
