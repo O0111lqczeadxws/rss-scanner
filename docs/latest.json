@@ -2,6 +2,17 @@
   {
     "published_utc": "2026-01-24",
     "retrieved_date": "2026-01-24",
+    "retrieved_utc": "2026-01-24T11:11:19Z",
+    "source": "Guardian_World",
+    "title": "Arrested Louisiana priest was accused of ‘inappropriately touching a child’, report says",
+    "url": "https://www.theguardian.com/us-news/2026/jan/24/arrested-louisiana-priest-indecent-behavior-juvenile-report",
+    "id_key": "9ef50c88afa7dd59968d218f4b9870aff17a6ea26f2afed39e2f3ab556bbbaa3",
+    "summary": "Korey LaVergne was jailed on three counts of indecent behavior with a juvenile and was released after posting bail The arrest of a Roman Catholic priest in south-west Louisiana occurred after local authorities were told that the clergyman had “inappropriately touched a child” over the course of a year, according to investigators’ initial report on the case. The Guardian obtained the report Friday through a public records request, a week after the sheriff’s office of Acadia parish, Louisiana , booked Korey LaVergne with three counts of indecent behavior with a juvenile. Continue reading...",
+    "ingested_utc": "2026-01-24T11:11:19Z"
+  },
+  {
+    "published_utc": "2026-01-24",
+    "retrieved_date": "2026-01-24",
     "retrieved_utc": "2026-01-24T10:55:36Z",
     "source": "HackerNews_Top",
     "title": "Doing gigabit Ethernet over my British phone wires",
@@ -955,6 +966,17 @@
     "id_key": "39316114e6e8a689cf54d06a56f59adf6da9de970473347d3adbf4fc16af1cf6",
     "summary": "Police reveal Julian Ingram reported to local officers as part of his bail conditions hours before the shootings Warning: This article contains references to Indigenous Australians who have died Police have widened the search for a gunman suspected of killing his pregnant former partner and two others in remote NSW, as police explore whether the Lake Cargelligo local may be receiving help to evade authorities. Julian Ingram, 37, was last seen driving out of Lake Cargelligo, in the NSW central west, on Thursday. Police suspect he is armed with at least one firearm, but confirmed he has never held a firearms licence. Continue reading...",
     "ingested_utc": "2026-01-24T00:58:04Z"
+  },
+  {
+    "published_utc": "2026-01-23",
+    "retrieved_date": "2026-01-24",
+    "retrieved_utc": "2026-01-24T11:13:32Z",
+    "source": "NPR_World",
+    "title": "Vietnam leader To Lam consolidates power as country targets 10% growth",
+    "url": "https://www.npr.org/2026/01/23/g-s1-106993/vietnam-leader-to-lam-consolidates-power-as-country-targets-10-growth",
+    "id_key": "2da6a7a884055be0c64a3231021fca2af6af8188c00887f5e04f8d70f1e06862",
+    "summary": "Lam, 68, pledged to accelerate economic growth and was reappointed unanimously by the 180-member Central Committee at the conclusion of the National Party Congress.",
+    "ingested_utc": "2026-01-24T11:13:32Z"
   },
   {
     "published_utc": "2026-01-23",
@@ -10976,27 +10998,5 @@
     "id_key": "0db3e74442cf383c255fb26391780675fb35f411d21adf5bf0de8225d891f05b",
     "summary": "It needs extra financial oomph to expand its coaching offerings",
     "ingested_utc": "2026-01-22T14:36:17Z"
-  },
-  {
-    "published_utc": "2026-01-22",
-    "retrieved_date": "2026-01-22",
-    "retrieved_utc": "2026-01-22T14:36:16Z",
-    "source": "Engadget_All",
-    "title": "1Password adds an extra layer of phishing protection",
-    "url": "https://www.engadget.com/cybersecurity/1password-adds-an-extra-layer-of-phishing-protection-140000293.html?src=rss",
-    "id_key": "c1e2fe016057a2e6ee9a0fa012731945b49d3bbe43fdad9d91d4987e5ebb62e4",
-    "summary": "1Password has a new tool designed to counteract the advantages AI has given to phishing scammers. A new feature for the company's browser extension gives you a \"second pair of eyes\" to help you catch a bogus website before entering your login info. Before AI, phishing attempts often included telltale signs like obvious typos or rudimentary graphic design. Now that AI makes it much easier to design and code convincingly, scams are on the rise. According to Fortune , 60 percent of companies reported an increase in fraud-related losses from 2024 to 2025. And the advent of AI browsers could make things even worse . “Our new phishing feature adds an extra layer of protection,” 1Password says. Once the feature is activated, the extension actively watches for suspicious sign-ins. To be clear, even before this feature's arrival, 1Password wouldn't autofill saved credentials for a bogus website impersonating it. But that still left room for people to manually paste their login info, handing it over to those with the worst intentions. That moment when you try to paste your login manually is where the new feature comes in. \"The website you're on isn't linked to a login in 1Password,\" the feature's warning pop-up reads. \"Make sure you trust this site before continuing.\" 1Password says that's the \"breakthrough\" moment that can help you avoid a major hassle. \"That single moment of pause, that tiny bit of friction, is often all it takes to disrupt the attackers' entire plan.\" The new feature is available today. You can enable it in the 1Password browser extension's settings. Under the Notifications section, activate the setting for \"Warn about pasted logins on non-linked websites.\" This article originally appeared on Engadget at https://www.engadget.com/cybersecurity/1password-adds-an-extra-layer-of-phishing-protection-140000293.html?src=rss",
-    "ingested_utc": "2026-01-22T14:36:16Z"
-  },
-  {
-    "published_utc": "2026-01-22",
-    "retrieved_date": "2026-01-22",
-    "retrieved_utc": "2026-01-22T14:36:16Z",
-    "source": "Engadget_All",
-    "title": "A-List creatives sign up to fight AI, say it enables 'theft at a grand scale'",
-    "url": "https://www.engadget.com/ai/a-list-creatives-sign-up-to-fight-ai-say-it-enables-theft-at-a-grand-scale-140000475.html?src=rss",
-    "id_key": "f80da32f9b1d384b94daac933ef04c89582c201512b1320c6a7907e587b4aea1",
-    "summary": "Scarlett Johannsson, R.E.M., Vince Gilligan and over 700 other artists are demanding that tech companies stop “stealing” their work in order to train AI models. A new campaign called “ Stealing isn’t Innovation ” demands that AI companies take “the responsible, ethical route” through licensing and partnerships, according to the website. “America’s creative community is the envy of the world and creates jobs, economic growth and exports,” a statement on the website reads. “But rather than respect and protect this valuable asset, some of the biggest tech companies, many backed by private equity and other funders, are using American creators’ work to build AI platforms without authorization for copyright law.” The group adds that the “illegal intellectual property grab” has resulted in an information ecosystem dominated by “misinformation, deepfakes and a vapid artificial avalanche of low-quality materials [‘AI slop’]… threatening America’s AI superiority and international competitiveness.” OpenAI once argued that it’s “impossible” to train AI without copyrighted materials, since “copyright today covers virtually every sort of human expression.” However, actors, musicians and authors take issue with that idea, particularly when they see their likenesses or work repurposed as slop or worse by large language models (LLMs). Johansson, for one, previously threatened OpenAI with legal action in 2024 over a ChatGPT voice assistant that effectively cloned her voice. More recently, Elon Musk’s Grok has been accused of creating millions of sexualized images of real people in just days, according to a report today from The New York Times . “Big Tech is trying to change the law so they can keep stealing American artistry to build their AI businesses — without authorization and without paying the people who did the work. That is wrong; it’s un-American, and it’s theft on a grand scale,” the group proclaimed. This article originally appeared on Engadget at https://www.engadget.com/ai/a-list-creatives-sign-up-to-fight-ai-say-it-enables-theft-at-a-grand-scale-140000475.html?src=rss",
-    "ingested_utc": "2026-01-22T14:36:16Z"
   }
 ]
