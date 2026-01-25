@@ -2,6 +2,61 @@
   {
     "published_utc": "2026-01-25",
     "retrieved_date": "2026-01-25",
+    "retrieved_utc": "2026-01-25T05:11:20Z",
+    "source": "HackerNews_Top",
+    "title": "Palantir has no place in UK public services",
+    "url": "https://www.opendemocracy.net/en/zarah-sutlana-palantir-no-place-uk-public-services-ministry-of-defence/",
+    "id_key": "79e8baf770958752be544ef956f4a6922e0bc8d566d340ca5d11b2f81a986563",
+    "summary": "Comments",
+    "ingested_utc": "2026-01-25T05:11:20Z"
+  },
+  {
+    "published_utc": "2026-01-25",
+    "retrieved_date": "2026-01-25",
+    "retrieved_utc": "2026-01-25T05:11:11Z",
+    "source": "FinancialPost_Business",
+    "title": "US Declares Power Emergency in Texas as Storm Boosts Demand",
+    "url": "https://financialpost.com/pmn/business-pmn/us-declares-power-emergency-in-texas-as-storm-boosts-demand",
+    "id_key": "7fcb4320ec755d1deba7dbb0d1fd29a8d7c8605a01d0e1c58295ad4f83ccc0c6",
+    "summary": "The Energy Department declared a power emergency in Texas Saturday as a massive winter storm was set to test the state’s electric grid with ice, snow and temperatures forecast to be in the teens and single digits.",
+    "ingested_utc": "2026-01-25T05:11:11Z"
+  },
+  {
+    "published_utc": "2026-01-25",
+    "retrieved_date": "2026-01-25",
+    "retrieved_utc": "2026-01-25T05:10:39Z",
+    "source": "FT_Markets",
+    "title": "Vanguard passes $1tn in assets outside US",
+    "url": "https://www.ft.com/content/28e0cbf6-65de-4e18-9c2c-32283c23fd9d",
+    "id_key": "2492b98a7c1b362ffb3e2d5b5d3ef8a9a1885e1efa049b3566c194683e4d2d93",
+    "summary": "Asset manager’s CEO Salim Ramji hails ‘incredible opportunities’ as it aims for 40mn international customers",
+    "ingested_utc": "2026-01-25T05:10:39Z"
+  },
+  {
+    "published_utc": "2026-01-25",
+    "retrieved_date": "2026-01-25",
+    "retrieved_utc": "2026-01-25T05:10:39Z",
+    "source": "FT_Markets",
+    "title": "Memory stocks soar as investors hunt for new AI winners",
+    "url": "https://www.ft.com/content/0a8743a8-a23e-4d93-aba9-b9d533310adc",
+    "id_key": "e6440e90398aa96603298bc4918ce2aee63c18f0474ce9ab6372f7077f46b060",
+    "summary": "‘Insatiable’ demand and supply bottlenecks drive rally in once-unglamorous sector",
+    "ingested_utc": "2026-01-25T05:10:39Z"
+  },
+  {
+    "published_utc": "2026-01-25",
+    "retrieved_date": "2026-01-25",
+    "retrieved_utc": "2026-01-25T05:10:27Z",
+    "source": "NYTimes_World",
+    "title": "The Podcaster Poking at France’s Biggest Secrets",
+    "url": "https://www.nytimes.com/2026/01/25/world/europe/philippe-collin-france-podcast-history-world-war-ii.html",
+    "id_key": "fbf122f85fbde9f25f6e323ba3572d014b0b536634a98a3614bcfd8be22de84c",
+    "summary": "Philippe Collin makes intricate series that are reshaping how French people understand uncomfortable parts of their history. Millions are tuning in.",
+    "ingested_utc": "2026-01-25T05:10:27Z"
+  },
+  {
+    "published_utc": "2026-01-25",
+    "retrieved_date": "2026-01-25",
     "retrieved_utc": "2026-01-25T04:38:27Z",
     "source": "HackerNews_Top",
     "title": "nvidia-smi hangs indefinitely after ~66 days",
@@ -10943,60 +10998,5 @@
     "id_key": "7a6fc6a5c5bfe264af47ef7275be578bd081272d923a424bbdaee85d24e2a903",
     "summary": "Today, I am sitting in the courtroom that may decide the fate of Android. Epic CEO Tim Sweeney is here. Google Android boss Sameer Samat is here. Together, they'll try to convince Judge James Donato that they're no longer enemies - that Google's illegal monopoly on Android app stores can be resolved with a mutual […]",
     "ingested_utc": "2026-01-22T19:00:14Z"
-  },
-  {
-    "published_utc": "2026-01-22",
-    "retrieved_date": "2026-01-22",
-    "retrieved_utc": "2026-01-22T18:59:59Z",
-    "source": "FT_Home",
-    "title": "Trump sues JPMorgan and CEO Dimon for $5bn over debanking",
-    "url": "https://www.ft.com/content/da3b880c-fcab-47d8-a40c-9e6755616e94",
-    "id_key": "b1422a2d56611c53d2ee9a7575e351074bc6c224e70f1dc9cf7004999318cfef",
-    "summary": "US president claims lender unfairly closed his accounts for political reasons",
-    "ingested_utc": "2026-01-22T18:59:59Z"
-  },
-  {
-    "published_utc": "2026-01-22",
-    "retrieved_date": "2026-01-22",
-    "retrieved_utc": "2026-01-22T18:59:54Z",
-    "source": "NPR_Top",
-    "title": "A large Syrian camp for ISIS families faces an uncertain fate after a security handover",
-    "url": "https://www.npr.org/2026/01/22/nx-s1-5683970/syria-camp-isis-women-children",
-    "id_key": "49d9bb1ca0e0ccf1dc8e19c8eb0313840cdfae5d053f9291981a80d50c41dc0c",
-    "summary": "Security at the biggest ISIS detention camp in Syria has collapsed as Syrian Kurds withdraw to face advancing government forces.",
-    "ingested_utc": "2026-01-22T18:59:54Z"
-  },
-  {
-    "published_utc": "2026-01-22",
-    "retrieved_date": "2026-01-22",
-    "retrieved_utc": "2026-01-22T18:57:57Z",
-    "source": "CryptoNews",
-    "title": "Bitcoin & Ethereum ETFs Shed Over $1B – But Solana and XRP See Inflows",
-    "url": "https://cryptonews.com/news/bitcoin-ethereum-etfs-outflows-solana-xrp-inflows/",
-    "id_key": "7dc060ecfbd5f6ab6f34431e172b0b686160a10bd1fd9cb521b42d46b041d794",
-    "summary": "Bitcoin & Ethereum ETFs have seen more than $1B in one-day outflows on Jan. 21, led by BlackRock's IBIT ($356.6M) and Fidelity's FBTC ($287.7M). Ether ETFs have shed $297.5M, mostly from ETHA. Solana and XRP ETFs have logged net inflows, per SoSoValue. Inflows since launch remained positive overall. The post Bitcoin & Ethereum ETFs Shed Over $1B – But Solana and XRP See Inflows appeared first on Cryptonews .",
-    "ingested_utc": "2026-01-22T18:57:57Z"
-  },
-  {
-    "published_utc": "2026-01-22",
-    "retrieved_date": "2026-01-22",
-    "retrieved_utc": "2026-01-22T18:57:55Z",
-    "source": "CryptoBriefing",
-    "title": "Gold hits new record above $4,900 as safe haven trade resumes after tariff pause",
-    "url": "https://cryptobriefing.com/gold-as-safe-haven-record/",
-    "id_key": "99ce0d001e59dadf4feeab72e8883807fdcc2282a36faf6d212e18a1ead4198f",
-    "summary": "Gold rebounds to new highs near $4,900 after Trump halts tariffs as silver surges while Bitcoin lags and US stocks rally. The post Gold hits new record above $4,900 as safe haven trade resumes after tariff pause appeared first on Crypto Briefing .",
-    "ingested_utc": "2026-01-22T18:57:55Z"
-  },
-  {
-    "published_utc": "2026-01-22",
-    "retrieved_date": "2026-01-22",
-    "retrieved_utc": "2026-01-22T18:57:36Z",
-    "source": "Guardian_World",
-    "title": "Toronto man posed as pilot to rack up hundreds of free flights, prosecutors say",
-    "url": "https://www.theguardian.com/world/2026/jan/22/canada-pilot-airline-tickets",
-    "id_key": "d3e49b5b67731b6b71e4c5e2a891da849a9230e7a094fd06b43d550018623bed",
-    "summary": "Dallas Pokornik accused of using fake ID to fool airlines in case likened to Hollywood thriller Catch Me If You Can A Toronto man posed as a pilot for years in order to fool airlines into giving him hundreds of free flights, prosecutors have alleged, in a case that has prompted comparisons to the Hollywood thriller Catch Me If You Can. Authorities in Hawaii announced this week that Dallas Pokornik, 33, had been charged with wire fraud after he allegedly fooled three major US carriers into giving him free tickets over a span of four years. Continue reading...",
-    "ingested_utc": "2026-01-22T18:57:36Z"
   }
 ]
