@@ -2,6 +2,17 @@
   {
     "published_utc": "2026-01-25",
     "retrieved_date": "2026-01-25",
+    "retrieved_utc": "2026-01-25T22:38:58Z",
+    "source": "TheStreet_Top",
+    "title": "Amazon is selling a 2-in-1 laptop and tablet for just $70",
+    "url": "https://www.thestreet.com/deals/aiprotablet-a30-2-in-1-laptop-tablet-amazon-sale-january-2026",
+    "id_key": "daf7cd45f1df91703e55a757f97bd6894339ba83a7c6f8391fa5b818b613575c",
+    "summary": "When it comes to electronics, you don't need to choose between work and play anymore. Rather than lugging around a big laptop or squinting to read emails on a smartphone, you can essentially combine the best of both worlds with a two-in-one laptop and tablet. That's right; you can get practically ...",
+    "ingested_utc": "2026-01-25T22:38:58Z"
+  },
+  {
+    "published_utc": "2026-01-25",
+    "retrieved_date": "2026-01-25",
     "retrieved_utc": "2026-01-25T22:15:31Z",
     "source": "HackerNews_Top",
     "title": "On the Methodology of Actual Physics [video]",
@@ -10987,16 +10998,5 @@
     "id_key": "3eaebaf307b7962205656bbe4296b13f282fde6acb72e569ea131e81360a2853",
     "summary": "The lawsuit escalates a series of confrontations between the president and the leader of the country's biggest bank.",
     "ingested_utc": "2026-01-23T10:18:22Z"
-  },
-  {
-    "published_utc": "2026-01-22",
-    "retrieved_date": "2026-01-23",
-    "retrieved_utc": "2026-01-23T09:24:03Z",
-    "source": "FT_Home",
-    "title": "Flatter Trump or fight him? Smart billionaires do both",
-    "url": "https://www.ft.com/content/b0f16c20-5b82-40ee-866e-11131df0d229",
-    "id_key": "68cce9dba2d7bfc02fb0c8d2262a631e1ee827f0a37b9b3661a3353727f70f2a",
-    "summary": "Good relations with the US commander-in-chief are more than a nice-to-have",
-    "ingested_utc": "2026-01-23T09:24:03Z"
   }
 ]
