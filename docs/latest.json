@@ -2,6 +2,39 @@
   {
     "published_utc": "2026-01-25",
     "retrieved_date": "2026-01-25",
+    "retrieved_utc": "2026-01-25T07:52:50Z",
+    "source": "HackerNews_Top",
+    "title": "Nvidia-smi hangs indefinitely after ~66 days",
+    "url": "https://github.com/NVIDIA/open-gpu-kernel-modules/issues/971",
+    "id_key": "0fa0a7a5200eb24901b9ef91a9741011696df839c8c779c4b304fb69c5eb265c",
+    "summary": "Comments",
+    "ingested_utc": "2026-01-25T07:52:50Z"
+  },
+  {
+    "published_utc": "2026-01-25",
+    "retrieved_date": "2026-01-25",
+    "retrieved_utc": "2026-01-25T07:49:51Z",
+    "source": "Guardian_World",
+    "title": "Minneapolis shooting: parents of Alex Pretti say Trump officials are telling ‘sickening lies’",
+    "url": "https://www.theguardian.com/us-news/live/2026/jan/25/minneapolis-shooting-parents-of-alex-pretti-say-trump-officials-are-telling-sickening-lies",
+    "id_key": "f35c2ece6b87801c8ea333b91b774541b03ab57fbfcb168ef613ec74df8fbba0",
+    "summary": "Family releases statement saying: ‘Alex is clearly not holding a gun when attacked by Trump’s murdering and cowardly ICE thugs’ Alex Pretti did not brandish gun, witnesses say in sworn testimony Large protests spread across US after Alex Pretti fatally shot Alex Pretti killing by federal agents: what we know so far Welcome to our live coverage of the outcry across the US following the fatal shooting of 37-year-old American citizen Alex Pretti by federal agents in Minneapolis on Saturday, the second such killing there in less than three weeks. Pretti’s family released a statement on Saturday evening in which they said they were “heartbroken but also very angry” after Donald Trump and his officials referred to Pretti as a “gunman” who had approached US border patrol officers. Minnesota federal judge Eric Tostrud ordered federal agencies to preserve evidence related to Pretti’s death. Tostrud’s ruling marked a response to Minnesota officials’ lawsuit on Saturday alleging that federal officials were stymying investigative efforts. Thousands of protesters gathered in cities including Minneapolis, New York City, San Francisco, Boston and Providence, Rhode Island . They braved extreme cold to shout slogans including: “Say it once, say it twice, we will not put up with ICE!” The Senate Democratic leader, Chuck Schumer , said his party would block a funding package next week if it included money for the DHS, the department responsible for ICE. “What’s happening in Minnesota is appalling – and unacceptable in any American city,” the New York senator said. “Democrats sought common sense reforms in the Department of Homeland Security spending bill, but because of Republicans’ refusal to stand up to President Trump, the DHS bill is woefully inadequate to rein in the abuses of ICE. I will vote no.” Continue reading...",
+    "ingested_utc": "2026-01-25T07:49:51Z"
+  },
+  {
+    "published_utc": "2026-01-25",
+    "retrieved_date": "2026-01-25",
+    "retrieved_utc": "2026-01-25T07:49:51Z",
+    "source": "Guardian_World",
+    "title": "Witnesses contradict Trump officials’ account of killing – as it happened",
+    "url": "https://www.theguardian.com/us-news/live/2026/jan/24/minneapolis-shooting-live",
+    "id_key": "89908a1595a5f8e2f90016add73d5ea0571e958256cf6d5f316794d9542f2141",
+    "summary": "This blog is now closed Man shot in Minneapolis by federal agents identified as nurse Alex Pretti ‘How many more Americans need to die?’: mayor lambastes Trump In a statement sent to the Guardian, assistant secretary of homeland security Tricia McLaughlin said that at 9.05am local time, “as DHS law enforcement officers were conducting a targeted operation in Minneapolis” against a person they said was in the country illegally, who she said was “wanted for violent assault”, “an individual approached US Border Patrol officers with a 9 mm semi-automatic handgun.” McLaughlin said that “the officers attempted to disarm the suspect but the armed suspect violently resisted” and that “more details on the armed struggle are forthcoming.” Continue reading...",
+    "ingested_utc": "2026-01-25T07:49:51Z"
+  },
+  {
+    "published_utc": "2026-01-25",
+    "retrieved_date": "2026-01-25",
     "retrieved_utc": "2026-01-25T07:35:09Z",
     "source": "CryptoNews",
     "title": "US Spot Bitcoin ETFs See Worst Week in One Year After $1.33B Outflows",
@@ -10965,38 +10998,5 @@
     "id_key": "e953b51b0d92a82689bc613294f41f90388c45ec6182f7b2a2e9012c4793ef8d",
     "summary": "Arrests, money laundering service shutdowns, releases, and escapes are all part of an ongoing crackdown on Cambodian scam operations. The post Cambodian scam rings facing disruption since kingpin’s arrest appeared first on Protos .",
     "ingested_utc": "2026-01-22T19:20:57Z"
-  },
-  {
-    "published_utc": "2026-01-22",
-    "retrieved_date": "2026-01-22",
-    "retrieved_utc": "2026-01-22T19:20:57Z",
-    "source": "Protos",
-    "title": "Strategy market cap down 40% after pivot from bonds to preferreds",
-    "url": "https://protos.com/strategy-market-cap-down-40-after-pivot-from-bonds-to-preferreds/",
-    "id_key": "964110825223ff231fe329fa5f6b317c61991d7568baaaba9d4c68966399d02d",
-    "summary": "Strategy preferreds were supposed to fix the problems with bonds, such as principal repayment, but instead they brought a raft of new issues. The post Strategy market cap down 40% after pivot from bonds to preferreds appeared first on Protos .",
-    "ingested_utc": "2026-01-22T19:20:57Z"
-  },
-  {
-    "published_utc": "2026-01-22",
-    "retrieved_date": "2026-01-22",
-    "retrieved_utc": "2026-01-22T19:20:53Z",
-    "source": "BitcoinMagazine",
-    "title": "Coinbase Forms Quantum Computing Advisory Board as Bitcoin Security Concerns Grow",
-    "url": "https://bitcoinmagazine.com/news/coinbase-forms-quantum-computing-board",
-    "id_key": "c257d9078348b3925d692715124c5b728bd4f0912b1acb50777e465622ee861e",
-    "summary": "Bitcoin Magazine Coinbase Forms Quantum Computing Advisory Board as Bitcoin Security Concerns Grow Coinbase has launched an Independent Advisory Board on Quantum Computing and Blockchain to proactively safeguard Bitcoin and other digital assets against potential future quantum threats. This post Coinbase Forms Quantum Computing Advisory Board as Bitcoin Security Concerns Grow first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
-    "ingested_utc": "2026-01-22T19:20:53Z"
-  },
-  {
-    "published_utc": "2026-01-22",
-    "retrieved_date": "2026-01-22",
-    "retrieved_utc": "2026-01-22T19:20:37Z",
-    "source": "Guardian_World",
-    "title": "Davos onlookers notice Trump’s ‘board of peace’ logo resembles UN emblem",
-    "url": "https://www.theguardian.com/us-news/2026/jan/22/trump-board-peace-davos-un",
-    "id_key": "9b09190021e9963c33bed648727405809cdd44d048f8bce9dd0cd1b36b1a96cd",
-    "summary": "The US president unveiled the board with a gold logo whose resemblance to the UN emblem sparked European criticism Donald Trump ’s newly launched “board of peace” already has a logo – and perceptive eyes have noted its close resemblance to the United Nations emblem, except reworked in Trump fashion: all in gold, and focused squarely on the US. Launched this week at the World Economic Forum in Davos, the initiative was first endorsed back in November by the UN security council, on the understanding that it would focus on brokering a ceasefire in Gaza. Since then, however, Trump has positioned it as a global body tasked with resolving international conflicts of all stripes, and to be chaired by Trump himself, in what appears to be part of the administration’s latest effort to reshape the postwar global order. Continue reading...",
-    "ingested_utc": "2026-01-22T19:20:37Z"
   }
 ]
