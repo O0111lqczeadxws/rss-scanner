@@ -1,13 +1,13 @@
 {
-  "started_utc": "2026-01-25T12:23:36Z",
-  "ended_utc": "2026-01-25T12:26:55Z",
+  "started_utc": "2026-01-25T13:08:19Z",
+  "ended_utc": "2026-01-25T13:11:40Z",
   "new_items_this_run": 5,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
     "Reuters_World": 0,
     "Reuters_Markets": 0,
-    "BBC_World": 1,
+    "BBC_World": 0,
     "BBC_Business": 0,
     "BBC_Technology": 0,
     "Guardian_Business": 0,
@@ -19,7 +19,7 @@
     "MarketWatch_MarketPulse": 0,
     "Blockworks": 0,
     "BitcoinMagazine": 0,
-    "CryptoSlate": 0,
+    "CryptoSlate": 1,
     "CryptoBriefing": 0,
     "Protos": 0,
     "CryptoNews": 0,
@@ -61,19 +61,19 @@
     "NYTimes_Economy": 0,
     "NYTimes_Technology": 0,
     "CNN_Top": 0,
-    "NPR_Top": 0,
+    "NPR_Top": 1,
     "NPR_Business": 0,
     "NPR_Economy": 0,
     "NPR_World": 0,
     "NPR_Technology": 0,
-    "FT_Home": 1,
+    "FT_Home": 0,
     "FT_Markets": 0,
     "CNBC_Top": 0,
     "CNBC_Markets": 0,
-    "TheVerge_All": 0,
+    "TheVerge_All": 1,
     "TechCrunch_All": 0,
     "ArsTechnica_All": 0,
-    "WIRED_All": 1,
+    "WIRED_All": 0,
     "Engadget_All": 0,
     "TheEconomist_Business": 0,
     "TheEconomist_Finance": 0,
@@ -81,13 +81,13 @@
     "TheStreet_Top": 0,
     "AlJazeera_All": 0,
     "AlJazeera_Economy": 0,
-    "FinancialPost_Business": 0,
+    "FinancialPost_Business": 1,
     "CBC_Business": 0,
     "Nikkei_Asia_Top": 0,
     "WorldBank_News": 0,
     "OECD_Newsroom": 0,
     "MIT_TechReview": 0,
-    "HackerNews_Top": 1
+    "HackerNews_Top": 0
   },
   "errors": [
     {
@@ -335,7 +335,7 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 508,
+    "passed_keywords": 509,
     "passed_allowlist": 0,
     "failed_all_filters": 480
   },
@@ -344,10 +344,10 @@
     "feeds_error": 23,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 1531,
+    "entries_seen": 1532,
     "too_old": 543,
-    "dup_title_url": 92,
-    "dup_id": 411
+    "dup_title_url": 94,
+    "dup_id": 410
   },
   "limits": {
     "skip_older_days": 10,
