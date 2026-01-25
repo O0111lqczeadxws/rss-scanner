@@ -2,6 +2,50 @@
   {
     "published_utc": "2026-01-25",
     "retrieved_date": "2026-01-25",
+    "retrieved_utc": "2026-01-25T15:15:33Z",
+    "source": "HackerNews_Top",
+    "title": "Web-based image editor modeled after Deluxe Paint",
+    "url": "https://github.com/steffest/DPaint-js",
+    "id_key": "ac6c324ef690e3287ba148116d1e1adaa7b943c0014674d4011aefa952a8a3d9",
+    "summary": "Comments",
+    "ingested_utc": "2026-01-25T15:15:33Z"
+  },
+  {
+    "published_utc": "2026-01-25",
+    "retrieved_date": "2026-01-25",
+    "retrieved_utc": "2026-01-25T15:15:07Z",
+    "source": "Engadget_All",
+    "title": "Google says it's fixed the Gmail issue that led to flooded inboxes and increased spam warnings",
+    "url": "https://www.engadget.com/apps/google-says-its-working-to-fix-gmail-issue-thats-led-to-flooded-inboxes-and-increased-spam-warnings-183358654.html?src=rss",
+    "id_key": "5f809ec5e3e56990020f019b0041c75c2738e738b03476dbdbfac9aaf36a300c",
+    "summary": "Your Gmail inbox should now be back to normal after Saturday’s hiccups. Google said in an update on X on Saturday night that the issue, which affected the automatic filters that keep Gmail users’ inboxes free from the clutter of promotional emails, non-urgent updates and spam, “is now fully resolved for all users.” On its Workspace status dashboard , it added that an investigation is underway, and an analysis will be published once complete. Gmail users on Saturday reported that their inboxes were flooded with promotional emails that had not been properly sorted out of the main tab, and some said they were seeing notices that emails had not been scanned for spam. On social media and DownDetector , some Gmail users also reported delays in receiving messages, leading to issues with two-factor authentication logins. After confirming the issue, Google noted in an update on its Workspace dashboard that the problem resulted in the \"misclassification of emails in their inbox and additional spam warnings,\" including a banner that says, “Be careful with this message. Gmail hasn't scanned this message for spam, unverified senders, or harmful software.” In a statement to Engadget, a Google spokesperson echoed the message from its dashboard, saying, \"We are actively working to resolve the issue. As always, we encourage users to follow standard best practices when engaging with messages from unknown senders.\" Update, January 25 2026, 9:53AM ET: This story has been updated to reflect that the issue has been resolved. This article originally appeared on Engadget at https://www.engadget.com/apps/google-says-its-working-to-fix-gmail-issue-thats-led-to-flooded-inboxes-and-increased-spam-warnings-183358654.html?src=rss",
+    "ingested_utc": "2026-01-25T15:15:07Z"
+  },
+  {
+    "published_utc": "2026-01-25",
+    "retrieved_date": "2026-01-25",
+    "retrieved_utc": "2026-01-25T15:15:04Z",
+    "source": "TheVerge_All",
+    "title": "Why won’t anyone stop ICE from masking?",
+    "url": "https://www.theverge.com/policy/867202/ice-mask-ban-no-secret-police-california",
+    "id_key": "a7e05979b9d7f7be57c6f8b222452f98829d321d1ed58055ebe84c49a6a74f85",
+    "summary": "Americans do not like masked secret police. There is really no other way to put it. The reasons why are manifold: accountability, trust in law enforcement, and just plain overall vibes. More concretely, not being able to tell who's a cop and who's not is dangerous. An assassin masquerading as law enforcement killed Minnesota legislator […]",
+    "ingested_utc": "2026-01-25T15:15:04Z"
+  },
+  {
+    "published_utc": "2026-01-25",
+    "retrieved_date": "2026-01-25",
+    "retrieved_utc": "2026-01-25T15:12:31Z",
+    "source": "Guardian_World",
+    "title": "Pilates after prayers: men’s classes in Bradford mosques offer fitness and friendship",
+    "url": "https://www.theguardian.com/uk-news/2026/jan/25/pilates-men-classes-bradford-mosque-fitness-friendship",
+    "id_key": "b7f5679028bbeb40b713154ad3439befd5a08daa1b96715f96d2ac6a6f0edc99",
+    "summary": "When organisers posted a TikTok promoting 45-minute pilates sessions, the video amassed 2m views. Now plans are afoot for female classes and youth clubs It’s early afternoon on a gloomy day at the Jamia Usmania mosque in Bradford and a group of mostly elderly men have finished their midday prayers. The assembly of mainly retired men would usually return to the familiar drumbeat of day-to-day life, but instead they make their way downstairs to tackle squats, glute bridges and the butterfly position in the mosque’s weekly 45-minute pilates class. Continue reading...",
+    "ingested_utc": "2026-01-25T15:12:31Z"
+  },
+  {
+    "published_utc": "2026-01-25",
+    "retrieved_date": "2026-01-25",
     "retrieved_utc": "2026-01-25T14:54:01Z",
     "source": "FT_Home",
     "title": "A city under siege: Minneapolis reels after another killing",
@@ -10954,49 +10998,5 @@
     "id_key": "cddd4c50d9b8b70824717e971a972c71f155d34b9acd8af7f39fc30e1411b0d5",
     "summary": "NATO officials signaled that an agreement with Mr. Trump on Greenland may be modeled on Britain’s Sovereign Base Areas in Cyprus. Here’s what that may mean.",
     "ingested_utc": "2026-01-22T21:23:42Z"
-  },
-  {
-    "published_utc": "2026-01-22",
-    "retrieved_date": "2026-01-22",
-    "retrieved_utc": "2026-01-22T21:23:34Z",
-    "source": "MarketWatch_Bulletins",
-    "title": "Stocks clock in second straight day of gains after Trump's tariff reversal",
-    "url": "https://www.marketwatch.com/bulletins/redirect/go?g=bb9ac2f7-779b-49da-86fc-c809f3298e16&mod=mw_rss_bulletins",
-    "id_key": "6926f4812093c8a3f18dd9efcd36f483474d4dd714fae1971f89462211289f6c",
-    "summary": "",
-    "ingested_utc": "2026-01-22T21:23:34Z"
-  },
-  {
-    "published_utc": "2026-01-22",
-    "retrieved_date": "2026-01-22",
-    "retrieved_utc": "2026-01-22T21:23:23Z",
-    "source": "Guardian_World",
-    "title": "Jordan used Israeli firm’s phone-cracking tool to surveil pro-Gaza activists, report finds",
-    "url": "https://www.theguardian.com/world/2026/jan/22/jordan-israeli-spyware-gaza-activists",
-    "id_key": "e74d1fc42b703cf7631990a07a7a851026c186f108f9a40cbb10268b2efbfd96",
-    "summary": "Researchers find with high confidence that security officials used Cellebrite to extract data from activists’ phones Authorities in Jordan appear to be using an Israeli digital tool to extract information from the mobile phones of activists and protesters who have been critical of Israel and spoken out in support of Gaza , according to a new report by the Citizen Lab. A multiyear investigation found with high confidence that Jordanian security authorities have been using forensic extraction tools made by Cellebrite against members of civil society, including two political activists, a student organizer, and a human rights defender, the researchers said. Continue reading...",
-    "ingested_utc": "2026-01-22T21:23:23Z"
-  },
-  {
-    "published_utc": "2026-01-22",
-    "retrieved_date": "2026-01-22",
-    "retrieved_utc": "2026-01-22T21:21:49Z",
-    "source": "CryptoSlate",
-    "title": "BlackRock backs Ethereum gatekeeping tokenization even though its market share is under threat",
-    "url": "https://cryptoslate.com/blackrock-puts-ethereum-at-tokenizations-center-but-one-quiet-metric-could-wreck-the-toll-road-bet/",
-    "id_key": "d2476c50d07fb0f833a3641a68e02b64e17a12d50b2e5ca3a742dcd1a54a099e",
-    "summary": "BlackRock’s 2026 Thematic Outlook put Ethereum at the center of its tokenization thesis, asking whether the network could serve as a “toll road.” BlackRock stated that “of tokenized assets 65%+ are on Ethereum.” The framing pushes Ethereum into an infrastructure role rather than a directional call on ETH. A “toll road” model depends on where […] The post BlackRock backs Ethereum gatekeeping tokenization even though its market share is under threat appeared first on CryptoSlate .",
-    "ingested_utc": "2026-01-22T21:21:49Z"
-  },
-  {
-    "published_utc": "2026-01-22",
-    "retrieved_date": "2026-01-22",
-    "retrieved_utc": "2026-01-22T21:21:49Z",
-    "source": "CryptoSlate",
-    "title": "Over $1B in Bitcoin liquidity evaporated as the Wall Street feedback loop looks to wipe out gains",
-    "url": "https://cryptoslate.com/bitcoin-liquidity-just-evaporated-and-this-wall-street-feedback-loop-could-wipe-out-gains/",
-    "id_key": "66cab44fe849c866571e7422b0d73371d555d602947bae3269cf7e9d03d08af4",
-    "summary": "U.S. spot Bitcoin exchange-traded funds recorded three straight trading sessions of net outflows this week, totaling $1.58 billion. The pullback follows a brief stretch of positive follow-through, sandwiched between another three-day outflow streak from Jan. 7 – 9 that totaled $1.134 billion, or about $378 million a day leaving the category. Earlier in the month, […] The post Over $1B in Bitcoin liquidity evaporated as the Wall Street feedback loop looks to wipe out gains appeared first on CryptoSlate .",
-    "ingested_utc": "2026-01-22T21:21:49Z"
   }
 ]
