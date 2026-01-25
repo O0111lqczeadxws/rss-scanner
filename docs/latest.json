@@ -2,6 +2,39 @@
   {
     "published_utc": "2026-01-25",
     "retrieved_date": "2026-01-25",
+    "retrieved_utc": "2026-01-25T17:36:11Z",
+    "source": "HackerNews_Top",
+    "title": "FAA institutes nationwide drone no-fly zones around ICE operations",
+    "url": "https://www.aerotime.aero/articles/faa-drone-no-fly-zone-ice-dhs",
+    "id_key": "8949e24dd4a02292ef2e75be6e8205fe00116bdf28dc6e1d55f1ef1fdac3f6c0",
+    "summary": "Comments",
+    "ingested_utc": "2026-01-25T17:36:11Z"
+  },
+  {
+    "published_utc": "2026-01-25",
+    "retrieved_date": "2026-01-25",
+    "retrieved_utc": "2026-01-25T17:35:55Z",
+    "source": "TheStreet_Top",
+    "title": "Boston Beer bets big on controversial boozy beverages",
+    "url": "https://www.thestreet.com/restaurants/boston-beer-bets-big-on-strong-high-alcohol-beverages",
+    "id_key": "2e9c3723e8aeeea91cd9b728884e8721b7d34b2b84e40ef0e7d3a0385ebe01fa",
+    "summary": "Sam Adams, owned by Boston Beer, has pushed boundaries when it comes to beer and alcohol content. \"At 30% ABV, Samuel Adams' Utopias 2025 isn't just strong; It's testing the very definition of beer. The fourteenth edition of the brewery's barrel-aged blend stands as the world's strongest beer, and ...",
+    "ingested_utc": "2026-01-25T17:35:55Z"
+  },
+  {
+    "published_utc": "2026-01-25",
+    "retrieved_date": "2026-01-25",
+    "retrieved_utc": "2026-01-25T17:35:43Z",
+    "source": "TheVerge_All",
+    "title": "Creators and communities everywhere take a stand against ICE",
+    "url": "https://www.theverge.com/policy/867451/creators-and-communities-take-a-stand-against-ice",
+    "id_key": "8cd75c331bc30cea055d27b48ac87ad313cf51b198cbefc37f6cc8c1865e2302",
+    "summary": "It's not surprising when the guy who's been yelling about the horrors of late-stage capitalism on Instagram for the last five years turns his ire towards ICE. But something different has been happening over the week or so, following the most recent shootings of civilians by federal agents - even accounts that stay laser focused […]",
+    "ingested_utc": "2026-01-25T17:35:43Z"
+  },
+  {
+    "published_utc": "2026-01-25",
+    "retrieved_date": "2026-01-25",
     "retrieved_utc": "2026-01-25T17:13:27Z",
     "source": "Guardian_World",
     "title": "‘You don’t want to live inside his head’: diplomats’ dilemma in the age of Trump",
@@ -10965,38 +10998,5 @@
     "id_key": "ec86646b34360a3b871b0e7c14e3bdd5fb5d63035212f12bc61663df99a48fb5",
     "summary": "Economic distress in the spirits industry, caused by a cultural change in attitudes toward alcohol consumption, resulted in several distilleries closing down operations last year. Many distilleries blamed rising costs of labor and products, as well as inflation and changing consumers’ ...",
     "ingested_utc": "2026-01-22T21:59:29Z"
-  },
-  {
-    "published_utc": "2026-01-22",
-    "retrieved_date": "2026-01-22",
-    "retrieved_utc": "2026-01-22T21:59:20Z",
-    "source": "Engadget_All",
-    "title": "Telly has only delivered 35,000 of its free televisions with always-on ads",
-    "url": "https://www.engadget.com/home/home-theater/telly-has-only-delivered-35000-of-its-free-televisions-with-always-on-ads-215033698.html?src=rss",
-    "id_key": "8be71fd04a804300ab95ae331be38e4031871e3f398adc70b666a987d12ca6f3",
-    "summary": "Telly appeared on the home theater scene in 2023 with an unusual proposition. Its business model revolves around giving customers free dual-screen televisions where the lower screen shows non-stop advertisements. At the time, the start-up’s execs projected that Telly would ship its first 500,000 screens that summer. However, Janko Roettgers of Lowpass reported that Telly only had 35,000 sets in people's homes at the end of the third quarter of 2025. The figure appears to come from a quarterly investor update, but Telly didn't provide Roettgers with any comment on the report. Personally, I don't think I'd want a free TV that perpetually pelts me with ads, but it seems Telly did in fact have some interest in its approach; the company reportedly had 250,000 pre-orders in June 2023. However, it ran into issues with getting those televisions to customers in one piece. The quarterly report allegedly said that 10 percent of Telly's shipments through FedEx arrived broken. A thread on the company's Reddit page from a year ago backs that up, chronicling delayed shipments and broken replacements. So in short, things aren’t going so great for the company right now. This article originally appeared on Engadget at https://www.engadget.com/home/home-theater/telly-has-only-delivered-35000-of-its-free-televisions-with-always-on-ads-215033698.html?src=rss",
-    "ingested_utc": "2026-01-22T21:59:20Z"
-  },
-  {
-    "published_utc": "2026-01-22",
-    "retrieved_date": "2026-01-22",
-    "retrieved_utc": "2026-01-22T21:59:16Z",
-    "source": "TheVerge_All",
-    "title": "Epic and Google have a secret $800 million Unreal Engine and services deal",
-    "url": "https://www.theverge.com/policy/866140/epic-google-fortnite-android-unreal-deal-antitrust-settlement",
-    "id_key": "70576a8c7db08a09377e2afb308d0add17dd75688bc2a43cbcdc984079e7a03e",
-    "summary": "A judge is questioning whether Epic Games and Google are settling their long-running antitrust fight partly because of a previously unannounced partnership involving the Unreal Engine, Fortnite, and Android. In a hearing in San Francisco today, the court revealed that Epic and Google have struck a new deal that apparently includes \"joint product development, joint […]",
-    "ingested_utc": "2026-01-22T21:59:16Z"
-  },
-  {
-    "published_utc": "2026-01-22",
-    "retrieved_date": "2026-01-22",
-    "retrieved_utc": "2026-01-22T21:58:50Z",
-    "source": "NYTimes_World",
-    "title": "Davos Stops Pretending",
-    "url": "https://www.nytimes.com/2026/01/22/world/davos-trump-greenland-ukraine.html",
-    "id_key": "8bf7d89f72bb0a4f05f50eab7e7083ba5e449f956f403a10c1600bb6783ff06e",
-    "summary": "Buzzwords like social justice and sustainability have vanished as the elite summit seeks Trump’s favor.",
-    "ingested_utc": "2026-01-22T21:58:50Z"
   }
 ]
