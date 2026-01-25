@@ -2,6 +2,72 @@
   {
     "published_utc": "2026-01-25",
     "retrieved_date": "2026-01-25",
+    "retrieved_utc": "2026-01-25T19:31:38Z",
+    "source": "FinancialPost_Business",
+    "title": "Texas Deep Freeze Shutters Some Energy-Consuming Industry Sites",
+    "url": "https://financialpost.com/pmn/business-pmn/texas-deep-freeze-shutters-some-energy-consuming-industry-sites",
+    "id_key": "2b94e2c556be5d7471ba6653f4e51f0a99d0acf1bfd8239c3296109c1172d295",
+    "summary": "The winter storm sweeping the US has begun disrupting the operations of industrial oil and gas consumers on Texas’ Gulf Coast, including refiners, chemical plants and manufacturers.",
+    "ingested_utc": "2026-01-25T19:31:38Z"
+  },
+  {
+    "published_utc": "2026-01-25",
+    "retrieved_date": "2026-01-25",
+    "retrieved_utc": "2026-01-25T19:31:31Z",
+    "source": "TheStreet_Top",
+    "title": "Southwest Airlines bets new fees won’t scare flyers away",
+    "url": "https://www.thestreet.com/travel/analysis-southwest-air-bets-higher-prices-wont-scare-flyers",
+    "id_key": "f352b0d9917d588b46deb99091043fbd6c95bdd5dd483591ab988878cabb8555",
+    "summary": "A business never tells customers it made service worse because it believes that price trumps everything else. Instead, they try to sell you the idea that the things they dropped somehow constitute an improvement. That's something not many businesses can do because they have too much competition. ...",
+    "ingested_utc": "2026-01-25T19:31:31Z"
+  },
+  {
+    "published_utc": "2026-01-25",
+    "retrieved_date": "2026-01-25",
+    "retrieved_utc": "2026-01-25T19:31:31Z",
+    "source": "AlJazeera_All",
+    "title": "Israel extends ban on Al Jazeera’s operations by 90 days",
+    "url": "https://www.aljazeera.com/news/2026/1/25/israel-extends-ban-on-al-jazeeras-operations-by-90-days?traffic_source=rss",
+    "id_key": "ccc36bceb0ba0a33f6dbd7962b052914c066f438ca2bd87072afc63241f9ebef",
+    "summary": "Since May 2024, Israeli law has banned the network, citing threat to national security, an allegation Al Jazeera denies.",
+    "ingested_utc": "2026-01-25T19:31:31Z"
+  },
+  {
+    "published_utc": "2026-01-25",
+    "retrieved_date": "2026-01-25",
+    "retrieved_utc": "2026-01-25T19:31:31Z",
+    "source": "AlJazeera_All",
+    "title": "Manchester United dent Arsenal’s title bid with dramatic 3-2 win",
+    "url": "https://www.aljazeera.com/sports/2026/1/25/manchester-united-dent-arsenals-title-bid-with-dramatic-3-2-win?traffic_source=rss",
+    "id_key": "88ccaad493f8f8ba6f85180c81165169d91bf52836c983236a205fcd9a25f66c",
+    "summary": "Matheus Cunha's superb late strike clinches a thrilling 3-2 away win for United against the Premier League leaders.",
+    "ingested_utc": "2026-01-25T19:31:31Z"
+  },
+  {
+    "published_utc": "2026-01-25",
+    "retrieved_date": "2026-01-25",
+    "retrieved_utc": "2026-01-25T19:31:31Z",
+    "source": "AlJazeera_All",
+    "title": "Arsenal vs Manchester United 2-3: Premier League – as it happened",
+    "url": "https://www.aljazeera.com/sports/liveblog/2026/1/25/live-arsenal-vs-manchester-united-premier-league-2?traffic_source=rss",
+    "id_key": "2e7a77722409fb534b27f7a31e7c4613369ae2ca1789cb2db78fcc8792a81277",
+    "summary": "All the updates as United shock Arsenal with stunning second half goals from Patrick Dorgu and ⁠Matheus Cunha.",
+    "ingested_utc": "2026-01-25T19:31:31Z"
+  },
+  {
+    "published_utc": "2026-01-25",
+    "retrieved_date": "2026-01-25",
+    "retrieved_utc": "2026-01-25T19:31:22Z",
+    "source": "Engadget_All",
+    "title": "Microsoft releases second emergency Windows 11 update to fix Outlook crashes",
+    "url": "https://www.engadget.com/computing/microsoft-releases-second-emergency-windows-11-update-to-fix-outlook-crashes-192012812.html?src=rss",
+    "id_key": "e31b36021f5fd3b6df4df853228937f71ebd8784978ed616922cc0f70dafa9df",
+    "summary": "Microsoft issued another out-of-band update to fix a bug that caused Outlook to crash for Windows 11 users. This second emergency patch addresses issues seen with Outlook and files stored in the cloud following Microsoft's January 2026 Windows security update. According to Microsoft, this update fixes a bug where some apps that \"open or save files stored in cloud-backed locations\" became unresponsive or displayed error messages. Some users also experienced Outlook crashing or not opening when PST files are stored in cloud-based options like OneDrive. This is the second time this year that Microsoft had to issue a last-minute fix for bugs related to its January security update. Last week , some Windows 11 devices couldn't shut down or hibernate, while other devices running Windows 10 or 11 couldn't log in through remote connections. For more context, Microsoft only issues out-of-band updates when there's a serious issue that can't wait until its regular update cycle. Fortunately, the latest out-of-band update is cumulative, so you only need to download and install this one to fix the issues seen with the January update. This article originally appeared on Engadget at https://www.engadget.com/computing/microsoft-releases-second-emergency-windows-11-update-to-fix-outlook-crashes-192012812.html?src=rss",
+    "ingested_utc": "2026-01-25T19:31:22Z"
+  },
+  {
+    "published_utc": "2026-01-25",
+    "retrieved_date": "2026-01-25",
     "retrieved_utc": "2026-01-25T19:13:54Z",
     "source": "TheStreet_Top",
     "title": "Chevron, oil execs send strong message on Venezuela",
@@ -10932,71 +10998,5 @@
     "id_key": "a3a3cab339a30d7547425de3c31e3977f873dfcf1286f02f26039a58b7132f3a",
     "summary": "There's a saying: \"If it ain't broke, don't fix it.\" Against those warnings, dumb and smart money alike embraced a new way of bringing companies onto Wall Street during the pandemic — the special purpose acquisition company, or SPAC, for short. SPACs had been around for many years, but only in 2020 ...",
     "ingested_utc": "2026-01-22T23:16:11Z"
-  },
-  {
-    "published_utc": "2026-01-22",
-    "retrieved_date": "2026-01-22",
-    "retrieved_utc": "2026-01-22T23:15:45Z",
-    "source": "FT_Home",
-    "title": "JPMorgan boosts Dimon’s pay to record $43mn",
-    "url": "https://www.ft.com/content/340ee8ce-46fe-4107-ac9b-595fbb16ca1e",
-    "id_key": "1ac19cea1d173117398e36a262ee3bfa8bc7cb775a80bc47563ee8579ec02859",
-    "summary": "Long-serving chief executive of largest US bank paid $1.5mn in base salary and a $41.5mn bonus",
-    "ingested_utc": "2026-01-22T23:15:45Z"
-  },
-  {
-    "published_utc": "2026-01-22",
-    "retrieved_date": "2026-01-22",
-    "retrieved_utc": "2026-01-22T23:15:33Z",
-    "source": "NYTimes_Business",
-    "title": "Trump Could Begin Flying on Jet Donated by Qatar by This Summer",
-    "url": "https://www.nytimes.com/2026/01/22/us/politics/trump-qatar-air-force-one.html",
-    "id_key": "512c023d37ffc1fa8757534aa7f6f37584bb7e40db4c8381dc8ba71cb2397f4b",
-    "summary": "It remains unclear whether the aircraft would get the full Air Force One security upgrades, which industry experts said could take up to two years to complete.",
-    "ingested_utc": "2026-01-22T23:15:33Z"
-  },
-  {
-    "published_utc": "2026-01-22",
-    "retrieved_date": "2026-01-22",
-    "retrieved_utc": "2026-01-22T23:13:29Z",
-    "source": "Guardian_World",
-    "title": "Six injured after knife attack at Kurdish demonstration in Antwerp",
-    "url": "https://www.theguardian.com/world/2026/jan/22/six-injured-after-knife-attack-at-kurdish-demonstration-in-antwerp-belgium",
-    "id_key": "bb5bfe28d4dbfd9ac5680aa835cbba8edc663fa25143b5edc14b4d2e075309dd",
-    "summary": "Police say incident outside Opera House which left two people in critical condition is not being investigated as terrorism Six people have been injured after a knife attack at a demonstration in Belgium on Thursday evening, police said. Two of the victims were in a critical condition in hospital following the incident in the port city of Antwerp near the Operaplein (Opera Square), police spokesperson Wouter Bruyns said. Continue reading...",
-    "ingested_utc": "2026-01-22T23:13:29Z"
-  },
-  {
-    "published_utc": "2026-01-22",
-    "retrieved_date": "2026-01-22",
-    "retrieved_utc": "2026-01-22T22:59:00Z",
-    "source": "HackerNews_Top",
-    "title": "How to Find LinkedIn Profiles and Work Emails in 5 Minutes",
-    "url": "https://crona.ai/blog/how-to-find-a-work-email-from-a-name-and-linkedin-2-step-workflow",
-    "id_key": "e41855b76d477e5c92fc35d69ef9163230ef0074a66840567c805b90838013e8",
-    "summary": "Comments",
-    "ingested_utc": "2026-01-22T22:59:00Z"
-  },
-  {
-    "published_utc": "2026-01-22",
-    "retrieved_date": "2026-01-22",
-    "retrieved_utc": "2026-01-22T22:58:50Z",
-    "source": "FinancialPost_Business",
-    "title": "ROCKET DOCTOR AI INC. ANNOUNCES CLOSING OF LISTED ISSUER FINANCING EXEMPTION (LIFE) PRIVATE PLACEMENT OF UNITS",
-    "url": "https://financialpost.com/globe-newswire/rocket-doctor-ai-inc-announces-closing-of-listed-issuer-financing-exemption-life-private-placement-of-units",
-    "id_key": "107070edcd09d87f021e5ea230d523d069e996361f862c4b146b61d08ea550cb",
-    "summary": "Not for distribution to United States newswire services or for release publication, distribution, or dissemination directly, or indirectly, in whole or in part, in or into the United States Vancouver, British Columbia, Jan. 22, 2026 (GLOBE NEWSWIRE) — Rocker Doctor AI Inc. (the “Company” or “Rocket Doctor AI”) (CSE: AIDR, OTC: AIRDF, Frankfurt: 939) is […]",
-    "ingested_utc": "2026-01-22T22:58:50Z"
-  },
-  {
-    "published_utc": "2026-01-22",
-    "retrieved_date": "2026-01-22",
-    "retrieved_utc": "2026-01-22T22:58:42Z",
-    "source": "TheStreet_Top",
-    "title": "Clark Howard’s 5 best financial tips for smarter spending, saving & investing",
-    "url": "https://www.thestreet.com/personal-finance/clark-howards-best-financial-tips-for-smarter-spending-saving-investing",
-    "id_key": "95f7c8f4e4fba0109053ec383182f90a85519d37deec8bb914b0b170ec893655",
-    "summary": "For more than three decades, Clark Howard has been sharing down-to-earth advice that helps people “save more, spend less, and avoid getting ripped off.” Best known as the host of The Clark Howard Show, which began in 1989 in his hometown of Atlanta, Howard's listeners tune in for his engaging, ...",
-    "ingested_utc": "2026-01-22T22:58:42Z"
   }
 ]
