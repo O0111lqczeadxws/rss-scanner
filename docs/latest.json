@@ -2,6 +2,28 @@
   {
     "published_utc": "2026-01-25",
     "retrieved_date": "2026-01-25",
+    "retrieved_utc": "2026-01-25T23:54:08Z",
+    "source": "HackerNews_Top",
+    "title": "Show HN: A small programming language where everything is a value",
+    "url": "https://github.com/Jcparkyn/herd",
+    "id_key": "148e57f989c15c505b54a834f37c83caaaa3e14dfa1fdd66ec4f49796e57432d",
+    "summary": "Comments",
+    "ingested_utc": "2026-01-25T23:54:08Z"
+  },
+  {
+    "published_utc": "2026-01-25",
+    "retrieved_date": "2026-01-25",
+    "retrieved_utc": "2026-01-25T23:53:20Z",
+    "source": "NPR_Top",
+    "title": "Power outages and canceled flights as winter storm brings snow, sleet and ice",
+    "url": "https://www.npr.org/2026/01/25/nx-s1-5687957/weather-snow-ice-winter-storm-power-outages-travel",
+    "id_key": "d47b628583563da0a2fcb3a0fea1f111caaa72cd2165643dd1ac13c7bd597754",
+    "summary": "Reporters from across the NPR Network are covering the storm in each state — the impact and how officials are responding.",
+    "ingested_utc": "2026-01-25T23:53:20Z"
+  },
+  {
+    "published_utc": "2026-01-25",
+    "retrieved_date": "2026-01-25",
     "retrieved_utc": "2026-01-25T23:35:21Z",
     "source": "AlJazeera_All",
     "title": "Israel says Rafah crossing to open after search for last captive body ends",
@@ -10976,27 +10998,5 @@
     "id_key": "717f1d31fcf8e91a23b2571c91f0d23043292ccf24249bfcc4cfeb29af93f31a",
     "summary": "",
     "ingested_utc": "2026-01-23T01:02:57Z"
-  },
-  {
-    "published_utc": "2026-01-23",
-    "retrieved_date": "2026-01-23",
-    "retrieved_utc": "2026-01-23T01:00:54Z",
-    "source": "Guardian_World",
-    "title": "EU stands by Denmark and Greenland and wants ‘respectful’ relations with US, says European Council president – as it happened",
-    "url": "https://www.theguardian.com/world/live/2026/jan/22/zelenskyy-trump-putin-ukraine-russia-us-davos-greenland-eu-europe-live-news",
-    "id_key": "2cc4666625dd6846644e0bfe499491118239c2468c30bc8e81f6850969270174",
-    "summary": "This live blog is now closed. Zelenskyy’s speech looks to be slightly late, as Indonesia’s president Prabowo Subianto is still speaking. Don’t worry: I’m keeping an eye on this for you. “ Hardly any details are known yet about the proposed Greenland deal. But we need them in order to decide how to proceed with the implementation of the EU-US trade deal. @EP_Trade will revisit the issue on Monday and discuss the way forward.” “However there is no room for false security. The next threat is sure to come. That’s why it is even more important that we set clear boundaries use all available legal instruments&apply them as appropriate to the situation. We must continue to act with this level of confidence.” Continue reading...",
-    "ingested_utc": "2026-01-23T01:00:54Z"
-  },
-  {
-    "published_utc": "2026-01-23",
-    "retrieved_date": "2026-01-23",
-    "retrieved_utc": "2026-01-23T01:00:54Z",
-    "source": "Guardian_World",
-    "title": "MPs ask Serious Fraud Office to investigate UK home insulation sector",
-    "url": "https://www.theguardian.com/environment/2026/jan/23/mps-ask-sfo-investigate-uk-home-insulation-sector",
-    "id_key": "df77d99130f2c6ef91171ec8cb187f5138a2f8285c173bebf57acb866d822863",
-    "summary": "More than 30,000 households left with defects after ‘catastrophic failure’ of Tory government schemes Members of parliament have called for the Serious Fraud Office to investigate the UK’s home insulation sector, after thousands of householders suffered ruined homes, big financial losses and months of disruption from the “clear and catastrophic failure” of two Conservative government schemes. More than 30,000 households were left with defects, some of them severe, including mould, water ingress and damage to the fabric of walls, with about 3,000 dwellings so badly damaged they presented immediate health and safety risks to occupants. Continue reading...",
-    "ingested_utc": "2026-01-23T01:00:54Z"
   }
 ]
