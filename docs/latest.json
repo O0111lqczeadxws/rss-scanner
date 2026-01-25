@@ -2,6 +2,39 @@
   {
     "published_utc": "2026-01-25",
     "retrieved_date": "2026-01-25",
+    "retrieved_utc": "2026-01-25T22:15:31Z",
+    "source": "HackerNews_Top",
+    "title": "On the Methodology of Actual Physics [video]",
+    "url": "https://www.youtube.com/watch?v=SaZFgtmOFek",
+    "id_key": "1b3084a736395d84b01f29b4addffeb5f4ba6e0dead36b36b3faef7e798a48d5",
+    "summary": "Comments",
+    "ingested_utc": "2026-01-25T22:15:31Z"
+  },
+  {
+    "published_utc": "2026-01-25",
+    "retrieved_date": "2026-01-25",
+    "retrieved_utc": "2026-01-25T22:12:33Z",
+    "source": "Guardian_World",
+    "title": "Dingoes on Australia’s K’gari island to be euthanised after death of Canadian tourist Piper James",
+    "url": "https://www.theguardian.com/australia-news/2026/jan/25/dingoes-on-australias-kgari-island-to-be-euthanised-after-tragic-death-of-canadian-tourist-piper-james",
+    "id_key": "e04729d86a377881e17cea180f4a13b1093d2195845d1cb9b3cf368c0c7a1d5b",
+    "summary": "Queensland government says pack linked to 19-year-old’s death pose ‘unacceptable public safety risk’ as Indigenous traditional owners say they were not consulted The dingo pack linked to the death of Canadian tourist Piper James on Australian island K’gari will be destroyed, the Queensland government has announced. Environment minister Andrew Powell said on Sunday that an entire pack of 10 animals would be euthanised. Continue reading...",
+    "ingested_utc": "2026-01-25T22:12:33Z"
+  },
+  {
+    "published_utc": "2026-01-25",
+    "retrieved_date": "2026-01-25",
+    "retrieved_utc": "2026-01-25T22:12:30Z",
+    "source": "BBC_World",
+    "title": "Analysing the Minneapolis shooting frame by frame",
+    "url": "https://www.bbc.com/news/videos/cg4e0r1el5yo?at_medium=RSS&at_campaign=rss",
+    "id_key": "8c6e2107f00d1c3a7ed934856de68590ccb5a4a2ce098bfe630499794d3bcdf4",
+    "summary": "BBC Verify has analysed footage of the shooting from multiple angles, piecing together a detailed picture of what happened.",
+    "ingested_utc": "2026-01-25T22:12:30Z"
+  },
+  {
+    "published_utc": "2026-01-25",
+    "retrieved_date": "2026-01-25",
     "retrieved_utc": "2026-01-25T21:52:25Z",
     "source": "AlJazeera_All",
     "title": "Hamas says gave Israel, mediators details about last Gaza captive’s remains",
@@ -10965,38 +10998,5 @@
     "id_key": "68cce9dba2d7bfc02fb0c8d2262a631e1ee827f0a37b9b3661a3353727f70f2a",
     "summary": "Good relations with the US commander-in-chief are more than a nice-to-have",
     "ingested_utc": "2026-01-23T09:24:03Z"
-  },
-  {
-    "published_utc": "2026-01-22",
-    "retrieved_date": "2026-01-23",
-    "retrieved_utc": "2026-01-23T06:57:25Z",
-    "source": "BBC_Business",
-    "title": "Trump sues JPMorgan for $5bn over account closure after Capitol riot",
-    "url": "https://www.bbc.com/news/articles/c2e11m2w2meo?at_medium=RSS&at_campaign=rss",
-    "id_key": "d5908a4ece80cec4c51a7501afc776f0d6144d62ed46db9faeb56ede86363415",
-    "summary": "JPMorgan Chase the lawsuit has \"no merit\" and the bank \"does not close accounts for political or religious reasons\".",
-    "ingested_utc": "2026-01-23T06:57:25Z"
-  },
-  {
-    "published_utc": "2026-01-22",
-    "retrieved_date": "2026-01-23",
-    "retrieved_utc": "2026-01-23T05:52:01Z",
-    "source": "FT_Markets",
-    "title": "Elon Musk’s SpaceX lines up 4 banks for blockbuster IPO",
-    "url": "https://www.ft.com/content/55235da5-9a3f-4e0f-b00c-4e1f5abdc606",
-    "id_key": "520b4e0a6f98f976cea74d12e1f2ab4a3b4cbd84d41e2086cfd4421184356089",
-    "summary": "Bank of America, Goldman Sachs, JPMorgan Chase and Morgan Stanley set to take lead on listing",
-    "ingested_utc": "2026-01-23T05:52:01Z"
-  },
-  {
-    "published_utc": "2026-01-22",
-    "retrieved_date": "2026-01-23",
-    "retrieved_utc": "2026-01-23T05:49:34Z",
-    "source": "BBC_World",
-    "title": "France seizes suspected Russian 'shadow fleet' tanker",
-    "url": "https://www.bbc.com/news/articles/cdexxr2y907o?at_medium=RSS&at_campaign=rss",
-    "id_key": "93d175e4091f581f4cf33c990eb53ab94a4eec5a848ff6b5541cac855199571a",
-    "summary": "The vessel, named Grinch, was stopped by the French navy as it travelled through waters between Spain and Morocco.",
-    "ingested_utc": "2026-01-23T05:49:34Z"
   }
 ]
