@@ -1,7 +1,7 @@
 {
-  "started_utc": "2026-01-25T16:56:23Z",
-  "ended_utc": "2026-01-25T17:00:00Z",
-  "new_items_this_run": 5,
+  "started_utc": "2026-01-25T17:11:10Z",
+  "ended_utc": "2026-01-25T17:14:41Z",
+  "new_items_this_run": 2,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
@@ -11,7 +11,7 @@
     "BBC_Business": 0,
     "BBC_Technology": 0,
     "Guardian_Business": 0,
-    "Guardian_World": 3,
+    "Guardian_World": 1,
     "WSJ_US_Business": 0,
     "WSJ_World": 0,
     "WSJ_Markets": 0,
@@ -20,7 +20,7 @@
     "Blockworks": 0,
     "BitcoinMagazine": 0,
     "CryptoSlate": 0,
-    "CryptoBriefing": 0,
+    "CryptoBriefing": 1,
     "Protos": 0,
     "CryptoNews": 0,
     "CoinJournal": 0,
@@ -78,10 +78,10 @@
     "TheEconomist_Business": 0,
     "TheEconomist_Finance": 0,
     "Investopedia_Latest": 0,
-    "TheStreet_Top": 1,
+    "TheStreet_Top": 0,
     "AlJazeera_All": 0,
     "AlJazeera_Economy": 0,
-    "FinancialPost_Business": 1,
+    "FinancialPost_Business": 0,
     "CBC_Business": 0,
     "Nikkei_Asia_Top": 0,
     "WorldBank_News": 0,
@@ -152,6 +152,14 @@
     },
     {
       "source": "Uniswap_Blog",
+      "error": "fatal parse failure"
+    },
+    {
+      "source": "https://medium.com/feed/aave",
+      "error": "fetch error: HTTP 429"
+    },
+    {
+      "source": "Aave_Blog",
       "error": "fatal parse failure"
     },
     {
@@ -335,19 +343,19 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 505,
+    "passed_keywords": 506,
     "passed_allowlist": 0,
-    "failed_all_filters": 487
+    "failed_all_filters": 486
   },
   "stats": {
     "feeds_total": 97,
-    "feeds_error": 23,
+    "feeds_error": 24,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 1539,
-    "too_old": 547,
+    "entries_seen": 1529,
+    "too_old": 537,
     "dup_title_url": 92,
-    "dup_id": 408
+    "dup_id": 412
   },
   "limits": {
     "skip_older_days": 10,
@@ -360,6 +368,6 @@
   },
   "processed": {
     "file": "data/processed/2026-01-25.jsonl",
-    "appended_new": 5
+    "appended_new": 2
   }
 }
