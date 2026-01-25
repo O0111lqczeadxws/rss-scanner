@@ -2,6 +2,28 @@
   {
     "published_utc": "2026-01-25",
     "retrieved_date": "2026-01-25",
+    "retrieved_utc": "2026-01-25T21:52:25Z",
+    "source": "AlJazeera_All",
+    "title": "Hamas says gave Israel, mediators details about last Gaza captive’s remains",
+    "url": "https://www.aljazeera.com/news/2026/1/25/hamas-says-gave-israel-mediators-details-about-last-gaza-captives-remains?traffic_source=rss",
+    "id_key": "19c9f7fe9cf7b840abfe0bfb39642bf25b711f31e9758d2ea462084ddb411edd",
+    "summary": "Israeli forces are searching Gaza cemetery for the remains of Ran Gvili, the last captive in the Palestinian territory.",
+    "ingested_utc": "2026-01-25T21:52:25Z"
+  },
+  {
+    "published_utc": "2026-01-25",
+    "retrieved_date": "2026-01-25",
+    "retrieved_utc": "2026-01-25T21:51:37Z",
+    "source": "MarketWatch_Bulletins",
+    "title": "Here’s what investors want even more than a Fed interest-rate cut this week",
+    "url": "https://www.marketwatch.com/bulletins/redirect/go?g=25f67827-f79a-4076-9502-8af86dc08ee7&mod=mw_rss_bulletins",
+    "id_key": "6bd7098ec23b0926a3cdf0cd616d0d08a26ef0706ec3be4fb6c061478e1a6605",
+    "summary": "",
+    "ingested_utc": "2026-01-25T21:51:37Z"
+  },
+  {
+    "published_utc": "2026-01-25",
+    "retrieved_date": "2026-01-25",
     "retrieved_utc": "2026-01-25T21:34:23Z",
     "source": "Engadget_All",
     "title": "Outside Parties is the creepiest Playdate game yet, and I'm kind of obsessed",
@@ -10976,27 +10998,5 @@
     "id_key": "93d175e4091f581f4cf33c990eb53ab94a4eec5a848ff6b5541cac855199571a",
     "summary": "The vessel, named Grinch, was stopped by the French navy as it travelled through waters between Spain and Morocco.",
     "ingested_utc": "2026-01-23T05:49:34Z"
-  },
-  {
-    "published_utc": "2026-01-22",
-    "retrieved_date": "2026-01-23",
-    "retrieved_utc": "2026-01-23T03:03:36Z",
-    "source": "NPR_Top",
-    "title": "Anti-ICE protest at Minnesota church leads to 3 arrests but no charges for a journalist",
-    "url": "https://www.npr.org/2026/01/22/g-s1-106899/minnesota-church-protest-arrests-pam-bondi-don-lemon",
-    "id_key": "e2f22c20b36abbe93f45ed60585ceefad778f495a8bc456f9e3b462f6afcdd84",
-    "summary": "A prominent civil rights attorney and at least two other people involved in a protest that disrupted a church service have been arrested, Trump administration officials said, even as a judge rebuffed related charges against journalist Don Lemon.",
-    "ingested_utc": "2026-01-23T03:03:36Z"
-  },
-  {
-    "published_utc": "2026-01-22",
-    "retrieved_date": "2026-01-23",
-    "retrieved_utc": "2026-01-23T01:03:31Z",
-    "source": "TechCrunch_All",
-    "title": "GM to end Chevy Bolt EV production next year, move China-made Buick to US factory",
-    "url": "https://techcrunch.com/2026/01/22/gm-to-end-chevy-bolt-ev-production-next-year-move-china-made-buick-to-u-s-factory/",
-    "id_key": "e8e9afa52d93e917217336795eb6a71bce645ff0338c13436d49f72028aea431",
-    "summary": "The factory musical chairs reflect an economic and political environment, shaped by the Trump administration's tariff policy and its decision to end the federal EV tax credit.",
-    "ingested_utc": "2026-01-23T01:03:31Z"
   }
 ]
