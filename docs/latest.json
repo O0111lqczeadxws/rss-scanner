@@ -2,6 +2,72 @@
   {
     "published_utc": "2026-01-25",
     "retrieved_date": "2026-01-25",
+    "retrieved_utc": "2026-01-25T15:36:12Z",
+    "source": "FinancialPost_Business",
+    "title": "Power Outages Cascade as Massive Winter Storm Reaches East Coast",
+    "url": "https://financialpost.com/pmn/business-pmn/power-outages-cascade-as-massive-winter-storm-reaches-east-coast",
+    "id_key": "f3f3891e8a5ef74b75f9859cec129ef864f535347c1a08656fc3e41e806e16e4",
+    "summary": "A colossal winter storm reached the US East Coast Sunday morning after dropping ice and snow across much of the nation, leaving hundreds of thousands of homes without power and causing a wave of flight cancellations that may last for days.",
+    "ingested_utc": "2026-01-25T15:36:12Z"
+  },
+  {
+    "published_utc": "2026-01-25",
+    "retrieved_date": "2026-01-25",
+    "retrieved_utc": "2026-01-25T15:36:12Z",
+    "source": "FinancialPost_Business",
+    "title": "Trump’s Latest Canada Threat Previews Rocky USMCA Talks",
+    "url": "https://financialpost.com/pmn/business-pmn/trumps-latest-canada-threat-previews-rocky-usmca-negotiations",
+    "id_key": "9c895155c50efed8fde9fab9f60bc08f2f609bde38350ad9f9ffbdc09739083b",
+    "summary": "President Donald Trump’s new tariff threats signal an early escalation in what’s expected to be months of posturing as the US, Canada and Mexico prepare to review their trade pact this year.",
+    "ingested_utc": "2026-01-25T15:36:12Z"
+  },
+  {
+    "published_utc": "2026-01-25",
+    "retrieved_date": "2026-01-25",
+    "retrieved_utc": "2026-01-25T15:36:06Z",
+    "source": "AlJazeera_All",
+    "title": "Wave of Israeli attacks kills two in Lebanon in latest ceasefire violation",
+    "url": "https://www.aljazeera.com/news/2026/1/25/wave-of-israeli-attacks-kills-two-in-lebanon-in-latest-ceasefire-violation?traffic_source=rss",
+    "id_key": "4aa62d5015a6d218ffbb93d969f38ac36e6fb52de5924e05f1af519783945496",
+    "summary": "Deadly Israeli air strikes target areas across south Lebanon and the Bekaa Valley amid simmering regional tensions.",
+    "ingested_utc": "2026-01-25T15:36:06Z"
+  },
+  {
+    "published_utc": "2026-01-25",
+    "retrieved_date": "2026-01-25",
+    "retrieved_utc": "2026-01-25T15:36:05Z",
+    "source": "TheStreet_Top",
+    "title": "Costco $4.99 chicken under fire for safety and ingredients",
+    "url": "https://www.thestreet.com/restaurants/costco-4-99-chicken-under-fire-for-safety-and-ingredients",
+    "id_key": "df786158dd4a5946386b9d7bd01d0365c61dae8a45b7c24b98cf04502ef7759b",
+    "summary": "Costco's $4.99 rotisserie chicken has been a polarizing product based on its taste, not its price. You can't argue the success of the product as \"the deli department mainstay has garnered a cult-like following, with Costco selling more than 100 million of rotisserie chickens annually since 2020, ...",
+    "ingested_utc": "2026-01-25T15:36:05Z"
+  },
+  {
+    "published_utc": "2026-01-25",
+    "retrieved_date": "2026-01-25",
+    "retrieved_utc": "2026-01-25T15:33:34Z",
+    "source": "CryptoSlate",
+    "title": "Terrifying Solana flaw just exposed how easily the “always-on” network could have been stalled by hackers",
+    "url": "https://cryptoslate.com/terrifying-solana-flaw-just-exposed-how-easily-the-always-on-network-could-have-been-stalled-by-hackers/",
+    "id_key": "996583755d6dfcf9bc67273e27d051b853fca94de6e00037094d2b8a5e0ff140",
+    "summary": "When Solana maintainers told validators to move quickly on Agave v3.0.14, the message arrived with more urgency than detail. The Solana Status account called the release “urgent” and said it contained a “critical set of patches” for Mainnet Beta validators. Within a day, the public conversation drifted toward a harder question: if a proof-of-stake network […] The post Terrifying Solana flaw just exposed how easily the “always-on” network could have been stalled by hackers appeared first on CryptoSlate .",
+    "ingested_utc": "2026-01-25T15:33:34Z"
+  },
+  {
+    "published_utc": "2026-01-25",
+    "retrieved_date": "2026-01-25",
+    "retrieved_utc": "2026-01-25T15:33:12Z",
+    "source": "BBC_World",
+    "title": "Video shows moments around fatal shooting of Alex Pretti in Minneapolis",
+    "url": "https://www.bbc.com/news/videos/cp372pqq2rlo?at_medium=RSS&at_campaign=rss",
+    "id_key": "d829cd247373ed93ac51b51cba247d1512ce76556a5996a7400970f2efd5a9ec",
+    "summary": "Bystander footage has captured the seconds before the killing of 37-year-old Alex Pretti.",
+    "ingested_utc": "2026-01-25T15:33:12Z"
+  },
+  {
+    "published_utc": "2026-01-25",
+    "retrieved_date": "2026-01-25",
     "retrieved_utc": "2026-01-25T15:15:33Z",
     "source": "HackerNews_Top",
     "title": "Web-based image editor modeled after Deluxe Paint",
@@ -10932,71 +10998,5 @@
     "id_key": "229926781e722ef614b9da1b4f9ff03badc0e57ef5cd84892e4e1cbd48b1d840",
     "summary": "Vancouver, British Columbia, Jan. 22, 2026 (GLOBE NEWSWIRE) — Terra Balcanica Resources Corp. (“Terra” or the “Company”) (CSE:TERA; FRA:UB1; OTC:TEBAF) is pleased to announce further assay results from the Phase III drill campaign at the Cumavici Ridge and Brezani targets within its principal Viogor-Zanik project in Bosnia and Herzegovina. Highlights The Brezani drillhole BRE25001A returned […]",
     "ingested_utc": "2026-01-22T21:24:29Z"
-  },
-  {
-    "published_utc": "2026-01-22",
-    "retrieved_date": "2026-01-22",
-    "retrieved_utc": "2026-01-22T21:24:29Z",
-    "source": "FinancialPost_Business",
-    "title": "Amlan® International Announces Promotion of Dr. Robin Jarquin to Vice President of Sales – Latin America",
-    "url": "https://financialpost.com/globe-newswire/amlan-international-announces-promotion-of-dr-robin-jarquin-to-vice-president-of-sales-latin-america",
-    "id_key": "6521965209030b9ba5bf066b6bc400d31ec1c428e9707ea6dcc6970fdbe15c00",
-    "summary": "CHICAGO, Jan. 22, 2026 (GLOBE NEWSWIRE) — Amlan® International, the animal health business of Oil-Dri® Corporation of America (NYSE: ODC), is pleased to announce the promotion of Dr. Robin Jarquin to Vice President of Sales, Latin America. In this expanded leadership role, Dr. Jarquin will leverage his deep industry experience and strong regional expertise to […]",
-    "ingested_utc": "2026-01-22T21:24:29Z"
-  },
-  {
-    "published_utc": "2026-01-22",
-    "retrieved_date": "2026-01-22",
-    "retrieved_utc": "2026-01-22T21:24:22Z",
-    "source": "AlJazeera_All",
-    "title": "Is the world’s rules-based order ruptured?",
-    "url": "https://www.aljazeera.com/video/inside-story/2026/1/22/is-the-worlds-rules-based-order-ruptured?traffic_source=rss",
-    "id_key": "358c576d421125006b013379029fbfb7a2b15c95901fd9e8b6e0397c450a24ff",
-    "summary": "Canadian Prime Minister Mark Carney says system is broken, with world powers employing force.",
-    "ingested_utc": "2026-01-22T21:24:22Z"
-  },
-  {
-    "published_utc": "2026-01-22",
-    "retrieved_date": "2026-01-22",
-    "retrieved_utc": "2026-01-22T21:24:21Z",
-    "source": "TheStreet_Top",
-    "title": "Stock Market Today, Jan. 22: Nasdaq gains nearly 1% as Greenland rebound, economic data fuels trade",
-    "url": "https://www.thestreet.com/latest-news/stock-market-today-jan-22",
-    "id_key": "fe4d96072307d4822b748b0c16206b8c996aeb4dcc2916b328384663423f4446",
-    "summary": "This live blog is refreshed periodically throughout the day with the latest updates from the market.To find the latest Stock Market Today threads, click here. Happy Thursday. This is TheStreet’s Stock Market Today for Jan. 22, 2026. You can follow the latest updates on the ...",
-    "ingested_utc": "2026-01-22T21:24:21Z"
-  },
-  {
-    "published_utc": "2026-01-22",
-    "retrieved_date": "2026-01-22",
-    "retrieved_utc": "2026-01-22T21:24:09Z",
-    "source": "TheVerge_All",
-    "title": "Ring says it&#8217;s not giving ICE access to its cameras",
-    "url": "https://www.theverge.com/news/866003/ring-ice-camera-access-flock",
-    "id_key": "b53d328fd8aea4ab920da2a95958aacefe5fc36282544846a14b71a4826714f4",
-    "summary": "Ring's partnership with Flock is sparking renewed online backlash this week, with influencers calling for people to smash their Ring cameras and claiming the company is part of the surveillance state amid heightened concerns over ICE actions. Flock is an AI-powered surveillance camera company that has reportedly allowed government agencies - including ICE - to […]",
-    "ingested_utc": "2026-01-22T21:24:09Z"
-  },
-  {
-    "published_utc": "2026-01-22",
-    "retrieved_date": "2026-01-22",
-    "retrieved_utc": "2026-01-22T21:23:52Z",
-    "source": "NPR_World",
-    "title": "Greenland and the world order",
-    "url": "https://www.npr.org/2026/01/22/nx-s1-5685021/greenland-and-the-world-order",
-    "id_key": "9e248bf05e7da78db7cf3fec07f7ea560be27112c9cb136a7c78d0bfd45523b2",
-    "summary": "Is there a deal between the U.S., Denmark and Greenland? Mary Louise Kelly and the team on NPR's national security podcast break it down.",
-    "ingested_utc": "2026-01-22T21:23:52Z"
-  },
-  {
-    "published_utc": "2026-01-22",
-    "retrieved_date": "2026-01-22",
-    "retrieved_utc": "2026-01-22T21:23:42Z",
-    "source": "NYTimes_World",
-    "title": "How Britain’s Bases in Cyprus Could Be a Blueprint for Trump’s Greenland Deal",
-    "url": "https://www.nytimes.com/2026/01/22/world/europe/greenland-trump-bases-cyprus.html",
-    "id_key": "cddd4c50d9b8b70824717e971a972c71f155d34b9acd8af7f39fc30e1411b0d5",
-    "summary": "NATO officials signaled that an agreement with Mr. Trump on Greenland may be modeled on Britain’s Sovereign Base Areas in Cyprus. Here’s what that may mean.",
-    "ingested_utc": "2026-01-22T21:23:42Z"
   }
 ]
