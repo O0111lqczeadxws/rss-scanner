@@ -2,6 +2,28 @@
   {
     "published_utc": "2026-01-26",
     "retrieved_date": "2026-01-26",
+    "retrieved_utc": "2026-01-26T23:55:54Z",
+    "source": "NYTimes_Business",
+    "title": "Trump Says He Will Raise Tariffs on South Korea to 25%",
+    "url": "https://www.nytimes.com/2026/01/26/business/economy/trump-tariffs-south-korea.html",
+    "id_key": "8a7cbe4befdd55c31e5ebc999a62089bcf012881a72f62ef6e16012220cd4a74",
+    "summary": "President Trump threatened to increase tariffs on South Korean exports, including cars, citing the country’s slow ratification of a trade deal.",
+    "ingested_utc": "2026-01-26T23:55:54Z"
+  },
+  {
+    "published_utc": "2026-01-26",
+    "retrieved_date": "2026-01-26",
+    "retrieved_utc": "2026-01-26T23:53:44Z",
+    "source": "Guardian_World",
+    "title": "Wife of oil tanker captain captured by US in North Sea starts legal action to free him",
+    "url": "https://www.theguardian.com/world/2026/jan/26/wife-of-captain-of-oil-tanker-captured-by-us-forces-starts-legal-action-to-free-him",
+    "id_key": "b87c57808e075c3833ca0e8ef7b96b6f233ffbe023c3c36da90e220eff2fc1f2",
+    "summary": "Judicial review request made in Edinburgh says Avtandil Kalandadze of Russian-flagged Marinera is being detained unlawfully Lawyers acting for the wife of the captain of a Venezuela-linked oil tanker captured by US forces in UK waters are calling for a judicial review of his situation, claiming he is being detained unlawfully. The Marinera, a Russian-flagged vessel previously known as Bella 1, has been in the Moray Firth in recent days. Continue reading...",
+    "ingested_utc": "2026-01-26T23:53:44Z"
+  },
+  {
+    "published_utc": "2026-01-26",
+    "retrieved_date": "2026-01-26",
     "retrieved_utc": "2026-01-26T23:38:46Z",
     "source": "FinancialPost_Business",
     "title": "Vale Faces Renewed Safety Concerns After Mine Water Overflows",
@@ -10976,27 +10998,5 @@
     "id_key": "af474a7c916e456c5c581ef077f098bf1d7cdadb87fc96012eb47e7314a37fe7",
     "summary": "French prosecutors say Russia-linked tanker 'Grinch' under investigation after interception in western Mediterranean.",
     "ingested_utc": "2026-01-24T02:55:52Z"
-  },
-  {
-    "published_utc": "2026-01-24",
-    "retrieved_date": "2026-01-24",
-    "retrieved_utc": "2026-01-24T02:55:41Z",
-    "source": "WIRED_All",
-    "title": "This Mega Snowstorm Will Be a Test for the US Supply Chain",
-    "url": "https://www.wired.com/story/here-comes-a-mega-snowstorm-shipping-logistics/",
-    "id_key": "8a5ee2971ad49b7cea21ef2444b284b1a277bfa138a449409e384b0cc581f814",
-    "summary": "Shipping experts say the big winter storm across a wide swath of the country should be business as usual—if their safeguards hold.",
-    "ingested_utc": "2026-01-24T02:55:41Z"
-  },
-  {
-    "published_utc": "2026-01-24",
-    "retrieved_date": "2026-01-24",
-    "retrieved_utc": "2026-01-24T02:55:41Z",
-    "source": "WIRED_All",
-    "title": "Clearly Filtered Discount: Pitcher, Water Bottle, Under-Sink",
-    "url": "https://www.wired.com/story/clearly-filtered-sale-january-2026/",
-    "id_key": "917e1fb66cd03f8bb62203eeb62cc00873a14b233d8c2bfbeb5f100905a0262d",
-    "summary": "Clearly Filtered water pitchers, bottles, and under-sink filters are 10 to 19 percent off. I tested three filters to see how they performed.",
-    "ingested_utc": "2026-01-24T02:55:41Z"
   }
 ]
