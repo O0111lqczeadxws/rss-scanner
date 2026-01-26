@@ -2,6 +2,72 @@
   {
     "published_utc": "2026-01-26",
     "retrieved_date": "2026-01-26",
+    "retrieved_utc": "2026-01-26T21:02:24Z",
+    "source": "Nikkei_Asia_Top",
+    "title": "Vietnam basks in surge of Chinese travelers shunning group tours",
+    "url": "https://asia.nikkei.com/spotlight/asean-money/vietnam-basks-in-surge-of-chinese-travelers-shunning-group-tours",
+    "id_key": "afec5ae59b1378a68ce4c6b14bd834d34a1ae1c83ead99ed1b45d320dc935fcd",
+    "summary": "",
+    "ingested_utc": "2026-01-26T21:02:24Z"
+  },
+  {
+    "published_utc": "2026-01-26",
+    "retrieved_date": "2026-01-26",
+    "retrieved_utc": "2026-01-26T21:01:49Z",
+    "source": "FT_Markets",
+    "title": "US natural gas prices soar to highest level in three years after winter storm",
+    "url": "https://www.ft.com/content/0ba591dc-e86b-4521-8bc8-7b730bf629bf",
+    "id_key": "0571fe83d308a179c8a8d9611bfa22ae72ddf4e150183df98664b238bf1ba7a7",
+    "summary": "Jump expected to push up consumer bills as White House faces criticism that it has failed to deliver on affordability",
+    "ingested_utc": "2026-01-26T21:01:49Z"
+  },
+  {
+    "published_utc": "2026-01-26",
+    "retrieved_date": "2026-01-26",
+    "retrieved_utc": "2026-01-26T21:01:49Z",
+    "source": "FT_Markets",
+    "title": "Trading 212 sold crypto-linked securities without authorisation",
+    "url": "https://www.ft.com/content/aa086b23-f87c-41d9-a9a8-19758bad918c",
+    "id_key": "5763ad055209746b106e77a491ceb8ac2341bb980eb6994303f4b186b01adbe9",
+    "summary": "Investment platform did not have the correct permission to sell crypto ETNs for approximately three months",
+    "ingested_utc": "2026-01-26T21:01:49Z"
+  },
+  {
+    "published_utc": "2026-01-26",
+    "retrieved_date": "2026-01-26",
+    "retrieved_utc": "2026-01-26T21:01:48Z",
+    "source": "FT_Home",
+    "title": "FTSE Russell aims to ease path for overseas groups to join City’s blue-chip index",
+    "url": "https://www.ft.com/content/a90f88fc-cb0e-4f36-8990-5d6df2a364d3",
+    "id_key": "9bc4b9cf5e9844de43feb8eaef7f17a8a1edd3b7831b230055499e1975f9c159",
+    "summary": "Proposals would cut amount of shares required to trade in public hands to 10% for non-UK incorporated companies",
+    "ingested_utc": "2026-01-26T21:01:48Z"
+  },
+  {
+    "published_utc": "2026-01-26",
+    "retrieved_date": "2026-01-26",
+    "retrieved_utc": "2026-01-26T21:01:39Z",
+    "source": "NYTimes_Technology",
+    "title": "As Tech Chiefs Woo Trump, Silicon Valley Seethes Over Minneapolis Shooting",
+    "url": "https://www.nytimes.com/2026/01/26/technology/ice-minnesota-protests-tech.html",
+    "id_key": "520fe81c9848541839ec2760ae24a394b670d21d731b30e10ae54035d00a2f3c",
+    "summary": "Executives, investors and engineers are speaking out against the Trump administration after the killings of Alex Pretti and another protester in moves reminiscent of Silicon Valley a decade ago.",
+    "ingested_utc": "2026-01-26T21:01:39Z"
+  },
+  {
+    "published_utc": "2026-01-26",
+    "retrieved_date": "2026-01-26",
+    "retrieved_utc": "2026-01-26T20:59:53Z",
+    "source": "CryptoNews",
+    "title": "Senate Postpones Vital Crypto Market Structure Markup Due to Snow – New Date Confirmed",
+    "url": "https://cryptonews.com/news/senate-postpones-crypto-market-structure-markup/",
+    "id_key": "a06452042b037e49dad3008c956fc01443403162b84ad228e125a9147a11a20c",
+    "summary": "Senate Agriculture Committee has delayed its scheduled markup of the Digital Commodity Intermediaries Act after a major winter storm shut federal offices and disrupted travel adding to setbacks as the Banking Committee’s parallel CLARITY effort has stalled following Coinbase’s withdrawal of support. The post Senate Postpones Vital Crypto Market Structure Markup Due to Snow – New Date Confirmed appeared first on Cryptonews .",
+    "ingested_utc": "2026-01-26T20:59:53Z"
+  },
+  {
+    "published_utc": "2026-01-26",
+    "retrieved_date": "2026-01-26",
     "retrieved_utc": "2026-01-26T20:47:42Z",
     "source": "HackerNews_Top",
     "title": "ChatGPT Containers can now run bash, pip/npm install packages and download files",
@@ -10932,71 +10998,5 @@
     "id_key": "bf3aa72856f659e1915978fa01edc34873ae396ab2e01a5d58aaa576bbd7fcfa",
     "summary": "The ruling in federal court in Minnesota lands as Immigration and Customs Enforcement faces scrutiny over an internal memo claiming judge-signed warrants aren’t needed to enter homes without consent.",
     "ingested_utc": "2026-01-23T22:37:37Z"
-  },
-  {
-    "published_utc": "2026-01-23",
-    "retrieved_date": "2026-01-23",
-    "retrieved_utc": "2026-01-23T22:37:20Z",
-    "source": "FT_Home",
-    "title": "‘There’s no free lunch’: How Wall St learned to live with Trump’s barbs",
-    "url": "https://www.ft.com/content/0b06b987-66c6-45d7-983f-9b60368042e5",
-    "id_key": "c3f82e0766c3823919bf753a87318a30aae6f34d013b87401bf706e437f61d23",
-    "summary": "Banks endure presidential attacks as their share prices and profits soar under lenient policies",
-    "ingested_utc": "2026-01-23T22:37:20Z"
-  },
-  {
-    "published_utc": "2026-01-23",
-    "retrieved_date": "2026-01-23",
-    "retrieved_utc": "2026-01-23T22:37:01Z",
-    "source": "MarketWatch_Bulletins",
-    "title": "Why the dollar just had its worst week in 8 months despite Trump’s tariff pivot",
-    "url": "https://www.marketwatch.com/bulletins/redirect/go?g=cea6b01d-423e-4208-afa7-63d8987a6003&mod=mw_rss_bulletins",
-    "id_key": "486ab78cf1311d0c11379000a73926d4063c2fb58059f8522af2e30ef2fca885",
-    "summary": "",
-    "ingested_utc": "2026-01-23T22:37:01Z"
-  },
-  {
-    "published_utc": "2026-01-23",
-    "retrieved_date": "2026-01-23",
-    "retrieved_utc": "2026-01-23T22:35:23Z",
-    "source": "CryptoNews",
-    "title": "Binance Plans to Reintroduce Stock Trading Four Years After Removal",
-    "url": "https://cryptonews.com/news/binance-plans-to-reintroduce-stock-trading-four-years-after-removal/",
-    "id_key": "eeba49ce0b13f0987829e8daf25c02669609d3ba7babc144b13cfd2b5ff962e8",
-    "summary": "Binance has explored returning to stock trading after ending stock tokens in 2021, as Coinbase has started offering equities to some users and Bitpanda has set a Jan. 29 launch for a unified app. The NYSE has described 24/7 tokenized settlements, while Binance has filed for a MiCA license in Greece. The post Binance Plans to Reintroduce Stock Trading Four Years After Removal appeared first on Cryptonews .",
-    "ingested_utc": "2026-01-23T22:35:23Z"
-  },
-  {
-    "published_utc": "2026-01-23",
-    "retrieved_date": "2026-01-23",
-    "retrieved_utc": "2026-01-23T22:35:23Z",
-    "source": "CryptoNews",
-    "title": "China’s DeepSeek AI Predicts the Price of XRP, Cardano and Solana By the End of 2026",
-    "url": "https://cryptonews.com/news/chinas-deepseek-ai-predicts-the-price-of-xrp-cardano-and-solana-by-the-end-of-2026/",
-    "id_key": "d69c04effdc3eeba09fe2e16213e0c61bf10ddd5e37c89a654cc0c5b688c762f",
-    "summary": "DeepSeek AI Predicts XRP could reach $10 by end-2026, Cardano could reach $12 by early 2026, and Solana could reach $600 by 2027. The model has tied its targets to a longer bull market, clearer U.S. rules, and ETF launches, while noting that weaker macro conditions could pressure ADA. As 2026 nears. The post China’s DeepSeek AI Predicts the Price of XRP, Cardano and Solana By the End of 2026 appeared first on Cryptonews .",
-    "ingested_utc": "2026-01-23T22:35:23Z"
-  },
-  {
-    "published_utc": "2026-01-23",
-    "retrieved_date": "2026-01-23",
-    "retrieved_utc": "2026-01-23T22:14:21Z",
-    "source": "FinancialPost_Business",
-    "title": "Power & Infrastructure Split Corp. Increases Class A Share Distribution",
-    "url": "https://financialpost.com/globe-newswire/power-infrastructure-split-corp-increases-class-a-share-distribution",
-    "id_key": "ed904e6e1549b78b481538f83ebf9d3ca363c98f1f40b15947a5d0d26c94f317",
-    "summary": "TORONTO, Jan. 23, 2026 (GLOBE NEWSWIRE) — (TSX: PWI) Power & Infrastructure Split Corp. class A shares (the “Class A Shares”) have delivered a one-year return of 23.5% and a 13.8% per annum return since inception in May 2021(1). As a result of this strong performance, a positive outlook for the sectors that Power & Infrastructure […]",
-    "ingested_utc": "2026-01-23T22:14:21Z"
-  },
-  {
-    "published_utc": "2026-01-23",
-    "retrieved_date": "2026-01-23",
-    "retrieved_utc": "2026-01-23T22:14:21Z",
-    "source": "FinancialPost_Business",
-    "title": "NuVista and Ovintiv Announce NuVista Shareholder Approval and Receipt of Final Order for Transaction with Ovintiv and Preliminary Results of Elections by NuVista Shareholders Regarding Form of Consideration",
-    "url": "https://financialpost.com/globe-newswire/nuvista-and-ovintiv-announce-nuvista-shareholder-approval-and-receipt-of-final-order-for-transaction-with-ovintiv-and-preliminary-results-of-elections-by-nuvista-shareholders-regarding-form-of-conside",
-    "id_key": "55d26e9303b47a2f0ebf2ef7a382decd0bb3659bff91187196aa36ea0789cbe9",
-    "summary": "CALGARY, Alberta, Jan. 23, 2026 (GLOBE NEWSWIRE) — NuVista Energy Ltd. (TSX: NVA) (“NuVista”) and Ovintiv Inc. (NYSE, TSX: OVV) (“Ovintiv”) are pleased to announce that today at NuVista’s special meeting (the “Meeting”) of holders (“NuVista Shareholders”) of common shares of NuVista (“NuVista Shares”), NuVista Shareholders voted in favour of the previously announced plan of […]",
-    "ingested_utc": "2026-01-23T22:14:21Z"
   }
 ]
