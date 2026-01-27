@@ -1,6 +1,6 @@
 {
-  "started_utc": "2026-01-27T21:10:50Z",
-  "ended_utc": "2026-01-27T21:14:20Z",
+  "started_utc": "2026-01-27T21:31:55Z",
+  "ended_utc": "2026-01-27T21:35:25Z",
   "new_items_this_run": 6,
   "total_in_latest": 1000,
   "by_source": {
@@ -72,7 +72,7 @@
     "CNBC_Markets": 0,
     "TheVerge_All": 0,
     "TechCrunch_All": 0,
-    "ArsTechnica_All": 0,
+    "ArsTechnica_All": 1,
     "WIRED_All": 0,
     "Engadget_All": 0,
     "TheEconomist_Business": 0,
@@ -81,7 +81,7 @@
     "TheStreet_Top": 1,
     "AlJazeera_All": 0,
     "AlJazeera_Economy": 0,
-    "FinancialPost_Business": 4,
+    "FinancialPost_Business": 3,
     "CBC_Business": 0,
     "Nikkei_Asia_Top": 0,
     "WorldBank_News": 0,
@@ -335,19 +335,19 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 510,
+    "passed_keywords": 506,
     "passed_allowlist": 0,
-    "failed_all_filters": 514
+    "failed_all_filters": 516
   },
   "stats": {
     "feeds_total": 97,
     "feeds_error": 23,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 1555,
+    "entries_seen": 1553,
     "too_old": 531,
     "dup_title_url": 98,
-    "dup_id": 406
+    "dup_id": 402
   },
   "limits": {
     "skip_older_days": 10,
