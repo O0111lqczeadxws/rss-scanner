@@ -1,6 +1,6 @@
 {
-  "started_utc": "2026-01-27T08:54:56Z",
-  "ended_utc": "2026-01-27T08:58:16Z",
+  "started_utc": "2026-01-27T09:23:57Z",
+  "ended_utc": "2026-01-27T09:27:30Z",
   "new_items_this_run": 7,
   "total_in_latest": 1000,
   "by_source": {
@@ -22,8 +22,8 @@
     "CryptoSlate": 0,
     "CryptoBriefing": 0,
     "Protos": 0,
-    "CryptoNews": 2,
-    "CoinJournal": 1,
+    "CryptoNews": 1,
+    "CoinJournal": 0,
     "Unchained": 0,
     "Bankless": 0,
     "CoinGecko_Blog": 0,
@@ -79,15 +79,15 @@
     "TheEconomist_Finance": 0,
     "Investopedia_Latest": 0,
     "TheStreet_Top": 0,
-    "AlJazeera_All": 0,
+    "AlJazeera_All": 1,
     "AlJazeera_Economy": 0,
-    "FinancialPost_Business": 1,
+    "FinancialPost_Business": 3,
     "CBC_Business": 0,
     "Nikkei_Asia_Top": 0,
     "WorldBank_News": 0,
     "OECD_Newsroom": 0,
     "MIT_TechReview": 0,
-    "HackerNews_Top": 1
+    "HackerNews_Top": 0
   },
   "errors": [
     {
@@ -176,7 +176,7 @@
     },
     {
       "source": "NEAR_Blog",
-      "error": "<unknown>:2:2638: not well-formed (invalid token)"
+      "error": "<unknown>:2:3932: not well-formed (invalid token)"
     },
     {
       "source": "https://blog.dydx.exchange/feed",
@@ -335,7 +335,7 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 537,
+    "passed_keywords": 536,
     "passed_allowlist": 0,
     "failed_all_filters": 476
   },
@@ -344,9 +344,9 @@
     "feeds_error": 23,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 1561,
+    "entries_seen": 1560,
     "too_old": 548,
-    "dup_title_url": 99,
+    "dup_title_url": 98,
     "dup_id": 431
   },
   "limits": {
