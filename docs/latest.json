@@ -2,6 +2,39 @@
   {
     "published_utc": "2026-01-28",
     "retrieved_date": "2026-01-28",
+    "retrieved_utc": "2026-01-28T09:57:32Z",
+    "source": "Nikkei_Asia_Top",
+    "title": "Nikkei to launch new index tracking major Japanese bank stocks",
+    "url": "https://asia.nikkei.com/announcements/nikkei-to-launch-new-index-tracking-major-japanese-bank-stocks",
+    "id_key": "d7b860f1de810da55ba971f599d1e1b4bdbff22bc16dc0dfd3c45b8c7d060958",
+    "summary": "",
+    "ingested_utc": "2026-01-28T09:57:32Z"
+  },
+  {
+    "published_utc": "2026-01-28",
+    "retrieved_date": "2026-01-28",
+    "retrieved_utc": "2026-01-28T09:56:35Z",
+    "source": "MarketWatch_Bulletins",
+    "title": "ASML bookings nearly doubled consensus estimates in the fourth quarter",
+    "url": "https://www.marketwatch.com/bulletins/redirect/go?g=d2e71968-ec20-4a75-b594-8234a20981f3&mod=mw_rss_bulletins",
+    "id_key": "19a5612ffb5b92538c23679738c68ef1196145edce4541d846a729def9adc300",
+    "summary": "",
+    "ingested_utc": "2026-01-28T09:56:35Z"
+  },
+  {
+    "published_utc": "2026-01-28",
+    "retrieved_date": "2026-01-28",
+    "retrieved_utc": "2026-01-28T09:54:31Z",
+    "source": "Guardian_World",
+    "title": "Russia does not want peace with Europe, says Danish prime minister – Europe live",
+    "url": "https://www.theguardian.com/world/live/2026/jan/28/europe-defence-kallas-greenland-frederiksen-macron-ukraine-netherlands-latest-news-updates",
+    "id_key": "119eee99dc2e499e41ca7c7ea0c65fcfffb271e5d08fa226323f61b6c5238bde",
+    "summary": "Mette Frederiksen says ‘world order as we know it is over’ as she prepares for talks with Emmanuel Macron and Greenland’s PM in Paris Speaking with students at SciencesPo, Frederiksen has also warned that “Russia does not want peace with Europe,” as she urged Europe and the US to “stick together.” Commenting on recent tensions with the US over Greenland, she said that both sides shared concerns on Arctic security, and they “will try to find a way forward with US.” Continue reading...",
+    "ingested_utc": "2026-01-28T09:54:31Z"
+  },
+  {
+    "published_utc": "2026-01-28",
+    "retrieved_date": "2026-01-28",
     "retrieved_utc": "2026-01-28T09:29:25Z",
     "source": "FinancialPost_Business",
     "title": "Ooredoo Palestine and Qvantel Strengthen Partnership With Completion of Full-Stack Revenue Management Upgrade",
@@ -1428,6 +1461,50 @@
     "id_key": "02212dee38f889fb044b7dbce276846a50bff051f96cb6f94c7540248c843f40",
     "summary": "Cisco chief executive Chuck Robbins compares AI to the dotcom bubble of the early 2000s.",
     "ingested_utc": "2026-01-28T01:00:10Z"
+  },
+  {
+    "published_utc": "2026-01-27",
+    "retrieved_date": "2026-01-28",
+    "retrieved_utc": "2026-01-28T09:54:50Z",
+    "source": "CryptoSlate",
+    "title": "Crypto whales go after gold as it hits a rare extreme last seen over a decade ago",
+    "url": "https://cryptoslate.com/gold-demand-breaks-into-the-crypto-whale-market-as-it-hits-a-rare-extreme-last-seen-over-a-decade-ago/",
+    "id_key": "93bcc3c87434f0b38c6fd54200299755a619659f3fea93fdbbc0e312a1c245a1",
+    "summary": "Crypto whales are reaching for gold as Bitcoin stalls, but the trade may be less of a verdict on crypto than a hedge for a specific macro window. On Jan. 27, blockchain sleuth Lookonchain flagged three addresses that collectively withdrew about $14.33 million in tokenized gold from centralized exchanges, including Bybit, Gate, and MEXC. The […] The post Crypto whales go after gold as it hits a rare extreme last seen over a decade ago appeared first on CryptoSlate .",
+    "ingested_utc": "2026-01-28T09:54:50Z"
+  },
+  {
+    "published_utc": "2026-01-27",
+    "retrieved_date": "2026-01-28",
+    "retrieved_utc": "2026-01-28T09:54:50Z",
+    "source": "CryptoSlate",
+    "title": "Bitcoin bull run can be saved if we remove these eight days and the dollar continues to fall",
+    "url": "https://cryptoslate.com/take-away-the-violent-weekends-and-bitcoins-bull-run-is-still-alive-as-the-dollar-continues-to-fall/",
+    "id_key": "a9e42e581ca46efcb0227bae917796ba37d627551b98d38a36c6644860a6c9cb",
+    "summary": "Bitcoin’s 2026 problem is the weekend I keep coming back to this line because it feels brutally true in the way only markets can be true. The only thing worse than buying Bitcoin this year was not buying Bitcoin. If you held dollars, you got quietly taxed. The dollar has been sliding, and the mood […] The post Bitcoin bull run can be saved if we remove these eight days and the dollar continues to fall appeared first on CryptoSlate .",
+    "ingested_utc": "2026-01-28T09:54:50Z"
+  },
+  {
+    "published_utc": "2026-01-27",
+    "retrieved_date": "2026-01-28",
+    "retrieved_utc": "2026-01-28T09:54:50Z",
+    "source": "CryptoSlate",
+    "title": "Is your Ethereum at risk? Vitalik Buterin admits his biggest design mistake since 2017",
+    "url": "https://cryptoslate.com/vitalik-buterin-admits-his-biggest-design-mistake-since-2017-so-is-your-ethereum-at-risk/",
+    "id_key": "5053cbed044913afe7023dbe379ca60da7e183e0bfa333a19c9b32c4c9f91359",
+    "summary": "Vitalik Buterin said he no longer agrees with his 2017 tweet that downplayed the need for users to personally verify Ethereum end-to-end. This week, he argued the network should treat self-hosted verification as a non-negotiable escape hatch as its architecture gets lighter and more modular. Buterin’s original position grew out of a design debate over […] The post Is your Ethereum at risk? Vitalik Buterin admits his biggest design mistake since 2017 appeared first on CryptoSlate .",
+    "ingested_utc": "2026-01-28T09:54:50Z"
+  },
+  {
+    "published_utc": "2026-01-27",
+    "retrieved_date": "2026-01-28",
+    "retrieved_utc": "2026-01-28T09:54:50Z",
+    "source": "CryptoSlate",
+    "title": "Why Bitcoin’s $100k breakout silently crippled its adoption curve as on-chain metrics crater",
+    "url": "https://cryptoslate.com/bitcoin-breaking-above-100k-silently-broke-the-adoption-curve-we-relied-upon-as-usage-cratered/",
+    "id_key": "308029ffdfc89fa38bdbf5c6be57bfa8452e20941562467d98ecf8f38962566c",
+    "summary": "Bitcoin Is Being Bought, Not Used For most of Bitcoin’s history, price and usage told broadly the same story. When price moved higher, more people showed up. More wallets became active. More transactions hit the chain. The relationship was never perfect, but it was stable enough to treat price as a rough signal for adoption. […] The post Why Bitcoin’s $100k breakout silently crippled its adoption curve as on-chain metrics crater appeared first on CryptoSlate .",
+    "ingested_utc": "2026-01-28T09:54:50Z"
   },
   {
     "published_utc": "2026-01-27",
@@ -10921,82 +10998,5 @@
     "id_key": "e0347bf91566eb6b4b9e969ecc8df19a56df88233fa1bfaa001fc37e716f0d17",
     "summary": "Decentralized finance often feels like a world built for developers rather than everyday investors. DeFi Earn removes that barrier. The post Earn up to 8% APY: Get DeFi-like rewards with a simplified experience appeared first on Kraken Blog .",
     "ingested_utc": "2026-01-26T15:21:58Z"
-  },
-  {
-    "published_utc": "2026-01-26",
-    "retrieved_date": "2026-01-26",
-    "retrieved_utc": "2026-01-26T15:21:35Z",
-    "source": "Lido_Blog",
-    "title": "Lido V3 & Obol: Multi-Operator Distributed Validators on Lido stVaults",
-    "url": "https://blog.lido.fi/lido-v3-obol-multi-operator-distributed-validators-on-lido-stvaults/",
-    "id_key": "f13442550b88755960d78f689837ec8c1676e75419e94f38997a251465e4d6d5",
-    "summary": "Obol is launching the Ethereum Client Team Vault: A multi-operator, DVT-powered stVault built on Lido V3. Here's everything you need to know.",
-    "ingested_utc": "2026-01-26T15:21:35Z"
-  },
-  {
-    "published_utc": "2026-01-26",
-    "retrieved_date": "2026-01-26",
-    "retrieved_utc": "2026-01-26T15:21:16Z",
-    "source": "CoinJournal",
-    "title": "River price defies market downturn, explodes 40% to new ATH",
-    "url": "https://coinjournal.net/news/river-price-defies-market-downturn-explodes-40-to-new-ath/",
-    "id_key": "08f445d490a5beebdb6e73671a8454b93ac984a2eaf9059d01108b4717a2db71",
-    "summary": "River price rose sharply as bulls defied the broader market downturn. The token exploded more than 40% in 24 hours to hit a new all-time high above $87. RIVER recently received backing from Justin Sun and Arthur Hayes. Several altcoins are deep in the red amid a broader cryptocurrency market downturn that has pushed Bitcoin […] The post River price defies market downturn, explodes 40% to new ATH appeared first on CoinJournal .",
-    "ingested_utc": "2026-01-26T15:21:16Z"
-  },
-  {
-    "published_utc": "2026-01-26",
-    "retrieved_date": "2026-01-26",
-    "retrieved_utc": "2026-01-26T15:20:52Z",
-    "source": "Guardian_World",
-    "title": "UK joins European offshore windfarm plan to create world’s largest ‘clean energy reservoir’",
-    "url": "https://www.theguardian.com/environment/2026/jan/26/uk-among-10-countries-to-build-100gw-wind-power-grid-in-north-sea",
-    "id_key": "1c9f57397bee75c3fad9c7a306ce8180c211f0c124625087846d1c844c289109",
-    "summary": "Britain among 10 countries to build 100GW grid in North Sea linking countries through subsea cables The German chancellor, Friedrich Merz, has said he wants the North Sea to become the “largest reservoir of clean energy worldwide”, as he announced plans to accelerate efforts to link up offshore wind power projects with Europe. The UK and nine other European countries have agreed to accelerate the rollout of offshore windfarms in the 2030s and build a power grid in the North Sea, in a landmark pact to turn the ageing oil basin into a “clean energy reservoir”. Continue reading...",
-    "ingested_utc": "2026-01-26T15:20:52Z"
-  },
-  {
-    "published_utc": "2026-01-26",
-    "retrieved_date": "2026-01-26",
-    "retrieved_utc": "2026-01-26T15:20:52Z",
-    "source": "Guardian_World",
-    "title": "Saudi Arabia ordered to pay £3m to London dissident over Pegasus spying",
-    "url": "https://www.theguardian.com/world/2026/jan/26/saudi-arabia-ordered-pay-london-dissident-pegasus-spying-ghanem-al-masarir",
-    "id_key": "3894075dc85c03ced52b480c741eb2c543fdc030f0f66844f424a3bc3d0da5f9",
-    "summary": "High court finds kingdom responsible for hacking phones of Ghanem al-Masarir and for physical attack on him A judge has ordered Saudi Arabia to pay more than £3m in damages to a London-based dissident whose phones were targeted with Pegasus spyware . In a judgment handed down on Monday , Judge Pushpinder Saini ruled that Ghanem al-Masarir was entitled to compensation for psychiatric harm sustained after discovering that his iPhones had been hacked, as well as a physical attack on him outside Harrods in central London. Continue reading...",
-    "ingested_utc": "2026-01-26T15:20:52Z"
-  },
-  {
-    "published_utc": "2026-01-26",
-    "retrieved_date": "2026-01-26",
-    "retrieved_utc": "2026-01-26T14:56:50Z",
-    "source": "MIT_TechReview",
-    "title": "The power of sound in a virtual world",
-    "url": "https://www.technologyreview.com/2026/01/26/1124655/the-power-of-sound-in-a-virtual-world/",
-    "id_key": "0b6f161deaa922bf30d3b8bbbb7359b2ad465d21435e0e2fcbc50dbd918baec8",
-    "summary": "In an era where business, education, and even casual conversations occur via screens, sound has become a differentiating factor. We obsess over lighting, camera angles, and virtual backgrounds, but how we sound can be just as critical to credibility, trust, and connection. That’s the insight driving Erik Vaveris, vice president of product management and chief…",
-    "ingested_utc": "2026-01-26T14:56:50Z"
-  },
-  {
-    "published_utc": "2026-01-26",
-    "retrieved_date": "2026-01-26",
-    "retrieved_utc": "2026-01-26T14:56:42Z",
-    "source": "FinancialPost_Business",
-    "title": "Sprott Physical Uranium Trust Updates Its “At-the-Market” Equity Program",
-    "url": "https://financialpost.com/globe-newswire/sprott-physical-uranium-trust-updates-its-at-the-market-equity-program",
-    "id_key": "b94588637f769ae738337ff2d9fefbc89bbb6e55b50ee0b456e7ca23fd3c7016",
-    "summary": "TORONTO, Jan. 26, 2026 (GLOBE NEWSWIRE) — Sprott Asset Management LP (“Sprott Asset Management”), a subsidiary of Sprott Inc., on behalf of the Sprott Physical Uranium Trust (TSX: U.UN) (TSX: U.U) (the “Trust”), a non-redeemable investment fund created to invest and hold substantially all of its assets in physical uranium, today announced that it has […]",
-    "ingested_utc": "2026-01-26T14:56:42Z"
-  },
-  {
-    "published_utc": "2026-01-26",
-    "retrieved_date": "2026-01-26",
-    "retrieved_utc": "2026-01-26T14:56:42Z",
-    "source": "FinancialPost_Business",
-    "title": "Axi Sponsors Futsal Tournament to Strengthen IB Community Engagement and Sportsmanship",
-    "url": "https://financialpost.com/globe-newswire/axi-sponsors-futsal-tournament-to-strengthen-ib-community-engagement-and-sportsmanship",
-    "id_key": "f514d3466036fdc0e454c987075cefc5bdefe2c8f6e31cef894282b60631cec5",
-    "summary": "SYDNEY, Jan. 26, 2026 (GLOBE NEWSWIRE) — Axi recently brought the community together for an action-packed Futsal tournament on the 10th of January 2026, delivering a full day of high-energy football, entertainment and shared celebration. The one-day event saw 8 teams go head-to-head across a series of competitive matches, creating an electric atmosphere both on […]",
-    "ingested_utc": "2026-01-26T14:56:42Z"
   }
 ]
