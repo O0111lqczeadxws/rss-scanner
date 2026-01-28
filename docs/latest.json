@@ -2,6 +2,17 @@
   {
     "published_utc": "2026-01-28",
     "retrieved_date": "2026-01-28",
+    "retrieved_utc": "2026-01-28T07:59:48Z",
+    "source": "FinancialPost_Business",
+    "title": "SES Extends EGNOS GEO-1 Satellite Service to Power Precise Navigation Across Europe",
+    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/ses-extends-egnos-geo-1-satellite-service-to-power-precise-navigation-across-europe",
+    "id_key": "efb9e1ecb03da36909b023b7024651025f981b85dc3430ce452d81694a7965d9",
+    "summary": "The agreement ensures Europe’s satellite-based augmentation continues enhancing navigation for aviation and other critical users and lowering emissions LUXEMBOURG & BRUSSELS — SES, a leading space solutions company, and the European Union Agency for the Space Programme (EUSPA) today announced an extension of the European Geostationary Navigation Overlay Service (EGNOS) GEO-1 satellite service agreement through […]",
+    "ingested_utc": "2026-01-28T07:59:48Z"
+  },
+  {
+    "published_utc": "2026-01-28",
+    "retrieved_date": "2026-01-28",
     "retrieved_utc": "2026-01-28T07:48:21Z",
     "source": "FT_Markets",
     "title": "Indonesian shares plunge after MSCI warns on market’s investability",
@@ -10987,16 +10998,5 @@
     "id_key": "00c507a5a631fc75e24faff34cf1f2dd511577ef54841a0a0ea47785876820e2",
     "summary": "Bitcoin Magazine Strategy ($MSTR) Sells $257 Million in Stock to Buy 2,932 Bitcoin Strategy announced Monday that it acquired an additional 2,932 bitcoin for approximately $264 million. This post Strategy ($MSTR) Sells $257 Million in Stock to Buy 2,932 Bitcoin first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
     "ingested_utc": "2026-01-26T14:26:30Z"
-  },
-  {
-    "published_utc": "2026-01-26",
-    "retrieved_date": "2026-01-26",
-    "retrieved_utc": "2026-01-26T14:26:13Z",
-    "source": "Guardian_Business",
-    "title": "Gold soars past $5,100 an ounce, silver hits new record on tariff and US shutdown fears – business live",
-    "url": "https://www.theguardian.com/business/live/2026/jan/26/gold-silver-record-tariff-us-shutdown-ryanair-fares-fears-business-live--",
-    "id_key": "be1075244f68dcabf9c70aff4eef42617d84c4e6b5d5e74a836906432d907f3f",
-    "summary": "Both precious metals hit all-time highs as investors pile into safe-haven assets amid Donald Trump’s threat of 100% tariffs on Canada and shutdown fears Bank of Scotland has been fined £160,000 by a UK Treasury body for processing payments that breached Russia financial sanctions rules. The bank, which is part of Lloyds Banking Group, processed 24 payments to or from a personal current account held by a British citizen on the government’s list of sanctioned individuals, the Office of Financial Sanctions Implementation (OFSI) found. Continue reading...",
-    "ingested_utc": "2026-01-26T14:26:13Z"
   }
 ]
