@@ -1,6 +1,6 @@
 {
-  "started_utc": "2026-01-29T04:57:30Z",
-  "ended_utc": "2026-01-29T05:00:48Z",
+  "started_utc": "2026-01-29T05:39:07Z",
+  "ended_utc": "2026-01-29T05:42:36Z",
   "new_items_this_run": 15,
   "total_in_latest": 1000,
   "by_source": {
@@ -8,7 +8,7 @@
     "Reuters_World": 0,
     "Reuters_Markets": 0,
     "BBC_World": 0,
-    "BBC_Business": 0,
+    "BBC_Business": 1,
     "BBC_Technology": 0,
     "Guardian_Business": 0,
     "Guardian_World": 3,
@@ -57,14 +57,14 @@
     "MarketWatch_Bulletins": 0,
     "MarketWatch_PersonalFinance": 0,
     "NYTimes_Business": 1,
-    "NYTimes_World": 0,
+    "NYTimes_World": 2,
     "NYTimes_Economy": 0,
     "NYTimes_Technology": 0,
     "CNN_Top": 0,
     "NPR_Top": 0,
     "NPR_Business": 0,
     "NPR_Economy": 0,
-    "NPR_World": 0,
+    "NPR_World": 1,
     "NPR_Technology": 0,
     "FT_Home": 0,
     "FT_Markets": 2,
@@ -76,14 +76,14 @@
     "WIRED_All": 0,
     "Engadget_All": 0,
     "TheEconomist_Business": 0,
-    "TheEconomist_Finance": 1,
+    "TheEconomist_Finance": 0,
     "Investopedia_Latest": 0,
     "TheStreet_Top": 0,
-    "AlJazeera_All": 2,
+    "AlJazeera_All": 1,
     "AlJazeera_Economy": 0,
     "FinancialPost_Business": 2,
     "CBC_Business": 0,
-    "Nikkei_Asia_Top": 2,
+    "Nikkei_Asia_Top": 0,
     "WorldBank_News": 0,
     "OECD_Newsroom": 0,
     "MIT_TechReview": 0,
@@ -131,6 +131,14 @@
       "error": "fatal parse failure"
     },
     {
+      "source": "https://unchainedcrypto.com/feed/",
+      "error": "fetch error: HTTP 500"
+    },
+    {
+      "source": "Unchained",
+      "error": "fatal parse failure"
+    },
+    {
       "source": "https://www.bankless.com/rss",
       "error": "fetch error: HTTP 404"
     },
@@ -173,6 +181,14 @@
     {
       "source": "Polygon_Blog",
       "error": "<unknown>:2:2292: not well-formed (invalid token)"
+    },
+    {
+      "source": "https://medium.com/feed/avalancheavax",
+      "error": "fetch error: HTTP 429"
+    },
+    {
+      "source": "Avalanche_Blog",
+      "error": "fatal parse failure"
     },
     {
       "source": "NEAR_Blog",
@@ -335,19 +351,19 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 536,
-    "passed_allowlist": 1,
-    "failed_all_filters": 519
+    "passed_keywords": 528,
+    "passed_allowlist": 0,
+    "failed_all_filters": 518
   },
   "stats": {
     "feeds_total": 97,
-    "feeds_error": 23,
+    "feeds_error": 25,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 1561,
-    "too_old": 505,
-    "dup_title_url": 108,
-    "dup_id": 414
+    "entries_seen": 1541,
+    "too_old": 495,
+    "dup_title_url": 109,
+    "dup_id": 404
   },
   "limits": {
     "skip_older_days": 10,
