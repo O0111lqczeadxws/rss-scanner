@@ -1,13 +1,13 @@
 {
-  "started_utc": "2026-01-30T10:38:30Z",
-  "ended_utc": "2026-01-30T10:41:51Z",
-  "new_items_this_run": 16,
+  "started_utc": "2026-01-30T11:06:27Z",
+  "ended_utc": "2026-01-30T11:09:47Z",
+  "new_items_this_run": 7,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
     "Reuters_World": 0,
     "Reuters_Markets": 0,
-    "BBC_World": 0,
+    "BBC_World": 1,
     "BBC_Business": 0,
     "BBC_Technology": 0,
     "Guardian_Business": 0,
@@ -19,10 +19,10 @@
     "MarketWatch_MarketPulse": 0,
     "Blockworks": 0,
     "BitcoinMagazine": 0,
-    "CryptoSlate": 2,
+    "CryptoSlate": 0,
     "CryptoBriefing": 0,
     "Protos": 0,
-    "CryptoNews": 2,
+    "CryptoNews": 0,
     "CoinJournal": 0,
     "Unchained": 0,
     "Bankless": 0,
@@ -56,12 +56,12 @@
     "MarketWatch_RealTime": 0,
     "MarketWatch_Bulletins": 0,
     "MarketWatch_PersonalFinance": 0,
-    "NYTimes_Business": 1,
-    "NYTimes_World": 2,
-    "NYTimes_Economy": 1,
-    "NYTimes_Technology": 1,
+    "NYTimes_Business": 0,
+    "NYTimes_World": 1,
+    "NYTimes_Economy": 0,
+    "NYTimes_Technology": 0,
     "CNN_Top": 0,
-    "NPR_Top": 5,
+    "NPR_Top": 0,
     "NPR_Business": 0,
     "NPR_Economy": 0,
     "NPR_World": 0,
@@ -81,7 +81,7 @@
     "TheStreet_Top": 0,
     "AlJazeera_All": 0,
     "AlJazeera_Economy": 0,
-    "FinancialPost_Business": 0,
+    "FinancialPost_Business": 3,
     "CBC_Business": 0,
     "Nikkei_Asia_Top": 0,
     "WorldBank_News": 0,
@@ -335,19 +335,19 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 549,
+    "passed_keywords": 554,
     "passed_allowlist": 0,
-    "failed_all_filters": 497
+    "failed_all_filters": 494
   },
   "stats": {
     "feeds_total": 97,
     "feeds_error": 23,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 1541,
+    "entries_seen": 1543,
     "too_old": 495,
-    "dup_title_url": 115,
-    "dup_id": 418
+    "dup_title_url": 117,
+    "dup_id": 430
   },
   "limits": {
     "skip_older_days": 10,
@@ -360,6 +360,6 @@
   },
   "processed": {
     "file": "data/processed/2026-01-30.jsonl",
-    "appended_new": 16
+    "appended_new": 7
   }
 }
