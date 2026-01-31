@@ -2,6 +2,39 @@
   {
     "published_utc": "2026-01-31",
     "retrieved_date": "2026-01-31",
+    "retrieved_utc": "2026-01-31T16:51:43Z",
+    "source": "HackerNews_Top",
+    "title": "The Film Students Who Can No Longer Sit Through Films",
+    "url": "https://www.theatlantic.com/ideas/2026/01/college-students-movies-attention-span/685812/",
+    "id_key": "0c2ea9cc52a258a0f38e101769feef7c036f53489157ac7f474e95e1a3f465ed",
+    "summary": "Comments",
+    "ingested_utc": "2026-01-31T16:51:43Z"
+  },
+  {
+    "published_utc": "2026-01-31",
+    "retrieved_date": "2026-01-31",
+    "retrieved_utc": "2026-01-31T16:51:27Z",
+    "source": "AlJazeera_All",
+    "title": "Bill Gates, Elon Musk, Howard Lutnick face new scrutiny over Epstein ties",
+    "url": "https://www.aljazeera.com/news/2026/1/31/bill-gates-elon-musk-howard-lutnick-face-new-scrutiny-over-epstein-ties?traffic_source=rss",
+    "id_key": "c92428d43462edf869b4abccc4fc8cf3a06c9c6178cca847c4acb44960fb06cf",
+    "summary": "New files suggest the men had more extensive contact with Epstein than previously known.",
+    "ingested_utc": "2026-01-31T16:51:27Z"
+  },
+  {
+    "published_utc": "2026-01-31",
+    "retrieved_date": "2026-01-31",
+    "retrieved_utc": "2026-01-31T16:48:38Z",
+    "source": "BBC_World",
+    "title": "Musk's SpaceX applies to launch 1m satellites into orbit",
+    "url": "https://www.bbc.com/news/articles/cyv5l24mrjmo?at_medium=RSS&at_campaign=rss",
+    "id_key": "276bb55ed9b4876c906a254b427cdafec40d20f5fa6c97afa24e054e0423118d",
+    "summary": "The firm wants to create a network of \"orbital data centres\" to power artificial intelligence.",
+    "ingested_utc": "2026-01-31T16:48:38Z"
+  },
+  {
+    "published_utc": "2026-01-31",
+    "retrieved_date": "2026-01-31",
     "retrieved_utc": "2026-01-31T16:19:11Z",
     "source": "AlJazeera_All",
     "title": "Pakistan beat Australia to seal cricket series in T20 World Cup warm-up",
@@ -1857,6 +1890,17 @@
     "id_key": "3d1d5d78d0cad9033fa0bfff331ec76fab062ea0aa172fc61421ccffcfcc0bbf",
     "summary": "",
     "ingested_utc": "2026-01-31T00:01:55Z"
+  },
+  {
+    "published_utc": "2026-01-30",
+    "retrieved_date": "2026-01-31",
+    "retrieved_utc": "2026-01-31T16:48:39Z",
+    "source": "BBC_Business",
+    "title": "West Midlands Railway joins publicly owned network",
+    "url": "https://www.bbc.com/news/articles/c5y3z9yjpx9o?at_medium=RSS&at_campaign=rss",
+    "id_key": "a30fda8b676d51868b8e7c8e9b0ba7b9c0989e059448f3955c58de8da1164de6",
+    "summary": "The transport secretary says thousands of rail passengers will be using public services from Sunday.",
+    "ingested_utc": "2026-01-31T16:48:39Z"
   },
   {
     "published_utc": "2026-01-30",
@@ -10954,49 +10998,5 @@
     "id_key": "de90b8ba3d44807a4255aeb52adbad6dc9b7d54966d1a86cba2694e962a7f127",
     "summary": "Prices increase 9% this week as Donald Trump hails ‘beautiful armada’ targeting regime",
     "ingested_utc": "2026-01-29T15:00:19Z"
-  },
-  {
-    "published_utc": "2026-01-29",
-    "retrieved_date": "2026-01-29",
-    "retrieved_utc": "2026-01-29T15:00:19Z",
-    "source": "FT_Markets",
-    "title": "Don’t bet on dollar dethronement",
-    "url": "https://www.ft.com/content/a3262db1-73b7-4be6-9d02-d67dee0e9830",
-    "id_key": "542d00a3c2398fd40611cd337983be6402e4fe56415ae1184b43439965ce51e9",
-    "summary": "If you want to see how entrenched the US currency is in the global system, look at the foreign exchange swap market",
-    "ingested_utc": "2026-01-29T15:00:19Z"
-  },
-  {
-    "published_utc": "2026-01-29",
-    "retrieved_date": "2026-01-29",
-    "retrieved_utc": "2026-01-29T15:00:17Z",
-    "source": "FT_Home",
-    "title": "US plans ICE drawdown in Minnesota after outcry over immigration raids",
-    "url": "https://www.ft.com/content/9b88c0bf-b86d-44ec-ac9a-e3a80af7f6ee",
-    "id_key": "fbd913617a5df15c8ca08fe01212df66fe07c76a68509093934b60e7cd3e34d6",
-    "summary": "Border tsar Tom Homan says move would be contingent on reaching deal with local authorities over access to prisons",
-    "ingested_utc": "2026-01-29T15:00:17Z"
-  },
-  {
-    "published_utc": "2026-01-29",
-    "retrieved_date": "2026-01-29",
-    "retrieved_utc": "2026-01-29T15:00:17Z",
-    "source": "FT_Home",
-    "title": "Homicides in England and Wales at lowest level for nearly 50 years",
-    "url": "https://www.ft.com/content/a7cb5e02-ed29-4c7c-b6d1-b0129d294e6c",
-    "id_key": "e7c0159d25a448e2656610a2d80813396373af92a872b226ac57fa464c050c9d",
-    "summary": "Police record rise in shoplifting and big jump in robberies from business properties",
-    "ingested_utc": "2026-01-29T15:00:17Z"
-  },
-  {
-    "published_utc": "2026-01-29",
-    "retrieved_date": "2026-01-29",
-    "retrieved_utc": "2026-01-29T15:00:06Z",
-    "source": "NYTimes_Business",
-    "title": "The Fed Is Waiting and Watching an Uncertain Economy",
-    "url": "https://www.nytimes.com/2026/01/28/business/economy/economy-hiring-inflation-federal-reserve.html",
-    "id_key": "f1bf1e067fa9eb4b1139042bcbd7c29fd26be00b6ffb7376cb09eb182da3f782",
-    "summary": "Inflation is elevated but steady and the job market is holding up, leading economists to predict that the Federal Reserve will keep interest rates at current levels.",
-    "ingested_utc": "2026-01-29T15:00:06Z"
   }
 ]
