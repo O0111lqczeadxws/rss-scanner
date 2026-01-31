@@ -2,6 +2,28 @@
   {
     "published_utc": "2026-01-31",
     "retrieved_date": "2026-01-31",
+    "retrieved_utc": "2026-01-31T05:00:30Z",
+    "source": "Nikkei_Asia_Top",
+    "title": "Iran turmoil could eliminate Kashmiris' already limited study options",
+    "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-turmoil-could-eliminate-kashmiris-already-limited-study-options",
+    "id_key": "588058761835e51f46788db71eb753cdb0d15658fe5b8576ca6b16c5f59f71df",
+    "summary": "",
+    "ingested_utc": "2026-01-31T05:00:30Z"
+  },
+  {
+    "published_utc": "2026-01-31",
+    "retrieved_date": "2026-01-31",
+    "retrieved_utc": "2026-01-31T04:57:38Z",
+    "source": "Guardian_World",
+    "title": "Two men in their 20s found dead at Sydney property",
+    "url": "https://www.theguardian.com/australia-news/2026/jan/31/two-men-in-their-20s-found-dead-at-sydney-property",
+    "id_key": "41a724e54b615afaff78ef456cc8bf7edb7269483acca4d0831f13fccc94e726",
+    "summary": "Men – both aged 28 – found at a home in Glenorie on Saturday, New South Wales police say Get our breaking news email , free app or daily news podcast Two 28-year-old men have been found dead at a property in Sydney’s north-west in an incident police are treating as not suspicious. In a statement, New South Wales police said emergency services were called at about 8.40am on Saturday to a home on Harrisons Lane, Glenorie, 40km north-west of the Sydney CBD, following reports of a concern for welfare. Continue reading...",
+    "ingested_utc": "2026-01-31T04:57:38Z"
+  },
+  {
+    "published_utc": "2026-01-31",
+    "retrieved_date": "2026-01-31",
     "retrieved_utc": "2026-01-31T03:57:21Z",
     "source": "HackerNews_Top",
     "title": "The $100B megadeal between OpenAI and Nvidia is on ice",
@@ -10976,27 +10998,5 @@
     "id_key": "ffd866e5e7afc6f31a3c028e84ebc1de920e0fd89c97f3a352cf93e030d38184",
     "summary": "Investors suddenly love guns and ammo",
     "ingested_utc": "2026-01-29T10:37:58Z"
-  },
-  {
-    "published_utc": "2026-01-29",
-    "retrieved_date": "2026-01-29",
-    "retrieved_utc": "2026-01-29T10:37:54Z",
-    "source": "NPR_Economy",
-    "title": "Federal Reserve votes to hold rates steady despite pressure from Trump",
-    "url": "https://www.npr.org/2026/01/29/nx-s1-5691573/federal-reserve-votes-to-hold-rates-steady-despite-pressure-from-trump",
-    "id_key": "bd870ccbb5199edf38f3e0bdb2b4ea55c1c6881d0eca1719493b61b9de9f14eb",
-    "summary": "President Trump has been pressing the Federal Reserve to cut interest rates more aggressively, but the central bank voted to hold rates steady for now, as it tries to bring down inflation.",
-    "ingested_utc": "2026-01-29T10:37:54Z"
-  },
-  {
-    "published_utc": "2026-01-29",
-    "retrieved_date": "2026-01-29",
-    "retrieved_utc": "2026-01-29T10:37:53Z",
-    "source": "NPR_Top",
-    "title": "Senegal and Morocco fined and players banned after African Cup final chaos",
-    "url": "https://www.npr.org/2026/01/29/g-s1-107750/senegal-morocco-fined-african-cup-final-chaos",
-    "id_key": "bc2ef2662616b9041e8fda9735a0289477b7ac9d3ea0d6251af8ebcbfb104272",
-    "summary": "Africa's soccer body issued fines worth more than $1 million and banned Senegal's coach and Senegalese and Morocco players Wednesday following a shambolic African Cup soccer final this month.",
-    "ingested_utc": "2026-01-29T10:37:53Z"
   }
 ]
