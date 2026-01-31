@@ -2,6 +2,39 @@
   {
     "published_utc": "2026-01-31",
     "retrieved_date": "2026-01-31",
+    "retrieved_utc": "2026-01-31T17:19:38Z",
+    "source": "HackerNews_Top",
+    "title": "Apple Platform Security (Jan 2026) [pdf]",
+    "url": "https://help.apple.com/pdf/security/en_US/apple-platform-security-guide.pdf",
+    "id_key": "93dd8319d11dc660aab8108ae3325e7565ee24f0a1a21268f8b40359611fce13",
+    "summary": "Comments",
+    "ingested_utc": "2026-01-31T17:19:38Z"
+  },
+  {
+    "published_utc": "2026-01-31",
+    "retrieved_date": "2026-01-31",
+    "retrieved_utc": "2026-01-31T17:19:29Z",
+    "source": "FinancialPost_Business",
+    "title": "SpaceX Seeks FCC Nod to Build Data Center Constellation in Space",
+    "url": "https://financialpost.com/pmn/business-pmn/spacex-seeks-fcc-nod-to-build-data-center-constellation-in-space",
+    "id_key": "1d133b2491167e4e4dcdde6484b6f211d3d492cd7687cd3965c42186d83efaee",
+    "summary": "SpaceX is requesting permission to launch as many as 1 million satellites into the Earth’s orbit in order to pull off Elon Musk’s latest grand vision of putting data centers in space to do complex computing for artificial intelligence.",
+    "ingested_utc": "2026-01-31T17:19:29Z"
+  },
+  {
+    "published_utc": "2026-01-31",
+    "retrieved_date": "2026-01-31",
+    "retrieved_utc": "2026-01-31T17:18:43Z",
+    "source": "NYTimes_World",
+    "title": "Israel Launches Attack in Gaza",
+    "url": "https://www.nytimes.com/2026/01/31/world/middleeast/israel-strikes-gaza-rafah-reopening.html",
+    "id_key": "3240e4964bd6ac607f9aa7480fcb63eb3fbba9f69c644a1a72003615fe11ce13",
+    "summary": "A local health official said at least 26 people had been killed in the attacks, which the Israeli military said had targeted Hamas commanders.",
+    "ingested_utc": "2026-01-31T17:18:43Z"
+  },
+  {
+    "published_utc": "2026-01-31",
+    "retrieved_date": "2026-01-31",
     "retrieved_utc": "2026-01-31T16:51:43Z",
     "source": "HackerNews_Top",
     "title": "The Film Students Who Can No Longer Sit Through Films",
@@ -10965,38 +10998,5 @@
     "id_key": "e2ac2d5a9130e59efd9a765b77bc57d2601bebff6dd8a27228bf7c7b26d45c36",
     "summary": "Energy storage products like the Megapack, Megablock, and Powerwall drove",
     "ingested_utc": "2026-01-29T15:00:32Z"
-  },
-  {
-    "published_utc": "2026-01-29",
-    "retrieved_date": "2026-01-29",
-    "retrieved_utc": "2026-01-29T15:00:32Z",
-    "source": "TechCrunch_All",
-    "title": "Apple’s new iPhone and iPad security feature limits cell networks from collecting precise location data",
-    "url": "https://techcrunch.com/2026/01/29/apples-new-iphone-and-ipad-security-feature-limits-cell-networks-from-collecting-precise-location-data/",
-    "id_key": "fb4516982f91f06515f98f6fb60f31808a8a493bda341fcd0754c6f7545601a7",
-    "summary": "The new security feature makes it more difficult for police and malicious hackers to obtain a person's precise location data from a cell phone company.",
-    "ingested_utc": "2026-01-29T15:00:32Z"
-  },
-  {
-    "published_utc": "2026-01-29",
-    "retrieved_date": "2026-01-29",
-    "retrieved_utc": "2026-01-29T15:00:32Z",
-    "source": "TechCrunch_All",
-    "title": "Google Maps now lets you access Gemini while walking and cycling",
-    "url": "https://techcrunch.com/2026/01/29/google-maps-now-lets-you-access-gemini-while-walking-and-cycling/",
-    "id_key": "ddafec757d73e6adc9772c76d0b914cd3d0a83ddc3034cf7daf0c197033d4f8e",
-    "summary": "When you're walking around and navigating with Maps, you can now ask Gemini questions like \"What neighborhood am I in?\" or \"What are top-rated restaurants nearby?\"",
-    "ingested_utc": "2026-01-29T15:00:32Z"
-  },
-  {
-    "published_utc": "2026-01-29",
-    "retrieved_date": "2026-01-29",
-    "retrieved_utc": "2026-01-29T15:00:19Z",
-    "source": "FT_Markets",
-    "title": "Oil surges past $70 as US-Iran tensions rise",
-    "url": "https://www.ft.com/content/64a88c2f-1401-49da-b1e9-7c2dc0aba251",
-    "id_key": "de90b8ba3d44807a4255aeb52adbad6dc9b7d54966d1a86cba2694e962a7f127",
-    "summary": "Prices increase 9% this week as Donald Trump hails ‘beautiful armada’ targeting regime",
-    "ingested_utc": "2026-01-29T15:00:19Z"
   }
 ]
