@@ -2,6 +2,17 @@
   {
     "published_utc": "2026-01-31",
     "retrieved_date": "2026-01-31",
+    "retrieved_utc": "2026-01-31T11:52:51Z",
+    "source": "Guardian_World",
+    "title": "Epstein files latest: photos appear to show former prince Andrew crouching over female",
+    "url": "https://www.theguardian.com/us-news/live/2026/jan/31/jeffrey-epstein-files-latest-news-updates-prince-andrew-elon-musk-peter-mandelson-donald-trump",
+    "id_key": "0f8192545c3801ff88f66191087a22d6a8ff4e061d1852e549c18c368246dbd1",
+    "summary": "Elon Musk and former UK ambassador to US Peter Mandelson among those named in newly released documents An apparent FBI document released among the US government’s files on Epstein appeared to show a mugshot of Ghislaine Maxwell at the time of her arrest in 2020. It is thought to be the first time this image has been released publicly. Continue reading...",
+    "ingested_utc": "2026-01-31T11:52:51Z"
+  },
+  {
+    "published_utc": "2026-01-31",
+    "retrieved_date": "2026-01-31",
     "retrieved_utc": "2026-01-31T11:43:57Z",
     "source": "TheStreet_Top",
     "title": "Cozy Earth is selling a 'soft and stylish' $108 cropped hoodie for just $43",
@@ -10987,16 +10998,5 @@
     "id_key": "bcc7fd182920604625a3f815ea140c629e00e1ca59f82e97bc192df25a5243cf",
     "summary": "Senate Democrats threaten a partial government shutdown over DHS funding. And, the Fed defies President Trump's pressure and holds rates steady to fight inflation.",
     "ingested_utc": "2026-01-29T13:25:32Z"
-  },
-  {
-    "published_utc": "2026-01-29",
-    "retrieved_date": "2026-01-29",
-    "retrieved_utc": "2026-01-29T13:25:24Z",
-    "source": "NYTimes_Business",
-    "title": "Russia’s Lukoil in Talks to Sell Some Assets to U.S. Investment Firm",
-    "url": "https://www.nytimes.com/2026/01/29/business/russia-lukoil-carlyle-sale-sanctions.html",
-    "id_key": "6b594904aa0d369d461bf83596f2a0d3b2225923c097c5f55fe1d92507b26255",
-    "summary": "The deal with Carlyle comes after the United States and the European Union imposed sanctions on Lukoil, putting a dent in the Kremlin’s oil revenue.",
-    "ingested_utc": "2026-01-29T13:25:24Z"
   }
 ]
