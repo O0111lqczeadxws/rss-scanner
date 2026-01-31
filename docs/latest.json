@@ -2,6 +2,17 @@
   {
     "published_utc": "2026-01-31",
     "retrieved_date": "2026-01-31",
+    "retrieved_utc": "2026-01-31T22:16:13Z",
+    "source": "NPR_World",
+    "title": "On a trip to Denmark, a reporter sees lawmakers take on the role of diplomats",
+    "url": "https://www.npr.org/2026/01/31/nx-s1-5690097/on-a-trip-to-denmark-a-reporter-sees-lawmakers-take-on-the-role-of-diplomats",
+    "id_key": "09698e9ceb1063476e59ff004d82e8832c2425b734d15ec674e3ff110e6802f4",
+    "summary": "NPR congressional correspondent Barbara Sprunt watched U.S. lawmakers attempt a diplomatic rescue mission in Denmark amid the Greenland crisis.",
+    "ingested_utc": "2026-01-31T22:16:13Z"
+  },
+  {
+    "published_utc": "2026-01-31",
+    "retrieved_date": "2026-01-31",
     "retrieved_utc": "2026-01-31T21:38:32Z",
     "source": "FinancialPost_Business",
     "title": "Euro Rally Is Latest Risk to ECB’s Inflation Outlook",
@@ -10986,17 +10997,6 @@
     "url": "https://financialpost.com/pmn/business-pmn/rogers-beats-as-blue-jays-season-boosted-revenues",
     "id_key": "6d97b94fdca856fea54caa1825e51d5fbb4d6c9cd30c51ae99d7654868ac881c",
     "summary": "Rogers Communications Inc. beat analysts’ fourth-quarter estimates thanks to strong growth in its media segment and a World Series appearance by its Toronto Blue Jays baseball team.",
-    "ingested_utc": "2026-01-29T16:05:24Z"
-  },
-  {
-    "published_utc": "2026-01-29",
-    "retrieved_date": "2026-01-29",
-    "retrieved_utc": "2026-01-29T16:05:24Z",
-    "source": "FinancialPost_Business",
-    "title": "Macnica Announces Production-Ready ME10 SoC for Embedded Devices",
-    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/macnica-announces-production-ready-me10-soc-for-embedded-devices",
-    "id_key": "46ed54c3e2cfaa2060a566c2cd7ff28fe088b89e4e21a1ae8d8e6f86c0e9cb25",
-    "summary": "SOLANA BEACH, Calif. — At ISE 2026, Macnica will show a production-ready version of its ME10 System-On-Chip (SoC) for product developers ready to build IPMX-compliant products at scale and without complication. With higher performance enabled through a new Machine-to-Machine (M2M) interface, the ME10 offers a complete, interoperable and standards-based AV over IP solution for integration […]",
     "ingested_utc": "2026-01-29T16:05:24Z"
   }
 ]
