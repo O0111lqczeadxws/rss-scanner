@@ -2,6 +2,17 @@
   {
     "published_utc": "2026-02-01",
     "retrieved_date": "2026-02-01",
+    "retrieved_utc": "2026-02-01T21:22:20Z",
+    "source": "NYTimes_World",
+    "title": "The Secret Egyptian Air Base Powering Sudan’s Drone War",
+    "url": "https://www.nytimes.com/2026/02/01/world/africa/egypt-sudan-drones.html",
+    "id_key": "276ead8b5b4643c1d1001c636eeb01e6838b72018a2683cc58649651f9a7ef50",
+    "summary": "The covert base offers new evidence of how the Sudanese conflict is morphing into a theater for high-tech warfare, driven by foreign interests.",
+    "ingested_utc": "2026-02-01T21:22:20Z"
+  },
+  {
+    "published_utc": "2026-02-01",
+    "retrieved_date": "2026-02-01",
     "retrieved_utc": "2026-02-01T20:46:52Z",
     "source": "TheStreet_Top",
     "title": "What a Warsh Fed means for your gold and silver portfolio",
@@ -10987,16 +10998,5 @@
     "id_key": "68855727274547459d297c6aebcacdb46109e1633e502fbf21dfde017e47fb64",
     "summary": "Apple shared its latest quarterly financial results today and the news is once again very, very good for the Cupertino company. The quarter ending December 27, 2025 marked \"the best-ever quarter\" for iPhones, which generated a record high revenue of nearly $85.27 billion for the business. Apple doesn't disclose the number of devices sold any more, but even with the prices for many of its latest generation of smartphones surpassing $1,000 a pop, that's still got to be a heck of a lot of iPhones. \"The demand for iPhone was simply staggering,\" CEO Tim Cook said on the conference call to discuss the results. \"This is the strongest iPhone lineup we've ever had and by far the most popular.\" That wasn't the only massive number in the earnings report. Services revenue also logged its biggest quarter yet, growing 14 percent over the same period last year to reach just over $30 billion. It was also Apple's biggest quarter to date for total revenue, which was nearly $143.76 billion for the already fabulously wealthy company. This article originally appeared on Engadget at https://www.engadget.com/mobile/smartphones/apple-just-reported-its-best-ever-quarter-for-iphone-sales-234135513.html?src=rss",
     "ingested_utc": "2026-01-29T23:49:46Z"
-  },
-  {
-    "published_utc": "2026-01-29",
-    "retrieved_date": "2026-01-29",
-    "retrieved_utc": "2026-01-29T23:49:45Z",
-    "source": "WIRED_All",
-    "title": "We Found Two Theaters With Sold-Out ‘Melania’ Opening Day Screenings",
-    "url": "https://www.wired.com/story/we-found-2-theaters-with-sold-out-melania-opening-day-screenings/",
-    "id_key": "4103b26f14f2add5efd2106a0684d3eacc97c633caf7c5cbdb451150ebc6cc2c",
-    "summary": "A WIRED analysis of nearly 1,400 Friday showtimes of Melania found only two with no tickets available. Both are before 3 pm.",
-    "ingested_utc": "2026-01-29T23:49:45Z"
   }
 ]
