@@ -2,6 +2,28 @@
   {
     "published_utc": "2026-02-01",
     "retrieved_date": "2026-02-01",
+    "retrieved_utc": "2026-02-01T22:47:07Z",
+    "source": "NPR_World",
+    "title": "U.S. intervention in Venezuela divides Houston",
+    "url": "https://www.npr.org/2026/02/01/nx-s1-5686737/venezuela-maduro-trump-oil-houston",
+    "id_key": "df188c2906ea9037bfaced50c8a8c5a968e441c8a7fedabe82b475053de2d4c0",
+    "summary": "In nearly two dozen interviews, Houstonians expressed everything from admiration and relief to skepticism and dread following the seizure of leader Nicolás Maduro.",
+    "ingested_utc": "2026-02-01T22:47:07Z"
+  },
+  {
+    "published_utc": "2026-02-01",
+    "retrieved_date": "2026-02-01",
+    "retrieved_utc": "2026-02-01T22:47:05Z",
+    "source": "NPR_Top",
+    "title": "Bomb cyclone brings bitter cold and snow to the Southeast",
+    "url": "https://www.npr.org/2026/02/01/nx-s1-5695752/bomb-cyclone-snow-cold-florida-north-carolina",
+    "id_key": "1e725b85770177b2bbca338771508f4cb8ac4ca32420460181e14faee46ac205",
+    "summary": "Temperatures in southern Florida reached the coldest they've been since 1989, according to the National Weather Service.",
+    "ingested_utc": "2026-02-01T22:47:05Z"
+  },
+  {
+    "published_utc": "2026-02-01",
+    "retrieved_date": "2026-02-01",
     "retrieved_utc": "2026-02-01T22:17:25Z",
     "source": "FT_Markets",
     "title": "FirstFT: Xi Jinping calls for China’s renminbi to become global reserve currency",
@@ -10976,27 +10998,5 @@
     "id_key": "31650009285636b702fd9ea3e1f62ec275001f065930dfe38ee0459f352a8ebd",
     "summary": "Bitcoin traders are treating fund flows like macro bets, and one Fed data change is the hidden risk Key takeaways Bitcoin’s institutional demand can be monitored in issuer AUM snapshots such as BlackRock’s IBIT, which listed net assets of $69,427,196,929 as of Jan. 28, 2026 on its product pages. Weekly crypto fund flows have begun to […] The post Upgrade your Bitcoin investment strategy using these 7 critical demand drivers appeared first on CryptoSlate .",
     "ingested_utc": "2026-01-30T10:39:08Z"
-  },
-  {
-    "published_utc": "2026-01-29",
-    "retrieved_date": "2026-01-30",
-    "retrieved_utc": "2026-01-30T07:31:43Z",
-    "source": "NPR_World",
-    "title": "Senegal and Morocco fined and players banned after African Cup final chaos",
-    "url": "https://www.npr.org/2026/01/29/g-s1-107750/senegal-morocco-fined-african-cup-final-chaos",
-    "id_key": "267fda13bd4758d03954106367901dc5b12babefa3236d448d3c25b21354a369",
-    "summary": "Africa's soccer body issued fines worth more than $1 million and banned Senegal's coach and Senegalese and Morocco players Wednesday following a shambolic African Cup soccer final this month.",
-    "ingested_utc": "2026-01-30T07:31:43Z"
-  },
-  {
-    "published_utc": "2026-01-29",
-    "retrieved_date": "2026-01-30",
-    "retrieved_utc": "2026-01-30T05:53:27Z",
-    "source": "HackerNews_Top",
-    "title": "Grid: Free, local-first, browser-based 3D printing/CNC/laser slicer",
-    "url": "https://grid.space/stem/",
-    "id_key": "36ac5a452e78940c59f8f202744b9247c5d879ea7bdccf3e4b931e3adc596ac9",
-    "summary": "Comments",
-    "ingested_utc": "2026-01-30T05:53:27Z"
   }
 ]
