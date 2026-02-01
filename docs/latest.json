@@ -2,6 +2,39 @@
   {
     "published_utc": "2026-02-01",
     "retrieved_date": "2026-02-01",
+    "retrieved_utc": "2026-02-01T22:17:25Z",
+    "source": "FT_Markets",
+    "title": "FirstFT: Xi Jinping calls for China’s renminbi to become global reserve currency",
+    "url": "https://www.ft.com/content/4a255b7a-a7a7-4db7-87cf-816ce2d5295c",
+    "id_key": "0fb25dc67a193bd91c338f8ded1415a925b2fb5084a326d4b909f8fbe3c1a9ca",
+    "summary": "Also in today’s newsletter: India reveals its budget, and the latest release of Epstein files",
+    "ingested_utc": "2026-02-01T22:17:25Z"
+  },
+  {
+    "published_utc": "2026-02-01",
+    "retrieved_date": "2026-02-01",
+    "retrieved_utc": "2026-02-01T22:17:22Z",
+    "source": "NPR_World",
+    "title": "What does normal look like in Caracas one month after the Maduro operation?",
+    "url": "https://www.npr.org/2026/02/01/nx-s1-5693045/what-does-normal-look-like-in-caracas-one-month-after-the-maduro-operation",
+    "id_key": "bbb9752469a5d3d1b8dc3299fb3888eac4d3df246d0766a3fa2ebdac436685db",
+    "summary": "Nearly a month after U.S. forces seized Nicolás Maduro, Caracas is settling into an uneasy normal, with major changes and lingering questions about what lasts and what comes next.",
+    "ingested_utc": "2026-02-01T22:17:22Z"
+  },
+  {
+    "published_utc": "2026-02-01",
+    "retrieved_date": "2026-02-01",
+    "retrieved_utc": "2026-02-01T22:17:22Z",
+    "source": "NPR_World",
+    "title": "With Iran in turmoil, the U.S. pressures Lebanon's Hezbollah to disarm",
+    "url": "https://www.npr.org/2026/02/01/nx-s1-5672367/with-iran-in-turmoil-the-u-s-pressures-lebanons-hezbollah-to-disarm",
+    "id_key": "e860def7cadf5385095c9cacded599df53eddfb3a07c9b334a833ca3bf63a53c",
+    "summary": "Hezbollah is being squeezed in Lebanon as Iran's economic crisis limits support, and the U.S. presses Beirut to force the group to disarm while Israel keeps bombarding Lebanon.",
+    "ingested_utc": "2026-02-01T22:17:22Z"
+  },
+  {
+    "published_utc": "2026-02-01",
+    "retrieved_date": "2026-02-01",
     "retrieved_utc": "2026-02-01T21:59:27Z",
     "source": "FinancialPost_Business",
     "title": "BHP backs the next wave of exploration and technology talent in its biggest Xplor intake yet",
@@ -10965,38 +10998,5 @@
     "id_key": "36ac5a452e78940c59f8f202744b9247c5d879ea7bdccf3e4b931e3adc596ac9",
     "summary": "Comments",
     "ingested_utc": "2026-01-30T05:53:27Z"
-  },
-  {
-    "published_utc": "2026-01-29",
-    "retrieved_date": "2026-01-30",
-    "retrieved_utc": "2026-01-30T03:38:57Z",
-    "source": "HackerNews_Top",
-    "title": "Waymo robotaxi hits a child near an elementary school in Santa Monica",
-    "url": "https://techcrunch.com/2026/01/29/waymo-robotaxi-hits-a-child-near-an-elementary-school-in-santa-monica/",
-    "id_key": "65a554b4b353851bfd903a4fad2207bb7f8303d578028c679c6d35ec7d59cbde",
-    "summary": "Comments",
-    "ingested_utc": "2026-01-30T03:38:57Z"
-  },
-  {
-    "published_utc": "2026-01-29",
-    "retrieved_date": "2026-01-30",
-    "retrieved_utc": "2026-01-30T03:35:53Z",
-    "source": "Guardian_Business",
-    "title": "Big tech results show investor demand for payoffs from heavy AI spending",
-    "url": "https://www.theguardian.com/technology/2026/jan/29/big-tech-earnings-reports-ai",
-    "id_key": "a91fdb267286ac162e61282c14d7eeb28247dfb8e03ebfddd2639b4208aedf28",
-    "summary": "Meta wowed Wall Street with improvements in ad targeting fueled by AI alongside huge investment. Microsoft had less to show for its billions spent Big tech earnings so far this week have sent a clear warning: investors are willing to overlook soaring spending on artificial intelligence if it fuels strong growth, but are quick to punish companies that fall short. The contrast was clear in Thursday’s stock market reaction to earnings from Microsoft and Meta , highlighting how dramatically the stakes have changed since the launch of ChatGPT started the AI boom more than three years ago. Continue reading...",
-    "ingested_utc": "2026-01-30T03:35:53Z"
-  },
-  {
-    "published_utc": "2026-01-29",
-    "retrieved_date": "2026-01-30",
-    "retrieved_utc": "2026-01-30T01:11:30Z",
-    "source": "FinancialPost_Business",
-    "title": "Trump Threatens Tariffs on Countries That Send Oil to Cuba",
-    "url": "https://financialpost.com/pmn/business-pmn/trump-threatens-tariffs-on-countries-that-provide-oil-to-cuba",
-    "id_key": "8c8c08e7c6fc5c61d48c585b2e15fbc212675bfa53b43a3f42f814b4b474bb80",
-    "summary": "US President Donald Trump authorized his administration to slap tariffs on goods from countries that provide oil to Cuba, tightening the squeeze on the communist-run government he wants to see replaced.",
-    "ingested_utc": "2026-01-30T01:11:30Z"
   }
 ]
