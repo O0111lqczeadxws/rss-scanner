@@ -2,6 +2,50 @@
   {
     "published_utc": "2026-02-01",
     "retrieved_date": "2026-02-01",
+    "retrieved_utc": "2026-02-01T19:46:26Z",
+    "source": "TheStreet_Top",
+    "title": "Home Depot finds a new way to beat Lowe's",
+    "url": "https://www.thestreet.com/retail/home-depot-finds-a-new-way-to-beat-lowes",
+    "id_key": "176a70456591dd46a1418428a378a48aabf33c5d0e907cdbc765d3d6ef7d8536",
+    "summary": "It's not an accident that Home Depot and Lowe's stores tend to open near each other. It's actually a practice called \"clustering,\" which can be explained. \"Businesses want to locate themselves near the center of their potential customer population to attract the greatest number of customers. When ...",
+    "ingested_utc": "2026-02-01T19:46:26Z"
+  },
+  {
+    "published_utc": "2026-02-01",
+    "retrieved_date": "2026-02-01",
+    "retrieved_utc": "2026-02-01T19:46:26Z",
+    "source": "TheStreet_Top",
+    "title": "Target has a new strategy for winning customers over",
+    "url": "https://www.thestreet.com/retail/target-has-a-new-strategy-for-winning-customers-over",
+    "id_key": "f70a9bcb2659cb0be2f6d5073125ea3f2162b1a026289aaaa9404ec518844b01",
+    "summary": "I used to love walking into Target and roaming the aisles for interesting finds. Back then, my local Target store was filled with neatly stocked shelves and inventory that was easy to navigate. These days, shopping at Target is more of a chore than anything else. In fact, the only reason I'll ...",
+    "ingested_utc": "2026-02-01T19:46:26Z"
+  },
+  {
+    "published_utc": "2026-02-01",
+    "retrieved_date": "2026-02-01",
+    "retrieved_utc": "2026-02-01T19:46:13Z",
+    "source": "TheVerge_All",
+    "title": "Bill Gates says accusations contained in Epstein files are ‘absolutely absurd’",
+    "url": "https://www.theverge.com/tech/871879/bill-gates-epstein-files-absolutely-absurd",
+    "id_key": "bcd17cbf1754a7bec0a05d408f48d16a69d5db558907a0c98812c380b50b96ed",
+    "summary": "Reports of Bill Gates' connections with Jeffrey Epstein grow more lurid with each dump of documents from the Department of Justice. The latest includes somewhat confusing emails that Epstein may have been drafting on behalf of someone named Boris, who worked at the Bill & Melinda Gates Foundation. The messages claim that Bill contracted an […]",
+    "ingested_utc": "2026-02-01T19:46:13Z"
+  },
+  {
+    "published_utc": "2026-02-01",
+    "retrieved_date": "2026-02-01",
+    "retrieved_utc": "2026-02-01T19:43:37Z",
+    "source": "Guardian_World",
+    "title": "Man convicted of child sexual abuse working as NSW touch football referee for juniors thanks to legal ‘loophole’",
+    "url": "https://www.theguardian.com/australia-news/2026/feb/02/man-convicted-child-sexual-abuse-nsw-touch-football-referee-juniors-legal-loophole-ntwnfb",
+    "id_key": "cab68075b800fbfee2ba90a21296711360cc95292d1bef48458f576519effcbc",
+    "summary": "Safety advocates want laws strengthened to ensure child sexual abuse offenders cannot referee children’s sport Get our breaking news email , free app or daily news podcast A man convicted of two child sexual abuse offences has been able to work as a referee for Touch Football NSW for more than a decade, including for junior teams, with the organisation citing a legal “loophole” for his continued employment. The New South Wales government passed new laws in September to strengthen the working with children check scheme and the Office of the Children’s Guardian is currently reviewing the framework to assess whether it is “fit for purpose”. Child safety advocates say the laws need to be further strengthened to ensure child sexual abuse offenders cannot referee children’s sport. Continue reading...",
+    "ingested_utc": "2026-02-01T19:43:37Z"
+  },
+  {
+    "published_utc": "2026-02-01",
+    "retrieved_date": "2026-02-01",
     "retrieved_utc": "2026-02-01T19:24:55Z",
     "source": "Engadget_All",
     "title": "Apple's online store now lets you build a new Mac exactly the way you want",
@@ -4750,6 +4794,17 @@
     "id_key": "3d1d5d78d0cad9033fa0bfff331ec76fab062ea0aa172fc61421ccffcfcc0bbf",
     "summary": "",
     "ingested_utc": "2026-01-31T00:01:55Z"
+  },
+  {
+    "published_utc": "2026-01-30",
+    "retrieved_date": "2026-02-01",
+    "retrieved_utc": "2026-02-01T19:46:43Z",
+    "source": "HackerNews_Top",
+    "title": "Efficient String Compression for Modern Database Systems",
+    "url": "https://cedardb.com/blog/string_compression/",
+    "id_key": "89156fd04a6c2a1c7f5d81309bddc4e951d908adc9969fb1ec880295d0c642a5",
+    "summary": "Comments",
+    "ingested_utc": "2026-02-01T19:46:43Z"
   },
   {
     "published_utc": "2026-01-30",
@@ -10943,60 +10998,5 @@
     "id_key": "429422792a1b9bde802cb255bbc5dd99f9bcd9bfcec658e5a1cef3bb3f7e3b62",
     "summary": "Agreement splits Department of Homeland Security spending bill from package as Democrats call for changes to immigration enforcement “I do not want to hear that “everything that’s been done here has been perfect”, Homan said, without referring specifically to the fatal shooting of Renee Good and Alex Pretti . Homan noted that while no “agency is perfect” he did not come to Minneapolis to create “headlines”. The federal immigration enforcement surge is “going to improve because of changes we’re making”, he said. Continue reading...",
     "ingested_utc": "2026-01-29T23:47:14Z"
-  },
-  {
-    "published_utc": "2026-01-29",
-    "retrieved_date": "2026-01-29",
-    "retrieved_utc": "2026-01-29T23:21:13Z",
-    "source": "HackerNews_Top",
-    "title": "Grid: Forever free, local-first, browser-based 3D printing/CNC/laser slicer",
-    "url": "https://grid.space/stem/",
-    "id_key": "5ef23a12269f672fa2ff9d096e3b33e9bcef7880112c34d6ced1a0081c236b5d",
-    "summary": "Comments",
-    "ingested_utc": "2026-01-29T23:21:13Z"
-  },
-  {
-    "published_utc": "2026-01-29",
-    "retrieved_date": "2026-01-29",
-    "retrieved_utc": "2026-01-29T23:21:04Z",
-    "source": "FinancialPost_Business",
-    "title": "SSR Mining Announces Results of the Hod Maden Technical Report Summary With $1.66B NPV5% and 39% IRR",
-    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/ssr-mining-announces-results-of-the-hod-maden-technical-report-summary-with-1-66b-npv5-and-39-irr",
-    "id_key": "25b6a2bd9602454ede02902dd82cbb46e7e080d32007ccd2cc553868b7ab733e",
-    "summary": "Hod Maden TRS Demonstrates a World-Class Project With an Estimated $1.66B NPV5% and Projected 39% Internal Rate of Return (“IRR”) at Consensus Metals Prices (1) Significant Project De-Risking Efforts Completed Over Last 18 Months, Detailed Project Engineering Nearing Completion With Most Major Contracts Tendered or in Place Total Remaining Project Development Capital Spend of $910 […]",
-    "ingested_utc": "2026-01-29T23:21:04Z"
-  },
-  {
-    "published_utc": "2026-01-29",
-    "retrieved_date": "2026-01-29",
-    "retrieved_utc": "2026-01-29T23:20:57Z",
-    "source": "AlJazeera_All",
-    "title": "US Justice Department charges man with assault after Ilhan Omar town hall",
-    "url": "https://www.aljazeera.com/news/2026/1/29/us-justice-department-charges-man-with-assault-after-ilhan-omar-town-hall?traffic_source=rss",
-    "id_key": "79e8f31b4915613b990aed9cd92550037aad285da40422895ac226068de0a2f1",
-    "summary": "As part of the government's affidavit, an FBI agent testified to the suspect approaching Omar with a syringe.",
-    "ingested_utc": "2026-01-29T23:20:57Z"
-  },
-  {
-    "published_utc": "2026-01-29",
-    "retrieved_date": "2026-01-29",
-    "retrieved_utc": "2026-01-29T23:20:44Z",
-    "source": "TheVerge_All",
-    "title": "Elon Musk might merge SpaceX with Tesla or xAI",
-    "url": "https://www.theverge.com/tech/870380/elon-musk-space-x-xai-merger",
-    "id_key": "06a9d0c82f75dea624443a6f6fe028753d5734feff8c74654753d12b32e8bd22",
-    "summary": "Elon Musk-led SpaceX may merge with another company helmed by Elon Musk. Reuters initially reported Thursday that SpaceX and xAI are \"in discussions to merge\" ahead of SpaceX's IPO that's planned for later this year. The merger would help with SpaceX's plans to launch data centers into space, according to the publication. Later on Thursday, […]",
-    "ingested_utc": "2026-01-29T23:20:44Z"
-  },
-  {
-    "published_utc": "2026-01-29",
-    "retrieved_date": "2026-01-29",
-    "retrieved_utc": "2026-01-29T23:20:30Z",
-    "source": "FT_Home",
-    "title": "It’s time we had a proper debate about funding university education",
-    "url": "https://www.ft.com/content/6143b57d-67e5-4f40-9ed4-0a7496b1c2b6",
-    "id_key": "22d1b2b81b96222f23e4550f68427479dbe68dc5f54dc932cf4284da33623462",
-    "summary": "Changes to student loans have, in effect, privatised undergraduate teaching in England",
-    "ingested_utc": "2026-01-29T23:20:30Z"
   }
 ]
