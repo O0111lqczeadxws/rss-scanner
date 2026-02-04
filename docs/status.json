@@ -1,17 +1,17 @@
 {
-  "started_utc": "2026-02-03T23:49:37Z",
-  "ended_utc": "2026-02-03T23:53:06Z",
-  "new_items_this_run": 14,
+  "started_utc": "2026-02-04T01:07:48Z",
+  "ended_utc": "2026-02-04T01:11:10Z",
+  "new_items_this_run": 45,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
     "Reuters_World": 0,
     "Reuters_Markets": 0,
-    "BBC_World": 0,
-    "BBC_Business": 2,
+    "BBC_World": 1,
+    "BBC_Business": 0,
     "BBC_Technology": 0,
     "Guardian_Business": 0,
-    "Guardian_World": 4,
+    "Guardian_World": 11,
     "WSJ_US_Business": 0,
     "WSJ_World": 0,
     "WSJ_Markets": 0,
@@ -37,7 +37,7 @@
     "Polygon_Blog": 0,
     "Avalanche_Blog": 0,
     "NEAR_Blog": 0,
-    "Sui_Blog": 0,
+    "Sui_Blog": 1,
     "dYdX_Blog": 0,
     "Kraken_Blog": 0,
     "Gemini_Blog": 0,
@@ -56,8 +56,8 @@
     "MarketWatch_RealTime": 0,
     "MarketWatch_Bulletins": 0,
     "MarketWatch_PersonalFinance": 0,
-    "NYTimes_Business": 2,
-    "NYTimes_World": 1,
+    "NYTimes_Business": 1,
+    "NYTimes_World": 0,
     "NYTimes_Economy": 0,
     "NYTimes_Technology": 0,
     "CNN_Top": 0,
@@ -70,24 +70,24 @@
     "FT_Markets": 0,
     "CNBC_Top": 0,
     "CNBC_Markets": 0,
-    "TheVerge_All": 0,
+    "TheVerge_All": 1,
     "TechCrunch_All": 1,
     "ArsTechnica_All": 1,
     "WIRED_All": 0,
-    "Engadget_All": 0,
+    "Engadget_All": 1,
     "TheEconomist_Business": 0,
     "TheEconomist_Finance": 0,
     "Investopedia_Latest": 0,
-    "TheStreet_Top": 0,
+    "TheStreet_Top": 2,
     "AlJazeera_All": 1,
     "AlJazeera_Economy": 0,
-    "FinancialPost_Business": 1,
+    "FinancialPost_Business": 3,
     "CBC_Business": 0,
-    "Nikkei_Asia_Top": 0,
+    "Nikkei_Asia_Top": 17,
     "WorldBank_News": 0,
     "OECD_Newsroom": 0,
     "MIT_TechReview": 0,
-    "HackerNews_Top": 0
+    "HackerNews_Top": 3
   },
   "errors": [
     {
@@ -335,19 +335,19 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 598,
+    "passed_keywords": 608,
     "passed_allowlist": 0,
-    "failed_all_filters": 463
+    "failed_all_filters": 454
   },
   "stats": {
     "feeds_total": 97,
     "feeds_error": 23,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 1558,
-    "too_old": 497,
-    "dup_title_url": 129,
-    "dup_id": 455
+    "entries_seen": 1556,
+    "too_old": 494,
+    "dup_title_url": 134,
+    "dup_id": 429
   },
   "limits": {
     "skip_older_days": 10,
@@ -359,7 +359,7 @@
     "backoff": 0.75
   },
   "processed": {
-    "file": "data/processed/2026-02-03.jsonl",
-    "appended_new": 14
+    "file": "data/processed/2026-02-04.jsonl",
+    "appended_new": 45
   }
 }
