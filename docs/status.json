@@ -1,7 +1,7 @@
 {
-  "started_utc": "2026-02-05T22:17:47Z",
-  "ended_utc": "2026-02-05T22:21:06Z",
-  "new_items_this_run": 16,
+  "started_utc": "2026-02-05T22:53:12Z",
+  "ended_utc": "2026-02-05T22:56:47Z",
+  "new_items_this_run": 13,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
@@ -9,9 +9,9 @@
     "Reuters_Markets": 0,
     "BBC_World": 0,
     "BBC_Business": 1,
-    "BBC_Technology": 1,
-    "Guardian_Business": 0,
-    "Guardian_World": 3,
+    "BBC_Technology": 0,
+    "Guardian_Business": 3,
+    "Guardian_World": 1,
     "WSJ_US_Business": 0,
     "WSJ_World": 0,
     "WSJ_Markets": 0,
@@ -22,7 +22,7 @@
     "CryptoSlate": 0,
     "CryptoBriefing": 0,
     "Protos": 0,
-    "CryptoNews": 0,
+    "CryptoNews": 2,
     "CoinJournal": 0,
     "Unchained": 0,
     "Bankless": 0,
@@ -37,7 +37,7 @@
     "Polygon_Blog": 0,
     "Avalanche_Blog": 0,
     "NEAR_Blog": 0,
-    "Sui_Blog": 1,
+    "Sui_Blog": 0,
     "dYdX_Blog": 0,
     "Kraken_Blog": 0,
     "Gemini_Blog": 0,
@@ -54,14 +54,14 @@
     "PolygonEdge_Releases": 0,
     "CardanoNode_Releases": 0,
     "MarketWatch_RealTime": 0,
-    "MarketWatch_Bulletins": 1,
+    "MarketWatch_Bulletins": 0,
     "MarketWatch_PersonalFinance": 0,
     "NYTimes_Business": 0,
     "NYTimes_World": 0,
     "NYTimes_Economy": 0,
-    "NYTimes_Technology": 1,
+    "NYTimes_Technology": 0,
     "CNN_Top": 0,
-    "NPR_Top": 0,
+    "NPR_Top": 1,
     "NPR_Business": 0,
     "NPR_Economy": 0,
     "NPR_World": 0,
@@ -78,16 +78,16 @@
     "TheEconomist_Business": 0,
     "TheEconomist_Finance": 0,
     "Investopedia_Latest": 0,
-    "TheStreet_Top": 0,
+    "TheStreet_Top": 3,
     "AlJazeera_All": 0,
     "AlJazeera_Economy": 0,
-    "FinancialPost_Business": 6,
-    "CBC_Business": 0,
-    "Nikkei_Asia_Top": 1,
+    "FinancialPost_Business": 1,
+    "CBC_Business": 1,
+    "Nikkei_Asia_Top": 0,
     "WorldBank_News": 0,
     "OECD_Newsroom": 0,
     "MIT_TechReview": 0,
-    "HackerNews_Top": 1
+    "HackerNews_Top": 0
   },
   "errors": [
     {
@@ -131,6 +131,14 @@
       "error": "fatal parse failure"
     },
     {
+      "source": "https://blockworks.co/feed",
+      "error": "fetch error: HTTP 403"
+    },
+    {
+      "source": "Blockworks",
+      "error": "fatal parse failure"
+    },
+    {
       "source": "https://www.bankless.com/rss",
       "error": "fetch error: HTTP 404"
     },
@@ -143,12 +151,16 @@
       "error": "<unknown>:24:2: not well-formed (invalid token)"
     },
     {
+      "source": "https://consensys.net/blog/feed/",
+      "error": "fetch error: HTTP 403"
+    },
+    {
       "source": "Consensys_Blog",
-      "error": "<unknown>:157:57: not well-formed (invalid token)"
+      "error": "fatal parse failure"
     },
     {
       "source": "https://blog.uniswap.org/rss.xml",
-      "error": "fetch error: HTTP 404"
+      "error": "fetch error: HTTP 403"
     },
     {
       "source": "Uniswap_Blog",
@@ -164,7 +176,7 @@
     },
     {
       "source": "https://arbitrum.foundation/feed",
-      "error": "fetch error: HTTP 404"
+      "error": "fetch error: HTTP 403"
     },
     {
       "source": "Arbitrum_Foundation",
@@ -175,8 +187,12 @@
       "error": "<unknown>:2:2292: not well-formed (invalid token)"
     },
     {
+      "source": "https://near.org/blog/feed/",
+      "error": "fetch error: HTTP 403"
+    },
+    {
       "source": "NEAR_Blog",
-      "error": "<unknown>:2:2638: not well-formed (invalid token)"
+      "error": "fatal parse failure"
     },
     {
       "source": "https://blog.dydx.exchange/feed",
@@ -341,13 +357,13 @@
   },
   "stats": {
     "feeds_total": 97,
-    "feeds_error": 23,
+    "feeds_error": 26,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 1526,
-    "too_old": 480,
+    "entries_seen": 1476,
+    "too_old": 430,
     "dup_title_url": 106,
-    "dup_id": 435
+    "dup_id": 438
   },
   "limits": {
     "skip_older_days": 10,
@@ -360,6 +376,6 @@
   },
   "processed": {
     "file": "data/processed/2026-02-05.jsonl",
-    "appended_new": 16
+    "appended_new": 13
   }
 }
