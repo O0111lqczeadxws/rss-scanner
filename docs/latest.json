@@ -2,6 +2,94 @@
   {
     "published_utc": "2026-02-05",
     "retrieved_date": "2026-02-05",
+    "retrieved_utc": "2026-02-05T20:26:24Z",
+    "source": "HackerNews_Top",
+    "title": "LinkedIn checks for 2953 browser extensions",
+    "url": "https://github.com/mdp/linkedin-extension-fingerprinting",
+    "id_key": "f3673895c4a219f2c27063d15bfe018d9ceb9526c34ffea913a233b83c14a207",
+    "summary": "Comments",
+    "ingested_utc": "2026-02-05T20:26:24Z"
+  },
+  {
+    "published_utc": "2026-02-05",
+    "retrieved_date": "2026-02-05",
+    "retrieved_utc": "2026-02-05T20:26:14Z",
+    "source": "FinancialPost_Business",
+    "title": "CDB Aviation Delivers Three Boeing 737-8 Aircraft to WestJet",
+    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/cdb-aviation-delivers-three-boeing-737-8-aircraft-to-westjet",
+    "id_key": "08d0c4e1278474649aa7e80e2879792bbfcea3b1e64df068095039ebdc37011d",
+    "summary": "Deliveries from Lessor’s Orderbook Add Up to Eight Aircraft Currently on Lease to Carrier CALGARY, Alberta — CDB Aviation, a wholly owned Irish subsidiary of China Development Bank Financial Leasing Co., Limited (“CDB Leasing”), announced today the delivery of three Boeing 737-8 aircraft to its existing customer, Calgary-based carrier WestJet. These latest technology 737-8 aircraft […]",
+    "ingested_utc": "2026-02-05T20:26:14Z"
+  },
+  {
+    "published_utc": "2026-02-05",
+    "retrieved_date": "2026-02-05",
+    "retrieved_utc": "2026-02-05T20:26:14Z",
+    "source": "FinancialPost_Business",
+    "title": "Elon Musk can be questioned under oath in DOGE case, judge rules",
+    "url": "https://financialpost.com/legal-post/elon-musk-can-be-questioned-under-oath-doge",
+    "id_key": "3c45f1735549bdb12fe22d14148d08d79da678e3e5c29d01591f5dc2e5a57be0",
+    "summary": "The Justice Department had argued that compelling Musk to testify would 'intrude on White House activities'",
+    "ingested_utc": "2026-02-05T20:26:14Z"
+  },
+  {
+    "published_utc": "2026-02-05",
+    "retrieved_date": "2026-02-05",
+    "retrieved_utc": "2026-02-05T20:26:01Z",
+    "source": "TheStreet_Top",
+    "title": "Coca-Cola retires beloved 80-year-old product line",
+    "url": "https://www.thestreet.com/retail/coca-cola-retires-beloved-80-year-old-product-line-minute-maid",
+    "id_key": "327e36647dbe0fe89417c150196ca2124db1a4e26d0e208e7e1b92ce05ce9b02",
+    "summary": "Technology has dramatically changed the beverage market. \"About 30% of milk was still delivered to homes in the 1960s,\" according to USDA agricultural surveys, and prior to that, had been the most common way consumers got their milk, Food52 reported. It was actually the growth of supermarkets and ...",
+    "ingested_utc": "2026-02-05T20:26:01Z"
+  },
+  {
+    "published_utc": "2026-02-05",
+    "retrieved_date": "2026-02-05",
+    "retrieved_utc": "2026-02-05T20:25:53Z",
+    "source": "Engadget_All",
+    "title": "Everything we know about Valve's new Steam Machine",
+    "url": "https://www.engadget.com/gaming/pc/everything-we-know-about-valves-new-steam-machine-200458817.html?src=rss",
+    "id_key": "22e81dcbdf09be191dc618fc54a507752579d906648160614e6c08eb2f534968",
+    "summary": "The Steam Machine is back from the dead. Not as a Valve-supported program for manufacturers to create living room PCs, but instead a home console sibling to the Steam Deck . Valve introduced its second attempt at ruling the living room in a surprise hardware announcement in November 2025, and paired the new Steam Machine with a new Steam Controller and a wireless VR headset it calls the Steam Frame . Since the announcement, as is often the case with Valve, some details remain elusive, however. While we wait for the release of the company's new hardware lineup in 2026, and more information straight from the horse's mouth, here's everything we know about the hardware, software and price of the Steam Machine. What's the Steam Machine's hardware like? Valve Like the Steam Deck, the Steam Machine is utilitarian and bespoke. The PC is a black, 5.98 x 6.39 x 6.14 inch (152 x 162.4 x 156mm) box, with ports and a grille for a fan in the back and a removable faceplate and customizable LED light strip in the front. Inside, Valve says the Steam Machine features a \"semi-custom\" AMD Zen 4 CPU with six cores and up to 4.8GHz clock speeds, and a \"semi-custom\" RDNA3 AMD GPU, along with 16GB DDR RAM, 8GB GDDR6 VRAM and either 512GB or 2TB of storage. While these specs make the Steam Machine more powerful than the aging Steam Deck (which shipped in 2022 with its own custom AMD chip) Valve has been careful not to oversell the capabilities of the box. In a blog post , the company said that \"the majority of Steam titles play great at 4K 60FPS\" using AMD's FidelityFX Super Resolution (FSR) frame generation and upscaling technology, but some titles require more upscaling than others, and it \"may be preferable to play at a lower framerate with [variable refresh rate] to maintain a 1080p internal resolution.\" In a hands-on preview of the Steam Machine, Digital Foundry expressed concern with what Valve's claims and the device's stated specs could mean for future performance. \"The decision to opt for 8GB of GDDR6 memory has been proven to be a limiting factor on many modern mainstream triple-A games and falls short of the maximum VRAM pools and memory bandwidth available on both Xbox Series X and base PS5,\" Digital Foundry writes. The Steam Machine supports Bluetooth 5.3, Wi-Fi 6E and includes an integrated 2.4GHz adapter for the new Steam Controller. In terms of port selection, there's DisplayPort 1.4 and HDMI 2.0 inputs for connecting the box to external monitors and TVs, four USB-A ports (divided between two USB 2.0 ports and two USB 3.2 Gen 1 ports) and one USB-C port on the back. Engadget will have to try out the Steam Machine to really know what it's capable of, but there's nothing to suggest it couldn't be as flexible as the Steam Deck, especially with more power to play with. What games will be able to run on the Steam Machine? Valve Any game that runs on SteamOS, Valve's Linux-based operating system, will run on the Steam Machine, provided the device's technical specs will support it. For games running natively on Linux, the Steam Machine will download the Linux version. For Windows games and everything else, it'll be able to use Steam's built-in Proton compatibility layer to translate games to Linux, just like the Steam Deck does. Proton is developed by both Valve and CodeWeavers, the team behind the macOS compatibility app CrossOver . Valve's compatibility layer translates a game's API calls and other software features into something Linux understands, essentially tricking the game into thinking it's running on Windows when it isn't. Proton has worked remarkably well so far, in some cases helping some PC games run more efficiently on Linux than they do on Windows, but it does have some limitations. Because some anti-cheat software doesn't support Linux , many competitive multiplayer games aren't playable on SteamOS. Valve hopes the Steam Machine will help change that. \"While [the] Steam Machine also requires dev participation to enable anti-cheat, we think the incentives for enabling anti-cheat on Machine to be higher than on Deck as we expect more people to play multiplayer games on it,\" Valve told Eurogamer . \"Ultimately we hope that the launch of Machine will change the equation around anti-cheat support and increase its support.\" To help users find what games work well on the Steam Machine, Valve plans to expand its program for verifying games on the Steam Deck to include the Steam Machine and Steam Frame. Valve looks at things like controller support, the default resolution of the game, whether or not it requires a separate launcher and whether the game and its middleware work with Proton to determine a game's rating. Then the company sorts games into four categories: Verified (where the game works with Steam hardware at launch), Playable (where a user might have to make modifications to run smoothly), Unplayable (where some or all of the game doesn't function) and Unknown. According to an announcement Valve sent to developers, games that were Verified for the Steam Deck will automatically be verified for the Steam Machine. The system is helpful, but far from definitive — some Unplayable games are in fact playable — which is why online, community-run databases like ProtonDB fill in the gaps with more granular information. How much will the Steam Machine cost and when will it launch? Valve Valve hasn't announced a price or a release date for the Steam Machine or any of its new hardware. In terms of price, however, the company has suggested it might not be a deal in quite the same way the $399 Steam Deck LCD was. Valve designer Pierre-Loup Griffais told The Verge that the \"Steam Machine’s pricing is comparable to a PC with similar specs\" and that its price would be \"positioned closer to the entry level of the PC space\" but be \"very competitive with what you a PC you could build yourself from parts.\" That means the Steam Machine will likely cost more than the $499 PS5, and that the rising costs of memory could make it even more expensive. Valve has already publicly admitted that memory and storage shortages are affecting its plans. In February, the company said that it was delaying the launch of its hardware (though it still hopes to ship in the first half of 2026) and rethinking pricing, particularly around the Steam Machine and Steam Frame, because of the \"limited availability and growing prices\" of critical components like RAM. The changes Framework had to make to the pricing of the Framework Desktop are an illustrative example of the position Valve is in. Framework pitched its compact desktop PC as being great for gaming, with an AMD Ryzen AI Max chip (originally meant for gaming laptops) and a minimum of 32GB of RAM that lets it run games at 1440p. The company originally sold the base configuration of the Framework Desktop for $1,099, but announced in January 2026 that it would now cost $1,139 due to the rising cost of RAM. The price situation got even worse for configurations with more RAM. A Framework Desktop with 128GB of RAM now costs $2,459. The blame for rising costs lies squarely with the AI industry, whose demand for RAM has led to the collapse of consumer RAM brands and a dearth of true deals on the in-demand component. At this point, PC makers have no solution to the problem other than riding the shortage out and raising prices. Valve clearly isn't immune to those same issues. That doesn't rule out the company offering its Linux PC at multiple different price points, or in some kind of bundle deal with multiple pieces of new Steam hardware. But it does mean that the Steam Machine will likely be priced like a premium device. Same for the Steam Controller and Steam Frame. In the case of the Frame, UploadVR reports that Valve wants to sell the headset for less than the $1,000 Valve Index, but that doesn't mean it won't be significantly more expensive than the $300 Meta Quest 3S . What accessories will work with the Steam Machine? Valve The Steam Machine is designed to work with a variety of different Bluetooth controllers and other wireless accessories, and also whatever you can plug into its multiple USB-A ports and single USB-C port. With a built-in 2.4GHz Steam Controller dongle inside the Steam Machine, Valve's controller should be an ideal option for controlling games, particularly because of its multiple control options, like touchpads and gyroscopes. Support for Steam Link, Valve's tech for streaming PC games over local wireless, means you can also send games from a Steam Machine to the Steam Deck, Steam Frame or the Steam Link app and play them there. This article originally appeared on Engadget at https://www.engadget.com/gaming/pc/everything-we-know-about-valves-new-steam-machine-200458817.html?src=rss",
+    "ingested_utc": "2026-02-05T20:25:53Z"
+  },
+  {
+    "published_utc": "2026-02-05",
+    "retrieved_date": "2026-02-05",
+    "retrieved_utc": "2026-02-05T20:25:50Z",
+    "source": "TechCrunch_All",
+    "title": "OpenAI launches new agentic coding model only minutes after Anthropic drops its own",
+    "url": "https://techcrunch.com/2026/02/05/openai-launches-new-agentic-coding-model-only-minutes-after-anthropic-drops-its-own/",
+    "id_key": "0878707032a5b9c63550712e8bdc34c755c8a9eed0a519dd352708eb0c9fd81d",
+    "summary": "The new model is build to accelerate the capabilities of Codex, the agentic coding tool OpenAI launched earlier this week.",
+    "ingested_utc": "2026-02-05T20:25:50Z"
+  },
+  {
+    "published_utc": "2026-02-05",
+    "retrieved_date": "2026-02-05",
+    "retrieved_utc": "2026-02-05T20:25:36Z",
+    "source": "FT_Markets",
+    "title": "Cuba ready for US talks ‘with no preconditions’ as energy squeeze bites",
+    "url": "https://www.ft.com/content/5b4f0c9f-83b5-45ed-afe0-5e2dda75dcc4",
+    "id_key": "8e89305c849ba73e9dc40c1007f9e1839ded7fb9858d3188fe42605057aca840",
+    "summary": "President Miguel Díaz-Canel insists regime is not ‘close to failing’ and promises details of plans to boost energy sector",
+    "ingested_utc": "2026-02-05T20:25:36Z"
+  },
+  {
+    "published_utc": "2026-02-05",
+    "retrieved_date": "2026-02-05",
+    "retrieved_utc": "2026-02-05T20:25:35Z",
+    "source": "FT_Home",
+    "title": "Former prince advocated for Epstein during Queen Elizabeth’s visit to UAE",
+    "url": "https://www.ft.com/content/693f4bee-3bea-4d7d-99f6-142645562a72",
+    "id_key": "b3a8d6e638a841c83d29e32964bd82c168b72fc165fb876abb15f012151091fd",
+    "summary": "Files show Mountbatten-Windsor tried to encourage Emirati foreign minister to do business with disgraced financier",
+    "ingested_utc": "2026-02-05T20:25:35Z"
+  },
+  {
+    "published_utc": "2026-02-05",
+    "retrieved_date": "2026-02-05",
     "retrieved_utc": "2026-02-05T19:57:44Z",
     "source": "FinancialPost_Business",
     "title": "Orbia Chief People Officer Deb Butters Named to Top Women in HR Class of 2026 by Ragan",
@@ -5168,6 +5256,17 @@
     "id_key": "202f463a80f7b16d70183cbdfdfa1bf50ee750f4ea44b5a61ce157721cd962a8",
     "summary": "Some Indian states have said they are examining Australia's law curbing social media for children.",
     "ingested_utc": "2026-02-05T01:09:19Z"
+  },
+  {
+    "published_utc": "2026-02-04",
+    "retrieved_date": "2026-02-05",
+    "retrieved_utc": "2026-02-05T20:25:23Z",
+    "source": "NYTimes_Business",
+    "title": "Are You ‘Biohacking’ to Perform Better at Work? We Want to Hear From You.",
+    "url": "https://www.nytimes.com/2026/02/04/business/biohacking-work-performance.html",
+    "id_key": "b591b386d927c65c252eb74b3dc56e8eefa32f24b7ff8d98e4ef5b3f17edae45",
+    "summary": "Please tell us what changes you’ve made to your health and wellness practices to improve your brain function and job performance. We may include your experiences in an article.",
+    "ingested_utc": "2026-02-05T20:25:23Z"
   },
   {
     "published_utc": "2026-02-04",
@@ -10899,104 +10998,5 @@
     "id_key": "6c20befbabe5c938c987d19572007d8caaf8b9b7ee3392ea985b95179793a360",
     "summary": "Tyson Foods said its beef business could lose up to $500 million this year as the supply of cattle reaches a 75-year low.",
     "ingested_utc": "2026-02-04T01:10:15Z"
-  },
-  {
-    "published_utc": "2026-02-04",
-    "retrieved_date": "2026-02-04",
-    "retrieved_utc": "2026-02-04T01:09:02Z",
-    "source": "Sui_Blog",
-    "title": "Low-Latency Indexing on Sui with gRPC Streaming",
-    "url": "https://blog.sui.io/grpc-real-time-streaming-indexing-sui/",
-    "id_key": "8a0b8e7abb5e2c7b35535e5061d0a6ff8023fd4fe477f288af2f327612b86da1",
-    "summary": "Sui’s indexing stack supports gRPC streaming as a first-class data source, enabling low-latency ingestion without sacrificing correctness or recoverability",
-    "ingested_utc": "2026-02-04T01:09:02Z"
-  },
-  {
-    "published_utc": "2026-02-04",
-    "retrieved_date": "2026-02-04",
-    "retrieved_utc": "2026-02-04T01:08:07Z",
-    "source": "Guardian_World",
-    "title": "Trump-led abuses amid ‘democratic recession’ put human rights in peril, HRW report says",
-    "url": "https://www.theguardian.com/global-development/2026/feb/04/trump-us-china-russia-democratic-recession-peril-human-rights-watch",
-    "id_key": "f4df73b3fa49f229c4adb0e62a55fae4302b4469073553372303bdf563322f01",
-    "summary": "Rights group says growing authoritarianism and abuses in US, Russia and China threaten global rules-based order The world is in a “democratic recession” with almost three-quarters of the global population now living under autocratic rulers – levels not seen since the 1980s, according to a new report. The system underpinning human rights was “in peril”, said Philippe Bolopion, executive director of Human Rights Watch (HRW), with a growing authoritarian wave becoming “the challenge of a generation”, he said. Continue reading...",
-    "ingested_utc": "2026-02-04T01:08:07Z"
-  },
-  {
-    "published_utc": "2026-02-04",
-    "retrieved_date": "2026-02-04",
-    "retrieved_utc": "2026-02-04T01:08:07Z",
-    "source": "Guardian_World",
-    "title": "Australia politics live: Marles reveals $3bn worth of defence properties to be sold off as ‘much of it not being used’",
-    "url": "https://www.theguardian.com/australia-news/live/2026/feb/04/australian-politics-live-labor-liberal-anthony-albanese-sussan-ley-leadership-challenge-coalition-littleproud-chalmers-interest-rates-rise-rba-ntwfb",
-    "id_key": "0a082fe433579da102879f19b189444cf70ce65d7cf8b1fea75494d7cd1c9ac5",
-    "summary": "Sell-off comes after government commissioned an audit of the estates. Follow today’s news live Get our breaking news email , free app or daily news podcast Two-thirds of homeless youth unable to access housing services: report Approximately 40,000 15- to 24-year-olds have nowhere to live in Australia each year, with only 3.1% accessing long-term housing, according to a new report from the Home Time Youth coalition. Continue reading...",
-    "ingested_utc": "2026-02-04T01:08:07Z"
-  },
-  {
-    "published_utc": "2026-02-04",
-    "retrieved_date": "2026-02-04",
-    "retrieved_utc": "2026-02-04T01:08:07Z",
-    "source": "Guardian_World",
-    "title": "How will Labor’s Thriving Kids work and who is still eligible for the NDIS?",
-    "url": "https://www.theguardian.com/australia-news/2026/feb/04/how-will-thriving-kids-work-ndis-autism-children",
-    "id_key": "8bdc88a9864f98e0a1489691d2d9c95430e7526b7dac3c0cfaa1c32f9b01ab3f",
-    "summary": "New services will move children under nine with mild developmental delays and autism off the NDIS. Here’s what you need to know Get our breaking news email , free app or daily news podcast The Albanese government has unveiled the model for its new program to move children under nine years old with mild developmental delays and autism off the National Disability Insurance Scheme. Called Thriving Kids , the program will be run with the states and territories from October this year. Continue reading...",
-    "ingested_utc": "2026-02-04T01:08:07Z"
-  },
-  {
-    "published_utc": "2026-02-04",
-    "retrieved_date": "2026-02-04",
-    "retrieved_utc": "2026-02-04T01:08:07Z",
-    "source": "Guardian_World",
-    "title": "US shoots down Iranian drone flying towards aircraft carrier, navy says",
-    "url": "https://www.theguardian.com/us-news/2026/feb/03/us-shoots-down-iranian-drone-arabian-sea-navy-says",
-    "id_key": "5bbe46916c1c40bef05263626882dbd1e5cbbd3376fc0b36890d3ab3cd0ba690",
-    "summary": "Shahed-139 said to have approached USS Abraham Lincoln ‘with unclear intent’ in lead-up to expected US-Iran talks on Tehran’s nuclear programme The US military says it shot down an Iranian drone that “aggressively” approached the Abraham Lincoln aircraft carrier in the Arabian Sea. The Iranian Shahed-139 drone was flying toward the carrier “with unclear intent” when an F-35 fighter jet shot it down, US Central Command said on Tuesday. Continue reading...",
-    "ingested_utc": "2026-02-04T01:08:07Z"
-  },
-  {
-    "published_utc": "2026-02-04",
-    "retrieved_date": "2026-02-04",
-    "retrieved_utc": "2026-02-04T01:08:07Z",
-    "source": "Guardian_World",
-    "title": "Lucy Letby documentary reveals first admission of ‘tiny’ doubt from doctors who accused her",
-    "url": "https://www.theguardian.com/uk-news/2026/feb/04/lucy-letby-documentary-reveals-first-admission-of-tiny-doubt-from-doctors-who-accused-her",
-    "id_key": "1f4c78ac908afdbe3007877a2fc5912c282cadfc9393ebbd86ccfd5c6e593a26",
-    "summary": "Netflix film revisits evidence that led to Letby’s conviction and hears from expert who says his research was misused Shortly after Lucy Letby was sentenced to 15 whole-life terms for murdering seven infants and attempting to murder seven others between June 2015 and June 2016 – a conviction that made her Britain’s worst ever child serial killer – Cheshire police agreed to give “unparalleled and exclusive access” to the makers of a Netflix film about the case. The finished documentary, The Investigation Of Lucy Letby, which is released on Wednesday, must be very different from what the producers envisaged when they first began work on the project, given the subsequent unexpected turns in the story. Since the two trials, the prosecution evidence and police handling of the case have faced criticism from an unprecedentedly large number of distinguished British and international medical experts. Led by the Canadian neonatologist, Dr Shoo Lee – who says again in the feature-length Netflix documentary that his research was misused to convict the nurse – many of the experts are convinced Letby is innocent, the victim of a catastrophic miscarriage of justice. Continue reading...",
-    "ingested_utc": "2026-02-04T01:08:07Z"
-  },
-  {
-    "published_utc": "2026-02-04",
-    "retrieved_date": "2026-02-04",
-    "retrieved_utc": "2026-02-04T01:08:07Z",
-    "source": "Guardian_World",
-    "title": "Review calls for more remote hearings to save courts system from ‘collapse’",
-    "url": "https://www.theguardian.com/law/2026/feb/04/courts-leveson-criminal-justice-england-wales",
-    "id_key": "55b552bf475f0ae104390bf94c63b55c8aa526627a2cf70412391e91f39ed2c8",
-    "summary": "Report to tackle courts’ backlog also recommends new criminal justice adviser to oversee courts, prisons and policing A new post of prime minister’s criminal justice adviser and the widespread use of remote hearings are among the recommendations of a government-commissioned independent review on tackling the courts’ backlog in England and Wales. The second part of Sir Brian Leveson’s review – unlike the first part, which recommended slashing jury trials – focuses on efficiencies that can be achieved without legislation. Continue reading...",
-    "ingested_utc": "2026-02-04T01:08:07Z"
-  },
-  {
-    "published_utc": "2026-02-04",
-    "retrieved_date": "2026-02-04",
-    "retrieved_utc": "2026-02-04T01:08:07Z",
-    "source": "Guardian_World",
-    "title": "Women in tech and finance at higher risk from AI job losses, report says",
-    "url": "https://www.theguardian.com/business/2026/feb/04/women-tech-finance-higher-risk-ai-job-losses-report",
-    "id_key": "80882734d99f45c0b8feb6db6163f040aafb6c38d45e790d0971f3aad32c8935",
-    "summary": "‘Mid-career’ females also being sidelined by rigid hiring processes, says City of London Corporation Women working in tech and financial services are at greater risk of losing their jobs to increased use of AI and automation than their male peers, according to a report that found experienced females were also being sidelined as a result of “rigid hiring processes”. “Mid-career” women – with at least five years’ experience – are being overlooked for digital roles in the tech and financial and professional services sectors, where they are traditionally underrepresented, according to the report by the City of London Corporation. Continue reading...",
-    "ingested_utc": "2026-02-04T01:08:07Z"
-  },
-  {
-    "published_utc": "2026-02-04",
-    "retrieved_date": "2026-02-04",
-    "retrieved_utc": "2026-02-04T01:08:07Z",
-    "source": "Guardian_World",
-    "title": "One in six autistic pupils in UK have not attended school at all since September",
-    "url": "https://www.theguardian.com/education/2026/feb/04/one-in-six-autistic-pupils-in-uk-have-not-attended-school-at-all-since-september",
-    "id_key": "d99dd70b167a116255f6a6fbc29aa6da5cafb01020e175543471f3f5bd149aca",
-    "summary": "Data comes as government prepares to publish plans to overhaul Send system in England One in six autistic pupils have not been to school at all since the start of this academic year, according to a new survey which found that mental health issues were often behind high levels of school absence. Nearly half (45%) of the parents and children who responded to the UK-wide survey by the Ambitious About Autism charity said they felt “blamed” by the government for the absences. Continue reading...",
-    "ingested_utc": "2026-02-04T01:08:07Z"
   }
 ]
