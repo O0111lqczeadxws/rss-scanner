@@ -2,6 +2,61 @@
   {
     "published_utc": "2026-02-07",
     "retrieved_date": "2026-02-07",
+    "retrieved_utc": "2026-02-07T19:46:09Z",
+    "source": "HackerNews_Top",
+    "title": "SectorC: A C Compiler in 512 bytes",
+    "url": "https://xorvoid.com/sectorc.html",
+    "id_key": "fcbb4d495b9eab7f7c919ee69c93a9b88147efb5c83882708cf167e34a0dabca",
+    "summary": "Comments",
+    "ingested_utc": "2026-02-07T19:46:09Z"
+  },
+  {
+    "published_utc": "2026-02-07",
+    "retrieved_date": "2026-02-07",
+    "retrieved_utc": "2026-02-07T19:46:00Z",
+    "source": "FinancialPost_Business",
+    "title": "Tech’s AI Push Risks a Bond Market Blowback: Credit Weekly",
+    "url": "https://financialpost.com/pmn/business-pmn/techs-ai-push-risks-a-bond-market-blowback-credit-weekly",
+    "id_key": "ada5e23881b94b8c3cde3710996f09140a1ac458ff761f9891a0a92a620f5a20",
+    "summary": "The biggest tech companies are gearing up to spend even more on artificial intelligence than investors had anticipated, and money managers increasingly fear that whatever happens, credit markets will get hit.",
+    "ingested_utc": "2026-02-07T19:46:00Z"
+  },
+  {
+    "published_utc": "2026-02-07",
+    "retrieved_date": "2026-02-07",
+    "retrieved_utc": "2026-02-07T19:45:53Z",
+    "source": "TheStreet_Top",
+    "title": "Amazon is selling a roomy outdoor storage shed for just $126",
+    "url": "https://www.thestreet.com/deals/garveelife-outdoor-storage-shed-amazon-sale",
+    "id_key": "e5d535ce742f91682c362af972e6863637fc778fa4c94647123cc981d3727636",
+    "summary": "\"It looks neat and fits nicely in my backyard.\"",
+    "ingested_utc": "2026-02-07T19:45:53Z"
+  },
+  {
+    "published_utc": "2026-02-07",
+    "retrieved_date": "2026-02-07",
+    "retrieved_utc": "2026-02-07T19:45:53Z",
+    "source": "TheStreet_Top",
+    "title": "Iconic bourbon, vodka brands spared from Chapter 7 liquidation",
+    "url": "https://www.thestreet.com/retail/iconic-bourbon-vodka-brands-stoli-usa-spared-from-chapter-7-liquidation",
+    "id_key": "8931b2897bc885f0df6665a0a75c1101c8f8bb06ff0bfc82f7b51271e511b09a",
+    "summary": "When a company files for Chapter 7 bankruptcy, that usually means a total liquidation. In some cases, it does not mean the end of the brand, but whoever buys the company's intellectual property has great leeway over what to do with the brand. Retailer Sharper Image, for example, used to run modern ...",
+    "ingested_utc": "2026-02-07T19:45:53Z"
+  },
+  {
+    "published_utc": "2026-02-07",
+    "retrieved_date": "2026-02-07",
+    "retrieved_utc": "2026-02-07T19:43:30Z",
+    "source": "CryptoBriefing",
+    "title": "Mike Belshe: Stablecoins are a safer alternative to banks, BitGo’s operational controls are key for crypto market structure, and the future of finance is in asset tokenization | The Wolf Of All Streets",
+    "url": "https://cryptobriefing.com/mike-belshe-stablecoins-are-a-safer-alternative-to-banks-bitgos-operational-controls-are-key-for-crypto-market-structure-and-the-future-of-finance-is-in-asset-tokenization-the-wolf-of-all-stree/",
+    "id_key": "a465c7097e52ea3fe939d1291f1ffc3da19e40a37cf9def774cc16fac51dbf76",
+    "summary": "Stablecoins are set to reshape banking by offering a safer, more efficient alternative for deposits. The post Mike Belshe: Stablecoins are a safer alternative to banks, BitGo’s operational controls are key for crypto market structure, and the future of finance is in asset tokenization | The Wolf Of All Streets appeared first on Crypto Briefing .",
+    "ingested_utc": "2026-02-07T19:43:30Z"
+  },
+  {
+    "published_utc": "2026-02-07",
+    "retrieved_date": "2026-02-07",
     "retrieved_utc": "2026-02-07T19:25:08Z",
     "source": "Engadget_All",
     "title": "Trump Mobile’s T1 Phone is apparently still coming, but it’ll be uglier and more expensive",
@@ -10943,60 +10998,5 @@
     "id_key": "0a30aa4e5843ff59c4aa730569c3aef561e209ebda330af5f47ac7d40902a06a",
     "summary": "Uniform Labs’ Multiliquid and Metalayer have launched a Metalayer-backed Solana facility for instant stablecoin redemptions of tokenized RWAs. It buys assets at a discount to NAV to provide continuous liquidity, starting with issuers including VanEck, Janus Henderson and Fasanara. Kamino integration The post Uniform Labs’ Multiliquid and Metalayer Launch RWA Redemption Facility on Solana appeared first on Cryptonews .",
     "ingested_utc": "2026-02-05T15:56:59Z"
-  },
-  {
-    "published_utc": "2026-02-05",
-    "retrieved_date": "2026-02-05",
-    "retrieved_utc": "2026-02-05T15:56:59Z",
-    "source": "CryptoNews",
-    "title": "Hex Trust Adds Custodial FXRP Minting and FLR Staking for Institutions",
-    "url": "https://cryptonews.com/news/hex-trust-adds-custodial-fxrp-minting-and-flr-staking-for-institutions/",
-    "id_key": "822383d84fcb3a0689de3acc8fa0e0993457b707f2f7caab6fd6da4bdfcae798",
-    "summary": "Hex Trust has expanded its long-running partnership with Flare, bringing institutional clients a custody and compliance layer to access native FLR staking and mint or redeem FXRP, a 1:1 representation of XRP on Flare. The update has gone live via Hex Trust’s platform. It uses multi-approval control. The post Hex Trust Adds Custodial FXRP Minting and FLR Staking for Institutions appeared first on Cryptonews .",
-    "ingested_utc": "2026-02-05T15:56:59Z"
-  },
-  {
-    "published_utc": "2026-02-05",
-    "retrieved_date": "2026-02-05",
-    "retrieved_utc": "2026-02-05T15:56:57Z",
-    "source": "CryptoBriefing",
-    "title": "Musk’s SpaceX plans Starlink phone and direct-to-device internet as IPO nears: Reuters",
-    "url": "https://cryptobriefing.com/starlink-phone-launch-ipo-nears/",
-    "id_key": "ca90e48a5c4f9b8dee35ab5e8176889c5b099607129af58a5fb1a5025db81075",
-    "summary": "SpaceX's expansion into direct-to-device internet and new tech markets could significantly boost its valuation ahead of a potential IPO. The post Musk’s SpaceX plans Starlink phone and direct-to-device internet as IPO nears: Reuters appeared first on Crypto Briefing .",
-    "ingested_utc": "2026-02-05T15:56:57Z"
-  },
-  {
-    "published_utc": "2026-02-05",
-    "retrieved_date": "2026-02-05",
-    "retrieved_utc": "2026-02-05T15:56:57Z",
-    "source": "CryptoBriefing",
-    "title": "Bitcoin crashes to $67K erasing gains since 2021 as liquidations top $1.4B",
-    "url": "https://cryptobriefing.com/bitcoin-market-crash-liquidations/",
-    "id_key": "c1de256c3484e3305366af08314ea6eda0df9a9ec798e43422a2cb99882a5ab7",
-    "summary": "Bitcoin falls to $67K as $1.4B in liquidations, $800M in BTC ETF outflows, and crypto stock losses hit markets. The post Bitcoin crashes to $67K erasing gains since 2021 as liquidations top $1.4B appeared first on Crypto Briefing .",
-    "ingested_utc": "2026-02-05T15:56:57Z"
-  },
-  {
-    "published_utc": "2026-02-05",
-    "retrieved_date": "2026-02-05",
-    "retrieved_utc": "2026-02-05T15:56:57Z",
-    "source": "CryptoBriefing",
-    "title": "Bitcoin OG Garrett Jin withdraws 80,000 Ethereum from Binance",
-    "url": "https://cryptobriefing.com/bitcoin-og-massive-eth-withdrawal-binance/",
-    "id_key": "c0d1c34e01e1e6416c7f385363e3662ab867945515461cccf810eeacce741505",
-    "summary": "Jin's withdrawal may indicate shifting market strategies, potentially impacting Ethereum's liquidity and investor sentiment amid volatility. The post Bitcoin OG Garrett Jin withdraws 80,000 Ethereum from Binance appeared first on Crypto Briefing .",
-    "ingested_utc": "2026-02-05T15:56:57Z"
-  },
-  {
-    "published_utc": "2026-02-05",
-    "retrieved_date": "2026-02-05",
-    "retrieved_utc": "2026-02-05T15:56:56Z",
-    "source": "CryptoSlate",
-    "title": "Bitcoin faces a brutal irony as the Treasury refuses to save BTC from its own political success",
-    "url": "https://cryptoslate.com/bitcoin-faces-a-brutal-irony-as-the-treasury-refuses-to-save-the-asset-from-its-own-political-success/",
-    "id_key": "6d2a9e77ac88c064fa20dabc3b9f36c13afbfdd16ec4348ed0799e63a7c45ffe",
-    "summary": "Treasury Secretary Scott Bessent told Congress he has no authority to bail out Bitcoin. The exchange came during a Senate Banking Committee hearing, when Senator Brad Sherman asked whether the Treasury could intervene to support cryptocurrency prices. Bessent's answer was direct: he cannot use taxpayer dollars to buy Bitcoin, and the question falls outside his […] The post Bitcoin faces a brutal irony as the Treasury refuses to save BTC from its own political success appeared first on CryptoSlate .",
-    "ingested_utc": "2026-02-05T15:56:56Z"
   }
 ]
