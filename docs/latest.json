@@ -2,6 +2,28 @@
   {
     "published_utc": "2026-02-07",
     "retrieved_date": "2026-02-07",
+    "retrieved_utc": "2026-02-07T15:19:13Z",
+    "source": "TheStreet_Top",
+    "title": "T-Mobile drops 2 new phone plans to stop customers from fleeing",
+    "url": "https://www.thestreet.com/retail/t-mobile-drops-2-new-phone-plans-to-stop-customers-from-fleeing",
+    "id_key": "8b60f957018409a464a6b0b28c64cfc10a6c59ff1af6574b6d970d5c134242b3",
+    "summary": "T-Mobile’s new plans come as high prices push more consumers to explore cheaper wireless options.",
+    "ingested_utc": "2026-02-07T15:19:13Z"
+  },
+  {
+    "published_utc": "2026-02-07",
+    "retrieved_date": "2026-02-07",
+    "retrieved_utc": "2026-02-07T15:19:01Z",
+    "source": "TheVerge_All",
+    "title": "Anker’s new charger with a screen would feel less gimmicky if it did more",
+    "url": "https://www.theverge.com/tech/873655/anker-nano-charger-smart-display-45w-folding-prongs",
+    "id_key": "7287d58bcc4262ff93fd10ee69b970f731b28ecc48c7ba13025b1a503117e6ed",
+    "summary": "The latest Anker 45-watt Nano charger, announced in January, which remains one of the smallest 45-watt chargers on the market, adds a full color screen displaying an animated character and a smattering of details about the device you're charging. The display is occasionally useful if you like to keep tabs on how much power your […]",
+    "ingested_utc": "2026-02-07T15:19:01Z"
+  },
+  {
+    "published_utc": "2026-02-07",
+    "retrieved_date": "2026-02-07",
     "retrieved_utc": "2026-02-07T14:54:01Z",
     "source": "FinancialPost_Business",
     "title": "Wild Week of Trading Leaves Pockmarks Across US Equity Landscape",
@@ -10976,27 +10998,5 @@
     "id_key": "f7b0ac161c0ea0851acce6a0020bfa62ed245d2e5a6f456736e71f3466fe5107",
     "summary": "Debut strategy with Bitwise Asset Management marks our first step toward a broader suite of managed crypto solutions The post Kraken Institutional announces first bespoke investment solution appeared first on Kraken Blog .",
     "ingested_utc": "2026-02-05T14:31:03Z"
-  },
-  {
-    "published_utc": "2026-02-05",
-    "retrieved_date": "2026-02-05",
-    "retrieved_utc": "2026-02-05T14:30:19Z",
-    "source": "CryptoBriefing",
-    "title": "Anchorage Digital secures $100M investment from Tether as it eyes US IPO",
-    "url": "https://cryptobriefing.com/tether-investment-infrastructure-support/",
-    "id_key": "8b7f13bb513b2154b2e8bf80492f41226ede552f7dcd9c893e171430f246a255",
-    "summary": "Tether's investment in Anchorage Digital could accelerate the development of secure digital asset infrastructure, impacting market stability. The post Anchorage Digital secures $100M investment from Tether as it eyes US IPO appeared first on Crypto Briefing .",
-    "ingested_utc": "2026-02-05T14:30:19Z"
-  },
-  {
-    "published_utc": "2026-02-05",
-    "retrieved_date": "2026-02-05",
-    "retrieved_utc": "2026-02-05T14:30:18Z",
-    "source": "CryptoSlate",
-    "title": "Bitcoin flashes critical $40k warning, signaling another 42% drop before the new bull run can start",
-    "url": "https://cryptoslate.com/bitcoin-flashes-critical-40k-warning-signaling-another-42-drop-before-the-new-bull-run-can-start/",
-    "id_key": "e4758c36148eefe1adc84448c73be8f58c4a73b5ce7ae943141bdd28d058fd25",
-    "summary": "Bitcoin is back in that familiar place where the chart looks ugly, the timeline feels loud, and everyone is trying to guess whether the next move is the one that finally breaks the mood. Today, Bitcoin fell below $70,000 for the first time in well over a year. Historically, that price still looks strong, especially […] The post Bitcoin flashes critical $40k warning, signaling another 42% drop before the new bull run can start appeared first on CryptoSlate .",
-    "ingested_utc": "2026-02-05T14:30:18Z"
   }
 ]
