@@ -2,6 +2,39 @@
   {
     "published_utc": "2026-02-08",
     "retrieved_date": "2026-02-08",
+    "retrieved_utc": "2026-02-08T06:33:31Z",
+    "source": "FT_Markets",
+    "title": "Banks push for speedy European IPOs to cut market risk",
+    "url": "https://www.ft.com/content/1e13ad7d-b551-4575-a229-e6b0452f946c",
+    "id_key": "601cd9ed6555102d83975f4b9c2afb5f4fc36e11e5684a309c6e598297be9ead",
+    "summary": "Bookbuilding periods shrink to record low, helped by strong demand for continent’s stocks",
+    "ingested_utc": "2026-02-08T06:33:31Z"
+  },
+  {
+    "published_utc": "2026-02-08",
+    "retrieved_date": "2026-02-08",
+    "retrieved_utc": "2026-02-08T06:33:30Z",
+    "source": "FT_Home",
+    "title": "World’s priciest hotels charge record prices in defiance of luxury slowdown",
+    "url": "https://www.ft.com/content/94dfcbb3-6f61-4ee5-808a-dfa10d5d2f55",
+    "id_key": "2f82993b73c1c6debb20eb31548ac03a4d30a39f39591181b04578a266fb8c6a",
+    "summary": "‘Hugely resilient’ wealthy travellers are willing to pay up for access to health and lifestyle amenities",
+    "ingested_utc": "2026-02-08T06:33:30Z"
+  },
+  {
+    "published_utc": "2026-02-08",
+    "retrieved_date": "2026-02-08",
+    "retrieved_utc": "2026-02-08T06:31:12Z",
+    "source": "Guardian_World",
+    "title": "‘We need to accept the cost’: future of British Steel unclear as bills for government build up",
+    "url": "https://www.theguardian.com/business/2026/feb/08/british-steel-scunthorpe-future-unclear-uk-government-jingye-options",
+    "id_key": "f668c13845d787ef097c46e545beae30bf664abb06849a7cc693b820d4c3e24c",
+    "summary": "Propping up operations at Scunthorpe site, still legally owned by Jingye, now costs over £1.2m a day – so what are the options? British Steel was losing £700,000 a day last year when its Chinese owner announced plans to shut the steelworks at Scunthorpe. After Jingye rejected support to buy raw materials, the UK government stepped in with emergency legislation to take control of the plant. But that was not the end of the crisis. The cost to the government of propping up British Steel is now more than £1.2m a day. Yet the £359m bill, the latest disclosed to parliament last month, may only be the start. Continue reading...",
+    "ingested_utc": "2026-02-08T06:31:12Z"
+  },
+  {
+    "published_utc": "2026-02-08",
+    "retrieved_date": "2026-02-08",
     "retrieved_utc": "2026-02-08T05:47:38Z",
     "source": "AlJazeera_All",
     "title": "Somalia’s Mohamud slams Israel’s interference, rejects base on Somaliland",
@@ -10965,38 +10998,5 @@
     "id_key": "ea04713609d75d640c6ea8fd436b33c0e9dcd71551b4475eaafc071013778b54",
     "summary": "VPNs have a mixed reputation, primarily because you can use the technology to hide your location and identity on the internet. Even the best VPNs can be used to conceal crimes and make the perpetrators harder to track. Fortunately, most of the world's governments (at least for now) recognize that VPNs are just technology that can be used for good or ill. That means VPNs are legal in almost every country in the world. The countries that do restrict VPNs tend to be those where internet freedoms are already curtailed, like Russia, China, Iran and North Korea. There are distinct gradations between those nations, though. And the days of worry-free VPN access elsewhere in the world is starting to show cracks: Currently free jurisdictions — including the UK, France and even several US states — are now considering bans. Is it legal to use a VPN? The answer is almost always yes. In every country except the ones listed in the next section, there are no legal penalties for visiting a VPN website, downloading a VPN or connecting to a VPN server. In the last few years, however, some countries that were once beacons of online liberty have started considering bans. This is part of a chain reaction that started with age verification laws for websites deemed harmful to children, most prominently the UK's Online Safety Act. Once everyone realized that anyone could circumvent the OSA by using a VPN server in another country, UK politicians began trying to ban VPNs as well . The same thing is currently happening in France . In the US, Wisconsin and Michigan are both proposing age verification laws and VPN bans. For now, though, none of these VPN bans have passed into law. Some have been defeated by the coordinated efforts of activists, including one Swiss proposal that would have forced Proton VPN to relocate. In countries that do ban or restrict VPN usage, the laws can take several forms. Some countries have made all VPNs unlawful to use. Others only allow VPNs approved by the government — approval which usually comes from agreeing to share information with law enforcement. In some other countries, it's legal to use a VPN, but you'll face extra penalties if you use one to commit a crime. I'll go through all these categories in the next section. Where are VPNs illegal? This section is a complete list of countries where using a VPN is a legal risk. If a country isn't on this list, you can assume it's safe to use a VPN. Even nations with bad internet freedom scores, like Saudi Arabia and Indonesia, often don't have anti-VPN laws to avoid scaring off international business. One more important note is that anti-VPN laws are much more likely to be enforced against locals than foreigners. I'm not saying you should tempt fate, just noting that there are very few cases of a traveler being prosecuted in another country solely for using a VPN. Countries where VPNs are totally banned VPNs are completely outlawed in four countries. Three of them — Belarus, Turkmenistan and North Korea — are isolated authoritarian regimes that restrict internet freedoms as part of nationwide crackdowns on all civil and political liberties. Iraq, while slightly more liberal overall, banned VPNs in 2014 in an attempt to kick the Islamic State off the internet. Twelve years later, the ban remains in place. Uganda is a special case. In 2018, the African nation enacted the world's first social media tax , which the government called necessary to raise funds but which was criticized as a backhanded assault on free speech. VPNs can get around the tax, so Ugandan internet service providers (ISPs) are required to block VPN traffic. However, there's no law on the books against using a VPN, so as long as you bring a service with obfuscation (like NordVPN ) you're good to go. Countries where only approved VPNs are allowed More common than banning VPNs altogether is restricting VPN usage to those approved by the government. This lets the powers that be grant limited VPN access to businesses for economic reasons, while also being able to yank it away as a method of control. It also means VPNs with a license to operate are likely to report data or install surveillance backdoors. The nations that handle VPNs this way are China, Russia, Iran, Venezuela, Bahrain, Myanmar, Pakistan, India, Turkey and Oman . These countries don't ban all VPNs, but target popular providers with intermittent crackdowns and threats. China in particular uses the so-called Great Firewall, the world's most sophisticated suite of censorship technologies, to prevent its citizens from even visiting the homepages of VPN companies. If you plan to travel in China and want to maintain access to the outside world, download a VPN before you go — and remember that using it while there will technically put you in violation of the law. Russia is a textbook case of a selective VPN ban, with businesses allowed to use approved VPNs and everyone else left to scramble against periodic mass blocks. Turkey's autocratic government has also tried to crack down on VPN usage by blocking VPN sites, but clumsy implementation has left a lot of holes, allowing Instagram and other social media to remain a free speech lifeline for Turks. Countries with extra penalties for using VPNs to view blocked websites In a few countries, it's legal to use any VPN, but against the law to use them for illegal activities. You might say, \"Duh, I'm aware that breaking the law is illegal,\" but there is a meaningful difference — some crimes are crimier than others. Just like you'll get a much harsher sentence if you rob someone with a weapon, you'll face steeper penalties for using a VPN to view content the government is trying to block. Countries that operate like this include Vietnam, Egypt and the UAE. Potential future VPN bans Today, a number of countries once considered free and tolerant are proposing wide-ranging age verification laws, usually for reasons that boil down to \"think of the children!\" If enacted — as the UK’s Online Safety Act has shown — they effectively offer a choice between two equally unacceptable alternatives: Live with a censored version of the internet, or get broader access only once you sacrifice your online anonymity. VPNs are the easiest and most direct workaround to this rising tide of censorship, which is why those same governments have them in their legislative crosshairs. The threat of enforcement chills free activity in a connected world where enforcers can't be everywhere at once. For now, laws against VPN usage are still largely vague, inconsistent and unevenly applied. As citizens, we can work to make our voices heard and fight against these initiatives before they become law . In the meantime, you may well want to get install your VPN of choice on as many devices as possible — and get your other cybersecurity ducks in a row while you’re at it. This article originally appeared on Engadget at https://www.engadget.com/cybersecurity/vpn/are-vpns-legal-170000878.html?src=rss",
     "ingested_utc": "2026-02-05T17:35:06Z"
-  },
-  {
-    "published_utc": "2026-02-05",
-    "retrieved_date": "2026-02-05",
-    "retrieved_utc": "2026-02-05T17:35:06Z",
-    "source": "Engadget_All",
-    "title": "How to use your Apple Watch to precisely find your new AirTag",
-    "url": "https://www.engadget.com/computing/accessories/how-to-use-your-apple-watch-to-precisely-find-your-new-airtag-164922731.html?src=rss",
-    "id_key": "9c0f97cc17268df9d8d01e024e14e48962f41f78e5fd7662ee8eb06dfa1a1936",
-    "summary": "Our review of the new AirTag went up yesterday, and that involved testing the new Precision Finding feature on Apple Watches. In the process, I found the setup to be confusing and counterintuitive, and was relieved to discover it wasn’t just me. If, like me, you’ve been trying to set up Precision Finding on your Apple Watch for the AirTag you’ve just unboxed and attached to a precious belonging, here are the exact steps to take. First, make sure your Apple Watch is compatible with the feature. That means verifying you’re using the Series 9 or later (you would have bought it in or after 2023) or the Ultra 2 and newer. Then, go to the Watch app on your phone and do the following to make sure you’ve received the latest software update that adds the functionality. Tap General . Press Software update . Make sure the page says you are running watchOS 26.2.1. If not, tap Install Now . If you need to download the software, make sure your watch is on its charging cradle. Even though my Apple Watch Series 11 was fully charged, I was still told to make sure it’s connected to power and had at least 50 percent of juice left for the software to install. After a few minutes, my watch restarted and the app said it was updated to the newest version of watchOS. Now that you have the right hardware and software, you can set up Precision Finding. I assume you’ve already connected the new AirTag to the iPhone that’s linked to your watch (and if you haven’t, make sure to do that ). This was the part of the process that confused me. Instead of opening the Find Items app on the watch, Precision Finding for the new AirTag actually exists as a shortcut in the Control Center. Here are the steps to add it there: Open the Control Center by pushing the button below the dial on the side of the watch. Scroll all the way to the bottom and press “ Edit .” Push the + button at the top left of the screen. Scroll down and tap Find Items . Press Find AirTag , then tap Choose . You should see the new AirTag you’ve linked to your account here. Select the AirTag you want to precisely find. Drag the icon to whichever position you prefer within the Control Center. Hit Done . Now, whenever you want to locate your item, you can pull up the Control Center, press this button and the Precision Finding interface will appear, showing how far away it is. You can also push the button on the bottom right of this screen to get the AirTag to ring, guiding you to where your item is. This article originally appeared on Engadget at https://www.engadget.com/computing/accessories/how-to-use-your-apple-watch-to-precisely-find-your-new-airtag-164922731.html?src=rss",
-    "ingested_utc": "2026-02-05T17:35:06Z"
-  },
-  {
-    "published_utc": "2026-02-05",
-    "retrieved_date": "2026-02-05",
-    "retrieved_utc": "2026-02-05T17:35:06Z",
-    "source": "Engadget_All",
-    "title": "Valheim is coming to Switch 2 this year",
-    "url": "https://www.engadget.com/gaming/valheim-is-coming-to-switch-2-this-year-164159284.html?src=rss",
-    "id_key": "da2350cef92f73b4b1ae2b9906e49fea1ce4b220aca4d8c8e3b35cae90af2867",
-    "summary": "After celebrating its fifth anniversary earlier this month, the tough-as-nails survival Viking game Valheim is coming to Switch 2 this year. Initially launched as a Steam Early Access game in 2021, Valheim lets you team up with up to nine other players online as you explore a procedurally generated open world inspired by Norse mythology. Whether playing alone or with your Viking pals, survival depends on crafting the right gear, building shelters and prevailing in punishing combat encounters. The ultimate aim of the game is to kill various gods dotted around the game's different biomes to be deemed worthy of entering Valhalla. But you can ignore the bosses if you’d rather focus on collecting recipes and cooking up banquets for your fellow bearded adventurers. If I’m being brutally honest, the Switch 2 version of Valheim doesn’t appear to be much of a looker in the announcement trailer, but it’s technically still an early access game at the time of writing, and you do get support for mouse controls and HD Rumble 2 on Nintendo's console. After debuting on PC, Valheim later made the jump to Xbox and will also launch on PS5 later this year. There’s currently no release date for that or the newly announced Switch 2 port, but they could arrive at the same time to coincide with the game hitting 1.0. Valheim was announced during today's third-party-focused Nintendo Direct , in which a bunch of Bethesda games were also confirmed for Switch 2 in 2026. This article originally appeared on Engadget at https://www.engadget.com/gaming/valheim-is-coming-to-switch-2-this-year-164159284.html?src=rss",
-    "ingested_utc": "2026-02-05T17:35:06Z"
-  },
-  {
-    "published_utc": "2026-02-05",
-    "retrieved_date": "2026-02-05",
-    "retrieved_utc": "2026-02-05T17:35:03Z",
-    "source": "TechCrunch_All",
-    "title": "Secondary sales shift from founder windfalls to employee-retention tools",
-    "url": "https://techcrunch.com/2026/02/05/secondary-sales-shift-from-founder-windfalls-to-employee-retention-tools/",
-    "id_key": "0fc5615137eed11ef34a4cd08fffa6d6d58bc9a09e4aba79dc6660f0bf5fa45e",
-    "summary": "AI startups like Clay and ElevenLabs are using early liquidity to keep their best talent.",
-    "ingested_utc": "2026-02-05T17:35:03Z"
   }
 ]
