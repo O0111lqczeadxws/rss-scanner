@@ -2,6 +2,28 @@
   {
     "published_utc": "2026-02-08",
     "retrieved_date": "2026-02-08",
+    "retrieved_utc": "2026-02-08T21:04:35Z",
+    "source": "Nikkei_Asia_Top",
+    "title": "What's behind the strong baht and ringgit, but weak rupiah and peso?",
+    "url": "https://asia.nikkei.com/business/markets/trading-asia/what-s-behind-the-strong-baht-and-ringgit-but-weak-rupiah-and-peso",
+    "id_key": "d08ac6329a84fb35730bcfd46a834046ee80dcb482e87ebc7d63f019bd6fa6b6",
+    "summary": "",
+    "ingested_utc": "2026-02-08T21:04:35Z"
+  },
+  {
+    "published_utc": "2026-02-08",
+    "retrieved_date": "2026-02-08",
+    "retrieved_utc": "2026-02-08T21:03:56Z",
+    "source": "NPR_Top",
+    "title": "U.S. ski star Lindsey Vonn is in 'stable condition' after crash in Olympic downhill",
+    "url": "https://www.npr.org/2026/02/08/nx-s1-5705859/lindsey-vonn-olympic-downhill-race-crash",
+    "id_key": "e786a8d1618d24f6e7e178122d4a5b781de961b710090eca6e2151b0c58c1ae8",
+    "summary": "In an explosive crash near the top of the downhill course in Cortina, Vonn landed a jump perpendicular to the slope and tumbled to a stop shortly below.",
+    "ingested_utc": "2026-02-08T21:03:56Z"
+  },
+  {
+    "published_utc": "2026-02-08",
+    "retrieved_date": "2026-02-08",
     "retrieved_utc": "2026-02-08T20:49:00Z",
     "source": "HackerNews_Top",
     "title": "The 'Little red dots' observed by Webb were direct-collapse black holes",
@@ -10976,27 +10998,5 @@
     "id_key": "256ae020b2d7156b99bb732ebc31e3e455084d6d04aecfd1d135ca25e41a2462",
     "summary": "NOT FOR DISTRIBUTION TO UNITED STATES NEWSWIRE SERVICES OR FOR DISSEMINATION IN THE UNITED STATES VANCOUVER, British Columbia, Feb. 05, 2026 (GLOBE NEWSWIRE) — ExGen Resources Inc. (TSX.V: EXG; OTC: BXXRF) (“ExGen” or the “Company”) is pleased to announce results from its 2025 exploration program on the Southmore Property, in Northwest British Columbia’s Golden Triangle. The […]",
     "ingested_utc": "2026-02-05T23:19:55Z"
-  },
-  {
-    "published_utc": "2026-02-05",
-    "retrieved_date": "2026-02-05",
-    "retrieved_utc": "2026-02-05T23:19:48Z",
-    "source": "TheStreet_Top",
-    "title": "'Particularly in Florida': New groups warn of U.S. travel",
-    "url": "https://www.thestreet.com/travel/particularly-in-florida-new-groups-warn-of-u-s-travel",
-    "id_key": "febcdce165a13b50ed5b0215ddfa7e24e76215f4fb6569230e4c130a8aac1962",
-    "summary": "Throughout President Donald Trump's second term in the White House, numerous nations have periodically issued new travel advisories to citizens who may be coming to the U.S. In March 2025, Germany's Federal Foreign Office updated its page on travel for the U.S. with a paragraph stating that ...",
-    "ingested_utc": "2026-02-05T23:19:48Z"
-  },
-  {
-    "published_utc": "2026-02-05",
-    "retrieved_date": "2026-02-05",
-    "retrieved_utc": "2026-02-05T23:19:11Z",
-    "source": "NYTimes_World",
-    "title": "Toronto Police Charged in Sweeping Drug and Corruption Case",
-    "url": "https://www.nytimes.com/2026/02/05/world/canada/toronto-police-arrested-drugs-corruption.html",
-    "id_key": "753ef7a0f0de9ff7adc54f6b53512a17a5bc801fd72d5e7649f3aa9c892ae15e",
-    "summary": "After hit men targeted the home of a prison manager in June, investigators say, the schemes of a criminal network involving the police unraveled.",
-    "ingested_utc": "2026-02-05T23:19:11Z"
   }
 ]
