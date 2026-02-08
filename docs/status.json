@@ -1,6 +1,6 @@
 {
-  "started_utc": "2026-02-08T20:16:10Z",
-  "ended_utc": "2026-02-08T20:19:34Z",
+  "started_utc": "2026-02-08T20:45:32Z",
+  "ended_utc": "2026-02-08T20:49:00Z",
   "new_items_this_run": 4,
   "total_in_latest": 1000,
   "by_source": {
@@ -57,7 +57,7 @@
     "MarketWatch_Bulletins": 0,
     "MarketWatch_PersonalFinance": 0,
     "NYTimes_Business": 0,
-    "NYTimes_World": 0,
+    "NYTimes_World": 1,
     "NYTimes_Economy": 0,
     "NYTimes_Technology": 0,
     "CNN_Top": 0,
@@ -66,7 +66,7 @@
     "NPR_Economy": 0,
     "NPR_World": 0,
     "NPR_Technology": 0,
-    "FT_Home": 1,
+    "FT_Home": 0,
     "FT_Markets": 0,
     "CNBC_Top": 0,
     "CNBC_Markets": 0,
@@ -74,12 +74,12 @@
     "TechCrunch_All": 0,
     "ArsTechnica_All": 0,
     "WIRED_All": 0,
-    "Engadget_All": 0,
+    "Engadget_All": 1,
     "TheEconomist_Business": 0,
     "TheEconomist_Finance": 0,
     "Investopedia_Latest": 0,
     "TheStreet_Top": 0,
-    "AlJazeera_All": 2,
+    "AlJazeera_All": 0,
     "AlJazeera_Economy": 0,
     "FinancialPost_Business": 0,
     "CBC_Business": 0,
@@ -87,7 +87,7 @@
     "WorldBank_News": 0,
     "OECD_Newsroom": 0,
     "MIT_TechReview": 0,
-    "HackerNews_Top": 0
+    "HackerNews_Top": 1
   },
   "errors": [
     {
@@ -335,9 +335,9 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 558,
+    "passed_keywords": 556,
     "passed_allowlist": 0,
-    "failed_all_filters": 465
+    "failed_all_filters": 468
   },
   "stats": {
     "feeds_total": 97,
@@ -345,8 +345,8 @@
     "feeds_timeout": 0,
     "feeds_http_error": 0,
     "entries_seen": 1545,
-    "too_old": 522,
-    "dup_title_url": 106,
+    "too_old": 521,
+    "dup_title_url": 104,
     "dup_id": 448
   },
   "limits": {
