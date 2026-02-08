@@ -2,6 +2,17 @@
   {
     "published_utc": "2026-02-08",
     "retrieved_date": "2026-02-08",
+    "retrieved_utc": "2026-02-08T23:55:02Z",
+    "source": "FinancialPost_Business",
+    "title": "Takaichi Win Spurs Gain in Japan’s Stocks, Pressures Yen, Bonds",
+    "url": "https://financialpost.com/pmn/business-pmn/takaichi-win-primes-japan-stocks-for-gains-damps-yen-and-bonds",
+    "id_key": "96401fe945b801f1d13d6e370a97292cf4ef1445609fdbc867040a9b6a80a49a",
+    "summary": "Japanese stock futures gained, while the nation’s currency and bonds are vulnerable to further declines, after Prime Minister Sanae Takaichi’s Liberal Democratic Party headed for a landslide victory.",
+    "ingested_utc": "2026-02-08T23:55:02Z"
+  },
+  {
+    "published_utc": "2026-02-08",
+    "retrieved_date": "2026-02-08",
     "retrieved_utc": "2026-02-08T23:24:21Z",
     "source": "FinancialPost_Business",
     "title": "Eskom Can Raise $3.4 Billion From Tariffs After Regulator Error",
@@ -10987,16 +10998,5 @@
     "id_key": "0986c8a9981fe300c58e238f79151aa7846ba7402667ca626d9d9454985f633b",
     "summary": "Between war, protests and government crackdowns, the filmmakers raced to finish and smuggle their portrait of Tehran's underground arts scene to the prestigious film festival.",
     "ingested_utc": "2026-02-06T08:33:16Z"
-  },
-  {
-    "published_utc": "2026-02-05",
-    "retrieved_date": "2026-02-06",
-    "retrieved_utc": "2026-02-06T07:12:29Z",
-    "source": "BBC_World",
-    "title": "What's happened since Savannah Guthrie's mother disappeared?",
-    "url": "https://www.bbc.com/news/videos/c8j342x3y08o?at_medium=RSS&at_campaign=rss",
-    "id_key": "658a468c9c68fff8a2d7d3e8d1df62f941041568c85cb4bc50b13b8642365a21",
-    "summary": "Police have offered a reward of $50,000 for information on the disappearance, while the FBI says it is reviewing two ransom notes.",
-    "ingested_utc": "2026-02-06T07:12:29Z"
   }
 ]
