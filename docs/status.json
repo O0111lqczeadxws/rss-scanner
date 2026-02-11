@@ -1,17 +1,17 @@
 {
-  "started_utc": "2026-02-11T22:57:25Z",
-  "ended_utc": "2026-02-11T23:00:43Z",
-  "new_items_this_run": 16,
+  "started_utc": "2026-02-11T23:26:16Z",
+  "ended_utc": "2026-02-11T23:29:46Z",
+  "new_items_this_run": 10,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
     "Reuters_World": 0,
     "Reuters_Markets": 0,
-    "BBC_World": 0,
+    "BBC_World": 1,
     "BBC_Business": 0,
     "BBC_Technology": 0,
     "Guardian_Business": 0,
-    "Guardian_World": 7,
+    "Guardian_World": 4,
     "WSJ_US_Business": 0,
     "WSJ_World": 0,
     "WSJ_Markets": 0,
@@ -22,7 +22,7 @@
     "CryptoSlate": 0,
     "CryptoBriefing": 0,
     "Protos": 0,
-    "CryptoNews": 1,
+    "CryptoNews": 0,
     "CoinJournal": 0,
     "Unchained": 0,
     "Bankless": 0,
@@ -52,13 +52,13 @@
     "Arbitrum_Nitro_Releases": 0,
     "Optimism_Releases": 0,
     "PolygonEdge_Releases": 0,
-    "CardanoNode_Releases": 1,
+    "CardanoNode_Releases": 0,
     "MarketWatch_RealTime": 0,
     "MarketWatch_Bulletins": 0,
     "MarketWatch_PersonalFinance": 0,
     "NYTimes_Business": 0,
-    "NYTimes_World": 1,
-    "NYTimes_Economy": 2,
+    "NYTimes_World": 2,
+    "NYTimes_Economy": 0,
     "NYTimes_Technology": 0,
     "CNN_Top": 0,
     "NPR_Top": 0,
@@ -87,7 +87,7 @@
     "WorldBank_News": 0,
     "OECD_Newsroom": 0,
     "MIT_TechReview": 0,
-    "HackerNews_Top": 1
+    "HackerNews_Top": 0
   },
   "errors": [
     {
@@ -335,19 +335,19 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 498,
+    "passed_keywords": 537,
     "passed_allowlist": 0,
-    "failed_all_filters": 451
+    "failed_all_filters": 498
   },
   "stats": {
     "feeds_total": 97,
     "feeds_error": 23,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 1452,
+    "entries_seen": 1538,
     "too_old": 503,
-    "dup_title_url": 91,
-    "dup_id": 391
+    "dup_title_url": 94,
+    "dup_id": 433
   },
   "limits": {
     "skip_older_days": 10,
@@ -360,6 +360,6 @@
   },
   "processed": {
     "file": "data/processed/2026-02-11.jsonl",
-    "appended_new": 16
+    "appended_new": 10
   }
 }
