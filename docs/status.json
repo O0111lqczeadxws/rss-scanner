@@ -1,17 +1,17 @@
 {
-  "started_utc": "2026-02-12T15:33:20Z",
-  "ended_utc": "2026-02-12T15:36:40Z",
+  "started_utc": "2026-02-12T16:38:46Z",
+  "ended_utc": "2026-02-12T16:42:12Z",
   "new_items_this_run": 31,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
     "Reuters_World": 0,
     "Reuters_Markets": 0,
-    "BBC_World": 0,
-    "BBC_Business": 1,
+    "BBC_World": 1,
+    "BBC_Business": 0,
     "BBC_Technology": 0,
     "Guardian_Business": 0,
-    "Guardian_World": 11,
+    "Guardian_World": 5,
     "WSJ_US_Business": 0,
     "WSJ_World": 0,
     "WSJ_Markets": 0,
@@ -19,9 +19,9 @@
     "MarketWatch_MarketPulse": 0,
     "Blockworks": 0,
     "BitcoinMagazine": 1,
-    "CryptoSlate": 0,
+    "CryptoSlate": 1,
     "CryptoBriefing": 1,
-    "Protos": 0,
+    "Protos": 1,
     "CryptoNews": 0,
     "CoinJournal": 0,
     "Unchained": 0,
@@ -57,7 +57,7 @@
     "MarketWatch_Bulletins": 1,
     "MarketWatch_PersonalFinance": 0,
     "NYTimes_Business": 1,
-    "NYTimes_World": 0,
+    "NYTimes_World": 2,
     "NYTimes_Economy": 0,
     "NYTimes_Technology": 0,
     "CNN_Top": 0,
@@ -70,24 +70,24 @@
     "FT_Markets": 0,
     "CNBC_Top": 0,
     "CNBC_Markets": 0,
-    "TheVerge_All": 1,
+    "TheVerge_All": 3,
     "TechCrunch_All": 0,
-    "ArsTechnica_All": 0,
-    "WIRED_All": 0,
-    "Engadget_All": 2,
+    "ArsTechnica_All": 1,
+    "WIRED_All": 1,
+    "Engadget_All": 5,
     "TheEconomist_Business": 0,
     "TheEconomist_Finance": 0,
     "Investopedia_Latest": 0,
-    "TheStreet_Top": 4,
+    "TheStreet_Top": 1,
     "AlJazeera_All": 0,
     "AlJazeera_Economy": 0,
-    "FinancialPost_Business": 6,
+    "FinancialPost_Business": 5,
     "CBC_Business": 0,
     "Nikkei_Asia_Top": 0,
     "WorldBank_News": 0,
     "OECD_Newsroom": 0,
     "MIT_TechReview": 0,
-    "HackerNews_Top": 1
+    "HackerNews_Top": 0
   },
   "errors": [
     {
@@ -152,6 +152,14 @@
     },
     {
       "source": "Uniswap_Blog",
+      "error": "fatal parse failure"
+    },
+    {
+      "source": "https://medium.com/feed/aave",
+      "error": "fetch error: HTTP 429"
+    },
+    {
+      "source": "Aave_Blog",
       "error": "fatal parse failure"
     },
     {
@@ -335,19 +343,19 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 555,
+    "passed_keywords": 551,
     "passed_allowlist": 1,
     "failed_all_filters": 522
   },
   "stats": {
     "feeds_total": 97,
-    "feeds_error": 23,
+    "feeds_error": 24,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 1555,
-    "too_old": 477,
-    "dup_title_url": 104,
-    "dup_id": 421
+    "entries_seen": 1542,
+    "too_old": 468,
+    "dup_title_url": 108,
+    "dup_id": 413
   },
   "limits": {
     "skip_older_days": 10,
