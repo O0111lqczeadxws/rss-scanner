@@ -2,6 +2,72 @@
   {
     "published_utc": "2026-02-13",
     "retrieved_date": "2026-02-13",
+    "retrieved_utc": "2026-02-13T20:01:05Z",
+    "source": "HackerNews_Top",
+    "title": "Show HN: Skill that lets Claude Code/Codex spin up VMs and GPUs",
+    "url": "https://cloudrouter.dev/",
+    "id_key": "fd2913e0d9336734e07c9713db175c1e868e7323dbd80ef9ccf7e662f6d03e80",
+    "summary": "Comments",
+    "ingested_utc": "2026-02-13T20:01:05Z"
+  },
+  {
+    "published_utc": "2026-02-13",
+    "retrieved_date": "2026-02-13",
+    "retrieved_utc": "2026-02-13T20:00:56Z",
+    "source": "FinancialPost_Business",
+    "title": "World no. 2 gold miner is ‘willing to move’ on M&A, CEO says",
+    "url": "https://financialpost.com/commodities/mining/world-no-2-gold-miner-move-on-ma",
+    "id_key": "c43637c36ba72635185a0b489c27ad02362b5ea8dde177f1862487a75b9446eb",
+    "summary": "Al-Joundi said assets with strong exploration potential would offer the most high value opportunities",
+    "ingested_utc": "2026-02-13T20:00:56Z"
+  },
+  {
+    "published_utc": "2026-02-13",
+    "retrieved_date": "2026-02-13",
+    "retrieved_utc": "2026-02-13T20:00:49Z",
+    "source": "AlJazeera_All",
+    "title": "Is our food making us sick?",
+    "url": "https://www.aljazeera.com/video/the-stream/2026/2/13/is-our-food-making-us-sick?traffic_source=rss",
+    "id_key": "3818d05f9b6def7d878c3c921f84d1aadc494ccc68c35d2ef28f40b6be8b9ef8",
+    "summary": "From ultra-processed foods to hidden chemicals, we ask whether what’s on our plates is making us ill.",
+    "ingested_utc": "2026-02-13T20:00:49Z"
+  },
+  {
+    "published_utc": "2026-02-13",
+    "retrieved_date": "2026-02-13",
+    "retrieved_utc": "2026-02-13T20:00:40Z",
+    "source": "Engadget_All",
+    "title": "Valve's latest Steam beta lets you add your PC's specs to game reviews",
+    "url": "https://www.engadget.com/gaming/pc/valves-latest-steam-beta-lets-you-add-your-pcs-specs-to-game-reviews-195038078.html?src=rss",
+    "id_key": "38ac1bf087d8a8a149140630a13e3adf8207a920ef79ba1c6860f89a550c5ecf",
+    "summary": "An upcoming update to Steam includes a helpful improvement to game reviews. As part of the Steam Client Beta update Valve released on February 12, users will now be able to attach information about their hardware specifications when they post a new game review or update an old one. It's not uncommon to find negative reviews that complain about a game's performance, information that's hard to draw a conclusion from without knowing what kind of hardware the reviewer is using. With specs attached, the usefulness of complaints becomes a little bit easier to gauge. A game's sales performance and discoverability on Steam is heavily influenced by its review average, a data point Steam users sometimes manipulate for reasons unconnected to the quality of a game. Provided reviewers actually attach their specs — at least in the beta, the feature is entirely optional — Valve's mercurial reviews ecosystem could end up becoming more nuanced overall. Alongside the new option in reviews, Valve is also experimenting with a way for users to share \"anonymized framerate data\" with the company. When framerate sharing is enabled, \"Steam will collect gameplay framerate data, stored without connection to your Steam account but identified with the kind of hardware you are playing on,\" Valve says. The feature is specifically focused on devices running SteamOS, Valve's Linux-based operating system for the Steam Deck and some third-party handhelds . The extra information could help the company's attempts to improve game compatibility using software like Proton . The beta update also includes bug fixes, and a tweak to how Valve collects feedback about whether a game should be Deck Verified . Now when Steam prompts you to confirm whether you agree with a game's rating, if you disagree, you can provide a reason as to why. This article originally appeared on Engadget at https://www.engadget.com/gaming/pc/valves-latest-steam-beta-lets-you-add-your-pcs-specs-to-game-reviews-195038078.html?src=rss",
+    "ingested_utc": "2026-02-13T20:00:40Z"
+  },
+  {
+    "published_utc": "2026-02-13",
+    "retrieved_date": "2026-02-13",
+    "retrieved_utc": "2026-02-13T20:00:38Z",
+    "source": "WIRED_All",
+    "title": "Senators Urge Top Regulator to Stay Out of Prediction Market Lawsuits",
+    "url": "https://www.wired.com/story/senators-urge-top-regulators-to-stay-out-of-prediction-market-lawsuits/",
+    "id_key": "7cf38030782bc72b3e088cd368704d4c7fed9af61d0cfe0a7ccf38fc9a4867a3",
+    "summary": "As prediction market platforms like Polymarket and Kalshi battle regulators in court, Senate Democrats are urging the CFTC to avoid weighing in, escalating a broader fight over the burgeoning industry.",
+    "ingested_utc": "2026-02-13T20:00:38Z"
+  },
+  {
+    "published_utc": "2026-02-13",
+    "retrieved_date": "2026-02-13",
+    "retrieved_utc": "2026-02-13T19:59:28Z",
+    "source": "Optimism_Releases",
+    "title": "op-batcher/v1.16.4",
+    "url": "https://github.com/ethereum-optimism/optimism/releases/tag/op-batcher%2Fv1.16.4",
+    "id_key": "68b0398a2c6cda1552cee85705765579f44256d8ed252429bac023c92b20b102",
+    "summary": "This is a recommended release containing: A feature where the batcher can choose a smarter, dynamic blob tip cap to use, based on recent market activity on L1. The feature can be enabled by setting OP_BATCHER_TXMGR_BLOB_TIP_CAP_DYNAMIC=true . By default, the existing static blob tip cap will be used. For more details, see #18981 and #18386 . Several bugfixes and stability improvements. Tip If you use proxyd for the batcher's L1 connection, we recommend upgrading to proxyd/v4.25.0 (this contains a non-critical bugfix and avoids noisy warning logs being emitted by the batcher). What's Changed in op-batcher/v1.16.4 bgpo: convert BTO from subscription to polling by @sebastianst in #19095 txmgr: move BTO config setup to txmgr by @sebastianst in #19061 txmgr: move BlobTipOracle ownership to txmgr by @sebastianst in #19032 txmgr: use blob tip cap during fee increases by @sebastianst in #19028 txmgr: make blob tip cap mechanism configurable by @sebastianst in #18981 fix(op-batcher): fix loop in batcher with shadow compressor+brotli by @bearpebble in #18485 op-batcher: Nil Pointer Dereference in getReadyChannel by @blockchaindevsh in #18701 batcher: remove isPectra and assume Pectra is always active by @Himess in #18534 Full Changelog : op-batcher/v1.16.3...op-batcher/v1.16.4 🚢 Docker Image: https://us-docker.pkg.dev/oplabs-tools-artifacts/images/op-batcher:v1.16.4",
+    "ingested_utc": "2026-02-13T19:59:28Z"
+  },
+  {
+    "published_utc": "2026-02-13",
+    "retrieved_date": "2026-02-13",
     "retrieved_utc": "2026-02-13T19:33:15Z",
     "source": "HackerNews_Top",
     "title": "IronClaw: a Rust-based clawd that runs tools in isolated WASM sandboxes",
@@ -10932,71 +10998,5 @@
     "id_key": "88242446b3780e42522599e6c39a2e01805c9d4a4a31944b78c2e4aea19e217b",
     "summary": "January’s jobs data, released on Wednesday, bolstered expectations that the Federal Reserve will hold interest rates steady for longer than previously expected.",
     "ingested_utc": "2026-02-11T22:59:49Z"
-  },
-  {
-    "published_utc": "2026-02-11",
-    "retrieved_date": "2026-02-11",
-    "retrieved_utc": "2026-02-11T22:59:49Z",
-    "source": "NYTimes_Economy",
-    "title": "After a Year of Sluggish Hiring, 2026 Is Off to a Stronger Start",
-    "url": "https://www.nytimes.com/2026/02/11/business/economy/after-a-year-of-sluggish-hiring-2026-could-be-off-to-a-stronger-start.html",
-    "id_key": "978e51589bd1abe5d9a768167364971a9cd355312b6a4913ddedbde215a2507f",
-    "summary": "The economy added substantially more jobs than expected last month, as more people entered the labor force and wages grew.",
-    "ingested_utc": "2026-02-11T22:59:49Z"
-  },
-  {
-    "published_utc": "2026-02-11",
-    "retrieved_date": "2026-02-11",
-    "retrieved_utc": "2026-02-11T22:59:31Z",
-    "source": "Guardian_World",
-    "title": "Instagram CEO dismisses idea of social media addiction in landmark trial",
-    "url": "https://www.theguardian.com/technology/2026/feb/11/instagram-adam-mosseri-social-media-addiction-trial",
-    "id_key": "8cde4d4a5790cbf34bd4b521bf4c4a124eb02cb8247b6712a0c93b58948f03e1",
-    "summary": "Adam Mosseri defends app on witness stand and says critics must separate ‘clinical addiction’ from ‘problematic use’ Instagram’s CEO dismissed the idea that users can be addicted to social media at a landmark California trial on Wednesday. “I think it’s important to differentiate between clinical addiction and problematic use,” Adam Mosseri said on the witness stand. Psychologists do not classify social media addiction as an official diagnosis. Researchers have documented the harmful consequences of compulsive use among young people, and lawmakers around the world are worried about its addictive potential. Continue reading...",
-    "ingested_utc": "2026-02-11T22:59:31Z"
-  },
-  {
-    "published_utc": "2026-02-11",
-    "retrieved_date": "2026-02-11",
-    "retrieved_utc": "2026-02-11T22:59:11Z",
-    "source": "CardanoNode_Releases",
-    "title": "10.6.2",
-    "url": "https://github.com/IntersectMBO/cardano-node/releases/tag/10.6.2",
-    "id_key": "dd1371b44322f3a3502bfa9bbcc78637955a19c94addd846bc44e5a4342ec05b",
-    "summary": "Release cardano-node 10.6.2",
-    "ingested_utc": "2026-02-11T22:59:11Z"
-  },
-  {
-    "published_utc": "2026-02-11",
-    "retrieved_date": "2026-02-11",
-    "retrieved_utc": "2026-02-11T22:58:06Z",
-    "source": "CryptoNews",
-    "title": "Best Crypto to Buy Now February 11 – XRP, Solana, Dogecoin",
-    "url": "https://cryptonews.com/news/best-crypto-to-buy-now-february-11-xrp-solana-dogecoin/",
-    "id_key": "162ad9b7775b5e6fb67f4fd1aa2173d5a9c8b9e22a241cbd140f97dc2b4b8e33",
-    "summary": "Market routs are often the best time to enter crypto.As Bitcoin ($BTC) fights to retake $70,000, many established digital assets are now trading at a substantial discount relative to recent highs.The long-term trend indicates global adoption is all but inevitable. In this context, signs indicate that XRP, Solana, and Dogecoin could be the best crypto […] The post Best Crypto to Buy Now February 11 – XRP, Solana, Dogecoin appeared first on Cryptonews .",
-    "ingested_utc": "2026-02-11T22:58:06Z"
-  },
-  {
-    "published_utc": "2026-02-11",
-    "retrieved_date": "2026-02-11",
-    "retrieved_utc": "2026-02-11T22:57:45Z",
-    "source": "Guardian_World",
-    "title": "Tumbler Ridge school shooting: police identify suspect in Canada attack as 18-year-old local resident – as it happened",
-    "url": "https://www.theguardian.com/world/live/2026/feb/11/tumbler-ridge-school-shooting-live-updates-number-dead-suspect-deceased",
-    "id_key": "2245862d685cabc94f86654c4322459d60cd2ed4bf9386446470f94c7e83c3cb",
-    "summary": "This live blog is now closed. For the latest, read our coverage: Full report: Canadian police identify suspect in school massacre that left nine dead Tumbler Ridge shooting: key questions answered about deadly attack in Canada “We believe we’ve been able to identify the shooter,” said Floyd, adding that RCMP will withhold the shooter’s identity for privacy reasons and for the conduct of the investigation. Floyd also refused to disclose details on how many of the victims were children and adults, adding that more details will emerge in coming days. Continue reading...",
-    "ingested_utc": "2026-02-11T22:57:45Z"
-  },
-  {
-    "published_utc": "2026-02-11",
-    "retrieved_date": "2026-02-11",
-    "retrieved_utc": "2026-02-11T22:57:45Z",
-    "source": "Guardian_World",
-    "title": "Gisèle Pelicot calls on victims to ‘never have shame’ in her first TV interview",
-    "url": "https://www.theguardian.com/world/2026/feb/11/gisele-pelicot-memoir-shock-rag-doll-images-shown-by-police",
-    "id_key": "05bfef40cc6e99ed0277aa9ddb617970726df252c5428e77907694386016d85b",
-    "summary": "Pelicot says shame is ‘a double sentence’ and describes shock of seeing herself like ‘a rag doll’ in police footage Gisèle Pelicot, who became a global symbol of courage during the trial of her ex-husband and the dozens of men who raped her while she was unconscious, has called on victims to never be ashamed. In her first TV interview, on the channel France 5, Pelicot said: “Shame sticks to you, it sticks to your skin. And that shame is a double sentence, it’s a suffering you inflict on yourself.” Continue reading...",
-    "ingested_utc": "2026-02-11T22:57:45Z"
   }
 ]
