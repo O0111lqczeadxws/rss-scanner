@@ -2,6 +2,17 @@
   {
     "published_utc": "2026-02-14",
     "retrieved_date": "2026-02-14",
+    "retrieved_utc": "2026-02-14T22:00:12Z",
+    "source": "FinancialPost_Business",
+    "title": "The Bahamas Welcomes First-Ever U.S. Nonstop Service to Bimini via American Airlines",
+    "url": "https://financialpost.com/globe-newswire/the-bahamas-welcomes-first-ever-u-s-nonstop-service-to-bimini-via-american-airlines",
+    "id_key": "89641a9b41c02395f83528cca811ef4bcf2a551752df8571fc084064bdd6423c",
+    "summary": "Nassau, The Bahamas, Feb. 14, 2026 (GLOBE NEWSWIRE) — The Bahamas Ministry of Tourism, Investments & Aviation proudly announced a new era of connectivity for Bimini, welcoming the launch of the first-ever nonstop service from the United States via American Airlines. Beginning 14 February 2026, the new flight from Miami International Airport (MIA) to South […]",
+    "ingested_utc": "2026-02-14T22:00:12Z"
+  },
+  {
+    "published_utc": "2026-02-14",
+    "retrieved_date": "2026-02-14",
     "retrieved_utc": "2026-02-14T21:48:30Z",
     "source": "FinancialPost_Business",
     "title": "BOE on Knife Edge Over Rates Awaits Pivotal UK Inflation Data",
@@ -10987,16 +10998,5 @@
     "id_key": "0ccd19aa0806222b7314801019eda85657c275d3263909e91ff171a429894996",
     "summary": "Comments",
     "ingested_utc": "2026-02-12T15:36:39Z"
-  },
-  {
-    "published_utc": "2026-02-12",
-    "retrieved_date": "2026-02-12",
-    "retrieved_utc": "2026-02-12T15:36:30Z",
-    "source": "FinancialPost_Business",
-    "title": "Egypt Extends Rate-Cut Cycle Into New Year as Inflation Eases",
-    "url": "https://financialpost.com/pmn/business-pmn/egypt-extends-rate-cut-cycle-into-new-year-as-inflation-eases",
-    "id_key": "97e5192780d64cb237b265c576052e8bc62da2ad5e8a31e9313a186f0ec0a2fa",
-    "summary": "Egypt extended a cycle of interest-rate cuts into 2026, encouraged by the lowest inflation in months and a stronger local currency.",
-    "ingested_utc": "2026-02-12T15:36:30Z"
   }
 ]
