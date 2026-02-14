@@ -1,6 +1,6 @@
 {
-  "started_utc": "2026-02-14T23:23:29Z",
-  "ended_utc": "2026-02-14T23:26:52Z",
+  "started_utc": "2026-02-14T23:44:58Z",
+  "ended_utc": "2026-02-14T23:48:24Z",
   "new_items_this_run": 3,
   "total_in_latest": 1000,
   "by_source": {
@@ -20,7 +20,7 @@
     "Blockworks": 0,
     "BitcoinMagazine": 0,
     "CryptoSlate": 0,
-    "CryptoBriefing": 0,
+    "CryptoBriefing": 1,
     "Protos": 0,
     "CryptoNews": 0,
     "CoinJournal": 0,
@@ -61,7 +61,7 @@
     "NYTimes_Economy": 0,
     "NYTimes_Technology": 0,
     "CNN_Top": 0,
-    "NPR_Top": 1,
+    "NPR_Top": 0,
     "NPR_Business": 0,
     "NPR_Economy": 0,
     "NPR_World": 0,
@@ -78,7 +78,7 @@
     "TheEconomist_Business": 0,
     "TheEconomist_Finance": 0,
     "Investopedia_Latest": 0,
-    "TheStreet_Top": 1,
+    "TheStreet_Top": 0,
     "AlJazeera_All": 0,
     "AlJazeera_Economy": 0,
     "FinancialPost_Business": 0,
@@ -87,7 +87,7 @@
     "WorldBank_News": 0,
     "OECD_Newsroom": 0,
     "MIT_TechReview": 0,
-    "HackerNews_Top": 0
+    "HackerNews_Top": 1
   },
   "errors": [
     {
@@ -173,6 +173,14 @@
     {
       "source": "Polygon_Blog",
       "error": "<unknown>:2:2292: not well-formed (invalid token)"
+    },
+    {
+      "source": "https://medium.com/feed/avalancheavax",
+      "error": "fetch error: HTTP 429"
+    },
+    {
+      "source": "Avalanche_Blog",
+      "error": "fatal parse failure"
     },
     {
       "source": "NEAR_Blog",
@@ -335,19 +343,19 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 545,
+    "passed_keywords": 543,
     "passed_allowlist": 0,
     "failed_all_filters": 489
   },
   "stats": {
     "feeds_total": 97,
-    "feeds_error": 23,
+    "feeds_error": 24,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 1538,
-    "too_old": 504,
-    "dup_title_url": 99,
-    "dup_id": 443
+    "entries_seen": 1526,
+    "too_old": 494,
+    "dup_title_url": 98,
+    "dup_id": 442
   },
   "limits": {
     "skip_older_days": 10,
