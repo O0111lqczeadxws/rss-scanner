@@ -2,6 +2,17 @@
   {
     "published_utc": "2026-02-14",
     "retrieved_date": "2026-02-14",
+    "retrieved_utc": "2026-02-14T20:47:05Z",
+    "source": "Engadget_All",
+    "title": "Airbnb is testing out AI search with a 'small percentage' of users",
+    "url": "https://www.engadget.com/ai/airbnb-is-testing-out-ai-search-with-a-small-percentage-of-users-203054011.html?src=rss",
+    "id_key": "7954265ba37a5dac09e8ec65f53f5f0512f729403d08649c7ebe250aceb7f613",
+    "summary": "Airbnb plans to double down on artificial intelligence to improve its user experience for both guests and hosts. During a fourth-quarter earnings call , Airbnb's CEO, Brian Chesky, said the company is building an \"AI-native experience\" aimed at helping guests book trips, assisting hosts with their listings, and running the company more efficiently. According to Chesky, there's an AI search tool to help guests book trips that's live for a small percentage of users right now. In a shareholder letter posted on Airbnb's website, the company said it's conducting early testing with an AI-powered search that is \"focused on giving guests a more natural way to describe what they’re looking for, and ask questions about the listing and location.\" The letter added that the AI search tool will become \"a more comprehensive and intuitive search experience that extends through the trip,\" but the company didn't offer a definitive date on when it would be available to the public. While it may feel like Airbnb is late to incorporating AI into its ecosystem, it introduced an AI chatbot that handles customer service requests last year. While the AI agent is only available to users in North America currently, Airbnb said that it already handles a third of customer requests without the need for human intervention, as reported by TechCrunch . Chesky also said during the earnings call that the AI chatbot would tackle \"significantly more\" customer tickets a year from now and that it would roll out to the rest of the world. This article originally appeared on Engadget at https://www.engadget.com/ai/airbnb-is-testing-out-ai-search-with-a-small-percentage-of-users-203054011.html?src=rss",
+    "ingested_utc": "2026-02-14T20:47:05Z"
+  },
+  {
+    "published_utc": "2026-02-14",
+    "retrieved_date": "2026-02-14",
     "retrieved_utc": "2026-02-14T20:18:46Z",
     "source": "HackerNews_Top",
     "title": "US Military preparing for potentially weeks-long Iran operations",
@@ -10987,16 +10998,5 @@
     "id_key": "54a0285fde509bde5bd4f367194870a90dcd39a82edc234f7eb42d543d64c35c",
     "summary": "Big Tech's race to leapfrog the latest AI models continues with the launch of ByteDance's next-gen video generator. In a blog post, ByteDance - the China-based company behind TikTok - says Seedance 2.0 supports prompts that combine text, images, video, and audio. The company claims it \"delivers a substantial leap in generation quality,\" offering improvements […]",
     "ingested_utc": "2026-02-12T15:36:11Z"
-  },
-  {
-    "published_utc": "2026-02-12",
-    "retrieved_date": "2026-02-12",
-    "retrieved_utc": "2026-02-12T15:35:58Z",
-    "source": "FT_Home",
-    "title": "CIA releases new video in bid to lure Chinese military officers to spy for US",
-    "url": "https://www.ft.com/content/d30d656e-2975-4940-8708-da4dc43cd896",
-    "id_key": "337b6680546120659903ba369ec651c2b2ab9cb6271aa07ccb50587151012fab",
-    "summary": "US intelligence agency seeks to tap into frustration over extensive purges at People’s Liberation Army",
-    "ingested_utc": "2026-02-12T15:35:58Z"
   }
 ]
