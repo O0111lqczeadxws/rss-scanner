@@ -2,6 +2,50 @@
   {
     "published_utc": "2026-02-15",
     "retrieved_date": "2026-02-15",
+    "retrieved_utc": "2026-02-15T22:48:29Z",
+    "source": "AlJazeera_All",
+    "title": "Can the UN Security Council be reformed?",
+    "url": "https://www.aljazeera.com/video/inside-story/2026/2/15/can-the-un-security-council-be-reformed?traffic_source=rss",
+    "id_key": "00ff9b38f4ac10ca56eec2338a59c14ca1ab632a19e165221fbe3b39cc9183f3",
+    "summary": "The UN secretary-general says the absence of African seats is 'indefensible'.",
+    "ingested_utc": "2026-02-15T22:48:29Z"
+  },
+  {
+    "published_utc": "2026-02-15",
+    "retrieved_date": "2026-02-15",
+    "retrieved_utc": "2026-02-15T22:48:01Z",
+    "source": "NPR_World",
+    "title": "Munich conference ends with Europe looking for a future less dependent on the U.S.",
+    "url": "https://www.npr.org/2026/02/15/nx-s1-5713543/munich-conference-ends-with-europe-looking-for-a-future-less-dependent-on-the-u-s",
+    "id_key": "1faaf9defbfe4547d95d6fc8e8a3cbb48a1670818d857a6a0a92e8428150de78",
+    "summary": "As the Munich Security Conference wraps up, reassurances from Marco Rubio met a Europe questioning whether it can — and must — stand on its own.",
+    "ingested_utc": "2026-02-15T22:48:01Z"
+  },
+  {
+    "published_utc": "2026-02-15",
+    "retrieved_date": "2026-02-15",
+    "retrieved_utc": "2026-02-15T22:46:02Z",
+    "source": "CryptoBriefing",
+    "title": "Dan Houser: “Goodfellas” revolutionized cinema and storytelling | Lex Fridman Podcast",
+    "url": "https://cryptobriefing.com/dan-houser-goodfellas-revolutionized-cinema-and-storytelling-lex-fridman-podcast/",
+    "id_key": "8ba92a96692bfd13e164f3875a149ac7cafb9f27551ee47a1511dc86868a0085",
+    "summary": "The evolution of film editing has seen a shift towards faster pacing to meet modern audience expectations. \"Goodfellas\" had a significant impact on cinema in the late '80s and early '90s, influencing subsequent films and television. The \"Absurdiverse\" project is an innovative blend of open-world ... The post Dan Houser: “Goodfellas” revolutionized cinema and storytelling | Lex Fridman Podcast appeared first on Crypto Briefing .",
+    "ingested_utc": "2026-02-15T22:46:02Z"
+  },
+  {
+    "published_utc": "2026-02-15",
+    "retrieved_date": "2026-02-15",
+    "retrieved_utc": "2026-02-15T22:45:43Z",
+    "source": "Guardian_World",
+    "title": "Makers of AI chatbots that put children at risk face big fines or UK ban",
+    "url": "https://www.theguardian.com/technology/2026/feb/15/ai-chatbots-children-risk-fines-uk-ban",
+    "id_key": "c6e173cf9b672b8c0289c27c7b011eaf39de0533b2af19119be5d87815c1470a",
+    "summary": "Starmer to announce ‘crackdown on vile illegal content created by AI’ after scandal involving Elon Musk’s Grok tool Makers of AI chatbots that put children at risk will face massive fines or even see their services blocked in the UK under law changes to be announced by Keir Starmer on Monday. Emboldened by Elon Musk’s X stopping its Grok AI tool from creating sexualised images of real people in the UK after public outrage last month, ministers are planning a “crackdown on vile illegal content created by AI”. Continue reading...",
+    "ingested_utc": "2026-02-15T22:45:43Z"
+  },
+  {
+    "published_utc": "2026-02-15",
+    "retrieved_date": "2026-02-15",
     "retrieved_utc": "2026-02-15T22:17:41Z",
     "source": "TechCrunch_All",
     "title": "Longtime NPR host David Greene sues Google over NotebookLM voice",
@@ -10954,49 +10998,5 @@
     "id_key": "f1f7d8de7294feb43660771eb2229144a0a7d490d39ccaa8a7d2a787e303549e",
     "summary": "The Asus Zenbook S 16 was a favorite of ours last year, but the price was always too high. Now it has dropped to $1,000, and it’s a total steal.",
     "ingested_utc": "2026-02-12T23:23:07Z"
-  },
-  {
-    "published_utc": "2026-02-12",
-    "retrieved_date": "2026-02-12",
-    "retrieved_utc": "2026-02-12T23:21:56Z",
-    "source": "Arbitrum_Nitro_Releases",
-    "title": "v3.9.6-rc.1",
-    "url": "https://github.com/OffchainLabs/nitro/releases/tag/v3.9.6-rc.1",
-    "id_key": "ca5f5a53ea3ecbe7de0c6fe865ebb7df68fa2d5393820a279d53a2b5ce885061",
-    "summary": "This release is available as a Docker Image on Docker Hub at offchainlabs/nitro-node:TBD This Docker image specifies default flags in its entrypoint which should be replicated if you're overriding the entrypoint: /usr/local/bin/nitro --validation.wasm.allowed-wasm-module-roots /home/user/nitro-legacy/machines,/home/user/target/machines Important for any chains still on ArbOS40: If you're running a validator without a split validation server (this will be true of most validators), you should instead use the image offchainlabs/nitro-node:TBD-validator which has the extra script /usr/local/bin/split-val-entry.sh as the default entrypoint (no need to override the default entrypoint). This will run both v3.9.5 and v3.7.6 validator workers for you. If you are using a split validator, you do not want to use -validator image, you need to run a validator worker on v3.7.6 as well as a worker for v3.9.5 User-facing changes Fix expected surplus in sequencer ( #4038 ): #4371 Add support for consensus v51.1 to Docker: #4370 Internal highlights Add assume-valid flags to bold: #4342 Full Changelog : v3.9.5...v3.9.6-rc.1",
-    "ingested_utc": "2026-02-12T23:21:56Z"
-  },
-  {
-    "published_utc": "2026-02-12",
-    "retrieved_date": "2026-02-12",
-    "retrieved_utc": "2026-02-12T23:20:32Z",
-    "source": "Guardian_World",
-    "title": "Agreement to allow Muslims to finish prayer at Isaac Herzog rally didn’t reach officers, NSW police say",
-    "url": "https://www.theguardian.com/australia-news/2026/feb/13/nsw-police-muslim-prayer-sydney-protest-ntwnfb",
-    "id_key": "d492c3b1ddf1c57b90d7ed34d26c0166e95f878dddbc5515dfbeda400d5b59c4",
-    "summary": "Men praying were grabbed at Sydney town hall rally against Israeli president’s visit. Premier Chris Minns is refusing to apologise after police violence Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast A lack of communication between officers contributed to the violent disruption of a group of Muslim worshippers at a protest against the visit of the Israeli president, Isaac Herzog, New South Wales police say. Footage of a group of Muslims being shoved and dragged by police while performing the sunset prayer outside Sydney town hall on Monday sparked widespread outrage. Continue reading...",
-    "ingested_utc": "2026-02-12T23:20:32Z"
-  },
-  {
-    "published_utc": "2026-02-12",
-    "retrieved_date": "2026-02-12",
-    "retrieved_utc": "2026-02-12T23:20:32Z",
-    "source": "Guardian_World",
-    "title": "Aberdeen sees sunshine for the first time in 21 days",
-    "url": "https://www.theguardian.com/uk-news/2026/feb/12/aberdeen-sees-sunshine-first-time-in-21-days",
-    "id_key": "8d967950f41a5d600b0fc7c2a4ed0109170fdae97a89342d6a29137cc7019812",
-    "summary": "Glimpse of sun after weeks of unrelenting rain marks end of longest sunless period in area since records began Aberdeen has finally had some sunshine for the first time in 21 days, marking the end of the longest sunless period in the area since Met Office records began in 1957. Residents of the Granite city in north-east Scotland glimpsed the sun late on Thursday afternoon with sunshine last recorded on 21 January. The Met Office said that 30 minutes was officially recorded in the Dyce area in the hour up to 4pm. It followed weeks of unrelenting rain in the region and throughout the UK in 2026. More than 277mm of rain fell on Aboyne in Aberdeenshire in January, about four times the monthly average, while the first 10 days of the year brought heavy snow to the north-east of Scotland. In only the first three days of this month, south-east England received nearly a third of its average February rainfall. The wintry weather is expected to continue with a yellow warning for snow and ice for most of Scotland and northern England in place until 12pm on Friday. The Met Office spokesperson Grahame Madge said an air mass called Arctic maritime air is bringing temperatures down. He said: “The snow and ice warnings that we’ve issued at the moment cover pretty much Scotland and northern parts of England. There may be some snow showers a little bit further south than that. “We’re not expecting any particularly impactful snow and the conditions will be quite brief before we get another system coming in from the Atlantic over the weekend, but for the next few days it will feel quite a bit different, as we’ve got colder air coming in.” BBC Scotland weather presenter Judith Ralston said: “With a change in weather type, we finally lose the stuck pattern of cloud, rain, and bitingly cold winds. “This finally breaks, allowing a northerly air mass to set in, bringing much drier, brighter conditions, sunshine on the way on Friday and Saturday and a few wintry showers on Friday.” Continue reading...",
-    "ingested_utc": "2026-02-12T23:20:32Z"
-  },
-  {
-    "published_utc": "2026-02-12",
-    "retrieved_date": "2026-02-12",
-    "retrieved_utc": "2026-02-12T22:59:18Z",
-    "source": "FinancialPost_Business",
-    "title": "Copper Quest Announces Securities for Debt Settlement",
-    "url": "https://financialpost.com/globe-newswire/copper-quest-announces-securities-for-debt-settlement",
-    "id_key": "75c1b98bc1d3e91a565670e3b22e34b81c9b26b32be1aad6f6df9a60b3e5b36d",
-    "summary": "VANCOUVER, British Columbia, Feb. 12, 2026 (GLOBE NEWSWIRE) — Copper Quest Exploration Inc. (CSE: CQX; OTCQB: IMIMF; FRA: 3MX) (“Copper Quest” or the “Company”) announces that it has entered into a securities for debt settlement agreement dated February 11, 2026 (the “Agreement”) with a professional advisor of the Company. Pursuant to the Agreement, the Company […]",
-    "ingested_utc": "2026-02-12T22:59:18Z"
   }
 ]
