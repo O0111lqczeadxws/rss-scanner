@@ -2,6 +2,50 @@
   {
     "published_utc": "2026-02-15",
     "retrieved_date": "2026-02-15",
+    "retrieved_utc": "2026-02-15T20:19:10Z",
+    "source": "HackerNews_Top",
+    "title": "With Apple: Fortify your app: Essential strategies to strengthen security",
+    "url": "https://developer.apple.com/events/view/TUHA23T82K/dashboard",
+    "id_key": "980c1f7aabd78eb430c63ef3b88f474846a1401560172e33b6b600f20de32995",
+    "summary": "Comments",
+    "ingested_utc": "2026-02-15T20:19:10Z"
+  },
+  {
+    "published_utc": "2026-02-15",
+    "retrieved_date": "2026-02-15",
+    "retrieved_utc": "2026-02-15T20:18:15Z",
+    "source": "NYTimes_Business",
+    "title": "Trump Administration Ends Credit for Start-Stop Feature in Cars",
+    "url": "https://www.nytimes.com/2026/02/15/business/energy-environment/epa-tax-credits-stop-start-ignition-cars.html",
+    "id_key": "3e15070fbb6f729ff7d74821c599c384de5f5874b6d7133b06c5a8a98c14d098",
+    "summary": "Manufacturers will no longer get a credit toward vehicle emissions standards by installing engines that automatically stop at red lights.",
+    "ingested_utc": "2026-02-15T20:18:15Z"
+  },
+  {
+    "published_utc": "2026-02-15",
+    "retrieved_date": "2026-02-15",
+    "retrieved_utc": "2026-02-15T20:16:27Z",
+    "source": "CryptoBriefing",
+    "title": "David Rosenberg: Fed rate cuts coming sooner than expected | Macro Voices",
+    "url": "https://cryptobriefing.com/david-rosenberg-fed-rate-cuts-coming-sooner-than-expected-macro-voices/",
+    "id_key": "cd3234fbc8eb558f5bb816a03d7731f89e3004e743e28e04f5ac8414ad0d4c17",
+    "summary": "Political influence on the Fed could lead to significant policy errors. The Fed may cut rates more aggressively than currently anticipated. Forecasts should be prioritized over current data for better inflation management. The post David Rosenberg: Fed rate cuts coming sooner than expected | Macro Voices appeared first on Crypto Briefing .",
+    "ingested_utc": "2026-02-15T20:16:27Z"
+  },
+  {
+    "published_utc": "2026-02-15",
+    "retrieved_date": "2026-02-15",
+    "retrieved_utc": "2026-02-15T20:16:04Z",
+    "source": "Guardian_World",
+    "title": "UK’s top prosecutor says ‘nobody above law’ amid claims against former prince Andrew",
+    "url": "https://www.theguardian.com/uk-news/2026/feb/15/uks-top-prosecutor-says-nobody-above-law-as-detectives-investigate-andrews-epstein-links",
+    "id_key": "5038ee95fe194e6a51a3358274545c0b204fce6aae8e951edc03e43b7cc1c604",
+    "summary": "Director of public prosecutions says he is confident police would examine any evidence of potential misconduct The UK’s top prosecutor has said “nobody is above the law” amid growing pressure on police to fully investigate Andrew Mountbatten-Windsor’s links with Jeffrey Epstein. Thames Valley police said earlier this week they were in discussion with the Crown Prosecution Service over allegations of misconduct in public office against the former prince. Continue reading...",
+    "ingested_utc": "2026-02-15T20:16:04Z"
+  },
+  {
+    "published_utc": "2026-02-15",
+    "retrieved_date": "2026-02-15",
     "retrieved_utc": "2026-02-15T19:58:59Z",
     "source": "NYTimes_World",
     "title": "How Bangladesh Went From Revolution to Elections",
@@ -10954,49 +10998,5 @@
     "id_key": "0e15da2f8d044c1f86ca9d9967b52d5ecb910e6e6696cfdcaa16e562041b6f64",
     "summary": "Obama, who was president when this finding was made public, says Americans will be ‘less safe, less healthy and less able to fight climate change’ after Trump’s repeal of greenhouse gas regulation Trump’s EPA repeals landmark climate finding in gift to ‘billionaire polluters’ Trump’s “border czar” Tom Homan kicked off his press conference today announcing that the administration’s immigration crackdown in Minnesota has “yielded the successful results” they were looking to achieve. Homan also noted that Immigation and Customs Enforcement (ICE) has not made any arrests at hospitals, elementary schools or churches. However, many people in the Twin Cities have told the Guardian that they’re fearful of federal immigration officers who patrol near these spots, and appear to make indiscriminate arrests throughout the region. The anxiety has resulted in parents keeping their children at home, and patients missing hospital appointments. Continue reading...",
     "ingested_utc": "2026-02-12T22:24:44Z"
-  },
-  {
-    "published_utc": "2026-02-12",
-    "retrieved_date": "2026-02-12",
-    "retrieved_utc": "2026-02-12T22:24:16Z",
-    "source": "Teku_Releases",
-    "title": "26.2.0",
-    "url": "https://github.com/Consensys/teku/releases/tag/26.2.0",
-    "id_key": "907ba253f3e05a173a21245c1a044db13f210606aeace90f96e506952590e5fe",
-    "summary": "This is a recommended update containing improvements and bug fixes. RocksDB migration: The new default database system used by Teku is RocksDB. Existing LevelDB databases will not migrate automatically to RocksDB. To migrate from LevelDB to RocksDB, you need to stop your Teku service and delete both the db directory and db.version file from your beacon node data directory. Upon restart, your node will recreate the database using RocksDB. Important: Before migrating, ensure you have --checkpoint-sync-url or --initial-state configured. Without one of these, Teku will fail to start after the database is deleted. For more information regarding the incident that affected LevelDB nodes check this link . Checkpoint syncing nodes: This release includes a new data columns sidecar backfiller. If you experience high CPU usage affecting validator duty performance, you can: Reduce the backfill batch size (default: 3) by setting --Xp2p-reworked-sidecar-custody-sync-batch-size=1 Make sure --p2p-peer-upper-bound is not set too high (default: 100) Downloads Available as 26.2.0 on Dockerhub Download the binary distribution: tar.gz (sha256: 3bcd56ac0a89e362f8296b8502e1fbbb7e549c86f6d6f62f2500cbed6c1e9437 ) zip (sha256: dea3486fc97305c9ce1b354fec080ce23b467464912071f72b568f6f0197f182 ) Breaking Changes Removed development cli arg --Xp2p-reworked-sidecar-recovery-enabled . Additions and Improvements Using RocksDB as the default for new databases (previous databases using LevelDB will not be migrated automatically). New data columns sidecar backfiller enabled. It improves how the beacon node downloads past blobs related data it needs to custody. New CLI flag --rest-api-getblobs-sidecars-download-enabled allows the beacon node to serve getBlobs REST API responses by attempting to fetch missing blob sidecars from the p2p network. The new flag --rest-api-getblobs-sidecars-download-timeout controls the network fetch timeout (default: 5 seconds). New CLI flag --force-clear-db to remove the beacon database on startup. Bug Fixes Added DOMAIN_BLS_TO_EXECUTION_CHANGE to spec api output. Upcoming Breaking Changes N/A",
-    "ingested_utc": "2026-02-12T22:24:16Z"
-  },
-  {
-    "published_utc": "2026-02-12",
-    "retrieved_date": "2026-02-12",
-    "retrieved_utc": "2026-02-12T22:22:53Z",
-    "source": "Guardian_World",
-    "title": "Senate Democrats block DHS funding over immigration tactics",
-    "url": "https://www.theguardian.com/us-news/2026/feb/12/dhs-funding-blocked-senate-democrats",
-    "id_key": "17a94537b0e27004af335aa3256112a278ad5bb8c3b755e6069973462690455e",
-    "summary": "Though Department of Homeland Security almost certain to shutter at midnight Friday, ICE to be largely unaffected US politics live – latest updates Democrats in the US Senate have blocked a funding package for the Department of Homeland Security (DHS) amid ongoing fury over the Trump administration ’s crackdown and the deaths of two people in Minneapolis. Thursday’s vote means that the department is almost certain to shut down at midnight on Friday evening, affecting a range of services yet largely leaving the Immigration and Customs Enforcement agency ( ICE ) – the target of Democrats’ ire – unaffected because it is already the recipient of lavish federal funding. Continue reading...",
-    "ingested_utc": "2026-02-12T22:22:53Z"
-  },
-  {
-    "published_utc": "2026-02-12",
-    "retrieved_date": "2026-02-12",
-    "retrieved_utc": "2026-02-12T21:59:23Z",
-    "source": "FinancialPost_Business",
-    "title": "Profound Medical to Release Fourth Quarter and Full Year 2025 Financial Results on March 5th – Conference Call to Follow",
-    "url": "https://financialpost.com/globe-newswire/profound-medical-to-release-fourth-quarter-and-full-year-2025-financial-results-on-march-5th-conference-call-to-follow",
-    "id_key": "e89651b3dbb5cad9beebe8b031e6cdd8d9f1cbfc416a7d6d60f641b9aa982f9c",
-    "summary": "TORONTO, Feb. 12, 2026 (GLOBE NEWSWIRE) — Profound Medical Corp. (NASDAQ:PROF; TSX:PRN) (“Profound” or the “Company”), a commercial-stage medical device company that develops and markets innovative interventional MRI (iMRI) procedures, will announce its fourth quarter and full year 2025 financial results after market close on Thursday, March 5, 2026. Profound management will host a conference […]",
-    "ingested_utc": "2026-02-12T21:59:23Z"
-  },
-  {
-    "published_utc": "2026-02-12",
-    "retrieved_date": "2026-02-12",
-    "retrieved_utc": "2026-02-12T21:59:23Z",
-    "source": "FinancialPost_Business",
-    "title": "Rocket Lab Prepares To Launch Latest Hypersonic Test Mission for Defense Innovation Unit",
-    "url": "https://financialpost.com/globe-newswire/rocket-lab-prepares-to-launch-latest-hypersonic-test-mission-for-defense-innovation-unit",
-    "id_key": "23db32181c9aa8c36253170c79ef8651c310a710712a2414c379555d828ea382",
-    "summary": "LONG BEACH, Calif., Feb. 12, 2026 (GLOBE NEWSWIRE) — Rocket Lab Corporation (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, today announced its next launch is a dedicated mission on its HASTE rocket for the Department of War’s Defense Innovation Unit (DIU). The mission, named Cassowary Vex, […]",
-    "ingested_utc": "2026-02-12T21:59:23Z"
   }
 ]
