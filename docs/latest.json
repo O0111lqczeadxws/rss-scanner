@@ -2,6 +2,17 @@
   {
     "published_utc": "2026-02-15",
     "retrieved_date": "2026-02-15",
+    "retrieved_utc": "2026-02-15T07:51:06Z",
+    "source": "BBC_Business",
+    "title": "Could Manchester be a model for the UK to kickstart growth?",
+    "url": "https://www.bbc.com/news/articles/c0ljgzjwjx3o?at_medium=RSS&at_campaign=rss",
+    "id_key": "56ac4c91e95976be28a568ccbad8532c2c8002a98716e78a3c77dd58e566437c",
+    "summary": "With an annual growth rate of 3.1%, Manchester's economy has performed twice as well as that of the UK as a whole.",
+    "ingested_utc": "2026-02-15T07:51:06Z"
+  },
+  {
+    "published_utc": "2026-02-15",
+    "retrieved_date": "2026-02-15",
     "retrieved_utc": "2026-02-15T07:16:14Z",
     "source": "Guardian_World",
     "title": "Senior police praised undercover officer who lied to court about identity, papers at spycops inquiry show",
@@ -10987,16 +10998,5 @@
     "id_key": "a3dedf2d9c1ac558d0d868d75f44255873e71160b1bffac833554e216734cc50",
     "summary": "Grok generated a meal plan to fit RFK Jr's food pyramid, then explained why it's bad.",
     "ingested_utc": "2026-02-12T17:44:42Z"
-  },
-  {
-    "published_utc": "2026-02-12",
-    "retrieved_date": "2026-02-12",
-    "retrieved_utc": "2026-02-12T17:44:41Z",
-    "source": "TechCrunch_All",
-    "title": "More US investors sue South Korean government over handling of Coupang data breach",
-    "url": "https://techcrunch.com/2026/02/12/more-u-s-investors-sue-south-korean-government-over-handling-of-coupang-data-breach/",
-    "id_key": "b5623f6dcd51e4911d921c2d1984a2935532ede5e9a80f15dcb321dc477428a0",
-    "summary": "Coupang’s massive data breach has sparked U.S. investor lawsuits against the South Korean government over alleged discrimination.",
-    "ingested_utc": "2026-02-12T17:44:41Z"
   }
 ]
