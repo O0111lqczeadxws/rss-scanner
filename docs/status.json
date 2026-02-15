@@ -1,14 +1,14 @@
 {
-  "started_utc": "2026-02-15T07:50:49Z",
-  "ended_utc": "2026-02-15T07:54:10Z",
-  "new_items_this_run": 1,
+  "started_utc": "2026-02-15T08:21:53Z",
+  "ended_utc": "2026-02-15T08:25:15Z",
+  "new_items_this_run": 0,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
     "Reuters_World": 0,
     "Reuters_Markets": 0,
     "BBC_World": 0,
-    "BBC_Business": 1,
+    "BBC_Business": 0,
     "BBC_Technology": 0,
     "Guardian_Business": 0,
     "Guardian_World": 0,
@@ -211,14 +211,6 @@
       "error": "fatal parse failure"
     },
     {
-      "source": "https://github.com/0xPolygon/polygon-edge/releases.atom",
-      "error": "fetch error: HTTP 502"
-    },
-    {
-      "source": "PolygonEdge_Releases",
-      "error": "fatal parse failure"
-    },
-    {
       "source": "https://www.reuters.com/business/rss",
       "error": "fetch error: HTTP 401"
     },
@@ -343,19 +335,19 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 537,
+    "passed_keywords": 534,
     "passed_allowlist": 0,
-    "failed_all_filters": 491
+    "failed_all_filters": 496
   },
   "stats": {
     "feeds_total": 97,
-    "feeds_error": 24,
+    "feeds_error": 23,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 1526,
-    "too_old": 498,
-    "dup_title_url": 98,
-    "dup_id": 438
+    "entries_seen": 1538,
+    "too_old": 508,
+    "dup_title_url": 97,
+    "dup_id": 437
   },
   "limits": {
     "skip_older_days": 10,
@@ -368,6 +360,6 @@
   },
   "processed": {
     "file": "data/processed/2026-02-15.jsonl",
-    "appended_new": 1
+    "appended_new": 0
   }
 }
