@@ -1,17 +1,17 @@
 {
-  "started_utc": "2026-02-17T06:11:02Z",
-  "ended_utc": "2026-02-17T06:14:19Z",
-  "new_items_this_run": 18,
+  "started_utc": "2026-02-17T07:15:08Z",
+  "ended_utc": "2026-02-17T07:18:35Z",
+  "new_items_this_run": 14,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
     "Reuters_World": 0,
     "Reuters_Markets": 0,
-    "BBC_World": 0,
+    "BBC_World": 1,
     "BBC_Business": 1,
     "BBC_Technology": 0,
     "Guardian_Business": 0,
-    "Guardian_World": 8,
+    "Guardian_World": 3,
     "WSJ_US_Business": 0,
     "WSJ_World": 0,
     "WSJ_Markets": 0,
@@ -61,13 +61,13 @@
     "NYTimes_Economy": 0,
     "NYTimes_Technology": 0,
     "CNN_Top": 0,
-    "NPR_Top": 0,
+    "NPR_Top": 1,
     "NPR_Business": 0,
     "NPR_Economy": 0,
-    "NPR_World": 0,
+    "NPR_World": 1,
     "NPR_Technology": 0,
-    "FT_Home": 3,
-    "FT_Markets": 0,
+    "FT_Home": 0,
+    "FT_Markets": 1,
     "CNBC_Top": 0,
     "CNBC_Markets": 0,
     "TheVerge_All": 0,
@@ -79,11 +79,11 @@
     "TheEconomist_Finance": 0,
     "Investopedia_Latest": 0,
     "TheStreet_Top": 0,
-    "AlJazeera_All": 1,
+    "AlJazeera_All": 0,
     "AlJazeera_Economy": 0,
     "FinancialPost_Business": 2,
     "CBC_Business": 0,
-    "Nikkei_Asia_Top": 0,
+    "Nikkei_Asia_Top": 1,
     "WorldBank_News": 0,
     "OECD_Newsroom": 0,
     "MIT_TechReview": 0,
@@ -176,7 +176,7 @@
     },
     {
       "source": "NEAR_Blog",
-      "error": "<unknown>:2:2638: not well-formed (invalid token)"
+      "error": "<unknown>:2:3932: not well-formed (invalid token)"
     },
     {
       "source": "https://blog.dydx.exchange/feed",
@@ -335,18 +335,18 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 525,
+    "passed_keywords": 518,
     "passed_allowlist": 0,
-    "failed_all_filters": 481
+    "failed_all_filters": 480
   },
   "stats": {
     "feeds_total": 97,
     "feeds_error": 23,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 1518,
+    "entries_seen": 1510,
     "too_old": 512,
-    "dup_title_url": 87,
+    "dup_title_url": 84,
     "dup_id": 420
   },
   "limits": {
@@ -360,6 +360,6 @@
   },
   "processed": {
     "file": "data/processed/2026-02-17.jsonl",
-    "appended_new": 18
+    "appended_new": 14
   }
 }
