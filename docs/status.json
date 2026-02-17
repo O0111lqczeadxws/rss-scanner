@@ -1,7 +1,7 @@
 {
-  "started_utc": "2026-02-16T23:51:10Z",
-  "ended_utc": "2026-02-16T23:54:31Z",
-  "new_items_this_run": 7,
+  "started_utc": "2026-02-17T01:12:30Z",
+  "ended_utc": "2026-02-17T01:15:55Z",
+  "new_items_this_run": 24,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
@@ -11,7 +11,7 @@
     "BBC_Business": 0,
     "BBC_Technology": 0,
     "Guardian_Business": 0,
-    "Guardian_World": 2,
+    "Guardian_World": 6,
     "WSJ_US_Business": 0,
     "WSJ_World": 0,
     "WSJ_Markets": 0,
@@ -20,7 +20,7 @@
     "Blockworks": 0,
     "BitcoinMagazine": 0,
     "CryptoSlate": 0,
-    "CryptoBriefing": 2,
+    "CryptoBriefing": 0,
     "Protos": 0,
     "CryptoNews": 0,
     "CoinJournal": 0,
@@ -54,10 +54,10 @@
     "PolygonEdge_Releases": 0,
     "CardanoNode_Releases": 0,
     "MarketWatch_RealTime": 0,
-    "MarketWatch_Bulletins": 1,
+    "MarketWatch_Bulletins": 0,
     "MarketWatch_PersonalFinance": 0,
-    "NYTimes_Business": 0,
-    "NYTimes_World": 0,
+    "NYTimes_Business": 2,
+    "NYTimes_World": 1,
     "NYTimes_Economy": 0,
     "NYTimes_Technology": 0,
     "CNN_Top": 0,
@@ -66,8 +66,8 @@
     "NPR_Economy": 0,
     "NPR_World": 0,
     "NPR_Technology": 0,
-    "FT_Home": 0,
-    "FT_Markets": 1,
+    "FT_Home": 2,
+    "FT_Markets": 0,
     "CNBC_Top": 0,
     "CNBC_Markets": 0,
     "TheVerge_All": 0,
@@ -81,9 +81,9 @@
     "TheStreet_Top": 0,
     "AlJazeera_All": 0,
     "AlJazeera_Economy": 0,
-    "FinancialPost_Business": 1,
+    "FinancialPost_Business": 0,
     "CBC_Business": 0,
-    "Nikkei_Asia_Top": 0,
+    "Nikkei_Asia_Top": 13,
     "WorldBank_News": 0,
     "OECD_Newsroom": 0,
     "MIT_TechReview": 0,
@@ -244,7 +244,7 @@
     },
     {
       "source": "https://feeds.marketwatch.com/marketwatch/pf",
-      "error": "fetch error: HTTP 403"
+      "error": "fetch error: HTTP 400"
     },
     {
       "source": "MarketWatch_PersonalFinance",
@@ -335,7 +335,7 @@
       "claim airdrop",
       "..."
     ],
-    "passed_keywords": 512,
+    "passed_keywords": 516,
     "passed_allowlist": 0,
     "failed_all_filters": 488
   },
@@ -344,10 +344,10 @@
     "feeds_error": 23,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 1510,
-    "too_old": 510,
-    "dup_title_url": 82,
-    "dup_id": 423
+    "entries_seen": 1516,
+    "too_old": 512,
+    "dup_title_url": 87,
+    "dup_id": 405
   },
   "limits": {
     "skip_older_days": 10,
@@ -359,7 +359,7 @@
     "backoff": 0.75
   },
   "processed": {
-    "file": "data/processed/2026-02-16.jsonl",
-    "appended_new": 7
+    "file": "data/processed/2026-02-17.jsonl",
+    "appended_new": 24
   }
 }
