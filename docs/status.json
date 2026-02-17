@@ -1,17 +1,17 @@
 {
-  "started_utc": "2026-02-17T09:33:06Z",
-  "ended_utc": "2026-02-17T09:36:26Z",
-  "new_items_this_run": 11,
+  "started_utc": "2026-02-17T10:29:59Z",
+  "ended_utc": "2026-02-17T10:33:29Z",
+  "new_items_this_run": 27,
   "total_in_latest": 1000,
   "by_source": {
     "Reuters_Business": 0,
     "Reuters_World": 0,
     "Reuters_Markets": 0,
-    "BBC_World": 0,
-    "BBC_Business": 1,
+    "BBC_World": 2,
+    "BBC_Business": 0,
     "BBC_Technology": 0,
     "Guardian_Business": 0,
-    "Guardian_World": 4,
+    "Guardian_World": 6,
     "WSJ_US_Business": 0,
     "WSJ_World": 0,
     "WSJ_Markets": 0,
@@ -19,7 +19,7 @@
     "MarketWatch_MarketPulse": 0,
     "Blockworks": 0,
     "BitcoinMagazine": 0,
-    "CryptoSlate": 0,
+    "CryptoSlate": 3,
     "CryptoBriefing": 0,
     "Protos": 0,
     "CryptoNews": 0,
@@ -31,7 +31,7 @@
     "Consensys_Blog": 0,
     "Uniswap_Blog": 0,
     "Aave_Blog": 0,
-    "Lido_Blog": 0,
+    "Lido_Blog": 1,
     "Optimism_Blog": 0,
     "Arbitrum_Foundation": 0,
     "Polygon_Blog": 0,
@@ -61,10 +61,10 @@
     "NYTimes_Economy": 0,
     "NYTimes_Technology": 0,
     "CNN_Top": 0,
-    "NPR_Top": 0,
+    "NPR_Top": 7,
     "NPR_Business": 0,
     "NPR_Economy": 0,
-    "NPR_World": 0,
+    "NPR_World": 4,
     "NPR_Technology": 0,
     "FT_Home": 0,
     "FT_Markets": 0,
@@ -74,12 +74,12 @@
     "TechCrunch_All": 0,
     "ArsTechnica_All": 0,
     "WIRED_All": 0,
-    "Engadget_All": 0,
+    "Engadget_All": 2,
     "TheEconomist_Business": 0,
     "TheEconomist_Finance": 0,
     "Investopedia_Latest": 0,
     "TheStreet_Top": 0,
-    "AlJazeera_All": 4,
+    "AlJazeera_All": 0,
     "AlJazeera_Economy": 0,
     "FinancialPost_Business": 2,
     "CBC_Business": 0,
@@ -176,7 +176,7 @@
     },
     {
       "source": "NEAR_Blog",
-      "error": "<unknown>:2:2638: not well-formed (invalid token)"
+      "error": "<unknown>:2:3932: not well-formed (invalid token)"
     },
     {
       "source": "https://blog.dydx.exchange/feed",
@@ -337,17 +337,17 @@
     ],
     "passed_keywords": 509,
     "passed_allowlist": 0,
-    "failed_all_filters": 481
+    "failed_all_filters": 484
   },
   "stats": {
     "feeds_total": 97,
     "feeds_error": 23,
     "feeds_timeout": 0,
     "feeds_http_error": 0,
-    "entries_seen": 1502,
-    "too_old": 512,
-    "dup_title_url": 85,
-    "dup_id": 413
+    "entries_seen": 1504,
+    "too_old": 511,
+    "dup_title_url": 88,
+    "dup_id": 394
   },
   "limits": {
     "skip_older_days": 10,
@@ -360,6 +360,6 @@
   },
   "processed": {
     "file": "data/processed/2026-02-17.jsonl",
-    "appended_new": 11
+    "appended_new": 27
   }
 }
