@@ -2,6 +2,50 @@
   {
     "published_utc": "2026-02-21",
     "retrieved_date": "2026-02-21",
+    "retrieved_utc": "2026-02-21T05:38:43Z",
+    "source": "FT_Markets",
+    "title": "Britain lacks a Magnificent Seven, but at least it has a meme stock",
+    "url": "https://www.ft.com/content/9888503e-15d8-45e2-99f2-b40b98a1d02b",
+    "id_key": "0a450fb2b8afad9d958bad036d1c12dd93d9928ada28e05129022e4309e9268b",
+    "summary": "Raspberry Pi has more substance than some former retail-investor darlings",
+    "ingested_utc": "2026-02-21T05:38:43Z"
+  },
+  {
+    "published_utc": "2026-02-21",
+    "retrieved_date": "2026-02-21",
+    "retrieved_utc": "2026-02-21T05:38:30Z",
+    "source": "NYTimes_Business",
+    "title": "‘Murky Waters’ for Global Businesses After Trump’s Tariff Loss",
+    "url": "https://www.nytimes.com/2026/02/21/business/economy/tariffs-supreme-court-global-busines-reaction.html",
+    "id_key": "3e3614171022ba069e221bf90f3859a5d297c0722586ed9d523d142c99454406",
+    "summary": "Even after the Supreme Court invalidated many of the president’s levies, foreign leaders and executives assume that U.S. tariffs are here to stay, in one form or another.",
+    "ingested_utc": "2026-02-21T05:38:30Z"
+  },
+  {
+    "published_utc": "2026-02-21",
+    "retrieved_date": "2026-02-21",
+    "retrieved_utc": "2026-02-21T05:38:30Z",
+    "source": "NYTimes_World",
+    "title": "How Olympic Experts Keep the Ice Intact",
+    "url": "https://www.nytimes.com/2026/02/21/world/europe/olympics-ice-maintenance-zamboni-drama.html",
+    "id_key": "a5701765e49e584a5926e6c448ec960587d5b7766723ea198898ff32925489ab",
+    "summary": "A team of skilled technicians and drivers keep the frozen surface at the right temperature and thickness. The challenge? Each event needs a different kind of ice.",
+    "ingested_utc": "2026-02-21T05:38:30Z"
+  },
+  {
+    "published_utc": "2026-02-21",
+    "retrieved_date": "2026-02-21",
+    "retrieved_utc": "2026-02-21T05:36:21Z",
+    "source": "Guardian_World",
+    "title": "Man charged with hate crime after allegedly ramming gates of Brisbane synagogue with ute",
+    "url": "https://www.theguardian.com/australia-news/2026/feb/21/man-charged-with-hate-after-allegedly-ramming-gates-of-brisbane-synagogue-with-ute",
+    "id_key": "81d7f4433684726771d35dc155af75a22e3df8745593c64556b23ec4a926b67f",
+    "summary": "A 32-year-old has been charged with serious vilification or hate crime and other offences but police say it is not being considered a terrorist incident Get our breaking news email , free app or daily news podcast Police have charged a man after a car was used to ram the gates of a synagogue in Brisbane. Officers say the man was driving a Toyota Hilux utility when he knocked down the gates of the property in Margaret Street in Brisbane’s CBD shortly after 7pm on Friday. Continue reading...",
+    "ingested_utc": "2026-02-21T05:36:21Z"
+  },
+  {
+    "published_utc": "2026-02-21",
+    "retrieved_date": "2026-02-21",
     "retrieved_utc": "2026-02-21T04:59:24Z",
     "source": "Nikkei_Asia_Top",
     "title": "Japanese official says US tariff ruling 'won't affect' agreed projects",
@@ -10954,49 +10998,5 @@
     "id_key": "de9dd64d5d527791d9d5676533ccba1462d99ce421cf1412a031741fe391c0a9",
     "summary": "The British police on Thursday arrested Andrew Mountbatten-Windsor on suspicion of criminal activity linked to the Epstein files.",
     "ingested_utc": "2026-02-19T12:41:43Z"
-  },
-  {
-    "published_utc": "2026-02-19",
-    "retrieved_date": "2026-02-19",
-    "retrieved_utc": "2026-02-19T12:41:43Z",
-    "source": "NYTimes_World",
-    "title": "King Charles Issues Statement After Arrest of His Brother, Andrew Mountbatten-Windsor",
-    "url": "https://www.nytimes.com/2026/02/19/world/europe/king-charles-statement-andrew-arrest-uk.html",
-    "id_key": "acfb9b19f1aa97b70382749589440ead5ac94ce5f4fa82a44d8c8e48d2e1dc51",
-    "summary": "The monarch used clear and direct language in his first public comments after the former Prince Andrew was detained over his links to Jeffrey Epstein.",
-    "ingested_utc": "2026-02-19T12:41:43Z"
-  },
-  {
-    "published_utc": "2026-02-19",
-    "retrieved_date": "2026-02-19",
-    "retrieved_utc": "2026-02-19T12:41:43Z",
-    "source": "NYTimes_World",
-    "title": "Several members of the British elite have been named in the Epstein files.",
-    "url": "https://www.nytimes.com/live/2026/02/19/world/uk-prince-andrew-arrest-epstein/epstein-files-prince-andrew-uk-elite",
-    "id_key": "ecaaf7c61d17d33f1ee34aba36ba6d30732e127f325d8929ea36d7f1087695e4",
-    "summary": "",
-    "ingested_utc": "2026-02-19T12:41:43Z"
-  },
-  {
-    "published_utc": "2026-02-19",
-    "retrieved_date": "2026-02-19",
-    "retrieved_utc": "2026-02-19T12:41:43Z",
-    "source": "NYTimes_World",
-    "title": "Former Prince Andrew’s Ties to Epstein Keep Spotlight on UK Prime Minister Starmer",
-    "url": "https://www.nytimes.com/2026/02/19/world/europe/uk-andrew-epstein-starmer-mandelson.html",
-    "id_key": "6678d79613d8a772507a21fcfa308b23dcb7fdbec17070bcb2ffcc8e348651ac",
-    "summary": "The arrest of the former prince maintains the spotlight on links between the government of Prime Minister Sir Keir Starmer and Jeffrey Epstein.",
-    "ingested_utc": "2026-02-19T12:41:43Z"
-  },
-  {
-    "published_utc": "2026-02-19",
-    "retrieved_date": "2026-02-19",
-    "retrieved_utc": "2026-02-19T12:41:23Z",
-    "source": "Guardian_World",
-    "title": "Rights groups urge airlines to halt ‘cruel’ ‘one in, one out’ deportation flights",
-    "url": "https://www.theguardian.com/uk-news/2026/feb/19/rights-groups-airlines-deportation-flights-british-french",
-    "id_key": "6f23579f4fb1f2445dfaae5b77c6f1997a486bcccd109d8f66e9206c9edac48e",
-    "summary": "British and French activists write to Air France, AlbaStar, Titan and Corendon airlines over ‘shameful involvement’ Campaigners have urged airlines deporting asylum seekers to France as part of the UK’s controversial “one in, one out” scheme to stop facilitating the “cruel and forced deportations”. Letters have been sent by 28 refugee and human rights NGOs on both sides of the Channel to four airlines believed to be involved with deportation flights – Air France, Titan airways, AlbaStar airlines and Corendon airlines – urging them to halt what signatories call “shameful involvement” with the flights. Continue reading...",
-    "ingested_utc": "2026-02-19T12:41:23Z"
   }
 ]
