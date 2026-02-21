@@ -2,6 +2,39 @@
   {
     "published_utc": "2026-02-21",
     "retrieved_date": "2026-02-21",
+    "retrieved_utc": "2026-02-21T14:53:25Z",
+    "source": "FinancialPost_Business",
+    "title": "Trump’s Treasured Negotiating Edge Dulled By Tariff Defeat",
+    "url": "https://financialpost.com/pmn/business-pmn/trumps-treasured-negotiating-edge-dulled-by-tariff-defeat",
+    "id_key": "28231a6231901a6f7c2ee444ad314f78252f96a3bf46567457d908afbff70785",
+    "summary": "With the stroke of a pen, the Supreme Court wreaked havoc on President Donald Trump’s favorite method of wielding leverage over other countries.",
+    "ingested_utc": "2026-02-21T14:53:25Z"
+  },
+  {
+    "published_utc": "2026-02-21",
+    "retrieved_date": "2026-02-21",
+    "retrieved_utc": "2026-02-21T14:53:25Z",
+    "source": "FinancialPost_Business",
+    "title": "World Leaders Scope Out US’s Next Steps After Tariff Ruling",
+    "url": "https://financialpost.com/pmn/business-pmn/world-leaders-scope-out-uss-next-steps-after-trump-tariff-loss",
+    "id_key": "90d9f6d5932324acf548d4dc5bb17528fe7ae9b031c7275e6cc3df824f497484",
+    "summary": "Governments around the world reacted with caution after the US Supreme Court invalidated President Donald Trump’s broad emergency tariffs, with some reaffirming existing agreements and others taking a wait-and-see approach to evaluate his next steps.",
+    "ingested_utc": "2026-02-21T14:53:25Z"
+  },
+  {
+    "published_utc": "2026-02-21",
+    "retrieved_date": "2026-02-21",
+    "retrieved_utc": "2026-02-21T14:53:18Z",
+    "source": "TheStreet_Top",
+    "title": "Royal Caribbean quietly makes ship decision customers demanded",
+    "url": "https://www.thestreet.com/travel/royal-caribbean-quietly-makes-ship-decision-customers-demanded",
+    "id_key": "9329527e2fa81bf29d33236083586de98dcfd15cbe4baa745c9ba772e4b67379",
+    "summary": "For years, Royal Caribbean executives have been asked the same question at nearly every public event, and they always give the same careful non-answer. They never told loyal customers they would not do what was being asked, but they also never said they would. When the company launched its newest ...",
+    "ingested_utc": "2026-02-21T14:53:18Z"
+  },
+  {
+    "published_utc": "2026-02-21",
+    "retrieved_date": "2026-02-21",
     "retrieved_utc": "2026-02-21T14:21:01Z",
     "source": "FinancialPost_Business",
     "title": "‘Big challenges’ remain as oilsands majors, Ottawa and Alberta step up talks ahead of April 1 deadline",
@@ -10965,38 +10998,5 @@
     "id_key": "a06a63803db75a81a8cadbf46bf71e21e7eb4fc06d645d1b9e108e327793ab31",
     "summary": "The rollout includes two-way integration that surfaces streaming links directly inside ChatGPT.",
     "ingested_utc": "2026-02-19T15:32:50Z"
-  },
-  {
-    "published_utc": "2026-02-19",
-    "retrieved_date": "2026-02-19",
-    "retrieved_utc": "2026-02-19T15:32:50Z",
-    "source": "TechCrunch_All",
-    "title": "Co-founders behind Reface and Prisma join hands to improve on-device model inference with Mirai",
-    "url": "https://techcrunch.com/2026/02/19/co-founders-behind-reface-and-prisma-join-hands-to-improve-on-device-model-inference-with-mirai/",
-    "id_key": "fac03a005b1586ce0184879a90bc4e982ee3310f34792a2c659f61b11a9ef49a",
-    "summary": "Mirai raised a $10 million seed to improve how AI models run on devices like smartphones and laptops.",
-    "ingested_utc": "2026-02-19T15:32:50Z"
-  },
-  {
-    "published_utc": "2026-02-19",
-    "retrieved_date": "2026-02-19",
-    "retrieved_utc": "2026-02-19T15:32:49Z",
-    "source": "TheVerge_All",
-    "title": "The speech police came for Colbert",
-    "url": "https://www.theverge.com/podcast/881222/fcc-colbert-talarico-brendan-carr-vergecast",
-    "id_key": "d083a67b129f2dd5fbb4a2a9b94b6f21638c308fca5330ca200c888dfdde65e7",
-    "summary": "Generally speaking, arcane and mostly unenforced FCC rules are not the province of late night talk shows. FCC Commissioner Brendan Carr seems intent on changing that, though; not long after causing a ruckus that briefly took Jimmy Kimmel off the air, his vague threats appear to have been enough to convince CBS to tell Stephen […]",
-    "ingested_utc": "2026-02-19T15:32:49Z"
-  },
-  {
-    "published_utc": "2026-02-19",
-    "retrieved_date": "2026-02-19",
-    "retrieved_utc": "2026-02-19T15:32:37Z",
-    "source": "FT_Markets",
-    "title": "Repsol aims to triple Venezuelan oil output after securing US permit",
-    "url": "https://www.ft.com/content/8b2037bf-0950-42e4-999f-e7df5bf8c7dd",
-    "id_key": "3ca666e9f659426ffe7f255b88241750c87d91308a8b4bf8a9594fe7dacad0d7",
-    "summary": "Spanish energy group expects production to soar over the next three years",
-    "ingested_utc": "2026-02-19T15:32:37Z"
   }
 ]
