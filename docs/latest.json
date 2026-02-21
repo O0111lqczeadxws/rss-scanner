@@ -2,6 +2,39 @@
   {
     "published_utc": "2026-02-21",
     "retrieved_date": "2026-02-21",
+    "retrieved_utc": "2026-02-21T23:25:50Z",
+    "source": "HackerNews_Top",
+    "title": "Why is Claude an Electron App?",
+    "url": "https://www.dbreunig.com/2026/02/21/why-is-claude-an-electron-app.html",
+    "id_key": "ab2b30b4df58e2b2ad7c955444afce8b6b90f3685cf7e80e6e575384f611fa3e",
+    "summary": "Comments",
+    "ingested_utc": "2026-02-21T23:25:50Z"
+  },
+  {
+    "published_utc": "2026-02-21",
+    "retrieved_date": "2026-02-21",
+    "retrieved_utc": "2026-02-21T23:25:40Z",
+    "source": "FinancialPost_Business",
+    "title": "Trump Pulls Endorsement of Colorado Republican Over Tariff Votes",
+    "url": "https://financialpost.com/pmn/business-pmn/trump-pulls-endorsement-of-colorado-republican-over-tariff-votes",
+    "id_key": "3f1d5aff681882a3b349e9840928b9c5ce0aea78dffc9cde4f7f7c3c054f60b4",
+    "summary": "President Donald Trump withdrew his endorsement of US Representative Jeff Hurd for reelection after the Colorado Republican voted against the president’s tariffs.",
+    "ingested_utc": "2026-02-21T23:25:40Z"
+  },
+  {
+    "published_utc": "2026-02-21",
+    "retrieved_date": "2026-02-21",
+    "retrieved_utc": "2026-02-21T23:22:38Z",
+    "source": "BBC_World",
+    "title": "Once mocked for being tacky, this Korean music genre is making a comeback",
+    "url": "https://www.bbc.com/news/articles/c5y4xqlg639o?at_medium=RSS&at_campaign=rss",
+    "id_key": "a4152d09a2c14487a956b5c285f15448121e6693d7d92a9b8212978371784d63",
+    "summary": "The traditional South Korean popular music genre is making headlines in the country once again.",
+    "ingested_utc": "2026-02-21T23:22:38Z"
+  },
+  {
+    "published_utc": "2026-02-21",
+    "retrieved_date": "2026-02-21",
     "retrieved_utc": "2026-02-21T22:46:58Z",
     "source": "HackerNews_Top",
     "title": "When Code is Free, Why is Claude is an Electron app?",
@@ -2583,6 +2616,17 @@
     "id_key": "600273be786a8e99f0cad1348c40a8cfab1f0c8e0be682fdd7fcf043d356a8a6",
     "summary": "President calls decision a ‘disgrace to the nation’ while praising three justices who dissented US politics live – latest updates Donald Trump on Friday railed against the supreme court justices who blocked his use of tariffs, calling the decision a “disgrace to the nation”, and later signed documents imposing a 10% tariff on all countries. Trump said he would immediately sign an order increasing tariffs globally by 10% under section 122 of the Trade Act of 1974 and will begin investigations of unfair trade practices allowing further tariffs. He asserted that he had the authority to impose additional tariffs under existing statutes without congressional approval. Continue reading...",
     "ingested_utc": "2026-02-21T01:08:10Z"
+  },
+  {
+    "published_utc": "2026-02-20",
+    "retrieved_date": "2026-02-21",
+    "retrieved_utc": "2026-02-21T23:22:39Z",
+    "source": "BBC_Business",
+    "title": "Trump tariffs ripped up global trade order. What now?",
+    "url": "https://www.bbc.com/news/articles/cvgvn810njpo?at_medium=RSS&at_campaign=rss",
+    "id_key": "8fd5dc9fe1472f630884710249785686478cf6d852400fab7f2f96305f81089a",
+    "summary": "If you think the Supreme Court ruling heralds a return to pre-Trump business as usual - think again.",
+    "ingested_utc": "2026-02-21T23:22:39Z"
   },
   {
     "published_utc": "2026-02-20",
@@ -10954,49 +10998,5 @@
     "id_key": "22bd4c9e288eb5f24c21ec3054499152f59b793e80fd88aefa32f86bb9e767e4",
     "summary": "Trump said it \"looks like\" Hamas will disarm, even though there are signs the group is regrouping.",
     "ingested_utc": "2026-02-19T19:09:01Z"
-  },
-  {
-    "published_utc": "2026-02-19",
-    "retrieved_date": "2026-02-19",
-    "retrieved_utc": "2026-02-19T19:09:01Z",
-    "source": "BBC_World",
-    "title": "US-Iran tension: Why Tehran may choose confrontation over 'surrender'",
-    "url": "https://www.bbc.com/news/articles/cdr2g7420p4o?at_medium=RSS&at_campaign=rss",
-    "id_key": "06dd57bbcc4b40c7f7cfc71177a1647c54b26eccb8403f337531d81e8854a12b",
-    "summary": "The Iranian leadership is weighing up whether resisting US demands is the best option for its survival.",
-    "ingested_utc": "2026-02-19T19:09:01Z"
-  },
-  {
-    "published_utc": "2026-02-19",
-    "retrieved_date": "2026-02-19",
-    "retrieved_utc": "2026-02-19T19:09:01Z",
-    "source": "BBC_World",
-    "title": "US build-up of warships and fighter jets tracked near Iran",
-    "url": "https://www.bbc.com/news/articles/c1d64p3q2d0o?at_medium=RSS&at_campaign=rss",
-    "id_key": "eb567b2da9ad8f427e1a7c422779978ba737b7a55cdd713fd4b65fcfdd76ad4d",
-    "summary": "A second US aircraft carrier appears to be heading towards the Middle East, as Washington puts pressure on Iran.",
-    "ingested_utc": "2026-02-19T19:09:01Z"
-  },
-  {
-    "published_utc": "2026-02-19",
-    "retrieved_date": "2026-02-19",
-    "retrieved_utc": "2026-02-19T17:16:47Z",
-    "source": "HackerNews_Top",
-    "title": "Show HN: Micasa – track your house from the terminal",
-    "url": "https://micasa.dev",
-    "id_key": "c1416578417baf8d19f0400de2b8de7fdd6b4e99a606884f21dc5a99ac2b3e20",
-    "summary": "Comments",
-    "ingested_utc": "2026-02-19T17:16:47Z"
-  },
-  {
-    "published_utc": "2026-02-19",
-    "retrieved_date": "2026-02-19",
-    "retrieved_utc": "2026-02-19T17:16:46Z",
-    "source": "MIT_TechReview",
-    "title": "Microsoft has a new plan to prove what’s real and what’s AI online",
-    "url": "https://www.technologyreview.com/2026/02/19/1133360/microsoft-has-a-new-plan-to-prove-whats-real-and-whats-ai-online/",
-    "id_key": "8aedd614ecea970686f569e26af8a4dc675c3adb698cef37bea0daf57fbd13c0",
-    "summary": "AI-enabled deception now permeates our online lives. There are the high-profile cases you may easily spot, like when White House officials recently shared a manipulated image of a protester in Minnesota and then mocked those asking about it. Other times, it slips quietly into social media feeds and racks up views, like the videos that…",
-    "ingested_utc": "2026-02-19T17:16:46Z"
   }
 ]
