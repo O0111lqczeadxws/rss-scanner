@@ -2,6 +2,39 @@
   {
     "published_utc": "2026-02-21",
     "retrieved_date": "2026-02-21",
+    "retrieved_utc": "2026-02-21T04:59:24Z",
+    "source": "Nikkei_Asia_Top",
+    "title": "Japanese official says US tariff ruling 'won't affect' agreed projects",
+    "url": "https://asia.nikkei.com/economy/trade-war/trump-tariffs/japanese-official-says-us-tariff-ruling-won-t-affect-agreed-projects",
+    "id_key": "98248cae39bece45a37002b5d15534d8e8c3ad9e720b6d30282b90b4232ed528",
+    "summary": "",
+    "ingested_utc": "2026-02-21T04:59:24Z"
+  },
+  {
+    "published_utc": "2026-02-21",
+    "retrieved_date": "2026-02-21",
+    "retrieved_utc": "2026-02-21T04:58:38Z",
+    "source": "NYTimes_World",
+    "title": "Palestinian-American Teenager Killed in West Bank Is Laid to Rest",
+    "url": "https://www.nytimes.com/2026/02/20/world/middleeast/palestinian-american-teenager-killed-west-bank.html",
+    "id_key": "97eaf31a7ce1d938c6125afe2157017339999c094092885543e3d2751ee13796",
+    "summary": "Nasrallah Abu Siyam, 19, was shot dead by an Israeli settler, according to a witness and Palestinian health officials, amid rising violent settler attacks in the Israeli-occupied territory.",
+    "ingested_utc": "2026-02-21T04:58:38Z"
+  },
+  {
+    "published_utc": "2026-02-21",
+    "retrieved_date": "2026-02-21",
+    "retrieved_utc": "2026-02-21T04:57:55Z",
+    "source": "Arbitrum_Nitro_Releases",
+    "title": "v3.9.6-rc.2",
+    "url": "https://github.com/OffchainLabs/nitro/releases/tag/v3.9.6-rc.2",
+    "id_key": "ebbc764a827b17ae98d99fc0d71396eea15e87f0468f88440685de7a7793690f",
+    "summary": "This release is available as a Docker Image on Docker Hub at offchainlabs/nitro-node:TBD This Docker image specifies default flags in its entrypoint which should be replicated if you're overriding the entrypoint: /usr/local/bin/nitro --validation.wasm.allowed-wasm-module-roots /home/user/nitro-legacy/machines,/home/user/target/machines Important for any chains still on ArbOS40: If you're running a validator without a split validation server (this will be true of most validators), you should instead use the image offchainlabs/nitro-node:TBD-validator which has the extra script /usr/local/bin/split-val-entry.sh as the default entrypoint (no need to override the default entrypoint). This will run both v3.9.5 and v3.7.6 validator workers for you. If you are using a split validator, you do not want to use -validator image, you need to run a validator worker on v3.7.6 as well as a worker for v3.9.5 User-facing changes Enable consensus v51.1 for v3.9.x: #4420 Full Changelog : v3.9.6-rc.1...v3.9.6-rc.2",
+    "ingested_utc": "2026-02-21T04:57:55Z"
+  },
+  {
+    "published_utc": "2026-02-21",
+    "retrieved_date": "2026-02-21",
     "retrieved_utc": "2026-02-21T03:34:51Z",
     "source": "Nikkei_Asia_Top",
     "title": "Southeast Asian exporters seen as 'net winners' from Trump tariff ruling",
@@ -537,6 +570,17 @@
     "id_key": "600273be786a8e99f0cad1348c40a8cfab1f0c8e0be682fdd7fcf043d356a8a6",
     "summary": "President calls decision a ‘disgrace to the nation’ while praising three justices who dissented US politics live – latest updates Donald Trump on Friday railed against the supreme court justices who blocked his use of tariffs, calling the decision a “disgrace to the nation”, and later signed documents imposing a 10% tariff on all countries. Trump said he would immediately sign an order increasing tariffs globally by 10% under section 122 of the Trade Act of 1974 and will begin investigations of unfair trade practices allowing further tariffs. He asserted that he had the authority to impose additional tariffs under existing statutes without congressional approval. Continue reading...",
     "ingested_utc": "2026-02-21T01:08:10Z"
+  },
+  {
+    "published_utc": "2026-02-20",
+    "retrieved_date": "2026-02-21",
+    "retrieved_utc": "2026-02-21T04:56:33Z",
+    "source": "Guardian_World",
+    "title": "Tactical, influential and mad about Rupert: Anna Murdoch-Mann remembered after her death aged 81",
+    "url": "https://www.theguardian.com/us-news/2026/feb/20/anna-murdoch-mann-dies",
+    "id_key": "cb2e50ac25938e0a262da5dc264fd008feca32c25b1e8fef8ef6573f5bc90fce",
+    "summary": "Philanthropist and mother of Elisabeth, James and Lachlan Murdoch died at home in Palm Beach, Florida The author and philanthropist Anna Murdoch-Mann, the ex-wife of the Australian media tycoon Rupert Murdoch, died at her home in Palm Beach, Florida, on Tuesday. She was 81. Murdoch-Mann’s death was reported Friday by the New York Post , one of her ex-husband’s media properties. Continue reading...",
+    "ingested_utc": "2026-02-21T04:56:33Z"
   },
   {
     "published_utc": "2026-02-20",
@@ -10954,49 +10998,5 @@
     "id_key": "6f23579f4fb1f2445dfaae5b77c6f1997a486bcccd109d8f66e9206c9edac48e",
     "summary": "British and French activists write to Air France, AlbaStar, Titan and Corendon airlines over ‘shameful involvement’ Campaigners have urged airlines deporting asylum seekers to France as part of the UK’s controversial “one in, one out” scheme to stop facilitating the “cruel and forced deportations”. Letters have been sent by 28 refugee and human rights NGOs on both sides of the Channel to four airlines believed to be involved with deportation flights – Air France, Titan airways, AlbaStar airlines and Corendon airlines – urging them to halt what signatories call “shameful involvement” with the flights. Continue reading...",
     "ingested_utc": "2026-02-19T12:41:23Z"
-  },
-  {
-    "published_utc": "2026-02-19",
-    "retrieved_date": "2026-02-19",
-    "retrieved_utc": "2026-02-19T12:40:00Z",
-    "source": "Unchained",
-    "title": "OpenAI and Paradigm Launch EVMbench to Stress Test AI on Smart Contract Security",
-    "url": "https://unchainedcrypto.com/openai-and-paradigm-launch-evmbench-to-test-ai-on-smart-contract-exploits/",
-    "id_key": "faefbb74d078b7f0cf13266940a8f5cf76249c47de2dd1112a66b0e71818bd32",
-    "summary": "The post OpenAI and Paradigm Launch EVMbench to Stress Test AI on Smart Contract Security appeared first on Unchained .",
-    "ingested_utc": "2026-02-19T12:40:00Z"
-  },
-  {
-    "published_utc": "2026-02-19",
-    "retrieved_date": "2026-02-19",
-    "retrieved_utc": "2026-02-19T12:40:00Z",
-    "source": "Unchained",
-    "title": "Base Moves to Independent Stack, Scaling Back Reliance on Optimism",
-    "url": "https://unchainedcrypto.com/coinbases-base-shifts-away-from-op-stack-in-major-layer-2-strategy-pivot/",
-    "id_key": "920c7491daaedc4a9668de1640207a53fd9ba536c264bb5ae05f0cddb8cf5df8",
-    "summary": "The post Base Moves to Independent Stack, Scaling Back Reliance on Optimism appeared first on Unchained .",
-    "ingested_utc": "2026-02-19T12:40:00Z"
-  },
-  {
-    "published_utc": "2026-02-19",
-    "retrieved_date": "2026-02-19",
-    "retrieved_utc": "2026-02-19T12:39:58Z",
-    "source": "CryptoNews",
-    "title": "Solana Faces $870 Million Token Unlock – What It Means for SOL Price",
-    "url": "https://cryptonews.com/news/solana-faces-870-million-token-unlock-impact/",
-    "id_key": "d7fcc0de3a2502f0a7fa586615381033ce934999e5d331a0e62edb2d6b3ac923",
-    "summary": "Solana Faces $870M Token Unlock – SOL Price Impact Ahead The post Solana Faces $870 Million Token Unlock – What It Means for SOL Price appeared first on Cryptonews .",
-    "ingested_utc": "2026-02-19T12:39:58Z"
-  },
-  {
-    "published_utc": "2026-02-19",
-    "retrieved_date": "2026-02-19",
-    "retrieved_utc": "2026-02-19T12:39:58Z",
-    "source": "CoinJournal",
-    "title": "Cardano (ADA) flashes technical reversal signals following Coinbase integration",
-    "url": "https://coinjournal.net/news/cardano-ada-flashes-technical-reversal-signals-following-coinbase-integration/",
-    "id_key": "341c9e67953607830854b7932362542abbb991da18ba64c4dff7672a7ab0ff76",
-    "summary": "Coinbase has enabled ADA as collateral, boosting liquidity without selling. Inverse head-and-shoulders pattern hints at a potential bullish reversal. Whale accumulation strengthens confidence in ADA’s near-term outlook. After the recent surge from around $0.24, Cardano (ADA) has struggled around the $0.27–$0.28 range for several weeks now. However, recent developments and chart patterns signal a possible […] The post Cardano (ADA) flashes technical reversal signals following Coinbase integration appeared first on CoinJournal .",
-    "ingested_utc": "2026-02-19T12:39:58Z"
   }
 ]
