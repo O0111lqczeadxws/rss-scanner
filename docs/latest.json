@@ -2,6 +2,39 @@
   {
     "published_utc": "2026-02-21",
     "retrieved_date": "2026-02-21",
+    "retrieved_utc": "2026-02-21T09:54:44Z",
+    "source": "HackerNews_Top",
+    "title": "LibreOffice blasts OnlyOffice for working with Microsoft to lock users in",
+    "url": "https://www.neowin.net/news/libreoffice-blasts-fake-open-source-onlyoffice-for-working-with-microsoft-to-lock-users-in/",
+    "id_key": "d5e27de4c7025c30d44e17c0f97e36b6153c7cada6d2732ff1440d9748eb11cd",
+    "summary": "Comments",
+    "ingested_utc": "2026-02-21T09:54:44Z"
+  },
+  {
+    "published_utc": "2026-02-21",
+    "retrieved_date": "2026-02-21",
+    "retrieved_utc": "2026-02-21T09:53:59Z",
+    "source": "FT_Home",
+    "title": "The Supreme Court’s tariff blow to Trump",
+    "url": "https://www.ft.com/content/8eaa3ec9-ca38-4f9e-aeb9-026e5192d000",
+    "id_key": "e95440d8376a0fac1e878d9853dbd824d6fc516386fe77fa31ec925267ea6f8a",
+    "summary": "Uncertainty will linger as the president tests alternative legal options",
+    "ingested_utc": "2026-02-21T09:53:59Z"
+  },
+  {
+    "published_utc": "2026-02-21",
+    "retrieved_date": "2026-02-21",
+    "retrieved_utc": "2026-02-21T09:53:46Z",
+    "source": "NYTimes_Business",
+    "title": "Trump Doubles Down on Closing Tax Loophole on Cheap Imports",
+    "url": "https://www.nytimes.com/2026/02/21/business/trump-deminimis-loophole-closed.html",
+    "id_key": "d39daed12a9e4c1236ca304a001d51499aa07ddc171b43c6cf80485618fb0e9f",
+    "summary": "The exemption was shut down last year by President Trump based, in part, on the same legal grounds as the tariffs that were invalidated by the Supreme Court.",
+    "ingested_utc": "2026-02-21T09:53:46Z"
+  },
+  {
+    "published_utc": "2026-02-21",
+    "retrieved_date": "2026-02-21",
     "retrieved_utc": "2026-02-21T09:25:05Z",
     "source": "HackerNews_Top",
     "title": "I Verified My LinkedIn Identity. Here's What I Handed Over",
@@ -10965,38 +10998,5 @@
     "id_key": "8a1fa3cab149cd9a2b141dfe8963efeb1d3eccc3de9d7e4921d4335fcb06bbd9",
     "summary": "The association, which began in 1999, cost the former Prince Andrew his royal titles and status, and his reputation before his arrest.",
     "ingested_utc": "2026-02-19T13:57:49Z"
-  },
-  {
-    "published_utc": "2026-02-19",
-    "retrieved_date": "2026-02-19",
-    "retrieved_utc": "2026-02-19T13:57:49Z",
-    "source": "NYTimes_World",
-    "title": "Here’s what the police said about the arrest.",
-    "url": "https://www.nytimes.com/live/2026/02/19/world/uk-prince-andrew-arrest-epstein/heres-the-police-statement-on-the-arrest",
-    "id_key": "d39bc2c66f6132300985f93c307257365fb6527fb94d22bd5fe505122ca95b66",
-    "summary": "",
-    "ingested_utc": "2026-02-19T13:57:49Z"
-  },
-  {
-    "published_utc": "2026-02-19",
-    "retrieved_date": "2026-02-19",
-    "retrieved_utc": "2026-02-19T13:57:48Z",
-    "source": "NYTimes_Business",
-    "title": "Jittery Markets Seek an Iran ‘Off-Ramp’",
-    "url": "https://www.nytimes.com/2026/02/19/business/dealbook/markets-oil-iran.html",
-    "id_key": "5a6a4205366dbf790095275936b1a94314f0a29f5c2dd14333994031e373675b",
-    "summary": "Oil prices spiked and stocks fell as tensions between Washington and Tehran unnerved investors.",
-    "ingested_utc": "2026-02-19T13:57:48Z"
-  },
-  {
-    "published_utc": "2026-02-19",
-    "retrieved_date": "2026-02-19",
-    "retrieved_utc": "2026-02-19T13:57:42Z",
-    "source": "MarketWatch_Bulletins",
-    "title": "Etsy on track for 20% rally after sale of Depop unit to eBay",
-    "url": "https://www.marketwatch.com/bulletins/redirect/go?g=513df70a-a9a1-44d0-b4b3-ab9daf2d2a51&mod=mw_rss_bulletins",
-    "id_key": "2676a533a440f85ff6cf39f8ba96b0701a2dded32fdebe47d1dfebd0e97b8484",
-    "summary": "",
-    "ingested_utc": "2026-02-19T13:57:42Z"
   }
 ]
