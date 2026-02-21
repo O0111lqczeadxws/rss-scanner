@@ -2,6 +2,28 @@
   {
     "published_utc": "2026-02-21",
     "retrieved_date": "2026-02-21",
+    "retrieved_utc": "2026-02-21T08:00:24Z",
+    "source": "AlJazeera_All",
+    "title": "Protesters shoot fireworks at Albania prime minister’s office",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/2/21/protesters-shoot-fireworks-at-albania-prime-ministers-office?traffic_source=rss",
+    "id_key": "9b04f7a3341ad07fb55bb3a09acca372281a59c735821d52460234f5d6b9b1e2",
+    "summary": "Police confronted protesters in Albania’s capital Tirana after demonstrators shot fireworks and threw petrol bombs.",
+    "ingested_utc": "2026-02-21T08:00:24Z"
+  },
+  {
+    "published_utc": "2026-02-21",
+    "retrieved_date": "2026-02-21",
+    "retrieved_utc": "2026-02-21T07:59:44Z",
+    "source": "NYTimes_World",
+    "title": "Gisèle Pelicot Survived Mass Rape. Now She’s Looking to the Future.",
+    "url": "https://www.nytimes.com/2026/02/21/gisele-pelicot-interview-hymn-to-life.html",
+    "id_key": "e76a13e09f045b06f8fbedbc507c96f0a543793a6ba860ebd83d24a0711434dc",
+    "summary": "Gisèle Pelicot stayed silent after dozens of men were convicted of raping her. Now, Ms. Pelicot is finding peace by publicizing her ordeal and explaining how she survived it.",
+    "ingested_utc": "2026-02-21T07:59:44Z"
+  },
+  {
+    "published_utc": "2026-02-21",
+    "retrieved_date": "2026-02-21",
     "retrieved_utc": "2026-02-21T07:35:36Z",
     "source": "CryptoNews",
     "title": "Bitcoin, Ether Hold Strong as Trump Announces Additional Universal 10% Tariff",
@@ -10976,27 +10998,5 @@
     "id_key": "8044f4e32fb9bab98c0dfdfc6a29bbe2ccf61b06389ffca27481acd41b05757d",
     "summary": "Deal agreed to acquire British secondhand fashion resale app from Etsy as eBay attempts to fend off Amazon The online retailer eBay has agreed to buy the British secondhand fashion resale app Depop from Etsy for about $1.2bn (£890m) in cash, as eBay targets younger fashion-loving consumers. The deal comes at a time when secondhand marketplaces continue to soar in popularity , especially among gen Z shoppers – born between 1997 and 2012 – amid a squeeze on household incomes and concerns about sustainability in fashion. Continue reading...",
     "ingested_utc": "2026-02-19T13:55:38Z"
-  },
-  {
-    "published_utc": "2026-02-19",
-    "retrieved_date": "2026-02-19",
-    "retrieved_utc": "2026-02-19T13:55:36Z",
-    "source": "BBC_World",
-    "title": "Eight skiers found dead after California avalanche",
-    "url": "https://www.bbc.com/news/articles/cvg19dp4vxgo?at_medium=RSS&at_campaign=rss",
-    "id_key": "206e7275d50fe7f9708a35dfb0a707fd7ddb70f30e87aee555fc2733b12878a9",
-    "summary": "Fifteen skiers went missing on Tuesday following a massive avalanche in California's Lake Tahoe region. One person remains missing but is presumed dead.",
-    "ingested_utc": "2026-02-19T13:55:36Z"
-  },
-  {
-    "published_utc": "2026-02-19",
-    "retrieved_date": "2026-02-19",
-    "retrieved_utc": "2026-02-19T12:42:36Z",
-    "source": "HackerNews_Top",
-    "title": "Show HN: A physically-based GPU ray tracer written in Julia",
-    "url": "https://makie.org/website/blogposts/raytracing/",
-    "id_key": "b5991a7202ea7f643beeede28e142c29d8306e41b9c78d168e65478dbf3ecf2d",
-    "summary": "Comments",
-    "ingested_utc": "2026-02-19T12:42:36Z"
   }
 ]
