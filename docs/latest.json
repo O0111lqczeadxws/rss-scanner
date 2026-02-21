@@ -2,6 +2,28 @@
   {
     "published_utc": "2026-02-21",
     "retrieved_date": "2026-02-21",
+    "retrieved_utc": "2026-02-21T21:41:03Z",
+    "source": "FinancialPost_Business",
+    "title": "Germany About to Find Out Whether Its Recovery Is Real",
+    "url": "https://financialpost.com/pmn/business-pmn/germany-about-to-find-out-whether-its-recovery-is-real",
+    "id_key": "ca4b4f47c507d0e6344f72f0e77e6d29d2f7c14a36298d18f5cfa8952f4338dd",
+    "summary": "Data from Germany in the coming days will shed light on whether Europe’s largest economy is on the cusp of a meaningful revival or still being hampered by Donald Trump’s tariffs and its own chronic shortcomings.",
+    "ingested_utc": "2026-02-21T21:41:03Z"
+  },
+  {
+    "published_utc": "2026-02-21",
+    "retrieved_date": "2026-02-21",
+    "retrieved_utc": "2026-02-21T21:38:16Z",
+    "source": "Guardian_World",
+    "title": "New York City gets first blizzard warning in nine years as area hunkers down",
+    "url": "https://www.theguardian.com/us-news/2026/feb/21/new-york-city-blizzard-warning",
+    "id_key": "9871b95e8139c5e48c812a80b99cb84a95965ca865e2070947e31ed18e90e854",
+    "summary": "New Jersey and other east coast areas brace for storm threatening more than 1ft of snow and 55mph wind gusts Blizzard warnings were issued Saturday for New York City, New Jersey and coastal communities along the east coast for a late-winter storm set to arrive on Sunday that could dump more than a foot of snow and bring wind gusts of more than 55mph. The blizzard warning for New York City is the first since 2017 and comes as parts of the city are still dotted with hillocks of ice – leftovers from the previous major snowstorm nearly a month ago. Continue reading...",
+    "ingested_utc": "2026-02-21T21:38:16Z"
+  },
+  {
+    "published_utc": "2026-02-21",
+    "retrieved_date": "2026-02-21",
     "retrieved_utc": "2026-02-21T21:17:35Z",
     "source": "TheVerge_All",
     "title": "Arturia’s FX Collection 6 adds two new effects and a $99 intro version",
@@ -10976,27 +10998,5 @@
     "id_key": "667437981e91ff90a1e0e24a1ec2a6473947ad47f986abe46c4705f2ce1df9fd",
     "summary": "Investment group’s decision sends shivers through industry",
     "ingested_utc": "2026-02-19T17:16:05Z"
-  },
-  {
-    "published_utc": "2026-02-19",
-    "retrieved_date": "2026-02-19",
-    "retrieved_utc": "2026-02-19T17:16:05Z",
-    "source": "FT_Markets",
-    "title": "Klarna stock sinks 25% after bad loan costs soar",
-    "url": "https://www.ft.com/content/dbe5de32-1274-4adc-9e14-c05823ca9d76",
-    "id_key": "02ae4a09d06f09cc0bb55ce7c784d6e06d0d817ccc926a628cb5959e06521bec",
-    "summary": "Swedish fintech’s share price has plummeted by two-thirds since September IPO",
-    "ingested_utc": "2026-02-19T17:16:05Z"
-  },
-  {
-    "published_utc": "2026-02-19",
-    "retrieved_date": "2026-02-19",
-    "retrieved_utc": "2026-02-19T17:16:04Z",
-    "source": "FT_Home",
-    "title": "Klarna stock collapses after sinking to $273mn loss",
-    "url": "https://www.ft.com/content/dbe5de32-1274-4adc-9e14-c05823ca9d76",
-    "id_key": "1fe45df78900ab19854236c99403babce1b75c432b714343e5caeb37df683e92",
-    "summary": "Swedish fintech’s share price has plummeted by two-thirds since September IPO",
-    "ingested_utc": "2026-02-19T17:16:04Z"
   }
 ]
