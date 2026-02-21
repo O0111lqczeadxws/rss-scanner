@@ -2,6 +2,39 @@
   {
     "published_utc": "2026-02-21",
     "retrieved_date": "2026-02-21",
+    "retrieved_utc": "2026-02-21T20:18:01Z",
+    "source": "HackerNews_Top",
+    "title": "I verified my LinkedIn identity. Here's what I handed over",
+    "url": "https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/",
+    "id_key": "61da63c6278d8d2fafd1dd3fabce4fb1e1513064ca17fa81026d733d7d085e5a",
+    "summary": "Comments",
+    "ingested_utc": "2026-02-21T20:18:01Z"
+  },
+  {
+    "published_utc": "2026-02-21",
+    "retrieved_date": "2026-02-21",
+    "retrieved_utc": "2026-02-21T20:17:45Z",
+    "source": "AlJazeera_All",
+    "title": "NASA rules out March launch for manned moon mission over technical issues",
+    "url": "https://www.aljazeera.com/news/2026/2/21/nasa-rules-out-march-launch-for-manned-moon-mission-over-technical-issues?traffic_source=rss",
+    "id_key": "fcffadd804f41056531d2c10b36bc10e6c7380e336f605e5d0ac48e9a159c8fc",
+    "summary": "Artemis 2 is a precursor to the US space agency's planned astronaut moon landing with Artemis III scheduled for 2028.",
+    "ingested_utc": "2026-02-21T20:17:45Z"
+  },
+  {
+    "published_utc": "2026-02-21",
+    "retrieved_date": "2026-02-21",
+    "retrieved_utc": "2026-02-21T20:14:58Z",
+    "source": "BBC_Business",
+    "title": "Trump says he will increase his new global tariffs to 15%",
+    "url": "https://www.bbc.com/news/articles/cn8z48xwqn3o?at_medium=RSS&at_campaign=rss",
+    "id_key": "68f08f8b7a9937f97a9be780acc1516695a409e8424c87652973d4bd97751a91",
+    "summary": "After most of his tariffs were outlawed on Friday, Trump announced new global tariffs of 10% - which he says he has now increased to 15%.",
+    "ingested_utc": "2026-02-21T20:14:58Z"
+  },
+  {
+    "published_utc": "2026-02-21",
+    "retrieved_date": "2026-02-21",
     "retrieved_utc": "2026-02-21T19:47:16Z",
     "source": "FinancialPost_Business",
     "title": "Trump Boosts New Tariff Rate to 15% a Day After Announcing 10%",
@@ -10964,39 +10997,6 @@
     "url": "https://cryptobriefing.com/gemini-3-1-pro-enhanced-capabilities/",
     "id_key": "de2722b5bf66b088b8cf60a8b7bf117c780e149d089c1b3238c1f7a2be9ee57d",
     "summary": "Gemini 3.1 Pro launches with advanced reasoning, scoring 77.1% on ARC-AGI-2, offering enhanced multimodal capabilities. The post Google launches Gemini 3.1 Pro with major reasoning upgrade appeared first on Crypto Briefing .",
-    "ingested_utc": "2026-02-19T17:14:02Z"
-  },
-  {
-    "published_utc": "2026-02-19",
-    "retrieved_date": "2026-02-19",
-    "retrieved_utc": "2026-02-19T17:14:02Z",
-    "source": "CryptoBriefing",
-    "title": "Chris Dixon: AI and crypto will redefine creative economies | a16z Live",
-    "url": "https://cryptobriefing.com/chris-dixon-ai-and-crypto-will-redefine-creative-economies-a16z-live/",
-    "id_key": "551380aa19fcc69caab032a4445b4f6b573e2e85a6dcae861dfb78955d87ec06",
-    "summary": "The intersection of AI and crypto is poised to redefine economic models for creatives. Technology waves often come in pairs or triples, reinforcing each other and creating new opportunities. There is concern over the trend towards closed-source AI, driven by business interests rather than safety. The post Chris Dixon: AI and crypto will redefine creative economies | a16z Live appeared first on Crypto Briefing .",
-    "ingested_utc": "2026-02-19T17:14:02Z"
-  },
-  {
-    "published_utc": "2026-02-19",
-    "retrieved_date": "2026-02-19",
-    "retrieved_utc": "2026-02-19T17:14:02Z",
-    "source": "CryptoBriefing",
-    "title": "Uniswap seeks approval for fee rollout across eight chains and remaining v3 pools",
-    "url": "https://cryptobriefing.com/uniswap-fee-expansion-eight-chains/",
-    "id_key": "37c4d305b7c99c0f1c93616aa01f0e767d939c0da686e15447e5a728f2a5a122",
-    "summary": "Uniswap proposes expanding protocol fees to eight chains and all v3 pools, routing revenue to Ethereum for automated UNI burns. The post Uniswap seeks approval for fee rollout across eight chains and remaining v3 pools appeared first on Crypto Briefing .",
-    "ingested_utc": "2026-02-19T17:14:02Z"
-  },
-  {
-    "published_utc": "2026-02-19",
-    "retrieved_date": "2026-02-19",
-    "retrieved_utc": "2026-02-19T17:14:02Z",
-    "source": "CryptoBriefing",
-    "title": "Heidi Crebo-Rediker: US reliance on China for strategic minerals poses national security risks, China’s state support creates competitive advantages, and innovative technologies could reshape rare earth production | Odd Lots",
-    "url": "https://cryptobriefing.com/heidi-crebo-rediker-us-reliance-on-china-for-strategic-minerals-poses-national-security-risks-chinas-state-support-creates-competitive-advantages-and-innovative-technologies-could-reshape-rare-ea/",
-    "id_key": "1e41a7160b46f45a9c7462220055ec981f1f657500bcda88e11446577d42c93b",
-    "summary": "The US faces significant vulnerabilities due to its reliance on China for strategic minerals. China's dominance in the rare earths market is a result of strategic planning and state support. US efforts to compete with China in critical minerals are hampered by scale and cost challenges. The post Heidi Crebo-Rediker: US reliance on China for strategic minerals poses national security risks, China’s state support creates competitive advantages, and innovative technologies could reshape rare earth production | Odd Lots appeared first on Crypto Briefing .",
     "ingested_utc": "2026-02-19T17:14:02Z"
   }
 ]
