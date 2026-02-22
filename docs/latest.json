@@ -2,6 +2,50 @@
   {
     "published_utc": "2026-02-22",
     "retrieved_date": "2026-02-22",
+    "retrieved_utc": "2026-02-22T05:15:03Z",
+    "source": "FT_Markets",
+    "title": "Earnings and AI fears drive ‘extreme’ churn in US stock market",
+    "url": "https://www.ft.com/content/c79f74c2-a37b-477c-ab8b-e5713665b415",
+    "id_key": "80cf3937dec2eeafd3d1dff0473303ca34a3bb661c38272062b183411e834703",
+    "summary": "Gap between large moves in individual equities and subdued index performance hits highest since global financial crisis",
+    "ingested_utc": "2026-02-22T05:15:03Z"
+  },
+  {
+    "published_utc": "2026-02-22",
+    "retrieved_date": "2026-02-22",
+    "retrieved_utc": "2026-02-22T05:14:51Z",
+    "source": "NYTimes_World",
+    "title": "Trump Looks Ahead to Summit With China’s Xi, but Tariffs and Taiwan Loom",
+    "url": "https://www.nytimes.com/2026/02/22/world/asia/trump-xi-jinping-meeting-china.html",
+    "id_key": "37cba911490168200943b28bba95fa4873a3df1f62193c98748d8a2ea16bacb3",
+    "summary": "President Trump said his planned meeting with President Xi Jinping would be a grand display, but tensions over trade and defense could dampen the mood.",
+    "ingested_utc": "2026-02-22T05:14:51Z"
+  },
+  {
+    "published_utc": "2026-02-22",
+    "retrieved_date": "2026-02-22",
+    "retrieved_utc": "2026-02-22T05:14:51Z",
+    "source": "NYTimes_World",
+    "title": "Johannes Hoesflot Klaebo Leads Norway to Record Olympic Medal Haul",
+    "url": "https://www.nytimes.com/2026/02/22/world/europe/2026-winter-olympics-klaebo-norway-epstein.html",
+    "id_key": "88339f355891a4e2a9cb822ed866d4e90ca3b19de0dc327ff5a46a6391680322",
+    "summary": "Norway, led by the cross-country skiing sensation Johannes Hoesflot Klaebo, topped the medal table for the fourth straight Winter Games.",
+    "ingested_utc": "2026-02-22T05:14:51Z"
+  },
+  {
+    "published_utc": "2026-02-22",
+    "retrieved_date": "2026-02-22",
+    "retrieved_utc": "2026-02-22T05:12:45Z",
+    "source": "Guardian_World",
+    "title": "Thailand moves to cut sugar in popular drinks amid health drive",
+    "url": "https://www.theguardian.com/world/2026/feb/22/thailand-moves-to-cut-sugar-in-popular-drinks-amid-health-drive",
+    "id_key": "21ec4d3f5788d1c2915f3d5de86f014f2281502a425d6c4937b5d4b5716e20f6",
+    "summary": "Major chains agree to halve default sweetness, but street vendors and cafes remain outside sugar tax rules A crowd of customers, holding phones aloft, watch intently as Auntie Nid mixes up her bestseller: an iced Thai tea. Condensed milk is poured into a glass, followed by three heaped tablespoons of sugar, and then freshly strained tea. The end product – a deep orange, creamy treat – is poured into a plastic bag filled with ice. Continue reading...",
+    "ingested_utc": "2026-02-22T05:12:45Z"
+  },
+  {
+    "published_utc": "2026-02-22",
+    "retrieved_date": "2026-02-22",
     "retrieved_utc": "2026-02-22T03:58:24Z",
     "source": "HackerNews_Top",
     "title": "Palantir's secret weapon isn't AI – it's Ontology. An open-source deep dive",
@@ -10954,49 +10998,5 @@
     "id_key": "00122664a98f3baf2421e623ecf252cf44f1d10af0b08f2b2389b5aa13ec23a1",
     "summary": "",
     "ingested_utc": "2026-02-19T19:12:12Z"
-  },
-  {
-    "published_utc": "2026-02-19",
-    "retrieved_date": "2026-02-19",
-    "retrieved_utc": "2026-02-19T19:12:10Z",
-    "source": "FinancialPost_Business",
-    "title": "YPF Chief Readies War Chest for Shale Push as Milei Bolsters Oil",
-    "url": "https://financialpost.com/pmn/business-pmn/ypf-chief-readies-war-chest-for-shale-push-as-milei-bolsters-oil",
-    "id_key": "ca427922e633b2a44337863f9f6f6ec7338f44c983743e25e3ef53196c1327c0",
-    "summary": "YPF SA is setting aside funds to keep spending in the fast-growing Vaca Muerta basin even if oil prices fall this year as management handpicked by libertarian President Javier Milei looks to build the state-run company into a global shale star.",
-    "ingested_utc": "2026-02-19T19:12:10Z"
-  },
-  {
-    "published_utc": "2026-02-19",
-    "retrieved_date": "2026-02-19",
-    "retrieved_utc": "2026-02-19T19:12:10Z",
-    "source": "FinancialPost_Business",
-    "title": "AI Seen Driving US Convertible Bond Sales to Another Banner Year",
-    "url": "https://financialpost.com/pmn/business-pmn/ai-seen-driving-us-convertible-bond-sales-to-another-banner-year",
-    "id_key": "c37802ed5341032fd3fca54953fd89b9ec0a996f67e5d542a6d2209283a47158",
-    "summary": "Artificial intelligence-linked companies fueled US convertible bond volume to a record haul and that trend will likely continue this year.",
-    "ingested_utc": "2026-02-19T19:12:10Z"
-  },
-  {
-    "published_utc": "2026-02-19",
-    "retrieved_date": "2026-02-19",
-    "retrieved_utc": "2026-02-19T19:12:10Z",
-    "source": "FinancialPost_Business",
-    "title": "Consolidated Energy Loan Offered at Biggest Discount Since 2023",
-    "url": "https://financialpost.com/pmn/business-pmn/consolidated-energy-loan-offered-at-biggest-discount-since-2023",
-    "id_key": "12c24f7a4d01928380ddb1d8e46c1a0f37fe6b2a46d1478e57483a155c6c6ba5",
-    "summary": "A $330 million leveraged loan to two units of methanol maker Consolidated Energy Ltd. is being marketed at what would be the biggest discount in over two years.",
-    "ingested_utc": "2026-02-19T19:12:10Z"
-  },
-  {
-    "published_utc": "2026-02-19",
-    "retrieved_date": "2026-02-19",
-    "retrieved_utc": "2026-02-19T19:12:10Z",
-    "source": "FinancialPost_Business",
-    "title": "IEA Meeting Ends Without Unity as US Pushes to Scrap Net Zero",
-    "url": "https://financialpost.com/pmn/business-pmn/iea-meeting-ends-without-unity-as-us-pushes-to-scrap-net-zero",
-    "id_key": "6436a8add3061dcc7311dd0fb4b9edf68b48ebad48135edcca88ac5ffa618c22",
-    "summary": "The conflicting positions of US President Donald Trump and major European governments came to the fore at a meeting of the west’s most important energy forecaster.",
-    "ingested_utc": "2026-02-19T19:12:10Z"
   }
 ]
