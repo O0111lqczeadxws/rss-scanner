@@ -2,6 +2,39 @@
   {
     "published_utc": "2026-02-22",
     "retrieved_date": "2026-02-22",
+    "retrieved_utc": "2026-02-22T19:46:12Z",
+    "source": "NYTimes_Business",
+    "title": "Mixed Signals Churn Stock Market Despite Recent Highs",
+    "url": "https://www.nytimes.com/2026/02/20/business/stocks-markets-mixed-signals.html",
+    "id_key": "f4e93065c8375c6d43ba23b6b42701cc4b2e4bf3ed115e922512d8670efdf8d2",
+    "summary": "Major indexes have mostly been treading water for months, as investors’ exuberance for artificial intelligence wears off.",
+    "ingested_utc": "2026-02-22T19:46:12Z"
+  },
+  {
+    "published_utc": "2026-02-22",
+    "retrieved_date": "2026-02-22",
+    "retrieved_utc": "2026-02-22T19:46:12Z",
+    "source": "NYTimes_World",
+    "title": "Iran Students Protest for Second Day Despite State Crackdown",
+    "url": "https://www.nytimes.com/2026/02/22/world/middleeast/iran-student-protests.html",
+    "id_key": "90f0f0f0a79e80c71f95fc2a5927ae5d903e831ed4f7fece0e5866d0042938ce",
+    "summary": "Student groups reported protests at universities in Iran’s two largest cities as the government grapples with domestic discontent and the threat of U.S. strikes.",
+    "ingested_utc": "2026-02-22T19:46:12Z"
+  },
+  {
+    "published_utc": "2026-02-22",
+    "retrieved_date": "2026-02-22",
+    "retrieved_utc": "2026-02-22T19:44:21Z",
+    "source": "CryptoBriefing",
+    "title": "Grant Cardone: Combining real estate with Bitcoin creates an unmatched financial asset, why unit count is crucial for revenue, and how Bitcoin enhances cash flow | The Wolf Of All Streets",
+    "url": "https://cryptobriefing.com/grant-cardone-combining-real-estate-with-bitcoin-creates-an-unmatched-financial-asset-why-unit-count-is-crucial-for-revenue-and-how-bitcoin-enhances-cash-flow-the-wolf-of-all-streets/",
+    "id_key": "84800806782d9ee90a82d3e23de979a3e2ebd855c0f199bc76b043c7ab355326",
+    "summary": "Combining real estate with Bitcoin could redefine investment strategies and boost cash flow. The post Grant Cardone: Combining real estate with Bitcoin creates an unmatched financial asset, why unit count is crucial for revenue, and how Bitcoin enhances cash flow | The Wolf Of All Streets appeared first on Crypto Briefing .",
+    "ingested_utc": "2026-02-22T19:44:21Z"
+  },
+  {
+    "published_utc": "2026-02-22",
+    "retrieved_date": "2026-02-22",
     "retrieved_utc": "2026-02-22T19:26:10Z",
     "source": "FinancialPost_Business",
     "title": "Iran-US Nuclear Talks Set to Resume in Geneva on Feb. 26",
@@ -10965,38 +10998,5 @@
     "id_key": "a29736eee801d4f734c837ac0d6038672ecb5d950915fd72d8f4a5f083fd9e96",
     "summary": "The Dow Jones Industrial Average has been around for a long time — 130 years, to be exact. It’s America’s original stock index, and despite its eccentricities (such as its inclusion of only 30 stocks), it remains one of the most-followed financial benchmarks in the world — in part due to the Dow ...",
     "ingested_utc": "2026-02-20T20:23:41Z"
-  },
-  {
-    "published_utc": "2026-02-19",
-    "retrieved_date": "2026-02-20",
-    "retrieved_utc": "2026-02-20T15:39:02Z",
-    "source": "HackerNews_Top",
-    "title": "The Popper Principle",
-    "url": "https://theamericanscholar.org/the-popper-principle/",
-    "id_key": "71a86228e8b5e5ce57c91379c2fdaf452837b6d721a5534f8d482203deb2dc35",
-    "summary": "Comments",
-    "ingested_utc": "2026-02-20T15:39:02Z"
-  },
-  {
-    "published_utc": "2026-02-19",
-    "retrieved_date": "2026-02-20",
-    "retrieved_utc": "2026-02-20T15:02:05Z",
-    "source": "TheStreet_Top",
-    "title": "Utilities pivot sounds alarm for growth stocks",
-    "url": "https://www.thestreet.com/investing/sector-model-pivot-sends-a-sobering-warning-to-tech-bulls",
-    "id_key": "d933d470ec76fcdc5d8879bb300153f9019114bde312ce3ca5183754e2884291",
-    "summary": "The S&P 500 has spent months churning between 6,700 and 7,000, but a major shift in leadership is quietly changing the market narrative. While technology dominated for years, a move into defensive sectors—specifically utilities, energy, and consumer staples—is sounding an alarm for growth ...",
-    "ingested_utc": "2026-02-20T15:02:05Z"
-  },
-  {
-    "published_utc": "2026-02-19",
-    "retrieved_date": "2026-02-20",
-    "retrieved_utc": "2026-02-20T15:02:05Z",
-    "source": "TheStreet_Top",
-    "title": "Walmart is selling a $395 luxury Seiko watch for $286 that keeps accurate time without batteries",
-    "url": "https://www.thestreet.com/deals/seiko-5-sports-automatic-orange-dial-watch-walmart-sale",
-    "id_key": "44721a3dc9dbe00b8e77c073a6b51f9d67af6f518b24d1738dada1d67b7e8071",
-    "summary": "\"The pictures do not do it justice.\"",
-    "ingested_utc": "2026-02-20T15:02:05Z"
   }
 ]
