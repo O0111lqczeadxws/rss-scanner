@@ -2,6 +2,39 @@
   {
     "published_utc": "2026-02-22",
     "retrieved_date": "2026-02-22",
+    "retrieved_utc": "2026-02-22T20:19:24Z",
+    "source": "HackerNews_Top",
+    "title": "What is a database transaction?",
+    "url": "https://planetscale.com/blog/database-transactions",
+    "id_key": "aad366840ba2816e0a4e151d77e61986e3c2ffd9fb27a7a9088dd31b84f6b388",
+    "summary": "Comments",
+    "ingested_utc": "2026-02-22T20:19:24Z"
+  },
+  {
+    "published_utc": "2026-02-22",
+    "retrieved_date": "2026-02-22",
+    "retrieved_utc": "2026-02-22T20:19:05Z",
+    "source": "AlJazeera_All",
+    "title": "The Carlson-Huckabee interview may be the wake-up call Americans needed",
+    "url": "https://www.aljazeera.com/opinions/2026/2/22/the-carlson-huckabee-interview-may-be-the-wake-up-call-americans-needed?traffic_source=rss",
+    "id_key": "07221a7e942d1c74ffa6152ea5225341e99b35bf066d09cf716ceea7c439846c",
+    "summary": "The interview brought the 'Israel first vs America first' debate to heart of the American right.",
+    "ingested_utc": "2026-02-22T20:19:05Z"
+  },
+  {
+    "published_utc": "2026-02-22",
+    "retrieved_date": "2026-02-22",
+    "retrieved_utc": "2026-02-22T20:18:25Z",
+    "source": "NYTimes_Business",
+    "title": "Trump Calls on Netflix to Oust Susan Rice From Its Board",
+    "url": "https://www.nytimes.com/2026/02/22/business/media/trump-netflix-susan-rice.html",
+    "id_key": "e6ecd79fc6a6bc952bda6f75aa82edacb589fa540b59a6072b23549f2ab80be5",
+    "summary": "The president made the attack as Netflix and Paramount Skydance face a key deadline in a bidding war for Warner Bros. Discovery.",
+    "ingested_utc": "2026-02-22T20:18:25Z"
+  },
+  {
+    "published_utc": "2026-02-22",
+    "retrieved_date": "2026-02-22",
     "retrieved_utc": "2026-02-22T19:55:23Z",
     "source": "Guardian_World",
     "title": "Washington and Tehran to hold more nuclear talks as protests reignite in Iran",
@@ -10965,38 +10998,5 @@
     "id_key": "ce5ddf2b91310e625547ec74303eb4be61237bac07aac46a1d0e64afae3ae8cf",
     "summary": "US president appears to set 10-day deadline for Iran in address to first Board of Peace meeting Authoritarians, strongmen and dictators: who is on Trump’s Board of Peace? Donald Trump will start his day in Washington for the Board of Peace meeting at the White House. He’ll then travel to Rome, Georgia , as part of his tour of the country to tout the administration’s affordability message. He’ll meet with local businesses there, and deliver remarks at 4pm ET. Continue reading...",
     "ingested_utc": "2026-02-20T01:10:05Z"
-  },
-  {
-    "published_utc": "2026-02-20",
-    "retrieved_date": "2026-02-20",
-    "retrieved_utc": "2026-02-20T01:10:05Z",
-    "source": "Guardian_World",
-    "title": "Iran deal prospects will be clear within 10 days, Trump says as military buildup grows",
-    "url": "https://www.theguardian.com/us-news/2026/feb/19/us-military-buildup-in-middle-east-intensifies-but-to-what-end",
-    "id_key": "aaae165ccccb213a6e50cca9ddd64c7373fe8db07b68fcd4db3980047097b76b",
-    "summary": "Second carrier strike group heads for region as US waits for Iran to respond after talks in Geneva Donald Trump has said it will be clear within “probably 10 days” whether he can reach a nuclear deal with Iran, as the US military buildup in the Middle East intensifies with the impending arrival of a second carrier strike group. The US president, speaking at the inaugural meeting of his Board of Peace in Washington DC, insisted Iran could not have a nuclear weapon and emphasised that “bad things will happen” if the country continued “to threaten regional stability”. Continue reading...",
-    "ingested_utc": "2026-02-20T01:10:05Z"
-  },
-  {
-    "published_utc": "2026-02-20",
-    "retrieved_date": "2026-02-20",
-    "retrieved_utc": "2026-02-20T01:10:05Z",
-    "source": "Guardian_World",
-    "title": "Roblox sued by Los Angeles over claims platform ‘makes children easy prey for pedophiles’",
-    "url": "https://www.theguardian.com/games/2026/feb/20/los-angeles-sues-roblox-la-county",
-    "id_key": "02707c711323a298eeeb2fce3a5a1fc6aef29f51a6b66efdb61fa888d5c6cf7b",
-    "summary": "LA County says the gaming company does not carry out adequate moderation and its age-verification systems are not fit for purpose, which Roblox denies Officials in Los Angeles have said they are suing Roblox, alleging the popular online platform exposes children to sexual content, exploitation and online predators. In a lawsuit, Los Angeles County said the company does not carry out adequate moderation and its age-verification systems are not fit for purpose. Continue reading...",
-    "ingested_utc": "2026-02-20T01:10:05Z"
-  },
-  {
-    "published_utc": "2026-02-19",
-    "retrieved_date": "2026-02-22",
-    "retrieved_utc": "2026-02-22T01:27:07Z",
-    "source": "HackerNews_Top",
-    "title": "Forward propagation of errors through time",
-    "url": "https://nicolaszucchet.github.io/Forward-propagation-errors-through-time/",
-    "id_key": "f871936ec950a211fb08dd6a6f084de31048c3a055e10b99f883fed016981f98",
-    "summary": "Comments",
-    "ingested_utc": "2026-02-22T01:27:07Z"
   }
 ]
